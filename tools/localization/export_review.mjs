@@ -33,7 +33,9 @@ function category(row){
   if(row.file.includes('pokedex')) return '図鑑UI';
   if(row.file==='src/item_menu.c'||row.file==='src/item_use.c') return 'バッグ・道具使用';
   if(row.file==='data/text/save.inc') return 'セーブ';
-  if(row.file.startsWith('data/maps/')) return 'ムネン村の会話・看板';
+  if(row.file==='src/data/speaker_names.h') return '話者名';
+  if(row.file.startsWith('data/maps/')) return `会話・看板（${row.file.split('/')[2]}）`;
+  if(row.file.startsWith('data/scripts/')||row.file.startsWith('data/text/')&&row.file!=='data/text/save.inc') return '共通会話';
   if(row.file==='src/main_menu.c'||row.file==='src/main_menu_bw.c') return '開始メニュー';
   if(row.file==='src/start_menu.c'||row.target?.startsWith('gText_Menu')) return 'スタートメニュー';
   if(row.file==='src/data/script_menu.h') return 'スクリプト選択肢';

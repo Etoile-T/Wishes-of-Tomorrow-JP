@@ -1,0 +1,84 @@
+b5d4a092ee5eb11f Choose {PKMN} to fuse with.
+44ed5943a3d77c57 {STR_VAR_1} can't be switched\nout!{PAUSE_UNTIL_PRESS}
+4f64129d7bc8cac6 {STR_VAR_1} is already\nin battle!{PAUSE_UNTIL_PRESS}
+a12395ea0442f26b {STR_VAR_1} has already been\nselected.{PAUSE_UNTIL_PRESS}
+489d7ce1d4bf0772 {STR_VAR_1} has no energy\nleft to battle!{PAUSE_UNTIL_PRESS}
+fbe4662492c71717 You can't switch {STR_VAR_1}'s\nPOKéMON with one of yours!{PAUSE_UNTIL_PRESS}
+841744a1d93c9bdb This can't be used until a new\nBADGE is obtained.{PAUSE_UNTIL_PRESS}
+c46039eb76d837e2 No more than {STR_VAR_1} POKéMON\nmay enter.{PAUSE_UNTIL_PRESS}
+e3690545127ea102 Send the removed MAIL to\nyour PC?
+3a1313a5f5e78ab5 The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}
+55e2c9617addf656 Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}
+33a5340c459f2313 If the MAIL is removed, the\nmessage will be lost. Okay?
+504254e37cb9546f MAIL must be removed before\nholding an item.{PAUSE_UNTIL_PRESS}
+c950c10d47ee0aae {STR_VAR_1} was given the\n{STR_VAR_2} to hold.{PAUSE_UNTIL_PRESS}
+a87980e840e8d360 {STR_VAR_1} is already holding\none {STR_VAR_2}.\pWould you like to switch the\ntwo items?
+35e542d5eef8a347 {STR_VAR_1} isn't holding\nanything.{PAUSE_UNTIL_PRESS}
+5923f1561d08175b Received the {STR_VAR_2}\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}
+c0321912d54c0f65 MAIL was taken from the\nPOKéMON.{PAUSE_UNTIL_PRESS}
+189fd2aad6803ea6 The {STR_VAR_2} was taken and\nreplaced with the {STR_VAR_1}.{PAUSE_UNTIL_PRESS}
+ddf5790a0479e4d0 This POKéMON is holding an\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}
+060e5b14eb691cd9 MAIL was transferred from\nthe MAILBOX.{PAUSE_UNTIL_PRESS}
+742b131711bae306 The BAG is full. The POKéMON's\nitem could not be removed.{PAUSE_UNTIL_PRESS}
+a9fa48d6cf207808 {STR_VAR_1} learned\n{STR_VAR_2}!
+981be87c6b964f33 {STR_VAR_1} learned\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}
+b5169fd2897ffc71 {STR_VAR_1} and {STR_VAR_2}\nare not compatible.\p{STR_VAR_2} can't be\nlearned.{PAUSE_UNTIL_PRESS}
+fe1d38f753bd4f5c {STR_VAR_1} wants to learn the\nmove {STR_VAR_2}.\pHowever, {STR_VAR_1} already\nknows four moves.\pShould a move be deleted and\nreplaced with {STR_VAR_2}?
+e44d9c9a970c8b3b Stop trying to teach\n{STR_VAR_2}?
+81b432ea98d21b56 {STR_VAR_1} did not learn the\nmove {STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+9a5cc14dba878604 Which move should be forgotten?{PAUSE_UNTIL_PRESS}
+416b05fbc93999c6 1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p{STR_VAR_1} forgot how to\nuse {STR_VAR_2}.\pAnd…{PAUSE_UNTIL_PRESS}
+307999509100f00e {STR_VAR_1} already knows\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+25fafc23a65a5bfc {STR_VAR_1}'s HP was restored\nby {STR_VAR_2} point(s).{PAUSE_UNTIL_PRESS}
+e2a104d6eb319503 {STR_VAR_1} was cured of its\npoisoning.{PAUSE_UNTIL_PRESS}
+e7172129dfb5fc2d {STR_VAR_1} was cured of\nparalysis.{PAUSE_UNTIL_PRESS}
+2241ed0fba709baf {STR_VAR_1} woke up.{PAUSE_UNTIL_PRESS}
+09ef119e2bbb5409 {STR_VAR_1}'s burn was healed.{PAUSE_UNTIL_PRESS}
+293943a4a370f106 {STR_VAR_1}'s frostbite was healed.{PAUSE_UNTIL_PRESS}
+88dd3c9905dae449 {STR_VAR_1} was thawed out.{PAUSE_UNTIL_PRESS}
+135877ea62b00dc9 PP was restored.{PAUSE_UNTIL_PRESS}
+bec2f9cfb52f438d {STR_VAR_1} regained health.{PAUSE_UNTIL_PRESS}
+a679b3353f38a777 {STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}
+dfe5baa8e31761a6 {STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}
+61efe7e137ca501b {STR_VAR_1} was elevated to\nLv. {STR_VAR_2}.
+97fea9d9a2572f91 {STR_VAR_1} gained {STR_VAR_2} Exp. Points!{PAUSE_UNTIL_PRESS}
+ef9e1ab5305d3def {STR_VAR_1} gained {STR_VAR_2} Exp. Points\nand was elevated to Lv. {STR_VAR_3}!
+82c3e661a85935d2 {STR_VAR_1}'s base {STR_VAR_2}\nstat was raised.{PAUSE_UNTIL_PRESS}
+12d3e2a8dd10f615 {STR_VAR_1} turned friendly.\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}
+4fd145e769e23ab6 {STR_VAR_1} adores you!\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}
+5e25468c28b648b9 {STR_VAR_1} turned friendly.\nThe base {STR_VAR_2} can't fall!{PAUSE_UNTIL_PRESS}
+92fa54136e55ba2b {STR_VAR_1} snapped out of its\nconfusion.{PAUSE_UNTIL_PRESS}
+3033f1bd38e0d520 {STR_VAR_1} got over its\ninfatuation.{PAUSE_UNTIL_PRESS}
+c999ca409094721d {STR_VAR_1} transformed!{PAUSE_UNTIL_PRESS}
+92a94d883b2f9de5 Do what with this {PKMN}?
+73d4eed4c6948935 {STR_VAR_1} POKéMON are needed.
+78c6fd98793fdc6d POKéMON can't be the same.
+e49b263a14d92c6c The current is much too fast!
+e7b8fbe512b2972a {STR_VAR_1}'s {STR_VAR_2} and\n
+352a153f3a6eb159 {STR_VAR_1}'s {STR_VAR_2} were swapped!{PAUSE_UNTIL_PRESS}
+311b21793aef2901 Let's enjoy cycling!
+6e9636ba93f7acc5 {STR_VAR_1} is already holding\none {STR_VAR_2}.
+3763dce8438f50bc Order which\nappliance?
+226e6b0f89802786 That POKéMON can't participate.{PAUSE_UNTIL_PRESS}
+144f75c339f47654 Return to the WAITING ROOM?
+5cdced04e4a0105f Want to escape from here and return\nto {STR_VAR_1}?
+a45a92b8bf3f57c4 Want to return to the healing spot\nused last in {STR_VAR_1}?
+7e419f4248b23c01 That's your only\nPOKéMON for battle.
+634a6af11572b939 That POKéMON can't be traded\nnow.
+ad5448be02f3b43f That POKéMON can't be traded.
+f41913ecb3a23499 An EGG can't be traded now.
+52555f2da7323498 The other TRAINER's POKéMON\ncan't be traded now.
+5bc97ae1887a1dda The other TRAINER can't accept\nthat POKéMON now.
+9bd3f64de63ead14 You can't trade with that\nTRAINER now.
+f2cc28aa1296041c That isn't the type of POKéMON\nthat the other TRAINER wants.
+02f9df9afe2451f3 That isn't an EGG.
+d6009883d79ea8dd OT/
+2935261662a5e2d4 TYPE/
+51d3746ba867a6d2 Very soft
+c31cd391d95b73fd Soft
+885cc0ad70cbbc8c Hard
+7f706349861110bd Very hard
+8477fd7d55769b0e Super hard
+58e6da39c9161776 SIZE /
+5bdda0e578ca2d84 FIRM /
+88316cc0d950000d BERRY TAG

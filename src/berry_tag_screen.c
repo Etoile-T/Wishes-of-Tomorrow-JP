@@ -145,11 +145,11 @@ static const struct WindowTemplate sWindowTemplates[] =
 static const u8 *const sBerryFirmnessStrings[] =
 {
     [BERRY_FIRMNESS_UNKNOWN]    = COMPOUND_STRING("???"),
-    [BERRY_FIRMNESS_VERY_SOFT]  = COMPOUND_STRING("Very soft"),
-    [BERRY_FIRMNESS_SOFT]       = COMPOUND_STRING("Soft"),
-    [BERRY_FIRMNESS_HARD]       = COMPOUND_STRING("Hard"),
-    [BERRY_FIRMNESS_VERY_HARD]  = COMPOUND_STRING("Very hard"),
-    [BERRY_FIRMNESS_SUPER_HARD] = COMPOUND_STRING("Super hard")
+    [BERRY_FIRMNESS_VERY_SOFT]  = COMPOUND_STRING("{JPN}とてもやわらかい{ENG}"),
+    [BERRY_FIRMNESS_SOFT]       = COMPOUND_STRING("{JPN}やわらかい{ENG}"),
+    [BERRY_FIRMNESS_HARD]       = COMPOUND_STRING("{JPN}かたい{ENG}"),
+    [BERRY_FIRMNESS_VERY_HARD]  = COMPOUND_STRING("{JPN}とてもかたい{ENG}"),
+    [BERRY_FIRMNESS_SUPER_HARD] = COMPOUND_STRING("{JPN}ものすごくかたい{ENG}")
 };
 
 // this file's functions
@@ -174,11 +174,11 @@ static void Task_DisplayAnotherBerry(u8 taskId);
 static void TryChangeDisplayedBerry(u8 taskId, s8 toMove);
 static void HandleBagCursorPositionChange(s8 toMove);
 
-static const u8 sText_SizeSlash[] = _("SIZE /");
-static const u8 sText_FirmSlash[] = _("FIRM /");
+static const u8 sText_SizeSlash[] = _("{JPN}おおきさ/{ENG}");
+static const u8 sText_FirmSlash[] = _("{JPN}かたさ/{ENG}");
 static const u8 sText_Var1DotVar2[] = _("{STR_VAR_1}.{STR_VAR_2}”");
 static const u8 sText_NumberVar1Var2[] = _("{NO}{STR_VAR_1} {STR_VAR_2}");
-static const u8 sText_BerryTag[] = _("BERRY TAG");
+static const u8 sText_BerryTag[] = _("{JPN}きのみタグ{ENG}");
 static const u8 sText_ThreeMarks[] = _("???");
 
 // code

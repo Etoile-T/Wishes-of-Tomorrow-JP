@@ -20119,9 +20119,13 @@
     "end": 3055,
     "raw": "\"Very soft\"",
     "source": "Very soft",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}とてもやわらかい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "c31cd391d95b73fd",
@@ -20131,9 +20135,13 @@
     "end": 3114,
     "raw": "\"Soft\"",
     "source": "Soft",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やわらかい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "885cc0ad70cbbc8c",
@@ -20143,9 +20151,13 @@
     "end": 3173,
     "raw": "\"Hard\"",
     "source": "Hard",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かたい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "7f706349861110bd",
@@ -20155,9 +20167,13 @@
     "end": 3237,
     "raw": "\"Very hard\"",
     "source": "Very hard",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}とてもかたい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "8477fd7d55769b0e",
@@ -20167,9 +20183,13 @@
     "end": 3302,
     "raw": "\"Super hard\"",
     "source": "Super hard",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ものすごくかたい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "58e6da39c9161776",
@@ -20179,9 +20199,13 @@
     "end": 4230,
     "raw": "\"SIZE /\"",
     "source": "SIZE /",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おおきさ/{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "5bdda0e578ca2d84",
@@ -20191,9 +20215,13 @@
     "end": 4279,
     "raw": "\"FIRM /\"",
     "source": "FIRM /",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かたさ/{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "a73ffa712ec35bc2",
@@ -20227,9 +20255,13 @@
     "end": 4474,
     "raw": "\"BERRY TAG\"",
     "source": "BERRY TAG",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きのみタグ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "ba300e52a7b44e3b",
@@ -232165,9 +232197,13 @@
     "end": 14372,
     "raw": "\"Choose {PKMN} to fuse with.\"",
     "source": "Choose {PKMN} to fuse with.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}がったいさせる{ENG}{PKMN}{JPN}をえらんで。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "527335548c7e1555",
@@ -232193,9 +232229,13 @@
     "end": 14568,
     "raw": "\"{STR_VAR_1} can't be switched\\nout!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} can't be switched\\nout!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nいれかえられない！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "4f64129d7bc8cac6",
@@ -232205,9 +232245,13 @@
     "end": 14667,
     "raw": "\"{STR_VAR_1} is already\\nin battle!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} is already\\nin battle!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nすでにたたかっています！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "a12395ea0442f26b",
@@ -232217,9 +232261,13 @@
     "end": 14771,
     "raw": "\"{STR_VAR_1} has already been\\nselected.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} has already been\\nselected.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nすでにえらばれています。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "489d7ce1d4bf0772",
@@ -232229,9 +232277,13 @@
     "end": 14874,
     "raw": "\"{STR_VAR_1} has no energy\\nleft to battle!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} has no energy\\nleft to battle!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}には\\nたたかうちからがのこっていない！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "fbe4662492c71717",
@@ -232241,9 +232293,13 @@
     "end": 14996,
     "raw": "\"You can't switch {STR_VAR_1}'s\\nPOKéMON with one of yours!{PAUSE_UNTIL_PRESS}\"",
     "source": "You can't switch {STR_VAR_1}'s\\nPOKéMON with one of yours!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のポケモンと\\nじぶんのポケモンはかえられない！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "36078975106176f8",
@@ -232269,9 +232325,13 @@
     "end": 15191,
     "raw": "\"This can't be used until a new\\nBADGE is obtained.{PAUSE_UNTIL_PRESS}\"",
     "source": "This can't be used until a new\\nBADGE is obtained.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あたらしいバッジをてにいれるまで\\nつかえません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "c46039eb76d837e2",
@@ -232281,9 +232341,13 @@
     "end": 15299,
     "raw": "\"No more than {STR_VAR_1} POKéMON\\nmay enter.{PAUSE_UNTIL_PRESS}\"",
     "source": "No more than {STR_VAR_1} POKéMON\\nmay enter.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}さんかできるポケモンは\\n{ENG}{STR_VAR_1}{JPN}ひきまでです。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "e3690545127ea102",
@@ -232293,9 +232357,13 @@
     "end": 15372,
     "raw": "\"Send the removed MAIL to\\nyour PC?\"",
     "source": "Send the removed MAIL to\\nyour PC?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}はずしたメールを\\nパソコンにおくりますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "3a1313a5f5e78ab5",
@@ -232305,9 +232373,13 @@
     "end": 15459,
     "raw": "\"The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}\"",
     "source": "The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}メールをパソコンにおくりました。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "55e2c9617addf656",
@@ -232317,9 +232389,13 @@
     "end": 15544,
     "raw": "\"Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}\"",
     "source": "Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}パソコンのメールボックスが\\nいっぱいです。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "33a5340c459f2313",
@@ -232329,9 +232405,13 @@
     "end": 15648,
     "raw": "\"If the MAIL is removed, the\\nmessage will be lost. Okay?\"",
     "source": "If the MAIL is removed, the\\nmessage will be lost. Okay?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}メールをはずすとぶんしょうが\\nきえますが よろしいですか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "504254e37cb9546f",
@@ -232341,9 +232421,13 @@
     "end": 15759,
     "raw": "\"MAIL must be removed before\\nholding an item.{PAUSE_UNTIL_PRESS}\"",
     "source": "MAIL must be removed before\\nholding an item.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どうぐをもたせるまえに\\nメールをはずしてください。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "c950c10d47ee0aae",
@@ -232353,9 +232437,13 @@
     "end": 15868,
     "raw": "\"{STR_VAR_1} was given the\\n{STR_VAR_2} to hold.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} was given the\\n{STR_VAR_2} to hold.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に\\n{ENG}{STR_VAR_2}{JPN}をもたせた。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "a87980e840e8d360",
@@ -232365,9 +232453,13 @@
     "end": 16013,
     "raw": "\"{STR_VAR_1} is already holding\\none {STR_VAR_2}.\\pWould you like to switch the\\ntwo items?\"",
     "source": "{STR_VAR_1} is already holding\\none {STR_VAR_2}.\\pWould you like to switch the\\ntwo items?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はすでに\\n{ENG}{STR_VAR_2}{JPN}をもっています。\\pどうぐをいれかえますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "35e542d5eef8a347",
@@ -232377,9 +232469,13 @@
     "end": 16109,
     "raw": "\"{STR_VAR_1} isn't holding\\nanything.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} isn't holding\\nanything.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nなにももっていない。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "5923f1561d08175b",
@@ -232389,9 +232485,13 @@
     "end": 16218,
     "raw": "\"Received the {STR_VAR_2}\\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}\"",
     "source": "Received the {STR_VAR_2}\\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}から\\n{ENG}{STR_VAR_2}{JPN}をうけとった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "c0321912d54c0f65",
@@ -232401,9 +232501,13 @@
     "end": 16314,
     "raw": "\"MAIL was taken from the\\nPOKéMON.{PAUSE_UNTIL_PRESS}\"",
     "source": "MAIL was taken from the\\nPOKéMON.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンから\\nメールをはずした。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "189fd2aad6803ea6",
@@ -232413,9 +232517,13 @@
     "end": 16437,
     "raw": "\"The {STR_VAR_2} was taken and\\nreplaced with the {STR_VAR_1}.{PAUSE_UNTIL_PRESS}\"",
     "source": "The {STR_VAR_2} was taken and\\nreplaced with the {STR_VAR_1}.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}をはずして\\n{ENG}{STR_VAR_1}{JPN}をもたせた。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "ddf5790a0479e4d0",
@@ -232425,9 +232533,13 @@
     "end": 16564,
     "raw": "\"This POKéMON is holding an\\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}\"",
     "source": "This POKéMON is holding an\\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}このポケモンはどうぐをもっているので\\nメールをもたせられません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "060e5b14eb691cd9",
@@ -232437,9 +232549,13 @@
     "end": 16675,
     "raw": "\"MAIL was transferred from\\nthe MAILBOX.{PAUSE_UNTIL_PRESS}\"",
     "source": "MAIL was transferred from\\nthe MAILBOX.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}メールボックスから\\nメールをうつしました。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "742b131711bae306",
@@ -232449,9 +232565,13 @@
     "end": 16804,
     "raw": "\"The BAG is full. The POKéMON's\\nitem could not be removed.{PAUSE_UNTIL_PRESS}\"",
     "source": "The BAG is full. The POKéMON's\\nitem could not be removed.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バッグがいっぱいで\\nポケモンのどうぐをはずせなかった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "a9fa48d6cf207808",
@@ -232461,9 +232581,13 @@
     "end": 16880,
     "raw": "\"{STR_VAR_1} learned\\n{STR_VAR_2}!\"",
     "source": "{STR_VAR_1} learned\\n{STR_VAR_2}!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}をおぼえた！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "981be87c6b964f33",
@@ -232473,9 +232597,13 @@
     "end": 16975,
     "raw": "\"{STR_VAR_1} learned\\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} learned\\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}をおぼえた！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "b5169fd2897ffc71",
@@ -232485,9 +232613,13 @@
     "end": 17118,
     "raw": "\"{STR_VAR_1} and {STR_VAR_2}\\nare not compatible.\\p{STR_VAR_2} can't be\\nlearned.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} and {STR_VAR_2}\\nare not compatible.\\p{STR_VAR_2} can't be\\nlearned.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}と{ENG}{STR_VAR_2}{JPN}は\\nあいしょうがわるいので\\p{ENG}{STR_VAR_2}{JPN}を\\nおぼえられません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "fe1d38f753bd4f5c",
@@ -232497,9 +232629,13 @@
     "end": 17323,
     "raw": "\"{STR_VAR_1} wants to learn the\\nmove {STR_VAR_2}.\\pHowever, {STR_VAR_1} already\\nknows four moves.\\pShould a move be deleted and\\nreplaced with {STR_VAR_2}?\"",
     "source": "{STR_VAR_1} wants to learn the\\nmove {STR_VAR_2}.\\pHowever, {STR_VAR_1} already\\nknows four moves.\\pShould a move be deleted and\\nreplaced with {STR_VAR_2}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}をおぼえたい…\\pしかし{ENG}{STR_VAR_1}{JPN}は\\nすでにわざを4つおぼえている。\\pわざをひとつわすれて\\n{ENG}{STR_VAR_2}{JPN}をおぼえさせますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "e44d9c9a970c8b3b",
@@ -232509,9 +232645,13 @@
     "end": 17401,
     "raw": "\"Stop trying to teach\\n{STR_VAR_2}?\"",
     "source": "Stop trying to teach\\n{STR_VAR_2}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}を\\nおぼえさせるのをやめますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "81b432ea98d21b56",
@@ -232521,9 +232661,13 @@
     "end": 17509,
     "raw": "\"{STR_VAR_1} did not learn the\\nmove {STR_VAR_2}.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} did not learn the\\nmove {STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}をおぼえなかった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "9a5cc14dba878604",
@@ -232533,9 +232677,13 @@
     "end": 17603,
     "raw": "\"Which move should be forgotten?{PAUSE_UNTIL_PRESS}\"",
     "source": "Which move should be forgotten?{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どのわざをわすれさせますか？{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "416b05fbc93999c6",
@@ -232545,9 +232693,13 @@
     "end": 17812,
     "raw": "\"1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\\p{STR_VAR_1} forgot how to\\nuse {STR_VAR_2}.\\pAnd…{PAUSE_UNTIL_PRESS}\"",
     "source": "1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\\p{STR_VAR_1} forgot how to\\nuse {STR_VAR_2}.\\pAnd…{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}1 {PAUSE 15}2の{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}ポカン！\\p{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}のつかいかたをわすれた。\\pそして…{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "307999509100f00e",
@@ -232557,9 +232709,13 @@
     "end": 17913,
     "raw": "\"{STR_VAR_1} already knows\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} already knows\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はすでに\\n{ENG}{STR_VAR_2}{JPN}をおぼえています。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "25fafc23a65a5bfc",
@@ -232569,9 +232725,13 @@
     "end": 18034,
     "raw": "\"{STR_VAR_1}'s HP was restored\\nby {STR_VAR_2} point(s).{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1}'s HP was restored\\nby {STR_VAR_2} point(s).{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のたいりょくが\\n{ENG}{STR_VAR_2}{JPN}かいふくした。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "e2a104d6eb319503",
@@ -232581,9 +232741,13 @@
     "end": 18137,
     "raw": "\"{STR_VAR_1} was cured of its\\npoisoning.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} was cured of its\\npoisoning.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\nどくがなおった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "e7172129dfb5fc2d",
@@ -232593,9 +232757,13 @@
     "end": 18239,
     "raw": "\"{STR_VAR_1} was cured of\\nparalysis.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} was cured of\\nparalysis.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\nまひがなおった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "2241ed0fba709baf",
@@ -232605,9 +232773,13 @@
     "end": 18316,
     "raw": "\"{STR_VAR_1} woke up.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} woke up.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nめをさました。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "09ef119e2bbb5409",
@@ -232617,9 +232789,13 @@
     "end": 18406,
     "raw": "\"{STR_VAR_1}'s burn was healed.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1}'s burn was healed.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\nやけどがなおった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "293943a4a370f106",
@@ -232629,9 +232805,13 @@
     "end": 18506,
     "raw": "\"{STR_VAR_1}'s frostbite was healed.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1}'s frostbite was healed.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\nしもやけがなおった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "88dd3c9905dae449",
@@ -232641,9 +232821,13 @@
     "end": 18592,
     "raw": "\"{STR_VAR_1} was thawed out.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} was thawed out.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\nこおりがとけた。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "135877ea62b00dc9",
@@ -232653,9 +232837,13 @@
     "end": 18667,
     "raw": "\"PP was restored.{PAUSE_UNTIL_PRESS}\"",
     "source": "PP was restored.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}PP{JPN}がかいふくした。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "bec2f9cfb52f438d",
@@ -232665,9 +232853,13 @@
     "end": 18760,
     "raw": "\"{STR_VAR_1} regained health.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} regained health.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nげんきをとりもどした。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "a679b3353f38a777",
@@ -232677,9 +232869,13 @@
     "end": 18860,
     "raw": "\"{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nすっかりげんきになった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "dfe5baa8e31761a6",
@@ -232689,9 +232885,13 @@
     "end": 18949,
     "raw": "\"{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\n{ENG}PP{JPN}がふえた。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "61efe7e137ca501b",
@@ -232701,9 +232901,13 @@
     "end": 19041,
     "raw": "\"{STR_VAR_1} was elevated to\\nLv. {STR_VAR_2}.\"",
     "source": "{STR_VAR_1} was elevated to\\nLv. {STR_VAR_2}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nレベル{ENG}{STR_VAR_2}{JPN}にあがった。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "97fea9d9a2572f91",
@@ -232713,9 +232917,13 @@
     "end": 19143,
     "raw": "\"{STR_VAR_1} gained {STR_VAR_2} Exp. Points!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} gained {STR_VAR_2} Exp. Points!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は{ENG}{STR_VAR_2}{JPN}の\\nけいけんちをもらった！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "ef9e1ab5305d3def",
@@ -232725,9 +232933,13 @@
     "end": 19282,
     "raw": "\"{STR_VAR_1} gained {STR_VAR_2} Exp. Points\\nand was elevated to Lv. {STR_VAR_3}!\"",
     "source": "{STR_VAR_1} gained {STR_VAR_2} Exp. Points\\nand was elevated to Lv. {STR_VAR_3}!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は{ENG}{STR_VAR_2}{JPN}の\\nけいけんちをもらい レベル{ENG}{STR_VAR_3}{JPN}に！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "82c3e661a85935d2",
@@ -232737,9 +232949,13 @@
     "end": 19401,
     "raw": "\"{STR_VAR_1}'s base {STR_VAR_2}\\nstat was raised.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1}'s base {STR_VAR_2}\\nstat was raised.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の{ENG}{STR_VAR_2}{JPN}の\\nきそポイントがあがった。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "12d3e2a8dd10f615",
@@ -232749,9 +232965,13 @@
     "end": 19527,
     "raw": "\"{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はなついてきた。\\n{ENG}{STR_VAR_2}{JPN}のきそポイントがさがった！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "4fd145e769e23ab6",
@@ -232761,9 +232981,13 @@
     "end": 19646,
     "raw": "\"{STR_VAR_1} adores you!\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} adores you!\\nThe base {STR_VAR_2} fell!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はとてもなついている！\\n{ENG}{STR_VAR_2}{JPN}のきそポイントがさがった！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "5e25468c28b648b9",
@@ -232773,9 +232997,13 @@
     "end": 19782,
     "raw": "\"{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} can't fall!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} turned friendly.\\nThe base {STR_VAR_2} can't fall!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はなついてきた。\\n{ENG}{STR_VAR_2}{JPN}のきそポイントはさがらない！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "92fa54136e55ba2b",
@@ -232785,9 +233013,13 @@
     "end": 19895,
     "raw": "\"{STR_VAR_1} snapped out of its\\nconfusion.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} snapped out of its\\nconfusion.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\nこんらんがとけた。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "3033f1bd38e0d520",
@@ -232797,9 +233029,13 @@
     "end": 20001,
     "raw": "\"{STR_VAR_1} got over its\\ninfatuation.{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} got over its\\ninfatuation.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の\\nメロメロがとけた。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "c999ca409094721d",
@@ -232809,9 +233045,13 @@
     "end": 20086,
     "raw": "\"{STR_VAR_1} transformed!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1} transformed!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はへんしんした！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "d94ee1bbdc43198b",
@@ -232949,9 +233189,13 @@
     "end": 20697,
     "raw": "\"Do what with this {PKMN}?\"",
     "source": "Do what with this {PKMN}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}この{ENG}{PKMN}{JPN}をどうしますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "06e95cfa6457b952",
@@ -233121,9 +233365,13 @@
     "end": 21372,
     "raw": "\"{STR_VAR_1} POKéMON are needed.\"",
     "source": "{STR_VAR_1} POKéMON are needed.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンが{ENG}{STR_VAR_1}{JPN}ひきひつようです。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "78c6fd98793fdc6d",
@@ -233133,9 +233381,13 @@
     "end": 21442,
     "raw": "\"POKéMON can't be the same.\"",
     "source": "POKéMON can't be the same.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おなじポケモンはえらべません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "282583e02be04cd4",
@@ -233161,9 +233413,13 @@
     "end": 21585,
     "raw": "\"The current is much too fast!\"",
     "source": "The current is much too fast!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ながれがはやすぎる！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "f1fe2f5edcd8cef5",
@@ -233253,9 +233509,13 @@
     "end": 21988,
     "raw": "\"{STR_VAR_1}'s {STR_VAR_2} and\\n\"",
     "source": "{STR_VAR_1}'s {STR_VAR_2} and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の{ENG}{STR_VAR_2}{JPN}と\\n{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "352a153f3a6eb159",
@@ -233265,9 +233525,13 @@
     "end": 22087,
     "raw": "\"{STR_VAR_1}'s {STR_VAR_2} were swapped!{PAUSE_UNTIL_PRESS}\"",
     "source": "{STR_VAR_1}'s {STR_VAR_2} were swapped!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の{ENG}{STR_VAR_2}{JPN}を\\nいれかえた！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "311b21793aef2901",
@@ -233277,9 +233541,13 @@
     "end": 22146,
     "raw": "\"Let's enjoy cycling!\"",
     "source": "Let's enjoy cycling!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サイクリングをたのしもう！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "171fc753039f1ff4",
@@ -233305,9 +233573,13 @@
     "end": 22303,
     "raw": "\"{STR_VAR_1} is already holding\\none {STR_VAR_2}.\"",
     "source": "{STR_VAR_1} is already holding\\none {STR_VAR_2}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はすでに\\n{ENG}{STR_VAR_2}{JPN}をもっています。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "3763dce8438f50bc",
@@ -233317,9 +233589,13 @@
     "end": 22367,
     "raw": "\"Order which\\nappliance?\"",
     "source": "Order which\\nappliance?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どのでんかせいひんを\\nちゅうもんしますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "f747a13274dfe60b",
@@ -233537,9 +233813,13 @@
     "end": 22978,
     "raw": "\"That POKéMON can't participate.{PAUSE_UNTIL_PRESS}\"",
     "source": "That POKéMON can't participate.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}そのポケモンはさんかできません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "92c64c788c9d1e71",
@@ -233581,9 +233861,13 @@
     "end": 23175,
     "raw": "\"Return to the WAITING ROOM?\"",
     "source": "Return to the WAITING ROOM?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ひかえしつにもどりますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "6c22045469835157",
@@ -233609,9 +233893,13 @@
     "end": 23331,
     "raw": "\"Want to escape from here and return\\nto {STR_VAR_1}?\"",
     "source": "Want to escape from here and return\\nto {STR_VAR_1}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ここからぬけだして\\n{ENG}{STR_VAR_1}{JPN}にもどりますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "a45a92b8bf3f57c4",
@@ -233621,9 +233909,13 @@
     "end": 23438,
     "raw": "\"Want to return to the healing spot\\nused last in {STR_VAR_1}?\"",
     "source": "Want to return to the healing spot\\nused last in {STR_VAR_1}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}でさいごにかいふくした\\nばしょにもどりますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "2f94f739ea107252",
@@ -233657,9 +233949,13 @@
     "end": 23687,
     "raw": "\"That's your only\\nPOKéMON for battle.\"",
     "source": "That's your only\\nPOKéMON for battle.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たたかえるポケモンが\\nその1ぴきだけです。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "634a6af11572b939",
@@ -233669,9 +233965,13 @@
     "end": 23778,
     "raw": "\"That POKéMON can't be traded\\nnow.\"",
     "source": "That POKéMON can't be traded\\nnow.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまはそのポケモンを\\nこうかんできません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "ad5448be02f3b43f",
@@ -233681,9 +233981,13 @@
     "end": 23861,
     "raw": "\"That POKéMON can't be traded.\"",
     "source": "That POKéMON can't be traded.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}そのポケモンはこうかんできません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "f41913ecb3a23499",
@@ -233693,9 +233997,13 @@
     "end": 23944,
     "raw": "\"An EGG can't be traded now.\"",
     "source": "An EGG can't be traded now.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまはタマゴをこうかんできません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "52555f2da7323498",
@@ -233705,9 +234013,13 @@
     "end": 24060,
     "raw": "\"The other TRAINER's POKéMON\\ncan't be traded now.\"",
     "source": "The other TRAINER's POKéMON\\ncan't be traded now.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまはあいてのポケモンを\\nこうかんできません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "5bc97ae1887a1dda",
@@ -233717,9 +234029,13 @@
     "end": 24173,
     "raw": "\"The other TRAINER can't accept\\nthat POKéMON now.\"",
     "source": "The other TRAINER can't accept\\nthat POKéMON now.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまあいてはそのポケモンを\\nうけとれません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "9bd3f64de63ead14",
@@ -233729,9 +234045,13 @@
     "end": 24270,
     "raw": "\"You can't trade with that\\nTRAINER now.\"",
     "source": "You can't trade with that\\nTRAINER now.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまはそのトレーナーと\\nこうかんできません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "f2cc28aa1296041c",
@@ -233741,9 +234061,13 @@
     "end": 24393,
     "raw": "\"That isn't the type of POKéMON\\nthat the other TRAINER wants.\"",
     "source": "That isn't the type of POKéMON\\nthat the other TRAINER wants.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あいてがほしがっている\\nしゅるいのポケモンではありません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "02f9df9afe2451f3",
@@ -233753,9 +234077,13 @@
     "end": 24462,
     "raw": "\"That isn't an EGG.\"",
     "source": "That isn't an EGG.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}それはタマゴではありません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "ecc9948b9075fac3",
@@ -233885,9 +234213,13 @@
     "end": 24823,
     "raw": "\"OT/\"",
     "source": "OT/",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おや/{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "39ee5a237f725ea6",
@@ -233913,9 +234245,13 @@
     "end": 24915,
     "raw": "\"TYPE/\"",
     "source": "TYPE/",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}タイプ/{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-party-status-04",
+      "method": "English source and UI context reviewed; placeholders, pauses and pages retained"
+    }
   },
   {
     "id": "7e70aab215e3e447",

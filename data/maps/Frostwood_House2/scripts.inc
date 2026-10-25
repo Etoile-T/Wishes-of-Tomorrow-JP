@@ -58,34 +58,34 @@ Frostwood_House2_EventScript_Girl2::
 	end
 
 Frostwood_House2_Text_Mom:
-	.string "Both my girls home, warm and fed,\n"
-	.string "and their AZURILL won't stop bouncing!\p"
-	.string "Thank you for bringing them back\n"
-	.string "to us.$"
+	.string "{JPN}むすめ ふたりが かえってきて ごはんも\n"
+	.string "たべて ルリリも ずっと はねまわってるわ！\p"
+	.string "あの こたちを つれもどしてくれて\n"
+	.string "ありがとう。$"
 
 Frostwood_House2_Text_DadThanks:
-	.string "There you are! You actually got\n"
-	.string "those two to come in from the snow.\p"
-	.string "Supper was still warm, even!\n"
-	.string "Thank you for your help.\p"
-	.string "Here -- a little something for\n"
-	.string "your trouble.$"
+	.string "{JPN}おお きたか！ あの ふたりを\n"
+	.string "ほんとうに ゆきの なかから つれもどすとは。\p"
+	.string "ばんごはんも まだ あたたかかったよ！\n"
+	.string "てつだって くれて ありがとう。\p"
+	.string "ほら ほんの おれいだ。\n"
+	.string "うけとってくれ。$"
 
 Frostwood_House2_Text_DadAfterGift:
-	.string "Give it to a POKéMON you're proud of.\n"
-	.string "Our girls sure made us proud today.$"
+	.string "{JPN}じまんの ポケモンに もたせてやって くれ。\n"
+	.string "うちの むすめたちも きょうは じまんだったよ。$"
 
 Frostwood_House2_Text_DadAfter:
-	.string "A full house and a hot supper.\n"
-	.string "Doesn't get better than that.$"
+	.string "{JPN}にぎやかな いえと あたたかい ばんごはん。\n"
+	.string "これいじょうの しあわせは ないね。$"
 
 Frostwood_House2_Text_Girl1:
-	.string "The cocoa worked. It always works.\p"
-	.string "We'll get back to training\n"
-	.string "tomorrow!$"
+	.string "{JPN}ココア さくせん だいせいこう。 いつも きくの。\p"
+	.string "トレーニングは\n"
+	.string "また あしたね！$"
 
 Frostwood_House2_Text_Girl2:
-	.string "Our AZURILL are so happy to be\n"
-	.string "warm again!\p"
-	.string "One day we'll be as strong as\n"
-	.string "our big brother.$"
+	.string "{JPN}ルリリたち あったかくなって\n"
+	.string "すごく うれしそう！\p"
+	.string "いつか あたしたちも おにいちゃんみたいに\n"
+	.string "つよく なるんだ。$"

@@ -44,19 +44,19 @@ MunenLake_Movement_FishermanRunOff:
 	step_end
 
 MunenLake_Text_Fisherman:
-	.string "Holy fuck that guy just fell\n"
-	.string "through the fucking ice!\p"
-	.string "Nah, fuck this.\n"
-	.string "I quit this sport.\p"
-	.string "Here, take this!$"
+	.string "{JPN}マジかよ！ あいつ クソ\n"
+	.string "こおりを ぶちぬいて おちやがった！\p"
+	.string "やってらんねえ。\n"
+	.string "こんな つり もう やめだ！\p"
+	.string "ほら これ やるよ！$"
 
 MunenLake_Text_FishermanFarewell:
-	.string "I'm not built for this, man.$"
+	.string "{JPN}おれには むいてねえんだよ。$"
 
 MunenLake_Text_FishermanNoRoom:
-	.string "Your bag's full to bursting.\p"
-	.string "Make some room and find me before\n"
-	.string "I head off!$"
+	.string "{JPN}バッグが パンパンじゃねえか。\p"
+	.string "あきを つくってから おれが\n"
+	.string "いなくなる まえに こいよ！$"
 
 MunenLake_EventScript_Cameraman::
 	lock
@@ -66,11 +66,11 @@ MunenLake_EventScript_Cameraman::
 	end
 
 MunenLake_Text_Cameraman:
-	.string "Shhh! Keep it down, kid.\p"
-	.string "Word is there's an enormous RED BEAST\n"
-	.string "sleeping under this frozen lake.\p"
-	.string "The second it busts up through the ice,\n"
-	.string "I'll get the shot of a lifetime…\l"
-	.string "front page of the FROSTWOOD news!\p"
-	.string "...Any minute now.\p"
-	.string "...Annny minute now.$"
+	.string "{JPN}しーっ！ しずかに しろ ぼうず。\p"
+	.string "うわさじゃ この こおった みずうみの\n"
+	.string "したに でかい あかい けものが ねむってる。\p"
+	.string "そいつが こおりを つきやぶった しゅんかん\n"
+	.string "いっせいちだいの いちまいを とるのさ…\l"
+	.string "フロストウッドしんぶんの いちめんだ！\p"
+	.string "…そろそろ だな。\p"
+	.string "…そろそろ だぞぉ。$"

@@ -26,6 +26,9 @@ class ScriptBatchTests(unittest.TestCase):
         result = s.build(rows, [('a', 'やあ$'), ('b', 'よう$')], 'B', after_directive={'b'})
         self.assertEqual(result[1]['translation'], '{JPN}よう$')
 
+    def test_region_placeholder_is_scoped(self):
+        self.assertEqual(s.scope('{REGION}の ちず$', False), '{ENG}{REGION}{JPN}の ちず$')
+
     def test_refuses_partial_message(self):
         rows = [row('a', 'Hi\\n', 0), row('b', 'there$', 10)]
         with self.assertRaisesRegex(ValueError, 'whole message'):

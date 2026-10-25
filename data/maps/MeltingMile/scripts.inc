@@ -140,41 +140,41 @@ MeltingMile_Movement_StepAside:
 @ Text
 @==============================
 MeltingMileText_Gentleman:
-	.string "The thaw's stirring up something\nstrange on this trail.\p"
-	.string "All my long years, the only POKEMON I\never met in these snows were ICE types.\p"
-	.string "But now? Creatures I don't even\nrecognize are wandering up from the\llowlands where it's gone soft.\p"
-	.string "Why, just this morning -- something small\nand yellow, sparks hopping off its\lcheeks. Never seen the like up here!$"
+	.string "{JPN}ゆきどけの せいで この みちに\nみょうな ことが おきておる。\p"
+	.string "わしが ながねん この ゆきで みた\nポケモンは こおりタイプ だけじゃった。\p"
+	.string "それが いまは どうじゃ？ みたことも ない\nやつらが ゆきの とけた ふもとから\lのぼって きておる。\p"
+	.string "けさも ちいさくて きいろい やつが おった。\nほっぺたから ひばなを とばしてな。\lこんな ところで みるのは はじめてじゃ！$"
 
 MeltingMileText_Pikachu:
-	.string "The little yellow POKEMON notices you.\nIts cheeks crackle.\p"
-	.string "It doesn't run... it tilts its head,\ncurious. Almost like it wants to come\lalong.$"
+	.string "{JPN}ちいさな きいろい ポケモンが こちらに\nきづいた。 ほっぺたが パチパチ いっている。\p"
+	.string "にげない… くびを かしげて\nふしぎそうに みている。 まるで\lいっしょに きたがって いるようだ。$"
 
 MeltingMileText_PikachuOffer:
-	.string "Bring PIKACHU with you?$"
+	.string "{JPN}ピカチュウを つれていく？$"
 
 MeltingMileText_PikachuJoined:
-	.string "PIKACHU hops up your arm and settles\nin, sparks fizzing happily.\p"
-	.string "PIKACHU joined your party!$"
+	.string "{JPN}ピカチュウは うでを かけのぼって\nうれしそうに ひばなを パチパチ させた。\p"
+	.string "ピカチュウが なかまに くわわった！$"
 
 MeltingMileText_PikachuDecline:
-	.string "It watches you go, ears drooping\njust a little.\p"
-	.string "It will be waiting here on the trail.$"
+	.string "{JPN}ピカチュウは みみを すこし たらして\nこちらを みおくっている。\p"
+	.string "この みちで まっているようだ。$"
 
 MeltingMileText_PikachuNoRoom:
-	.string "Your party and boxes are full.\p"
-	.string "PIKACHU tilts its head -- it'll wait\nright here until you make room.$"
+	.string "{JPN}てもちも ボックスも いっぱいだ。\p"
+	.string "ピカチュウは くびを かしげた。\nあきが できるまで ここで まつつもりらしい。$"
 
 MeltingMileText_UseSplash:
-	.string "AZURILL, use SPLASH!$"
+	.string "{JPN}ルリリ はねる！$"
 
 MeltingMileText_UsedSplash:
-	.string "AZURILL used SPLASH!$"
+	.string "{JPN}ルリリの はねる！$"
 
 MeltingMileText_NoPP:
-	.string "AZURILL has no PP left for this move!$"
+	.string "{JPN}ルリリは この わざの PPが もう ない！$"
 
 MeltingMileText_GirlsLeave:
-	.string "Wait... is that HOT COCOA?\pDad sent you, didn't he. Ugh, fiiine,\nwe're coming!\pCome on, AZURILL -- last one home's\na slowpoke!$"
+	.string "{JPN}まって… それって ホットココア？\pパパに たのまれたんでしょ。 もう！\nわかった かえるって！\pいくよ ルリリ！ ビリは\nヤドンだからね！$"
 
 @==============================
 @ Signs, on the two painted signboards. (30,17) sits beside the Munen Lake
@@ -190,9 +190,9 @@ MeltingMile_EventScript_SignMunenLake::
 	end
 
 MeltingMileText_SignFrostwood:
-	.string "MELTING MILE\n"
-	.string "{RIGHT_ARROW} FROSTWOOD TOWN$"
+	.string "{JPN}メルティングマイル\n"
+	.string "{RIGHT_ARROW} フロストウッドタウン$"
 
 MeltingMileText_SignMunenLake:
-	.string "MELTING MILE\n"
-	.string "{RIGHT_ARROW} MUNEN LAKE$"
+	.string "{JPN}メルティングマイル\n"
+	.string "{RIGHT_ARROW} ムネンこ$"

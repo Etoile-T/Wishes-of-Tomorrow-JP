@@ -35,13 +35,13 @@ NorthwindCavern_EventScript_SuicuneGone::
 	end
 
 NorthwindCavern_Text_SuicuneStirs::
-	.string "The cold in the chamber gathers\n"
-	.string "into a shape...\p"
-	.string "SUICUNE lowers its head.\n"
-	.string "The north wind has been waiting.$"
+	.string "{JPN}へやの つめたさが\n"
+	.string "ひとつの かたちに あつまっていく…\p"
+	.string "スイクンが あたまを さげた。\n"
+	.string "きたかぜは ずっと まっていたのだ。$"
 
 NorthwindCavern_Text_SuicuneScatters::
-	.string "The shape breaks apart into\n"
-	.string "frost and wind...\p"
-	.string "The cold settles back over the\n"
-	.string "chamber, patient as ever.$"
+	.string "{JPN}その かたちは しもと かぜに\n"
+	.string "くずれていく…\p"
+	.string "つめたさが また へやを つつみこんだ。\n"
+	.string "いつものように しんぼうづよく。$"

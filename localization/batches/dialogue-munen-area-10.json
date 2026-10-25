@@ -1,0 +1,850 @@
+[
+ {
+  "id": "5c1d492c6cc98dcd",
+  "translation": "{JPN}ゆきどけの せいで この みちに\\nみょうな ことが おきておる。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cabadf238f6421a",
+  "translation": "わしが ながねん この ゆきで みた\\nポケモンは こおりタイプ だけじゃった。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef33c2e2cbaafc0a",
+  "translation": "それが いまは どうじゃ？ みたことも ない\\nやつらが ゆきの とけた ふもとから\\lのぼって きておる。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e574493f9b83c1c",
+  "translation": "けさも ちいさくて きいろい やつが おった。\\nほっぺたから ひばなを とばしてな。\\lこんな ところで みるのは はじめてじゃ！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a87a01586fe1c20",
+  "translation": "{JPN}ちいさな きいろい ポケモンが こちらに\\nきづいた。 ほっぺたが パチパチ いっている。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88053df719284c5a",
+  "translation": "にげない… くびを かしげて\\nふしぎそうに みている。 まるで\\lいっしょに きたがって いるようだ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59996159b508c3f2",
+  "translation": "{JPN}ピカチュウを つれていく？$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00578fc71e5b2892",
+  "translation": "{JPN}ピカチュウは うでを かけのぼって\\nうれしそうに ひばなを パチパチ させた。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04576780d67070e4",
+  "translation": "ピカチュウが なかまに くわわった！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2424071478558397",
+  "translation": "{JPN}ピカチュウは みみを すこし たらして\\nこちらを みおくっている。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79e64f53a9b0c7dd",
+  "translation": "この みちで まっているようだ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fc36f24208f2dc4",
+  "translation": "{JPN}てもちも ボックスも いっぱいだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0044d35baf723930",
+  "translation": "ピカチュウは くびを かしげた。\\nあきが できるまで ここで まつつもりらしい。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "375efb3a6bfc932f",
+  "translation": "{JPN}ルリリ はねる！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "945592033e331c59",
+  "translation": "{JPN}ルリリの はねる！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f42196cddd867717",
+  "translation": "{JPN}ルリリは この わざの PPが もう ない！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef12a7f02ae0a651",
+  "translation": "{JPN}まって… それって ホットココア？\\pパパに たのまれたんでしょ。 もう！\\nわかった かえるって！\\pいくよ ルリリ！ ビリは\\nヤドンだからね！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74d0f5234c6678ee",
+  "translation": "{JPN}メルティングマイル\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1c6b373d16bed59",
+  "translation": "{RIGHT_ARROW} フロストウッドタウン$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa8841403b03ad80",
+  "translation": "{JPN}メルティングマイル\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e5566bdb30cb7d4",
+  "translation": "{RIGHT_ARROW} ムネンこ$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "021a36f38dc6c09d",
+  "translation": "{JPN}マジかよ！ あいつ クソ\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f345155ecfbdb7df",
+  "translation": "こおりを ぶちぬいて おちやがった！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b1537358a31c25b",
+  "translation": "やってらんねえ。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc858553503deeab",
+  "translation": "こんな つり もう やめだ！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aceb6be53d194585",
+  "translation": "ほら これ やるよ！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c64076021c5171da",
+  "translation": "{JPN}おれには むいてねえんだよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "219b583fc6b81cf6",
+  "translation": "{JPN}バッグが パンパンじゃねえか。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51c9eb63ba1af83c",
+  "translation": "あきを つくってから おれが\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7cf37e25d340a68",
+  "translation": "いなくなる まえに こいよ！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a7dfb5af4d5be5c",
+  "translation": "{JPN}しーっ！ しずかに しろ ぼうず。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da9bcf16d63c6982",
+  "translation": "うわさじゃ この こおった みずうみの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2eb856ba0b616599",
+  "translation": "したに でかい あかい けものが ねむってる。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b668a136caa73064",
+  "translation": "そいつが こおりを つきやぶった しゅんかん\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3be4e99546ce1ca",
+  "translation": "いっせいちだいの いちまいを とるのさ…\\l",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8f5a569690f4a99",
+  "translation": "フロストウッドしんぶんの いちめんだ！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22c808aaea60d70d",
+  "translation": "…そろそろ だな。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb87a99c69e8eca1",
+  "translation": "…そろそろ だぞぉ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c4c7ee302d27fc6",
+  "translation": "{JPN}フロストウッドタウンへ ようこそ たびのかた。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f77bcf309b4ee9c8",
+  "translation": "この もりは せんねんの ふゆの あいだ\\nずっと おなじ しろい ころもを きてきた。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b95921379e61491a",
+  "translation": "だが いま もりを あるけば しずくの\\nおとが する。 しもが とけだしたのだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79f076d220fd7c1b",
+  "translation": "あれほど ふるい ゆきが とけては ならん。\\nムネンの ものたちも そう いっておる。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "985d7372957e0a0b",
+  "translation": "{JPN}ゆきが つもった やねの おおきな たてもの\\nみえる？ あれが まちの ポケモンジムよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2682e101d98b697",
+  "translation": "かけだしなら ここからが ほんばん。\\nはじめての バッジよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "370417f67cb00080",
+  "translation": "まずは ポケモンセンターで あたたまって。\\nジムリーダーは てかげん しないから。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fc6ae7ce31aeb95",
+  "translation": "{JPN}さっき トレーナーが さきに いったよ！\\nツンツン あたまで すっごい えらそうなの。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60bbf9e2c8355461",
+  "translation": "ドラコって なのってた。 だれよりも さきに\\nジムバッジを とるって いばってたよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ec4cfe3d6afb288",
+  "translation": "あいつと きょうそう するの？ しなよ！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "725bc2f3b7727cef",
+  "translation": "{JPN}あなたも かんじるでしょう。 さむさが\\nやわらいで きているの。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c6165c11206f667",
+  "translation": "おばあちゃんが よく はなしてくれた。 やまに\\nねがいが ふういんされていて ふゆは それを\\lねむらせておく ために ここに あるのだと。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1bdb22c7e0d48630",
+  "translation": "もし ふゆが おわったら… なにが\\nめざめるのか かんがえたくも ないわ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea96a10e06f3459b",
+  "translation": "{JPN}フレンドリィショップに キズぐすりと\\nモンスターボールが はいった ところよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3d7d073cc0f9b68",
+  "translation": "やまみちに いくまえに かいそろえて おいて。\\nあそこで きらしたら\\lたいへんよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aec6b45ae13c0577",
+  "translation": "{JPN}………………\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1996a28077a070d1",
+  "translation": "…………… プルルルル！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "114e45a968558029",
+  "translation": "クラークソン: {ENG}{PLAYER}{JPN}！ わしだ\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9795ec00102072a2",
+  "translation": "クラークソンだ。 ここでは うわさが はやくてな\\l",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c76d91e5662468b2",
+  "translation": "きいたぞ もう\\l",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6db5c6ab08547889",
+  "translation": "エンバーバッジを てにいれたそうじゃないか！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45b915ea4082fd81",
+  "translation": "はっは！ はじめて あった ときから\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b19ec3d8945bafa1",
+  "translation": "おまえには なにかが あると おもっておった。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0c5df0d3869a255",
+  "translation": "これほど はやく せいちょうする\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baf2b32d48191eeb",
+  "translation": "トレーナーは ひさしぶりに みる…\\l",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7c6bb69ce5f605e",
+  "translation": "だからこそ でんわ したのだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c3eb4f71f1a0034",
+  "translation": "だいじな ことでなければ たのまんが\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f83f80d551a14c7e",
+  "translation": "いまは おまえにしか できないことで\\l",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da8b53d2142c126c",
+  "translation": "ちからを かしてほしい。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fa3f392319be021",
+  "translation": "ムネンやまの てっぺんまで のぼって\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3ba2b0228485588",
+  "translation": "さんちょうで わしと あってくれ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f6dfc7e53f07e11",
+  "translation": "そこで おまえに じかに みせなければ\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6eeccf0c077cfa7a",
+  "translation": "ならない ものが ある。 でんわでは\\l",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8407a8f286107c29",
+  "translation": "つたえられん。 みれば\\l",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4862b2bf823b94d3",
+  "translation": "わかるはずだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "550e00dad2ec9987",
+  "translation": "まっておるぞ。 としよりを さむい ところで\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c485d49d45976b3",
+  "translation": "あまり またせんでくれよ！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9367b5fab958aa2f",
+  "translation": "………………\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e510113caed15e69",
+  "translation": "…………… ガチャ！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8bf46673ac05c90",
+  "translation": "{JPN}はかせは ムネンやまの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fea2a363f567d9be",
+  "translation": "さんちょうで あいたいと いっていた。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10bd526f04226920",
+  "translation": "タウンマップで そこへの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa0a5f99a28f1f79",
+  "translation": "のぼりかたを しらべよう。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb3d7503b095dcbe",
+  "translation": "{JPN}ゴンドラに のりますか？$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c079677d57e8c8ab",
+  "translation": "{JPN}とびらに はりがみが ある。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "461a4b51f624ae1b",
+  "translation": "「フロストウッドジムの ジムリーダーは\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e82923d6c032f4b",
+  "translation": "ゆうきゅうきゅうか ちゅうです」$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ab307ace6ba7e49",
+  "translation": "{JPN}むすめ ふたりが かえってきて ごはんも\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77fcaa669efba500",
+  "translation": "たべて ルリリも ずっと はねまわってるわ！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b9d8d1e3587854c",
+  "translation": "あの こたちを つれもどしてくれて\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "141c912f803df892",
+  "translation": "ありがとう。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b415fc54c4a9a7c",
+  "translation": "{JPN}おお きたか！ あの ふたりを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "237c5a519d5b1874",
+  "translation": "ほんとうに ゆきの なかから つれもどすとは。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17c19eeea88ecabd",
+  "translation": "ばんごはんも まだ あたたかかったよ！\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "483c049d2bc5cfb5",
+  "translation": "てつだって くれて ありがとう。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38b9d6149d74ebb7",
+  "translation": "ほら ほんの おれいだ。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0823f409ba05a2c9",
+  "translation": "うけとってくれ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5665ba25e1c160a6",
+  "translation": "{JPN}じまんの ポケモンに もたせてやって くれ。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3668ba2f3f03cbd",
+  "translation": "うちの むすめたちも きょうは じまんだったよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4568d86442bcb043",
+  "translation": "{JPN}にぎやかな いえと あたたかい ばんごはん。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ab70833fd1337d3",
+  "translation": "これいじょうの しあわせは ないね。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcda176c07930b10",
+  "translation": "{JPN}ココア さくせん だいせいこう。 いつも きくの。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a464c720395843d",
+  "translation": "トレーニングは\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "000b443def01a088",
+  "translation": "また あしたね！$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f6d7b99fabd4832",
+  "translation": "{JPN}ルリリたち あったかくなって\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22c69bdd624b074e",
+  "translation": "すごく うれしそう！\\p",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbdd7adbfe116f14",
+  "translation": "いつか あたしたちも おにいちゃんみたいに\\n",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbd0d5e749f610ce",
+  "translation": "つよく なるんだ。$",
+  "provenance": {
+   "batch": "dialogue-munen-area-10",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

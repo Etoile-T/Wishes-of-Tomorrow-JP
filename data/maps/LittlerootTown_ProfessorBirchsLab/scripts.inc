@@ -657,15 +657,15 @@ LittlerootTown_ProfessorBirchsLab_EventScript_ScottAboardSSTidalCall::
 	end
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchAwayOnFieldwork:
-	.string "Huh? PROFESSOR CLARKSON?\p"
-	.string "He's not here.\p"
-	.string "Probably out XP grinding somewhere.\p"
-	.string "…You wouldn't understand.$"
+	.string "{JPN}え？ クラークソンはかせ？\p"
+	.string "いないよ。\p"
+	.string "どうせ どこかで レベルあげ してるんでしょ。\p"
+	.string "…きみには わからないだろうけど。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchIsntOneForDeskWork:
-	.string "PROFESSOR CLARKSON's still out\n"
-	.string "XP grinding.\p"
-	.string "You wouldn't understand.$"
+	.string "{JPN}クラークソンはかせは まだ\n"
+	.string "レベルあげ ちゅうだよ。\p"
+	.string "きみには わからないだろうけど。$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchEnjoysRivalsHelpToo:
 	.string "PROF. BIRCH is studying the habitats\n"

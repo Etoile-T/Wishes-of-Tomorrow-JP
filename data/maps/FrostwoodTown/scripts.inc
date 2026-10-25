@@ -73,61 +73,61 @@ FrostwoodTown_EventScript_MartLady::
 	end
 
 FrostwoodText_OldMan:
-	.string "Welcome to FROSTWOOD TOWN, traveler.\p"
-	.string "These woods have worn the same white\ncoat for a thousand winters.\p"
-	.string "But walk the trees now and you'll hear\nit, dripping. The frost is letting go.\p"
-	.string "Snow that old should never melt. Same\nas they say down in MUNEN.$"
+	.string "{JPN}フロストウッドタウンへ ようこそ たびのかた。\p"
+	.string "この もりは せんねんの ふゆの あいだ\nずっと おなじ しろい ころもを きてきた。\p"
+	.string "だが いま もりを あるけば しずくの\nおとが する。 しもが とけだしたのだ。\p"
+	.string "あれほど ふるい ゆきが とけては ならん。\nムネンの ものたちも そう いっておる。$"
 
 FrostwoodText_GymWoman:
-	.string "See that big building with the snowed-\nover roof? That's our POKEMON GYM.\p"
-	.string "If you're starting out, this is where it\ngets real, your first Badge.\p"
-	.string "Warm up at the POKEMON CENTER first.\nThe LEADER won't go easy on you.$"
+	.string "{JPN}ゆきが つもった やねの おおきな たてもの\nみえる？ あれが まちの ポケモンジムよ。\p"
+	.string "かけだしなら ここからが ほんばん。\nはじめての バッジよ。\p"
+	.string "まずは ポケモンセンターで あたたまって。\nジムリーダーは てかげん しないから。$"
 
 FrostwoodText_Kid:
-	.string "A trainer came through ahead of you!\nSpiky hair, real full of himself.\p"
-	.string "DRACO, he said his name was. Bragged\nhe'd take the Gym Badge before anyone.\p"
-	.string "Are you gonna race him? You should!$"
+	.string "{JPN}さっき トレーナーが さきに いったよ！\nツンツン あたまで すっごい えらそうなの。\p"
+	.string "ドラコって なのってた。 だれよりも さきに\nジムバッジを とるって いばってたよ。\p"
+	.string "あいつと きょうそう するの？ しなよ！$"
 
 FrostwoodText_Worried:
-	.string "You feel it too, don't you. The cold's\ngoing soft.\p"
-	.string "My grandmother told stories of a wish\nsealed in the mountain, and the winter\lput here to keep it sleeping.\p"
-	.string "If the winter dies... I don't want to\nthink about what wakes up.$"
+	.string "{JPN}あなたも かんじるでしょう。 さむさが\nやわらいで きているの。\p"
+	.string "おばあちゃんが よく はなしてくれた。 やまに\nねがいが ふういんされていて ふゆは それを\lねむらせておく ために ここに あるのだと。\p"
+	.string "もし ふゆが おわったら… なにが\nめざめるのか かんがえたくも ないわ。$"
 
 FrostwoodText_MartLady:
-	.string "The POKE MART just got a fresh delivery\nof POTIONS and POKE BALLS.\p"
-	.string "Stock up before you head up the\nmountain trail. It's no place to be\lcaught short.$"
+	.string "{JPN}フレンドリィショップに キズぐすりと\nモンスターボールが はいった ところよ。\p"
+	.string "やまみちに いくまえに かいそろえて おいて。\nあそこで きらしたら\lたいへんよ。$"
 
 FrostwoodTown_Text_ClarksonCall:
+	.string "{JPN}………………\n"
+	.string "…………… プルルルル！\p"
+	.string "クラークソン: {ENG}{PLAYER}{JPN}！ わしだ\n"
+	.string "クラークソンだ。 ここでは うわさが はやくてな\l"
+	.string "きいたぞ もう\l"
+	.string "エンバーバッジを てにいれたそうじゃないか！\p"
+	.string "はっは！ はじめて あった ときから\n"
+	.string "おまえには なにかが あると おもっておった。\p"
+	.string "これほど はやく せいちょうする\n"
+	.string "トレーナーは ひさしぶりに みる…\l"
+	.string "だからこそ でんわ したのだ。\p"
+	.string "だいじな ことでなければ たのまんが\n"
+	.string "いまは おまえにしか できないことで\l"
+	.string "ちからを かしてほしい。\p"
+	.string "ムネンやまの てっぺんまで のぼって\n"
+	.string "さんちょうで わしと あってくれ。\p"
+	.string "そこで おまえに じかに みせなければ\n"
+	.string "ならない ものが ある。 でんわでは\l"
+	.string "つたえられん。 みれば\l"
+	.string "わかるはずだ。\p"
+	.string "まっておるぞ。 としよりを さむい ところで\n"
+	.string "あまり またせんでくれよ！\p"
 	.string "………………\n"
-	.string "…………… Ring!\p"
-	.string "CLARKSON: {PLAYER}! It's PROFESSOR\n"
-	.string "CLARKSON. Word travels fast up here,\l"
-	.string "they tell me you took \l"
-	.string "the EMBER BADGE already?\p"
-	.string "Ha! I knew there was something about\n"
-	.string "you the moment we met.\p"
-	.string "That's faster growth than I've seen\n"
-	.string "in a trainer in years… and that's\l"
-	.string "exactly why I'm calling.\p"
-	.string "I wouldn't ask if it weren't important,\n"
-	.string "but I need your help with something\l"
-	.string "only you can do now.\p"
-	.string "Climb to the very top of MOUNT MUNEN\n"
-	.string "and meet me at the summit.\p"
-	.string "There's something up there I have to\n"
-	.string "show you with my own hands. Not \l"
-	.string "over a call, you'll understand \l"
-	.string "when you see it.\p"
-	.string "I'll be waiting. Don't keep an old man\n"
-	.string "out in the cold too long!\p"
-	.string "………………\n"
-	.string "…………… Click!$"
+	.string "…………… ガチャ！$"
 
 FrostwoodTown_Text_ClarksonReminder:
-	.string "The PROFESSOR wants to meet at\n"
-	.string "the summit of MOUNT MUNEN.\p"
-	.string "Check the REGION MAP to work out how\n"
-	.string "to climb up there.$"
+	.string "{JPN}はかせは ムネンやまの\n"
+	.string "さんちょうで あいたいと いっていた。\p"
+	.string "タウンマップで そこへの\n"
+	.string "のぼりかたを しらべよう。$"
 
 @ ---------------------------------------------------------------------------
 @ Gondola down to the valley station (Route112_CableCarStation, whose door opens
@@ -187,7 +187,7 @@ FrostwoodTown_Movement_StepOffGondolaDoor:
 	step_end
 
 FrostwoodTown_Text_TakeGondola:
-	.string "Would you like to take the GONDOLA?$"
+	.string "{JPN}ゴンドラに のりますか？$"
 
 @ ---------------------------------------------------------------------------
 @ Frostwood Gym is locked until RedFatality gets his EPIC PASS on Route 2
@@ -215,6 +215,6 @@ FrostwoodTown_Movement_StepBackFromGym:
 	step_end
 
 FrostwoodTown_Text_GymNote:
-	.string "There's a note posted on the door.\p"
-	.string "“FROSTWOOD's GYM LEADER\n"
-	.string "is out on PTO.”$"
+	.string "{JPN}とびらに はりがみが ある。\p"
+	.string "「フロストウッドジムの ジムリーダーは\n"
+	.string "ゆうきゅうきゅうか ちゅうです」$"

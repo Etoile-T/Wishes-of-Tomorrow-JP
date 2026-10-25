@@ -190,9 +190,9 @@ LittlerootTown_BrendansHouse_2F_Movement_PlayerWatchBrendanEast:
 	step_end
 
 WotText_PCRandomizerAsk::
-	.string "The home computer is still on\n"
-	.string "the setup screen.\p"
-	.string "Open RANDOMIZER SETTINGS?$"
+	.string "{JPN}いえの パソコンは まだ\n"
+	.string "せっていがめんの ままだ。\p"
+	.string "ランダマイザーの せっていを ひらく？$"
 
 LittlerootTown_BrendansHouse_2F_EventScript_PC::
 	lockall
@@ -246,35 +246,35 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "{JPN}とけいが とまっている…\p"
+	.string "じかんを あわせて うごかそう！$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "{JPN}ママ: {ENG}{PLAYER}{JPN} あたらしい へやは\n"
+	.string "どう？\p"
+	.string "よかった！ ちゃんと かたづいてるわね！\p"
+	.string "したの かいも ぜんぶ\n"
+	.string "はこびおわったわ。\p"
+	.string "ポケモンの ひっこしやさんって べんりね！\p"
+	.string "そうだ つくえの うえの ものが\n"
+	.string "ぜんぶ そろってるか たしかめてね。$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ノートを ひらいた。\p"
+	.string "ぼうけんの こころえ その1\n"
+	.string "STARTで メニューを ひらこう。\p"
+	.string "ぼうけんの こころえ その2\n"
+	.string "レポートで きろくを のこそう。\p"
+	.string "あとの ページは まっしろだ…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "{REGION} region map.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n"
+	.string "{ENG}{REGION}{JPN}ちほうの ちずを よく みた。$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "{JPN}ニンテンドー ゲームキューブだ。\p"
+	.string "ゲームボーイアドバンスが\n"
+	.string "コントローラーとして つながっている。$"
 
 @==============================================================================
 @ DEV TEST NPC -- hands the player one high-level MEWTWO for blitzing the build.
@@ -320,29 +320,29 @@ PlayersBedroom_EventScript_DevAlready::
 	end
 
 PlayersBedroom_Text_DevAsk:
-	.string "Psst… before you head out.\p"
-	.string "Are you a DEVELOPER?$"
+	.string "{JPN}ねえ… でかける まえに。\p"
+	.string "きみ かいはつしゃ？$"
 
 PlayersBedroom_Text_DevGive:
-	.string "Knew it. Here -- take this to tear\n"
-	.string "through the build and test it all.\p"
-	.string "{PLAYER} received a high-level\n"
-	.string "SHINY MEWTWO!$"
+	.string "{JPN}やっぱりね。 ほら これで ビルドを\n"
+	.string "かけぬけて ぜんぶ テストして くれ。\p"
+	.string "{ENG}{PLAYER}{JPN}は こうレベルの\n"
+	.string "いろちがいの ミュウツーを もらった！$"
 
 PlayersBedroom_Text_DevToPC:
-	.string "Your party was full, so it was\n"
-	.string "sent to a BOX in the PC.$"
+	.string "{JPN}てもちが いっぱい だったので\n"
+	.string "パソコンの ボックスに おくられた。$"
 
 PlayersBedroom_Text_DevNoRoom:
-	.string "Whoa -- your party AND your PC\n"
-	.string "boxes are totally full!\p"
-	.string "Make some room and talk to me\n"
-	.string "again.$"
+	.string "{JPN}うわっ てもちも パソコンの\n"
+	.string "ボックスも ぜんぶ いっぱいだ！\p"
+	.string "あきを つくってから また\n"
+	.string "はなしかけて。$"
 
 PlayersBedroom_Text_DevNo:
-	.string "Ha! A purist, huh? Respect.\n"
-	.string "Go earn it the hard way, then.$"
+	.string "{JPN}はは！ こだわりはか？ そんけいするよ。\n"
+	.string "じゃあ じりきで てにいれて くれ。$"
 
 PlayersBedroom_Text_DevAlready:
-	.string "That MEWTWO breaking the game in\n"
-	.string "half for you yet?$"
+	.string "{JPN}あの ミュウツーで もう ゲームを\n"
+	.string "まっぷたつに しちゃった？$"

@@ -10,7 +10,8 @@ import argparse, json, pathlib, re, subprocess
 import catalog
 
 BASELINE = '23be896714'  # English source snapshot; catalog line numbers refer to it
-VARIABLE = re.compile(r'\{(?:PLAYER|RIVAL|STR_VAR_[123]|STRING \d+|B_[A-Z_0-9]+)\}')
+# FD-prefixed placeholders expand to names that may end in {ENG}; see charmap.txt.
+VARIABLE = re.compile(r'\{(?:PLAYER|RIVAL|KUN|VERSION|AQUA|MAGMA|ARCHIE|MAXIE|KYOGRE|GROUDON|REGION|STR_VAR_[123]|STRING \d+|B_[A-Z_0-9]+)\}')
 
 def parse(text):
     pairs = []

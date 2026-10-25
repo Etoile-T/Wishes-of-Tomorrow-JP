@@ -178,143 +178,143 @@ MunenTunnel_EventScript_UnsentLetter::
 @  Text
 @ ============================================================================
 MunenTunnel_Text_Houndoom::
-	.string "A HOUNDOOM prowls between the\n"
-	.string "graves, hackles raised.\p"
-	.string "Its eyes catch the torchlight…\n"
-	.string "it is watching you back.$"
+	.string "{JPN}ヘルガーが けを さかだてて\n"
+	.string "はかの あいだを うろついている。\p"
+	.string "その めが たいまつの ひかりを とらえた…\n"
+	.string "こちらを みかえしている。$"
 
 MunenTunnel_Text_MaskGuarded::
-	.string "A carved mask lies in the dust,\p"
-	.string "but the CAPTAIN's boot is planted\n"
-	.string "an inch from it, and his eyes are\l"
-	.string "planted on you.$"
+	.string "{JPN}ほりこまれた めんが つちぼこりの なかに ある。\p"
+	.string "だが たいちょうの ブーツが\n"
+	.string "その すぐ そばに ふみしめられ その めは\l"
+	.string "こちらを ぴたりと とらえている。$"
 
 MunenTunnel_Text_GoonAIntro::
-	.string "Oi! The tomb's closed,\n"
-	.string "Turn around.\p"
-	.string "...You're not turning around.$"
+	.string "{JPN}おい！ はかばは へいさ ちゅうだ。\n"
+	.string "ひきかえせ。\p"
+	.string "…ひきかえす きは ねえってか。$"
 
 MunenTunnel_Text_GoonADefeat::
-	.string "The CAPTAIN's gonna have my mask\n"
-	.string "for this...$"
+	.string "{JPN}たいちょうに めんを とりあげられちまう\n"
+	.string "…$"
 
 MunenTunnel_Text_GoonAPost::
-	.string "Go on then. The deeper caverns are\n"
-	.string "the CAPTAIN's problem, not mine.$"
+	.string "{JPN}いけよ。 おくの どうくつは\n"
+	.string "たいちょうの しごとだ。 おれの じゃねえ。$"
 
 MunenTunnel_Text_GoonBIntro::
-	.string "You beat the gate guard? Ha.\p"
-	.string "He was the WEAK one.$"
+	.string "{JPN}もんばんを たおしたって？ はっ。\p"
+	.string "あいつは よわい ほうだ。$"
 
 MunenTunnel_Text_GoonBDefeat::
-	.string "Fine, fine! So was I!$"
+	.string "{JPN}わかった わかった！ おれもだよ！$"
 
 MunenTunnel_Text_GoonBPost::
-	.string "The CAPTAIN doesn't lose. He'll\n"
-	.string "bury you with the rest of the\l"
-	.string "tomb's residents.$"
+	.string "{JPN}たいちょうは まけねえ。 おまえも\n"
+	.string "ここの はかの じゅうにんと いっしょに\l"
+	.string "うめられるぜ。$"
 
 MunenTunnel_Text_GeneralIntro::
-	.string "Hold.\p"
-	.string "CAPTAIN McCORMICK. I hold this tomb\n"
-	.string "until the WISH has been claimed.\p"
-	.string "Two of mine, beaten by a child\n"
-	.string "playing archaeologist.\p"
-	.string "The apprentice's little mask?\n"
-	.string "It stays in the dirt where he\l"
-	.string "threw it, and so will you.$"
+	.string "{JPN}とまれ。\p"
+	.string "わたしは マコーミックたいちょう。 ねがいが\n"
+	.string "てに はいるまで この はかを まもる。\p"
+	.string "ぶかを ふたりも やられたか。 こうこがくしゃ\n"
+	.string "きどりの こどもに。\p"
+	.string "でしの ちいさな めんか？\n"
+	.string "あれは やつが すてた つちの なかに\l"
+	.string "のこる。 おまえも おなじだ。$"
 
 MunenTunnel_Text_GeneralDefeat::
-	.string "...Company, withdraw.$"
+	.string "{JPN}…ぶたい てっしゅう。$"
 
 MunenTunnel_Text_GeneralRetreat::
-	.string "A tomb is a poor hill to die on.\p"
-	.string "Take the dead man's toy, then.\n"
-	.string "The mountain above is already\l"
-	.string "ours. And the Leader does not\l"
-	.string "withdraw.$"
+	.string "{JPN}はかばは いのちを かけるに あたいしない。\p"
+	.string "しんだ おとこの おもちゃは もっていけ。\n"
+	.string "うえの やまは すでに われらの ものだ。\l"
+	.string "そして リーダーは\l"
+	.string "しりぞかない。$"
 
 MunenTunnel_Text_GruntIntro::
-	.string "Hm? A villager?\p"
-	.string "No... doesn't matter. The ritual has\n"
-	.string "begun. Everyone else has climbed.\p"
-	.string "My orders are simple, NOBODY\n"
-	.string "disturbs what we left down here!$"
+	.string "{JPN}ん？ むらの やつか？\p"
+	.string "いや… どうでもいい。 ぎしきは もう\n"
+	.string "はじまった。 ほかの やつらは みんな のぼった。\p"
+	.string "おれの めいれいは かんたんだ。 ここに\n"
+	.string "おいていった ものには だれも てを だすな！$"
 
 MunenTunnel_Text_GruntDefeat::
-	.string "Agh! I wasn't left here because\n"
-	.string "I was the STRONG one...$"
+	.string "{JPN}うぐっ！ おれが ここに のこされたのは\n"
+	.string "つよいから じゃ なかったのか…$"
 
 MunenTunnel_Text_GruntFlee::
-	.string "You don't get it! The Summit Gate\n"
-	.string "only opens for the masked!\p"
-	.string "The mountain keeps what people\n"
-	.string "regret, and the master's going\l"
-	.string "to give it all BACK!\p"
-	.string "Laugh if you want! You'll see!\n"
-	.string "Up top... everyone will see!$"
+	.string "{JPN}わかって ねえな！ サミットゲートは\n"
+	.string "めんを つけた ものにしか ひらかねえ！\p"
+	.string "やまは ひとの こうかいを\n"
+	.string "しまいこんでる。 マスターは それを\l"
+	.string "ぜんぶ かえして くれるんだ！\p"
+	.string "わらいたきゃ わらえ！ いまに わかる！\n"
+	.string "てっぺんで… みんな わかるさ！$"
 
 MunenTunnel_Text_GraveDefaced::
-	.string "An old grave marker. The names\n"
-	.string "were worn away generations ago.\p"
-	.string "Fresh chisel marks scar the stone.\n"
-	.string "Someone carved a horned face here,\l"
-	.string "and they did it recently.$"
+	.string "{JPN}ふるい はかいしだ。 なまえは\n"
+	.string "なんだいも まえに すりきれている。\p"
+	.string "いしには あたらしい のみの あとが ある。\n"
+	.string "だれかが ここに つのの ある かおを\l"
+	.string "ほった。 それも つい さいきんだ。$"
 
 MunenTunnel_Text_GraveOfferings::
-	.string "You can just yeet off these cliffs,\n"
-	.string "don't bother backtracking.$"
+	.string "{JPN}この がけからは ひょいっと とびおりて OK。\n"
+	.string "わざわざ もどらなくて いいよ。$"
 
 MunenTunnel_Text_WallInscription::
-	.string "OPERATION: WISH\p"
-	.string "PHASE 1: Obtain JIRACHI, the\n"
-	.string "DYING WISH.\p"
-	.string "PHASE 2: \p"
-	.string "(REDACTED)$"
+	.string "{JPN}さくせん: ねがい\p"
+	.string "だい1だんかい: しにゆく ねがい\n"
+	.string "ジラーチを てにいれる。\p"
+	.string "だい2だんかい: \p"
+	.string "(くろぬり)$"
 MunenTunnel_Text_CampOrders::
-	.string "Bedrolls, cold ash, empty crates...\n"
-	.string "a scrap of paper is pinned under\l"
-	.string "a rock.\p"
-	.string "Move only at night. The village\n"
-	.string "must not count our numbers.\p"
-	.string "Masks stay ON. The Summit Gate\n"
-	.string "opens for no bare face.\p"
-	.string "When the bell sounds twice, burn\n"
-	.string "this camp and climb. CPT. M$"
+	.string "{JPN}ねぶくろ つめたい はい からの はこ…\n"
+	.string "いしの したに かみきれが\l"
+	.string "はさんである。\p"
+	.string "こうどうは よるのみ。 むらの ものに\n"
+	.string "こちらの かずを さとられるな。\p"
+	.string "めんは はずすな。 サミットゲートは\n"
+	.string "すがおの ものには ひらかない。\p"
+	.string "かねが 2ど なったら この キャンプを\n"
+	.string "もやして のぼれ。 M たいちょう$"
 
 MunenTunnel_Text_UnsentLetter::
-	.string "A letter, folded with great care.\n"
-	.string "It was never sent.\p"
-	.string "“Master Gen…\p"
-	.string "“I'm sorry about the mask. I know\n"
-	.string "it wasn't mine to take.\p"
-	.string "“But the man with the face of an Oni\n"
-	.string "says Father is waiting past the\l"
-	.string "Summit Gate.\p"
-	.string "“He says The WISH \n"
-	.string "we regret, and the master can\l"
-	.string "give it back.\p"
-	.string "“I have to see him again. Even\n"
-	.string "once. Please don't follow me.\p"
-	.string "“, Ryoko”$"
+	.string "{JPN}ていねいに おりたたまれた てがみだ。\n"
+	.string "だされることは なかった。\p"
+	.string "「ゲンししょう…\p"
+	.string "「めんの こと ごめんなさい。 わたしが\n"
+	.string "もっていって いい ものじゃ なかった。\p"
+	.string "「でも オニの かおを した おとこが\n"
+	.string "サミットゲートの むこうで とうさんが\l"
+	.string "まってるって いうんです。\p"
+	.string "「ねがいは わたしたちの\n"
+	.string "こうかいで マスターなら それを\l"
+	.string "かえして くれるって。\p"
+	.string "「もう いちどだけ とうさんに あいたい。\n"
+	.string "いちどで いい。 どうか おわないで ください。\p"
+	.string "「リョウコより」$"
 
 MunenTunnel_Text_Sableye::
-	.string "A SABLEYE picks at the tomb\n"
-	.string "wall, gnawing loose gems.\p"
-	.string "Its jeweled eyes flash once...\n"
-	.string "and it grins.$"
+	.string "{JPN}ヤミラミが はかの かべを\n"
+	.string "ひっかいて ほうせきを かじりとっている。\p"
+	.string "ほうせきの めが いちど ひかり…\n"
+	.string "にやりと わらった。$"
 
 MunenTunnel_Text_Mightyena::
-	.string "A MIGHTYENA circles the dark\n"
-	.string "with its nose low.\p"
-	.string "A growl rolls out of it, soft\n"
-	.string "and patient.$"
+	.string "{JPN}グラエナが はなを ひくく して\n"
+	.string "くらやみを ぐるぐる まわっている。\p"
+	.string "ひくい うなりごえが しずかに\n"
+	.string "しんぼうづよく もれてくる。$"
 
 MunenTunnel_Text_Shuppet::
-	.string "A SHUPPET drifts along the\n"
-	.string "ceiling, trailing cold air.\p"
-	.string "It turns to face you without\n"
-	.string "turning at all.$"
+	.string "{JPN}カゲボウズが つめたい くうきを ひいて\n"
+	.string "てんじょうを ただよっている。\p"
+	.string "ふりむきも しないのに\n"
+	.string "いつのまにか こちらを むいていた。$"
 
 @ --------------------------------------------------------------------------
 @  Yiffer (WOT_ALDO sprite) -- Frostwood Gym trainer, out plugging his dojo.
@@ -362,31 +362,31 @@ MunenTunnel_EventScript_YifferAfter::
 	end
 
 MunenTunnel_Text_YifferPlug:
-	.string "Shameless plug: stop in at\n"
-	.string "BK KICKBOXING for a lesson in\l"
-	.string "ass-kicking…\p"
-	.string "…or your money back.\n"
-	.string "Guaranteed!\p"
-	.string "Hiii-YAAA!\p"
-	.string "Free trial lesson, right now.\n"
-	.string "Survive it and the sample's yours!$"
+	.string "{JPN}せんでん させて くれ！ けんかの\n"
+	.string "しかたを おぼえるなら BKキックボクシング！\l"
+	.string "ぶっとばし かた おしえます…\p"
+	.string "…できなきゃ ぜんがく へんきん！\n"
+	.string "ほしょう つき！\p"
+	.string "ハイィィ ヤーーッ！\p"
+	.string "むりょう たいけんレッスン いまから だ！\n"
+	.string "いきのこれたら サンプルは きみの ものだ！$"
 
 MunenTunnel_Text_YifferDefeat:
-	.string "Oof! You hit like a paying\n"
-	.string "customer!$"
+	.string "{JPN}ぐはっ！ おかねを はらう おきゃくさん\n"
+	.string "なみの パンチだ！$"
 
 MunenTunnel_Text_YifferSample:
-	.string "A deal's a deal.\n"
-	.string "Here's your free sample.$"
+	.string "{JPN}やくそくは やくそくだ。\n"
+	.string "むりょう サンプルを どうぞ。$"
 
 MunenTunnel_Text_CanUseStrength:
-	.string "{PLAYER} can now use STRENGTH\n"
-	.string "outside of battle!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は せんとう いがいでも\n"
+	.string "かいりきが つかえるように なった！$"
 
 MunenTunnel_Text_YifferStrength:
-	.string "That's STRENGTH. Shove the boulders\n"
-	.string "around down here like you mean it!$"
+	.string "{JPN}それが かいりきだ。 ここの いわを\n"
+	.string "ほんきで おしまくれ！$"
 
 MunenTunnel_Text_YifferAfter:
-	.string "BK KICKBOXING. First lesson's on me.\n"
-	.string "Hiii-YAAA!$"
+	.string "{JPN}BKキックボクシング。 はつかいは おごりだ。\n"
+	.string "ハイィィ ヤーーッ！$"

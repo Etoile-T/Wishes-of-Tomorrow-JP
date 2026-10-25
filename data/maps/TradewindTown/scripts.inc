@@ -391,151 +391,151 @@ Tradewind_EventScript_TrainerPiper::
 @  Text
 @ ============================================================================
 Tradewind_Text_CurioGreeting::
-	.string "Curios of the Crossing.\n"
-	.string "A thousand coin apiece.\p"
-	.string "Look over the cloth, take\n"
-	.string "what calls to you.$"
+	.string "{JPN}あのよへの わたりばの めずらしなだよ。\n"
+	.string "1つ 1000円。\p"
+	.string "しきものを ながめて\n"
+	.string "こころを ひかれたものを どうぞ。$"
 
 Tradewind_Text_CurioFarewell::
-	.string "The crossing keeps its\n"
-	.string "hours. Come back anytime.$"
+	.string "{JPN}わたりばには きまった じかんが ある。\n"
+	.string "また いつでも おいで。$"
 
 Tradewind_Text_PawnbrokerOffer::
-	.string "Ahh. You carry a curio, and\n"
-	.string "the Badge to spend it.\p"
-	.string "Hand one over. What it truly\n"
-	.string "is... shows only now.$"
+	.string "{JPN}ほう。 めずらしなと それを つかうための\n"
+	.string "バッジを もっているな。\p"
+	.string "1つ よこしな。 ほんとうの すがたが…\n"
+	.string "いま はじめて みえるのさ。$"
 
 Tradewind_Text_StoneRevealed::
-	.string "There. A bond, made solid.\n"
-	.string "It was always this, waiting.$"
+	.string "{JPN}ほら。 きずなが かたちに なった。\n"
+	.string "ずっと このまま まっていたんだ。$"
 
 Tradewind_Text_PawnNoCurio::
-	.string "No curio, no exchange.\n"
-	.string "The Curio Merchant is down\l"
-	.string "the way.$"
+	.string "{JPN}めずらしなが なけりゃ こうかんは なし。\n"
+	.string "めずらしなうりなら\l"
+	.string "このさきに いるよ。$"
 
 Tradewind_Text_PawnbrokerClosed::
-	.string "This stall isn't lit for you.\n"
-	.string "Not yet. Earn the Lantern\l"
-	.string "first, then we'll talk.$"
+	.string "{JPN}この みせの あかりは あんたのためじゃない。\n"
+	.string "まだな。 まずは ランタンを てにいれな。\l"
+	.string "はなしは それからだ。$"
 
 Tradewind_Text_PawnFarewell::
-	.string "Bonds keep. Come back when\n"
-	.string "you're ready to spend one.$"
+	.string "{JPN}きずなは のこる。 1つ てばなす\n"
+	.string "きに なったら また おいで。$"
 
 Tradewind_Text_GoroDefeat::
-	.string "Gahh! Full stomach,\n"
-	.string "empty victory...$"
+	.string "{JPN}ぐああ! はらは いっぱいなのに\n"
+	.string "しょうりは からっぽ…$"
 
 Tradewind_Text_GoroPostBattle::
-	.string "Rule one of the market:\n"
-	.string "never eat what's offered.\p"
-	.string "Rule two: never battle\n"
-	.string "Madam Tsuji hungry.$"
+	.string "{JPN}いちばの おきて その1。\n"
+	.string "だされたものを たべるな。\p"
+	.string "その2。 はらぺこで\n"
+	.string "ツジふじんに いどむな。$"
 
 Tradewind_Text_LanternBearerDefeat::
-	.string "The fox-fire... gutters\n"
-	.string "out...$"
+	.string "{JPN}きつねびが…\n"
+	.string "きえていく…$"
 
 Tradewind_Text_LanternBearerPostBattle::
-	.string "Follow a lantern in this\n"
-	.string "market and you'll walk in\l"
-	.string "circles till morning.\p"
-	.string "Madam Tsuji lights her own.$"
+	.string "{JPN}この いちばで ランタンを おえば\n"
+	.string "あさまで おなじ ところを\l"
+	.string "ぐるぐる あるくことに なる。\p"
+	.string "ツジふじんは じぶんで あかりを ともす。$"
 
 Tradewind_Text_ApprenticeDefeat::
-	.string "Appraised... and found\n"
-	.string "wanting. Me, not you.$"
+	.string "{JPN}しなさだめを されて… おとされた。\n"
+	.string "あなたじゃなくて わたしがね。$"
 
 Tradewind_Text_ApprenticePostBattle::
-	.string "I appraise what crosses\n"
-	.string "this market. Trinket or\l"
-	.string "treasure, I can tell.\p"
-	.string "You? Treasure. Madam Tsuji\n"
-	.string "will want a look at you.$"
+	.string "{JPN}この いちばを とおるものを みきわめる。\n"
+	.string "がらくたか たからか\l"
+	.string "わたしには わかるんだ。\p"
+	.string "あなたは たからだ。 ツジふじんも\n"
+	.string "あいたがるだろう。$"
 
 Tradewind_Text_TsujiNotReady::
-	.string "Madam Tsuji sees no one\n"
-	.string "unproven.\p"
-	.string "Three of mine keep this\n"
-	.string "market. Best them first,\l"
-	.string "then we'll speak.$"
+	.string "{JPN}ツジふじんは ちからを しめさぬものには\n"
+	.string "あってくださらない。\p"
+	.string "この いちばを まもる なかまは 3にん。\n"
+	.string "まずは かれらを たおせ。\l"
+	.string "はなしは それからだ。$"
 
 Tradewind_Text_TsujiMegaIntro::
-	.string "So. The one my three\n"
-	.string "couldn't stop.\p"
-	.string "I am Tsuji. I deal in bonds\n"
-	.string "- the kind between a\l"
-	.string "trainer and their POKéMON.\p"
-	.string "Wound tight enough, a bond\n"
-	.string "becomes a stone. Struck in\l"
-	.string "battle, the stone becomes\l"
-	.string "power beyond evolution.\p"
-	.string "They call it MEGA EVOLUTION.\n"
-	.string "Watch closely. It will cost\l"
-	.string "you the match.$"
+	.string "{JPN}なるほど。 うちの 3にんでも\n"
+	.string "とめられなかったのね。\p"
+	.string "わたしは ツジ。 きずなを あつかうの。\n"
+	.string "トレーナーと ポケモンの あいだに\l"
+	.string "むすばれる きずなをね。\p"
+	.string "きずなを かたく よりあわせれば\n"
+	.string "いしに なる。 たたかいの なかで\l"
+	.string "その いしを うてば\l"
+	.string "しんかを こえた ちからに かわる。\p"
+	.string "ひとは それを メガシンカと よぶの。\n"
+	.string "よく ごらんなさい。 その だいしょうは\l"
+	.string "あなたの はいぼくだけれど。$"
 
 Tradewind_Text_TsujiDefeat::
-	.string "...The bond broke my way\n"
-	.string "this time. How curious.$"
+	.string "{JPN}…こんどは きずなが わたしに みかたした。\n"
+	.string "なんて ふしぎなのかしら。$"
 
 Tradewind_Text_TsujiBadgeSpeech::
-	.string "Take the LANTERN BADGE.\n"
-	.string "You've earned its light.\p"
-	.string "And take these - a MEGA RING,\n"
-	.string "and a stone to start you off.\p"
-	.string "A bond wound tight enough\n"
-	.string "becomes a stone. Now you\l"
-	.string "may strike the spark\l"
-	.string "yourself.$"
+	.string "{JPN}ランタンバッジを うけとりなさい。\n"
+	.string "その あかりに ふさわしい ひとよ。\p"
+	.string "それと メガリングも。 はじめの 1つに\n"
+	.string "この いしを あげるわ。\p"
+	.string "きずなを かたく よりあわせれば\n"
+	.string "いしに なる。 これからは\l"
+	.string "あなた じしんで その ひばなを\l"
+	.string "おこせるのよ。$"
 
 Tradewind_Text_TsujiPawnbrokerHint::
-	.string "One more thing. The\n"
-	.string "Pawnbroker's stall is lit\l"
-	.string "for you now.\p"
-	.string "Those curios the market\n"
-	.string "sells? Bring him one and\l"
-	.string "see what it truly is.$"
+	.string "{JPN}もう 1つ。 しちやの みせに\n"
+	.string "ともる あかりは もう\l"
+	.string "あなたを むかえてくれるわ。\p"
+	.string "いちばで うっている めずらしなを\n"
+	.string "1つ もっていって\l"
+	.string "ほんとうの すがたを たしかめなさい。$"
 
 Tradewind_Text_TsujiPostBadge::
-	.string "The LANTERN BADGE suits\n"
-	.string "you.\p"
-	.string "Feed your curios to the\n"
-	.string "Pawnbroker. Every bond\l"
-	.string "wants to be known.$"
+	.string "{JPN}ランタンバッジが\n"
+	.string "にあっているわ。\p"
+	.string "めずらしなを しちやに わたしなさい。\n"
+	.string "どんな きずなも\l"
+	.string "しってもらいたいと ねがうものよ。$"
 
 Tradewind_Text_DontEatHere::
-	.string "Don't eat. Whatever you do,\n"
-	.string "don't eat here.\p"
-	.string "You won't get hungry\n"
-	.string "again... and you won't leave.$"
+	.string "{JPN}たべるな。 なにが あっても\n"
+	.string "ここで たべちゃ いけない。\p"
+	.string "にどと おなかは すかない…\n"
+	.string "そして でていけなくなる。$"
 
 Tradewind_Text_FaeTouchedHint::
-	.string "Careful up top. Down here,\n"
-	.string "only the fae-touched land a\l"
-	.string "true blow.\p"
-	.string "Bring nothing fae, and\n"
-	.string "you'll bring nothing at all.$"
+	.string "{JPN}うえでは きをつけな。 ここでは\n"
+	.string "ようせいの ちからを やどすものだけが\l"
+	.string "ほんとうの いちげきを あてられる。\p"
+	.string "ようせいの ちからを もたずに きたら\n"
+	.string "なにも もってこなかったのと おなじさ。$"
 
 Tradewind_Text_AfterlifeRealtor::
-	.string "Plots! Fine plots! Eternal\n"
-	.string "rest, water view...\p"
-	.string "walking distance to the gym.\n"
-	.string "Won't last. Nothing does.$"
+	.string "{JPN}はかちだよ! いい はかちだよ!\n"
+	.string "えいえんの やすらぎに うみの ながめ…\p"
+	.string "ジムまで あるいて すぐ。 はやいものがち。\n"
+	.string "いつまでも あるものなど ないからね。$"
 
 Tradewind_Text_SpiritShopper1::
-	.string "...cold hands. Warm soup.\n"
-	.string "Cold hands...$"
+	.string "{JPN}…つめたい て。 あたたかい スープ。\n"
+	.string "つめたい て…$"
 
 Tradewind_Text_SpiritShopper2::
-	.string "I only came for the one\n"
-	.string "thing. I forget what.$"
+	.string "{JPN}たった 1つのものを かいに きただけ。\n"
+	.string "なんだったか わすれたけど。$"
 
 Tradewind_Text_MaskedMerchant::
-	.string "Behind the mask? Another\n"
-	.string "mask, friend. Buy a smile.\l"
-	.string "Only slightly used.$"
+	.string "{JPN}おめんの した? また おめんさ。\n"
+	.string "えがおを かわないか。\l"
+	.string "ちょっとしか つかってないよ。$"
 
 @ ============================================================================
 @  THE SILENT BOATMAN (Act 2) -- ferries to the occupied National Park.
@@ -567,121 +567,121 @@ Tradewind_EventScript_BoatmanStay::
 	end
 
 Tradewind_Text_BoatmanOffer::
-	.string "Cross the Veil?$"
+	.string "{JPN}あのよとの さかいを わたるかい?$"
 
 Tradewind_Text_BoatmanStay::
-	.string "The boatman returns his gaze to\n"
-	.string "the water.\p"
-	.string "The lantern stays lit.\n"
-	.string "The offer stays open.$"
+	.string "{JPN}わたしもりは ふたたび\n"
+	.string "みなもに めを むけた。\p"
+	.string "ランタンは ともったまま。\n"
+	.string "いまも のせてくれる ようだ。$"
 
 Tradewind_Text_LockedDoor::
-	.string "It's locked…$"
+	.string "{JPN}かぎが かかっている…$"
 
 Tradewind_Text_DevWall::
-	.string "(Dev only area.\n"
-	.string "Elevated permissions required.)$"
+	.string "{JPN}(かいはつしゃ せんようエリア。\n"
+	.string "とくべつな けんげんが ひつようです。)$"
 
 Tradewind_Text_GhostDrifloon::
-	.string "DRIFLOON drifts against the wind,\n"
-	.string "string dangling like an offer.\p"
-	.string "Don't take its hand.$"
+	.string "{JPN}フワンテが かぜに さからって ただよい\n"
+	.string "さそうように ひもを たらしている。\p"
+	.string "その てを とっては いけない。$"
 
 Tradewind_Text_GhostLampent::
-	.string "LAMPENT hangs perfectly still\n"
-	.string "over the black water.\p"
-	.string "Its flame reflects where there\n"
-	.string "is nothing to reflect.$"
+	.string "{JPN}ランプラーは くろい みなもの うえで\n"
+	.string "ぴくりとも うごかない。\p"
+	.string "なにひとつ うつらない はずの ところに\n"
+	.string "その ほのおが うつっている。$"
 
 Tradewind_Text_GhostGastly::
-	.string "GASTLY grins at your reflection\n"
-	.string "instead of at you.$"
+	.string "{JPN}ゴースは あなたではなく みなもの あなたに\n"
+	.string "にやりと わらいかけている。$"
 
 Tradewind_Text_GhostDuskull::
-	.string "DUSKULL's one eye slides from\n"
-	.string "socket to socket…\p"
-	.string "It is counting the shoppers.\n"
-	.string "It counts one too many.$"
+	.string "{JPN}ヨマワルの ひとつめが\n"
+	.string "めの くぼみから くぼみへ うごく…\p"
+	.string "かいものきゃくを かぞえている。\n"
+	.string "かずが 1にん おおい。$"
 
 Tradewind_Text_GhostLitwick::
-	.string "LITWICK's flame bends toward\n"
-	.string "you like a beckoning finger.\p"
-	.string "The market lanterns bend with it.$"
+	.string "{JPN}ヒトモシの ほのおが てまねきする ゆびのように\n"
+	.string "こちらに かたむく。\p"
+	.string "いちばの ランタンも いっしょに かたむく。$"
 
 Tradewind_Text_GhostShuppet::
-	.string "SHUPPET nestles among the masks\n"
-	.string "on the stall.\p"
-	.string "One of the masks is breathing.$"
+	.string "{JPN}カゲボウズは みせさきの おめんに\n"
+	.string "まぎれこんでいる。\p"
+	.string "おめんの 1つが いきを している。$"
 
 Tradewind_Text_GhostMisdreavus::
-	.string "MISDREAVUS hums a lullaby.\p"
-	.string "You've heard it before. You\n"
-	.string "can't remember where. It smiles.$"
+	.string "{JPN}ムウマが こもりうたを くちずさむ。\p"
+	.string "まえにも きいた。 どこだったか\n"
+	.string "おもいだせない。 ムウマは わらっている。$"
 
 Tradewind_Text_GhostChanneler::
-	.string "The dead barter here, same as\n"
-	.string "the living. Look at the vendors'\l"
-	.string "feet, if you doubt me.\p"
-	.string "The ones that touch the ground\n"
-	.string "are the customers.$"
+	.string "{JPN}ここでは ししゃも いきた ひとも とりひきする。\n"
+	.string "うたがうなら みせの ひとの\l"
+	.string "あしを みるといい。\p"
+	.string "じめんに あしが ついているのが\n"
+	.string "おきゃくさんだ。$"
 
 Tradewind_Text_GhostDancer::
-	.string "I danced at this market's first\n"
-	.string "lantern-lighting.\p"
-	.string "That was… oh, a hundred and\n"
-	.string "forty years ago.\p"
-	.string "…Why are you looking at me\n"
-	.string "like that?$"
+	.string "{JPN}この いちばで はじめて ランタンを ともしたとき\n"
+	.string "わたしは おどったの。\p"
+	.string "あれは… そうね\n"
+	.string "140ねん まえだったわ。\p"
+	.string "…どうして そんな めで\n"
+	.string "みるの?$"
 
 Tradewind_Text_MegaHint::
-	.string "You've seen MADAM TSUJI's ring?\n"
-	.string "The stone set in it isn't a jewel.\p"
-	.string "They say when her lantern burns\n"
-	.string "low, she touches it, and her\l"
-	.string "partner becomes something ELSE.\p"
-	.string "Mega Evolution, the old-timers\n"
-	.string "call it. She'd never show it to\l"
-	.string "a stranger.\p"
-	.string "Earn her badge, though… and who\n"
-	.string "knows what she'll pass on.$"
+	.string "{JPN}ツジふじんの ゆびわは みた?\n"
+	.string "はまってる いしは ほうせきじゃないの。\p"
+	.string "ランタンの ひが よわると\n"
+	.string "あの いしに ふれるんだって。 すると\l"
+	.string "パートナーが ちがうものに なるの。\p"
+	.string "メガシンカって としよりは よぶわ。\n"
+	.string "しらない ひとには ぜったい\l"
+	.string "みせてくれないけど。\p"
+	.string "でも バッジを てにいれたら…\n"
+	.string "なにを さずけてくれるかしらね。$"
 
 Tradewind_Text_SableIntro::
-	.string "The lanterns whisper to my\n"
-	.string "darlings. Right now they're\l"
-	.string "whispering about YOU.$"
+	.string "{JPN}ランタンが うちの かわいい こたちに\n"
+	.string "ささやくの。 いまは\l"
+	.string "あなたの はなしを しているわ。$"
 
 Tradewind_Text_SableDefeat::
-	.string "Shh… they've gone quiet.$"
+	.string "{JPN}しっ… しずかに なっちゃった。$"
 
 Tradewind_Text_SablePostBattle::
-	.string "My darlings only play with the\n"
-	.string "living they LIKE. Feel honored.$"
+	.string "{JPN}うちの こたちは きにいった いきた ひととしか\n"
+	.string "あそばないの。 こうえいに おもってね。$"
 
 Tradewind_Text_RoshanIntro::
-	.string "Half the shoppers in this market\n"
-	.string "cast no shadow. Care to guess\l"
-	.string "which half you're in?$"
+	.string "{JPN}この いちばの きゃくの はんぶんには\n"
+	.string "かげが ない。 あなたが どちらの はんぶんか\l"
+	.string "あててみるかい?$"
 
 Tradewind_Text_RoshanDefeat::
-	.string "Ah. The half that hits back.$"
+	.string "{JPN}ああ。 やりかえしてくる ほうだったか。$"
 
 Tradewind_Text_RoshanPostBattle::
-	.string "Don't buy anything the cold\n"
-	.string "vendors sell. Their change is\l"
-	.string "always a little TOO old.$"
+	.string "{JPN}つめたい しょうにんの しなは かわないこと。\n"
+	.string "あの おつりは いつも\l"
+	.string "すこし ふるすぎるんだ。$"
 
 Tradewind_Text_PiperIntro::
-	.string "Grandma says never whistle in\n"
-	.string "the market after dark.\p"
-	.string "I whistle ALL the time!$"
+	.string "{JPN}おばあちゃんが よるの いちばで\n"
+	.string "くちぶえを ふいちゃ だめって。\p"
+	.string "いつだって ふいちゃうけどね!$"
 
 Tradewind_Text_PiperDefeat::
-	.string "Eep! Something whistled BACK!$"
+	.string "{JPN}ひゃっ! くちぶえが かえってきた!$"
 
 Tradewind_Text_PiperPostBattle::
-	.string "SABLEYE followed me home from\n"
-	.string "the gem stall. Or maybe I\l"
-	.string "followed IT home. It's fuzzy.$"
+	.string "{JPN}ほうせきの みせから ヤミラミが ついてきたの。\n"
+	.string "それとも ヤミラミの いえに ついていったのかな。\l"
+	.string "よく おぼえてないや。$"
 
 @ ============================================================================
 @  MEGA DOOMSDAY -- the Mega Dimension's opening scene (first time the player
@@ -909,23 +909,23 @@ TradewindTown_Movement_CanariLeaves:
 	step_end
 
 TradewindTown_Text_LidaEnoughResearch:
-	.string "Phew… that's enough research for\n"
-	.string "today. Let's head back to Hotel Z.$"
+	.string "{JPN}ふう… きょうの ちょうさは これくらいね。\n"
+	.string "ホテルZへ もどりましょう。$"
 
 TradewindTown_Text_CanariBattery:
-	.string "Agreed. My battery's at two\n"
-	.string "percent and so am I.$"
+	.string "{JPN}さんせい。 バッテリーは のこり 2パーセント。\n"
+	.string "あたしもね。$"
 
 TradewindTown_Text_LidaAreYou:
-	.string "Wait… are you {PLAYER}?\p"
-	.string "I heard about what you did at\n"
-	.string "Star Summit.\p"
-	.string "You must have some guts to take\n"
-	.string "on The Oni.$"
+	.string "{JPN}まって… あなたが {ENG}{PLAYER}{JPN}?\p"
+	.string "スターサミットでの はなしは\n"
+	.string "きいたわ。\p"
+	.string "オニに いどむなんて\n"
+	.string "ずいぶん どきょうが あるのね。$"
 
 TradewindTown_Text_LidaIntro:
-	.string "I'm Lida, and this is Canari.$"
+	.string "{JPN}わたしは リダ。 こっちは カナリィ。$"
 
 TradewindTown_Text_CanariHelp:
-	.string "We could really use your help.\n"
-	.string "Meet us at Hotel Z when you can!$"
+	.string "{JPN}あんたの ちからが ひつようなんだ。\n"
+	.string "じかんが できたら ホテルZに きてね!$"

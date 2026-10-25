@@ -31,30 +31,30 @@ TradewindLab_EventScript_ShadyDealerDone::
 	end
 
 TradewindLab_Text_Scientist::
-	.string "…How did you find the hatch?\p"
-	.string "No matter. You're here, and the\n"
-	.string "instruments don't care who reads\l"
-	.string "them.\p"
-	.string "I measure the veil. Every year\n"
-	.string "the readings up in the market get\l"
-	.string "a little thinner.\p"
-	.string "The town above us isn't becoming\n"
-	.string "haunted, friend.\p"
-	.string "It's becoming the other side.$"
+	.string "{JPN}…どうやって あの とびらを みつけた?\p"
+	.string "まあいい。 きみは ここに いる。 けいきは\n"
+	.string "だれが よみとるかなんて\l"
+	.string "きにしないからね。\p"
+	.string "あのよとの さかいを はかっているんだ。\n"
+	.string "うえの いちばでは まいとし\l"
+	.string "すこしずつ うすくなっている。\p"
+	.string "うえの まちは ゆうれいに とりつかれて\n"
+	.string "いるんじゃない。\p"
+	.string "あのよに なりつつ あるんだ。$"
 
 TradewindLab_Text_ShadyDealer::
-	.string "Psst. Down here for the readings,\n"
-	.string "or for real merchandise?\p"
-	.string "Kanto's finest. Fell off a truck\n"
-	.string "in another world. No questions.\p"
-	.string "Here…take 'em. On the house.\n"
-	.string "First one's always free.$"
+	.string "{JPN}おい。 そくていデータが めあてかい?\n"
+	.string "それとも ほんものの しなものか?\p"
+	.string "カントーの さいこうきゅうひん。 べつせかいの\n"
+	.string "トラックから おちたのさ。 せんさくは なし。\p"
+	.string "ほら… もっていきな。 おごりだ。\n"
+	.string "さいしょは いつでも タダなのさ。$"
 
 TradewindLab_Text_ShadyDealerAfter::
-	.string "CHARIZARD, BLASTOISE, VENUSAUR.\n"
-	.string "Find the rings to wake 'em up.\p"
-	.string "You were never here.$"
+	.string "{JPN}リザードンに カメックスに フシギバナ。\n"
+	.string "リングを みつけて めざめさせな。\p"
+	.string "ここに きたことは わすれな。$"
 
 TradewindLab_Text_ShadyDealerDone::
-	.string "That's all the free samples,\n"
-	.string "friend. Beat it.$"
+	.string "{JPN}タダの おためしは これで おしまい。\n"
+	.string "さっさと いきな。$"

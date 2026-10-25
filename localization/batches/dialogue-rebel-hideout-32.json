@@ -1,0 +1,1418 @@
+[
+ {
+  "id": "d8c3dae5ae843c92",
+  "translation": "{JPN}ふるい まちの ほねぐみを くぐって\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69cb2373273f2f58",
+  "translation": "おりてきたのが ここ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2d64699f65226f0",
+  "translation": "どの カメラにも うつらない。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5355910167712432",
+  "translation": "{JPN}オニの りんかくが ゆらめき\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ff7831e8ea124ce",
+  "translation": "あまみずのように ながれおちた。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a8b0d828d06aca5",
+  "translation": "フードを かぶった おんな。 その わきで\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0314aeed7155439a",
+  "translation": "ゾロアークが にやりと わらっている。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e72b9144c71dbf86",
+  "translation": "{JPN}ケケケ。 てじょうの しばいは\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87cdc91e91fe7cbf",
+  "translation": "わるかったね。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f167eb0a6657766",
+  "translation": "ようこそ レジスタンスへ。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fec0437be29eb67",
+  "translation": "だつごくしゃさん。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e269808c6acfe4fa",
+  "translation": "あんたに あいたいって ひとたちが\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53eb4d7092d33318",
+  "translation": "いるんだ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0ff87fc6baf036a",
+  "translation": "{JPN}どの がめんにも うつる あの おとこは\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9dd3f3449e853e1",
+  "translation": "じぶんを オニと よんでいる。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1da39d4c78c320f2",
+  "translation": "3ねん あいつの くすりを つくっていた。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e188d9966ac81559",
+  "translation": "うえに なにが あるか しっている。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d63d87ae925c49d9",
+  "translation": "あいつが つくったのは\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "badadd3166913d5b",
+  "translation": "たましいを くらう きかいだ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c65241cfc318c03",
+  "translation": "{JPN}あいつには しぬことのない\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e71b85af86952e44",
+  "translation": "エネルギーげんが ひつようだった。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c42e3fdc7e06f39b",
+  "translation": "それで ジラーチを… ねがいを かなえる\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da5747dc12dad123",
+  "translation": "この ちほうで うまれた なかで\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1c124c83a64cb49",
+  "translation": "もっとも やさしい いきものを\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67e0d14ed423002d",
+  "translation": "そらから ひきずりおろした。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b6dbedf86620694",
+  "translation": "そして めざめたままの ジラーチを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59d63fb94773fa9b",
+  "translation": "タワーの かくしんぶに ようせつした。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5adbd6df9ca01789",
+  "translation": "{JPN}うばわれた ねがいが\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb753aa123f0d0e6",
+  "translation": "ダークそうちを うごかしている。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11ae3a3459a58e46",
+  "translation": "この まちの ダークポケモンは すべて\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "945861d79b2dcf9d",
+  "translation": "あの きかいに とおされた。\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "056df967aa3c6827",
+  "translation": "いきた たましいを とじこめられ\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "550dac18145b50b8",
+  "translation": "いまも さけびつづけている。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37e247606a8a6001",
+  "translation": "それが そとに みえる あかりを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08da349bf52082f1",
+  "translation": "ともしているんだ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "288cf8735028e041",
+  "translation": "{JPN}「しかも じたいは あっかした。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f4ed2da5f2743d4",
+  "translation": "「だれかが クラークソンの けんきゅうを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "568ac8b9300c732f",
+  "translation": "やつらに うばわせた。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "478c42f2d6a2cd33",
+  "translation": "「やつらは かそくしている。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88cd2305e62c1ad2",
+  "translation": "いままで かこうに ていこうした しゅも\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "024cb63b356bf4f7",
+  "translation": "もう ていこうできない。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1dd2e934951da946",
+  "translation": "「あたらしい ダークポケモンは…\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b432265df9378526",
+  "translation": "つよい。」$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eacb6becc6295dee",
+  "translation": "{JPN}こんやは しおが ひく。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62c3084c383fec3c",
+  "translation": "シントウキョウから みなみへ なみのりしろ。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbb7cc42be037727",
+  "translation": "ようせいたちが まもる しまを さがせ。\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3db066bc3684d93",
+  "translation": "あいつが ゆがめたものを リライブする\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b47a91799bb91960",
+  "translation": "すべを まなぶんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b378bc280b125ace",
+  "translation": "それから タワーを のぼれ…\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef84e0c2704d42d3",
+  "translation": "…そして あの きかいの しんぞうを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9568c06dc356e5f",
+  "translation": "ひきずりだせ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2720f9cbe1aa53a",
+  "translation": "{JPN}あたしを 2ど おえる やつは いないよ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a50b2097eda429bc",
+  "translation": "やすみな。 つれていけない こは ボックスへ。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d86d8c555afd7564",
+  "translation": "ここは この まちに のこる\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf93c616c92bbdd9",
+  "translation": "さいごの あんぜんな へやだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78e82b85521ae52a",
+  "translation": "こんやは しおが ひく。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d65a64971f67398e",
+  "translation": "みなみの うみは あんたの ものさ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af1f57f2055eb688",
+  "translation": "{JPN}スナッチしろ。 リライブするんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc95eff33bfe1f92",
+  "translation": "ダークポケモンを 1ぴき とりもどせば\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4de7a9f5dadb9eb5",
+  "translation": "あいつに やかれる たましいが 1つ へる。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36e3e3f67fb00af7",
+  "translation": "{JPN}きみが やすむ あいだに ダークポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44c38137e05d55b8",
+  "translation": "ぶんせきさせて もらった。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0f1705dd1f8b419",
+  "translation": "あたえる ダメージが 20パーセント ふえ…\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c38db755eaa8936d",
+  "translation": "ぼうぎょは 20パーセント さがる。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6753cd06f2e89c32",
+  "translation": "そして すうちに できない きけんが ある。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcd2ca594de39091",
+  "translation": "ハイパーモードだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1aeade4c68cdca2b",
+  "translation": "むりを させすぎると たたかいの なかで\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cef399fa56e49adf",
+  "translation": "きもちが ふあんていに なる。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bc808f75367117d",
+  "translation": "やさしく あつかってくれ。 かつては\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d001f84a5efeb756",
+  "translation": "だれかの パートナーだったんだ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5876287e433b389",
+  "translation": "{JPN}きみが リライブした ポケモンの すうちは\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ff94117625f09c4",
+  "translation": "3かい けいさんしなおした。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcef6e790aa388c5",
+  "translation": "こうげきの 20パーセントの じょうしょうは\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40fb2c27e5bbf084",
+  "translation": "そのまま。 ぼうぎょは さがらず\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b41edfcb3d8ece5e",
+  "translation": "ハイパーモードも ふくさようも ない。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4ba24a0b9742003",
+  "translation": "すばらしい!$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a796e918743e114",
+  "translation": "{JPN}そして そくていで もう 1つ\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6890d53fe252b283",
+  "translation": "わかったことが ある。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2726296a33e152ff",
+  "translation": "あの ポケモンを リライブした なにかが\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48849c801f416aac",
+  "translation": "くうきに とくゆうの あとを のこした。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00e4f5da224ddaf1",
+  "translation": "さんかくそくりょうで つきとめた。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "010d6c2319bda047",
+  "translation": "セレビィの ばしょが わかったんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d33605fcd6f89fe4",
+  "translation": "だが この ざひょうは あるいていく ものには\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8cca986e3be2eca",
+  "translation": "なんの やくにも たたない。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c95c607bd834caf0",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は たたかいの そとでも\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aafe9516e69dfc2d",
+  "translation": "そらをとぶを つかえるように なった!$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1708447a1013e9e1",
+  "translation": "{JPN}もう そらは きみの ものだ。 かつようしろ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53a68cf110047d77",
+  "translation": "ダークポケモンを 5ひき スナッチして\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e50549f0e7db7e5",
+  "translation": "そくていデータを もってきてくれ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65f5bad0dcf0d419",
+  "translation": "あいつから 1ぴき とりもどすたび\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f49e99cf818ec66",
+  "translation": "やかれる たましいが 1つ へるんだ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ec9a37d6f06f699",
+  "translation": "{JPN}5つの たましいが とりもどされた。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9911fcf443af8bbc",
+  "translation": "きみが はたらいている あいだに\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56a194280ddaf4c4",
+  "translation": "あることが おきた。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8a933ccbabb3e98",
+  "translation": "ほこらの すうちが はねあがるたびに\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b45a977cf2dcec65",
+  "translation": "したの きかいしつに ある きんぞくが\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d54c38831af83b9",
+  "translation": "すこしずつ あかるく\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3136f0931699f797",
+  "translation": "かがやいていった。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85a1e85b35fa5fa0",
+  "translation": "そこから これが できたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cf53adf2045052c",
+  "translation": "ポケモンの なかに あるものを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab1b89e7bddc4306",
+  "translation": "よみとれる ひとを さがせ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c8a21307662b497",
+  "translation": "{JPN}バッグが いっぱいだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e43166f860b1626d",
+  "translation": "あきを つくれ。 こんなものを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "564c5f7403b7297c",
+  "translation": "もちあるく つもりは ない。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b82eb0d53ba837dd",
+  "translation": "{JPN}すうちは すべて きみに たくした。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98f9a6a679275f7a",
+  "translation": "いって あの きかいを とめてくれ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4942fd0790b21235",
+  "translation": "{JPN}かがくの はなしを はじめるまえに\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0e9f7ae3e7ff639",
+  "translation": "もう 1つ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14fc57c2398310c2",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07492eff8502132e",
+  "translation": "ぐんとうの かいずを うけとった!$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3dd6fa83d3d84052",
+  "translation": "{JPN}ちほうマップを ひらいて Rを おせば\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17687783e541dd42",
+  "translation": "きりかえられるよ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f7ed30aabddbc39",
+  "translation": "うみの むこうは ぜんぶ\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89ce768576a94d7d",
+  "translation": "2まいめに のってる。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e81ca5aa932f9235",
+  "translation": "{JPN}もう 1つ。 あいつが つくった\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86741a5b56761575",
+  "translation": "ダークポケモンを すべて きろくした。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bebd18911a031c58",
+  "translation": "もっていけ。 やつらを さがしだせ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c6a2f8a50ac0a3f",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ダークにっしを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6098229d57547a5c",
+  "translation": "はかせの じょしゅから うけとった!$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18c8950a4c63993f",
+  "translation": "{JPN}ゾロアークは にやにやしたままだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a076af3ec5689188",
+  "translation": "てじょうの しばいを たのしんでいた\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b494778fc7c5a26d",
+  "translation": "ような きがする。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48bec04e251e40d6",
+  "translation": "{JPN}ハピナスは シントウキョウで ゆいいつの\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "acf185cd8a0ab847",
+  "translation": "あたたかな ひかりを はなっている。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fca6245edd14756",
+  "translation": "{JPN}ポケモンたちは すっかり げんきに なった!$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d21ad986bf5a884",
+  "translation": "{JPN}ポリゴンは ぬすんだ かいせんで\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc43b230936064a8",
+  "translation": "ボックスの ネットワークに つないでいる。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d85cf42287feca44",
+  "translation": "{JPN}ほんとうに やりとげたんだね。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c842efc2046e458",
+  "translation": "せかいを すくっちまったんだ。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a288d0128bb3372e",
+  "translation": "だつごくしゃさん。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8ddce64e71180c9",
+  "translation": "{JPN}あたしの おごりさ。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89be0f14d460dd8c",
+  "translation": "これで いいもんでも かいな。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "565a438631b79dc9",
+  "translation": "{JPN}わすれる とこだった…\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2743326f847d5408",
+  "translation": "みんなで かねを だしあって\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "442e0234d2bc9ad8",
+  "translation": "プライベートジェットを かったんだ!$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a75f53cd9d744be",
+  "translation": "{JPN}そらをとぶを つかえば ジェットで\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fe81932c1704325",
+  "translation": "この ちほうの いきたい ところへ\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56ad22244fe94dc1",
+  "translation": "どこへでも いけるよ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb970362e081184d",
+  "translation": "さあ どこに する?\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16f44259f0d26815",
+  "translation": "スターサミット? しぜんこうえん?\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46a2c11c7b8190c8",
+  "translation": "ムネン?$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62008f087420fb96",
+  "translation": "{JPN}じぶんの プライベートジェットだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11c30256ac19cfc1",
+  "translation": "ねんりょうも みがきあげも ばっちり。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5c3453ea8887461",
+  "translation": "いきたい ばしょへ むかえる。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac939d65bb97336d",
+  "translation": "{JPN}こんやは ちかの みんなが\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad5c182c2dc2c02b",
+  "translation": "おまえの なを よんでるぜ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8a050e3445c5ae2",
+  "translation": "さいせんは いつでも うけるぞ。 おうじゃ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0aabf68b5a6a827d",
+  "translation": "{JPN}へっ。 ミュートリッドの ふいうち ていどで\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eae8e80ba6a043a3",
+  "translation": "おれが くたばるもんか。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50d3e4d133f7db84",
+  "translation": "…ぎりぎりだったがな。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5aea43869f4c1b86",
+  "translation": "{JPN}つよさとは ひとの ために ある。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a496fe4973ef6af",
+  "translation": "それが どうじょうの おしえじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b7ee84da3f6ebe5",
+  "translation": "おぬしこそ その あかしじゃ。 だつごくしゃ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3072922573dde496",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}! せかいを すくったのね!\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "625ab7dbb132365b",
+  "translation": "ジェットに おやつを つんでおいたわ。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17397adf6bba32c9",
+  "translation": "はやく かえってきてね?$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "075eb9f07a391d15",
+  "translation": "{JPN}ろうやから そらへ。 あいぼう。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f4e02e5419b782b",
+  "translation": "もう だれにも この まちを\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ba19074c6ee66f4",
+  "translation": "かべで かこませない。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "328a3d3b35ba1c6b",
+  "translation": "{JPN}せんきょを ひらく。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4dd53848241aeed",
+  "translation": "こんどこそ ほんものの せんきょだ。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52e4852a3337d3b6",
+  "translation": "だれかが きみの なまえを かきそうな\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7728ff0fcda1100",
+  "translation": "そんな きが するよ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7f7e278dc667ab5",
+  "translation": "{JPN}ジラーチの すうちは あんていしておる。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6804be7d96af114c",
+  "translation": "おまえが すくった ダークポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d459fd0a8875db9f",
+  "translation": "また じぶんを とりもどしておる。\\l",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7578d9b5948a2a5f",
+  "translation": "1ぴき のこらずな。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f550c47b0ee2ea42",
+  "translation": "みごとな はたらきじゃ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1861a97dac24f15d",
+  "translation": "{JPN}きさまを たおすため そらから\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "492d7e2254800b14",
+  "translation": "まいおりた。 2どもな。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f377d9f704defe6",
+  "translation": "なのに きさまは きかいを こわした。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8075fad7ee62ba8",
+  "translation": "…しょうぐんとして けいいを はらおう。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf0732fd4b5bea3d",
+  "translation": "{JPN}いまは わんの うたも ちがう。\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c228ae87bd4835f",
+  "translation": "もっと すんで かろやかに。\\p",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f38f9b46cf89ffdd",
+  "translation": "あなたが そうしたのよ。$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28effd55581a2cc5",
+  "translation": "{JPN}(ホテルZの うらぐち。 この エリアは\\n",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c45851b54849dfb3",
+  "translation": "メガじげんDLCの いちぶです。)$",
+  "provenance": {
+   "batch": "dialogue-rebel-hideout-32",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

@@ -12,12 +12,12 @@ TradewindApartment_2_EventScript_Presence::
 	end
 
 TradewindApartment_2_Text_Presence::
-	.string "The room is empty.\p"
+	.string "{JPN}へやには だれも いない。\p"
 	.string "…\p"
-	.string "The air by the corner is colder\n"
-	.string "than the rest.\p"
-	.string "“You can have this one. I never\n"
-	.string "liked the view.”$"
+	.string "すみの あたりだけ\n"
+	.string "ほかより くうきが つめたい。\p"
+	.string "「これは あげる。 ここの ながめは\n"
+	.string "すきじゃなかったから。」$"
 
 @ Hidden floor hatch (coord_event at 1,2; VAR_TEMP_0 gate). Arriving from the
 @ lab lands ON this tile without firing it -- coord triggers only fire when
@@ -33,5 +33,5 @@ TradewindApartment_2_EventScript_Hatch::
 	end
 
 TradewindApartment_2_Text_Hatch::
-	.string "The floorboard gives way…\n"
-	.string "A hatch! Stairs lead down.$"
+	.string "{JPN}ゆかいたが はずれた…\n"
+	.string "おとしどだ! したに かいだんが ある。$"

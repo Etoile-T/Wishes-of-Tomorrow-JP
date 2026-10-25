@@ -1,0 +1,1858 @@
+[
+ {
+  "id": "b944e29703559964",
+  "translation": "{JPN}あのよへの わたりばの めずらしなだよ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a50e22bd17eff4a1",
+  "translation": "1つ 1000円。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10f4eb3a4e27bd76",
+  "translation": "しきものを ながめて\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "092fda247495a328",
+  "translation": "こころを ひかれたものを どうぞ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81bcb0477f32e461",
+  "translation": "{JPN}わたりばには きまった じかんが ある。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3568a038fdc31ecb",
+  "translation": "また いつでも おいで。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa3fdcb77218a9d8",
+  "translation": "{JPN}ほう。 めずらしなと それを つかうための\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1106d50277bba114",
+  "translation": "バッジを もっているな。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39ad92298c124ce2",
+  "translation": "1つ よこしな。 ほんとうの すがたが…\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88ec4ffe8c1f9fc6",
+  "translation": "いま はじめて みえるのさ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15ffa9fb470322b3",
+  "translation": "{JPN}ほら。 きずなが かたちに なった。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba5ba0a586ec85f3",
+  "translation": "ずっと このまま まっていたんだ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c37ca739b618b286",
+  "translation": "{JPN}めずらしなが なけりゃ こうかんは なし。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "764710cc08447c95",
+  "translation": "めずらしなうりなら\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21bee9165ce709bf",
+  "translation": "このさきに いるよ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36a78b8b097365de",
+  "translation": "{JPN}この みせの あかりは あんたのためじゃない。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de925c13f5c31e69",
+  "translation": "まだな。 まずは ランタンを てにいれな。\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0b7cb57ae970ab1",
+  "translation": "はなしは それからだ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdad6774d5db3146",
+  "translation": "{JPN}きずなは のこる。 1つ てばなす\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53de7a79331c8e0d",
+  "translation": "きに なったら また おいで。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b47c931324390148",
+  "translation": "{JPN}ぐああ! はらは いっぱいなのに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "558ed5b8984a6be1",
+  "translation": "しょうりは からっぽ…$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9abe603a8c8e189b",
+  "translation": "{JPN}いちばの おきて その1。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9755f64c3848c723",
+  "translation": "だされたものを たべるな。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a4ef2a68c7b8ead",
+  "translation": "その2。 はらぺこで\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcdccd7ba7b5c22e",
+  "translation": "ツジふじんに いどむな。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bbec17ea2dcfd3c",
+  "translation": "{JPN}きつねびが…\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d82d362c7afe328b",
+  "translation": "きえていく…$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0cd456e4a3a0d01",
+  "translation": "{JPN}この いちばで ランタンを おえば\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8466ff5be07ce342",
+  "translation": "あさまで おなじ ところを\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e402ec20066ad33",
+  "translation": "ぐるぐる あるくことに なる。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1983947e1e797470",
+  "translation": "ツジふじんは じぶんで あかりを ともす。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65b597092f5780bd",
+  "translation": "{JPN}しなさだめを されて… おとされた。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "995ef3c0cc42abbd",
+  "translation": "あなたじゃなくて わたしがね。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed4fbed72410bdea",
+  "translation": "{JPN}この いちばを とおるものを みきわめる。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a84940c300fa47c",
+  "translation": "がらくたか たからか\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38daf522b4043b05",
+  "translation": "わたしには わかるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33a381aa98babbc2",
+  "translation": "あなたは たからだ。 ツジふじんも\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5d72dcc975f85b3",
+  "translation": "あいたがるだろう。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a08145aff8ad5bc0",
+  "translation": "{JPN}ツジふじんは ちからを しめさぬものには\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae8555c658f96076",
+  "translation": "あってくださらない。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb58687734117f43",
+  "translation": "この いちばを まもる なかまは 3にん。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f5414b61dcf1de2",
+  "translation": "まずは かれらを たおせ。\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdd8f1911dd79352",
+  "translation": "はなしは それからだ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d76405797fded69",
+  "translation": "{JPN}なるほど。 うちの 3にんでも\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89fc272a2a0622b3",
+  "translation": "とめられなかったのね。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc01d53b6e17924d",
+  "translation": "わたしは ツジ。 きずなを あつかうの。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "476cf7a12f295bca",
+  "translation": "トレーナーと ポケモンの あいだに\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2698467a5578352",
+  "translation": "むすばれる きずなをね。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0cd942b0cb41230",
+  "translation": "きずなを かたく よりあわせれば\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa379700b3ad8922",
+  "translation": "いしに なる。 たたかいの なかで\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2e399f11c826447",
+  "translation": "その いしを うてば\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be12c7b37a1b7930",
+  "translation": "しんかを こえた ちからに かわる。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15fb951dee4d5a40",
+  "translation": "ひとは それを メガシンカと よぶの。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "021dcfaa86623ba4",
+  "translation": "よく ごらんなさい。 その だいしょうは\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b02543405d09d260",
+  "translation": "あなたの はいぼくだけれど。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79b0b96fc5d4bd6e",
+  "translation": "{JPN}…こんどは きずなが わたしに みかたした。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98f42d1037cdcce0",
+  "translation": "なんて ふしぎなのかしら。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d0ffe3f92869817",
+  "translation": "{JPN}ランタンバッジを うけとりなさい。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1556d4cf6ecf6e2",
+  "translation": "その あかりに ふさわしい ひとよ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baad1a7f5fb5ffb6",
+  "translation": "それと メガリングも。 はじめの 1つに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91565ca1ba249030",
+  "translation": "この いしを あげるわ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92d2e815d433d4ee",
+  "translation": "きずなを かたく よりあわせれば\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "388fd35a3f1a7f6f",
+  "translation": "いしに なる。 これからは\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0990f0410451d316",
+  "translation": "あなた じしんで その ひばなを\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec0401919b059882",
+  "translation": "おこせるのよ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d42b46054f8279a",
+  "translation": "{JPN}もう 1つ。 しちやの みせに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9ff1b171a5b3df6",
+  "translation": "ともる あかりは もう\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "373033e8de86cee3",
+  "translation": "あなたを むかえてくれるわ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1630bb9f4260418f",
+  "translation": "いちばで うっている めずらしなを\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1731c618dc92be7",
+  "translation": "1つ もっていって\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d24f22d5590aaec",
+  "translation": "ほんとうの すがたを たしかめなさい。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "137cef83858b854e",
+  "translation": "{JPN}ランタンバッジが\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f3dd58b7ff27f55",
+  "translation": "にあっているわ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c32274a8aab04a0",
+  "translation": "めずらしなを しちやに わたしなさい。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c6669f0198b3a9a",
+  "translation": "どんな きずなも\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cd210cfbf0e5038",
+  "translation": "しってもらいたいと ねがうものよ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d70e09ffb8be64b1",
+  "translation": "{JPN}たべるな。 なにが あっても\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c60267c41c4066c",
+  "translation": "ここで たべちゃ いけない。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecc80fc499acc903",
+  "translation": "にどと おなかは すかない…\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d6710442518ea184",
+  "translation": "そして でていけなくなる。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f2094d7fc456646",
+  "translation": "{JPN}うえでは きをつけな。 ここでは\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9db52608ecc32dad",
+  "translation": "ようせいの ちからを やどすものだけが\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3d91ba943ac9603",
+  "translation": "ほんとうの いちげきを あてられる。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "055eba9b5bbd8957",
+  "translation": "ようせいの ちからを もたずに きたら\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b6a0a1ebd8bff9b",
+  "translation": "なにも もってこなかったのと おなじさ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71a896f5ad5f8f50",
+  "translation": "{JPN}はかちだよ! いい はかちだよ!\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c0eb9415ee28b6a",
+  "translation": "えいえんの やすらぎに うみの ながめ…\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "586edb536a47c22a",
+  "translation": "ジムまで あるいて すぐ。 はやいものがち。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2057939244dc0ce",
+  "translation": "いつまでも あるものなど ないからね。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9364398ad3b7021",
+  "translation": "{JPN}…つめたい て。 あたたかい スープ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7adc0bd8a1feddb3",
+  "translation": "つめたい て…$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b446ff599ea6b7c4",
+  "translation": "{JPN}たった 1つのものを かいに きただけ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3a475ed65e360d7",
+  "translation": "なんだったか わすれたけど。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1fd1e3bb62b4c569",
+  "translation": "{JPN}おめんの した? また おめんさ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7119080b3a36d712",
+  "translation": "えがおを かわないか。\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08a458de7f9e6314",
+  "translation": "ちょっとしか つかってないよ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df25b79cc1fd7013",
+  "translation": "{JPN}あのよとの さかいを わたるかい?$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b35f93943700163d",
+  "translation": "{JPN}わたしもりは ふたたび\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d629020a18b91fd0",
+  "translation": "みなもに めを むけた。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3acca01c00ee6d41",
+  "translation": "ランタンは ともったまま。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "694afe8c962e1b4e",
+  "translation": "いまも のせてくれる ようだ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7e346ded04b1a0e",
+  "translation": "{JPN}かぎが かかっている…$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3749be080f89af76",
+  "translation": "{JPN}(かいはつしゃ せんようエリア。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ff8a2259e723cbc",
+  "translation": "とくべつな けんげんが ひつようです。)$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba10d2c51d7f383f",
+  "translation": "{JPN}フワンテが かぜに さからって ただよい\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45cacbdfd0b9c047",
+  "translation": "さそうように ひもを たらしている。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4007b245fc42e58",
+  "translation": "その てを とっては いけない。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71d33dbdc51bcc25",
+  "translation": "{JPN}ランプラーは くろい みなもの うえで\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b83d100fc4e1a97",
+  "translation": "ぴくりとも うごかない。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69c35ffcc2b35345",
+  "translation": "なにひとつ うつらない はずの ところに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76297b67e8166876",
+  "translation": "その ほのおが うつっている。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "685c84972308ebc0",
+  "translation": "{JPN}ゴースは あなたではなく みなもの あなたに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bdb6855443c7383",
+  "translation": "にやりと わらいかけている。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de5cc52826dec605",
+  "translation": "{JPN}ヨマワルの ひとつめが\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e54156dc2f9660e",
+  "translation": "めの くぼみから くぼみへ うごく…\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c983648bcf4da07e",
+  "translation": "かいものきゃくを かぞえている。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "faba36ee0b40088b",
+  "translation": "かずが 1にん おおい。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f47bca518a2645d",
+  "translation": "{JPN}ヒトモシの ほのおが てまねきする ゆびのように\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf1a7a791e6734c9",
+  "translation": "こちらに かたむく。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a61e3e863442810",
+  "translation": "いちばの ランタンも いっしょに かたむく。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d8a4c960378a926",
+  "translation": "{JPN}カゲボウズは みせさきの おめんに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40bdc3363c3d975d",
+  "translation": "まぎれこんでいる。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1468a3b6539ee73",
+  "translation": "おめんの 1つが いきを している。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fceeddbd8c95b53a",
+  "translation": "{JPN}ムウマが こもりうたを くちずさむ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5afecbbfe54caf41",
+  "translation": "まえにも きいた。 どこだったか\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4367d73dfbad345a",
+  "translation": "おもいだせない。 ムウマは わらっている。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2b8484dd1ed8269",
+  "translation": "{JPN}ここでは ししゃも いきた ひとも とりひきする。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b07587da97724785",
+  "translation": "うたがうなら みせの ひとの\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c847d54f8cc81ba0",
+  "translation": "あしを みるといい。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64d9bf644f3b82af",
+  "translation": "じめんに あしが ついているのが\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2906ad4718c5f98f",
+  "translation": "おきゃくさんだ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9e409d9a2deda28",
+  "translation": "{JPN}この いちばで はじめて ランタンを ともしたとき\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19f4dda7df67c62e",
+  "translation": "わたしは おどったの。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45e28db4f9d6eca6",
+  "translation": "あれは… そうね\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4154947a2cd94001",
+  "translation": "140ねん まえだったわ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27d37cc0736be3af",
+  "translation": "…どうして そんな めで\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58e38fab3e1f33fa",
+  "translation": "みるの?$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cda8ea5a2731cf97",
+  "translation": "{JPN}ツジふじんの ゆびわは みた?\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d19a9f4b319b6bf8",
+  "translation": "はまってる いしは ほうせきじゃないの。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9f044f6f56061ce",
+  "translation": "ランタンの ひが よわると\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "484da0ccaefe1e47",
+  "translation": "あの いしに ふれるんだって。 すると\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d14e571e3f9408ee",
+  "translation": "パートナーが ちがうものに なるの。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "165cf3155e2ed641",
+  "translation": "メガシンカって としよりは よぶわ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce60907359363bb2",
+  "translation": "しらない ひとには ぜったい\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e742d8f8668c324",
+  "translation": "みせてくれないけど。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "020c94613f24ba8d",
+  "translation": "でも バッジを てにいれたら…\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd332c05ad418d5e",
+  "translation": "なにを さずけてくれるかしらね。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7ebe5ded90cb842",
+  "translation": "{JPN}ランタンが うちの かわいい こたちに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98a45218cc41366a",
+  "translation": "ささやくの。 いまは\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5bd6564ef8bcc31",
+  "translation": "あなたの はなしを しているわ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c413fca5427ab62",
+  "translation": "{JPN}しっ… しずかに なっちゃった。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2242f5b6ecf9f39f",
+  "translation": "{JPN}うちの こたちは きにいった いきた ひととしか\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4aee0f674a27448",
+  "translation": "あそばないの。 こうえいに おもってね。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce496d683ee3152b",
+  "translation": "{JPN}この いちばの きゃくの はんぶんには\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2713eb529449e3eb",
+  "translation": "かげが ない。 あなたが どちらの はんぶんか\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4f736b4a9c31271",
+  "translation": "あててみるかい?$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6780d365525d6a9c",
+  "translation": "{JPN}ああ。 やりかえしてくる ほうだったか。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9557a43f0048060c",
+  "translation": "{JPN}つめたい しょうにんの しなは かわないこと。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3076e5122ecbe3e",
+  "translation": "あの おつりは いつも\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f15ae52dfe354913",
+  "translation": "すこし ふるすぎるんだ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93b39944ae637b5c",
+  "translation": "{JPN}おばあちゃんが よるの いちばで\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59ec5b9298f65b80",
+  "translation": "くちぶえを ふいちゃ だめって。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3860ca82661af3ac",
+  "translation": "いつだって ふいちゃうけどね!$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7406f8cd4d7b1afa",
+  "translation": "{JPN}ひゃっ! くちぶえが かえってきた!$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5c52c5512a9d33f",
+  "translation": "{JPN}ほうせきの みせから ヤミラミが ついてきたの。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d91a86ebfdac864e",
+  "translation": "それとも ヤミラミの いえに ついていったのかな。\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d81a96181e753245",
+  "translation": "よく おぼえてないや。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9c78c9857f97b3f",
+  "translation": "{JPN}ふう… きょうの ちょうさは これくらいね。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f54c0e1633c30b3",
+  "translation": "ホテルZへ もどりましょう。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbaa9cefe6e552c5",
+  "translation": "{JPN}さんせい。 バッテリーは のこり 2パーセント。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "798a12931f12f43f",
+  "translation": "あたしもね。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "387499e9b8f28a7e",
+  "translation": "{JPN}まって… あなたが {ENG}{PLAYER}{JPN}?\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96b0436ab1e4647e",
+  "translation": "スターサミットでの はなしは\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "268a7604a6157fd8",
+  "translation": "きいたわ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fc34ee8dcc2f954",
+  "translation": "オニに いどむなんて\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "128d0bd6f931435c",
+  "translation": "ずいぶん どきょうが あるのね。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "743f95e3a98adf8c",
+  "translation": "{JPN}わたしは リダ。 こっちは カナリィ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ab29a36cfa785c4",
+  "translation": "{JPN}あんたの ちからが ひつようなんだ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a095ff88119341e",
+  "translation": "じかんが できたら ホテルZに きてね!$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21b854cf0da91a28",
+  "translation": "{JPN}…どうやって あの とびらを みつけた?\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cae709625b29655a",
+  "translation": "まあいい。 きみは ここに いる。 けいきは\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "633cd629415be4b0",
+  "translation": "だれが よみとるかなんて\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44830d5d6859ab58",
+  "translation": "きにしないからね。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "614ab10f89637a40",
+  "translation": "あのよとの さかいを はかっているんだ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a788007742fda7ad",
+  "translation": "うえの いちばでは まいとし\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5125bbeff24fe3b3",
+  "translation": "すこしずつ うすくなっている。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bed0da70b9cbefa",
+  "translation": "うえの まちは ゆうれいに とりつかれて\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27ff3bffdf56dc29",
+  "translation": "いるんじゃない。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8ad0d674937a25b",
+  "translation": "あのよに なりつつ あるんだ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc837d4a008ee6c1",
+  "translation": "{JPN}おい。 そくていデータが めあてかい?\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c292f41fee8237e",
+  "translation": "それとも ほんものの しなものか?\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0de75db25c411df8",
+  "translation": "カントーの さいこうきゅうひん。 べつせかいの\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0dcb9789e65bc9ce",
+  "translation": "トラックから おちたのさ。 せんさくは なし。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc290efd74b12e50",
+  "translation": "ほら… もっていきな。 おごりだ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6d4e4a300bbc5ae",
+  "translation": "さいしょは いつでも タダなのさ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fa2ad4c6c4d5f95",
+  "translation": "{JPN}リザードンに カメックスに フシギバナ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df9a87cd70497494",
+  "translation": "リングを みつけて めざめさせな。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "727fa305e1ce46f4",
+  "translation": "ここに きたことは わすれな。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dc18ef651667722",
+  "translation": "{JPN}タダの おためしは これで おしまい。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb4eba535ebcd4b7",
+  "translation": "さっさと いきな。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a892c5c2a3ad3d23",
+  "translation": "{JPN}ランタンジムへ ようこそ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8e19c1009e6ba22",
+  "translation": "ちょうせんしゃよ。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03638b8baa069197",
+  "translation": "みちの ほのおを まもるのは 3にん。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3a8e06aaa8ec1d9",
+  "translation": "こぶしに ランタン\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc14ca4baf84bf5f",
+  "translation": "そして でし。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78a982f901f4c725",
+  "translation": "3つとも けせば ツジふじんが\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce43da540bb2f08b",
+  "translation": "おくの ほこらで\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f264dd54e2c74332",
+  "translation": "しれんを あたえてくださる。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "147258bd7589ef85",
+  "translation": "あかりの あいだの やみに きをつけよ。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "169993295967181d",
+  "translation": "やみも おまえに きを むけている。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d05f980f354ac45",
+  "translation": "{JPN}…この ひろまの ランタンには それぞれ\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "625935c3638ad4fd",
+  "translation": "なまえが ある。 ひが きえたら\\l",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71ab80c89aef0719",
+  "translation": "1じかん いないに ともしなおす。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac1494592ec8b72b",
+  "translation": "いちどだけ 1つ みおとした。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "772150d511238259",
+  "translation": "109ばんめの ランタンについては\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dddacdeb19f66ebe",
+  "translation": "くちに しないことに なっている。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "511d04c4d8bdec5b",
+  "translation": "{JPN}みんな きくのよ。 どうして\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc6965787829a654",
+  "translation": "こんな まちに すんでいるのかって。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dae59861ced9fd50",
+  "translation": "おっとが よいちで みせを だしているの。\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ff5bec79643b9cc",
+  "translation": "もう なんねんもね。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04540d3272eecf76",
+  "translation": "…12ねん まえに\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a163dea389708d9f",
+  "translation": "なくなったんだけれどね。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4ffe77efb5fe0a1",
+  "translation": "いちども ねあげを していないのよ。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13cfbf0422800e2c",
+  "translation": "{JPN}へやには だれも いない。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d82266e2b4357ef9",
+  "translation": "…\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f3a9da586246863",
+  "translation": "すみの あたりだけ\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff7a86ff1c5bdc11",
+  "translation": "ほかより くうきが つめたい。\\p",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf61eba5d30acdbb",
+  "translation": "「これは あげる。 ここの ながめは\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbd5ab5865e4fd82",
+  "translation": "すきじゃなかったから。」$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bb63ccf5bd8cd6a",
+  "translation": "{JPN}ゆかいたが はずれた…\\n",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "074973a827f96d27",
+  "translation": "おとしどだ! したに かいだんが ある。$",
+  "provenance": {
+   "batch": "dialogue-tradewind-33",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

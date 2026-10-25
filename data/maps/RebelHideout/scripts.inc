@@ -466,262 +466,262 @@ RebelHideout_EventScript_PostgameAllison::
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 RebelHideout_Text_PreReveal::
-	.string "Down through the bones of the\n"
-	.string "old city... and here.\p"
-	.string "Out of every camera's reach.$"
+	.string "{JPN}ふるい まちの ほねぐみを くぐって\n"
+	.string "おりてきたのが ここ。\p"
+	.string "どの カメラにも うつらない。$"
 
 RebelHideout_Text_IllusionDrops::
-	.string "The ONI's outline RIPPLES\n"
-	.string "and pours away like rainwater.\p"
-	.string "A hooded woman. A ZOROARK at\n"
-	.string "her shoulder, grinning.$"
+	.string "{JPN}オニの りんかくが ゆらめき\n"
+	.string "あまみずのように ながれおちた。\p"
+	.string "フードを かぶった おんな。 その わきで\n"
+	.string "ゾロアークが にやりと わらっている。$"
 
 RebelHideout_Text_OperativeReveal::
-	.string "Kekeke. Sorry about the\n"
-	.string "handcuffs routine.\p"
-	.string "Welcome to the rebellion,\n"
-	.string "prison breaker.\p"
-	.string "Some people need to meet\n"
-	.string "you.$"
+	.string "{JPN}ケケケ。 てじょうの しばいは\n"
+	.string "わるかったね。\p"
+	.string "ようこそ レジスタンスへ。\n"
+	.string "だつごくしゃさん。\p"
+	.string "あんたに あいたいって ひとたちが\n"
+	.string "いるんだ。$"
 
 RebelHideout_Text_Briefing1::
-	.string "The man on every screen calls\n"
-	.string "himself THE ONI.\p"
-	.string "I mixed his serums for three\n"
-	.string "years. I know what is upstairs.\p"
-	.string "He built a machine that eats\n"
-	.string "souls.$"
+	.string "{JPN}どの がめんにも うつる あの おとこは\n"
+	.string "じぶんを オニと よんでいる。\p"
+	.string "3ねん あいつの くすりを つくっていた。\n"
+	.string "うえに なにが あるか しっている。\p"
+	.string "あいつが つくったのは\n"
+	.string "たましいを くらう きかいだ。$"
 
 RebelHideout_Text_Briefing2::
-	.string "He needed a power source that\n"
-	.string "could not die.\p"
-	.string "So he tore JIRACHI -- the\n"
-	.string "wish-granter, the kindest thing\l"
-	.string "this region ever produced --\l"
-	.string "out of the sky.\p"
-	.string "And he WELDED it, awake, into\n"
-	.string "the core of the tower.$"
+	.string "{JPN}あいつには しぬことのない\n"
+	.string "エネルギーげんが ひつようだった。\p"
+	.string "それで ジラーチを… ねがいを かなえる\n"
+	.string "この ちほうで うまれた なかで\l"
+	.string "もっとも やさしい いきものを\l"
+	.string "そらから ひきずりおろした。\p"
+	.string "そして めざめたままの ジラーチを\n"
+	.string "タワーの かくしんぶに ようせつした。$"
 
 RebelHideout_Text_Briefing3::
-	.string "Its stolen wishes drive the\n"
-	.string "SHADOW GENERATOR.\p"
-	.string "Every SHADOW POKéMON in this\n"
-	.string "city was fed through that\l"
-	.string "machine -- a living soul,\l"
-	.string "sealed shut, still screaming.\p"
-	.string "That is what powers the lights\n"
-	.string "you see outside.$"
+	.string "{JPN}うばわれた ねがいが\n"
+	.string "ダークそうちを うごかしている。\p"
+	.string "この まちの ダークポケモンは すべて\n"
+	.string "あの きかいに とおされた。\l"
+	.string "いきた たましいを とじこめられ\l"
+	.string "いまも さけびつづけている。\p"
+	.string "それが そとに みえる あかりを\n"
+	.string "ともしているんだ。$"
 
 RebelHideout_Text_BriefingStolen::
-	.string "“And it got worse.\p"
-	.string "“Someone let them take\n"
-	.string "CLARKSON's research.\p"
-	.string "“They've accelerated. Species\n"
-	.string "that used to resist the process\l"
-	.string "don't anymore.\p"
-	.string "“Their new Shadows are...\n"
-	.string "strong.”$"
+	.string "{JPN}「しかも じたいは あっかした。\p"
+	.string "「だれかが クラークソンの けんきゅうを\n"
+	.string "やつらに うばわせた。\p"
+	.string "「やつらは かそくしている。\n"
+	.string "いままで かこうに ていこうした しゅも\l"
+	.string "もう ていこうできない。\p"
+	.string "「あたらしい ダークポケモンは…\n"
+	.string "つよい。」$"
 
 RebelHideout_Text_BriefingMission::
-	.string "The tides run low tonight.\p"
-	.string "SURF south off Shin-Tokyo.\n"
-	.string "Find the island the fairies\l"
-	.string "keep. Learn to PURIFY what\l"
-	.string "he has corrupted.\p"
-	.string "Then climb the tower...\p"
-	.string "...and rip that machine's\n"
-	.string "heart out.$"
+	.string "{JPN}こんやは しおが ひく。\p"
+	.string "シントウキョウから みなみへ なみのりしろ。\n"
+	.string "ようせいたちが まもる しまを さがせ。\l"
+	.string "あいつが ゆがめたものを リライブする\l"
+	.string "すべを まなぶんだ。\p"
+	.string "それから タワーを のぼれ…\p"
+	.string "…そして あの きかいの しんぞうを\n"
+	.string "ひきずりだせ。$"
 
 RebelHideout_Text_Operative::
-	.string "Nobody follows me twice.\p"
-	.string "Rest. Box what you can't carry.\n"
-	.string "This is the last safe room in\l"
-	.string "the city.\p"
-	.string "The tides run low tonight --\n"
-	.string "the water south is yours.$"
+	.string "{JPN}あたしを 2ど おえる やつは いないよ。\p"
+	.string "やすみな。 つれていけない こは ボックスへ。\n"
+	.string "ここは この まちに のこる\l"
+	.string "さいごの あんぜんな へやだ。\p"
+	.string "こんやは しおが ひく。\n"
+	.string "みなみの うみは あんたの ものさ。$"
 
 RebelHideout_Text_Defector::
-	.string "Snag them. Purify them.\p"
-	.string "Every Shadow you take from him\n"
-	.string "is a soul he cannot burn.$"
+	.string "{JPN}スナッチしろ。 リライブするんだ。\p"
+	.string "ダークポケモンを 1ぴき とりもどせば\n"
+	.string "あいつに やかれる たましいが 1つ へる。$"
 
 RebelHideout_Text_DefectorAnalysis::
-	.string "I analyzed your Shadow POKéMON\n"
-	.string "while you rested.\p"
-	.string "They deal 20 percent MORE damage…\n"
-	.string "at 20 percent LESS defense.\p"
-	.string "And there is a risk I cannot\n"
-	.string "chart: HYPER MODE.\p"
-	.string "Push one too hard and it becomes\n"
-	.string "emotionally unstable in battle.\p"
-	.string "Handle them gently. They were\n"
-	.string "people's partners once.$"
+	.string "{JPN}きみが やすむ あいだに ダークポケモンを\n"
+	.string "ぶんせきさせて もらった。\p"
+	.string "あたえる ダメージが 20パーセント ふえ…\n"
+	.string "ぼうぎょは 20パーセント さがる。\p"
+	.string "そして すうちに できない きけんが ある。\n"
+	.string "ハイパーモードだ。\p"
+	.string "むりを させすぎると たたかいの なかで\n"
+	.string "きもちが ふあんていに なる。\p"
+	.string "やさしく あつかってくれ。 かつては\n"
+	.string "だれかの パートナーだったんだ。$"
 
 RebelHideout_Text_DefectorPurified::
-	.string "Your purified POKéMON,\n"
-	.string "I ran the numbers three times.\p"
-	.string "It KEPT the 20 percent attack\n"
-	.string "boost. No defense loss. No\l"
-	.string "HYPER MODE. No side effects.\p"
-	.string "Remarkable!$"
+	.string "{JPN}きみが リライブした ポケモンの すうちは\n"
+	.string "3かい けいさんしなおした。\p"
+	.string "こうげきの 20パーセントの じょうしょうは\n"
+	.string "そのまま。 ぼうぎょは さがらず\l"
+	.string "ハイパーモードも ふくさようも ない。\p"
+	.string "すばらしい!$"
 
 RebelHideout_Text_DefectorTriangulated::
-	.string "And the readings gave me\n"
-	.string "something else.\p"
-	.string "Whatever purified that POKéMON\n"
-	.string "left a signature in the air.\p"
-	.string "I have TRIANGULATED IT.\n"
-	.string "I know where CELEBI is.\p"
-	.string "Coordinates like these are no\n"
-	.string "use to anyone on foot.$"
+	.string "{JPN}そして そくていで もう 1つ\n"
+	.string "わかったことが ある。\p"
+	.string "あの ポケモンを リライブした なにかが\n"
+	.string "くうきに とくゆうの あとを のこした。\p"
+	.string "さんかくそくりょうで つきとめた。\n"
+	.string "セレビィの ばしょが わかったんだ。\p"
+	.string "だが この ざひょうは あるいていく ものには\n"
+	.string "なんの やくにも たたない。$"
 
 RebelHideout_Text_ReceivedFly::
-	.string "{PLAYER} can now use FLY\n"
-	.string "outside of battle!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は たたかいの そとでも\n"
+	.string "そらをとぶを つかえるように なった!$"
 
 RebelHideout_Text_DefectorAssignFive::
-	.string "The sky is yours now. Use it.\p"
-	.string "Snag FIVE Shadows and bring me\n"
-	.string "the readings.\p"
-	.string "Every one you take from him is\n"
-	.string "a soul he cannot burn.$"
+	.string "{JPN}もう そらは きみの ものだ。 かつようしろ。\p"
+	.string "ダークポケモンを 5ひき スナッチして\n"
+	.string "そくていデータを もってきてくれ。\p"
+	.string "あいつから 1ぴき とりもどすたび\n"
+	.string "やかれる たましいが 1つ へるんだ。$"
 
 RebelHideout_Text_DefectorFiveDone::
-	.string "Five souls, given back.\p"
-	.string "Something happened while you\n"
-	.string "were doing it.\p"
-	.string "Every time the shrine's readings\n"
-	.string "spiked, the metal down in the\l"
-	.string "machine room grew a shade\l"
-	.string "brighter.\p"
-	.string "This is what settled out of it.\p"
-	.string "Find someone who knows how to\n"
-	.string "read what is inside a POKéMON.$"
+	.string "{JPN}5つの たましいが とりもどされた。\p"
+	.string "きみが はたらいている あいだに\n"
+	.string "あることが おきた。\p"
+	.string "ほこらの すうちが はねあがるたびに\n"
+	.string "したの きかいしつに ある きんぞくが\l"
+	.string "すこしずつ あかるく\l"
+	.string "かがやいていった。\p"
+	.string "そこから これが できたんだ。\p"
+	.string "ポケモンの なかに あるものを\n"
+	.string "よみとれる ひとを さがせ。$"
 
 RebelHideout_Text_DefectorCapNoRoom::
-	.string "Your BAG is full.\p"
-	.string "Make room. I am not carrying\n"
-	.string "this thing around.$"
+	.string "{JPN}バッグが いっぱいだ。\p"
+	.string "あきを つくれ。 こんなものを\n"
+	.string "もちあるく つもりは ない。$"
 
 RebelHideout_Text_DefectorAfterFive::
-	.string "The numbers are all yours now.\p"
-	.string "Go and turn that machine off.$"
+	.string "{JPN}すうちは すべて きみに たくした。\p"
+	.string "いって あの きかいを とめてくれ。$"
 
 RebelHideout_Text_NessaMapGift::
-	.string "One more thing before\n"
-	.string "the science starts.$"
+	.string "{JPN}かがくの はなしを はじめるまえに\n"
+	.string "もう 1つ。$"
 
 RebelHideout_Text_ReceivedPostgameMap::
-	.string "{PLAYER} received the\n"
-	.string "ARCHIPELAGO CHART!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n"
+	.string "ぐんとうの かいずを うけとった!$"
 
 RebelHideout_Text_NessaMapHowTo::
-	.string "Open the region map and press R\n"
-	.string "to switch between them.\p"
-	.string "Everything past the water is on\n"
-	.string "the second one.$"
+	.string "{JPN}ちほうマップを ひらいて Rを おせば\n"
+	.string "きりかえられるよ。\p"
+	.string "うみの むこうは ぜんぶ\n"
+	.string "2まいめに のってる。$"
 
 RebelHideout_Text_BriefingLogGift::
-	.string "One more thing. I kept a ledger\n"
-	.string "of every Shadow he manufactured.\p"
-	.string "Take it. Hunt them down.$"
+	.string "{JPN}もう 1つ。 あいつが つくった\n"
+	.string "ダークポケモンを すべて きろくした。\p"
+	.string "もっていけ。 やつらを さがしだせ。$"
 
 RebelHideout_Text_ReceivedShadowLog::
-	.string "{PLAYER} received the SHADOW LOG\n"
-	.string "from PROF. ASSISTANT!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ダークにっしを\n"
+	.string "はかせの じょしゅから うけとった!$"
 
 RebelHideout_Text_Zoroark::
-	.string "ZOROARK's grin does not waver.\p"
-	.string "You get the feeling it enjoyed\n"
-	.string "the handcuffs routine.$"
+	.string "{JPN}ゾロアークは にやにやしたままだ。\p"
+	.string "てじょうの しばいを たのしんでいた\n"
+	.string "ような きがする。$"
 
 RebelHideout_Text_BlisseyOffer::
-	.string "BLISSEY beams the only warm\n"
-	.string "light in Shin-Tokyo.$"
+	.string "{JPN}ハピナスは シントウキョウで ゆいいつの\n"
+	.string "あたたかな ひかりを はなっている。$"
 
 RebelHideout_Text_BlisseyDone::
-	.string "Your POKEMON are fully rested!$"
+	.string "{JPN}ポケモンたちは すっかり げんきに なった!$"
 
 RebelHideout_Text_Porygon::
-	.string "PORYGON hums a stolen uplink\n"
-	.string "to the Box network.$"
+	.string "{JPN}ポリゴンは ぬすんだ かいせんで\n"
+	.string "ボックスの ネットワークに つないでいる。$"
 
 @ --- post-game text ----------------------------------------------------------
 RebelHideout_Text_PostgameCongrats::
-	.string "You really did it.\p"
-	.string "You saved the world,\n"
-	.string "JAILBREAKER.$"
+	.string "{JPN}ほんとうに やりとげたんだね。\p"
+	.string "せかいを すくっちまったんだ。\n"
+	.string "だつごくしゃさん。$"
 
 RebelHideout_Text_PostgameOnTheHouse::
-	.string "On the house. Go get yourself\n"
-	.string "somethin' nice.$"
+	.string "{JPN}あたしの おごりさ。\n"
+	.string "これで いいもんでも かいな。$"
 
 RebelHideout_Text_PostgameAlmostForgot::
-	.string "I almost forgot --\p"
-	.string "We pitched in and got you\n"
-	.string "a PRIVATE JET!$"
+	.string "{JPN}わすれる とこだった…\p"
+	.string "みんなで かねを だしあって\n"
+	.string "プライベートジェットを かったんだ!$"
 
 RebelHideout_Text_PostgameFly::
-	.string "Use FLY and the PJ will take\n"
-	.string "you anywhere you want to go\l"
-	.string "in the region.\p"
-	.string "So what'll it be?\p"
-	.string "STAR SUMMIT? NATIONAL PARK?\n"
-	.string "Munen?$"
+	.string "{JPN}そらをとぶを つかえば ジェットで\n"
+	.string "この ちほうの いきたい ところへ\l"
+	.string "どこへでも いけるよ。\p"
+	.string "さあ どこに する?\p"
+	.string "スターサミット? しぜんこうえん?\n"
+	.string "ムネン?$"
 
 RebelHideout_Text_PrivateJet::
-	.string "Your PRIVATE JET.\p"
-	.string "Fueled, polished, and pointed\n"
-	.string "at anywhere you want.$"
+	.string "{JPN}じぶんの プライベートジェットだ。\p"
+	.string "ねんりょうも みがきあげも ばっちり。\n"
+	.string "いきたい ばしょへ むかえる。$"
 
 RebelHideout_Text_PostgameFatality::
-	.string "The whole UNDERGROUND is\n"
-	.string "chanting your name tonight.\p"
-	.string "Rematch. Anytime. Champ.$"
+	.string "{JPN}こんやは ちかの みんなが\n"
+	.string "おまえの なを よんでるぜ。\p"
+	.string "さいせんは いつでも うけるぞ。 おうじゃ。$"
 
 RebelHideout_Text_PostgameYiffer::
-	.string "Heh. Takes more than a Mutrid\n"
-	.string "ambush to keep ME down.\p"
-	.string "…Barely.$"
+	.string "{JPN}へっ。 ミュートリッドの ふいうち ていどで\n"
+	.string "おれが くたばるもんか。\p"
+	.string "…ぎりぎりだったがな。$"
 
 RebelHideout_Text_PostgameMasterGen::
-	.string "The dojo teaches that strength\n"
-	.string "exists to serve others.\p"
-	.string "You are the proof, Jailbreaker.$"
+	.string "{JPN}つよさとは ひとの ために ある。\n"
+	.string "それが どうじょうの おしえじゃ。\p"
+	.string "おぬしこそ その あかしじゃ。 だつごくしゃ。$"
 
 RebelHideout_Text_PostgameMom::
-	.string "{PLAYER}! My little world-saver!\p"
-	.string "I packed snacks for the jet.\n"
-	.string "Fly home soon, okay?$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}! せかいを すくったのね!\p"
+	.string "ジェットに おやつを つんでおいたわ。\n"
+	.string "はやく かえってきてね?$"
 
 RebelHideout_Text_PostgameMikmanc::
-	.string "Cell to sky, partner.\p"
-	.string "Nobody will ever build a wall\n"
-	.string "around this city again.$"
+	.string "{JPN}ろうやから そらへ。 あいぼう。\p"
+	.string "もう だれにも この まちを\n"
+	.string "かべで かこませない。$"
 
 RebelHideout_Text_PostgameMinister::
-	.string "There will be elections.\n"
-	.string "Real ones.\p"
-	.string "Somehow I suspect your name\n"
-	.string "will be on somebody's ballot.$"
+	.string "{JPN}せんきょを ひらく。\n"
+	.string "こんどこそ ほんものの せんきょだ。\p"
+	.string "だれかが きみの なまえを かきそうな\n"
+	.string "そんな きが するよ。$"
 
 RebelHideout_Text_PostgameClarkson::
-	.string "JIRACHI's readings are stable.\p"
-	.string "The Shadows are waking up as\n"
-	.string "themselves again -- every one\l"
-	.string "you freed.\p"
-	.string "Remarkable work.$"
+	.string "{JPN}ジラーチの すうちは あんていしておる。\p"
+	.string "おまえが すくった ダークポケモンは\n"
+	.string "また じぶんを とりもどしておる。\l"
+	.string "1ぴき のこらずな。\p"
+	.string "みごとな はたらきじゃ。$"
 
 RebelHideout_Text_PostgameEdwards::
-	.string "I dropped out of the sky to\n"
-	.string "break you. Twice.\p"
-	.string "Instead you broke the machine.\p"
-	.string "…General's honors, kid.$"
+	.string "{JPN}きさまを たおすため そらから\n"
+	.string "まいおりた。 2どもな。\p"
+	.string "なのに きさまは きかいを こわした。\p"
+	.string "…しょうぐんとして けいいを はらおう。$"
 
 RebelHideout_Text_PostgameAllison::
-	.string "The bay sings different now.\n"
-	.string "Cleaner. Lighter.\p"
-	.string "You did that.$"
+	.string "{JPN}いまは わんの うたも ちがう。\n"
+	.string "もっと すんで かろやかに。\p"
+	.string "あなたが そうしたのよ。$"
 
 @ Back door to Hotel Z (coord trigger (9,0), placeholder: paint a door there
 @ in porymap). Open once the Mega Doomsday intro has played; Hotel Z sends
@@ -748,5 +748,5 @@ RebelHideout_Movement_HotelZDoorBack:
 	step_end
 
 RebelHideout_Text_HotelZDoorLocked:
-	.string "(A back door to Hotel Z. This area\n"
-	.string "is part of the Mega Dimension DLC.)$"
+	.string "{JPN}(ホテルZの うらぐち。 この エリアは\n"
+	.string "メガじげんDLCの いちぶです。)$"

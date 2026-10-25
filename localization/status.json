@@ -22,5 +22,6 @@
     "move": 923,
     "species": 1321
   },
-  "work_state": "awaiting_pause_boundary; validating name batch"
+  "work_state": "paused_after_current_name_batch_per_user_request",
+  "pause_scope": "Current name batch only; excluded names, descriptions, dex and items remain unfinished"
 }

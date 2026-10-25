@@ -9,7 +9,7 @@
 | src/berry.c | 0 | 204 |
 | src/berry_blender.c | 0 | 34 |
 | src/berry_fix_program.c | 0 | 9 |
-| src/berry_tag_screen.c | 0 | 8 |
+| src/berry_tag_screen.c | 8 | 0 |
 | src/contest.c | 0 | 50 |
 | src/contest_painting.c | 0 | 26 |
 | src/data/battle_frontier/apprentice.h | 0 | 96 |
@@ -57,7 +57,7 @@
 | src/script_menu.c | 0 | 1 |
 | src/slot_machine.c | 0 | 5 |
 | src/start_menu.c | 13 | 0 |
-| src/strings.c | 424 | 726 |
+| src/strings.c | 500 | 650 |
 | src/text_input_strings.c | 0 | 24 |
 | src/trader.c | 0 | 4 |
 | src/trainer_card.c | 0 | 0 |

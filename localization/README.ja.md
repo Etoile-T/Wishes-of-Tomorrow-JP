@@ -1,4 +1,4 @@
-> 最新の状況（2026-10-26）: 61,722候補中5,693件を翻訳適用。以下の初期記録には古い件数を含む。最新値はstatus.jsonとUI_PROGRESS.mdを参照。ユーザーの指定によりソース検査・ビルドを優先し、画面操作は延期。ExcelとMarkdown表を5,693件へ更新済み。
+> 最新の状況（2026-10-26）: 61,722候補中5,777件を翻訳適用。最新の引き継ぎはルートのHANDOFF_CLAUDE_CODE.md。UI翻訳は継続中。グラフィック報告はユーザーがエミュレータ原因と確認して取り下げたため調査終了。ソース検査・ビルド優先、画面検証は延期。
 
 # Wishes of Tomorrow 日本語化・途中成果
 
@@ -162,7 +162,7 @@ Excelの再生成には`@oai/artifact-tool`が必要。依存が利用できる�
 python3 tools/localization/export_play_rom.py pokeemerald.gba ../artifacts/play
 ```
 
-クエストにっし使用後のスプライト崩れが報告されている。[調査記録](issues/quest-log-sprite-corruption.md)を参照。修正済みとはしていない。
+クエストにっし使用後のスプライト崩れの報告は、ユーザーがエミュレータ原因と確認して取り下げた。[調査記録](issues/quest-log-sprite-corruption.md)を参照。修正済みとはしていない。
 
 ## BPSの適用元に注意
 

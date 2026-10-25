@@ -163,3 +163,21 @@ python3 tools/localization/export_play_rom.py pokeemerald.gba ../artifacts/play
 ```
 
 クエストにっし使用後のスプライト崩れが報告されている。[調査記録](issues/quest-log-sprite-corruption.md)を参照。修正済みとはしていない。
+
+## BPSの適用元に注意
+
+**ローカルの日本語化途中ROMはそのまま起動する。公式1.2.6 BPSを重ねない。**
+
+| パッチ | 適用前のROM | 入力CRC32 | 出力CRC32 |
+| --- | --- | --- | --- |
+| 公式 wishes-of-tomorrow-1.2.6.bps | Emerald(U)、16MiB | 1f1c08fb | f1eeea17 |
+| このプロジェクトの日本語化UI版BPS | ソースからビルドした英語Wishes、32MiB | 62ba561e | 50855cbd |
+
+両者の適用元は異なる。公式1.2.6適用後ROMも日本語化UI版BPSの適用元ではない。
+[日本語化BPSのSHA256一覧](patch-manifest-ui5693.json)と照合する。再適用する場合は次の検査付きツールを使える。
+
+```sh
+python3 tools/localization/apply_verified_patch.py ENGLISH.gba JAPANESE.bps localization/patch-manifest-ui5693.json OUTPUT_DIRECTORY
+```
+
+ハッシュが違う場合は出力を拒否し、生成ROMもハッシュ名で保存する。パッチ適用成功は画面やゲーム進行の検証とは区別する。

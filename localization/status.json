@@ -7,7 +7,7 @@
   "pending": 56029,
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": 28,
+  "tests_passed": 31,
   "bps_roundtrip": "passed: UI build, source/target/patch CRC and exact ROM equality",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
@@ -32,11 +32,12 @@
   "ui_inventory_files": 59,
   "ui_pending_language_candidates": 3683,
   "excel_translated_rows": 5693,
-  "reported_graphics_issue": "Open: sprite corruption after Quest Log; cause unconfirmed; immutable export added, no gameplay fix yet",
+  "reported_graphics_issue": "Open: Quest Log sprite report; patch provenance and incompatible source combinations verified, gameplay cause still unconfirmed",
   "graphics_diagnostic_build": {
     "status": "passed",
     "sha256": "ce6414c508b8622de68583db5fce7f465e3a6b7c8861bc7e740405198b72795d",
     "rom_used_bytes": 29898760,
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
-  }
+  },
+  "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes"
 }

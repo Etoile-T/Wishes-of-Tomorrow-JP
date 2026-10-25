@@ -55,3 +55,21 @@ python3 tools/localization/export_play_rom.py pokeemerald-sprite-diag.gba ../art
 同梱headlessツールはstatus/quitを受け付けたがPC=0、Cycle=0のまま。reset/frame後も同じであり、実行テストの成功とは扱わない。
 
 mGBAの状態確認を試みたが、自動承認レビューが過去の「mGBA停止・ソース優先」指示に反するとして拒否した。GUI操作は行っていない。次に必要なのは、この不具合に限った短いGUI再現とmGBAログの採取。ユーザーの明示承認を得るまで実行しない。診断用ROMは修正版ではなく、症状解決は未確認。
+
+## 公式BPSの追加照合
+
+ユーザー指定ファイル: artifacts/wishes-of-tomorrow-1.2.6.bps。
+
+SHA256 05bf04c8ad2ad4e2da6a353a6d0ed234c44930a6ba1231ec9d0f2738dfb1ff54。公式v1.2.6タグ内docs/patches/wishes-of-tomorrow-1.2.6.bpsとバイト一致。BPS自体のCRCも正しい。入力16MiB・CRC32 1f1c08fb、出力32MiB・CRC32 f1eeea17。
+
+タグは開発ワークスペースのコミット52ffb1cf827ab0fe905f5b2caa57d5116e276d23を指す。ゲームソースはそのsubmodule pokeemerald-expansionのe6f5b24e0af95d079cc3380a1bb895963c4bc05b。日本語化の基準efb1c880d0b486c1948763051b6c1bb8990a7353とは別版である。単純にワークスペースとゲームmasterをdiffすると全ソース追加と誤判定するため、submoduleの版を照合した。
+
+こちらがソースから作った英語ROMは32MiB・CRC32 62ba561e、日本語ROMは32MiB・CRC32 50855cbd。両方とも公式1.2.6 BPSの入力条件に合わない。独自Python実装とRomPatcher.jsの両方でSource ROM checksum mismatch相当として拒否されることを確認。ユーザーが実際に検査を無視して適用したかは未確認で、画像不具合の原因を誤適用と断定してはいない。
+
+日本語化BPS（7085491fb0606d2602d309b9e863e33abe2feabe9865940cd9d66f70bc1d673b）は、こちらの英語基準ROMを入力に、日本語UI版f3e400a6…へ変換するもの。公式1.2.6出力や市販Emeraldを入力にしない。
+
+独立検証: RomPatcher.js 4f17297cd1dc0835a0b0747497fa15f5f63f1623でも、こちらの日本語化BPSを正しい英語基準ROMへ適用し、出力のSHA256と全バイトが直接ビルドした日本語ROMと一致した。ZIP内BPSも単体BPSと一致。これは変換の正しさであり、ゲーム内表示が正常という証明ではない。
+
+[公式リリースノート](https://github.com/jmaloney95/Wishes-Game/blob/52ffb1cf827ab0fe905f5b2caa57d5116e276d23/release_notes_v1.2.6.md)、[独立パッチ実装](https://github.com/marcrobledo/RomPatcher.js/tree/4f17297cd1dc0835a0b0747497fa15f5f63f1623)を照合した。
+
+取り違え防止: patch-manifest-ui5693.jsonとapply_verified_patch.pyを追加。入力ROM・BPS・出力ROMすべてをSHA256で検証し、不一致なら出力しない。CRC無視オプションはない。自動テスト31件成功。ローカルの版名付きパッチはartifacts/patches/ui-5693-50855cbd/。直接遊ぶROMは上記artifacts/play/のファイルで、追加BPSは不要。グラフィック問題は引き続き未解決として保持する。

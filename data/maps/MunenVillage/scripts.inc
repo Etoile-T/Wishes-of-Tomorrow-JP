@@ -668,13 +668,13 @@ MunenText_OldLady:
 	.string "{JPN}やまの ゆきが\nとけておるのじゃ。\pとけては ならぬ ゆきが。 けっしてな。\pムネンに しが せまっておる。\pかぜが そう つげておるわ。$"
 
 MunenText_VillageKid:
-	.string "Did you hear? Professor\nClarkson found something at the \ltop of the mountain!\pWhat could it be?\pI wanna know but my dad says to stay \nclose to home. No fair!$"
+	.string "{JPN}ねえ きいた？ クラークソンはかせが\nやまの てっぺんで なにかを\lみつけたんだって！\pなんだろうなあ？\pしりたいのに おとうさんは\nとおくに いくなって。 ずるいよ！$"
 
 MunenText_Fisherman:
-	.string "My dad went out to ice-fish\non Lake Munen days ago...\pHe still hasn't come home.\pThe ice is thin now and half the lake's\nopen water already. It isn't safe.\pI keep watching the far shore, but\nI can't reach it from here.\pIf you ever find a way across that\nwater... please. Look for him.$"
+	.string "{JPN}とうさんが ムネンこへ\nこおりづりに いって なんにちもたつ。\pまだ かえってこないんだ。\pこおりは うすいし みずうみの\nはんぶんは もう とけてる。 あぶないよ。\pむこうぎしを ずっと みてるけど\nここからじゃ わたれない。\pもし むこうへ わたる ほうほうが\nみつかったら おねがい。 さがして。$"
 
 MunenText_Caretaker:
-	.string "The festival is cancelled this year.\pThe Professor's orders. He says the\nmountain isn't safe right now.\pFirst time we've missed it \nsince I was born.$"
+	.string "{JPN}ことしの おまつりは ちゅうしだ。\pはかせの いいつけでね。\nいまの やまは あぶないんだとさ。\pおれが うまれてから\nちゅうしに なったのは はじめてだ。$"
 
 @ Rival Haru dialogue
 MunenText_HaruShout:
@@ -688,64 +688,64 @@ MunenText_HaruFarewell:
 
 @ Professor Clarkson north-exit encounter
 MunenText_ProfessorHello:
-	.string "Hold up, {PLAYER}!\pYou can't go wandering off the mountain\nempty-handed.\pHere, I came to give you these\nbefore you set out.$"
+	.string "{JPN}まちなさい {ENG}{PLAYER}{JPN}！\pなにも もたずに やまを おりては\nいかんぞ。\pほれ。 しゅっぱつまえに\nこれを わたしておこうと おもってな。$"
 
 MunenText_ProfessorAfterItems:
-	.string "The Poke Balls are for catching\nwild Pokemon, you'll find a few along\lthe northern trail.\pThe Potions are for when your partner\nneeds patching up.\pNow then. Be careful out there.\pAnd write to your mother.$"
+	.string "{JPN}モンスターボールは やせいの\nポケモンを つかまえるためのものじゃ。\lきたの やまみちにも いるぞ。\pパートナーが きずついたら\nキズぐすりを つかいなさい。\pでは きをつけて いくんじゃぞ。\pおかあさんに てがみも かくんじゃよ。$"
 
 @ North-exit gate text (shown until starter + rival + professor are done)
 MunenText_NorthGate:
-	.string "It's not safe to head up the mountain\nyet.\pProfessor Clarkson asked to see you\nbefore you set out, and you'll want\la partner at your side first.$"
+	.string "{JPN}いま やまを のぼるのは\nまだ あぶない。\pしゅっぱつまえに はかせが\nあいたがっていた。 それに まずは\lパートナーも ひつようだ。$"
 
 @ Rival Haru in-battle text
 MunenText_HaruBattleStart:
-	.string "Let's see what that thing\ncan do!$"
+	.string "{JPN}そいつに なにが できるか\nみせてもらおうか！$"
 
 MunenText_HaruDefeated:
-	.string "...Heh. Not bad.\pI'll be better next time.$"
+	.string "{JPN}⋯へえ。 やるじゃん。\pつぎまでに もっと つよくなるからな。$"
 
 @==============================
 @ Sign text
 @==============================
 MunenText_JoeHouseSign:
-	.string "{PLAYER}'S HOUSE$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}の いえ$"
 
 MunenText_MaysHouseSign:
-	.string "DRACO'S HOUSE$"
+	.string "{JPN}ドラコの いえ$"
 
 MunenText_LabSign:
-	.string "PROFESSOR CLARKSON'S LABORATORY\pIf you can read this from outside,\nhe's probably busy with research.$"
+	.string "{JPN}クラークソンはかせの けんきゅうじょ\pそとから これが よめるなら\nはかせは けんきゅうで いそがしいのかも。$"
 
 MunenText_ForeclosureSign:
-	.string "FORECLOSURE NOTICE\pThis property has been seized.\pThe family who lived here left suddenly.\pNo one in Munen will say where.$"
+	.string "{JPN}さしおさえの おしらせ\pこの ふどうさんは さしおさえられました。\pすんでいた かぞくは とつぜん たちさった。\pどこへ いったのか むらの だれも かたらない。$"
 
 MunenText_RivalHouseSign:
-	.string "THE NUT DUNGEON$"
+	.string "{JPN}ナッツの ダンジョン$"
 
 @ --- Reunited fisherman (father + son) voice lines ---
 MunenVillage_Text_SonReunited:
-	.string "My old man's finally home!\pHe came back babbling about a RED\nGYARADOS and the trainer who faced it.\pI thought he'd lost it in that cave…\nguess he was telling the truth.\pThank you for bringing him back to us.$"
+	.string "{JPN}とうさんが やっと かえってきたよ！\pあかい ギャラドスと それに たちむかった\nトレーナーの はなしばっかり してる。\pどうくつで おかしくなったかと おもったけど\nほんとうの はなしだったんだね。\pとうさんを つれもどしてくれて ありがとう。$"
 
 MunenVillage_Text_DadRecognize:
-	.string "Wait… THERE he is!\pSon, that's the guy! That's the one\nwho took on the RED GYARADOS!\pI'd know that face anywhere. I haven't\nstopped shaking since that cave.$"
+	.string "{JPN}まてよ⋯ あのときの！\pおい このひとだ！ このひとが\nあかい ギャラドスに たちむかったんだ！\pあのかおは わすれない。 どうくつを\nでてからも ずっと ふるえが とまらんよ。$"
 
 MunenVillage_Text_DadAsk:
-	.string "So it's true… you really landed it.\pListen… I know it's a lot to ask,\nbut that GYARADOS was my life's dream.\pWould you… would you be willing to\ngive it to me?$"
+	.string "{JPN}ほんとうに⋯ あいつを つかまえたのか。\pむりな おねがいだとは おもうが\nあの ギャラドスは おれの ゆめだった。\pよかったら⋯ おれに\nゆずっては もらえないだろうか？$"
 
 MunenVillage_Text_DadDeclined:
-	.string "Heh… figured I'd ask.\pThat's an incredible reward.\nYou deserve to keep it.$"
+	.string "{JPN}はは⋯ きくだけ きいてみたのさ。\pすごい えものだ。\nきみが もっているべきだよ。$"
 
 MunenVillage_Text_DadThanks:
-	.string "You… you'd really part with it?\pI don't have much, but a fisherman\nalways keeps something for the big one.\pPlease - take this. I want you to have it.$"
+	.string "{JPN}ほんとうに⋯ ゆずってくれるのか？\pたいした ものは ないが つりびとは\nおおもののための そなえを してるもんだ。\pこれを うけとってくれ。 きみに やるよ。$"
 
 MunenVillage_Text_DadGift:
-	.string "You faced it down all the same…\nthat's more guts than I'll ever have.\pA catch like that wasn't meant for a\ncoward like me. But you earned this.\pTake it. I insist.$"
+	.string "{JPN}それでも きみは たちむかった⋯\nおれには まねできない ゆうきだ。\pあんな えものは おくびょうな おれには\nふつりあいさ。 だが これは きみのものだ。\pうけとってくれ。 えんりょは なしだ。$"
 
 MunenVillage_Text_DadLastMon:
-	.string "Hold on now - that's your only\nPOKéMON! I can't take that from you.\pHang onto it. Come find me if you\never change your mind.$"
+	.string "{JPN}ちょっとまて。 そのこが きみの\nさいごの 1ぴきだろう！ もらえないよ。\pだいじに するんだぞ。 また きが\nかわったら おれの ところへ きてくれ。$"
 
 MunenVillage_Text_DadAfter:
-	.string "Every morning I watch the water and\nthink about that day.\pThank you, {PLAYER}. Truly.$"
+	.string "{JPN}まいあさ みずうみを ながめては\nあのひのことを おもいだすんだ。\pありがとう {ENG}{PLAYER}{JPN}。 ほんとうに。$"
 
 @==============================
 @ Painted item balls

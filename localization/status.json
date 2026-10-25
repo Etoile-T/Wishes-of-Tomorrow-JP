@@ -3,16 +3,18 @@
   "baseline_commit": "efb1c880d0b486c1948763051b6c1bb8990a7353",
   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
   "total_candidates": 60597,
-  "translated": 128,
-  "pending": 60469,
+  "translated": 149,
+  "pending": 60448,
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": 8,
+  "tests_passed": 12,
   "bps_roundtrip": "passed",
   "runtime": "unverified: mGBA failed on both ROMs",
   "kanji": "not implemented",
   "name_input": "not implemented",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29911000
+  "jp_rom_used_bytes": 29909976,
+  "yomiyasu_version": "2.4.0",
+  "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945"
 }

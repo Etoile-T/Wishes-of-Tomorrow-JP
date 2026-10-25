@@ -57,7 +57,7 @@
 | src/script_menu.c | 0 | 1 |
 | src/slot_machine.c | 0 | 5 |
 | src/start_menu.c | 13 | 0 |
-| src/strings.c | 500 | 650 |
+| src/strings.c | 702 | 451 |
 | src/text_input_strings.c | 0 | 24 |
 | src/trader.c | 0 | 4 |
 | src/trainer_card.c | 0 | 0 |

@@ -13893,8 +13893,8 @@
     },
     {
       "file": "src/strings.c",
-      "translated": 500,
-      "pending_language_candidates": 650,
+      "translated": 702,
+      "pending_language_candidates": 451,
       "pending": [
         {
           "id": "5bdc77eca4cfe750",
@@ -13905,61 +13905,6 @@
           "id": "e0b7f707cf455296",
           "source": "RUBY",
           "line": 11
-        },
-        {
-          "id": "93a9b3f95eea696d",
-          "source": "EMERALD",
-          "line": 12
-        },
-        {
-          "id": "6940f6f86c9247bd",
-          "source": "AQUA",
-          "line": 13
-        },
-        {
-          "id": "44f32065af7eadec",
-          "source": "MAGMA",
-          "line": 14
-        },
-        {
-          "id": "aa7995356ff51382",
-          "source": "ARCHIE",
-          "line": 15
-        },
-        {
-          "id": "84acbfbfaf24c161",
-          "source": "MAXIE",
-          "line": 16
-        },
-        {
-          "id": "8fd5658f1f98717a",
-          "source": "KYOGRE",
-          "line": 17
-        },
-        {
-          "id": "1148660c1a9279b8",
-          "source": "GROUDON",
-          "line": 18
-        },
-        {
-          "id": "36871032e10adb37",
-          "source": "BRENDAN",
-          "line": 19
-        },
-        {
-          "id": "b582a64dab8619d3",
-          "source": "MAY",
-          "line": 20
-        },
-        {
-          "id": "42eb01d93980ec34",
-          "source": "RED",
-          "line": 21
-        },
-        {
-          "id": "70477ef6d33296ef",
-          "source": "GREEN",
-          "line": 22
         },
         {
           "id": "b2ce8d23a7978654",
@@ -13995,36 +13940,6 @@
           "id": "56b656ba21fcb4b0",
           "source": "{DPAD_UPDOWN}PICK {A_BUTTON}OK",
           "line": 38
-        },
-        {
-          "id": "9611d9c1e4bbb8dd",
-          "source": "{A_BUTTON}NEXT",
-          "line": 39
-        },
-        {
-          "id": "ada5d450aeb543b7",
-          "source": "{A_BUTTON}NEXT {B_BUTTON}BACK",
-          "line": 40
-        },
-        {
-          "id": "f4ffbde740b36166",
-          "source": "{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL",
-          "line": 41
-        },
-        {
-          "id": "d88231e267b51ff5",
-          "source": "{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL",
-          "line": 42
-        },
-        {
-          "id": "a3189247606c331f",
-          "source": "{A_BUTTON}EXIT",
-          "line": 43
-        },
-        {
-          "id": "d465c43cbd98df3c",
-          "source": "This is what we call a “POKéMON.”{PAUSE 96}\\p",
-          "line": 46
         },
         {
           "id": "9e1b001e13a5780e",
@@ -14132,56 +14047,6 @@
           "line": 90
         },
         {
-          "id": "b80dfc41acae548f",
-          "source": "RED",
-          "line": 91
-        },
-        {
-          "id": "7236fb574978a659",
-          "source": "BLUE",
-          "line": 92
-        },
-        {
-          "id": "2673da0f61e3bab2",
-          "source": "YELLOW",
-          "line": 93
-        },
-        {
-          "id": "2c3e72b0f973b31a",
-          "source": "GREEN",
-          "line": 94
-        },
-        {
-          "id": "8021f6e8b6075469",
-          "source": "BLACK",
-          "line": 95
-        },
-        {
-          "id": "2772840231cc3264",
-          "source": "BROWN",
-          "line": 96
-        },
-        {
-          "id": "e8f1e5b80aefd2a8",
-          "source": "PURPLE",
-          "line": 97
-        },
-        {
-          "id": "0defed89c034f40a",
-          "source": "GRAY",
-          "line": 98
-        },
-        {
-          "id": "3b659fea5c5f8ae6",
-          "source": "WHITE",
-          "line": 99
-        },
-        {
-          "id": "bd87075da4f0d8cb",
-          "source": "PINK",
-          "line": 100
-        },
-        {
           "id": "d9780d9828ea548f",
           "source": "JOKAIM region's POKéDEX",
           "line": 101
@@ -14227,34 +14092,9 @@
           "line": 115
         },
         {
-          "id": "6171d9c81f79976d",
-          "source": "No. ",
-          "line": 120
-        },
-        {
-          "id": "2507801e62f5207d",
-          "source": "Lv. ",
-          "line": 121
-        },
-        {
           "id": "4a719e6847c89e7d",
           "source": "IDNo. /",
           "line": 122
-        },
-        {
-          "id": "9f81369223f129a8",
-          "source": "IDNo.",
-          "line": 124
-        },
-        {
-          "id": "80983cea6af876da",
-          "source": "PROF. BIRCH is in trouble!\\nRelease a POKéMON and rescue him!",
-          "line": 125
-        },
-        {
-          "id": "fb10d83849c4acea",
-          "source": "Do you choose this POKéMON?",
-          "line": 126
         },
         {
           "id": "7e2ab65c70f9e524",
@@ -14262,449 +14102,14 @@
           "line": 155
         },
         {
-          "id": "402bed7af8e1e103",
-          "source": "{STR_VAR_1} COINS",
-          "line": 156
-        },
-        {
-          "id": "595bca108f5f46cc",
-          "source": "DAD's advice…\\n{PLAYER}, there's a time and place for\\leverything!{PAUSE_UNTIL_PRESS}",
-          "line": 166
-        },
-        {
-          "id": "e744b8354be055ec",
-          "source": "{PLAYER} used the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
-          "line": 167
-        },
-        {
-          "id": "ba464a655b2b29ac",
-          "source": "But the effects of a REPEL\\nlingered from earlier.{PAUSE_UNTIL_PRESS}",
-          "line": 168
-        },
-        {
-          "id": "63b857edfa888924",
-          "source": "But the effects of a Lure\\nlingered from earlier.{PAUSE_UNTIL_PRESS}",
-          "line": 169
-        },
-        {
-          "id": "9de7528b6e4c085b",
-          "source": "The BOX is full.{PAUSE_UNTIL_PRESS}",
-          "line": 170
-        },
-        {
           "id": "17ab4e17ee367bb1",
           "source": "{STR_VAR_1}を ぐるぐるこうかんに\\nだして よろしいですか？",
           "line": 356
         },
         {
-          "id": "382183f1c745dabf",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.",
-          "line": 398
-        },
-        {
-          "id": "87e6e5e09c3ecb3f",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.",
-          "line": 399
-        },
-        {
-          "id": "671bd80c050784fb",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a trade.",
-          "line": 400
-        },
-        {
-          "id": "5f9344c2a6841789",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a fateful\\nencounter at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.",
-          "line": 401
-        },
-        {
-          "id": "ad6ec1f51e179212",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nprobably met at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.",
-          "line": 402
-        },
-        {
-          "id": "860d92a28f77c219",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature",
-          "line": 403
-        },
-        {
-          "id": "9ff183600d24b4d9",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.",
-          "line": 404
-        },
-        {
-          "id": "201b8bb77f434340",
-          "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.",
-          "line": 405
-        },
-        {
-          "id": "cf743437144e8de4",
-          "source": "An odd POKéMON EGG found\\nby the DAY CARE couple.",
-          "line": 406
-        },
-        {
-          "id": "f49daee15d7797f9",
-          "source": "A peculiar POKéMON EGG\\nobtained at the nice place.",
-          "line": 407
-        },
-        {
-          "id": "ae859f2d8084c6ed",
-          "source": "A peculiar POKéMON EGG\\nobtained in a trade.",
-          "line": 408
-        },
-        {
-          "id": "e291730067c7c08f",
-          "source": "A POKéMON EGG obtained\\nat the hot springs.",
-          "line": 409
-        },
-        {
-          "id": "1066eeee1c6608ad",
-          "source": "An odd POKéMON EGG\\nobtained from a traveler.",
-          "line": 410
-        },
-        {
-          "id": "aed1a41e7b2913cf",
-          "source": "'s BASE",
-          "line": 411
-        },
-        {
-          "id": "6029bb58e40b2a2e",
-          "source": "Is it okay to delete {STR_VAR_1}\\nfrom the REGISTRY?",
-          "line": 412
-        },
-        {
-          "id": "995430f5edbfb9b3",
-          "source": "The registered data was deleted.{PAUSE_UNTIL_PRESS}",
-          "line": 413
-        },
-        {
-          "id": "f40350c38ae2a3d1",
-          "source": "There is no REGISTRY.{PAUSE_UNTIL_PRESS}",
-          "line": 414
-        },
-        {
-          "id": "65b6d510e49d979c",
-          "source": "DEL REGIST.",
-          "line": 415
-        },
-        {
-          "id": "b392cdcfcbc0e10a",
-          "source": "Put out the selected decoration item.",
-          "line": 421
-        },
-        {
-          "id": "8ba669a2b9b41141",
-          "source": "Store the chosen decoration in the PC.",
-          "line": 422
-        },
-        {
-          "id": "63bca1b258962a83",
-          "source": "Throw away unwanted decorations.",
-          "line": 423
-        },
-        {
-          "id": "b0053662e61b17af",
-          "source": "There are no decorations.{PAUSE_UNTIL_PRESS}",
-          "line": 424
-        },
-        {
-          "id": "974733192c3d179f",
-          "source": "No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.",
-          "line": 439
-        },
-        {
-          "id": "cfd488037e78b73c",
-          "source": "No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.",
-          "line": 440
-        },
-        {
           "id": "e8417520fbdace7a",
           "source": "This can't be placed here.\\nIt must be on a DESK, etc.",
           "line": 441
-        },
-        {
-          "id": "378b9253635058ad",
-          "source": "This decoration can't be placed in\\nyour own room.",
-          "line": 442
-        },
-        {
-          "id": "bf33fb610f7e7d3c",
-          "source": "This decoration is in use.\\nIt can't be thrown away.",
-          "line": 443
-        },
-        {
-          "id": "7565c059a61aaeca",
-          "source": "This {STR_VAR_1} will be discarded.\\nIs that okay?",
-          "line": 444
-        },
-        {
-          "id": "7bbf2ccb4f61a121",
-          "source": "What would you like to do with\\n{STR_VAR_1}'s MAIL?",
-          "line": 453
-        },
-        {
-          "id": "c3b474ebc2ca5833",
-          "source": "The MAIL was returned to the BAG\\nwith its message erased.{PAUSE_UNTIL_PRESS}",
-          "line": 456
-        },
-        {
-          "id": "b95892a0421521db",
-          "source": "LV. 50",
-          "line": 471
-        },
-        {
-          "id": "d91e8bd068bf6393",
-          "source": "OPEN LEVEL",
-          "line": 472
-        },
-        {
-          "id": "a4e5a2525b30c440",
-          "source": "SOUTHERN ISLAND",
-          "line": 518
-        },
-        {
-          "id": "672e4ca8f500027a",
-          "source": "BIRTH ISLAND",
-          "line": 519
-        },
-        {
-          "id": "a1c6e92eec8e7d23",
-          "source": "FARAWAY ISLAND",
-          "line": 520
-        },
-        {
-          "id": "94318d5c460e14bd",
-          "source": "NAVEL ROCK",
-          "line": 521
-        },
-        {
-          "id": "3aa035e4acf9bddd",
-          "source": "NORMAL TAG MATCH",
-          "line": 522
-        },
-        {
-          "id": "5659b832098b5abf",
-          "source": "VARIETY TAG MATCH",
-          "line": 523
-        },
-        {
-          "id": "161a163121b9c200",
-          "source": "UNIQUE TAG MATCH",
-          "line": 524
-        },
-        {
-          "id": "c32d5a3186ae18d4",
-          "source": "EXPERT TAG MATCH",
-          "line": 525
-        },
-        {
-          "id": "10254c8ccb540cb7",
-          "source": "TRADE CENTER",
-          "line": 526
-        },
-        {
-          "id": "ba80e65c5a6277c3",
-          "source": "Clarkson's Lab",
-          "line": 529
-        },
-        {
-          "id": "250c3e9f734bf121",
-          "source": "COLOSSEUM",
-          "line": 533
-        },
-        {
-          "id": "331f1bf7d136a03b",
-          "source": "RECORD CORNER",
-          "line": 534
-        },
-        {
-          "id": "749de068cfa16d7a",
-          "source": "BERRY CRUSH",
-          "line": 535
-        },
-        {
-          "id": "c2c2f463dae1d0af",
-          "source": "BATTLE RULES",
-          "line": 536
-        },
-        {
-          "id": "3e01b7a9fa5e995a",
-          "source": "JUDGE: MIND",
-          "line": 537
-        },
-        {
-          "id": "f6397643fb9d233e",
-          "source": "JUDGE: SKILL",
-          "line": 538
-        },
-        {
-          "id": "d804007d381efa0a",
-          "source": "JUDGE: BODY",
-          "line": 539
-        },
-        {
-          "id": "129f040c1363a93a",
-          "source": "BASIC RULES",
-          "line": 540
-        },
-        {
-          "id": "2ca5f84b37576d94",
-          "source": "SWAP: PARTNER",
-          "line": 541
-        },
-        {
-          "id": "c1af5b38eb2f1c25",
-          "source": "SWAP: NUMBER",
-          "line": 542
-        },
-        {
-          "id": "8774b251db7e9947",
-          "source": "SWAP: NOTES",
-          "line": 543
-        },
-        {
-          "id": "792d0140548ce86b",
-          "source": "BATTLE BASICS",
-          "line": 544
-        },
-        {
-          "id": "9ef99194335184cf",
-          "source": "POKéMON NATURE",
-          "line": 545
-        },
-        {
-          "id": "f28bdd85c3a25d7e",
-          "source": "POKéMON MOVES",
-          "line": 546
-        },
-        {
-          "id": "aca022ade218bce7",
-          "source": "UNDERPOWERED",
-          "line": 547
-        },
-        {
-          "id": "5fc0fdb199123618",
-          "source": "WHEN IN DANGER",
-          "line": 548
-        },
-        {
-          "id": "57a2b24f7ed6c704",
-          "source": "BATTLE POKéMON",
-          "line": 549
-        },
-        {
-          "id": "b346fc5526385a8a",
-          "source": "BATTLE TRAINERS",
-          "line": 550
-        },
-        {
-          "id": "ea7f546398a9370a",
-          "source": "1F",
-          "line": 555
-        },
-        {
-          "id": "3223c32daadf0c0a",
-          "source": "2F",
-          "line": 556
-        },
-        {
-          "id": "dca4073964184e47",
-          "source": "3F",
-          "line": 557
-        },
-        {
-          "id": "f83f19999b40cfda",
-          "source": "4F",
-          "line": 558
-        },
-        {
-          "id": "9f6ace1a2a057366",
-          "source": "5F",
-          "line": 559
-        },
-        {
-          "id": "0dd77461da982836",
-          "source": "6F",
-          "line": 560
-        },
-        {
-          "id": "b260a9a9065f4dde",
-          "source": "7F",
-          "line": 561
-        },
-        {
-          "id": "b697f5edb6fbe337",
-          "source": "8F",
-          "line": 562
-        },
-        {
-          "id": "4ddad43712bcb743",
-          "source": "9F",
-          "line": 563
-        },
-        {
-          "id": "f877f9adcbe8c10e",
-          "source": "10F",
-          "line": 564
-        },
-        {
-          "id": "0c9c4ceecfa7b5db",
-          "source": "11F",
-          "line": 565
-        },
-        {
-          "id": "6caddc17931c9748",
-          "source": "B1F",
-          "line": 566
-        },
-        {
-          "id": "6a32c959ba555fb7",
-          "source": "B2F",
-          "line": 567
-        },
-        {
-          "id": "097548365089af18",
-          "source": "B3F",
-          "line": 568
-        },
-        {
-          "id": "19c23712a9f96c52",
-          "source": "B4F",
-          "line": 569
-        },
-        {
-          "id": "4211565228cb5071",
-          "source": "ROOFTOP",
-          "line": 570
-        },
-        {
-          "id": "d205766313282240",
-          "source": "Now on:",
-          "line": 571
-        },
-        {
-          "id": "f774fdd97412e62a",
-          "source": "RANKING HALL",
-          "line": 573
-        },
-        {
-          "id": "d3ddd1de029fb92b",
-          "source": "EXCHANGE SERVICE",
-          "line": 574
-        },
-        {
-          "id": "1f884866ab2ee072",
-          "source": "LILYCOVE CITY",
-          "line": 575
-        },
-        {
-          "id": "9d1f71227fdc55f1",
-          "source": "SLATEPORT CITY",
-          "line": 576
-        },
-        {
-          "id": "9f7e0443067e2ba6",
-          "source": "Your party's full!{PAUSE_UNTIL_PRESS}",
-          "line": 578
         },
         {
           "id": "c781a4b404a1f7f0",
@@ -15107,96 +14512,6 @@
           "line": 666
         },
         {
-          "id": "d0997f3b6ff572bd",
-          "source": "POKéMON LEAGUE",
-          "line": 667
-        },
-        {
-          "id": "15a136b4724d7c89",
-          "source": "POKéMON CENTER",
-          "line": 668
-        },
-        {
-          "id": "0cf1adfa8e7b78bf",
-          "source": "Coolness ",
-          "line": 669
-        },
-        {
-          "id": "47713214cb1c3f65",
-          "source": "Beauty ",
-          "line": 670
-        },
-        {
-          "id": "7e34e14dab47f065",
-          "source": "Cuteness ",
-          "line": 671
-        },
-        {
-          "id": "6624bbb5feb04619",
-          "source": "Smartness ",
-          "line": 672
-        },
-        {
-          "id": "1024c795229a16d7",
-          "source": "Toughness ",
-          "line": 673
-        },
-        {
-          "id": "bfb71077dbed0550",
-          "source": "Save failed. Checking the backup\\nmemory… Please wait.\\n{COLOR RED}“Time required: about 1 minute”",
-          "line": 674
-        },
-        {
-          "id": "209866eec7165c66",
-          "source": "{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen…”",
-          "line": 676
-        },
-        {
-          "id": "b0db5cf94ad8532e",
-          "source": "Save completed.\\n{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen.”",
-          "line": 678
-        },
-        {
-          "id": "6121d8055685336f",
-          "source": "Save completed.\\n{COLOR RED}“Please press the A Button.”",
-          "line": 679
-        },
-        {
-          "id": "d78f9c75a904c6da",
-          "source": "FERRY",
-          "line": 680
-        },
-        {
-          "id": "a8cce6ca5e827ba8",
-          "source": "SECRET BASE",
-          "line": 681
-        },
-        {
-          "id": "01271f4481bfc41c",
-          "source": "HIDEOUT",
-          "line": 682
-        },
-        {
-          "id": "341920a47fe153e6",
-          "source": "Reset RTC?\\nA: Confirm, B: Cancel",
-          "line": 683
-        },
-        {
-          "id": "31d624c881decc70",
-          "source": "Present time in game",
-          "line": 684
-        },
-        {
-          "id": "78e44a789f961ae7",
-          "source": "Previous time in game",
-          "line": 685
-        },
-        {
-          "id": "0f4576cefaa4fb7b",
-          "source": "Please reset the time.",
-          "line": 686
-        },
-        {
           "id": "2a7e9e1ebb181631",
           "source": "The in-game clock adjustment system\\nis now useable.",
           "line": 691
@@ -15227,16 +14542,6 @@
           "line": 696
         },
         {
-          "id": "6f08527b385cb4f8",
-          "source": "KNOCKOUT",
-          "line": 699
-        },
-        {
-          "id": "9c375c7f65e36def",
-          "source": "MIXED",
-          "line": 700
-        },
-        {
           "id": "bfd461049c28683a",
           "source": "first",
           "line": 701
@@ -15250,16 +14555,6 @@
           "id": "68a758fcbd5e7f01",
           "source": "third",
           "line": 703
-        },
-        {
-          "id": "b22fe7b3bb983268",
-          "source": "{STR_VAR_1} fainted…\\p\\n",
-          "line": 705
-        },
-        {
-          "id": "6debd82aec289d48",
-          "source": "{STR_VAR_1} survived the poisoning.\\nThe poison faded away!\\p",
-          "line": 707
         },
         {
           "id": "aca3e394a8c0780d",
@@ -15360,41 +14655,6 @@
           "id": "e0f48ad6ef52cf7e",
           "source": "W/{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}  STRAIGHT/{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_2}",
           "line": 735
-        },
-        {
-          "id": "7f89da4a2fc58263",
-          "source": "BATTLE TOWER",
-          "line": 736
-        },
-        {
-          "id": "49b69a44b81695e2",
-          "source": "BATTLE DOME",
-          "line": 737
-        },
-        {
-          "id": "d84cd6150e3755a4",
-          "source": "BATTLE PALACE",
-          "line": 738
-        },
-        {
-          "id": "df839698aa11aaf6",
-          "source": "BATTLE FACTORY",
-          "line": 739
-        },
-        {
-          "id": "8817b0a53f7afccc",
-          "source": "BATTLE ARENA",
-          "line": 740
-        },
-        {
-          "id": "a191d56c9c9593a8",
-          "source": "BATTLE PIKE",
-          "line": 741
-        },
-        {
-          "id": "e139504609a15486",
-          "source": "BATTLE PYRAMID",
-          "line": 742
         },
         {
           "id": "0d1e62dea1586bfc",
@@ -15560,16 +14820,6 @@
           "id": "4cea86dd4915a0b7",
           "source": "BYE-BYE!",
           "line": 794
-        },
-        {
-          "id": "dfca8eceb9b2baf1",
-          "source": "{STR_VAR_1} hatched from the EGG!",
-          "line": 795
-        },
-        {
-          "id": "c7ef35ab173df475",
-          "source": "Would you like to nickname the newly\\nhatched {STR_VAR_1}?",
-          "line": 796
         },
         {
           "id": "fd18fa1fe089682e",
@@ -15850,11 +15100,6 @@
           "id": "05a6466bbcd3701c",
           "source": "Aim for the top with exploration!\\nYour bravery will be tested.",
           "line": 861
-        },
-        {
-          "id": "37ee42a6750c721b",
-          "source": "POWDER",
-          "line": 862
         },
         {
           "id": "ae1928acaceb5c23",
@@ -16297,11 +15542,6 @@
           "line": 958
         },
         {
-          "id": "57279eb8a4f74bbb",
-          "source": "YES\\nNO",
-          "line": 960
-        },
-        {
           "id": "8eb6a00d953b759f",
           "source": "PEEKABOO!",
           "line": 962
@@ -16347,11 +15587,6 @@
           "line": 970
         },
         {
-          "id": "9e42aa1a9da7a26f",
-          "source": "DAY",
-          "line": 973
-        },
-        {
           "id": "767dab03246dbb50",
           "source": "Days",
           "line": 976
@@ -16375,61 +15610,6 @@
           "id": "76a325b186724ae9",
           "source": "Updated time",
           "line": 980
-        },
-        {
-          "id": "1a9df637bc44fd17",
-          "source": "SAFARI BALLS\\nStock: {STR_VAR_1}",
-          "line": 992
-        },
-        {
-          "id": "0f59e1718e2fd8e9",
-          "source": "{STR_VAR_1}/{STR_VAR_2}\\nBALLS  {STR_VAR_3}",
-          "line": 993
-        },
-        {
-          "id": "55533e5ce7a745e0",
-          "source": "Battle Pyramid\\n{STR_VAR_1}",
-          "line": 994
-        },
-        {
-          "id": "ca6d0e32c73ab108",
-          "source": "Floor 1",
-          "line": 995
-        },
-        {
-          "id": "f344008023b55e72",
-          "source": "Floor 2",
-          "line": 996
-        },
-        {
-          "id": "98d7dcc556e608ef",
-          "source": "Floor 3",
-          "line": 997
-        },
-        {
-          "id": "6cb27c2dd5bc8ab2",
-          "source": "Floor 4",
-          "line": 998
-        },
-        {
-          "id": "68dece641fd1b1b9",
-          "source": "Floor 5",
-          "line": 999
-        },
-        {
-          "id": "590beb8da559d69f",
-          "source": "Floor 6",
-          "line": 1000
-        },
-        {
-          "id": "46c0931f76c0b257",
-          "source": "Floor 7",
-          "line": 1001
-        },
-        {
-          "id": "196a188950ab7de9",
-          "source": "Peak",
-          "line": 1002
         },
         {
           "id": "2397ce4585a10931",
@@ -16490,36 +15670,6 @@
           "id": "abff83786bd0935c",
           "source": "{COLOR RED}{SHADOW LIGHT_RED}ゲ-ムフリ-ク",
           "line": 1014
-        },
-        {
-          "id": "0772a071cfd47001",
-          "source": "JOKAIM",
-          "line": 1016
-        },
-        {
-          "id": "b8fb0a2fd94e3913",
-          "source": "KANTO",
-          "line": 1017
-        },
-        {
-          "id": "ea69cf2caae443d5",
-          "source": "{STR_VAR_2} will be\\nsent to {STR_VAR_1}.",
-          "line": 1018
-        },
-        {
-          "id": "d9970503636beae7",
-          "source": "Bye-bye, {STR_VAR_2}!",
-          "line": 1019
-        },
-        {
-          "id": "26c14c7f1ee8a661",
-          "source": "{STR_VAR_1} sent over {STR_VAR_3}.",
-          "line": 1020
-        },
-        {
-          "id": "4dcb570f095a2256",
-          "source": "Take good care of {STR_VAR_3}!",
-          "line": 1021
         },
         {
           "id": "fe9e422663d5e584",
@@ -16837,31 +15987,6 @@
           "line": 1146
         },
         {
-          "id": "8f80ad632ba73b58",
-          "source": "Communication standby…",
-          "line": 1147
-        },
-        {
-          "id": "d9330dedb6b14e8a",
-          "source": "The two seem to get along\\nvery well.",
-          "line": 1148
-        },
-        {
-          "id": "b4929e0b22023694",
-          "source": "The two seem to get along.",
-          "line": 1149
-        },
-        {
-          "id": "5ec3fa34dba47e54",
-          "source": "The two don't seem to like\\neach other much.",
-          "line": 1150
-        },
-        {
-          "id": "556b423985a16869",
-          "source": "The two prefer to play with other\\nPOKéMON than each other.",
-          "line": 1151
-        },
-        {
           "id": "6b566be1525a99cb",
           "source": "TIME BOARD",
           "line": 1155
@@ -16897,54 +16022,9 @@
           "line": 1161
         },
         {
-          "id": "5ced64cf182b994e",
-          "source": "Teach which {STR_VAR_3} to\\n{STR_VAR_1}?",
-          "line": 1162
-        },
-        {
-          "id": "ad0e5d4149378521",
-          "source": "Teach {STR_VAR_2}?",
-          "line": 1163
-        },
-        {
-          "id": "7f6404babc5bdffd",
-          "source": "{STR_VAR_1} learned\\n{STR_VAR_2}!",
-          "line": 1164
-        },
-        {
-          "id": "d25115c59e37e4bb",
-          "source": "{STR_VAR_1} is trying to learn\\n{STR_VAR_2}.\\pBut {STR_VAR_1} can't learn more\\nthan four moves.\\pDelete an older move to make\\nroom for {STR_VAR_2}?",
-          "line": 1165
-        },
-        {
-          "id": "6798a0a055052efb",
-          "source": "Stop trying to teach\\n{STR_VAR_2}?",
-          "line": 1166
-        },
-        {
-          "id": "2355baf60c02bdd6",
-          "source": "{PAUSE 32}1, {PAUSE 15}2, and {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\\p",
-          "line": 1167
-        },
-        {
-          "id": "824a2dede743c71e",
-          "source": "{STR_VAR_1} forgot {STR_VAR_3}.\\pAnd…\\p{STR_VAR_1} learned {STR_VAR_2}.",
-          "line": 1168
-        },
-        {
           "id": "cebf80ef9b92e3bf",
           "source": "{STR_VAR_1} did not learn the\\nmove {STR_VAR_2}.",
           "line": 1169
-        },
-        {
-          "id": "78f1e533328219e4",
-          "source": "Give up trying to teach a new\\nmove to {STR_VAR_1}?",
-          "line": 1170
-        },
-        {
-          "id": "d3914e2c3d1a3596",
-          "source": "Which move should be\\nforgotten?\\p",
-          "line": 1171
         },
         {
           "id": "f990c6743ce09416",
@@ -16965,16 +16045,6 @@
           "id": "a7e04de59c0ac446",
           "source": "ACCURACY/",
           "line": 1177
-        },
-        {
-          "id": "406e50614a2bfc1a",
-          "source": "Clearing data…\\nPlease wait.",
-          "line": 1181
-        },
-        {
-          "id": "b4137a73af8324c7",
-          "source": "Is this the correct time?",
-          "line": 1182
         },
         {
           "id": "098b4444da6d1d94",
@@ -17080,71 +16150,6 @@
           "id": "0e4f5a20d32c7d1d",
           "source": "BERRY",
           "line": 1209
-        },
-        {
-          "id": "7b60d7b12447664d",
-          "source": "The Exp. Share has been turned on.{PAUSE_UNTIL_PRESS}",
-          "line": 1211
-        },
-        {
-          "id": "cfd72c44d8e44b31",
-          "source": "The Exp. Share has been turned off.{PAUSE_UNTIL_PRESS}",
-          "line": 1212
-        },
-        {
-          "id": "be1830e0484d3da3",
-          "source": "GHOST",
-          "line": 1213
-        },
-        {
-          "id": "921494ecef1125ff",
-          "source": "BOULDERBADGE",
-          "line": 1214
-        },
-        {
-          "id": "0779cf4e1734f280",
-          "source": "CASCADEBADGE",
-          "line": 1215
-        },
-        {
-          "id": "9e2ce8181386672f",
-          "source": "THUNDERBADGE",
-          "line": 1216
-        },
-        {
-          "id": "f126d83aa1b04026",
-          "source": "RAINBOWBADGE",
-          "line": 1217
-        },
-        {
-          "id": "033ccfdaae64d53b",
-          "source": "SOULBADGE",
-          "line": 1218
-        },
-        {
-          "id": "7533829d1ac2dec4",
-          "source": "MARSHBADGE",
-          "line": 1219
-        },
-        {
-          "id": "562d6ae82254f0c3",
-          "source": "VOLCANOBADGE",
-          "line": 1220
-        },
-        {
-          "id": "710f39503edde14f",
-          "source": "EARTHBADGE",
-          "line": 1221
-        },
-        {
-          "id": "ff768628b9ed70ba",
-          "source": "OAK: It's important to get to know\\nyour POKéMON thoroughly.\\p",
-          "line": 1222
-        },
-        {
-          "id": "a5235df4e3a20edd",
-          "source": "This is a list of your POKéMON,\\n{PLAYER}.\\pOpen this to check the skills\\nand moves of your POKéMON.\\pYou also choose POKéMON here if\\nyou want to use an item on one.{PAUSE_UNTIL_PRESS}",
-          "line": 1223
         }
       ]
     },

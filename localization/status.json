@@ -3,18 +3,18 @@
   "baseline_commit": "efb1c880d0b486c1948763051b6c1bb8990a7353",
   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
   "total_candidates": 61722,
-  "translated": 6005,
-  "pending": 55717,
+  "translated": 6233,
+  "pending": 55489,
   "baseline_build": "passed",
   "jp_build": "passed",
   "tests_passed": 32,
-  "bps_roundtrip": "passed: UI6005, exact target ROM and all SHA256; apply_verified_patch output byte-identical to build",
+  "bps_roundtrip": "passed: UI6233, exact target ROM and all SHA256; apply_verified_patch output byte-identical to build",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "not implemented",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29897960,
+  "jp_rom_used_bytes": 29897576,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -28,10 +28,10 @@
   "verification_policy": "Static validation and builds first. GUI gameplay verification deferred per user.",
   "type_names_and_pockets": 53,
   "type_icons": 19,
-  "ui_added": 992,
+  "ui_added": 1220,
   "ui_inventory_files": 59,
-  "ui_pending_language_candidates": 3384,
-  "excel_translated_rows": 6005,
+  "ui_pending_language_candidates": 3185,
+  "excel_translated_rows": 6233,
   "reported_graphics_issue": "Closed at user request: user identified emulator bug; stop investigating and resume translation",
   "graphics_diagnostic_build": {
     "status": "passed",
@@ -40,7 +40,8 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-5da49b13ad4f7afb.gba",
-  "latest_patch_manifest": "patch-manifest-ui6005.json",
-  "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7"
+  "latest_play_rom": "../artifacts/play/wishes-jp-d1fbe375a5f59b1b.gba",
+  "latest_patch_manifest": "patch-manifest-ui6233.json",
+  "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
+  "user_output_rom": "../outputs/gba/wishes-jp-ui6233-637480a1.gba"
 }

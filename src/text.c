@@ -17,6 +17,7 @@
 #include "window.h"
 #include "constants/songs.h"
 #include "constants/speaker_names.h"
+#include "data/text/japanese_extra_glyphs.h"
 
 // Adapted from CanuseJP's ShouldUseJapaneseGlyph after comparing text.c.
 // Extended symbols/emoji only exist in the Latin sheets; Japanese sheets
@@ -26,6 +27,19 @@ static bool32 ShouldUseJapaneseGlyph(u16 glyphId, bool32 isJapanese)
 {
     return isJapanese && glyphId < 0x100
         && !(glyphId >= CHAR_0 && glyphId <= CHAR_9);
+}
+
+static bool32 TryDecompressJapaneseVu(u16 glyphId, bool32 isJapanese, u8 kind)
+{
+    static const u16 *const glyphs[] = {sJapaneseVuSmall, sJapaneseVuNormal, sJapaneseVuShort, sJapaneseVuBold};
+    static const u8 heights[] = {12, 15, 14, 12};
+    if (!isJapanese || glyphId != CHAR_A_DIAERESIS)
+        return FALSE;
+    DecompressGlyphTile(glyphs[kind], gCurGlyph.gfxBufferTop);
+    DecompressGlyphTile(glyphs[kind] + 8, gCurGlyph.gfxBufferBottom);
+    gCurGlyph.width = 8;
+    gCurGlyph.height = heights[kind];
+    return TRUE;
 }
 
 static u16 RenderText(struct TextPrinter *);
@@ -2219,6 +2233,9 @@ static void DecompressGlyph_Small(u16 glyphId, bool32 isJapanese)
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 0))
+        return;
+
     if (isJapanese == 1)
     {
         glyphs = gFontSmallJapaneseGlyphs + (0x100 * (glyphId >> 0x4)) + (0x8 * (glyphId & 0xF));
@@ -2262,6 +2279,9 @@ static void DecompressGlyph_Narrow(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
+
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 1))
+        return;
 
     if (isJapanese == TRUE)
     {
@@ -2307,6 +2327,9 @@ static void DecompressGlyph_SmallNarrow(u16 glyphId, bool32 isJapanese)
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 0))
+        return;
+
     if (isJapanese == TRUE)
     {
         glyphs = gFontSmallJapaneseGlyphs + (0x100 * (glyphId >> 0x4)) + (0x8 * (glyphId & 0xF));
@@ -2351,6 +2374,9 @@ static void DecompressGlyph_Short(u16 glyphId, bool32 isJapanese)
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 2))
+        return;
+
     if (isJapanese == TRUE)
     {
         glyphs = gFontShortJapaneseGlyphs + (0x100 * (glyphId >> 0x3)) + (0x10 * (glyphId & 0x7));
@@ -2386,6 +2412,8 @@ static void DecompressGlyph_Short(u16 glyphId, bool32 isJapanese)
 static u32 GetGlyphWidth_Short(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
+    if (isJapanese && glyphId == CHAR_A_DIAERESIS)
+        return 8;
     if (isJapanese == TRUE)
         return gFontShortJapaneseGlyphWidths[glyphId];
     else
@@ -2396,6 +2424,9 @@ static void DecompressGlyph_Normal(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
+
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 1))
+        return;
 
     if (isJapanese == TRUE)
     {
@@ -2440,6 +2471,9 @@ static void DecompressGlyph_Bold(u16 glyphId)
 {
     const u16 *glyphs;
 
+    if (TryDecompressJapaneseVu(glyphId, TRUE, 3))
+        return;
+
     glyphs = sFontBoldJapaneseGlyphs + (0x100 * (glyphId >> 4)) + (0x8 * (glyphId & 0xF));
     DecompressGlyphTile(glyphs, gCurGlyph.gfxBufferTop);
     DecompressGlyphTile(glyphs + 0x80, gCurGlyph.gfxBufferBottom);
@@ -2451,6 +2485,9 @@ static void DecompressGlyph_Narrower(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
+
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 1))
+        return;
 
     if (isJapanese == TRUE)
     {
@@ -2496,6 +2533,9 @@ static void DecompressGlyph_SmallNarrower(u16 glyphId, bool32 isJapanese)
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 0))
+        return;
+
     if (isJapanese == TRUE)
     {
         glyphs = gFontSmallJapaneseGlyphs + (0x100 * (glyphId >> 0x4)) + (0x8 * (glyphId % 0x10));
@@ -2539,6 +2579,9 @@ static void DecompressGlyph_ShortNarrow(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
+
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 2))
+        return;
 
     if (isJapanese == TRUE)
     {
@@ -2585,6 +2628,9 @@ static void DecompressGlyph_ShortNarrower(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
+
+    if (TryDecompressJapaneseVu(glyphId, isJapanese, 2))
+        return;
 
     if (isJapanese == TRUE)
     {

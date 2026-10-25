@@ -1,0 +1,195 @@
+{
+  "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+  "icons": [
+    {
+      "file": "graphics/types/normal.png",
+      "before_sha256": "d5336dd88e008cfaacd861e09c85841e9c52ef72fe16e345cba23db1e563fa92",
+      "reference_sha256": "37d8db87cdef5f4bab95a14cee8f34875a782b5f1ad72c35fa0b68e605e64bd1",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/fight.png",
+      "before_sha256": "cf5551ba140de20a0b3e78bbded17319be549826a1a8a3227ca754341b8f4ed5",
+      "reference_sha256": "8c9ef46457de8c2381f5790b13261cb29d7ff7738ce7a3233e5e85b6e7defade",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/flying.png",
+      "before_sha256": "ac3bb7430b5defa5c11aa3fb6aac8871be66c15930851a4e0f0d4742a5b354bc",
+      "reference_sha256": "dcf51c633f37574b77ce59b5a7e63fab304f8972ba08d0bb4af655f56db729b3",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/poison.png",
+      "before_sha256": "4cb0fb65e0150c1a3b87c140caec6b5fdcfb73a98ab9170ab02fde1561054051",
+      "reference_sha256": "a2d17c9a00717f8f1b05ed467f71218b68814c68b18f46e69836e4fc84a4c200",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/ground.png",
+      "before_sha256": "bcd3b1b402ab9a283f12693910f3297980d9634894639cf347f20f1c62cd0e24",
+      "reference_sha256": "c9b138f7d06ca5ff4067862c0695299f53d115f7eb3b635ea647c1dc1be16ff2",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/rock.png",
+      "before_sha256": "f28f7268de101f1d37da23815a65089afa05176b5e375e545df459303eba5d40",
+      "reference_sha256": "299de32fb819124020278c8fe1efa26119bdbf9d99e9db3f7291906c500dd7d7",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/bug.png",
+      "before_sha256": "7117332fdba31b3f2cbea2158af9be6e3011bce0b8a4bcb496d58d82f78970fb",
+      "reference_sha256": "74c869c996fb04d5523d6c1490998e7508fd6dc86f82383eab1926d6e8e82eb3",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/ghost.png",
+      "before_sha256": "1fc80eb7b1596d873c8a416aff0f36b320d22bf19fa6b5e349f906e6830ac5e5",
+      "reference_sha256": "6f2f9de4aafc582cc6fd3ca3b80c442f97bd50140d973e8058a0d475da9a7174",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/steel.png",
+      "before_sha256": "3bb0af8b2410e171c160a7ddd168327fe64b0d84a070fe2072ead9627f439280",
+      "reference_sha256": "78303d87661a77507d969cc431c35f5274f044a27d57d8faf4c37571698494c6",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/fire.png",
+      "before_sha256": "860d24d56b9c065c3d5a85573ce99600c11b68e92ae81aef4bc49c64608dd9dc",
+      "reference_sha256": "c64aff5fc56d22fb3ae9836f7d4a4351833220214287d141172d184d2e8b3d2c",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/water.png",
+      "before_sha256": "1e4c6145a8611fb88403dad0288244277289dfbf6c8df8a00a1a2b2637d4a148",
+      "reference_sha256": "daec33b7b616ad49febd940a774a1dc7c8cd93173520f62863f1ca334658f9be",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/grass.png",
+      "before_sha256": "6e8908c7c4a314bcf11ec4634bb294e9e59a348a7acff5f9020a883cbd326562",
+      "reference_sha256": "b79344cb980f89905d6e0947f13e9acae4932a1959dc802da34962639c87361a",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/electric.png",
+      "before_sha256": "82bfd6f042f703d798cefe7b69bc76fde43c560bf1938cc892f49db1baa0ac33",
+      "reference_sha256": "6a71ca160c6ab91c915ca19e60c8f01a897bc2bdb2c758f00e4a7f2f5d3caaba",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/psychic.png",
+      "before_sha256": "599ef47c3eb3a920914d8e59610ce8e7d2ed61aa7d7372e3ef4a917d53328fb7",
+      "reference_sha256": "d680161633d04be219fd60014c1505117aef1789774121fa22a588d029bcd700",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/ice.png",
+      "before_sha256": "b8a835b7b38ee9533160275f792d4ed14a33b634c48d1d02a074dc77704cae22",
+      "reference_sha256": "1ed8e904d34421ba3285fdf292923548613eeba1ef20718c006f8e1199861939",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/dragon.png",
+      "before_sha256": "48eab58f2b1c9293ae2082bac64f9ea5c8346a52ce5286ef86f1dcc1b7ede510",
+      "reference_sha256": "fbaa12eb4255d5cd7476225a94b4b1323a95474ddf19431201e80a984f3a6ae8",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/dark.png",
+      "before_sha256": "83862e0d33110fa25c2998bb26ad065b89c5d8dd229ef904295339c8913e2a87",
+      "reference_sha256": "92486f1669abbf73580e6c00e6101a42efc897c4cec7ae0cd41fb66d3d6ea347",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/fairy.png",
+      "before_sha256": "567c048996b206842bef1457b318b5932bf299c291c65c63903dbfa24a97275e",
+      "reference_sha256": "2d5f77976e583d42080ccebe4a9ff2724dec4ab01511ef334cde2ef911b90285",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    },
+    {
+      "file": "graphics/types/stellar.png",
+      "before_sha256": "e22f017c1113e83b5ddd0b959a75de4cf25fa6b832da8842ad83e4988e8fedd6",
+      "reference_sha256": "d0dc873a97a0fe1a1513dcfc470ced451bf01c5ecd7cbf224be05cd0610214f1",
+      "size": [
+        32,
+        16
+      ],
+      "palette_identical": true
+    }
+  ]
+}

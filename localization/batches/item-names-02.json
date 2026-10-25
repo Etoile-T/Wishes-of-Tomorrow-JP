@@ -1,0 +1,783 @@
+[
+  {
+    "id": "fc1e36b442d0bd72",
+    "translation": "{JPN}とくせいマシン・いかく{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 15,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "96fd87b044cb8008",
+    "translation": "{JPN}とくせいマシン・こんじょう{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 17,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "e6632dd57e2950f0",
+    "translation": "{JPN}とくせいマシン・テクニシャン{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 18,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "6786b400d8cbac5a",
+    "translation": "{JPN}とくせいマシン・じしんかじょう{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "139bbfed2728f8e1",
+    "translation": "{JPN}とくせいマシン・てきおうりょく{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "a14c89b79ae0f074",
+    "translation": "{JPN}とくせいマシン・ちからずく{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 17,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "df2d5a9d49b3a46d",
+    "translation": "{JPN}とくせいマシン・かたいツメ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 17,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "5af896883eb4b9c2",
+    "translation": "{JPN}とくせいマシン・てつのこぶし{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 18,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "ce2e5a42231567b7",
+    "translation": "{JPN}とくせいマシン・いろめがね{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 17,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "f93842cecda4ac21",
+    "translation": "{JPN}とくせいマシン・スキルリンク{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 18,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "2481ac45f8930f0a",
+    "translation": "{JPN}とくせいマシン・あついしぼう{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 18,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "8ddebe0d9889e7d3",
+    "translation": "{JPN}とくせいマシン・がんじょう{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 17,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "c8b064277ac3ce0e",
+    "translation": "{JPN}とくせいマシン・ふゆう{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 15,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "c48b94ac31cc7eff",
+    "translation": "{JPN}とくせいマシン・てんねん{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 16,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "25f2d9eaa158c50f",
+    "translation": "{JPN}とくせいマシン・てんのめぐみ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 18,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "5bf6893e2dff9d70",
+    "translation": "{JPN}とくせいマシン・いたずらごころ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "8b08e916b07949d9",
+    "translation": "{JPN}とくせいマシン・ポイズンヒール{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "1004b34fef8c9ed0",
+    "translation": "{JPN}とくせいマシン・マルチスケイル{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "eaf0ce8156a90b86",
+    "translation": "{JPN}とくせいマシン・マジックガード{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "cb46efb796f8d690",
+    "translation": "{JPN}とくせいマシン・さいせいりょく{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "3030915d78004ea0",
+    "translation": "{JPN}とくせいマシン・かそく{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 15,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "3d2b7efd4e7767be",
+    "translation": "{JPN}とくせいマシン・マジックミラー{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 19,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "c2e65acf16c36330",
+    "translation": "{JPN}マンキーのて{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 10,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "844b07d22a2d0c20",
+    "translation": "{JPN}オコリザルのて{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "fc8aba451cedc295",
+    "translation": "{JPN}コノヨザルのて{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "b5da0a5bedaafc95",
+    "translation": "{JPN}スナッチボール{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "6bea96704f85d81c",
+    "translation": "{ENG}{PKMN}{JPN}ボックスリンク{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 15,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "82599e8290b0cf20",
+    "translation": "{ENG}{POKEBLOCK}{JPN}ケース{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 14,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "b7ce99d7530a4741",
+    "translation": "{JPN}ホットココア{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 10,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "1a6d885d139ad76d",
+    "translation": "{JPN}フェンタニル{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 10,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "d3f93484664e1252",
+    "translation": "{JPN}びんづめのぬくもり{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 13,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "2909df67eedf8a9e",
+    "translation": "{JPN}かりたとしつき{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "83bfb633616098ab",
+    "translation": "{JPN}つたえなかったことば{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 14,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "3d729f874793ecec",
+    "translation": "{JPN}しらないひとのなまえ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 14,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "ef1f1acfafb0945e",
+    "translation": "{JPN}おりたたんださよなら{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 14,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "a85cb8521f2d294c",
+    "translation": "{JPN}ひとつのよいゆめ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "00be5f803555de20",
+    "translation": "{JPN}とおいかえりみち{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "2845bc08ffc03003",
+    "translation": "{JPN}ほりもののめん{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "fb2e39a3dbead3bf",
+    "translation": "{JPN}アズサユミ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 9,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "cfcd597150538672",
+    "translation": "{JPN}ダークちょうさしりょう{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 15,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "32a7f2c3269fbdb7",
+    "translation": "{JPN}クエストにっし{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "6798d596b2c9acc6",
+    "translation": "{JPN}ヨットのカギ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 10,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "6af0544bb117c29a",
+    "translation": "{JPN}リフトのシーズンパス{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 14,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "c3107f5154605b30",
+    "translation": "{JPN}こくさんビール{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "4da6fdcd181b99e5",
+    "translation": "{JPN}クラフトビール{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "5733bfc09ad0355f",
+    "translation": "{JPN}むげんのアメ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 10,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "8e866975a7a67bb6",
+    "translation": "{JPN}スナッチマシン{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "efe24ae2b341e1a2",
+    "translation": "{JPN}しんかんせんのカギ{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 13,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "681f9b0cad88587b",
+    "translation": "{JPN}さけめのかけら{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "718fde3b6d21adfb",
+    "translation": "{JPN}さけめのかく{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 10,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "99e9aebbff160713",
+    "translation": "{JPN}さけめのしんぞう{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "6597856c7d1c4b46",
+    "translation": "{JPN}ウェイスターボール{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 13,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "06457a119de59b12",
+    "translation": "{JPN}モロバレルナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "5b7aec5bce8db7f0",
+    "translation": "{JPN}マリルリナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "00bb74f0cbce315d",
+    "translation": "{JPN}バタフリーナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "221e70613f4da558",
+    "translation": "{JPN}ローブシンナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "4dd32c9d27da7703",
+    "translation": "{JPN}ダグトリオナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "b0df6decb86e9cb8",
+    "translation": "{JPN}エレキブルナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "9598b62f69df522c",
+    "translation": "{JPN}フライゴナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "16ea01ef1ecc6917",
+    "translation": "{JPN}ゴローニャナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "14f0c1bd6422a0b4",
+    "translation": "{JPN}ワタッコナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "cb10d2dced84a49c",
+    "translation": "{JPN}カブトプスナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "cd2b237b796cbb2b",
+    "translation": "{JPN}ブーバーナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "496575ed89d0c0e8",
+    "translation": "{JPN}ミロカロスナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "286f9c6ece9e3cf9",
+    "translation": "{JPN}オムスターナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "5471b6563ea9d270",
+    "translation": "{JPN}ニョロボンナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "84bb5b76cecb08d3",
+    "translation": "{JPN}ダーテングナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "23b790c7fd398ae9",
+    "translation": "{JPN}カビゴンナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "a6a9b254908b4b84",
+    "translation": "{JPN}コータスナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 11,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "1b114733b69eca0d",
+    "translation": "{JPN}バクフーンナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  },
+  {
+    "id": "34816e07d513a809",
+    "translation": "{JPN}エルフーンナイト{ENG}",
+    "target": "custom_item_name",
+    "provenance": {
+      "method": "English name and item description reviewed",
+      "encoded_bytes": 12,
+      "byte_budget": 20,
+      "terminology_status": "provisional for Wishes-specific terms"
+    }
+  }
+]

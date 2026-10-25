@@ -331,6 +331,8 @@ TALL_PLUS   = FC 0C FB
 '。' = AD
 'ー' = AE
 '⋯' = B0
+'・' = AF @ Japanese middle dot, existing glyph
+'ヴ' = F1 @ Japanese-mode override; Latin Ä remains unchanged
 
 STRING = FD
 

@@ -1,0 +1,541 @@
+{
+  "proposed": 695,
+  "skipped": [
+    {
+      "target": "ITEM_AM_INTIMIDATE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_GUTS.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_TECHNICIAN.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_MOXIE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_ADAPTABILITY.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_SHEER_FORCE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_TOUGH_CLAWS.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_IRON_FIST.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_TINTED_LENS.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_SKILL_LINK.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_THICK_FAT.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_STURDY.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_LEVITATE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_UNAWARE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_SERENE_GRACE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_PRANKSTER.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_POISON_HEAL.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_MULTISCALE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_MAGIC_GUARD.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_REGENERATOR.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_SPEED_BOOST.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AM_MAGIC_BOUNCE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_MANKEYS_PAW.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_PRIMEAPES_PAW.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_ANNIHILAPES_PAW.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_SNAG_BALL.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_GROWTH_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_DAMP_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_STABLE_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_GOOEY_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_RICH_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_SURPRISE_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_BOOST_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AMAZE_MULCH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "id": "b69d94904ed3eef4",
+      "target": "ITEM_WISHING_PIECE.description",
+      "source": "Throw into a\\n{PKMN} Den to attract\\nDynamax Pokémon.",
+      "candidate": "すあなに なげいれると\\n{JPN}ダイマックスポケモンが\\n{JPN}あらわれる",
+      "reason": "b69d94904ed3eef4: control/placeholder mismatch"
+    },
+    {
+      "target": "ITEM_EXP_SHARE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "id": "87284751a1570531",
+      "target": "ITEM_FOCUS_SASH.description",
+      "source": "If the holder has\\nfull HP, it endures\\nKO hits with 1 HP.",
+      "candidate": "もたせると HPが\\n{JPN}まんたんのとき いちげきでは\\n{JPN}たおされなくなる",
+      "reason": "numeric_values_changed"
+    },
+    {
+      "id": "83fe5086bdf77eb6",
+      "target": "ITEM_RAZZ_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Razz.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ズリが そだつ",
+      "reason": "83fe5086bdf77eb6: control/placeholder mismatch"
+    },
+    {
+      "id": "da751e20e0e4d31e",
+      "target": "ITEM_BLUK_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Bluk.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ブリーが そだつ",
+      "reason": "da751e20e0e4d31e: control/placeholder mismatch"
+    },
+    {
+      "id": "ce928d60a750a115",
+      "target": "ITEM_NANAB_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Nanab.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ナナが そだつ",
+      "reason": "ce928d60a750a115: control/placeholder mismatch"
+    },
+    {
+      "id": "f0f8d1c2ad2bb7b9",
+      "target": "ITEM_WEPEAR_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Wepear.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}セシナが そだつ",
+      "reason": "f0f8d1c2ad2bb7b9: control/placeholder mismatch"
+    },
+    {
+      "id": "5a3ad66797c9949a",
+      "target": "ITEM_PINAP_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Pinap.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}パイルが そだつ",
+      "reason": "5a3ad66797c9949a: control/placeholder mismatch"
+    },
+    {
+      "id": "7218d731779a184b",
+      "target": "ITEM_CORNN_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Cornn.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}モコシが そだつ",
+      "reason": "7218d731779a184b: control/placeholder mismatch"
+    },
+    {
+      "id": "2b255e6ecf58691b",
+      "target": "ITEM_MAGOST_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Magost.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ゴスが そだつ",
+      "reason": "2b255e6ecf58691b: control/placeholder mismatch"
+    },
+    {
+      "id": "378a6439de3446bf",
+      "target": "ITEM_RABUTA_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Rabuta.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ラブタが そだつ",
+      "reason": "378a6439de3446bf: control/placeholder mismatch"
+    },
+    {
+      "id": "455941cdb1918cb1",
+      "target": "ITEM_NOMEL_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Nomel.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ノメルが そだつ",
+      "reason": "455941cdb1918cb1: control/placeholder mismatch"
+    },
+    {
+      "id": "a627915b6c1813df",
+      "target": "ITEM_SPELON_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Spelon.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ノワキが そだつ",
+      "reason": "a627915b6c1813df: control/placeholder mismatch"
+    },
+    {
+      "id": "ac8e73d1737f00a0",
+      "target": "ITEM_PAMTRE_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Pamtre.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}シーヤが そだつ",
+      "reason": "ac8e73d1737f00a0: control/placeholder mismatch"
+    },
+    {
+      "id": "c18141458d913de5",
+      "target": "ITEM_WATMEL_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Watmel.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}カイスが そだつ",
+      "reason": "c18141458d913de5: control/placeholder mismatch"
+    },
+    {
+      "id": "7c76d75509b5b2e7",
+      "target": "ITEM_DURIN_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Durin.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ドリが そだつ",
+      "reason": "7c76d75509b5b2e7: control/placeholder mismatch"
+    },
+    {
+      "id": "b949c001526062cc",
+      "target": "ITEM_BELUE_BERRY.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow Belue.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}ベリブが そだつ",
+      "reason": "b949c001526062cc: control/placeholder mismatch"
+    },
+    {
+      "id": "26fd47ad94cacc8f",
+      "target": "ITEM_ENIGMA_BERRY_E_READER.description",
+      "source": "{POKEBLOCK} ingredient.\\nPlant in loamy soil\\nto grow a mystery.",
+      "candidate": "ポロックの ざいりょう\\n{JPN}つちのなかに うめると\\n{JPN}なぞな みが そだつ",
+      "reason": "26fd47ad94cacc8f: control/placeholder mismatch"
+    },
+    {
+      "target": "ITEM_TM_HAIL.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "id": "86912fe7f6d5503b",
+      "target": "ITEM_TM51.description",
+      "source": "Summons meteors.\\nSharply lowers the\\nuser's Sp. Atk.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "28106706c6303bd2",
+      "target": "ITEM_TM52.description",
+      "source": "Fights up close.\\nLowers the user's\\nDefense and Sp. Def.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "62a65cf9e4a8c8ef",
+      "target": "ITEM_TM53.description",
+      "source": "Fires off scales.\\nRaises Speed but\\nlowers Defense.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "2db81e8415cfae24",
+      "target": "ITEM_TM54.description",
+      "source": "Plays rough with\\nthe foe. May lower\\nthe foe's Attack.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "008eba5ac93beede",
+      "target": "ITEM_TM55.description",
+      "source": "A frenetic dance.\\nSharply raises the\\nuser's Attack.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "0bdd95c34c6e20ba",
+      "target": "ITEM_TM56.description",
+      "source": "Stimulates the\\nbrain by thinking\\nbad thoughts.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "daa7e16c4b0f4a59",
+      "target": "ITEM_TM57.description",
+      "source": "Hurls scorching\\nsand. May leave the\\nfoe with a burn.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "ccd7ba439eea445c",
+      "target": "ITEM_TM58.description",
+      "source": "The ground erupts.\\nMay lower the foe's\\nSp. Def.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "f66e12e840424f37",
+      "target": "ITEM_TM59.description",
+      "source": "Slaps down the\\nfoe's held item so\\nit can't be used.",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "3b160efd4c9c825c",
+      "target": "ITEM_MEGA_RING.description",
+      "source": "Enables {PKMN} holding\\ntheir Mega Stone to\\nMega Evolve.",
+      "candidate": "メガストーンを もったまま\\n{JPN}たたかう ポケモンを\\n{JPN}メガシンカ させる",
+      "reason": "3b160efd4c9c825c: control/placeholder mismatch"
+    },
+    {
+      "id": "3dd43eb5f45f9600",
+      "target": "ITEM_POKEMON_BOX_LINK.description",
+      "source": "This device grants\\naccess to the {PKMN}\\nStorage System.",
+      "candidate": "いつでも ボックスに\\n{JPN}アクセスして ポケモンを\\n{JPN}あずけたり ひきだせる",
+      "reason": "3dd43eb5f45f9600: control/placeholder mismatch"
+    },
+    {
+      "id": "fa3dcc9b1d2095c9",
+      "target": "ITEM_COIN_CASE.description",
+      "source": "A case that holds\\nup to 9,999 Coins.",
+      "candidate": "てにいれた コインを\\n{JPN}9999まい まで\\n{JPN}もつことが できる",
+      "reason": "numeric_values_changed"
+    },
+    {
+      "id": "97bcb47fb2c1cf9c",
+      "target": "ITEM_POKEBLOCK_CASE.description",
+      "source": "A case for holding\\n{POKEBLOCK}s made with\\na Berry Blender.",
+      "candidate": "きのみブレンダーで\\n{JPN}つくった ポロックを\\n{JPN}ほぞんする いれもの",
+      "reason": "97bcb47fb2c1cf9c: control/placeholder mismatch"
+    },
+    {
+      "target": "ITEM_HOT_COCOA.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_FENTANYL.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_BOTTLED_WARMTH.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_BORROWED_YEARS.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_UNSPOKEN_LAST_WORDS.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_A_STRANGERS_NAME.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_FOLDED_GOODBYE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_ONE_GOOD_DREAM.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_THE_LONG_WAY_HOME.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_CARVED_MASK.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_CATALPA_BOW.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_SHADOW_DOSSIER.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_QUEST_LOG.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_YACHT_KEY.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_EPIC_PASS.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_DOMESTIC.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_INFINITE_CANDY.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_SNAG_MACHINE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_SHINKANSEN_KEY.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_RIFT_SHARD.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_RIFT_CORE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_RIFT_HEART.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_WASTER_BALL.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AMOONGUSSITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_AZUMARILLITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_BUTTERFRITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_CONKELDURRITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_DUGTRIONITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_ELECTIVIRITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_FLYGONITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_GOLEMITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_JUMPLUFFITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_KABUTOPSITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_MAGMORTARITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_MILOTICITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_OMASTARITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_POLIWRATHITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_SHIFTRITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_SNORLAXITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_TORKOALITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_TYPHLOSIONITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "target": "ITEM_WHIMSICOTTITE.description",
+      "reason": "missing_or_mismatched_variants"
+    },
+    {
+      "id": "153419cae928c222",
+      "target": "gQuestionMarksItemName.shared",
+      "source": "????????",
+      "candidate": "????????",
+      "reason": "not_japanese"
+    },
+    {
+      "id": "c6e4f19b3f60b0cc",
+      "target": "sQuestionMarksDesc.shared",
+      "source": "?????",
+      "candidate": "?????",
+      "reason": "not_japanese"
+    }
+  ]
+}

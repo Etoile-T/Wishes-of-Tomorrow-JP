@@ -143,7 +143,8 @@ struct TrainerClass
 
 struct TypeInfo
 {
-    u8 name[TYPE_NAME_LENGTH + 1];
+    // ROM-only metadata: allow JPN/ENG commands without reducing the name budget.
+    u8 name[TYPE_NAME_LENGTH + 1 + 4];
     u8 generic[17];
     u8 palette;
     u16 zMove;

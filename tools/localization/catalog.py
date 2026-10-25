@@ -6,7 +6,7 @@ Offsets are Unicode character offsets. Apply validates every source before writi
 import argparse, collections, hashlib, json, pathlib, re
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 LITERAL = r'"(?:\\.|[^"\\])*"'
-MACRO = re.compile(r'\b(?:_|COMPOUND_STRING)\s*\(\s*(' + LITERAL + r'(?:\s*' + LITERAL + r')*)\s*\)')
+MACRO = re.compile(r'\b(?:_|COMPOUND_STRING|COMPOUND_STRING_SIZE_LIMIT|ITEM_NAME|ITEM_PLURAL_NAME)\s*\(\s*(' + LITERAL + r'(?:\s*' + LITERAL + r')*)(?:\s*,\s*[A-Za-z_0-9 +\-]+)?\s*\)')
 SCRIPT = re.compile(r'(?m)^\s*\.(?:string|braille)\s+(' + LITERAL + r')')
 COMMENTS = re.compile(r'//[^\n]*|/\*[\s\S]*?\*/|' + LITERAL)
 TOKENS = re.compile(r'\{[^{}]*\}|\\(?:[nplr]|x[0-9a-fA-F]{2}|[0-7]{1,3})|\$')

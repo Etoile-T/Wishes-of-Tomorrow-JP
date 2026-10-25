@@ -16,12 +16,13 @@ import catalog
 
 BASE = '23be896714'
 REFERENCE_COMMIT = 'b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef'
-ENTRY = re.compile(r'(?m)^\s*\[((?:SPECIES|MOVE|ABILITY)_\w+)\]\s*=\s*\{')
+ENTRY = re.compile(r'(?m)^\s*\[((?:SPECIES|MOVE|ABILITY|ITEM)_\w+)\]\s*=\s*\{')
 FIELD = re.compile(r'\.(speciesName|name)\s*=\s*$')
 
 
-def fields(text):
+def fields(text, field_names=('speciesName', 'name')):
     """Return encoded literal names keyed by constant and field/variant."""
+    field_pattern = re.compile(r'\.('+'|'.join(re.escape(x) for x in field_names)+r')\s*=\s*$')
     skeleton = catalog.COMMENTS.sub(lambda m: re.sub(r'[^\n]', ' ', m[0]), text)
     literals = list(catalog.MACRO.finditer(catalog.masked(text)))
     result = collections.defaultdict(list)
@@ -37,12 +38,13 @@ def fields(text):
         for literal in literals:
             if not begin < literal.start() < end:
                 continue
-            field = FIELD.search(text[max(begin, literal.start()-80):literal.start()])
+            field = field_pattern.search(text[max(begin, literal.start()-80):literal.start()])
             if not field:
                 continue
             value = ''.join(x[1:-1] for x in re.findall(catalog.LITERAL, literal[1]))
             result[(entry[1], field[1])].append(dict(
-                source=value, start=literal.start(1), line=text.count('\n', 0, literal.start(1))+1))
+                source=value, start=literal.start(1), line=text.count('\n', 0, literal.start(1))+1,
+                entry_begin=entry.start(), entry_end=end))
     return result
 
 

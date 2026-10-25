@@ -203,11 +203,11 @@ const u8 gText_ReturnToVar1[] = _("Return to\n{STR_VAR_1}.");
 
 const u8 *const gPocketNamesStringsTable[] =
 {
-    [POCKET_ITEMS] =        COMPOUND_STRING("ITEMS"),
-    [POCKET_POKE_BALLS] =   COMPOUND_STRING("POKé BALLS"),
-    [POCKET_TM_HM]  =       COMPOUND_STRING("TMs & HMs"),
-    [POCKET_BERRIES] =      COMPOUND_STRING("BERRIES"),
-    [POCKET_KEY_ITEMS] =    COMPOUND_STRING("KEY ITEMS")
+    [POCKET_ITEMS] =        COMPOUND_STRING("{JPN}どうぐ{ENG}"),
+    [POCKET_POKE_BALLS] =   COMPOUND_STRING("{JPN}モンスターボール{ENG}"),
+    [POCKET_TM_HM]  =       COMPOUND_STRING("{JPN}わざマシン{ENG}"),
+    [POCKET_BERRIES] =      COMPOUND_STRING("{JPN}きのみ{ENG}"),
+    [POCKET_KEY_ITEMS] =    COMPOUND_STRING("{JPN}たいせつなもの{ENG}")
 };
 
 const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x03}{STR_VAR_2}");
@@ -489,11 +489,11 @@ const u8 gText_Beauty2[] = _("BEAUTY");
 const u8 gText_Cute2[] = _("CUTE");
 const u8 gText_Smart2[] = _("SMART");
 const u8 gText_Tough2[] = _("TOUGH");
-const u8 gText_Items[] = _("ITEMS");
-const u8 gText_Key_Items[] = _("KEY ITEMS");
-const u8 gText_Poke_Balls[] = _("POKé BALLS");
-const u8 gText_TMs_Hms[] = _("TMs & HMs");
-const u8 gText_Berries2[] = _("BERRIES");
+const u8 gText_Items[] = _("{JPN}どうぐ{ENG}");
+const u8 gText_Key_Items[] = _("{JPN}たいせつなもの{ENG}");
+const u8 gText_Poke_Balls[] = _("{JPN}モンスターボール{ENG}");
+const u8 gText_TMs_Hms[] = _("{JPN}わざマシン{ENG}");
+const u8 gText_Berries2[] = _("{JPN}きのみ{ENG}");
 const u8 gText_SomeonesPC[] = _("SOMEONE'S PC");
 const u8 gText_LanettesPC[] = _("LANETTE'S PC");
 const u8 gText_BillsPc[] = _("BILL'S PC");
@@ -1205,9 +1205,9 @@ const u8 gText_Cancel5[] = _("CANCEL");
 const u8 gText_Ok2[] = _("OK");
 const u8 gText_Quiz[] = _("QUIZ");
 const u8 gText_Answer[] = _("ANSWER");
-const u8 gText_PokeBalls[] = _("POKé BALLS");
+const u8 gText_PokeBalls[] = _("{JPN}モンスターボール{ENG}");
 const u8 gText_Berry[] = _("BERRY");
-const u8 gText_Berries[] = _("BERRIES");
+const u8 gText_Berries[] = _("{JPN}きのみ{ENG}");
 const u8 gText_ExpShareOn[] = _("The Exp. Share has been turned on.{PAUSE_UNTIL_PRESS}");
 const u8 gText_ExpShareOff[] = _("The Exp. Share has been turned off.{PAUSE_UNTIL_PRESS}");
 ALIGNED(4) const u8 gText_Ghost[] = _("GHOST");

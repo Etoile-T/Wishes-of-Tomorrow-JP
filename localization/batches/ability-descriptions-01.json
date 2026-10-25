@@ -1,0 +1,3533 @@
+[
+  {
+    "id": "9dab31390bfc2b20",
+    "translation": "{JPN}とくせい なし{ENG}",
+    "target": "ABILITY_NONE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d04304911ffcaefa",
+    "translation": "{JPN}あいてをひるませることがある{ENG}",
+    "target": "ABILITY_STENCH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c4ed075373a38f16",
+    "translation": "{JPN}せんとうに でると あめを ふらす{ENG}",
+    "target": "ABILITY_DRIZZLE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "07e9e86e7b860bff",
+    "translation": "{JPN}ちょっとずつ すばやく なっていく{ENG}",
+    "target": "ABILITY_SPEED_BOOST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9170fdeb3f5fd017",
+    "translation": "{JPN}わざを きゅうしょに うけない{ENG}",
+    "target": "ABILITY_BATTLE_ARMOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0410864c24d24856",
+    "translation": "{JPN}いちげきひっさつがきかない{ENG}",
+    "target": "ABILITY_STURDY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "102fc8686c5b9bed",
+    "translation": "{JPN}だれも じばくが できなくなる{ENG}",
+    "target": "ABILITY_DAMP.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bc2d169628d8b454",
+    "translation": "{JPN}まひ じょうたいに ならない{ENG}",
+    "target": "ABILITY_LIMBER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b43af1ab5eabe407",
+    "translation": "{JPN}すなあらしで かいひりつが あがる{ENG}",
+    "target": "ABILITY_SAND_VEIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e77696431098c58e",
+    "translation": "{JPN}さわった あいてを まひさせる{ENG}",
+    "target": "ABILITY_STATIC.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f0acd7bb0f983c8b",
+    "translation": "{JPN}でんきを うけると かいふくする{ENG}",
+    "target": "ABILITY_VOLT_ABSORB.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9e6509114446775b",
+    "translation": "{JPN}みずを うけると かいふくする{ENG}",
+    "target": "ABILITY_WATER_ABSORB.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b1a93869a0c01903",
+    "translation": "{JPN}メロメロ じょうたいに ならない{ENG}",
+    "target": "ABILITY_OBLIVIOUS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "96f97de45e54bdd4",
+    "translation": "{JPN}てんきの えいきょうが なくなる{ENG}",
+    "target": "ABILITY_CLOUD_NINE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5c4ad17f4fe60ce2",
+    "translation": "{JPN}わざの めいちゅうりつが あがる{ENG}",
+    "target": "ABILITY_COMPOUND_EYES.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "81f5fe0b6f0db677",
+    "translation": "{JPN}ねむり じょうたいに ならない{ENG}",
+    "target": "ABILITY_INSOMNIA.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "75b6b42426121498",
+    "translation": "{JPN}うけた わざの タイプに へんかする{ENG}",
+    "target": "ABILITY_COLOR_CHANGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e307ec53e2be729f",
+    "translation": "{JPN}どく じょうたいに ならない{ENG}",
+    "target": "ABILITY_IMMUNITY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "727b8e2b77ca3557",
+    "translation": "{JPN}ほのおを うけると つよくなる{ENG}",
+    "target": "ABILITY_FLASH_FIRE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a474e17b55e3deef",
+    "translation": "{JPN}わざの ついかこうかを うけない{ENG}",
+    "target": "ABILITY_SHIELD_DUST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c945d58707783a1c",
+    "translation": "{JPN}こんらん じょうたいに ならない{ENG}",
+    "target": "ABILITY_OWN_TEMPO.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f408ecb971607b1a",
+    "translation": "{JPN}きゅうばんで じめんに はりつく{ENG}",
+    "target": "ABILITY_SUCTION_CUPS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "93a6f9cb6a672522",
+    "translation": "{JPN}あいての こうげきを さげる{ENG}",
+    "target": "ABILITY_INTIMIDATE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9bc557f15c933daf",
+    "translation": "{JPN}あいてを にげられなくする{ENG}",
+    "target": "ABILITY_SHADOW_TAG.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0f2cca0bbea910a5",
+    "translation": "{JPN}さわった あいてを キズつける{ENG}",
+    "target": "ABILITY_ROUGH_SKIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5d004c472f813760",
+    "translation": "{JPN}こうか ばつぐん しか あたらない{ENG}",
+    "target": "ABILITY_WONDER_GUARD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "098e6bd1d2d8db7b",
+    "translation": "{JPN}じめんタイプの わざを うけない{ENG}",
+    "target": "ABILITY_LEVITATE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7bd44f659eeb36ce",
+    "translation": "{JPN}さわった あいてに ほうしがつく{ENG}",
+    "target": "ABILITY_EFFECT_SPORE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f98ccd641990f45b",
+    "translation": "{JPN}どく まひ やけどを あいてにうつす{ENG}",
+    "target": "ABILITY_SYNCHRONIZE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "81f58bb1634b9ea3",
+    "translation": "{JPN}あいてに のうりょくを さげられない{ENG}",
+    "target": "ABILITY_CLEAR_BODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "8a6b26e97e48e749",
+    "translation": "{JPN}ひっこむと いじょうが なおる{ENG}",
+    "target": "ABILITY_NATURAL_CURE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9d17b45d24c38c67",
+    "translation": "{JPN}でんきタイプの わざが じぶんにくる{ENG}",
+    "target": "ABILITY_LIGHTNING_ROD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b54d5b1bd717e5c5",
+    "translation": "{JPN}わざの ついかこうかが でやすい{ENG}",
+    "target": "ABILITY_SERENE_GRACE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "23bcb46d8f8052da",
+    "translation": "{JPN}あめのとき すばやさが はやくなる{ENG}",
+    "target": "ABILITY_SWIFT_SWIM.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "af6eb449eb96a5f1",
+    "translation": "{JPN}はれのとき すばやさが はやくなる{ENG}",
+    "target": "ABILITY_CHLOROPHYLL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c2492e27878952a7",
+    "translation": "{JPN}ポケモンに そうぐう しやすくなる{ENG}",
+    "target": "ABILITY_ILLUMINATE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0d45501c04e56e43",
+    "translation": "{JPN}あいてと おなじ とくせいになる{ENG}",
+    "target": "ABILITY_TRACE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "58d90888cc1bf797",
+    "translation": "{JPN}こうげきりょくが たかい{ENG}",
+    "target": "ABILITY_HUGE_POWER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2a4db1b43900d1e6",
+    "translation": "{JPN}さわったあいてに どくをあたえる{ENG}",
+    "target": "ABILITY_POISON_POINT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b0f871f0441e53ed",
+    "translation": "{JPN}ひるまない{ENG}",
+    "target": "ABILITY_INNER_FOCUS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6859b95551799103",
+    "translation": "{JPN}こおり じょうたいに ならない{ENG}",
+    "target": "ABILITY_MAGMA_ARMOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "dbc3ea348c597ec9",
+    "translation": "{JPN}やけど じょうたいに ならない{ENG}",
+    "target": "ABILITY_WATER_VEIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9f12ef8ec2dbd2e3",
+    "translation": "{JPN}はがねタイプが にげられなくなる{ENG}",
+    "target": "ABILITY_MAGNET_PULL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c73279b49de80a31",
+    "translation": "{JPN}おとの わざを うけない{ENG}",
+    "target": "ABILITY_SOUNDPROOF.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2ba779546b6b8067",
+    "translation": "{JPN}あめのとき すこしずつ かいふく{ENG}",
+    "target": "ABILITY_RAIN_DISH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7aea2f6ca9d46b9d",
+    "translation": "{JPN}せんとうで すなあらしを おこす{ENG}",
+    "target": "ABILITY_SAND_STREAM.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1a7a9865eb963624",
+    "translation": "{JPN}あいての PPが へりやすくなる{ENG}",
+    "target": "ABILITY_PRESSURE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "274a4eafd2ed258e",
+    "translation": "{JPN}ほのお こおりに つよい{ENG}",
+    "target": "ABILITY_THICK_FAT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0ff881190cb14f54",
+    "translation": "{JPN}おきるのが はやくなる{ENG}",
+    "target": "ABILITY_EARLY_BIRD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e1e28a586cf6b9d0",
+    "translation": "{JPN}さわった あいてを やけど させる{ENG}",
+    "target": "ABILITY_FLAME_BODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "63bd56ecf8632641",
+    "translation": "{JPN}せんとうから にげやすい{ENG}",
+    "target": "ABILITY_RUN_AWAY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2cf337f3b5886d41",
+    "translation": "{JPN}あいてに めいちゅうを さげられない{ENG}",
+    "target": "ABILITY_KEEN_EYE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "821b35ad54b9bd92",
+    "translation": "{JPN}あいてに こうげきを さげられない{ENG}",
+    "target": "ABILITY_HYPER_CUTTER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "eead9095a8b09dae",
+    "translation": "{JPN}どうぐを ひろってくる ことがある{ENG}",
+    "target": "ABILITY_PICKUP.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d742983b963be1e3",
+    "translation": "{JPN}こうげきが れんぞくで だせない{ENG}",
+    "target": "ABILITY_TRUANT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "072d02326016dc39",
+    "translation": "{JPN}こうげきは たかいが はずれやすい{ENG}",
+    "target": "ABILITY_HUSTLE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1593688ae21c7d8d",
+    "translation": "{JPN}さわった あいてを メロメロにする{ENG}",
+    "target": "ABILITY_CUTE_CHARM.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bfa7575e80049dd2",
+    "translation": "{JPN}マイナスが いると つよくなる{ENG}",
+    "target": "ABILITY_PLUS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "11ecd6b6b7bc4b63",
+    "translation": "{JPN}プラスが いると つよくなる{ENG}",
+    "target": "ABILITY_MINUS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "937bf7ae7326cb12",
+    "translation": "{JPN}てんきで ポワルンが へんかする{ENG}",
+    "target": "ABILITY_FORECAST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a7fc15cff063f64f",
+    "translation": "{JPN}どうぐを とられない{ENG}",
+    "target": "ABILITY_STICKY_HOLD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "93442c98deba81e5",
+    "translation": "{JPN}だっぴして からだを なおす{ENG}",
+    "target": "ABILITY_SHED_SKIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "368d4d11d6ad273c",
+    "translation": "{JPN}いじょうのとき こうげきが あがる{ENG}",
+    "target": "ABILITY_GUTS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6160555f7a467a30",
+    "translation": "{JPN}いじょうのとき ぼうぎょが あがる{ENG}",
+    "target": "ABILITY_MARVEL_SCALE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c8c437f5b72d3ab0",
+    "translation": "{JPN}すいとると たいりょくが へる{ENG}",
+    "target": "ABILITY_LIQUID_OOZE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5a95d540d5a78804",
+    "translation": "{JPN}ピンチに くさの いりょくが あがる{ENG}",
+    "target": "ABILITY_OVERGROW.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e05c57bbc3113dad",
+    "translation": "{JPN}ピンチに ほのおが つよくなる{ENG}",
+    "target": "ABILITY_BLAZE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a3bb1cf2d440c695",
+    "translation": "{JPN}ピンチに みずの いりょくが あがる{ENG}",
+    "target": "ABILITY_TORRENT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1cb9915be8fe4d7c",
+    "translation": "{JPN}ピンチに むしの いりょくが あがる{ENG}",
+    "target": "ABILITY_SWARM.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7c2c317b1da95b29",
+    "translation": "{JPN}ぶつかっても はんどうを うけない{ENG}",
+    "target": "ABILITY_ROCK_HEAD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d3763919b4584353",
+    "translation": "{JPN}せんとうで ひざしを つよくする{ENG}",
+    "target": "ABILITY_DROUGHT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "23c1b5d61e915a1f",
+    "translation": "{JPN}あいてを にげられなくする{ENG}",
+    "target": "ABILITY_ARENA_TRAP.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d819445c39b2fece",
+    "translation": "{JPN}ねむらない{ENG}",
+    "target": "ABILITY_VITAL_SPIRIT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "88b86cd3ba9ad075",
+    "translation": "{JPN}あいてに のうりょくを さげられない{ENG}",
+    "target": "ABILITY_WHITE_SMOKE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e50911a1861a51d9",
+    "translation": "{JPN}こうげきりょくが たかい{ENG}",
+    "target": "ABILITY_PURE_POWER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9a8270a473a3c8fe",
+    "translation": "{JPN}わざを きゅうしょに うけない{ENG}",
+    "target": "ABILITY_SHELL_ARMOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "84bb34f9b3cb2d28",
+    "translation": "{JPN}てんきの えいきょうが なくなる{ENG}",
+    "target": "ABILITY_AIR_LOCK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b861e82ae2f6a5dd",
+    "translation": "{JPN}こんらんのとき かいひりつが あがる{ENG}",
+    "target": "ABILITY_TANGLED_FEET.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d5198b31a29e3d7d",
+    "translation": "{JPN}でんきをうけるとすばやさがあがる{ENG}",
+    "target": "ABILITY_MOTOR_DRIVE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3b0fdc99dbe25a66",
+    "translation": "{JPN}せいべつが おなじだと つよくなる{ENG}",
+    "target": "ABILITY_RIVALRY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "410d232c35443fdf",
+    "translation": "{JPN}ひるむ たびに すばやさが あがる{ENG}",
+    "target": "ABILITY_STEADFAST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9a5b820e8cef0944",
+    "translation": "{JPN}あられやゆきでかいひりつアップ{ENG}",
+    "target": "ABILITY_SNOW_CLOAK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0ec2232d837c1877",
+    "translation": "{JPN}きのみを いつもより はやく つかう{ENG}",
+    "target": "ABILITY_GLUTTONY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "659b2e96032f934f",
+    "translation": "{JPN}きゅうしょをうけるとこうげきがあがる{ENG}",
+    "target": "ABILITY_ANGER_POINT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6613b5cd04a9144a",
+    "translation": "{JPN}どうぐがなくなるとすばやさがあがる{ENG}",
+    "target": "ABILITY_UNBURDEN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7c4a470212e8cfc0",
+    "translation": "{JPN}ほのおとやけどのダメージをへらす{ENG}",
+    "target": "ABILITY_HEATPROOF.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a1ed8d751fd1e4e8",
+    "translation": "{JPN}のうりょく へんかが ばいになる{ENG}",
+    "target": "ABILITY_SIMPLE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "4cdc2ec0e5109741",
+    "translation": "{JPN}あつさに よわいが みずで かいふく{ENG}",
+    "target": "ABILITY_DRY_SKIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0f3a424018d75bd0",
+    "translation": "{JPN}あいてによってのうりょくをかえる{ENG}",
+    "target": "ABILITY_DOWNLOAD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "531ba6e7bde6e644",
+    "translation": "{JPN}パンチの わざの いりょくが あがる{ENG}",
+    "target": "ABILITY_IRON_FIST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e190376e3ffcfe2f",
+    "translation": "{JPN}どくで HPを かいふくする{ENG}",
+    "target": "ABILITY_POISON_HEAL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "78173885e9385e8d",
+    "translation": "{JPN}じぶんのタイプのいりょくがあがる{ENG}",
+    "target": "ABILITY_ADAPTABILITY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f3341d916e34b873",
+    "translation": "{JPN}れんぞくわざが5かいあたる{ENG}",
+    "target": "ABILITY_SKILL_LINK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "76aaac712f207f14",
+    "translation": "{JPN}あめのときじょうたいいじょうをなおす{ENG}",
+    "target": "ABILITY_HYDRATION.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "540219df39d4e3a7",
+    "translation": "{JPN}はれでHPがへるがとくこうがあがる{ENG}",
+    "target": "ABILITY_SOLAR_POWER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "90a72d440a2c3048",
+    "translation": "{JPN}じょうたいいじょうですばやさがあがる{ENG}",
+    "target": "ABILITY_QUICK_FEET.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "4990f67267b018f1",
+    "translation": "{JPN}わざがすべてノーマルタイプになる{ENG}",
+    "target": "ABILITY_NORMALIZE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "15d2ae1ae91d3e6b",
+    "translation": "{JPN}きゅうしょであたえるダメージがふえる{ENG}",
+    "target": "ABILITY_SNIPER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3065eb8beed6b986",
+    "translation": "{JPN}こうげきいがいでダメージをうけない{ENG}",
+    "target": "ABILITY_MAGIC_GUARD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b67f496a26906c7c",
+    "translation": "{JPN}おたがいの わざが かならず あたる{ENG}",
+    "target": "ABILITY_NO_GUARD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6d2257f1302c11ca",
+    "translation": "{JPN}あいてより こうどうが おそくなる{ENG}",
+    "target": "ABILITY_STALL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "062e5e62efe1c3a1",
+    "translation": "{JPN}よわい わざの いりょくが あがる{ENG}",
+    "target": "ABILITY_TECHNICIAN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a4634a4390b530b2",
+    "translation": "{JPN}はれで じょうたいいじょうを ふせぐ{ENG}",
+    "target": "ABILITY_LEAF_GUARD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9cd869e0671abf61",
+    "translation": "{JPN}もっている どうぐを つかえない{ENG}",
+    "target": "ABILITY_KLUTZ.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3cb6200596f42704",
+    "translation": "{JPN}あいての とくせいを むしする{ENG}",
+    "target": "ABILITY_MOLD_BREAKER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "736a4662219181b2",
+    "translation": "{JPN}わざがきゅうしょにあたりやすくなる{ENG}",
+    "target": "ABILITY_SUPER_LUCK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "cd76e23ec1619386",
+    "translation": "{JPN}たおされるとふれたあいてにダメージ{ENG}",
+    "target": "ABILITY_AFTERMATH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9102e914e6ec426e",
+    "translation": "{JPN}きけんな わざを さっちする{ENG}",
+    "target": "ABILITY_ANTICIPATION.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "cf1bde4b8c672148",
+    "translation": "{JPN}あいての わざを ひとつ よみとる{ENG}",
+    "target": "ABILITY_FOREWARN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "be2dfb973cdf7116",
+    "translation": "{JPN}あいてののうりょくへんかをむしする{ENG}",
+    "target": "ABILITY_UNAWARE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f1d3d557c39f3495",
+    "translation": "{JPN}いまひとつであたえるダメージがふえる{ENG}",
+    "target": "ABILITY_TINTED_LENS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "8539ccc8befbea86",
+    "translation": "{JPN}ばつぐんで うける ダメージが へる{ENG}",
+    "target": "ABILITY_FILTER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "be238d3a66f11871",
+    "translation": "{JPN}しばらくこうげきとすばやさがさがる{ENG}",
+    "target": "ABILITY_SLOW_START.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "084455a795b355a2",
+    "translation": "{JPN}ゴーストタイプに わざが あたる{ENG}",
+    "target": "ABILITY_SCRAPPY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e18a73abe0f290f3",
+    "translation": "{JPN}みずタイプの わざが じぶんにくる{ENG}",
+    "target": "ABILITY_STORM_DRAIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5b333418a3c2e26c",
+    "translation": "{JPN}あられやゆきでHPかいふく{ENG}",
+    "target": "ABILITY_ICE_BODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3087608e109bb731",
+    "translation": "{JPN}ばつぐんで うける ダメージが へる{ENG}",
+    "target": "ABILITY_SOLID_ROCK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "556ca168d0a26771",
+    "translation": "{JPN}せんとうに でると ゆきを ふらす{ENG}",
+    "target": "ABILITY_SNOW_WARNING.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a5b439be50831fdc",
+    "translation": "{JPN}せんとうに でると あられを ふらす{ENG}",
+    "target": "ABILITY_SNOW_WARNING.description[1]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0b1fdd28fa91765a",
+    "translation": "{JPN}あまいミツをひろってくることがある{ENG}",
+    "target": "ABILITY_HONEY_GATHER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ef6df91bcbee6f41",
+    "translation": "{JPN}あいての もちものを みとおす{ENG}",
+    "target": "ABILITY_FRISK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b119b51abc3224d2",
+    "translation": "{JPN}はんどうを うけるわざが つよくなる{ENG}",
+    "target": "ABILITY_RECKLESS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "782eed9129142395",
+    "translation": "{JPN}もっているプレートでタイプがかわる{ENG}",
+    "target": "ABILITY_MULTITYPE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c0fef15c1422748f",
+    "translation": "{JPN}はれのとき みかたがわが つよくなる{ENG}",
+    "target": "ABILITY_FLOWER_GIFT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9e091f45a641ba6f",
+    "translation": "{JPN}ねむっている あいてに ダメージ{ENG}",
+    "target": "ABILITY_BAD_DREAMS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ccb211223a0800ce",
+    "translation": "{JPN}さわられるとあいてのどうぐをぬすむ{ENG}",
+    "target": "ABILITY_PICKPOCKET.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "65d105c2842abda6",
+    "translation": "{JPN}ついかこうかをなくしてわざをつよめる{ENG}",
+    "target": "ABILITY_SHEER_FORCE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "126f69aef7d66922",
+    "translation": "{JPN}のうりょく へんかが ぎゃくになる{ENG}",
+    "target": "ABILITY_CONTRARY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5f993cbb55518df3",
+    "translation": "{JPN}あいてが きのみを たべられなくなる{ENG}",
+    "target": "ABILITY_UNNERVE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "21f8df85a0131c1a",
+    "translation": "{JPN}のうりょくがさがるとこうげきをあげる{ENG}",
+    "target": "ABILITY_DEFIANT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f355135ead7b1339",
+    "translation": "{JPN}ピンチで こうげき とくこうがさがる{ENG}",
+    "target": "ABILITY_DEFEATIST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2e1bfb295825d4f3",
+    "translation": "{JPN}うけた わざを ふうじる ことがある{ENG}",
+    "target": "ABILITY_CURSED_BODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1ee8ef79b350dce5",
+    "translation": "{JPN}みかたのじょうたいいじょうをなおす{ENG}",
+    "target": "ABILITY_HEALER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a0d34037f63d070e",
+    "translation": "{JPN}みかたの うける ダメージを へらす{ENG}",
+    "target": "ABILITY_FRIEND_GUARD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5bba619ba1e2bb48",
+    "translation": "{JPN}ぶつりでぼうぎょがさがるがはやくなる{ENG}",
+    "target": "ABILITY_WEAK_ARMOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e935cb58cf1d5103",
+    "translation": "{JPN}たいじゅうが2ばいになる{ENG}",
+    "target": "ABILITY_HEAVY_METAL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bbccd69f67f2a8e9",
+    "translation": "{JPN}たいじゅうがはんぶんになる{ENG}",
+    "target": "ABILITY_LIGHT_METAL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f2f5fb16734e1ff0",
+    "translation": "{JPN}HPまんたんでダメージはんげん{ENG}",
+    "target": "ABILITY_MULTISCALE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e1e23fa427eb3c95",
+    "translation": "{JPN}どくのとき こうげきが あがる{ENG}",
+    "target": "ABILITY_TOXIC_BOOST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7eb0e17387cd6976",
+    "translation": "{JPN}やけどのとき とくこうが あがる{ENG}",
+    "target": "ABILITY_FLARE_BOOST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7ebd8ad8f47fbdef",
+    "translation": "{JPN}つかった きのみを ふっかつさせる{ENG}",
+    "target": "ABILITY_HARVEST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "943889745908be80",
+    "translation": "{JPN}みかたの こうげきが あたらない{ENG}",
+    "target": "ABILITY_TELEPATHY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "8e71f47e3a0e0dea",
+    "translation": "{JPN}のうりょくが ランダムに かわる{ENG}",
+    "target": "ABILITY_MOODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "25d60a52b6cab3c2",
+    "translation": "{JPN}こなと てんきの ダメージを ふせぐ{ENG}",
+    "target": "ABILITY_OVERCOAT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5d3fdf936fb4d253",
+    "translation": "{JPN}こうげきした あいてを どくにする{ENG}",
+    "target": "ABILITY_POISON_TOUCH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c96e079c8adc745d",
+    "translation": "{JPN}ひっこむと HPが かいふくする{ENG}",
+    "target": "ABILITY_REGENERATOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f677c8bc39d45371",
+    "translation": "{JPN}あいてに ぼうぎょを さげられない{ENG}",
+    "target": "ABILITY_BIG_PECKS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a1ecaeb364315ec2",
+    "translation": "{JPN}すなあらしのときすばやさがはやくなる{ENG}",
+    "target": "ABILITY_SAND_RUSH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f704d7db86aaf2ea",
+    "translation": "{JPN}へんかわざを うけにくい{ENG}",
+    "target": "ABILITY_WONDER_SKIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "df0d5b4ffbf491ee",
+    "translation": "{JPN}さいごに わざをだすと つよくなる{ENG}",
+    "target": "ABILITY_ANALYTIC.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ac8352e3094cb742",
+    "translation": "{JPN}てもちの ポケモンに ばける{ENG}",
+    "target": "ABILITY_ILLUSION.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "49d9287d59be0c0f",
+    "translation": "{JPN}あいての ポケモンに へんしんする{ENG}",
+    "target": "ABILITY_IMPOSTER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1bb445efb1e007ef",
+    "translation": "{JPN}かべやみがわりのえいきょうをうけない{ENG}",
+    "target": "ABILITY_INFILTRATOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "83625dd07b620696",
+    "translation": "{JPN}ふれられるととくせいをミイラにする{ENG}",
+    "target": "ABILITY_MUMMY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b9603e06562dea8a",
+    "translation": "{JPN}あいてをたおすとこうげきがあがる{ENG}",
+    "target": "ABILITY_MOXIE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0e2691c4de1f9935",
+    "translation": "{JPN}あくわざをうけるとこうげきがあがる{ENG}",
+    "target": "ABILITY_JUSTIFIED.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f942f44fafaddf38",
+    "translation": "{JPN}ゴーストむしあくですばやさがあがる{ENG}",
+    "target": "ABILITY_RATTLED.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "874ed84b2b4eb819",
+    "translation": "{JPN}へんかわざを はねかえす{ENG}",
+    "target": "ABILITY_MAGIC_BOUNCE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9bddddb2bee6b083",
+    "translation": "{JPN}くさわざをうけるとこうげきがあがる{ENG}",
+    "target": "ABILITY_SAP_SIPPER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "eed95551917dac61",
+    "translation": "{JPN}へんかわざが はやく だせる{ENG}",
+    "target": "ABILITY_PRANKSTER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d1af99325052748b",
+    "translation": "{JPN}すなでじめんいわはがねがつよくなる{ENG}",
+    "target": "ABILITY_SAND_FORCE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ddb8878ccb042e67",
+    "translation": "{JPN}さわった あいてを キズつける{ENG}",
+    "target": "ABILITY_IRON_BARBS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e5bb2383d709be37",
+    "translation": "{JPN}ピンチに なると すがたが かわる{ENG}",
+    "target": "ABILITY_ZEN_MODE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "15ba3fac7379d85d",
+    "translation": "{JPN}みかたがわのめいちゅうりつがあがる{ENG}",
+    "target": "ABILITY_VICTORY_STAR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c6add6757ad6c7be",
+    "translation": "{JPN}あいての とくせいを むしする{ENG}",
+    "target": "ABILITY_TURBOBLAZE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2ce064663b289ee4",
+    "translation": "{JPN}あいての とくせいを むしする{ENG}",
+    "target": "ABILITY_TERAVOLT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e6da8222fd475ac0",
+    "translation": "{JPN}みかたがわの メンタルわざを ふせぐ{ENG}",
+    "target": "ABILITY_AROMA_VEIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "820aca9ce82540ad",
+    "translation": "{JPN}みかたの くさの へんかを ふせぐ{ENG}",
+    "target": "ABILITY_FLOWER_VEIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d48ba4c8e718940e",
+    "translation": "{JPN}きのみをたべるとHPもかいふくする{ENG}",
+    "target": "ABILITY_CHEEK_POUCH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6990161768735608",
+    "translation": "{JPN}つかったわざの タイプに へんかする{ENG}",
+    "target": "ABILITY_PROTEAN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "161361cec5ee087c",
+    "translation": "{JPN}ぶつりわざの ダメージを へらす{ENG}",
+    "target": "ABILITY_FUR_COAT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6168e2bf7313f14b",
+    "translation": "{JPN}こうげきをあてたときどうぐをうばう{ENG}",
+    "target": "ABILITY_MAGICIAN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0b70111e9509551b",
+    "translation": "{JPN}たまや ばくだんの わざを うけない{ENG}",
+    "target": "ABILITY_BULLETPROOF.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "fb2fdba38eaf2189",
+    "translation": "{JPN}のうりょくがさがるととくこうをあげる{ENG}",
+    "target": "ABILITY_COMPETITIVE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "af60a0eea5b7d1dc",
+    "translation": "{JPN}キバの わざの いりょくが あがる{ENG}",
+    "target": "ABILITY_STRONG_JAW.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5f1bfe45e2ef9f17",
+    "translation": "{JPN}ノーマルわざがこおりになりつよくなる{ENG}",
+    "target": "ABILITY_REFRIGERATE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "633bd2af447b579b",
+    "translation": "{JPN}じぶんと みかたが ねむらない{ENG}",
+    "target": "ABILITY_SWEET_VEIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bc24de9bc0ec1708",
+    "translation": "{JPN}こうげきじに すがたが かわる{ENG}",
+    "target": "ABILITY_STANCE_CHANGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "24e3555d531421af",
+    "translation": "{JPN}ひこうわざを さきに だせる{ENG}",
+    "target": "ABILITY_GALE_WINGS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "76eb3e6ece982d98",
+    "translation": "{JPN}はどうの わざの いりょくが あがる{ENG}",
+    "target": "ABILITY_MEGA_LAUNCHER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "564d602143dac18b",
+    "translation": "{JPN}くさむらで ぼうぎょが あがる{ENG}",
+    "target": "ABILITY_GRASS_PELT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3d94c4a7e397d5dc",
+    "translation": "{JPN}みかたに どうぐを わたす{ENG}",
+    "target": "ABILITY_SYMBIOSIS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "53dc3c841e53983c",
+    "translation": "{JPN}ちょくせつ こうげきが つよくなる{ENG}",
+    "target": "ABILITY_TOUGH_CLAWS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0b255d719a9868de",
+    "translation": "{JPN}ノーマルわざがフェアリーになりつよい{ENG}",
+    "target": "ABILITY_PIXILATE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b3b42f9c6d07241a",
+    "translation": "{JPN}ふれた あいての すばやさを さげる{ENG}",
+    "target": "ABILITY_GOOEY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7ff19e9a84964224",
+    "translation": "{JPN}ノーマルわざがひこうになりつよくなる{ENG}",
+    "target": "ABILITY_AERILATE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d0e2f49e29c78208",
+    "translation": "{JPN}おやこで 2かい こうげきする{ENG}",
+    "target": "ABILITY_PARENTAL_BOND.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "8c20ce57f477bced",
+    "translation": "{JPN}ぜんいんの あくわざが つよくなる{ENG}",
+    "target": "ABILITY_DARK_AURA.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1c3dadb504ff98c7",
+    "translation": "{JPN}ぜんいんのフェアリーわざがつよくなる{ENG}",
+    "target": "ABILITY_FAIRY_AURA.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3f2edf82eeddceaa",
+    "translation": "{JPN}オーラの こうかを ぎゃくにする{ENG}",
+    "target": "ABILITY_AURA_BREAK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "fd1fc3e76358667d",
+    "translation": "{JPN}てんきを つよいあめに する{ENG}",
+    "target": "ABILITY_PRIMORDIAL_SEA.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "987bc01e87962261",
+    "translation": "{JPN}ひざしを とても つよくする{ENG}",
+    "target": "ABILITY_DESOLATE_LAND.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c45200745e11a42b",
+    "translation": "{JPN}てんきを らんきりゅうに する{ENG}",
+    "target": "ABILITY_DELTA_STREAM.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f136310fdf6c7816",
+    "translation": "{JPN}こうげきをうけるとぼうぎょがあがる{ENG}",
+    "target": "ABILITY_STAMINA.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c77db6e6e70b5cea",
+    "translation": "{JPN}HPが はんぶんに なると にげだす{ENG}",
+    "target": "ABILITY_WIMP_OUT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "23af2840d6ac82b4",
+    "translation": "{JPN}HPが はんぶんに なると にげだす{ENG}",
+    "target": "ABILITY_EMERGENCY_EXIT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "81fd81f44029f58c",
+    "translation": "{JPN}みずで ぼうぎょが ぐーんと あがる{ENG}",
+    "target": "ABILITY_WATER_COMPACTION.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a4f8f81fb14e3e4b",
+    "translation": "{JPN}どくのあいてにはきゅうしょになる{ENG}",
+    "target": "ABILITY_MERCILESS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "30a7786feb519225",
+    "translation": "{JPN}HPが はんぶんに なると こわれる{ENG}",
+    "target": "ABILITY_SHIELDS_DOWN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5d0911215032fff7",
+    "translation": "{JPN}こうたいした てきに ダメージ2ばい{ENG}",
+    "target": "ABILITY_STAKEOUT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a66e6916b2a78726",
+    "translation": "{JPN}ほのおややけどからみをまもる{ENG}",
+    "target": "ABILITY_WATER_BUBBLE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "174ae16cb23e418b",
+    "translation": "{JPN}はがねの わざの いりょくが あがる{ENG}",
+    "target": "ABILITY_STEELWORKER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "998c05af4a908a74",
+    "translation": "{JPN}ピンチでとくこうがあがる{ENG}",
+    "target": "ABILITY_BERSERK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d72132bc173ab24c",
+    "translation": "{JPN}あられやゆきですばやさアップ{ENG}",
+    "target": "ABILITY_SLUSH_RUSH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "160752173a9db620",
+    "translation": "{JPN}わざを せっしょく しないで だす{ENG}",
+    "target": "ABILITY_LONG_REACH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a4b35f0ca7c9deb7",
+    "translation": "{JPN}おとわざが みずタイプに なる{ENG}",
+    "target": "ABILITY_LIQUID_VOICE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f07639689df8c2d3",
+    "translation": "{JPN}かいふくわざを せんせい できる{ENG}",
+    "target": "ABILITY_TRIAGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "14321f6feef56450",
+    "translation": "{JPN}ノーマルわざがでんきになりつよくなる{ENG}",
+    "target": "ABILITY_GALVANIZE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "4d05602a0529c7bd",
+    "translation": "{JPN}エレキフィールドで はやくなる{ENG}",
+    "target": "ABILITY_SURGE_SURFER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e8cacb4e47144bad",
+    "translation": "{JPN}HPが おおいと つよい{ENG}",
+    "target": "ABILITY_SCHOOLING.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "56165bb809fb1f6b",
+    "translation": "{JPN}こうげきを 1どだけ ふせぐ{ENG}",
+    "target": "ABILITY_DISGUISE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0750c71d52a566b3",
+    "translation": "{JPN}あいてを たおすと へんげする{ENG}",
+    "target": "ABILITY_BATTLE_BOND.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "87db00335190ac4d",
+    "translation": "{JPN}HPがはんぶんになるとすがたをかえる{ENG}",
+    "target": "ABILITY_POWER_CONSTRUCT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "4d4ef6f6a521d7b8",
+    "translation": "{JPN}だれでも どくに することが できる{ENG}",
+    "target": "ABILITY_CORROSION.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7910a7606eb4bc98",
+    "translation": "{JPN}ゆめうつつで ぜったいに めざめない{ENG}",
+    "target": "ABILITY_COMATOSE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "dc14009102f0cfcb",
+    "translation": "{JPN}あいては せんせいわざを だせない{ENG}",
+    "target": "ABILITY_QUEENLY_MAJESTY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "174d9dec03f8b86e",
+    "translation": "{JPN}たおされたとき ダメージを あたえる{ENG}",
+    "target": "ABILITY_INNARDS_OUT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "82c772c93b29351c",
+    "translation": "{JPN}おどりわざに つづいて おどりだす{ENG}",
+    "target": "ABILITY_DANCER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "291c4e98a2711f69",
+    "translation": "{JPN}みかたのとくしゅのいりょくをあげる{ENG}",
+    "target": "ABILITY_BATTERY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "232921131670840a",
+    "translation": "{JPN}せっしょくにつよくほのおによわい{ENG}",
+    "target": "ABILITY_FLUFFY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e097712ebbd753d0",
+    "translation": "{JPN}あいては せんせいわざを だせない{ENG}",
+    "target": "ABILITY_DAZZLING.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bc20af34b0cdb9f7",
+    "translation": "{JPN}ひんしになるたびにとくこうがあがる{ENG}",
+    "target": "ABILITY_SOUL_HEART.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ef815093c14f3460",
+    "translation": "{JPN}ふれた あいての すばやさを さげる{ENG}",
+    "target": "ABILITY_TANGLING_HAIR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "fcc2b863e84e3194",
+    "translation": "{JPN}みかたの とくせいを うけつぐ{ENG}",
+    "target": "ABILITY_RECEIVER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "039691298f952dbb",
+    "translation": "{JPN}みかたの とくせいを うけつぐ{ENG}",
+    "target": "ABILITY_POWER_OF_ALCHEMY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "90f1ebaa260f5e7f",
+    "translation": "{JPN}たおすとさいこうののうりょくアップ{ENG}",
+    "target": "ABILITY_BEAST_BOOST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "38bf712e805d46b0",
+    "translation": "{JPN}メモリで じぶんの タイプが かわる{ENG}",
+    "target": "ABILITY_RKS_SYSTEM.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "4061c392c5280e01",
+    "translation": "{JPN}エレキフィールドを はりめぐらせる{ENG}",
+    "target": "ABILITY_ELECTRIC_SURGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "edd61d1f0b098d05",
+    "translation": "{JPN}サイコフィールドを はりめぐらせる{ENG}",
+    "target": "ABILITY_PSYCHIC_SURGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7afc3fd9dbf7f702",
+    "translation": "{JPN}ミストフィールドを はりめぐらせる{ENG}",
+    "target": "ABILITY_MISTY_SURGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "f981045e13e64d38",
+    "translation": "{JPN}グラスフィールドを はりめぐらせる{ENG}",
+    "target": "ABILITY_GRASSY_SURGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5c395176338eb915",
+    "translation": "{JPN}あいてに のうりょくを さげられない{ENG}",
+    "target": "ABILITY_FULL_METAL_BODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a6334148c78aca12",
+    "translation": "{JPN}HPまんたんでダメージはんげん{ENG}",
+    "target": "ABILITY_SHADOW_SHIELD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5e243b0842c0455e",
+    "translation": "{JPN}ばつぐんになる わざを よわめる{ENG}",
+    "target": "ABILITY_PRISM_ARMOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "dd1c100ff2c61a4c",
+    "translation": "{JPN}こうかばつぐんで いりょくが あがる{ENG}",
+    "target": "ABILITY_NEUROFORCE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "04787ec1fd4575d2",
+    "translation": "{JPN}とうじょうじに こうげきが あがる{ENG}",
+    "target": "ABILITY_INTREPID_SWORD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2c453027c9ee8a57",
+    "translation": "{JPN}とうじょうじに ぼうぎょが あがる{ENG}",
+    "target": "ABILITY_DAUNTLESS_SHIELD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3cd2f9484e7ef16d",
+    "translation": "{JPN}つかったわざの タイプに へんかする{ENG}",
+    "target": "ABILITY_LIBERO.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "695d4d8408c9c633",
+    "translation": "{JPN}しっぱいした ボールを ひろってくる{ENG}",
+    "target": "ABILITY_BALL_FETCH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d3149b31f488b704",
+    "translation": "{JPN}こうげきをうけるとみんなをおそくする{ENG}",
+    "target": "ABILITY_COTTON_DOWN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0c1a61e0901d418b",
+    "translation": "{JPN}わざをひきうけるこうかをむしする{ENG}",
+    "target": "ABILITY_PROPELLER_TAIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "22d690ee59014d05",
+    "translation": "{JPN}のうりょくダウンのこうかをはねかえす{ENG}",
+    "target": "ABILITY_MIRROR_ARMOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ad0f49bbb40ad068",
+    "translation": "{JPN}うみのえものをひだんじにはく{ENG}",
+    "target": "ABILITY_GULP_MISSILE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c69af09586ec3c9e",
+    "translation": "{JPN}わざをひきうけるこうかをむしする{ENG}",
+    "target": "ABILITY_STALWART.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d45b1a3d27bb065b",
+    "translation": "{JPN}みずかほのおをうけるとすばやくなる{ENG}",
+    "target": "ABILITY_STEAM_ENGINE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5665e254d59308cd",
+    "translation": "{JPN}おとわざにつよくいりょくもアップ{ENG}",
+    "target": "ABILITY_PUNK_ROCK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c1169a29b0ab24fc",
+    "translation": "{JPN}こうげきをうけるとすなあらしをおこす{ENG}",
+    "target": "ABILITY_SAND_SPIT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "076de570c60239e5",
+    "translation": "{JPN}とくしゅこうげきを はんげん する{ENG}",
+    "target": "ABILITY_ICE_SCALES.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "51083a49eb09f45f",
+    "translation": "{JPN}きのみの こうかが ばいに なる{ENG}",
+    "target": "ABILITY_RIPEN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "80b5040e0e8018d1",
+    "translation": "{JPN}あられやゆきでみがわりさいせい{ENG}",
+    "target": "ABILITY_ICE_FACE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "10d492229f58cd8d",
+    "translation": "{JPN}みかたのわざがつよくなる{ENG}",
+    "target": "ABILITY_POWER_SPOT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2acef4f5c3126bc8",
+    "translation": "{JPN}フィールドによってタイプがかわる{ENG}",
+    "target": "ABILITY_MIMICRY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5cd2d6e5f1a9dd89",
+    "translation": "{JPN}すべての バリアを けしさる{ENG}",
+    "target": "ABILITY_SCREEN_CLEANER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "cf8d9eceec2fad1a",
+    "translation": "{JPN}みかたのはがねこうげきがつよくなる{ENG}",
+    "target": "ABILITY_STEELY_SPIRIT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c37f19f138b1eea3",
+    "translation": "{JPN}ふれると3ターンごおたがいひんし{ENG}",
+    "target": "ABILITY_PERISH_BODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6354abc9a727139c",
+    "translation": "{JPN}せっしょくするととくせいをいれかえる{ENG}",
+    "target": "ABILITY_WANDERING_SPIRIT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "357692a416009a4c",
+    "translation": "{JPN}つよくなるがおなじわざしかだせない{ENG}",
+    "target": "ABILITY_GORILLA_TACTICS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "aa1a51d2b9dab324",
+    "translation": "{JPN}すべてのとくせいのこうかがきえる{ENG}",
+    "target": "ABILITY_NEUTRALIZING_GAS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "74ae72213c2fd55d",
+    "translation": "{JPN}じぶんも みかたも どくに ならない{ENG}",
+    "target": "ABILITY_PASTEL_VEIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c40ea1a320d0ae88",
+    "translation": "{JPN}ターンのおわりに すがたを かえる{ENG}",
+    "target": "ABILITY_HUNGER_SWITCH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "26fb65a735411730",
+    "translation": "{JPN}さきに こうどう できることが ある{ENG}",
+    "target": "ABILITY_QUICK_DRAW.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "adcae8596f75b225",
+    "translation": "{JPN}せっしょくわざがまもりをむしする{ENG}",
+    "target": "ABILITY_UNSEEN_FIST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "c4c5e030e1111604",
+    "translation": "{JPN}みかたの のうりょくを もとにもどす{ENG}",
+    "target": "ABILITY_CURIOUS_MEDICINE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "fcd870d0cc8626b8",
+    "translation": "{JPN}でんきの わざの いりょくが あがる{ENG}",
+    "target": "ABILITY_TRANSISTOR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5d33edde10765871",
+    "translation": "{JPN}ドラゴンのわざのいりょくがあがる{ENG}",
+    "target": "ABILITY_DRAGONS_MAW.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2a75a87927fd7a66",
+    "translation": "{JPN}あいてをたおすとこうげきがあがる{ENG}",
+    "target": "ABILITY_CHILLING_NEIGH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5a410bf7c40f5cdc",
+    "translation": "{JPN}あいてをたおすととくこうがあがる{ENG}",
+    "target": "ABILITY_GRIM_NEIGH.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "27bc59cd8e8bf420",
+    "translation": "{JPN}きんちょうかんとしろのいななき{ENG}",
+    "target": "ABILITY_AS_ONE_ICE_RIDER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0e16b63e4e6f7159",
+    "translation": "{JPN}きんちょうかんとくろのいななき{ENG}",
+    "target": "ABILITY_AS_ONE_SHADOW_RIDER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e799b1fd2e59167a",
+    "translation": "{JPN}とれないにおいが あいてに うつる{ENG}",
+    "target": "ABILITY_LINGERING_AROMA.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "697cebd0e01b9ea8",
+    "translation": "{JPN}わざをうけるとグラスフィールドになる{ENG}",
+    "target": "ABILITY_SEED_SOWER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e08f43f3b44dea77",
+    "translation": "{JPN}ほのおのわざをうけるとつよくなる{ENG}",
+    "target": "ABILITY_THERMAL_EXCHANGE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "38e8aed43df65b05",
+    "translation": "{JPN}HPがはんぶんになるとつよくなる{ENG}",
+    "target": "ABILITY_ANGER_SHELL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "40eb2be9da956596",
+    "translation": "{JPN}じょうたいいじょうに ならない{ENG}",
+    "target": "ABILITY_PURIFYING_SALT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "cc70c5ab03928568",
+    "translation": "{JPN}ほのおの わざで ぼうぎょが あがる{ENG}",
+    "target": "ABILITY_WELL_BAKED_BODY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "3147db1a380ec6c6",
+    "translation": "{JPN}かぜで こうげきが あがる{ENG}",
+    "target": "ABILITY_WIND_RIDER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bd935fa93a4223c4",
+    "translation": "{JPN}いかく されると つよくなる{ENG}",
+    "target": "ABILITY_GUARD_DOG.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ad334f93255c386d",
+    "translation": "{JPN}いわの わざの いりょくが あがる{ENG}",
+    "target": "ABILITY_ROCKY_PAYLOAD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "8ce35293f2da58d4",
+    "translation": "{JPN}かぜで じゅうでん する{ENG}",
+    "target": "ABILITY_WIND_POWER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "412570c61e39f31d",
+    "translation": "{JPN}ひっこむと マイティチェンジ する{ENG}",
+    "target": "ABILITY_ZERO_TO_HERO.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bed4860a40f56f0d",
+    "translation": "{JPN}ヘイラッシャがいるとしれいをだす{ENG}",
+    "target": "ABILITY_COMMANDER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "009ab3f41c5e9bdc",
+    "translation": "{JPN}ダメージをうけるとじゅうでんする{ENG}",
+    "target": "ABILITY_ELECTROMORPHOSIS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "62dab02848084415",
+    "translation": "{JPN}はれでさいこうののうりょくアップ{ENG}",
+    "target": "ABILITY_PROTOSYNTHESIS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "cfa5dffbf0f0f711",
+    "translation": "{JPN}エレキばでさいだいのうりょくUP{ENG}",
+    "target": "ABILITY_QUARK_DRIVE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "cbcf1299b2615e89",
+    "translation": "{JPN}へんかわざを むこうか する{ENG}",
+    "target": "ABILITY_GOOD_AS_GOLD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "977a4041542278f9",
+    "translation": "{JPN}じぶんいがいの とくこうが さがる{ENG}",
+    "target": "ABILITY_VESSEL_OF_RUIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2f8cd941c78d13c7",
+    "translation": "{JPN}じぶんいがいの ぼうぎょが さがる{ENG}",
+    "target": "ABILITY_SWORD_OF_RUIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "595c90862c5c84a6",
+    "translation": "{JPN}じぶんいがいの こうげきが さがる{ENG}",
+    "target": "ABILITY_TABLETS_OF_RUIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d445b2db955fd594",
+    "translation": "{JPN}じぶんいがいの とくぼうが さがる{ENG}",
+    "target": "ABILITY_BEADS_OF_RUIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "35307e5b57b64e30",
+    "translation": "{JPN}せんとうで ひざしを つよくする{ENG}",
+    "target": "ABILITY_ORICHALCUM_PULSE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "5a857d7f423f60fd",
+    "translation": "{JPN}エレキフィールドを はりめぐらせる{ENG}",
+    "target": "ABILITY_HADRON_ENGINE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "e0b7b1b11b2294e6",
+    "translation": "{JPN}のうりょくがあがるとじぶんもあがる{ENG}",
+    "target": "ABILITY_OPPORTUNIST.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "7987b81de6adb697",
+    "translation": "{JPN}きのみを もう1かい だけ たべる{ENG}",
+    "target": "ABILITY_CUD_CHEW.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "328c7135ee188545",
+    "translation": "{JPN}きるわざの いりょくが あがる{ENG}",
+    "target": "ABILITY_SHARPNESS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0be5676503f5f8f9",
+    "translation": "{JPN}たおされたみかたのかずでつよくなる{ENG}",
+    "target": "ABILITY_SUPREME_OVERLORD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a441b7c7d2d3b994",
+    "translation": "{JPN}みかたの のうりょくを コピーする{ENG}",
+    "target": "ABILITY_COSTAR.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "df39d8f9a76875cb",
+    "translation": "{JPN}こうげきをうけるとどくびしをばらまく{ENG}",
+    "target": "ABILITY_TOXIC_DEBRIS.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "dcae5b86382b5694",
+    "translation": "{JPN}あいては せんせいわざを だせない{ENG}",
+    "target": "ABILITY_ARMOR_TAIL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "2a5284e15c1d0e7d",
+    "translation": "{JPN}じめんを うけると かいふくする{ENG}",
+    "target": "ABILITY_EARTH_EATER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "fc546e5957846671",
+    "translation": "{JPN}へんかわざを しっぱい しない{ENG}",
+    "target": "ABILITY_MYCELIUM_MIGHT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "bc0ce9f6d46e95af",
+    "translation": "{JPN}みかたの HPを すこし かいふく{ENG}",
+    "target": "ABILITY_HOSPITALITY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1afcd77c407deebe",
+    "translation": "{JPN}するどいめときもったま{ENG}",
+    "target": "ABILITY_MINDS_EYE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "d29c58fe16ab1b05",
+    "translation": "{JPN}じぶんの すばやさを あげる{ENG}",
+    "target": "ABILITY_EMBODY_ASPECT_TEAL_MASK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "aeaf832477bd093a",
+    "translation": "{JPN}じぶんの こうげきを あげる{ENG}",
+    "target": "ABILITY_EMBODY_ASPECT_HEARTHFLAME_MASK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0e253b3d38eea07c",
+    "translation": "{JPN}じぶんの とくぼうを あげる{ENG}",
+    "target": "ABILITY_EMBODY_ASPECT_WELLSPRING_MASK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "76fe83ea961ec283",
+    "translation": "{JPN}じぶんの ぼうぎょを あげる{ENG}",
+    "target": "ABILITY_EMBODY_ASPECT_CORNERSTONE_MASK.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "58cf3b8154c39ef6",
+    "translation": "{JPN}もうどくに することが ある{ENG}",
+    "target": "ABILITY_TOXIC_CHAIN.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "9a8530a19711d266",
+    "translation": "{JPN}あいての かいひりつを さげる{ENG}",
+    "target": "ABILITY_SUPERSWEET_SYRUP.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "72de671b90e0927c",
+    "translation": "{JPN}とうじょうじにテラスタルする{ENG}",
+    "target": "ABILITY_TERA_SHIFT.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "6ba04c87ef2bf5ec",
+    "translation": "{JPN}HPがまんたんのときダメージがへる{ENG}",
+    "target": "ABILITY_TERA_SHELL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "4053cb31bbec650d",
+    "translation": "{JPN}てんきとフィールドをすべてゼロにする{ENG}",
+    "target": "ABILITY_TERAFORM_ZERO.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "a50c184a97db2580",
+    "translation": "{JPN}どくになったあいてはこんらんする{ENG}",
+    "target": "ABILITY_POISON_PUPPETEER.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "52eea0e996ec1301",
+    "translation": "{JPN}せっしょくわざがまもりをむしする{ENG}",
+    "target": "ABILITY_PIERCING_DRILL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": true,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "b41bce33b4bbb33a",
+    "translation": "{JPN}ノーマルわざがドラゴンになりつよい{ENG}",
+    "target": "ABILITY_DRAGONIZE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "8467f7dcf99883e8",
+    "translation": "{JPN}たおすと のうりょくあがる ういてる{ENG}",
+    "target": "ABILITY_EELEVATE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "47971f1bc9eff444",
+    "translation": "{JPN}とくせい なし{ENG}",
+    "target": "ABILITY_314.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1e7b9f007de2f871",
+    "translation": "{JPN}にほんばれのじょうたいでわざをつかう{ENG}",
+    "target": "ABILITY_MEGA_SOL.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1d16835fcfb5bef7",
+    "translation": "{JPN}ほのおわざが つよくなる{ENG}",
+    "target": "ABILITY_FIRE_MANE.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "0d8577546b1777d3",
+    "translation": "{JPN}とくせい なし{ENG}",
+    "target": "ABILITY_317.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "ab1261ff68e23bd6",
+    "translation": "{JPN}ダメージをうけたときやけどさせる{ENG}",
+    "target": "ABILITY_SPICY_SPRAY.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  },
+  {
+    "id": "1c820beeaf64f571",
+    "translation": "{JPN}まだ じっそうされていない{ENG}",
+    "target": "ABILITY_AURA_GUARD.description[0]",
+    "provenance": {
+      "method": "English/reference pair reviewed; bounded ability description",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "corrected_from_english": false,
+      "max_glyphs": 18
+    }
+  }
+]

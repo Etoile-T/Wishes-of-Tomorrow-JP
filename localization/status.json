@@ -7,7 +7,7 @@
   "pending": 56029,
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": 26,
+  "tests_passed": 28,
   "bps_roundtrip": "passed: UI build, source/target/patch CRC and exact ROM equality",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
@@ -22,7 +22,7 @@
     "move": 923,
     "species": 1321
   },
-  "work_state": "in_progress_expanded_to_all_ui_source_checks_first",
+  "work_state": "investigating_quest_log_sprite_corruption",
   "pause_scope": "User expanded work to all UI; Pokemon data and UI scope remain incomplete",
   "translation_review": "Types/pockets and seven resale-description corrections reviewed with yomiyasu; remaining new ability/item batches still need full semantic review",
   "verification_policy": "Static validation and builds first. GUI gameplay verification deferred per user.",
@@ -31,5 +31,6 @@
   "ui_added": 680,
   "ui_inventory_files": 59,
   "ui_pending_language_candidates": 3683,
-  "excel_translated_rows": 5693
+  "excel_translated_rows": 5693,
+  "reported_graphics_issue": "Open: sprite corruption after Quest Log; cause unconfirmed; immutable export added, no gameplay fix yet"
 }

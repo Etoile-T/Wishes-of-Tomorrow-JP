@@ -54,3 +54,11 @@ Keep source, catalogs, tools and accurate progress records in Git. Keep built
 game ROMs, ELF files, save data, local emulator states and check caches out of Git.
 The upstream `data/mb_*.gba` build inputs remain tracked as documented in
 `docs/UPSTREAM_SOURCE.md`. A patch must name its exact English source checksum.
+
+## Play ROM exports
+
+Never overwrite a ROM that the user may have open. Keep pokeemerald.gba and
+artifacts/wishes-jp-wip.gba as build/legacy outputs only. Export playable builds
+with tools/localization/export_play_rom.py to artifacts/play; its hash-named
+outputs are immutable. Do not copy or overwrite save RAM or emulator states.
+A new ROM needs a cold load; a state from another build is not regression proof.

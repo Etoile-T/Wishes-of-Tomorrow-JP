@@ -153,3 +153,13 @@ yomiyasu 2.4.0をプロジェクトに導入し、ムネン村の残り21件を�
 コード編集で後続の原文位置が変わった場合、元のID/start/endは変えず、レビューした差分長だけを`code_offset`へ記録する。今回のnaming_screen.cでは、タイトル展開処理の変更より後の5文字列が+98文字。翻訳の長さ差とは別に検証・再挿入時へ加算する。バッチからの位置変更は拒否する。将来のコード変更では無条件に値を流用しない。
 
 Excelの再生成には`@oai/artifact-tool`が必要。依存が利用できる作業用ディレクトリへ`tools/localization/export_review.mjs`をコピーし、`node export_review.mjs /path/to/Wishes-Game /path/to/output`を実行する。Markdown表は`python3 tools/localization/export_table.py`で生成する。既にExcelへ確認メモを書いた場合は、再生成前にIDで退避・照合すること。現在の書き出しツールはメモの自動引き継ぎを行わない。
+
+## 確認用ROMの扱い
+
+読み込み中の可能性があるROMを上書きしない。ビルド後は以下でSHA256に対応する別名の確認用ファイルを作る。既存ファイル・セーブ・ステートは上書きしない。
+
+```sh
+python3 tools/localization/export_play_rom.py pokeemerald.gba ../artifacts/play
+```
+
+クエストにっし使用後のスプライト崩れが報告されている。[調査記録](issues/quest-log-sprite-corruption.md)を参照。修正済みとはしていない。

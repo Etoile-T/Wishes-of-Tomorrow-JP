@@ -5,7 +5,7 @@
 | ファイル | 翻訳適用 | 未翻訳の言語候補 |
 | --- | ---: | ---: |
 | data/text/save.inc | 19 | 0 |
-| src/battle_message.c | 0 | 846 |
+| src/battle_message.c | 844 | 5 |
 | src/berry.c | 0 | 204 |
 | src/berry_blender.c | 0 | 34 |
 | src/berry_fix_program.c | 0 | 9 |

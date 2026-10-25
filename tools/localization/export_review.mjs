@@ -34,6 +34,7 @@ function category(row){
   if(row.file==='src/item_menu.c'||row.file==='src/item_use.c') return 'バッグ・道具使用';
   if(row.file==='data/text/save.inc') return 'セーブ';
   if(row.file==='src/data/speaker_names.h') return '話者名';
+  if(row.file==='src/battle_message.c') return '戦闘メッセージ';
   if(row.file.startsWith('data/maps/')) return `会話・看板（${row.file.split('/')[2]}）`;
   if(row.file.startsWith('data/scripts/')||row.file.startsWith('data/text/')&&row.file!=='data/text/save.inc') return '共通会話';
   if(row.file==='src/main_menu.c'||row.file==='src/main_menu_bw.c') return '開始メニュー';

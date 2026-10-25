@@ -3236,6 +3236,9 @@ void SpawnObjectEventsOnReturnToField(s16 x, s16 y)
 {
     u32 i;
 
+#if WOT_SPRITE_DIAGNOSTICS
+    DebugPrintf("WOT FIELD_RETURN begin");
+#endif
     ClearPlayerAvatarInfo();
     for (i = 0; i < OBJECT_EVENTS_COUNT; i++)
     {
@@ -3244,6 +3247,9 @@ void SpawnObjectEventsOnReturnToField(s16 x, s16 y)
     }
     CreateReflectionEffectSprites();
     TrySpawnLightSprites(x, y);
+#if WOT_SPRITE_DIAGNOSTICS
+    DebugPrintf("WOT FIELD_RETURN end");
+#endif
 }
 
 static void SpawnObjectEventOnReturnToField(u8 objectEventId, s16 x, s16 y)
@@ -3271,6 +3277,16 @@ static void SpawnObjectEventOnReturnToField(u8 objectEventId, s16 x, s16 y)
 
     if (OW_GFX_COMPRESS)
         spriteTemplate.tileTag = LoadSheetGraphicsInfo(graphicsInfo, objectEvent->graphicsId, NULL);
+
+#if WOT_SPRITE_DIAGNOSTICS
+    // Observe the actual return-to-field allocation; do not hide, replace or
+    // remove any object while the cause of the reported clone is unconfirmed.
+    DebugPrintf("WOT OBJ id=%u local=%u gfx=%x cmp=%u size=%u src=%x",
+                objectEventId, objectEvent->localId, objectEvent->graphicsId,
+                graphicsInfo->compressed, graphicsInfo->size, (u32)graphicsInfo->images->data);
+    DebugPrintf("WOT SHEET tag=%x start=%x", spriteTemplate.tileTag,
+                GetSpriteTileStartByTag(spriteTemplate.tileTag));
+#endif
 
     if (spriteTemplate.paletteTag == OBJ_EVENT_PAL_TAG_DYNAMIC)
     {
@@ -3311,6 +3327,11 @@ static void SpawnObjectEventOnReturnToField(u8 objectEventId, s16 x, s16 y)
 
         ResetObjectEventFldEffData(objectEvent);
         SetObjectSubpriorityByElevation(objectEvent->previousElevation, sprite, 1);
+#if WOT_SPRITE_DIAGNOSTICS
+        DebugPrintf("WOT SPRITE id=%u obj=%u tile=%u sheet=%u span=%u using=%u pal=%u",
+                    i, objectEventId, sprite->oam.tileNum, sprite->sheetTileStart,
+                    sprite->sheetSpan, sprite->usingSheet, sprite->oam.paletteNum);
+#endif
     }
 }
 

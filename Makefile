@@ -41,6 +41,8 @@ UNUSED_ERROR ?= 0
 DEPRECATED_ERROR ?= 0
 # Adds -Og and -g flags, which optimize the build for debugging and include debug info respectively
 DEBUG        ?= 0
+# Read-only field sprite trace for the Quest Log graphics investigation.
+WOT_SPRITE_DIAGNOSTICS ?= 0
 # Adds -flto flag, which increases link time but results in a more efficient binary (especially in audio processing)
 LTO          ?= 0
 # Makes an optimized build for release, also enabling NDEBUG macro and disabling other debugging features
@@ -92,6 +94,10 @@ endif
 
 CPP := $(PREFIX)cpp
 
+ifeq ($(WOT_SPRITE_DIAGNOSTICS),1)
+	FILE_NAME := $(FILE_NAME)-sprite-diag
+endif
+
 ifeq ($(RELEASE),1)
 	FILE_NAME := $(FILE_NAME)-release
 endif
@@ -123,6 +129,9 @@ ifeq ($(DEBUG),1)
 endif
 ifeq ($(RELEASE),1)
   OBJ_DIR := $(OBJ_DIR_NAME_RELEASE)
+endif
+ifeq ($(WOT_SPRITE_DIAGNOSTICS),1)
+  OBJ_DIR := $(OBJ_DIR)-sprite-diag
 endif
 ELF := $(ROM:.gba=.elf)
 MAP := $(ROM:.gba=.map)
@@ -157,6 +166,7 @@ else
 O_LEVEL ?= 2
 endif
 CPPFLAGS := $(INCLUDE_CPP_ARGS) -Wno-trigraphs -DMODERN=1 -DTESTING=$(TEST) -D$(GAME_VERSION) -std=gnu17
+CPPFLAGS += -DWOT_SPRITE_DIAGNOSTICS=$(WOT_SPRITE_DIAGNOSTICS)
 ifeq ($(RELEASE),1)
 	override CPPFLAGS += -DRELEASE
 	ifeq ($(USE_LTO_ON_RELEASE),1)

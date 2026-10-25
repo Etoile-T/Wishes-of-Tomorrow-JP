@@ -222899,9 +222899,13 @@
     "end": 21040,
     "raw": "\"Hardy\"",
     "source": "Hardy",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}がんばりや{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "23cd8ac068c2ba5e",
@@ -222911,9 +222915,13 @@
     "end": 21560,
     "raw": "\"Lonely\"",
     "source": "Lonely",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}さみしがり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2b630a2ed2fbf485",
@@ -222923,9 +222931,13 @@
     "end": 22044,
     "raw": "\"Brave\"",
     "source": "Brave",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ゆうかん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d79a0b05b7827ccd",
@@ -222935,9 +222947,13 @@
     "end": 22536,
     "raw": "\"Adamant\"",
     "source": "Adamant",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いじっぱり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "596c6867dbe15d35",
@@ -222947,9 +222963,13 @@
     "end": 23027,
     "raw": "\"Naughty\"",
     "source": "Naughty",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やんちゃ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "cff3045ecfcfd58f",
@@ -222959,9 +222979,13 @@
     "end": 23510,
     "raw": "\"Bold\"",
     "source": "Bold",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ずぶとい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "caee085cda077a16",
@@ -222971,9 +222995,13 @@
     "end": 23996,
     "raw": "\"Docile\"",
     "source": "Docile",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}すなお{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "bb5ffec19fb92091",
@@ -222983,9 +223011,13 @@
     "end": 24484,
     "raw": "\"Relaxed\"",
     "source": "Relaxed",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}のんき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b504ab79c6fc81ea",
@@ -222995,9 +223027,13 @@
     "end": 24986,
     "raw": "\"Impish\"",
     "source": "Impish",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わんぱく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "e844041756d05384",
@@ -223007,9 +223043,13 @@
     "end": 25470,
     "raw": "\"Lax\"",
     "source": "Lax",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}のうてんき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ec5f26785a4cf1a4",
@@ -223019,9 +223059,13 @@
     "end": 25954,
     "raw": "\"Timid\"",
     "source": "Timid",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おくびょう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ce91521ca5502b09",
@@ -223031,9 +223075,13 @@
     "end": 26438,
     "raw": "\"Hasty\"",
     "source": "Hasty",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}せっかち{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "21e6866142aec039",
@@ -223043,9 +223091,13 @@
     "end": 26922,
     "raw": "\"Serious\"",
     "source": "Serious",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まじめ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6873ef2093673165",
@@ -223055,9 +223107,13 @@
     "end": 27418,
     "raw": "\"Jolly\"",
     "source": "Jolly",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ようき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "33f61dd55041af53",
@@ -223067,9 +223123,13 @@
     "end": 27907,
     "raw": "\"Naive\"",
     "source": "Naive",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}むじゃき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "7246802945665b9f",
@@ -223079,9 +223139,13 @@
     "end": 28396,
     "raw": "\"Modest\"",
     "source": "Modest",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ひかえめ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "dd95a8c88bce1290",
@@ -223091,9 +223155,13 @@
     "end": 28891,
     "raw": "\"Mild\"",
     "source": "Mild",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おっとり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f34cd8f77faf2908",
@@ -223103,9 +223171,13 @@
     "end": 29375,
     "raw": "\"Quiet\"",
     "source": "Quiet",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}れいせい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "39f3682c49a3caac",
@@ -223115,9 +223187,13 @@
     "end": 29866,
     "raw": "\"Bashful\"",
     "source": "Bashful",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}てれや{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "8e2d28a44b9ea28a",
@@ -223127,9 +223203,13 @@
     "end": 30355,
     "raw": "\"Rash\"",
     "source": "Rash",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}うっかりや{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9cdf6256ae1b5d7d",
@@ -223139,9 +223219,13 @@
     "end": 30840,
     "raw": "\"Calm\"",
     "source": "Calm",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おだやか{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2fb61449711dcbfe",
@@ -223151,9 +223235,13 @@
     "end": 31330,
     "raw": "\"Gentle\"",
     "source": "Gentle",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おとなしい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "cafe36551cfbd4eb",
@@ -223163,9 +223251,13 @@
     "end": 31827,
     "raw": "\"Sassy\"",
     "source": "Sassy",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}なまいき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "5444b4a5517d6da1",
@@ -223175,9 +223267,13 @@
     "end": 32323,
     "raw": "\"Careful\"",
     "source": "Careful",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんちょう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "67d504aa796e466c",
@@ -223187,9 +223283,13 @@
     "end": 32812,
     "raw": "\"Quirky\"",
     "source": "Quirky",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きまぐれ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "187bd1aa406edac0",
@@ -230276,9 +230376,13 @@
     "end": 437,
     "raw": "\"EMERALD\"",
     "source": "EMERALD",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}エメラルド{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6940f6f86c9247bd",
@@ -230288,9 +230392,13 @@
     "end": 492,
     "raw": "\"AQUA\"",
     "source": "AQUA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アクア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "44f32065af7eadec",
@@ -230300,9 +230408,13 @@
     "end": 549,
     "raw": "\"MAGMA\"",
     "source": "MAGMA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マグマ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "aa7995356ff51382",
@@ -230312,9 +230424,13 @@
     "end": 608,
     "raw": "\"ARCHIE\"",
     "source": "ARCHIE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アオギリ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "84acbfbfaf24c161",
@@ -230324,9 +230440,13 @@
     "end": 665,
     "raw": "\"MAXIE\"",
     "source": "MAXIE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マツブサ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "8fd5658f1f98717a",
@@ -230336,9 +230456,13 @@
     "end": 724,
     "raw": "\"KYOGRE\"",
     "source": "KYOGRE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カイオーガ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "1148660c1a9279b8",
@@ -230348,9 +230472,13 @@
     "end": 785,
     "raw": "\"GROUDON\"",
     "source": "GROUDON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}グラードン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "36871032e10adb37",
@@ -230360,9 +230488,13 @@
     "end": 846,
     "raw": "\"BRENDAN\"",
     "source": "BRENDAN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ユウキ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b582a64dab8619d3",
@@ -230372,9 +230504,13 @@
     "end": 899,
     "raw": "\"MAY\"",
     "source": "MAY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ハルカ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "42eb01d93980ec34",
@@ -230384,9 +230520,13 @@
     "end": 952,
     "raw": "\"RED\"",
     "source": "RED",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レッド{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "70477ef6d33296ef",
@@ -230396,9 +230536,13 @@
     "end": 1009,
     "raw": "\"GREEN\"",
     "source": "GREEN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}グリーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f15e57124380deef",
@@ -230636,9 +230780,13 @@
     "end": 1947,
     "raw": "\"{A_BUTTON}NEXT\"",
     "source": "{A_BUTTON}NEXT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{A_BUTTON}つぎへ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ada5d450aeb543b7",
@@ -230648,9 +230796,13 @@
     "end": 2022,
     "raw": "\"{A_BUTTON}NEXT {B_BUTTON}BACK\"",
     "source": "{A_BUTTON}NEXT {B_BUTTON}BACK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{A_BUTTON}つぎへ {B_BUTTON}もどる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f4ffbde740b36166",
@@ -230660,9 +230812,13 @@
     "end": 2123,
     "raw": "\"{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL\"",
     "source": "{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DPAD_UPDOWN}えらぶ {A_BUTTON}つぎへ {B_BUTTON}キャンセル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d88231e267b51ff5",
@@ -230672,9 +230828,13 @@
     "end": 2215,
     "raw": "\"{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL\"",
     "source": "{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DPAD_UPDOWN}えらぶ {A_BUTTON}{B_BUTTON}キャンセル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "a3189247606c331f",
@@ -230684,9 +230844,13 @@
     "end": 2278,
     "raw": "\"{A_BUTTON}EXIT\"",
     "source": "{A_BUTTON}EXIT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{A_BUTTON}おわる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9dd902686120c1ed",
@@ -230728,9 +230892,13 @@
     "end": 2432,
     "raw": "\"This is what we call a “POKéMON.”{PAUSE 96}\\p\"",
     "source": "This is what we call a “POKéMON.”{PAUSE 96}\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}これが 「ポケモン」と よばれる\\nいきものです。{PAUSE 96}\\p{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9e1b001e13a5780e",
@@ -231340,9 +231508,13 @@
     "end": 5116,
     "raw": "\"RED\"",
     "source": "RED",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あか{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "7236fb574978a659",
@@ -231352,9 +231524,13 @@
     "end": 5165,
     "raw": "\"BLUE\"",
     "source": "BLUE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あお{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2673da0f61e3bab2",
@@ -231364,9 +231540,13 @@
     "end": 5218,
     "raw": "\"YELLOW\"",
     "source": "YELLOW",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きいろ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2c3e72b0f973b31a",
@@ -231376,9 +231556,13 @@
     "end": 5269,
     "raw": "\"GREEN\"",
     "source": "GREEN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}みどり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "8021f6e8b6075469",
@@ -231388,9 +231572,13 @@
     "end": 5320,
     "raw": "\"BLACK\"",
     "source": "BLACK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}くろ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2772840231cc3264",
@@ -231400,9 +231588,13 @@
     "end": 5371,
     "raw": "\"BROWN\"",
     "source": "BROWN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ちゃいろ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "e8f1e5b80aefd2a8",
@@ -231412,9 +231604,13 @@
     "end": 5424,
     "raw": "\"PURPLE\"",
     "source": "PURPLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}むらさき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "0defed89c034f40a",
@@ -231424,9 +231620,13 @@
     "end": 5473,
     "raw": "\"GRAY\"",
     "source": "GRAY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}はいいろ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "3b659fea5c5f8ae6",
@@ -231436,9 +231636,13 @@
     "end": 5524,
     "raw": "\"WHITE\"",
     "source": "WHITE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しろ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "bd87075da4f0d8cb",
@@ -231448,9 +231652,13 @@
     "end": 5573,
     "raw": "\"PINK\"",
     "source": "PINK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピンク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d9780d9828ea548f",
@@ -231716,9 +231924,13 @@
     "end": 7142,
     "raw": "\"No. \"",
     "source": "No. ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "No. ",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "2507801e62f5207d",
@@ -231728,9 +231940,13 @@
     "end": 7178,
     "raw": "\"Lv. \"",
     "source": "Lv. ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "Lv. ",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "4a719e6847c89e7d",
@@ -231768,9 +231984,13 @@
     "end": 7310,
     "raw": "\"IDNo.\"",
     "source": "IDNo.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "IDNo.",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "80983cea6af876da",
@@ -231780,9 +232000,13 @@
     "end": 7412,
     "raw": "\"PROF. BIRCH is in trouble!\\nRelease a POKéMON and rescue him!\"",
     "source": "PROF. BIRCH is in trouble!\\nRelease a POKéMON and rescue him!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オダマキはかせが ピンチ！\\nポケモンを だして たすけよう！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "fb10d83849c4acea",
@@ -231792,9 +232016,13 @@
     "end": 7486,
     "raw": "\"Do you choose this POKéMON?\"",
     "source": "Do you choose this POKéMON?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}この ポケモンに しますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "58d6926416b98e07",
@@ -232204,9 +232432,13 @@
     "end": 8813,
     "raw": "\"{STR_VAR_1} COINS\"",
     "source": "{STR_VAR_1} COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ea34ce9d39c5f617",
@@ -232360,9 +232592,13 @@
     "end": 9558,
     "raw": "\"DAD's advice…\\n{PLAYER}, there's a time and place for\\leverything!{PAUSE_UNTIL_PRESS}\"",
     "source": "DAD's advice…\\n{PLAYER}, there's a time and place for\\leverything!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}パパの ことば…\\n{ENG}{PLAYER}{JPN} ものには つかいどきと\\lいうものが ある！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "e744b8354be055ec",
@@ -232372,9 +232608,13 @@
     "end": 9649,
     "raw": "\"{PLAYER} used the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}\"",
     "source": "{PLAYER} used the\\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}を つかった！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ba464a655b2b29ac",
@@ -232384,9 +232624,13 @@
     "end": 9765,
     "raw": "\"But the effects of a REPEL\\nlingered from earlier.{PAUSE_UNTIL_PRESS}\"",
     "source": "But the effects of a REPEL\\nlingered from earlier.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しかし まえに つかった\\nむしよけスプレーの こうかが のこっている。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "63b857edfa888924",
@@ -232396,9 +232640,13 @@
     "end": 9879,
     "raw": "\"But the effects of a Lure\\nlingered from earlier.{PAUSE_UNTIL_PRESS}\"",
     "source": "But the effects of a Lure\\nlingered from earlier.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しかし まえに つかった\\nむしよせコロンの こうかが のこっている。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9de7528b6e4c085b",
@@ -232408,9 +232656,13 @@
     "end": 9948,
     "raw": "\"The BOX is full.{PAUSE_UNTIL_PRESS}\"",
     "source": "The BOX is full.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ボックスが いっぱいです。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "90054ab335575739",
@@ -233048,9 +233300,13 @@
     "end": 14140,
     "raw": "\"HP\"",
     "source": "HP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "HP",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "f029bf386fa7d1da",
@@ -235100,9 +235356,13 @@
     "end": 24737,
     "raw": "\"HP\"",
     "source": "HP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "HP",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "5304c2f5751e7259",
@@ -235504,9 +235764,13 @@
     "end": 26246,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{DYNAMIC 0}{ENG}{DYNAMIC 4}{JPN}{DYNAMIC 1}で\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき であった。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "87e6e5e09c3ecb3f",
@@ -235516,9 +235780,13 @@
     "end": 26432,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{DYNAMIC 0}{ENG}{DYNAMIC 4}{JPN}{DYNAMIC 1}で\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき うまれた。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "671bd80c050784fb",
@@ -235528,9 +235796,13 @@
     "end": 26555,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a trade.\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a trade.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\nこうかんで てにいれた。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "5f9344c2a6841789",
@@ -235540,9 +235812,13 @@
     "end": 26735,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a fateful\\nencounter at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nobtained in a fateful\\nencounter at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき\\nうんめいてきな であいを した。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ad6ec1f51e179212",
@@ -235552,9 +235828,13 @@
     "end": 26928,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nprobably met at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nprobably met at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{DYNAMIC 0}{ENG}{DYNAMIC 4}{JPN}{DYNAMIC 1}で\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき であったようだ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "860d92a28f77c219",
@@ -235564,9 +235844,13 @@
     "end": 27013,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9ff183600d24b4d9",
@@ -235576,9 +235860,13 @@
     "end": 27172,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nmet somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき どこかで\\nであった。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "201b8bb77f434340",
@@ -235588,9 +235876,13 @@
     "end": 27339,
     "raw": "\"{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.\"",
     "source": "{DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\\nhatched somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき どこかで\\nうまれた。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "cf743437144e8de4",
@@ -235600,9 +235892,13 @@
     "end": 27434,
     "raw": "\"An odd POKéMON EGG found\\nby the DAY CARE couple.\"",
     "source": "An odd POKéMON EGG found\\nby the DAY CARE couple.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}そだてやふうふが みつけた\\nふしぎな ポケモンの タマゴ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f49daee15d7797f9",
@@ -235612,9 +235908,13 @@
     "end": 27532,
     "raw": "\"A peculiar POKéMON EGG\\nobtained at the nice place.\"",
     "source": "A peculiar POKéMON EGG\\nobtained at the nice place.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}すてきな ばしょで もらった\\nめずらしい ポケモンの タマゴ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ae859f2d8084c6ed",
@@ -235624,9 +235924,13 @@
     "end": 27619,
     "raw": "\"A peculiar POKéMON EGG\\nobtained in a trade.\"",
     "source": "A peculiar POKéMON EGG\\nobtained in a trade.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうかんで てにいれた\\nめずらしい ポケモンの タマゴ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "e291730067c7c08f",
@@ -235636,9 +235940,13 @@
     "end": 27706,
     "raw": "\"A POKéMON EGG obtained\\nat the hot springs.\"",
     "source": "A POKéMON EGG obtained\\nat the hot springs.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おんせんで もらった\\nポケモンの タマゴ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "1066eeee1c6608ad",
@@ -235648,9 +235956,13 @@
     "end": 27793,
     "raw": "\"An odd POKéMON EGG\\nobtained from a traveler.\"",
     "source": "An odd POKéMON EGG\\nobtained from a traveler.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たびの ひとから もらった\\nふしぎな ポケモンの タマゴ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "aed1a41e7b2913cf",
@@ -235660,9 +235972,13 @@
     "end": 27842,
     "raw": "\"'s BASE\"",
     "source": "'s BASE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}の ひみつきち{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6029bb58e40b2a2e",
@@ -235672,9 +235988,13 @@
     "end": 27945,
     "raw": "\"Is it okay to delete {STR_VAR_1}\\nfrom the REGISTRY?\"",
     "source": "Is it okay to delete {STR_VAR_1}\\nfrom the REGISTRY?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を\\nとうろくから けしても いいですか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "995430f5edbfb9b3",
@@ -235684,9 +236004,13 @@
     "end": 28044,
     "raw": "\"The registered data was deleted.{PAUSE_UNTIL_PRESS}\"",
     "source": "The registered data was deleted.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}とうろくした データを けしました。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f40350c38ae2a3d1",
@@ -235696,9 +236020,13 @@
     "end": 28121,
     "raw": "\"There is no REGISTRY.{PAUSE_UNTIL_PRESS}\"",
     "source": "There is no REGISTRY.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}とうろくが ありません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "65b6d510e49d979c",
@@ -235708,9 +236036,13 @@
     "end": 28168,
     "raw": "\"DEL REGIST.\"",
     "source": "DEL REGIST.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}とうろくを けす{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "05c3afb5ec4459a6",
@@ -235792,9 +236124,13 @@
     "end": 28531,
     "raw": "\"Put out the selected decoration item.\"",
     "source": "Put out the selected decoration item.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}えらんだ もようがえグッズを おきます。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "8ba669a2b9b41141",
@@ -235804,9 +236140,13 @@
     "end": 28616,
     "raw": "\"Store the chosen decoration in the PC.\"",
     "source": "Store the chosen decoration in the PC.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}えらんだ もようがえグッズを\\nパソコンに しまいます。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "63bca1b258962a83",
@@ -235816,9 +236156,13 @@
     "end": 28698,
     "raw": "\"Throw away unwanted decorations.\"",
     "source": "Throw away unwanted decorations.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いらない もようがえグッズを すてます。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b0053662e61b17af",
@@ -235828,9 +236172,13 @@
     "end": 28782,
     "raw": "\"There are no decorations.{PAUSE_UNTIL_PRESS}\"",
     "source": "There are no decorations.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もようがえグッズが ありません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "a4ec9a936a14bcd1",
@@ -236064,9 +236412,13 @@
     "end": 29522,
     "raw": "\"No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.\"",
     "source": "No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}これいじょう グッズを おけません。\\nおけるのは {ENG}{STR_VAR_1}{JPN}こまでです。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "cfd488037e78b73c",
@@ -236076,9 +236428,13 @@
     "end": 29647,
     "raw": "\"No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.\"",
     "source": "No more decorations can be placed.\\nThe most that can be placed are {STR_VAR_1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}これいじょう グッズを おけません。\\nおけるのは {ENG}{STR_VAR_1}{JPN}こまでです。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "e8417520fbdace7a",
@@ -236100,9 +236456,13 @@
     "end": 29848,
     "raw": "\"This decoration can't be placed in\\nyour own room.\"",
     "source": "This decoration can't be placed in\\nyour own room.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}この グッズは じぶんの へやには\\nおけません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "bf33fb610f7e7d3c",
@@ -236112,9 +236472,13 @@
     "end": 29945,
     "raw": "\"This decoration is in use.\\nIt can't be thrown away.\"",
     "source": "This decoration is in use.\\nIt can't be thrown away.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}この グッズは つかわれています。\\nすてることは できません。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "7565c059a61aaeca",
@@ -236124,9 +236488,13 @@
     "end": 30047,
     "raw": "\"This {STR_VAR_1} will be discarded.\\nIs that okay?\"",
     "source": "This {STR_VAR_1} will be discarded.\\nIs that okay?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を すてます。\\nよろしいですか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ad9dbb1558cf756a",
@@ -236264,9 +236632,13 @@
     "end": 30800,
     "raw": "\"What would you like to do with\\n{STR_VAR_1}'s MAIL?\"",
     "source": "What would you like to do with\\n{STR_VAR_1}'s MAIL?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の メールを\\nどうしますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b8b9e3cefe587550",
@@ -236308,9 +236680,13 @@
     "end": 31081,
     "raw": "\"The MAIL was returned to the BAG\\nwith its message erased.{PAUSE_UNTIL_PRESS}\"",
     "source": "The MAIL was returned to the BAG\\nwith its message erased.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}メッセージを けして\\nメールを バッグに もどしました。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "38c34208f5212c8d",
@@ -236544,9 +236920,13 @@
     "end": 31754,
     "raw": "\"LV. 50\"",
     "source": "LV. 50",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レベル50{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d91e8bd068bf6393",
@@ -236556,9 +236936,13 @@
     "end": 31800,
     "raw": "\"OPEN LEVEL\"",
     "source": "OPEN LEVEL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オープンレベル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "09a25f528ed1b601",
@@ -237263,9 +237647,13 @@
     "end": 33793,
     "raw": "\"SOUTHERN ISLAND\"",
     "source": "SOUTHERN ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}みなみの ことう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "672e4ca8f500027a",
@@ -237275,9 +237663,13 @@
     "end": 33843,
     "raw": "\"BIRTH ISLAND\"",
     "source": "BIRTH ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たんじょうの しま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "a1c6e92eec8e7d23",
@@ -237287,9 +237679,13 @@
     "end": 33897,
     "raw": "\"FARAWAY ISLAND\"",
     "source": "FARAWAY ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}さいはての ことう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "94318d5c460e14bd",
@@ -237299,9 +237695,13 @@
     "end": 33943,
     "raw": "\"NAVEL ROCK\"",
     "source": "NAVEL ROCK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}へそのいわ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "3aa035e4acf9bddd",
@@ -237311,9 +237711,13 @@
     "end": 34000,
     "raw": "\"NORMAL TAG MATCH\"",
     "source": "NORMAL TAG MATCH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ノーマル タッグマッチ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "5659b832098b5abf",
@@ -237323,9 +237727,13 @@
     "end": 34059,
     "raw": "\"VARIETY TAG MATCH\"",
     "source": "VARIETY TAG MATCH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バラエティ タッグマッチ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "161a163121b9c200",
@@ -237335,9 +237743,13 @@
     "end": 34116,
     "raw": "\"UNIQUE TAG MATCH\"",
     "source": "UNIQUE TAG MATCH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ユニーク タッグマッチ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "c32d5a3186ae18d4",
@@ -237347,9 +237759,13 @@
     "end": 34173,
     "raw": "\"EXPERT TAG MATCH\"",
     "source": "EXPERT TAG MATCH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}エキスパート タッグマッチ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "10254c8ccb540cb7",
@@ -237359,9 +237775,13 @@
     "end": 34223,
     "raw": "\"TRADE CENTER\"",
     "source": "TRADE CENTER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうかんセンター{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "97dd7552c0fb3352",
@@ -237403,9 +237823,13 @@
     "end": 34398,
     "raw": "\"Clarkson's Lab\"",
     "source": "Clarkson's Lab",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}クラークソン けんきゅうじょ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "5dcb89d731d41816",
@@ -237463,9 +237887,13 @@
     "end": 34592,
     "raw": "\"COLOSSEUM\"",
     "source": "COLOSSEUM",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コロシアム{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "331f1bf7d136a03b",
@@ -237475,9 +237903,13 @@
     "end": 34644,
     "raw": "\"RECORD CORNER\"",
     "source": "RECORD CORNER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レコードコーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "749de068cfa16d7a",
@@ -237487,9 +237919,13 @@
     "end": 34693,
     "raw": "\"BERRY CRUSH\"",
     "source": "BERRY CRUSH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きのみマッシャー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "c2c2f463dae1d0af",
@@ -237499,9 +237935,13 @@
     "end": 34743,
     "raw": "\"BATTLE RULES\"",
     "source": "BATTLE RULES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルの ルール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "3e01b7a9fa5e995a",
@@ -237511,9 +237951,13 @@
     "end": 34790,
     "raw": "\"JUDGE: MIND\"",
     "source": "JUDGE: MIND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんさ:こころ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f6397643fb9d233e",
@@ -237523,9 +237967,13 @@
     "end": 34839,
     "raw": "\"JUDGE: SKILL\"",
     "source": "JUDGE: SKILL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんさ:わざ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d804007d381efa0a",
@@ -237535,9 +237983,13 @@
     "end": 34886,
     "raw": "\"JUDGE: BODY\"",
     "source": "JUDGE: BODY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんさ:からだ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "129f040c1363a93a",
@@ -237547,9 +237999,13 @@
     "end": 34934,
     "raw": "\"BASIC RULES\"",
     "source": "BASIC RULES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きほんルール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2ca5f84b37576d94",
@@ -237559,9 +238015,13 @@
     "end": 34986,
     "raw": "\"SWAP: PARTNER\"",
     "source": "SWAP: PARTNER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうかん:あいて{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "c1af5b38eb2f1c25",
@@ -237571,9 +238031,13 @@
     "end": 35035,
     "raw": "\"SWAP: NUMBER\"",
     "source": "SWAP: NUMBER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうかん:かず{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "8774b251db7e9947",
@@ -237583,9 +238047,13 @@
     "end": 35082,
     "raw": "\"SWAP: NOTES\"",
     "source": "SWAP: NOTES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうかん:ちゅうい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "792d0140548ce86b",
@@ -237595,9 +238063,13 @@
     "end": 35134,
     "raw": "\"BATTLE BASICS\"",
     "source": "BATTLE BASICS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルの きほん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9ef99194335184cf",
@@ -237607,9 +238079,13 @@
     "end": 35188,
     "raw": "\"POKéMON NATURE\"",
     "source": "POKéMON NATURE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンの せいかく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f28bdd85c3a25d7e",
@@ -237619,9 +238095,13 @@
     "end": 35240,
     "raw": "\"POKéMON MOVES\"",
     "source": "POKéMON MOVES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンの わざ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "aca022ade218bce7",
@@ -237631,9 +238111,13 @@
     "end": 35291,
     "raw": "\"UNDERPOWERED\"",
     "source": "UNDERPOWERED",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ちからが たりない{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "5fc0fdb199123618",
@@ -237643,9 +238127,13 @@
     "end": 35344,
     "raw": "\"WHEN IN DANGER\"",
     "source": "WHEN IN DANGER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピンチの とき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "57a2b24f7ed6c704",
@@ -237655,9 +238143,13 @@
     "end": 35398,
     "raw": "\"BATTLE POKéMON\"",
     "source": "BATTLE POKéMON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たたかう ポケモン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b346fc5526385a8a",
@@ -237667,9 +238159,13 @@
     "end": 35454,
     "raw": "\"BATTLE TRAINERS\"",
     "source": "BATTLE TRAINERS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たたかう トレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b505409097441d62",
@@ -237743,9 +238239,13 @@
     "end": 35635,
     "raw": "\"1F\"",
     "source": "1F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "1F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "3223c32daadf0c0a",
@@ -237755,9 +238255,13 @@
     "end": 35666,
     "raw": "\"2F\"",
     "source": "2F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "2F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "dca4073964184e47",
@@ -237767,9 +238271,13 @@
     "end": 35697,
     "raw": "\"3F\"",
     "source": "3F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "3F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "f83f19999b40cfda",
@@ -237779,9 +238287,13 @@
     "end": 35728,
     "raw": "\"4F\"",
     "source": "4F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "4F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "9f6ace1a2a057366",
@@ -237791,9 +238303,13 @@
     "end": 35759,
     "raw": "\"5F\"",
     "source": "5F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "5F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "0dd77461da982836",
@@ -237803,9 +238319,13 @@
     "end": 35790,
     "raw": "\"6F\"",
     "source": "6F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "6F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "b260a9a9065f4dde",
@@ -237815,9 +238335,13 @@
     "end": 35821,
     "raw": "\"7F\"",
     "source": "7F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "7F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "b697f5edb6fbe337",
@@ -237827,9 +238351,13 @@
     "end": 35852,
     "raw": "\"8F\"",
     "source": "8F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "8F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "4ddad43712bcb743",
@@ -237839,9 +238367,13 @@
     "end": 35883,
     "raw": "\"9F\"",
     "source": "9F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "9F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "f877f9adcbe8c10e",
@@ -237851,9 +238383,13 @@
     "end": 35916,
     "raw": "\"10F\"",
     "source": "10F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "10F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "0c9c4ceecfa7b5db",
@@ -237863,9 +238399,13 @@
     "end": 35949,
     "raw": "\"11F\"",
     "source": "11F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "11F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "6caddc17931c9748",
@@ -237875,9 +238415,13 @@
     "end": 35982,
     "raw": "\"B1F\"",
     "source": "B1F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "B1F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "6a32c959ba555fb7",
@@ -237887,9 +238431,13 @@
     "end": 36015,
     "raw": "\"B2F\"",
     "source": "B2F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "B2F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "097548365089af18",
@@ -237899,9 +238447,13 @@
     "end": 36048,
     "raw": "\"B3F\"",
     "source": "B3F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "B3F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "19c23712a9f96c52",
@@ -237911,9 +238463,13 @@
     "end": 36081,
     "raw": "\"B4F\"",
     "source": "B4F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "B4F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "4211565228cb5071",
@@ -237923,9 +238479,13 @@
     "end": 36122,
     "raw": "\"ROOFTOP\"",
     "source": "ROOFTOP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おくじょう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d205766313282240",
@@ -237935,9 +238495,13 @@
     "end": 36169,
     "raw": "\"Now on:\"",
     "source": "Now on:",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}げんざい:{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "3712d92a795bdb9f",
@@ -237947,9 +238511,13 @@
     "end": 36200,
     "raw": "\"BP\"",
     "source": "BP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "BP",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "f774fdd97412e62a",
@@ -237959,9 +238527,13 @@
     "end": 36250,
     "raw": "\"RANKING HALL\"",
     "source": "RANKING HALL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ランキングホール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d3ddd1de029fb92b",
@@ -237971,9 +238543,13 @@
     "end": 36308,
     "raw": "\"EXCHANGE SERVICE\"",
     "source": "EXCHANGE SERVICE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうかんサービス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "1f884866ab2ee072",
@@ -237983,9 +238559,13 @@
     "end": 36360,
     "raw": "\"LILYCOVE CITY\"",
     "source": "LILYCOVE CITY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミナモシティ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9d1f71227fdc55f1",
@@ -237995,9 +238575,13 @@
     "end": 36414,
     "raw": "\"SLATEPORT CITY\"",
     "source": "SLATEPORT CITY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カイナシティ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "888a8371d05b99e6",
@@ -238023,9 +238607,13 @@
     "end": 36527,
     "raw": "\"Your party's full!{PAUSE_UNTIL_PRESS}\"",
     "source": "Your party's full!{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}てもちが いっぱいです！{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "7b354d21d8f82690",
@@ -239099,9 +239687,13 @@
     "end": 43040,
     "raw": "\"POKéMON LEAGUE\"",
     "source": "POKéMON LEAGUE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンリーグ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "15a136b4724d7c89",
@@ -239111,9 +239703,13 @@
     "end": 43094,
     "raw": "\"POKéMON CENTER\"",
     "source": "POKéMON CENTER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンセンター{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "0cf1adfa8e7b78bf",
@@ -239123,9 +239719,13 @@
     "end": 43138,
     "raw": "\"Coolness \"",
     "source": "Coolness ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かっこよさ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "47713214cb1c3f65",
@@ -239135,9 +239735,13 @@
     "end": 43179,
     "raw": "\"Beauty \"",
     "source": "Beauty ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}うつくしさ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "7e34e14dab47f065",
@@ -239147,9 +239751,13 @@
     "end": 43223,
     "raw": "\"Cuteness \"",
     "source": "Cuteness ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かわいさ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6624bbb5feb04619",
@@ -239159,9 +239767,13 @@
     "end": 43269,
     "raw": "\"Smartness \"",
     "source": "Smartness ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かしこさ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "1024c795229a16d7",
@@ -239171,9 +239783,13 @@
     "end": 43315,
     "raw": "\"Toughness \"",
     "source": "Toughness ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たくましさ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "bfb71077dbed0550",
@@ -239183,9 +239799,13 @@
     "end": 43464,
     "raw": "\"Save failed. Checking the backup\\nmemory… Please wait.\\n{COLOR RED}“Time required: about 1 minute”\"",
     "source": "Save failed. Checking the backup\\nmemory… Please wait.\\n{COLOR RED}“Time required: about 1 minute”",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レポートが かけませんでした。\\nバックアップを かくにんちゅう…\\n{COLOR RED}「やく 1ぷん かかります」{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ec46ad1173a4ebf3",
@@ -239211,9 +239831,13 @@
     "end": 43739,
     "raw": "\"{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen…”\"",
     "source": "{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen…”",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{COLOR RED}「ゲームを つづけられません。\\nタイトルに もどります…」{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6312dac3ba7f16b7",
@@ -239239,9 +239863,13 @@
     "end": 43986,
     "raw": "\"Save completed.\\n{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen.”\"",
     "source": "Save completed.\\n{COLOR RED}“Game play cannot be continued.\\nReturning to the title screen.”",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レポートを かきおわりました。\\n{COLOR RED}「ゲームを つづけられません。\\nタイトルに もどります。」{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6121d8055685336f",
@@ -239251,9 +239879,13 @@
     "end": 44087,
     "raw": "\"Save completed.\\n{COLOR RED}“Please press the A Button.”\"",
     "source": "Save completed.\\n{COLOR RED}“Please press the A Button.”",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レポートを かきおわりました。\\n{COLOR RED}「{ENG}A{JPN}ボタンを おしてください。」{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d78f9c75a904c6da",
@@ -239263,9 +239895,13 @@
     "end": 44124,
     "raw": "\"FERRY\"",
     "source": "FERRY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}フェリー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "a8cce6ca5e827ba8",
@@ -239275,9 +239911,13 @@
     "end": 44172,
     "raw": "\"SECRET BASE\"",
     "source": "SECRET BASE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ひみつきち{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "01271f4481bfc41c",
@@ -239287,9 +239927,13 @@
     "end": 44213,
     "raw": "\"HIDEOUT\"",
     "source": "HIDEOUT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アジト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "341920a47fe153e6",
@@ -239299,9 +239943,13 @@
     "end": 44294,
     "raw": "\"Reset RTC?\\nA: Confirm, B: Cancel\"",
     "source": "Reset RTC?\\nA: Confirm, B: Cancel",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}じかんを リセットしますか？\\n{ENG}A{JPN}:けってい {ENG}B{JPN}:キャンセル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "31d624c881decc70",
@@ -239311,9 +239959,13 @@
     "end": 44352,
     "raw": "\"Present time in game\"",
     "source": "Present time in game",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまの ゲームない じかん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "78e44a789f961ae7",
@@ -239323,9 +239975,13 @@
     "end": 44412,
     "raw": "\"Previous time in game\"",
     "source": "Previous time in game",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まえの ゲームない じかん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "0f4576cefaa4fb7b",
@@ -239335,9 +239991,13 @@
     "end": 44476,
     "raw": "\"Please reset the time.\"",
     "source": "Please reset the time.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}じかんを せっていしなおしてください。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "5aa668b256bfc522",
@@ -239515,9 +240175,13 @@
     "end": 45183,
     "raw": "\"KNOCKOUT\"",
     "source": "KNOCKOUT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ノックアウト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9c375c7f65e36def",
@@ -239527,9 +240191,13 @@
     "end": 45220,
     "raw": "\"MIXED\"",
     "source": "MIXED",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミックス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "bfd461049c28683a",
@@ -239575,9 +240243,13 @@
     "end": 45431,
     "raw": "\"{STR_VAR_1} fainted…\\p\\n\"",
     "source": "{STR_VAR_1} fainted…\\p\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は たおれた…\\p\\n{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6debd82aec289d48",
@@ -239587,9 +240259,13 @@
     "end": 45543,
     "raw": "\"{STR_VAR_1} survived the poisoning.\\nThe poison faded away!\\p\"",
     "source": "{STR_VAR_1} survived the poisoning.\\nThe poison faded away!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は どくを たえぬいた。\\nどくが きえた！\\p{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "aca3e394a8c0780d",
@@ -239931,9 +240607,13 @@
     "end": 47461,
     "raw": "\"BATTLE TOWER\"",
     "source": "BATTLE TOWER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルタワー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "49b69a44b81695e2",
@@ -239943,9 +240623,13 @@
     "end": 47509,
     "raw": "\"BATTLE DOME\"",
     "source": "BATTLE DOME",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルドーム{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d84cd6150e3755a4",
@@ -239955,9 +240639,13 @@
     "end": 47561,
     "raw": "\"BATTLE PALACE\"",
     "source": "BATTLE PALACE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルパレス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "df839698aa11aaf6",
@@ -239967,9 +240655,13 @@
     "end": 47615,
     "raw": "\"BATTLE FACTORY\"",
     "source": "BATTLE FACTORY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルファクトリー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "8817b0a53f7afccc",
@@ -239979,9 +240671,13 @@
     "end": 47665,
     "raw": "\"BATTLE ARENA\"",
     "source": "BATTLE ARENA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルアリーナ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "a191d56c9c9593a8",
@@ -239991,9 +240687,13 @@
     "end": 47713,
     "raw": "\"BATTLE PIKE\"",
     "source": "BATTLE PIKE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルチューブ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "e139504609a15486",
@@ -240003,9 +240703,13 @@
     "end": 47767,
     "raw": "\"BATTLE PYRAMID\"",
     "source": "BATTLE PYRAMID",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルピラミッド{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "0d1e62dea1586bfc",
@@ -240651,9 +241355,13 @@
     "end": 50936,
     "raw": "\"{STR_VAR_1} hatched from the EGG!\"",
     "source": "{STR_VAR_1} hatched from the EGG!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}タマゴが かえって\\n{ENG}{STR_VAR_1}{JPN}が うまれた！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "c7ef35ab173df475",
@@ -240663,9 +241371,13 @@
     "end": 51040,
     "raw": "\"Would you like to nickname the newly\\nhatched {STR_VAR_1}?\"",
     "source": "Would you like to nickname the newly\\nhatched {STR_VAR_1}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}うまれた {ENG}{STR_VAR_1}{JPN}に\\nニックネームを つけますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "fd18fa1fe089682e",
@@ -241459,9 +242171,13 @@
     "end": 55988,
     "raw": "\"POWDER\"",
     "source": "POWDER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}パウダー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ae1928acaceb5c23",
@@ -242639,9 +243355,13 @@
     "end": 62496,
     "raw": "\"YES\\nNO\"",
     "source": "YES\\nNO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}はい\\nいいえ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f425b9e09e5396e4",
@@ -242803,9 +243523,13 @@
     "end": 63305,
     "raw": "\"DAY\"",
     "source": "DAY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "DAY",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+    }
   },
   {
     "id": "1306a0a47bc25448",
@@ -243045,9 +243769,13 @@
     "end": 64181,
     "raw": "\"SAFARI BALLS\\nStock: {STR_VAR_1}\"",
     "source": "SAFARI BALLS\\nStock: {STR_VAR_1}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サファリボール\\nのこり: {ENG}{STR_VAR_1}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "0f59e1718e2fd8e9",
@@ -243057,9 +243785,13 @@
     "end": 64266,
     "raw": "\"{STR_VAR_1}/{STR_VAR_2}\\nBALLS  {STR_VAR_3}\"",
     "source": "{STR_VAR_1}/{STR_VAR_2}\\nBALLS  {STR_VAR_3}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}/{STR_VAR_2}\\n{JPN}ボール  {ENG}{STR_VAR_3}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "55533e5ce7a745e0",
@@ -243069,9 +243801,13 @@
     "end": 64338,
     "raw": "\"Battle Pyramid\\n{STR_VAR_1}\"",
     "source": "Battle Pyramid\\n{STR_VAR_1}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルピラミッド\\n{ENG}{STR_VAR_1}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ca6d0e32c73ab108",
@@ -243081,9 +243817,13 @@
     "end": 64378,
     "raw": "\"Floor 1\"",
     "source": "Floor 1",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}1かい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f344008023b55e72",
@@ -243093,9 +243833,13 @@
     "end": 64418,
     "raw": "\"Floor 2\"",
     "source": "Floor 2",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}2かい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "98d7dcc556e608ef",
@@ -243105,9 +243849,13 @@
     "end": 64458,
     "raw": "\"Floor 3\"",
     "source": "Floor 3",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}3かい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6cb27c2dd5bc8ab2",
@@ -243117,9 +243865,13 @@
     "end": 64498,
     "raw": "\"Floor 4\"",
     "source": "Floor 4",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}4かい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "68dece641fd1b1b9",
@@ -243129,9 +243881,13 @@
     "end": 64538,
     "raw": "\"Floor 5\"",
     "source": "Floor 5",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}5かい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "590beb8da559d69f",
@@ -243141,9 +243897,13 @@
     "end": 64578,
     "raw": "\"Floor 6\"",
     "source": "Floor 6",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}6かい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "46c0931f76c0b257",
@@ -243153,9 +243913,13 @@
     "end": 64618,
     "raw": "\"Floor 7\"",
     "source": "Floor 7",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}7かい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "196a188950ab7de9",
@@ -243165,9 +243929,13 @@
     "end": 64653,
     "raw": "\"Peak\"",
     "source": "Peak",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ちょうじょう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2397ce4585a10931",
@@ -243333,9 +244101,13 @@
     "end": 65807,
     "raw": "\"JOKAIM\"",
     "source": "JOKAIM",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジョカイム{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b8fb0a2fd94e3913",
@@ -243345,9 +244117,13 @@
     "end": 65844,
     "raw": "\"KANTO\"",
     "source": "KANTO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カントー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ea69cf2caae443d5",
@@ -243357,9 +244133,13 @@
     "end": 65926,
     "raw": "\"{STR_VAR_2} will be\\nsent to {STR_VAR_1}.\"",
     "source": "{STR_VAR_2} will be\\nsent to {STR_VAR_1}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}は\\n{ENG}{STR_VAR_1}{JPN}の もとへ おくられます。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d9970503636beae7",
@@ -243369,9 +244149,13 @@
     "end": 65984,
     "raw": "\"Bye-bye, {STR_VAR_2}!\"",
     "source": "Bye-bye, {STR_VAR_2}!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バイバイ {ENG}{STR_VAR_2}{JPN}！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "26c14c7f1ee8a661",
@@ -243381,9 +244165,13 @@
     "end": 66055,
     "raw": "\"{STR_VAR_1} sent over {STR_VAR_3}.\"",
     "source": "{STR_VAR_1} sent over {STR_VAR_3}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}から {ENG}{STR_VAR_3}{JPN}が\\nおくられてきた。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "4dcb570f095a2256",
@@ -243393,9 +244181,13 @@
     "end": 66127,
     "raw": "\"Take good care of {STR_VAR_3}!\"",
     "source": "Take good care of {STR_VAR_3}!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_3}{JPN}を かわいがってね！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b20495c3bbf4afd7",
@@ -244989,9 +245781,13 @@
     "end": 74840,
     "raw": "\"Communication standby…\"",
     "source": "Communication standby…",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}つうしんたいきちゅう…{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d9330dedb6b14e8a",
@@ -245001,9 +245797,13 @@
     "end": 74927,
     "raw": "\"The two seem to get along\\nvery well.\"",
     "source": "The two seem to get along\\nvery well.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}2ひきの なかは\\nとっても よいようじゃ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b4929e0b22023694",
@@ -245013,9 +245813,13 @@
     "end": 74995,
     "raw": "\"The two seem to get along.\"",
     "source": "The two seem to get along.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}2ひきの なかは まずまずの ようじゃ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "5ec3fa34dba47e54",
@@ -245025,9 +245829,13 @@
     "end": 75086,
     "raw": "\"The two don't seem to like\\neach other much.\"",
     "source": "The two don't seem to like\\neach other much.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}2ひきは あまり なかが\\nよくないようじゃ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "556b423985a16869",
@@ -245037,9 +245845,13 @@
     "end": 75188,
     "raw": "\"The two prefer to play with other\\nPOKéMON than each other.\"",
     "source": "The two prefer to play with other\\nPOKéMON than each other.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}2ひきは おたがいより ほかの\\nポケモンと あそびたいようじゃ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "90dceecb5922a9a1",
@@ -245173,9 +245985,13 @@
     "end": 75730,
     "raw": "\"Teach which {STR_VAR_3} to\\n{STR_VAR_1}?\"",
     "source": "Teach which {STR_VAR_3} to\\n{STR_VAR_1}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に どの {ENG}{STR_VAR_3}{JPN}を\\nおしえますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ad0e5d4149378521",
@@ -245185,9 +246001,13 @@
     "end": 75804,
     "raw": "\"Teach {STR_VAR_2}?\"",
     "source": "Teach {STR_VAR_2}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}を おしえますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "7f6404babc5bdffd",
@@ -245197,9 +246017,13 @@
     "end": 75892,
     "raw": "\"{STR_VAR_1} learned\\n{STR_VAR_2}!\"",
     "source": "{STR_VAR_1} learned\\n{STR_VAR_2}!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}を おぼえた！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d25115c59e37e4bb",
@@ -245209,9 +246033,13 @@
     "end": 76102,
     "raw": "\"{STR_VAR_1} is trying to learn\\n{STR_VAR_2}.\\pBut {STR_VAR_1} can't learn more\\nthan four moves.\\pDelete an older move to make\\nroom for {STR_VAR_2}?\"",
     "source": "{STR_VAR_1} is trying to learn\\n{STR_VAR_2}.\\pBut {STR_VAR_1} can't learn more\\nthan four moves.\\pDelete an older move to make\\nroom for {STR_VAR_2}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は {ENG}{STR_VAR_2}{JPN}を\\nおぼえたい…\\pしかし {ENG}{STR_VAR_1}{JPN}は わざを 4つ\\nおぼえるので せいいっぱいだ！\\p{ENG}{STR_VAR_2}{JPN}の かわりに\\nほかの わざを わすれさせますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "6798a0a055052efb",
@@ -245221,9 +246049,13 @@
     "end": 76197,
     "raw": "\"Stop trying to teach\\n{STR_VAR_2}?\"",
     "source": "Stop trying to teach\\n{STR_VAR_2}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}を おぼえるのを\\nあきらめますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "2355baf60c02bdd6",
@@ -245233,9 +246065,13 @@
     "end": 76353,
     "raw": "\"{PAUSE 32}1, {PAUSE 15}2, and {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\\p\"",
     "source": "{PAUSE 32}1, {PAUSE 15}2, and {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{PAUSE 32}1 {PAUSE 15}2の {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}ポカン！\\p{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "824a2dede743c71e",
@@ -245245,9 +246081,13 @@
     "end": 76491,
     "raw": "\"{STR_VAR_1} forgot {STR_VAR_3}.\\pAnd…\\p{STR_VAR_1} learned {STR_VAR_2}.\"",
     "source": "{STR_VAR_1} forgot {STR_VAR_3}.\\pAnd…\\p{STR_VAR_1} learned {STR_VAR_2}.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は {ENG}{STR_VAR_3}{JPN}の\\nつかいかたを きれいに わすれた！\\pそして…\\p{ENG}{STR_VAR_1}{JPN}は あたらしく\\n{ENG}{STR_VAR_2}{JPN}を おぼえた！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "cebf80ef9b92e3bf",
@@ -245269,9 +246109,13 @@
     "end": 76705,
     "raw": "\"Give up trying to teach a new\\nmove to {STR_VAR_1}?\"",
     "source": "Give up trying to teach a new\\nmove to {STR_VAR_1}?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に あたらしい わざを\\nおしえるのを あきらめますか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "d3914e2c3d1a3596",
@@ -245281,9 +246125,13 @@
     "end": 76796,
     "raw": "\"Which move should be\\nforgotten?\\p\"",
     "source": "Which move should be\\nforgotten?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どの わざを\\nわすれさせますか？\\p{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "3f93aedea3f05ef7",
@@ -245421,9 +246269,13 @@
     "end": 77375,
     "raw": "\"Clearing data…\\nPlease wait.\"",
     "source": "Clearing data…\\nPlease wait.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}データを けしています…\\nしばらく おまちください。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "b4137a73af8324c7",
@@ -245433,9 +246285,13 @@
     "end": 77447,
     "raw": "\"Is this the correct time?\"",
     "source": "Is this the correct time?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}この じかんで よろしいですか？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "3f208bddfe89cba5",
@@ -245809,9 +246665,13 @@
     "end": 78990,
     "raw": "\"The Exp. Share has been turned on.{PAUSE_UNTIL_PRESS}\"",
     "source": "The Exp. Share has been turned on.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}がくしゅうそうちを オンにした。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "cfd72c44d8e44b31",
@@ -245821,9 +246681,13 @@
     "end": 79082,
     "raw": "\"The Exp. Share has been turned off.{PAUSE_UNTIL_PRESS}\"",
     "source": "The Exp. Share has been turned off.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}がくしゅうそうちを オフにした。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "be1830e0484d3da3",
@@ -245833,9 +246697,13 @@
     "end": 79130,
     "raw": "\"GHOST\"",
     "source": "GHOST",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ゆうれい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "921494ecef1125ff",
@@ -245845,9 +246713,13 @@
     "end": 79181,
     "raw": "\"BOULDERBADGE\"",
     "source": "BOULDERBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}グレーバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "0779cf4e1734f280",
@@ -245857,9 +246729,13 @@
     "end": 79232,
     "raw": "\"CASCADEBADGE\"",
     "source": "CASCADEBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ブルーバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "9e2ce8181386672f",
@@ -245869,9 +246745,13 @@
     "end": 79283,
     "raw": "\"THUNDERBADGE\"",
     "source": "THUNDERBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オレンジバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f126d83aa1b04026",
@@ -245881,9 +246761,13 @@
     "end": 79334,
     "raw": "\"RAINBOWBADGE\"",
     "source": "RAINBOWBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レインボーバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "033ccfdaae64d53b",
@@ -245893,9 +246777,13 @@
     "end": 79379,
     "raw": "\"SOULBADGE\"",
     "source": "SOULBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピンクバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "7533829d1ac2dec4",
@@ -245905,9 +246793,13 @@
     "end": 79426,
     "raw": "\"MARSHBADGE\"",
     "source": "MARSHBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ゴールドバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "562d6ae82254f0c3",
@@ -245917,9 +246809,13 @@
     "end": 79477,
     "raw": "\"VOLCANOBADGE\"",
     "source": "VOLCANOBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}クリムゾンバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "710f39503edde14f",
@@ -245929,9 +246825,13 @@
     "end": 79524,
     "raw": "\"EARTHBADGE\"",
     "source": "EARTHBADGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}グリーンバッジ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "ff768628b9ed70ba",
@@ -245941,9 +246841,13 @@
     "end": 79652,
     "raw": "\"OAK: It's important to get to know\\nyour POKéMON thoroughly.\\p\"",
     "source": "OAK: It's important to get to know\\nyour POKéMON thoroughly.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オーキド: じぶんの ポケモンの ことを\\nよく しっておくのは だいじな ことじゃ。\\p{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "a5235df4e3a20edd",
@@ -245953,9 +246857,13 @@
     "end": 79887,
     "raw": "\"This is a list of your POKéMON,\\n{PLAYER}.\\pOpen this to check the skills\\nand moves of your POKéMON.\\pYou also choose POKéMON here if\\nyou want to use an item on one.{PAUSE_UNTIL_PRESS}\"",
     "source": "This is a list of your POKéMON,\\n{PLAYER}.\\pOpen this to check the skills\\nand moves of your POKéMON.\\pYou also choose POKéMON here if\\nyou want to use an item on one.{PAUSE_UNTIL_PRESS}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}これが {ENG}{PLAYER}{JPN}の ポケモンの\\nいちらんじゃ。\\pここを ひらけば ポケモンの\\nのうりょくや わざを しらべられる。\\pポケモンに どうぐを つかうときも\\nここで えらぶのじゃ。{PAUSE_UNTIL_PRESS}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "f5637f03603216b2",
@@ -252724,9 +253632,13 @@
     "end": 5347,
     "raw": "\"was enhanced!\"",
     "source": "was enhanced!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}が あがった！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-strings-common-07",
+      "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+    }
   },
   {
     "id": "907fb1ce152d15bb",

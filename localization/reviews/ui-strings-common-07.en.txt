@@ -1,0 +1,206 @@
+93a9b3f95eea696d EMERALD
+6940f6f86c9247bd AQUA
+44f32065af7eadec MAGMA
+aa7995356ff51382 ARCHIE
+84acbfbfaf24c161 MAXIE
+8fd5658f1f98717a KYOGRE
+1148660c1a9279b8 GROUDON
+36871032e10adb37 BRENDAN
+b582a64dab8619d3 MAY
+42eb01d93980ec34 RED
+70477ef6d33296ef GREEN
+9611d9c1e4bbb8dd {A_BUTTON}NEXT
+ada5d450aeb543b7 {A_BUTTON}NEXT {B_BUTTON}BACK
+f4ffbde740b36166 {DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL
+d88231e267b51ff5 {DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL
+a3189247606c331f {A_BUTTON}EXIT
+d465c43cbd98df3c This is what we call a “POKéMON.”{PAUSE 96}\p
+b80dfc41acae548f RED
+7236fb574978a659 BLUE
+2673da0f61e3bab2 YELLOW
+2c3e72b0f973b31a GREEN
+8021f6e8b6075469 BLACK
+2772840231cc3264 BROWN
+e8f1e5b80aefd2a8 PURPLE
+0defed89c034f40a GRAY
+3b659fea5c5f8ae6 WHITE
+bd87075da4f0d8cb PINK
+80983cea6af876da PROF. BIRCH is in trouble!\nRelease a POKéMON and rescue him!
+fb10d83849c4acea Do you choose this POKéMON?
+402bed7af8e1e103 {STR_VAR_1} COINS
+595bca108f5f46cc DAD's advice…\n{PLAYER}, there's a time and place for\leverything!{PAUSE_UNTIL_PRESS}
+e744b8354be055ec {PLAYER} used the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+ba464a655b2b29ac But the effects of a REPEL\nlingered from earlier.{PAUSE_UNTIL_PRESS}
+63b857edfa888924 But the effects of a Lure\nlingered from earlier.{PAUSE_UNTIL_PRESS}
+9de7528b6e4c085b The BOX is full.{PAUSE_UNTIL_PRESS}
+382183f1c745dabf {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\nmet at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.
+87e6e5e09c3ecb3f {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\nhatched at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.
+671bd80c050784fb {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\nobtained in a trade.
+5f9344c2a6841789 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\nobtained in a fateful\nencounter at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.
+ad6ec1f51e179212 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\nprobably met at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1},\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}.
+860d92a28f77c219 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature
+9ff183600d24b4d9 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\nmet somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.
+201b8bb77f434340 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5} nature,\nhatched somewhere at {LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}.
+cf743437144e8de4 An odd POKéMON EGG found\nby the DAY CARE couple.
+f49daee15d7797f9 A peculiar POKéMON EGG\nobtained at the nice place.
+ae859f2d8084c6ed A peculiar POKéMON EGG\nobtained in a trade.
+e291730067c7c08f A POKéMON EGG obtained\nat the hot springs.
+1066eeee1c6608ad An odd POKéMON EGG\nobtained from a traveler.
+aed1a41e7b2913cf 's BASE
+6029bb58e40b2a2e Is it okay to delete {STR_VAR_1}\nfrom the REGISTRY?
+995430f5edbfb9b3 The registered data was deleted.{PAUSE_UNTIL_PRESS}
+f40350c38ae2a3d1 There is no REGISTRY.{PAUSE_UNTIL_PRESS}
+65b6d510e49d979c DEL REGIST.
+b392cdcfcbc0e10a Put out the selected decoration item.
+8ba669a2b9b41141 Store the chosen decoration in the PC.
+63bca1b258962a83 Throw away unwanted decorations.
+b0053662e61b17af There are no decorations.{PAUSE_UNTIL_PRESS}
+974733192c3d179f No more decorations can be placed.\nThe most that can be placed are {STR_VAR_1}.
+cfd488037e78b73c No more decorations can be placed.\nThe most that can be placed are {STR_VAR_1}.
+378b9253635058ad This decoration can't be placed in\nyour own room.
+bf33fb610f7e7d3c This decoration is in use.\nIt can't be thrown away.
+7565c059a61aaeca This {STR_VAR_1} will be discarded.\nIs that okay?
+7bbf2ccb4f61a121 What would you like to do with\n{STR_VAR_1}'s MAIL?
+c3b474ebc2ca5833 The MAIL was returned to the BAG\nwith its message erased.{PAUSE_UNTIL_PRESS}
+b95892a0421521db LV. 50
+d91e8bd068bf6393 OPEN LEVEL
+a4e5a2525b30c440 SOUTHERN ISLAND
+672e4ca8f500027a BIRTH ISLAND
+a1c6e92eec8e7d23 FARAWAY ISLAND
+94318d5c460e14bd NAVEL ROCK
+3aa035e4acf9bddd NORMAL TAG MATCH
+5659b832098b5abf VARIETY TAG MATCH
+161a163121b9c200 UNIQUE TAG MATCH
+c32d5a3186ae18d4 EXPERT TAG MATCH
+10254c8ccb540cb7 TRADE CENTER
+ba80e65c5a6277c3 Clarkson's Lab
+250c3e9f734bf121 COLOSSEUM
+331f1bf7d136a03b RECORD CORNER
+749de068cfa16d7a BERRY CRUSH
+c2c2f463dae1d0af BATTLE RULES
+3e01b7a9fa5e995a JUDGE: MIND
+f6397643fb9d233e JUDGE: SKILL
+d804007d381efa0a JUDGE: BODY
+129f040c1363a93a BASIC RULES
+2ca5f84b37576d94 SWAP: PARTNER
+c1af5b38eb2f1c25 SWAP: NUMBER
+8774b251db7e9947 SWAP: NOTES
+792d0140548ce86b BATTLE BASICS
+9ef99194335184cf POKéMON NATURE
+f28bdd85c3a25d7e POKéMON MOVES
+aca022ade218bce7 UNDERPOWERED
+5fc0fdb199123618 WHEN IN DANGER
+57a2b24f7ed6c704 BATTLE POKéMON
+b346fc5526385a8a BATTLE TRAINERS
+4211565228cb5071 ROOFTOP
+d205766313282240 Now on:
+f774fdd97412e62a RANKING HALL
+d3ddd1de029fb92b EXCHANGE SERVICE
+1f884866ab2ee072 LILYCOVE CITY
+9d1f71227fdc55f1 SLATEPORT CITY
+9f7e0443067e2ba6 Your party's full!{PAUSE_UNTIL_PRESS}
+d0997f3b6ff572bd POKéMON LEAGUE
+15a136b4724d7c89 POKéMON CENTER
+0cf1adfa8e7b78bf Coolness 
+47713214cb1c3f65 Beauty 
+7e34e14dab47f065 Cuteness 
+6624bbb5feb04619 Smartness 
+1024c795229a16d7 Toughness 
+3e6b9895bb09ac10 was enhanced!
+bfb71077dbed0550 Save failed. Checking the backup\nmemory… Please wait.\n{COLOR RED}“Time required: about 1 minute”
+209866eec7165c66 {COLOR RED}“Game play cannot be continued.\nReturning to the title screen…”
+b0db5cf94ad8532e Save completed.\n{COLOR RED}“Game play cannot be continued.\nReturning to the title screen.”
+6121d8055685336f Save completed.\n{COLOR RED}“Please press the A Button.”
+d78f9c75a904c6da FERRY
+a8cce6ca5e827ba8 SECRET BASE
+01271f4481bfc41c HIDEOUT
+341920a47fe153e6 Reset RTC?\nA: Confirm, B: Cancel
+31d624c881decc70 Present time in game
+78e44a789f961ae7 Previous time in game
+0f4576cefaa4fb7b Please reset the time.
+6f08527b385cb4f8 KNOCKOUT
+9c375c7f65e36def MIXED
+b22fe7b3bb983268 {STR_VAR_1} fainted…\p\n
+6debd82aec289d48 {STR_VAR_1} survived the poisoning.\nThe poison faded away!\p
+7f89da4a2fc58263 BATTLE TOWER
+49b69a44b81695e2 BATTLE DOME
+d84cd6150e3755a4 BATTLE PALACE
+df839698aa11aaf6 BATTLE FACTORY
+8817b0a53f7afccc BATTLE ARENA
+a191d56c9c9593a8 BATTLE PIKE
+e139504609a15486 BATTLE PYRAMID
+dfca8eceb9b2baf1 {STR_VAR_1} hatched from the EGG!
+c7ef35ab173df475 Would you like to nickname the newly\nhatched {STR_VAR_1}?
+37ee42a6750c721b POWDER
+57279eb8a4f74bbb YES\nNO
+1a9df637bc44fd17 SAFARI BALLS\nStock: {STR_VAR_1}
+0f59e1718e2fd8e9 {STR_VAR_1}/{STR_VAR_2}\nBALLS  {STR_VAR_3}
+55533e5ce7a745e0 Battle Pyramid\n{STR_VAR_1}
+ca6d0e32c73ab108 Floor 1
+f344008023b55e72 Floor 2
+98d7dcc556e608ef Floor 3
+6cb27c2dd5bc8ab2 Floor 4
+68dece641fd1b1b9 Floor 5
+590beb8da559d69f Floor 6
+46c0931f76c0b257 Floor 7
+196a188950ab7de9 Peak
+0772a071cfd47001 JOKAIM
+b8fb0a2fd94e3913 KANTO
+ea69cf2caae443d5 {STR_VAR_2} will be\nsent to {STR_VAR_1}.
+d9970503636beae7 Bye-bye, {STR_VAR_2}!
+26c14c7f1ee8a661 {STR_VAR_1} sent over {STR_VAR_3}.
+4dcb570f095a2256 Take good care of {STR_VAR_3}!
+8f80ad632ba73b58 Communication standby…
+d9330dedb6b14e8a The two seem to get along\nvery well.
+b4929e0b22023694 The two seem to get along.
+5ec3fa34dba47e54 The two don't seem to like\neach other much.
+556b423985a16869 The two prefer to play with other\nPOKéMON than each other.
+5ced64cf182b994e Teach which {STR_VAR_3} to\n{STR_VAR_1}?
+ad0e5d4149378521 Teach {STR_VAR_2}?
+7f6404babc5bdffd {STR_VAR_1} learned\n{STR_VAR_2}!
+d25115c59e37e4bb {STR_VAR_1} is trying to learn\n{STR_VAR_2}.\pBut {STR_VAR_1} can't learn more\nthan four moves.\pDelete an older move to make\nroom for {STR_VAR_2}?
+6798a0a055052efb Stop trying to teach\n{STR_VAR_2}?
+2355baf60c02bdd6 {PAUSE 32}1, {PAUSE 15}2, and {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p
+824a2dede743c71e {STR_VAR_1} forgot {STR_VAR_3}.\pAnd…\p{STR_VAR_1} learned {STR_VAR_2}.
+78f1e533328219e4 Give up trying to teach a new\nmove to {STR_VAR_1}?
+d3914e2c3d1a3596 Which move should be\nforgotten?\p
+406e50614a2bfc1a Clearing data…\nPlease wait.
+b4137a73af8324c7 Is this the correct time?
+7b60d7b12447664d The Exp. Share has been turned on.{PAUSE_UNTIL_PRESS}
+cfd72c44d8e44b31 The Exp. Share has been turned off.{PAUSE_UNTIL_PRESS}
+be1830e0484d3da3 GHOST
+921494ecef1125ff BOULDERBADGE
+0779cf4e1734f280 CASCADEBADGE
+9e2ce8181386672f THUNDERBADGE
+f126d83aa1b04026 RAINBOWBADGE
+033ccfdaae64d53b SOULBADGE
+7533829d1ac2dec4 MARSHBADGE
+562d6ae82254f0c3 VOLCANOBADGE
+710f39503edde14f EARTHBADGE
+ff768628b9ed70ba OAK: It's important to get to know\nyour POKéMON thoroughly.\p
+a5235df4e3a20edd This is a list of your POKéMON,\n{PLAYER}.\pOpen this to check the skills\nand moves of your POKéMON.\pYou also choose POKéMON here if\nyou want to use an item on one.{PAUSE_UNTIL_PRESS}
+68e7c25d31ef4df9 Hardy
+23cd8ac068c2ba5e Lonely
+2b630a2ed2fbf485 Brave
+d79a0b05b7827ccd Adamant
+596c6867dbe15d35 Naughty
+cff3045ecfcfd58f Bold
+caee085cda077a16 Docile
+bb5ffec19fb92091 Relaxed
+b504ab79c6fc81ea Impish
+e844041756d05384 Lax
+ec5f26785a4cf1a4 Timid
+ce91521ca5502b09 Hasty
+21e6866142aec039 Serious
+6873ef2093673165 Jolly
+33f61dd55041af53 Naive
+7246802945665b9f Modest
+dd95a8c88bce1290 Mild
+f34cd8f77faf2908 Quiet
+39f3682c49a3caac Bashful
+8e2d28a44b9ea28a Rash
+9cdf6256ae1b5d7d Calm
+2fb61449711dcbfe Gentle
+cafe36551cfbd4eb Sassy
+5444b4a5517d6da1 Careful
+67d504aa796e466c Quirky

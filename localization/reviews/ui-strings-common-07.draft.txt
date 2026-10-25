@@ -1,0 +1,206 @@
+93a9b3f95eea696d エメラルド
+6940f6f86c9247bd アクア
+44f32065af7eadec マグマ
+aa7995356ff51382 アオギリ
+84acbfbfaf24c161 マツブサ
+8fd5658f1f98717a カイオーガ
+1148660c1a9279b8 グラードン
+36871032e10adb37 ユウキ
+b582a64dab8619d3 ハルカ
+42eb01d93980ec34 レッド
+70477ef6d33296ef グリーン
+9611d9c1e4bbb8dd {A_BUTTON}つぎへ
+ada5d450aeb543b7 {A_BUTTON}つぎへ {B_BUTTON}もどる
+f4ffbde740b36166 {DPAD_UPDOWN}えらぶ {A_BUTTON}つぎへ {B_BUTTON}キャンセル
+d88231e267b51ff5 {DPAD_UPDOWN}えらぶ {A_BUTTON}{B_BUTTON}キャンセル
+a3189247606c331f {A_BUTTON}おわる
+d465c43cbd98df3c これが 「ポケモン」と よばれる\nいきものです。{PAUSE 96}\p
+b80dfc41acae548f あか
+7236fb574978a659 あお
+2673da0f61e3bab2 きいろ
+2c3e72b0f973b31a みどり
+8021f6e8b6075469 くろ
+2772840231cc3264 ちゃいろ
+e8f1e5b80aefd2a8 むらさき
+0defed89c034f40a はいいろ
+3b659fea5c5f8ae6 しろ
+bd87075da4f0d8cb ピンク
+80983cea6af876da オダマキはかせが ピンチ！\nポケモンを だして たすけよう！
+fb10d83849c4acea この ポケモンに しますか？
+402bed7af8e1e103 {STR_VAR_1}まい
+595bca108f5f46cc パパの ことば…\n{PLAYER} ものには つかいどきと\lいうものが ある！{PAUSE_UNTIL_PRESS}
+e744b8354be055ec {PLAYER}は\n{STR_VAR_2}を つかった！{PAUSE_UNTIL_PRESS}
+ba464a655b2b29ac しかし まえに つかった\nむしよけスプレーの こうかが のこっている。{PAUSE_UNTIL_PRESS}
+63b857edfa888924 しかし まえに つかった\nむしよせコロンの こうかが のこっている。{PAUSE_UNTIL_PRESS}
+9de7528b6e4c085b ボックスが いっぱいです。{PAUSE_UNTIL_PRESS}
+382183f1c745dabf {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}で\n{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}のとき であった。
+87e6e5e09c3ecb3f {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}で\n{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}のとき うまれた。
+671bd80c050784fb {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\nこうかんで てにいれた。
+5f9344c2a6841789 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\n{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}のとき\nうんめいてきな であいを した。
+ad6ec1f51e179212 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\n{DYNAMIC 0}{DYNAMIC 4}{DYNAMIC 1}で\n{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}のとき であったようだ。
+860d92a28f77c219 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく
+9ff183600d24b4d9 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\n{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}のとき どこかで\nであった。
+201b8bb77f434340 {DYNAMIC 0}{DYNAMIC 2}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\n{LV_2}{DYNAMIC 0}{DYNAMIC 3}{DYNAMIC 1}のとき どこかで\nうまれた。
+cf743437144e8de4 そだてやふうふが みつけた\nふしぎな ポケモンの タマゴ。
+f49daee15d7797f9 すてきな ばしょで もらった\nめずらしい ポケモンの タマゴ。
+ae859f2d8084c6ed こうかんで てにいれた\nめずらしい ポケモンの タマゴ。
+e291730067c7c08f おんせんで もらった\nポケモンの タマゴ。
+1066eeee1c6608ad たびの ひとから もらった\nふしぎな ポケモンの タマゴ。
+aed1a41e7b2913cf の ひみつきち
+6029bb58e40b2a2e {STR_VAR_1}を\nとうろくから けしても いいですか？
+995430f5edbfb9b3 とうろくした データを けしました。{PAUSE_UNTIL_PRESS}
+f40350c38ae2a3d1 とうろくが ありません。{PAUSE_UNTIL_PRESS}
+65b6d510e49d979c とうろくを けす
+b392cdcfcbc0e10a えらんだ もようがえグッズを おきます。
+8ba669a2b9b41141 えらんだ もようがえグッズを\nパソコンに しまいます。
+63bca1b258962a83 いらない もようがえグッズを すてます。
+b0053662e61b17af もようがえグッズが ありません。{PAUSE_UNTIL_PRESS}
+974733192c3d179f これいじょう グッズを おけません。\nおけるのは {STR_VAR_1}こまでです。
+cfd488037e78b73c これいじょう グッズを おけません。\nおけるのは {STR_VAR_1}こまでです。
+378b9253635058ad この グッズは じぶんの へやには\nおけません。
+bf33fb610f7e7d3c この グッズは つかわれています。\nすてることは できません。
+7565c059a61aaeca {STR_VAR_1}を すてます。\nよろしいですか？
+7bbf2ccb4f61a121 {STR_VAR_1}の メールを\nどうしますか？
+c3b474ebc2ca5833 メッセージを けして\nメールを バッグに もどしました。{PAUSE_UNTIL_PRESS}
+b95892a0421521db レベル50
+d91e8bd068bf6393 オープンレベル
+a4e5a2525b30c440 みなみの ことう
+672e4ca8f500027a たんじょうの しま
+a1c6e92eec8e7d23 さいはての ことう
+94318d5c460e14bd へそのいわ
+3aa035e4acf9bddd ノーマル タッグマッチ
+5659b832098b5abf バラエティ タッグマッチ
+161a163121b9c200 ユニーク タッグマッチ
+c32d5a3186ae18d4 エキスパート タッグマッチ
+10254c8ccb540cb7 こうかんセンター
+ba80e65c5a6277c3 クラークソン けんきゅうじょ
+250c3e9f734bf121 コロシアム
+331f1bf7d136a03b レコードコーナー
+749de068cfa16d7a きのみマッシャー
+c2c2f463dae1d0af バトルの ルール
+3e01b7a9fa5e995a しんさ:こころ
+f6397643fb9d233e しんさ:わざ
+d804007d381efa0a しんさ:からだ
+129f040c1363a93a きほんルール
+2ca5f84b37576d94 こうかん:あいて
+c1af5b38eb2f1c25 こうかん:かず
+8774b251db7e9947 こうかん:ちゅうい
+792d0140548ce86b バトルの きほん
+9ef99194335184cf ポケモンの せいかく
+f28bdd85c3a25d7e ポケモンの わざ
+aca022ade218bce7 ちからが たりない
+5fc0fdb199123618 ピンチの とき
+57a2b24f7ed6c704 たたかう ポケモン
+b346fc5526385a8a たたかう トレーナー
+4211565228cb5071 おくじょう
+d205766313282240 げんざい:
+f774fdd97412e62a ランキングホール
+d3ddd1de029fb92b こうかんサービス
+1f884866ab2ee072 ミナモシティ
+9d1f71227fdc55f1 カイナシティ
+9f7e0443067e2ba6 てもちが いっぱいです！{PAUSE_UNTIL_PRESS}
+d0997f3b6ff572bd ポケモンリーグ
+15a136b4724d7c89 ポケモンセンター
+0cf1adfa8e7b78bf かっこよさ
+47713214cb1c3f65 うつくしさ
+7e34e14dab47f065 かわいさ
+6624bbb5feb04619 かしこさ
+1024c795229a16d7 たくましさ
+3e6b9895bb09ac10 が あがった！
+bfb71077dbed0550 レポートが かけませんでした。\nバックアップを かくにんちゅう…\n{COLOR RED}「やく 1ぷん かかります」
+209866eec7165c66 {COLOR RED}「ゲームを つづけられません。\nタイトルに もどります…」
+b0db5cf94ad8532e レポートを かきおわりました。\n{COLOR RED}「ゲームを つづけられません。\nタイトルに もどります。」
+6121d8055685336f レポートを かきおわりました。\n{COLOR RED}「Aボタンを おしてください。」
+d78f9c75a904c6da フェリー
+a8cce6ca5e827ba8 ひみつきち
+01271f4481bfc41c アジト
+341920a47fe153e6 じかんを リセットしますか？\nA:けってい B:キャンセル
+31d624c881decc70 いまの ゲームない じかん
+78e44a789f961ae7 まえの ゲームない じかん
+0f4576cefaa4fb7b じかんを せっていしなおしてください。
+6f08527b385cb4f8 ノックアウト
+9c375c7f65e36def ミックス
+b22fe7b3bb983268 {STR_VAR_1}は たおれた…\p\n
+6debd82aec289d48 {STR_VAR_1}は どくを たえぬいた。\nどくが きえた！\p
+7f89da4a2fc58263 バトルタワー
+49b69a44b81695e2 バトルドーム
+d84cd6150e3755a4 バトルパレス
+df839698aa11aaf6 バトルファクトリー
+8817b0a53f7afccc バトルアリーナ
+a191d56c9c9593a8 バトルチューブ
+e139504609a15486 バトルピラミッド
+dfca8eceb9b2baf1 タマゴが かえって\n{STR_VAR_1}が うまれた！
+c7ef35ab173df475 うまれた {STR_VAR_1}に\nニックネームを つけますか？
+37ee42a6750c721b パウダー
+57279eb8a4f74bbb はい\nいいえ
+1a9df637bc44fd17 サファリボール\nのこり: {STR_VAR_1}
+0f59e1718e2fd8e9 {STR_VAR_1}/{STR_VAR_2}\nボール  {STR_VAR_3}
+55533e5ce7a745e0 バトルピラミッド\n{STR_VAR_1}
+ca6d0e32c73ab108 1かい
+f344008023b55e72 2かい
+98d7dcc556e608ef 3かい
+6cb27c2dd5bc8ab2 4かい
+68dece641fd1b1b9 5かい
+590beb8da559d69f 6かい
+46c0931f76c0b257 7かい
+196a188950ab7de9 ちょうじょう
+0772a071cfd47001 ジョカイム
+b8fb0a2fd94e3913 カントー
+ea69cf2caae443d5 {STR_VAR_2}は\n{STR_VAR_1}の もとへ おくられます。
+d9970503636beae7 バイバイ {STR_VAR_2}！
+26c14c7f1ee8a661 {STR_VAR_1}から {STR_VAR_3}が\nおくられてきた。
+4dcb570f095a2256 {STR_VAR_3}を かわいがってね！
+8f80ad632ba73b58 つうしんたいきちゅう…
+d9330dedb6b14e8a 2ひきの なかは\nとっても よいようじゃ。
+b4929e0b22023694 2ひきの なかは まずまずの ようじゃ。
+5ec3fa34dba47e54 2ひきは あまり なかが\nよくないようじゃ。
+556b423985a16869 2ひきは おたがいより ほかの\nポケモンと あそびたいようじゃ。
+5ced64cf182b994e {STR_VAR_1}に どの {STR_VAR_3}を\nおしえますか？
+ad0e5d4149378521 {STR_VAR_2}を おしえますか？
+7f6404babc5bdffd {STR_VAR_1}は\n{STR_VAR_2}を おぼえた！
+d25115c59e37e4bb {STR_VAR_1}は {STR_VAR_2}を\nおぼえたい…\pしかし {STR_VAR_1}は わざを 4つ\nおぼえるので せいいっぱいだ！\p{STR_VAR_2}の かわりに\nほかの わざを わすれさせますか？
+6798a0a055052efb {STR_VAR_2}を おぼえるのを\nあきらめますか？
+2355baf60c02bdd6 {PAUSE 32}1 {PAUSE 15}2の {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}ポカン！\p
+824a2dede743c71e {STR_VAR_1}は {STR_VAR_3}の\nつかいかたを きれいに わすれた！\pそして…\p{STR_VAR_1}は あたらしく\n{STR_VAR_2}を おぼえた！
+78f1e533328219e4 {STR_VAR_1}に あたらしい わざを\nおしえるのを あきらめますか？
+d3914e2c3d1a3596 どの わざを\nわすれさせますか？\p
+406e50614a2bfc1a データを けしています…\nしばらく おまちください。
+b4137a73af8324c7 この じかんで よろしいですか？
+7b60d7b12447664d がくしゅうそうちを オンにした。{PAUSE_UNTIL_PRESS}
+cfd72c44d8e44b31 がくしゅうそうちを オフにした。{PAUSE_UNTIL_PRESS}
+be1830e0484d3da3 ゆうれい
+921494ecef1125ff グレーバッジ
+0779cf4e1734f280 ブルーバッジ
+9e2ce8181386672f オレンジバッジ
+f126d83aa1b04026 レインボーバッジ
+033ccfdaae64d53b ピンクバッジ
+7533829d1ac2dec4 ゴールドバッジ
+562d6ae82254f0c3 クリムゾンバッジ
+710f39503edde14f グリーンバッジ
+ff768628b9ed70ba オーキド: じぶんの ポケモンの ことを\nよく しっておくのは だいじな ことじゃ。\p
+a5235df4e3a20edd これが {PLAYER}の ポケモンの\nいちらんじゃ。\pここを ひらけば ポケモンの\nのうりょくや わざを しらべられる。\pポケモンに どうぐを つかうときも\nここで えらぶのじゃ。{PAUSE_UNTIL_PRESS}
+68e7c25d31ef4df9 がんばりや
+23cd8ac068c2ba5e さみしがり
+2b630a2ed2fbf485 ゆうかん
+d79a0b05b7827ccd いじっぱり
+596c6867dbe15d35 やんちゃ
+cff3045ecfcfd58f ずぶとい
+caee085cda077a16 すなお
+bb5ffec19fb92091 のんき
+b504ab79c6fc81ea わんぱく
+e844041756d05384 のうてんき
+ec5f26785a4cf1a4 おくびょう
+ce91521ca5502b09 せっかち
+21e6866142aec039 まじめ
+6873ef2093673165 ようき
+33f61dd55041af53 むじゃき
+7246802945665b9f ひかえめ
+dd95a8c88bce1290 おっとり
+f34cd8f77faf2908 れいせい
+39f3682c49a3caac てれや
+8e2d28a44b9ea28a うっかりや
+9cdf6256ae1b5d7d おだやか
+2fb61449711dcbfe おとなしい
+cafe36551cfbd4eb なまいき
+5444b4a5517d6da1 しんちょう
+67d504aa796e466c きまぐれ

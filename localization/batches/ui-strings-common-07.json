@@ -1,0 +1,1826 @@
+[
+ {
+  "id": "93a9b3f95eea696d",
+  "translation": "{JPN}エメラルド{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6940f6f86c9247bd",
+  "translation": "{JPN}アクア{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "44f32065af7eadec",
+  "translation": "{JPN}マグマ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "aa7995356ff51382",
+  "translation": "{JPN}アオギリ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "84acbfbfaf24c161",
+  "translation": "{JPN}マツブサ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "8fd5658f1f98717a",
+  "translation": "{JPN}カイオーガ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "1148660c1a9279b8",
+  "translation": "{JPN}グラードン{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "36871032e10adb37",
+  "translation": "{JPN}ユウキ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b582a64dab8619d3",
+  "translation": "{JPN}ハルカ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "42eb01d93980ec34",
+  "translation": "{JPN}レッド{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "70477ef6d33296ef",
+  "translation": "{JPN}グリーン{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9611d9c1e4bbb8dd",
+  "translation": "{JPN}{A_BUTTON}つぎへ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ada5d450aeb543b7",
+  "translation": "{JPN}{A_BUTTON}つぎへ {B_BUTTON}もどる{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f4ffbde740b36166",
+  "translation": "{JPN}{DPAD_UPDOWN}えらぶ {A_BUTTON}つぎへ {B_BUTTON}キャンセル{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d88231e267b51ff5",
+  "translation": "{JPN}{DPAD_UPDOWN}えらぶ {A_BUTTON}{B_BUTTON}キャンセル{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "a3189247606c331f",
+  "translation": "{JPN}{A_BUTTON}おわる{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d465c43cbd98df3c",
+  "translation": "{JPN}これが 「ポケモン」と よばれる\\nいきものです。{PAUSE 96}\\p{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b80dfc41acae548f",
+  "translation": "{JPN}あか{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7236fb574978a659",
+  "translation": "{JPN}あお{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "2673da0f61e3bab2",
+  "translation": "{JPN}きいろ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "2c3e72b0f973b31a",
+  "translation": "{JPN}みどり{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "8021f6e8b6075469",
+  "translation": "{JPN}くろ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "2772840231cc3264",
+  "translation": "{JPN}ちゃいろ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "e8f1e5b80aefd2a8",
+  "translation": "{JPN}むらさき{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "0defed89c034f40a",
+  "translation": "{JPN}はいいろ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "3b659fea5c5f8ae6",
+  "translation": "{JPN}しろ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "bd87075da4f0d8cb",
+  "translation": "{JPN}ピンク{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "80983cea6af876da",
+  "translation": "{JPN}オダマキはかせが ピンチ！\\nポケモンを だして たすけよう！{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "fb10d83849c4acea",
+  "translation": "{JPN}この ポケモンに しますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "402bed7af8e1e103",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}まい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "595bca108f5f46cc",
+  "translation": "{JPN}パパの ことば…\\n{ENG}{PLAYER}{JPN} ものには つかいどきと\\lいうものが ある！{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "e744b8354be055ec",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}を つかった！{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ba464a655b2b29ac",
+  "translation": "{JPN}しかし まえに つかった\\nむしよけスプレーの こうかが のこっている。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "63b857edfa888924",
+  "translation": "{JPN}しかし まえに つかった\\nむしよせコロンの こうかが のこっている。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9de7528b6e4c085b",
+  "translation": "{JPN}ボックスが いっぱいです。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "382183f1c745dabf",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{DYNAMIC 0}{ENG}{DYNAMIC 4}{JPN}{DYNAMIC 1}で\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき であった。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "87e6e5e09c3ecb3f",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{DYNAMIC 0}{ENG}{DYNAMIC 4}{JPN}{DYNAMIC 1}で\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき うまれた。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "671bd80c050784fb",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\nこうかんで てにいれた。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "5f9344c2a6841789",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき\\nうんめいてきな であいを した。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ad6ec1f51e179212",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{DYNAMIC 0}{ENG}{DYNAMIC 4}{JPN}{DYNAMIC 1}で\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき であったようだ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "860d92a28f77c219",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9ff183600d24b4d9",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき どこかで\\nであった。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "201b8bb77f434340",
+  "translation": "{JPN}{DYNAMIC 0}{ENG}{DYNAMIC 2}{JPN}{DYNAMIC 1}{DYNAMIC 5}な せいかく。\\n{ENG}{LV_2}{DYNAMIC 0}{DYNAMIC 3}{JPN}{DYNAMIC 1}のとき どこかで\\nうまれた。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "cf743437144e8de4",
+  "translation": "{JPN}そだてやふうふが みつけた\\nふしぎな ポケモンの タマゴ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f49daee15d7797f9",
+  "translation": "{JPN}すてきな ばしょで もらった\\nめずらしい ポケモンの タマゴ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ae859f2d8084c6ed",
+  "translation": "{JPN}こうかんで てにいれた\\nめずらしい ポケモンの タマゴ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "e291730067c7c08f",
+  "translation": "{JPN}おんせんで もらった\\nポケモンの タマゴ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "1066eeee1c6608ad",
+  "translation": "{JPN}たびの ひとから もらった\\nふしぎな ポケモンの タマゴ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "aed1a41e7b2913cf",
+  "translation": "{JPN}の ひみつきち{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6029bb58e40b2a2e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を\\nとうろくから けしても いいですか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "995430f5edbfb9b3",
+  "translation": "{JPN}とうろくした データを けしました。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f40350c38ae2a3d1",
+  "translation": "{JPN}とうろくが ありません。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "65b6d510e49d979c",
+  "translation": "{JPN}とうろくを けす{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b392cdcfcbc0e10a",
+  "translation": "{JPN}えらんだ もようがえグッズを おきます。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "8ba669a2b9b41141",
+  "translation": "{JPN}えらんだ もようがえグッズを\\nパソコンに しまいます。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "63bca1b258962a83",
+  "translation": "{JPN}いらない もようがえグッズを すてます。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b0053662e61b17af",
+  "translation": "{JPN}もようがえグッズが ありません。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "974733192c3d179f",
+  "translation": "{JPN}これいじょう グッズを おけません。\\nおけるのは {ENG}{STR_VAR_1}{JPN}こまでです。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "cfd488037e78b73c",
+  "translation": "{JPN}これいじょう グッズを おけません。\\nおけるのは {ENG}{STR_VAR_1}{JPN}こまでです。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "378b9253635058ad",
+  "translation": "{JPN}この グッズは じぶんの へやには\\nおけません。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "bf33fb610f7e7d3c",
+  "translation": "{JPN}この グッズは つかわれています。\\nすてることは できません。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7565c059a61aaeca",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を すてます。\\nよろしいですか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7bbf2ccb4f61a121",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の メールを\\nどうしますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "c3b474ebc2ca5833",
+  "translation": "{JPN}メッセージを けして\\nメールを バッグに もどしました。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b95892a0421521db",
+  "translation": "{JPN}レベル50{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d91e8bd068bf6393",
+  "translation": "{JPN}オープンレベル{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "a4e5a2525b30c440",
+  "translation": "{JPN}みなみの ことう{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "672e4ca8f500027a",
+  "translation": "{JPN}たんじょうの しま{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "a1c6e92eec8e7d23",
+  "translation": "{JPN}さいはての ことう{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "94318d5c460e14bd",
+  "translation": "{JPN}へそのいわ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "3aa035e4acf9bddd",
+  "translation": "{JPN}ノーマル タッグマッチ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "5659b832098b5abf",
+  "translation": "{JPN}バラエティ タッグマッチ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "161a163121b9c200",
+  "translation": "{JPN}ユニーク タッグマッチ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "c32d5a3186ae18d4",
+  "translation": "{JPN}エキスパート タッグマッチ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "10254c8ccb540cb7",
+  "translation": "{JPN}こうかんセンター{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ba80e65c5a6277c3",
+  "translation": "{JPN}クラークソン けんきゅうじょ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "250c3e9f734bf121",
+  "translation": "{JPN}コロシアム{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "331f1bf7d136a03b",
+  "translation": "{JPN}レコードコーナー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "749de068cfa16d7a",
+  "translation": "{JPN}きのみマッシャー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "c2c2f463dae1d0af",
+  "translation": "{JPN}バトルの ルール{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "3e01b7a9fa5e995a",
+  "translation": "{JPN}しんさ:こころ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f6397643fb9d233e",
+  "translation": "{JPN}しんさ:わざ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d804007d381efa0a",
+  "translation": "{JPN}しんさ:からだ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "129f040c1363a93a",
+  "translation": "{JPN}きほんルール{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "2ca5f84b37576d94",
+  "translation": "{JPN}こうかん:あいて{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "c1af5b38eb2f1c25",
+  "translation": "{JPN}こうかん:かず{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "8774b251db7e9947",
+  "translation": "{JPN}こうかん:ちゅうい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "792d0140548ce86b",
+  "translation": "{JPN}バトルの きほん{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9ef99194335184cf",
+  "translation": "{JPN}ポケモンの せいかく{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f28bdd85c3a25d7e",
+  "translation": "{JPN}ポケモンの わざ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "aca022ade218bce7",
+  "translation": "{JPN}ちからが たりない{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "5fc0fdb199123618",
+  "translation": "{JPN}ピンチの とき{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "57a2b24f7ed6c704",
+  "translation": "{JPN}たたかう ポケモン{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b346fc5526385a8a",
+  "translation": "{JPN}たたかう トレーナー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "4211565228cb5071",
+  "translation": "{JPN}おくじょう{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d205766313282240",
+  "translation": "{JPN}げんざい:{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f774fdd97412e62a",
+  "translation": "{JPN}ランキングホール{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d3ddd1de029fb92b",
+  "translation": "{JPN}こうかんサービス{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "1f884866ab2ee072",
+  "translation": "{JPN}ミナモシティ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9d1f71227fdc55f1",
+  "translation": "{JPN}カイナシティ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9f7e0443067e2ba6",
+  "translation": "{JPN}てもちが いっぱいです！{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d0997f3b6ff572bd",
+  "translation": "{JPN}ポケモンリーグ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "15a136b4724d7c89",
+  "translation": "{JPN}ポケモンセンター{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "0cf1adfa8e7b78bf",
+  "translation": "{JPN}かっこよさ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "47713214cb1c3f65",
+  "translation": "{JPN}うつくしさ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7e34e14dab47f065",
+  "translation": "{JPN}かわいさ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6624bbb5feb04619",
+  "translation": "{JPN}かしこさ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "1024c795229a16d7",
+  "translation": "{JPN}たくましさ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "3e6b9895bb09ac10",
+  "translation": "{JPN}が あがった！{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "bfb71077dbed0550",
+  "translation": "{JPN}レポートが かけませんでした。\\nバックアップを かくにんちゅう…\\n{COLOR RED}「やく 1ぷん かかります」{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "209866eec7165c66",
+  "translation": "{JPN}{COLOR RED}「ゲームを つづけられません。\\nタイトルに もどります…」{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b0db5cf94ad8532e",
+  "translation": "{JPN}レポートを かきおわりました。\\n{COLOR RED}「ゲームを つづけられません。\\nタイトルに もどります。」{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6121d8055685336f",
+  "translation": "{JPN}レポートを かきおわりました。\\n{COLOR RED}「{ENG}A{JPN}ボタンを おしてください。」{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d78f9c75a904c6da",
+  "translation": "{JPN}フェリー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "a8cce6ca5e827ba8",
+  "translation": "{JPN}ひみつきち{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "01271f4481bfc41c",
+  "translation": "{JPN}アジト{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "341920a47fe153e6",
+  "translation": "{JPN}じかんを リセットしますか？\\n{ENG}A{JPN}:けってい {ENG}B{JPN}:キャンセル{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "31d624c881decc70",
+  "translation": "{JPN}いまの ゲームない じかん{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "78e44a789f961ae7",
+  "translation": "{JPN}まえの ゲームない じかん{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "0f4576cefaa4fb7b",
+  "translation": "{JPN}じかんを せっていしなおしてください。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6f08527b385cb4f8",
+  "translation": "{JPN}ノックアウト{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9c375c7f65e36def",
+  "translation": "{JPN}ミックス{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b22fe7b3bb983268",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は たおれた…\\p\\n{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6debd82aec289d48",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は どくを たえぬいた。\\nどくが きえた！\\p{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7f89da4a2fc58263",
+  "translation": "{JPN}バトルタワー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "49b69a44b81695e2",
+  "translation": "{JPN}バトルドーム{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d84cd6150e3755a4",
+  "translation": "{JPN}バトルパレス{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "df839698aa11aaf6",
+  "translation": "{JPN}バトルファクトリー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "8817b0a53f7afccc",
+  "translation": "{JPN}バトルアリーナ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "a191d56c9c9593a8",
+  "translation": "{JPN}バトルチューブ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "e139504609a15486",
+  "translation": "{JPN}バトルピラミッド{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "dfca8eceb9b2baf1",
+  "translation": "{JPN}タマゴが かえって\\n{ENG}{STR_VAR_1}{JPN}が うまれた！{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "c7ef35ab173df475",
+  "translation": "{JPN}うまれた {ENG}{STR_VAR_1}{JPN}に\\nニックネームを つけますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "37ee42a6750c721b",
+  "translation": "{JPN}パウダー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "57279eb8a4f74bbb",
+  "translation": "{JPN}はい\\nいいえ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "1a9df637bc44fd17",
+  "translation": "{JPN}サファリボール\\nのこり: {ENG}{STR_VAR_1}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "0f59e1718e2fd8e9",
+  "translation": "{JPN}{ENG}{STR_VAR_1}/{STR_VAR_2}\\n{JPN}ボール  {ENG}{STR_VAR_3}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "55533e5ce7a745e0",
+  "translation": "{JPN}バトルピラミッド\\n{ENG}{STR_VAR_1}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ca6d0e32c73ab108",
+  "translation": "{JPN}1かい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f344008023b55e72",
+  "translation": "{JPN}2かい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "98d7dcc556e608ef",
+  "translation": "{JPN}3かい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6cb27c2dd5bc8ab2",
+  "translation": "{JPN}4かい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "68dece641fd1b1b9",
+  "translation": "{JPN}5かい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "590beb8da559d69f",
+  "translation": "{JPN}6かい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "46c0931f76c0b257",
+  "translation": "{JPN}7かい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "196a188950ab7de9",
+  "translation": "{JPN}ちょうじょう{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "0772a071cfd47001",
+  "translation": "{JPN}ジョカイム{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b8fb0a2fd94e3913",
+  "translation": "{JPN}カントー{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ea69cf2caae443d5",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}は\\n{ENG}{STR_VAR_1}{JPN}の もとへ おくられます。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d9970503636beae7",
+  "translation": "{JPN}バイバイ {ENG}{STR_VAR_2}{JPN}！{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "26c14c7f1ee8a661",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}から {ENG}{STR_VAR_3}{JPN}が\\nおくられてきた。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "4dcb570f095a2256",
+  "translation": "{JPN}{ENG}{STR_VAR_3}{JPN}を かわいがってね！{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "8f80ad632ba73b58",
+  "translation": "{JPN}つうしんたいきちゅう…{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d9330dedb6b14e8a",
+  "translation": "{JPN}2ひきの なかは\\nとっても よいようじゃ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b4929e0b22023694",
+  "translation": "{JPN}2ひきの なかは まずまずの ようじゃ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "5ec3fa34dba47e54",
+  "translation": "{JPN}2ひきは あまり なかが\\nよくないようじゃ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "556b423985a16869",
+  "translation": "{JPN}2ひきは おたがいより ほかの\\nポケモンと あそびたいようじゃ。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "5ced64cf182b994e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に どの {ENG}{STR_VAR_3}{JPN}を\\nおしえますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ad0e5d4149378521",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}を おしえますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7f6404babc5bdffd",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}を おぼえた！{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d25115c59e37e4bb",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は {ENG}{STR_VAR_2}{JPN}を\\nおぼえたい…\\pしかし {ENG}{STR_VAR_1}{JPN}は わざを 4つ\\nおぼえるので せいいっぱいだ！\\p{ENG}{STR_VAR_2}{JPN}の かわりに\\nほかの わざを わすれさせますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6798a0a055052efb",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}を おぼえるのを\\nあきらめますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "2355baf60c02bdd6",
+  "translation": "{JPN}{PAUSE 32}1 {PAUSE 15}2の {PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}ポカン！\\p{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "824a2dede743c71e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は {ENG}{STR_VAR_3}{JPN}の\\nつかいかたを きれいに わすれた！\\pそして…\\p{ENG}{STR_VAR_1}{JPN}は あたらしく\\n{ENG}{STR_VAR_2}{JPN}を おぼえた！{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "78f1e533328219e4",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に あたらしい わざを\\nおしえるのを あきらめますか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d3914e2c3d1a3596",
+  "translation": "{JPN}どの わざを\\nわすれさせますか？\\p{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "406e50614a2bfc1a",
+  "translation": "{JPN}データを けしています…\\nしばらく おまちください。{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b4137a73af8324c7",
+  "translation": "{JPN}この じかんで よろしいですか？{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7b60d7b12447664d",
+  "translation": "{JPN}がくしゅうそうちを オンにした。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "cfd72c44d8e44b31",
+  "translation": "{JPN}がくしゅうそうちを オフにした。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "be1830e0484d3da3",
+  "translation": "{JPN}ゆうれい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "921494ecef1125ff",
+  "translation": "{JPN}グレーバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "0779cf4e1734f280",
+  "translation": "{JPN}ブルーバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9e2ce8181386672f",
+  "translation": "{JPN}オレンジバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f126d83aa1b04026",
+  "translation": "{JPN}レインボーバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "033ccfdaae64d53b",
+  "translation": "{JPN}ピンクバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7533829d1ac2dec4",
+  "translation": "{JPN}ゴールドバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "562d6ae82254f0c3",
+  "translation": "{JPN}クリムゾンバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "710f39503edde14f",
+  "translation": "{JPN}グリーンバッジ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ff768628b9ed70ba",
+  "translation": "{JPN}オーキド: じぶんの ポケモンの ことを\\nよく しっておくのは だいじな ことじゃ。\\p{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "a5235df4e3a20edd",
+  "translation": "{JPN}これが {ENG}{PLAYER}{JPN}の ポケモンの\\nいちらんじゃ。\\pここを ひらけば ポケモンの\\nのうりょくや わざを しらべられる。\\pポケモンに どうぐを つかうときも\\nここで えらぶのじゃ。{PAUSE_UNTIL_PRESS}{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "68e7c25d31ef4df9",
+  "translation": "{JPN}がんばりや{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "23cd8ac068c2ba5e",
+  "translation": "{JPN}さみしがり{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "2b630a2ed2fbf485",
+  "translation": "{JPN}ゆうかん{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "d79a0b05b7827ccd",
+  "translation": "{JPN}いじっぱり{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "596c6867dbe15d35",
+  "translation": "{JPN}やんちゃ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "cff3045ecfcfd58f",
+  "translation": "{JPN}ずぶとい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "caee085cda077a16",
+  "translation": "{JPN}すなお{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "bb5ffec19fb92091",
+  "translation": "{JPN}のんき{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "b504ab79c6fc81ea",
+  "translation": "{JPN}わんぱく{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "e844041756d05384",
+  "translation": "{JPN}のうてんき{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ec5f26785a4cf1a4",
+  "translation": "{JPN}おくびょう{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "ce91521ca5502b09",
+  "translation": "{JPN}せっかち{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "21e6866142aec039",
+  "translation": "{JPN}まじめ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6873ef2093673165",
+  "translation": "{JPN}ようき{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "33f61dd55041af53",
+  "translation": "{JPN}むじゃき{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "7246802945665b9f",
+  "translation": "{JPN}ひかえめ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "dd95a8c88bce1290",
+  "translation": "{JPN}おっとり{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "f34cd8f77faf2908",
+  "translation": "{JPN}れいせい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "39f3682c49a3caac",
+  "translation": "{JPN}てれや{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "8e2d28a44b9ea28a",
+  "translation": "{JPN}うっかりや{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "9cdf6256ae1b5d7d",
+  "translation": "{JPN}おだやか{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "2fb61449711dcbfe",
+  "translation": "{JPN}おとなしい{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "cafe36551cfbd4eb",
+  "translation": "{JPN}なまいき{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "5444b4a5517d6da1",
+  "translation": "{JPN}しんちょう{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "67d504aa796e466c",
+  "translation": "{JPN}きまぐれ{ENG}",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
+  }
+ },
+ {
+  "id": "6171d9c81f79976d",
+  "translation": "No. ",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "2507801e62f5207d",
+  "translation": "Lv. ",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "9f81369223f129a8",
+  "translation": "IDNo.",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "cfb7f37c3a84b479",
+  "translation": "HP",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "7fb64850aaf21294",
+  "translation": "HP",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "3712d92a795bdb9f",
+  "translation": "BP",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "9e42aa1a9da7a26f",
+  "translation": "DAY",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "ea7f546398a9370a",
+  "translation": "1F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "3223c32daadf0c0a",
+  "translation": "2F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "dca4073964184e47",
+  "translation": "3F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "f83f19999b40cfda",
+  "translation": "4F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "9f6ace1a2a057366",
+  "translation": "5F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "0dd77461da982836",
+  "translation": "6F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "b260a9a9065f4dde",
+  "translation": "7F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "b697f5edb6fbe337",
+  "translation": "8F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "4ddad43712bcb743",
+  "translation": "9F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "f877f9adcbe8c10e",
+  "translation": "10F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "0c9c4ceecfa7b5db",
+  "translation": "11F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "6caddc17931c9748",
+  "translation": "B1F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "6a32c959ba555fb7",
+  "translation": "B2F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "097548365089af18",
+  "translation": "B3F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "19c23712a9f96c52",
+  "translation": "B4F",
+  "provenance": {
+   "batch": "ui-strings-common-07",
+   "method": "Latin label kept (No./Lv./ID/floor/BP/HP/DAY); renders identically in Japanese UI"
+  }
+ }
+]

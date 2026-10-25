@@ -22,7 +22,7 @@
 - origin: `https://github.com/Etoile-T/Wishes-of-Tomorrow-JP.git`、作業ブランチmain。
 - upstream: `https://github.com/jmaloney95/Wishes-Game.git`、ゲーム本体のmaster。
 - 英語ソース: `efb1c880d0b486c1948763051b6c1bb8990a7353`。最初のソース取込コミットは`23be896714`。英語原文を読むときは`git show 23be896714:PATH`。
-- 最新の翻訳実装: `a47854cfd201f2e654966a6b5fba507beb1af407`（トレーナーの肩書き・名前、マップ名）。その前は`72fb736ed7`（戦闘メッセージ、自動改行、道具の複数形）。この文書・最新のstatus/manifest/Excelはその後のコミットに保存されるので、開始時に`git log -5 --oneline`と`git status --short`を確認する。
+- 最新の翻訳実装: `d3d32afd2c798e96553925b28104d635ff87e400`（Route 2〜シントウキョウの会話、オリジナルポケモン）。その前は`a47854cfd2`（トレーナー名・マップ名）。その前は`72fb736ed7`（戦闘メッセージ、自動改行、道具の複数形）。この文書・最新のstatus/manifest/Excelはその後のコミットに保存されるので、開始時に`git log -5 --oneline`と`git status --short`を確認する。
 - 参考フォーク: `/Users/owner/Desktop/Wish/reference-jp`、`b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef`。無条件にファイルを上書きしない。
 - ゲームREADMEはExpansion 1.15.3をベースと記載。独自のquests、field name box、NPC portraits、Shadow、DLC等がある。
 
@@ -38,7 +38,7 @@
 
 ## 現在の進捗
 
-カタログは**61,722候補、翻訳適用8,296件、pending53,426件（カタログ外: トレーナー名・マップ名）**。会話数・有効な画面数・完成率ではない。未使用、重複、制御のみ等も含む。
+カタログは**61,722候補、翻訳適用8,912件、pending52,810件（カタログ外: トレーナー名・マップ名）**。会話数・有効な画面数・完成率ではない。未使用、重複、制御のみ等も含む。
 
 主な適用済み:
 
@@ -59,7 +59,7 @@
 
 ## 次に進める作業
 
-0. **会話を優先中。** 独自マップを地理順に: （NewMap〜WALNUT_WOODS・Sennen看板は完了）→ Route_2（LifeguardShack/YachtInterior）→ ShinkansenInterior → ShinTokyo（Station/Jail）→ HotelZ → Tower系 → Ashlands系 → RebelHideout → Act2系 → CelebiIsland/DistortionWorld等。独自マップ未訳は約2,300行。ムネンから到達判定するとホウエン全域まで広がる（Route_2→ロープウェイ駅等）ため、元のホウエンの台詞は後回し。研究所等の流用マップは独自メッセージだけ先に訳す。
+0. **会話を優先中。** 独自マップを地理順に: （シントウキョウ・こうちしょまで完了）→ HotelZ → Tower系 → Ashlands系 → RebelHideout → Act2系 → CelebiIsland/DistortionWorld等。独自マップ未訳は約2,300行。ムネンから到達判定するとホウエン全域まで広がる（Route_2→ロープウェイ駅等）ため、元のホウエンの台詞は後回し。研究所等の流用マップは独自メッセージだけ先に訳す。
 
 1. `src/strings.c`の残り（約500件）。参照元別に、easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31、berry_crush 25、union_room_chat 20、trainer_card 18等。外部参照のない約80件は未使用の可能性が高く後回し。script_menu.hは完了。
 2. 図鑑UIの未訳・動的な文の連結・狭い能力/タマゴグループ欄を調整。英語の語順を単語単位置換して完成扱いしない。
@@ -83,6 +83,7 @@ python3 tools/localization/update_catalog.py localization/batches/NAME.json --ap
 - 各行の`\p`・`\l`・`$`と変数の位置は原文の行どおりにする。`\n`だけは位置と数を変えられるが、2行の枠を超えないこと。`\l`は足せないので、長い文は短くする。
 - 標準の会話枠は27タイル＝日本語27マス。変数を長めに見積もって26マス以内を目安にする。
 - 話者は既訳に合わせて「名前: 本文」。電話の『』は使わない。JPN区間の引用符は「」。
+- JPNモードでは英字（RedFatality等）も日本語フォントの8px幅になる。幅の見積もりは1文字1マスで数える。
 - プレイヤーの性別を決めつけない（"kid"を「ぼうず」にしない）。性別の分からないNPCに「ぼく」「〜ぜ」を付けない。原文が"he/she"で示す人物は従う（リョウコ＝男性の弟子、よげんしゃ＝女性）。
 - 固有名詞は`glossary.json`を先に確認し、新しいものは暫定（provisional）で追加する。地図の地名（`src/data/region_map/region_map_sections.json`）はカタログの対象外で未訳。
 
@@ -139,7 +140,7 @@ python3 tools/localization/export_table.py
 - 台詞はscript、UI案内はmanual。自然な句点・キャラの口調・繰返し・比喩を検出候補を消すために削らない。
 - 英語資料、日本語下書き、最終稿を`localization/reviews/`へ保存。CLIのlint→run→verifyを使い、候補の採用/維持理由と正確な実行行をreview.mdへ記録する。
 - 状態ディレクトリは`../artifacts/yomiyasu-state`。Gitへキャッシュ全文は加えない。CLIの記録時刻はUTCで、ユーザー向け日付はJST。
-- 直近レビュー: `localization/reviews/trainer-and-map-names-20.review.md`（名前）、`battle-messages-16-19.review.md`（戦闘）、`dialogue-story-13-15.review.md`、`dialogue-story-09-12.review.md`（会話）、`dialogue-common-08.review.md`。会話はyomiyasuの`--doc-type script`。
+- 直近レビュー: `localization/reviews/dialogue-story-21-25.review.md`（会話）、`trainer-and-map-names-20.review.md`（名前）、`battle-messages-16-19.review.md`（戦闘）、`dialogue-story-13-15.review.md`、`dialogue-story-09-12.review.md`（会話）、`dialogue-common-08.review.md`。会話はyomiyasuの`--doc-type script`。
 
 ## ビルドと検証
 
@@ -151,7 +152,7 @@ make -j8 FILE_NAME=pokeemerald-jp-NEXT_ID TOOLCHAIN=/opt/devkitpro/devkitARM
 python3 tools/localization/export_play_rom.py pokeemerald-jp-NEXT_ID.gba ../artifacts/play
 ```
 
-- 最新ビルド: `pokeemerald-jp-names.gba`（8296）。ROM使用29,885,640B、EWRAM230,024B、IWRAM28,600B。物理ROM32MiB。
+- 最新ビルド: `pokeemerald-jp-dlg8920.gba`（8912件）。ROM使用29,880,552B、EWRAM230,024B、IWRAM28,600B。物理ROM32MiB。
 - 自動テスト40件成功。文字コード/制御、差分再挿入、BPS、UI固定バッファ、code_offset、版固定出力、誤パッチ拒否等。ゲーム全イベントの回帰テストではない。
 - 直近のソース2ファイルは非文字列トークンが変更前と一致。
 - リンカRWX警告は英語基準版にもある。成功と警告を両方記録。
@@ -163,12 +164,12 @@ python3 tools/localization/export_play_rom.py pokeemerald-jp-NEXT_ID.gba ../arti
 親ディレクトリ`/Users/owner/Desktop/Wish/artifacts`はGit管理外。**ROMをGitHubへpushしない。**
 
 - 最新情報: `../artifacts/LATEST-JP.json`
-- 最新プレイROM: `../artifacts/play/wishes-jp-3357f387c064fc97.gba`
-- **ユーザー向け出力**: `../outputs/gba/wishes-jp-8296-2bdc1d9a.gba`（同内容のコピー、読み取り専用）。ユーザーは同フォルダで版ごとの`.sav`を使っている（7326・8170版のsavあり）。セーブを勝手にコピー・移動しない。ユーザーの希望で、作業後のGBAは`outputs/gba/`へ版名付きで追加し、README.txtの「最新」を更新する。既存ファイルは上書きしない。
-- SHA256: `3357f387c064fc9732caab914c9782e99cdf153868213420fe83563f3f26379d`、CRC32 `2bdc1d9a`。
-- 最新BPSフォルダ: `../artifacts/patches/ui-8296-2bdc1d9a/`。`manifest.json`に全ハッシュ。
-- 配布用（ROMなし）: `../artifacts/wishes-jp-ui8296-2bdc1d9a-patch.zip`。
-- 追跡用manifest: `localization/patch-manifest-ui8296.json`。
+- 最新プレイROM: `../artifacts/play/wishes-jp-ab98d02dea21ead5.gba`
+- **ユーザー向け出力**: `../outputs/gba/wishes-jp-8912-b969a6d6.gba`（同内容のコピー、読み取り専用）。ユーザーは同フォルダで版ごとの`.sav`を使っている（7326・8170版のsavあり）。セーブを勝手にコピー・移動しない。ユーザーの希望で、作業後のGBAは`outputs/gba/`へ版名付きで追加し、README.txtの「最新」を更新する。既存ファイルは上書きしない。
+- SHA256: `ab98d02dea21ead5c4bd740b2434801d8dffb4e3b78b8f8d8a12e0758253cc6d`、CRC32 `b969a6d6`。
+- 最新BPSフォルダ: `../artifacts/patches/ui-8912-b969a6d6/`。`manifest.json`に全ハッシュ。
+- 配布用（ROMなし）: `../artifacts/wishes-jp-ui8912-b969a6d6-patch.zip`。
+- 追跡用manifest: `localization/patch-manifest-ui8912.json`。
 - UI6005以降はPython版`apply_verified_patch.py`で復元ROMとビルドROMの全バイト一致を確認。RomPatcher.jsでの独立検証はUI5777まで。
 - BPSの`patch_crc32`が毎回`2144df1c`なのは、末尾に自身のCRCを含むファイル全体のCRC32が定数になるため。異常ではない。
 - 英語基準ROM: `../artifacts/wishes-en-baseline.gba`、SHA256 `93fb28460bb7348e327c97e217ecd50091fc01200e8d9cc41b871469c36c9db7`、CRC32 `62ba561e`。

@@ -1,0 +1,2560 @@
+ABILITY_STENCH.name[0]	Stench
+ABILITY_DRIZZLE.name[0]	Drizzle
+ABILITY_SPEED_BOOST.name[0]	Speed Boost
+ABILITY_BATTLE_ARMOR.name[0]	Battle Armor
+ABILITY_STURDY.name[0]	Sturdy
+ABILITY_DAMP.name[0]	Damp
+ABILITY_LIMBER.name[0]	Limber
+ABILITY_SAND_VEIL.name[0]	Sand Veil
+ABILITY_STATIC.name[0]	Static
+ABILITY_VOLT_ABSORB.name[0]	Volt Absorb
+ABILITY_WATER_ABSORB.name[0]	Water Absorb
+ABILITY_OBLIVIOUS.name[0]	Oblivious
+ABILITY_CLOUD_NINE.name[0]	Cloud Nine
+ABILITY_COMPOUND_EYES.name[0]	Compound Eyes
+ABILITY_INSOMNIA.name[0]	Insomnia
+ABILITY_COLOR_CHANGE.name[0]	Color Change
+ABILITY_IMMUNITY.name[0]	Immunity
+ABILITY_FLASH_FIRE.name[0]	Flash Fire
+ABILITY_SHIELD_DUST.name[0]	Shield Dust
+ABILITY_OWN_TEMPO.name[0]	Own Tempo
+ABILITY_SUCTION_CUPS.name[0]	Suction Cups
+ABILITY_INTIMIDATE.name[0]	Intimidate
+ABILITY_SHADOW_TAG.name[0]	Shadow Tag
+ABILITY_ROUGH_SKIN.name[0]	Rough Skin
+ABILITY_WONDER_GUARD.name[0]	Wonder Guard
+ABILITY_LEVITATE.name[0]	Levitate
+ABILITY_EFFECT_SPORE.name[0]	Effect Spore
+ABILITY_SYNCHRONIZE.name[0]	Synchronize
+ABILITY_CLEAR_BODY.name[0]	Clear Body
+ABILITY_NATURAL_CURE.name[0]	Natural Cure
+ABILITY_LIGHTNING_ROD.name[0]	Lightning Rod
+ABILITY_SERENE_GRACE.name[0]	Serene Grace
+ABILITY_SWIFT_SWIM.name[0]	Swift Swim
+ABILITY_CHLOROPHYLL.name[0]	Chlorophyll
+ABILITY_ILLUMINATE.name[0]	Illuminate
+ABILITY_TRACE.name[0]	Trace
+ABILITY_HUGE_POWER.name[0]	Huge Power
+ABILITY_POISON_POINT.name[0]	Poison Point
+ABILITY_INNER_FOCUS.name[0]	Inner Focus
+ABILITY_MAGMA_ARMOR.name[0]	Magma Armor
+ABILITY_WATER_VEIL.name[0]	Water Veil
+ABILITY_MAGNET_PULL.name[0]	Magnet Pull
+ABILITY_SOUNDPROOF.name[0]	Soundproof
+ABILITY_RAIN_DISH.name[0]	Rain Dish
+ABILITY_SAND_STREAM.name[0]	Sand Stream
+ABILITY_PRESSURE.name[0]	Pressure
+ABILITY_THICK_FAT.name[0]	Thick Fat
+ABILITY_EARLY_BIRD.name[0]	Early Bird
+ABILITY_FLAME_BODY.name[0]	Flame Body
+ABILITY_RUN_AWAY.name[0]	Run Away
+ABILITY_KEEN_EYE.name[0]	Keen Eye
+ABILITY_HYPER_CUTTER.name[0]	Hyper Cutter
+ABILITY_PICKUP.name[0]	Pickup
+ABILITY_TRUANT.name[0]	Truant
+ABILITY_HUSTLE.name[0]	Hustle
+ABILITY_CUTE_CHARM.name[0]	Cute Charm
+ABILITY_PLUS.name[0]	Plus
+ABILITY_MINUS.name[0]	Minus
+ABILITY_FORECAST.name[0]	Forecast
+ABILITY_STICKY_HOLD.name[0]	Sticky Hold
+ABILITY_SHED_SKIN.name[0]	Shed Skin
+ABILITY_GUTS.name[0]	Guts
+ABILITY_MARVEL_SCALE.name[0]	Marvel Scale
+ABILITY_LIQUID_OOZE.name[0]	Liquid Ooze
+ABILITY_OVERGROW.name[0]	Overgrow
+ABILITY_BLAZE.name[0]	Blaze
+ABILITY_TORRENT.name[0]	Torrent
+ABILITY_SWARM.name[0]	Swarm
+ABILITY_ROCK_HEAD.name[0]	Rock Head
+ABILITY_DROUGHT.name[0]	Drought
+ABILITY_ARENA_TRAP.name[0]	Arena Trap
+ABILITY_VITAL_SPIRIT.name[0]	Vital Spirit
+ABILITY_WHITE_SMOKE.name[0]	White Smoke
+ABILITY_PURE_POWER.name[0]	Pure Power
+ABILITY_SHELL_ARMOR.name[0]	Shell Armor
+ABILITY_AIR_LOCK.name[0]	Air Lock
+ABILITY_TANGLED_FEET.name[0]	Tangled Feet
+ABILITY_MOTOR_DRIVE.name[0]	Motor Drive
+ABILITY_RIVALRY.name[0]	Rivalry
+ABILITY_STEADFAST.name[0]	Steadfast
+ABILITY_SNOW_CLOAK.name[0]	Snow Cloak
+ABILITY_GLUTTONY.name[0]	Gluttony
+ABILITY_ANGER_POINT.name[0]	Anger Point
+ABILITY_UNBURDEN.name[0]	Unburden
+ABILITY_HEATPROOF.name[0]	Heatproof
+ABILITY_SIMPLE.name[0]	Simple
+ABILITY_DRY_SKIN.name[0]	Dry Skin
+ABILITY_DOWNLOAD.name[0]	Download
+ABILITY_IRON_FIST.name[0]	Iron Fist
+ABILITY_POISON_HEAL.name[0]	Poison Heal
+ABILITY_ADAPTABILITY.name[0]	Adaptability
+ABILITY_SKILL_LINK.name[0]	Skill Link
+ABILITY_HYDRATION.name[0]	Hydration
+ABILITY_SOLAR_POWER.name[0]	Solar Power
+ABILITY_QUICK_FEET.name[0]	Quick Feet
+ABILITY_NORMALIZE.name[0]	Normalize
+ABILITY_SNIPER.name[0]	Sniper
+ABILITY_MAGIC_GUARD.name[0]	Magic Guard
+ABILITY_NO_GUARD.name[0]	No Guard
+ABILITY_STALL.name[0]	Stall
+ABILITY_TECHNICIAN.name[0]	Technician
+ABILITY_LEAF_GUARD.name[0]	Leaf Guard
+ABILITY_KLUTZ.name[0]	Klutz
+ABILITY_MOLD_BREAKER.name[0]	Mold Breaker
+ABILITY_SUPER_LUCK.name[0]	Super Luck
+ABILITY_AFTERMATH.name[0]	Aftermath
+ABILITY_ANTICIPATION.name[0]	Anticipation
+ABILITY_FOREWARN.name[0]	Forewarn
+ABILITY_UNAWARE.name[0]	Unaware
+ABILITY_TINTED_LENS.name[0]	Tinted Lens
+ABILITY_FILTER.name[0]	Filter
+ABILITY_SLOW_START.name[0]	Slow Start
+ABILITY_SCRAPPY.name[0]	Scrappy
+ABILITY_STORM_DRAIN.name[0]	Storm Drain
+ABILITY_ICE_BODY.name[0]	Ice Body
+ABILITY_SOLID_ROCK.name[0]	Solid Rock
+ABILITY_SNOW_WARNING.name[0]	Snow Warning
+ABILITY_HONEY_GATHER.name[0]	Honey Gather
+ABILITY_FRISK.name[0]	Frisk
+ABILITY_RECKLESS.name[0]	Reckless
+ABILITY_MULTITYPE.name[0]	Multitype
+ABILITY_FLOWER_GIFT.name[0]	Flower Gift
+ABILITY_BAD_DREAMS.name[0]	Bad Dreams
+ABILITY_PICKPOCKET.name[0]	Pickpocket
+ABILITY_SHEER_FORCE.name[0]	Sheer Force
+ABILITY_CONTRARY.name[0]	Contrary
+ABILITY_UNNERVE.name[0]	Unnerve
+ABILITY_DEFIANT.name[0]	Defiant
+ABILITY_DEFEATIST.name[0]	Defeatist
+ABILITY_CURSED_BODY.name[0]	Cursed Body
+ABILITY_HEALER.name[0]	Healer
+ABILITY_FRIEND_GUARD.name[0]	Friend Guard
+ABILITY_WEAK_ARMOR.name[0]	Weak Armor
+ABILITY_LIGHT_METAL.name[0]	Light Metal
+ABILITY_MULTISCALE.name[0]	Multiscale
+ABILITY_TOXIC_BOOST.name[0]	Toxic Boost
+ABILITY_FLARE_BOOST.name[0]	Flare Boost
+ABILITY_HARVEST.name[0]	Harvest
+ABILITY_TELEPATHY.name[0]	Telepathy
+ABILITY_MOODY.name[0]	Moody
+ABILITY_OVERCOAT.name[0]	Overcoat
+ABILITY_POISON_TOUCH.name[0]	Poison Touch
+ABILITY_REGENERATOR.name[0]	Regenerator
+ABILITY_BIG_PECKS.name[0]	Big Pecks
+ABILITY_SAND_RUSH.name[0]	Sand Rush
+ABILITY_WONDER_SKIN.name[0]	Wonder Skin
+ABILITY_ANALYTIC.name[0]	Analytic
+ABILITY_ILLUSION.name[0]	Illusion
+ABILITY_IMPOSTER.name[0]	Imposter
+ABILITY_INFILTRATOR.name[0]	Infiltrator
+ABILITY_MUMMY.name[0]	Mummy
+ABILITY_MOXIE.name[0]	Moxie
+ABILITY_JUSTIFIED.name[0]	Justified
+ABILITY_RATTLED.name[0]	Rattled
+ABILITY_MAGIC_BOUNCE.name[0]	Magic Bounce
+ABILITY_SAP_SIPPER.name[0]	Sap Sipper
+ABILITY_PRANKSTER.name[0]	Prankster
+ABILITY_SAND_FORCE.name[0]	Sand Force
+ABILITY_IRON_BARBS.name[0]	Iron Barbs
+ABILITY_ZEN_MODE.name[0]	Zen Mode
+ABILITY_VICTORY_STAR.name[0]	Victory Star
+ABILITY_TURBOBLAZE.name[0]	Turboblaze
+ABILITY_TERAVOLT.name[0]	Teravolt
+ABILITY_AROMA_VEIL.name[0]	Aroma Veil
+ABILITY_FLOWER_VEIL.name[0]	Flower Veil
+ABILITY_CHEEK_POUCH.name[0]	Cheek Pouch
+ABILITY_PROTEAN.name[0]	Protean
+ABILITY_FUR_COAT.name[0]	Fur Coat
+ABILITY_MAGICIAN.name[0]	Magician
+ABILITY_BULLETPROOF.name[0]	Bulletproof
+ABILITY_COMPETITIVE.name[0]	Competitive
+ABILITY_STRONG_JAW.name[0]	Strong Jaw
+ABILITY_REFRIGERATE.name[0]	Refrigerate
+ABILITY_SWEET_VEIL.name[0]	Sweet Veil
+ABILITY_STANCE_CHANGE.name[0]	Stance Change
+ABILITY_GALE_WINGS.name[0]	Gale Wings
+ABILITY_MEGA_LAUNCHER.name[0]	Mega Launcher
+ABILITY_GRASS_PELT.name[0]	Grass Pelt
+ABILITY_SYMBIOSIS.name[0]	Symbiosis
+ABILITY_TOUGH_CLAWS.name[0]	Tough Claws
+ABILITY_PIXILATE.name[0]	Pixilate
+ABILITY_GOOEY.name[0]	Gooey
+ABILITY_AERILATE.name[0]	Aerilate
+ABILITY_PARENTAL_BOND.name[0]	Parental Bond
+ABILITY_DARK_AURA.name[0]	Dark Aura
+ABILITY_FAIRY_AURA.name[0]	Fairy Aura
+ABILITY_AURA_BREAK.name[0]	Aura Break
+ABILITY_PRIMORDIAL_SEA.name[0]	Primordial Sea
+ABILITY_DESOLATE_LAND.name[0]	Desolate Land
+ABILITY_DELTA_STREAM.name[0]	Delta Stream
+ABILITY_STAMINA.name[0]	Stamina
+ABILITY_WIMP_OUT.name[0]	Wimp Out
+ABILITY_EMERGENCY_EXIT.name[0]	Emergency Exit
+ABILITY_WATER_COMPACTION.name[0]	Water Compaction
+ABILITY_MERCILESS.name[0]	Merciless
+ABILITY_SHIELDS_DOWN.name[0]	Shields Down
+ABILITY_STAKEOUT.name[0]	Stakeout
+ABILITY_WATER_BUBBLE.name[0]	Water Bubble
+ABILITY_STEELWORKER.name[0]	Steelworker
+ABILITY_BERSERK.name[0]	Berserk
+ABILITY_SLUSH_RUSH.name[0]	Slush Rush
+ABILITY_LONG_REACH.name[0]	Long Reach
+ABILITY_LIQUID_VOICE.name[0]	Liquid Voice
+ABILITY_TRIAGE.name[0]	Triage
+ABILITY_GALVANIZE.name[0]	Galvanize
+ABILITY_SURGE_SURFER.name[0]	Surge Surfer
+ABILITY_SCHOOLING.name[0]	Schooling
+ABILITY_DISGUISE.name[0]	Disguise
+ABILITY_BATTLE_BOND.name[0]	Battle Bond
+ABILITY_POWER_CONSTRUCT.name[0]	Power Construct
+ABILITY_CORROSION.name[0]	Corrosion
+ABILITY_COMATOSE.name[0]	Comatose
+ABILITY_QUEENLY_MAJESTY.name[0]	Queenly Majesty
+ABILITY_INNARDS_OUT.name[0]	Innards Out
+ABILITY_DANCER.name[0]	Dancer
+ABILITY_BATTERY.name[0]	Battery
+ABILITY_FLUFFY.name[0]	Fluffy
+ABILITY_DAZZLING.name[0]	Dazzling
+ABILITY_SOUL_HEART.name[0]	Soul-Heart
+ABILITY_TANGLING_HAIR.name[0]	Tangling Hair
+ABILITY_RECEIVER.name[0]	Receiver
+ABILITY_POWER_OF_ALCHEMY.name[0]	Power Of Alchemy
+ABILITY_BEAST_BOOST.name[0]	Beast Boost
+ABILITY_RKS_SYSTEM.name[0]	RKS System
+ABILITY_ELECTRIC_SURGE.name[0]	Electric Surge
+ABILITY_PSYCHIC_SURGE.name[0]	Psychic Surge
+ABILITY_MISTY_SURGE.name[0]	Misty Surge
+ABILITY_GRASSY_SURGE.name[0]	Grassy Surge
+ABILITY_FULL_METAL_BODY.name[0]	Full Metal Body
+ABILITY_SHADOW_SHIELD.name[0]	Shadow Shield
+ABILITY_PRISM_ARMOR.name[0]	Prism Armor
+ABILITY_NEUROFORCE.name[0]	Neuroforce
+ABILITY_INTREPID_SWORD.name[0]	Intrepid Sword
+ABILITY_DAUNTLESS_SHIELD.name[0]	Dauntless Shield
+ABILITY_LIBERO.name[0]	Libero
+ABILITY_BALL_FETCH.name[0]	Ball Fetch
+ABILITY_COTTON_DOWN.name[0]	Cotton Down
+ABILITY_PROPELLER_TAIL.name[0]	Propeller Tail
+ABILITY_MIRROR_ARMOR.name[0]	Mirror Armor
+ABILITY_GULP_MISSILE.name[0]	Gulp Missile
+ABILITY_STALWART.name[0]	Stalwart
+ABILITY_STEAM_ENGINE.name[0]	Steam Engine
+ABILITY_PUNK_ROCK.name[0]	Punk Rock
+ABILITY_SAND_SPIT.name[0]	Sand Spit
+ABILITY_ICE_SCALES.name[0]	Ice Scales
+ABILITY_RIPEN.name[0]	Ripen
+ABILITY_ICE_FACE.name[0]	Ice Face
+ABILITY_POWER_SPOT.name[0]	Power Spot
+ABILITY_MIMICRY.name[0]	Mimicry
+ABILITY_SCREEN_CLEANER.name[0]	Screen Cleaner
+ABILITY_STEELY_SPIRIT.name[0]	Steely Spirit
+ABILITY_PERISH_BODY.name[0]	Perish Body
+ABILITY_WANDERING_SPIRIT.name[0]	Wandering Spirit
+ABILITY_GORILLA_TACTICS.name[0]	Gorilla Tactics
+ABILITY_NEUTRALIZING_GAS.name[0]	Neutralizing Gas
+ABILITY_PASTEL_VEIL.name[0]	Pastel Veil
+ABILITY_HUNGER_SWITCH.name[0]	Hunger Switch
+ABILITY_QUICK_DRAW.name[0]	Quick Draw
+ABILITY_UNSEEN_FIST.name[0]	Unseen Fist
+ABILITY_CURIOUS_MEDICINE.name[0]	Curious Medicine
+ABILITY_TRANSISTOR.name[0]	Transistor
+ABILITY_DRAGONS_MAW.name[0]	Dragon's Maw
+ABILITY_CHILLING_NEIGH.name[0]	Chilling Neigh
+ABILITY_GRIM_NEIGH.name[0]	Grim Neigh
+ABILITY_AS_ONE_ICE_RIDER.name[0]	As One
+ABILITY_AS_ONE_SHADOW_RIDER.name[0]	As One
+ABILITY_LINGERING_AROMA.name[0]	Lingering Aroma
+ABILITY_SEED_SOWER.name[0]	Seed Sower
+ABILITY_THERMAL_EXCHANGE.name[0]	Thermal Exchange
+ABILITY_ANGER_SHELL.name[0]	Anger Shell
+ABILITY_PURIFYING_SALT.name[0]	Purifying Salt
+ABILITY_WELL_BAKED_BODY.name[0]	Well-Baked Body
+ABILITY_WIND_RIDER.name[0]	Wind Rider
+ABILITY_GUARD_DOG.name[0]	Guard Dog
+ABILITY_ROCKY_PAYLOAD.name[0]	Rocky Payload
+ABILITY_WIND_POWER.name[0]	Wind Power
+ABILITY_ZERO_TO_HERO.name[0]	Zero to Hero
+ABILITY_COMMANDER.name[0]	Commander
+ABILITY_ELECTROMORPHOSIS.name[0]	Electromorphosis
+ABILITY_PROTOSYNTHESIS.name[0]	Protosynthesis
+ABILITY_QUARK_DRIVE.name[0]	Quark Drive
+ABILITY_GOOD_AS_GOLD.name[0]	Good as Gold
+ABILITY_VESSEL_OF_RUIN.name[0]	Vessel of Ruin
+ABILITY_SWORD_OF_RUIN.name[0]	Sword of Ruin
+ABILITY_TABLETS_OF_RUIN.name[0]	Tablets of Ruin
+ABILITY_BEADS_OF_RUIN.name[0]	Beads of Ruin
+ABILITY_ORICHALCUM_PULSE.name[0]	Orichalcum Pulse
+ABILITY_HADRON_ENGINE.name[0]	Hadron Engine
+ABILITY_OPPORTUNIST.name[0]	Opportunist
+ABILITY_CUD_CHEW.name[0]	Cud Chew
+ABILITY_SHARPNESS.name[0]	Sharpness
+ABILITY_SUPREME_OVERLORD.name[0]	Supreme Overlord
+ABILITY_COSTAR.name[0]	Costar
+ABILITY_TOXIC_DEBRIS.name[0]	Toxic Debris
+ABILITY_ARMOR_TAIL.name[0]	Armor Tail
+ABILITY_EARTH_EATER.name[0]	Earth Eater
+ABILITY_MYCELIUM_MIGHT.name[0]	Mycelium Might
+ABILITY_HOSPITALITY.name[0]	Hospitality
+ABILITY_MINDS_EYE.name[0]	Mind's Eye
+ABILITY_EMBODY_ASPECT_TEAL_MASK.name[0]	Embody Aspect
+ABILITY_EMBODY_ASPECT_HEARTHFLAME_MASK.name[0]	Embody Aspect
+ABILITY_EMBODY_ASPECT_WELLSPRING_MASK.name[0]	Embody Aspect
+ABILITY_EMBODY_ASPECT_CORNERSTONE_MASK.name[0]	Embody Aspect
+ABILITY_TOXIC_CHAIN.name[0]	Toxic Chain
+ABILITY_SUPERSWEET_SYRUP.name[0]	Supersweet Syrup
+ABILITY_TERA_SHIFT.name[0]	Tera Shift
+ABILITY_TERA_SHELL.name[0]	Tera Shell
+ABILITY_TERAFORM_ZERO.name[0]	Teraform Zero
+ABILITY_POISON_PUPPETEER.name[0]	Poison Puppeteer
+ABILITY_PIERCING_DRILL.name[0]	Piercing Drill
+ABILITY_DRAGONIZE.name[0]	Dragonize
+ABILITY_EELEVATE.name[0]	Eelevate
+ABILITY_MEGA_SOL.name[0]	Mega Sol
+ABILITY_FIRE_MANE.name[0]	Fire Mane
+ABILITY_SPICY_SPRAY.name[0]	Spicy Spray
+ABILITY_AURA_GUARD.name[0]	Aura Guard
+MOVE_POUND.name[0]	Pound
+MOVE_KARATE_CHOP.name[0]	Karate Chop
+MOVE_DOUBLE_SLAP.name[0]	Double Slap
+MOVE_COMET_PUNCH.name[0]	Comet Punch
+MOVE_MEGA_PUNCH.name[0]	Mega Punch
+MOVE_PAY_DAY.name[0]	Pay Day
+MOVE_FIRE_PUNCH.name[0]	Fire Punch
+MOVE_ICE_PUNCH.name[0]	Ice Punch
+MOVE_THUNDER_PUNCH.name[0]	Thunder Punch
+MOVE_SCRATCH.name[0]	Scratch
+MOVE_VISE_GRIP.name[0]	Vise Grip
+MOVE_GUILLOTINE.name[0]	Guillotine
+MOVE_RAZOR_WIND.name[0]	Razor Wind
+MOVE_SWORDS_DANCE.name[0]	Swords Dance
+MOVE_CUT.name[0]	Cut
+MOVE_GUST.name[0]	Gust
+MOVE_WING_ATTACK.name[0]	Wing Attack
+MOVE_WHIRLWIND.name[0]	Whirlwind
+MOVE_FLY.name[0]	Fly
+MOVE_BIND.name[0]	Bind
+MOVE_SLAM.name[0]	Slam
+MOVE_VINE_WHIP.name[0]	Vine Whip
+MOVE_STOMP.name[0]	Stomp
+MOVE_DOUBLE_KICK.name[0]	Double Kick
+MOVE_MEGA_KICK.name[0]	Mega Kick
+MOVE_JUMP_KICK.name[0]	Jump Kick
+MOVE_ROLLING_KICK.name[0]	Rolling Kick
+MOVE_SAND_ATTACK.name[0]	Sand Attack
+MOVE_HEADBUTT.name[0]	Headbutt
+MOVE_HORN_ATTACK.name[0]	Horn Attack
+MOVE_FURY_ATTACK.name[0]	Fury Attack
+MOVE_HORN_DRILL.name[0]	Horn Drill
+MOVE_TACKLE.name[0]	Tackle
+MOVE_BODY_SLAM.name[0]	Body Slam
+MOVE_WRAP.name[0]	Wrap
+MOVE_TAKE_DOWN.name[0]	Take Down
+MOVE_THRASH.name[0]	Thrash
+MOVE_DOUBLE_EDGE.name[0]	Double-Edge
+MOVE_TAIL_WHIP.name[0]	Tail Whip
+MOVE_POISON_STING.name[0]	Poison Sting
+MOVE_TWINEEDLE.name[0]	Twineedle
+MOVE_PIN_MISSILE.name[0]	Pin Missile
+MOVE_LEER.name[0]	Leer
+MOVE_BITE.name[0]	Bite
+MOVE_GROWL.name[0]	Growl
+MOVE_ROAR.name[0]	Roar
+MOVE_SING.name[0]	Sing
+MOVE_SUPERSONIC.name[0]	Supersonic
+MOVE_SONIC_BOOM.name[0]	Sonic Boom
+MOVE_DISABLE.name[0]	Disable
+MOVE_ACID.name[0]	Acid
+MOVE_EMBER.name[0]	Ember
+MOVE_FLAMETHROWER.name[0]	Flamethrower
+MOVE_MIST.name[0]	Mist
+MOVE_WATER_GUN.name[0]	Water Gun
+MOVE_HYDRO_PUMP.name[0]	Hydro Pump
+MOVE_SURF.name[0]	Surf
+MOVE_ICE_BEAM.name[0]	Ice Beam
+MOVE_BLIZZARD.name[0]	Blizzard
+MOVE_PSYBEAM.name[0]	Psybeam
+MOVE_BUBBLE_BEAM.name[0]	Bubble Beam
+MOVE_AURORA_BEAM.name[0]	Aurora Beam
+MOVE_HYPER_BEAM.name[0]	Hyper Beam
+MOVE_PECK.name[0]	Peck
+MOVE_DRILL_PECK.name[0]	Drill Peck
+MOVE_SUBMISSION.name[0]	Submission
+MOVE_LOW_KICK.name[0]	Low Kick
+MOVE_COUNTER.name[0]	Counter
+MOVE_SEISMIC_TOSS.name[0]	Seismic Toss
+MOVE_STRENGTH.name[0]	Strength
+MOVE_ABSORB.name[0]	Absorb
+MOVE_MEGA_DRAIN.name[0]	Mega Drain
+MOVE_LEECH_SEED.name[0]	Leech Seed
+MOVE_GROWTH.name[0]	Growth
+MOVE_RAZOR_LEAF.name[0]	Razor Leaf
+MOVE_SOLAR_BEAM.name[0]	Solar Beam
+MOVE_POISON_POWDER.name[0]	Poison Powder
+MOVE_STUN_SPORE.name[0]	Stun Spore
+MOVE_SLEEP_POWDER.name[0]	Sleep Powder
+MOVE_PETAL_DANCE.name[0]	Petal Dance
+MOVE_STRING_SHOT.name[0]	String Shot
+MOVE_DRAGON_RAGE.name[0]	Dragon Rage
+MOVE_FIRE_SPIN.name[0]	Fire Spin
+MOVE_THUNDER_SHOCK.name[0]	Thunder Shock
+MOVE_THUNDERBOLT.name[0]	Thunderbolt
+MOVE_THUNDER_WAVE.name[0]	Thunder Wave
+MOVE_THUNDER.name[0]	Thunder
+MOVE_ROCK_THROW.name[0]	Rock Throw
+MOVE_EARTHQUAKE.name[0]	Earthquake
+MOVE_FISSURE.name[0]	Fissure
+MOVE_DIG.name[0]	Dig
+MOVE_TOXIC.name[0]	Toxic
+MOVE_CONFUSION.name[0]	Confusion
+MOVE_PSYCHIC.name[0]	Psychic
+MOVE_HYPNOSIS.name[0]	Hypnosis
+MOVE_MEDITATE.name[0]	Meditate
+MOVE_AGILITY.name[0]	Agility
+MOVE_QUICK_ATTACK.name[0]	Quick Attack
+MOVE_RAGE.name[0]	Rage
+MOVE_TELEPORT.name[0]	Teleport
+MOVE_NIGHT_SHADE.name[0]	Night Shade
+MOVE_MIMIC.name[0]	Mimic
+MOVE_SCREECH.name[0]	Screech
+MOVE_DOUBLE_TEAM.name[0]	Double Team
+MOVE_RECOVER.name[0]	Recover
+MOVE_HARDEN.name[0]	Harden
+MOVE_MINIMIZE.name[0]	Minimize
+MOVE_SMOKESCREEN.name[0]	Smokescreen
+MOVE_CONFUSE_RAY.name[0]	Confuse Ray
+MOVE_WITHDRAW.name[0]	Withdraw
+MOVE_DEFENSE_CURL.name[0]	Defense Curl
+MOVE_BARRIER.name[0]	Barrier
+MOVE_LIGHT_SCREEN.name[0]	Light Screen
+MOVE_HAZE.name[0]	Haze
+MOVE_REFLECT.name[0]	Reflect
+MOVE_FOCUS_ENERGY.name[0]	Focus Energy
+MOVE_BIDE.name[0]	Bide
+MOVE_METRONOME.name[0]	Metronome
+MOVE_MIRROR_MOVE.name[0]	Mirror Move
+MOVE_SELF_DESTRUCT.name[0]	Self-Destruct
+MOVE_EGG_BOMB.name[0]	Egg Bomb
+MOVE_LICK.name[0]	Lick
+MOVE_SMOG.name[0]	Smog
+MOVE_SLUDGE.name[0]	Sludge
+MOVE_BONE_CLUB.name[0]	Bone Club
+MOVE_FIRE_BLAST.name[0]	Fire Blast
+MOVE_WATERFALL.name[0]	Waterfall
+MOVE_CLAMP.name[0]	Clamp
+MOVE_SWIFT.name[0]	Swift
+MOVE_SKULL_BASH.name[0]	Skull Bash
+MOVE_SPIKE_CANNON.name[0]	Spike Cannon
+MOVE_CONSTRICT.name[0]	Constrict
+MOVE_AMNESIA.name[0]	Amnesia
+MOVE_KINESIS.name[0]	Kinesis
+MOVE_SOFT_BOILED.name[0]	Soft-Boiled
+MOVE_HIGH_JUMP_KICK.name[0]	High Jump Kick
+MOVE_GLARE.name[0]	Glare
+MOVE_DREAM_EATER.name[0]	Dream Eater
+MOVE_POISON_GAS.name[0]	Poison Gas
+MOVE_BARRAGE.name[0]	Barrage
+MOVE_LEECH_LIFE.name[0]	Leech Life
+MOVE_LOVELY_KISS.name[0]	Lovely Kiss
+MOVE_SKY_ATTACK.name[0]	Sky Attack
+MOVE_TRANSFORM.name[0]	Transform
+MOVE_BUBBLE.name[0]	Bubble
+MOVE_DIZZY_PUNCH.name[0]	Dizzy Punch
+MOVE_SPORE.name[0]	Spore
+MOVE_FLASH.name[0]	Flash
+MOVE_PSYWAVE.name[0]	Psywave
+MOVE_SPLASH.name[0]	Splash
+MOVE_ACID_ARMOR.name[0]	Acid Armor
+MOVE_CRABHAMMER.name[0]	Crabhammer
+MOVE_EXPLOSION.name[0]	Explosion
+MOVE_FURY_SWIPES.name[0]	Fury Swipes
+MOVE_BONEMERANG.name[0]	Bonemerang
+MOVE_REST.name[0]	Rest
+MOVE_ROCK_SLIDE.name[0]	Rock Slide
+MOVE_HYPER_FANG.name[0]	Hyper Fang
+MOVE_SHARPEN.name[0]	Sharpen
+MOVE_CONVERSION.name[0]	Conversion
+MOVE_TRI_ATTACK.name[0]	Tri Attack
+MOVE_SUPER_FANG.name[0]	Super Fang
+MOVE_SLASH.name[0]	Slash
+MOVE_SUBSTITUTE.name[0]	Substitute
+MOVE_STRUGGLE.name[0]	Struggle
+MOVE_SKETCH.name[0]	Sketch
+MOVE_TRIPLE_KICK.name[0]	Triple Kick
+MOVE_THIEF.name[0]	Thief
+MOVE_SPIDER_WEB.name[0]	Spider Web
+MOVE_MIND_READER.name[0]	Mind Reader
+MOVE_NIGHTMARE.name[0]	Nightmare
+MOVE_FLAME_WHEEL.name[0]	Flame Wheel
+MOVE_SNORE.name[0]	Snore
+MOVE_CURSE.name[0]	Curse
+MOVE_FLAIL.name[0]	Flail
+MOVE_CONVERSION_2.name[0]	Conversion 2
+MOVE_AEROBLAST.name[0]	Aeroblast
+MOVE_COTTON_SPORE.name[0]	Cotton Spore
+MOVE_REVERSAL.name[0]	Reversal
+MOVE_SPITE.name[0]	Spite
+MOVE_POWDER_SNOW.name[0]	Powder Snow
+MOVE_PROTECT.name[0]	Protect
+MOVE_MACH_PUNCH.name[0]	Mach Punch
+MOVE_SCARY_FACE.name[0]	Scary Face
+MOVE_FEINT_ATTACK.name[0]	Feint Attack
+MOVE_SWEET_KISS.name[0]	Sweet Kiss
+MOVE_BELLY_DRUM.name[0]	Belly Drum
+MOVE_SLUDGE_BOMB.name[0]	Sludge Bomb
+MOVE_MUD_SLAP.name[0]	Mud-Slap
+MOVE_OCTAZOOKA.name[0]	Octazooka
+MOVE_SPIKES.name[0]	Spikes
+MOVE_ZAP_CANNON.name[0]	Zap Cannon
+MOVE_FORESIGHT.name[0]	Foresight
+MOVE_DESTINY_BOND.name[0]	Destiny Bond
+MOVE_PERISH_SONG.name[0]	Perish Song
+MOVE_ICY_WIND.name[0]	Icy Wind
+MOVE_DETECT.name[0]	Detect
+MOVE_BONE_RUSH.name[0]	Bone Rush
+MOVE_LOCK_ON.name[0]	Lock-On
+MOVE_OUTRAGE.name[0]	Outrage
+MOVE_SANDSTORM.name[0]	Sandstorm
+MOVE_GIGA_DRAIN.name[0]	Giga Drain
+MOVE_ENDURE.name[0]	Endure
+MOVE_CHARM.name[0]	Charm
+MOVE_ROLLOUT.name[0]	Rollout
+MOVE_FALSE_SWIPE.name[0]	False Swipe
+MOVE_SWAGGER.name[0]	Swagger
+MOVE_MILK_DRINK.name[0]	Milk Drink
+MOVE_SPARK.name[0]	Spark
+MOVE_FURY_CUTTER.name[0]	Fury Cutter
+MOVE_STEEL_WING.name[0]	Steel Wing
+MOVE_MEAN_LOOK.name[0]	Mean Look
+MOVE_ATTRACT.name[0]	Attract
+MOVE_SLEEP_TALK.name[0]	Sleep Talk
+MOVE_HEAL_BELL.name[0]	Heal Bell
+MOVE_RETURN.name[0]	Return
+MOVE_PRESENT.name[0]	Present
+MOVE_FRUSTRATION.name[0]	Frustration
+MOVE_SAFEGUARD.name[0]	Safeguard
+MOVE_PAIN_SPLIT.name[0]	Pain Split
+MOVE_SACRED_FIRE.name[0]	Sacred Fire
+MOVE_MAGNITUDE.name[0]	Magnitude
+MOVE_DYNAMIC_PUNCH.name[0]	Dynamic Punch
+MOVE_MEGAHORN.name[0]	Megahorn
+MOVE_DRAGON_BREATH.name[0]	Dragon Breath
+MOVE_BATON_PASS.name[0]	Baton Pass
+MOVE_ENCORE.name[0]	Encore
+MOVE_PURSUIT.name[0]	Pursuit
+MOVE_RAPID_SPIN.name[0]	Rapid Spin
+MOVE_SWEET_SCENT.name[0]	Sweet Scent
+MOVE_IRON_TAIL.name[0]	Iron Tail
+MOVE_METAL_CLAW.name[0]	Metal Claw
+MOVE_VITAL_THROW.name[0]	Vital Throw
+MOVE_MORNING_SUN.name[0]	Morning Sun
+MOVE_SYNTHESIS.name[0]	Synthesis
+MOVE_MOONLIGHT.name[0]	Moonlight
+MOVE_HIDDEN_POWER.name[0]	Hidden Power
+MOVE_CROSS_CHOP.name[0]	Cross Chop
+MOVE_TWISTER.name[0]	Twister
+MOVE_RAIN_DANCE.name[0]	Rain Dance
+MOVE_SUNNY_DAY.name[0]	Sunny Day
+MOVE_CRUNCH.name[0]	Crunch
+MOVE_MIRROR_COAT.name[0]	Mirror Coat
+MOVE_PSYCH_UP.name[0]	Psych Up
+MOVE_EXTREME_SPEED.name[0]	Extreme Speed
+MOVE_ANCIENT_POWER.name[0]	Ancient Power
+MOVE_SHADOW_BALL.name[0]	Shadow Ball
+MOVE_FUTURE_SIGHT.name[0]	Future Sight
+MOVE_ROCK_SMASH.name[0]	Rock Smash
+MOVE_WHIRLPOOL.name[0]	Whirlpool
+MOVE_BEAT_UP.name[0]	Beat Up
+MOVE_FAKE_OUT.name[0]	Fake Out
+MOVE_UPROAR.name[0]	Uproar
+MOVE_STOCKPILE.name[0]	Stockpile
+MOVE_SPIT_UP.name[0]	Spit Up
+MOVE_SWALLOW.name[0]	Swallow
+MOVE_HEAT_WAVE.name[0]	Heat Wave
+MOVE_HAIL.name[0]	Hail
+MOVE_TORMENT.name[0]	Torment
+MOVE_FLATTER.name[0]	Flatter
+MOVE_WILL_O_WISP.name[0]	Will-O-Wisp
+MOVE_MEMENTO.name[0]	Memento
+MOVE_FACADE.name[0]	Facade
+MOVE_FOCUS_PUNCH.name[0]	Focus Punch
+MOVE_SMELLING_SALTS.name[0]	Smelling Salts
+MOVE_FOLLOW_ME.name[0]	Follow Me
+MOVE_NATURE_POWER.name[0]	Nature Power
+MOVE_CHARGE.name[0]	Charge
+MOVE_TAUNT.name[0]	Taunt
+MOVE_HELPING_HAND.name[0]	Helping Hand
+MOVE_TRICK.name[0]	Trick
+MOVE_ROLE_PLAY.name[0]	Role Play
+MOVE_WISH.name[0]	Wish
+MOVE_ASSIST.name[0]	Assist
+MOVE_INGRAIN.name[0]	Ingrain
+MOVE_SUPERPOWER.name[0]	Superpower
+MOVE_MAGIC_COAT.name[0]	Magic Coat
+MOVE_RECYCLE.name[0]	Recycle
+MOVE_REVENGE.name[0]	Revenge
+MOVE_BRICK_BREAK.name[0]	Brick Break
+MOVE_YAWN.name[0]	Yawn
+MOVE_KNOCK_OFF.name[0]	Knock Off
+MOVE_ENDEAVOR.name[0]	Endeavor
+MOVE_ERUPTION.name[0]	Eruption
+MOVE_SKILL_SWAP.name[0]	Skill Swap
+MOVE_IMPRISON.name[0]	Imprison
+MOVE_REFRESH.name[0]	Refresh
+MOVE_GRUDGE.name[0]	Grudge
+MOVE_SNATCH.name[0]	Snatch
+MOVE_SECRET_POWER.name[0]	Secret Power
+MOVE_DIVE.name[0]	Dive
+MOVE_ARM_THRUST.name[0]	Arm Thrust
+MOVE_CAMOUFLAGE.name[0]	Camouflage
+MOVE_TAIL_GLOW.name[0]	Tail Glow
+MOVE_LUSTER_PURGE.name[0]	Luster Purge
+MOVE_MIST_BALL.name[0]	Mist Ball
+MOVE_FEATHER_DANCE.name[0]	Feather Dance
+MOVE_TEETER_DANCE.name[0]	Teeter Dance
+MOVE_BLAZE_KICK.name[0]	Blaze Kick
+MOVE_MUD_SPORT.name[0]	Mud Sport
+MOVE_ICE_BALL.name[0]	Ice Ball
+MOVE_NEEDLE_ARM.name[0]	Needle Arm
+MOVE_SLACK_OFF.name[0]	Slack Off
+MOVE_HYPER_VOICE.name[0]	Hyper Voice
+MOVE_POISON_FANG.name[0]	Poison Fang
+MOVE_CRUSH_CLAW.name[0]	Crush Claw
+MOVE_BLAST_BURN.name[0]	Blast Burn
+MOVE_HYDRO_CANNON.name[0]	Hydro Cannon
+MOVE_METEOR_MASH.name[0]	Meteor Mash
+MOVE_ASTONISH.name[0]	Astonish
+MOVE_WEATHER_BALL.name[0]	Weather Ball
+MOVE_AROMATHERAPY.name[0]	Aromatherapy
+MOVE_FAKE_TEARS.name[0]	Fake Tears
+MOVE_AIR_CUTTER.name[0]	Air Cutter
+MOVE_OVERHEAT.name[0]	Overheat
+MOVE_ODOR_SLEUTH.name[0]	Odor Sleuth
+MOVE_ROCK_TOMB.name[0]	Rock Tomb
+MOVE_SILVER_WIND.name[0]	Silver Wind
+MOVE_METAL_SOUND.name[0]	Metal Sound
+MOVE_GRASS_WHISTLE.name[0]	Grass Whistle
+MOVE_TICKLE.name[0]	Tickle
+MOVE_COSMIC_POWER.name[0]	Cosmic Power
+MOVE_WATER_SPOUT.name[0]	Water Spout
+MOVE_SIGNAL_BEAM.name[0]	Signal Beam
+MOVE_SHADOW_PUNCH.name[0]	Shadow Punch
+MOVE_EXTRASENSORY.name[0]	Extrasensory
+MOVE_SKY_UPPERCUT.name[0]	Sky Uppercut
+MOVE_SAND_TOMB.name[0]	Sand Tomb
+MOVE_SHEER_COLD.name[0]	Sheer Cold
+MOVE_MUDDY_WATER.name[0]	Muddy Water
+MOVE_BULLET_SEED.name[0]	Bullet Seed
+MOVE_AERIAL_ACE.name[0]	Aerial Ace
+MOVE_ICICLE_SPEAR.name[0]	Icicle Spear
+MOVE_IRON_DEFENSE.name[0]	Iron Defense
+MOVE_BLOCK.name[0]	Block
+MOVE_HOWL.name[0]	Howl
+MOVE_DRAGON_CLAW.name[0]	Dragon Claw
+MOVE_FRENZY_PLANT.name[0]	Frenzy Plant
+MOVE_BULK_UP.name[0]	Bulk Up
+MOVE_BOUNCE.name[0]	Bounce
+MOVE_MUD_SHOT.name[0]	Mud Shot
+MOVE_POISON_TAIL.name[0]	Poison Tail
+MOVE_COVET.name[0]	Covet
+MOVE_VOLT_TACKLE.name[0]	Volt Tackle
+MOVE_MAGICAL_LEAF.name[0]	Magical Leaf
+MOVE_WATER_SPORT.name[0]	Water Sport
+MOVE_CALM_MIND.name[0]	Calm Mind
+MOVE_LEAF_BLADE.name[0]	Leaf Blade
+MOVE_DRAGON_DANCE.name[0]	Dragon Dance
+MOVE_ROCK_BLAST.name[0]	Rock Blast
+MOVE_SHOCK_WAVE.name[0]	Shock Wave
+MOVE_WATER_PULSE.name[0]	Water Pulse
+MOVE_DOOM_DESIRE.name[0]	Doom Desire
+MOVE_PSYCHO_BOOST.name[0]	Psycho Boost
+MOVE_ROOST.name[0]	Roost
+MOVE_GRAVITY.name[0]	Gravity
+MOVE_MIRACLE_EYE.name[0]	Miracle Eye
+MOVE_WAKE_UP_SLAP.name[0]	Wake-Up Slap
+MOVE_HAMMER_ARM.name[0]	Hammer Arm
+MOVE_GYRO_BALL.name[0]	Gyro Ball
+MOVE_HEALING_WISH.name[0]	Healing Wish
+MOVE_BRINE.name[0]	Brine
+MOVE_NATURAL_GIFT.name[0]	Natural Gift
+MOVE_FEINT.name[0]	Feint
+MOVE_PLUCK.name[0]	Pluck
+MOVE_TAILWIND.name[0]	Tailwind
+MOVE_ACUPRESSURE.name[0]	Acupressure
+MOVE_METAL_BURST.name[0]	Metal Burst
+MOVE_U_TURN.name[0]	U-turn
+MOVE_CLOSE_COMBAT.name[0]	Close Combat
+MOVE_PAYBACK.name[0]	Payback
+MOVE_ASSURANCE.name[0]	Assurance
+MOVE_EMBARGO.name[0]	Embargo
+MOVE_FLING.name[0]	Fling
+MOVE_PSYCHO_SHIFT.name[0]	Psycho Shift
+MOVE_TRUMP_CARD.name[0]	Trump Card
+MOVE_HEAL_BLOCK.name[0]	Heal Block
+MOVE_WRING_OUT.name[0]	Wring Out
+MOVE_POWER_TRICK.name[0]	Power Trick
+MOVE_GASTRO_ACID.name[0]	Gastro Acid
+MOVE_LUCKY_CHANT.name[0]	Lucky Chant
+MOVE_ME_FIRST.name[0]	Me First
+MOVE_COPYCAT.name[0]	Copycat
+MOVE_POWER_SWAP.name[0]	Power Swap
+MOVE_GUARD_SWAP.name[0]	Guard Swap
+MOVE_PUNISHMENT.name[0]	Punishment
+MOVE_LAST_RESORT.name[0]	Last Resort
+MOVE_WORRY_SEED.name[0]	Worry Seed
+MOVE_SUCKER_PUNCH.name[0]	Sucker Punch
+MOVE_TOXIC_SPIKES.name[0]	Toxic Spikes
+MOVE_HEART_SWAP.name[0]	Heart Swap
+MOVE_AQUA_RING.name[0]	Aqua Ring
+MOVE_MAGNET_RISE.name[0]	Magnet Rise
+MOVE_FLARE_BLITZ.name[0]	Flare Blitz
+MOVE_FORCE_PALM.name[0]	Force Palm
+MOVE_AURA_SPHERE.name[0]	Aura Sphere
+MOVE_ROCK_POLISH.name[0]	Rock Polish
+MOVE_POISON_JAB.name[0]	Poison Jab
+MOVE_DARK_PULSE.name[0]	Dark Pulse
+MOVE_NIGHT_SLASH.name[0]	Night Slash
+MOVE_AQUA_TAIL.name[0]	Aqua Tail
+MOVE_SEED_BOMB.name[0]	Seed Bomb
+MOVE_AIR_SLASH.name[0]	Air Slash
+MOVE_X_SCISSOR.name[0]	X-Scissor
+MOVE_BUG_BUZZ.name[0]	Bug Buzz
+MOVE_DRAGON_PULSE.name[0]	Dragon Pulse
+MOVE_DRAGON_RUSH.name[0]	Dragon Rush
+MOVE_POWER_GEM.name[0]	Power Gem
+MOVE_DRAIN_PUNCH.name[0]	Drain Punch
+MOVE_VACUUM_WAVE.name[0]	Vacuum Wave
+MOVE_FOCUS_BLAST.name[0]	Focus Blast
+MOVE_ENERGY_BALL.name[0]	Energy Ball
+MOVE_BRAVE_BIRD.name[0]	Brave Bird
+MOVE_EARTH_POWER.name[0]	Earth Power
+MOVE_SWITCHEROO.name[0]	Switcheroo
+MOVE_GIGA_IMPACT.name[0]	Giga Impact
+MOVE_NASTY_PLOT.name[0]	Nasty Plot
+MOVE_BULLET_PUNCH.name[0]	Bullet Punch
+MOVE_AVALANCHE.name[0]	Avalanche
+MOVE_ICE_SHARD.name[0]	Ice Shard
+MOVE_SHADOW_CLAW.name[0]	Shadow Claw
+MOVE_THUNDER_FANG.name[0]	Thunder Fang
+MOVE_ICE_FANG.name[0]	Ice Fang
+MOVE_FIRE_FANG.name[0]	Fire Fang
+MOVE_SHADOW_SNEAK.name[0]	Shadow Sneak
+MOVE_MUD_BOMB.name[0]	Mud Bomb
+MOVE_PSYCHO_CUT.name[0]	Psycho Cut
+MOVE_ZEN_HEADBUTT.name[0]	Zen Headbutt
+MOVE_MIRROR_SHOT.name[0]	Mirror Shot
+MOVE_FLASH_CANNON.name[0]	Flash Cannon
+MOVE_ROCK_CLIMB.name[0]	Rock Climb
+MOVE_DEFOG.name[0]	Defog
+MOVE_TRICK_ROOM.name[0]	Trick Room
+MOVE_DRACO_METEOR.name[0]	Draco Meteor
+MOVE_DISCHARGE.name[0]	Discharge
+MOVE_LAVA_PLUME.name[0]	Lava Plume
+MOVE_LEAF_STORM.name[0]	Leaf Storm
+MOVE_POWER_WHIP.name[0]	Power Whip
+MOVE_ROCK_WRECKER.name[0]	Rock Wrecker
+MOVE_CROSS_POISON.name[0]	Cross Poison
+MOVE_GUNK_SHOT.name[0]	Gunk Shot
+MOVE_IRON_HEAD.name[0]	Iron Head
+MOVE_MAGNET_BOMB.name[0]	Magnet Bomb
+MOVE_STONE_EDGE.name[0]	Stone Edge
+MOVE_CAPTIVATE.name[0]	Captivate
+MOVE_STEALTH_ROCK.name[0]	Stealth Rock
+MOVE_GRASS_KNOT.name[0]	Grass Knot
+MOVE_CHATTER.name[0]	Chatter
+MOVE_JUDGMENT.name[0]	Judgment
+MOVE_BUG_BITE.name[0]	Bug Bite
+MOVE_CHARGE_BEAM.name[0]	Charge Beam
+MOVE_WOOD_HAMMER.name[0]	Wood Hammer
+MOVE_AQUA_JET.name[0]	Aqua Jet
+MOVE_ATTACK_ORDER.name[0]	Attack Order
+MOVE_DEFEND_ORDER.name[0]	Defend Order
+MOVE_HEAL_ORDER.name[0]	Heal Order
+MOVE_HEAD_SMASH.name[0]	Head Smash
+MOVE_DOUBLE_HIT.name[0]	Double Hit
+MOVE_ROAR_OF_TIME.name[0]	Roar of Time
+MOVE_SPACIAL_REND.name[0]	Spacial Rend
+MOVE_LUNAR_DANCE.name[0]	Lunar Dance
+MOVE_CRUSH_GRIP.name[0]	Crush Grip
+MOVE_MAGMA_STORM.name[0]	Magma Storm
+MOVE_DARK_VOID.name[0]	Dark Void
+MOVE_SEED_FLARE.name[0]	Seed Flare
+MOVE_OMINOUS_WIND.name[0]	Ominous Wind
+MOVE_SHADOW_FORCE.name[0]	Shadow Force
+MOVE_HONE_CLAWS.name[0]	Hone Claws
+MOVE_WIDE_GUARD.name[0]	Wide Guard
+MOVE_GUARD_SPLIT.name[0]	Guard Split
+MOVE_POWER_SPLIT.name[0]	Power Split
+MOVE_WONDER_ROOM.name[0]	Wonder Room
+MOVE_PSYSHOCK.name[0]	Psyshock
+MOVE_VENOSHOCK.name[0]	Venoshock
+MOVE_AUTOTOMIZE.name[0]	Autotomize
+MOVE_RAGE_POWDER.name[0]	Rage Powder
+MOVE_TELEKINESIS.name[0]	Telekinesis
+MOVE_MAGIC_ROOM.name[0]	Magic Room
+MOVE_SMACK_DOWN.name[0]	Smack Down
+MOVE_STORM_THROW.name[0]	Storm Throw
+MOVE_FLAME_BURST.name[0]	Flame Burst
+MOVE_SLUDGE_WAVE.name[0]	Sludge Wave
+MOVE_QUIVER_DANCE.name[0]	Quiver Dance
+MOVE_HEAVY_SLAM.name[0]	Heavy Slam
+MOVE_SYNCHRONOISE.name[0]	Synchronoise
+MOVE_ELECTRO_BALL.name[0]	Electro Ball
+MOVE_SOAK.name[0]	Soak
+MOVE_FLAME_CHARGE.name[0]	Flame Charge
+MOVE_COIL.name[0]	Coil
+MOVE_LOW_SWEEP.name[0]	Low Sweep
+MOVE_ACID_SPRAY.name[0]	Acid Spray
+MOVE_FOUL_PLAY.name[0]	Foul Play
+MOVE_SIMPLE_BEAM.name[0]	Simple Beam
+MOVE_ENTRAINMENT.name[0]	Entrainment
+MOVE_AFTER_YOU.name[0]	After You
+MOVE_ROUND.name[0]	Round
+MOVE_ECHOED_VOICE.name[0]	Echoed Voice
+MOVE_CHIP_AWAY.name[0]	Chip Away
+MOVE_CLEAR_SMOG.name[0]	Clear Smog
+MOVE_STORED_POWER.name[0]	Stored Power
+MOVE_QUICK_GUARD.name[0]	Quick Guard
+MOVE_ALLY_SWITCH.name[0]	Ally Switch
+MOVE_SCALD.name[0]	Scald
+MOVE_SHELL_SMASH.name[0]	Shell Smash
+MOVE_HEAL_PULSE.name[0]	Heal Pulse
+MOVE_HEX.name[0]	Hex
+MOVE_SKY_DROP.name[0]	Sky Drop
+MOVE_SHIFT_GEAR.name[0]	Shift Gear
+MOVE_CIRCLE_THROW.name[0]	Circle Throw
+MOVE_INCINERATE.name[0]	Incinerate
+MOVE_QUASH.name[0]	Quash
+MOVE_ACROBATICS.name[0]	Acrobatics
+MOVE_REFLECT_TYPE.name[0]	Reflect Type
+MOVE_RETALIATE.name[0]	Retaliate
+MOVE_FINAL_GAMBIT.name[0]	Final Gambit
+MOVE_BESTOW.name[0]	Bestow
+MOVE_INFERNO.name[0]	Inferno
+MOVE_WATER_PLEDGE.name[0]	Water Pledge
+MOVE_FIRE_PLEDGE.name[0]	Fire Pledge
+MOVE_GRASS_PLEDGE.name[0]	Grass Pledge
+MOVE_VOLT_SWITCH.name[0]	Volt Switch
+MOVE_STRUGGLE_BUG.name[0]	Struggle Bug
+MOVE_BULLDOZE.name[0]	Bulldoze
+MOVE_FROST_BREATH.name[0]	Frost Breath
+MOVE_DRAGON_TAIL.name[0]	Dragon Tail
+MOVE_WORK_UP.name[0]	Work Up
+MOVE_ELECTROWEB.name[0]	Electroweb
+MOVE_WILD_CHARGE.name[0]	Wild Charge
+MOVE_DRILL_RUN.name[0]	Drill Run
+MOVE_DUAL_CHOP.name[0]	Dual Chop
+MOVE_HEART_STAMP.name[0]	Heart Stamp
+MOVE_HORN_LEECH.name[0]	Horn Leech
+MOVE_SACRED_SWORD.name[0]	Sacred Sword
+MOVE_RAZOR_SHELL.name[0]	Razor Shell
+MOVE_HEAT_CRASH.name[0]	Heat Crash
+MOVE_LEAF_TORNADO.name[0]	Leaf Tornado
+MOVE_STEAMROLLER.name[0]	Steamroller
+MOVE_COTTON_GUARD.name[0]	Cotton Guard
+MOVE_NIGHT_DAZE.name[0]	Night Daze
+MOVE_PSYSTRIKE.name[0]	Psystrike
+MOVE_TAIL_SLAP.name[0]	Tail Slap
+MOVE_HURRICANE.name[0]	Hurricane
+MOVE_HEAD_CHARGE.name[0]	Head Charge
+MOVE_GEAR_GRIND.name[0]	Gear Grind
+MOVE_SEARING_SHOT.name[0]	Searing Shot
+MOVE_TECHNO_BLAST.name[0]	Techno Blast
+MOVE_RELIC_SONG.name[0]	Relic Song
+MOVE_SECRET_SWORD.name[0]	Secret Sword
+MOVE_GLACIATE.name[0]	Glaciate
+MOVE_BOLT_STRIKE.name[0]	Bolt Strike
+MOVE_BLUE_FLARE.name[0]	Blue Flare
+MOVE_FIERY_DANCE.name[0]	Fiery Dance
+MOVE_FREEZE_SHOCK.name[0]	Freeze Shock
+MOVE_ICE_BURN.name[0]	Ice Burn
+MOVE_SNARL.name[0]	Snarl
+MOVE_ICICLE_CRASH.name[0]	Icicle Crash
+MOVE_V_CREATE.name[0]	V-create
+MOVE_FUSION_FLARE.name[0]	Fusion Flare
+MOVE_FUSION_BOLT.name[0]	Fusion Bolt
+MOVE_FLYING_PRESS.name[0]	Flying Press
+MOVE_MAT_BLOCK.name[0]	Mat Block
+MOVE_BELCH.name[0]	Belch
+MOVE_ROTOTILLER.name[0]	Rototiller
+MOVE_STICKY_WEB.name[0]	Sticky Web
+MOVE_FELL_STINGER.name[0]	Fell Stinger
+MOVE_PHANTOM_FORCE.name[0]	Phantom Force
+MOVE_TRICK_OR_TREAT.name[0]	Trick-or-Treat
+MOVE_NOBLE_ROAR.name[0]	Noble Roar
+MOVE_ION_DELUGE.name[0]	Ion Deluge
+MOVE_PARABOLIC_CHARGE.name[0]	Parabolic Charge
+MOVE_FORESTS_CURSE.name[0]	Forest's Curse
+MOVE_PETAL_BLIZZARD.name[0]	Petal Blizzard
+MOVE_FREEZE_DRY.name[0]	Freeze-Dry
+MOVE_DISARMING_VOICE.name[0]	Disarming Voice
+MOVE_PARTING_SHOT.name[0]	Parting Shot
+MOVE_TOPSY_TURVY.name[0]	Topsy-Turvy
+MOVE_DRAINING_KISS.name[0]	Draining Kiss
+MOVE_CRAFTY_SHIELD.name[0]	Crafty Shield
+MOVE_FLOWER_SHIELD.name[0]	Flower Shield
+MOVE_GRASSY_TERRAIN.name[0]	Grassy Terrain
+MOVE_MISTY_TERRAIN.name[0]	Misty Terrain
+MOVE_ELECTRIFY.name[0]	Electrify
+MOVE_PLAY_ROUGH.name[0]	Play Rough
+MOVE_FAIRY_WIND.name[0]	Fairy Wind
+MOVE_MOONBLAST.name[0]	Moonblast
+MOVE_BOOMBURST.name[0]	Boomburst
+MOVE_FAIRY_LOCK.name[0]	Fairy Lock
+MOVE_KINGS_SHIELD.name[0]	King's Shield
+MOVE_PLAY_NICE.name[0]	Play Nice
+MOVE_CONFIDE.name[0]	Confide
+MOVE_DIAMOND_STORM.name[0]	Diamond Storm
+MOVE_STEAM_ERUPTION.name[0]	Steam Eruption
+MOVE_HYPERSPACE_HOLE.name[0]	Hyperspace Hole
+MOVE_WATER_SHURIKEN.name[0]	Water Shuriken
+MOVE_MYSTICAL_FIRE.name[0]	Mystical Fire
+MOVE_SPIKY_SHIELD.name[0]	Spiky Shield
+MOVE_AROMATIC_MIST.name[0]	Aromatic Mist
+MOVE_EERIE_IMPULSE.name[0]	Eerie Impulse
+MOVE_VENOM_DRENCH.name[0]	Venom Drench
+MOVE_POWDER.name[0]	Powder
+MOVE_GEOMANCY.name[0]	Geomancy
+MOVE_MAGNETIC_FLUX.name[0]	Magnetic Flux
+MOVE_HAPPY_HOUR.name[0]	Happy Hour
+MOVE_ELECTRIC_TERRAIN.name[0]	Electric Terrain
+MOVE_DAZZLING_GLEAM.name[0]	Dazzling Gleam
+MOVE_CELEBRATE.name[0]	Celebrate
+MOVE_HOLD_HANDS.name[0]	Hold Hands
+MOVE_BABY_DOLL_EYES.name[0]	Baby-Doll Eyes
+MOVE_NUZZLE.name[0]	Nuzzle
+MOVE_HOLD_BACK.name[0]	Hold Back
+MOVE_INFESTATION.name[0]	Infestation
+MOVE_POWER_UP_PUNCH.name[0]	Power-Up Punch
+MOVE_OBLIVION_WING.name[0]	Oblivion Wing
+MOVE_THOUSAND_ARROWS.name[0]	Thousand Arrows
+MOVE_THOUSAND_WAVES.name[0]	Thousand Waves
+MOVE_LANDS_WRATH.name[0]	Land's Wrath
+MOVE_LIGHT_OF_RUIN.name[0]	Light Of Ruin
+MOVE_ORIGIN_PULSE.name[0]	Origin Pulse
+MOVE_PRECIPICE_BLADES.name[0]	Precipice Blades
+MOVE_DRAGON_ASCENT.name[0]	Dragon Ascent
+MOVE_HYPERSPACE_FURY.name[0]	Hyperspace Fury
+MOVE_SHORE_UP.name[0]	Shore Up
+MOVE_FIRST_IMPRESSION.name[0]	First Impression
+MOVE_BANEFUL_BUNKER.name[0]	Baneful Bunker
+MOVE_SPIRIT_SHACKLE.name[0]	Spirit Shackle
+MOVE_DARKEST_LARIAT.name[0]	Darkest Lariat
+MOVE_SPARKLING_ARIA.name[0]	Sparkling Aria
+MOVE_ICE_HAMMER.name[0]	Ice Hammer
+MOVE_FLORAL_HEALING.name[0]	Floral Healing
+MOVE_HIGH_HORSEPOWER.name[0]	High Horsepower
+MOVE_STRENGTH_SAP.name[0]	Strength Sap
+MOVE_SOLAR_BLADE.name[0]	Solar Blade
+MOVE_LEAFAGE.name[0]	Leafage
+MOVE_SPOTLIGHT.name[0]	Spotlight
+MOVE_TOXIC_THREAD.name[0]	Toxic Thread
+MOVE_LASER_FOCUS.name[0]	Laser Focus
+MOVE_GEAR_UP.name[0]	Gear Up
+MOVE_THROAT_CHOP.name[0]	Throat Chop
+MOVE_POLLEN_PUFF.name[0]	Pollen Puff
+MOVE_ANCHOR_SHOT.name[0]	Anchor Shot
+MOVE_PSYCHIC_TERRAIN.name[0]	Psychic Terrain
+MOVE_LUNGE.name[0]	Lunge
+MOVE_FIRE_LASH.name[0]	Fire Lash
+MOVE_POWER_TRIP.name[0]	Power Trip
+MOVE_BURN_UP.name[0]	Burn Up
+MOVE_SPEED_SWAP.name[0]	Speed Swap
+MOVE_SMART_STRIKE.name[0]	Smart Strike
+MOVE_PURIFY.name[0]	Purify
+MOVE_REVELATION_DANCE.name[0]	Revelation Dance
+MOVE_CORE_ENFORCER.name[0]	Core Enforcer
+MOVE_TROP_KICK.name[0]	Trop Kick
+MOVE_INSTRUCT.name[0]	Instruct
+MOVE_BEAK_BLAST.name[0]	Beak Blast
+MOVE_CLANGING_SCALES.name[0]	Clanging Scales
+MOVE_DRAGON_HAMMER.name[0]	Dragon Hammer
+MOVE_BRUTAL_SWING.name[0]	Brutal Swing
+MOVE_AURORA_VEIL.name[0]	Aurora Veil
+MOVE_SHELL_TRAP.name[0]	Shell Trap
+MOVE_FLEUR_CANNON.name[0]	Fleur Cannon
+MOVE_PSYCHIC_FANGS.name[0]	Psychic Fangs
+MOVE_STOMPING_TANTRUM.name[0]	Stomping Tantrum
+MOVE_SHADOW_BONE.name[0]	Shadow Bone
+MOVE_ACCELEROCK.name[0]	Accelerock
+MOVE_LIQUIDATION.name[0]	Liquidation
+MOVE_PRISMATIC_LASER.name[0]	Prismatic Laser
+MOVE_SPECTRAL_THIEF.name[0]	Spectral Thief
+MOVE_SUNSTEEL_STRIKE.name[0]	Sunsteel Strike
+MOVE_MOONGEIST_BEAM.name[0]	Moongeist Beam
+MOVE_TEARFUL_LOOK.name[0]	Tearful Look
+MOVE_ZING_ZAP.name[0]	Zing Zap
+MOVE_NATURES_MADNESS.name[0]	Nature's Madness
+MOVE_MULTI_ATTACK.name[0]	Multi-Attack
+MOVE_MIND_BLOWN.name[0]	Mind Blown
+MOVE_PLASMA_FISTS.name[0]	Plasma Fists
+MOVE_PHOTON_GEYSER.name[0]	Photon Geyser
+MOVE_ZIPPY_ZAP.name[0]	Zippy Zap
+MOVE_SPLISHY_SPLASH.name[0]	Splishy Splash
+MOVE_FLOATY_FALL.name[0]	Floaty Fall
+MOVE_PIKA_PAPOW.name[0]	Pika Papow
+MOVE_BOUNCY_BUBBLE.name[0]	Bouncy Bubble
+MOVE_BUZZY_BUZZ.name[0]	Buzzy Buzz
+MOVE_SIZZLY_SLIDE.name[0]	Sizzly Slide
+MOVE_GLITZY_GLOW.name[0]	Glitzy Glow
+MOVE_BADDY_BAD.name[0]	Baddy Bad
+MOVE_SAPPY_SEED.name[0]	Sappy Seed
+MOVE_FREEZY_FROST.name[0]	Freezy Frost
+MOVE_SPARKLY_SWIRL.name[0]	Sparkly Swirl
+MOVE_VEEVEE_VOLLEY.name[0]	Veevee Volley
+MOVE_DOUBLE_IRON_BASH.name[0]	Double Iron Bash
+MOVE_DYNAMAX_CANNON.name[0]	Dynamax Cannon
+MOVE_SNIPE_SHOT.name[0]	Snipe Shot
+MOVE_JAW_LOCK.name[0]	Jaw Lock
+MOVE_STUFF_CHEEKS.name[0]	Stuff Cheeks
+MOVE_NO_RETREAT.name[0]	No Retreat
+MOVE_TAR_SHOT.name[0]	Tar Shot
+MOVE_MAGIC_POWDER.name[0]	Magic Powder
+MOVE_DRAGON_DARTS.name[0]	Dragon Darts
+MOVE_TEATIME.name[0]	Teatime
+MOVE_OCTOLOCK.name[0]	Octolock
+MOVE_BOLT_BEAK.name[0]	Bolt Beak
+MOVE_FISHIOUS_REND.name[0]	Fishious Rend
+MOVE_COURT_CHANGE.name[0]	Court Change
+MOVE_CLANGOROUS_SOUL.name[0]	Clangorous Soul
+MOVE_BODY_PRESS.name[0]	Body Press
+MOVE_DECORATE.name[0]	Decorate
+MOVE_DRUM_BEATING.name[0]	Drum Beating
+MOVE_SNAP_TRAP.name[0]	Snap Trap
+MOVE_PYRO_BALL.name[0]	Pyro Ball
+MOVE_BEHEMOTH_BLADE.name[0]	Behemoth Blade
+MOVE_BEHEMOTH_BASH.name[0]	Behemoth Bash
+MOVE_AURA_WHEEL.name[0]	Aura Wheel
+MOVE_BREAKING_SWIPE.name[0]	Breaking Swipe
+MOVE_BRANCH_POKE.name[0]	Branch Poke
+MOVE_OVERDRIVE.name[0]	Overdrive
+MOVE_APPLE_ACID.name[0]	Apple Acid
+MOVE_GRAV_APPLE.name[0]	Grav Apple
+MOVE_SPIRIT_BREAK.name[0]	Spirit Break
+MOVE_STRANGE_STEAM.name[0]	Strange Steam
+MOVE_LIFE_DEW.name[0]	Life Dew
+MOVE_OBSTRUCT.name[0]	Obstruct
+MOVE_FALSE_SURRENDER.name[0]	False Surrender
+MOVE_METEOR_ASSAULT.name[0]	Meteor Assault
+MOVE_ETERNABEAM.name[0]	Eternabeam
+MOVE_STEEL_BEAM.name[0]	Steel Beam
+MOVE_EXPANDING_FORCE.name[0]	Expanding Force
+MOVE_STEEL_ROLLER.name[0]	Steel Roller
+MOVE_SCALE_SHOT.name[0]	Scale Shot
+MOVE_METEOR_BEAM.name[0]	Meteor Beam
+MOVE_SHELL_SIDE_ARM.name[0]	Shell Side Arm
+MOVE_MISTY_EXPLOSION.name[0]	Misty Explosion
+MOVE_GRASSY_GLIDE.name[0]	Grassy Glide
+MOVE_RISING_VOLTAGE.name[0]	Rising Voltage
+MOVE_TERRAIN_PULSE.name[0]	Terrain Pulse
+MOVE_SKITTER_SMACK.name[0]	Skitter Smack
+MOVE_BURNING_JEALOUSY.name[0]	Burning Jealousy
+MOVE_LASH_OUT.name[0]	Lash Out
+MOVE_POLTERGEIST.name[0]	Poltergeist
+MOVE_CORROSIVE_GAS.name[0]	Corrosive Gas
+MOVE_COACHING.name[0]	Coaching
+MOVE_FLIP_TURN.name[0]	Flip Turn
+MOVE_TRIPLE_AXEL.name[0]	Triple Axel
+MOVE_DUAL_WINGBEAT.name[0]	Dual Wingbeat
+MOVE_SCORCHING_SANDS.name[0]	Scorching Sands
+MOVE_JUNGLE_HEALING.name[0]	Jungle Healing
+MOVE_WICKED_BLOW.name[0]	Wicked Blow
+MOVE_SURGING_STRIKES.name[0]	Surging Strikes
+MOVE_THUNDER_CAGE.name[0]	Thunder Cage
+MOVE_DRAGON_ENERGY.name[0]	Dragon Energy
+MOVE_FREEZING_GLARE.name[0]	Freezing Glare
+MOVE_FIERY_WRATH.name[0]	Fiery Wrath
+MOVE_THUNDEROUS_KICK.name[0]	Thunderous Kick
+MOVE_GLACIAL_LANCE.name[0]	Glacial Lance
+MOVE_ASTRAL_BARRAGE.name[0]	Astral Barrage
+MOVE_EERIE_SPELL.name[0]	Eerie Spell
+MOVE_DIRE_CLAW.name[0]	Dire Claw
+MOVE_PSYSHIELD_BASH.name[0]	Psyshield Bash
+MOVE_POWER_SHIFT.name[0]	Power Shift
+MOVE_STONE_AXE.name[0]	Stone Axe
+MOVE_SPRINGTIDE_STORM.name[0]	Springtide Storm
+MOVE_MYSTICAL_POWER.name[0]	Mystical Power
+MOVE_RAGING_FURY.name[0]	Raging Fury
+MOVE_WAVE_CRASH.name[0]	Wave Crash
+MOVE_CHLOROBLAST.name[0]	Chloroblast
+MOVE_MOUNTAIN_GALE.name[0]	Mountain Gale
+MOVE_VICTORY_DANCE.name[0]	Victory Dance
+MOVE_HEADLONG_RUSH.name[0]	Headlong Rush
+MOVE_BARB_BARRAGE.name[0]	Barb Barrage
+MOVE_ESPER_WING.name[0]	Esper Wing
+MOVE_BITTER_MALICE.name[0]	Bitter Malice
+MOVE_SHELTER.name[0]	Shelter
+MOVE_TRIPLE_ARROWS.name[0]	Triple Arrows
+MOVE_INFERNAL_PARADE.name[0]	Infernal Parade
+MOVE_BLEAKWIND_STORM.name[0]	Bleakwind Storm
+MOVE_WILDBOLT_STORM.name[0]	Wildbolt Storm
+MOVE_SANDSEAR_STORM.name[0]	Sandsear Storm
+MOVE_LUNAR_BLESSING.name[0]	Lunar Blessing
+MOVE_TAKE_HEART.name[0]	Take Heart
+MOVE_TERA_BLAST.name[0]	Tera Blast
+MOVE_SILK_TRAP.name[0]	Silk Trap
+MOVE_AXE_KICK.name[0]	Axe Kick
+MOVE_LAST_RESPECTS.name[0]	Last Respects
+MOVE_LUMINA_CRASH.name[0]	Lumina Crash
+MOVE_ORDER_UP.name[0]	Order Up
+MOVE_JET_PUNCH.name[0]	Jet Punch
+MOVE_SPICY_EXTRACT.name[0]	Spicy Extract
+MOVE_SPIN_OUT.name[0]	Spin Out
+MOVE_POPULATION_BOMB.name[0]	Population Bomb
+MOVE_ICE_SPINNER.name[0]	Ice Spinner
+MOVE_GLAIVE_RUSH.name[0]	Glaive Rush
+MOVE_REVIVAL_BLESSING.name[0]	Revival Blessing
+MOVE_SALT_CURE.name[0]	Salt Cure
+MOVE_TRIPLE_DIVE.name[0]	Triple Dive
+MOVE_MORTAL_SPIN.name[0]	Mortal Spin
+MOVE_DOODLE.name[0]	Doodle
+MOVE_FILLET_AWAY.name[0]	Fillet Away
+MOVE_KOWTOW_CLEAVE.name[0]	Kowtow Cleave
+MOVE_FLOWER_TRICK.name[0]	Flower Trick
+MOVE_TORCH_SONG.name[0]	Torch Song
+MOVE_AQUA_STEP.name[0]	Aqua Step
+MOVE_RAGING_BULL.name[0]	Raging Bull
+MOVE_MAKE_IT_RAIN.name[0]	Make It Rain
+MOVE_RUINATION.name[0]	Ruination
+MOVE_COLLISION_COURSE.name[0]	Collision Course
+MOVE_ELECTRO_DRIFT.name[0]	Electro Drift
+MOVE_SHED_TAIL.name[0]	Shed Tail
+MOVE_CHILLY_RECEPTION.name[0]	Chilly Reception
+MOVE_TIDY_UP.name[0]	Tidy Up
+MOVE_SNOWSCAPE.name[0]	Snowscape
+MOVE_POUNCE.name[0]	Pounce
+MOVE_TRAILBLAZE.name[0]	Trailblaze
+MOVE_CHILLING_WATER.name[0]	Chilling Water
+MOVE_HYPER_DRILL.name[0]	Hyper Drill
+MOVE_TWIN_BEAM.name[0]	Twin Beam
+MOVE_RAGE_FIST.name[0]	Rage Fist
+MOVE_ARMOR_CANNON.name[0]	Armor Cannon
+MOVE_BITTER_BLADE.name[0]	Bitter Blade
+MOVE_DOUBLE_SHOCK.name[0]	Double Shock
+MOVE_GIGATON_HAMMER.name[0]	Gigaton Hammer
+MOVE_COMEUPPANCE.name[0]	Comeuppance
+MOVE_AQUA_CUTTER.name[0]	Aqua Cutter
+MOVE_BLAZING_TORQUE.name[0]	Blazing Torque
+MOVE_WICKED_TORQUE.name[0]	Wicked Torque
+MOVE_NOXIOUS_TORQUE.name[0]	Noxious Torque
+MOVE_COMBAT_TORQUE.name[0]	Combat Torque
+MOVE_MAGICAL_TORQUE.name[0]	Magical Torque
+MOVE_PSYBLADE.name[0]	Psyblade
+MOVE_HYDRO_STEAM.name[0]	Hydro Steam
+MOVE_BLOOD_MOON.name[0]	Blood Moon
+MOVE_MATCHA_GOTCHA.name[0]	Matcha Gotcha
+MOVE_SYRUP_BOMB.name[0]	Syrup Bomb
+MOVE_IVY_CUDGEL.name[0]	Ivy Cudgel
+MOVE_ELECTRO_SHOT.name[0]	Electro Shot
+MOVE_TERA_STARSTORM.name[0]	Tera Starstorm
+MOVE_FICKLE_BEAM.name[0]	Fickle Beam
+MOVE_BURNING_BULWARK.name[0]	Burning Bulwark
+MOVE_THUNDERCLAP.name[0]	Thunderclap
+MOVE_MIGHTY_CLEAVE.name[0]	Mighty Cleave
+MOVE_TACHYON_CUTTER.name[0]	Tachyon Cutter
+MOVE_HARD_PRESS.name[0]	Hard Press
+MOVE_DRAGON_CHEER.name[0]	Dragon Cheer
+MOVE_ALLURING_VOICE.name[0]	Alluring Voice
+MOVE_TEMPER_FLARE.name[0]	Temper Flare
+MOVE_SUPERCELL_SLAM.name[0]	Supercell Slam
+MOVE_PSYCHIC_NOISE.name[0]	Psychic Noise
+MOVE_UPPER_HAND.name[0]	Upper Hand
+MOVE_MALIGNANT_CHAIN.name[0]	Malignant Chain
+MOVE_BREAKNECK_BLITZ.name[0]	Breakneck Blitz
+MOVE_ACID_DOWNPOUR.name[0]	Acid Downpour
+MOVE_TECTONIC_RAGE.name[0]	Tectonic Rage
+MOVE_CONTINENTAL_CRUSH.name[0]	Continental Crush
+MOVE_NEVER_ENDING_NIGHTMARE.name[0]	Never-Ending Nightmare
+MOVE_CORKSCREW_CRASH.name[0]	Corkscrew Crash
+MOVE_INFERNO_OVERDRIVE.name[0]	Inferno Overdrive
+MOVE_HYDRO_VORTEX.name[0]	Hydro Vortex
+MOVE_GIGAVOLT_HAVOC.name[0]	Gigavolt Havoc
+MOVE_SHATTERED_PSYCHE.name[0]	Shattered Psyche
+MOVE_SUBZERO_SLAMMER.name[0]	Subzero Slammer
+MOVE_BLACK_HOLE_ECLIPSE.name[0]	Black Hole Eclipse
+MOVE_TWINKLE_TACKLE.name[0]	Twinkle Tackle
+MOVE_CATASTROPIKA.name[0]	Catastropika
+MOVE_10000000_VOLT_THUNDERBOLT.name[0]	10,000,000 Volt Thunderbolt
+MOVE_STOKED_SPARKSURFER.name[0]	Stoked Sparksurfer
+MOVE_EXTREME_EVOBOOST.name[0]	Extreme Evoboost
+MOVE_PULVERIZING_PANCAKE.name[0]	Pulverizing Pancake
+MOVE_OCEANIC_OPERETTA.name[0]	Oceanic Operetta
+MOVE_SPLINTERED_STORMSHARDS.name[0]	Splintered Stormshards
+MOVE_LETS_SNUGGLE_FOREVER.name[0]	Let's Snuggle Forever
+MOVE_CLANGOROUS_SOULBLAZE.name[0]	Clangorous Soulblaze
+MOVE_SEARING_SUNRAZE_SMASH.name[0]	Searing Sunraze Smash
+MOVE_MENACING_MOONRAZE_MAELSTROM.name[0]	Menacing Moonraze Maelstrom
+MOVE_SOUL_STEALING_7_STAR_STRIKE.name[0]	Soul-Stealing 7-Star Strike
+MOVE_MAX_GUARD.name[0]	Max Guard
+MOVE_MAX_FLARE.name[0]	Max Flare
+MOVE_MAX_FLUTTERBY.name[0]	Max Flutterby
+MOVE_MAX_LIGHTNING.name[0]	Max Lightning
+MOVE_MAX_STRIKE.name[0]	Max Strike
+MOVE_MAX_KNUCKLE.name[0]	Max Knuckle
+MOVE_MAX_PHANTASM.name[0]	Max Phantasm
+MOVE_MAX_HAILSTORM.name[0]	Max Hailstorm
+MOVE_MAX_OOZE.name[0]	Max Ooze
+MOVE_MAX_GEYSER.name[0]	Max Geyser
+MOVE_MAX_AIRSTREAM.name[0]	Max Airstream
+MOVE_MAX_STARFALL.name[0]	Max Starfall
+MOVE_MAX_WYRMWIND.name[0]	Max Wyrmwind
+MOVE_MAX_MINDSTORM.name[0]	Max Mindstorm
+MOVE_MAX_ROCKFALL.name[0]	Max Rockfall
+MOVE_MAX_QUAKE.name[0]	Max Quake
+MOVE_MAX_DARKNESS.name[0]	Max Darkness
+MOVE_MAX_OVERGROWTH.name[0]	Max Overgrowth
+MOVE_MAX_STEELSPIKE.name[0]	Max Steelspike
+MOVE_G_MAX_VINE_LASH.name[0]	G-Max Vine Lash
+MOVE_G_MAX_WILDFIRE.name[0]	G-Max Wildfire
+MOVE_G_MAX_CANNONADE.name[0]	G-Max Cannonade
+MOVE_G_MAX_BEFUDDLE.name[0]	G-Max Befuddle
+MOVE_G_MAX_VOLT_CRASH.name[0]	G-Max Volt Crash
+MOVE_G_MAX_GOLD_RUSH.name[0]	G-Max Gold Rush
+MOVE_G_MAX_CHI_STRIKE.name[0]	G-Max Chi Strike
+MOVE_G_MAX_TERROR.name[0]	G-Max Terror
+MOVE_G_MAX_FOAM_BURST.name[0]	G-Max Foam Burst
+MOVE_G_MAX_RESONANCE.name[0]	G-Max Resonance
+MOVE_G_MAX_CUDDLE.name[0]	G-Max Cuddle
+MOVE_G_MAX_REPLENISH.name[0]	G-Max Replenish
+MOVE_G_MAX_MALODOR.name[0]	G-Max Malodor
+MOVE_G_MAX_MELTDOWN.name[0]	G-Max Meltdown
+MOVE_G_MAX_DRUM_SOLO.name[0]	G-Max Drum Solo
+MOVE_G_MAX_FIREBALL.name[0]	G-Max Fireball
+MOVE_G_MAX_HYDROSNIPE.name[0]	G-Max Hydrosnipe
+MOVE_G_MAX_WIND_RAGE.name[0]	G-Max Wind Rage
+MOVE_G_MAX_GRAVITAS.name[0]	G-Max Gravitas
+MOVE_G_MAX_STONESURGE.name[0]	G-Max Stonesurge
+MOVE_G_MAX_VOLCALITH.name[0]	G-Max Volcalith
+MOVE_G_MAX_TARTNESS.name[0]	G-Max Tartness
+MOVE_G_MAX_SWEETNESS.name[0]	G-Max Sweetness
+MOVE_G_MAX_SANDBLAST.name[0]	G-Max Sandblast
+MOVE_G_MAX_STUN_SHOCK.name[0]	G-Max Stun Shock
+MOVE_G_MAX_CENTIFERNO.name[0]	G-Max Centiferno
+MOVE_G_MAX_SMITE.name[0]	G-Max Smite
+MOVE_G_MAX_SNOOZE.name[0]	G-Max Snooze
+MOVE_G_MAX_FINALE.name[0]	G-Max Finale
+MOVE_G_MAX_STEELSURGE.name[0]	G-Max Steelsurge
+MOVE_G_MAX_DEPLETION.name[0]	G-Max Depletion
+MOVE_G_MAX_ONE_BLOW.name[0]	G-Max One Blow
+MOVE_G_MAX_RAPID_FLOW.name[0]	G-Max Rapid Flow
+SPECIES_BULBASAUR.speciesName[0]	Bulbasaur
+SPECIES_IVYSAUR.speciesName[0]	Ivysaur
+SPECIES_VENUSAUR.speciesName[0]	Venusaur
+SPECIES_VENUSAUR_MEGA.speciesName[0]	Venusaur
+SPECIES_VENUSAUR_GMAX.speciesName[0]	Venusaur
+SPECIES_CHARMANDER.speciesName[0]	Charmander
+SPECIES_CHARMELEON.speciesName[0]	Charmeleon
+SPECIES_CHARIZARD.speciesName[0]	Charizard
+SPECIES_CHARIZARD_MEGA_X.speciesName[0]	Charizard
+SPECIES_CHARIZARD_MEGA_Y.speciesName[0]	Charizard
+SPECIES_CHARIZARD_GMAX.speciesName[0]	Charizard
+SPECIES_SQUIRTLE.speciesName[0]	Squirtle
+SPECIES_WARTORTLE.speciesName[0]	Wartortle
+SPECIES_BLASTOISE.speciesName[0]	Blastoise
+SPECIES_BLASTOISE_MEGA.speciesName[0]	Blastoise
+SPECIES_BLASTOISE_GMAX.speciesName[0]	Blastoise
+SPECIES_CATERPIE.speciesName[0]	Caterpie
+SPECIES_METAPOD.speciesName[0]	Metapod
+SPECIES_BUTTERFREE.speciesName[0]	Butterfree
+SPECIES_BUTTERFREE_GMAX.speciesName[0]	Butterfree
+SPECIES_WEEDLE.speciesName[0]	Weedle
+SPECIES_KAKUNA.speciesName[0]	Kakuna
+SPECIES_BEEDRILL.speciesName[0]	Beedrill
+SPECIES_BEEDRILL_MEGA.speciesName[0]	Beedrill
+SPECIES_PIDGEY.speciesName[0]	Pidgey
+SPECIES_PIDGEOTTO.speciesName[0]	Pidgeotto
+SPECIES_PIDGEOT.speciesName[0]	Pidgeot
+SPECIES_PIDGEOT_MEGA.speciesName[0]	Pidgeot
+SPECIES_RATTATA.speciesName[0]	Rattata
+SPECIES_RATICATE.speciesName[0]	Raticate
+SPECIES_RATTATA_ALOLA.speciesName[0]	Rattata
+SPECIES_RATICATE_ALOLA.speciesName[0]	Raticate
+SPECIES_RATICATE_ALOLA_TOTEM.speciesName[0]	Raticate
+SPECIES_SPEAROW.speciesName[0]	Spearow
+SPECIES_FEAROW.speciesName[0]	Fearow
+SPECIES_EKANS.speciesName[0]	Ekans
+SPECIES_ARBOK.speciesName[0]	Arbok
+SPECIES_PICHU.speciesName[0]	Pichu
+SPECIES_PICHU_SPIKY_EARED.speciesName[0]	Pichu
+SPECIES_PIKACHU.speciesName[0]	Pikachu
+SPECIES_PIKACHU_COSPLAY.speciesName[0]	Pikachu
+SPECIES_PIKACHU_ROCK_STAR.speciesName[0]	Pikachu
+SPECIES_PIKACHU_BELLE.speciesName[0]	Pikachu
+SPECIES_PIKACHU_POP_STAR.speciesName[0]	Pikachu
+SPECIES_PIKACHU_PHD.speciesName[0]	Pikachu
+SPECIES_PIKACHU_LIBRE.speciesName[0]	Pikachu
+SPECIES_PIKACHU_ORIGINAL.speciesName[0]	Pikachu
+SPECIES_PIKACHU_HOENN.speciesName[0]	Pikachu
+SPECIES_PIKACHU_SINNOH.speciesName[0]	Pikachu
+SPECIES_PIKACHU_UNOVA.speciesName[0]	Pikachu
+SPECIES_PIKACHU_KALOS.speciesName[0]	Pikachu
+SPECIES_PIKACHU_ALOLA.speciesName[0]	Pikachu
+SPECIES_PIKACHU_PARTNER.speciesName[0]	Pikachu
+SPECIES_PIKACHU_WORLD.speciesName[0]	Pikachu
+SPECIES_PIKACHU_GMAX.speciesName[0]	Pikachu
+SPECIES_PIKACHU_STARTER.speciesName[0]	Pikachu
+SPECIES_RAICHU.speciesName[0]	Raichu
+SPECIES_RAICHU_ALOLA.speciesName[0]	Raichu
+SPECIES_RAICHU_MEGA_X.speciesName[0]	Raichu
+SPECIES_RAICHU_MEGA_Y.speciesName[0]	Raichu
+SPECIES_SANDSHREW.speciesName[0]	Sandshrew
+SPECIES_SANDSLASH.speciesName[0]	Sandslash
+SPECIES_SANDSHREW_ALOLA.speciesName[0]	Sandshrew
+SPECIES_SANDSLASH_ALOLA.speciesName[0]	Sandslash
+SPECIES_NIDORAN_F.speciesName[0]	Nidoran♀
+SPECIES_NIDORINA.speciesName[0]	Nidorina
+SPECIES_NIDOQUEEN.speciesName[0]	Nidoqueen
+SPECIES_NIDORAN_M.speciesName[0]	Nidoran♂
+SPECIES_NIDORINO.speciesName[0]	Nidorino
+SPECIES_NIDOKING.speciesName[0]	Nidoking
+SPECIES_CLEFFA.speciesName[0]	Cleffa
+SPECIES_CLEFAIRY.speciesName[0]	Clefairy
+SPECIES_CLEFABLE.speciesName[0]	Clefable
+SPECIES_CLEFABLE_MEGA.speciesName[0]	Clefable
+SPECIES_VULPIX.speciesName[0]	Vulpix
+SPECIES_NINETALES.speciesName[0]	Ninetales
+SPECIES_VULPIX_ALOLA.speciesName[0]	Vulpix
+SPECIES_NINETALES_ALOLA.speciesName[0]	Ninetales
+SPECIES_IGGLYBUFF.speciesName[0]	Igglybuff
+SPECIES_JIGGLYPUFF.speciesName[0]	Jigglypuff
+SPECIES_WIGGLYTUFF.speciesName[0]	Wigglytuff
+SPECIES_ZUBAT.speciesName[0]	Zubat
+SPECIES_GOLBAT.speciesName[0]	Golbat
+SPECIES_CROBAT.speciesName[0]	Crobat
+SPECIES_ODDISH.speciesName[0]	Oddish
+SPECIES_GLOOM.speciesName[0]	Gloom
+SPECIES_VILEPLUME.speciesName[0]	Vileplume
+SPECIES_BELLOSSOM.speciesName[0]	Bellossom
+SPECIES_PARAS.speciesName[0]	Paras
+SPECIES_PARASECT.speciesName[0]	Parasect
+SPECIES_VENONAT.speciesName[0]	Venonat
+SPECIES_VENOMOTH.speciesName[0]	Venomoth
+SPECIES_DIGLETT.speciesName[0]	Diglett
+SPECIES_DUGTRIO.speciesName[0]	Dugtrio
+SPECIES_DIGLETT_ALOLA.speciesName[0]	Diglett
+SPECIES_DUGTRIO_ALOLA.speciesName[0]	Dugtrio
+SPECIES_MEOWTH.speciesName[0]	Meowth
+SPECIES_PERSIAN.speciesName[0]	Persian
+SPECIES_MEOWTH_ALOLA.speciesName[0]	Meowth
+SPECIES_PERSIAN_ALOLA.speciesName[0]	Persian
+SPECIES_MEOWTH_GALAR.speciesName[0]	Meowth
+SPECIES_PERRSERKER.speciesName[0]	Perrserker
+SPECIES_MEOWTH_GMAX.speciesName[0]	Meowth
+SPECIES_PSYDUCK.speciesName[0]	Psyduck
+SPECIES_GOLDUCK.speciesName[0]	Golduck
+SPECIES_MANKEY.speciesName[0]	Mankey
+SPECIES_PRIMEAPE.speciesName[0]	Primeape
+SPECIES_ANNIHILAPE.speciesName[0]	Annihilape
+SPECIES_GROWLITHE.speciesName[0]	Growlithe
+SPECIES_ARCANINE.speciesName[0]	Arcanine
+SPECIES_GROWLITHE_HISUI.speciesName[0]	Growlithe
+SPECIES_ARCANINE_HISUI.speciesName[0]	Arcanine
+SPECIES_POLIWAG.speciesName[0]	Poliwag
+SPECIES_POLIWHIRL.speciesName[0]	Poliwhirl
+SPECIES_POLIWRATH.speciesName[0]	Poliwrath
+SPECIES_POLITOED.speciesName[0]	Politoed
+SPECIES_ABRA.speciesName[0]	Abra
+SPECIES_KADABRA.speciesName[0]	Kadabra
+SPECIES_ALAKAZAM.speciesName[0]	Alakazam
+SPECIES_ALAKAZAM_MEGA.speciesName[0]	Alakazam
+SPECIES_MACHOP.speciesName[0]	Machop
+SPECIES_MACHOKE.speciesName[0]	Machoke
+SPECIES_MACHAMP.speciesName[0]	Machamp
+SPECIES_MACHAMP_GMAX.speciesName[0]	Machamp
+SPECIES_BELLSPROUT.speciesName[0]	Bellsprout
+SPECIES_WEEPINBELL.speciesName[0]	Weepinbell
+SPECIES_VICTREEBEL.speciesName[0]	Victreebel
+SPECIES_VICTREEBEL_MEGA.speciesName[0]	Victreebel
+SPECIES_TENTACOOL.speciesName[0]	Tentacool
+SPECIES_TENTACRUEL.speciesName[0]	Tentacruel
+SPECIES_GEODUDE.speciesName[0]	Geodude
+SPECIES_GRAVELER.speciesName[0]	Graveler
+SPECIES_GOLEM.speciesName[0]	Golem
+SPECIES_GEODUDE_ALOLA.speciesName[0]	Geodude
+SPECIES_GRAVELER_ALOLA.speciesName[0]	Graveler
+SPECIES_GOLEM_ALOLA.speciesName[0]	Golem
+SPECIES_PONYTA.speciesName[0]	Ponyta
+SPECIES_RAPIDASH.speciesName[0]	Rapidash
+SPECIES_PONYTA_GALAR.speciesName[0]	Ponyta
+SPECIES_RAPIDASH_GALAR.speciesName[0]	Rapidash
+SPECIES_SLOWPOKE.speciesName[0]	Slowpoke
+SPECIES_SLOWBRO.speciesName[0]	Slowbro
+SPECIES_SLOWKING.speciesName[0]	Slowking
+SPECIES_SLOWBRO_MEGA.speciesName[0]	Slowbro
+SPECIES_SLOWPOKE_GALAR.speciesName[0]	Slowpoke
+SPECIES_SLOWBRO_GALAR.speciesName[0]	Slowbro
+SPECIES_SLOWKING_GALAR.speciesName[0]	Slowking
+SPECIES_MAGNEMITE.speciesName[0]	Magnemite
+SPECIES_MAGNETON.speciesName[0]	Magneton
+SPECIES_MAGNEZONE.speciesName[0]	Magnezone
+SPECIES_FARFETCHD.speciesName[0]	Farfetch'd
+SPECIES_FARFETCHD_GALAR.speciesName[0]	Farfetch'd
+SPECIES_SIRFETCHD.speciesName[0]	Sirfetch'd
+SPECIES_DODUO.speciesName[0]	Doduo
+SPECIES_DODRIO.speciesName[0]	Dodrio
+SPECIES_SEEL.speciesName[0]	Seel
+SPECIES_DEWGONG.speciesName[0]	Dewgong
+SPECIES_GRIMER.speciesName[0]	Grimer
+SPECIES_MUK.speciesName[0]	Muk
+SPECIES_GRIMER_ALOLA.speciesName[0]	Grimer
+SPECIES_MUK_ALOLA.speciesName[0]	Muk
+SPECIES_SHELLDER.speciesName[0]	Shellder
+SPECIES_CLOYSTER.speciesName[0]	Cloyster
+SPECIES_GASTLY.speciesName[0]	Gastly
+SPECIES_HAUNTER.speciesName[0]	Haunter
+SPECIES_GENGAR.speciesName[0]	Gengar
+SPECIES_GENGAR_MEGA.speciesName[0]	Gengar
+SPECIES_GENGAR_GMAX.speciesName[0]	Gengar
+SPECIES_ONIX.speciesName[0]	Onix
+SPECIES_STEELIX.speciesName[0]	Steelix
+SPECIES_STEELIX_MEGA.speciesName[0]	Steelix
+SPECIES_DROWZEE.speciesName[0]	Drowzee
+SPECIES_HYPNO.speciesName[0]	Hypno
+SPECIES_KRABBY.speciesName[0]	Krabby
+SPECIES_KINGLER.speciesName[0]	Kingler
+SPECIES_KINGLER_GMAX.speciesName[0]	Kingler
+SPECIES_VOLTORB.speciesName[0]	Voltorb
+SPECIES_ELECTRODE.speciesName[0]	Electrode
+SPECIES_VOLTORB_HISUI.speciesName[0]	Voltorb
+SPECIES_ELECTRODE_HISUI.speciesName[0]	Electrode
+SPECIES_EXEGGCUTE.speciesName[0]	Exeggcute
+SPECIES_EXEGGUTOR.speciesName[0]	Exeggutor
+SPECIES_EXEGGUTOR_ALOLA.speciesName[0]	Exeggutor
+SPECIES_CUBONE.speciesName[0]	Cubone
+SPECIES_MAROWAK.speciesName[0]	Marowak
+SPECIES_MAROWAK_ALOLA.speciesName[0]	Marowak
+SPECIES_MAROWAK_ALOLA_TOTEM.speciesName[0]	Marowak
+SPECIES_TYROGUE.speciesName[0]	Tyrogue
+SPECIES_HITMONLEE.speciesName[0]	Hitmonlee
+SPECIES_HITMONCHAN.speciesName[0]	Hitmonchan
+SPECIES_HITMONTOP.speciesName[0]	Hitmontop
+SPECIES_LICKITUNG.speciesName[0]	Lickitung
+SPECIES_LICKILICKY.speciesName[0]	Lickilicky
+SPECIES_KOFFING.speciesName[0]	Koffing
+SPECIES_WEEZING.speciesName[0]	Weezing
+SPECIES_WEEZING_GALAR.speciesName[0]	Weezing
+SPECIES_RHYHORN.speciesName[0]	Rhyhorn
+SPECIES_RHYDON.speciesName[0]	Rhydon
+SPECIES_RHYPERIOR.speciesName[0]	Rhyperior
+SPECIES_HAPPINY.speciesName[0]	Happiny
+SPECIES_CHANSEY.speciesName[0]	Chansey
+SPECIES_BLISSEY.speciesName[0]	Blissey
+SPECIES_TANGELA.speciesName[0]	Tangela
+SPECIES_TANGROWTH.speciesName[0]	Tangrowth
+SPECIES_KANGASKHAN.speciesName[0]	Kangaskhan
+SPECIES_KANGASKHAN_MEGA.speciesName[0]	Kangaskhan
+SPECIES_HORSEA.speciesName[0]	Horsea
+SPECIES_SEADRA.speciesName[0]	Seadra
+SPECIES_KINGDRA.speciesName[0]	Kingdra
+SPECIES_GOLDEEN.speciesName[0]	Goldeen
+SPECIES_SEAKING.speciesName[0]	Seaking
+SPECIES_STARYU.speciesName[0]	Staryu
+SPECIES_STARMIE.speciesName[0]	Starmie
+SPECIES_STARMIE_MEGA.speciesName[0]	Starmie
+SPECIES_MIME_JR.speciesName[0]	Mime Jr.
+SPECIES_MR_MIME.speciesName[0]	Mr. Mime
+SPECIES_MR_MIME_GALAR.speciesName[0]	Mr. Mime
+SPECIES_MR_RIME.speciesName[0]	Mr. Rime
+SPECIES_SCYTHER.speciesName[0]	Scyther
+SPECIES_SCIZOR.speciesName[0]	Scizor
+SPECIES_SCIZOR_MEGA.speciesName[0]	Scizor
+SPECIES_KLEAVOR.speciesName[0]	Kleavor
+SPECIES_SMOOCHUM.speciesName[0]	Smoochum
+SPECIES_JYNX.speciesName[0]	Jynx
+SPECIES_ELEKID.speciesName[0]	Elekid
+SPECIES_ELECTABUZZ.speciesName[0]	Electabuzz
+SPECIES_ELECTIVIRE.speciesName[0]	Electivire
+SPECIES_MAGBY.speciesName[0]	Magby
+SPECIES_MAGMAR.speciesName[0]	Magmar
+SPECIES_MAGMORTAR.speciesName[0]	Magmortar
+SPECIES_PINSIR.speciesName[0]	Pinsir
+SPECIES_PINSIR_MEGA.speciesName[0]	Pinsir
+SPECIES_TAUROS.speciesName[0]	Tauros
+SPECIES_TAUROS_PALDEA_COMBAT.speciesName[0]	Tauros
+SPECIES_TAUROS_PALDEA_BLAZE.speciesName[0]	Tauros
+SPECIES_TAUROS_PALDEA_AQUA.speciesName[0]	Tauros
+SPECIES_MAGIKARP.speciesName[0]	Magikarp
+SPECIES_GYARADOS.speciesName[0]	Gyarados
+SPECIES_GYARADOS_MEGA.speciesName[0]	Gyarados
+SPECIES_LAPRAS.speciesName[0]	Lapras
+SPECIES_LAPRAS_GMAX.speciesName[0]	Lapras
+SPECIES_DITTO.speciesName[0]	Ditto
+SPECIES_EEVEE.speciesName[0]	Eevee
+SPECIES_EEVEE_GMAX.speciesName[0]	Eevee
+SPECIES_EEVEE_STARTER.speciesName[0]	Eevee
+SPECIES_VAPOREON.speciesName[0]	Vaporeon
+SPECIES_JOLTEON.speciesName[0]	Jolteon
+SPECIES_FLAREON.speciesName[0]	Flareon
+SPECIES_ESPEON.speciesName[0]	Espeon
+SPECIES_UMBREON.speciesName[0]	Umbreon
+SPECIES_LEAFEON.speciesName[0]	Leafeon
+SPECIES_GLACEON.speciesName[0]	Glaceon
+SPECIES_SYLVEON.speciesName[0]	Sylveon
+SPECIES_PORYGON.speciesName[0]	Porygon
+SPECIES_PORYGON2.speciesName[0]	Porygon2
+SPECIES_PORYGON_Z.speciesName[0]	Porygon-Z
+SPECIES_OMANYTE.speciesName[0]	Omanyte
+SPECIES_OMASTAR.speciesName[0]	Omastar
+SPECIES_KABUTO.speciesName[0]	Kabuto
+SPECIES_KABUTOPS.speciesName[0]	Kabutops
+SPECIES_AERODACTYL.speciesName[0]	Aerodactyl
+SPECIES_AERODACTYL_MEGA.speciesName[0]	Aerodactyl
+SPECIES_MUNCHLAX.speciesName[0]	Munchlax
+SPECIES_SNORLAX.speciesName[0]	Snorlax
+SPECIES_SNORLAX_GMAX.speciesName[0]	Snorlax
+SPECIES_ARTICUNO.speciesName[0]	Articuno
+SPECIES_ARTICUNO_GALAR.speciesName[0]	Articuno
+SPECIES_ZAPDOS.speciesName[0]	Zapdos
+SPECIES_ZAPDOS_GALAR.speciesName[0]	Zapdos
+SPECIES_MOLTRES.speciesName[0]	Moltres
+SPECIES_MOLTRES_GALAR.speciesName[0]	Moltres
+SPECIES_DRATINI.speciesName[0]	Dratini
+SPECIES_DRAGONAIR.speciesName[0]	Dragonair
+SPECIES_DRAGONITE.speciesName[0]	Dragonite
+SPECIES_DRAGONITE_MEGA.speciesName[0]	Dragonite
+SPECIES_MEWTWO.speciesName[0]	Mewtwo
+SPECIES_MEWTWO_MEGA_X.speciesName[0]	Mewtwo
+SPECIES_MEWTWO_MEGA_Y.speciesName[0]	Mewtwo
+SPECIES_MEW.speciesName[0]	Mew
+SPECIES_CHIKORITA.speciesName[0]	Chikorita
+SPECIES_BAYLEEF.speciesName[0]	Bayleef
+SPECIES_MEGANIUM.speciesName[0]	Meganium
+SPECIES_MEGANIUM_MEGA.speciesName[0]	Meganium
+SPECIES_CYNDAQUIL.speciesName[0]	Cyndaquil
+SPECIES_QUILAVA.speciesName[0]	Quilava
+SPECIES_TYPHLOSION.speciesName[0]	Typhlosion
+SPECIES_TYPHLOSION_HISUI.speciesName[0]	Typhlosion
+SPECIES_TOTODILE.speciesName[0]	Totodile
+SPECIES_CROCONAW.speciesName[0]	Croconaw
+SPECIES_FERALIGATR.speciesName[0]	Feraligatr
+SPECIES_FERALIGATR_MEGA.speciesName[0]	Feraligatr
+SPECIES_SENTRET.speciesName[0]	Sentret
+SPECIES_FURRET.speciesName[0]	Furret
+SPECIES_HOOTHOOT.speciesName[0]	Hoothoot
+SPECIES_NOCTOWL.speciesName[0]	Noctowl
+SPECIES_LEDYBA.speciesName[0]	Ledyba
+SPECIES_LEDIAN.speciesName[0]	Ledian
+SPECIES_SPINARAK.speciesName[0]	Spinarak
+SPECIES_ARIADOS.speciesName[0]	Ariados
+SPECIES_CHINCHOU.speciesName[0]	Chinchou
+SPECIES_LANTURN.speciesName[0]	Lanturn
+SPECIES_TOGEPI.speciesName[0]	Togepi
+SPECIES_TOGETIC.speciesName[0]	Togetic
+SPECIES_TOGEKISS.speciesName[0]	Togekiss
+SPECIES_NATU.speciesName[0]	Natu
+SPECIES_XATU.speciesName[0]	Xatu
+SPECIES_MAREEP.speciesName[0]	Mareep
+SPECIES_FLAAFFY.speciesName[0]	Flaaffy
+SPECIES_AMPHAROS.speciesName[0]	Ampharos
+SPECIES_AMPHAROS_MEGA.speciesName[0]	Ampharos
+SPECIES_AZURILL.speciesName[0]	Azurill
+SPECIES_MARILL.speciesName[0]	Marill
+SPECIES_AZUMARILL.speciesName[0]	Azumarill
+SPECIES_BONSLY.speciesName[0]	Bonsly
+SPECIES_SUDOWOODO.speciesName[0]	Sudowoodo
+SPECIES_HOPPIP.speciesName[0]	Hoppip
+SPECIES_SKIPLOOM.speciesName[0]	Skiploom
+SPECIES_JUMPLUFF.speciesName[0]	Jumpluff
+SPECIES_AIPOM.speciesName[0]	Aipom
+SPECIES_AMBIPOM.speciesName[0]	Ambipom
+SPECIES_SUNKERN.speciesName[0]	Sunkern
+SPECIES_SUNFLORA.speciesName[0]	Sunflora
+SPECIES_YANMA.speciesName[0]	Yanma
+SPECIES_YANMEGA.speciesName[0]	Yanmega
+SPECIES_WOOPER.speciesName[0]	Wooper
+SPECIES_QUAGSIRE.speciesName[0]	Quagsire
+SPECIES_WOOPER_PALDEA.speciesName[0]	Wooper
+SPECIES_CLODSIRE.speciesName[0]	Clodsire
+SPECIES_MURKROW.speciesName[0]	Murkrow
+SPECIES_HONCHKROW.speciesName[0]	Honchkrow
+SPECIES_MISDREAVUS.speciesName[0]	Misdreavus
+SPECIES_MISMAGIUS.speciesName[0]	Mismagius
+SPECIES_WYNAUT.speciesName[0]	Wynaut
+SPECIES_WOBBUFFET.speciesName[0]	Wobbuffet
+SPECIES_GIRAFARIG.speciesName[0]	Girafarig
+SPECIES_FARIGIRAF.speciesName[0]	Farigiraf
+SPECIES_PINECO.speciesName[0]	Pineco
+SPECIES_FORRETRESS.speciesName[0]	Forretress
+SPECIES_DUNSPARCE.speciesName[0]	Dunsparce
+SPECIES_DUDUNSPARCE_TWO_SEGMENT.speciesName[0]	Dudunsparce
+SPECIES_DUDUNSPARCE_THREE_SEGMENT.speciesName[0]	Dudunsparce
+SPECIES_GLIGAR.speciesName[0]	Gligar
+SPECIES_GLISCOR.speciesName[0]	Gliscor
+SPECIES_SNUBBULL.speciesName[0]	Snubbull
+SPECIES_GRANBULL.speciesName[0]	Granbull
+SPECIES_QWILFISH.speciesName[0]	Qwilfish
+SPECIES_QWILFISH_HISUI.speciesName[0]	Qwilfish
+SPECIES_OVERQWIL.speciesName[0]	Overqwil
+SPECIES_SHUCKLE.speciesName[0]	Shuckle
+SPECIES_HERACROSS.speciesName[0]	Heracross
+SPECIES_HERACROSS_MEGA.speciesName[0]	Heracross
+SPECIES_SNEASEL.speciesName[0]	Sneasel
+SPECIES_WEAVILE.speciesName[0]	Weavile
+SPECIES_SNEASEL_HISUI.speciesName[0]	Sneasel
+SPECIES_SNEASLER.speciesName[0]	Sneasler
+SPECIES_TEDDIURSA.speciesName[0]	Teddiursa
+SPECIES_URSARING.speciesName[0]	Ursaring
+SPECIES_URSALUNA.speciesName[0]	Ursaluna
+SPECIES_URSALUNA_BLOODMOON.speciesName[0]	Ursaluna
+SPECIES_SLUGMA.speciesName[0]	Slugma
+SPECIES_MAGCARGO.speciesName[0]	Magcargo
+SPECIES_SWINUB.speciesName[0]	Swinub
+SPECIES_PILOSWINE.speciesName[0]	Piloswine
+SPECIES_MAMOSWINE.speciesName[0]	Mamoswine
+SPECIES_CORSOLA.speciesName[0]	Corsola
+SPECIES_CORSOLA_GALAR.speciesName[0]	Corsola
+SPECIES_CURSOLA.speciesName[0]	Cursola
+SPECIES_REMORAID.speciesName[0]	Remoraid
+SPECIES_OCTILLERY.speciesName[0]	Octillery
+SPECIES_DELIBIRD.speciesName[0]	Delibird
+SPECIES_MANTYKE.speciesName[0]	Mantyke
+SPECIES_MANTINE.speciesName[0]	Mantine
+SPECIES_SKARMORY.speciesName[0]	Skarmory
+SPECIES_SKARMORY_MEGA.speciesName[0]	Skarmory
+SPECIES_HOUNDOUR.speciesName[0]	Houndour
+SPECIES_HOUNDOOM.speciesName[0]	Houndoom
+SPECIES_HOUNDOOM_MEGA.speciesName[0]	Houndoom
+SPECIES_PHANPY.speciesName[0]	Phanpy
+SPECIES_DONPHAN.speciesName[0]	Donphan
+SPECIES_STANTLER.speciesName[0]	Stantler
+SPECIES_WYRDEER.speciesName[0]	Wyrdeer
+SPECIES_SMEARGLE.speciesName[0]	Smeargle
+SPECIES_MILTANK.speciesName[0]	Miltank
+SPECIES_RAIKOU.speciesName[0]	Raikou
+SPECIES_ENTEI.speciesName[0]	Entei
+SPECIES_SUICUNE.speciesName[0]	Suicune
+SPECIES_LARVITAR.speciesName[0]	Larvitar
+SPECIES_PUPITAR.speciesName[0]	Pupitar
+SPECIES_TYRANITAR.speciesName[0]	Tyranitar
+SPECIES_TYRANITAR_MEGA.speciesName[0]	Tyranitar
+SPECIES_LUGIA.speciesName[0]	Lugia
+SPECIES_HO_OH.speciesName[0]	Ho-Oh
+SPECIES_CELEBI.speciesName[0]	Celebi
+SPECIES_TREECKO.speciesName[0]	Treecko
+SPECIES_GROVYLE.speciesName[0]	Grovyle
+SPECIES_SCEPTILE.speciesName[0]	Sceptile
+SPECIES_SCEPTILE_MEGA.speciesName[0]	Sceptile
+SPECIES_TORCHIC.speciesName[0]	Torchic
+SPECIES_COMBUSKEN.speciesName[0]	Combusken
+SPECIES_BLAZIKEN.speciesName[0]	Blaziken
+SPECIES_BLAZIKEN_MEGA.speciesName[0]	Blaziken
+SPECIES_MUDKIP.speciesName[0]	Mudkip
+SPECIES_MARSHTOMP.speciesName[0]	Marshtomp
+SPECIES_SWAMPERT.speciesName[0]	Swampert
+SPECIES_SWAMPERT_MEGA.speciesName[0]	Swampert
+SPECIES_POOCHYENA.speciesName[0]	Poochyena
+SPECIES_MIGHTYENA.speciesName[0]	Mightyena
+SPECIES_ZIGZAGOON.speciesName[0]	Zigzagoon
+SPECIES_LINOONE.speciesName[0]	Linoone
+SPECIES_ZIGZAGOON_GALAR.speciesName[0]	Zigzagoon
+SPECIES_LINOONE_GALAR.speciesName[0]	Linoone
+SPECIES_OBSTAGOON.speciesName[0]	Obstagoon
+SPECIES_WURMPLE.speciesName[0]	Wurmple
+SPECIES_SILCOON.speciesName[0]	Silcoon
+SPECIES_BEAUTIFLY.speciesName[0]	Beautifly
+SPECIES_CASCOON.speciesName[0]	Cascoon
+SPECIES_DUSTOX.speciesName[0]	Dustox
+SPECIES_LOTAD.speciesName[0]	Lotad
+SPECIES_LOMBRE.speciesName[0]	Lombre
+SPECIES_LUDICOLO.speciesName[0]	Ludicolo
+SPECIES_SEEDOT.speciesName[0]	Seedot
+SPECIES_NUZLEAF.speciesName[0]	Nuzleaf
+SPECIES_SHIFTRY.speciesName[0]	Shiftry
+SPECIES_TAILLOW.speciesName[0]	Taillow
+SPECIES_SWELLOW.speciesName[0]	Swellow
+SPECIES_WINGULL.speciesName[0]	Wingull
+SPECIES_PELIPPER.speciesName[0]	Pelipper
+SPECIES_RALTS.speciesName[0]	Ralts
+SPECIES_KIRLIA.speciesName[0]	Kirlia
+SPECIES_GARDEVOIR.speciesName[0]	Gardevoir
+SPECIES_GARDEVOIR_MEGA.speciesName[0]	Gardevoir
+SPECIES_GALLADE.speciesName[0]	Gallade
+SPECIES_GALLADE_MEGA.speciesName[0]	Gallade
+SPECIES_SURSKIT.speciesName[0]	Surskit
+SPECIES_MASQUERAIN.speciesName[0]	Masquerain
+SPECIES_SHROOMISH.speciesName[0]	Shroomish
+SPECIES_BRELOOM.speciesName[0]	Breloom
+SPECIES_SLAKOTH.speciesName[0]	Slakoth
+SPECIES_VIGOROTH.speciesName[0]	Vigoroth
+SPECIES_SLAKING.speciesName[0]	Slaking
+SPECIES_NINCADA.speciesName[0]	Nincada
+SPECIES_NINJASK.speciesName[0]	Ninjask
+SPECIES_SHEDINJA.speciesName[0]	Shedinja
+SPECIES_WHISMUR.speciesName[0]	Whismur
+SPECIES_LOUDRED.speciesName[0]	Loudred
+SPECIES_EXPLOUD.speciesName[0]	Exploud
+SPECIES_MAKUHITA.speciesName[0]	Makuhita
+SPECIES_HARIYAMA.speciesName[0]	Hariyama
+SPECIES_NOSEPASS.speciesName[0]	Nosepass
+SPECIES_PROBOPASS.speciesName[0]	Probopass
+SPECIES_SKITTY.speciesName[0]	Skitty
+SPECIES_DELCATTY.speciesName[0]	Delcatty
+SPECIES_SABLEYE.speciesName[0]	Sableye
+SPECIES_SABLEYE_MEGA.speciesName[0]	Sableye
+SPECIES_MAWILE.speciesName[0]	Mawile
+SPECIES_MAWILE_MEGA.speciesName[0]	Mawile
+SPECIES_ARON.speciesName[0]	Aron
+SPECIES_LAIRON.speciesName[0]	Lairon
+SPECIES_AGGRON.speciesName[0]	Aggron
+SPECIES_AGGRON_MEGA.speciesName[0]	Aggron
+SPECIES_MEDITITE.speciesName[0]	Meditite
+SPECIES_MEDICHAM.speciesName[0]	Medicham
+SPECIES_MEDICHAM_MEGA.speciesName[0]	Medicham
+SPECIES_ELECTRIKE.speciesName[0]	Electrike
+SPECIES_MANECTRIC.speciesName[0]	Manectric
+SPECIES_MANECTRIC_MEGA.speciesName[0]	Manectric
+SPECIES_PLUSLE.speciesName[0]	Plusle
+SPECIES_MINUN.speciesName[0]	Minun
+SPECIES_VOLBEAT.speciesName[0]	Volbeat
+SPECIES_ILLUMISE.speciesName[0]	Illumise
+SPECIES_BUDEW.speciesName[0]	Budew
+SPECIES_ROSELIA.speciesName[0]	Roselia
+SPECIES_ROSERADE.speciesName[0]	Roserade
+SPECIES_GULPIN.speciesName[0]	Gulpin
+SPECIES_SWALOT.speciesName[0]	Swalot
+SPECIES_CARVANHA.speciesName[0]	Carvanha
+SPECIES_SHARPEDO.speciesName[0]	Sharpedo
+SPECIES_SHARPEDO_MEGA.speciesName[0]	Sharpedo
+SPECIES_WAILMER.speciesName[0]	Wailmer
+SPECIES_WAILORD.speciesName[0]	Wailord
+SPECIES_NUMEL.speciesName[0]	Numel
+SPECIES_CAMERUPT.speciesName[0]	Camerupt
+SPECIES_CAMERUPT_MEGA.speciesName[0]	Camerupt
+SPECIES_TORKOAL.speciesName[0]	Torkoal
+SPECIES_SPOINK.speciesName[0]	Spoink
+SPECIES_GRUMPIG.speciesName[0]	Grumpig
+SPECIES_SPINDA.speciesName[0]	Spinda
+SPECIES_TRAPINCH.speciesName[0]	Trapinch
+SPECIES_VIBRAVA.speciesName[0]	Vibrava
+SPECIES_FLYGON.speciesName[0]	Flygon
+SPECIES_CACNEA.speciesName[0]	Cacnea
+SPECIES_CACTURNE.speciesName[0]	Cacturne
+SPECIES_SWABLU.speciesName[0]	Swablu
+SPECIES_ALTARIA.speciesName[0]	Altaria
+SPECIES_ALTARIA_MEGA.speciesName[0]	Altaria
+SPECIES_ZANGOOSE.speciesName[0]	Zangoose
+SPECIES_SEVIPER.speciesName[0]	Seviper
+SPECIES_LUNATONE.speciesName[0]	Lunatone
+SPECIES_SOLROCK.speciesName[0]	Solrock
+SPECIES_BARBOACH.speciesName[0]	Barboach
+SPECIES_WHISCASH.speciesName[0]	Whiscash
+SPECIES_CORPHISH.speciesName[0]	Corphish
+SPECIES_CRAWDAUNT.speciesName[0]	Crawdaunt
+SPECIES_BALTOY.speciesName[0]	Baltoy
+SPECIES_CLAYDOL.speciesName[0]	Claydol
+SPECIES_LILEEP.speciesName[0]	Lileep
+SPECIES_CRADILY.speciesName[0]	Cradily
+SPECIES_ANORITH.speciesName[0]	Anorith
+SPECIES_ARMALDO.speciesName[0]	Armaldo
+SPECIES_FEEBAS.speciesName[0]	Feebas
+SPECIES_MILOTIC.speciesName[0]	Milotic
+SPECIES_CASTFORM_NORMAL.speciesName[0]	Castform
+SPECIES_CASTFORM_SUNNY.speciesName[0]	Castform
+SPECIES_CASTFORM_RAINY.speciesName[0]	Castform
+SPECIES_CASTFORM_SNOWY.speciesName[0]	Castform
+SPECIES_KECLEON.speciesName[0]	Kecleon
+SPECIES_SHUPPET.speciesName[0]	Shuppet
+SPECIES_BANETTE.speciesName[0]	Banette
+SPECIES_BANETTE_MEGA.speciesName[0]	Banette
+SPECIES_DUSKULL.speciesName[0]	Duskull
+SPECIES_DUSCLOPS.speciesName[0]	Dusclops
+SPECIES_DUSKNOIR.speciesName[0]	Dusknoir
+SPECIES_TROPIUS.speciesName[0]	Tropius
+SPECIES_CHINGLING.speciesName[0]	Chingling
+SPECIES_CHIMECHO.speciesName[0]	Chimecho
+SPECIES_CHIMECHO_MEGA.speciesName[0]	Chimecho
+SPECIES_ABSOL.speciesName[0]	Absol
+SPECIES_ABSOL_MEGA.speciesName[0]	Absol
+SPECIES_ABSOL_MEGA_Z.speciesName[0]	Absol
+SPECIES_SNORUNT.speciesName[0]	Snorunt
+SPECIES_GLALIE.speciesName[0]	Glalie
+SPECIES_GLALIE_MEGA.speciesName[0]	Glalie
+SPECIES_FROSLASS.speciesName[0]	Froslass
+SPECIES_FROSLASS_MEGA.speciesName[0]	Froslass
+SPECIES_SPHEAL.speciesName[0]	Spheal
+SPECIES_SEALEO.speciesName[0]	Sealeo
+SPECIES_WALREIN.speciesName[0]	Walrein
+SPECIES_CLAMPERL.speciesName[0]	Clamperl
+SPECIES_HUNTAIL.speciesName[0]	Huntail
+SPECIES_GOREBYSS.speciesName[0]	Gorebyss
+SPECIES_RELICANTH.speciesName[0]	Relicanth
+SPECIES_LUVDISC.speciesName[0]	Luvdisc
+SPECIES_BAGON.speciesName[0]	Bagon
+SPECIES_SHELGON.speciesName[0]	Shelgon
+SPECIES_SALAMENCE.speciesName[0]	Salamence
+SPECIES_SALAMENCE_MEGA.speciesName[0]	Salamence
+SPECIES_BELDUM.speciesName[0]	Beldum
+SPECIES_METANG.speciesName[0]	Metang
+SPECIES_METAGROSS.speciesName[0]	Metagross
+SPECIES_METAGROSS_MEGA.speciesName[0]	Metagross
+SPECIES_REGIROCK.speciesName[0]	Regirock
+SPECIES_REGICE.speciesName[0]	Regice
+SPECIES_REGISTEEL.speciesName[0]	Registeel
+SPECIES_LATIAS.speciesName[0]	Latias
+SPECIES_LATIAS_MEGA.speciesName[0]	Latias
+SPECIES_LATIOS.speciesName[0]	Latios
+SPECIES_LATIOS_MEGA.speciesName[0]	Latios
+SPECIES_KYOGRE.speciesName[0]	Kyogre
+SPECIES_KYOGRE_PRIMAL.speciesName[0]	Kyogre
+SPECIES_GROUDON.speciesName[0]	Groudon
+SPECIES_GROUDON_PRIMAL.speciesName[0]	Groudon
+SPECIES_RAYQUAZA.speciesName[0]	Rayquaza
+SPECIES_RAYQUAZA_MEGA.speciesName[0]	Rayquaza
+SPECIES_JIRACHI.speciesName[0]	Jirachi
+SPECIES_DEOXYS_NORMAL.speciesName[0]	Deoxys
+SPECIES_DEOXYS_ATTACK.speciesName[0]	Deoxys
+SPECIES_DEOXYS_DEFENSE.speciesName[0]	Deoxys
+SPECIES_DEOXYS_SPEED.speciesName[0]	Deoxys
+SPECIES_TURTWIG.speciesName[0]	Turtwig
+SPECIES_GROTLE.speciesName[0]	Grotle
+SPECIES_TORTERRA.speciesName[0]	Torterra
+SPECIES_CHIMCHAR.speciesName[0]	Chimchar
+SPECIES_MONFERNO.speciesName[0]	Monferno
+SPECIES_INFERNAPE.speciesName[0]	Infernape
+SPECIES_PIPLUP.speciesName[0]	Piplup
+SPECIES_PRINPLUP.speciesName[0]	Prinplup
+SPECIES_EMPOLEON.speciesName[0]	Empoleon
+SPECIES_STARLY.speciesName[0]	Starly
+SPECIES_STARAVIA.speciesName[0]	Staravia
+SPECIES_STARAPTOR.speciesName[0]	Staraptor
+SPECIES_STARAPTOR_MEGA.speciesName[0]	Staraptor
+SPECIES_BIDOOF.speciesName[0]	Bidoof
+SPECIES_BIBAREL.speciesName[0]	Bibarel
+SPECIES_KRICKETOT.speciesName[0]	Kricketot
+SPECIES_KRICKETUNE.speciesName[0]	Kricketune
+SPECIES_SHINX.speciesName[0]	Shinx
+SPECIES_LUXIO.speciesName[0]	Luxio
+SPECIES_LUXRAY.speciesName[0]	Luxray
+SPECIES_CRANIDOS.speciesName[0]	Cranidos
+SPECIES_RAMPARDOS.speciesName[0]	Rampardos
+SPECIES_SHIELDON.speciesName[0]	Shieldon
+SPECIES_BASTIODON.speciesName[0]	Bastiodon
+SPECIES_BURMY_PLANT.speciesName[0]	Burmy
+SPECIES_BURMY_SANDY.speciesName[0]	Burmy
+SPECIES_BURMY_TRASH.speciesName[0]	Burmy
+SPECIES_WORMADAM_PLANT.speciesName[0]	Wormadam
+SPECIES_WORMADAM_SANDY.speciesName[0]	Wormadam
+SPECIES_WORMADAM_TRASH.speciesName[0]	Wormadam
+SPECIES_COMBEE.speciesName[0]	Combee
+SPECIES_VESPIQUEN.speciesName[0]	Vespiquen
+SPECIES_PACHIRISU.speciesName[0]	Pachirisu
+SPECIES_BUIZEL.speciesName[0]	Buizel
+SPECIES_FLOATZEL.speciesName[0]	Floatzel
+SPECIES_CHERUBI.speciesName[0]	Cherubi
+SPECIES_CHERRIM_OVERCAST.speciesName[0]	Cherrim
+SPECIES_CHERRIM_SUNSHINE.speciesName[0]	Cherrim
+SPECIES_SHELLOS_WEST.speciesName[0]	Shellos
+SPECIES_SHELLOS_EAST.speciesName[0]	Shellos
+SPECIES_GASTRODON_WEST.speciesName[0]	Gastrodon
+SPECIES_GASTRODON_EAST.speciesName[0]	Gastrodon
+SPECIES_DRIFLOON.speciesName[0]	Drifloon
+SPECIES_DRIFBLIM.speciesName[0]	Drifblim
+SPECIES_BUNEARY.speciesName[0]	Buneary
+SPECIES_LOPUNNY.speciesName[0]	Lopunny
+SPECIES_LOPUNNY_MEGA.speciesName[0]	Lopunny
+SPECIES_GLAMEOW.speciesName[0]	Glameow
+SPECIES_PURUGLY.speciesName[0]	Purugly
+SPECIES_STUNKY.speciesName[0]	Stunky
+SPECIES_SKUNTANK.speciesName[0]	Skuntank
+SPECIES_BRONZOR.speciesName[0]	Bronzor
+SPECIES_BRONZONG.speciesName[0]	Bronzong
+SPECIES_CHATOT.speciesName[0]	Chatot
+SPECIES_SPIRITOMB.speciesName[0]	Spiritomb
+SPECIES_GIBLE.speciesName[0]	Gible
+SPECIES_GABITE.speciesName[0]	Gabite
+SPECIES_GARCHOMP.speciesName[0]	Garchomp
+SPECIES_GARCHOMP_MEGA.speciesName[0]	Garchomp
+SPECIES_GARCHOMP_MEGA_Z.speciesName[0]	Garchomp
+SPECIES_RIOLU.speciesName[0]	Riolu
+SPECIES_LUCARIO.speciesName[0]	Lucario
+SPECIES_LUCARIO_MEGA.speciesName[0]	Lucario
+SPECIES_LUCARIO_MEGA_Z.speciesName[0]	Lucario
+SPECIES_HIPPOPOTAS.speciesName[0]	Hippopotas
+SPECIES_HIPPOWDON.speciesName[0]	Hippowdon
+SPECIES_SKORUPI.speciesName[0]	Skorupi
+SPECIES_DRAPION.speciesName[0]	Drapion
+SPECIES_CROAGUNK.speciesName[0]	Croagunk
+SPECIES_TOXICROAK.speciesName[0]	Toxicroak
+SPECIES_CARNIVINE.speciesName[0]	Carnivine
+SPECIES_FINNEON.speciesName[0]	Finneon
+SPECIES_LUMINEON.speciesName[0]	Lumineon
+SPECIES_SNOVER.speciesName[0]	Snover
+SPECIES_ABOMASNOW.speciesName[0]	Abomasnow
+SPECIES_ABOMASNOW_MEGA.speciesName[0]	Abomasnow
+SPECIES_ROTOM.speciesName[0]	Rotom
+SPECIES_ROTOM_HEAT.speciesName[0]	Rotom
+SPECIES_ROTOM_WASH.speciesName[0]	Rotom
+SPECIES_ROTOM_FROST.speciesName[0]	Rotom
+SPECIES_ROTOM_FAN.speciesName[0]	Rotom
+SPECIES_ROTOM_MOW.speciesName[0]	Rotom
+SPECIES_UXIE.speciesName[0]	Uxie
+SPECIES_MESPRIT.speciesName[0]	Mesprit
+SPECIES_AZELF.speciesName[0]	Azelf
+SPECIES_DIALGA.speciesName[0]	Dialga
+SPECIES_DIALGA_ORIGIN.speciesName[0]	Dialga
+SPECIES_PALKIA.speciesName[0]	Palkia
+SPECIES_PALKIA_ORIGIN.speciesName[0]	Palkia
+SPECIES_HEATRAN.speciesName[0]	Heatran
+SPECIES_HEATRAN_MEGA.speciesName[0]	Heatran
+SPECIES_REGIGIGAS.speciesName[0]	Regigigas
+SPECIES_GIRATINA_ALTERED.speciesName[0]	Giratina
+SPECIES_GIRATINA_ORIGIN.speciesName[0]	Giratina
+SPECIES_CRESSELIA.speciesName[0]	Cresselia
+SPECIES_PHIONE.speciesName[0]	Phione
+SPECIES_MANAPHY.speciesName[0]	Manaphy
+SPECIES_DARKRAI.speciesName[0]	Darkrai
+SPECIES_DARKRAI_MEGA.speciesName[0]	Darkrai
+SPECIES_SHAYMIN_LAND.speciesName[0]	Shaymin
+SPECIES_SHAYMIN_SKY.speciesName[0]	Shaymin
+SPECIES_VICTINI.speciesName[0]	Victini
+SPECIES_SNIVY.speciesName[0]	Snivy
+SPECIES_SERVINE.speciesName[0]	Servine
+SPECIES_SERPERIOR.speciesName[0]	Serperior
+SPECIES_TEPIG.speciesName[0]	Tepig
+SPECIES_PIGNITE.speciesName[0]	Pignite
+SPECIES_EMBOAR.speciesName[0]	Emboar
+SPECIES_EMBOAR_MEGA.speciesName[0]	Emboar
+SPECIES_OSHAWOTT.speciesName[0]	Oshawott
+SPECIES_DEWOTT.speciesName[0]	Dewott
+SPECIES_SAMUROTT.speciesName[0]	Samurott
+SPECIES_SAMUROTT_HISUI.speciesName[0]	Samurott
+SPECIES_PATRAT.speciesName[0]	Patrat
+SPECIES_WATCHOG.speciesName[0]	Watchog
+SPECIES_LILLIPUP.speciesName[0]	Lillipup
+SPECIES_HERDIER.speciesName[0]	Herdier
+SPECIES_STOUTLAND.speciesName[0]	Stoutland
+SPECIES_PURRLOIN.speciesName[0]	Purrloin
+SPECIES_LIEPARD.speciesName[0]	Liepard
+SPECIES_PANSAGE.speciesName[0]	Pansage
+SPECIES_SIMISAGE.speciesName[0]	Simisage
+SPECIES_PANSEAR.speciesName[0]	Pansear
+SPECIES_SIMISEAR.speciesName[0]	Simisear
+SPECIES_PANPOUR.speciesName[0]	Panpour
+SPECIES_SIMIPOUR.speciesName[0]	Simipour
+SPECIES_MUNNA.speciesName[0]	Munna
+SPECIES_MUSHARNA.speciesName[0]	Musharna
+SPECIES_PIDOVE.speciesName[0]	Pidove
+SPECIES_TRANQUILL.speciesName[0]	Tranquill
+SPECIES_UNFEZANT.speciesName[0]	Unfezant
+SPECIES_BLITZLE.speciesName[0]	Blitzle
+SPECIES_ZEBSTRIKA.speciesName[0]	Zebstrika
+SPECIES_ROGGENROLA.speciesName[0]	Roggenrola
+SPECIES_BOLDORE.speciesName[0]	Boldore
+SPECIES_GIGALITH.speciesName[0]	Gigalith
+SPECIES_WOOBAT.speciesName[0]	Woobat
+SPECIES_SWOOBAT.speciesName[0]	Swoobat
+SPECIES_DRILBUR.speciesName[0]	Drilbur
+SPECIES_EXCADRILL.speciesName[0]	Excadrill
+SPECIES_EXCADRILL_MEGA.speciesName[0]	Excadrill
+SPECIES_AUDINO.speciesName[0]	Audino
+SPECIES_AUDINO_MEGA.speciesName[0]	Audino
+SPECIES_TIMBURR.speciesName[0]	Timburr
+SPECIES_GURDURR.speciesName[0]	Gurdurr
+SPECIES_CONKELDURR.speciesName[0]	Conkeldurr
+SPECIES_TYMPOLE.speciesName[0]	Tympole
+SPECIES_PALPITOAD.speciesName[0]	Palpitoad
+SPECIES_SEISMITOAD.speciesName[0]	Seismitoad
+SPECIES_THROH.speciesName[0]	Throh
+SPECIES_SAWK.speciesName[0]	Sawk
+SPECIES_SEWADDLE.speciesName[0]	Sewaddle
+SPECIES_SWADLOON.speciesName[0]	Swadloon
+SPECIES_LEAVANNY.speciesName[0]	Leavanny
+SPECIES_VENIPEDE.speciesName[0]	Venipede
+SPECIES_WHIRLIPEDE.speciesName[0]	Whirlipede
+SPECIES_SCOLIPEDE.speciesName[0]	Scolipede
+SPECIES_SCOLIPEDE_MEGA.speciesName[0]	Scolipede
+SPECIES_COTTONEE.speciesName[0]	Cottonee
+SPECIES_WHIMSICOTT.speciesName[0]	Whimsicott
+SPECIES_PETILIL.speciesName[0]	Petilil
+SPECIES_LILLIGANT.speciesName[0]	Lilligant
+SPECIES_LILLIGANT_HISUI.speciesName[0]	Lilligant
+SPECIES_BASCULIN_RED_STRIPED.speciesName[0]	Basculin
+SPECIES_BASCULIN_BLUE_STRIPED.speciesName[0]	Basculin
+SPECIES_BASCULIN_WHITE_STRIPED.speciesName[0]	Basculin
+SPECIES_BASCULEGION_M.speciesName[0]	Basculegion
+SPECIES_BASCULEGION_F.speciesName[0]	Basculegion
+SPECIES_SANDILE.speciesName[0]	Sandile
+SPECIES_KROKOROK.speciesName[0]	Krokorok
+SPECIES_KROOKODILE.speciesName[0]	Krookodile
+SPECIES_DARUMAKA.speciesName[0]	Darumaka
+SPECIES_DARMANITAN_STANDARD.speciesName[0]	Darmanitan
+SPECIES_DARMANITAN_ZEN.speciesName[0]	Darmanitan
+SPECIES_DARUMAKA_GALAR.speciesName[0]	Darumaka
+SPECIES_DARMANITAN_GALAR_STANDARD.speciesName[0]	Darmanitan
+SPECIES_DARMANITAN_GALAR_ZEN.speciesName[0]	Darmanitan
+SPECIES_MARACTUS.speciesName[0]	Maractus
+SPECIES_DWEBBLE.speciesName[0]	Dwebble
+SPECIES_CRUSTLE.speciesName[0]	Crustle
+SPECIES_SCRAGGY.speciesName[0]	Scraggy
+SPECIES_SCRAFTY.speciesName[0]	Scrafty
+SPECIES_SCRAFTY_MEGA.speciesName[0]	Scrafty
+SPECIES_SIGILYPH.speciesName[0]	Sigilyph
+SPECIES_YAMASK.speciesName[0]	Yamask
+SPECIES_COFAGRIGUS.speciesName[0]	Cofagrigus
+SPECIES_YAMASK_GALAR.speciesName[0]	Yamask
+SPECIES_RUNERIGUS.speciesName[0]	Runerigus
+SPECIES_TIRTOUGA.speciesName[0]	Tirtouga
+SPECIES_CARRACOSTA.speciesName[0]	Carracosta
+SPECIES_ARCHEN.speciesName[0]	Archen
+SPECIES_ARCHEOPS.speciesName[0]	Archeops
+SPECIES_TRUBBISH.speciesName[0]	Trubbish
+SPECIES_GARBODOR.speciesName[0]	Garbodor
+SPECIES_GARBODOR_GMAX.speciesName[0]	Garbodor
+SPECIES_ZORUA.speciesName[0]	Zorua
+SPECIES_ZOROARK.speciesName[0]	Zoroark
+SPECIES_ZORUA_HISUI.speciesName[0]	Zorua
+SPECIES_ZOROARK_HISUI.speciesName[0]	Zoroark
+SPECIES_MINCCINO.speciesName[0]	Minccino
+SPECIES_CINCCINO.speciesName[0]	Cinccino
+SPECIES_GOTHITA.speciesName[0]	Gothita
+SPECIES_GOTHORITA.speciesName[0]	Gothorita
+SPECIES_GOTHITELLE.speciesName[0]	Gothitelle
+SPECIES_SOLOSIS.speciesName[0]	Solosis
+SPECIES_DUOSION.speciesName[0]	Duosion
+SPECIES_REUNICLUS.speciesName[0]	Reuniclus
+SPECIES_DUCKLETT.speciesName[0]	Ducklett
+SPECIES_SWANNA.speciesName[0]	Swanna
+SPECIES_VANILLITE.speciesName[0]	Vanillite
+SPECIES_VANILLISH.speciesName[0]	Vanillish
+SPECIES_VANILLUXE.speciesName[0]	Vanilluxe
+SPECIES_DEERLING_SPRING.speciesName[0]	Deerling
+SPECIES_DEERLING_SUMMER.speciesName[0]	Deerling
+SPECIES_DEERLING_AUTUMN.speciesName[0]	Deerling
+SPECIES_DEERLING_WINTER.speciesName[0]	Deerling
+SPECIES_SAWSBUCK_SPRING.speciesName[0]	Sawsbuck
+SPECIES_SAWSBUCK_SUMMER.speciesName[0]	Sawsbuck
+SPECIES_SAWSBUCK_AUTUMN.speciesName[0]	Sawsbuck
+SPECIES_SAWSBUCK_WINTER.speciesName[0]	Sawsbuck
+SPECIES_EMOLGA.speciesName[0]	Emolga
+SPECIES_KARRABLAST.speciesName[0]	Karrablast
+SPECIES_ESCAVALIER.speciesName[0]	Escavalier
+SPECIES_FOONGUS.speciesName[0]	Foongus
+SPECIES_AMOONGUSS.speciesName[0]	Amoonguss
+SPECIES_FRILLISH.speciesName[0]	Frillish
+SPECIES_JELLICENT.speciesName[0]	Jellicent
+SPECIES_ALOMOMOLA.speciesName[0]	Alomomola
+SPECIES_JOLTIK.speciesName[0]	Joltik
+SPECIES_GALVANTULA.speciesName[0]	Galvantula
+SPECIES_FERROSEED.speciesName[0]	Ferroseed
+SPECIES_FERROTHORN.speciesName[0]	Ferrothorn
+SPECIES_KLINK.speciesName[0]	Klink
+SPECIES_KLANG.speciesName[0]	Klang
+SPECIES_KLINKLANG.speciesName[0]	Klinklang
+SPECIES_TYNAMO.speciesName[0]	Tynamo
+SPECIES_EELEKTRIK.speciesName[0]	Eelektrik
+SPECIES_EELEKTROSS.speciesName[0]	Eelektross
+SPECIES_EELEKTROSS_MEGA.speciesName[0]	Eelektross
+SPECIES_ELGYEM.speciesName[0]	Elgyem
+SPECIES_BEHEEYEM.speciesName[0]	Beheeyem
+SPECIES_LITWICK.speciesName[0]	Litwick
+SPECIES_LAMPENT.speciesName[0]	Lampent
+SPECIES_CHANDELURE.speciesName[0]	Chandelure
+SPECIES_CHANDELURE_MEGA.speciesName[0]	Chandelure
+SPECIES_AXEW.speciesName[0]	Axew
+SPECIES_FRAXURE.speciesName[0]	Fraxure
+SPECIES_HAXORUS.speciesName[0]	Haxorus
+SPECIES_CUBCHOO.speciesName[0]	Cubchoo
+SPECIES_BEARTIC.speciesName[0]	Beartic
+SPECIES_CRYOGONAL.speciesName[0]	Cryogonal
+SPECIES_SHELMET.speciesName[0]	Shelmet
+SPECIES_ACCELGOR.speciesName[0]	Accelgor
+SPECIES_STUNFISK.speciesName[0]	Stunfisk
+SPECIES_STUNFISK_GALAR.speciesName[0]	Stunfisk
+SPECIES_MIENFOO.speciesName[0]	Mienfoo
+SPECIES_MIENSHAO.speciesName[0]	Mienshao
+SPECIES_DRUDDIGON.speciesName[0]	Druddigon
+SPECIES_GOLETT.speciesName[0]	Golett
+SPECIES_GOLURK.speciesName[0]	Golurk
+SPECIES_GOLURK_MEGA.speciesName[0]	Golurk
+SPECIES_PAWNIARD.speciesName[0]	Pawniard
+SPECIES_BISHARP.speciesName[0]	Bisharp
+SPECIES_KINGAMBIT.speciesName[0]	Kingambit
+SPECIES_BOUFFALANT.speciesName[0]	Bouffalant
+SPECIES_RUFFLET.speciesName[0]	Rufflet
+SPECIES_BRAVIARY.speciesName[0]	Braviary
+SPECIES_BRAVIARY_HISUI.speciesName[0]	Braviary
+SPECIES_VULLABY.speciesName[0]	Vullaby
+SPECIES_MANDIBUZZ.speciesName[0]	Mandibuzz
+SPECIES_HEATMOR.speciesName[0]	Heatmor
+SPECIES_DURANT.speciesName[0]	Durant
+SPECIES_DEINO.speciesName[0]	Deino
+SPECIES_ZWEILOUS.speciesName[0]	Zweilous
+SPECIES_HYDREIGON.speciesName[0]	Hydreigon
+SPECIES_LARVESTA.speciesName[0]	Larvesta
+SPECIES_VOLCARONA.speciesName[0]	Volcarona
+SPECIES_COBALION.speciesName[0]	Cobalion
+SPECIES_TERRAKION.speciesName[0]	Terrakion
+SPECIES_VIRIZION.speciesName[0]	Virizion
+SPECIES_TORNADUS_INCARNATE.speciesName[0]	Tornadus
+SPECIES_TORNADUS_THERIAN.speciesName[0]	Tornadus
+SPECIES_THUNDURUS_INCARNATE.speciesName[0]	Thundurus
+SPECIES_THUNDURUS_THERIAN.speciesName[0]	Thundurus
+SPECIES_RESHIRAM.speciesName[0]	Reshiram
+SPECIES_ZEKROM.speciesName[0]	Zekrom
+SPECIES_LANDORUS_INCARNATE.speciesName[0]	Landorus
+SPECIES_LANDORUS_THERIAN.speciesName[0]	Landorus
+SPECIES_KYUREM.speciesName[0]	Kyurem
+SPECIES_KYUREM_WHITE.speciesName[0]	Kyurem
+SPECIES_KYUREM_BLACK.speciesName[0]	Kyurem
+SPECIES_KELDEO_ORDINARY.speciesName[0]	Keldeo
+SPECIES_KELDEO_RESOLUTE.speciesName[0]	Keldeo
+SPECIES_MELOETTA_ARIA.speciesName[0]	Meloetta
+SPECIES_MELOETTA_PIROUETTE.speciesName[0]	Meloetta
+SPECIES_CHESPIN.speciesName[0]	Chespin
+SPECIES_QUILLADIN.speciesName[0]	Quilladin
+SPECIES_CHESNAUGHT.speciesName[0]	Chesnaught
+SPECIES_CHESNAUGHT_MEGA.speciesName[0]	Chesnaught
+SPECIES_FENNEKIN.speciesName[0]	Fennekin
+SPECIES_BRAIXEN.speciesName[0]	Braixen
+SPECIES_DELPHOX.speciesName[0]	Delphox
+SPECIES_DELPHOX_MEGA.speciesName[0]	Delphox
+SPECIES_FROAKIE.speciesName[0]	Froakie
+SPECIES_FROGADIER.speciesName[0]	Frogadier
+SPECIES_GRENINJA.speciesName[0]	Greninja
+SPECIES_GRENINJA_BATTLE_BOND.speciesName[0]	Greninja
+SPECIES_GRENINJA_ASH.speciesName[0]	Greninja
+SPECIES_GRENINJA_MEGA.speciesName[0]	Greninja
+SPECIES_BUNNELBY.speciesName[0]	Bunnelby
+SPECIES_DIGGERSBY.speciesName[0]	Diggersby
+SPECIES_FLETCHLING.speciesName[0]	Fletchling
+SPECIES_FLETCHINDER.speciesName[0]	Fletchinder
+SPECIES_TALONFLAME.speciesName[0]	Talonflame
+SPECIES_LITLEO.speciesName[0]	Litleo
+SPECIES_PYROAR.speciesName[0]	Pyroar
+SPECIES_PYROAR_MEGA.speciesName[0]	Pyroar
+SPECIES_FLOETTE_MEGA.speciesName[0]	Floette
+SPECIES_SKIDDO.speciesName[0]	Skiddo
+SPECIES_GOGOAT.speciesName[0]	Gogoat
+SPECIES_PANCHAM.speciesName[0]	Pancham
+SPECIES_PANGORO.speciesName[0]	Pangoro
+SPECIES_ESPURR.speciesName[0]	Espurr
+SPECIES_MEOWSTIC_M.speciesName[0]	Meowstic
+SPECIES_MEOWSTIC_F.speciesName[0]	Meowstic
+SPECIES_MEOWSTIC_M_MEGA.speciesName[0]	Meowstic
+SPECIES_MEOWSTIC_F_MEGA.speciesName[0]	Meowstic
+SPECIES_HONEDGE.speciesName[0]	Honedge
+SPECIES_DOUBLADE.speciesName[0]	Doublade
+SPECIES_AEGISLASH_SHIELD.speciesName[0]	Aegislash
+SPECIES_AEGISLASH_BLADE.speciesName[0]	Aegislash
+SPECIES_SPRITZEE.speciesName[0]	Spritzee
+SPECIES_AROMATISSE.speciesName[0]	Aromatisse
+SPECIES_SWIRLIX.speciesName[0]	Swirlix
+SPECIES_SLURPUFF.speciesName[0]	Slurpuff
+SPECIES_INKAY.speciesName[0]	Inkay
+SPECIES_MALAMAR.speciesName[0]	Malamar
+SPECIES_MALAMAR_MEGA.speciesName[0]	Malamar
+SPECIES_BINACLE.speciesName[0]	Binacle
+SPECIES_BARBARACLE.speciesName[0]	Barbaracle
+SPECIES_BARBARACLE_MEGA.speciesName[0]	Barbaracle
+SPECIES_SKRELP.speciesName[0]	Skrelp
+SPECIES_DRAGALGE.speciesName[0]	Dragalge
+SPECIES_DRAGALGE_MEGA.speciesName[0]	Dragalge
+SPECIES_CLAUNCHER.speciesName[0]	Clauncher
+SPECIES_CLAWITZER.speciesName[0]	Clawitzer
+SPECIES_HELIOPTILE.speciesName[0]	Helioptile
+SPECIES_HELIOLISK.speciesName[0]	Heliolisk
+SPECIES_TYRUNT.speciesName[0]	Tyrunt
+SPECIES_TYRANTRUM.speciesName[0]	Tyrantrum
+SPECIES_AMAURA.speciesName[0]	Amaura
+SPECIES_AURORUS.speciesName[0]	Aurorus
+SPECIES_HAWLUCHA.speciesName[0]	Hawlucha
+SPECIES_HAWLUCHA_MEGA.speciesName[0]	Hawlucha
+SPECIES_DEDENNE.speciesName[0]	Dedenne
+SPECIES_CARBINK.speciesName[0]	Carbink
+SPECIES_GOOMY.speciesName[0]	Goomy
+SPECIES_SLIGGOO.speciesName[0]	Sliggoo
+SPECIES_GOODRA.speciesName[0]	Goodra
+SPECIES_SLIGGOO_HISUI.speciesName[0]	Sliggoo
+SPECIES_GOODRA_HISUI.speciesName[0]	Goodra
+SPECIES_KLEFKI.speciesName[0]	Klefki
+SPECIES_PHANTUMP.speciesName[0]	Phantump
+SPECIES_TREVENANT.speciesName[0]	Trevenant
+SPECIES_PUMPKABOO_AVERAGE.speciesName[0]	Pumpkaboo
+SPECIES_PUMPKABOO_SMALL.speciesName[0]	Pumpkaboo
+SPECIES_PUMPKABOO_LARGE.speciesName[0]	Pumpkaboo
+SPECIES_PUMPKABOO_SUPER.speciesName[0]	Pumpkaboo
+SPECIES_GOURGEIST_AVERAGE.speciesName[0]	Gourgeist
+SPECIES_GOURGEIST_SMALL.speciesName[0]	Gourgeist
+SPECIES_GOURGEIST_LARGE.speciesName[0]	Gourgeist
+SPECIES_GOURGEIST_SUPER.speciesName[0]	Gourgeist
+SPECIES_BERGMITE.speciesName[0]	Bergmite
+SPECIES_AVALUGG.speciesName[0]	Avalugg
+SPECIES_AVALUGG_HISUI.speciesName[0]	Avalugg
+SPECIES_NOIBAT.speciesName[0]	Noibat
+SPECIES_NOIVERN.speciesName[0]	Noivern
+SPECIES_XERNEAS_NEUTRAL.speciesName[0]	Xerneas
+SPECIES_XERNEAS_ACTIVE.speciesName[0]	Xerneas
+SPECIES_YVELTAL.speciesName[0]	Yveltal
+SPECIES_ZYGARDE_50.speciesName[0]	Zygarde
+SPECIES_ZYGARDE_50_POWER_CONSTRUCT.speciesName[0]	Zygarde
+SPECIES_ZYGARDE_10_AURA_BREAK.speciesName[0]	Zygarde
+SPECIES_ZYGARDE_10_POWER_CONSTRUCT.speciesName[0]	Zygarde
+SPECIES_ZYGARDE_COMPLETE.speciesName[0]	Zygarde
+SPECIES_ZYGARDE_MEGA.speciesName[0]	Zygarde
+SPECIES_DIANCIE.speciesName[0]	Diancie
+SPECIES_DIANCIE_MEGA.speciesName[0]	Diancie
+SPECIES_HOOPA_CONFINED.speciesName[0]	Hoopa
+SPECIES_HOOPA_UNBOUND.speciesName[0]	Hoopa
+SPECIES_VOLCANION.speciesName[0]	Volcanion
+SPECIES_ROWLET.speciesName[0]	Rowlet
+SPECIES_DARTRIX.speciesName[0]	Dartrix
+SPECIES_DECIDUEYE.speciesName[0]	Decidueye
+SPECIES_DECIDUEYE_HISUI.speciesName[0]	Decidueye
+SPECIES_LITTEN.speciesName[0]	Litten
+SPECIES_TORRACAT.speciesName[0]	Torracat
+SPECIES_INCINEROAR.speciesName[0]	Incineroar
+SPECIES_POPPLIO.speciesName[0]	Popplio
+SPECIES_BRIONNE.speciesName[0]	Brionne
+SPECIES_PRIMARINA.speciesName[0]	Primarina
+SPECIES_PIKIPEK.speciesName[0]	Pikipek
+SPECIES_TRUMBEAK.speciesName[0]	Trumbeak
+SPECIES_TOUCANNON.speciesName[0]	Toucannon
+SPECIES_YUNGOOS.speciesName[0]	Yungoos
+SPECIES_GUMSHOOS.speciesName[0]	Gumshoos
+SPECIES_GUMSHOOS_TOTEM.speciesName[0]	Gumshoos
+SPECIES_GRUBBIN.speciesName[0]	Grubbin
+SPECIES_CHARJABUG.speciesName[0]	Charjabug
+SPECIES_VIKAVOLT.speciesName[0]	Vikavolt
+SPECIES_VIKAVOLT_TOTEM.speciesName[0]	Vikavolt
+SPECIES_CRABRAWLER.speciesName[0]	Crabrawler
+SPECIES_CRABOMINABLE.speciesName[0]	Crabominable
+SPECIES_CRABOMINABLE_MEGA.speciesName[0]	Crabominable
+SPECIES_ORICORIO_BAILE.speciesName[0]	Oricorio
+SPECIES_ORICORIO_POM_POM.speciesName[0]	Oricorio
+SPECIES_ORICORIO_PAU.speciesName[0]	Oricorio
+SPECIES_ORICORIO_SENSU.speciesName[0]	Oricorio
+SPECIES_CUTIEFLY.speciesName[0]	Cutiefly
+SPECIES_RIBOMBEE.speciesName[0]	Ribombee
+SPECIES_RIBOMBEE_TOTEM.speciesName[0]	Ribombee
+SPECIES_ROCKRUFF.speciesName[0]	Rockruff
+SPECIES_ROCKRUFF_OWN_TEMPO.speciesName[0]	Rockruff
+SPECIES_LYCANROC_MIDDAY.speciesName[0]	Lycanroc
+SPECIES_LYCANROC_MIDNIGHT.speciesName[0]	Lycanroc
+SPECIES_LYCANROC_DUSK.speciesName[0]	Lycanroc
+SPECIES_WISHIWASHI_SOLO.speciesName[0]	Wishiwashi
+SPECIES_WISHIWASHI_SCHOOL.speciesName[0]	Wishiwashi
+SPECIES_MAREANIE.speciesName[0]	Mareanie
+SPECIES_TOXAPEX.speciesName[0]	Toxapex
+SPECIES_MUDBRAY.speciesName[0]	Mudbray
+SPECIES_MUDSDALE.speciesName[0]	Mudsdale
+SPECIES_DEWPIDER.speciesName[0]	Dewpider
+SPECIES_ARAQUANID.speciesName[0]	Araquanid
+SPECIES_ARAQUANID_TOTEM.speciesName[0]	Araquanid
+SPECIES_FOMANTIS.speciesName[0]	Fomantis
+SPECIES_LURANTIS.speciesName[0]	Lurantis
+SPECIES_LURANTIS_TOTEM.speciesName[0]	Lurantis
+SPECIES_MORELULL.speciesName[0]	Morelull
+SPECIES_SHIINOTIC.speciesName[0]	Shiinotic
+SPECIES_SALANDIT.speciesName[0]	Salandit
+SPECIES_SALAZZLE.speciesName[0]	Salazzle
+SPECIES_SALAZZLE_TOTEM.speciesName[0]	Salazzle
+SPECIES_STUFFUL.speciesName[0]	Stufful
+SPECIES_BEWEAR.speciesName[0]	Bewear
+SPECIES_BOUNSWEET.speciesName[0]	Bounsweet
+SPECIES_STEENEE.speciesName[0]	Steenee
+SPECIES_TSAREENA.speciesName[0]	Tsareena
+SPECIES_COMFEY.speciesName[0]	Comfey
+SPECIES_ORANGURU.speciesName[0]	Oranguru
+SPECIES_PASSIMIAN.speciesName[0]	Passimian
+SPECIES_WIMPOD.speciesName[0]	Wimpod
+SPECIES_GOLISOPOD.speciesName[0]	Golisopod
+SPECIES_GOLISOPOD_MEGA.speciesName[0]	Golisopod
+SPECIES_SANDYGAST.speciesName[0]	Sandygast
+SPECIES_PALOSSAND.speciesName[0]	Palossand
+SPECIES_PYUKUMUKU.speciesName[0]	Pyukumuku
+SPECIES_TYPE_NULL.speciesName[0]	Type: Null
+SPECIES_KOMALA.speciesName[0]	Komala
+SPECIES_TURTONATOR.speciesName[0]	Turtonator
+SPECIES_TOGEDEMARU.speciesName[0]	Togedemaru
+SPECIES_TOGEDEMARU_TOTEM.speciesName[0]	Togedemaru
+SPECIES_MIMIKYU_DISGUISED.speciesName[0]	Mimikyu
+SPECIES_MIMIKYU_BUSTED.speciesName[0]	Mimikyu
+SPECIES_MIMIKYU_TOTEM_DISGUISED.speciesName[0]	Mimikyu
+SPECIES_MIMIKYU_BUSTED_TOTEM.speciesName[0]	Mimikyu
+SPECIES_BRUXISH.speciesName[0]	Bruxish
+SPECIES_DRAMPA.speciesName[0]	Drampa
+SPECIES_DRAMPA_MEGA.speciesName[0]	Drampa
+SPECIES_DHELMISE.speciesName[0]	Dhelmise
+SPECIES_JANGMO_O.speciesName[0]	Jangmo-o
+SPECIES_HAKAMO_O.speciesName[0]	Hakamo-o
+SPECIES_KOMMO_O.speciesName[0]	Kommo-o
+SPECIES_KOMMO_O_TOTEM.speciesName[0]	Kommo-o
+SPECIES_COSMOG.speciesName[0]	Cosmog
+SPECIES_COSMOEM.speciesName[0]	Cosmoem
+SPECIES_SOLGALEO.speciesName[0]	Solgaleo
+SPECIES_LUNALA.speciesName[0]	Lunala
+SPECIES_NIHILEGO.speciesName[0]	Nihilego
+SPECIES_BUZZWOLE.speciesName[0]	Buzzwole
+SPECIES_PHEROMOSA.speciesName[0]	Pheromosa
+SPECIES_XURKITREE.speciesName[0]	Xurkitree
+SPECIES_CELESTEELA.speciesName[0]	Celesteela
+SPECIES_KARTANA.speciesName[0]	Kartana
+SPECIES_GUZZLORD.speciesName[0]	Guzzlord
+SPECIES_NECROZMA.speciesName[0]	Necrozma
+SPECIES_NECROZMA_DUSK_MANE.speciesName[0]	Necrozma
+SPECIES_NECROZMA_DAWN_WINGS.speciesName[0]	Necrozma
+SPECIES_NECROZMA_ULTRA.speciesName[0]	Necrozma
+SPECIES_MAGEARNA.speciesName[0]	Magearna
+SPECIES_MAGEARNA_ORIGINAL.speciesName[0]	Magearna
+SPECIES_MAGEARNA_MEGA.speciesName[0]	Magearna
+SPECIES_MAGEARNA_ORIGINAL_MEGA.speciesName[0]	Magearna
+SPECIES_MARSHADOW.speciesName[0]	Marshadow
+SPECIES_POIPOLE.speciesName[0]	Poipole
+SPECIES_NAGANADEL.speciesName[0]	Naganadel
+SPECIES_STAKATAKA.speciesName[0]	Stakataka
+SPECIES_BLACEPHALON.speciesName[0]	Blacephalon
+SPECIES_ZERAORA.speciesName[0]	Zeraora
+SPECIES_ZERAORA_MEGA.speciesName[0]	Zeraora
+SPECIES_MELTAN.speciesName[0]	Meltan
+SPECIES_MELMETAL.speciesName[0]	Melmetal
+SPECIES_MELMETAL_GMAX.speciesName[0]	Melmetal
+SPECIES_GROOKEY.speciesName[0]	Grookey
+SPECIES_THWACKEY.speciesName[0]	Thwackey
+SPECIES_RILLABOOM.speciesName[0]	Rillaboom
+SPECIES_RILLABOOM_GMAX.speciesName[0]	Rillaboom
+SPECIES_SCORBUNNY.speciesName[0]	Scorbunny
+SPECIES_RABOOT.speciesName[0]	Raboot
+SPECIES_CINDERACE.speciesName[0]	Cinderace
+SPECIES_CINDERACE_GMAX.speciesName[0]	Cinderace
+SPECIES_SOBBLE.speciesName[0]	Sobble
+SPECIES_DRIZZILE.speciesName[0]	Drizzile
+SPECIES_INTELEON.speciesName[0]	Inteleon
+SPECIES_INTELEON_GMAX.speciesName[0]	Inteleon
+SPECIES_SKWOVET.speciesName[0]	Skwovet
+SPECIES_GREEDENT.speciesName[0]	Greedent
+SPECIES_ROOKIDEE.speciesName[0]	Rookidee
+SPECIES_CORVISQUIRE.speciesName[0]	Corvisquire
+SPECIES_CORVIKNIGHT.speciesName[0]	Corviknight
+SPECIES_CORVIKNIGHT_GMAX.speciesName[0]	Corviknight
+SPECIES_BLIPBUG.speciesName[0]	Blipbug
+SPECIES_DOTTLER.speciesName[0]	Dottler
+SPECIES_ORBEETLE.speciesName[0]	Orbeetle
+SPECIES_ORBEETLE_GMAX.speciesName[0]	Orbeetle
+SPECIES_NICKIT.speciesName[0]	Nickit
+SPECIES_THIEVUL.speciesName[0]	Thievul
+SPECIES_GOSSIFLEUR.speciesName[0]	Gossifleur
+SPECIES_ELDEGOSS.speciesName[0]	Eldegoss
+SPECIES_WOOLOO.speciesName[0]	Wooloo
+SPECIES_DUBWOOL.speciesName[0]	Dubwool
+SPECIES_CHEWTLE.speciesName[0]	Chewtle
+SPECIES_DREDNAW.speciesName[0]	Drednaw
+SPECIES_DREDNAW_GMAX.speciesName[0]	Drednaw
+SPECIES_YAMPER.speciesName[0]	Yamper
+SPECIES_BOLTUND.speciesName[0]	Boltund
+SPECIES_ROLYCOLY.speciesName[0]	Rolycoly
+SPECIES_CARKOL.speciesName[0]	Carkol
+SPECIES_COALOSSAL.speciesName[0]	Coalossal
+SPECIES_COALOSSAL_GMAX.speciesName[0]	Coalossal
+SPECIES_APPLIN.speciesName[0]	Applin
+SPECIES_FLAPPLE.speciesName[0]	Flapple
+SPECIES_FLAPPLE_GMAX.speciesName[0]	Flapple
+SPECIES_APPLETUN.speciesName[0]	Appletun
+SPECIES_APPLETUN_GMAX.speciesName[0]	Appletun
+SPECIES_DIPPLIN.speciesName[0]	Dipplin
+SPECIES_HYDRAPPLE.speciesName[0]	Hydrapple
+SPECIES_SILICOBRA.speciesName[0]	Silicobra
+SPECIES_SANDACONDA.speciesName[0]	Sandaconda
+SPECIES_SANDACONDA_GMAX.speciesName[0]	Sandaconda
+SPECIES_CRAMORANT.speciesName[0]	Cramorant
+SPECIES_CRAMORANT_GULPING.speciesName[0]	Cramorant
+SPECIES_CRAMORANT_GORGING.speciesName[0]	Cramorant
+SPECIES_ARROKUDA.speciesName[0]	Arrokuda
+SPECIES_BARRASKEWDA.speciesName[0]	Barraskewda
+SPECIES_TOXEL.speciesName[0]	Toxel
+SPECIES_TOXTRICITY_AMPED.speciesName[0]	Toxtricity
+SPECIES_TOXTRICITY_AMPED_GMAX.speciesName[0]	Toxtricity
+SPECIES_TOXTRICITY_LOW_KEY.speciesName[0]	Toxtricity
+SPECIES_TOXTRICITY_LOW_KEY_GMAX.speciesName[0]	Toxtricity
+SPECIES_SIZZLIPEDE.speciesName[0]	Sizzlipede
+SPECIES_CENTISKORCH.speciesName[0]	Centiskorch
+SPECIES_CENTISKORCH_GMAX.speciesName[0]	Centiskorch
+SPECIES_CLOBBOPUS.speciesName[0]	Clobbopus
+SPECIES_GRAPPLOCT.speciesName[0]	Grapploct
+SPECIES_SINISTEA_PHONY.speciesName[0]	Sinistea
+SPECIES_SINISTEA_ANTIQUE.speciesName[0]	Sinistea
+SPECIES_POLTEAGEIST_PHONY.speciesName[0]	Polteageist
+SPECIES_POLTEAGEIST_ANTIQUE.speciesName[0]	Polteageist
+SPECIES_HATENNA.speciesName[0]	Hatenna
+SPECIES_HATTREM.speciesName[0]	Hattrem
+SPECIES_HATTERENE.speciesName[0]	Hatterene
+SPECIES_HATTERENE_GMAX.speciesName[0]	Hatterene
+SPECIES_IMPIDIMP.speciesName[0]	Impidimp
+SPECIES_MORGREM.speciesName[0]	Morgrem
+SPECIES_GRIMMSNARL.speciesName[0]	Grimmsnarl
+SPECIES_GRIMMSNARL_GMAX.speciesName[0]	Grimmsnarl
+SPECIES_MILCERY.speciesName[0]	Milcery
+SPECIES_ALCREMIE_GMAX.speciesName[0]	Alcremie
+SPECIES_FALINKS.speciesName[0]	Falinks
+SPECIES_FALINKS_MEGA.speciesName[0]	Falinks
+SPECIES_PINCURCHIN.speciesName[0]	Pincurchin
+SPECIES_SNOM.speciesName[0]	Snom
+SPECIES_FROSMOTH.speciesName[0]	Frosmoth
+SPECIES_STONJOURNER.speciesName[0]	Stonjourner
+SPECIES_EISCUE_ICE.speciesName[0]	Eiscue
+SPECIES_EISCUE_NOICE.speciesName[0]	Eiscue
+SPECIES_INDEEDEE_M.speciesName[0]	Indeedee
+SPECIES_INDEEDEE_F.speciesName[0]	Indeedee
+SPECIES_MORPEKO_FULL_BELLY.speciesName[0]	Morpeko
+SPECIES_MORPEKO_HANGRY.speciesName[0]	Morpeko
+SPECIES_CUFANT.speciesName[0]	Cufant
+SPECIES_COPPERAJAH.speciesName[0]	Copperajah
+SPECIES_COPPERAJAH_GMAX.speciesName[0]	Copperajah
+SPECIES_DRACOZOLT.speciesName[0]	Dracozolt
+SPECIES_ARCTOZOLT.speciesName[0]	Arctozolt
+SPECIES_DRACOVISH.speciesName[0]	Dracovish
+SPECIES_ARCTOVISH.speciesName[0]	Arctovish
+SPECIES_DURALUDON.speciesName[0]	Duraludon
+SPECIES_DURALUDON_GMAX.speciesName[0]	Duraludon
+SPECIES_ARCHALUDON.speciesName[0]	Archaludon
+SPECIES_DREEPY.speciesName[0]	Dreepy
+SPECIES_DRAKLOAK.speciesName[0]	Drakloak
+SPECIES_DRAGAPULT.speciesName[0]	Dragapult
+SPECIES_ZACIAN_HERO.speciesName[0]	Zacian
+SPECIES_ZACIAN_CROWNED.speciesName[0]	Zacian
+SPECIES_ZAMAZENTA_HERO.speciesName[0]	Zamazenta
+SPECIES_ZAMAZENTA_CROWNED.speciesName[0]	Zamazenta
+SPECIES_ETERNATUS.speciesName[0]	Eternatus
+SPECIES_ETERNATUS_ETERNAMAX.speciesName[0]	Eternatus
+SPECIES_KUBFU.speciesName[0]	Kubfu
+SPECIES_URSHIFU_SINGLE_STRIKE.speciesName[0]	Urshifu
+SPECIES_URSHIFU_SINGLE_STRIKE_GMAX.speciesName[0]	Urshifu
+SPECIES_URSHIFU_RAPID_STRIKE.speciesName[0]	Urshifu
+SPECIES_URSHIFU_RAPID_STRIKE_GMAX.speciesName[0]	Urshifu
+SPECIES_ZARUDE.speciesName[0]	Zarude
+SPECIES_ZARUDE_DADA.speciesName[0]	Zarude
+SPECIES_REGIELEKI.speciesName[0]	Regieleki
+SPECIES_REGIDRAGO.speciesName[0]	Regidrago
+SPECIES_GLASTRIER.speciesName[0]	Glastrier
+SPECIES_SPECTRIER.speciesName[0]	Spectrier
+SPECIES_CALYREX.speciesName[0]	Calyrex
+SPECIES_CALYREX_ICE.speciesName[0]	Calyrex
+SPECIES_CALYREX_SHADOW.speciesName[0]	Calyrex
+SPECIES_ENAMORUS_INCARNATE.speciesName[0]	Enamorus
+SPECIES_ENAMORUS_THERIAN.speciesName[0]	Enamorus
+SPECIES_SPRIGATITO.speciesName[0]	Sprigatito
+SPECIES_FLORAGATO.speciesName[0]	Floragato
+SPECIES_MEOWSCARADA.speciesName[0]	Meowscarada
+SPECIES_FUECOCO.speciesName[0]	Fuecoco
+SPECIES_CROCALOR.speciesName[0]	Crocalor
+SPECIES_SKELEDIRGE.speciesName[0]	Skeledirge
+SPECIES_QUAXLY.speciesName[0]	Quaxly
+SPECIES_QUAXWELL.speciesName[0]	Quaxwell
+SPECIES_QUAQUAVAL.speciesName[0]	Quaquaval
+SPECIES_LECHONK.speciesName[0]	Lechonk
+SPECIES_OINKOLOGNE_M.speciesName[0]	Oinkologne
+SPECIES_OINKOLOGNE_F.speciesName[0]	Oinkologne
+SPECIES_TAROUNTULA.speciesName[0]	Tarountula
+SPECIES_SPIDOPS.speciesName[0]	Spidops
+SPECIES_NYMBLE.speciesName[0]	Nymble
+SPECIES_LOKIX.speciesName[0]	Lokix
+SPECIES_PAWMI.speciesName[0]	Pawmi
+SPECIES_PAWMO.speciesName[0]	Pawmo
+SPECIES_PAWMOT.speciesName[0]	Pawmot
+SPECIES_TANDEMAUS.speciesName[0]	Tandemaus
+SPECIES_MAUSHOLD_THREE.speciesName[0]	Maushold
+SPECIES_MAUSHOLD_FOUR.speciesName[0]	Maushold
+SPECIES_FIDOUGH.speciesName[0]	Fidough
+SPECIES_DACHSBUN.speciesName[0]	Dachsbun
+SPECIES_SMOLIV.speciesName[0]	Smoliv
+SPECIES_DOLLIV.speciesName[0]	Dolliv
+SPECIES_SQUAWKABILLY_GREEN.speciesName[0]	Squawkabilly
+SPECIES_SQUAWKABILLY_BLUE.speciesName[0]	Squawkabilly
+SPECIES_SQUAWKABILLY_YELLOW.speciesName[0]	Squawkabilly
+SPECIES_SQUAWKABILLY_WHITE.speciesName[0]	Squawkabilly
+SPECIES_NACLI.speciesName[0]	Nacli
+SPECIES_NACLSTACK.speciesName[0]	Naclstack
+SPECIES_GARGANACL.speciesName[0]	Garganacl
+SPECIES_CHARCADET.speciesName[0]	Charcadet
+SPECIES_ARMAROUGE.speciesName[0]	Armarouge
+SPECIES_CERULEDGE.speciesName[0]	Ceruledge
+SPECIES_TADBULB.speciesName[0]	Tadbulb
+SPECIES_BELLIBOLT.speciesName[0]	Bellibolt
+SPECIES_WATTREL.speciesName[0]	Wattrel
+SPECIES_KILOWATTREL.speciesName[0]	Kilowattrel
+SPECIES_MASCHIFF.speciesName[0]	Maschiff
+SPECIES_MABOSSTIFF.speciesName[0]	Mabosstiff
+SPECIES_SHROODLE.speciesName[0]	Shroodle
+SPECIES_GRAFAIAI.speciesName[0]	Grafaiai
+SPECIES_BRAMBLIN.speciesName[0]	Bramblin
+SPECIES_BRAMBLEGHAST.speciesName[0]	Brambleghast
+SPECIES_TOEDSCOOL.speciesName[0]	Toedscool
+SPECIES_TOEDSCRUEL.speciesName[0]	Toedscruel
+SPECIES_KLAWF.speciesName[0]	Klawf
+SPECIES_CAPSAKID.speciesName[0]	Capsakid
+SPECIES_RELLOR.speciesName[0]	Rellor
+SPECIES_RABSCA.speciesName[0]	Rabsca
+SPECIES_FLITTLE.speciesName[0]	Flittle
+SPECIES_ESPATHRA.speciesName[0]	Espathra
+SPECIES_TINKATINK.speciesName[0]	Tinkatink
+SPECIES_TINKATUFF.speciesName[0]	Tinkatuff
+SPECIES_TINKATON.speciesName[0]	Tinkaton
+SPECIES_WIGLETT.speciesName[0]	Wiglett
+SPECIES_WUGTRIO.speciesName[0]	Wugtrio
+SPECIES_BOMBIRDIER.speciesName[0]	Bombirdier
+SPECIES_FINIZEN.speciesName[0]	Finizen
+SPECIES_PALAFIN_ZERO.speciesName[0]	Palafin
+SPECIES_PALAFIN_HERO.speciesName[0]	Palafin
+SPECIES_VAROOM.speciesName[0]	Varoom
+SPECIES_REVAVROOM.speciesName[0]	Revavroom
+SPECIES_CYCLIZAR.speciesName[0]	Cyclizar
+SPECIES_ORTHWORM.speciesName[0]	Orthworm
+SPECIES_GLIMMET.speciesName[0]	Glimmet
+SPECIES_GLIMMORA.speciesName[0]	Glimmora
+SPECIES_GLIMMORA_MEGA.speciesName[0]	Glimmora
+SPECIES_GREAVARD.speciesName[0]	Greavard
+SPECIES_HOUNDSTONE.speciesName[0]	Houndstone
+SPECIES_FLAMIGO.speciesName[0]	Flamigo
+SPECIES_CETODDLE.speciesName[0]	Cetoddle
+SPECIES_CETITAN.speciesName[0]	Cetitan
+SPECIES_VELUZA.speciesName[0]	Veluza
+SPECIES_DONDOZO.speciesName[0]	Dondozo
+SPECIES_TATSUGIRI_CURLY.speciesName[0]	Tatsugiri
+SPECIES_TATSUGIRI_DROOPY.speciesName[0]	Tatsugiri
+SPECIES_TATSUGIRI_STRETCHY.speciesName[0]	Tatsugiri
+SPECIES_TATSUGIRI_CURLY_MEGA.speciesName[0]	Tatsugiri
+SPECIES_TATSUGIRI_DROOPY_MEGA.speciesName[0]	Tatsugiri
+SPECIES_TATSUGIRI_STRETCHY_MEGA.speciesName[0]	Tatsugiri
+SPECIES_GREAT_TUSK.speciesName[0]	Great Tusk
+SPECIES_SCREAM_TAIL.speciesName[0]	Scream Tail
+SPECIES_BRUTE_BONNET.speciesName[0]	Brute Bonnet
+SPECIES_FLUTTER_MANE.speciesName[0]	Flutter Mane
+SPECIES_SLITHER_WING.speciesName[0]	Slither Wing
+SPECIES_SANDY_SHOCKS.speciesName[0]	Sandy Shocks
+SPECIES_IRON_TREADS.speciesName[0]	Iron Treads
+SPECIES_IRON_BUNDLE.speciesName[0]	Iron Bundle
+SPECIES_IRON_HANDS.speciesName[0]	Iron Hands
+SPECIES_IRON_JUGULIS.speciesName[0]	Iron Jugulis
+SPECIES_IRON_MOTH.speciesName[0]	Iron Moth
+SPECIES_IRON_THORNS.speciesName[0]	Iron Thorns
+SPECIES_FRIGIBAX.speciesName[0]	Frigibax
+SPECIES_ARCTIBAX.speciesName[0]	Arctibax
+SPECIES_BAXCALIBUR.speciesName[0]	Baxcalibur
+SPECIES_BAXCALIBUR_MEGA.speciesName[0]	Baxcalibur
+SPECIES_GIMMIGHOUL_CHEST.speciesName[0]	Gimmighoul
+SPECIES_GIMMIGHOUL_ROAMING.speciesName[0]	Gimmighoul
+SPECIES_GHOLDENGO.speciesName[0]	Gholdengo
+SPECIES_WO_CHIEN.speciesName[0]	Wo-Chien
+SPECIES_CHIEN_PAO.speciesName[0]	Chien-Pao
+SPECIES_TING_LU.speciesName[0]	Ting-Lu
+SPECIES_CHI_YU.speciesName[0]	Chi-Yu
+SPECIES_ROARING_MOON.speciesName[0]	Roaring Moon
+SPECIES_IRON_VALIANT.speciesName[0]	Iron Valiant
+SPECIES_KORAIDON.speciesName[0]	Koraidon
+SPECIES_MIRAIDON.speciesName[0]	Miraidon
+SPECIES_WALKING_WAKE.speciesName[0]	Walking Wake
+SPECIES_IRON_LEAVES.speciesName[0]	Iron Leaves
+SPECIES_POLTCHAGEIST_COUNTERFEIT.speciesName[0]	Poltchageist
+SPECIES_POLTCHAGEIST_ARTISAN.speciesName[0]	Poltchageist
+SPECIES_SINISTCHA_UNREMARKABLE.speciesName[0]	Sinistcha
+SPECIES_SINISTCHA_MASTERPIECE.speciesName[0]	Sinistcha
+SPECIES_OKIDOGI.speciesName[0]	Okidogi
+SPECIES_MUNKIDORI.speciesName[0]	Munkidori
+SPECIES_FEZANDIPITI.speciesName[0]	Fezandipiti
+SPECIES_GOUGING_FIRE.speciesName[0]	Gouging Fire
+SPECIES_RAGING_BOLT.speciesName[0]	Raging Bolt
+SPECIES_IRON_BOULDER.speciesName[0]	Iron Boulder
+SPECIES_IRON_CROWN.speciesName[0]	Iron Crown
+SPECIES_TERAPAGOS_NORMAL.speciesName[0]	Terapagos
+SPECIES_TERAPAGOS_TERASTAL.speciesName[0]	Terapagos
+SPECIES_TERAPAGOS_STELLAR.speciesName[0]	Terapagos
+SPECIES_PECHARUNT.speciesName[0]	Pecharunt

@@ -141,7 +141,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POUND] =
     {
-        .name = COMPOUND_STRING("Pound"),
+        .name = COMPOUND_STRING("{JPN}はたく{ENG}"),
         .description = COMPOUND_STRING(
             "Pounds the foe with\n"
             "forelegs or tail."),
@@ -164,7 +164,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_KARATE_CHOP] =
     {
-        .name = COMPOUND_STRING("Karate Chop"),
+        .name = COMPOUND_STRING("{JPN}からてチョップ{ENG}"),
         .description = COMPOUND_STRING(
             "A chopping attack with a\n"
             "high critical-hit ratio."),
@@ -188,7 +188,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOUBLE_SLAP] =
     {
-        .name = COMPOUND_STRING("Double Slap"),
+        .name = COMPOUND_STRING("{JPN}おうふくビンタ{ENG}"),
         .description = COMPOUND_STRING(
             "Repeatedly slaps the foe\n"
             "2 to 5 times."),
@@ -212,7 +212,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COMET_PUNCH] =
     {
-        .name = COMPOUND_STRING("Comet Punch"),
+        .name = COMPOUND_STRING("{JPN}れんぞくパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "Repeatedly punches the foe\n"
             "2 to 5 times."),
@@ -236,7 +236,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MEGA_PUNCH] =
     {
-        .name = COMPOUND_STRING("Mega Punch"),
+        .name = COMPOUND_STRING("{JPN}メガトンパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "A strong punch thrown with\n"
             "incredible power."),
@@ -260,7 +260,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PAY_DAY] =
     {
-        .name = COMPOUND_STRING("Pay Day"),
+        .name = COMPOUND_STRING("{JPN}ネコにこばん{ENG}"),
         .description = COMPOUND_STRING(
             "Throws coins at the foe.\n"
             "Money is recovered after."),
@@ -284,7 +284,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIRE_PUNCH] =
     {
-        .name = COMPOUND_STRING("Fire Punch"),
+        .name = COMPOUND_STRING("{JPN}ほのおのパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "A fiery punch that may burn\n"
             "the foe."),
@@ -312,7 +312,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_PUNCH] =
     {
-        .name = COMPOUND_STRING("Ice Punch"),
+        .name = COMPOUND_STRING("{JPN}れいとうパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "An icy punch that may\n"
         #if B_USE_FROSTBITE == TRUE
@@ -344,7 +344,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDER_PUNCH] =
     {
-        .name = COMPOUND_STRING("Thunder Punch"),
+        .name = COMPOUND_STRING("{JPN}かみなりパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "An electrified punch that\n"
             "may paralyze the foe."),
@@ -372,7 +372,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SCRATCH] =
     {
-        .name = COMPOUND_STRING("Scratch"),
+        .name = COMPOUND_STRING("{JPN}ひっかく{ENG}"),
         .description = COMPOUND_STRING(
             "Scratches the foe with\n"
             "sharp claws."),
@@ -394,7 +394,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VISE_GRIP] =
     {
-        .name = COMPOUND_STRING("Vise Grip"),
+        .name = COMPOUND_STRING("{JPN}はさむ{ENG}"),
         .description = COMPOUND_STRING(
             "Grips the foe with large and\n"
             "powerful pincers."),
@@ -416,7 +416,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GUILLOTINE] =
     {
-        .name = COMPOUND_STRING("Guillotine"),
+        .name = COMPOUND_STRING("{JPN}ハサミギロチン{ENG}"),
         .description = COMPOUND_STRING(
             "A powerful pincer attack\n"
             "that KOs if it hits."),
@@ -439,7 +439,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAZOR_WIND] =
     {
-        .name = COMPOUND_STRING("Razor Wind"),
+        .name = COMPOUND_STRING("{JPN}かまいたち{ENG}"),
         #if B_UPDATED_MOVE_DATA == GEN_3 || B_UPDATED_MOVE_DATA == GEN_1
             .description = COMPOUND_STRING(
                 "A 2-turn move that strikes\n"
@@ -477,7 +477,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SWORDS_DANCE] =
     {
-        .name = COMPOUND_STRING("Swords Dance"),
+        .name = COMPOUND_STRING("{JPN}つるぎのまい{ENG}"),
         .description = COMPOUND_STRING(
             "A fighting dance that\n"
             "sharply raises Attack."),
@@ -504,7 +504,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CUT] =
     {
-        .name = COMPOUND_STRING("Cut"),
+        .name = COMPOUND_STRING("{JPN}いあいぎり{ENG}"),
         .description = COMPOUND_STRING(
             "Cuts the foe with sharp\n"
             "scythes, claws, etc."),
@@ -527,7 +527,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GUST] =
     {
-        .name = COMPOUND_STRING("Gust"),
+        .name = COMPOUND_STRING("{JPN}かぜおこし{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes the foe with a gust\n"
             "of wind whipped up by wings."),
@@ -551,7 +551,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WING_ATTACK] =
     {
-        .name = COMPOUND_STRING("Wing Attack"),
+        .name = COMPOUND_STRING("{JPN}つばさでうつ{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes the foe with wings\n"
             "spread wide."),
@@ -573,7 +573,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WHIRLWIND] =
     {
-        .name = COMPOUND_STRING("Whirlwind"),
+        .name = COMPOUND_STRING("{JPN}ふきとばし{ENG}"),
         .description = COMPOUND_STRING(
             "Blows away the foe, switches\n"
             "it out or ends wild battle."),
@@ -613,7 +613,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLY] =
     {
-        .name = COMPOUND_STRING("Fly"),
+        .name = COMPOUND_STRING("{JPN}そらをとぶ{ENG}"),
         .description = COMPOUND_STRING(
             "Flies up on the first turn,\n"
             "then strikes the next turn."),
@@ -641,7 +641,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BIND] =
     {
-        .name = COMPOUND_STRING("Bind"),
+        .name = COMPOUND_STRING("{JPN}しめつける{ENG}"),
         .description = COMPOUND_STRING(
             "Binds and squeezes the foe\n"
             "for "BINDING_TURNS" turns."),
@@ -669,7 +669,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLAM] =
     {
-        .name = COMPOUND_STRING("Slam"),
+        .name = COMPOUND_STRING("{JPN}たたきつける{ENG}"),
         .description = COMPOUND_STRING(
             "Slams the foe with a long\n"
             "tail, vine, etc."),
@@ -693,7 +693,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VINE_WHIP] =
     {
-        .name = COMPOUND_STRING("Vine Whip"),
+        .name = COMPOUND_STRING("{JPN}つるのムチ{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes the foe with\n"
             "slender, whiplike vines."),
@@ -721,7 +721,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STOMP] =
     {
-        .name = COMPOUND_STRING("Stomp"),
+        .name = COMPOUND_STRING("{JPN}ふみつけ{ENG}"),
         .description = COMPOUND_STRING(
             "Stomps the enemy with a big\n"
             "foot. May cause flinching."),
@@ -750,7 +750,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOUBLE_KICK] =
     {
-        .name = COMPOUND_STRING("Double Kick"),
+        .name = COMPOUND_STRING("{JPN}にどげり{ENG}"),
         .description = COMPOUND_STRING(
             "A double-kicking attack\n"
             "that strikes the foe twice."),
@@ -774,7 +774,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MEGA_KICK] =
     {
-        .name = COMPOUND_STRING("Mega Kick"),
+        .name = COMPOUND_STRING("{JPN}メガトンキック{ENG}"),
         .description = COMPOUND_STRING(
             "An extremely powerful kick\n"
             "with intense force."),
@@ -797,7 +797,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_JUMP_KICK] =
     {
-        .name = COMPOUND_STRING("Jump Kick"),
+        .name = COMPOUND_STRING("{JPN}とびげり{ENG}"),
         .description = COMPOUND_STRING(
             "A strong jumping kick. May\n"
             "miss and hurt the kicker."),
@@ -827,7 +827,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROLLING_KICK] =
     {
-        .name = COMPOUND_STRING("Rolling Kick"),
+        .name = COMPOUND_STRING("{JPN}まわしげり{ENG}"),
         .description = COMPOUND_STRING(
             "A fast kick delivered from\n"
             "a rapid spin. May flinch."),
@@ -855,7 +855,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SAND_ATTACK] =
     {
-        .name = COMPOUND_STRING("Sand Attack"),
+        .name = COMPOUND_STRING("{JPN}すなかけ{ENG}"),
         .description = COMPOUND_STRING(
             "Reduces the foe's accuracy\n"
             "by hurling sand in its face."),
@@ -879,7 +879,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEADBUTT] =
     {
-        .name = COMPOUND_STRING("Headbutt"),
+        .name = COMPOUND_STRING("{JPN}ずつき{ENG}"),
         .description = COMPOUND_STRING(
             "A ramming attack that may\n"
             "cause flinching."),
@@ -906,7 +906,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HORN_ATTACK] =
     {
-        .name = COMPOUND_STRING("Horn Attack"),
+        .name = COMPOUND_STRING("{JPN}つのでつく{ENG}"),
         .description = COMPOUND_STRING(
             "Jabs the foe with sharp\n"
             "horns."),
@@ -928,7 +928,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FURY_ATTACK] =
     {
-        .name = COMPOUND_STRING("Fury Attack"),
+        .name = COMPOUND_STRING("{JPN}みだれづき{ENG}"),
         .description = COMPOUND_STRING(
             "Jabs the foe 2 to 5 times\n"
             "with sharp horns, etc."),
@@ -951,7 +951,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HORN_DRILL] =
     {
-        .name = COMPOUND_STRING("Horn Drill"),
+        .name = COMPOUND_STRING("{JPN}つのドリル{ENG}"),
         .description = COMPOUND_STRING(
             "A one-hit KO attack that\n"
             "uses a horn like a drill."),
@@ -974,7 +974,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TACKLE] =
     {
-        .name = COMPOUND_STRING("Tackle"),
+        .name = COMPOUND_STRING("{JPN}たいあたり{ENG}"),
         .description = COMPOUND_STRING(
             "Charges the foe with a full-\n"
             "body tackle."),
@@ -1002,7 +1002,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BODY_SLAM] =
     {
-        .name = COMPOUND_STRING("Body Slam"),
+        .name = COMPOUND_STRING("{JPN}のしかかり{ENG}"),
         .description = COMPOUND_STRING(
             "A full-body slam that may\n"
             "cause paralysis."),
@@ -1031,7 +1031,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WRAP] =
     {
-        .name = COMPOUND_STRING("Wrap"),
+        .name = COMPOUND_STRING("{JPN}まきつく{ENG}"),
         .description = COMPOUND_STRING(
             "Wraps and squeezes the foe\n"
             BINDING_TURNS" times with vines, etc."),
@@ -1059,7 +1059,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAKE_DOWN] =
     {
-        .name = COMPOUND_STRING("Take Down"),
+        .name = COMPOUND_STRING("{JPN}とっしん{ENG}"),
         .description = COMPOUND_STRING(
             "A reckless charge attack\n"
             "that also hurts the user."),
@@ -1083,7 +1083,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THRASH] =
     {
-        .name = COMPOUND_STRING("Thrash"),
+        .name = COMPOUND_STRING("{JPN}あばれる{ENG}"),
         .description = COMPOUND_STRING(
             "A rampage of 2 to 3 turns\n"
             "that confuses the user."),
@@ -1111,7 +1111,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOUBLE_EDGE] =
     {
-        .name = COMPOUND_STRING("Double-Edge"),
+        .name = COMPOUND_STRING("{JPN}すてみタックル{ENG}"),
         .description = COMPOUND_STRING(
             "A life-risking tackle that\n"
             "also hurts the user."),
@@ -1135,7 +1135,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAIL_WHIP] =
     {
-        .name = COMPOUND_STRING("Tail Whip"),
+        .name = COMPOUND_STRING("{JPN}しっぽをふる{ENG}"),
         .description = COMPOUND_STRING(
             "Wags the tail to lower the\n"
             "foe's Defense."),
@@ -1158,7 +1158,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POISON_STING] =
     {
-        .name = COMPOUND_STRING("Poison Sting"),
+        .name = COMPOUND_STRING("{JPN}どくばり{ENG}"),
         .description = COMPOUND_STRING(
             "A toxic attack with barbs,\n"
             "etc., that may poison."),
@@ -1183,7 +1183,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TWINEEDLE] =
     {
-        .name = COMPOUND_STRING("Twineedle"),
+        .name = COMPOUND_STRING("{JPN}ダブルニードル{ENG}"),
         .description = COMPOUND_STRING(
             "Foreleg stingers jab foe\n"
             "twice. May poison."),
@@ -1211,7 +1211,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PIN_MISSILE] =
     {
-        .name = COMPOUND_STRING("Pin Missile"),
+        .name = COMPOUND_STRING("{JPN}ミサイルばり{ENG}"),
         .description = COMPOUND_STRING(
             "Sharp pins are fired to\n"
             "strike 2 to 5 times."),
@@ -1233,7 +1233,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LEER] =
     {
-        .name = COMPOUND_STRING("Leer"),
+        .name = COMPOUND_STRING("{JPN}にらみつける{ENG}"),
         .description = COMPOUND_STRING(
             "Frightens the foes with a\n"
             "leer to lower Defense."),
@@ -1256,7 +1256,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BITE] =
     {
-        .name = COMPOUND_STRING("Bite"),
+        .name = COMPOUND_STRING("{JPN}かみつく{ENG}"),
         .description = COMPOUND_STRING(
             "Bites with vicious fangs.\n"
             "May cause flinching."),
@@ -1284,7 +1284,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GROWL] =
     {
-        .name = COMPOUND_STRING("Growl"),
+        .name = COMPOUND_STRING("{JPN}なきごえ{ENG}"),
         .description = COMPOUND_STRING(
             "Growls cutely to reduce the\n"
             "foe's Attack."),
@@ -1309,7 +1309,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROAR] =
     {
-        .name = COMPOUND_STRING("Roar"),
+        .name = COMPOUND_STRING("{JPN}ほえる{ENG}"),
         .description = COMPOUND_STRING(
             "Switches the foe out\n"
             "or ends wild battle."),
@@ -1344,7 +1344,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SING] =
     {
-        .name = COMPOUND_STRING("Sing"),
+        .name = COMPOUND_STRING("{JPN}うたう{ENG}"),
         .description = COMPOUND_STRING(
             "A soothing song lulls the\n"
             "foe into a deep slumber."),
@@ -1371,7 +1371,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUPERSONIC] =
     {
-        .name = COMPOUND_STRING("Supersonic"),
+        .name = COMPOUND_STRING("{JPN}ちょうおんぱ{ENG}"),
         .description = COMPOUND_STRING(
             "Emits bizarre sound waves\n"
             "that may confuse the foe."),
@@ -1397,7 +1397,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SONIC_BOOM] =
     {
-        .name = COMPOUND_STRING("Sonic Boom"),
+        .name = COMPOUND_STRING("{JPN}ソニックブーム{ENG}"),
         .description = COMPOUND_STRING(
             "Launches shock waves that\n"
             "always inflict 20 HP damage."),
@@ -1420,7 +1420,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DISABLE] =
     {
-        .name = COMPOUND_STRING("Disable"),
+        .name = COMPOUND_STRING("{JPN}かなしばり{ENG}"),
         .description = COMPOUND_STRING(
         #if B_DISABLE_TURNS >= GEN_5
             "For 4 turns, prevents foe\n"
@@ -1457,7 +1457,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ACID] =
     {
-        .name = COMPOUND_STRING("Acid"),
+        .name = COMPOUND_STRING("{JPN}ようかいえき{ENG}"),
         .description = COMPOUND_STRING(
             "Sprays a hide-melting acid.\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
@@ -1486,7 +1486,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EMBER] =
     {
-        .name = COMPOUND_STRING("Ember"),
+        .name = COMPOUND_STRING("{JPN}ひのこ{ENG}"),
         .description = COMPOUND_STRING(
             "A weak fire attack that may\n"
             "inflict a burn."),
@@ -1511,7 +1511,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLAMETHROWER] =
     {
-        .name = COMPOUND_STRING("Flamethrower"),
+        .name = COMPOUND_STRING("{JPN}かえんほうしゃ{ENG}"),
         .description = COMPOUND_STRING(
             "A powerful fire attack that\n"
             "may inflict a burn."),
@@ -1537,7 +1537,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIST] =
     {
-        .name = COMPOUND_STRING("Mist"),
+        .name = COMPOUND_STRING("{JPN}しろいきり{ENG}"),
         .description = COMPOUND_STRING(
             "Creates a mist that stops\n"
             "reduction of stats."),
@@ -1563,7 +1563,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WATER_GUN] =
     {
-        .name = COMPOUND_STRING("Water Gun"),
+        .name = COMPOUND_STRING("{JPN}みずでっぽう{ENG}"),
         .description = COMPOUND_STRING(
             "Squirts water to attack\n"
             "the foe."),
@@ -1584,7 +1584,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYDRO_PUMP] =
     {
-        .name = COMPOUND_STRING("Hydro Pump"),
+        .name = COMPOUND_STRING("{JPN}ハイドロポンプ{ENG}"),
         .description = COMPOUND_STRING(
             "Blasts water at high power\n"
             "to strike the foe."),
@@ -1606,7 +1606,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SURF] =
     {
-        .name = COMPOUND_STRING("Surf"),
+        .name = COMPOUND_STRING("{JPN}なみのり{ENG}"),
         .description = COMPOUND_STRING(
             "Creates a huge wave, then\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
@@ -1634,7 +1634,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_BEAM] =
     {
-        .name = COMPOUND_STRING("Ice Beam"),
+        .name = COMPOUND_STRING("{JPN}れいとうビーム{ENG}"),
         .description = COMPOUND_STRING(
             "Blasts the foe with an icy\n"
         #if B_USE_FROSTBITE == TRUE
@@ -1666,7 +1666,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLIZZARD] =
     {
-        .name = COMPOUND_STRING("Blizzard"),
+        .name = COMPOUND_STRING("{JPN}ふぶき{ENG}"),
         .description = COMPOUND_STRING(
             "Hits the foes with an icy\n"
         #if B_USE_FROSTBITE == TRUE
@@ -1698,7 +1698,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYBEAM] =
     {
-        .name = COMPOUND_STRING("Psybeam"),
+        .name = COMPOUND_STRING("{JPN}サイケこうせん{ENG}"),
         .description = COMPOUND_STRING(
             "Fires a peculiar ray that\n"
             "may confuse the foe."),
@@ -1724,7 +1724,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BUBBLE_BEAM] =
     {
-        .name = COMPOUND_STRING("Bubble Beam"),
+        .name = COMPOUND_STRING("{JPN}バブルこうせん{ENG}"),
         .description = COMPOUND_STRING(
             "Forcefully sprays bubbles\n"
             "that may lower Speed."),
@@ -1749,7 +1749,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AURORA_BEAM] =
     {
-        .name = COMPOUND_STRING("Aurora Beam"),
+        .name = COMPOUND_STRING("{JPN}オーロラビーム{ENG}"),
         .description = COMPOUND_STRING(
             "Fires a rainbow-colored\n"
             "beam that may lower Attack."),
@@ -1774,7 +1774,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYPER_BEAM] =
     {
-        .name = COMPOUND_STRING("Hyper Beam"),
+        .name = COMPOUND_STRING("{JPN}はかいこうせん{ENG}"),
         .description = sHyperBeamDescription,
         .effect = EFFECT_HIT,
         .power = 150,
@@ -1799,7 +1799,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PECK] =
     {
-        .name = COMPOUND_STRING("Peck"),
+        .name = COMPOUND_STRING("{JPN}つつく{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks the foe with a\n"
             "jabbing beak, etc."),
@@ -1821,7 +1821,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRILL_PECK] =
     {
-        .name = COMPOUND_STRING("Drill Peck"),
+        .name = COMPOUND_STRING("{JPN}ドリルくちばし{ENG}"),
         .description = COMPOUND_STRING(
             "A corkscrewing attack with\n"
             "the beak acting as a drill."),
@@ -1844,7 +1844,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUBMISSION] =
     {
-        .name = COMPOUND_STRING("Submission"),
+        .name = COMPOUND_STRING("{JPN}じごくぐるま{ENG}"),
         .description = COMPOUND_STRING(
             "A reckless body slam that\n"
             "also hurts the user."),
@@ -1868,7 +1868,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LOW_KICK] =
     {
-        .name = COMPOUND_STRING("Low Kick"),
+        .name = COMPOUND_STRING("{JPN}けたぐり{ENG}"),
         #if B_UPDATED_MOVE_DATA >= GEN_3
             .description = COMPOUND_STRING(
                 "A kick that inflicts more\n"
@@ -1902,7 +1902,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COUNTER] =
     {
-        .name = COMPOUND_STRING("Counter"),
+        .name = COMPOUND_STRING("{JPN}カウンター{ENG}"),
         .description = COMPOUND_STRING(
             "Retaliates any physical hit\n"
             "with double the power."),
@@ -1936,7 +1936,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SEISMIC_TOSS] =
     {
-        .name = COMPOUND_STRING("Seismic Toss"),
+        .name = COMPOUND_STRING("{JPN}ちきゅうなげ{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts damage identical\n"
             "to the user's level."),
@@ -1960,7 +1960,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STRENGTH] =
     {
-        .name = COMPOUND_STRING("Strength"),
+        .name = COMPOUND_STRING("{JPN}かいりき{ENG}"),
         .description = COMPOUND_STRING(
             "Builds enormous power,\n"
             "then slams the foe."),
@@ -1983,7 +1983,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ABSORB] =
     {
-        .name = COMPOUND_STRING("Absorb"),
+        .name = COMPOUND_STRING("{JPN}すいとる{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that absorbs\n"
             "half the damage inflicted."),
@@ -2007,7 +2007,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MEGA_DRAIN] =
     {
-        .name = COMPOUND_STRING("Mega Drain"),
+        .name = COMPOUND_STRING("{JPN}メガドレイン{ENG}"),
         .description = sMegaDrainDescription,
         .effect = EFFECT_ABSORB,
         .power = 40,
@@ -2030,7 +2030,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LEECH_SEED] =
     {
-        .name = COMPOUND_STRING("Leech Seed"),
+        .name = COMPOUND_STRING("{JPN}やどりぎのタネ{ENG}"),
         .description = COMPOUND_STRING(
             "Plants a seed on the foe to\n"
             "steal HP on every turn."),
@@ -2054,7 +2054,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GROWTH] =
     {
-        .name = COMPOUND_STRING("Growth"),
+        .name = COMPOUND_STRING("{JPN}せいちょう{ENG}"),
         .description = COMPOUND_STRING(
         #if B_GROWTH_STAT_RAISE >= GEN_5
             "Forces the body to grow,\n"
@@ -2085,7 +2085,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAZOR_LEAF] =
     {
-        .name = COMPOUND_STRING("Razor Leaf"),
+        .name = COMPOUND_STRING("{JPN}はっぱカッター{ENG}"),
         .description = COMPOUND_STRING(
             "Cuts enemies with leaves.\n"
             "High critical-hit ratio."),
@@ -2109,7 +2109,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SOLAR_BEAM] =
     {
-        .name = COMPOUND_STRING("Solar Beam"),
+        .name = COMPOUND_STRING("{JPN}ソーラービーム{ENG}"),
         .description = COMPOUND_STRING(
             "Absorbs light in one turn,\n"
             "then attacks next turn."),
@@ -2134,7 +2134,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POISON_POWDER] =
     {
-        .name = COMPOUND_STRING("Poison Powder"),
+        .name = COMPOUND_STRING("{JPN}どくのこな{ENG}"),
         .description = COMPOUND_STRING(
             "Scatters a toxic powder\n"
             "that may poison the foe."),
@@ -2160,7 +2160,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STUN_SPORE] =
     {
-        .name = COMPOUND_STRING("Stun Spore"),
+        .name = COMPOUND_STRING("{JPN}しびれごな{ENG}"),
         .description = COMPOUND_STRING(
             "Scatters a powder that may\n"
             "paralyze the foe."),
@@ -2186,7 +2186,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLEEP_POWDER] =
     {
-        .name = COMPOUND_STRING("Sleep Powder"),
+        .name = COMPOUND_STRING("{JPN}ねむりごな{ENG}"),
         .description = COMPOUND_STRING(
             "Scatters a powder that may\n"
             "cause the foe to sleep."),
@@ -2212,7 +2212,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PETAL_DANCE] =
     {
-        .name = COMPOUND_STRING("Petal Dance"),
+        .name = COMPOUND_STRING("{JPN}はなびらのまい{ENG}"),
         .description = COMPOUND_STRING(
             "A rampage of 2 to 3 turns\n"
             "that confuses the user."),
@@ -2247,7 +2247,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STRING_SHOT] =
     {
-        .name = COMPOUND_STRING("String Shot"),
+        .name = COMPOUND_STRING("{JPN}いとをはく{ENG}"),
         .description = COMPOUND_STRING(
             "Binds the foe with string\n"
             "to reduce its Speed."),
@@ -2270,7 +2270,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_RAGE] =
     {
-        .name = COMPOUND_STRING("Dragon Rage"),
+        .name = COMPOUND_STRING("{JPN}りゅうのいかり{ENG}"),
         .description = COMPOUND_STRING(
             "Launches shock waves that\n"
             "always inflict 40 HP damage."),
@@ -2294,7 +2294,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIRE_SPIN] =
     {
-        .name = COMPOUND_STRING("Fire Spin"),
+        .name = COMPOUND_STRING("{JPN}ほのおのうず{ENG}"),
         .description = COMPOUND_STRING(
             "Traps the foe in a ring of\n"
             "fire for "BINDING_TURNS" turns."),
@@ -2321,7 +2321,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDER_SHOCK] =
     {
-        .name = COMPOUND_STRING("Thunder Shock"),
+        .name = COMPOUND_STRING("{JPN}でんきショック{ENG}"),
         .description = COMPOUND_STRING(
             "An electrical attack that\n"
             "may paralyze the foe."),
@@ -2346,7 +2346,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDERBOLT] =
     {
-        .name = COMPOUND_STRING("Thunderbolt"),
+        .name = COMPOUND_STRING("{JPN}10まんボルト{ENG}"),
         .description = COMPOUND_STRING(
             "A strong electrical attack\n"
             "that may paralyze the foe."),
@@ -2372,7 +2372,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDER_WAVE] =
     {
-        .name = COMPOUND_STRING("Thunder Wave"),
+        .name = COMPOUND_STRING("{JPN}でんじは{ENG}"),
         .description = COMPOUND_STRING(
             "A weak jolt of electricity\n"
             "that paralyzes the foe."),
@@ -2397,7 +2397,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDER] =
     {
-        .name = COMPOUND_STRING("Thunder"),
+        .name = COMPOUND_STRING("{JPN}かみなり{ENG}"),
         .description = COMPOUND_STRING(
             "A lightning attack that may\n"
             "cause paralysis."),
@@ -2426,7 +2426,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_THROW] =
     {
-        .name = COMPOUND_STRING("Rock Throw"),
+        .name = COMPOUND_STRING("{JPN}いわおとし{ENG}"),
         .description = COMPOUND_STRING(
             "Throws small rocks to\n"
             "strike the foe."),
@@ -2447,7 +2447,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EARTHQUAKE] =
     {
-        .name = COMPOUND_STRING("Earthquake"),
+        .name = COMPOUND_STRING("{JPN}じしん{ENG}"),
         .description = COMPOUND_STRING(
             "A powerful quake that\n"
             "hits all other POKéMON."),
@@ -2472,7 +2472,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FISSURE] =
     {
-        .name = COMPOUND_STRING("Fissure"),
+        .name = COMPOUND_STRING("{JPN}じわれ{ENG}"),
         .description = COMPOUND_STRING(
             "A one-hit KO move that\n"
             "drops the foe in a fissure."),
@@ -2496,7 +2496,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DIG] =
     {
-        .name = COMPOUND_STRING("Dig"),
+        .name = COMPOUND_STRING("{JPN}あなをほる{ENG}"),
         .description = COMPOUND_STRING(
             "Digs underground the first\n"
             "turn and strikes next turn."),
@@ -2530,7 +2530,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TOXIC] =
     {
-        .name = COMPOUND_STRING("Toxic"),
+        .name = COMPOUND_STRING("{JPN}どくどく{ENG}"),
         .description = COMPOUND_STRING(
             "Poisons the foe with an\n"
             "intensifying toxin."),
@@ -2556,7 +2556,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CONFUSION] =
     {
-        .name = COMPOUND_STRING("Confusion"),
+        .name = COMPOUND_STRING("{JPN}ねんりき{ENG}"),
         .description = COMPOUND_STRING(
             "A psychic attack that may\n"
             "cause confusion."),
@@ -2581,7 +2581,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCHIC] =
     {
-        .name = COMPOUND_STRING("Psychic"),
+        .name = COMPOUND_STRING("{JPN}サイコキネシス{ENG}"),
         .description = COMPOUND_STRING(
             "A powerful psychic attack\n"
             "that may lower Sp. Def."),
@@ -2607,7 +2607,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYPNOSIS] =
     {
-        .name = COMPOUND_STRING("Hypnosis"),
+        .name = COMPOUND_STRING("{JPN}さいみんじゅつ{ENG}"),
         .description = COMPOUND_STRING(
             "A hypnotizing move that\n"
             "may induce sleep."),
@@ -2632,7 +2632,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MEDITATE] =
     {
-        .name = COMPOUND_STRING("Meditate"),
+        .name = COMPOUND_STRING("{JPN}ヨガのポーズ{ENG}"),
         .description = COMPOUND_STRING(
             "Meditates in a peaceful\n"
             "fashion to raise Attack."),
@@ -2658,7 +2658,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AGILITY] =
     {
-        .name = COMPOUND_STRING("Agility"),
+        .name = COMPOUND_STRING("{JPN}こうそくいどう{ENG}"),
         .description = COMPOUND_STRING(
             "Relaxes the body to sharply\n"
             "boost Speed."),
@@ -2684,7 +2684,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_QUICK_ATTACK] =
     {
-        .name = COMPOUND_STRING("Quick Attack"),
+        .name = COMPOUND_STRING("{JPN}でんこうせっか{ENG}"),
         .description = COMPOUND_STRING(
             "An extremely fast attack\n"
             "that always strikes first."),
@@ -2707,7 +2707,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAGE] =
     {
-        .name = COMPOUND_STRING("Rage"),
+        .name = COMPOUND_STRING("{JPN}いかり{ENG}"),
         .description = COMPOUND_STRING(
             "Raises the user's Attack\n"
             "every time it is hit."),
@@ -2732,7 +2732,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TELEPORT] =
     {
-        .name = COMPOUND_STRING("Teleport"),
+        .name = COMPOUND_STRING("{JPN}テレポート{ENG}"),
         #if B_TELEPORT_BEHAVIOR >= GEN_8
         .description = COMPOUND_STRING(
             "Switches the user out last.\n"
@@ -2762,7 +2762,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NIGHT_SHADE] =
     {
-        .name = COMPOUND_STRING("Night Shade"),
+        .name = COMPOUND_STRING("{JPN}ナイトヘッド{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts damage identical\n"
             "to the user's level."),
@@ -2784,7 +2784,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIMIC] =
     {
-        .name = COMPOUND_STRING("Mimic"),
+        .name = COMPOUND_STRING("{JPN}ものまね{ENG}"),
         .description = COMPOUND_STRING(
             "Copies last move used by the\n"
             "foe during one battle."),
@@ -2815,7 +2815,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SCREECH] =
     {
-        .name = COMPOUND_STRING("Screech"),
+        .name = COMPOUND_STRING("{JPN}いやなおと{ENG}"),
         .description = COMPOUND_STRING(
             "Emits a screech to sharply\n"
             "reduce the foe's Defense."),
@@ -2841,7 +2841,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOUBLE_TEAM] =
     {
-        .name = COMPOUND_STRING("Double Team"),
+        .name = COMPOUND_STRING("{JPN}かげぶんしん{ENG}"),
         .description = COMPOUND_STRING(
             "Creates illusory copies to\n"
             "raise evasiveness."),
@@ -2867,7 +2867,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RECOVER] =
     {
-        .name = COMPOUND_STRING("Recover"),
+        .name = COMPOUND_STRING("{JPN}じこさいせい{ENG}"),
         .description = COMPOUND_STRING(
             "Recovers up to half the\n"
             "user's maximum HP."),
@@ -2900,7 +2900,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HARDEN] =
     {
-        .name = COMPOUND_STRING("Harden"),
+        .name = COMPOUND_STRING("{JPN}かたくなる{ENG}"),
         .description = COMPOUND_STRING(
             "Stiffens the body's \n"
             "muscles to raise Defense."),
@@ -2926,7 +2926,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MINIMIZE] =
     {
-        .name = COMPOUND_STRING("Minimize"),
+        .name = COMPOUND_STRING("{JPN}ちいさくなる{ENG}"),
         .description = COMPOUND_STRING(
             "Minimizes the user's size to\n"
         #if B_MINIMIZE_EVASION >= GEN_5
@@ -2956,7 +2956,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SMOKESCREEN] =
     {
-        .name = COMPOUND_STRING("Smokescreen"),
+        .name = COMPOUND_STRING("{JPN}えんまく{ENG}"),
         .description = COMPOUND_STRING(
             "Lowers the foe's accuracy\n"
             "using smoke, ink, etc."),
@@ -2980,7 +2980,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CONFUSE_RAY] =
     {
-        .name = COMPOUND_STRING("Confuse Ray"),
+        .name = COMPOUND_STRING("{JPN}あやしいひかり{ENG}"),
         .description = COMPOUND_STRING(
             "A sinister ray that\n"
             "confuses the foe."),
@@ -3004,7 +3004,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WITHDRAW] =
     {
-        .name = COMPOUND_STRING("Withdraw"),
+        .name = COMPOUND_STRING("{JPN}からにこもる{ENG}"),
         .description = COMPOUND_STRING(
             "Withdraws the body into its\n"
             "hard shell to raise Defense."),
@@ -3030,7 +3030,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DEFENSE_CURL] =
     {
-        .name = COMPOUND_STRING("Defense Curl"),
+        .name = COMPOUND_STRING("{JPN}まるくなる{ENG}"),
         .description = COMPOUND_STRING(
             "Curls up to conceal weak\n"
             "spots and raise Defense."),
@@ -3056,7 +3056,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BARRIER] =
     {
-        .name = COMPOUND_STRING("Barrier"),
+        .name = COMPOUND_STRING("{JPN}バリアー{ENG}"),
         .description = COMPOUND_STRING(
             "Creates a barrier that\n"
             "sharply raises Defense."),
@@ -3082,7 +3082,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LIGHT_SCREEN] =
     {
-        .name = COMPOUND_STRING("Light Screen"),
+        .name = COMPOUND_STRING("{JPN}ひかりのかべ{ENG}"),
         .description = COMPOUND_STRING(
             "Wall of light cuts special\n"
             "damage for 5 turns."),
@@ -3108,7 +3108,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HAZE] =
     {
-        .name = COMPOUND_STRING("Haze"),
+        .name = COMPOUND_STRING("{JPN}くろいきり{ENG}"),
         .description = COMPOUND_STRING(
             "Creates a black haze that\n"
             "eliminates all stat changes."),
@@ -3134,7 +3134,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REFLECT] =
     {
-        .name = COMPOUND_STRING("Reflect"),
+        .name = COMPOUND_STRING("{JPN}リフレクター{ENG}"),
         .description = COMPOUND_STRING(
             "Wall of light cuts physical\n"
             "damage for 5 turns."),
@@ -3160,7 +3160,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FOCUS_ENERGY] =
     {
-        .name = COMPOUND_STRING("Focus Energy"),
+        .name = COMPOUND_STRING("{JPN}きあいだめ{ENG}"),
         .description = COMPOUND_STRING(
             "Focuses power to raise the\n"
             "critical-hit ratio."),
@@ -3187,7 +3187,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BIDE] =
     {
-        .name = COMPOUND_STRING("Bide"),
+        .name = COMPOUND_STRING("{JPN}がまん{ENG}"),
         .description = COMPOUND_STRING(
             "Endures attack for 2\n"
             "turns to retaliate double."),
@@ -3220,7 +3220,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_METRONOME] =
     {
-        .name = COMPOUND_STRING("Metronome"),
+        .name = COMPOUND_STRING("{JPN}ゆびをふる{ENG}"),
         .description = COMPOUND_STRING(
             "Waggles a finger to use any\n"
             "Pokémon move at random."),
@@ -3251,7 +3251,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIRROR_MOVE] =
     {
-        .name = COMPOUND_STRING("Mirror Move"),
+        .name = COMPOUND_STRING("{JPN}オウムがえし{ENG}"),
         .description = COMPOUND_STRING(
             "Counters the foe's attack\n"
             "with the same move."),
@@ -3283,7 +3283,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SELF_DESTRUCT] =
     {
-        .name = COMPOUND_STRING("Self-Destruct"),
+        .name = COMPOUND_STRING("{JPN}じばく{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts severe damage but\n"
             "makes the user faint."),
@@ -3308,7 +3308,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EGG_BOMB] =
     {
-        .name = COMPOUND_STRING("Egg Bomb"),
+        .name = COMPOUND_STRING("{JPN}タマゴばくだん{ENG}"),
         .description = COMPOUND_STRING(
             "An egg is forcibly hurled at\n"
             "the foe."),
@@ -3331,7 +3331,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LICK] =
     {
-        .name = COMPOUND_STRING("Lick"),
+        .name = COMPOUND_STRING("{JPN}したでなめる{ENG}"),
         .description = COMPOUND_STRING(
             "Licks with a long tongue to\n"
             "injure. May also paralyze."),
@@ -3358,7 +3358,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SMOG] =
     {
-        .name = COMPOUND_STRING("Smog"),
+        .name = COMPOUND_STRING("{JPN}スモッグ{ENG}"),
         .description = COMPOUND_STRING(
             "An exhaust-gas attack\n"
             "that may also poison."),
@@ -3383,7 +3383,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLUDGE] =
     {
-        .name = COMPOUND_STRING("Sludge"),
+        .name = COMPOUND_STRING("{JPN}ヘドロこうげき{ENG}"),
         .description = COMPOUND_STRING(
             "Sludge is hurled to inflict\n"
             "damage. May also poison."),
@@ -3408,7 +3408,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BONE_CLUB] =
     {
-        .name = COMPOUND_STRING("Bone Club"),
+        .name = COMPOUND_STRING("{JPN}ホネこんぼう{ENG}"),
         .description = COMPOUND_STRING(
             "Clubs the foe with a bone.\n"
             "May cause flinching."),
@@ -3433,7 +3433,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIRE_BLAST] =
     {
-        .name = COMPOUND_STRING("Fire Blast"),
+        .name = COMPOUND_STRING("{JPN}だいもんじ{ENG}"),
         .description = COMPOUND_STRING(
             "Incinerates everything it\n"
             "strikes. May cause a burn."),
@@ -3459,7 +3459,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WATERFALL] =
     {
-        .name = COMPOUND_STRING("Waterfall"),
+        .name = COMPOUND_STRING("{JPN}たきのぼり{ENG}"),
         .description = COMPOUND_STRING(
             "Charges with speed to climb\n"
             "waterfalls. May flinch."),
@@ -3488,7 +3488,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CLAMP] =
     {
-        .name = COMPOUND_STRING("Clamp"),
+        .name = COMPOUND_STRING("{JPN}からではさむ{ENG}"),
         .description = COMPOUND_STRING(
             "Traps and squeezes the\n"
             "foe for "BINDING_TURNS" turns."),
@@ -3516,7 +3516,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SWIFT] =
     {
-        .name = COMPOUND_STRING("Swift"),
+        .name = COMPOUND_STRING("{JPN}スピードスター{ENG}"),
         .description = COMPOUND_STRING(
             "Sprays star-shaped rays\n"
             "that never miss."),
@@ -3538,7 +3538,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SKULL_BASH] =
     {
-        .name = COMPOUND_STRING("Skull Bash"),
+        .name = COMPOUND_STRING("{JPN}ロケットずつき{ENG}"),
         .description = COMPOUND_STRING(
             "Tucks in the head, then\n"
             "attacks on the next turn."),
@@ -3571,7 +3571,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIKE_CANNON] =
     {
-        .name = COMPOUND_STRING("Spike Cannon"),
+        .name = COMPOUND_STRING("{JPN}とげキャノン{ENG}"),
         .description = COMPOUND_STRING(
             "Launches sharp spikes that\n"
             "strike 2 to 5 times."),
@@ -3593,7 +3593,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CONSTRICT] =
     {
-        .name = COMPOUND_STRING("Constrict"),
+        .name = COMPOUND_STRING("{JPN}からみつく{ENG}"),
         .description = COMPOUND_STRING(
             "Constricts to inflict pain.\n"
             "May lower Speed."),
@@ -3619,7 +3619,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AMNESIA] =
     {
-        .name = COMPOUND_STRING("Amnesia"),
+        .name = COMPOUND_STRING("{JPN}ドわすれ{ENG}"),
         .description = COMPOUND_STRING(
             "Forgets about something\n"
             "and sharply raises Sp. Def."),
@@ -3645,7 +3645,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_KINESIS] =
     {
-        .name = COMPOUND_STRING("Kinesis"),
+        .name = COMPOUND_STRING("{JPN}スプーンまげ{ENG}"),
         .description = COMPOUND_STRING(
             "Distracts the foe.\n"
             "May lower accuracy."),
@@ -3669,7 +3669,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SOFT_BOILED] =
     {
-        .name = COMPOUND_STRING("Soft-Boiled"),
+        .name = COMPOUND_STRING("{JPN}タマゴうみ{ENG}"),
         .description = COMPOUND_STRING(
             "Recovers up to half the\n"
             "user's maximum HP."),
@@ -3696,7 +3696,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HIGH_JUMP_KICK] =
     {
-        .name = COMPOUND_STRING("High Jump Kick"),
+        .name = COMPOUND_STRING("{JPN}とびひざげり{ENG}"),
         .description = COMPOUND_STRING(
             "A jumping knee kick. If it\n"
             "misses, the user is hurt."),
@@ -3726,7 +3726,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GLARE] =
     {
-        .name = COMPOUND_STRING("Glare"),
+        .name = COMPOUND_STRING("{JPN}へびにらみ{ENG}"),
         .description = COMPOUND_STRING(
             "Intimidates and frightens\n"
             "the foe into paralysis."),
@@ -3757,7 +3757,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DREAM_EATER] =
     {
-        .name = COMPOUND_STRING("Dream Eater"),
+        .name = COMPOUND_STRING("{JPN}ゆめくい{ENG}"),
         .description = COMPOUND_STRING(
             "Takes one half the damage\n"
             "inflicted on a sleeping foe."),
@@ -3781,7 +3781,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POISON_GAS] =
     {
-        .name = COMPOUND_STRING("Poison Gas"),
+        .name = COMPOUND_STRING("{JPN}どくガス{ENG}"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_5
             "Envelops the foes in a toxic\n"
@@ -3815,7 +3815,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BARRAGE] =
     {
-        .name = COMPOUND_STRING("Barrage"),
+        .name = COMPOUND_STRING("{JPN}たまなげ{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls round objects at the\n"
             "foe 2 to 5 times."),
@@ -3838,7 +3838,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LEECH_LIFE] =
     {
-        .name = COMPOUND_STRING("Leech Life"),
+        .name = COMPOUND_STRING("{JPN}きゅうけつ{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that steals half\n"
             "the damage inflicted."),
@@ -3863,7 +3863,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LOVELY_KISS] =
     {
-        .name = COMPOUND_STRING("Lovely Kiss"),
+        .name = COMPOUND_STRING("{JPN}あくまのキッス{ENG}"),
         .description = COMPOUND_STRING(
             "Demands a kiss with a scary\n"
             "face that induces sleep."),
@@ -3888,7 +3888,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SKY_ATTACK] =
     {
-        .name = COMPOUND_STRING("Sky Attack"),
+        .name = COMPOUND_STRING("{JPN}ゴッドバード{ENG}"),
         .description = COMPOUND_STRING(
             "2-turn attack. High critical\n"
             "hit ratio, and may flinch."),
@@ -3920,7 +3920,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRANSFORM] =
     {
-        .name = COMPOUND_STRING("Transform"),
+        .name = COMPOUND_STRING("{JPN}へんしん{ENG}"),
         .description = COMPOUND_STRING(
             "Alters the user's cells to\n"
             "become a copy of the foe."),
@@ -3952,7 +3952,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BUBBLE] =
     {
-        .name = COMPOUND_STRING("Bubble"),
+        .name = COMPOUND_STRING("{JPN}あわ{ENG}"),
         .description = COMPOUND_STRING(
             "An attack using bubbles.\n"
             "May lower the foe's Speed."),
@@ -3977,7 +3977,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DIZZY_PUNCH] =
     {
-        .name = COMPOUND_STRING("Dizzy Punch"),
+        .name = COMPOUND_STRING("{JPN}ピヨピヨパンチ{ENG}"),
         #if B_UPDATED_MOVE_DATA >= GEN_2
             .description = COMPOUND_STRING(
                 "A rhythmic punch that may\n"
@@ -4013,7 +4013,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPORE] =
     {
-        .name = COMPOUND_STRING("Spore"),
+        .name = COMPOUND_STRING("{JPN}キノコのほうし{ENG}"),
         .description = COMPOUND_STRING(
             "Scatters a cloud of spores\n"
             "that always induce sleep."),
@@ -4039,7 +4039,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLASH] =
     {
-        .name = COMPOUND_STRING("Flash"),
+        .name = COMPOUND_STRING("{JPN}フラッシュ{ENG}"),
         .description = COMPOUND_STRING(
             "Looses a powerful blast of\n"
             "light that cuts accuracy."),
@@ -4063,7 +4063,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYWAVE] =
     {
-        .name = COMPOUND_STRING("Psywave"),
+        .name = COMPOUND_STRING("{JPN}サイコウェーブ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a psychic\n"
             "wave of varying intensity."),
@@ -4085,7 +4085,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPLASH] =
     {
-        .name = COMPOUND_STRING("Splash"),
+        .name = COMPOUND_STRING("{JPN}はねる{ENG}"),
         .description = COMPOUND_STRING(
             "It's just a splash...\n"
             "Has no effect whatsoever."),
@@ -4110,7 +4110,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ACID_ARMOR] =
     {
-        .name = COMPOUND_STRING("Acid Armor"),
+        .name = COMPOUND_STRING("{JPN}とける{ENG}"),
         .description = COMPOUND_STRING(
             "Liquifies the user's body\n"
             "to sharply raise Defense."),
@@ -4136,7 +4136,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CRABHAMMER] =
     {
-        .name = COMPOUND_STRING("Crabhammer"),
+        .name = COMPOUND_STRING("{JPN}クラブハンマー{ENG}"),
         .description = COMPOUND_STRING(
             "Hammers with a pincer. Has a\n"
             "high critical-hit ratio."),
@@ -4160,7 +4160,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EXPLOSION] =
     {
-        .name = COMPOUND_STRING("Explosion"),
+        .name = COMPOUND_STRING("{JPN}だいばくはつ{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts severe damage but\n"
             "makes the user faint."),
@@ -4185,7 +4185,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FURY_SWIPES] =
     {
-        .name = COMPOUND_STRING("Fury Swipes"),
+        .name = COMPOUND_STRING("{JPN}みだれひっかき{ENG}"),
         .description = COMPOUND_STRING(
             "Rakes the foe with sharp\n"
             "claws, etc., 2 to 5 times."),
@@ -4208,7 +4208,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BONEMERANG] =
     {
-        .name = COMPOUND_STRING("Bonemerang"),
+        .name = COMPOUND_STRING("{JPN}ホネブーメラン{ENG}"),
         .description = COMPOUND_STRING(
             "Throws a bone boomerang\n"
             "that strikes twice."),
@@ -4231,7 +4231,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REST] =
     {
-        .name = COMPOUND_STRING("Rest"),
+        .name = COMPOUND_STRING("{JPN}ねむる{ENG}"),
         .description = COMPOUND_STRING(
             "The user sleeps for 2 turns,\n"
             "restoring HP and status."),
@@ -4258,7 +4258,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_SLIDE] =
     {
-        .name = COMPOUND_STRING("Rock Slide"),
+        .name = COMPOUND_STRING("{JPN}いわなだれ{ENG}"),
         #if B_UPDATED_MOVE_DATA >= GEN_2
             .description = COMPOUND_STRING(
                 "Large boulders are hurled.\n"
@@ -4292,7 +4292,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYPER_FANG] =
     {
-        .name = COMPOUND_STRING("Hyper Fang"),
+        .name = COMPOUND_STRING("{JPN}ひっさつまえば{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with sharp fangs.\n"
             "May cause flinching."),
@@ -4320,7 +4320,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHARPEN] =
     {
-        .name = COMPOUND_STRING("Sharpen"),
+        .name = COMPOUND_STRING("{JPN}かくばる{ENG}"),
         .description = COMPOUND_STRING(
             "Reduces the polygon count\n"
             "and raises Attack."),
@@ -4346,7 +4346,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CONVERSION] =
     {
-        .name = COMPOUND_STRING("Conversion"),
+        .name = COMPOUND_STRING("{JPN}テクスチャー{ENG}"),
         .description = COMPOUND_STRING(
             "Changes the user's type\n"
         #if B_UPDATED_CONVERSION >= GEN_6
@@ -4376,7 +4376,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRI_ATTACK] =
     {
-        .name = COMPOUND_STRING("Tri Attack"),
+        .name = COMPOUND_STRING("{JPN}トライアタック{ENG}"),
         #if B_UPDATED_MOVE_DATA >= GEN_2
             .description = COMPOUND_STRING(
                 "Fires three types of beams.\n"
@@ -4414,7 +4414,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUPER_FANG] =
     {
-        .name = COMPOUND_STRING("Super Fang"),
+        .name = COMPOUND_STRING("{JPN}いかりのまえば{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with sharp fangs\n"
             "and cuts half the foe's HP."),
@@ -4439,7 +4439,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLASH] =
     {
-        .name = COMPOUND_STRING("Slash"),
+        .name = COMPOUND_STRING("{JPN}きりさく{ENG}"),
         .description = COMPOUND_STRING(
             "Slashes with claws, etc. Has\n"
             "a high critical-hit ratio."),
@@ -4464,7 +4464,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUBSTITUTE] =
     {
-        .name = COMPOUND_STRING("Substitute"),
+        .name = COMPOUND_STRING("{JPN}みがわり{ENG}"),
         .description = COMPOUND_STRING(
             "Creates a decoy using 1/4\n"
             "of the user's maximum HP."),
@@ -4491,7 +4491,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STRUGGLE] =
     {
-        .name = COMPOUND_STRING("Struggle"),
+        .name = COMPOUND_STRING("{JPN}わるあがき{ENG}"),
         .description = COMPOUND_STRING(
             "Used only if all PP are gone.\n"
             "Also hurts the user a little."),
@@ -4538,7 +4538,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SKETCH] =
     {
-        .name = COMPOUND_STRING("Sketch"),
+        .name = COMPOUND_STRING("{JPN}スケッチ{ENG}"),
         .description = COMPOUND_STRING(
             "Copies the foe's last move\n"
             "permanently."),
@@ -4572,7 +4572,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRIPLE_KICK] =
     {
-        .name = COMPOUND_STRING("Triple Kick"),
+        .name = COMPOUND_STRING("{JPN}トリプルキック{ENG}"),
         .description = COMPOUND_STRING(
             "Kicks the foe 3 times in a\n"
             "row with rising intensity."),
@@ -4596,7 +4596,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THIEF] =
     {
-        .name = COMPOUND_STRING("Thief"),
+        .name = COMPOUND_STRING("{JPN}どろぼう{ENG}"),
         .description = COMPOUND_STRING(
             "While attacking, it may\n"
             "steal the foe's held item."),
@@ -4624,7 +4624,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIDER_WEB] =
     {
-        .name = COMPOUND_STRING("Spider Web"),
+        .name = COMPOUND_STRING("{JPN}クモのす{ENG}"),
         .description = COMPOUND_STRING(
             "Ensnares the foe to stop it\n"
             "from fleeing or switching."),
@@ -4649,7 +4649,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIND_READER] =
     {
-        .name = COMPOUND_STRING("Mind Reader"),
+        .name = COMPOUND_STRING("{JPN}こころのめ{ENG}"),
         .description = COMPOUND_STRING(
             "Senses the foe's action to\n"
             "ensure the next move's hit."),
@@ -4672,7 +4672,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NIGHTMARE] =
     {
-        .name = COMPOUND_STRING("Nightmare"),
+        .name = COMPOUND_STRING("{JPN}あくむ{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts 1/4 damage on a\n"
             "sleeping foe every turn."),
@@ -4696,7 +4696,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLAME_WHEEL] =
     {
-        .name = COMPOUND_STRING("Flame Wheel"),
+        .name = COMPOUND_STRING("{JPN}かえんぐるま{ENG}"),
         .description = COMPOUND_STRING(
             "A fiery charge attack that\n"
             "may inflict a burn."),
@@ -4723,7 +4723,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SNORE] =
     {
-        .name = COMPOUND_STRING("Snore"),
+        .name = COMPOUND_STRING("{JPN}いびき{ENG}"),
         .description = COMPOUND_STRING(
             "A loud attack that can only\n"
             "be used asleep. May flinch."),
@@ -4752,7 +4752,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CURSE] =
     {
-        .name = COMPOUND_STRING("Curse"),
+        .name = COMPOUND_STRING("{JPN}のろい{ENG}"),
         .description = COMPOUND_STRING(
             "A move that functions\n"
             "differently for GHOSTS."),
@@ -4778,7 +4778,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLAIL] =
     {
-        .name = COMPOUND_STRING("Flail"),
+        .name = COMPOUND_STRING("{JPN}じたばた{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts more damage when\n"
             "the user's HP is down."),
@@ -4801,7 +4801,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CONVERSION_2] =
     {
-        .name = COMPOUND_STRING("Conversion 2"),
+        .name = COMPOUND_STRING("{JPN}テクスチャー2{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the user resistant\n"
             "to the last attack's type."),
@@ -4827,7 +4827,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AEROBLAST] =
     {
-        .name = COMPOUND_STRING("Aeroblast"),
+        .name = COMPOUND_STRING("{JPN}エアロブラスト{ENG}"),
         .description = COMPOUND_STRING(
             "Launches a vacuumed blast.\n"
             "High critical-hit ratio."),
@@ -4851,7 +4851,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COTTON_SPORE] =
     {
-        .name = COMPOUND_STRING("Cotton Spore"),
+        .name = COMPOUND_STRING("{JPN}わたほうし{ENG}"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_6
             "Spores cling to the foes,\n"
@@ -4880,7 +4880,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REVERSAL] =
     {
-        .name = COMPOUND_STRING("Reversal"),
+        .name = COMPOUND_STRING("{JPN}きしかいせい{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts more damage when\n"
             "the user's HP is down."),
@@ -4903,7 +4903,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPITE] =
     {
-        .name = COMPOUND_STRING("Spite"),
+        .name = COMPOUND_STRING("{JPN}うらみ{ENG}"),
         .description = COMPOUND_STRING(
             "Spitefully cuts the PP\n"
         #if B_PP_REDUCED_BY_SPITE >= GEN_4
@@ -4932,7 +4932,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWDER_SNOW] =
     {
-        .name = COMPOUND_STRING("Powder Snow"),
+        .name = COMPOUND_STRING("{JPN}こなゆき{ENG}"),
         .description = COMPOUND_STRING(
             "Blasts the foes with a snowy\n"
         #if B_USE_FROSTBITE == TRUE
@@ -4961,7 +4961,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PROTECT] =
     {
-        .name = COMPOUND_STRING("Protect"),
+        .name = COMPOUND_STRING("{JPN}まもる{ENG}"),
         .description = sProtectDescription,
         .effect = EFFECT_PROTECT,
         .power = 0,
@@ -4994,7 +4994,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MACH_PUNCH] =
     {
-        .name = COMPOUND_STRING("Mach Punch"),
+        .name = COMPOUND_STRING("{JPN}マッハパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "A punch is thrown at wicked\n"
             "speed to strike first."),
@@ -5018,7 +5018,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SCARY_FACE] =
     {
-        .name = COMPOUND_STRING("Scary Face"),
+        .name = COMPOUND_STRING("{JPN}こわいかお{ENG}"),
         .description = COMPOUND_STRING(
             "Frightens with a scary face\n"
             "to sharply reduce Speed."),
@@ -5042,7 +5042,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FEINT_ATTACK] =
     {
-        .name = COMPOUND_STRING("Feint Attack"),
+        .name = COMPOUND_STRING("{JPN}だましうち{ENG}"),
         .description = COMPOUND_STRING(
             "Draws the foe close, then\n"
             "strikes without fail."),
@@ -5065,7 +5065,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SWEET_KISS] =
     {
-        .name = COMPOUND_STRING("Sweet Kiss"),
+        .name = COMPOUND_STRING("{JPN}てんしのキッス{ENG}"),
         .description = COMPOUND_STRING(
             "Demands a kiss with a cute\n"
             "look. May cause confusion."),
@@ -5089,7 +5089,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BELLY_DRUM] =
     {
-        .name = COMPOUND_STRING("Belly Drum"),
+        .name = COMPOUND_STRING("{JPN}はらだいこ{ENG}"),
         .description = COMPOUND_STRING(
             "Maximizes Attack while\n"
             "sacrificing half of max HP."),
@@ -5115,7 +5115,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLUDGE_BOMB] =
     {
-        .name = COMPOUND_STRING("Sludge Bomb"),
+        .name = COMPOUND_STRING("{JPN}ヘドロばくだん{ENG}"),
         .description = COMPOUND_STRING(
             "Sludge is hurled to inflict\n"
             "damage. May also poison."),
@@ -5142,7 +5142,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MUD_SLAP] =
     {
-        .name = COMPOUND_STRING("Mud-Slap"),
+        .name = COMPOUND_STRING("{JPN}どろかけ{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls mud in the foe's face\n"
             "to reduce its accuracy."),
@@ -5168,7 +5168,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OCTAZOOKA] =
     {
-        .name = COMPOUND_STRING("Octazooka"),
+        .name = COMPOUND_STRING("{JPN}オクタンほう{ENG}"),
         .description = COMPOUND_STRING(
             "Fires a lump of ink to\n"
             "damage and cut accuracy."),
@@ -5195,7 +5195,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIKES] =
     {
-        .name = COMPOUND_STRING("Spikes"),
+        .name = COMPOUND_STRING("{JPN}まきびし{ENG}"),
         .description = COMPOUND_STRING(
             "Sets spikes that hurt a \n"
             "foe switching in."),
@@ -5223,7 +5223,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ZAP_CANNON] =
     {
-        .name = COMPOUND_STRING("Zap Cannon"),
+        .name = COMPOUND_STRING("{JPN}でんじほう{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful and sure to cause\n"
             "paralysis, but inaccurate."),
@@ -5250,7 +5250,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FORESIGHT] =
     {
-        .name = COMPOUND_STRING("Foresight"),
+        .name = COMPOUND_STRING("{JPN}みやぶる{ENG}"),
         .description = COMPOUND_STRING(
             "Negates the foe's efforts\n"
             "to heighten evasiveness."),
@@ -5275,7 +5275,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DESTINY_BOND] =
     {
-        .name = COMPOUND_STRING("Destiny Bond"),
+        .name = COMPOUND_STRING("{JPN}みちづれ{ENG}"),
         .description = COMPOUND_STRING(
             "If the user faints, the foe\n"
             "is also made to faint."),
@@ -5304,7 +5304,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PERISH_SONG] =
     {
-        .name = COMPOUND_STRING("Perish Song"),
+        .name = COMPOUND_STRING("{JPN}ほろびのうた{ENG}"),
         .description = COMPOUND_STRING(
             "Any Pokémon hearing this\n"
             "song faints in 3 turns."),
@@ -5331,7 +5331,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICY_WIND] =
     {
-        .name = COMPOUND_STRING("Icy Wind"),
+        .name = COMPOUND_STRING("{JPN}こごえるかぜ{ENG}"),
         .description = COMPOUND_STRING(
             "A chilling attack that\n"
             "lowers the foe's Speed."),
@@ -5358,7 +5358,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DETECT] =
     {
-        .name = COMPOUND_STRING("Detect"),
+        .name = COMPOUND_STRING("{JPN}みきり{ENG}"),
         .description = sProtectDescription,
         .effect = EFFECT_PROTECT,
         .power = 0,
@@ -5391,7 +5391,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BONE_RUSH] =
     {
-        .name = COMPOUND_STRING("Bone Rush"),
+        .name = COMPOUND_STRING("{JPN}ボーンラッシュ{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes the foe with a bone\n"
             "in hand 2 to 5 times."),
@@ -5413,7 +5413,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LOCK_ON] =
     {
-        .name = COMPOUND_STRING("Lock-On"),
+        .name = COMPOUND_STRING("{JPN}ロックオン{ENG}"),
         .description = COMPOUND_STRING(
             "Locks on to the foe to\n"
             "ensure the next move hits."),
@@ -5436,7 +5436,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OUTRAGE] =
     {
-        .name = COMPOUND_STRING("Outrage"),
+        .name = COMPOUND_STRING("{JPN}げきりん{ENG}"),
         .description = COMPOUND_STRING(
             "A rampage of 2 to 3 turns\n"
             "that confuses the user."),
@@ -5464,7 +5464,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SANDSTORM] =
     {
-        .name = COMPOUND_STRING("Sandstorm"),
+        .name = COMPOUND_STRING("{JPN}すなあらし{ENG}"),
         .description = COMPOUND_STRING(
             "Causes a sandstorm that\n"
             "rages for several turns."),
@@ -5491,7 +5491,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GIGA_DRAIN] =
     {
-        .name = COMPOUND_STRING("Giga Drain"),
+        .name = COMPOUND_STRING("{JPN}ギガドレイン{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that steals half\n"
             "the damage inflicted."),
@@ -5516,7 +5516,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ENDURE] =
     {
-        .name = COMPOUND_STRING("Endure"),
+        .name = COMPOUND_STRING("{JPN}こらえる{ENG}"),
         .description = COMPOUND_STRING(
             "Endures any attack for\n"
             "1 turn, leaving at least 1HP."),
@@ -5551,7 +5551,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHARM] =
     {
-        .name = COMPOUND_STRING("Charm"),
+        .name = COMPOUND_STRING("{JPN}あまえる{ENG}"),
         .description = COMPOUND_STRING(
             "Charms the foe and sharply\n"
             "reduces its Attack."),
@@ -5575,7 +5575,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROLLOUT] =
     {
-        .name = COMPOUND_STRING("Rollout"),
+        .name = COMPOUND_STRING("{JPN}ころがる{ENG}"),
         .description = COMPOUND_STRING(
             "An attack lasting 5 turns\n"
             "with rising intensity."),
@@ -5600,7 +5600,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FALSE_SWIPE] =
     {
-        .name = COMPOUND_STRING("False Swipe"),
+        .name = COMPOUND_STRING("{JPN}みねうち{ENG}"),
         .description = sFalseSwipeDescription,
         .effect = EFFECT_FALSE_SWIPE,
         .power = 40,
@@ -5621,7 +5621,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SWAGGER] =
     {
-        .name = COMPOUND_STRING("Swagger"),
+        .name = COMPOUND_STRING("{JPN}いばる{ENG}"),
         .description = COMPOUND_STRING(
             "Confuses the foe, but also\n"
             "sharply raises its Attack."),
@@ -5646,7 +5646,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MILK_DRINK] =
     {
-        .name = COMPOUND_STRING("Milk Drink"),
+        .name = COMPOUND_STRING("{JPN}ミルクのみ{ENG}"),
         .description = COMPOUND_STRING(
             "Recovers up to half the\n"
             "user's maximum HP."),
@@ -5673,7 +5673,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPARK] =
     {
-        .name = COMPOUND_STRING("Spark"),
+        .name = COMPOUND_STRING("{JPN}スパーク{ENG}"),
         .description = COMPOUND_STRING(
             "An electrified tackle that\n"
             "may paralyze the foe."),
@@ -5699,7 +5699,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FURY_CUTTER] =
     {
-        .name = COMPOUND_STRING("Fury Cutter"),
+        .name = COMPOUND_STRING("{JPN}れんぞくぎり{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that intensifies\n"
             "on each successive hit."),
@@ -5729,7 +5729,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STEEL_WING] =
     {
-        .name = COMPOUND_STRING("Steel Wing"),
+        .name = COMPOUND_STRING("{JPN}はがねのつばさ{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes the foe with hard\n"
             "wings spread wide."),
@@ -5758,7 +5758,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MEAN_LOOK] =
     {
-        .name = COMPOUND_STRING("Mean Look"),
+        .name = COMPOUND_STRING("{JPN}くろいまなざし{ENG}"),
         .description = COMPOUND_STRING(
             "Fixes the foe with a mean\n"
             "look that prevents escape."),
@@ -5783,7 +5783,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ATTRACT] =
     {
-        .name = COMPOUND_STRING("Attract"),
+        .name = COMPOUND_STRING("{JPN}メロメロ{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the opposite gender\n"
             "less likely to attack."),
@@ -5808,7 +5808,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLEEP_TALK] =
     {
-        .name = COMPOUND_STRING("Sleep Talk"),
+        .name = COMPOUND_STRING("{JPN}ねごと{ENG}"),
         .description = COMPOUND_STRING(
             "Uses an available move\n"
             "randomly while asleep."),
@@ -5840,7 +5840,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAL_BELL] =
     {
-        .name = COMPOUND_STRING("Heal Bell"),
+        .name = COMPOUND_STRING("{JPN}いやしのすず{ENG}"),
         .description = COMPOUND_STRING(
             "Chimes soothingly to heal\n"
             "all status abnormalities."),
@@ -5868,7 +5868,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RETURN] =
     {
-        .name = COMPOUND_STRING("Return"),
+        .name = COMPOUND_STRING("{JPN}おんがえし{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that increases\n"
             "in power with friendship."),
@@ -5891,7 +5891,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PRESENT] =
     {
-        .name = COMPOUND_STRING("Present"),
+        .name = COMPOUND_STRING("{JPN}プレゼント{ENG}"),
         .description = COMPOUND_STRING(
             "A gift in the form of a\n"
             "bomb. May restore HP."),
@@ -5914,7 +5914,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FRUSTRATION] =
     {
-        .name = COMPOUND_STRING("Frustration"),
+        .name = COMPOUND_STRING("{JPN}やつあたり{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that is stronger\n"
             "if the Trainer is disliked."),
@@ -5937,7 +5937,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SAFEGUARD] =
     {
-        .name = COMPOUND_STRING("Safeguard"),
+        .name = COMPOUND_STRING("{JPN}しんぴのまもり{ENG}"),
         .description = COMPOUND_STRING(
             "Protects allies from status\n"
             "problems for 5 turns."),
@@ -5963,7 +5963,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PAIN_SPLIT] =
     {
-        .name = COMPOUND_STRING("Pain Split"),
+        .name = COMPOUND_STRING("{JPN}いたみわけ{ENG}"),
         .description = COMPOUND_STRING(
             "Adds the user and foe's HP,\n"
             "then shares them equally."),
@@ -5986,7 +5986,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SACRED_FIRE] =
     {
-        .name = COMPOUND_STRING("Sacred Fire"),
+        .name = COMPOUND_STRING("{JPN}せいなるほのお{ENG}"),
         .description = COMPOUND_STRING(
             "A mystical fire attack that\n"
             "may inflict a burn."),
@@ -6013,7 +6013,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGNITUDE] =
     {
-        .name = COMPOUND_STRING("Magnitude"),
+        .name = COMPOUND_STRING("{JPN}マグニチュード{ENG}"),
         .description = COMPOUND_STRING(
             "A ground-shaking attack\n"
             "of random intensity."),
@@ -6036,7 +6036,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DYNAMIC_PUNCH] =
     {
-        .name = COMPOUND_STRING("Dynamic Punch"),
+        .name = COMPOUND_STRING("{JPN}ばくれつパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful and sure to cause\n"
             "confusion, but inaccurate."),
@@ -6064,7 +6064,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MEGAHORN] =
     {
-        .name = COMPOUND_STRING("Megahorn"),
+        .name = COMPOUND_STRING("{JPN}メガホーン{ENG}"),
         .description = COMPOUND_STRING(
             "A brutal ramming attack\n"
             "using out-thrust horns."),
@@ -6087,7 +6087,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_BREATH] =
     {
-        .name = COMPOUND_STRING("Dragon Breath"),
+        .name = COMPOUND_STRING("{JPN}りゅうのいぶき{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes the foe with a blast\n"
             "of breath. May paralyze."),
@@ -6114,7 +6114,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BATON_PASS] =
     {
-        .name = COMPOUND_STRING("Baton Pass"),
+        .name = COMPOUND_STRING("{JPN}バトンタッチ{ENG}"),
         .description = COMPOUND_STRING(
             "Switches out the user while\n"
             "keeping effects in play."),
@@ -6139,7 +6139,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ENCORE] =
     {
-        .name = COMPOUND_STRING("Encore"),
+        .name = COMPOUND_STRING("{JPN}アンコール{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the foe repeat its\n"
             "last move over 3 turns."),
@@ -6165,7 +6165,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PURSUIT] =
     {
-        .name = COMPOUND_STRING("Pursuit"),
+        .name = COMPOUND_STRING("{JPN}おいうち{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts bad damage if used\n"
             "on a foe switching out."),
@@ -6189,7 +6189,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAPID_SPIN] =
     {
-        .name = COMPOUND_STRING("Rapid Spin"),
+        .name = COMPOUND_STRING("{JPN}こうそくスピン{ENG}"),
         .description = COMPOUND_STRING(
             "User spins and removes some\n"
         #if B_SPEED_BUFFING_RAPID_SPIN >= GEN_8
@@ -6223,7 +6223,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SWEET_SCENT] =
     {
-        .name = COMPOUND_STRING("Sweet Scent"),
+        .name = COMPOUND_STRING("{JPN}あまいかおり{ENG}"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_6
             "Allures the foes to harshly\n"
@@ -6252,7 +6252,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_IRON_TAIL] =
     {
-        .name = COMPOUND_STRING("Iron Tail"),
+        .name = COMPOUND_STRING("{JPN}アイアンテール{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a rock-hard\n"
             "tail. May lower Defense."),
@@ -6279,7 +6279,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_METAL_CLAW] =
     {
-        .name = COMPOUND_STRING("Metal Claw"),
+        .name = COMPOUND_STRING("{JPN}メタルクロー{ENG}"),
         .description = COMPOUND_STRING(
             "A claw attack that may\n"
             "raise the user's Attack."),
@@ -6307,7 +6307,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VITAL_THROW] =
     {
-        .name = COMPOUND_STRING("Vital Throw"),
+        .name = COMPOUND_STRING("{JPN}あてみなげ{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the user's move last,\n"
             "but it never misses."),
@@ -6330,7 +6330,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MORNING_SUN] =
     {
-        .name = COMPOUND_STRING("Morning Sun"),
+        .name = COMPOUND_STRING("{JPN}あさのひざし{ENG}"),
         .description = COMPOUND_STRING(
             "Restores HP. The amount\n"
             "varies with the weather."),
@@ -6357,7 +6357,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SYNTHESIS] =
     {
-        .name = COMPOUND_STRING("Synthesis"),
+        .name = COMPOUND_STRING("{JPN}こうごうせい{ENG}"),
         .description = COMPOUND_STRING(
             "Restores HP. The amount\n"
             "varies with the weather."),
@@ -6384,7 +6384,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MOONLIGHT] =
     {
-        .name = COMPOUND_STRING("Moonlight"),
+        .name = COMPOUND_STRING("{JPN}つきのひかり{ENG}"),
         .description = COMPOUND_STRING(
             "Restores HP. The amount\n"
             "varies with the weather."),
@@ -6411,7 +6411,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HIDDEN_POWER] =
     {
-        .name = COMPOUND_STRING("Hidden Power"),
+        .name = COMPOUND_STRING("{JPN}めざめるパワー{ENG}"),
         .description = COMPOUND_STRING(
         #if B_HIDDEN_POWER_DMG >= GEN_6
             "The type varies\n"
@@ -6438,7 +6438,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CROSS_CHOP] =
     {
-        .name = COMPOUND_STRING("Cross Chop"),
+        .name = COMPOUND_STRING("{JPN}クロスチョップ{ENG}"),
         .description = COMPOUND_STRING(
             "A double-chopping attack.\n"
             "High critical-hit ratio."),
@@ -6462,7 +6462,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TWISTER] =
     {
-        .name = COMPOUND_STRING("Twister"),
+        .name = COMPOUND_STRING("{JPN}たつまき{ENG}"),
         .description = COMPOUND_STRING(
             "Whips up a vicious twister\n"
             "to tear at foes. May flinch."),
@@ -6490,7 +6490,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAIN_DANCE] =
     {
-        .name = COMPOUND_STRING("Rain Dance"),
+        .name = COMPOUND_STRING("{JPN}あまごい{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts the power of Water-\n"
             "type moves for 5 turns."),
@@ -6516,7 +6516,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUNNY_DAY] =
     {
-        .name = COMPOUND_STRING("Sunny Day"),
+        .name = COMPOUND_STRING("{JPN}にほんばれ{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts the power of Fire-\n"
             "type moves for 5 turns."),
@@ -6542,7 +6542,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CRUNCH] =
     {
-        .name = COMPOUND_STRING("Crunch"),
+        .name = COMPOUND_STRING("{JPN}かみくだく{ENG}"),
         .description = COMPOUND_STRING(
             "Crunches with sharp fangs.\n"
         #if B_UPDATED_MOVE_DATA >= GEN_4
@@ -6578,7 +6578,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIRROR_COAT] =
     {
-        .name = COMPOUND_STRING("Mirror Coat"),
+        .name = COMPOUND_STRING("{JPN}ミラーコート{ENG}"),
         .description = COMPOUND_STRING(
             "Counters the foe's special\n"
             "attack at double the power."),
@@ -6610,7 +6610,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCH_UP] =
     {
-        .name = COMPOUND_STRING("Psych Up"),
+        .name = COMPOUND_STRING("{JPN}じこあんじ{ENG}"),
         .description = COMPOUND_STRING(
             "Copies foe's stat changes\n"
             "and gives to the user."),
@@ -6637,7 +6637,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EXTREME_SPEED] =
     {
-        .name = COMPOUND_STRING("Extreme Speed"),
+        .name = COMPOUND_STRING("{JPN}しんそく{ENG}"),
         .description = COMPOUND_STRING(
             "An extremely fast and\n"
             "powerful attack."),
@@ -6660,7 +6660,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ANCIENT_POWER] =
     {
-        .name = COMPOUND_STRING("Ancient Power"),
+        .name = COMPOUND_STRING("{JPN}げんしのちから{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that may raise\n"
             "all stats."),
@@ -6688,7 +6688,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHADOW_BALL] =
     {
-        .name = COMPOUND_STRING("Shadow Ball"),
+        .name = COMPOUND_STRING("{JPN}シャドーボール{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls a black blob that may\n"
             "lower the foe's Sp. Def."),
@@ -6715,7 +6715,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FUTURE_SIGHT] =
     {
-        .name = COMPOUND_STRING("Future Sight"),
+        .name = COMPOUND_STRING("{JPN}みらいよち{ENG}"),
         .description = COMPOUND_STRING(
             "Heightens inner power to\n"
             "strike 2 turns later."),
@@ -6745,7 +6745,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_SMASH] =
     {
-        .name = COMPOUND_STRING("Rock Smash"),
+        .name = COMPOUND_STRING("{JPN}いわくだき{ENG}"),
         .description = COMPOUND_STRING(
             "A rock-crushing attack\n"
             "that may lower Defense."),
@@ -6772,7 +6772,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WHIRLPOOL] =
     {
-        .name = COMPOUND_STRING("Whirlpool"),
+        .name = COMPOUND_STRING("{JPN}うずしお{ENG}"),
         .description = COMPOUND_STRING(
             "Traps and hurts the foe in\n"
             "a whirlpool for "BINDING_TURNS" turns."),
@@ -6800,7 +6800,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BEAT_UP] =
     {
-        .name = COMPOUND_STRING("Beat Up"),
+        .name = COMPOUND_STRING("{JPN}ふくろだたき{ENG}"),
         .description = COMPOUND_STRING(
             "Summons party Pokémon to\n"
             "join in the attack."),
@@ -6827,7 +6827,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FAKE_OUT] =
     {
-        .name = COMPOUND_STRING("Fake Out"),
+        .name = COMPOUND_STRING("{JPN}ねこだまし{ENG}"),
         .description = COMPOUND_STRING(
             "Moves 1st and flinches. Only\n"
             "works on user's 1st turn."),
@@ -6854,7 +6854,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_UPROAR] =
     {
-        .name = COMPOUND_STRING("Uproar"),
+        .name = COMPOUND_STRING("{JPN}さわぐ{ENG}"),
         .description = COMPOUND_STRING(
         #if B_UPROAR_TURNS >= GEN_5
             "Causes an uproar for 3\n"
@@ -6889,7 +6889,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STOCKPILE] =
     {
-        .name = COMPOUND_STRING("Stockpile"),
+        .name = COMPOUND_STRING("{JPN}たくわえる{ENG}"),
         .description = COMPOUND_STRING(
             "Charges up power for up to\n"
             "3 turns."),
@@ -6915,7 +6915,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIT_UP] =
     {
-        .name = COMPOUND_STRING("Spit Up"),
+        .name = COMPOUND_STRING("{JPN}はきだす{ENG}"),
         .description = COMPOUND_STRING(
             "Releases stockpiled power\n"
             "(the more the better)."),
@@ -6938,7 +6938,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SWALLOW] =
     {
-        .name = COMPOUND_STRING("Swallow"),
+        .name = COMPOUND_STRING("{JPN}のみこむ{ENG}"),
         .description = COMPOUND_STRING(
             "Absorbs stockpiled power\n"
             "and restores HP."),
@@ -6965,7 +6965,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAT_WAVE] =
     {
-        .name = COMPOUND_STRING("Heat Wave"),
+        .name = COMPOUND_STRING("{JPN}ねっぷう{ENG}"),
         .description = COMPOUND_STRING(
             "Exhales a hot breath on the\n"
             "foes. May inflict a burn."),
@@ -6992,7 +6992,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HAIL] =
     {
-        .name = COMPOUND_STRING("Hail"),
+        .name = COMPOUND_STRING("{JPN}あられ{ENG}"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
             .description = COMPOUND_STRING(
                 "Summons a snowstorm that\n"
@@ -7024,7 +7024,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TORMENT] =
     {
-        .name = COMPOUND_STRING("Torment"),
+        .name = COMPOUND_STRING("{JPN}いちゃもん{ENG}"),
         .description = COMPOUND_STRING(
             "Torments the foe and stops\n"
             "successive use of a move."),
@@ -7048,7 +7048,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLATTER] =
     {
-        .name = COMPOUND_STRING("Flatter"),
+        .name = COMPOUND_STRING("{JPN}おだてる{ENG}"),
         .description = COMPOUND_STRING(
             "Confuses the foe, but\n"
             "raises its Sp. Atk."),
@@ -7072,7 +7072,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WILL_O_WISP] =
     {
-        .name = COMPOUND_STRING("Will-O-Wisp"),
+        .name = COMPOUND_STRING("{JPN}おにび{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts a burn on the foe\n"
             "with intense fire."),
@@ -7097,7 +7097,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MEMENTO] =
     {
-        .name = COMPOUND_STRING("Memento"),
+        .name = COMPOUND_STRING("{JPN}おきみやげ{ENG}"),
         .description = COMPOUND_STRING(
             "The user faints and harshly\n"
             "lowers foes Atk and Sp.Atk."),
@@ -7120,7 +7120,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FACADE] =
     {
-        .name = COMPOUND_STRING("Facade"),
+        .name = COMPOUND_STRING("{JPN}からげんき{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts power when burned,\n"
             "paralyzed, or poisoned."),
@@ -7143,7 +7143,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FOCUS_PUNCH] =
     {
-        .name = COMPOUND_STRING("Focus Punch"),
+        .name = COMPOUND_STRING("{JPN}きあいパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful attack, moves last.\n"
             "The user flinches if hit."),
@@ -7174,7 +7174,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SMELLING_SALTS] =
     {
-        .name = COMPOUND_STRING("Smelling Salts"),
+        .name = COMPOUND_STRING("{JPN}きつけ{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful against paralyzed\n"
             "foes, but also heals them."),
@@ -7201,7 +7201,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FOLLOW_ME] =
     {
-        .name = COMPOUND_STRING("Follow Me"),
+        .name = COMPOUND_STRING("{JPN}このゆびとまれ{ENG}"),
         .description = COMPOUND_STRING(
             "Draws attention to make\n"
             "foes attack only the user."),
@@ -7229,7 +7229,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NATURE_POWER] =
     {
-        .name = COMPOUND_STRING("Nature Power"),
+        .name = COMPOUND_STRING("{JPN}しぜんのちから{ENG}"),
         .description = COMPOUND_STRING(
             "The type of attack varies\n"
             "depending on the location."),
@@ -7260,7 +7260,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHARGE] =
     {
-        .name = COMPOUND_STRING("Charge"),
+        .name = COMPOUND_STRING("{JPN}じゅうでん{ENG}"),
         .description = COMPOUND_STRING(
             "Charges power to boost the\n"
             "Electric move used next."),
@@ -7286,7 +7286,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAUNT] =
     {
-        .name = COMPOUND_STRING("Taunt"),
+        .name = COMPOUND_STRING("{JPN}ちょうはつ{ENG}"),
         .description = COMPOUND_STRING(
             "Taunts the foe into only\n"
             "using attack moves."),
@@ -7312,7 +7312,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HELPING_HAND] =
     {
-        .name = COMPOUND_STRING("Helping Hand"),
+        .name = COMPOUND_STRING("{JPN}てだすけ{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts the power of ally\n"
             "recipient's moves."),
@@ -7341,7 +7341,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRICK] =
     {
-        .name = COMPOUND_STRING("Trick"),
+        .name = COMPOUND_STRING("{JPN}トリック{ENG}"),
         .description = COMPOUND_STRING(
             "Tricks the foe into trading\n"
             "held items."),
@@ -7367,7 +7367,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROLE_PLAY] =
     {
-        .name = COMPOUND_STRING("Role Play"),
+        .name = COMPOUND_STRING("{JPN}なりきり{ENG}"),
         .description = COMPOUND_STRING(
             "Mimics the target and\n"
             "copies its Ability."),
@@ -7393,7 +7393,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WISH] =
     {
-        .name = COMPOUND_STRING("Wish"),
+        .name = COMPOUND_STRING("{JPN}ねがいごと{ENG}"),
         .description = COMPOUND_STRING(
             "A wish that restores HP.\n"
             "It takes time to work."),
@@ -7420,7 +7420,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ASSIST] =
     {
-        .name = COMPOUND_STRING("Assist"),
+        .name = COMPOUND_STRING("{JPN}ねこのて{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks randomly with one\n"
             "of the partner's moves."),
@@ -7451,7 +7451,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_INGRAIN] =
     {
-        .name = COMPOUND_STRING("Ingrain"),
+        .name = COMPOUND_STRING("{JPN}ねをはる{ENG}"),
         .description = COMPOUND_STRING(
             "Lays roots that restore HP.\n"
             "The user can't switch out."),
@@ -7478,7 +7478,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUPERPOWER] =
     {
-        .name = COMPOUND_STRING("Superpower"),
+        .name = COMPOUND_STRING("{JPN}ばかぢから{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts strength sharply,\n"
             "but lowers abilities."),
@@ -7505,7 +7505,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGIC_COAT] =
     {
-        .name = COMPOUND_STRING("Magic Coat"),
+        .name = COMPOUND_STRING("{JPN}マジックコート{ENG}"),
         .description = COMPOUND_STRING(
             "Reflects special effects\n"
             "back to the attacker."),
@@ -7530,7 +7530,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RECYCLE] =
     {
-        .name = COMPOUND_STRING("Recycle"),
+        .name = COMPOUND_STRING("{JPN}リサイクル{ENG}"),
         .description = COMPOUND_STRING(
             "Recycles a used item for\n"
             "one more use."),
@@ -7556,7 +7556,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REVENGE] =
     {
-        .name = COMPOUND_STRING("Revenge"),
+        .name = COMPOUND_STRING("{JPN}リベンジ{ENG}"),
         .description = sRevengeDescription,
         .effect = EFFECT_REVENGE,
         .power = 60,
@@ -7577,7 +7577,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BRICK_BREAK] =
     {
-        .name = COMPOUND_STRING("Brick Break"),
+        .name = COMPOUND_STRING("{JPN}かわらわり{ENG}"),
         .description = COMPOUND_STRING(
             "Destroys barriers such as\n"
             "REFLECT and causes damage."),
@@ -7604,7 +7604,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_YAWN] =
     {
-        .name = COMPOUND_STRING("Yawn"),
+        .name = COMPOUND_STRING("{JPN}あくび{ENG}"),
         .description = COMPOUND_STRING(
             "Lulls the foe into yawning,\n"
             "then sleeping next turn."),
@@ -7629,7 +7629,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_KNOCK_OFF] =
     {
-        .name = COMPOUND_STRING("Knock Off"),
+        .name = COMPOUND_STRING("{JPN}はたきおとす{ENG}"),
         .description = COMPOUND_STRING(
             "Knocks down the foe's held\n"
             "item to prevent its use."),
@@ -7652,7 +7652,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ENDEAVOR] =
     {
-        .name = COMPOUND_STRING("Endeavor"),
+        .name = COMPOUND_STRING("{JPN}がむしゃら{ENG}"),
         .description = COMPOUND_STRING(
             "Cuts foe's HP to equal\n"
             "user's HP."),
@@ -7676,7 +7676,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ERUPTION] =
     {
-        .name = COMPOUND_STRING("Eruption"),
+        .name = COMPOUND_STRING("{JPN}ふんか{ENG}"),
         .description = COMPOUND_STRING(
             "The higher the user's HP,\n"
             "the more damage caused."),
@@ -7698,7 +7698,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SKILL_SWAP] =
     {
-        .name = COMPOUND_STRING("Skill Swap"),
+        .name = COMPOUND_STRING("{JPN}スキルスワップ{ENG}"),
         .description = COMPOUND_STRING(
             "The user swaps special\n"
             "abilities with the target."),
@@ -7722,7 +7722,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_IMPRISON] =
     {
-        .name = COMPOUND_STRING("Imprison"),
+        .name = COMPOUND_STRING("{JPN}ふういん{ENG}"),
         .description = COMPOUND_STRING(
             "Prevents foes from using\n"
             "moves known by the user."),
@@ -7750,7 +7750,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REFRESH] =
     {
-        .name = COMPOUND_STRING("Refresh"),
+        .name = COMPOUND_STRING("{JPN}リフレッシュ{ENG}"),
         .description = COMPOUND_STRING(
             "Heals poisoning, paralysis,\n"
             "or a burn."),
@@ -7776,7 +7776,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRUDGE] =
     {
-        .name = COMPOUND_STRING("Grudge"),
+        .name = COMPOUND_STRING("{JPN}おんねん{ENG}"),
         .description = COMPOUND_STRING(
             "If the user faints, deletes\n"
             "all PP of foe's last move."),
@@ -7802,7 +7802,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SNATCH] =
     {
-        .name = COMPOUND_STRING("Snatch"),
+        .name = COMPOUND_STRING("{JPN}よこどり{ENG}"),
         .description = COMPOUND_STRING(
             "Steals the effects of the\n"
             "move the target uses next."),
@@ -7832,7 +7832,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SECRET_POWER] =
     {
-        .name = COMPOUND_STRING("Secret Power"),
+        .name = COMPOUND_STRING("{JPN}ひみつのちから{ENG}"),
         .description = COMPOUND_STRING(
             "An attack with effects\n"
             "that vary by location."),
@@ -7858,7 +7858,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DIVE] =
     {
-        .name = COMPOUND_STRING("Dive"),
+        .name = COMPOUND_STRING("{JPN}ダイビング{ENG}"),
         .description = COMPOUND_STRING(
             "Dives underwater the first\n"
             "turn and strikes next turn."),
@@ -7886,7 +7886,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ARM_THRUST] =
     {
-        .name = COMPOUND_STRING("Arm Thrust"),
+        .name = COMPOUND_STRING("{JPN}つっぱり{ENG}"),
         .description = COMPOUND_STRING(
             "Straight-arm punches that\n"
             "strike the foe 2 to 5 times."),
@@ -7909,7 +7909,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CAMOUFLAGE] =
     {
-        .name = COMPOUND_STRING("Camouflage"),
+        .name = COMPOUND_STRING("{JPN}ほごしょく{ENG}"),
         .description = COMPOUND_STRING(
             "Alters the Pokémon's type\n"
             "depending on the location."),
@@ -7935,7 +7935,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAIL_GLOW] =
     {
-        .name = COMPOUND_STRING("Tail Glow"),
+        .name = COMPOUND_STRING("{JPN}ほたるび{ENG}"),
         .description = COMPOUND_STRING(
         #if B_UPDATED_MOVE_DATA >= GEN_5
             "Flash light that drastically\n"
@@ -7965,7 +7965,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LUSTER_PURGE] =
     {
-        .name = COMPOUND_STRING("Luster Purge"),
+        .name = COMPOUND_STRING("{JPN}ラスターパージ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a burst of\n"
             "light. May lower Sp. Def."),
@@ -7991,7 +7991,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIST_BALL] =
     {
-        .name = COMPOUND_STRING("Mist Ball"),
+        .name = COMPOUND_STRING("{JPN}ミストボール{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a flurry of\n"
             "down. May lower Sp. Atk."),
@@ -8018,7 +8018,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FEATHER_DANCE] =
     {
-        .name = COMPOUND_STRING("Feather Dance"),
+        .name = COMPOUND_STRING("{JPN}フェザーダンス{ENG}"),
         .description = COMPOUND_STRING(
             "Envelops the foe with down\n"
             "to sharply reduce Attack."),
@@ -8043,7 +8043,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TEETER_DANCE] =
     {
-        .name = COMPOUND_STRING("Teeter Dance"),
+        .name = COMPOUND_STRING("{JPN}フラフラダンス{ENG}"),
         .description = COMPOUND_STRING(
             "Confuses all Pokémon on\n"
             "the scene."),
@@ -8068,7 +8068,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLAZE_KICK] =
     {
-        .name = COMPOUND_STRING("Blaze Kick"),
+        .name = COMPOUND_STRING("{JPN}ブレイズキック{ENG}"),
         .description = COMPOUND_STRING(
             "A kick with a high critical-\n"
             "hit ratio. May cause a burn."),
@@ -8096,7 +8096,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MUD_SPORT] =
     {
-        .name = COMPOUND_STRING("Mud Sport"),
+        .name = COMPOUND_STRING("{JPN}どろあそび{ENG}"),
         .description = COMPOUND_STRING(
             "Covers the user in mud to\n"
             "weaken all Electric moves."),
@@ -8123,7 +8123,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_BALL] =
     {
-        .name = COMPOUND_STRING("Ice Ball"),
+        .name = COMPOUND_STRING("{JPN}アイスボール{ENG}"),
         .description = COMPOUND_STRING(
             "A 5-turn attack that gains\n"
             "power on successive hits."),
@@ -8148,7 +8148,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NEEDLE_ARM] =
     {
-        .name = COMPOUND_STRING("Needle Arm"),
+        .name = COMPOUND_STRING("{JPN}ニードルアーム{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with thorny arms.\n"
             "May cause flinching."),
@@ -8176,7 +8176,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLACK_OFF] =
     {
-        .name = COMPOUND_STRING("Slack Off"),
+        .name = COMPOUND_STRING("{JPN}なまける{ENG}"),
         .description = COMPOUND_STRING(
             "Slacks off and restores\n"
             "half the maximum HP."),
@@ -8203,7 +8203,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYPER_VOICE] =
     {
-        .name = COMPOUND_STRING("Hyper Voice"),
+        .name = COMPOUND_STRING("{JPN}ハイパーボイス{ENG}"),
         .description = COMPOUND_STRING(
             "A loud attack that uses\n"
             "sound waves to injure."),
@@ -8227,7 +8227,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POISON_FANG] =
     {
-        .name = COMPOUND_STRING("Poison Fang"),
+        .name = COMPOUND_STRING("{JPN}どくどくのキバ{ENG}"),
         .description = COMPOUND_STRING(
             "A sharp-fanged attack.\n"
             "May badly poison the foe."),
@@ -8254,7 +8254,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CRUSH_CLAW] =
     {
-        .name = COMPOUND_STRING("Crush Claw"),
+        .name = COMPOUND_STRING("{JPN}ブレイククロー{ENG}"),
         .description = COMPOUND_STRING(
             "Tears at the foe with sharp\n"
             "claws. May lower Defense."),
@@ -8281,7 +8281,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLAST_BURN] =
     {
-        .name = COMPOUND_STRING("Blast Burn"),
+        .name = COMPOUND_STRING("{JPN}ブラストバーン{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful, but leaves the\n"
             "user immobile the next turn."),
@@ -8307,7 +8307,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYDRO_CANNON] =
     {
-        .name = COMPOUND_STRING("Hydro Cannon"),
+        .name = COMPOUND_STRING("{JPN}ハイドロカノン{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful, but leaves the\n"
             "user immobile the next turn."),
@@ -8333,7 +8333,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_METEOR_MASH] =
     {
-        .name = COMPOUND_STRING("Meteor Mash"),
+        .name = COMPOUND_STRING("{JPN}コメットパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "Fires a meteor-like punch.\n"
             "May raise Attack."),
@@ -8362,7 +8362,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ASTONISH] =
     {
-        .name = COMPOUND_STRING("Astonish"),
+        .name = COMPOUND_STRING("{JPN}おどろかす{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that may shock\n"
             "the foe into flinching."),
@@ -8390,7 +8390,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WEATHER_BALL] =
     {
-        .name = COMPOUND_STRING("Weather Ball"),
+        .name = COMPOUND_STRING("{JPN}ウェザーボール{ENG}"),
         .description = COMPOUND_STRING(
             "The move's type and power\n"
             "change with the weather."),
@@ -8414,7 +8414,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AROMATHERAPY] =
     {
-        .name = COMPOUND_STRING("Aromatherapy"),
+        .name = COMPOUND_STRING("{JPN}アロマセラピー{ENG}"),
         .description = COMPOUND_STRING(
             "Heals all status problems\n"
             "with a soothing scent."),
@@ -8441,7 +8441,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FAKE_TEARS] =
     {
-        .name = COMPOUND_STRING("Fake Tears"),
+        .name = COMPOUND_STRING("{JPN}うそなき{ENG}"),
         .description = COMPOUND_STRING(
             "Feigns crying to sharply\n"
             "lower the foe's Sp. Def."),
@@ -8465,7 +8465,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AIR_CUTTER] =
     {
-        .name = COMPOUND_STRING("Air Cutter"),
+        .name = COMPOUND_STRING("{JPN}エアカッター{ENG}"),
         .description = COMPOUND_STRING(
             "Hacks with razorlike wind.\n"
             "High critical-hit ratio."),
@@ -8490,7 +8490,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OVERHEAT] =
     {
-        .name = COMPOUND_STRING("Overheat"),
+        .name = COMPOUND_STRING("{JPN}オーバーヒート{ENG}"),
         .description = COMPOUND_STRING(
             "Allows a full-power attack,\n"
             "but sharply lowers Sp. Atk."),
@@ -8517,7 +8517,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ODOR_SLEUTH] =
     {
-        .name = COMPOUND_STRING("Odor Sleuth"),
+        .name = COMPOUND_STRING("{JPN}かぎわける{ENG}"),
         .description = COMPOUND_STRING(
             "Negate evasiveness and\n"
             "Ghost type's immunities."),
@@ -8542,7 +8542,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_TOMB] =
     {
-        .name = COMPOUND_STRING("Rock Tomb"),
+        .name = COMPOUND_STRING("{JPN}がんせきふうじ{ENG}"),
         .description = COMPOUND_STRING(
             "Stops the foe from moving\n"
             "with rocks and cuts Speed."),
@@ -8568,7 +8568,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SILVER_WIND] =
     {
-        .name = COMPOUND_STRING("Silver Wind"),
+        .name = COMPOUND_STRING("{JPN}ぎんいろのかぜ{ENG}"),
         .description = COMPOUND_STRING(
             "A powdery attack that may\n"
             "raise abilities."),
@@ -8596,7 +8596,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_METAL_SOUND] =
     {
-        .name = COMPOUND_STRING("Metal Sound"),
+        .name = COMPOUND_STRING("{JPN}きんぞくおん{ENG}"),
         .description = COMPOUND_STRING(
             "Emits a horrible screech\n"
             "that sharply lowers Sp. Def."),
@@ -8622,7 +8622,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRASS_WHISTLE] =
     {
-        .name = COMPOUND_STRING("Grass Whistle"),
+        .name = COMPOUND_STRING("{JPN}くさぶえ{ENG}"),
         .description = COMPOUND_STRING(
             "Lulls the foe into sleep\n"
             "with a pleasant melody."),
@@ -8649,7 +8649,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TICKLE] =
     {
-        .name = COMPOUND_STRING("Tickle"),
+        .name = COMPOUND_STRING("{JPN}くすぐる{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the foe laugh to\n"
             "lower Attack and Defense."),
@@ -8674,7 +8674,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COSMIC_POWER] =
     {
-        .name = COMPOUND_STRING("Cosmic Power"),
+        .name = COMPOUND_STRING("{JPN}コスモパワー{ENG}"),
         .description = COMPOUND_STRING(
             "Raises Defense and Sp. Def\n"
             "with a mystic power."),
@@ -8700,7 +8700,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WATER_SPOUT] =
     {
-        .name = COMPOUND_STRING("Water Spout"),
+        .name = COMPOUND_STRING("{JPN}しおふき{ENG}"),
         .description = COMPOUND_STRING(
             "Inflicts more damage if the\n"
             "user's HP is high."),
@@ -8722,7 +8722,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SIGNAL_BEAM] =
     {
-        .name = COMPOUND_STRING("Signal Beam"),
+        .name = COMPOUND_STRING("{JPN}シグナルビーム{ENG}"),
         .description = COMPOUND_STRING(
             "A strange beam attack that\n"
             "may confuse the foe."),
@@ -8748,7 +8748,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHADOW_PUNCH] =
     {
-        .name = COMPOUND_STRING("Shadow Punch"),
+        .name = COMPOUND_STRING("{JPN}シャドーパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "An unavoidable punch that\n"
             "is thrown from shadows."),
@@ -8772,7 +8772,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EXTRASENSORY] =
     {
-        .name = COMPOUND_STRING("Extrasensory"),
+        .name = COMPOUND_STRING("{JPN}じんつうりき{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a peculiar\n"
             "power. May cause flinching."),
@@ -8799,7 +8799,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SKY_UPPERCUT] =
     {
-        .name = COMPOUND_STRING("Sky Uppercut"),
+        .name = COMPOUND_STRING("{JPN}スカイアッパー{ENG}"),
         .description = COMPOUND_STRING(
             "An uppercut thrown as if\n"
             "leaping into the sky."),
@@ -8824,7 +8824,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SAND_TOMB] =
     {
-        .name = COMPOUND_STRING("Sand Tomb"),
+        .name = COMPOUND_STRING("{JPN}すなじごく{ENG}"),
         .description = COMPOUND_STRING(
             "Traps and hurts the foe in\n"
             "quicksand for "BINDING_TURNS" turns."),
@@ -8850,7 +8850,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHEER_COLD] =
     {
-        .name = COMPOUND_STRING("Sheer Cold"),
+        .name = COMPOUND_STRING("{JPN}ぜったいれいど{ENG}"),
         .description = COMPOUND_STRING(
             "A chilling attack that\n"
             "causes fainting if it hits."),
@@ -8874,7 +8874,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MUDDY_WATER] =
     {
-        .name = COMPOUND_STRING("Muddy Water"),
+        .name = COMPOUND_STRING("{JPN}だくりゅう{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with muddy water.\n"
             "May lower accuracy."),
@@ -8901,7 +8901,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BULLET_SEED] =
     {
-        .name = COMPOUND_STRING("Bullet Seed"),
+        .name = COMPOUND_STRING("{JPN}タネマシンガン{ENG}"),
         .description = COMPOUND_STRING(
             "Shoots 2 to 5 seeds in a row\n"
             "to strike the foe."),
@@ -8924,7 +8924,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AERIAL_ACE] =
     {
-        .name = COMPOUND_STRING("Aerial Ace"),
+        .name = COMPOUND_STRING("{JPN}つばめがえし{ENG}"),
         .description = COMPOUND_STRING(
             "An extremely speedy and\n"
             "unavoidable attack."),
@@ -8948,7 +8948,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICICLE_SPEAR] =
     {
-        .name = COMPOUND_STRING("Icicle Spear"),
+        .name = COMPOUND_STRING("{JPN}つららばり{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks the foe by firing\n"
             "2 to 5 icicles in a row."),
@@ -8970,7 +8970,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_IRON_DEFENSE] =
     {
-        .name = COMPOUND_STRING("Iron Defense"),
+        .name = COMPOUND_STRING("{JPN}てっぺき{ENG}"),
         .description = COMPOUND_STRING(
             "Hardens the body's surface\n"
             "to sharply raise Defense."),
@@ -8996,7 +8996,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLOCK] =
     {
-        .name = COMPOUND_STRING("Block"),
+        .name = COMPOUND_STRING("{JPN}とおせんぼう{ENG}"),
         .description = COMPOUND_STRING(
             "Blocks the foe's way and\n"
             "prevents escape."),
@@ -9021,7 +9021,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HOWL] =
     {
-        .name = COMPOUND_STRING("Howl"),
+        .name = COMPOUND_STRING("{JPN}とおぼえ{ENG}"),
         .description = COMPOUND_STRING(
             "Howls to raise the spirit\n"
             "and boosts Attack."),
@@ -9048,7 +9048,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_CLAW] =
     {
-        .name = COMPOUND_STRING("Dragon Claw"),
+        .name = COMPOUND_STRING("{JPN}ドラゴンクロー{ENG}"),
         .description = COMPOUND_STRING(
             "Slashes the foe with sharp\n"
             "claws."),
@@ -9071,7 +9071,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FRENZY_PLANT] =
     {
-        .name = COMPOUND_STRING("Frenzy Plant"),
+        .name = COMPOUND_STRING("{JPN}ハードプラント{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful, but leaves the\n"
             "user immobile the next turn."),
@@ -9098,7 +9098,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BULK_UP] =
     {
-        .name = COMPOUND_STRING("Bulk Up"),
+        .name = COMPOUND_STRING("{JPN}ビルドアップ{ENG}"),
         .description = COMPOUND_STRING(
             "Bulks up the body to boost\n"
             "both Attack and Defense."),
@@ -9124,7 +9124,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BOUNCE] =
     {
-        .name = COMPOUND_STRING("Bounce"),
+        .name = COMPOUND_STRING("{JPN}とびはねる{ENG}"),
         .description = COMPOUND_STRING(
             "Bounces up, then down the\n"
             "next turn. May paralyze."),
@@ -9156,7 +9156,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MUD_SHOT] =
     {
-        .name = COMPOUND_STRING("Mud Shot"),
+        .name = COMPOUND_STRING("{JPN}マッドショット{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls mud at the foe and\n"
             "reduces Speed."),
@@ -9181,7 +9181,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POISON_TAIL] =
     {
-        .name = COMPOUND_STRING("Poison Tail"),
+        .name = COMPOUND_STRING("{JPN}ポイズンテール{ENG}"),
         .description = COMPOUND_STRING(
             "Has a high critical-hit\n"
             "ratio. May also poison."),
@@ -9209,7 +9209,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COVET] =
     {
-        .name = COMPOUND_STRING("Covet"),
+        .name = COMPOUND_STRING("{JPN}ほしがる{ENG}"),
         .description = COMPOUND_STRING(
             "Cutely begs to obtain an\n"
             "item held by the foe."),
@@ -9236,7 +9236,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VOLT_TACKLE] =
     {
-        .name = COMPOUND_STRING("Volt Tackle"),
+        .name = COMPOUND_STRING("{JPN}ボルテッカー{ENG}"),
         #if B_UPDATED_MOVE_DATA >= GEN_4
         .description = COMPOUND_STRING(
             "A life-risking tackle that\n"
@@ -9272,7 +9272,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGICAL_LEAF] =
     {
-        .name = COMPOUND_STRING("Magical Leaf"),
+        .name = COMPOUND_STRING("{JPN}マジカルリーフ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a strange leaf\n"
             "that cannot be evaded."),
@@ -9294,7 +9294,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WATER_SPORT] =
     {
-        .name = COMPOUND_STRING("Water Sport"),
+        .name = COMPOUND_STRING("{JPN}みずあそび{ENG}"),
         .description = COMPOUND_STRING(
             "The user becomes soaked to\n"
             "weaken all Fire moves."),
@@ -9321,7 +9321,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CALM_MIND] =
     {
-        .name = COMPOUND_STRING("Calm Mind"),
+        .name = COMPOUND_STRING("{JPN}めいそう{ENG}"),
         .description = COMPOUND_STRING(
             "Raises Sp. Atk and Sp. Def\n"
             "by focusing the mind."),
@@ -9347,7 +9347,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LEAF_BLADE] =
     {
-        .name = COMPOUND_STRING("Leaf Blade"),
+        .name = COMPOUND_STRING("{JPN}リーフブレード{ENG}"),
         .description = COMPOUND_STRING(
             "Slashes with a sharp leaf.\n"
             "High critical-hit ratio."),
@@ -9372,7 +9372,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_DANCE] =
     {
-        .name = COMPOUND_STRING("Dragon Dance"),
+        .name = COMPOUND_STRING("{JPN}りゅうのまい{ENG}"),
         .description = COMPOUND_STRING(
             "A mystical dance that ups\n"
             "Attack and Speed."),
@@ -9399,7 +9399,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_BLAST] =
     {
-        .name = COMPOUND_STRING("Rock Blast"),
+        .name = COMPOUND_STRING("{JPN}ロックブラスト{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls boulders at the foe\n"
             "2 to 5 times in a row."),
@@ -9422,7 +9422,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHOCK_WAVE] =
     {
-        .name = COMPOUND_STRING("Shock Wave"),
+        .name = COMPOUND_STRING("{JPN}でんげきは{ENG}"),
         .description = COMPOUND_STRING(
             "A fast and unavoidable\n"
             "electric attack."),
@@ -9444,7 +9444,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WATER_PULSE] =
     {
-        .name = COMPOUND_STRING("Water Pulse"),
+        .name = COMPOUND_STRING("{JPN}みずのはどう{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with ultrasonic\n"
             "waves. May confuse the foe."),
@@ -9471,7 +9471,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOOM_DESIRE] =
     {
-        .name = COMPOUND_STRING("Doom Desire"),
+        .name = COMPOUND_STRING("{JPN}はめつのねがい{ENG}"),
         .description = COMPOUND_STRING(
             "Summons strong light to\n"
             "attack 2 turns later."),
@@ -9495,7 +9495,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCHO_BOOST] =
     {
-        .name = COMPOUND_STRING("Psycho Boost"),
+        .name = COMPOUND_STRING("{JPN}サイコブースト{ENG}"),
         .description = COMPOUND_STRING(
             "Allows a full-power attack,\n"
             "but sharply lowers Sp. Atk."),
@@ -9521,7 +9521,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROOST] =
     {
-        .name = COMPOUND_STRING("Roost"),
+        .name = COMPOUND_STRING("{JPN}はねやすめ{ENG}"),
         .description = COMPOUND_STRING(
             "Restores the user's HP by\n"
             "half of its max HP."),
@@ -9547,7 +9547,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRAVITY] =
     {
-        .name = COMPOUND_STRING("Gravity"),
+        .name = COMPOUND_STRING("{JPN}じゅうりょく{ENG}"),
         .description = COMPOUND_STRING(
             "Gravity is intensified\n"
             "negating levitation."),
@@ -9572,7 +9572,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIRACLE_EYE] =
     {
-        .name = COMPOUND_STRING("Miracle Eye"),
+        .name = COMPOUND_STRING("{JPN}ミラクルアイ{ENG}"),
         .description = COMPOUND_STRING(
             "Negate evasiveness and\n"
             "Dark type's immunities."),
@@ -9596,7 +9596,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WAKE_UP_SLAP] =
     {
-        .name = COMPOUND_STRING("Wake-Up Slap"),
+        .name = COMPOUND_STRING("{JPN}めざましビンタ{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful against sleeping\n"
             "foes, but also wakes them."),
@@ -9622,7 +9622,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HAMMER_ARM] =
     {
-        .name = COMPOUND_STRING("Hammer Arm"),
+        .name = COMPOUND_STRING("{JPN}アームハンマー{ENG}"),
         .description = COMPOUND_STRING(
             "A swinging fist attack\n"
             "that also lowers Speed."),
@@ -9649,7 +9649,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GYRO_BALL] =
     {
-        .name = COMPOUND_STRING("Gyro Ball"),
+        .name = COMPOUND_STRING("{JPN}ジャイロボール{ENG}"),
         .description = COMPOUND_STRING(
             "A high-speed spin that does\n"
             "more damage to faster foes."),
@@ -9672,7 +9672,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEALING_WISH] =
     {
-        .name = COMPOUND_STRING("Healing Wish"),
+        .name = COMPOUND_STRING("{JPN}いやしのねがい{ENG}"),
         .description = sHealingWishDescription,
         .effect = EFFECT_HEALING_WISH,
         .power = 0,
@@ -9695,7 +9695,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BRINE] =
     {
-        .name = COMPOUND_STRING("Brine"),
+        .name = COMPOUND_STRING("{JPN}しおみず{ENG}"),
         .description = COMPOUND_STRING(
             "Does double damage to foes\n"
             "with half HP or less."),
@@ -9716,7 +9716,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NATURAL_GIFT] =
     {
-        .name = COMPOUND_STRING("Natural Gift"),
+        .name = COMPOUND_STRING("{JPN}しぜんのめぐみ{ENG}"),
         .description = COMPOUND_STRING(
             "The effectiveness varies\n"
             "with the held Berry."),
@@ -9737,7 +9737,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FEINT] =
     {
-        .name = COMPOUND_STRING("Feint"),
+        .name = COMPOUND_STRING("{JPN}フェイント{ENG}"),
         .description = sFeintDescription,
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_5 ? 30 : 50,
@@ -9764,7 +9764,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PLUCK] =
     {
-        .name = COMPOUND_STRING("Pluck"),
+        .name = COMPOUND_STRING("{JPN}ついばむ{ENG}"),
         .description = sPluckDescription,
         .effect = EFFECT_HIT,
         .power = 60,
@@ -9787,7 +9787,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAILWIND] =
     {
-        .name = COMPOUND_STRING("Tailwind"),
+        .name = COMPOUND_STRING("{JPN}おいかぜ{ENG}"),
         .description = COMPOUND_STRING(
             "Whips up a breeze, doubling\n"
         #if B_TAILWIND_TURNS >= GEN_5
@@ -9817,7 +9817,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ACUPRESSURE] =
     {
-        .name = COMPOUND_STRING("Acupressure"),
+        .name = COMPOUND_STRING("{JPN}つぼをつく{ENG}"),
         .description = COMPOUND_STRING(
             "The user sharply raises\n"
             "one of its stats."),
@@ -9842,7 +9842,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_METAL_BURST] =
     {
-        .name = COMPOUND_STRING("Metal Burst"),
+        .name = COMPOUND_STRING("{JPN}メタルバースト{ENG}"),
         .description = COMPOUND_STRING(
             "Retaliates any hit with\n"
             "greater power."),
@@ -9869,7 +9869,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_U_TURN] =
     {
-        .name = COMPOUND_STRING("U-turn"),
+        .name = COMPOUND_STRING("{JPN}とんぼがえり{ENG}"),
         .description = sUTurnDescription,
         .effect = EFFECT_HIT_ESCAPE,
         .power = 70,
@@ -9889,7 +9889,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CLOSE_COMBAT] =
     {
-        .name = COMPOUND_STRING("Close Combat"),
+        .name = COMPOUND_STRING("{JPN}インファイト{ENG}"),
         .description = sCloseCombatDescription,
         .effect = EFFECT_HIT,
         .power = 120,
@@ -9913,7 +9913,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PAYBACK] =
     {
-        .name = COMPOUND_STRING("Payback"),
+        .name = COMPOUND_STRING("{JPN}しっぺがえし{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that gains power\n"
             "if the user moves last."),
@@ -9935,7 +9935,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ASSURANCE] =
     {
-        .name = COMPOUND_STRING("Assurance"),
+        .name = COMPOUND_STRING("{JPN}ダメおし{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that gains power\n"
             "if the foe has been hurt."),
@@ -9957,7 +9957,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EMBARGO] =
     {
-        .name = COMPOUND_STRING("Embargo"),
+        .name = COMPOUND_STRING("{JPN}さしおさえ{ENG}"),
         .description = COMPOUND_STRING(
             "Prevents the foe from\n"
             "using any items."),
@@ -9980,7 +9980,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLING] =
     {
-        .name = COMPOUND_STRING("Fling"),
+        .name = COMPOUND_STRING("{JPN}なげつける{ENG}"),
         .description = COMPOUND_STRING(
             "The effectiveness varies\n"
             "with the held item."),
@@ -10002,7 +10002,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCHO_SHIFT] =
     {
-        .name = COMPOUND_STRING("Psycho Shift"),
+        .name = COMPOUND_STRING("{JPN}サイコシフト{ENG}"),
         .description = COMPOUND_STRING(
             "Transfers status problems\n"
             "to the foe."),
@@ -10024,7 +10024,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRUMP_CARD] =
     {
-        .name = COMPOUND_STRING("Trump Card"),
+        .name = COMPOUND_STRING("{JPN}きりふだ{ENG}"),
         .description = COMPOUND_STRING(
             "The less PP the move has\n"
             "the more damage it does."),
@@ -10046,7 +10046,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAL_BLOCK] =
     {
-        .name = COMPOUND_STRING("Heal Block"),
+        .name = COMPOUND_STRING("{JPN}かいふくふうじ{ENG}"),
         .description = COMPOUND_STRING(
             "Prevents the foes from\n"
             "recovering HP for 5 turns."),
@@ -10069,7 +10069,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WRING_OUT] =
     {
-        .name = COMPOUND_STRING("Wring Out"),
+        .name = COMPOUND_STRING("{JPN}しぼりとる{ENG}"),
         .description = sWringOutDescription,
         .effect = EFFECT_POWER_BASED_ON_TARGET_HP,
         .power = 120,
@@ -10089,7 +10089,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_TRICK] =
     {
-        .name = COMPOUND_STRING("Power Trick"),
+        .name = COMPOUND_STRING("{JPN}パワートリック{ENG}"),
         .description = COMPOUND_STRING(
             "The user swaps its Attack\n"
             "and Defense stats."),
@@ -10114,7 +10114,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GASTRO_ACID] =
     {
-        .name = COMPOUND_STRING("Gastro Acid"),
+        .name = COMPOUND_STRING("{JPN}いえき{ENG}"),
         .description = COMPOUND_STRING(
             "Stomach acid suppresses\n"
             "the foe's Ability."),
@@ -10137,7 +10137,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LUCKY_CHANT] =
     {
-        .name = COMPOUND_STRING("Lucky Chant"),
+        .name = COMPOUND_STRING("{JPN}おまじない{ENG}"),
         .description = COMPOUND_STRING(
             "Prevents the foe from\n"
             "landing critical hits."),
@@ -10162,7 +10162,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ME_FIRST] =
     {
-        .name = COMPOUND_STRING("Me First"),
+        .name = COMPOUND_STRING("{JPN}さきどり{ENG}"),
         .description = COMPOUND_STRING(
             "Executes the foe's attack\n"
             "with greater power."),
@@ -10194,7 +10194,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COPYCAT] =
     {
-        .name = COMPOUND_STRING("Copycat"),
+        .name = COMPOUND_STRING("{JPN}まねっこ{ENG}"),
         .description = COMPOUND_STRING(
             "The user mimics the last\n"
             "move used by a foe."),
@@ -10225,7 +10225,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_SWAP] =
     {
-        .name = COMPOUND_STRING("Power Swap"),
+        .name = COMPOUND_STRING("{JPN}パワースワップ{ENG}"),
         .description = COMPOUND_STRING(
             "Swaps changes to Attack\n"
             "and Sp. Atk with the foe."),
@@ -10248,7 +10248,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GUARD_SWAP] =
     {
-        .name = COMPOUND_STRING("Guard Swap"),
+        .name = COMPOUND_STRING("{JPN}ガードスワップ{ENG}"),
         .description = COMPOUND_STRING(
             "Swaps changes to Defense\n"
             "and Sp. Def with the foe."),
@@ -10271,7 +10271,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PUNISHMENT] =
     {
-        .name = COMPOUND_STRING("Punishment"),
+        .name = COMPOUND_STRING("{JPN}おしおき{ENG}"),
         .description = COMPOUND_STRING(
             "Does more damage the more\n"
             "the foe has powered up."),
@@ -10293,7 +10293,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LAST_RESORT] =
     {
-        .name = COMPOUND_STRING("Last Resort"),
+        .name = COMPOUND_STRING("{JPN}とっておき{ENG}"),
         .description = COMPOUND_STRING(
             "Can only be used if every\n"
             "other move has been used."),
@@ -10315,7 +10315,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WORRY_SEED] =
     {
-        .name = COMPOUND_STRING("Worry Seed"),
+        .name = COMPOUND_STRING("{JPN}なやみのタネ{ENG}"),
         .description = COMPOUND_STRING(
             "Plants a seed on the foe\n"
             "giving it Insomnia."),
@@ -10339,7 +10339,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUCKER_PUNCH] =
     {
-        .name = COMPOUND_STRING("Sucker Punch"),
+        .name = COMPOUND_STRING("{JPN}ふいうち{ENG}"),
         .description = sSuckerPunchDescription,
         .effect = EFFECT_SUCKER_PUNCH,
         .power = B_UPDATED_MOVE_DATA >= GEN_7 ? 70 : 80,
@@ -10359,7 +10359,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TOXIC_SPIKES] =
     {
-        .name = COMPOUND_STRING("Toxic Spikes"),
+        .name = COMPOUND_STRING("{JPN}どくびし{ENG}"),
         .description = COMPOUND_STRING(
             "Sets spikes that poison a\n"
             "foe switching in."),
@@ -10386,7 +10386,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEART_SWAP] =
     {
-        .name = COMPOUND_STRING("Heart Swap"),
+        .name = COMPOUND_STRING("{JPN}ハートスワップ{ENG}"),
         .description = COMPOUND_STRING(
             "Swaps any stat changes\n"
             "with the foe."),
@@ -10409,7 +10409,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AQUA_RING] =
     {
-        .name = COMPOUND_STRING("Aqua Ring"),
+        .name = COMPOUND_STRING("{JPN}アクアリング{ENG}"),
         .description = COMPOUND_STRING(
             "Forms a veil of water\n"
             "that restores HP."),
@@ -10434,7 +10434,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGNET_RISE] =
     {
-        .name = COMPOUND_STRING("Magnet Rise"),
+        .name = COMPOUND_STRING("{JPN}でんじふゆう{ENG}"),
         .description = COMPOUND_STRING(
             "The user levitates with\n"
             "electromagnetism."),
@@ -10460,7 +10460,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLARE_BLITZ] =
     {
-        .name = COMPOUND_STRING("Flare Blitz"),
+        .name = COMPOUND_STRING("{JPN}フレアドライブ{ENG}"),
         .description = COMPOUND_STRING(
             "A charge that may burn the\n"
             "foe. Also hurts the user."),
@@ -10488,7 +10488,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FORCE_PALM] =
     {
-        .name = COMPOUND_STRING("Force Palm"),
+        .name = COMPOUND_STRING("{JPN}はっけい{ENG}"),
         .description = COMPOUND_STRING(
             "A shock wave attack that\n"
             "may paralyze the foe."),
@@ -10514,7 +10514,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AURA_SPHERE] =
     {
-        .name = COMPOUND_STRING("Aura Sphere"),
+        .name = COMPOUND_STRING("{JPN}はどうだん{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with an aura blast\n"
             "that cannot be evaded."),
@@ -10537,7 +10537,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_POLISH] =
     {
-        .name = COMPOUND_STRING("Rock Polish"),
+        .name = COMPOUND_STRING("{JPN}ロックカット{ENG}"),
         .description = COMPOUND_STRING(
             "Polishes the body to\n"
             "sharply raise Speed."),
@@ -10562,7 +10562,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POISON_JAB] =
     {
-        .name = COMPOUND_STRING("Poison Jab"),
+        .name = COMPOUND_STRING("{JPN}どくづき{ENG}"),
         .description = COMPOUND_STRING(
             "A stabbing attack that\n"
             "may poison the foe."),
@@ -10588,7 +10588,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DARK_PULSE] =
     {
-        .name = COMPOUND_STRING("Dark Pulse"),
+        .name = COMPOUND_STRING("{JPN}あくのはどう{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a horrible\n"
             "aura. May cause flinching."),
@@ -10614,7 +10614,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NIGHT_SLASH] =
     {
-        .name = COMPOUND_STRING("Night Slash"),
+        .name = COMPOUND_STRING("{JPN}つじぎり{ENG}"),
         .description = COMPOUND_STRING(
             "Hits as soon as possible.\n"
             "High critical-hit ratio."),
@@ -10638,7 +10638,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AQUA_TAIL] =
     {
-        .name = COMPOUND_STRING("Aqua Tail"),
+        .name = COMPOUND_STRING("{JPN}アクアテール{ENG}"),
         .description = COMPOUND_STRING(
             "The user swings its tail\n"
             "like a wave to attack."),
@@ -10660,7 +10660,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SEED_BOMB] =
     {
-        .name = COMPOUND_STRING("Seed Bomb"),
+        .name = COMPOUND_STRING("{JPN}タネばくだん{ENG}"),
         .description = COMPOUND_STRING(
             "A barrage of hard seeds\n"
             "is fired at the foe."),
@@ -10682,7 +10682,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AIR_SLASH] =
     {
-        .name = COMPOUND_STRING("Air Slash"),
+        .name = COMPOUND_STRING("{JPN}エアスラッシュ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a blade of\n"
             "air. May cause flinching."),
@@ -10708,7 +10708,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_X_SCISSOR] =
     {
-        .name = COMPOUND_STRING("X-Scissor"),
+        .name = COMPOUND_STRING("{JPN}シザークロス{ENG}"),
         .description = COMPOUND_STRING(
             "Slashes the foe with crossed\n"
             "scythes, claws, etc."),
@@ -10731,7 +10731,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BUG_BUZZ] =
     {
-        .name = COMPOUND_STRING("Bug Buzz"),
+        .name = COMPOUND_STRING("{JPN}むしのさざめき{ENG}"),
         .description = COMPOUND_STRING(
             "A damaging sound wave that\n"
             "may lower Sp. Def."),
@@ -10758,7 +10758,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_PULSE] =
     {
-        .name = COMPOUND_STRING("Dragon Pulse"),
+        .name = COMPOUND_STRING("{JPN}りゅうのはどう{ENG}"),
         .description = COMPOUND_STRING(
             "Generates a shock wave to\n"
             "damage the foe."),
@@ -10780,7 +10780,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_RUSH] =
     {
-        .name = COMPOUND_STRING("Dragon Rush"),
+        .name = COMPOUND_STRING("{JPN}ドラゴンダイブ{ENG}"),
         .description = COMPOUND_STRING(
             "Tackles the foe with menace.\n"
             "May cause flinching."),
@@ -10807,7 +10807,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_GEM] =
     {
-        .name = COMPOUND_STRING("Power Gem"),
+        .name = COMPOUND_STRING("{JPN}パワージェム{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with rays of light\n"
             "that sparkle like diamonds."),
@@ -10828,7 +10828,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAIN_PUNCH] =
     {
-        .name = COMPOUND_STRING("Drain Punch"),
+        .name = COMPOUND_STRING("{JPN}ドレインパンチ{ENG}"),
         .description = sMegaDrainDescription,
         .effect = EFFECT_ABSORB,
         .power = B_UPDATED_MOVE_DATA >= GEN_5 ? 75 : 60,
@@ -10851,7 +10851,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VACUUM_WAVE] =
     {
-        .name = COMPOUND_STRING("Vacuum Wave"),
+        .name = COMPOUND_STRING("{JPN}しんくうは{ENG}"),
         .description = COMPOUND_STRING(
             "Whirls its fists to send\n"
             "a wave that strikes first."),
@@ -10872,7 +10872,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FOCUS_BLAST] =
     {
-        .name = COMPOUND_STRING("Focus Blast"),
+        .name = COMPOUND_STRING("{JPN}きあいだま{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks at full power.\n"
             "May lower Sp. Def."),
@@ -10898,7 +10898,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ENERGY_BALL] =
     {
-        .name = COMPOUND_STRING("Energy Ball"),
+        .name = COMPOUND_STRING("{JPN}エナジーボール{ENG}"),
         .description = COMPOUND_STRING(
             "Draws power from nature to\n"
             "attack. May lower Sp. Def."),
@@ -10924,7 +10924,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BRAVE_BIRD] =
     {
-        .name = COMPOUND_STRING("Brave Bird"),
+        .name = COMPOUND_STRING("{JPN}ブレイブバード{ENG}"),
         .description = COMPOUND_STRING(
             "A low altitude charge that\n"
             "also hurts the user."),
@@ -10947,7 +10947,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EARTH_POWER] =
     {
-        .name = COMPOUND_STRING("Earth Power"),
+        .name = COMPOUND_STRING("{JPN}だいちのちから{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the ground erupt with\n"
             "power. May lower Sp. Def."),
@@ -10973,7 +10973,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SWITCHEROO] =
     {
-        .name = COMPOUND_STRING("Switcheroo"),
+        .name = COMPOUND_STRING("{JPN}すりかえ{ENG}"),
         .description = COMPOUND_STRING(
             "Swaps items with the foe\n"
             "faster than the eye can see."),
@@ -10998,7 +10998,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GIGA_IMPACT] =
     {
-        .name = COMPOUND_STRING("Giga Impact"),
+        .name = COMPOUND_STRING("{JPN}ギガインパクト{ENG}"),
         .description = sHyperBeamDescription,
         .effect = EFFECT_HIT,
         .power = 150,
@@ -11022,7 +11022,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NASTY_PLOT] =
     {
-        .name = COMPOUND_STRING("Nasty Plot"),
+        .name = COMPOUND_STRING("{JPN}わるだくみ{ENG}"),
         .description = COMPOUND_STRING(
             "Thinks bad thoughts to\n"
             "sharply boost Sp. Atk."),
@@ -11047,7 +11047,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BULLET_PUNCH] =
     {
-        .name = COMPOUND_STRING("Bullet Punch"),
+        .name = COMPOUND_STRING("{JPN}バレットパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "Punches as fast as a bul-\n"
             "let. It always hits first."),
@@ -11070,7 +11070,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AVALANCHE] =
     {
-        .name = COMPOUND_STRING("Avalanche"),
+        .name = COMPOUND_STRING("{JPN}ゆきなだれ{ENG}"),
         .description = sRevengeDescription,
         .effect = EFFECT_REVENGE,
         .power = 60,
@@ -11090,7 +11090,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_SHARD] =
     {
-        .name = COMPOUND_STRING("Ice Shard"),
+        .name = COMPOUND_STRING("{JPN}こおりのつぶて{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls a chunk of ice that\n"
             "always strikes first."),
@@ -11111,7 +11111,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHADOW_CLAW] =
     {
-        .name = COMPOUND_STRING("Shadow Claw"),
+        .name = COMPOUND_STRING("{JPN}シャドークロー{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes with a shadow claw.\n"
             "High critical-hit ratio."),
@@ -11134,7 +11134,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDER_FANG] =
     {
-        .name = COMPOUND_STRING("Thunder Fang"),
+        .name = COMPOUND_STRING("{JPN}かみなりのキバ{ENG}"),
         .description = COMPOUND_STRING(
             "May cause flinching or\n"
             "leave the foe paralyzed."),
@@ -11165,7 +11165,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_FANG] =
     {
-        .name = COMPOUND_STRING("Ice Fang"),
+        .name = COMPOUND_STRING("{JPN}こおりのキバ{ENG}"),
         .description = COMPOUND_STRING(
             "May cause flinching or\n"
         #if B_USE_FROSTBITE == TRUE
@@ -11200,7 +11200,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIRE_FANG] =
     {
-        .name = COMPOUND_STRING("Fire Fang"),
+        .name = COMPOUND_STRING("{JPN}ほのおのキバ{ENG}"),
         .description = COMPOUND_STRING(
             "May cause flinching or\n"
             "leave the foe with a burn."),
@@ -11231,7 +11231,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHADOW_SNEAK] =
     {
-        .name = COMPOUND_STRING("Shadow Sneak"),
+        .name = COMPOUND_STRING("{JPN}かげうち{ENG}"),
         .description = COMPOUND_STRING(
             "Extends the user's shadow\n"
             "to strike first."),
@@ -11253,7 +11253,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MUD_BOMB] =
     {
-        .name = COMPOUND_STRING("Mud Bomb"),
+        .name = COMPOUND_STRING("{JPN}どろばくだん{ENG}"),
         .description = COMPOUND_STRING(
             "Throws a blob of mud to\n"
             "damage and cut accuracy."),
@@ -11279,7 +11279,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCHO_CUT] =
     {
-        .name = COMPOUND_STRING("Psycho Cut"),
+        .name = COMPOUND_STRING("{JPN}サイコカッター{ENG}"),
         .description = COMPOUND_STRING(
             "Tears with psychic blades.\n"
             "High critical-hit ratio."),
@@ -11302,7 +11302,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ZEN_HEADBUTT] =
     {
-        .name = COMPOUND_STRING("Zen Headbutt"),
+        .name = COMPOUND_STRING("{JPN}しねんのずつき{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with a strong head-\n"
             "butt. May cause flinching."),
@@ -11328,7 +11328,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIRROR_SHOT] =
     {
-        .name = COMPOUND_STRING("Mirror Shot"),
+        .name = COMPOUND_STRING("{JPN}ミラーショット{ENG}"),
         .description = COMPOUND_STRING(
             "Emits a flash of energy to\n"
             "damage and cut accuracy."),
@@ -11353,7 +11353,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLASH_CANNON] =
     {
-        .name = COMPOUND_STRING("Flash Cannon"),
+        .name = COMPOUND_STRING("{JPN}ラスターカノン{ENG}"),
         .description = COMPOUND_STRING(
             "Releases a blast of light\n"
             "that may lower Sp. Def."),
@@ -11378,7 +11378,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_CLIMB] =
     {
-        .name = COMPOUND_STRING("Rock Climb"),
+        .name = COMPOUND_STRING("{JPN}ロッククライム{ENG}"),
         .description = COMPOUND_STRING(
             "A charging attack that may\n"
             "confuse the foe."),
@@ -11404,7 +11404,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DEFOG] =
     {
-        .name = COMPOUND_STRING("Defog"),
+        .name = COMPOUND_STRING("{JPN}きりばらい{ENG}"),
         .description = COMPOUND_STRING(
             "Removes obstacles and\n"
             "lowers evasion."),
@@ -11428,7 +11428,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRICK_ROOM] =
     {
-        .name = COMPOUND_STRING("Trick Room"),
+        .name = COMPOUND_STRING("{JPN}トリックルーム{ENG}"),
         .description = COMPOUND_STRING(
             "Slower Pokémon get to move\n"
             "first for 5 turns."),
@@ -11451,7 +11451,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRACO_METEOR] =
     {
-        .name = COMPOUND_STRING("Draco Meteor"),
+        .name = COMPOUND_STRING("{JPN}りゅうせいぐん{ENG}"),
         .description = COMPOUND_STRING(
             "Casts comets onto the foe.\n"
             "Harshly lowers the Sp. Atk."),
@@ -11476,7 +11476,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DISCHARGE] =
     {
-        .name = COMPOUND_STRING("Discharge"),
+        .name = COMPOUND_STRING("{JPN}ほうでん{ENG}"),
         .description = COMPOUND_STRING(
             "Zaps all other {PKMN} with\n"
             "electricity. May paralyze."),
@@ -11501,7 +11501,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LAVA_PLUME] =
     {
-        .name = COMPOUND_STRING("Lava Plume"),
+        .name = COMPOUND_STRING("{JPN}ふんえん{ENG}"),
         .description = sLavaPlumeDescription,
         .effect = EFFECT_HIT,
         .power = 80,
@@ -11524,7 +11524,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LEAF_STORM] =
     {
-        .name = COMPOUND_STRING("Leaf Storm"),
+        .name = COMPOUND_STRING("{JPN}リーフストーム{ENG}"),
         .description = COMPOUND_STRING(
             "Whips up a storm of leaves.\n"
             "Harshly lowers the Sp. Atk."),
@@ -11549,7 +11549,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_WHIP] =
     {
-        .name = COMPOUND_STRING("Power Whip"),
+        .name = COMPOUND_STRING("{JPN}パワーウィップ{ENG}"),
         .description = COMPOUND_STRING(
             "Violently lashes the foe\n"
             "with vines or tentacles."),
@@ -11571,7 +11571,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROCK_WRECKER] =
     {
-        .name = COMPOUND_STRING("Rock Wrecker"),
+        .name = COMPOUND_STRING("{JPN}がんせきほう{ENG}"),
         .description = sHyperBeamDescription,
         .effect = EFFECT_HIT,
         .power = 150,
@@ -11595,7 +11595,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CROSS_POISON] =
     {
-        .name = COMPOUND_STRING("Cross Poison"),
+        .name = COMPOUND_STRING("{JPN}クロスポイズン{ENG}"),
         .description = COMPOUND_STRING(
             "A slash that may poison a\n"
             "foe and do critical damage."),
@@ -11623,7 +11623,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GUNK_SHOT] =
     {
-        .name = COMPOUND_STRING("Gunk Shot"),
+        .name = COMPOUND_STRING("{JPN}ダストシュート{ENG}"),
         .description = COMPOUND_STRING(
             "Shoots filthy garbage at\n"
             "the foe. May also poison."),
@@ -11648,7 +11648,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_IRON_HEAD] =
     {
-        .name = COMPOUND_STRING("Iron Head"),
+        .name = COMPOUND_STRING("{JPN}アイアンヘッド{ENG}"),
         .description = COMPOUND_STRING(
             "Slams the foe with a hard\n"
             "head. May cause flinching."),
@@ -11674,7 +11674,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGNET_BOMB] =
     {
-        .name = COMPOUND_STRING("Magnet Bomb"),
+        .name = COMPOUND_STRING("{JPN}マグネットボム{ENG}"),
         .description = COMPOUND_STRING(
             "Launches a magnet that\n"
             "strikes without fail."),
@@ -11696,7 +11696,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STONE_EDGE] =
     {
-        .name = COMPOUND_STRING("Stone Edge"),
+        .name = COMPOUND_STRING("{JPN}ストーンエッジ{ENG}"),
         .description = COMPOUND_STRING(
             "Stabs the foe with stones.\n"
             "High critical-hit ratio."),
@@ -11718,7 +11718,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CAPTIVATE] =
     {
-        .name = COMPOUND_STRING("Captivate"),
+        .name = COMPOUND_STRING("{JPN}ゆうわく{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the opposite gender\n"
             "sharply reduce its Sp. Atk."),
@@ -11741,7 +11741,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STEALTH_ROCK] =
     {
-        .name = COMPOUND_STRING("Stealth Rock"),
+        .name = COMPOUND_STRING("{JPN}ステルスロック{ENG}"),
         .description = COMPOUND_STRING(
             "Sets floating stones that\n"
             "hurt a foe switching in."),
@@ -11767,7 +11767,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRASS_KNOT] =
     {
-        .name = COMPOUND_STRING("Grass Knot"),
+        .name = COMPOUND_STRING("{JPN}くさむすび{ENG}"),
         .description = COMPOUND_STRING(
             "A snare attack that does\n"
             "more damage to heavier foes."),
@@ -11790,7 +11790,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHATTER] =
     {
-        .name = COMPOUND_STRING("Chatter"),
+        .name = COMPOUND_STRING("{JPN}おしゃべり{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a sound wave\n"
             "that causes confusion."),
@@ -11831,7 +11831,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_JUDGMENT] =
     {
-        .name = COMPOUND_STRING("Judgment"),
+        .name = COMPOUND_STRING("{JPN}さばきのつぶて{ENG}"),
         .description = COMPOUND_STRING(
             "The type varies with the\n"
             "kind of Plate held."),
@@ -11853,7 +11853,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BUG_BITE] =
     {
-        .name = COMPOUND_STRING("Bug Bite"),
+        .name = COMPOUND_STRING("{JPN}むしくい{ENG}"),
         .description = sPluckDescription,
         .effect = EFFECT_HIT,
         .power = 60,
@@ -11876,7 +11876,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHARGE_BEAM] =
     {
-        .name = COMPOUND_STRING("Charge Beam"),
+        .name = COMPOUND_STRING("{JPN}チャージビーム{ENG}"),
         .description = COMPOUND_STRING(
             "Fires a beam of electricity.\n"
             "May raise Sp. Atk."),
@@ -11902,7 +11902,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WOOD_HAMMER] =
     {
-        .name = COMPOUND_STRING("Wood Hammer"),
+        .name = COMPOUND_STRING("{JPN}ウッドハンマー{ENG}"),
         .description = COMPOUND_STRING(
             "Slams the body into a foe.\n"
             "The user gets hurt too."),
@@ -11925,7 +11925,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AQUA_JET] =
     {
-        .name = COMPOUND_STRING("Aqua Jet"),
+        .name = COMPOUND_STRING("{JPN}アクアジェット{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes first by dashing\n"
             "at the foe at a high speed."),
@@ -11947,7 +11947,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ATTACK_ORDER] =
     {
-        .name = COMPOUND_STRING("Attack Order"),
+        .name = COMPOUND_STRING("{JPN}こうげきしれい{ENG}"),
         .description = COMPOUND_STRING(
             "Underlings pummel the foe.\n"
             "High critical-hit ratio."),
@@ -11969,7 +11969,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DEFEND_ORDER] =
     {
-        .name = COMPOUND_STRING("Defend Order"),
+        .name = COMPOUND_STRING("{JPN}ぼうぎょしれい{ENG}"),
         .description = COMPOUND_STRING(
             "Raises Defense and Sp. Def\n"
             "with a living shield."),
@@ -11994,7 +11994,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAL_ORDER] =
     {
-        .name = COMPOUND_STRING("Heal Order"),
+        .name = COMPOUND_STRING("{JPN}かいふくしれい{ENG}"),
         .description = COMPOUND_STRING(
             "The user's underlings show\n"
             "up to heal half its max HP."),
@@ -12020,7 +12020,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAD_SMASH] =
     {
-        .name = COMPOUND_STRING("Head Smash"),
+        .name = COMPOUND_STRING("{JPN}もろはのずつき{ENG}"),
         .description = COMPOUND_STRING(
             "A life-risking headbutt that\n"
             "seriously hurts the user."),
@@ -12043,7 +12043,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOUBLE_HIT] =
     {
-        .name = COMPOUND_STRING("Double Hit"),
+        .name = COMPOUND_STRING("{JPN}ダブルアタック{ENG}"),
         .description = COMPOUND_STRING(
             "Slams the foe with a tail\n"
             "etc. Strikes twice."),
@@ -12066,7 +12066,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROAR_OF_TIME] =
     {
-        .name = COMPOUND_STRING("Roar of Time"),
+        .name = COMPOUND_STRING("{JPN}ときのほうこう{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful, but leaves the\n"
             "user immobile the next turn."),
@@ -12091,7 +12091,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPACIAL_REND] =
     {
-        .name = COMPOUND_STRING("Spacial Rend"),
+        .name = COMPOUND_STRING("{JPN}あくうせつだん{ENG}"),
         .description = COMPOUND_STRING(
             "Tears the foe, and space.\n"
             "High critical-hit ratio."),
@@ -12113,7 +12113,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LUNAR_DANCE] =
     {
-        .name = COMPOUND_STRING("Lunar Dance"),
+        .name = COMPOUND_STRING("{JPN}みかづきのまい{ENG}"),
         .description = sHealingWishDescription,
         .effect = EFFECT_LUNAR_DANCE,
         .power = 0,
@@ -12137,7 +12137,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CRUSH_GRIP] =
     {
-        .name = COMPOUND_STRING("Crush Grip"),
+        .name = COMPOUND_STRING("{JPN}にぎりつぶす{ENG}"),
         .description = sWringOutDescription,
         .effect = EFFECT_POWER_BASED_ON_TARGET_HP,
         .power = 120,
@@ -12157,7 +12157,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGMA_STORM] =
     {
-        .name = COMPOUND_STRING("Magma Storm"),
+        .name = COMPOUND_STRING("{JPN}マグマストーム{ENG}"),
         .description = COMPOUND_STRING(
             "Traps the foe in a vortex\n"
             "of fire for "BINDING_TURNS" turns."),
@@ -12182,7 +12182,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DARK_VOID] =
     {
-        .name = COMPOUND_STRING("Dark Void"),
+        .name = COMPOUND_STRING("{JPN}ダークホール{ENG}"),
         .description = COMPOUND_STRING(
             "Drags the foes into total\n"
             "darkness, inducing Sleep."),
@@ -12207,7 +12207,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SEED_FLARE] =
     {
-        .name = COMPOUND_STRING("Seed Flare"),
+        .name = COMPOUND_STRING("{JPN}シードフレア{ENG}"),
         .description = COMPOUND_STRING(
             "Generates a shock wave that\n"
             "sharply reduces Sp. Def."),
@@ -12232,7 +12232,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OMINOUS_WIND] =
     {
-        .name = COMPOUND_STRING("Ominous Wind"),
+        .name = COMPOUND_STRING("{JPN}あやしいかぜ{ENG}"),
         .description = COMPOUND_STRING(
             "A repulsive attack that may\n"
             "raise all stats."),
@@ -12259,7 +12259,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHADOW_FORCE] =
     {
-        .name = COMPOUND_STRING("Shadow Force"),
+        .name = COMPOUND_STRING("{JPN}シャドーダイブ{ENG}"),
         .description = sShadowForceDescription,
         .effect = EFFECT_SEMI_INVULNERABLE,
         .power = 120,
@@ -12288,7 +12288,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HONE_CLAWS] =
     {
-        .name = COMPOUND_STRING("Hone Claws"),
+        .name = COMPOUND_STRING("{JPN}つめとぎ{ENG}"),
         .description = COMPOUND_STRING(
             "Sharpens its claws to raise\n"
             "Attack and Accuracy."),
@@ -12313,7 +12313,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WIDE_GUARD] =
     {
-        .name = COMPOUND_STRING("Wide Guard"),
+        .name = COMPOUND_STRING("{JPN}ワイドガード{ENG}"),
         .description = COMPOUND_STRING(
             "Evades wide-ranging attacks\n"
             "for one turn."),
@@ -12340,7 +12340,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GUARD_SPLIT] =
     {
-        .name = COMPOUND_STRING("Guard Split"),
+        .name = COMPOUND_STRING("{JPN}ガードシェア{ENG}"),
         .description = COMPOUND_STRING(
             "Averages changes to Defense\n"
             "and Sp. Def with the foe."),
@@ -12363,7 +12363,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_SPLIT] =
     {
-        .name = COMPOUND_STRING("Power Split"),
+        .name = COMPOUND_STRING("{JPN}パワーシェア{ENG}"),
         .description = COMPOUND_STRING(
             "Averages changes to Attack\n"
             "and Sp. Atk with the foe."),
@@ -12386,7 +12386,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WONDER_ROOM] =
     {
-        .name = COMPOUND_STRING("Wonder Room"),
+        .name = COMPOUND_STRING("{JPN}ワンダールーム{ENG}"),
         .description = COMPOUND_STRING(
             "Defense and Sp. Def stats\n"
             "are swapped for 5 turns."),
@@ -12409,7 +12409,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYSHOCK] =
     {
-        .name = COMPOUND_STRING("Psyshock"),
+        .name = COMPOUND_STRING("{JPN}サイコショック{ENG}"),
         .description = sPsyshockDescription,
         .effect = EFFECT_PSYSHOCK,
         .power = 80,
@@ -12428,7 +12428,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VENOSHOCK] =
     {
-        .name = COMPOUND_STRING("Venoshock"),
+        .name = COMPOUND_STRING("{JPN}ベノムショック{ENG}"),
         .description = COMPOUND_STRING(
             "Does double damage if the\n"
             "foe is poisoned."),
@@ -12450,7 +12450,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AUTOTOMIZE] =
     {
-        .name = COMPOUND_STRING("Autotomize"),
+        .name = COMPOUND_STRING("{JPN}ボディパージ{ENG}"),
         .description = COMPOUND_STRING(
             "Sheds additional weight to\n"
             "sharply boost Speed."),
@@ -12475,7 +12475,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAGE_POWDER] =
     {
-        .name = COMPOUND_STRING("Rage Powder"),
+        .name = COMPOUND_STRING("{JPN}いかりのこな{ENG}"),
         .description = COMPOUND_STRING(
             "Scatters powder to make\n"
             "foes attack only the user."),
@@ -12503,7 +12503,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TELEKINESIS] =
     {
-        .name = COMPOUND_STRING("Telekinesis"),
+        .name = COMPOUND_STRING("{JPN}テレキネシス{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the foe float. It is\n"
             "easier to hit for 3 turns."),
@@ -12527,7 +12527,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGIC_ROOM] =
     {
-        .name = COMPOUND_STRING("Magic Room"),
+        .name = COMPOUND_STRING("{JPN}マジックルーム{ENG}"),
         .description = COMPOUND_STRING(
             "Hold items lose their\n"
             "effects for 5 turns."),
@@ -12550,7 +12550,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SMACK_DOWN] =
     {
-        .name = COMPOUND_STRING("Smack Down"),
+        .name = COMPOUND_STRING("{JPN}うちおとす{ENG}"),
         .description = COMPOUND_STRING(
             "Throws a rock to knock the\n"
             "foe down to the ground."),
@@ -12573,7 +12573,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STORM_THROW] =
     {
-        .name = COMPOUND_STRING("Storm Throw"),
+        .name = COMPOUND_STRING("{JPN}やまあらし{ENG}"),
         .description = sStormThrowDescription,
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 60 : 40,
@@ -12594,7 +12594,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLAME_BURST] =
     {
-        .name = COMPOUND_STRING("Flame Burst"),
+        .name = COMPOUND_STRING("{JPN}はじけるほのお{ENG}"),
         .description = COMPOUND_STRING(
             "A bursting flame that does\n"
             "damage to all foes."),
@@ -12618,7 +12618,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SLUDGE_WAVE] =
     {
-        .name = COMPOUND_STRING("Sludge Wave"),
+        .name = COMPOUND_STRING("{JPN}ヘドロウェーブ{ENG}"),
         .description = COMPOUND_STRING(
             "Swamps all others with a wave\n"
             "of sludge. May also poison."),
@@ -12643,7 +12643,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_QUIVER_DANCE] =
     {
-        .name = COMPOUND_STRING("Quiver Dance"),
+        .name = COMPOUND_STRING("{JPN}ちょうのまい{ENG}"),
         .description = COMPOUND_STRING(
             "Dances to raise Sp. Atk\n"
             "Sp. Def and Speed."),
@@ -12669,7 +12669,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAVY_SLAM] =
     {
-        .name = COMPOUND_STRING("Heavy Slam"),
+        .name = COMPOUND_STRING("{JPN}ヘビーボンバー{ENG}"),
         .description = sHeavySlamDescription,
         .effect = EFFECT_HEAT_CRASH,
         .power = 1,
@@ -12691,7 +12691,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SYNCHRONOISE] =
     {
-        .name = COMPOUND_STRING("Synchronoise"),
+        .name = COMPOUND_STRING("{JPN}シンクロノイズ{ENG}"),
         .description = COMPOUND_STRING(
             "An odd shock wave that only\n"
             "damages same-type {PKMN}."),
@@ -12712,7 +12712,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ELECTRO_BALL] =
     {
-        .name = COMPOUND_STRING("Electro Ball"),
+        .name = COMPOUND_STRING("{JPN}エレキボール{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls an orb that does more\n"
             "damage to slower foes."),
@@ -12734,7 +12734,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SOAK] =
     {
-        .name = COMPOUND_STRING("Soak"),
+        .name = COMPOUND_STRING("{JPN}みずびたし{ENG}"),
         .description = COMPOUND_STRING(
             "Sprays water at the foe,\n"
             "changing it to Water type."),
@@ -12758,7 +12758,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLAME_CHARGE] =
     {
-        .name = COMPOUND_STRING("Flame Charge"),
+        .name = COMPOUND_STRING("{JPN}ニトロチャージ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks in a cloak of\n"
             "flames. Raises Speed."),
@@ -12785,7 +12785,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COIL] =
     {
-        .name = COMPOUND_STRING("Coil"),
+        .name = COMPOUND_STRING("{JPN}とぐろをまく{ENG}"),
         .description = COMPOUND_STRING(
             "Coils up to raise Attack,\n"
             "Defense and Accuracy."),
@@ -12810,7 +12810,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LOW_SWEEP] =
     {
-        .name = COMPOUND_STRING("Low Sweep"),
+        .name = COMPOUND_STRING("{JPN}ローキック{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks the foe's legs\n"
             "lowering its Speed."),
@@ -12836,7 +12836,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ACID_SPRAY] =
     {
-        .name = COMPOUND_STRING("Acid Spray"),
+        .name = COMPOUND_STRING("{JPN}アシッドボム{ENG}"),
         .description = COMPOUND_STRING(
             "Sprays a hide-melting acid.\n"
             "Sharply reduces Sp. Def."),
@@ -12862,7 +12862,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FOUL_PLAY] =
     {
-        .name = COMPOUND_STRING("Foul Play"),
+        .name = COMPOUND_STRING("{JPN}イカサマ{ENG}"),
         .description = COMPOUND_STRING(
             "The higher the foe's Attack\n"
             "the more damage caused."),
@@ -12884,7 +12884,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SIMPLE_BEAM] =
     {
-        .name = COMPOUND_STRING("Simple Beam"),
+        .name = COMPOUND_STRING("{JPN}シンプルビーム{ENG}"),
         .description = COMPOUND_STRING(
             "A beam that changes the\n"
             "foe's Ability to Simple."),
@@ -12908,7 +12908,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ENTRAINMENT] =
     {
-        .name = COMPOUND_STRING("Entrainment"),
+        .name = COMPOUND_STRING("{JPN}なかまづくり{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the foe mimic the\n"
             "user, gaining its Ability."),
@@ -12931,7 +12931,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AFTER_YOU] =
     {
-        .name = COMPOUND_STRING("After You"),
+        .name = COMPOUND_STRING("{JPN}おさきにどうぞ{ENG}"),
         .description = COMPOUND_STRING(
             "Helps out the target, letting\n"
             "it move next."),
@@ -12957,7 +12957,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROUND] =
     {
-        .name = COMPOUND_STRING("Round"),
+        .name = COMPOUND_STRING("{JPN}りんしょう{ENG}"),
         .description = COMPOUND_STRING(
             "A song that inflicts damage.\n"
             "Others can join in too."),
@@ -12983,7 +12983,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ECHOED_VOICE] =
     {
-        .name = COMPOUND_STRING("Echoed Voice"),
+        .name = COMPOUND_STRING("{JPN}エコーボイス{ENG}"),
         .description = COMPOUND_STRING(
             "Does more damage every turn\n"
             "it is used."),
@@ -13006,7 +13006,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHIP_AWAY] =
     {
-        .name = COMPOUND_STRING("Chip Away"),
+        .name = COMPOUND_STRING("{JPN}なしくずし{ENG}"),
         .description = sChipAwayDescription,
         .effect = EFFECT_HIT,
         .power = 70,
@@ -13027,7 +13027,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CLEAR_SMOG] =
     {
-        .name = COMPOUND_STRING("Clear Smog"),
+        .name = COMPOUND_STRING("{JPN}クリアスモッグ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with white haze that\n"
             "eliminates all stat changes."),
@@ -13051,7 +13051,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STORED_POWER] =
     {
-        .name = COMPOUND_STRING("Stored Power"),
+        .name = COMPOUND_STRING("{JPN}アシストパワー{ENG}"),
         .description = COMPOUND_STRING(
             "The higher the user's stats\n"
             "the more damage caused."),
@@ -13072,7 +13072,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_QUICK_GUARD] =
     {
-        .name = COMPOUND_STRING("Quick Guard"),
+        .name = COMPOUND_STRING("{JPN}ファストガード{ENG}"),
         .description = COMPOUND_STRING(
             "Evades priority attacks\n"
             "for one turn."),
@@ -13099,7 +13099,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ALLY_SWITCH] =
     {
-        .name = COMPOUND_STRING("Ally Switch"),
+        .name = COMPOUND_STRING("{JPN}サイドチェンジ{ENG}"),
         .description = COMPOUND_STRING(
             "The user switches places\n"
             "with its partner."),
@@ -13123,7 +13123,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SCALD] =
     {
-        .name = COMPOUND_STRING("Scald"),
+        .name = COMPOUND_STRING("{JPN}ねっとう{ENG}"),
         .description = COMPOUND_STRING(
             "Shoots boiling water at the\n"
             "foe. May inflict a burn."),
@@ -13149,7 +13149,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHELL_SMASH] =
     {
-        .name = COMPOUND_STRING("Shell Smash"),
+        .name = COMPOUND_STRING("{JPN}からをやぶる{ENG}"),
         .description = COMPOUND_STRING(
             "Sharply raises Atk/Sp.Atk/\n"
             "Speed, but drops Def/Sp.Def."),
@@ -13174,7 +13174,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAL_PULSE] =
     {
-        .name = COMPOUND_STRING("Heal Pulse"),
+        .name = COMPOUND_STRING("{JPN}いやしのはどう{ENG}"),
         .description = COMPOUND_STRING(
             "Recovers up to half the\n"
             "target's maximum HP."),
@@ -13200,7 +13200,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEX] =
     {
-        .name = COMPOUND_STRING("Hex"),
+        .name = COMPOUND_STRING("{JPN}たたりめ{ENG}"),
         .description = COMPOUND_STRING(
             "Does double damage if the\n"
             "foe has a status problem."),
@@ -13223,7 +13223,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SKY_DROP] =
     {
-        .name = COMPOUND_STRING("Sky Drop"),
+        .name = COMPOUND_STRING("{JPN}フリーフォール{ENG}"),
         .description = COMPOUND_STRING(
             "Takes the foe into the sky\n"
             "then drops it the next turn."),
@@ -13250,7 +13250,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHIFT_GEAR] =
     {
-        .name = COMPOUND_STRING("Shift Gear"),
+        .name = COMPOUND_STRING("{JPN}ギアチェンジ{ENG}"),
         .description = COMPOUND_STRING(
             "Rotates its gears to raise\n"
             "Attack and Speed."),
@@ -13275,7 +13275,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CIRCLE_THROW] =
     {
-        .name = COMPOUND_STRING("Circle Throw"),
+        .name = COMPOUND_STRING("{JPN}ともえなげ{ENG}"),
         .description = sCircleThrowDescription,
         .effect = EFFECT_HIT_SWITCH_TARGET,
         .power = 60,
@@ -13297,7 +13297,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_INCINERATE] =
     {
-        .name = COMPOUND_STRING("Incinerate"),
+        .name = COMPOUND_STRING("{JPN}やきつくす{ENG}"),
         .description = COMPOUND_STRING(
             "Burns up Berries and Gems\n"
             "preventing their use."),
@@ -13321,7 +13321,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_QUASH] =
     {
-        .name = COMPOUND_STRING("Quash"),
+        .name = COMPOUND_STRING("{JPN}さきおくり{ENG}"),
         .description = COMPOUND_STRING(
             "Suppresses the foe, making\n"
             "it move last."),
@@ -13344,7 +13344,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ACROBATICS] =
     {
-        .name = COMPOUND_STRING("Acrobatics"),
+        .name = COMPOUND_STRING("{JPN}アクロバット{ENG}"),
         .description = COMPOUND_STRING(
             "Does double damage if the\n"
             "user has no item."),
@@ -13366,7 +13366,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REFLECT_TYPE] =
     {
-        .name = COMPOUND_STRING("Reflect Type"),
+        .name = COMPOUND_STRING("{JPN}ミラータイプ{ENG}"),
         .description = COMPOUND_STRING(
             "The user reflects the foe's\n"
             "type, copying it."),
@@ -13390,7 +13390,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RETALIATE] =
     {
-        .name = COMPOUND_STRING("Retaliate"),
+        .name = COMPOUND_STRING("{JPN}かたきうち{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that does more\n"
             "damage if an ally fainted."),
@@ -13412,7 +13412,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FINAL_GAMBIT] =
     {
-        .name = COMPOUND_STRING("Final Gambit"),
+        .name = COMPOUND_STRING("{JPN}いのちがけ{ENG}"),
         .description = COMPOUND_STRING(
             "The user faints to damage\n"
             "the foe equal to its HP."),
@@ -13436,7 +13436,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BESTOW] =
     {
-        .name = COMPOUND_STRING("Bestow"),
+        .name = COMPOUND_STRING("{JPN}ギフトパス{ENG}"),
         .description = COMPOUND_STRING(
             "The user gives its held\n"
             "item to the foe."),
@@ -13463,7 +13463,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_INFERNO] =
     {
-        .name = COMPOUND_STRING("Inferno"),
+        .name = COMPOUND_STRING("{JPN}れんごく{ENG}"),
         .description = COMPOUND_STRING(
             "Powerful and sure to inflict\n"
             "a burn, but inaccurate."),
@@ -13488,7 +13488,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WATER_PLEDGE] =
     {
-        .name = COMPOUND_STRING("Water Pledge"),
+        .name = COMPOUND_STRING("{JPN}みずのちかい{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a column of\n"
             "water. May make a rainbow."),
@@ -13510,7 +13510,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIRE_PLEDGE] =
     {
-        .name = COMPOUND_STRING("Fire Pledge"),
+        .name = COMPOUND_STRING("{JPN}ほのおのちかい{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a column of\n"
             "fire. May burn the grass."),
@@ -13532,7 +13532,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRASS_PLEDGE] =
     {
-        .name = COMPOUND_STRING("Grass Pledge"),
+        .name = COMPOUND_STRING("{JPN}くさのちかい{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a column of\n"
             "grass. May create a swamp."),
@@ -13554,7 +13554,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VOLT_SWITCH] =
     {
-        .name = COMPOUND_STRING("Volt Switch"),
+        .name = COMPOUND_STRING("{JPN}ボルトチェンジ{ENG}"),
         .description = sUTurnDescription,
         .effect = EFFECT_HIT_ESCAPE,
         .power = 70,
@@ -13573,7 +13573,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STRUGGLE_BUG] =
     {
-        .name = COMPOUND_STRING("Struggle Bug"),
+        .name = COMPOUND_STRING("{JPN}むしのていこう{ENG}"),
         .description = COMPOUND_STRING(
             "Resisting, the user attacks\n"
             "the foes. Lowers Sp. Atk."),
@@ -13598,7 +13598,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BULLDOZE] =
     {
-        .name = COMPOUND_STRING("Bulldoze"),
+        .name = COMPOUND_STRING("{JPN}じならし{ENG}"),
         .description = COMPOUND_STRING(
             "Stomps down on the ground.\n"
             "Hits all and lowers Speed."),
@@ -13624,7 +13624,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FROST_BREATH] =
     {
-        .name = COMPOUND_STRING("Frost Breath"),
+        .name = COMPOUND_STRING("{JPN}こおりのいぶき{ENG}"),
         .description = sStormThrowDescription,
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_6 ? 60 : 40,
@@ -13644,7 +13644,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_TAIL] =
     {
-        .name = COMPOUND_STRING("Dragon Tail"),
+        .name = COMPOUND_STRING("{JPN}ドラゴンテール{ENG}"),
         .description = sCircleThrowDescription,
         .effect = EFFECT_HIT_SWITCH_TARGET,
         .power = 60,
@@ -13666,7 +13666,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WORK_UP] =
     {
-        .name = COMPOUND_STRING("Work Up"),
+        .name = COMPOUND_STRING("{JPN}ふるいたてる{ENG}"),
         .description = COMPOUND_STRING(
             "The user is roused.\n"
             "Ups Attack and Sp. Atk."),
@@ -13691,7 +13691,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ELECTROWEB] =
     {
-        .name = COMPOUND_STRING("Electroweb"),
+        .name = COMPOUND_STRING("{JPN}エレキネット{ENG}"),
         .description = COMPOUND_STRING(
             "Snares the foes with an\n"
             "electric net. Lowers Speed."),
@@ -13716,7 +13716,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WILD_CHARGE] =
     {
-        .name = COMPOUND_STRING("Wild Charge"),
+        .name = COMPOUND_STRING("{JPN}ワイルドボルト{ENG}"),
         .description = COMPOUND_STRING(
             "An electrical tackle that\n"
             "also hurts the user."),
@@ -13739,7 +13739,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRILL_RUN] =
     {
-        .name = COMPOUND_STRING("Drill Run"),
+        .name = COMPOUND_STRING("{JPN}ドリルライナー{ENG}"),
         .description = COMPOUND_STRING(
             "Spins its body like a drill.\n"
             "High critical-hit ratio."),
@@ -13762,7 +13762,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DUAL_CHOP] =
     {
-        .name = COMPOUND_STRING("Dual Chop"),
+        .name = COMPOUND_STRING("{JPN}ダブルチョップ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with brutal hits\n"
             "that strike twice."),
@@ -13785,7 +13785,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEART_STAMP] =
     {
-        .name = COMPOUND_STRING("Heart Stamp"),
+        .name = COMPOUND_STRING("{JPN}ハートスタンプ{ENG}"),
         .description = COMPOUND_STRING(
             "A sudden blow after a cute\n"
             "act. May cause flinching."),
@@ -13811,7 +13811,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HORN_LEECH] =
     {
-        .name = COMPOUND_STRING("Horn Leech"),
+        .name = COMPOUND_STRING("{JPN}ウッドホーン{ENG}"),
         .description = sMegaDrainDescription,
         .effect = EFFECT_ABSORB,
         .power = 75,
@@ -13833,7 +13833,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SACRED_SWORD] =
     {
-        .name = COMPOUND_STRING("Sacred Sword"),
+        .name = COMPOUND_STRING("{JPN}せいなるつるぎ{ENG}"),
         .description = sChipAwayDescription,
         .effect = EFFECT_HIT,
         .power = 90,
@@ -13855,7 +13855,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAZOR_SHELL] =
     {
-        .name = COMPOUND_STRING("Razor Shell"),
+        .name = COMPOUND_STRING("{JPN}シェルブレード{ENG}"),
         .description = COMPOUND_STRING(
             "Tears at the foe with sharp\n"
             "shells. May lower Defense."),
@@ -13882,7 +13882,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAT_CRASH] =
     {
-        .name = COMPOUND_STRING("Heat Crash"),
+        .name = COMPOUND_STRING("{JPN}ヒートスタンプ{ENG}"),
         .description = sHeavySlamDescription,
         .effect = EFFECT_HEAT_CRASH,
         .power = 1,
@@ -13903,7 +13903,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LEAF_TORNADO] =
     {
-        .name = COMPOUND_STRING("Leaf Tornado"),
+        .name = COMPOUND_STRING("{JPN}グラスミキサー{ENG}"),
         .description = COMPOUND_STRING(
             "Circles the foe with leaves\n"
             "to damage and cut accuracy."),
@@ -13928,7 +13928,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STEAMROLLER] =
     {
-        .name = COMPOUND_STRING("Steamroller"),
+        .name = COMPOUND_STRING("{JPN}ハードローラー{ENG}"),
         .description = COMPOUND_STRING(
             "Crushes the foe with its\n"
             "body. May cause flinching."),
@@ -13955,7 +13955,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COTTON_GUARD] =
     {
-        .name = COMPOUND_STRING("Cotton Guard"),
+        .name = COMPOUND_STRING("{JPN}コットンガード{ENG}"),
         .description = COMPOUND_STRING(
             "Wraps its body in cotton.\n"
             "Drastically raises Defense."),
@@ -13980,7 +13980,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NIGHT_DAZE] =
     {
-        .name = COMPOUND_STRING("Night Daze"),
+        .name = COMPOUND_STRING("{JPN}ナイトバースト{ENG}"),
         .description = COMPOUND_STRING(
             "Looses a pitch-black shock\n"
             "wave. May lower accuracy."),
@@ -14005,7 +14005,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYSTRIKE] =
     {
-        .name = COMPOUND_STRING("Psystrike"),
+        .name = COMPOUND_STRING("{JPN}サイコブレイク{ENG}"),
         .description = sPsyshockDescription,
         .effect = EFFECT_PSYSHOCK,
         .power = 100,
@@ -14024,7 +14024,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAIL_SLAP] =
     {
-        .name = COMPOUND_STRING("Tail Slap"),
+        .name = COMPOUND_STRING("{JPN}スイープビンタ{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes the foe with its\n"
             "tail 2 to 5 times."),
@@ -14047,7 +14047,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HURRICANE] =
     {
-        .name = COMPOUND_STRING("Hurricane"),
+        .name = COMPOUND_STRING("{JPN}ぼうふう{ENG}"),
         .description = COMPOUND_STRING(
             "Traps the foe in a fierce\n"
             "wind. May cause confusion."),
@@ -14076,7 +14076,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEAD_CHARGE] =
     {
-        .name = COMPOUND_STRING("Head Charge"),
+        .name = COMPOUND_STRING("{JPN}アフロブレイク{ENG}"),
         .description = COMPOUND_STRING(
             "A charge using guard hair.\n"
             "It hurts the user a little."),
@@ -14099,7 +14099,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GEAR_GRIND] =
     {
-        .name = COMPOUND_STRING("Gear Grind"),
+        .name = COMPOUND_STRING("{JPN}ギアソーサー{ENG}"),
         .description = COMPOUND_STRING(
             "Throws two steel gears\n"
             "that strike twice."),
@@ -14123,7 +14123,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SEARING_SHOT] =
     {
-        .name = COMPOUND_STRING("Searing Shot"),
+        .name = COMPOUND_STRING("{JPN}かえんだん{ENG}"),
         .description = sLavaPlumeDescription,
         .effect = EFFECT_HIT,
         .power = 100,
@@ -14147,7 +14147,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TECHNO_BLAST] =
     {
-        .name = COMPOUND_STRING("Techno Blast"),
+        .name = COMPOUND_STRING("{JPN}テクノバスター{ENG}"),
         .description = COMPOUND_STRING(
             "The type varies with the\n"
             "kind of Drive held."),
@@ -14170,7 +14170,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RELIC_SONG] =
     {
-        .name = COMPOUND_STRING("Relic Song"),
+        .name = COMPOUND_STRING("{JPN}いにしえのうた{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with an ancient\n"
             "song. May induce sleep."),
@@ -14199,7 +14199,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SECRET_SWORD] =
     {
-        .name = COMPOUND_STRING("Secret Sword"),
+        .name = COMPOUND_STRING("{JPN}しんぴのつるぎ{ENG}"),
         .description = COMPOUND_STRING(
             "Cuts with a long horn that\n"
             "does physical damage."),
@@ -14222,7 +14222,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GLACIATE] =
     {
-        .name = COMPOUND_STRING("Glaciate"),
+        .name = COMPOUND_STRING("{JPN}こごえるせかい{ENG}"),
         .description = COMPOUND_STRING(
             "Blows very cold air at the\n"
             "foes. It lowers their Speed."),
@@ -14247,7 +14247,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BOLT_STRIKE] =
     {
-        .name = COMPOUND_STRING("Bolt Strike"),
+        .name = COMPOUND_STRING("{JPN}らいげき{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes with a great amount\n"
             "of lightning. May paralyze."),
@@ -14273,7 +14273,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLUE_FLARE] =
     {
-        .name = COMPOUND_STRING("Blue Flare"),
+        .name = COMPOUND_STRING("{JPN}あおいほのお{ENG}"),
         .description = COMPOUND_STRING(
             "Engulfs the foe in a blue\n"
             "flame. May inflict a burn."),
@@ -14298,7 +14298,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIERY_DANCE] =
     {
-        .name = COMPOUND_STRING("Fiery Dance"),
+        .name = COMPOUND_STRING("{JPN}ほのおのまい{ENG}"),
         .description = COMPOUND_STRING(
             "Dances cloaked in flames.\n"
             "May raise Sp. Atk."),
@@ -14325,7 +14325,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FREEZE_SHOCK] =
     {
-        .name = COMPOUND_STRING("Freeze Shock"),
+        .name = COMPOUND_STRING("{JPN}フリーズボルト{ENG}"),
         .description = COMPOUND_STRING(
             "A powerful 2-turn move that\n"
             "may paralyze the foe."),
@@ -14354,7 +14354,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_BURN] =
     {
-        .name = COMPOUND_STRING("Ice Burn"),
+        .name = COMPOUND_STRING("{JPN}コールドフレア{ENG}"),
         .description = COMPOUND_STRING(
             "A powerful 2-turn move that\n"
             "may inflict a burn."),
@@ -14383,7 +14383,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SNARL] =
     {
-        .name = COMPOUND_STRING("Snarl"),
+        .name = COMPOUND_STRING("{JPN}バークアウト{ENG}"),
         .description = COMPOUND_STRING(
             "Yells and rants at the foe\n"
             "lowering its Sp. Atk."),
@@ -14411,7 +14411,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICICLE_CRASH] =
     {
-        .name = COMPOUND_STRING("Icicle Crash"),
+        .name = COMPOUND_STRING("{JPN}つららおとし{ENG}"),
         .description = COMPOUND_STRING(
             "Drops large icicles on the\n"
             "foe. May cause flinching."),
@@ -14436,7 +14436,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_V_CREATE] =
     {
-        .name = COMPOUND_STRING("V-create"),
+        .name = COMPOUND_STRING("{JPN}Vジェネレート{ENG}"),
         .description = COMPOUND_STRING(
             "Very powerful, but lowers\n"
             "Defense, Sp. Def and Speed."),
@@ -14464,7 +14464,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FUSION_FLARE] =
     {
-        .name = COMPOUND_STRING("Fusion Flare"),
+        .name = COMPOUND_STRING("{JPN}クロスフレイム{ENG}"),
         .description = COMPOUND_STRING(
             "Summons a fireball. Works\n"
             "well with a thunderbolt."),
@@ -14486,7 +14486,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FUSION_BOLT] =
     {
-        .name = COMPOUND_STRING("Fusion Bolt"),
+        .name = COMPOUND_STRING("{JPN}クロスサンダー{ENG}"),
         .description = COMPOUND_STRING(
             "Summons a thunderbolt.\n"
             "Works well with a fireball."),
@@ -14507,7 +14507,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLYING_PRESS] =
     {
-        .name = COMPOUND_STRING("Flying Press"),
+        .name = COMPOUND_STRING("{JPN}フライングプレス{ENG}"),
         .description = COMPOUND_STRING(
             "This attack does Fighting\n"
             "and Flying-type damage."),
@@ -14534,7 +14534,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAT_BLOCK] =
     {
-        .name = COMPOUND_STRING("Mat Block"),
+        .name = COMPOUND_STRING("{JPN}たたみがえし{ENG}"),
         .description = COMPOUND_STRING(
             "Evades damaging moves.\n"
             "Only works on 1st turn."),
@@ -14564,7 +14564,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BELCH] =
     {
-        .name = COMPOUND_STRING("Belch"),
+        .name = COMPOUND_STRING("{JPN}ゲップ{ENG}"),
         .description = COMPOUND_STRING(
             "Lets out a loud belch.\n"
             "Must eat a Berry to use it."),
@@ -14593,7 +14593,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ROTOTILLER] =
     {
-        .name = COMPOUND_STRING("Rototiller"),
+        .name = COMPOUND_STRING("{JPN}たがやす{ENG}"),
         .description = COMPOUND_STRING(
             "Ups the Attack and Sp. Atk\n"
             "of Grass-type Pokémon."),
@@ -14618,7 +14618,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STICKY_WEB] =
     {
-        .name = COMPOUND_STRING("Sticky Web"),
+        .name = COMPOUND_STRING("{JPN}ねばねばネット{ENG}"),
         .description = COMPOUND_STRING(
             "Weaves a sticky net that\n"
             "slows foes switching in."),
@@ -14644,7 +14644,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FELL_STINGER] =
     {
-        .name = COMPOUND_STRING("Fell Stinger"),
+        .name = COMPOUND_STRING("{JPN}とどめばり{ENG}"),
         .description = COMPOUND_STRING(
             "If it knocks out a foe\n"
             "the Attack stat is raised."),
@@ -14666,7 +14666,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PHANTOM_FORCE] =
     {
-        .name = COMPOUND_STRING("Phantom Force"),
+        .name = COMPOUND_STRING("{JPN}ゴーストダイブ{ENG}"),
         .description = sShadowForceDescription,
         .effect = EFFECT_SEMI_INVULNERABLE,
         .power = 90,
@@ -14695,7 +14695,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRICK_OR_TREAT] =
     {
-        .name = COMPOUND_STRING("Trick-or-Treat"),
+        .name = COMPOUND_STRING("{JPN}ハロウィン{ENG}"),
         .description = COMPOUND_STRING(
             "Goes trick-or-treating,\n"
             "adding Ghost type to foe."),
@@ -14719,7 +14719,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NOBLE_ROAR] =
     {
-        .name = COMPOUND_STRING("Noble Roar"),
+        .name = COMPOUND_STRING("{JPN}おたけび{ENG}"),
         .description = COMPOUND_STRING(
             "Intimidates the foe, to cut\n"
             "Attack and Sp. Atk."),
@@ -14744,7 +14744,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ION_DELUGE] =
     {
-        .name = COMPOUND_STRING("Ion Deluge"),
+        .name = COMPOUND_STRING("{JPN}プラズマシャワー{ENG}"),
         .description = COMPOUND_STRING(
             "Electrifies Normal-type\n"
             "moves with charged atoms."),
@@ -14768,7 +14768,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PARABOLIC_CHARGE] =
     {
-        .name = COMPOUND_STRING("Parabolic Charge"),
+        .name = COMPOUND_STRING("{JPN}パラボラチャージ{ENG}"),
         .description = COMPOUND_STRING(
             "Damages adjacent Pokémon\n"
             "and heals up by half of it."),
@@ -14791,7 +14791,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FORESTS_CURSE] =
     {
-        .name = COMPOUND_STRING("Forest's Curse"),
+        .name = COMPOUND_STRING("{JPN}もりののろい{ENG}"),
         .description = COMPOUND_STRING(
             "Puts a curse on the foe,\n"
             "adding the Grass type."),
@@ -14815,7 +14815,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PETAL_BLIZZARD] =
     {
-        .name = COMPOUND_STRING("Petal Blizzard"),
+        .name = COMPOUND_STRING("{JPN}はなふぶき{ENG}"),
         .description = COMPOUND_STRING(
             "Stirs up a violent storm\n"
             "of petals to attack all."),
@@ -14837,7 +14837,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FREEZE_DRY] =
     {
-        .name = COMPOUND_STRING("Freeze-Dry"),
+        .name = COMPOUND_STRING("{JPN}フリーズドライ{ENG}"),
         .description = COMPOUND_STRING(
             "Super effective on Water-\n"
         #if B_USE_FROSTBITE == TRUE
@@ -14867,7 +14867,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DISARMING_VOICE] =
     {
-        .name = COMPOUND_STRING("Disarming Voice"),
+        .name = COMPOUND_STRING("{JPN}チャームボイス{ENG}"),
         .description = COMPOUND_STRING(
             "Lets out a charming cry\n"
             "that cannot be evaded."),
@@ -14890,7 +14890,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PARTING_SHOT] =
     {
-        .name = COMPOUND_STRING("Parting Shot"),
+        .name = COMPOUND_STRING("{JPN}すてゼリフ{ENG}"),
         .description = COMPOUND_STRING(
             "Lowers the foe's Attack and\n"
             "Sp. Atk, then switches out."),
@@ -14915,7 +14915,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TOPSY_TURVY] =
     {
-        .name = COMPOUND_STRING("Topsy-Turvy"),
+        .name = COMPOUND_STRING("{JPN}ひっくりかえす{ENG}"),
         .description = COMPOUND_STRING(
             "Swaps all stat changes that\n"
             "affect the target."),
@@ -14938,7 +14938,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAINING_KISS] =
     {
-        .name = COMPOUND_STRING("Draining Kiss"),
+        .name = COMPOUND_STRING("{JPN}ドレインキッス{ENG}"),
         .description = sDrainingKissDescription,
         .effect = EFFECT_ABSORB,
         .power = 50,
@@ -14960,7 +14960,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CRAFTY_SHIELD] =
     {
-        .name = COMPOUND_STRING("Crafty Shield"),
+        .name = COMPOUND_STRING("{JPN}トリックガード{ENG}"),
         .description = COMPOUND_STRING(
             "Evades status moves for\n"
             "one turn."),
@@ -14986,7 +14986,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLOWER_SHIELD] =
     {
-        .name = COMPOUND_STRING("Flower Shield"),
+        .name = COMPOUND_STRING("{JPN}フラワーガード{ENG}"),
         .description = COMPOUND_STRING(
             "Raises the Defense of\n"
             "Grass-type Pokémon."),
@@ -15010,7 +15010,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRASSY_TERRAIN] =
     {
-        .name = COMPOUND_STRING("Grassy Terrain"),
+        .name = COMPOUND_STRING("{JPN}グラスフィールド{ENG}"),
         .description = COMPOUND_STRING(
             "The ground turns to grass\n"
             "for 5 turns. Restores HP."),
@@ -15035,7 +15035,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MISTY_TERRAIN] =
     {
-        .name = COMPOUND_STRING("Misty Terrain"),
+        .name = COMPOUND_STRING("{JPN}ミストフィールド{ENG}"),
         .description = COMPOUND_STRING(
             "Covers the ground with mist\n"
             "for 5 turns. Blocks status."),
@@ -15060,7 +15060,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ELECTRIFY] =
     {
-        .name = COMPOUND_STRING("Electrify"),
+        .name = COMPOUND_STRING("{JPN}そうでん{ENG}"),
         .description = COMPOUND_STRING(
             "Electrifies the foe, making\n"
             "its next move Electric-type."),
@@ -15082,7 +15082,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PLAY_ROUGH] =
     {
-        .name = COMPOUND_STRING("Play Rough"),
+        .name = COMPOUND_STRING("{JPN}じゃれつく{ENG}"),
         .description = COMPOUND_STRING(
             "Plays rough with the foe.\n"
             "May lower Attack."),
@@ -15108,7 +15108,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FAIRY_WIND] =
     {
-        .name = COMPOUND_STRING("Fairy Wind"),
+        .name = COMPOUND_STRING("{JPN}ようせいのかぜ{ENG}"),
         .description = COMPOUND_STRING(
             "Stirs up a fairy wind to\n"
             "strike the foe."),
@@ -15130,7 +15130,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MOONBLAST] =
     {
-        .name = COMPOUND_STRING("Moonblast"),
+        .name = COMPOUND_STRING("{JPN}ムーンフォース{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with the power of\n"
             "the moon. May lower Sp. Atk."),
@@ -15155,7 +15155,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BOOMBURST] =
     {
-        .name = COMPOUND_STRING("Boomburst"),
+        .name = COMPOUND_STRING("{JPN}ばくおんぱ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks everything with a\n"
             "destructive sound wave."),
@@ -15178,7 +15178,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FAIRY_LOCK] =
     {
-        .name = COMPOUND_STRING("Fairy Lock"),
+        .name = COMPOUND_STRING("{JPN}フェアリーロック{ENG}"),
         .description = COMPOUND_STRING(
             "Locks down the battlefield\n"
             "preventing escape next turn."),
@@ -15202,7 +15202,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_KINGS_SHIELD] =
     {
-        .name = COMPOUND_STRING("King's Shield"),
+        .name = COMPOUND_STRING("{JPN}キングシールド{ENG}"),
         .description = COMPOUND_STRING(
         #if B_KINGS_SHIELD_LOWER_ATK >= GEN_8
             "Evades damage, reducing\n"
@@ -15236,7 +15236,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PLAY_NICE] =
     {
-        .name = COMPOUND_STRING("Play Nice"),
+        .name = COMPOUND_STRING("{JPN}なかよくする{ENG}"),
         .description = COMPOUND_STRING(
             "Befriend the foe, lowering\n"
             "its Attack without fail."),
@@ -15261,7 +15261,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CONFIDE] =
     {
-        .name = COMPOUND_STRING("Confide"),
+        .name = COMPOUND_STRING("{JPN}ないしょばなし{ENG}"),
         .description = COMPOUND_STRING(
             "Shares a secret with the\n"
             "foe, lowering Sp. Atk."),
@@ -15287,7 +15287,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DIAMOND_STORM] =
     {
-        .name = COMPOUND_STRING("Diamond Storm"),
+        .name = COMPOUND_STRING("{JPN}ダイヤストーム{ENG}"),
         .description = COMPOUND_STRING(
             "Whips up a storm of\n"
             "diamonds. May up Defense."),
@@ -15314,7 +15314,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STEAM_ERUPTION] =
     {
-        .name = COMPOUND_STRING("Steam Eruption"),
+        .name = COMPOUND_STRING("{JPN}スチームバースト{ENG}"),
         .description = COMPOUND_STRING(
             "Immerses the foe in heated\n"
             "steam. May inflict a burn."),
@@ -15341,7 +15341,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYPERSPACE_HOLE] =
     {
-        .name = COMPOUND_STRING("Hyperspace Hole"),
+        .name = COMPOUND_STRING("{JPN}いじげんホール{ENG}"),
         .description = sHyperspaceHoleDescription,
         .effect = EFFECT_HIT,
         .power = 80,
@@ -15366,7 +15366,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WATER_SHURIKEN] =
     {
-        .name = COMPOUND_STRING("Water Shuriken"),
+        .name = COMPOUND_STRING("{JPN}みずしゅりけん{ENG}"),
         .description = COMPOUND_STRING(
             "Throws 2 to 5 stars that\n"
             "are sure to strike first."),
@@ -15393,7 +15393,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MYSTICAL_FIRE] =
     {
-        .name = COMPOUND_STRING("Mystical Fire"),
+        .name = COMPOUND_STRING("{JPN}マジカルフレイム{ENG}"),
         .description = COMPOUND_STRING(
             "Breathes a special, hot\n"
             "fire. Lowers Sp. Atk."),
@@ -15418,7 +15418,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIKY_SHIELD] =
     {
-        .name = COMPOUND_STRING("Spiky Shield"),
+        .name = COMPOUND_STRING("{JPN}ニードルガード{ENG}"),
         .description = COMPOUND_STRING(
             "Evades attack, and damages\n"
             "the foe if struck."),
@@ -15446,7 +15446,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AROMATIC_MIST] =
     {
-        .name = COMPOUND_STRING("Aromatic Mist"),
+        .name = COMPOUND_STRING("{JPN}アロマミスト{ENG}"),
         .description = COMPOUND_STRING(
             "Raises the Sp. Def of a\n"
             "partner Pokémon."),
@@ -15471,7 +15471,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EERIE_IMPULSE] =
     {
-        .name = COMPOUND_STRING("Eerie Impulse"),
+        .name = COMPOUND_STRING("{JPN}かいでんぱ{ENG}"),
         .description = COMPOUND_STRING(
             "Exposes the foe to a pulse\n"
             "that sharply cuts Sp. Atk."),
@@ -15494,7 +15494,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VENOM_DRENCH] =
     {
-        .name = COMPOUND_STRING("Venom Drench"),
+        .name = COMPOUND_STRING("{JPN}ベノムトラップ{ENG}"),
         .description = COMPOUND_STRING(
             "Lowers the Attack, Sp. Atk\n"
             "and Speed of poisoned foes."),
@@ -15517,7 +15517,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWDER] =
     {
-        .name = COMPOUND_STRING("Powder"),
+        .name = COMPOUND_STRING("{JPN}ふんじん{ENG}"),
         .description = COMPOUND_STRING(
             "Damages the foe if it uses\n"
             "a Fire-type move."),
@@ -15541,7 +15541,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GEOMANCY] =
     {
-        .name = COMPOUND_STRING("Geomancy"),
+        .name = COMPOUND_STRING("{JPN}ジオコントロール{ENG}"),
         .description = COMPOUND_STRING(
             "Raises Sp. Atk, Sp. Def and\n"
             "Speed on the 2nd turn."),
@@ -15567,7 +15567,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGNETIC_FLUX] =
     {
-        .name = COMPOUND_STRING("Magnetic Flux"),
+        .name = COMPOUND_STRING("{JPN}じばそうさ{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts the defenses of\n"
             "those with Plus or Minus."),
@@ -15593,7 +15593,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HAPPY_HOUR] =
     {
-        .name = COMPOUND_STRING("Happy Hour"),
+        .name = COMPOUND_STRING("{JPN}ハッピータイム{ENG}"),
         .description = COMPOUND_STRING(
             "Doubles the amount of\n"
             "Prize Money received."),
@@ -15617,7 +15617,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ELECTRIC_TERRAIN] =
     {
-        .name = COMPOUND_STRING("Electric Terrain"),
+        .name = COMPOUND_STRING("{JPN}エレキフィールド{ENG}"),
         .description = COMPOUND_STRING(
             "Electrifies the ground for\n"
             "5 turns. Prevents sleep."),
@@ -15642,7 +15642,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DAZZLING_GLEAM] =
     {
-        .name = COMPOUND_STRING("Dazzling Gleam"),
+        .name = COMPOUND_STRING("{JPN}マジカルシャイン{ENG}"),
         .description = COMPOUND_STRING(
             "Damages foes by emitting\n"
             "a bright flash."),
@@ -15663,7 +15663,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CELEBRATE] =
     {
-        .name = COMPOUND_STRING("Celebrate"),
+        .name = COMPOUND_STRING("{JPN}おいわい{ENG}"),
         .description = COMPOUND_STRING(
             "Congratulates you on your\n"
             "special day."),
@@ -15693,7 +15693,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HOLD_HANDS] =
     {
-        .name = COMPOUND_STRING("Hold Hands"),
+        .name = COMPOUND_STRING("{JPN}てをつなぐ{ENG}"),
         .description = COMPOUND_STRING(
             "The user and ally hold hands\n"
             "making them happy."),
@@ -15723,7 +15723,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BABY_DOLL_EYES] =
     {
-        .name = COMPOUND_STRING("Baby-Doll Eyes"),
+        .name = COMPOUND_STRING("{JPN}つぶらなひとみ{ENG}"),
         .description = COMPOUND_STRING(
             "Lowers the foe's Attack\n"
             "before it can move."),
@@ -15746,7 +15746,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NUZZLE] =
     {
-        .name = COMPOUND_STRING("Nuzzle"),
+        .name = COMPOUND_STRING("{JPN}ほっぺすりすり{ENG}"),
         .description = COMPOUND_STRING(
             "Rubs its cheeks against\n"
             "the foe, paralyzing it."),
@@ -15772,7 +15772,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HOLD_BACK] =
     {
-        .name = COMPOUND_STRING("Hold Back"),
+        .name = COMPOUND_STRING("{JPN}てかげん{ENG}"),
         .description = sFalseSwipeDescription,
         .effect = EFFECT_FALSE_SWIPE,
         .power = 40,
@@ -15792,7 +15792,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_INFESTATION] =
     {
-        .name = COMPOUND_STRING("Infestation"),
+        .name = COMPOUND_STRING("{JPN}まとわりつく{ENG}"),
         .description = COMPOUND_STRING(
             "The foe is infested and\n"
             "attacked for "BINDING_TURNS" turns."),
@@ -15818,7 +15818,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_UP_PUNCH] =
     {
-        .name = COMPOUND_STRING("Power-Up Punch"),
+        .name = COMPOUND_STRING("{JPN}グロウパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "A hard punch that raises\n"
             "the user's Attack."),
@@ -15846,7 +15846,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OBLIVION_WING] =
     {
-        .name = COMPOUND_STRING("Oblivion Wing"),
+        .name = COMPOUND_STRING("{JPN}デスウイング{ENG}"),
         .description = sDrainingKissDescription,
         .effect = EFFECT_ABSORB,
         .power = 80,
@@ -15867,7 +15867,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THOUSAND_ARROWS] =
     {
-        .name = COMPOUND_STRING("Thousand Arrows"),
+        .name = COMPOUND_STRING("{JPN}サウザンアロー{ENG}"),
         .description = COMPOUND_STRING(
             "Can hit Flying foes, then\n"
             "knocks them to the ground."),
@@ -15892,7 +15892,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THOUSAND_WAVES] =
     {
-        .name = COMPOUND_STRING("Thousand Waves"),
+        .name = COMPOUND_STRING("{JPN}サウザンウェーブ{ENG}"),
         .description = COMPOUND_STRING(
             "Those hit by the wave can\n"
             "no longer escape."),
@@ -15918,7 +15918,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LANDS_WRATH] =
     {
-        .name = COMPOUND_STRING("Land's Wrath"),
+        .name = COMPOUND_STRING("{JPN}グランドフォース{ENG}"),
         .description = COMPOUND_STRING(
             "Gathers the energy of the\n"
             "land to attack every foe."),
@@ -15940,7 +15940,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LIGHT_OF_RUIN] =
     {
-        .name = COMPOUND_STRING("Light Of Ruin"),
+        .name = COMPOUND_STRING("{JPN}はめつのひかり{ENG}"),
         .description = COMPOUND_STRING(
             "Fires a great beam of light\n"
             "that also hurts the user."),
@@ -15963,7 +15963,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ORIGIN_PULSE] =
     {
-        .name = COMPOUND_STRING("Origin Pulse"),
+        .name = COMPOUND_STRING("{JPN}こんげんのはどう{ENG}"),
         .description = COMPOUND_STRING(
             "Beams of glowing blue light\n"
             "blast both foes."),
@@ -15986,7 +15986,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PRECIPICE_BLADES] =
     {
-        .name = COMPOUND_STRING("Precipice Blades"),
+        .name = COMPOUND_STRING("{JPN}だんがいのつるぎ{ENG}"),
         .description = COMPOUND_STRING(
             "Fearsome blades of stone\n"
             "attack both foes."),
@@ -16009,7 +16009,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_ASCENT] =
     {
-        .name = COMPOUND_STRING("Dragon Ascent"),
+        .name = COMPOUND_STRING("{JPN}ガリョウテンセイ{ENG}"),
         .description = sCloseCombatDescription,
         .effect = EFFECT_HIT,
         .power = 120,
@@ -16034,7 +16034,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYPERSPACE_FURY] =
     {
-        .name = COMPOUND_STRING("Hyperspace Fury"),
+        .name = COMPOUND_STRING("{JPN}いじげんラッシュ{ENG}"),
         .description = sHyperspaceHoleDescription,
         .effect = EFFECT_HYPERSPACE_FURY,
         .power = 100,
@@ -16064,7 +16064,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHORE_UP] =
     {
-        .name = COMPOUND_STRING("Shore Up"),
+        .name = COMPOUND_STRING("{JPN}すなあつめ{ENG}"),
         .description = COMPOUND_STRING(
             "Restores the user's HP.\n"
             "More HP in a sandstorm."),
@@ -16090,7 +16090,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIRST_IMPRESSION] =
     {
-        .name = COMPOUND_STRING("First Impression"),
+        .name = COMPOUND_STRING("{JPN}であいがしら{ENG}"),
         .description = COMPOUND_STRING(
             "Hits hard and first.\n"
             "Only works first turn."),
@@ -16113,7 +16113,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BANEFUL_BUNKER] =
     {
-        .name = COMPOUND_STRING("Baneful Bunker"),
+        .name = COMPOUND_STRING("{JPN}トーチカ{ENG}"),
         .description = COMPOUND_STRING(
             "Protects user and poisons\n"
             "foes on contact."),
@@ -16141,7 +16141,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIRIT_SHACKLE] =
     {
-        .name = COMPOUND_STRING("Spirit Shackle"),
+        .name = COMPOUND_STRING("{JPN}かげぬい{ENG}"),
         .description = COMPOUND_STRING(
             "After being hit, foes can\n"
             "no longer escape."),
@@ -16166,7 +16166,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DARKEST_LARIAT] =
     {
-        .name = COMPOUND_STRING("Darkest Lariat"),
+        .name = COMPOUND_STRING("{JPN}DDラリアット{ENG}"),
         .description = COMPOUND_STRING(
             "Swings the arms to strike\n"
             "It ignores stat changes."),
@@ -16189,7 +16189,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPARKLING_ARIA] =
     {
-        .name = COMPOUND_STRING("Sparkling Aria"),
+        .name = COMPOUND_STRING("{JPN}うたかたのアリア{ENG}"),
         .description = COMPOUND_STRING(
             "Sings with bubbles. Cures\n"
             "burns on contact."),
@@ -16217,7 +16217,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_HAMMER] =
     {
-        .name = COMPOUND_STRING("Ice Hammer"),
+        .name = COMPOUND_STRING("{JPN}アイスハンマー{ENG}"),
         .description = COMPOUND_STRING(
             "Swings the fist to strike.\n"
             "Lowers the user's Speed."),
@@ -16244,7 +16244,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLORAL_HEALING] =
     {
-        .name = COMPOUND_STRING("Floral Healing"),
+        .name = COMPOUND_STRING("{JPN}フラワーヒール{ENG}"),
         .description = COMPOUND_STRING(
             "Restores an ally's HP.\n"
             "Heals more on grass."),
@@ -16270,7 +16270,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HIGH_HORSEPOWER] =
     {
-        .name = COMPOUND_STRING("High Horsepower"),
+        .name = COMPOUND_STRING("{JPN}10まんばりき{ENG}"),
         .description = COMPOUND_STRING(
             "Slams hard into the foe with\n"
             "its entire body."),
@@ -16292,7 +16292,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STRENGTH_SAP] =
     {
-        .name = COMPOUND_STRING("Strength Sap"),
+        .name = COMPOUND_STRING("{JPN}ちからをすいとる{ENG}"),
         .description = COMPOUND_STRING(
             "Saps the foe's Attack to\n"
             "heal HP, then drops Attack."),
@@ -16316,7 +16316,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SOLAR_BLADE] =
     {
-        .name = COMPOUND_STRING("Solar Blade"),
+        .name = COMPOUND_STRING("{JPN}ソーラーブレード{ENG}"),
         .description = COMPOUND_STRING(
             "Charges first turn, then\n"
             "chops with a blade of light."),
@@ -16342,7 +16342,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LEAFAGE] =
     {
-        .name = COMPOUND_STRING("Leafage"),
+        .name = COMPOUND_STRING("{JPN}このは{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a flurry of\n"
             "small leaves."),
@@ -16363,7 +16363,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPOTLIGHT] =
     {
-        .name = COMPOUND_STRING("Spotlight"),
+        .name = COMPOUND_STRING("{JPN}スポットライト{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the foe attack the\n"
             "spotlighted Pokémon."),
@@ -16390,7 +16390,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TOXIC_THREAD] =
     {
-        .name = COMPOUND_STRING("Toxic Thread"),
+        .name = COMPOUND_STRING("{JPN}どくのいと{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a thread that\n"
             "poisons and drops Speed."),
@@ -16413,7 +16413,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LASER_FOCUS] =
     {
-        .name = COMPOUND_STRING("Laser Focus"),
+        .name = COMPOUND_STRING("{JPN}とぎすます{ENG}"),
         .description = COMPOUND_STRING(
             "Guarantees the next move\n"
             "will be a critical hit."),
@@ -16438,7 +16438,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GEAR_UP] =
     {
-        .name = COMPOUND_STRING("Gear Up"),
+        .name = COMPOUND_STRING("{JPN}アシストギア{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts the attacks of\n"
             "those with Plus or Minus."),
@@ -16464,7 +16464,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THROAT_CHOP] =
     {
-        .name = COMPOUND_STRING("Throat Chop"),
+        .name = COMPOUND_STRING("{JPN}じごくづき{ENG}"),
         .description = COMPOUND_STRING(
             "Chops the throat to disable\n"
             "sound moves for 2 turns."),
@@ -16490,7 +16490,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POLLEN_PUFF] =
     {
-        .name = COMPOUND_STRING("Pollen Puff"),
+        .name = COMPOUND_STRING("{JPN}かふんだんご{ENG}"),
         .description = COMPOUND_STRING(
             "Explodes on foes, but\n"
             "restores ally's HP."),
@@ -16512,7 +16512,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ANCHOR_SHOT] =
     {
-        .name = COMPOUND_STRING("Anchor Shot"),
+        .name = COMPOUND_STRING("{JPN}アンカーショット{ENG}"),
         .description = COMPOUND_STRING(
             "Strangles the foe with a\n"
             "chain. The foe can't escape."),
@@ -16538,7 +16538,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCHIC_TERRAIN] =
     {
-        .name = COMPOUND_STRING("Psychic Terrain"),
+        .name = COMPOUND_STRING("{JPN}サイコフィールド{ENG}"),
         .description = COMPOUND_STRING(
             "The ground turns weird for\n"
             "5 turns. Blocks priority."),
@@ -16563,7 +16563,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LUNGE] =
     {
-        .name = COMPOUND_STRING("Lunge"),
+        .name = COMPOUND_STRING("{JPN}とびかかる{ENG}"),
         .description = COMPOUND_STRING(
             "Lunges at the foe to lower\n"
             "its Attack stat."),
@@ -16589,7 +16589,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIRE_LASH] =
     {
-        .name = COMPOUND_STRING("Fire Lash"),
+        .name = COMPOUND_STRING("{JPN}ほのおのムチ{ENG}"),
         .description = COMPOUND_STRING(
             "Whips the foe with fire\n"
             "lowering its Defense."),
@@ -16615,7 +16615,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_TRIP] =
     {
-        .name = COMPOUND_STRING("Power Trip"),
+        .name = COMPOUND_STRING("{JPN}つけあがる{ENG}"),
         .description = COMPOUND_STRING(
             "It hits harder the more\n"
             "stat boosts the user has."),
@@ -16637,7 +16637,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BURN_UP] =
     {
-        .name = COMPOUND_STRING("Burn Up"),
+        .name = COMPOUND_STRING("{JPN}もえつきる{ENG}"),
         .description = COMPOUND_STRING(
             "Burns out the user fully\n"
             "removing the Fire type."),
@@ -16664,7 +16664,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPEED_SWAP] =
     {
-        .name = COMPOUND_STRING("Speed Swap"),
+        .name = COMPOUND_STRING("{JPN}スピードスワップ{ENG}"),
         .description = COMPOUND_STRING(
             "Swaps user's Speed with\n"
             "the target's."),
@@ -16687,7 +16687,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SMART_STRIKE] =
     {
-        .name = COMPOUND_STRING("Smart Strike"),
+        .name = COMPOUND_STRING("{JPN}スマートホーン{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with an accurate\n"
             "horn that never misses."),
@@ -16709,7 +16709,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PURIFY] =
     {
-        .name = COMPOUND_STRING("Purify"),
+        .name = COMPOUND_STRING("{JPN}じょうか{ENG}"),
         .description = COMPOUND_STRING(
             "Cures the foe's status\n"
             "to restore HP."),
@@ -16734,7 +16734,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REVELATION_DANCE] =
     {
-        .name = COMPOUND_STRING("Revelation Dance"),
+        .name = COMPOUND_STRING("{JPN}めざめるダンス{ENG}"),
         .description = COMPOUND_STRING(
             "Dances with mystical power.\n"
             "Matches user's first type."),
@@ -16756,7 +16756,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CORE_ENFORCER] =
     {
-        .name = COMPOUND_STRING("Core Enforcer"),
+        .name = COMPOUND_STRING("{JPN}コアパニッシャー{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with a ray that\n"
             "nullifies the foe's Ability."),
@@ -16781,7 +16781,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TROP_KICK] =
     {
-        .name = COMPOUND_STRING("Trop Kick"),
+        .name = COMPOUND_STRING("{JPN}トロピカルキック{ENG}"),
         .description = COMPOUND_STRING(
             "An intense kick from the\n"
             "tropics. Lowers Attack."),
@@ -16807,7 +16807,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_INSTRUCT] =
     {
-        .name = COMPOUND_STRING("Instruct"),
+        .name = COMPOUND_STRING("{JPN}さいはい{ENG}"),
         .description = COMPOUND_STRING(
             "Orders the target to use\n"
             "its last move again."),
@@ -16833,7 +16833,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BEAK_BLAST] =
     {
-        .name = COMPOUND_STRING("Beak Blast"),
+        .name = COMPOUND_STRING("{JPN}くちばしキャノン{ENG}"),
         .description = COMPOUND_STRING(
             "Heats beak to attack last.\n"
             "Burns foe on contact."),
@@ -16862,7 +16862,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CLANGING_SCALES] =
     {
-        .name = COMPOUND_STRING("Clanging Scales"),
+        .name = COMPOUND_STRING("{JPN}スケイルノイズ{ENG}"),
         .description = COMPOUND_STRING(
             "Makes a big noise with\n"
             "its scales. Drops Defense."),
@@ -16889,7 +16889,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_HAMMER] =
     {
-        .name = COMPOUND_STRING("Dragon Hammer"),
+        .name = COMPOUND_STRING("{JPN}ドラゴンハンマー{ENG}"),
         .description = COMPOUND_STRING(
             "Swings its whole body\n"
             "like a hammer to damage."),
@@ -16911,7 +16911,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BRUTAL_SWING] =
     {
-        .name = COMPOUND_STRING("Brutal Swing"),
+        .name = COMPOUND_STRING("{JPN}ぶんまわす{ENG}"),
         .description = COMPOUND_STRING(
             "Violently swings around\n"
             "to hurt everyone nearby."),
@@ -16933,7 +16933,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AURORA_VEIL] =
     {
-        .name = COMPOUND_STRING("Aurora Veil"),
+        .name = COMPOUND_STRING("{JPN}オーロラベール{ENG}"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_SNOW
         .description = COMPOUND_STRING(
             "Weakens all attacks, but\n"
@@ -16968,7 +16968,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHELL_TRAP] =
     {
-        .name = COMPOUND_STRING("Shell Trap"),
+        .name = COMPOUND_STRING("{JPN}トラップシェル{ENG}"),
         .description = COMPOUND_STRING(
             "Sets a shell trap that\n"
             "damages on contact."),
@@ -16996,7 +16996,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLEUR_CANNON] =
     {
-        .name = COMPOUND_STRING("Fleur Cannon"),
+        .name = COMPOUND_STRING("{JPN}フルールカノン{ENG}"),
         .description = COMPOUND_STRING(
             "A strong ray that harshly\n"
             "lowers Sp. Attack."),
@@ -17022,7 +17022,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCHIC_FANGS] =
     {
-        .name = COMPOUND_STRING("Psychic Fangs"),
+        .name = COMPOUND_STRING("{JPN}サイコファング{ENG}"),
         .description = COMPOUND_STRING(
             "Chomps with psychic fangs.\n"
             "Destroys any barriers."),
@@ -17049,7 +17049,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STOMPING_TANTRUM] =
     {
-        .name = COMPOUND_STRING("Stomping Tantrum"),
+        .name = COMPOUND_STRING("{JPN}じだんだ{ENG}"),
         .description = COMPOUND_STRING(
             "Stomps around angrily.\n"
             "Stronger after a failure."),
@@ -17072,7 +17072,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHADOW_BONE] =
     {
-        .name = COMPOUND_STRING("Shadow Bone"),
+        .name = COMPOUND_STRING("{JPN}シャドーボーン{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes with a haunted\n"
             "bone. Might drop Defense."),
@@ -17097,7 +17097,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ACCELEROCK] =
     {
-        .name = COMPOUND_STRING("Accelerock"),
+        .name = COMPOUND_STRING("{JPN}アクセルロック{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with a high-speed\n"
             "rock that always goes first."),
@@ -17119,7 +17119,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LIQUIDATION] =
     {
-        .name = COMPOUND_STRING("Liquidation"),
+        .name = COMPOUND_STRING("{JPN}アクアブレイク{ENG}"),
         .description = COMPOUND_STRING(
             "Slams the foe with water.\n"
             "Can lower Defense."),
@@ -17145,7 +17145,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PRISMATIC_LASER] =
     {
-        .name = COMPOUND_STRING("Prismatic Laser"),
+        .name = COMPOUND_STRING("{JPN}プリズムレーザー{ENG}"),
         .description = COMPOUND_STRING(
             "A high power laser that\n"
             "forces recharge next turn."),
@@ -17170,7 +17170,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPECTRAL_THIEF] =
     {
-        .name = COMPOUND_STRING("Spectral Thief"),
+        .name = COMPOUND_STRING("{JPN}シャドースチール{ENG}"),
         .description = COMPOUND_STRING(
             "Steals the target's stat\n"
             "boosts, then attacks."),
@@ -17198,7 +17198,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUNSTEEL_STRIKE] =
     {
-        .name = COMPOUND_STRING("Sunsteel Strike"),
+        .name = COMPOUND_STRING("{JPN}メテオドライブ{ENG}"),
         .description = COMPOUND_STRING(
             "A sun-fueled strike that\n"
             "ignores abilities."),
@@ -17222,7 +17222,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MOONGEIST_BEAM] =
     {
-        .name = COMPOUND_STRING("Moongeist Beam"),
+        .name = COMPOUND_STRING("{JPN}シャドーレイ{ENG}"),
         .description = COMPOUND_STRING(
             "A moon-powered beam that\n"
             "ignores abilities."),
@@ -17245,7 +17245,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TEARFUL_LOOK] =
     {
-        .name = COMPOUND_STRING("Tearful Look"),
+        .name = COMPOUND_STRING("{JPN}なみだめ{ENG}"),
         .description = COMPOUND_STRING(
             "The user tears up, dropping\n"
             "Attack and Sp. Attack."),
@@ -17269,7 +17269,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ZING_ZAP] =
     {
-        .name = COMPOUND_STRING("Zing Zap"),
+        .name = COMPOUND_STRING("{JPN}びりびりちくちく{ENG}"),
         .description = COMPOUND_STRING(
             "An electrified impact that\n"
             "can cause flinching."),
@@ -17295,7 +17295,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NATURES_MADNESS] =
     {
-        .name = COMPOUND_STRING("Nature's Madness"),
+        .name = COMPOUND_STRING("{JPN}しぜんのいかり{ENG}"),
         .description = COMPOUND_STRING(
             "Halves the foe's HP with\n"
             "the power of nature."),
@@ -17318,7 +17318,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MULTI_ATTACK] =
     {
-        .name = COMPOUND_STRING("Multi-Attack"),
+        .name = COMPOUND_STRING("{JPN}マルチアタック{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that changes\n"
             "with Memories."),
@@ -17341,7 +17341,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIND_BLOWN] =
     {
-        .name = COMPOUND_STRING("Mind Blown"),
+        .name = COMPOUND_STRING("{JPN}ビックリヘッド{ENG}"),
         .description = COMPOUND_STRING(
             "It explodes the user's head\n"
             "to damage everything around."),
@@ -17364,7 +17364,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PLASMA_FISTS] =
     {
-        .name = COMPOUND_STRING("Plasma Fists"),
+        .name = COMPOUND_STRING("{JPN}プラズマフィスト{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with electrical fists.\n"
             "Normal moves turn Electric."),
@@ -17391,7 +17391,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PHOTON_GEYSER] =
     {
-        .name = COMPOUND_STRING("Photon Geyser"),
+        .name = COMPOUND_STRING("{JPN}フォトンゲイザー{ENG}"),
         .description = COMPOUND_STRING(
             "User's highest attack stat\n"
             "determines its category."),
@@ -17414,7 +17414,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ZIPPY_ZAP] =
     {
-        .name = COMPOUND_STRING("Zippy Zap"),
+        .name = COMPOUND_STRING("{JPN}ばちばちアクセル{ENG}"),
         .description = COMPOUND_STRING(
             "Electric bursts always go\n"
             "first and land a critical hit."),
@@ -17441,7 +17441,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPLISHY_SPLASH] =
     {
-        .name = COMPOUND_STRING("Splishy Splash"),
+        .name = COMPOUND_STRING("{JPN}ざぶざぶサーフ{ENG}"),
         .description = COMPOUND_STRING(
             "A huge electrified wave that\n"
             "may paralyze the foes."),
@@ -17464,7 +17464,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLOATY_FALL] =
     {
-        .name = COMPOUND_STRING("Floaty Fall"),
+        .name = COMPOUND_STRING("{JPN}ふわふわフォール{ENG}"),
         .description = COMPOUND_STRING(
             "Floats in air and dives at\n"
             "angle. May cause flinching."),
@@ -17490,7 +17490,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PIKA_PAPOW] =
     {
-        .name = COMPOUND_STRING("Pika Papow"),
+        .name = COMPOUND_STRING("{JPN}ピカピカサンダー{ENG}"),
         .description = COMPOUND_STRING(
             "Pikachu's love increases its\n"
             "power. It never misses."),
@@ -17509,7 +17509,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BOUNCY_BUBBLE] =
     {
-        .name = COMPOUND_STRING("Bouncy Bubble"),
+        .name = COMPOUND_STRING("{JPN}いきいきバブル{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that absorbs\n"
         #if B_UPDATED_MOVE_DATA >= GEN_8
@@ -17534,7 +17534,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BUZZY_BUZZ] =
     {
-        .name = COMPOUND_STRING("Buzzy Buzz"),
+        .name = COMPOUND_STRING("{JPN}びりびりエレキ{ENG}"),
         .description = COMPOUND_STRING(
             "Shoots a jolt of electricity\n"
             "that always paralyzes."),
@@ -17556,7 +17556,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SIZZLY_SLIDE] =
     {
-        .name = COMPOUND_STRING("Sizzly Slide"),
+        .name = COMPOUND_STRING("{JPN}めらめらバーン{ENG}"),
         .description = COMPOUND_STRING(
             "User cloaked in fire charges.\n"
             "Leaves the foe with a burn."),
@@ -17580,7 +17580,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GLITZY_GLOW] =
     {
-        .name = COMPOUND_STRING("Glitzy Glow"),
+        .name = COMPOUND_STRING("{JPN}どばどばオーラ{ENG}"),
         .description = COMPOUND_STRING(
             "Telekinetic force that sets\n"
             "wall, lowering Sp. Atk damage."),
@@ -17602,7 +17602,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BADDY_BAD] =
     {
-        .name = COMPOUND_STRING("Baddy Bad"),
+        .name = COMPOUND_STRING("{JPN}わるわるゾーン{ENG}"),
         .description = COMPOUND_STRING(
             "Acting badly, attacks. Sets\n"
             "wall, lowering Attack damage."),
@@ -17624,7 +17624,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SAPPY_SEED] =
     {
-        .name = COMPOUND_STRING("Sappy Seed"),
+        .name = COMPOUND_STRING("{JPN}すくすくボンバー{ENG}"),
         .description = COMPOUND_STRING(
             "Giant stalk scatters seeds\n"
             "that drain HP every turn."),
@@ -17647,7 +17647,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FREEZY_FROST] =
     {
-        .name = COMPOUND_STRING("Freezy Frost"),
+        .name = COMPOUND_STRING("{JPN}こちこちフロスト{ENG}"),
         .description = COMPOUND_STRING(
             "Crystal from cold haze hits.\n"
             "Eliminates all stat changes."),
@@ -17669,7 +17669,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPARKLY_SWIRL] =
     {
-        .name = COMPOUND_STRING("Sparkly Swirl"),
+        .name = COMPOUND_STRING("{JPN}きらきらストーム{ENG}"),
         .description = COMPOUND_STRING(
             "Wrap foe with whirlwind of\n"
             "scent. Heals party's status."),
@@ -17691,7 +17691,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VEEVEE_VOLLEY] =
     {
-        .name = COMPOUND_STRING("Veevee Volley"),
+        .name = COMPOUND_STRING("{JPN}ブイブイブレイク{ENG}"),
         .description = COMPOUND_STRING(
             "Eevee's love increases its\n"
             "power. It never misses."),
@@ -17711,7 +17711,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOUBLE_IRON_BASH] =
     {
-        .name = COMPOUND_STRING("Double Iron Bash"),
+        .name = COMPOUND_STRING("{JPN}ダブルパンツァー{ENG}"),
         .description = COMPOUND_STRING(
             "The user spins and hits with\n"
             "its arms. May cause flinch."),
@@ -17741,7 +17741,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DYNAMAX_CANNON] =
     {
-        .name = COMPOUND_STRING("Dynamax Cannon"),
+        .name = COMPOUND_STRING("{JPN}ダイマックスほう{ENG}"),
         .description = COMPOUND_STRING(
             "Unleashes core energy.\n"
             "2x against Dynamaxed foes."),
@@ -17771,7 +17771,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SNIPE_SHOT] =
     {
-        .name = COMPOUND_STRING("Snipe Shot"),
+        .name = COMPOUND_STRING("{JPN}ねらいうち{ENG}"),
         .description = COMPOUND_STRING(
             "The user ignores effects\n"
             "that draw in moves."),
@@ -17793,7 +17793,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_JAW_LOCK] =
     {
-        .name = COMPOUND_STRING("Jaw Lock"),
+        .name = COMPOUND_STRING("{JPN}くらいつく{ENG}"),
         .description = COMPOUND_STRING(
             "Prevents the user and\n"
             "the target from escaping."),
@@ -17819,7 +17819,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STUFF_CHEEKS] =
     {
-        .name = COMPOUND_STRING("Stuff Cheeks"),
+        .name = COMPOUND_STRING("{JPN}ほおばる{ENG}"),
         .description = COMPOUND_STRING(
             "Consumes the user's Berry,\n"
             "then sharply raises Def."),
@@ -17843,7 +17843,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NO_RETREAT] =
     {
-        .name = COMPOUND_STRING("No Retreat"),
+        .name = COMPOUND_STRING("{JPN}はいすいのじん{ENG}"),
         .description = COMPOUND_STRING(
             "Raises all of the user's\n"
             "stats but prevents escape."),
@@ -17867,7 +17867,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAR_SHOT] =
     {
-        .name = COMPOUND_STRING("Tar Shot"),
+        .name = COMPOUND_STRING("{JPN}タールショット{ENG}"),
         .description = COMPOUND_STRING(
             "Lowers the foe's Speed and\n"
             "makes it weak to Fire."),
@@ -17889,7 +17889,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGIC_POWDER] =
     {
-        .name = COMPOUND_STRING("Magic Powder"),
+        .name = COMPOUND_STRING("{JPN}まほうのこな{ENG}"),
         .description = COMPOUND_STRING(
             "Magic powder changes the\n"
             "target into a Psychic type."),
@@ -17913,7 +17913,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_DARTS] =
     {
-        .name = COMPOUND_STRING("Dragon Darts"),
+        .name = COMPOUND_STRING("{JPN}ドラゴンアロー{ENG}"),
         .description = COMPOUND_STRING(
             "The user attacks twice. Two\n"
             "targets are hit once each."),
@@ -17936,7 +17936,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TEATIME] =
     {
-        .name = COMPOUND_STRING("Teatime"),
+        .name = COMPOUND_STRING("{JPN}おちゃかい{ENG}"),
         .description = COMPOUND_STRING(
             "All Pokémon have teatime\n"
             "and eat their Berries."),
@@ -17960,7 +17960,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OCTOLOCK] =
     {
-        .name = COMPOUND_STRING("Octolock"),
+        .name = COMPOUND_STRING("{JPN}たこがため{ENG}"),
         .description = COMPOUND_STRING(
             "Traps the foe to lower Def\n"
             "and Sp. Def each turn."),
@@ -17981,7 +17981,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BOLT_BEAK] =
     {
-        .name = COMPOUND_STRING("Bolt Beak"),
+        .name = COMPOUND_STRING("{JPN}でんげきくちばし{ENG}"),
         .description = COMPOUND_STRING(
             "Double power if the user\n"
             "moves before the target."),
@@ -18003,7 +18003,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FISHIOUS_REND] =
     {
-        .name = COMPOUND_STRING("Fishious Rend"),
+        .name = COMPOUND_STRING("{JPN}エラがみ{ENG}"),
         .description = COMPOUND_STRING(
             "Double power if the user\n"
             "moves before the target."),
@@ -18026,7 +18026,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COURT_CHANGE] =
     {
-        .name = COMPOUND_STRING("Court Change"),
+        .name = COMPOUND_STRING("{JPN}コートチェンジ{ENG}"),
         .description = COMPOUND_STRING(
             "The user swaps effects on\n"
             "either side of the field."),
@@ -18048,7 +18048,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CLANGOROUS_SOUL] =
     {
-        .name = COMPOUND_STRING("Clangorous Soul"),
+        .name = COMPOUND_STRING("{JPN}ソウルビート{ENG}"),
         .description = COMPOUND_STRING(
             "The user uses some of its\n"
             "HP to raise all its stats."),
@@ -18075,7 +18075,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BODY_PRESS] =
     {
-        .name = COMPOUND_STRING("Body Press"),
+        .name = COMPOUND_STRING("{JPN}ボディプレス{ENG}"),
         .description = COMPOUND_STRING(
             "Does more damage the\n"
             "higher the user's Def."),
@@ -18099,7 +18099,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DECORATE] =
     {
-        .name = COMPOUND_STRING("Decorate"),
+        .name = COMPOUND_STRING("{JPN}デコレーション{ENG}"),
         .description = COMPOUND_STRING(
             "The user sharply raises\n"
             "the target's Atk and Sp.Atk."),
@@ -18123,7 +18123,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRUM_BEATING] =
     {
-        .name = COMPOUND_STRING("Drum Beating"),
+        .name = COMPOUND_STRING("{JPN}ドラムアタック{ENG}"),
         .description = COMPOUND_STRING(
             "Plays a drum to attack.\n"
             "The foe's Speed is lowered."),
@@ -18149,7 +18149,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SNAP_TRAP] =
     {
-        .name = COMPOUND_STRING("Snap Trap"),
+        .name = COMPOUND_STRING("{JPN}トラバサミ{ENG}"),
         .description = COMPOUND_STRING(
             "Snares the target in a snap\n"
             "trap for four to five turns."),
@@ -18177,7 +18177,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PYRO_BALL] =
     {
-        .name = COMPOUND_STRING("Pyro Ball"),
+        .name = COMPOUND_STRING("{JPN}かえんボール{ENG}"),
         .description = COMPOUND_STRING(
             "Launches a fiery ball at the\n"
             "target. It may cause a burn."),
@@ -18205,7 +18205,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BEHEMOTH_BLADE] =
     {
-        .name = COMPOUND_STRING("Behemoth Blade"),
+        .name = COMPOUND_STRING("{JPN}きょじゅうざん{ENG}"),
         .description = COMPOUND_STRING(
             "Strikes as a sword. Deals 2x\n"
             "damage to Dynamaxed foes."),
@@ -18232,7 +18232,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BEHEMOTH_BASH] =
     {
-        .name = COMPOUND_STRING("Behemoth Bash"),
+        .name = COMPOUND_STRING("{JPN}きょじゅうだん{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks as a shield. Deals 2x\n"
             "damage to Dynamaxed foes."),
@@ -18258,7 +18258,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AURA_WHEEL] =
     {
-        .name = COMPOUND_STRING("Aura Wheel"),
+        .name = COMPOUND_STRING("{JPN}オーラぐるま{ENG}"),
         .description = COMPOUND_STRING(
             "Raises Speed to attack. The\n"
             "Type is based on its form."),
@@ -18285,7 +18285,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BREAKING_SWIPE] =
     {
-        .name = COMPOUND_STRING("Breaking Swipe"),
+        .name = COMPOUND_STRING("{JPN}ワイドブレイカー{ENG}"),
         .description = COMPOUND_STRING(
             "Swings its tail to attack.\n"
             "Lowers the Atk of those hit."),
@@ -18312,7 +18312,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BRANCH_POKE] =
     {
-        .name = COMPOUND_STRING("Branch Poke"),
+        .name = COMPOUND_STRING("{JPN}えだづき{ENG}"),
         .description = COMPOUND_STRING(
             "The user pokes the target\n"
             "with a pointed branch."),
@@ -18335,7 +18335,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OVERDRIVE] =
     {
-        .name = COMPOUND_STRING("Overdrive"),
+        .name = COMPOUND_STRING("{JPN}オーバードライブ{ENG}"),
         .description = COMPOUND_STRING(
             "The user twangs its guitar,\n"
             "causing strong vibrations."),
@@ -18359,7 +18359,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_APPLE_ACID] =
     {
-        .name = COMPOUND_STRING("Apple Acid"),
+        .name = COMPOUND_STRING("{JPN}りんごさん{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with tart apple acid\n"
             "to lower the foe's Sp. Def."),
@@ -18385,7 +18385,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRAV_APPLE] =
     {
-        .name = COMPOUND_STRING("Grav Apple"),
+        .name = COMPOUND_STRING("{JPN}Gのちから{ENG}"),
         .description = COMPOUND_STRING(
             "Drops an apple from above.\n"
             "Lowers the foe's Defense."),
@@ -18411,7 +18411,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIRIT_BREAK] =
     {
-        .name = COMPOUND_STRING("Spirit Break"),
+        .name = COMPOUND_STRING("{JPN}ソウルクラッシュ{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with spirit-breaking\n"
             "force. Lowers Sp. Atk."),
@@ -18438,7 +18438,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STRANGE_STEAM] =
     {
-        .name = COMPOUND_STRING("Strange Steam"),
+        .name = COMPOUND_STRING("{JPN}ワンダースチーム{ENG}"),
         .description = COMPOUND_STRING(
             "Emits a strange steam to\n"
             "potentially confuse the foe."),
@@ -18464,7 +18464,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LIFE_DEW] =
     {
-        .name = COMPOUND_STRING("Life Dew"),
+        .name = COMPOUND_STRING("{JPN}いのちのしずく{ENG}"),
         .description = COMPOUND_STRING(
             "Scatters water to restore\n"
             "the HP of itself and allies."),
@@ -18491,7 +18491,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_OBSTRUCT] =
     {
-        .name = COMPOUND_STRING("Obstruct"),
+        .name = COMPOUND_STRING("{JPN}ブロッキング{ENG}"),
         .description = COMPOUND_STRING(
             "Protects itself, harshly\n"
             "lowering Def on contact."),
@@ -18517,7 +18517,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FALSE_SURRENDER] =
     {
-        .name = COMPOUND_STRING("False Surrender"),
+        .name = COMPOUND_STRING("{JPN}どげざつき{ENG}"),
         .description = COMPOUND_STRING(
             "Bows to stab the foe\n"
             "with hair. It never misses."),
@@ -18540,7 +18540,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_METEOR_ASSAULT] =
     {
-        .name = COMPOUND_STRING("Meteor Assault"),
+        .name = COMPOUND_STRING("{JPN}スターアサルト{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with a thick leek.\n"
             "The user must then rest."),
@@ -18567,7 +18567,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ETERNABEAM] =
     {
-        .name = COMPOUND_STRING("Eternabeam"),
+        .name = COMPOUND_STRING("{JPN}ムゲンダイビーム{ENG}"),
         .description = COMPOUND_STRING(
             "Eternatus' strongest move.\n"
             "The user rests next turn."),
@@ -18593,7 +18593,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STEEL_BEAM] =
     {
-        .name = COMPOUND_STRING("Steel Beam"),
+        .name = COMPOUND_STRING("{JPN}てっていこうせん{ENG}"),
         .description = COMPOUND_STRING(
             "Fires a beam of steel from\n"
             "its body. It hurts the user."),
@@ -18615,7 +18615,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EXPANDING_FORCE] =
     {
-        .name = COMPOUND_STRING("Expanding Force"),
+        .name = COMPOUND_STRING("{JPN}ワイドフォース{ENG}"),
         .description = COMPOUND_STRING(
             "Power goes up and damages\n"
             "all foes on Psychic Terrain."),
@@ -18642,7 +18642,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STEEL_ROLLER] =
     {
-        .name = COMPOUND_STRING("Steel Roller"),
+        .name = COMPOUND_STRING("{JPN}アイアンローラー{ENG}"),
         .description = COMPOUND_STRING(
             "Destroys terrain. Fails if\n"
             "ground isn't terrain."),
@@ -18665,7 +18665,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SCALE_SHOT] =
     {
-        .name = COMPOUND_STRING("Scale Shot"),
+        .name = COMPOUND_STRING("{JPN}スケイルショット{ENG}"),
         .description = COMPOUND_STRING(
             "Shoots scales 2 to 5 times.\n"
             "Ups Speed, lowers defense."),
@@ -18690,7 +18690,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_METEOR_BEAM] =
     {
-        .name = COMPOUND_STRING("Meteor Beam"),
+        .name = COMPOUND_STRING("{JPN}メテオビーム{ENG}"),
         .description = COMPOUND_STRING(
             "A 2-turn move that raises\n"
             "Sp. Attack before attacking."),
@@ -18719,7 +18719,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHELL_SIDE_ARM] =
     {
-        .name = COMPOUND_STRING("Shell Side Arm"),
+        .name = COMPOUND_STRING("{JPN}シェルアームズ{ENG}"),
         .description = COMPOUND_STRING(
             "Deals better of physical and\n"
             "special damage. May poison."),
@@ -18744,7 +18744,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MISTY_EXPLOSION] =
     {
-        .name = COMPOUND_STRING("Misty Explosion"),
+        .name = COMPOUND_STRING("{JPN}ミストバースト{ENG}"),
         .description = COMPOUND_STRING(
             "Hit everything and faint.\n"
             "Powers up on Misty Terrain."),
@@ -18772,7 +18772,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GRASSY_GLIDE] =
     {
-        .name = COMPOUND_STRING("Grassy Glide"),
+        .name = COMPOUND_STRING("{JPN}グラススライダー{ENG}"),
         .description = COMPOUND_STRING(
             "Gliding on ground, hits. Goes\n"
             "first on Grassy Terrain."),
@@ -18795,7 +18795,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RISING_VOLTAGE] =
     {
-        .name = COMPOUND_STRING("Rising Voltage"),
+        .name = COMPOUND_STRING("{JPN}ライジングボルト{ENG}"),
         .description = COMPOUND_STRING(
             "This move's power doubles\n"
             "when on Electric Terrain."),
@@ -18821,7 +18821,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TERRAIN_PULSE] =
     {
-        .name = COMPOUND_STRING("Terrain Pulse"),
+        .name = COMPOUND_STRING("{JPN}だいちのはどう{ENG}"),
         .description = COMPOUND_STRING(
             "Type and power changes\n"
             "depending on the terrain."),
@@ -18843,7 +18843,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SKITTER_SMACK] =
     {
-        .name = COMPOUND_STRING("Skitter Smack"),
+        .name = COMPOUND_STRING("{JPN}はいよるいちげき{ENG}"),
         .description = COMPOUND_STRING(
             "User skitters behind foe to\n"
             "attack. Lowers foe's Sp. Atk."),
@@ -18869,7 +18869,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BURNING_JEALOUSY] =
     {
-        .name = COMPOUND_STRING("Burning Jealousy"),
+        .name = COMPOUND_STRING("{JPN}しっとのほのお{ENG}"),
         .description = COMPOUND_STRING(
             "Foes that have stats upped\n"
             "during the turn get burned."),
@@ -18895,7 +18895,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LASH_OUT] =
     {
-        .name = COMPOUND_STRING("Lash Out"),
+        .name = COMPOUND_STRING("{JPN}うっぷんばらし{ENG}"),
         .description = COMPOUND_STRING(
             "If user's stats were lowered\n"
             "this turn, power is doubled."),
@@ -18917,7 +18917,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POLTERGEIST] =
     {
-        .name = COMPOUND_STRING("Poltergeist"),
+        .name = COMPOUND_STRING("{JPN}ポルターガイスト{ENG}"),
         .description = COMPOUND_STRING(
             "Control foe's item to attack.\n"
             "Fails if foe has no item."),
@@ -18938,7 +18938,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CORROSIVE_GAS] =
     {
-        .name = COMPOUND_STRING("Corrosive Gas"),
+        .name = COMPOUND_STRING("{JPN}ふしょくガス{ENG}"),
         .description = COMPOUND_STRING(
             "Highly acidic gas melts items\n"
             "held by surrounding Pokémon."),
@@ -18960,7 +18960,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COACHING] =
     {
-        .name = COMPOUND_STRING("Coaching"),
+        .name = COMPOUND_STRING("{JPN}コーチング{ENG}"),
         .description = COMPOUND_STRING(
             "Properly coaches allies to\n"
             "up their Attack and Defense."),
@@ -18984,7 +18984,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLIP_TURN] =
     {
-        .name = COMPOUND_STRING("Flip Turn"),
+        .name = COMPOUND_STRING("{JPN}クイックターン{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks and rushes back to\n"
             "switch with a party Pokémon."),
@@ -19006,7 +19006,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRIPLE_AXEL] =
     {
-        .name = COMPOUND_STRING("Triple Axel"),
+        .name = COMPOUND_STRING("{JPN}トリプルアクセル{ENG}"),
         .description = COMPOUND_STRING(
             "A 3-kick attack that gets\n"
             "more powerful with each hit."),
@@ -19029,7 +19029,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DUAL_WINGBEAT] =
     {
-        .name = COMPOUND_STRING("Dual Wingbeat"),
+        .name = COMPOUND_STRING("{JPN}ダブルウイング{ENG}"),
         .description = COMPOUND_STRING(
             "User slams the target with\n"
             "wings and hits twice in a row."),
@@ -19052,7 +19052,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SCORCHING_SANDS] =
     {
-        .name = COMPOUND_STRING("Scorching Sands"),
+        .name = COMPOUND_STRING("{JPN}ねっさのだいち{ENG}"),
         .description = COMPOUND_STRING(
             "Throws scorching sand at\n"
             "the target. May leave a burn."),
@@ -19078,7 +19078,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_JUNGLE_HEALING] =
     {
-        .name = COMPOUND_STRING("Jungle Healing"),
+        .name = COMPOUND_STRING("{JPN}ジャングルヒール{ENG}"),
         .description = COMPOUND_STRING(
             "Heals HP and status of\n"
             "itself and allies in battle."),
@@ -19104,7 +19104,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WICKED_BLOW] =
     {
-        .name = COMPOUND_STRING("Wicked Blow"),
+        .name = COMPOUND_STRING("{JPN}あんこくきょうだ{ENG}"),
         .description = COMPOUND_STRING(
             "Mastering the Dark style,\n"
             "strikes with a critical hit."),
@@ -19129,7 +19129,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SURGING_STRIKES] =
     {
-        .name = COMPOUND_STRING("Surging Strikes"),
+        .name = COMPOUND_STRING("{JPN}すいりゅうれんだ{ENG}"),
         .description = COMPOUND_STRING(
             "Mastering the Water style,\n"
             "strikes with 3 critical hits."),
@@ -19155,7 +19155,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDER_CAGE] =
     {
-        .name = COMPOUND_STRING("Thunder Cage"),
+        .name = COMPOUND_STRING("{JPN}サンダープリズン{ENG}"),
         .description = COMPOUND_STRING(
             "Traps the foe in a cage of\n"
             "electricity for "BINDING_TURNS" turns."),
@@ -19181,7 +19181,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_ENERGY] =
     {
-        .name = COMPOUND_STRING("Dragon Energy"),
+        .name = COMPOUND_STRING("{JPN}ドラゴンエナジー{ENG}"),
         .description = COMPOUND_STRING(
             "The higher the user's HP\n"
             "the more damage caused."),
@@ -19203,7 +19203,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FREEZING_GLARE] =
     {
-        .name = COMPOUND_STRING("Freezing Glare"),
+        .name = COMPOUND_STRING("{JPN}いてつくしせん{ENG}"),
         .description = COMPOUND_STRING(
             "Shoots psychic power from\n"
         #if B_USE_FROSTBITE == TRUE
@@ -19233,7 +19233,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FIERY_WRATH] =
     {
-        .name = COMPOUND_STRING("Fiery Wrath"),
+        .name = COMPOUND_STRING("{JPN}もえあがるいかり{ENG}"),
         .description = COMPOUND_STRING(
             "An attack fueled by your\n"
             "wrath. May cause flinching."),
@@ -19259,7 +19259,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDEROUS_KICK] =
     {
-        .name = COMPOUND_STRING("Thunderous Kick"),
+        .name = COMPOUND_STRING("{JPN}らいめいげり{ENG}"),
         .description = COMPOUND_STRING(
             "Uses a lightning-like kick\n"
             "to hit. Lowers foe's Defense."),
@@ -19286,7 +19286,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GLACIAL_LANCE] =
     {
-        .name = COMPOUND_STRING("Glacial Lance"),
+        .name = COMPOUND_STRING("{JPN}ブリザードランス{ENG}"),
         .description = COMPOUND_STRING(
             "Hurls a blizzard-cloaked\n"
             "icicle lance at foes."),
@@ -19308,7 +19308,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ASTRAL_BARRAGE] =
     {
-        .name = COMPOUND_STRING("Astral Barrage"),
+        .name = COMPOUND_STRING("{JPN}アストラルビット{ENG}"),
         .description = COMPOUND_STRING(
             "Sends a frightful amount\n"
             "of small ghosts at foes."),
@@ -19330,7 +19330,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_EERIE_SPELL] =
     {
-        .name = COMPOUND_STRING("Eerie Spell"),
+        .name = COMPOUND_STRING("{JPN}ぶきみなじゅもん{ENG}"),
         .description = COMPOUND_STRING(
             "Attacks with psychic power.\n"
             "Foe's last move has 3 PP cut."),
@@ -19357,7 +19357,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DIRE_CLAW] =
     {
-        .name = COMPOUND_STRING("Dire Claw"),
+        .name = COMPOUND_STRING("{JPN}フェイタルクロー{ENG}"),
         .description = COMPOUND_STRING(
             "May poison, paralyze, or\n"
             "put the foe to sleep."),
@@ -19379,7 +19379,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYSHIELD_BASH] =
     {
-        .name = COMPOUND_STRING("Psyshield Bash"),
+        .name = COMPOUND_STRING("{JPN}バリアーラッシュ{ENG}"),
         .description = COMPOUND_STRING(
             "Hits a foe with psychic\n"
             "energy. May raise Defense."),
@@ -19402,7 +19402,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POWER_SHIFT] =
     {
-        .name = COMPOUND_STRING("Power Shift"),
+        .name = COMPOUND_STRING("{JPN}パワーシフト{ENG}"),
         .description = COMPOUND_STRING(
             "The user swaps its Attack\n"
             "and Defense stats."),
@@ -19423,7 +19423,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_STONE_AXE] =
     {
-        .name = COMPOUND_STRING("Stone Axe"),
+        .name = COMPOUND_STRING("{JPN}がんせきアックス{ENG}"),
         .description = COMPOUND_STRING(
             "Hits and sets floating\n"
             "stones around foes."),
@@ -19445,7 +19445,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPRINGTIDE_STORM] =
     {
-        .name = COMPOUND_STRING("Springtide Storm"),
+        .name = COMPOUND_STRING("{JPN}はるのあらし{ENG}"),
         .description = COMPOUND_STRING(
             "Wraps a foe in fierce winds.\n"
             "Varies with the user's form."),
@@ -19468,7 +19468,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MYSTICAL_POWER] =
     {
-        .name = COMPOUND_STRING("Mystical Power"),
+        .name = COMPOUND_STRING("{JPN}しんぴのちから{ENG}"),
         .description = COMPOUND_STRING(
             "A mysterious power strikes,\n"
             "raising the user's Sp. Atk."),
@@ -19490,7 +19490,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAGING_FURY] =
     {
-        .name = COMPOUND_STRING("Raging Fury"),
+        .name = COMPOUND_STRING("{JPN}だいふんげき{ENG}"),
         .description = COMPOUND_STRING(
             "A rampage of 2 to 3 turns\n"
             "that confuses the user."),
@@ -19515,7 +19515,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WAVE_CRASH] =
     {
-        .name = COMPOUND_STRING("Wave Crash"),
+        .name = COMPOUND_STRING("{JPN}ウェーブタックル{ENG}"),
         .description = COMPOUND_STRING(
             "A slam shrouded in water.\n"
             "It also hurts the user."),
@@ -19538,7 +19538,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHLOROBLAST] =
     {
-        .name = COMPOUND_STRING("Chloroblast"),
+        .name = COMPOUND_STRING("{JPN}クロロブラスト{ENG}"),
         .description = COMPOUND_STRING(
             "A user-hurting blast of\n"
             "amassed chlorophyll."),
@@ -19555,7 +19555,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MOUNTAIN_GALE] =
     {
-        .name = COMPOUND_STRING("Mountain Gale"),
+        .name = COMPOUND_STRING("{JPN}ひょうざんおろし{ENG}"),
         .description = COMPOUND_STRING(
             "Giant chunks of ice damage\n"
             "the foe. It may flinch."),
@@ -19576,7 +19576,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_VICTORY_DANCE] =
     {
-        .name = COMPOUND_STRING("Victory Dance"),
+        .name = COMPOUND_STRING("{JPN}しょうりのまい{ENG}"),
         .description = COMPOUND_STRING(
             "Dances to raise Attack,\n"
             "Defense and Speed."),
@@ -19600,7 +19600,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HEADLONG_RUSH] =
     {
-        .name = COMPOUND_STRING("Headlong Rush"),
+        .name = COMPOUND_STRING("{JPN}ぶちかまし{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with a full-body tackle.\n"
             "Lowers the users's defenses."),
@@ -19626,7 +19626,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BARB_BARRAGE] =
     {
-        .name = COMPOUND_STRING("Barb Barrage"),
+        .name = COMPOUND_STRING("{JPN}どくばりセンボン{ENG}"),
         .description = COMPOUND_STRING(
             "Can poison on impact. Powers\n"
             "up against poisoned foes."),
@@ -19648,7 +19648,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ESPER_WING] =
     {
-        .name = COMPOUND_STRING("Esper Wing"),
+        .name = COMPOUND_STRING("{JPN}オーラウイング{ENG}"),
         .description = COMPOUND_STRING(
             "High critical hit ratio.\n"
             "Ups the user's Speed."),
@@ -19671,7 +19671,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BITTER_MALICE] =
     {
-        .name = COMPOUND_STRING("Bitter Malice"),
+        .name = COMPOUND_STRING("{JPN}うらみつらみ{ENG}"),
         .description = COMPOUND_STRING(
             "A spine-chilling resentment.\n"
             "Lowers the foe's Attack."),
@@ -19692,7 +19692,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHELTER] =
     {
-        .name = COMPOUND_STRING("Shelter"),
+        .name = COMPOUND_STRING("{JPN}たてこもる{ENG}"),
         .description = COMPOUND_STRING(
             "The user hardens their skin,\n"
             "sharply raising its Defense."),
@@ -19712,7 +19712,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRIPLE_ARROWS] =
     {
-        .name = COMPOUND_STRING("Triple Arrows"),
+        .name = COMPOUND_STRING("{JPN}3ぼんのや{ENG}"),
         .description = COMPOUND_STRING(
             "High critical hit ratio.\n"
             "May lower Defense or flinch."),
@@ -19738,7 +19738,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_INFERNAL_PARADE] =
     {
-        .name = COMPOUND_STRING("Infernal Parade"),
+        .name = COMPOUND_STRING("{JPN}ひゃっきやこう{ENG}"),
         .description = COMPOUND_STRING(
             "Hurts a foe harder if it has\n"
             "an ailment. May leave a burn."),
@@ -19782,7 +19782,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLEAKWIND_STORM] =
     {
-        .name = COMPOUND_STRING("Bleakwind Storm"),
+        .name = COMPOUND_STRING("{JPN}こがらしあらし{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with brutal, cold winds.\n"
             "May lower the foe's Speed."),
@@ -19805,7 +19805,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WILDBOLT_STORM] =
     {
-        .name = COMPOUND_STRING("Wildbolt Storm"),
+        .name = COMPOUND_STRING("{JPN}かみなりあらし{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with a brutal tempest.\n"
             "May inflict paralysis."),
@@ -19828,7 +19828,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SANDSEAR_STORM] =
     {
-        .name = COMPOUND_STRING("Sandsear Storm"),
+        .name = COMPOUND_STRING("{JPN}ねっさのあらし{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with brutally hot sand.\n"
             "May inflict a burn."),
@@ -19851,7 +19851,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LUNAR_BLESSING] =
     {
-        .name = COMPOUND_STRING("Lunar Blessing"),
+        .name = COMPOUND_STRING("{JPN}みかづきのいのり{ENG}"),
         .description = COMPOUND_STRING(
             "The user heals and cures\n"
             "itself and its ally."),
@@ -19872,7 +19872,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TAKE_HEART] =
     {
-        .name = COMPOUND_STRING("Take Heart"),
+        .name = COMPOUND_STRING("{JPN}ブレイブチャージ{ENG}"),
         .description = COMPOUND_STRING(
             "The user lifts its spirits to\n"
             "heal and strengthen itself."),
@@ -19892,7 +19892,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TERA_BLAST] =
     {
-        .name = COMPOUND_STRING("Tera Blast"),
+        .name = COMPOUND_STRING("{JPN}テラバースト{ENG}"),
         .description = COMPOUND_STRING(
             "If the user's Terastallized,\n"
             "it hits with its Tera type."),
@@ -19914,7 +19914,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SILK_TRAP] =
     {
-        .name = COMPOUND_STRING("Silk Trap"),
+        .name = COMPOUND_STRING("{JPN}スレッドトラップ{ENG}"),
         .description = COMPOUND_STRING(
             "Protects itself, lowering\n"
             "Speed on contact."),
@@ -19935,7 +19935,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AXE_KICK] =
     {
-        .name = COMPOUND_STRING("Axe Kick"),
+        .name = COMPOUND_STRING("{JPN}かかとおとし{ENG}"),
         .description = COMPOUND_STRING(
             "May miss and hurt the kicker.\n"
             "May cause confusion."),
@@ -19957,7 +19957,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LAST_RESPECTS] =
     {
-        .name = COMPOUND_STRING("Last Respects"),
+        .name = COMPOUND_STRING("{JPN}おはかまいり{ENG}"),
         .description = COMPOUND_STRING(
             "This move deals more damage\n"
             "for each defeated ally."),
@@ -19974,7 +19974,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_LUMINA_CRASH] =
     {
-        .name = COMPOUND_STRING("Lumina Crash"),
+        .name = COMPOUND_STRING("{JPN}ルミナコリジョン{ENG}"),
         .description = COMPOUND_STRING(
             "A mind-affecting light\n"
             "harshly lowers Sp. Def."),
@@ -19995,7 +19995,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ORDER_UP] =
     {
-        .name = COMPOUND_STRING("Order Up"),
+        .name = COMPOUND_STRING("{JPN}いっちょうあがり{ENG}"),
         .description = COMPOUND_STRING(
             "Boosts a user's stats\n"
             "depending on Tatsugiri."),
@@ -20019,7 +20019,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_JET_PUNCH] =
     {
-        .name = COMPOUND_STRING("Jet Punch"),
+        .name = COMPOUND_STRING("{JPN}ジェットパンチ{ENG}"),
         .description = COMPOUND_STRING(
             "A punch is thrown at blinding\n"
             "speed to strike first."),
@@ -20042,7 +20042,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPICY_EXTRACT] =
     {
-        .name = COMPOUND_STRING("Spicy Extract"),
+        .name = COMPOUND_STRING("{JPN}ハバネロエキス{ENG}"),
         .description = COMPOUND_STRING(
             "Sharply ups target's Attack,\n"
             "harshly lowers its Defense."),
@@ -20061,7 +20061,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SPIN_OUT] =
     {
-        .name = COMPOUND_STRING("Spin Out"),
+        .name = COMPOUND_STRING("{JPN}ホイールスピン{ENG}"),
         .description = COMPOUND_STRING(
             "Furiously strains its legs.\n"
             "Harshly lowers user's Speed."),
@@ -20084,7 +20084,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POPULATION_BOMB] =
     {
-        .name = COMPOUND_STRING("Population Bomb"),
+        .name = COMPOUND_STRING("{JPN}ネズミざん{ENG}"),
         .description = COMPOUND_STRING(
             "The user's fellows hit one\n"
             "to ten times in a row."),
@@ -20105,7 +20105,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ICE_SPINNER] =
     {
-        .name = COMPOUND_STRING("Ice Spinner"),
+        .name = COMPOUND_STRING("{JPN}アイススピナー{ENG}"),
         .description = COMPOUND_STRING(
             "Ice-covered feet hit a foe\n"
             "and destroy the terrain."),
@@ -20124,7 +20124,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GLAIVE_RUSH] =
     {
-        .name = COMPOUND_STRING("Glaive Rush"),
+        .name = COMPOUND_STRING("{JPN}きょけんとつげき{ENG}"),
         .description = COMPOUND_STRING(
             "Foe attacks next turn can't\n"
             "miss and do double damage."),
@@ -20146,7 +20146,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_REVIVAL_BLESSING] =
     {
-        .name = COMPOUND_STRING("Revival Blessing"),
+        .name = COMPOUND_STRING("{JPN}さいきのいのり{ENG}"),
         .description = COMPOUND_STRING(
             "Revives a fainted party {PKMN}\n"
             "and restores half of its HP."),
@@ -20168,7 +20168,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SALT_CURE] =
     {
-        .name = COMPOUND_STRING("Salt Cure"),
+        .name = COMPOUND_STRING("{JPN}しおづけ{ENG}"),
         .description = COMPOUND_STRING(
             "Hurts foe every turn. Double\n"
             "damage to Steel and Water."),
@@ -20190,7 +20190,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRIPLE_DIVE] =
     {
-        .name = COMPOUND_STRING("Triple Dive"),
+        .name = COMPOUND_STRING("{JPN}トリプルダイブ{ENG}"),
         .description = COMPOUND_STRING(
             "Hits target with splashes\n"
             "of water 3 times in a row."),
@@ -20209,7 +20209,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MORTAL_SPIN] =
     {
-        .name = COMPOUND_STRING("Mortal Spin"),
+        .name = COMPOUND_STRING("{JPN}キラースピン{ENG}"),
         .description = COMPOUND_STRING(
             "Erases trap moves and Leech\n"
             "Seed. Poisons adjacent foes."),
@@ -20231,7 +20231,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOODLE] =
     {
-        .name = COMPOUND_STRING("Doodle"),
+        .name = COMPOUND_STRING("{JPN}うつしえ{ENG}"),
         .description = COMPOUND_STRING(
             "Changes user's and ally's\n"
             "Ability into the target's."),
@@ -20251,7 +20251,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FILLET_AWAY] =
     {
-        .name = COMPOUND_STRING("Fillet Away"),
+        .name = COMPOUND_STRING("{JPN}みをけずる{ENG}"),
         .description = COMPOUND_STRING(
             "Sharply boosts offenses and\n"
             "Speed by using its own HP."),
@@ -20273,7 +20273,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_KOWTOW_CLEAVE] =
     {
-        .name = COMPOUND_STRING("Kowtow Cleave"),
+        .name = COMPOUND_STRING("{JPN}ドゲザン{ENG}"),
         .description = COMPOUND_STRING(
             "User slashes the foe after\n"
             "kowtowing. It never misses."),
@@ -20292,7 +20292,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FLOWER_TRICK] =
     {
-        .name = COMPOUND_STRING("Flower Trick"),
+        .name = COMPOUND_STRING("{JPN}トリックフラワー{ENG}"),
         .description = COMPOUND_STRING(
             "Rigged bouquet. Always gets\n"
             "a critical hit, never missing."),
@@ -20310,7 +20310,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TORCH_SONG] =
     {
-        .name = COMPOUND_STRING("Torch Song"),
+        .name = COMPOUND_STRING("{JPN}フレアソング{ENG}"),
         .description = COMPOUND_STRING(
             "Flames scorch the target.\n"
             "Boosts the user's Sp. Atk."),
@@ -20334,7 +20334,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AQUA_STEP] =
     {
-        .name = COMPOUND_STRING("Aqua Step"),
+        .name = COMPOUND_STRING("{JPN}アクアステップ{ENG}"),
         .description = COMPOUND_STRING(
             "Hits with light, fluid dance\n"
             "steps. Ups the user's Speed."),
@@ -20358,7 +20358,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAGING_BULL] =
     {
-        .name = COMPOUND_STRING("Raging Bull"),
+        .name = COMPOUND_STRING("{JPN}レイジングブル{ENG}"),
         .description = COMPOUND_STRING(
             "Tackle that breaks barriers.\n"
             "User's form determines type."),
@@ -20381,7 +20381,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAKE_IT_RAIN] =
     {
-        .name = COMPOUND_STRING("Make It Rain"),
+        .name = COMPOUND_STRING("{JPN}ゴールドラッシュ{ENG}"),
         .description = COMPOUND_STRING(
             "Lowers the user's Sp. Atk.\n"
             "Money is recovered after."),
@@ -20406,7 +20406,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RUINATION] =
     {
-        .name = COMPOUND_STRING("Ruination"),
+        .name = COMPOUND_STRING("{JPN}カタストロフィ{ENG}"),
         .description = COMPOUND_STRING(
             "Summons a ruinous disaster\n"
             "and cuts half the foe's HP."),
@@ -20428,7 +20428,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COLLISION_COURSE] =
     {
-        .name = COMPOUND_STRING("Collision Course"),
+        .name = COMPOUND_STRING("{JPN}アクセルブレイク{ENG}"),
         .description = COMPOUND_STRING(
             "Prehistoric explosion that's\n"
             "stronger if super effective."),
@@ -20447,7 +20447,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ELECTRO_DRIFT] =
     {
-        .name = COMPOUND_STRING("Electro Drift"),
+        .name = COMPOUND_STRING("{JPN}イナズマドライブ{ENG}"),
         .description = COMPOUND_STRING(
             "Futuristic electricity. It's\n"
             "stronger if super effective."),
@@ -20466,7 +20466,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SHED_TAIL] =
     {
-        .name = COMPOUND_STRING("Shed Tail"),
+        .name = COMPOUND_STRING("{JPN}しっぽきり{ENG}"),
         .description = COMPOUND_STRING(
             "Creates a Substitute for\n"
             "itself before switching out."),
@@ -20487,7 +20487,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHILLY_RECEPTION] =
     {
-        .name = COMPOUND_STRING("Chilly Reception"),
+        .name = COMPOUND_STRING("{JPN}さむいギャグ{ENG}"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_HAIL
         .description = COMPOUND_STRING(
             "Bad joke summons hailstorm.\n"
@@ -20515,7 +20515,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TIDY_UP] =
     {
-        .name = COMPOUND_STRING("Tidy Up"),
+        .name = COMPOUND_STRING("{JPN}おかたづけ{ENG}"),
         .description = COMPOUND_STRING(
             "User tidies up hazards and\n"
             "raises its Attack and Speed."),
@@ -20535,7 +20535,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SNOWSCAPE] =
     {
-        .name = COMPOUND_STRING("Snowscape"),
+        .name = COMPOUND_STRING("{JPN}ゆきげしき{ENG}"),
         #if B_PREFERRED_ICE_WEATHER == B_ICE_WEATHER_HAIL
             .description = COMPOUND_STRING(
                 "Summons a hailstorm that\n"
@@ -20567,7 +20567,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_POUNCE] =
     {
-        .name = COMPOUND_STRING("Pounce"),
+        .name = COMPOUND_STRING("{JPN}とびつく{ENG}"),
         .description = COMPOUND_STRING(
             "The user pounces on the foe,\n"
             "lowering its Speed."),
@@ -20590,7 +20590,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TRAILBLAZE] =
     {
-        .name = COMPOUND_STRING("Trailblaze"),
+        .name = COMPOUND_STRING("{JPN}くさわけ{ENG}"),
         .description = COMPOUND_STRING(
             "The user attacks suddenly,\n"
             "raising its Speed."),
@@ -20617,7 +20617,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_CHILLING_WATER] =
     {
-        .name = COMPOUND_STRING("Chilling Water"),
+        .name = COMPOUND_STRING("{JPN}ひやみず{ENG}"),
         .description = COMPOUND_STRING(
             "A shower with ice-cold water\n"
             "lowers the target's Attack."),
@@ -20642,7 +20642,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYPER_DRILL] =
     {
-        .name = COMPOUND_STRING("Hyper Drill"),
+        .name = COMPOUND_STRING("{JPN}ハイパードリル{ENG}"),
         .description = COMPOUND_STRING(
             "A spinning pointed part\n"
             "bypasses a foe's Protect."),
@@ -20662,7 +20662,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TWIN_BEAM] =
     {
-        .name = COMPOUND_STRING("Twin Beam"),
+        .name = COMPOUND_STRING("{JPN}ツインビーム{ENG}"),
         .description = COMPOUND_STRING(
             "Mystical eye-beams that hit\n"
             "the target twice in a row."),
@@ -20681,7 +20681,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_RAGE_FIST] =
     {
-        .name = COMPOUND_STRING("Rage Fist"),
+        .name = COMPOUND_STRING("{JPN}ふんどのこぶし{ENG}"),
         .description = COMPOUND_STRING(
             "The more the user has been\n"
             "hit, the stronger the move."),
@@ -20701,7 +20701,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ARMOR_CANNON] =
     {
-        .name = COMPOUND_STRING("Armor Cannon"),
+        .name = COMPOUND_STRING("{JPN}アーマーキャノン{ENG}"),
         .description = COMPOUND_STRING(
             "A strong attack but lowers\n"
             "the defensive stats."),
@@ -20726,7 +20726,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BITTER_BLADE] =
     {
-        .name = COMPOUND_STRING("Bitter Blade"),
+        .name = COMPOUND_STRING("{JPN}むねんのつるぎ{ENG}"),
         .description = COMPOUND_STRING(
             "An attack that absorbs\n"
             "half the damage inflicted."),
@@ -20747,7 +20747,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DOUBLE_SHOCK] =
     {
-        .name = COMPOUND_STRING("Double Shock"),
+        .name = COMPOUND_STRING("{JPN}でんこうそうげき{ENG}"),
         .description = COMPOUND_STRING(
             "Discharges all electricity,\n"
             "losing the Electric type."),
@@ -20771,7 +20771,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_GIGATON_HAMMER] =
     {
-        .name = COMPOUND_STRING("Gigaton Hammer"),
+        .name = COMPOUND_STRING("{JPN}デカハンマー{ENG}"),
         .description = COMPOUND_STRING(
             "Swings a huge hammer. Can't\n"
             "be used twice in a row."),
@@ -20789,7 +20789,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COMEUPPANCE] =
     {
-        .name = COMPOUND_STRING("Comeuppance"),
+        .name = COMPOUND_STRING("{JPN}ほうふく{ENG}"),
         .description = COMPOUND_STRING(
             "Retaliates strongly against\n"
             "who last hurt the user."),
@@ -20816,7 +20816,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_AQUA_CUTTER] =
     {
-        .name = COMPOUND_STRING("Aqua Cutter"),
+        .name = COMPOUND_STRING("{JPN}アクアカッター{ENG}"),
         .description = COMPOUND_STRING(
             "Pressurized water cut with a\n"
             "high critical-hit ratio."),
@@ -20835,7 +20835,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLAZING_TORQUE] =
     {
-        .name = COMPOUND_STRING("Blazing Torque"),
+        .name = COMPOUND_STRING("{JPN}バーンアクセル{ENG}"),
         .description = COMPOUND_STRING("---"),
         .effect = EFFECT_HIT,
         .power = 80,
@@ -20864,7 +20864,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_WICKED_TORQUE] =
     {
-        .name = COMPOUND_STRING("Wicked Torque"),
+        .name = COMPOUND_STRING("{JPN}ダークアクセル{ENG}"),
         .description = COMPOUND_STRING("---"),
         .effect = EFFECT_HIT,
         .power = 80,
@@ -20893,7 +20893,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_NOXIOUS_TORQUE] =
     {
-        .name = COMPOUND_STRING("Noxious Torque"),
+        .name = COMPOUND_STRING("{JPN}ポイズンアクセル{ENG}"),
         .description = COMPOUND_STRING("---"),
         .effect = EFFECT_HIT,
         .power = 100,
@@ -20922,7 +20922,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_COMBAT_TORQUE] =
     {
-        .name = COMPOUND_STRING("Combat Torque"),
+        .name = COMPOUND_STRING("{JPN}ファイトアクセル{ENG}"),
         .description = COMPOUND_STRING("---"),
         .effect = EFFECT_HIT,
         .power = 100,
@@ -20951,7 +20951,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAGICAL_TORQUE] =
     {
-        .name = COMPOUND_STRING("Magical Torque"),
+        .name = COMPOUND_STRING("{JPN}マジカルアクセル{ENG}"),
         .description = COMPOUND_STRING("---"),
         .effect = EFFECT_HIT,
         .power = 100,
@@ -20980,7 +20980,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYBLADE] =
     {
-        .name = COMPOUND_STRING("Psyblade"),
+        .name = COMPOUND_STRING("{JPN}サイコブレイド {ENG}"),
         .description = COMPOUND_STRING(
             "This move's power increases\n"
             "when on Electric Terrain."),
@@ -21004,7 +21004,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HYDRO_STEAM] =
     {
-        .name = COMPOUND_STRING("Hydro Steam"),
+        .name = COMPOUND_STRING("{JPN}ハイドロスチーム{ENG}"),
         .description = COMPOUND_STRING(
             "This move's power increases\n"
             "under harsh sunlight."),
@@ -21022,7 +21022,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BLOOD_MOON] =
     {
-        .name = COMPOUND_STRING("Blood Moon"),
+        .name = COMPOUND_STRING("{JPN}ブラッドムーン{ENG}"),
         .description = COMPOUND_STRING(
             "Unleashes the blood moon.\n"
             "Can't be used twice in a row."),
@@ -21040,7 +21040,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MATCHA_GOTCHA] =
     {
-        .name = COMPOUND_STRING("Matcha Gotcha"),
+        .name = COMPOUND_STRING("{JPN}シャカシャカほう{ENG}"),
         .description = COMPOUND_STRING(
             "Absorbs half the damage\n"
             "inflicted. May cause a burn."),
@@ -21064,7 +21064,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SYRUP_BOMB] =
     {
-        .name = COMPOUND_STRING("Syrup Bomb"),
+        .name = COMPOUND_STRING("{JPN}みずあめボム{ENG}"),
         .description = COMPOUND_STRING(
             "Lowers the foe's speed\n"
             "each turn for 3 turns."),
@@ -21086,7 +21086,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_IVY_CUDGEL] =
     {
-        .name = COMPOUND_STRING("Ivy Cudgel"),
+        .name = COMPOUND_STRING("{JPN}ツタこんぼう{ENG}"),
         .description = COMPOUND_STRING(
             "Type changes with held mask.\n"
             "High critical-hit ratio."),
@@ -21104,7 +21104,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ELECTRO_SHOT] =
     {
-        .name = COMPOUND_STRING("Electro Shot"),
+        .name = COMPOUND_STRING("{JPN}エレクトロビーム{ENG}"),
         .description = COMPOUND_STRING(
             "Gathers electricity, then\n"
             "fires a high-voltage shot."),
@@ -21130,7 +21130,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TERA_STARSTORM] =
     {
-        .name = COMPOUND_STRING("Tera Starstorm"),
+        .name = COMPOUND_STRING("{JPN}テラクラスター{ENG}"),
         .description = COMPOUND_STRING(
             "In Terapagos's Stellar\n"
             "Form, it hits all foes."),
@@ -21151,7 +21151,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_FICKLE_BEAM] =
     {
-        .name = COMPOUND_STRING("Fickle Beam"),
+        .name = COMPOUND_STRING("{JPN}きまぐレーザー{ENG}"),
         .description = COMPOUND_STRING(
             "Shoots a beam of light.\n"
             "Sometimes twice as strong."),
@@ -21168,7 +21168,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_BURNING_BULWARK] =
     {
-        .name = COMPOUND_STRING("Burning Bulwark"),
+        .name = COMPOUND_STRING("{JPN}かえんのまもり{ENG}"),
         .description = COMPOUND_STRING(
             "Evades attack, and burns\n"
             "the foe if struck."),
@@ -21191,7 +21191,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_THUNDERCLAP] =
     {
-        .name = COMPOUND_STRING("Thunderclap"),
+        .name = COMPOUND_STRING("{JPN}じんらい{ENG}"),
         .description = sSuckerPunchDescription,
         .effect = EFFECT_SUCKER_PUNCH,
         .power = 70,
@@ -21209,7 +21209,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MIGHTY_CLEAVE] =
     {
-        .name = COMPOUND_STRING("Mighty Cleave"),
+        .name = COMPOUND_STRING("{JPN}パワフルエッジ{ENG}"),
         .description = sFeintDescription,
         .effect = EFFECT_HIT,
         .power = 95,
@@ -21227,7 +21227,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TACHYON_CUTTER] =
     {
-        .name = COMPOUND_STRING("Tachyon Cutter"),
+        .name = COMPOUND_STRING("{JPN}タキオンカッター{ENG}"),
         .description = COMPOUND_STRING(
             "Launches particle blades at\n"
             "the target. Strikes twice."),
@@ -21246,7 +21246,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_HARD_PRESS] =
     {
-        .name = COMPOUND_STRING("Hard Press"),
+        .name = COMPOUND_STRING("{JPN}ハードプレス{ENG}"),
         .description = sWringOutDescription,
         .effect = EFFECT_POWER_BASED_ON_TARGET_HP,
         .power = 100,
@@ -21262,7 +21262,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_DRAGON_CHEER] =
     {
-        .name = COMPOUND_STRING("Dragon Cheer"),
+        .name = COMPOUND_STRING("{JPN}ドラゴンエール{ENG}"),
         .description = COMPOUND_STRING(
             "Increases allies' critical hit\n"
             "ratio, especially if Dragons."),
@@ -21280,7 +21280,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_ALLURING_VOICE] =
     {
-        .name = COMPOUND_STRING("Alluring Voice"),
+        .name = COMPOUND_STRING("{JPN}みわくのボイス{ENG}"),
         .description = COMPOUND_STRING(
             "Confuses foe if its stats\n"
             "were boosted this turn."),
@@ -21304,7 +21304,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_TEMPER_FLARE] =
     {
-        .name = COMPOUND_STRING("Temper Flare"),
+        .name = COMPOUND_STRING("{JPN}やけっぱち{ENG}"),
         .description = COMPOUND_STRING(
             "A desperation attack. Power\n"
             "doubles if last move failed."),
@@ -21322,7 +21322,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_SUPERCELL_SLAM] =
     {
-        .name = COMPOUND_STRING("Supercell Slam"),
+        .name = COMPOUND_STRING("{JPN}サンダーダイブ{ENG}"),
         .description = COMPOUND_STRING(
             "An electrified slam. If it\n"
             "misses, the user is hurt."),
@@ -21344,7 +21344,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_PSYCHIC_NOISE] =
     {
-        .name = COMPOUND_STRING("Psychic Noise"),
+        .name = COMPOUND_STRING("{JPN}サイコノイズ{ENG}"),
         .description = COMPOUND_STRING(
             "Sound waves that damage and\n"
             "prevent healing for 2 turns."),
@@ -21368,7 +21368,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     [MOVE_UPPER_HAND] =
     {
         .effect = EFFECT_UPPER_HAND,
-        .name = COMPOUND_STRING("Upper Hand"),
+        .name = COMPOUND_STRING("{JPN}はやてがえし{ENG}"),
         .description = COMPOUND_STRING(
             "Makes the target flinch if\n"
             "readying a priority move."),
@@ -21389,7 +21389,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MALIGNANT_CHAIN] =
     {
-        .name = COMPOUND_STRING("Malignant Chain"),
+        .name = COMPOUND_STRING("{JPN}じゃどくのくさり{ENG}"),
         .description = COMPOUND_STRING(
             "A corrosive chain attack\n"
             "that may badly poison."),
@@ -21411,7 +21411,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     // Z-Moves
     [MOVE_BREAKNECK_BLITZ] =
     {
-        .name = COMPOUND_STRING("Breakneck Blitz"),
+        .name = COMPOUND_STRING("{JPN}ウルトラダッシュアタック{ENG}"),
         .description = COMPOUND_STRING(
             "Builds momentum and crashes\n"
             "into the foe. Power varies."),
@@ -21459,7 +21459,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_ACID_DOWNPOUR] =
     {
-        .name = COMPOUND_STRING("Acid Downpour"),
+        .name = COMPOUND_STRING("{JPN}アシッドポイズンデリート{ENG}"),
         .description = COMPOUND_STRING(
             "Sinks the target in a poison\n"
             "swamp. Power varies."),
@@ -21475,7 +21475,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_TECTONIC_RAGE] =
     {
-        .name = COMPOUND_STRING("Tectonic Rage"),
+        .name = COMPOUND_STRING("{JPN}ライジングランドオーバー{ENG}"),
         .description = COMPOUND_STRING(
             "Burrows deep and slams into\n"
             "the target. Power varies."),
@@ -21492,7 +21492,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_CONTINENTAL_CRUSH] =
     {
-        .name = COMPOUND_STRING("Continental Crush"),
+        .name = COMPOUND_STRING("{JPN}ワールズエンドフォール{ENG}"),
         .description = COMPOUND_STRING(
             "Drops a huge rock mountain\n"
             "on the foe. Power varies."),
@@ -21524,7 +21524,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_NEVER_ENDING_NIGHTMARE] =
     {
-        .name = COMPOUND_STRING("Never-Ending Nightmare"),
+        .name = COMPOUND_STRING("{JPN}むげんあんやへのいざない{ENG}"),
         .description = COMPOUND_STRING(
             "Deep-seated grudges trap\n"
             "the target. Power varies."),
@@ -21540,7 +21540,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_CORKSCREW_CRASH] =
     {
-        .name = COMPOUND_STRING("Corkscrew Crash"),
+        .name = COMPOUND_STRING("{JPN}ちょうぜつらせんれんげき{ENG}"),
         .description = COMPOUND_STRING(
             "Spins very fast and rams\n"
             "the target. Power varies."),
@@ -21556,7 +21556,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_INFERNO_OVERDRIVE] =
     {
-        .name = COMPOUND_STRING("Inferno Overdrive"),
+        .name = COMPOUND_STRING("{JPN}ダイナミックフルフレイム{ENG}"),
         .description = COMPOUND_STRING(
             "Breathes intense fire at\n"
             "the target. Power varies."),
@@ -21572,7 +21572,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_HYDRO_VORTEX] =
     {
-        .name = COMPOUND_STRING("Hydro Vortex"),
+        .name = COMPOUND_STRING("{JPN}スーパーアクアトルネード{ENG}"),
         .description = COMPOUND_STRING(
             "A huge whirlpool swallows\n"
             "the target. Power varies."),
@@ -21604,7 +21604,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_GIGAVOLT_HAVOC] =
     {
-        .name = COMPOUND_STRING("Gigavolt Havoc"),
+        .name = COMPOUND_STRING("{JPN}スパーキングギガボルト{ENG}"),
         .description = COMPOUND_STRING(
             "Hits the foe with powerful\n"
             "electricity. Power varies."),
@@ -21620,7 +21620,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_SHATTERED_PSYCHE] =
     {
-        .name = COMPOUND_STRING("Shattered Psyche"),
+        .name = COMPOUND_STRING("{JPN}マキシマムサイブレイカー{ENG}"),
         .description = COMPOUND_STRING(
             "Controls the target to\n"
             "hurt it. Power varies."),
@@ -21636,7 +21636,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_SUBZERO_SLAMMER] =
     {
-        .name = COMPOUND_STRING("Subzero Slammer"),
+        .name = COMPOUND_STRING("{JPN}レイジングジオフリーズ{ENG}"),
         .description = COMPOUND_STRING(
             "Drops the temp and freezes\n"
             "the target. Power varies."),
@@ -21668,7 +21668,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_BLACK_HOLE_ECLIPSE] =
     {
-        .name = COMPOUND_STRING("Black Hole Eclipse"),
+        .name = COMPOUND_STRING("{JPN}ブラックホールイクリプス{ENG}"),
         .description = COMPOUND_STRING(
             "Sucks the target into dark\n"
             "energy. Power varies."),
@@ -21684,7 +21684,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_TWINKLE_TACKLE] =
     {
-        .name = COMPOUND_STRING("Twinkle Tackle"),
+        .name = COMPOUND_STRING("{JPN}ラブリースターインパクト{ENG}"),
         .description = COMPOUND_STRING(
             "Toys with the target in a\n"
             "charming space. Power varies."),
@@ -21700,7 +21700,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_CATASTROPIKA] =
     {
-        .name = COMPOUND_STRING("Catastropika"),
+        .name = COMPOUND_STRING("{JPN}ひっさつのピカチュート{ENG}"),
         .description = COMPOUND_STRING(
             "Pikachu uses the max amount\n"
             "of electricity and pounces."),
@@ -21716,7 +21716,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_10000000_VOLT_THUNDERBOLT] =
     {
-        .name = COMPOUND_STRING("10,000,000 Volt Thunderbolt"),
+        .name = COMPOUND_STRING("{JPN}1000まんボルト{ENG}"),
         .description = COMPOUND_STRING(
             "Cap Pikachu unleashes jolt.\n"
             "High critical-hit ratio."),
@@ -21733,7 +21733,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_STOKED_SPARKSURFER] =
     {
-        .name = COMPOUND_STRING("Stoked Sparksurfer"),
+        .name = COMPOUND_STRING("{JPN}ライトニングサーフライド{ENG}"),
         .description = COMPOUND_STRING(
             "Alolan Raichu attacks with\n"
             "full force. Causes paralysis."),
@@ -21753,7 +21753,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_EXTREME_EVOBOOST] =
     {
-        .name = COMPOUND_STRING("Extreme Evoboost"),
+        .name = COMPOUND_STRING("{JPN}ナインエボルブースト{ENG}"),
         .description = COMPOUND_STRING(
             "Eevee gets energy from\n"
             "its friends. Boosts stats."),
@@ -21769,7 +21769,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_PULVERIZING_PANCAKE] =
     {
-        .name = COMPOUND_STRING("Pulverizing Pancake"),
+        .name = COMPOUND_STRING("{JPN}ほんきをだす　こうげき{ENG}"),
         .description = COMPOUND_STRING(
             "Snorlax energetically moves\n"
             "and attacks with full force."),
@@ -21838,7 +21838,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_OCEANIC_OPERETTA] =
     {
-        .name = COMPOUND_STRING("Oceanic Operetta"),
+        .name = COMPOUND_STRING("{JPN}わだつみのシンフォニア{ENG}"),
         .description = COMPOUND_STRING(
             "Primarina summons a massive\n"
             "amount of water at the foe."),
@@ -21854,7 +21854,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_SPLINTERED_STORMSHARDS] =
     {
-        .name = COMPOUND_STRING("Splintered Stormshards"),
+        .name = COMPOUND_STRING("{JPN}ラジアルエッジストーム{ENG}"),
         .description = COMPOUND_STRING(
             "Lycanroc attacks with full\n"
             "force. Removes all terrain."),
@@ -21870,7 +21870,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_LETS_SNUGGLE_FOREVER] =
     {
-        .name = COMPOUND_STRING("Let's Snuggle Forever"),
+        .name = COMPOUND_STRING("{JPN}ぽかぼかフレンドタイム{ENG}"),
         .description = COMPOUND_STRING(
             "Mimikyu punches the target\n"
             "with full force."),
@@ -21886,7 +21886,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_CLANGOROUS_SOULBLAZE] =
     {
-        .name = COMPOUND_STRING("Clangorous Soulblaze"),
+        .name = COMPOUND_STRING("{JPN}ブレイジングソウルビート{ENG}"),
         .description = COMPOUND_STRING(
             "Kommo-o attacks with full\n"
             "force. Boosts all stats."),
@@ -21926,7 +21926,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_SEARING_SUNRAZE_SMASH] =
     {
-        .name = COMPOUND_STRING("Searing Sunraze Smash"),
+        .name = COMPOUND_STRING("{JPN}サンシャインスマッシャー{ENG}"),
         .description = COMPOUND_STRING(
             "Solgaleo attacks with full\n"
             "force. Ignores abilities."),
@@ -21943,7 +21943,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_MENACING_MOONRAZE_MAELSTROM] =
     {
-        .name = COMPOUND_STRING("Menacing Moonraze Maelstrom"),
+        .name = COMPOUND_STRING("{JPN}ムーンライトブラスター{ENG}"),
         .description = COMPOUND_STRING(
             "Lunala attacks with full\n"
             "force. Ignores abilities."),
@@ -21977,7 +21977,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
     },
     [MOVE_SOUL_STEALING_7_STAR_STRIKE] =
     {
-        .name = COMPOUND_STRING("Soul-Stealing 7-Star Strike"),
+        .name = COMPOUND_STRING("{JPN}しちせいだっこんたい{ENG}"),
         .description = COMPOUND_STRING(
             "Marshadow punches and\n"
             "kicks with full force."),
@@ -21994,7 +21994,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_GUARD] =
     {
-        .name = COMPOUND_STRING("Max Guard"),
+        .name = COMPOUND_STRING("{JPN}ダイウォール{ENG}"),
         .description = sProtectDescription,
         .effect = EFFECT_PROTECT,
         .power = 0,
@@ -22010,7 +22010,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_FLARE] =
     {
-        .name = COMPOUND_STRING("Max Flare"),
+        .name = COMPOUND_STRING("{JPN}ダイバーン{ENG}"),
         .description = COMPOUND_STRING(
             "Fire Dynamax attack.\n"
             "Intensifies sun for 5 turns."),
@@ -22030,7 +22030,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_FLUTTERBY] =
     {
-        .name = COMPOUND_STRING("Max Flutterby"),
+        .name = COMPOUND_STRING("{JPN}ダイワーム{ENG}"),
         .description = COMPOUND_STRING(
             "Bug Dynamax attack.\n"
             "Lowers foe's Sp. Atk stat."),
@@ -22050,7 +22050,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_LIGHTNING] =
     {
-        .name = COMPOUND_STRING("Max Lightning"),
+        .name = COMPOUND_STRING("{JPN}ダイサンダー{ENG}"),
         .description = COMPOUND_STRING(
             "Electric Dynamax attack.\n"
             "Turns the terrain electric."),
@@ -22070,7 +22070,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_STRIKE] =
     {
-        .name = COMPOUND_STRING("Max Strike"),
+        .name = COMPOUND_STRING("{JPN}ダイアタック{ENG}"),
         .description = COMPOUND_STRING(
             "Normal Dynamax attack.\n"
             "Lowers foe's Speed stat."),
@@ -22090,7 +22090,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_KNUCKLE] =
     {
-        .name = COMPOUND_STRING("Max Knuckle"),
+        .name = COMPOUND_STRING("{JPN}ダイナックル{ENG}"),
         .description = COMPOUND_STRING(
             "Fighting Dynamax attack.\n"
             "Boosts ally Attack stats."),
@@ -22110,7 +22110,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_PHANTASM] =
     {
-        .name = COMPOUND_STRING("Max Phantasm"),
+        .name = COMPOUND_STRING("{JPN}ダイホロウ{ENG}"),
         .description = COMPOUND_STRING(
             "Ghost Dynamax attack.\n"
             "Lowers foe's Defense stat."),
@@ -22130,7 +22130,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_HAILSTORM] =
     {
-        .name = COMPOUND_STRING("Max Hailstorm"),
+        .name = COMPOUND_STRING("{JPN}ダイアイス{ENG}"),
         .description = COMPOUND_STRING(
             "Ice Dynamax attack.\n"
             "Summons hail for 5 turns."),
@@ -22150,7 +22150,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_OOZE] =
     {
-        .name = COMPOUND_STRING("Max Ooze"),
+        .name = COMPOUND_STRING("{JPN}ダイアシッド{ENG}"),
         .description = COMPOUND_STRING(
             "Poison Dynamax attack.\n"
             "Boosts ally Sp. Atk stats."),
@@ -22170,7 +22170,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_GEYSER] =
     {
-        .name = COMPOUND_STRING("Max Geyser"),
+        .name = COMPOUND_STRING("{JPN}ダイストリーム{ENG}"),
         .description = COMPOUND_STRING(
             "Water Dynamax attack.\n"
             "Summons rain for 5 turns."),
@@ -22190,7 +22190,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_AIRSTREAM] =
     {
-        .name = COMPOUND_STRING("Max Airstream"),
+        .name = COMPOUND_STRING("{JPN}ダイジェット{ENG}"),
         .description = COMPOUND_STRING(
             "Flying Dynamax attack.\n"
             "Boosts ally Speed stats."),
@@ -22210,7 +22210,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_STARFALL] =
     {
-        .name = COMPOUND_STRING("Max Starfall"),
+        .name = COMPOUND_STRING("{JPN}ダイフェアリー{ENG}"),
         .description = COMPOUND_STRING(
             "Fairy Dynamax attack.\n"
             "Turns the terrain misty."),
@@ -22230,7 +22230,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_WYRMWIND] =
     {
-        .name = COMPOUND_STRING("Max Wyrmwind"),
+        .name = COMPOUND_STRING("{JPN}ダイドラグーン{ENG}"),
         .description = COMPOUND_STRING(
             "Dragon Dynamax attack.\n"
             "Lowers foe's Attack stat."),
@@ -22250,7 +22250,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_MINDSTORM] =
     {
-        .name = COMPOUND_STRING("Max Mindstorm"),
+        .name = COMPOUND_STRING("{JPN}ダイサイコ{ENG}"),
         .description = COMPOUND_STRING(
             "Psychic Dynamax attack.\n"
             "Turns the terrain psychic."),
@@ -22270,7 +22270,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_ROCKFALL] =
     {
-        .name = COMPOUND_STRING("Max Rockfall"),
+        .name = COMPOUND_STRING("{JPN}ダイロック{ENG}"),
         .description = COMPOUND_STRING(
             "Rock Dynamax attack.\n"
             "Summons a sandstorm."),
@@ -22290,7 +22290,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_QUAKE] =
     {
-        .name = COMPOUND_STRING("Max Quake"),
+        .name = COMPOUND_STRING("{JPN}ダイアース{ENG}"),
         .description = COMPOUND_STRING(
             "Ground Dynamax attack.\n"
             "Boosts ally Sp. Def stats."),
@@ -22311,7 +22311,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_DARKNESS] =
     {
-        .name = COMPOUND_STRING("Max Darkness"),
+        .name = COMPOUND_STRING("{JPN}ダイアーク{ENG}"),
         .description = COMPOUND_STRING(
             "Dark Dynamax attack.\n"
             "Lowers foe's Sp. Def stat."),
@@ -22331,7 +22331,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_OVERGROWTH] =
     {
-        .name = COMPOUND_STRING("Max Overgrowth"),
+        .name = COMPOUND_STRING("{JPN}ダイソウゲン{ENG}"),
         .description = COMPOUND_STRING(
             "Grass Dynamax attack.\n"
             "Turns the terrain grassy."),
@@ -22351,7 +22351,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_MAX_STEELSPIKE] =
     {
-        .name = COMPOUND_STRING("Max Steelspike"),
+        .name = COMPOUND_STRING("{JPN}ダイスチル{ENG}"),
         .description = COMPOUND_STRING(
             "Steel Dynamax attack.\n"
             "Boosts ally Defense stats."),
@@ -22371,7 +22371,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_VINE_LASH] =
     {
-        .name = COMPOUND_STRING("G-Max Vine Lash"),
+        .name = COMPOUND_STRING("{JPN}キョダイベンタツ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Venusaur attack.\n"
             "Damages for 4 turns."),    //ANIM TODO
@@ -22391,7 +22391,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_WILDFIRE] =
     {
-        .name = COMPOUND_STRING("G-Max Wildfire"),
+        .name = COMPOUND_STRING("{JPN}キョダイゴクエン{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Charizard attack.\n"
             "Damages for 4 turns."),    //ANIM TODO
@@ -22411,7 +22411,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_CANNONADE] =
     {
-        .name = COMPOUND_STRING("G-Max Cannonade"),
+        .name = COMPOUND_STRING("{JPN}キョダイホウゲキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Blastoise attack.\n"
             "Damages for 4 turns."),    //ANIM TODO
@@ -22431,7 +22431,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_BEFUDDLE] =
     {
-        .name = COMPOUND_STRING("G-Max Befuddle"),
+        .name = COMPOUND_STRING("{JPN}キョダイコワク{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Butterfree attack.\n"
             "Poison, paralysis, or sleep."),    //ANIM TODO
@@ -22451,7 +22451,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_VOLT_CRASH] =
     {
-        .name = COMPOUND_STRING("G-Max Volt Crash"),
+        .name = COMPOUND_STRING("{JPN}キョダイバンライ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Pikachu attack.\n"
             "Paralyzes opponents."),    //ANIM TODO
@@ -22471,7 +22471,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_GOLD_RUSH] =
     {
-        .name = COMPOUND_STRING("G-Max Gold Rush"),
+        .name = COMPOUND_STRING("{JPN}キョダイコバン{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Meowth attack.\n"
             "Confuses and earns money."),    //ANIM TODO
@@ -22491,7 +22491,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_CHI_STRIKE] =
     {
-        .name = COMPOUND_STRING("G-Max Chi Strike"),
+        .name = COMPOUND_STRING("{JPN}キョダイシンゲキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Machamp attack.\n"
             "Boosts critical-hit ratio."),    //ANIM TODO
@@ -22511,7 +22511,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_TERROR] =
     {
-        .name = COMPOUND_STRING("G-Max Terror"),
+        .name = COMPOUND_STRING("{JPN}キョダイゲンエイ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Gengar attack.\n"
             "Prevents foes from escaping."),    //ANIM TODO
@@ -22531,7 +22531,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_FOAM_BURST] =
     {
-        .name = COMPOUND_STRING("G-Max Foam Burst"),
+        .name = COMPOUND_STRING("{JPN}キョダイホウマツ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Kingler attack.\n"
             "Harshly lowers foe's Speed."),    //ANIM TODO
@@ -22551,7 +22551,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_RESONANCE] =
     {
-        .name = COMPOUND_STRING("G-Max Resonance"),
+        .name = COMPOUND_STRING("{JPN}キョダイセンリツ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Lapras attack.\n"
             "Reduces damage for 5 turns."),    //ANIM TODO
@@ -22571,7 +22571,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_CUDDLE] =
     {
-        .name = COMPOUND_STRING("G-Max Cuddle"),
+        .name = COMPOUND_STRING("{JPN}キョダイホーヨー{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Eevee attack.\n"
             "Infatuates opponents."),    //ANIM TODO
@@ -22591,7 +22591,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_REPLENISH] =
     {
-        .name = COMPOUND_STRING("G-Max Replenish"),
+        .name = COMPOUND_STRING("{JPN}キョダイサイセイ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Snorlax attack.\n"
             "Restores eaten Berries."),    //ANIM TODO
@@ -22611,7 +22611,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_MALODOR] =
     {
-        .name = COMPOUND_STRING("G-Max Malodor"),
+        .name = COMPOUND_STRING("{JPN}キョダイシュウキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Garbodor attack.\n"
             "Poisons opponents."),    //ANIM TODO
@@ -22631,7 +22631,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_MELTDOWN] =
     {
-        .name = COMPOUND_STRING("G-Max Meltdown"),
+        .name = COMPOUND_STRING("{JPN}キョダイユウゲキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Melmetal attack.\n"
             "Prevents repeat move use."),    //ANIM TODO
@@ -22651,7 +22651,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_DRUM_SOLO] =
     {
-        .name = COMPOUND_STRING("G-Max Drum Solo"),
+        .name = COMPOUND_STRING("{JPN}キョダイコランダ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Rillaboom attack.\n"
             "Ignores target's abilities."),    //ANIM TODO
@@ -22672,7 +22672,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_FIREBALL] =
     {
-        .name = COMPOUND_STRING("G-Max Fireball"),
+        .name = COMPOUND_STRING("{JPN}キョダイカキュウ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Cinderace attack.\n"
             "Ignores target's abilities."),    //ANIM TODO
@@ -22693,7 +22693,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_HYDROSNIPE] =
     {
-        .name = COMPOUND_STRING("G-Max Hydrosnipe"),
+        .name = COMPOUND_STRING("{JPN}キョダイソゲキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Inteleon attack.\n"
             "Ignores target's abilities."),    //ANIM TODO
@@ -22714,7 +22714,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_WIND_RAGE] =
     {
-        .name = COMPOUND_STRING("G-Max Wind Rage"),
+        .name = COMPOUND_STRING("{JPN}キョダイフウゲキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Corviknight attack.\n"
             "Removes opponent screens."),    //ANIM TODO
@@ -22734,7 +22734,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_GRAVITAS] =
     {
-        .name = COMPOUND_STRING("G-Max Gravitas"),
+        .name = COMPOUND_STRING("{JPN}キョダイテンドウ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Orbeetle attack.\n"
             "Changes gravity for 5 turns."),    //ANIM TODO
@@ -22754,7 +22754,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_STONESURGE] =
     {
-        .name = COMPOUND_STRING("G-Max Stonesurge"),
+        .name = COMPOUND_STRING("{JPN}キョダイガンジン{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Drednaw attack.\n"
             "Scatters sharp rocks."),    //ANIM TODO
@@ -22774,7 +22774,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_VOLCALITH] =
     {
-        .name = COMPOUND_STRING("G-Max Volcalith"),
+        .name = COMPOUND_STRING("{JPN}キョダイフンセキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Coalossal attack.\n"
             "Damages for 4 turns."),    //ANIM TODO
@@ -22794,7 +22794,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_TARTNESS] =
     {
-        .name = COMPOUND_STRING("G-Max Tartness"),
+        .name = COMPOUND_STRING("{JPN}キョダイサンゲキ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Flapple attack.\n"
             "Lowers foe's evasiveness."),    //ANIM TODO
@@ -22814,7 +22814,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_SWEETNESS] =
     {
-        .name = COMPOUND_STRING("G-Max Sweetness"),
+        .name = COMPOUND_STRING("{JPN}キョダイカンロ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Appletun attack.\n"
             "Heals ally status conditions."),    //ANIM TODO
@@ -22834,7 +22834,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_SANDBLAST] =
     {
-        .name = COMPOUND_STRING("G-Max Sandblast"),
+        .name = COMPOUND_STRING("{JPN}キョダイサジン{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Sandaconda attack.\n"
             "Traps foes in a sandstorm."),    //ANIM TODO
@@ -22854,7 +22854,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_STUN_SHOCK] =
     {
-        .name = COMPOUND_STRING("G-Max Stun Shock"),
+        .name = COMPOUND_STRING("{JPN}キョダイカンデン{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Toxtricity attack.\n"
             "Poisons or paralyzes foes."),    //ANIM TODO
@@ -22874,7 +22874,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_CENTIFERNO] =
     {
-        .name = COMPOUND_STRING("G-Max Centiferno"),
+        .name = COMPOUND_STRING("{JPN}キョダイヒャッカ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Centiskorch attack.\n"
             "Traps foes in flames."),    //ANIM TODO
@@ -22894,7 +22894,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_SMITE] =
     {
-        .name = COMPOUND_STRING("G-Max Smite"),
+        .name = COMPOUND_STRING("{JPN}キョダイテンバツ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Hatterene attack.\n"
             "Confuses opponents."),    //ANIM TODO
@@ -22915,7 +22915,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_SNOOZE] =
     {
-        .name = COMPOUND_STRING("G-Max Snooze"),
+        .name = COMPOUND_STRING("{JPN}キョダイスイマ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Grimmsnarl attack.\n"
             "Lulls foes into sleep."),    //ANIM TODO
@@ -22935,7 +22935,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_FINALE] =
     {
-        .name = COMPOUND_STRING("G-Max Finale"),
+        .name = COMPOUND_STRING("{JPN}キョダイダンエン{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Alcremie attack.\n"
             "Heals ally HP."),    //ANIM TODO
@@ -22955,7 +22955,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_STEELSURGE] =
     {
-        .name = COMPOUND_STRING("G-Max Steelsurge"),
+        .name = COMPOUND_STRING("{JPN}キョダイコウジン{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Copperajah attack.\n"
             "Scatters sharp spikes."),    //ANIM TODO
@@ -22975,7 +22975,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_DEPLETION] =
     {
-        .name = COMPOUND_STRING("G-Max Depletion"),
+        .name = COMPOUND_STRING("{JPN}キョダイゲンスイ{ENG}"),
         .description = COMPOUND_STRING(
             "G-max Duraludon attack.\n"
             "Reduces target's PP."),    //ANIM TODO
@@ -22995,7 +22995,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_ONE_BLOW] =
     {
-        .name = COMPOUND_STRING("G-Max One Blow"),
+        .name = COMPOUND_STRING("{JPN}キョダイイチゲキ{ENG}"),
         .description = sGMaxOneBlowDescription,    //ANIM TODO
         .effect = EFFECT_MAX_MOVE,
         .power = 10,
@@ -23011,7 +23011,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
 
     [MOVE_G_MAX_RAPID_FLOW] =
     {
-        .name = COMPOUND_STRING("G-Max Rapid Flow"),
+        .name = COMPOUND_STRING("{JPN}キョダイレンゲキ{ENG}"),
         .description = sGMaxOneBlowDescription,    //ANIM TODO
         .effect = EFFECT_MAX_MOVE,
         .power = 10,

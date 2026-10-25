@@ -44,9 +44,9 @@
 
 ## 現在の実装と検証
 
-英語版を基準ビルドしたうえで、翻訳候補60,597件を抽出し、149件を翻訳・適用しています。
-開始メニュー、クエスト日誌・通知、導入会話の一部と、日本語描画・UIの調整を含みます。
-日本語途中版のビルドとツールの自動テスト12件は成功しています。
+英語版を基準ビルドしたうえで、翻訳候補60,597件を抽出し、2,709件を翻訳・適用しています。
+開始メニュー、クエスト日誌・通知、導入会話の一部、ポケモン名・技名・特性名の対応と、日本語描画・UIの調整を含みます。
+日本語途中版のビルドとツールの自動テスト16件は成功しています。
 漢字・日本語名前入力・全編翻訳は未完了で、エミュレータでの表示・進行検証も未完了です。
 
 - [調査・ビルド手順・検証結果・残作業](localization/README.ja.md)
@@ -54,6 +54,8 @@
 - [日本語訳をテーブルで読む](localization/translated-texts.md)
 - [日本語訳をExcelで確認する](localization/exports/translated-texts.xlsx)
 - [用語辞書](localization/glossary.json)
+- [ポケモン名・技名・特性名の辞書](localization/terminology-names.json)
+- [名称取り込みの検証記録](localization/reviews/reference-names-01.review.md)
 - [yomiyasuの導入・翻訳レビュー手順](localization/yomiyasu.md)
 - [機械可読の進捗](localization/status.json)
 - [取り込み元ソースの記録](docs/UPSTREAM_SOURCE.md)

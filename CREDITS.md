@@ -135,3 +135,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - [Data Files](https://www.pokecommunity.com/showthread.php?t=417909)
 - [Complete FireRed Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade)
 - [pokeemerald](https://github.com/pret/pokeemerald/)
+
+## Japanese localization reference
+
+Japanese species, move and ability names were adapted by constant ID from
+[koziyagoukei/PokeEm-expansion-CanuseJP](https://github.com/koziyagoukei/PokeEm-expansion-CanuseJP),
+commit b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef.
+Only eligible name strings were copied; gameplay definitions were retained.
+Per-string provenance and exclusions are recorded in localization/.

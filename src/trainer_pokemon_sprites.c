@@ -1,0 +1,463 @@
+#include "global.h"
+#include "sprite.h"
+#include "window.h"
+#include "malloc.h"
+#include "palette.h"
+#include "decompress.h"
+#include "trainer_pokemon_sprites.h"
+#include "data.h"
+#include "pokemon.h"
+#include "constants/trainers.h"
+
+#define PICS_COUNT 8
+
+// Needs to be large enough to store either a decompressed Pokémon pic or trainer pic
+#define PIC_SPRITE_SIZE max(MON_PIC_SIZE, TRAINER_PIC_SIZE)
+#define MAX_PIC_FRAMES  max(MAX_MON_PIC_FRAMES, MAX_TRAINER_PIC_FRAMES)
+
+struct PicData
+{
+    u8 *frames;
+    struct SpriteFrameImage *images;
+    u16 paletteTag;
+    u8 spriteId;
+    u8 active;
+};
+
+static EWRAM_DATA struct SpriteTemplate sCreatingSpriteTemplate = {};
+static EWRAM_DATA struct PicData sSpritePics[PICS_COUNT] = {};
+
+static const struct PicData sDummyPicData = {};
+
+static const struct OamData sOamData_Normal =
+{
+    .shape = SPRITE_SHAPE(64x64),
+    .size = SPRITE_SIZE(64x64)
+};
+
+static const struct OamData sOamData_Affine =
+{
+    .affineMode = ST_OAM_AFFINE_NORMAL,
+    .shape = SPRITE_SHAPE(64x64),
+    .size = SPRITE_SIZE(64x64)
+};
+
+static void DummyPicSpriteCallback(struct Sprite *sprite)
+{
+
+}
+
+bool16 ResetAllPicSprites(void)
+{
+    int i;
+
+    for (i = 0; i < PICS_COUNT; i ++)
+        sSpritePics[i] = sDummyPicData;
+
+    return FALSE;
+}
+
+static bool16 DecompressPic(u16 picId, u32 personality, bool8 isFrontPic, u8 *dest, bool8 isTrainer)
+{
+    if (!isTrainer)
+    {
+        u16 species = picId;
+        LoadSpecialPokePic(dest, species, personality, isFrontPic);
+    }
+    else
+    {
+        enum TrainerPicID trainerPicId = picId;
+        if (isFrontPic)
+            DecompressPicFromTable(&gTrainerSprites[trainerPicId].frontPic, dest);
+        else
+            CopyTrainerBackspriteFramesToDest(trainerPicId, dest);
+    }
+    return FALSE;
+}
+
+static void LoadPicPaletteByTagOrSlot(u16 species, bool8 isShiny, u32 personality, u8 paletteSlot, u16 paletteTag, bool8 isTrainer)
+{
+    if (!isTrainer)
+    {
+        if (paletteTag == TAG_NONE)
+        {
+            sCreatingSpriteTemplate.paletteTag = TAG_NONE;
+            LoadPalette(GetMonSpritePalFromSpeciesAndPersonality(species, isShiny, personality), OBJ_PLTT_ID(paletteSlot), PLTT_SIZE_4BPP);
+        }
+        else
+        {
+            sCreatingSpriteTemplate.paletteTag = paletteTag;
+            LoadSpritePaletteWithTag(GetMonSpritePalFromSpeciesAndPersonality(species, isShiny, personality), species);
+        }
+    }
+    else
+    {
+        if (paletteTag == TAG_NONE)
+        {
+            sCreatingSpriteTemplate.paletteTag = TAG_NONE;
+            LoadPalette(gTrainerSprites[species].palette.data, OBJ_PLTT_ID(paletteSlot), PLTT_SIZE_4BPP);
+        }
+        else
+        {
+            sCreatingSpriteTemplate.paletteTag = paletteTag;
+            LoadSpritePalette(&gTrainerSprites[species].palette);
+        }
+    }
+}
+
+static void LoadPicPaletteBySlot(u16 species, bool8 isShiny, u32 personality, u8 paletteSlot, bool8 isTrainer)
+{
+    if (!isTrainer)
+        LoadPalette(GetMonSpritePalFromSpeciesAndPersonality(species, isShiny, personality), PLTT_ID(paletteSlot), PLTT_SIZE_4BPP);
+    else
+        LoadPalette(gTrainerSprites[species].palette.data, PLTT_ID(paletteSlot), PLTT_SIZE_4BPP);
+}
+
+static void AssignSpriteAnimsTable(bool8 isTrainer)
+{
+    if (!isTrainer)
+        sCreatingSpriteTemplate.anims = gAnims_MonPic;
+    else
+        sCreatingSpriteTemplate.anims = gAnims_Trainer;
+}
+
+static u16 CreatePicSprite(u16 species, bool8 isShiny, u32 personality, bool8 isFrontPic, s16 x, s16 y, u8 paletteSlot, u16 paletteTag, bool8 isTrainer)
+{
+    u8 i;
+    u8 *framePics;
+    struct SpriteFrameImage *images;
+    int j;
+    u8 spriteId;
+
+    for (i = 0; i < PICS_COUNT; i ++)
+    {
+        if (!sSpritePics[i].active)
+            break;
+    }
+    if (i == PICS_COUNT)
+        return 0xFFFF;
+
+    framePics = Alloc(PIC_SPRITE_SIZE * MAX_PIC_FRAMES);
+    if (!framePics)
+        return 0xFFFF;
+
+    images = Alloc(sizeof(struct SpriteFrameImage) * MAX_PIC_FRAMES);
+    if (!images)
+    {
+        Free(framePics);
+        return 0xFFFF;
+    }
+    if (DecompressPic(species, personality, isFrontPic, framePics, isTrainer))
+    {
+        // debug trap?
+        return 0xFFFF;
+    }
+    for (j = 0; j < MAX_PIC_FRAMES; j ++)
+    {
+        images[j].data = framePics + PIC_SPRITE_SIZE * j;
+        images[j].size = PIC_SPRITE_SIZE;
+    }
+    sCreatingSpriteTemplate.tileTag = TAG_NONE;
+    sCreatingSpriteTemplate.oam = &sOamData_Normal;
+    AssignSpriteAnimsTable(isTrainer);
+    sCreatingSpriteTemplate.images = images;
+    sCreatingSpriteTemplate.affineAnims = gDummySpriteAffineAnimTable;
+    sCreatingSpriteTemplate.callback = DummyPicSpriteCallback;
+    LoadPicPaletteByTagOrSlot(species, isShiny, personality, paletteSlot, paletteTag, isTrainer);
+    spriteId = CreateSprite(&sCreatingSpriteTemplate, x, y, 0);
+    if (paletteTag == TAG_NONE)
+        gSprites[spriteId].oam.paletteNum = paletteSlot;
+    sSpritePics[i].frames = framePics;
+    sSpritePics[i].images = images;
+    sSpritePics[i].paletteTag = paletteTag;
+    sSpritePics[i].spriteId = spriteId;
+    sSpritePics[i].active = TRUE;
+    return spriteId;
+}
+
+u16 CreateMonPicSprite_Affine(u16 species, bool8 isShiny, u32 personality, u8 flags, s16 x, s16 y, u8 paletteSlot, u16 paletteTag)
+{
+    u8 *framePics;
+    struct SpriteFrameImage *images;
+    int j;
+    u8 i;
+    u8 spriteId;
+    u8 type;
+    species = SanitizeSpeciesId(species);
+
+    for (i = 0; i < PICS_COUNT; i++)
+    {
+        if (!sSpritePics[i].active)
+            break;
+    }
+    if (i == PICS_COUNT)
+        return 0xFFFF;
+
+    framePics = Alloc(MON_PIC_SIZE * MAX_MON_PIC_FRAMES);
+    if (!framePics)
+        return 0xFFFF;
+
+    if (flags & F_MON_PIC_NO_AFFINE)
+    {
+        flags &= ~F_MON_PIC_NO_AFFINE;
+        type = MON_PIC_AFFINE_NONE;
+    }
+    else
+    {
+        type = flags;
+    }
+    images = Alloc(sizeof(struct SpriteFrameImage) * MAX_MON_PIC_FRAMES);
+    if (!images)
+    {
+        Free(framePics);
+        return 0xFFFF;
+    }
+    if (DecompressPic(species, personality, flags, framePics, FALSE))
+    {
+        // debug trap?
+        return 0xFFFF;
+    }
+    for (j = 0; j < MAX_MON_PIC_FRAMES; j ++)
+    {
+        images[j].data = framePics + MON_PIC_SIZE * j;
+        images[j].size = MON_PIC_SIZE;
+    }
+    sCreatingSpriteTemplate.tileTag = TAG_NONE;
+    sCreatingSpriteTemplate.anims = gSpeciesInfo[species].frontAnimFrames;
+    sCreatingSpriteTemplate.images = images;
+    if (type == MON_PIC_AFFINE_FRONT)
+    {
+        sCreatingSpriteTemplate.affineAnims = gAffineAnims_BattleSpriteOpponentSide;
+        sCreatingSpriteTemplate.oam = &sOamData_Affine;
+    }
+    else if (type == MON_PIC_AFFINE_BACK)
+    {
+        sCreatingSpriteTemplate.affineAnims = gAffineAnims_BattleSpritePlayerSide;
+        sCreatingSpriteTemplate.oam = &sOamData_Affine;
+    }
+    else // MON_PIC_AFFINE_NONE
+    {
+        sCreatingSpriteTemplate.oam = &sOamData_Normal;
+        sCreatingSpriteTemplate.affineAnims = gDummySpriteAffineAnimTable;
+    }
+    sCreatingSpriteTemplate.callback = DummyPicSpriteCallback;
+    LoadPicPaletteByTagOrSlot(species, isShiny, personality, paletteSlot, paletteTag, FALSE);
+    spriteId = CreateSprite(&sCreatingSpriteTemplate, x, y, 0);
+    if (paletteTag == TAG_NONE)
+        gSprites[spriteId].oam.paletteNum = paletteSlot;
+    sSpritePics[i].frames = framePics;
+    sSpritePics[i].images = images;
+    sSpritePics[i].paletteTag = paletteTag;
+    sSpritePics[i].spriteId = spriteId;
+    sSpritePics[i].active = TRUE;
+    return spriteId;
+}
+
+static u16 FreeAndDestroyPicSpriteInternal(u16 spriteId, bool8 clearPalette)
+{
+    u8 i;
+    u8 *framePics;
+    struct SpriteFrameImage *images;
+
+    for (i = 0; i < PICS_COUNT; i ++)
+    {
+        if (sSpritePics[i].spriteId == spriteId)
+            break;
+    }
+    if (i == PICS_COUNT)
+        return 0xFFFF;
+
+    framePics = sSpritePics[i].frames;
+    images = sSpritePics[i].images;
+    if (clearPalette && sSpritePics[i].paletteTag != TAG_NONE)
+        FreeSpritePaletteByTag(GetSpritePaletteTagByPaletteNum(gSprites[spriteId].oam.paletteNum));
+    DestroySprite(&gSprites[spriteId]);
+    Free(framePics);
+    Free(images);
+    sSpritePics[i] = sDummyPicData;
+    return 0;
+}
+
+static u16 LoadPicSpriteInWindow(u16 species, bool8 isShiny, u32 personality, bool8 isFrontPic, u8 paletteSlot, u8 windowId, bool8 isTrainer)
+{
+    if (DecompressPic(species, personality, isFrontPic, (u8 *)GetWindowAttribute(windowId, WINDOW_TILE_DATA), FALSE))
+        return 0xFFFF;
+
+    LoadPicPaletteBySlot(species, isShiny, personality, paletteSlot, isTrainer);
+    return 0;
+}
+
+static u16 CreateTrainerCardSprite(u16 species, bool8 isShiny, u32 personality, bool8 isFrontPic, u16 destX, u16 destY, u8 paletteSlot, u8 windowId, bool8 isTrainer)
+{
+    u8 *framePics;
+
+    framePics = Alloc(TRAINER_PIC_SIZE * MAX_TRAINER_PIC_FRAMES);
+    if (framePics && !DecompressPic(species, personality, isFrontPic, framePics, isTrainer))
+    {
+        BlitBitmapRectToWindow(windowId, framePics, 0, 0, TRAINER_PIC_WIDTH, TRAINER_PIC_HEIGHT, destX, destY, TRAINER_PIC_WIDTH, TRAINER_PIC_HEIGHT);
+        LoadPicPaletteBySlot(species, isShiny, personality, paletteSlot, isTrainer);
+        Free(framePics);
+        return 0;
+    }
+    return 0xFFFF;
+}
+
+u16 CreateMonPicSprite(u16 species, bool8 isShiny, u32 personality, bool8 isFrontPic, s16 x, s16 y, u8 paletteSlot, u16 paletteTag)
+{
+    return CreatePicSprite(species, isShiny, personality, isFrontPic, x, y, paletteSlot, paletteTag, FALSE);
+}
+
+// WoT: same machinery as CreatePicSprite, but the art comes from a raw
+// uncompressed 64x64 4bpp sheet + its own palette instead of the species /
+// trainer pic tables -- that lets the credits parade shadow battle art,
+// custom forms and the studio mark side by side. Registering in sSpritePics
+// keeps FreeAndDestroyMonPicSprite() working on the result unchanged.
+u16 WotCreateRawPicSprite(const u32 *gfx, const u16 *pal, s16 x, s16 y, u8 paletteSlot)
+{
+    u8 i;
+    u8 *framePics;
+    struct SpriteFrameImage *images;
+    int j;
+    u8 spriteId;
+
+    for (i = 0; i < PICS_COUNT; i++)
+    {
+        if (!sSpritePics[i].active)
+            break;
+    }
+    if (i == PICS_COUNT)
+        return 0xFFFF;
+
+    framePics = Alloc(PIC_SPRITE_SIZE * MAX_PIC_FRAMES);
+    if (!framePics)
+        return 0xFFFF;
+
+    images = Alloc(sizeof(struct SpriteFrameImage) * MAX_PIC_FRAMES);
+    if (!images)
+    {
+        Free(framePics);
+        return 0xFFFF;
+    }
+    // One still frame, repeated: the credits only ever show frame 0.
+    for (j = 0; j < MAX_PIC_FRAMES; j++)
+    {
+        CpuCopy32(gfx, framePics + PIC_SPRITE_SIZE * j, PIC_SPRITE_SIZE);
+        images[j].data = framePics + PIC_SPRITE_SIZE * j;
+        images[j].size = PIC_SPRITE_SIZE;
+    }
+    sCreatingSpriteTemplate.tileTag = TAG_NONE;
+    sCreatingSpriteTemplate.oam = &sOamData_Normal;
+    AssignSpriteAnimsTable(FALSE);
+    sCreatingSpriteTemplate.images = images;
+    sCreatingSpriteTemplate.affineAnims = gDummySpriteAffineAnimTable;
+    sCreatingSpriteTemplate.callback = DummyPicSpriteCallback;
+    LoadPalette(pal, OBJ_PLTT_ID(paletteSlot), PLTT_SIZE_4BPP);
+    spriteId = CreateSprite(&sCreatingSpriteTemplate, x, y, 0);
+    gSprites[spriteId].oam.paletteNum = paletteSlot;
+    sSpritePics[i].frames = framePics;
+    sSpritePics[i].images = images;
+    sSpritePics[i].paletteTag = TAG_NONE;
+    sSpritePics[i].spriteId = spriteId;
+    sSpritePics[i].active = TRUE;
+    return spriteId;
+}
+
+// WoT: repaint an already-created pic sprite with raw art. Only the pixels
+// and the palette change -- the species' anim and affine tables, and
+// everything sSpritePics tracks for the eventual free, stay exactly as
+// CreateMonPicSprite* left them. That is what makes this safe for the Hall
+// of Fame's affine parade as well as its still team shot.
+bool32 WotRepaintPicSprite(u16 spriteId, const u32 *gfx, const u16 *pal, u8 paletteSlot)
+{
+    u8 i;
+    int j;
+
+    if (spriteId >= MAX_SPRITES)
+        return FALSE;
+    for (i = 0; i < PICS_COUNT; i++)
+    {
+        if (sSpritePics[i].active && sSpritePics[i].spriteId == spriteId)
+            break;
+    }
+    if (i == PICS_COUNT)
+        return FALSE;
+
+    // NEITHER the frame count NOR the stride can be assumed here, because the
+    // two creators disagree: CreatePicSprite allocates PIC_SPRITE_SIZE *
+    // MAX_PIC_FRAMES (4 frames, trainer-sized), while CreateMonPicSprite_Affine
+    // allocates MON_PIC_SIZE * MAX_MON_PIC_FRAMES (2 frames, mon-sized) -- half
+    // as much. Walking the buffer with the larger pair overran the affine one by
+    // 4KB and took the Hall of Fame's parade down with it.
+    //
+    // So use the creator's own per-frame pointers, and copy only the frames a
+    // mon actually animates. Both creators allocate at least MAX_MON_PIC_FRAMES
+    // images of at least MON_PIC_SIZE, so this is in bounds on either path.
+    for (j = 0; j < MAX_MON_PIC_FRAMES; j++)
+        CpuCopy32(gfx, (void *)sSpritePics[i].images[j].data, MON_PIC_SIZE);
+    LoadPalette(pal, OBJ_PLTT_ID(paletteSlot), PLTT_SIZE_4BPP);
+    // The frame image reaches VRAM through the copy queue on the next
+    // sprite update, so re-arm the anim to be sure it is re-requested.
+    gSprites[spriteId].animBeginning = TRUE;
+    return TRUE;
+}
+
+u16 FreeAndDestroyMonPicSprite(u16 spriteId)
+{
+    return FreeAndDestroyPicSpriteInternal(spriteId, TRUE);
+}
+
+u16 FreeAndDestroyMonPicSpriteNoPalette(u16 spriteId)
+{
+    return FreeAndDestroyPicSpriteInternal(spriteId, FALSE);
+}
+
+static u16 UNUSED LoadMonPicInWindow(u16 species, bool8 isShiny, u32 personality, bool8 isFrontPic, u8 paletteSlot, u8 windowId)
+{
+    return LoadPicSpriteInWindow(species, isShiny, personality, isFrontPic, paletteSlot, windowId, FALSE);
+}
+
+// Unused, FRLG only
+u16 CreateTrainerCardMonIconSprite(u16 species, bool8 isShiny, u32 personality, bool8 isFrontPic, u16 destX, u16 destY, u8 paletteSlot, u8 windowId)
+{
+    return CreateTrainerCardSprite(species, isShiny, personality, isFrontPic, destX, destY, paletteSlot, windowId, FALSE);
+}
+
+u16 CreateTrainerPicSprite(u16 species, bool8 isFrontPic, s16 x, s16 y, u8 paletteSlot, u16 paletteTag)
+{
+    return CreatePicSprite(species, FALSE, 0, isFrontPic, x, y, paletteSlot, paletteTag, TRUE);
+}
+
+u16 FreeAndDestroyTrainerPicSprite(u16 spriteId)
+{
+    return FreeAndDestroyPicSpriteInternal(spriteId, TRUE);
+}
+
+static u16 UNUSED LoadTrainerPicInWindow(u16 species, bool8 isFrontPic, u8 paletteSlot, u8 windowId)
+{
+    return LoadPicSpriteInWindow(species, FALSE, 0, isFrontPic, paletteSlot, windowId, TRUE);
+}
+
+u16 CreateTrainerCardTrainerPicSprite(u16 species, bool8 isFrontPic, u16 destX, u16 destY, u8 paletteSlot, u8 windowId)
+{
+    return CreateTrainerCardSprite(species, FALSE, 0, isFrontPic, destX, destY, paletteSlot, windowId, TRUE);
+}
+
+u16 PlayerGenderToFrontTrainerPicId_Debug(enum Gender gender, bool8 getClass)
+{
+    if (getClass == TRUE)
+    {
+        if (gender != MALE)
+            return gFacilityClassToPicIndex[FACILITY_CLASS_MAY];
+        else
+            return gFacilityClassToPicIndex[FACILITY_CLASS_BRENDAN];
+    }
+    return gender;
+}
+
+void CopyTrainerBackspriteFramesToDest(enum TrainerPicID trainerPicId, u8 *dest)
+{
+    const struct SpriteFrameImage *frame = &gTrainerBacksprites[trainerPicId].backPic;
+    // y_offset is repurposed to indicates how many frames does the trainer pic have.
+    u32 size = (frame->size * gTrainerBacksprites[trainerPicId].coordinates.y_offset);
+    CpuSmartCopy16(frame->data, dest, size);
+}

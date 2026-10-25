@@ -221,32 +221,32 @@ static const u32 sQuestMenuTilemap[] =
 
 //Strings used for the Quest Menu
 static const u8 sText_Empty[] = _("");
-static const u8 sText_AllHeader[] = _("All Missions");
-static const u8 sText_InactiveHeader[] = _("Inactive Missions");
-static const u8 sText_ActiveHeader[] = _("Active Missions");
-static const u8 sText_RewardHeader[] = _("Reward Available");
+static const u8 sText_AllHeader[] = _("{JPN}すべての クエスト");
+static const u8 sText_InactiveHeader[] = _("{JPN}みじゅちゅう");
+static const u8 sText_ActiveHeader[] = _("{JPN}しんこうちゅう");
+static const u8 sText_RewardHeader[] = _("{JPN}ほうしゅう うけとり");
 static const u8 sText_CompletedHeader[] =
-      _("Completed Missions");
+      _("{JPN}かんりょうずみ");
 static const u8 sText_QuestNumberDisplay[] =
       _("{STR_VAR_1}/{STR_VAR_2}");
 static const u8 sText_Unk[] = _("??????");
-static const u8 sText_Active[] = _("Active");
-static const u8 sText_Reward[] = _("Reward");
-static const u8 sText_Complete[] = _("Done");
+static const u8 sText_Active[] = _("{JPN}じゅちゅう");
+static const u8 sText_Reward[] = _("{JPN}ほうしゅう");
+static const u8 sText_Complete[] = _("{JPN}かんりょう");
 static const u8 sText_ShowLocation[] =
-      _("Location: {STR_VAR_2}");
+      _("{JPN}ばしょ: {STR_VAR_2}");
 static const u8 sText_StartForMore[] =
-      _("Start for more details.");
+      _("{JPN}{ENG}START{JPN}で くわしく");
 static const u8 sText_ReturnRecieveReward[] =
-      _("Return to {STR_VAR_2}\nto recieve your reward!");
+      _("{JPN}{STR_VAR_2}に もどり\nほうしゅうを うけとろう！");
 static const u8 sText_SubQuestButton[] = _(" {A_BUTTON}");
-static const u8 sText_Type[] = _("{R_BUTTON}Type");
-static const u8 sText_Caught[] = _("Caught");
-static const u8 sText_Found[] = _("Found");
-static const u8 sText_Read[] = _("Read");
-static const u8 sText_Back[] = _("Back");
+static const u8 sText_Type[] = _("{JPN}{R_BUTTON}しゅるい");
+static const u8 sText_Caught[] = _("{JPN}つかまえた");
+static const u8 sText_Found[] = _("{JPN}みつけた");
+static const u8 sText_Read[] = _("{JPN}よんだ");
+static const u8 sText_Back[] = _("{JPN}もどる");
 static const u8 sText_DotSpace[] = _(". ");
-static const u8 sText_Close[] = _("Close");
+static const u8 sText_Close[] = _("{JPN}とじる");
 static const u8 sText_ColorGreen[] = _("{COLOR}{GREEN}");
 static const u8 sText_AZ[] = _(" A-Z");
 
@@ -1516,6 +1516,14 @@ static void QuestMenu_AddTextPrinterParameterized(u8 windowId, u8 fontId,
             const u8 *str, u8 x, u8 y,
             u8 letterSpacing, u8 lineSpacing, u8 speed, u8 colorIdx)
 {
+	// Explicit Japanese entries use 8px cells and no extra spacing.
+	// The original 10px FONT_SHORT + 5px spacing exceeds the description area.
+	if (str[0] == EXT_CTRL_CODE_BEGIN && str[1] == EXT_CTRL_CODE_JPN)
+	{
+		letterSpacing = 0;
+		if (fontId == FONT_SHORT)
+			fontId = FONT_NORMAL;
+	}
 	AddTextPrinterParameterized4(windowId, fontId, x, y, letterSpacing,
 	                             lineSpacing,
 	                             sQuestMenuWindowFontColors[colorIdx], speed, str);
@@ -2020,7 +2028,7 @@ static void PrintMenuContext(void)
 }
 static void PrintTypeFilterButton(void)
 {
-	QuestMenu_AddTextPrinterParameterized(2, 0, sText_Type, 198, 1,
+	QuestMenu_AddTextPrinterParameterized(2, 0, sText_Type, 184, 1,
 	                                      0, 1, 0, 0);
 
 }

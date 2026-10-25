@@ -18,6 +18,16 @@
 #include "constants/songs.h"
 #include "constants/speaker_names.h"
 
+// Adapted from CanuseJP's ShouldUseJapaneseGlyph after comparing text.c.
+// Extended symbols/emoji only exist in the Latin sheets; Japanese sheets
+// have 256 cells. Keep both decompression and width lookup on the same sheet.
+// Digits retain the Latin UI metrics in Japanese text as in the reference.
+static bool32 ShouldUseJapaneseGlyph(u16 glyphId, bool32 isJapanese)
+{
+    return isJapanese && glyphId < 0x100
+        && !(glyphId >= CHAR_0 && glyphId <= CHAR_9);
+}
+
 static u16 RenderText(struct TextPrinter *);
 static u32 RenderFont(struct TextPrinter *);
 static u16 FontFunc_Small(struct TextPrinter *);
@@ -2206,6 +2216,7 @@ u8 GetMenuCursorDimensionByFont(u8 fontId, u8 whichDimension)
 
 static void DecompressGlyph_Small(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == 1)
@@ -2240,6 +2251,7 @@ static void DecompressGlyph_Small(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_Small(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return 8;
     else
@@ -2248,6 +2260,7 @@ static u32 GetGlyphWidth_Small(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_Narrow(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2282,6 +2295,7 @@ static void DecompressGlyph_Narrow(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_Narrow(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return 8;
     else
@@ -2290,6 +2304,7 @@ static u32 GetGlyphWidth_Narrow(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_SmallNarrow(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2324,6 +2339,7 @@ static void DecompressGlyph_SmallNarrow(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_SmallNarrow(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return 8;
     else
@@ -2332,6 +2348,7 @@ static u32 GetGlyphWidth_SmallNarrow(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_Short(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2368,6 +2385,7 @@ static void DecompressGlyph_Short(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_Short(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return gFontShortJapaneseGlyphWidths[glyphId];
     else
@@ -2376,6 +2394,7 @@ static u32 GetGlyphWidth_Short(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_Normal(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2410,6 +2429,7 @@ static void DecompressGlyph_Normal(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_Normal(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return 8;
     else
@@ -2429,6 +2449,7 @@ static void DecompressGlyph_Bold(u16 glyphId)
 
 static void DecompressGlyph_Narrower(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2463,6 +2484,7 @@ static void DecompressGlyph_Narrower(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_Narrower(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return 8;
     else
@@ -2471,6 +2493,7 @@ static u32 GetGlyphWidth_Narrower(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_SmallNarrower(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2505,6 +2528,7 @@ static void DecompressGlyph_SmallNarrower(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_SmallNarrower(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return 8;
     else
@@ -2513,6 +2537,7 @@ static u32 GetGlyphWidth_SmallNarrower(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_ShortNarrow(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2549,6 +2574,7 @@ static void DecompressGlyph_ShortNarrow(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_ShortNarrow(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return gFontShortJapaneseGlyphWidths[glyphId];
     else
@@ -2557,6 +2583,7 @@ static u32 GetGlyphWidth_ShortNarrow(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_ShortNarrower(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (isJapanese == TRUE)
@@ -2593,6 +2620,7 @@ static void DecompressGlyph_ShortNarrower(u16 glyphId, bool32 isJapanese)
 
 static u32 GetGlyphWidth_ShortNarrower(u16 glyphId, bool32 isJapanese)
 {
+    isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
         return gFontShortJapaneseGlyphWidths[glyphId];
     else

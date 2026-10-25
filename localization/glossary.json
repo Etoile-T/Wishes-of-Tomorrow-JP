@@ -1,0 +1,126 @@
+{
+  "policy": "独自名称は暫定表記。ストーリー全体との整合性確認後に確定する。公式名の網羅辞書は未作成。",
+  "terms": [
+    {
+      "source": "Mt. Munen",
+      "translation": "ムネンやま",
+      "status": "provisional"
+    },
+    {
+      "source": "Munen Village",
+      "translation": "ムネンむら",
+      "status": "provisional"
+    },
+    {
+      "source": "Professor Clarkson",
+      "translation": "クラークソンはかせ",
+      "status": "provisional"
+    },
+    {
+      "source": "Haru",
+      "translation": "ハル",
+      "status": "provisional"
+    },
+    {
+      "source": "Team Mutrid",
+      "translation": "ミュートリッドだん",
+      "status": "provisional"
+    },
+    {
+      "source": "Undying Wish",
+      "translation": "ふめつのねがい",
+      "status": "provisional"
+    },
+    {
+      "source": "Shadow Pokémon",
+      "translation": "ダークポケモン",
+      "status": "series_terminology"
+    },
+    {
+      "source": "purification",
+      "translation": "リライブ",
+      "status": "series_terminology"
+    },
+    {
+      "source": "snag",
+      "translation": "スナッチ",
+      "status": "series_terminology"
+    },
+    {
+      "source": "Catalpa Bow",
+      "translation": "アズサユミ",
+      "status": "provisional"
+    },
+    {
+      "source": "Master Gen",
+      "translation": "ゲンししょう",
+      "status": "provisional"
+    },
+    {
+      "source": "Sennen Station",
+      "translation": "センネンえき",
+      "status": "provisional"
+    },
+    {
+      "source": "Star Summit",
+      "translation": "スターサミット",
+      "status": "provisional"
+    },
+    {
+      "source": "Pokémon",
+      "translation": "ポケモン",
+      "status": "series_terminology"
+    },
+    {
+      "source": "Pompeii",
+      "translation": "ポンペイ",
+      "status": "provisional"
+    },
+    {
+      "source": "Frostwood Town",
+      "translation": "フロストウッドタウン",
+      "status": "provisional"
+    },
+    {
+      "source": "Shin-Tokyo",
+      "translation": "シントウキョウ",
+      "status": "provisional"
+    },
+    {
+      "source": "Mikmanc",
+      "translation": "ミクマンク",
+      "status": "provisional"
+    },
+    {
+      "source": "Lida",
+      "translation": "リダ",
+      "status": "provisional"
+    },
+    {
+      "source": "Canari",
+      "translation": "カナリィ",
+      "status": "provisional"
+    },
+    {
+      "source": "Mable",
+      "translation": "モミジ",
+      "status": "provisional"
+    },
+    {
+      "source": "Shadow Generator",
+      "translation": "ダークそうち",
+      "status": "provisional"
+    },
+    {
+      "source": "National Park",
+      "translation": "しぜんこうえん",
+      "status": "provisional"
+    }
+  ],
+  "voice": {
+    "mother": "親しみのある柔らかな口調。語尾は「わ」「ね」。",
+    "Clarkson": "老研究者。暫定的に一人称「わし」。全会話を確認して再評価する。",
+    "Haru": "冒頭では挑戦的な若者。一人称「おれ」。",
+    "narrator": "伝承の重みを残した簡潔な常体。"
+  }
+}

@@ -507,14 +507,14 @@ const u8 gText_Single2[] = _("SINGLE");
 const u8 gText_Double2[] = _("DOUBLE");
 const u8 gText_Multi[] = _("MULTI");
 const u8 gText_MultiLink[] = _("MULTI-LINK");
-const u8 gText_MenuOptionPokedex[] = _("POKéDEX");
-const u8 gText_MenuOptionPokemon[] = _("POKéMON");
-const u8 gText_MenuOptionBag[] = _("BAG");
-const u8 gText_MenuOptionPokenav[] = _("POKéNAV");
+const u8 gText_MenuOptionPokedex[] = _("{JPN}ポケモンずかん");
+const u8 gText_MenuOptionPokemon[] = _("{JPN}ポケモン");
+const u8 gText_MenuOptionBag[] = _("{JPN}バッグ");
+const u8 gText_MenuOptionPokenav[] = _("{JPN}ポケナビ");
 const u8 gText_Blank[] = _("");
-const u8 gText_MenuOptionSave[] = _("SAVE");
-const u8 gText_MenuOptionOption[] = _("OPTION");
-const u8 gText_MenuOptionExit[] = _("EXIT");
+const u8 gText_MenuOptionSave[] = _("{JPN}レポート");
+const u8 gText_MenuOptionOption[] = _("{JPN}せってい");
+const u8 gText_MenuOptionExit[] = _("{JPN}とじる");
 const u8 gText_SouthernIsland[] = _("SOUTHERN ISLAND");
 const u8 gText_BirthIsland[] = _("BIRTH ISLAND");
 const u8 gText_FarawayIsland[] = _("FARAWAY ISLAND");
@@ -978,17 +978,17 @@ const u8 gText_TimeColon2[] = _("Time:"); // Unused
 const u8 gText_GameTime[] = _("Game time"); // Unused
 const u8 gText_RTCTime[] = _("RTC time"); // Unused
 const u8 gText_UpdatedTime[] = _("Updated time"); // Unused
-const u8 gText_MenuPokedex[] = _("POKéDEX");
-const u8 gText_MenuPokemon[] = _("POKéMON");
-const u8 gText_MenuBag[] = _("BAG");
-const u8 gText_MenuPokenav[] = _("POKéNAV");
+const u8 gText_MenuPokedex[] = _("{JPN}ポケモンずかん");
+const u8 gText_MenuPokemon[] = _("{JPN}ポケモン");
+const u8 gText_MenuBag[] = _("{JPN}バッグ");
+const u8 gText_MenuPokenav[] = _("{JPN}ポケナビ");
 const u8 gText_MenuPlayer[] = _("{PLAYER}");
-const u8 gText_MenuSave[] = _("SAVE");
-const u8 gText_MenuOption[] = _("OPTION");
-const u8 gText_MenuExit[] = _("EXIT");
-const u8 gText_MenuRetire[] = _("RETIRE");
-const u8 gText_MenuRest[] = _("REST");
-const u8 gText_MenuDexNav[] = _("DEXNAV");
+const u8 gText_MenuSave[] = _("{JPN}レポート");
+const u8 gText_MenuOption[] = _("{JPN}せってい");
+const u8 gText_MenuExit[] = _("{JPN}とじる");
+const u8 gText_MenuRetire[] = _("{JPN}リタイア");
+const u8 gText_MenuRest[] = _("{JPN}きゅうけい");
+const u8 gText_MenuDexNav[] = _("{JPN}ずかんナビ");
 const u8 gText_SafariBallStock[] = _("SAFARI BALLS\nStock: {STR_VAR_1}");
 const u8 gText_MenuSafariStats[] = _("{STR_VAR_1}/{STR_VAR_2}\nBALLS  {STR_VAR_3}");
 const u8 gText_BattlePyramidFloor[] = _("Battle Pyramid\n{STR_VAR_1}");
@@ -1225,89 +1225,89 @@ const u8 gText_OakThisIsListOfPokemon[] = _("This is a list of your POKéMON,\n{
 
 //// Wishes of Tomorrow quest text (see Quest_Plan_Handoff.md)
 //generic quest announcement strings
-const u8 gText_QuestAnnounce[] = _("The quest '{STR_VAR_1}'\nis now {STR_VAR_2}.");
-const u8 gText_QuestComplete[] =_("complete");
-const u8 gText_QuestActive[] =_("active");
+const u8 gText_QuestAnnounce[] = _("{JPN}クエスト {STR_VAR_1}\n{STR_VAR_2}に なりました。");
+const u8 gText_QuestComplete[] =_("{JPN}かんりょう");
+const u8 gText_QuestActive[] =_("{JPN}しんこうちゅう");
 
 //quest menu location labels
-const u8 gText_QuestLoc_MtMunen[] = _("MT. MUNEN");
-const u8 gText_QuestLoc_MunenVillage[] = _("MUNEN VILLAGE");
-const u8 gText_QuestLoc_SennenStation[] = _("SENNEN STATION");
-const u8 gText_QuestLoc_NationalPark[] = _("NATIONAL PARK");
-const u8 gText_QuestLoc_Pompeii[] = _("POMPEII");
-const u8 gText_QuestLoc_FrostwoodTown[] = _("FROSTWOOD TOWN");
-const u8 gText_QuestLoc_ShinTokyo[] = _("SHIN-TOKYO");
-const u8 gText_QuestLoc_HotelZ[] = _("HOTEL Z");
+const u8 gText_QuestLoc_MtMunen[] = _("{JPN}ムネンやま");
+const u8 gText_QuestLoc_MunenVillage[] = _("{JPN}ムネンむら");
+const u8 gText_QuestLoc_SennenStation[] = _("{JPN}センネンえき");
+const u8 gText_QuestLoc_NationalPark[] = _("{JPN}しぜんこうえん");
+const u8 gText_QuestLoc_Pompeii[] = _("{JPN}ポンペイ");
+const u8 gText_QuestLoc_FrostwoodTown[] = _("{JPN}フロストウッドタウン");
+const u8 gText_QuestLoc_ShinTokyo[] = _("{JPN}シントウキョウ");
+const u8 gText_QuestLoc_HotelZ[] = _("{JPN}ホテル{ENG}Z");
 
-const u8 gText_Quest_StopTheMachine_Name[] = _("Stop the Machine");
-const u8 gText_Quest_StopTheMachine_Desc1[] = _("The tides run low tonight.\nSurf south, find the shrine,\nthen climb Mutrid's tower.");
-const u8 gText_Quest_StopTheMachine_DoneDesc[] = _("The Shadow Generator is silent.\nThe wish is mended.");
+const u8 gText_Quest_StopTheMachine_Name[] = _("{JPN}そうちを とめろ");
+const u8 gText_Quest_StopTheMachine_Desc1[] = _("{JPN}こんやは しおが ひく。\nなみのりで みなみの ほこらへ。\nそのあと ミュートリッドの とうへ。");
+const u8 gText_Quest_StopTheMachine_DoneDesc[] = _("{JPN}ダークそうちは とまった。\nねがいは もとのすがたに。");
 
-const u8 gText_Quest_HarnessDarkness_Name[] = _("Harness Darkness");
-const u8 gText_Quest_HarnessDarkness_Desc1[] = _("Purify one Shadow at the\nshrine, then report back to\nPROF. ASSISTANT.");
-const u8 gText_Quest_HarnessDarkness_Desc2[] = _("The sky is open. Now snag\nfive Shadows and return to\nPROF. ASSISTANT.");
-const u8 gText_Quest_HarnessDarkness_DoneDesc[] = _("Their darkness answers to\nyou now.");
+const u8 gText_Quest_HarnessDarkness_Name[] = _("{JPN}やみを あやつる");
+const u8 gText_Quest_HarnessDarkness_Desc1[] = _("{JPN}ほこらで ダークポケモンを\n1たい リライブし\nはかせの じょしゅに ほうこく。");
+const u8 gText_Quest_HarnessDarkness_Desc2[] = _("{JPN}そらへの みちが ひらけた。\nダークポケモンを 5たい スナッチし\nはかせの じょしゅの もとへ。");
+const u8 gText_Quest_HarnessDarkness_DoneDesc[] = _("{JPN}ポケモンたちの やみは\nいまや あなたに したがう。");
 
-const u8 gText_Quest_MinistersFavor_Name[] = _("Jailbreaker");
-const u8 gText_Quest_MinistersFavor_Desc1[] = _("Meet the MINISTER at the\nSHIN-TOKYO docks, then bust\nMikmanc out of the jail.");
-const u8 gText_Quest_MinistersFavor_DoneDesc[] = _("Mikmanc walks free. The\nMinister paid what he owed.");
-const u8 gText_Quest_MegaDoomsday_Name[] = _("Mega Doomsday");
-const u8 gText_Quest_MegaDoomsday_Desc[] = _("Meet Lida and Canari in\nHotel Z.");
-const u8 gText_Quest_MegaDoomsday_DoneDesc[] = _("You met Lida and Canari\nat Hotel Z.");
-const u8 gText_Quest_TwoMinutes_Name[] = _("Two Minutes Is a Long Time");
-const u8 gText_Quest_TwoMinutes_Desc[] = _("Bring Mable the Mega Stone\nof every rogue Mega (19).\nAsk her for your tally.");
-const u8 gText_Quest_TwoMinutes_DoneDesc[] = _("Mable has all 19 samples.\nShe's running her tests.");
-const u8 gText_Quest_PrimalSignatures_Name[] = _("Primal Signatures");
-const u8 gText_Quest_PrimalSignatures_Desc[] = _("Off-the-charts readings in\nthe rifts. Catch Primal\nGroudon and Primal Kyogre.");
-const u8 gText_Quest_PrimalSignatures_DoneDesc[] = _("Both Primals are caught.\nMable has their readings.");
-const u8 gText_Quest_SkyHighMega_Name[] = _("Sky-High Mega");
-const u8 gText_Quest_SkyHighMega_Desc[] = _("Something in the rifts is\nafter the Primals' power.\nCatch Mega Rayquaza.");
-const u8 gText_Quest_SkyHighMega_DoneDesc[] = _("Mega Rayquaza is caught.\nThe rifts are calming.");
+const u8 gText_Quest_MinistersFavor_Name[] = _("{JPN}ろうやぶり");
+const u8 gText_Quest_MinistersFavor_Desc1[] = _("{JPN}シントウキョウの みなとで\nだいじんと あい ミクマンクを\nろうやから たすけだそう。");
+const u8 gText_Quest_MinistersFavor_DoneDesc[] = _("{JPN}ミクマンクは じゆうの み。\nだいじんも やくそくを はたした。");
+const u8 gText_Quest_MegaDoomsday_Name[] = _("{JPN}メガの しゅうまつ");
+const u8 gText_Quest_MegaDoomsday_Desc[] = _("{JPN}ホテル{ENG}Z{JPN}で リダと\nカナリィに あおう。");
+const u8 gText_Quest_MegaDoomsday_DoneDesc[] = _("{JPN}ホテル{ENG}Z{JPN}で リダと\nカナリィに あった。");
+const u8 gText_Quest_TwoMinutes_Name[] = _("{JPN}ながい 2ふんかん");
+const u8 gText_Quest_TwoMinutes_Desc[] = _("{JPN}ぼうそうメガ 19しゅの メガストーンを\nモミジに とどけよう。\nあつめた かずも きいてみよう。");
+const u8 gText_Quest_TwoMinutes_DoneDesc[] = _("{JPN}19しゅの サンプルが そろい\nモミジは けんさを はじめた。");
+const u8 gText_Quest_PrimalSignatures_Name[] = _("{JPN}ゲンシの はんのう");
+const u8 gText_Quest_PrimalSignatures_Desc[] = _("{JPN}さけめで いじょうな はんのう。\nゲンシグラードンと\nゲンシカイオーガを つかまえよう。");
+const u8 gText_Quest_PrimalSignatures_DoneDesc[] = _("{JPN}2たいの ゲンシを つかまえた。\nモミジも データを てにいれた。");
+const u8 gText_Quest_SkyHighMega_Name[] = _("{JPN}てんくうの メガ");
+const u8 gText_Quest_SkyHighMega_Desc[] = _("{JPN}さけめの なにかが\nゲンシの ちからを ねらっている。\nメガレックウザを つかまえよう。");
+const u8 gText_Quest_SkyHighMega_DoneDesc[] = _("{JPN}メガレックウザを つかまえた。\nさけめも おちつきはじめている。");
 
 //QUEST_WAKING_MOUNTAIN (MAIN) - stage 2 once FLAG_BADGE01_GET is set
-const u8 gText_Quest_WakingMountain_Name[] = _("The Waking Mountain");
-const u8 gText_Quest_WakingMountain_Desc1[] = _("The thousand-year ice is\nbreaking. Only Prof. Clarkson\nknows why. Seek him out.");
-const u8 gText_Quest_WakingMountain_Desc2[] = _("Clarkson has called from the\npeak. Climb to STAR SUMMIT,\nwhere the ice finally ends.");
-const u8 gText_Quest_WakingMountain_DoneDesc[] = _("The mountain has woken. What\ncomes next, no one can say.");
+const u8 gText_Quest_WakingMountain_Name[] = _("{JPN}めざめる やま");
+const u8 gText_Quest_WakingMountain_Desc1[] = _("{JPN}せんねんの こおりが われはじめた。\nりゆうを しる クラークソンはかせを\nさがしに いこう。");
+const u8 gText_Quest_WakingMountain_Desc2[] = _("{JPN}はかせが さんちょうで よんでいる。\nこおりが とぎれる ばしょ\nスターサミットへ のぼろう。");
+const u8 gText_Quest_WakingMountain_DoneDesc[] = _("{JPN}やまが めざめた。 このさき\nなにが おこるかは だれも しらない。");
 
 //SIDE_QUEST_ONE_THAT_GOT_AWAY - stage 2 once FLAG_SEAFLOOR_GYARADOS_GONE is set
-const u8 gText_Quest_OneThatGotAway_Name[] = _("The One That Got Away");
-const u8 gText_Quest_OneThatGotAway_Desc1[] = _("A boy in Munen waits for a\nfather lost to the ice. Find\nout what became of him.");
-const u8 gText_Quest_OneThatGotAway_Desc2[] = _("His father is alive! Return\nto the village and end the\nboy's long wait.");
-const u8 gText_Quest_OneThatGotAway_DoneDesc[] = _("The long wait by the lake is\nover. Father and son are\ntogether again.");
+const u8 gText_Quest_OneThatGotAway_Name[] = _("{JPN}かえらない ひと");
+const u8 gText_Quest_OneThatGotAway_Desc1[] = _("{JPN}ムネンむらの しょうねんは\nこおりに きえた ちちを まっている。\nなにが あったか たしかめよう。");
+const u8 gText_Quest_OneThatGotAway_Desc2[] = _("{JPN}ちちおやは いきていた！\nむらへ もどり しょうねんに しらせ\nながい まちじかんを おわらせよう。");
+const u8 gText_Quest_OneThatGotAway_DoneDesc[] = _("{JPN}みずうみでの ながい まちじかんは\nおわった。 おやこは\nふたたび ともに すごしている。");
 
 //SIDE_QUEST_FROZEN_TRACKS
-const u8 gText_Quest_FrozenTracks_Name[] = _("Frozen in Its Tracks");
-const u8 gText_Quest_FrozenTracks_Desc[] = _("A Mutrid goon froze the Sennen\nLine's gears solid. Find a way\nto thaw the train.");
-const u8 gText_Quest_FrozenTracks_DoneDesc[] = _("Arcanine's flame thawed the\nSennen Line. The trains run\nonce more.");
+const u8 gText_Quest_FrozenTracks_Name[] = _("{JPN}こおりついた せんろ");
+const u8 gText_Quest_FrozenTracks_Desc[] = _("{JPN}ミュートリッドだんが センネンせんの\nはぐるまを こおらせた。\nこおりを とかす ほうほうを さがそう。");
+const u8 gText_Quest_FrozenTracks_DoneDesc[] = _("{JPN}ウインディの ほのおで\nセンネンせんの こおりが とけ\nれっしゃが また はしりだした。");
 
 //SIDE_QUEST_EIGHT_WAYS
-const u8 gText_Quest_EightWays_Name[] = _("Eight Ways to Grow");
-const u8 gText_Quest_EightWays_Desc[] = _("A breeder in the park raises\nEevee. Prove yourself, and\none may choose you.");
-const u8 gText_Quest_EightWays_DoneDesc[] = _("Eevee chose you. What it\ngrows into is up to you.");
+const u8 gText_Quest_EightWays_Name[] = _("{JPN}8つの みらい");
+const u8 gText_Quest_EightWays_Desc[] = _("{JPN}こうえんの ブリーダーが\nイーブイを そだてている。\nみとめられれば えらばれるかも。");
+const u8 gText_Quest_EightWays_DoneDesc[] = _("{JPN}イーブイは あなたを えらんだ。\nどんな すがたに そだつかは\nあなたしだい。");
 
 //SIDE_QUEST_HEAVY_METAL - direction matches the built NPC: he wants a Scyther
-const u8 gText_Quest_HeavyMetal_Name[] = _("Heavy Metal");
-const u8 gText_Quest_HeavyMetal_Desc[] = _("A collector in the park wants\na Scyther. He offers one of\nthree rare starters in trade.");
-const u8 gText_Quest_HeavyMetal_DoneDesc[] = _("The collector got his Scyther.\nTreasure the partner he gave\nyou in return.");
+const u8 gText_Quest_HeavyMetal_Name[] = _("{JPN}ヘビーメタル");
+const u8 gText_Quest_HeavyMetal_Desc[] = _("{JPN}こうえんの コレクターは\nストライクと めずらしい パートナー\n3しゅの どれかを こうかんしたい。");
+const u8 gText_Quest_HeavyMetal_DoneDesc[] = _("{JPN}ストライクを コレクターに わたした。\nかわりに もらった パートナーを\nたいせつに しよう。");
 
 //SIDE_QUEST_SAVE_FACE - stage 2 once ITEM_CARVED_MASK is in the bag
-const u8 gText_Quest_SaveFace_Name[] = _("Save Face");
-const u8 gText_Quest_SaveFace_Desc1[] = _("Master Gen's apprentice lost a\nfinished mask in the tunnel.\nRecover it for him.");
-const u8 gText_Quest_SaveFace_Desc2[] = _("You have the missing mask.\nBring it back to Master Gen\nin Pompeii.");
-const u8 gText_Quest_SaveFace_DoneDesc[] = _("The mask is home. Master Gen\nkept face, his apprentice\nkept their place.");
+const u8 gText_Quest_SaveFace_Name[] = _("{JPN}めんぼくを まもれ");
+const u8 gText_Quest_SaveFace_Desc1[] = _("{JPN}ゲンししょうの でしが\nできたての めんを トンネルで\nなくした。 さがして あげよう。");
+const u8 gText_Quest_SaveFace_Desc2[] = _("{JPN}なくした めんが みつかった。\nポンペイの ゲンししょうに\nとどけよう。");
+const u8 gText_Quest_SaveFace_DoneDesc[] = _("{JPN}めんは ぶじに もどった。\nししょうの めんぼくも\nでしの いばしょも まもられた。");
 
 //QUEST_GRANDFATHERS_WISH (MAIN)
-const u8 gText_Quest_GrandfathersWish_Name[] = _("Grandfather's Last Wish");
-const u8 gText_Quest_GrandfathersWish_Desc[] = _("Carry the Catalpa Bow across\nthe water. Play the mourning\nrite at his son's grave.");
-const u8 gText_Quest_GrandfathersWish_DoneDesc[] = _("The bow sang at the graveside.\nA last wish, carried all the\nway through.");
+const u8 gText_Quest_GrandfathersWish_Name[] = _("{JPN}おじいさんの さいごの ねがい");
+const u8 gText_Quest_GrandfathersWish_Desc[] = _("{JPN}アズサユミを もって みずを わたり\nむすこの はかで\nとむらいの ぎしきを おこなおう。");
+const u8 gText_Quest_GrandfathersWish_DoneDesc[] = _("{JPN}はかの まえで ユミが うたった。\nさいごの ねがいは\nさいごまで とどけられた。");
 
 //QUEST_LIFES_WORK (MAIN)
-const u8 gText_Quest_LifesWork_Name[] = _("His Life's Work");
-const u8 gText_Quest_LifesWork_Desc[] = _("Clarkson's last wish: destroy\nhis research. Reach his lab\nin Munen and end it.");
-const u8 gText_Quest_LifesWork_DoneDesc[] = _("The research will never fall\ninto the wrong hands. His\nwork ends as he asked.");
+const u8 gText_Quest_LifesWork_Name[] = _("{JPN}はかせが のこしたもの");
+const u8 gText_Quest_LifesWork_Desc[] = _("{JPN}けんきゅうを こわしてほしい。\nはかせの さいごの ねがいを はたしに\nムネンの けんきゅうじょへ。");
+const u8 gText_Quest_LifesWork_DoneDesc[] = _("{JPN}けんきゅうが あくようされることは\nもう ない。 はかせの しごとは\nねがったとおりの さいごを むかえた。");
 
 //SIDE_QUEST_TOASTY_TIME (Side) - Frostwood gym leader's family
-const u8 gText_Quest_ToastyTime_Name[] = _("Toasty Time");
-const u8 gText_Quest_ToastyTime_Desc[] = _("The gym leader's father gave\nyou HOT COCOA. Coax his two\ndaughters home for dinner.");
-const u8 gText_Quest_ToastyTime_DoneDesc[] = _("The sisters warmed up and\nheaded home. Dinner is served.");
+const u8 gText_Quest_ToastyTime_Name[] = _("{JPN}ほっとする じかん");
+const u8 gText_Quest_ToastyTime_Desc[] = _("{JPN}ジムリーダーの ちちに ココアを\nもらった。 ふたりの むすめを\nゆうしょくに つれもどそう。");
+const u8 gText_Quest_ToastyTime_DoneDesc[] = _("{JPN}しまいたちは あたたまり\nいえへ むかった。 ごはんの じかんだ。");

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "japanese_bold.png",
+    "sha256": "2b21433774dbf46e2d3bbbeec7ebf8eff977094cd48b78ae7f5c958092bb8b48",
+    "reference_exists": true,
+    "identical": false
+  },
+  {
+    "file": "japanese_frlg_female.png",
+    "sha256": "c5772fb334315e00f13200f9908b1e8adb2381791c876013122774d60bd7b5cf",
+    "reference_exists": false,
+    "identical": false
+  },
+  {
+    "file": "japanese_frlg_male.png",
+    "sha256": "79833a303adea94fea71490ceab946e9d9a3a62c0076767864dc58f8c27040a9",
+    "reference_exists": false,
+    "identical": false
+  },
+  {
+    "file": "japanese_normal.png",
+    "sha256": "4beacd1f6f41f092e25f7723c6c3f488d2c66d27dcd429bd51b4d02e50a381b8",
+    "reference_exists": true,
+    "identical": false
+  },
+  {
+    "file": "japanese_short.png",
+    "sha256": "c6ffc2ba828f7e1322fabea15a4b00b05dcbe15d41c89f37f7a97a72c0f4d703",
+    "reference_exists": true,
+    "identical": false
+  },
+  {
+    "file": "japanese_small.png",
+    "sha256": "5c78dd5a3a66e35af302ed130791ffc06108d7aea44c2f96f674e78adfd398e9",
+    "reference_exists": true,
+    "identical": false
+  }
+]

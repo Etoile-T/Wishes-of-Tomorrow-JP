@@ -626,46 +626,46 @@ MunenVillage_Movement_ProfessorLeave:
 	step_end
 
 MunenText_Intro1:
-	.string "Mt. Munen.\nOne thousand years ago.$"
+	.string "{JPN}ムネンやま。\nいまから せんねんまえ。$"
 
 MunenText_Intro2:
-	.string "They say a star fell upon this mountain.\pThey say it granted a wish.\pThey say it ended the world.$"
+	.string "{JPN}このやまに ほしが おちたという。\pほしは ねがいを かなえたという。\pそして せかいを おわらせたという。$"
 
 MunenText_Intro3:
-	.string "Those who survived sealed it away.\pThey sealed the star.\nThey sealed what came with it.\pThey called it the Undying Wish...\pAnd they prayed it would never wake again.$"
+	.string "{JPN}いきのこった ひとびとは ふうじた。\pあの ほしを。\nほしと ともに きたものを。\pひとは それを ふめつのねがいと よび\pにどと めざめぬよう いのった。$"
 
 MunenText_Intro4:
-	.string "It has been sleeping for one thousand\nyears.\pToday, something disturbs the seal.$"
+	.string "{JPN}それから せんねん。\nねむりは つづいていた。\pだが きょう ふういんが ゆらぐ。$"
 
 MunenText_MomFirst:
-	.string "Good morning, sleepyhead.\pProfessor Clarkson sent word. \nHe wants to see you at his lab.\pMind the cold. The mist's come down\nearly.$"
+	.string "{JPN}おはよう。 よく ねむれた？\pクラークソンはかせから でんごんよ。\nけんきゅうじょに きてほしいって。\pさむいから きをつけてね。\nきょうは もう きりが でているわ。$"
 
 MunenText_MomAgain:
-	.string "The Professor's waiting at his\nlab, dear. Wrap up warm.$"
+	.string "{JPN}はかせが けんきゅうじょで まってるわ。\nあたたかくして いくのよ。$"
 
 MunenText_Clarkson:
-	.string "There you are.\pI study what this mountain remembers…\nits old ice, its stories.\pDeep in the frozen lake I found three\nof them. Sleeping in the ice.\pI revived them. I shouldn't have.\pGo on, choose one.\nLet it choose you back.$"
+	.string "{JPN}きたか。\pわしは このやまの きおくを しらべとる。\nふるい こおりや つたわる はなしをな。\pこおった みずうみの そこで みつけた。\nこおりの なかで ねむる 3たいを。\pわしが よみがえらせた。 あやまちだった。\pさあ 1たい えらぶがいい。\nむこうにも えらんで もらいなさい。$"
 
 MunenText_ClarksonAfter:
-	.string "It already trusts you. Good.\pYou're holding part of an answer\nthis mountain has kept for a long time.$"
+	.string "{JPN}もう なついたか。 よしよし。\pそのこは やまが ながらく ひめてきた\nこたえの ひとかけらなのだ。$"
 
 MunenText_IceTyrunt:
-	.string "Inside the ice, something stirs.\pIt regards you as if it already\nrules here.\pTake this one?$"
+	.string "{JPN}こおりの なかで なにかが うごいた。\pまるで ここは じぶんの りょうちだと\nいわんばかりに こちらを みている。\pこのこを えらびますか？$"
 
 MunenText_IceAmaura:
-	.string "Inside the ice, something stirs.\pIt grins at you through the frost,\ndelighted you noticed.\pTake this one?$"
+	.string "{JPN}こおりの なかで なにかが うごいた。\pきづいて もらえて うれしいのか\nしもごしに にっこりと ほほえんだ。\pこのこを えらびますか？$"
 
 MunenText_IceAnorith:
-	.string "Inside the ice, something stirs.\pIt cannot see you, but its jaws\nare already testing the ice.\pTake this one?$"
+	.string "{JPN}こおりの なかで なにかが うごいた。\pこちらの すがたは みえないようだが\nあごで こおりを たしかめている。\pこのこを えらびますか？$"
 
 MunenText_StarterChosen:
-	.string "The ice cracks.\pIt breathes for the first time in a\nthousand years and chooses to\lbreathe beside you.$"
+	.string "{JPN}こおりが われた。\pせんねんぶりに いきを すう。\nそして これからも あなたの そばで\lいきていくことを えらんだ。$"
 
 MunenText_GotStarter:
-	.string "{PLAYER} received the {STR_VAR_1}!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n{ENG}{STR_VAR_1}{JPN}を うけとった！$"
 
 MunenText_OldLady:
-	.string "The snow on the mountain\nis melting, child.\pThis snow should never melt. Never.\pDeath is coming to Munen.\pI can feel it in the wind.$"
+	.string "{JPN}やまの ゆきが\nとけておるのじゃ。\pとけては ならぬ ゆきが。 けっしてな。\pムネンに しが せまっておる。\pかぜが そう つげておるわ。$"
 
 MunenText_VillageKid:
 	.string "Did you hear? Professor\nClarkson found something at the \ltop of the mountain!\pWhat could it be?\pI wanna know but my dad says to stay \nclose to home. No fair!$"
@@ -678,13 +678,13 @@ MunenText_Caretaker:
 
 @ Rival Haru dialogue
 MunenText_HaruShout:
-	.string "???: HEY! Wait up!$"
+	.string "{JPN}？？？: おい！ まてよ！$"
 
 MunenText_HaruIntro:
-	.string "So that's where they went.\pPROFESSOR CLARKSON said he'd left\nsomething for me too! I'm not letting\lyou walk off with all of it.\pI'm taking what's left.\pConsider this a warning,\n{PLAYER}.$"
+	.string "{JPN}なるほど。 ここに いたのか。\pクラークソンはかせが おれの ぶんも\nのこしたって いってたんだ！\lぜんぶ おまえに わたすかよ。\pのこりは おれが もらう。\pわすれるなよ\n{ENG}{PLAYER}{JPN}。$"
 
 MunenText_HaruFarewell:
-	.string "Next time we meet…\nwe're settling this.\pSee you on the road.$"
+	.string "{JPN}つぎに あったら\nきっちり けりを つけようぜ。\pじゃあな。 また みちで あおう。$"
 
 @ Professor Clarkson north-exit encounter
 MunenText_ProfessorHello:

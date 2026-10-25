@@ -30,9 +30,9 @@ static EWRAM_DATA u8 sQueueCount = 0;
 static EWRAM_DATA u8 sPumpTaskId = 0;
 static EWRAM_DATA bool8 sPumpActive = FALSE;
 
-static const u8 sText_ToastStart[] = _("NEW QUEST");
-static const u8 sText_ToastUpdate[] = _("QUEST UPDATED");
-static const u8 sText_ToastComplete[] = _("QUEST COMPLETE");
+static const u8 sText_ToastStart[] = _("{JPN}クエスト はっせい");
+static const u8 sText_ToastUpdate[] = _("{JPN}クエスト こうしん");
+static const u8 sText_ToastComplete[] = _("{JPN}クエスト かんりょう");
 
 static void Task_QuestToastPump(u8 taskId)
 {

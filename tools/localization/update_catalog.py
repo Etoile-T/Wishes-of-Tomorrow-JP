@@ -23,7 +23,7 @@ def plan(rows, updates, cmap):
         entries=sorted((r for r in rows if r['file']==name),key=lambda r:r['start'])
         for row in entries:
             current='"'+row['translation']+'"' if row['status']=='translated' else row['raw']
-            start=row['start']+delta
+            start=row['start']+row.get('code_offset',0)+delta
             if row['status']=='translated' or row['id'] in requested:
                 if text[start:start+len(current)]!=current:
                     raise ValueError(f"{name}:{row['line']}: stale source; no writes performed")
@@ -32,6 +32,8 @@ def plan(rows, updates, cmap):
                 # Batches cannot redirect source location or modify English text.
                 for key in ('file','source','raw','start','end','kind'):
                     if updated[key]!=row[key]: raise ValueError('source metadata is immutable: '+key)
+                if updated.get('code_offset',0)!=row.get('code_offset',0):
+                    raise ValueError('source metadata is immutable: code_offset')
                 catalog.validate(updated,cmap)
                 edits.append((start,len(current),'"'+updated['translation']+'"'))
             delta+=len(current)-len(row['raw'])

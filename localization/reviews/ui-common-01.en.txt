@@ -1,0 +1,552 @@
+65b59dd0bfcba304 You have no POKéMON.
+7648b5e5866d8183 TRADE
+ea517604450b322d SUMMARY
+61726ada08519cc3 SWITCH
+5f5cd429234e334f ITEM
+1d1908e1a7b64d2f TAKE
+dca77d18a3a7ad8c MOVE
+87488708bc1ac0ee MAIL
+4562906225b2d64b TAKE
+e471ac9548fcf915 READ
+5161e421849ccce1 SHIFT
+210356a66ec16ab1 SEND OUT
+0f7693e6d902c9a5 ENTER
+8754c7dba991382f NO ENTRY
+e70ac7c4e9a551a4 STORE
+368a9822f939590d LEVEL MOVES
+bf5694b0530e20bd EGG MOVES
+f25adb5a32fb1cba TM MOVES
+cadb91ac18209f88 TUTOR MOVES
+ec82b163283b56ff LEARN MOVES
+ebbcd1b6ee0b3192 Light bulb
+7a10e3f441a7267e Microwave oven
+775334b64ca7a9cf Washing machine
+4999eff8acf2d071 Refrigerator
+42030cf37df03600 Electric fan
+db949665b51674fc Lawn mower
+543c4b7cee44da7c Change form
+e25fe4cce7cf818a Change Ability
+39f69a205fa90f92 Attack
+943bec3d28d79d91 Defense
+43902b9606ac3d95 Sp. Atk
+dd7fd008215ca8a9 Sp. Def
+dd83c32cc3e3e8bc Speed
+717043458b174a27 The {STR_VAR_1} can't be held\nhere.
+a8a1974c5cf0a0e8 Deposit how many\n{STR_VAR_1}?
+ab4808e78b71f5b5 Deposited {STR_VAR_2}\n{STR_VAR_1}.
+049db935a9dbfbfa There's no room to\nstore items.
+08ba84c72ede675c Important items\ncan't be stored in\nthe PC!
+8105d1865b53b462 There's nothing to sort!
+ff2f400f6c4bbc75 CHECK
+768771f67e94931e WALK
+a54e8d28d72b8750 DESELECT
+25db69ee9e28459e CHECK TAG
+81058969903602aa SHOW
+9e8d9ea5dede129c Name
+c61377e1a23161be Type
+d3fe40625f66afbe Amount
+7c7d0803dac07ef9 Index
+8ac156fd39fe2b24 There's nothing to sort!
+78bdff54aabfa1ce Sort items how?
+0cbe3fea44241f7f Items sorted by {STR_VAR_1}!
+988b43a986e6a76a name
+18f4021472499452 type
+b73e7464011a006a amount
+91c03fb7d4743bcb index
+5d58ec69ea5b8e48 You can't dismount your BIKE here.{PAUSE_UNTIL_PRESS}
+ae3779feeaf12811 Huh?\nThe ITEMFINDER's responding!\pThere's an item buried around here!{PAUSE_UNTIL_PRESS}
+ffe0b89ecefe06b7 Oh!\nThe ITEMFINDER's shaking wildly!{PAUSE_UNTIL_PRESS}
+8585ec508873d1dc … … … …Nope!\nThere's no response.{PAUSE_UNTIL_PRESS}
+180ca55f4893704b Your COINS:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}
+83d35af7cc51c4f0 POWDER QTY: {STR_VAR_1}{PAUSE_UNTIL_PRESS}
+02bdb6b173b7ec75 Booted up a TM.
+4159fa93b88a453f Booted up an HM.
+3a56ca7365bd9f3a It contained\n{STR_VAR_1}.\pTeach {STR_VAR_1}\nto a POKéMON?
+0eefe51c39e1e41b {PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be lured.{PAUSE_UNTIL_PRESS}
+42b788d64c7cb7ba {PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be repelled.{PAUSE_UNTIL_PRESS}
+e7397eba99590aba Played the POKé FLUTE.\pNow, that's a catchy tune!{PAUSE_UNTIL_PRESS}
+ef10071d57f0c218 Played the POKé FLUTE.
+0ed4bfb48f144da8 The POKé FLUTE awakened sleeping\nPOKéMON.{PAUSE_UNTIL_PRESS}
+f3094ebab7924127 Cannot throw a ball!\nThere are two Pokémon out there!\p
+f88c1a75a45656b1 Cannot throw a ball!\nThere's no Pokémon in sight!\p
+b91ac67870e97917 POKé BALLS cannot be used\nright now!\p
+ec9f317d4e27a61f The save file has been erased\ndue to corruption or damage.
+85c8b03c77bf1df1 CONTINUE
+ba39dbe5fc8a0d81 NEW GAME
+f1bf3dce7fe77af8 OPTION
+38714484f5b5b276 Team:
+6add32034008690e Badges: 
+49d93c40601caa79 Time: 
+b0acfea73fd9ddd2 Pokédex: 
+142b56fa0e128f49 The save file has been erased\ndue to corruption or damage.
+d9306c11f80a2861 The save file is corrupted.\nThe previous save will be loaded.
+58895c3a110f6769 The 1M sub-circuit board is\nnot installed.
+b91c4ebe71485d66 RIVAL's NAME?
+2d1784458552083c {DPAD_NONE}MOVE  {A_BUTTON}OK  {B_BUTTON}BACK
+d7de3eb38641827e YOUR NAME?
+3cf25f98c1e44d97 BOX NAME?
+9e89fd6a7be4e0fc {STR_VAR_1}'s nickname?
+4f7d72c9e85281ee Tell him the words.
+9910149fb95c8833 Enter code:
+5e7b11c9935612ee OPTION
+b328a1d1a34fb188 {COLOR GREEN}{SHADOW LIGHT_GREEN}SLOW
+5ae4edd5b274804c {COLOR GREEN}{SHADOW LIGHT_GREEN}MID
+26ea333d43a67d9a {COLOR GREEN}{SHADOW LIGHT_GREEN}FAST
+9792daa5cc28bdb6 {COLOR GREEN}{SHADOW LIGHT_GREEN}ON
+5b6ca245f0b1f3d9 {COLOR GREEN}{SHADOW LIGHT_GREEN}OFF
+20ff4f856b183e10 {COLOR GREEN}{SHADOW LIGHT_GREEN}ON
+e5a69efcbf12e11d {COLOR GREEN}{SHADOW LIGHT_GREEN}OFF
+05a14461f15f256d {COLOR GREEN}{SHADOW LIGHT_GREEN}OFF
+03dcdc8ea34d4978 {COLOR GREEN}{SHADOW LIGHT_GREEN}2x
+bad76ba62825aead {COLOR GREEN}{SHADOW LIGHT_GREEN}3x
+cd1cab70afb96d68 {COLOR GREEN}{SHADOW LIGHT_GREEN}TOGGLE
+c32180ed192c7f50 {COLOR GREEN}{SHADOW LIGHT_GREEN}HOLD B
+86294730f15608c8 {COLOR GREEN}{SHADOW LIGHT_GREEN}SHIFT
+851eec7781bf45b8 {COLOR GREEN}{SHADOW LIGHT_GREEN}SET
+d13faec024bfe2f0 {COLOR GREEN}{SHADOW LIGHT_GREEN}MONO
+3e1b662f9da89969 {COLOR GREEN}{SHADOW LIGHT_GREEN}STEREO
+4b610dca19584c25 {COLOR GREEN}{SHADOW LIGHT_GREEN}TYPE
+2b8e9f725c9ccf29 {COLOR GREEN}{SHADOW LIGHT_GREEN}NORMAL
+9f7502b2d01fbe20 TEXT SPEED
+36ed2eaad3c628c3 BATTLE SCENE
+6b1f0fd969b98ce8 BATTLE STYLE
+78ac027957f71f58 SOUND
+7025a75dbd65b252 BUTTON MODE
+e14869b65dc3fd7b FRAME
+eac8cad0fed2f435 PORTRAITS
+6c3ccc4762a06fc2 AUTO SPRINT
+d82d6d0f8263c9ae FAST FORWARD
+bd80185122ce46f3 CANCEL
+f5747eaf629647a0 There is just one POKéMON with you.
+58539c9f36ba62b8 Your party is full!
+d6cf5724f5eba1ea BOX
+4c0a9bb843762344 WITHDRAW POKéMON
+015faa5a798791aa Move POKéMON stored in BOXES to\nyour party.
+f6c9b9498e0768ca DEPOSIT POKéMON
+5378bd74267cd213 Store POKéMON in your party in BOXES.
+108d0b7c7450dbbb MOVE POKéMON
+b3b7f0cee970be77 Organize the POKéMON in BOXES and\nin your party.
+0e7535a76483338d MOVE ITEMS
+fa692954bcdfd09a Move items held by any POKéMON\nin a BOX or your party.
+52bab04337df2593 SEE YA!
+be13658f2f58c251 Return to the previous menu.
+3ead0326a0e7573f {DYNAMIC 0} is selected.
+508c7a968c22b0c9 Exit from the BOX?
+185ffbd82046a83a What do you want to do?
+829f375c26703210 Please pick a theme.
+4a5d2810ffeed05e Pick the wallpaper.
+ec1c85e8cc05bab4 Jump to which BOX?
+4c3cb5501333d542 Deposit in which BOX?
+e990af2f6c03a894 {DYNAMIC 0} was deposited.
+2468e5bf548e9706 The BOX is full.
+4d562ae9322b41e9 Release this POKéMON?
+99f8eac93b937924 {DYNAMIC 0} was released.
+46506d73d200b6d4 Bye-bye, {DYNAMIC 0}!
+10cfc00d832c4a8e Mark your POKéMON.
+439e4fdfd4400ba5 That's your last POKéMON!
+8b2260ffb817785f You're holding a POKéMON!
+f0b4d426338ef70e Which one will you take?
+82aabbf2da9dbd85 You can't release an EGG.
+196cd3dde455c349 Continue BOX operations?
+19c85fef99ec9cf3 {DYNAMIC 0} came back!
+28195908947bf541 Was it worried about you?
+4c5897b9b56b1d4e Please remove the MAIL.
+7916d00e2d89cea3 GIVE to a POKéMON?
+f404f18f90242fd1 Placed item in the BAG.
+67244f3fe85ed6b5 The BAG is full.
+fc6838a72740bf61 Put this item in the BAG?
+f950e773b704d4c5 {DYNAMIC 0} is now held.
+fc8e272b000f8034 Changed to {DYNAMIC 0}.
+fe9aaf3c873f9514 MAIL can't be stored!
+d7a75f6636e35fb6 GIVE
+5bd847f4c075f740 CANCEL
+35cf06e152f529bb STORE
+ffcbcaabd5114485 WITHDRAW
+d67985c26104aea9 MOVE
+970b72512bc83083 SHIFT
+965cff8a26a12855 PLACE
+3ca4abe373ec779b SUMMARY
+adfab1854b5f905e RELEASE
+d0317c9bb0dec471 MARK
+86a8488252ac5bbe JUMP
+29f7c255fd7557e9 WALLPAPER
+5d3a9baa310e878e NAME
+63f727d1347e2d4a TAKE
+8f0fc089ebe944dd SWITCH
+702fe717e5d4bb24 BAG
+016f92ed10bef4ba INFO
+016755753c9d2183 SCENERY 1
+8f75cd4b35d43f1d SCENERY 2
+5b6266b1a686bb4e SCENERY 3
+a108f7755097954f ETCETERA
+cf6b655a8963e2c9 FRIENDS
+1215f1b4e55ca9be FOREST
+a3058ba4fc6a0381 CITY
+f2e369e391c0b502 DESERT
+6a059c5f168534b8 SAVANNA
+66d709bed9901dae CRAG
+9a898121ff7f5fef VOLCANO
+aaa41fcbaad5c46e SNOW
+086083a535fdfdfb CAVE
+9e433cfb1306a176 BEACH
+dc49323eae49112f SEAFLOOR
+822a7df4c36ac647 RIVER
+1e3bdb2a626a88b0 SKY
+1717bf9d59362b44 POLKA-DOT
+0cc6b8dd68e8508a POKéCENTER
+d08fbad4f1e8b977 MACHINE
+a65376a721117c9a SIMPLE
+313eab4bc177c73d SELECT
+e0c21844e87d65d1 {START_BUTTON} RELEARN
+3905ae449f420c86 {START_BUTTON} RELEARN LEVEL
+96d71bd55244e0a7 {START_BUTTON} RELEARN EGG
+25eb88ca013b7949 {START_BUTTON} RELEARN TM
+957cc01b6bb2f7dd {START_BUTTON} RELEARN TUTOR
+52d8be4c583f99eb STATS
+59663fff13aa46fd RENAME
+fd68a2726e4526c1 DEBUG
+8b9496375965efaa HMS
+9f185b2a537f555f LOG
+16490299810c1013 AM
+23db900c2ec36adc PM
+a4521f9f203bb21d Sunday
+0de5985b83a5c302 Monday
+7464d82d6a6df6e8 Tuesday
+ecddd699ec9b2c34 Wednesday
+36b750e21093b9e5 Thursday
+eabf6f701558e614 Friday
+09b689451a1b13d7 Saturday
+f15e57124380deef EGG
+24d75f0f436356a6 POKéMON
+a20c7f96808373a5 PLAYER
+02e501e3ee20012a POKéDEX
+b29f3d0feef2d965 TIME
+dca72afc9f390bc4 BADGES
+3dde700670499e0c START
+345ad93a9f0885db SELECT
+95fb6544f25091a4 CONTROLS
+9dd902686120c1ed BOY
+6630bd647fd28c31 GIRL
+f2631c65053c445b POKéDEX registration completed.
+265ce22bc4ad8c01 HT
+9a0902b72fb024bb WT
+4e49dad853ced482 Searching…\nPlease wait.
+90bc260d45735621 Search completed.
+559e0a80b99371ad No matching POKéMON were found.
+58b5def52815e4ff Switch POKéDEX listings.
+9a087adbc12e9b07 Return to the POKéDEX.
+fca7392550150635 Select the POKéDEX mode.
+bd6ba7f56ed98674 Select the POKéDEX listing mode.
+1cdc36b42234996d HOENN DEX
+bcc69c51dbd72ffa NATIONAL DEX
+c517f57231d62558 NUMERICAL MODE
+bcc9ec41dadde43f A TO Z MODE
+f1e02badb725d58f HEAVIEST MODE
+58e4de63fce10a69 LIGHTEST MODE
+469396fa0d10f3fb TALLEST MODE
+7ff93a835bb1ad24 SMALLEST MODE
+bf43464ee74ec8db DON'T SPECIFY.
+bac2474b86b8f6d7 NONE
+a71ee4022fc0707f Welcome to the HALL OF FAME!
+152a186c13b20812 SAVING…\nDON'T TURN OFF THE POWER.
+cbcbb48eb19b6fea The HALL OF FAME data is corrupted.
+41f8b9fa42dbfb73 HALL OF FAME No. {STR_VAR_1}
+95bda67313ca736d LEAGUE CHAMPION!\nCONGRATULATIONS!
+58b974772cdc6ed7 NAME
+58d6926416b98e07 POKéMON
+16a126edb299ed83 FLY to where?
+6cb9078f246b7837 USE
+f09a1853075afd50 TOSS
+2acb62bb95f2345b REGISTER
+8abb934ce37af61f GIVE
+d9a273661e212a2e CONFIRM
+c2213b79a0203280 CANCEL
+9b688a3b96150a20 CANCEL
+99c912122f878f7b NONE
+7ffbdcd4235f1aee Go back to the\nprevious menu.
+382fd80fbb687bf9 What would you like to do?
+3a7e04986cafe94c GIVE
+ea34ce9d39c5f617 CLOSE BAG
+2a1ff6f3e46ba5c6 {STR_VAR_1}\nis selected.
+bd78dffa5caf1c20 You can't write\nMAIL here.
+8b0dad728a33efa1 There is no\nPOKéMON.
+c9436d2c4096e9c4 Move the\n{STR_VAR_1}\nwhere?
+01360e56d17cfa4b The {STR_VAR_1} can't be held.
+b37505677cf21804 Toss out how many\n{STR_VAR_1}?
+8ced9aa2954c060e Threw away {STR_VAR_2}\n{STR_VAR_1}.
+4f1fec18d70c4017 Is it okay to\nthrow away {STR_VAR_2}\n{STR_VAR_1}?
+90054ab335575739 the field
+b4269999945d24bb the battle
+256f41337d137d34 the POKéMON LIST
+a9774d07e3c74232 the shop
+37c15418f498e912 the PC
+55fa5f8fe4fb3304 Return to\n{STR_VAR_1}.
+56335c60b9c63580 BUY
+75bf88af4040c3a7 SELL
+231c3ec59781b23c QUIT
+b0b518007c27e8fb I'm sorry, but that item is sold out.{PAUSE_UNTIL_PRESS}
+e6178c03da52ef19 SOLD OUT
+6e939951bc09c4fd IN BAG: {STR_VAR_1}
+df39263c169e8165 Quit shopping.
+fb5bc8fbd9943c72 {STR_VAR_1}? Certainly.\nHow many would you like?
+d2501c4ac6ce0a1b {STR_VAR_1}? Certainly.\nHow many would you like?
+810c3a15a56b1831 {STR_VAR_1}? And you wanted {STR_VAR_2}?\nThat will be ¥{STR_VAR_3}.
+5fa7e78db2a05386 {STR_VAR_1}, is it?\nThat'll be ¥{STR_VAR_2}. Do you want it?
+1dd8ee333f807d7d You wanted {STR_VAR_1}?\nThat'll be ¥{STR_VAR_2}. Will that be okay?
+186e51315cdfe153 Here you go!\nThank you very much.
+9fd44166d3faed84 Thank you!\nI'll send it to your home PC.
+d989064264ddc0f1 Thanks!\nI'll send it to your PC at home.
+65cf1beaed5f2b60 You don't have enough money.{PAUSE_UNTIL_PRESS}
+456c62f80860f281 You have no more room for this\nitem.{PAUSE_UNTIL_PRESS}
+e13a4b6682343196 The space for {STR_VAR_1} is full.{PAUSE_UNTIL_PRESS}
+32f3affb9bd8ea08 Is there anything else I can help\nyou with?
+84ce9c4e2e79f87b Can I help you with anything else?
+36a5280d424fc7a5 I'll throw in a PREMIER BALL, too.{PAUSE_UNTIL_PRESS}
+82143af5b7c5c2b7 I'll throw in {STR_VAR_1} PREMIER BALLS, too.{PAUSE_UNTIL_PRESS}
+6e5a492ff959dfca {STR_VAR_2}? Oh, no.\nI can't buy that.{PAUSE_UNTIL_PRESS}
+9044a7d2a0261df5 {STR_VAR_2}?\nHow many would you like to sell?
+88935d7b5a9a7552 I can pay ¥{STR_VAR_1}.\nWould that be okay?
+4956a76d70028e4f Turned over the {STR_VAR_2}\nand received ¥{STR_VAR_1}.
+f029bf386fa7d1da SP. ATK
+7dfa74e41d3980f4 SP. DEF
+6979006ad02c40f2 It won't have any effect.{PAUSE_UNTIL_PRESS}
+527335548c7e1555 This can't be used on\nthat POKéMON.{PAUSE_UNTIL_PRESS}
+36078975106176f8 An EGG can't battle!{PAUSE_UNTIL_PRESS}
+d94ee1bbdc43198b Throw away this\n{STR_VAR_1}?
+2eddf625f70e0a59 The {STR_VAR_1}\nwas thrown away.{PAUSE_UNTIL_PRESS}
+319e0304bbcc053e Teach which POKéMON?
+33a4a271a1c39053 Choose a POKéMON.
+872ff44447ccdfad Move to where?
+95f6a7e1daa704be Teach which POKéMON?
+77b087a70686eb1c Use on which POKéMON?
+99bd2dd54b40d9e4 Give to which POKéMON?
+06e95cfa6457b952 There's nothing to CUT.
+6088ec29d6549a54 You can't SURF here.
+406719041bfedb4f You're already SURFING.
+acba10b26b72b84b Can't use that here.
+2e302d1d89117a7b Restore which move?
+f1c320502ed44ea9 Boost PP of which move?
+75935ebe2910e555 Do what with an item?
+1937b8cbd227d5b6 No POKéMON for battle!
+e247ab8881e4bb3a Choose a POKéMON.
+19d4cb4cbe838085 Not enough HP…
+282583e02be04cd4 No identical hold items.
+f1fe2f5edcd8cef5 Do what with the MAIL?
+e6a438cce1416503 Choose POKéMON or CANCEL.
+388f49563fafb021 Choose POKéMON and confirm.
+b7ae600ca992a5f7 Send which POKéMON to the PC?
+4bb9dd228039c137 Move item to where?
+171fc753039f1ff4 This is in use already.
+f747a13274dfe60b No use.
+13b9d122c76d3dab ABLE
+b6dd5065232235f4 FIRST
+031a5b6ef8509063 SECOND
+9ecf5ff805cbb318 THIRD
+e5cce657247c57df ABLE
+6d397bfe277c169a NOT ABLE
+ecb33d4f38161b18 ABLE!
+0f4a5df3065ab02a NOT ABLE!
+c87f443b749fabf5 LEARNED
+2d8f4f9435e40ae0 HAVE
+ed6ea5a726015e70 DON'T HAVE
+dd0adafdb08ce82d FOURTH
+92c64c788c9d1e71 Cancel participation?
+2ce11d6e909215f4 Cancel the battle?
+6c22045469835157 Cancel the challenge?
+ecc9948b9075fac3 REGISTER
+8426532aeb3f6804 ATTACK
+b2408e706e0d9f00 DEFENSE
+187943069a09983a SP. ATK
+d4bdb2297b78503d SP. DEF
+80747b6927862c49 SPEED
+39ee5a237f725ea6 RENTAL POKéMON
+7e70aab215e3e447 POWER
+03d70054a1c7c191 ACCURACY
+fb1250c13abcb8ff APPEAL
+a60d4586893327e4 JAM
+55fd5da4d8ffc994 STATUS
+b07a0dcf10657980 EXP. POINTS
+f1a4f3455768a7d5 NEXT LV.
+87e032229225e025 RIBBONS: {STR_VAR_1}
+31770c15ebc05076 EVENTS
+ef1c4d0f6f872866 SWITCH
+d540418c3199b44e POKéMON INFO
+0901622dffd0ce24 POKéMON SKILLS
+163382860d3f4400 BATTLE MOVES
+adc49d6be6cee6b6 CONTEST MOVES
+76e0d55f70fe1d75 INFO
+ff37bc3e339e56b0 It looks like this EGG will\ntake a long time to hatch.
+4346614fe84d2f40 What will hatch from this?\nIt will take some time.
+14bd1f43e04bc987 It moves occasionally.\nIt should hatch soon.
+22ba9d9218760bdc It's making sounds.\nIt's about to hatch!
+39deb8312a96998e HM moves can't be\nforgotten now.
+4d5911752cc627c7 DECORATE
+eb836d12dc397380 PUT AWAY
+7304051be4c3bb34 TOSS
+a4ec9a936a14bcd1 DESK
+8a4facffa12089de CHAIR
+ccb1af58b83c9841 PLANT
+fd5e9b9c2af2dbfe ORNAMENT
+c042d19b056ed684 MAT
+3cdfbe4b65ed1c40 POSTER
+04b2a2c62a20c089 DOLL
+f5958bedf9841472 CUSHION
+3c05d6b603467dd1 GOLD
+f08c71278570ec66 SILVER
+76afd8e6e5727572 Place it here?
+a618a44013cb52ad It can't be placed here.
+ea713a36ac32715b Cancel decorating?
+a7e7021f7853dde6 This is in use already.
+ad9dbb1558cf756a The decoration item was thrown away.
+9dfcd616e2f5d1bc Stop putting away decorations?
+0a8cae0cf4bcf490 There is no decoration item here.
+1e2f8b65d4945341 Return this decoration to the PC?
+4fcad24fb2a7753f The decoration was returned to the PC.
+d7a286bd80fa6f34 There are no decorations in use.{PAUSE_UNTIL_PRESS}
+c2574900638a131d There are no items.{PAUSE_UNTIL_PRESS}
+147edb6dff0ca915 There's no MAIL here.{PAUSE_UNTIL_PRESS}
+b8b9e3cefe587550 The message will be lost.\nIs that okay?
+369c987c1914bf6e The BAG is full.{PAUSE_UNTIL_PRESS}
+38c34208f5212c8d DAD
+7496eed30c322469 MOM
+bb53903390527e08 INFO
+618a69da5f97b192 COOLNESS CONTEST
+1a3e899019dc6c21 BEAUTY CONTEST
+8fc1059e150c9203 CUTENESS CONTEST
+84befdb4b79228f7 SMARTNESS CONTEST
+52a98ac9456d1bc5 TOUGHNESS CONTEST
+0610c69f4cdd5f54 DECORATION
+8f8a61907cdeaa17 PACK UP
+362455968fe91c31 REGISTRY
+31871e084cf493a8 INFORMATION
+fdf6e77aec3b009b YES
+1e905cce9d34c49e NO
+09a25f528ed1b601 RED SHARD
+c480a2b14efe9397 YELLOW SHARD
+5e9cde7e0ac1d530 BLUE SHARD
+612afcc0d18382df GREEN SHARD
+dbf92a0add3d04de BATTLE FRONTIER
+dd97bc450955c9ca COOL
+e4ad3e75a5ecbb92 BEAUTY
+577db3aa3c2968e4 CUTE
+7eb6af7ac5e1bccb SMART
+db999149bb87eb33 TOUGH
+2236191366e5f9b6 NORMAL
+b833de5acacfaf12 SUPER
+2be6de293ecb59d2 HYPER
+5ec90aa61a162517 MASTER
+34ef01dd3291c21f COOL
+f2b5845f8732d8c0 BEAUTY
+9657c9753f3472a5 CUTE
+9efd3c221d7ed0ee SMART
+8de0e9c915fe46a0 TOUGH
+0ecd8b1245e48211 SOMEONE'S PC
+8a4969fae7dddf7a LANETTE'S PC
+b2adcbd5c156f35a BILL'S PC
+9c3f8702c55ffe3a {PLAYER}'s PC
+a7046a5e19fc5305 HALL OF FAME
+4f7b032b09724308 LOG OFF
+5a05ee884c670f60 OPPONENT
+0053b7cdcd84b74c TOURNEY TREE
+e2c75a444b0a8609 READY TO START
+84eb66124d9e086a SINGLE
+333f7bc0a7c35095 DOUBLE
+ad54c5eeddf19385 MULTI
+3cb810f4485f5c60 MULTI-LINK
+97dd7552c0fb3352 Keep the Research
+1002b5be9656cf77 Destroy the Research
+5dcb89d731d41816 Distortion World
+85bba983aed6e3a4 Read
+17ce33b823f4d238 Destroy
+b505409097441d62 GO ON
+66f1ee6672333e67 RECORD
+1ec303c5e94aa409 REST
+8ae3143c0c79bb2d RETIRE
+888a8371d05b99e6 EXIT
+7b354d21d8f82690 IN PARTY
+a840704d04b29ba5 SINGLE
+445dfea23c5b11d5 DOUBLE
+e35acf85fc98ef0a POKéDEX
+1f4464e5a67ae81c TIME
+111f6eb558cc82c4 OTHERS
+5792b2028479d134 REGISTER
+9ec508b95e9dc6de EXIT
+2ef36141809b98e7 SAVING…\nDON'T TURN OFF THE POWER.
+ce3412444eb13d0c POKéMON
+57dce65d918e4ed2 TRADE
+4e7768d46c8444e0 CANCEL
+e7c1bfc47e9e7bd2 RECORD
+5adba989df292b1e SILVER
+30681138305b71d9 GOLD
+a649f9b1d5046da0 CONFIRM
+b467dd17fe8e8c2d ATTACK
+5858a00bcbf5c8df DEFENSE
+ba3df7f0188a75ab SPEED
+9639102f7f0d61b8 SP. ATK
+16581354c3b145a9 SP. DEF
+94e04d7ecdca2e79 RENTAL POKéMON
+a5f6ed926b010773 Select the first POKéMON.
+3ab60f0618a198b4 Select the second POKéMON.
+da263655fb26dacc Select the third POKéMON.
+be0806cb3730b3a9 RENT
+bf2f53bf4037ac9d SUMMARY
+5aeaa5beb2503ed3 OTHERS
+ddc08d807a03b995 DESELECT
+73c5d2dc589c5eb1 Are these three POKéMON OK?
+e6212d6b5467cd35 YES
+747c9eb4e8d862e0 NO
+3818d48d582da4d1 POKéMON SWAP
+e91ad6e38a0f6a27 Select POKéMON to swap.
+e577c083fe4a06e5 Select POKéMON to accept.
+fe35747c532cb208 SWAP
+27d25707e7c80c86 SUMMARY
+cc25d87996b5cd92 RECHOOSE
+ba28ee90503c8b0c Quit swapping?
+c8bf67c6359aaa7a YES
+bb93ea421b711261 NO
+ca30ad6e47c774c3 CANCEL
+5066fad54f025ef6 SWAP
+0329f90b5a70916b ACCEPT
+e61107282f8a9f52 Accept this POKéMON?
+765618db069e5d7a PLAYER
+ac3e8d1640281651 BADGES
+684cd759b6453f90 POKéDEX
+8865eb46b804ff82 TIME
+6abeb0ef32f2bd05 WONDER CARDS
+3fd7c8a324d958c7 WONDER NEWS
+62a0dcb9a4e524a4 WIRELESS COMMUNICATION
+934fb5a1dc687870 FRIEND
+fb3fc7fd5ad64dd3 EXIT
+c01deca8396ca8a9 RECEIVE
+370606561b28cdee SEND
+f835dbffb902b83d TOSS
+53a6ccdbb296ef60 Return to the title screen.
+f52c955b166f9855 Communicating…
+7383ef1e710fafbd Communication completed.
+94b040a896f173eb Communication error.
+c510a4ef4176f34e Communication has been canceled.
+17f24e8370de5fb2 EXIT
+3f93aedea3f05ef7 BATTLE MOVES
+624ec0aa36d965ec CONTEST MOVES
+57a2d953f36b7150 APPEAL
+1bd1d953c7ccc85f JAM
+3f208bddfe89cba5 CONFIRM
+ce399e990bde9151 CANCEL
+d4d2f3f40f901f70 SNOW
+9f01f31e1a937219 SEAFLOOR
+6784c007cdda51de CANCEL
+4cd4e458841435d9 RANDOMIZER
+8ff8f2fedbbed724 {COLOR GREEN}{SHADOW LIGHT_GREEN}OFF
+901c41a813e963be {COLOR GREEN}{SHADOW LIGHT_GREEN}ON
+7047e41e6ad85937 {COLOR GREEN}{SHADOW LIGHT_GREEN}RANDOM
+2001437d2054c618 {COLOR GREEN}{SHADOW LIGHT_GREEN}START THE GAME
+3d26bfd160dd8ca9 RANDOMIZER
+89e3d50613d16d04 STARTER PKMN
+ef691dead67ddb87 WILD PKMN
+8ecd2af7db532b95 TRAINER PKMN
+ec8e5358b99d917c START
+30ec121041875b63 Play the game randomized.\nSettings below!
+41586c2bd8733b51 The three sealed starters become\nsomething else entirely.
+0c8046cd5063cc1d Every wild Pokemon is swapped.\nLevels never change.
+9961f6ff410ebbb5 Every Trainer's team is swapped.\nShadows keep their identity.
+9f56e4c0462d9d85 Begin the adventure with these\nsettings. They are permanent.

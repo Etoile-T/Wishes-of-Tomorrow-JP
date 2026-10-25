@@ -125,28 +125,28 @@ static void DrawBgWindowFrames(void);
 
 EWRAM_DATA static bool8 sArrowPressed = FALSE;
 
-static const u8 gText_Option[]             = _("OPTION");
-static const u8 gText_TextSpeedSlow[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}SLOW");
-static const u8 gText_TextSpeedMid[]       = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}MID");
-static const u8 gText_TextSpeedFast[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}FAST");
-static const u8 gText_BattleSceneOn[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}ON");
-static const u8 gText_BattleSceneOff[]     = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}OFF");
+static const u8 gText_Option[]             = _("{JPN}せってい{ENG}");
+static const u8 gText_TextSpeedSlow[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}おそい{ENG}");
+static const u8 gText_TextSpeedMid[]       = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}ふつう{ENG}");
+static const u8 gText_TextSpeedFast[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}はやい{ENG}");
+static const u8 gText_BattleSceneOn[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}あり{ENG}");
+static const u8 gText_BattleSceneOff[]     = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}なし{ENG}");
 #if USE_NPC_PORTRAITS
-static const u8 gText_PortraitsOn[]        = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}ON");
-static const u8 gText_PortraitsOff[]       = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}OFF");
+static const u8 gText_PortraitsOn[]        = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}あり{ENG}");
+static const u8 gText_PortraitsOff[]       = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}なし{ENG}");
 #endif
-static const u8 gText_FastForwardOff[]     = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}OFF");
-static const u8 gText_FastForward2x[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}2x");
-static const u8 gText_FastForward3x[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}3x");
-static const u8 gText_AutoSprintToggle[]   = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}TOGGLE");
-static const u8 gText_AutoSprintHoldB[]    = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}HOLD B");
-static const u8 gText_BattleStyleShift[]   = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}SHIFT");
-static const u8 gText_BattleStyleSet[]     = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}SET");
-static const u8 gText_SoundMono[]          = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}MONO");
-static const u8 gText_SoundStereo[]        = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}STEREO");
-static const u8 gText_FrameType[]          = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}TYPE");
+static const u8 gText_FastForwardOff[]     = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}なし{ENG}");
+static const u8 gText_FastForward2x[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}2ばい{ENG}");
+static const u8 gText_FastForward3x[]      = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}3ばい{ENG}");
+static const u8 gText_AutoSprintToggle[]   = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}きりかえ{ENG}");
+static const u8 gText_AutoSprintHoldB[]    = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}{ENG}B{JPN}おす{ENG}");
+static const u8 gText_BattleStyleShift[]   = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}いれかえ{ENG}");
+static const u8 gText_BattleStyleSet[]     = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}かちぬき{ENG}");
+static const u8 gText_SoundMono[]          = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}モノラル{ENG}");
+static const u8 gText_SoundStereo[]        = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}ステレオ{ENG}");
+static const u8 gText_FrameType[]          = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}タイプ{ENG}");
 static const u8 gText_FrameTypeNumber[]    = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}");
-static const u8 gText_ButtonTypeNormal[]   = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}NORMAL");
+static const u8 gText_ButtonTypeNormal[]   = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}ふつう{ENG}");
 static const u8 gText_ButtonTypeLR[]       = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}LR");
 static const u8 gText_ButtonTypeLEqualsA[] = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}L=A");
 
@@ -156,18 +156,18 @@ static const u8 sEqualSignGfx[] = INCGFX_U8("graphics/interface/option_menu_equa
 
 static const u8 *const sOptionMenuItemsNames[MENUITEM_COUNT] =
 {
-    [MENUITEM_TEXTSPEED]   = COMPOUND_STRING("TEXT SPEED"),
-    [MENUITEM_BATTLESCENE] = COMPOUND_STRING("BATTLE SCENE"),
-    [MENUITEM_BATTLESTYLE] = COMPOUND_STRING("BATTLE STYLE"),
-    [MENUITEM_SOUND]       = COMPOUND_STRING("SOUND"),
-    [MENUITEM_BUTTONMODE]  = COMPOUND_STRING("BUTTON MODE"),
-    [MENUITEM_FRAMETYPE]   = COMPOUND_STRING("FRAME"),
+    [MENUITEM_TEXTSPEED]   = COMPOUND_STRING("{JPN}もじのはやさ{ENG}"),
+    [MENUITEM_BATTLESCENE] = COMPOUND_STRING("{JPN}せんとうアニメ{ENG}"),
+    [MENUITEM_BATTLESTYLE] = COMPOUND_STRING("{JPN}しあいのルール{ENG}"),
+    [MENUITEM_SOUND]       = COMPOUND_STRING("{JPN}おと{ENG}"),
+    [MENUITEM_BUTTONMODE]  = COMPOUND_STRING("{JPN}ボタンモード{ENG}"),
+    [MENUITEM_FRAMETYPE]   = COMPOUND_STRING("{JPN}ウインドウ{ENG}"),
 #if USE_NPC_PORTRAITS
-    [MENUITEM_PORTRAITS]   = COMPOUND_STRING("PORTRAITS"),
+    [MENUITEM_PORTRAITS]   = COMPOUND_STRING("{JPN}かおグラフィック{ENG}"),
 #endif
-    [MENUITEM_AUTOSPRINT]  = COMPOUND_STRING("AUTO SPRINT"),
-    [MENUITEM_FASTFORWARD] = COMPOUND_STRING("FAST FORWARD"),
-    [MENUITEM_CANCEL]      = COMPOUND_STRING("CANCEL"),
+    [MENUITEM_AUTOSPRINT]  = COMPOUND_STRING("{JPN}ダッシュそうさ{ENG}"),
+    [MENUITEM_FASTFORWARD] = COMPOUND_STRING("{JPN}はやおくり{ENG}"),
+    [MENUITEM_CANCEL]      = COMPOUND_STRING("{JPN}やめる{ENG}"),
 };
 
 static const struct WindowTemplate sOptionMenuWinTemplates[] =
@@ -503,7 +503,8 @@ static void HighlightOptionMenuItem(u8 index)
 
 static void DrawOptionMenuChoice(const u8 *text, u8 x, u8 y, u8 style)
 {
-    u8 dst[16];
+    // Includes color commands and explicit JPN/ENG transitions.
+    u8 dst[32];
     u16 i;
 
     // Scrolled out of view: above the window wraps to a big u8, below it is

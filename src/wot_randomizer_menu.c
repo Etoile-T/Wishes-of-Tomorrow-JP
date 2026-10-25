@@ -73,28 +73,28 @@ static void DrawBgWindowFrames(void);
 
 static MainCallback sSavedCallback;
 
-static const u8 sText_Title[]        = _("RANDOMIZER");
-static const u8 sText_Off[]          = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}OFF");
-static const u8 sText_On[]           = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}ON");
-static const u8 sText_Random[]       = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}RANDOM");
-static const u8 sText_Begin[]        = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}START THE GAME");
+static const u8 sText_Title[]        = _("{JPN}ランダマイザー{ENG}");
+static const u8 sText_Off[]          = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}なし{ENG}");
+static const u8 sText_On[]           = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}あり{ENG}");
+static const u8 sText_Random[]       = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}ランダム{ENG}");
+static const u8 sText_Begin[]        = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}{JPN}ぼうけんをはじめる{ENG}");
 
 static const u8 *const sItemNames[MENUITEM_COUNT] =
 {
-    [MENUITEM_MASTER]   = COMPOUND_STRING("RANDOMIZER"),
-    [MENUITEM_STARTERS] = COMPOUND_STRING("STARTER PKMN"),
-    [MENUITEM_WILD]     = COMPOUND_STRING("WILD PKMN"),
-    [MENUITEM_TRAINERS] = COMPOUND_STRING("TRAINER PKMN"),
-    [MENUITEM_START]    = COMPOUND_STRING("START"),
+    [MENUITEM_MASTER]   = COMPOUND_STRING("{JPN}ランダマイザー{ENG}"),
+    [MENUITEM_STARTERS] = COMPOUND_STRING("{JPN}さいしょの3びき{ENG}"),
+    [MENUITEM_WILD]     = COMPOUND_STRING("{JPN}やせいのポケモン{ENG}"),
+    [MENUITEM_TRAINERS] = COMPOUND_STRING("{JPN}トレーナーのてもち{ENG}"),
+    [MENUITEM_START]    = COMPOUND_STRING("{JPN}はじめる{ENG}"),
 };
 
 static const u8 *const sDescriptions[MENUITEM_COUNT] =
 {
-    [MENUITEM_MASTER]   = COMPOUND_STRING("Play the game randomized.\nSettings below!"),
-    [MENUITEM_STARTERS] = COMPOUND_STRING("The three sealed starters become\nsomething else entirely."),
-    [MENUITEM_WILD]     = COMPOUND_STRING("Every wild Pokemon is swapped.\nLevels never change."),
-    [MENUITEM_TRAINERS] = COMPOUND_STRING("Every Trainer's team is swapped.\nShadows keep their identity."),
-    [MENUITEM_START]    = COMPOUND_STRING("Begin the adventure with these\nsettings. They are permanent."),
+    [MENUITEM_MASTER]   = COMPOUND_STRING("{JPN}ランダムなせかいであそびます。\nくわしくは したのせっていで！{ENG}"),
+    [MENUITEM_STARTERS] = COMPOUND_STRING("{JPN}ふういんされたさいしょの3びきが\nまったくべつのポケモンになります。{ENG}"),
+    [MENUITEM_WILD]     = COMPOUND_STRING("{JPN}やせいのポケモンをいれかえます。\nレベルはかわりません。{ENG}"),
+    [MENUITEM_TRAINERS] = COMPOUND_STRING("{JPN}トレーナーのてもちをいれかえます。\nシャドーポケモンはかわりません。{ENG}"),
+    [MENUITEM_START]    = COMPOUND_STRING("{JPN}このせっていでぼうけんをはじめます。\nあとからへんこうはできません。{ENG}"),
 };
 
 static const struct WindowTemplate sWinTemplates[] =

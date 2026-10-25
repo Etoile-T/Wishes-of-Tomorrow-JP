@@ -10,6 +10,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
 
 def readable(text):
     text = re.sub(r'\{(?:JPN|ENG)\}', '', text)
+    text = re.sub(r'\{(?:COLOR|SHADOW|BACKGROUND|TEXT_COLORS) [^}]*\}', '', text)
     text = re.sub(r'\$$', '', text)
     return text.replace(r'\n', '\n').replace(r'\p', '\n［改ページ］\n').replace(r'\l', '\n［スクロール］\n')
 
@@ -26,7 +27,7 @@ def main():
         '# 日本語訳一覧', '',
         f'翻訳適用済み {len(rows)}件。表示確認・通しプレイは未完了です。', '',
         '[Excel版](exports/translated-texts.xlsx)では区分の絞り込みとメモの記入ができます。', '',
-        f'出典: [翻訳カタログ](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/{commit}/localization/catalog.json)。',
+        '出典: [同じ版の翻訳カタログ](catalog.json)。',
         '言語切替コードと終端記号は非表示にし、改ページとスクロールは明示しています。', '',
         '| No. | 英語原文 | 日本語訳 | ID・出典 |',
         '| ---: | --- | --- | --- |',

@@ -72,18 +72,19 @@ def main():
             path = ROOT/name
             text = path.read_text()
             ordered = sorted(entries, key=lambda x:x['start'])
-            original = all(text[r['start']:r['end']] == r['raw'] for r in ordered)
+            original = all(text[r['start']+r.get('code_offset',0):r['end']+r.get('code_offset',0)] == r['raw'] for r in ordered)
             if not original:
                 delta = 0
                 for row in ordered:
                     replacement = '"' + row['translation'] + '"'
-                    start = row['start'] + delta
+                    start = row['start'] + row.get('code_offset',0) + delta
                     if text[start:start + len(replacement)] != replacement:
                         raise ValueError(f"{name}:{row['line']}: stale source; no writes performed")
                     delta += len(replacement) - len(row['raw'])
                 continue  # Already applied and verified; idempotent.
             for row in reversed(ordered):
-                text = text[:row['start']] + '"' + row['translation'] + '"' + text[row['end']:]
+                shift = row.get('code_offset',0)
+                text = text[:row['start']+shift] + '"' + row['translation'] + '"' + text[row['end']+shift:]
             outputs[path] = text
         if args.command == 'apply':
             for path, text in outputs.items():

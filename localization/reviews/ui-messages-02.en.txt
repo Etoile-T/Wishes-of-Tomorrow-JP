@@ -1,0 +1,128 @@
+ca6707a2fa5cc08a Would you like to change {STR_VAR_1}'s\nability to {STR_VAR_2}?
+2c3cdfd07f847dbc {STR_VAR_1}'s ability became\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}
+e0ec09dee49ef52c {STR_VAR_1}'s base points\nwere all reset to zero!{PAUSE_UNTIL_PRESS}
+678891eb0945170b Cannot send that mon to the box,\nbecause it knows a HM move.{PAUSE_UNTIL_PRESS}
+a04ba499cb7ed1ba Cannot send a mon that doesn't\nbelong to you to the box.{PAUSE_UNTIL_PRESS}
+60f6c7436d8eef4d It might affect {STR_VAR_1}'s stats.\nAre you sure you want to use it?
+540548f25a7ecba3 {STR_VAR_1}'s stats may have changed due\nto the effects of the {STR_VAR_2}!{PAUSE_UNTIL_PRESS}
+0cd9cb9afc6e0a5a {STR_VAR_1}'s Dynamax Level\nincreased by 1!{PAUSE_UNTIL_PRESS}
+444a3ff3e555d0ce You make a wish upon the\nwithered paw…\p{STR_VAR_1}'s {STR_VAR_2} rose!\pBut its {STR_VAR_3} fell…{PAUSE_UNTIL_PRESS}
+3ed1a28f59ef0db7 {A_BUTTON}TOGGLE   {DPAD_UPDOWN}MOVES
+33288f7607a78d5a {A_BUTTON}Toggle   {DPAD_UPDOWN}Moves
+82ca5e4b2d056684 LVL
+cd12156a2184c916 CATCH{0x5B}: 
+3efd2f42d5e64cdd LEGENDARY
+9df49ea4783c451e VERY HARD
+9bc290d03e20ce32 DIFFICULT
+b72d77fd0b905f15 MEDIUM
+d26f65f41d6eeb01 RELAXED
+fbec9db881c8dafa EASY
+c428c76d768df36c EXP YIELD: 
+f74236f534319aa4 HATCH STEPS:
+494485e49416cefa GROW: 
+e70252827fcfb91c FRIENDSHIP:
+cda43d4fd7c66e01 MED. FAST
+ca9f0ff20db00163 ERRATIC
+9fad310065ba068d FLUCTUATING
+ce4a278379ebc4f5 MED. SLOW
+7100c11e60a51007 FAST
+57bb0fb448e8045f SLOW
+10d27ca5e9900cb3 EGG G1:
+258af7a6f5a382af MONSTER
+c63386e95400c64f WATER {CIRCLE_1}
+5b0d99c4bbae29de BUG
+8d6df0732113cbaa FLYING
+e941f692709f18f0 FIELD
+951fb448366a19f3 FAIRY
+249be8aebdaf7cf8 GRASS
+269826938962c18d HUMANE
+d1cf5922e7417a20 WATER {CIRCLE_3}
+088789fbc6c238d6 MINERAL
+f7bdef293f8ab570 AMORPHOUS
+11f3f3527c890996 WATER {CIRCLE_2}
+5244851f77260cec DITTO
+d30658f359fa9f0f DRAGON
+57e581b78e2825e6 SEEN
+ad0d9e175e2dac09 OWN
+6a592a88f9babbe7 {DPAD_UPDOWN}EVOs  {A_BUTTON}CHECK
+43db59cfa5067729 {DPAD_UPDOWN}Evos  {A_BUTTON}Check
+e5478dabb1902e0f {DPAD_UPDOWN}EVOs  {A_BUTTON}CHECK  {START_BUTTON}FORMs
+542fd90ae9384190 {DPAD_UPDOWN}Evos  {A_BUTTON}Check  {START_BUTTON}Forms
+c06b8f1d886eee69 {STR_VAR_1} evolves from {STR_VAR_2}
+2b7dbfae8e0067cc {STR_VAR_1} Mega Evolves with {STR_VAR_2}
+c7ae9fb41e68c129 {LV}{UP_ARROW} to {STR_VAR_2}, Silcoon persona
+af0dc7aa5399e743 {LV}{UP_ARROW} to {STR_VAR_2}, Cascoon persona
+8352c31bd20eb4f7 {LV}{UP_ARROW}, knows {STR_VAR_2}
+7f12bc011c7486a9 {LV}{UP_ARROW} to {STR_VAR_2} while raining
+95bee811b5ee9525 Traded for {STR_VAR_2}
+c0de1eb070df9bf0 Land {STR_VAR_2} critical hits in\nsingle battle
+380cfc9f99749825 Takes at least {STR_VAR_2} HP in damage
+9477465cf6a8f9e3 ScrllOfDrknss is used
+3b9e1c08c27259be ScrollOfWatrs is used
+069ae4f86532b542 {STR_VAR_1} has no evolution.
+96f88e152bed84be {A_BUTTON}FORM MODE  {START_BUTTON}EVOs
+3f900702660a6d57 {START_BUTTON}Evos
+0c44044fd55a16c5 {DPAD_NONE}FORMs {A_BUTTON}CHECK {START_BUTTON}EVOs
+2f2ab0dd87ff2be5 {START_BUTTON}Evos
+c2f4800a933701f6 {STR_VAR_1} has no alternate forms.
+a9dfa8a66b8298a2 Unknown
+95682a5d303afe27 Unknown
+209b24e4e33af954 Trading
+9683ba54a70b70b2 {STR_VAR_2} is used
+64992a5c0b88f1f3 End battle
+363e7455e6783925 Male
+e9c247ea41ef449c Female
+5f0f8e829768518d {UP_ARROW_2}friendship
+a2b8d30082fe76f0 Atk > Def
+002cfbdb8874faf9 Atk = Def
+befe91e1c93627d6 Atk < Def
+96c463444903c9cf Morning
+9c0c03c561082688 Day
+431e0125061838e3 Evening
+344ed3e7eb185445 Night
+fb379ca6a8e64cb6 NOT Morning
+d6aee03a57d16fe1 NOT Day
+8017f94975195705 NOT Evening
+511429f0c9b8746e Day
+bcde177bc5b95356 Kanto
+c32f9ff09af6f2d0 Johto
+309e1f3aef093549 Hoenn
+81469ad1632a27f2 Sinnoh
+1efbe167299fccf7 Unova
+c4404c4e0d890653 Kalos
+93edd239bc724e74 Alola
+059016a41859351b Galar
+84cbc99dd78c248c Hisui
+db199799c8a4f12c Paldea
+be82238242a53229 The edited text will not be saved.
+ec46ad1173a4ebf3 The backup memory is damaged, or\nthe internal battery has run dry.\nYou can still play, but not save.
+6312dac3ba7f16b7 Check completed.\nAttempting to save again.\nPlease wait.
+5aa668b256bfc522 The clock has been reset.\nData will be saved. Please wait.
+907c26533717bf9f Save completed.
+9e66181d3f10d5d2 Save failed…
+e85abd731f053ebb There is no save file, so the time\ncan't be set.
+c1a0749f97b97eb4 The registered text has been changed.\nIs it okay to save the game?
+8c9bce5bcf495eaa There is already a saved file.\nIs it okay to overwrite it?
+2a566ad10dfc231b {DYNAMIC 0} saved the game.
+8034c9f1a41f2204 Data will be saved.\nPlease wait.
+c73c826a0d9363e8 Save completed.\nPlease press the A Button.
+dcd2862933695cbb Clear all save data areas?
+694e974b19816979 Would you like to save the game?$
+d338f4277c697d6e There is already a saved file.\n
+b04e8ffeb720919f Is it okay to overwrite it?$
+d55fc5faabcc3c50 SAVING…\n
+14f83edd2320a1ed DON'T TURN OFF THE POWER.$
+449e79605be633d0 {PLAYER} saved the game.$
+d633108846201208 WARNING!\p
+327c1f84be4d6d78 There is a different game file that\n
+ee001646bbccdd86 is already saved.\p
+f1e7866c1e6fcc4a If you save now, the other file's\n
+041ee7378fdd7f8a adventure, including items and\l
+7597f43092d71b85 POKéMON, will be entirely lost.\p
+d8342085f2a5da5e Are you sure you want to save now\n
+f068f86c5d5e300d and overwrite the other save file?$
+9bf168a9612ba26f Save error.\p
+25b25d75e0342b69 Please exchange the\n
+cf3efa2fba568796 backup memory.$
+7a305b81d06d4ce0 SAVING…\n
+3f92600a1d9455cc DON'T TURN OFF THE POWER.$

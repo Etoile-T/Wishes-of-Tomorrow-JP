@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "ca6707a2fa5cc08a",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のとくせいを\\n{ENG}{STR_VAR_2}{JPN}にかえますか？{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "2c3cdfd07f847dbc",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のとくせいが\\n{ENG}{STR_VAR_2}{JPN}になった！{PAUSE_UNTIL_PRESS}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "e0ec09dee49ef52c",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のきそポイントが\\nすべて0になった！{PAUSE_UNTIL_PRESS}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "678891eb0945170b",
+    "translation": "{JPN}ひでんわざをおぼえているので\\nボックスにおくれません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "a04ba499cb7ed1ba",
+    "translation": "{JPN}じぶんのポケモンでないので\\nボックスにおくれません。{PAUSE_UNTIL_PRESS}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "60f6c7436d8eef4d",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}ののうりょくが\\nかわるかもしれません。つかいますか？{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "540548f25a7ecba3",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}のこうかで\\n{ENG}{STR_VAR_1}{JPN}ののうりょくがかわったかも！{PAUSE_UNTIL_PRESS}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "0cd9cb9afc6e0a5a",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のダイマックスレベルが\\n1あがった！{PAUSE_UNTIL_PRESS}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "444a3ff3e555d0ce",
+    "translation": "{JPN}ひからびたてに\\nねがいをかける…\\p{ENG}{STR_VAR_1}{JPN}の{ENG}{STR_VAR_2}{JPN}があがった！\\pだが{ENG}{STR_VAR_3}{JPN}がさがった…{PAUSE_UNTIL_PRESS}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "3ed1a28f59ef0db7",
+    "translation": "{JPN}{A_BUTTON}きりかえ {DPAD_UPDOWN}わざ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "33288f7607a78d5a",
+    "translation": "{JPN}{A_BUTTON}きりかえ {DPAD_UPDOWN}わざ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "82ca5e4b2d056684",
+    "translation": "{JPN}レベル{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "cd12156a2184c916",
+    "translation": "{JPN}つかまえやすさ{0x5B}: {ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "3efd2f42d5e64cdd",
+    "translation": "{JPN}でんせつきゅう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9df49ea4783c451e",
+    "translation": "{JPN}とてもむずかしい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9bc290d03e20ce32",
+    "translation": "{JPN}むずかしい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "b72d77fd0b905f15",
+    "translation": "{JPN}ふつう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d26f65f41d6eeb01",
+    "translation": "{JPN}ややかんたん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "fbec9db881c8dafa",
+    "translation": "{JPN}かんたん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c428c76d768df36c",
+    "translation": "{JPN}けいけんち: {ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "f74236f534319aa4",
+    "translation": "{JPN}ふかのほすう:{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "494485e49416cefa",
+    "translation": "{JPN}せいちょう: {ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "e70252827fcfb91c",
+    "translation": "{JPN}なつきど:{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "cda43d4fd7c66e01",
+    "translation": "{JPN}100まん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "ca9f0ff20db00163",
+    "translation": "{JPN}60まん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9fad310065ba068d",
+    "translation": "{JPN}164まん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "ce4a278379ebc4f5",
+    "translation": "{JPN}105まん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "7100c11e60a51007",
+    "translation": "{JPN}80まん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "57bb0fb448e8045f",
+    "translation": "{JPN}125まん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "10d27ca5e9900cb3",
+    "translation": "{JPN}タマゴグループ:{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "258af7a6f5a382af",
+    "translation": "{JPN}かいじゅう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c63386e95400c64f",
+    "translation": "{JPN}すいちゅう{CIRCLE_1}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "5b0d99c4bbae29de",
+    "translation": "{JPN}むし{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "8d6df0732113cbaa",
+    "translation": "{JPN}ひこう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "e941f692709f18f0",
+    "translation": "{JPN}りくじょう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "951fb448366a19f3",
+    "translation": "{JPN}ようせい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "249be8aebdaf7cf8",
+    "translation": "{JPN}しょくぶつ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "269826938962c18d",
+    "translation": "{JPN}ひとがた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d1cf5922e7417a20",
+    "translation": "{JPN}すいちゅう{CIRCLE_3}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "088789fbc6c238d6",
+    "translation": "{JPN}こうぶつ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "f7bdef293f8ab570",
+    "translation": "{JPN}ふていけい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "11f3f3527c890996",
+    "translation": "{JPN}すいちゅう{CIRCLE_2}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "5244851f77260cec",
+    "translation": "{JPN}メタモン{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d30658f359fa9f0f",
+    "translation": "{JPN}ドラゴン{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "57e581b78e2825e6",
+    "translation": "{JPN}みつけた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "ad0d9e175e2dac09",
+    "translation": "{JPN}つかまえた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "6a592a88f9babbe7",
+    "translation": "{JPN}{DPAD_UPDOWN}しんか {A_BUTTON}みる{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "43db59cfa5067729",
+    "translation": "{JPN}{DPAD_UPDOWN}しんか {A_BUTTON}みる{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "e5478dabb1902e0f",
+    "translation": "{JPN}{DPAD_UPDOWN}しんか {A_BUTTON}みる {START_BUTTON}すがた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "542fd90ae9384190",
+    "translation": "{JPN}{DPAD_UPDOWN}しんか {A_BUTTON}みる {START_BUTTON}すがた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c06b8f1d886eee69",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}から{ENG}{STR_VAR_1}{JPN}にしんか{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "2b7dbfae8e0067cc",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は{ENG}{STR_VAR_2}{JPN}でメガシンカ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c7ae9fb41e68c129",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}で{LV}{UP_ARROW} カラサリスがた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "af0dc7aa5399e743",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}で{LV}{UP_ARROW} マユルドがた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "8352c31bd20eb4f7",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}をおぼえて{LV}{UP_ARROW}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "7f12bc011c7486a9",
+    "translation": "{JPN}あめのとき{ENG}{STR_VAR_2}{JPN}で{LV}{UP_ARROW}{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "95bee811b5ee9525",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}とこうかん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c0de1eb070df9bf0",
+    "translation": "{JPN}1かいのせんとうで\\nきゅうしょに{ENG}{STR_VAR_2}{JPN}かいあてる{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "380cfc9f99749825",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}いじょうのダメージ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9477465cf6a8f9e3",
+    "translation": "{JPN}あくのかけじくをつかう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "3b9e1c08c27259be",
+    "translation": "{JPN}みずのかけじくをつかう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "069ae4f86532b542",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}はしんかしません。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "96f88e152bed84be",
+    "translation": "{JPN}{A_BUTTON}すがた {START_BUTTON}しんか{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "3f900702660a6d57",
+    "translation": "{JPN}{START_BUTTON}しんか{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "0c44044fd55a16c5",
+    "translation": "{JPN}{DPAD_NONE}すがた {A_BUTTON}みる {START_BUTTON}しんか{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "2f2ab0dd87ff2be5",
+    "translation": "{JPN}{START_BUTTON}しんか{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c2f4800a933701f6",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}にべつのすがたはありません。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "a9dfa8a66b8298a2",
+    "translation": "{JPN}ふめい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "95682a5d303afe27",
+    "translation": "{JPN}ふめい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "209b24e4e33af954",
+    "translation": "{JPN}つうしんこうかん{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9683ba54a70b70b2",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}をつかう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "64992a5c0b88f1f3",
+    "translation": "{JPN}せんとうしゅうりょう{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "363e7455e6783925",
+    "translation": "{JPN}オス{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "e9c247ea41ef449c",
+    "translation": "{JPN}メス{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "5f0f8e829768518d",
+    "translation": "{JPN}{UP_ARROW_2}なつきど{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "a2b8d30082fe76f0",
+    "translation": "{JPN}こうげき>ぼうぎょ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "002cfbdb8874faf9",
+    "translation": "{JPN}こうげき=ぼうぎょ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "befe91e1c93627d6",
+    "translation": "{JPN}こうげき<ぼうぎょ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "96c463444903c9cf",
+    "translation": "{JPN}あさ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9c0c03c561082688",
+    "translation": "{JPN}ひる{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "431e0125061838e3",
+    "translation": "{JPN}ゆうがた{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "344ed3e7eb185445",
+    "translation": "{JPN}よる{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "fb379ca6a8e64cb6",
+    "translation": "{JPN}あさいがい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d6aee03a57d16fe1",
+    "translation": "{JPN}ひるいがい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "8017f94975195705",
+    "translation": "{JPN}ゆうがたいがい{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "511429f0c9b8746e",
+    "translation": "{JPN}ひる{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "bcde177bc5b95356",
+    "translation": "{JPN}カントー{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c32f9ff09af6f2d0",
+    "translation": "{JPN}ジョウト{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "309e1f3aef093549",
+    "translation": "{JPN}ホウエン{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "81469ad1632a27f2",
+    "translation": "{JPN}シンオウ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "1efbe167299fccf7",
+    "translation": "{JPN}イッシュ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c4404c4e0d890653",
+    "translation": "{JPN}カロス{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "93edd239bc724e74",
+    "translation": "{JPN}アローラ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "059016a41859351b",
+    "translation": "{JPN}ガラル{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "84cbc99dd78c248c",
+    "translation": "{JPN}ヒスイ{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "db199799c8a4f12c",
+    "translation": "{JPN}パルデア{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "be82238242a53229",
+    "translation": "{JPN}へんしゅうしたぶんしょうはほぞんされません。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "ec46ad1173a4ebf3",
+    "translation": "{JPN}メモリのこしょうか でんちぎれです。\\nあそぶことはできますが\\nレポートはかけません。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "6312dac3ba7f16b7",
+    "translation": "{JPN}かくにんがおわりました。\\nもういちどレポートをかきます。\\nしばらくおまちください。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "5aa668b256bfc522",
+    "translation": "{JPN}とけいをあわせました。\\nレポートをかくのでおまちください。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "907c26533717bf9f",
+    "translation": "{JPN}レポートをかきおわりました。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9e66181d3f10d5d2",
+    "translation": "{JPN}レポートをかけませんでした…{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "e85abd731f053ebb",
+    "translation": "{JPN}レポートがないため\\nじこくをあわせられません。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c1a0749f97b97eb4",
+    "translation": "{JPN}とうろくしたぶんしょうがかわりました。\\nレポートにかきこみますか？{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "8c9bce5bcf495eaa",
+    "translation": "{JPN}すでにレポートがかかれています。\\nうえからかきかえてもいいですか？{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "2a566ad10dfc231b",
+    "translation": "{JPN}{ENG}{DYNAMIC 0}{JPN}はレポートをかいた。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "8034c9f1a41f2204",
+    "translation": "{JPN}レポートをかきます。\\nしばらくおまちください。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "c73c826a0d9363e8",
+    "translation": "{JPN}レポートをかきおわりました。\\n{ENG}A{JPN}ボタンをおしてください。{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "dcd2862933695cbb",
+    "translation": "{JPN}すべてのきろくをけしますか？{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "694e974b19816979",
+    "translation": "{JPN}ここまでのぼうけんを\\nレポートにかきこみますか？{ENG}$",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d338f4277c697d6e",
+    "translation": "{JPN}すでにレポートがかかれています。\\n{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "b04e8ffeb720919f",
+    "translation": "{JPN}うえからかきかえてもいいですか？{ENG}$",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d55fc5faabcc3c50",
+    "translation": "{JPN}レポートをかいています…\\n{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "14f83edd2320a1ed",
+    "translation": "{JPN}でんげんをきらないでください。{ENG}$",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "449e79605be633d0",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\nレポートにしっかりかきのこした！{ENG}$",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d633108846201208",
+    "translation": "{JPN}ちゅうい！\\p{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "327c1f84be4d6d78",
+    "translation": "{JPN}すでにべつのぼうけんのレポートが\\n{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "ee001646bbccdd86",
+    "translation": "{JPN}かきこまれています。\\p{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "f1e7866c1e6fcc4a",
+    "translation": "{JPN}いまレポートをかくと まえのぼうけんの\\n{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "041ee7378fdd7f8a",
+    "translation": "{JPN}きろくは どうぐやポケモンもふくめて\\l{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "7597f43092d71b85",
+    "translation": "{JPN}すべてきえてしまいます。\\p{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "d8342085f2a5da5e",
+    "translation": "{JPN}それでも まえのレポートをけして\\n{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "f068f86c5d5e300d",
+    "translation": "{JPN}うえからかきかえてもいいですか？{ENG}$",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "9bf168a9612ba26f",
+    "translation": "{JPN}レポートのかきこみにしっぱいしました。\\p{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "25b25d75e0342b69",
+    "translation": "{JPN}バックアップメモリを\\n{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "cf3efa2fba568796",
+    "translation": "{JPN}こうかんしてください。{ENG}$",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "7a305b81d06d4ce0",
+    "translation": "{JPN}レポートをかいています…\\n{ENG}",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  },
+  {
+    "id": "3f92600a1d9455cc",
+    "translation": "{JPN}でんげんをきらないでください。{ENG}$",
+    "provenance": {
+      "batch": "ui-messages-02",
+      "method": "English source and UI context reviewed"
+    }
+  }
+]

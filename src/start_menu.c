@@ -196,10 +196,10 @@ static const struct WindowTemplate sWindowTemplate_PyramidPeak = {
     .baseBlock = 0x8
 };
 
-static const u8 sText_MenuDebug[] = _("DEBUG");
+static const u8 sText_MenuDebug[] = _("{JPN}デバッグ{ENG}");
 static const u8 sText_QuestMenu[] = _("{JPN}クエスト");
-static const u8 sText_WotHMs[] = _("HMS");
-static const u8 sText_WotShadowLog[] = _("LOG"); // "SHADOW LOG" overflowed the menu strip
+static const u8 sText_WotHMs[] = _("{JPN}ひでんわざ{ENG}");
+static const u8 sText_WotShadowLog[] = _("{JPN}にっし{ENG}"); // "SHADOW LOG" overflowed the menu strip
 
 // WoT: HMs are badge-unlocked trainer abilities; this lists what's usable.
 extern const u8 WotHMs_EventScript_List[];
@@ -281,17 +281,17 @@ static EWRAM_DATA u8 sStartMenuInfoMinute = 0;
 
 #define INFO_PANEL_WIDTH 13
 
-static const u8 sText_ClockAM[] = _("AM");
-static const u8 sText_ClockPM[] = _("PM");
+static const u8 sText_ClockAM[] = _("{JPN}ごぜん{ENG}");
+static const u8 sText_ClockPM[] = _("{JPN}ごご{ENG}");
 
 static const u8 *const sWotDayNames[WEEKDAY_COUNT] = {
-    [WEEKDAY_SUN] = COMPOUND_STRING("Sunday"),
-    [WEEKDAY_MON] = COMPOUND_STRING("Monday"),
-    [WEEKDAY_TUE] = COMPOUND_STRING("Tuesday"),
-    [WEEKDAY_WED] = COMPOUND_STRING("Wednesday"),
-    [WEEKDAY_THU] = COMPOUND_STRING("Thursday"),
-    [WEEKDAY_FRI] = COMPOUND_STRING("Friday"),
-    [WEEKDAY_SAT] = COMPOUND_STRING("Saturday"),
+    [WEEKDAY_SUN] = COMPOUND_STRING("{JPN}にちようび{ENG}"),
+    [WEEKDAY_MON] = COMPOUND_STRING("{JPN}げつようび{ENG}"),
+    [WEEKDAY_TUE] = COMPOUND_STRING("{JPN}かようび{ENG}"),
+    [WEEKDAY_WED] = COMPOUND_STRING("{JPN}すいようび{ENG}"),
+    [WEEKDAY_THU] = COMPOUND_STRING("{JPN}もくようび{ENG}"),
+    [WEEKDAY_FRI] = COMPOUND_STRING("{JPN}きんようび{ENG}"),
+    [WEEKDAY_SAT] = COMPOUND_STRING("{JPN}どようび{ENG}"),
 };
 
 // baseBlock 8 is the top-left corner's block, shared with the Safari ball

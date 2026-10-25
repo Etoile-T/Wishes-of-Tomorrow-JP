@@ -521,11 +521,11 @@ static void Task_FirstBattleEnterParty_RunPrinterMsg2(u8 taskId);
 static void Task_FirstBattleEnterParty_FadeNormal(u8 taskId);
 static void Task_FirstBattleEnterParty_WaitFadeNormal(u8 taskId);
 
-static const u8 sText_askText[] = _("Would you like to change {STR_VAR_1}'s\nability to {STR_VAR_2}?");
-static const u8 sText_doneText[] = _("{STR_VAR_1}'s ability became\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}");
-static const u8 sText_BasePointsResetToZero[] = _("{STR_VAR_1}'s base points\nwere all reset to zero!{PAUSE_UNTIL_PRESS}");
-static const u8 sText_CannotSendMonToBoxHM[] = _("Cannot send that mon to the box,\nbecause it knows a HM move.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_CannotSendMonToBoxPartner[] = _("Cannot send a mon that doesn't\nbelong to you to the box.{PAUSE_UNTIL_PRESS}");
+static const u8 sText_askText[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}のとくせいを\n{ENG}{STR_VAR_2}{JPN}にかえますか？{ENG}");
+static const u8 sText_doneText[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}のとくせいが\n{ENG}{STR_VAR_2}{JPN}になった！{PAUSE_UNTIL_PRESS}{ENG}");
+static const u8 sText_BasePointsResetToZero[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}のきそポイントが\nすべて0になった！{PAUSE_UNTIL_PRESS}{ENG}");
+static const u8 sText_CannotSendMonToBoxHM[] = _("{JPN}ひでんわざをおぼえているので\nボックスにおくれません。{PAUSE_UNTIL_PRESS}{ENG}");
+static const u8 sText_CannotSendMonToBoxPartner[] = _("{JPN}じぶんのポケモンでないので\nボックスにおくれません。{PAUSE_UNTIL_PRESS}{ENG}");
 
 // static const data
 #include "data/party_menu.h"
@@ -5182,8 +5182,8 @@ void ItemUseCB_AbilityMachine(u8 taskId, TaskFunc task)
 
 void Task_Mint(u8 taskId)
 {
-    static const u8 sText_askText[] = _("It might affect {STR_VAR_1}'s stats.\nAre you sure you want to use it?");
-    static const u8 sText_doneText[] = _("{STR_VAR_1}'s stats may have changed due\nto the effects of the {STR_VAR_2}!{PAUSE_UNTIL_PRESS}");
+    static const u8 sText_askText[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}ののうりょくが\nかわるかもしれません。つかいますか？{ENG}");
+    static const u8 sText_doneText[] = _("{JPN}{ENG}{STR_VAR_2}{JPN}のこうかで\n{ENG}{STR_VAR_1}{JPN}ののうりょくがかわったかも！{PAUSE_UNTIL_PRESS}{ENG}");
     s16 *data = gTasks[taskId].data;
 
     switch (tState)
@@ -6138,7 +6138,7 @@ static void BufferMonStatsToTaskData(struct Pokemon *mon, s16 *data)
 
 void Task_DynamaxCandy(u8 taskId)
 {
-    static const u8 sText_doneText[] = _("{STR_VAR_1}'s Dynamax Level\nincreased by 1!{PAUSE_UNTIL_PRESS}");
+    static const u8 sText_doneText[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}のダイマックスレベルが\n1あがった！{PAUSE_UNTIL_PRESS}{ENG}");
     s16 *data = gTasks[taskId].data;
 
     switch (tState)
@@ -6912,7 +6912,7 @@ void ItemUseCB_RotomCatalog(u8 taskId, TaskFunc task)
 // permanent (MON_DATA_PAW_*), clamped to +/-PAW_MOD_CAP, floored at 1 in
 // CalculateMonStats.
 // ============================================================================
-static const u8 sText_PawWish[] = _("You make a wish upon the\nwithered paw…\p{STR_VAR_1}'s {STR_VAR_2} rose!\pBut its {STR_VAR_3} fell…{PAUSE_UNTIL_PRESS}");
+static const u8 sText_PawWish[] = _("{JPN}ひからびたてに\nねがいをかける…\p{ENG}{STR_VAR_1}{JPN}の{ENG}{STR_VAR_2}{JPN}があがった！\pだが{ENG}{STR_VAR_3}{JPN}がさがった…{PAUSE_UNTIL_PRESS}{ENG}");
 
 void ItemUseCB_Paw(u8 taskId, TaskFunc task)
 {

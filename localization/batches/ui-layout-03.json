@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cd12156a2184c916",
+    "translation": "{JPN}ほかく{ENG}{0x5B}{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Source coordinates: catch labels <=43/45px; growth label leaves right-aligned value room"
+    }
+  },
+  {
+    "id": "3efd2f42d5e64cdd",
+    "translation": "{JPN}でんせつ{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Source coordinates: catch labels <=43/45px; growth label leaves right-aligned value room"
+    }
+  },
+  {
+    "id": "9df49ea4783c451e",
+    "translation": "{JPN}げきむず{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Source coordinates: catch labels <=43/45px; growth label leaves right-aligned value room"
+    }
+  },
+  {
+    "id": "494485e49416cefa",
+    "translation": "{JPN}せいちょう{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Source coordinates: catch labels <=43/45px; growth label leaves right-aligned value room"
+    }
+  },
+  {
+    "id": "cda43d4fd7c66e01",
+    "translation": "{JPN}ややはやい{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Growth-curve labels preserve English tier names; <=40px right-aligned column"
+    }
+  },
+  {
+    "id": "ca9f0ff20db00163",
+    "translation": "{JPN}ふきそく{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Growth-curve labels preserve English tier names; <=40px right-aligned column"
+    }
+  },
+  {
+    "id": "9fad310065ba068d",
+    "translation": "{JPN}へんどう{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Growth-curve labels preserve English tier names; <=40px right-aligned column"
+    }
+  },
+  {
+    "id": "ce4a278379ebc4f5",
+    "translation": "{JPN}ややおそい{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Growth-curve labels preserve English tier names; <=40px right-aligned column"
+    }
+  },
+  {
+    "id": "7100c11e60a51007",
+    "translation": "{JPN}はやい{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Growth-curve labels preserve English tier names; <=40px right-aligned column"
+    }
+  },
+  {
+    "id": "57bb0fb448e8045f",
+    "translation": "{JPN}おそい{ENG}",
+    "provenance": {
+      "batch": "ui-layout-03",
+      "method": "Growth-curve labels preserve English tier names; <=40px right-aligned column"
+    }
+  }
+]

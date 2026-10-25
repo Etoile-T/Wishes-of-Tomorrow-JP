@@ -1,0 +1,128 @@
+ca6707a2fa5cc08a {STR_VAR_1}のとくせいを\n{STR_VAR_2}にかえますか？
+2c3cdfd07f847dbc {STR_VAR_1}のとくせいが\n{STR_VAR_2}になった！{PAUSE_UNTIL_PRESS}
+e0ec09dee49ef52c {STR_VAR_1}のきそポイントが\nすべて0になった！{PAUSE_UNTIL_PRESS}
+678891eb0945170b ひでんわざをおぼえているので\nボックスにおくれません。{PAUSE_UNTIL_PRESS}
+a04ba499cb7ed1ba じぶんのポケモンでないので\nボックスにおくれません。{PAUSE_UNTIL_PRESS}
+60f6c7436d8eef4d {STR_VAR_1}ののうりょくが\nかわるかもしれません。つかいますか？
+540548f25a7ecba3 {STR_VAR_2}のこうかで\n{STR_VAR_1}ののうりょくがかわったかも！{PAUSE_UNTIL_PRESS}
+0cd9cb9afc6e0a5a {STR_VAR_1}のダイマックスレベルが\n1あがった！{PAUSE_UNTIL_PRESS}
+444a3ff3e555d0ce ひからびたてに\nねがいをかける…\p{STR_VAR_1}の{STR_VAR_2}があがった！\pだが{STR_VAR_3}がさがった…{PAUSE_UNTIL_PRESS}
+3ed1a28f59ef0db7 {A_BUTTON}きりかえ {DPAD_UPDOWN}わざ
+33288f7607a78d5a {A_BUTTON}きりかえ {DPAD_UPDOWN}わざ
+82ca5e4b2d056684 レベル
+cd12156a2184c916 つかまえやすさ{0x5B}: 
+3efd2f42d5e64cdd でんせつきゅう
+9df49ea4783c451e とてもむずかしい
+9bc290d03e20ce32 むずかしい
+b72d77fd0b905f15 ふつう
+d26f65f41d6eeb01 ややかんたん
+fbec9db881c8dafa かんたん
+c428c76d768df36c けいけんち: 
+f74236f534319aa4 ふかのほすう:
+494485e49416cefa せいちょう: 
+e70252827fcfb91c なつきど:
+cda43d4fd7c66e01 100まん
+ca9f0ff20db00163 60まん
+9fad310065ba068d 164まん
+ce4a278379ebc4f5 105まん
+7100c11e60a51007 80まん
+57bb0fb448e8045f 125まん
+10d27ca5e9900cb3 タマゴグループ:
+258af7a6f5a382af かいじゅう
+c63386e95400c64f すいちゅう{CIRCLE_1}
+5b0d99c4bbae29de むし
+8d6df0732113cbaa ひこう
+e941f692709f18f0 りくじょう
+951fb448366a19f3 ようせい
+249be8aebdaf7cf8 しょくぶつ
+269826938962c18d ひとがた
+d1cf5922e7417a20 すいちゅう{CIRCLE_3}
+088789fbc6c238d6 こうぶつ
+f7bdef293f8ab570 ふていけい
+11f3f3527c890996 すいちゅう{CIRCLE_2}
+5244851f77260cec メタモン
+d30658f359fa9f0f ドラゴン
+57e581b78e2825e6 みつけた
+ad0d9e175e2dac09 つかまえた
+6a592a88f9babbe7 {DPAD_UPDOWN}しんか {A_BUTTON}みる
+43db59cfa5067729 {DPAD_UPDOWN}しんか {A_BUTTON}みる
+e5478dabb1902e0f {DPAD_UPDOWN}しんか {A_BUTTON}みる {START_BUTTON}すがた
+542fd90ae9384190 {DPAD_UPDOWN}しんか {A_BUTTON}みる {START_BUTTON}すがた
+c06b8f1d886eee69 {STR_VAR_2}から{STR_VAR_1}にしんか
+2b7dbfae8e0067cc {STR_VAR_1}は{STR_VAR_2}でメガシンカ
+c7ae9fb41e68c129 {STR_VAR_2}で{LV}{UP_ARROW} カラサリスがた
+af0dc7aa5399e743 {STR_VAR_2}で{LV}{UP_ARROW} マユルドがた
+8352c31bd20eb4f7 {STR_VAR_2}をおぼえて{LV}{UP_ARROW}
+7f12bc011c7486a9 あめのとき{STR_VAR_2}で{LV}{UP_ARROW}
+95bee811b5ee9525 {STR_VAR_2}とこうかん
+c0de1eb070df9bf0 1かいのせんとうで\nきゅうしょに{STR_VAR_2}かいあてる
+380cfc9f99749825 {STR_VAR_2}いじょうのダメージ
+9477465cf6a8f9e3 あくのかけじくをつかう
+3b9e1c08c27259be みずのかけじくをつかう
+069ae4f86532b542 {STR_VAR_1}はしんかしません。
+96f88e152bed84be {A_BUTTON}すがた {START_BUTTON}しんか
+3f900702660a6d57 {START_BUTTON}しんか
+0c44044fd55a16c5 {DPAD_NONE}すがた {A_BUTTON}みる {START_BUTTON}しんか
+2f2ab0dd87ff2be5 {START_BUTTON}しんか
+c2f4800a933701f6 {STR_VAR_1}にべつのすがたはありません。
+a9dfa8a66b8298a2 ふめい
+95682a5d303afe27 ふめい
+209b24e4e33af954 つうしんこうかん
+9683ba54a70b70b2 {STR_VAR_2}をつかう
+64992a5c0b88f1f3 せんとうしゅうりょう
+363e7455e6783925 オス
+e9c247ea41ef449c メス
+5f0f8e829768518d {UP_ARROW_2}なつきど
+a2b8d30082fe76f0 こうげき>ぼうぎょ
+002cfbdb8874faf9 こうげき=ぼうぎょ
+befe91e1c93627d6 こうげき<ぼうぎょ
+96c463444903c9cf あさ
+9c0c03c561082688 ひる
+431e0125061838e3 ゆうがた
+344ed3e7eb185445 よる
+fb379ca6a8e64cb6 あさいがい
+d6aee03a57d16fe1 ひるいがい
+8017f94975195705 ゆうがたいがい
+511429f0c9b8746e ひる
+bcde177bc5b95356 カントー
+c32f9ff09af6f2d0 ジョウト
+309e1f3aef093549 ホウエン
+81469ad1632a27f2 シンオウ
+1efbe167299fccf7 イッシュ
+c4404c4e0d890653 カロス
+93edd239bc724e74 アローラ
+059016a41859351b ガラル
+84cbc99dd78c248c ヒスイ
+db199799c8a4f12c パルデア
+be82238242a53229 へんしゅうしたぶんしょうはほぞんされません。
+ec46ad1173a4ebf3 メモリのこしょうか でんちぎれです。\nあそぶことはできますが\nレポートはかけません。
+6312dac3ba7f16b7 かくにんがおわりました。\nもういちどレポートをかきます。\nしばらくおまちください。
+5aa668b256bfc522 とけいをあわせました。\nレポートをかくのでおまちください。
+907c26533717bf9f レポートをかきおわりました。
+9e66181d3f10d5d2 レポートをかけませんでした…
+e85abd731f053ebb レポートがないため\nじこくをあわせられません。
+c1a0749f97b97eb4 とうろくしたぶんしょうがかわりました。\nレポートにかきこみますか？
+8c9bce5bcf495eaa すでにレポートがかかれています。\nうえからかきかえてもいいですか？
+2a566ad10dfc231b {DYNAMIC 0}はレポートをかいた。
+8034c9f1a41f2204 レポートをかきます。\nしばらくおまちください。
+c73c826a0d9363e8 レポートをかきおわりました。\nAボタンをおしてください。
+dcd2862933695cbb すべてのきろくをけしますか？
+694e974b19816979 ここまでのぼうけんを\nレポートにかきこみますか？$
+d338f4277c697d6e すでにレポートがかかれています。\n
+b04e8ffeb720919f うえからかきかえてもいいですか？$
+d55fc5faabcc3c50 レポートをかいています…\n
+14f83edd2320a1ed でんげんをきらないでください。$
+449e79605be633d0 {PLAYER}は\nレポートにしっかりかきのこした！$
+d633108846201208 ちゅうい！\p
+327c1f84be4d6d78 すでにべつのぼうけんのレポートが\n
+ee001646bbccdd86 かきこまれています。\p
+f1e7866c1e6fcc4a いまレポートをかくと まえのぼうけんの\n
+041ee7378fdd7f8a きろくは どうぐやポケモンもふくめて\l
+7597f43092d71b85 すべてきえてしまいます。\p
+d8342085f2a5da5e それでも まえのレポートをけして\n
+f068f86c5d5e300d うえからかきかえてもいいですか？$
+9bf168a9612ba26f レポートのかきこみにしっぱいしました。\p
+25b25d75e0342b69 バックアップメモリを\n
+cf3efa2fba568796 こうかんしてください。$
+7a305b81d06d4ce0 レポートをかいています…\n
+3f92600a1d9455cc でんげんをきらないでください。$

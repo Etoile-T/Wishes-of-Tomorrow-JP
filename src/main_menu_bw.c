@@ -43,16 +43,16 @@
 
 void CB2_InitMainMenuBW(void);
 
-static const u8 sText_Continue[] = _("CONTINUE");
-static const u8 sText_NewGame[] = _("NEW GAME");
-static const u8 sText_Option[]  = _("OPTION");
-static const u8 sText_Team[]    = _("Team:");
-static const u8 sText_Badges[]  = _("Badges: ");
-static const u8 sText_Time[]    = _("Time: ");
-static const u8 sText_Pokedex[] = _("Pokédex: ");
-static const u8 sText_SaveFileErasedBW[]    = _("The save file has been erased\ndue to corruption or damage.");
-static const u8 sText_SaveFileCorruptedBW[] = _("The save file is corrupted.\nThe previous save will be loaded.");
-static const u8 sText_NoFlashBW[]           = _("The 1M sub-circuit board is\nnot installed.");
+static const u8 sText_Continue[] = _("{JPN}つづきから{ENG}");
+static const u8 sText_NewGame[] = _("{JPN}はじめから{ENG}");
+static const u8 sText_Option[]  = _("{JPN}せってい{ENG}");
+static const u8 sText_Team[]    = _("{JPN}てもち:{ENG}");
+static const u8 sText_Badges[]  = _("{JPN}バッジ: {ENG}");
+static const u8 sText_Time[]    = _("{JPN}じかん: {ENG}");
+static const u8 sText_Pokedex[] = _("{JPN}ずかん: {ENG}");
+static const u8 sText_SaveFileErasedBW[]    = _("{JPN}レポートがこわれていたため\nきろくはけされました。{ENG}");
+static const u8 sText_SaveFileCorruptedBW[] = _("{JPN}レポートがこわれています。\nまえのレポートをよみこみます。{ENG}");
+static const u8 sText_NoFlashBW[]           = _("{JPN}{ENG}1M{JPN}サブきばんが\nささっていません。{ENG}");
 
 enum BwMenuAction
 {

@@ -7,7 +7,7 @@
   "pending": 52035,
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": 40,
+  "tests_passed": 41,
   "bps_roundtrip": "passed: 9687 build, exact target ROM and all SHA256; apply_verified_patch output byte-identical to build",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
@@ -22,7 +22,7 @@
     "move": 923,
     "species": 1321
   },
-  "work_state": "in_progress_ui_translation_handoff_ready",
+  "work_state": "handoff_to_codex",
   "pause_scope": "User expanded work to all UI; Pokemon data and UI scope remain incomplete",
   "translation_review": "Types/pockets and seven resale-description corrections reviewed with yomiyasu; remaining new ability/item batches still need full semantic review",
   "verification_policy": "Static validation and builds first. GUI gameplay verification deferred per user.",
@@ -48,5 +48,6 @@
   "battle_messages": "844 of src/battle_message.c translated; only symbols/empty/unused fragments pending. Trainer classes/names (trainers.party) and trainer win/lose texts untranslated",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
-  "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)"
+  "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
+  "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history"
 }

@@ -1,5 +1,8 @@
 # Japanese localization workflow
 
+**Start here:** read `HANDOFF_CODEX.md` (current state, user instructions,
+step-by-step dialogue and release workflow) before doing anything else.
+
 ## Scope and current state
 
 This is a source-based localization of Wishes of Tomorrow. Read

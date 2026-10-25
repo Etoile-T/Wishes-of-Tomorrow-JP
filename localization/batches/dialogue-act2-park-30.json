@@ -1,0 +1,698 @@
+[
+ {
+  "id": "6ea09b068d3481ec",
+  "translation": "{JPN}せんどうは なにも いわない。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11a717df6cb2b8b5",
+  "translation": "ただ ランタンを むこうぎしへ\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4eff8a53273e5bf4",
+  "translation": "むけて まっている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e92d2fc3af2fb37c",
+  "translation": "トレードウィンドタウンへ もどる？$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e23185bfaeb8d994",
+  "translation": "{JPN}せんどうは かじに\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5de9c99280fad631",
+  "translation": "もたれなおした。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54f4ca12bf973e75",
+  "translation": "こうえんの ほうは みない。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa4f1662be32731e",
+  "translation": "いちども みたことが ない。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b1597b3ecc488cb",
+  "translation": "{JPN}はかいしは いつものように\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b28bcdb3f8da8d7",
+  "translation": "とおくの さんちょうを むいている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb6a430e3098bdb2",
+  "translation": "いしの うえの くうきが ゆらいだ…\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5cba863edc54747",
+  "translation": "こしの アズサユミが ひもを ひっぱるように\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10f111d7ecad66ae",
+  "translation": "ふるえている。 つかって\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f24d28e0932a58e",
+  "translation": "ほしいのだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ed02402a0325c2f",
+  "translation": "{JPN}はかいしは とおくの\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3c65fc5e87d4382",
+  "translation": "さんちょうを むいている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9f7ec9f081abd32",
+  "translation": "いしの うえの くうきは いまは\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4a8f0e1ac80eeef",
+  "translation": "しずかだ。 やすらかな しずけさだ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d60e2104851b0b8",
+  "translation": "ここで ひらいていた ものは とじ\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2357e92f3c4f357e",
+  "translation": "あの にやにや わらいも つれていった。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "473023c122a6ba5a",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は アズサユミを かかげた…\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea4acbc00cf91c05",
+  "translation": "ゆみづるは ふるえない。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "079c220744e226bb",
+  "translation": "さかいめは もう とじたのだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3e6ad01d4a80a04",
+  "translation": "{JPN}はかいしは いつものように\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33f396b1979c0374",
+  "translation": "とおくの さんちょうを むいている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bd5996be5b08e9f",
+  "translation": "「のぼりて かえらぬ ものたちへ。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "846a77d38dea0da2",
+  "translation": "やまは おぼえている」\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f00c1be608add02f",
+  "translation": "きりは つめたいのに いしの うえの\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a348439105b7df3",
+  "translation": "くうきが ねつのように ゆらいでいる。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "271e164b737e19a8",
+  "translation": "ここには なにかが すこしだけ ひらいている…\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a0ff93ecb1901e2",
+  "translation": "だが からっぽの てでは\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f1e77e9758ad4b0",
+  "translation": "さかいめを みつけられない。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dffcd6a55324372f",
+  "translation": "{JPN}いしの うえの くうきが ゆらいだ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d144a966fadf600a",
+  "translation": "こしの アズサユミが ふるえ… だれも\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a3c810c1ae1edb8",
+  "translation": "ゆみづるに ふれていないのに\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e98b175afb3c38e",
+  "translation": "ひくい おとを ひとつ ならした。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d475dc9dab0e39ca",
+  "translation": "ゆらぎが ひろがった。 きりが\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2d1d0184f8c0bd8",
+  "translation": "かぎあなから いきを すいこむように\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0824de13604af19",
+  "translation": "すいよせられていく。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "966920cd1cdaff27",
+  "translation": "ここと むこうとの さかいめが\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "613e442655d9731c",
+  "translation": "めのまえで ひらいた。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a8612698d099f37",
+  "translation": "{JPN}クエスト たっせい:\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "803d3f2b7a6f11e8",
+  "translation": "ちちおやの さいごの ねがい！\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f775e5a070ed1eb9",
+  "translation": "かぜの むこうの どこかで ろうじんの\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3457d3355c06a4eb",
+  "translation": "いきが ようやく おだやかに なった。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11c72a12876883de",
+  "translation": "{JPN}ゆみが ひくい おとを ひとつ ならした。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23a846f377332922",
+  "translation": "さかいめは あなたを おぼえている。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5969c8ae2de855ab",
+  "translation": "{JPN}ビーチは へいさ！ こうえんも\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "848e95a43879ec0a",
+  "translation": "へいさ！ ぜんぶ へいさだ！\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4459aca8f95bd79",
+  "translation": "どうやって はいってきたんだ！？$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ef1436d391f0a12",
+  "translation": "{JPN}ふねが… みずの ほうを\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd94b689f193b4c0",
+  "translation": "だれも みはって なかった…$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5f44cad1ac0efd4",
+  "translation": "{JPN}いけよ。 きりの なかを さまよってろ。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6b06456e92ba49b",
+  "translation": "どうせ ここは しにびとの\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce248b52a98967ac",
+  "translation": "なわばりだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe94021795d82a5a",
+  "translation": "{JPN}ここから さきは たちいりきんし。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f8e8cacac418605",
+  "translation": "マスターの めいれいは せいかくだ:\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "783a2616d172a5b8",
+  "translation": "みちは ぜんぶ ふさげ… はかを のぞいてな。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e31ae34d9be7898",
+  "translation": "おい… おまえ うちの\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3fb73ac189fadd7",
+  "translation": "ものじゃ ないな！$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33e8b3a9d631b1de",
+  "translation": "{JPN}わかった！ わかったよ！ もんくは はかの\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fdb411a8154759b",
+  "translation": "むこうで まってる やつに いえ！$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e76974511eca910",
+  "translation": "{JPN}なんで はかを あけたままに するのかって？\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d80f039ff7738b5",
+  "translation": "マスターが いうには むこうがわの\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9bd8e0ec5849396",
+  "translation": "なにかが マスターに かりが あるんだとさ。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "621092ef628cecc2",
+  "translation": "{JPN}…あなたも かんじるのね。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "669706a6cef98f00",
+  "translation": "あの はかいしは ほかの ように きりを\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6fc4efabc373d14f",
+  "translation": "はきださない。 のみこんでいるの。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d7c8da9ab5d5238",
+  "translation": "マスターは はかを あけておけと いったわ。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c20021137f5cf8b4",
+  "translation": "あの ひとの ために。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5556ef903511f00",
+  "translation": "どの あの ひと なのかは きかないけど。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed599772d286c723",
+  "translation": "{JPN}ムウマが はかの みちを まわりながら\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e19ba03adad6cf90",
+  "translation": "かなしげに ないている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93d149734d16c029",
+  "translation": "まるで だれかの なまえの ようだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9f79c75aa4b5862",
+  "translation": "{JPN}ゴーストが きりの なかに うかび\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f27f1b71dc054774",
+  "translation": "なにも ない ところへ にやにや わらっている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c79b05b0784dbe66",
+  "translation": "なにも わらいかえさない。 たぶん。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6846c95036dc0299",
+  "translation": "{JPN}ヨマワルが はかいしの あいだを\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d383aa55f7c3bbb",
+  "translation": "しずかな よるの ランタンのように\\l",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e852ee8812de4051",
+  "translation": "ゆっくりと ただよっている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab3907859c8ea734",
+  "translation": "みちを あけて おいているのだ。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "514524ee02b47808",
+  "translation": "だれの ために？$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c988c244dace97cd",
+  "translation": "{JPN}しゃりょうは とざされ まっくらだ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e60cfd4f100e3a98",
+  "translation": "ドアの よみとりきが あかく てんめつしている:\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd53b2a4934f2bdf",
+  "translation": "「カードキーが ひつようです」\\p",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ea6f62e7b5183e8",
+  "translation": "どうじょうの だいじんが レジスタンスの\\n",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90ce1b9b195a561d",
+  "translation": "カードを もっていた。$",
+  "provenance": {
+   "batch": "dialogue-act2-park-30",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

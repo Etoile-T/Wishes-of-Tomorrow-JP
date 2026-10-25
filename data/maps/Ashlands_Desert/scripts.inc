@@ -82,6 +82,6 @@ Ashlands_Desert_Movement_MirageGlide:
 	step_end
 
 Ashlands_Desert_Text_Mirage::
-	.string "Wait, was that...\p"
-	.string "...\p"
-	.string "Couldn't be...could it?$"
+	.string "{JPN}まって いまのは…\p"
+	.string "…\p"
+	.string "まさか… そんな はずは…？$"

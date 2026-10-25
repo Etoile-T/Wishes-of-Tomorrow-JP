@@ -180,121 +180,121 @@ NationalParkAct2_EventScript_Duskull::
 @  Text
 @ ============================================================================
 NationalParkAct2_Text_BoatmanOffer::
-	.string "The boatman says nothing.\p"
-	.string "He only turns his lantern toward\n"
-	.string "the far shore, and waits.\p"
-	.string "Return to Tradewind Town?$"
+	.string "{JPN}せんどうは なにも いわない。\p"
+	.string "ただ ランタンを むこうぎしへ\n"
+	.string "むけて まっている。\p"
+	.string "トレードウィンドタウンへ もどる？$"
 
 NationalParkAct2_Text_BoatmanStay::
-	.string "The boatman settles back against\n"
-	.string "the tiller.\p"
-	.string "He does not look at the park.\n"
-	.string "He has not looked at it once.$"
+	.string "{JPN}せんどうは かじに\n"
+	.string "もたれなおした。\p"
+	.string "こうえんの ほうは みない。\n"
+	.string "いちども みたことが ない。$"
 
 NationalParkAct2_Text_GraveHasBow::
-	.string "The grave marker faces the distant\n"
-	.string "summit, same as it always has.\p"
-	.string "The air above the stone RIPPLES...\n"
-	.string "and at your hip, the Catalpa Bow\l"
-	.string "stirs against its cord, wanting\l"
-	.string "to be USED.$"
+	.string "{JPN}はかいしは いつものように\n"
+	.string "とおくの さんちょうを むいている。\p"
+	.string "いしの うえの くうきが ゆらいだ…\n"
+	.string "こしの アズサユミが ひもを ひっぱるように\l"
+	.string "ふるえている。 つかって\l"
+	.string "ほしいのだ。$"
 
 NationalParkAct2_Text_GraveSealed::
-	.string "The grave marker faces the distant\n"
-	.string "summit.\p"
-	.string "The air above the stone is still\n"
-	.string "now. Entirely, restfully still.\p"
-	.string "Whatever was open here has closed,\n"
-	.string "and taken its grin with it.$"
+	.string "{JPN}はかいしは とおくの\n"
+	.string "さんちょうを むいている。\p"
+	.string "いしの うえの くうきは いまは\n"
+	.string "しずかだ。 やすらかな しずけさだ。\p"
+	.string "ここで ひらいていた ものは とじ\n"
+	.string "あの にやにや わらいも つれていった。$"
 
 NationalParkAct2_Text_BowQuiet::
-	.string "{PLAYER} raised the Catalpa Bow...\p"
-	.string "The string does not stir.\n"
-	.string "The seam has closed for good.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は アズサユミを かかげた…\p"
+	.string "ゆみづるは ふるえない。\n"
+	.string "さかいめは もう とじたのだ。$"
 
 NationalParkAct2_Text_GraveNoBow::
-	.string "The grave marker faces the distant\n"
-	.string "summit, same as it always has.\p"
-	.string "'For those who climb and do not\n"
-	.string "return. The mountain remembers.'\p"
-	.string "The air above the stone RIPPLES,\n"
-	.string "like heat, though the fog is cold.\p"
-	.string "Something here is open a crack...\n"
-	.string "but your empty hands can't find\l"
-	.string "the seam.$"
+	.string "{JPN}はかいしは いつものように\n"
+	.string "とおくの さんちょうを むいている。\p"
+	.string "「のぼりて かえらぬ ものたちへ。\n"
+	.string "やまは おぼえている」\p"
+	.string "きりは つめたいのに いしの うえの\n"
+	.string "くうきが ねつのように ゆらいでいる。\p"
+	.string "ここには なにかが すこしだけ ひらいている…\n"
+	.string "だが からっぽの てでは\l"
+	.string "さかいめを みつけられない。$"
 
 NationalParkAct2_Text_GraveFirstCrossing::
-	.string "The air above the stone ripples.\p"
-	.string "The Catalpa Bow trembles at your\n"
-	.string "hip -- then hums, one low note,\l"
-	.string "though nothing touched the string.\p"
-	.string "The ripple widens. The fog leans\n"
-	.string "IN, like breath drawn through a\l"
-	.string "keyhole.\p"
-	.string "The seam between here and THERE\n"
-	.string "opens before you.$"
+	.string "{JPN}いしの うえの くうきが ゆらいだ。\p"
+	.string "こしの アズサユミが ふるえ… だれも\n"
+	.string "ゆみづるに ふれていないのに\l"
+	.string "ひくい おとを ひとつ ならした。\p"
+	.string "ゆらぎが ひろがった。 きりが\n"
+	.string "かぎあなから いきを すいこむように\l"
+	.string "すいよせられていく。\p"
+	.string "ここと むこうとの さかいめが\n"
+	.string "めのまえで ひらいた。$"
 
 NationalParkAct2_Text_QuestComplete::
-	.string "Quest complete:\n"
-	.string "A FATHER'S FINAL WISH!\p"
-	.string "Somewhere behind the wind, an old\n"
-	.string "man's breath finally settles.$"
+	.string "{JPN}クエスト たっせい:\n"
+	.string "ちちおやの さいごの ねがい！\p"
+	.string "かぜの むこうの どこかで ろうじんの\n"
+	.string "いきが ようやく おだやかに なった。$"
 
 NationalParkAct2_Text_GraveQuickCrossing::
-	.string "The bow hums its one low note.\n"
-	.string "The seam remembers you.$"
+	.string "{JPN}ゆみが ひくい おとを ひとつ ならした。\n"
+	.string "さかいめは あなたを おぼえている。$"
 
 NationalParkAct2_Text_GoonEastIntro::
-	.string "The beach is CLOSED. The park is\n"
-	.string "CLOSED. Everything is closed!\p"
-	.string "How did you even get in here?!$"
+	.string "{JPN}ビーチは へいさ！ こうえんも\n"
+	.string "へいさ！ ぜんぶ へいさだ！\p"
+	.string "どうやって はいってきたんだ！？$"
 
 NationalParkAct2_Text_GoonEastDefeat::
-	.string "The boat... nobody watches\n"
-	.string "the WATER...$"
+	.string "{JPN}ふねが… みずの ほうを\n"
+	.string "だれも みはって なかった…$"
 
 NationalParkAct2_Text_GoonEastPostBattle::
-	.string "Go on then, wander the fog.\n"
-	.string "The dead have the run of the place\l"
-	.string "anyway.$"
+	.string "{JPN}いけよ。 きりの なかを さまよってろ。\n"
+	.string "どうせ ここは しにびとの\l"
+	.string "なわばりだ。$"
 
 NationalParkAct2_Text_GoonWestIntro::
-	.string "No entry past this point. The\n"
-	.string "master's orders were EXACT:\p"
-	.string "every road sealed... except the\n"
-	.string "grave. Hey -- you're not one of\l"
-	.string "ours!$"
+	.string "{JPN}ここから さきは たちいりきんし。\n"
+	.string "マスターの めいれいは せいかくだ:\p"
+	.string "みちは ぜんぶ ふさげ… はかを のぞいてな。\n"
+	.string "おい… おまえ うちの\l"
+	.string "ものじゃ ないな！$"
 
 NationalParkAct2_Text_GoonWestDefeat::
-	.string "Fine! FINE! Take it up with\n"
-	.string "what's waiting past the grave!$"
+	.string "{JPN}わかった！ わかったよ！ もんくは はかの\n"
+	.string "むこうで まってる やつに いえ！$"
 
 NationalParkAct2_Text_GoonWestPostBattle::
-	.string "Why leave the grave open, you ask?\p"
-	.string "Because the master says something\n"
-	.string "on the OTHER side owes him a debt.$"
+	.string "{JPN}なんで はかを あけたままに するのかって？\p"
+	.string "マスターが いうには むこうがわの\n"
+	.string "なにかが マスターに かりが あるんだとさ。$"
 
 NationalParkAct2_Text_GraveWatcher::
-	.string "...You feel it too, don't you.\p"
-	.string "The gravestone doesn't cast fog\n"
-	.string "like the rest. It DRINKS it.\p"
-	.string "The master said the grave stays\n"
-	.string "open. For HIM.\p"
-	.string "I don't ask which him.$"
+	.string "{JPN}…あなたも かんじるのね。\p"
+	.string "あの はかいしは ほかの ように きりを\n"
+	.string "はきださない。 のみこんでいるの。\p"
+	.string "マスターは はかを あけておけと いったわ。\n"
+	.string "あの ひとの ために。\p"
+	.string "どの あの ひと なのかは きかないけど。$"
 
 NationalParkAct2_Text_Misdreavus::
-	.string "A Misdreavus circles the grave\n"
-	.string "path, keening softly.\p"
-	.string "It sounds almost like a name.$"
+	.string "{JPN}ムウマが はかの みちを まわりながら\n"
+	.string "かなしげに ないている。\p"
+	.string "まるで だれかの なまえの ようだ。$"
 
 NationalParkAct2_Text_Haunter::
-	.string "A Haunter hangs in the fog,\n"
-	.string "grinning at nothing.\p"
-	.string "Nothing grins back. Probably.$"
+	.string "{JPN}ゴーストが きりの なかに うかび\n"
+	.string "なにも ない ところへ にやにや わらっている。\p"
+	.string "なにも わらいかえさない。 たぶん。$"
 
 NationalParkAct2_Text_Duskull::
-	.string "A Duskull drifts between the\n"
-	.string "grave markers, slow as a lantern\l"
-	.string "on a still night.\p"
-	.string "It is keeping a path clear.\n"
-	.string "For whom?$"
+	.string "{JPN}ヨマワルが はかいしの あいだを\n"
+	.string "しずかな よるの ランタンのように\l"
+	.string "ゆっくりと ただよっている。\p"
+	.string "みちを あけて おいているのだ。\n"
+	.string "だれの ために？$"

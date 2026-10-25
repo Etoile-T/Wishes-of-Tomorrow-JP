@@ -37,8 +37,8 @@ ShinkansenInterior_Act2_EventScript_NoKeyEjectEnd::
 	end
 
 ShinkansenInterior_Act2_Text_NoKey::
-	.string "The car is sealed and dark.\p"
-	.string "A reader by the door blinks red:\n"
-	.string "“KEYCARD REQUIRED.”\p"
-	.string "The MINISTER at the dojo was\n"
-	.string "holding the rebellion's card.$"
+	.string "{JPN}しゃりょうは とざされ まっくらだ。\p"
+	.string "ドアの よみとりきが あかく てんめつしている:\n"
+	.string "「カードキーが ひつようです」\p"
+	.string "どうじょうの だいじんが レジスタンスの\n"
+	.string "カードを もっていた。$"

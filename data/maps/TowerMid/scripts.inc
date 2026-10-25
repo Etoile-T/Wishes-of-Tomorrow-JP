@@ -50,25 +50,25 @@ TowerMid_EventScript_Suzaku::
 	end
 
 TowerMid_Text_SuzakuIntro::
-	.string "So the TIGER's claw broke.\p"
-	.string "I am SUZAKU. Every wing in\n"
-	.string "this tower answers my call…\p"
-	.string "even the rainbow one they\n"
-	.string "dragged out of the sky and\l"
-	.string "sealed in the dark.\p"
-	.string "Burn with me.$"
+	.string "{JPN}ビャッコの つめが おれたか。\p"
+	.string "わたしは スザク。 この タワーの\n"
+	.string "つばさは みな わたしの よびかけに こたえる…\p"
+	.string "そらから ひきずりおろされ やみに\n"
+	.string "ふういんされた にじいろの\l"
+	.string "つばさでさえも。\p"
+	.string "ともに もえつきよ。$"
 
 TowerMid_Text_SuzakuDefeat::
-	.string "...Even the rainbow...\n"
-	.string "guttered out...$"
+	.string "{JPN}…にじいろさえ…\n"
+	.string "きえて しまった…$"
 
 TowerMid_Text_SuzakuPost::
-	.string "MUTRID ALPHA holds the floor\n"
-	.string "above. Nobody holds harder.\p"
-	.string "Go. My feathers are ash.$"
+	.string "{JPN}うえの フロアは ミュートリッドアルファが\n"
+	.string "まもっている。 あれほど かたい まもりは ない。\p"
+	.string "いけ。 わたしの はねは はいに なった。$"
 
 TowerMid_Text_StairsSealed::
-	.string "The stairwell gate is locked to\n"
-	.string "floor security.\p"
-	.string "The floor's guardian is still\n"
-	.string "standing.$"
+	.string "{JPN}かいだんの ゲートは フロアの\n"
+	.string "セキュリティで ロックされている。\p"
+	.string "この フロアの ばんにんが\n"
+	.string "まだ たっている。$"

@@ -86,71 +86,71 @@ TowerCommand_EventScript_CaptainPost::
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 TowerCommand_Text_Captain1::
-	.string "...The compliant citizen from\n"
-	.string "the street inspection.\p"
-	.string "Arms out. Bag open. You held\n"
-	.string "so STILL.\p"
-	.string "And now you stand on my floor\n"
-	.string "wearing a bounty instead of a\l"
-	.string "mask.$"
+	.string "{JPN}…まちの けんさで おとなしく\n"
+	.string "したがった しみんか。\p"
+	.string "りょううでを ひろげ バッグを あけ\n"
+	.string "じっと うごかなかったな。\p"
+	.string "それが いまや めんの かわりに\n"
+	.string "しょうきんくびを かかげて わたしの\l"
+	.string "フロアに たっている。$"
 
 TowerCommand_Text_CaptainThanks::
-	.string "I never thanked you properly.\p"
-	.string "The professor's research…\n"
-	.string "hand-delivered into my gloves.\p"
-	.string "Every Shadow bred on the floor\n"
-	.string "below us is its child.\p"
-	.string "You will be fighting his\n"
-	.string "life's work. And mine.$"
+	.string "{JPN}れいを いって いなかったな。\p"
+	.string "はかせの けんきゅうを…\n"
+	.string "この てぶくろに じきじきに とどけてくれた。\p"
+	.string "した の フロアで うまれた ダークポケモンは\n"
+	.string "みな その けんきゅうの こどもだ。\p"
+	.string "おまえが たたかうのは かれの\n"
+	.string "しょうがいの しごと。 そして わたしの。$"
 
 TowerCommand_Text_CaptainNoResearch::
-	.string "You kept the professor's\n"
-	.string "secrets from us once.\p"
-	.string "It slowed the tide. It did not\n"
-	.string "turn it.$"
+	.string "{JPN}おまえは かつて はかせの ひみつを\n"
+	.string "われらから まもりぬいた。\p"
+	.string "それで ながれは おそくなった。 だが\n"
+	.string "かわりは しなかった。$"
 
 TowerCommand_Text_CaptainChallenge::
-	.string "The tower trusted me with its\n"
-	.string "final badge.\p"
-	.string "Take it from me, or feed the\n"
-	.string "machine. Those are the doors.$"
+	.string "{JPN}タワーは わたしに さいごの\n"
+	.string "バッジを たくした。\p"
+	.string "わたしから うばうか きかいの えさに なるか。\n"
+	.string "とびらは その ふたつだ。$"
 
 TowerCommand_Text_CaptainDefeat::
-	.string "...By right of conquest,\n"
-	.string "then.$"
+	.string "{JPN}…ならば しょうりの けんりに\n"
+	.string "より。$"
 
 TowerCommand_Text_CaptainConcede::
-	.string "Held. Truly held.\p"
-	.string "The tower keeps its own law:\n"
-	.string "what beats the holder, holds.$"
+	.string "{JPN}まもりきったか。 みごとに。\p"
+	.string "タワーには タワーの おきてが ある。\n"
+	.string "まもりてを うちまかした ものが まもる。$"
 
 TowerCommand_Text_ReceivedBadge::
-	.string "{PLAYER} earned the TOWER\n"
-	.string "BADGE: the final badge!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は さいごの バッジ\n"
+	.string "タワーバッジを てにいれた！$"
 
 TowerCommand_Text_CaptainMasterBall::
-	.string "...And this. The tower's\n"
-	.string "failsafe. The ball that cannot\l"
-	.string "fail.\p"
-	.string "I was ordered to hold it\n"
-	.string "forever.\p"
-	.string "I want to watch what you do\n"
-	.string "with it instead.$"
+	.string "{JPN}…そして これを。 タワーの\n"
+	.string "さいごの あんぜんそうち。 けっして\l"
+	.string "しっぱいしない ボールだ。\p"
+	.string "えいえんに まもれと\n"
+	.string "めいじられていた。\p"
+	.string "だが おまえが これで なにを するのか\n"
+	.string "みてみたい。$"
 
 TowerCommand_Text_CaptainAfter::
-	.string "The lift is open.\p"
-	.string "He is waiting up there beside\n"
-	.string "his machine.\p"
-	.string "He is always waiting.$"
+	.string "{JPN}リフトは ひらいている。\p"
+	.string "あの かたは うえで じぶんの\n"
+	.string "きかいの そばで まっている。\p"
+	.string "いつだって まっているのだ。$"
 
 TowerCommand_Text_CaptainRematch::
-	.string "The badge holds. The lift is\n"
-	.string "open.\p"
-	.string "What waits above is no longer\n"
-	.string "my law.$"
+	.string "{JPN}バッジは ほんもの。 リフトは\n"
+	.string "ひらいている。\p"
+	.string "うえで まつ ものは もはや\n"
+	.string "わたしの おきての およばぬ ものだ。$"
 
 TowerCommand_Text_LiftSealed::
-	.string "The executive lift reads your\n"
-	.string "badge case, and refuses.\p"
-	.string "MUTRID ALPHA's final badge is\n"
-	.string "the only key it honors.$"
+	.string "{JPN}かんぶようの リフトは バッジケースを\n"
+	.string "よみとり うけつけなかった。\p"
+	.string "ミュートリッドアルファの さいごの バッジしか\n"
+	.string "かぎとして みとめないようだ。$"

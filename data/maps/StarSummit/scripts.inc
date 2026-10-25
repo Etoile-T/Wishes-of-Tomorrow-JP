@@ -271,42 +271,42 @@ StarSummit_Movement_GoonCrossBridgeBack:
 @ TEXT
 @==============================================================================
 StarSummit_Text_JirachiCry:
-	.string "JIRACHI's cry rings out across\n"
-	.string "the summit!$"
+	.string "{JPN}ジラーチの なきごえが\n"
+	.string "さんちょうに ひびきわたった！$"
 
 StarSummit_Text_ClarksonLine1:
-	.string "{PLAYER}…\p"
-	.string "I should never have told you to\n"
-	.string "come here.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}…\p"
+	.string "おまえを ここへ よぶべきでは\n"
+	.string "なかった。$"
 
 StarSummit_Text_ClarksonLine2:
-	.string "{PLAYER}…\p"
-	.string "You can't let JIRACHI's power\n"
-	.string "fall into enemy hands!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}…\p"
+	.string "ジラーチの ちからを てきの てに\n"
+	.string "わたしては ならん！$"
 
 StarSummit_Text_GoonGoodbye:
-	.string "…Goodbye, FATHER.$"
+	.string "{JPN}…さようなら ちちうえ。$"
 
 StarSummit_Text_GoonChallenge:
-	.string "He begged you to stay away.\n"
-	.string "You should have listened.\p"
-	.string "Now you'll watch me take it all.$"
+	.string "{JPN}ちちは おまえに くるなと たのんだはずだ。\n"
+	.string "きいておけば よかったものを。\p"
+	.string "すべてを うばう ところを そこで みていろ。$"
 
 StarSummit_Text_GoonDefeat:
-	.string "…Tch. You're strong.\n"
-	.string "But it changes nothing.$"
+	.string "{JPN}…ちっ。 つよいな。\n"
+	.string "だが なにも かわらない。$"
 
 StarSummit_Text_GoonAfterWin:
-	.string "Strong. But the WISH was\n"
-	.string "never yours to protect.$"
+	.string "{JPN}つよい。 だが ねがいは はじめから\n"
+	.string "おまえが まもる ものでは なかった。$"
 
 StarSummit_Text_GoonAfterLoss:
-	.string "Pathetic. Stay down.\n"
-	.string "The WISH is ours now.$"
+	.string "{JPN}なさけない。 そこで ねていろ。\n"
+	.string "ねがいは われらの ものだ。$"
 
 @ TODO: replace with the line Joe wants here (placeholder = a silent beat).
 StarSummit_Text_PreTitle:
-	.string "…$"
+	.string "{JPN}…$"
 
 StarSummit_Text_ActII:
-	.string "Act II: Doomsday$"
+	.string "{JPN}だい2まく: はめつの ひ$"

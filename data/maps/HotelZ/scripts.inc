@@ -166,95 +166,95 @@ HotelZ_EventScript_Canari::
 	end
 
 HotelZ_Text_LidaWelcome:
-	.string "{PLAYER}! You actually came!\p"
-	.string "Welcome to Hotel Z. Officially\n"
-	.string "it's a hotel. Unofficially…\l"
-	.string "it's Team MZ's base.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}！ ほんとに きてくれたんだ！\p"
+	.string "ホテルZへ ようこそ。 おもてむきは\n"
+	.string "ホテル。 うらでは…\l"
+	.string "チームMZの きちなの。$"
 
 HotelZ_Text_CanariWelcome:
-	.string "Unofficially-officially. We have\n"
-	.string "a logo and everything.$"
+	.string "{JPN}うらの おもてむき かな。 ちゃんと\n"
+	.string "ロゴも あるんだから。$"
 
 HotelZ_Text_MableResearch:
-	.string "So you're the one who stood up\n"
-	.string "to The Oni. I'm Mable, Team MZ's\l"
-	.string "researcher. Report back to me.\p"
-	.string "I study Mega Evolution. Lately,\n"
-	.string "the kind that's gone wrong.\p"
-	.string "Rogue Megas. Pokémon locked in\n"
-	.string "Mega form, with no Trainer and\l"
-	.string "no Mega Ring holding them.\p"
-	.string "They're being pulled through\n"
-	.string "rifts, from a gray mirror of\l"
-	.string "our world. A Mega Dimension.$"
+	.string "{JPN}あなたが オニに たちむかった\n"
+	.string "トレーナーね。 わたしは モミジ。 チームMZの\l"
+	.string "けんきゅういんよ。 ほうこくは わたしに。\p"
+	.string "メガシンカを けんきゅうしているの。 さいきんは\n"
+	.string "おかしく なってしまった メガシンカをね。\p"
+	.string "はぐれメガ。 トレーナーも\n"
+	.string "メガリングも ないのに\l"
+	.string "メガシンカしたままの ポケモン。\p"
+	.string "わたしたちの せかいを うつした はいいろの\n"
+	.string "かがみ メガじげんから さけめを\l"
+	.string "とおって ひきずりこまれているの。$"
 
 HotelZ_Text_MableOffer:
-	.string "I can hold a rift open for two\n"
-	.string "minutes. Not a second more.\p"
-	.string "Go in, find the rogue Mega and\n"
-	.string "neutralize it. Bring me back its\l"
-	.string "Mega Stone as a sample.\p"
-	.string "There are 19 of them out there.\n"
-	.string "I need a reading from each one.\p"
-	.string "The rifts open at 8:00 every\n"
-	.string "morning. Watch for the light.$"
+	.string "{JPN}さけめを あけて おけるのは 2ふんだけ。\n"
+	.string "1びょうも のばせない。\p"
+	.string "なかに はいって はぐれメガを みつけ\n"
+	.string "おとなしく させて。 サンプルとして\l"
+	.string "メガストーンを もちかえってね。\p"
+	.string "はぐれメガは 19ひき いるわ。\n"
+	.string "ぜんぶの データが ほしいの。\p"
+	.string "さけめは まいあさ 8じに ひらくわ。\n"
+	.string "ひかりを めじるしに してね。$"
 
 HotelZ_Text_LidaLongTime:
-	.string "Two minutes is a long time…\n"
-	.string "if you're fast!$"
+	.string "{JPN}2ふんって ながいよ…\n"
+	.string "すばやければ ね！$"
 
 HotelZ_Text_MableSample:
-	.string "Is that… a rogue Mega's stone?\n"
-	.string "You actually did it.\p"
-	.string "This is exactly the sample I\n"
-	.string "needed. Thank you, {PLAYER}.$"
+	.string "{JPN}それって… はぐれメガの いし？\n"
+	.string "ほんとうに やったのね。\p"
+	.string "まさに ほしかった サンプルよ。\n"
+	.string "ありがとう {ENG}{PLAYER}{JPN}。$"
 
 HotelZ_Text_MableRecorded:
-	.string "Let me take a reading… there.\n"
-	.string "Keep the stone, it's yours.\p"
-	.string "Recorded! That's {STR_VAR_1}\n"
-	.string "of 19.$"
+	.string "{JPN}データを とらせて… はい おしまい。\n"
+	.string "いしは あなたが もっていて。\p"
+	.string "きろく かんりょう！ これで {ENG}{STR_VAR_1}{JPN}\n"
+	.string "/ 19よ。$"
 
 HotelZ_Text_MableTally:
-	.string "Your tally so far: {STR_VAR_1} of 19.\n"
-	.string "Find a rift and keep going!$"
+	.string "{JPN}いまの ところ {ENG}{STR_VAR_1}{JPN} / 19。\n"
+	.string "さけめを さがして つづけてね！$"
 
 HotelZ_Text_MableAllStones:
-	.string "That's the last one. 19 of 19.\n"
-	.string "Every rogue Mega's stone.\p"
-	.string "Now I can run the tests.\n"
-	.string "Give me a day. I'll call you.$"
+	.string "{JPN}これで さいご。 19 / 19。\n"
+	.string "はぐれメガの いしが ぜんぶ そろった。\p"
+	.string "これで テストが できるわ。\n"
+	.string "1にち ちょうだい。 れんらく するから。$"
 
 HotelZ_Text_MableTesting:
-	.string "The tests are still running.\n"
-	.string "I'll call you the moment I\l"
-	.string "have something.$"
+	.string "{JPN}テストは まだ つづいているわ。\n"
+	.string "なにか わかったら すぐに\l"
+	.string "れんらく するわね。$"
 
 HotelZ_Text_MablePrimals:
-	.string "Primal Groudon and Primal Kyogre.\n"
-	.string "They're waiting in the portals.\p"
-	.string "Catch them both, {PLAYER}.\n"
-	.string "A knockout won't do it.$"
+	.string "{JPN}ゲンシグラードンと ゲンシカイオーガ。\n"
+	.string "ポータルの なかで まっているわ。\p"
+	.string "どちらも つかまえて {ENG}{PLAYER}{JPN}。\n"
+	.string "たおすだけじゃ だめなの。$"
 
 HotelZ_Text_MableRayquaza:
-	.string "Mega Rayquaza is in a portal.\n"
-	.string "Catch it before it tears the\l"
-	.string "rifts wide open.$"
+	.string "{JPN}メガレックウザが ポータルに いるわ。\n"
+	.string "さけめを ひきさいて しまう まえに\l"
+	.string "つかまえて。$"
 
 HotelZ_Text_MableWaiting:
-	.string "Find a rift, take down the rogue\n"
-	.string "Mega and bring me its stone.\l"
-	.string "Two minutes. Go!$"
+	.string "{JPN}さけめを みつけて はぐれメガを たおし\n"
+	.string "いしを もってきて。\l"
+	.string "じかんは 2ふん。 いって！$"
 
 HotelZ_Text_MableAfter:
-	.string "The rifts are settling. Thanks\n"
-	.string "to you, {PLAYER}, Team MZ has\l"
-	.string "every reading I could want.$"
+	.string "{JPN}さけめは おさまりつつ あるわ。\n"
+	.string "{ENG}{PLAYER}{JPN}の おかげで チームMZは\l"
+	.string "ほしかった データを ぜんぶ てにいれた。$"
 
 HotelZ_Text_LidaIdle:
-	.string "Team MZ's always short on hands.\n"
-	.string "Glad you're on board!$"
+	.string "{JPN}チームMZは いつも ひとでぶそくなの。\n"
+	.string "なかまに なって くれて うれしい！$"
 
 HotelZ_Text_CanariIdle:
-	.string "Don't mind the camera. Okay,\n"
-	.string "maybe mind it a little.$"
+	.string "{JPN}カメラは きに しないで。 うーん\n"
+	.string "ちょっとは きに してね。$"

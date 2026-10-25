@@ -64,25 +64,25 @@ TowerStreet_EventScript_WhiteTiger::
 	end
 
 TowerStreet_Text_WhiteTigerIntro::
-	.string "The tower keeps four beasts.\p"
-	.string "I am the WHITE TIGER, the\n"
-	.string "claw at its foot.\p"
-	.string "The thunder in my ranks was\n"
-	.string "sealed screaming. It fights\l"
-	.string "for me anyway.\p"
-	.string "Come and be clawed.$"
+	.string "{JPN}タワーには 4たいの けものが いる。\p"
+	.string "わたしは ビャッコ。 その\n"
+	.string "あしもとの つめだ。\p"
+	.string "わが てもちの いかずちは さけびながら\n"
+	.string "ふういんされた。 それでも\l"
+	.string "わたしの ために たたかう。\p"
+	.string "こい。 ひきさいてやる。$"
 
 TowerStreet_Text_WhiteTigerDefeat::
-	.string "...The claw... broke.$"
+	.string "{JPN}…つめが… おれた。$"
 
 TowerStreet_Text_WhiteTigerPost::
-	.string "Take the stairs.\p"
-	.string "The bird above sings prettier\n"
-	.string "than I growl. It burns hotter,\l"
-	.string "too.$"
+	.string "{JPN}かいだんを のぼれ。\p"
+	.string "うえの とりは わたしの うなりより\n"
+	.string "うつくしく うたう。 ほのおも\l"
+	.string "もっと あつい。$"
 
 TowerStreet_Text_StairsSealed::
-	.string "The stairwell gate is locked to\n"
-	.string "floor security.\p"
-	.string "The floor's guardian is still\n"
-	.string "standing.$"
+	.string "{JPN}かいだんの ゲートは フロアの\n"
+	.string "セキュリティで ロックされている。\p"
+	.string "この フロアの ばんにんが\n"
+	.string "まだ たっている。$"

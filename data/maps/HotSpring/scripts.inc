@@ -52,24 +52,24 @@ HotSpring_EventScript_Bather::
 	end
 
 HotSpring_Text_Body:
-	.string "…so warm…\p"
-	.string "I'll rest here a little longer.\n"
-	.string "Just a little longer…\p"
-	.string "You should stay in. The water takes\n"
-	.string "the cold away. Takes everything\l"
-	.string "away.$"
+	.string "{JPN}…あったかい…\p"
+	.string "もう すこし ここで やすんでいく。\n"
+	.string "もう すこしだけ…\p"
+	.string "あなたも つかっていきなよ。 おゆが\n"
+	.string "さむさを とってくれる。 なにもかも\l"
+	.string "とっていって くれるの。$"
 
 HotSpring_Text_Maniac:
-	.string "Shhh. Don't wake the others.\p"
-	.string "They're only sleeping. We're all\n"
-	.string "only sleeping now.\p"
-	.string "The steam carries the voices of\n"
-	.string "everyone the spring has swallowed.\p"
-	.string "…Can't you hear them?$"
+	.string "{JPN}しーっ。 ほかの ひとを おこさないで。\p"
+	.string "ねむってる だけ。 いまは みんな\n"
+	.string "ねむってる だけなの。\p"
+	.string "ゆげが いずみに のまれた\n"
+	.string "ひとたちの こえを はこんでくる。\p"
+	.string "…きこえない？$"
 
 HotSpring_Text_Bather:
-	.string "…Have we met?\p"
-	.string "In a dream, maybe. Or before the\n"
-	.string "ash came down.\p"
-	.string "It's so hard to remember which\n"
-	.string "world is the real one anymore.$"
+	.string "{JPN}…どこかで あったっけ？\p"
+	.string "ゆめの なかかも。 それとも はいが\n"
+	.string "ふる まえに。\p"
+	.string "どっちが ほんとうの せかいなのか\n"
+	.string "もう わからなくなっちゃった。$"

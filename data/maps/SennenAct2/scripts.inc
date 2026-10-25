@@ -653,125 +653,125 @@ SennenAct2_EventScript_GoonMon3::
 @  Text
 @ ============================================================================
 SennenAct2_Text_KannonIntro::
-	.string "STAND DOWN.\p"
-	.string "Hands where I can see them.\p"
-	.string "That is a direct order!\n"
-	.string "Use of deadly force is authorized.$"
+	.string "{JPN}ぶきを すてろ。\p"
+	.string "てを みえる ところに だせ。\p"
+	.string "これは めいれいだ！\n"
+	.string "ひつような しゅだんは すべて みとめられている。$"
 
 SennenAct2_Text_KannonDefeat::
-	.string "Impressive, Private...$"
+	.string "{JPN}みごとだ にとうへい…$"
 
 SennenAct2_Text_KannonPostBattle::
-	.string "You weren't worth the ammunition\n"
-	.string "anyway.$"
+	.string "{JPN}どうせ たまを つかうほどの\n"
+	.string "あいてでは なかった。$"
 
 SennenAct2_Text_RyokoIntro::
-	.string "Hm. You watched your friends\n"
-	.string "die today.\p"
-	.string "The Oni wants you kneeling.$"
+	.string "{JPN}ふん。 きょう なかまが しぬのを\n"
+	.string "みたな。\p"
+	.string "オニは おまえを ひざまずかせたいそうだ。$"
 
 SennenAct2_Text_RyokoDefeat::
-	.string "Soiled... it...$"
+	.string "{JPN}しくじった…$"
 
 SennenAct2_Text_RyokoPostBattle::
-	.string "Go, then. Board.\p"
-	.string "You'll never survive the\n"
-	.string "TOWER OF SHIN-TOKYO.$"
+	.string "{JPN}なら いけ。 のりこめ。\p"
+	.string "シントウキョウの タワーで\n"
+	.string "いきのこれる はずが ない。$"
 
 SennenAct2_Text_RebelFighter1::
-	.string "Two more! Come ON, big\n"
-	.string "guy, stay up, stay UP…\p"
-	.string "{PLAYER} Get to\n"
-	.string "The DOOR! GO!$"
+	.string "{JPN}あと ふたり！ たのむ でかいの\n"
+	.string "たおれるな たおれるなよ…\p"
+	.string "{ENG}{PLAYER}{JPN} とびらへ\n"
+	.string "いけ！ はやく！$"
 
 SennenAct2_Text_RebelFighter2::
-	.string "Third wave. There's always\n"
-	.string "a third wave, isn't there.$"
+	.string "{JPN}だい3は。 いつだって\n"
+	.string "だい3はが くるんだよな。$"
 
 SennenAct2_Text_RebelFighter3::
-	.string "Board that train, kid. Make it\n"
-	.string "worth EVERYTHING.$"
+	.string "{JPN}あの でんしゃに のれ。 ぜんぶを\n"
+	.string "むだに するなよ。$"
 
 SennenAct2_Text_VossIntro::
-	.string "The karate man? Hmph.\n"
-	.string "Just a minor casualty.\p"
-	.string "You'll manage.\p"
-	.string "What… you want VENGEANCE?\n"
-	.string "Adorable. Come collect it.$"
+	.string "{JPN}からての おとこ？ ふん。\n"
+	.string "ささいな ぎせいだ。\p"
+	.string "おまえなら どうにか なるだろう。\p"
+	.string "なんだ… ふくしゅう したいのか？\n"
+	.string "かわいいものだ。 とりに こい。$"
 
 SennenAct2_Text_VossDefeat::
-	.string "Tch. A statistical\n"
-	.string "anomaly.$"
+	.string "{JPN}ちっ。 とうけいじょうの\n"
+	.string "はずれちだ。$"
 
 SennenAct2_Text_VossPostBattle::
-	.string "Vengeance won't buy your\n"
-	.string "friend a pulse.$"
+	.string "{JPN}ふくしゅうしても なかまの\n"
+	.string "みゃくは もどらんぞ。$"
 
 SennenAct2_Text_GoonFighter2::
-	.string "GOON: Wave after wave of them!\n"
-	.string "Where do these rebels keep\l"
-	.string "COMING from?!\p"
-	.string "...wait. Why would they all… oh\n"
-	.string "no. OH NO. IT'S A DIVERSION…$"
+	.string "{JPN}したっぱ: つぎから つぎへと！\n"
+	.string "この はんらんぐんは どこから\l"
+	.string "わいてくるんだ！？\p"
+	.string "…まてよ。 なんで みんな… まさか\n"
+	.string "まさか。 ようどう だったのか…$"
 
 SennenAct2_Text_GoonMon1::
-	.string "Houndoom's jaws glow like a\n"
-	.string "furnace door.\p"
-	.string "The Machamp facing it is bleeding\n"
-	.string "from three arms... and grinning\l"
-	.string "with everything else.$"
+	.string "{JPN}ヘルガーの あごが かまどの とびらの\n"
+	.string "ように あかく ひかっている。\p"
+	.string "むかいあう カイリキーは 3ぼんの うでから\n"
+	.string "ちを ながしながら… のこりの すべてで\l"
+	.string "わらっている。$"
 
 SennenAct2_Text_GoonMon2::
-	.string "The Golbat wheels and dives,\n"
-	.string "shrieking.\p"
-	.string "The Chandelure's flames have\n"
-	.string "gone small and blue, almost\l"
-	.string "out. Almost.$"
+	.string "{JPN}ゴルバットが ひるがえって きゅうこうか\n"
+	.string "さけびごえを あげる。\p"
+	.string "シャンデラの ほのおは ちいさく あおく\n"
+	.string "なり いまにも きえそうだ。\l"
+	.string "いまにも。$"
 
 SennenAct2_Text_GoonMon3::
-	.string "The Weezing floods the platform\n"
-	.string "with smog.\p"
-	.string "Through it, the Raichu keeps\n"
-	.string "sparking. Dim... but sparking.$"
+	.string "{JPN}マタドガスが ホームを スモッグで\n"
+	.string "うめつくす。\p"
+	.string "その なかで ライチュウは ひばなを\n"
+	.string "ちらしつづける。 よわよわしく… でも まだ。$"
 
 SennenAct2_Text_RebelMon1::
-	.string "Machamp plants all four fists and\n"
-	.string "REFUSES to fall.$"
+	.string "{JPN}カイリキーは 4ほんの こぶしで ふんばり\n"
+	.string "たおれる ことを こばんだ。$"
 
 SennenAct2_Text_RebelMon2::
-	.string "Chandelure's song is thin and\n"
-	.string "guttering.\p"
-	.string "It burns anyway.$"
+	.string "{JPN}シャンデラの うたは かぼそく\n"
+	.string "ゆらめいている。\p"
+	.string "それでも もえている。$"
 
 SennenAct2_Text_RebelMon3::
-	.string "Raichu drags itself back up.\n"
-	.string "Again.$"
+	.string "{JPN}ライチュウは また よろよろと たちあがった。\n"
+	.string "もういちど。$"
 
 SennenAct2_Text_GenBattleCry::
-	.string "Hold the line!\p"
-	.string "CHANDELURE light them up!$"
+	.string "{JPN}ふみとどまれ！\p"
+	.string "シャンデラ やきはらえ！$"
 
 SennenAct2_Text_GoonRout::
-	.string "The station belongs to\n"
-	.string "MUTRID… agh! Fall back!$"
+	.string "{JPN}えきは ミュートリッドの\n"
+	.string "ものだ… ぐあっ！ たいきゃく！$"
 
 SennenAct2_Text_YifferBattleCry::
-	.string "MACHAMP doesn't kneel to THE ONI!\n"
-	.string "And neither will I!$"
+	.string "{JPN}カイリキーは オニに ひざまずかない！\n"
+	.string "おれも だ！$"
 
 SennenAct2_Text_RedFatalityBattleCry::
-	.string "RAICHU, one more! Everything\n"
-	.string "you've got left!$"
+	.string "{JPN}ライチュウ もう ひとふんばり！\n"
+	.string "のこりの ちからを ぜんぶ だせ！$"
 
 SennenAct2_Text_RyokoChallenge::
-	.string "Siding with that old MASTER GEN?\n"
-	.string "His teachings are expired.\p"
-	.string "It's useless listening to elders.\n"
-	.string "Lemme teach you a thing or two.$"
+	.string "{JPN}あの ふるい ゲンししょうの みかたか？\n"
+	.string "あの ひとの おしえは もう ふるい。\p"
+	.string "としよりの はなしなんか きいても むだだ。\n"
+	.string "おれが ひとつ おしえてやるよ。$"
 
 SennenAct2_Text_GoonFighter3::
-	.string "The GENERAL holds the\n"
-	.string "platform. NOBODY reaches that\l"
-	.string "train.\p"
-	.string "...Right? Somebody tell me I'm\n"
-	.string "right.$"
+	.string "{JPN}ホームは しょうぐんが\n"
+	.string "まもっている。 だれも あの\l"
+	.string "でんしゃには たどりつけない。\p"
+	.string "…だよな？ だれか そうだと\n"
+	.string "いってくれ。$"

@@ -1,0 +1,914 @@
+[
+ {
+  "id": "687ddf74513d4aa9",
+  "translation": "{JPN}むらじゅうの とびらを くぎづけにして\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c62a959798e8738",
+  "translation": "みちも ぜんぶ ふさいだ…\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27aa12372a2aa304",
+  "translation": "…それでも おまえは あらわれる。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ca77842f1829079",
+  "translation": "そりゃ そうだよな {ENG}{PLAYER}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a29caef7cd16150",
+  "translation": "{JPN}これが なにか わかるか？\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8316c0da17e6804",
+  "translation": "クラークソンの しょうこだ。 やまは\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77418c919e153947",
+  "translation": "きかいで きかいなら じぶんの ものに\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a884bc52bca1ee1",
+  "translation": "できる。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10f8a6555973ec7f",
+  "translation": "シントウキョウの やみの きみは こういう\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1b4b2c0782451bd",
+  "translation": "ちしきに たいかを はらう。 おまえには\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6faf0e54561a2547",
+  "translation": "そうぞうも つかない かたちでな。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8143d61fdddac33e",
+  "translation": "はかせの しりょうが ほしいか？\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "479790f2fc5021c1",
+  "translation": "だったら おれから うばってみろ。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b80dfe6cbac83fc",
+  "translation": "{JPN}ちっ…！ もういい。 もう たくさんだ！$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11f88692467fc119",
+  "translation": "{JPN}あいかわらず あまいな {ENG}{PLAYER}{JPN}。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "520af13d90ed4fb2",
+  "translation": "やみの きみに いきたまま くわれるぞ。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "355bc4db5e0a63d8",
+  "translation": "{JPN}どうでも いいんだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da26c39ddd8e73b0",
+  "translation": "ページは もう ぜんぶ\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8067d0fd33ff56a",
+  "translation": "よんだ。 なかみは もう おれの もの…\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08012a873906db1a",
+  "translation": "そして すぐに あの かたの ものに なる。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c653dc32152c2ffc",
+  "translation": "シントウキョウの あかりが よんでるぜ\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d8b6deddafde8c9",
+  "translation": "{ENG}{PLAYER}{JPN}。 ついてこれるもんならな…$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02b2a1720d634d67",
+  "translation": "{JPN}つくえの うえに クラークソンの けんきゅうの\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52578b0d986a8a58",
+  "translation": "げんぽんが おかれた ままに なっている。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7858f9d6a9d9b1e0",
+  "translation": "{JPN}まって… その けんきゅうを\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e97ca9b4a878f3c",
+  "translation": "はきしなきゃ だめだ$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80296d2a967e75d9",
+  "translation": "{JPN}まって… その けんきゅうを\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c13c065ae52f0a4",
+  "translation": "はきしなきゃ だめだ$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98bb35663ce2c04b",
+  "translation": "{JPN}つくえは しりょうと きぐで\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba6eb45e8727910a",
+  "translation": "うもれている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "466c15e9af776ad1",
+  "translation": "ドラコが その まえに\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8a8dd5d20c40b75",
+  "translation": "たちはだかっている。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eec1a67feacdac7b",
+  "translation": "{JPN}つくえに クラークソンの けんきゅうが ある。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a861c32eff24b083",
+  "translation": "なんねんぶんもの しごと。 ある ゆうれいの\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af5b73efcfe1d047",
+  "translation": "さいごの こうかい。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea45deb36774c791",
+  "translation": "かれは あなたに はきを たのんだ。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e3ffd8a7e09105e",
+  "translation": "だが きめるのは あなただ。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db8960f4fd31adf9",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は けんきゅうを しまいこんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9160070347ff6210",
+  "translation": "たいせつなもの ポケットから\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea518f52b6a2c7a4",
+  "translation": "よむことが できる…$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b6d3040e1142015",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は すべての ページを あつめ\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6650c1b2ea52f5f",
+  "translation": "けんきゅうじょの ふるい バーナーに いれた…\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1266864943887da4",
+  "translation": "…そして ひを つけた。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae038b574ec306da",
+  "translation": "{JPN}ページは すぐに もえあがった。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb50addb3d232ca7",
+  "translation": "ひとりの しょうがいの しごとが ひかりに\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e257c90ed84a009",
+  "translation": "なり ぬくもりに なり はいに なった。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b926e69beb2a88c",
+  "translation": "どこかで… バッグの なかかも しれない…\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ff9b545c8e140c5",
+  "translation": "なにかが にやりと わらい\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "663309072705902e",
+  "translation": "ながい あいだ こらえていた いきを はいた。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fa817d5be5f8e07",
+  "translation": "{JPN}けんきゅうは つくえの うえで まっている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "682299a6d87465c7",
+  "translation": "どこにも いきは しない。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a666a7a35b091be7",
+  "translation": "そこが もんだいなのだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55c3e21bb9497fab",
+  "translation": "{JPN}つくえの うえには まだ ほのかに あたたかい\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47319e9d93a6f7e0",
+  "translation": "はいだけが のこっている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8ddf9c45e7f197d",
+  "translation": "けんきゅうじょの くうきが かるく なった。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baf5022f7bd47091",
+  "translation": "{JPN}つくえの うえは からっぽだ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb38bf9d9a5b9a2e",
+  "translation": "けんきゅうは いま バッグの なかに ある。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c704ece73c7fc2c4",
+  "translation": "こらえた いきのように おもたい。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e119a27209000cb1",
+  "translation": "{JPN}クラークソンの けんきゅうを はきしますか？\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fe0d03d6e3c8833",
+  "translation": "とりけすことは できません。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7489a20e00290ce4",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ちいさな ひを たいて\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee6b57c8b6961f1d",
+  "translation": "ページを ていねいに くべた。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b101a770791f5a7",
+  "translation": "ひとりの しょうがいの しごとが ひかりに\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d91f85a8782bbd88",
+  "translation": "なり ぬくもりに なり はいに なった。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd02d01d3043e8c2",
+  "translation": "すぐ そばで なにかが にやりと わらい\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2742c79dcd086705",
+  "translation": "ながい あいだ こらえていた\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d99c558aa2a651fb",
+  "translation": "いきを はいた。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3745086cec546e8b",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は けんきゅうを また\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af7ca7778c0c5271",
+  "translation": "しまいこんだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c193ba9324d2bc6e",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ダークちょうさしりょうを\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fe0e083415ec6f4",
+  "translation": "ひらいた…\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a5be961a44ed0fe",
+  "translation": "「フィールドノート だい9かん さいしゅう。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bddd1087622863a3",
+  "translation": "E・クラークソン\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "687e8c4a0b70791b",
+  "translation": "「やまは かみでは ない。 しくみだ。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88b55322a7f39464",
+  "translation": "かなしみが てばなせない ものを しまいこみ\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5961a45f9b653d40",
+  "translation": "しまわれた ものは かたちを\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48f744efd14fb552",
+  "translation": "かえる ことが できる。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25d8a840c7bd0014",
+  "translation": "{JPN}「こころは とびらのように\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4aeb2296654118e1",
+  "translation": "とざす ことが できる。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17dd2f3a2e7dc1ec",
+  "translation": "「わたしは サンプルを みた。\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42d8b79e6f6f8436",
+  "translation": "ありのままに よぼう。\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7076e5e6d6ed6c6",
+  "translation": "ダークポケモン。 こころを\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c0f87cbab10cc98",
+  "translation": "とざされた ポケモンだ…\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a15b999c1c6f6ce8",
+  "translation": "じんいてきに。 いとてきに。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77a02efed6afcd5e",
+  "translation": "「そして ジラーチ… ふめつの ねがいは\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe4805b50f7ee9ba",
+  "translation": "かたちの ない ちからだ。 サミットゲートを\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5cd985901d317f00",
+  "translation": "とおして かたちを あたえれば ひとつの ねがいで\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e1f48abaaf230af",
+  "translation": "いちまんの こころを いちどに\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6d2668476308d12",
+  "translation": "とざせる。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a13a77dc4dccfb18",
+  "translation": "「なにも かんじない ぐんたいが\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85cc1d2487c31273",
+  "translation": "ひとばんで ねがいから うまれるのだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55d5edbe87ac9e23",
+  "translation": "{JPN}「たいこうさくは ある。 まだ しょうめい\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffc56636fb89b65c",
+  "translation": "できないが わたしは そう\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f17466a59482497d",
+  "translation": "しんじている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f59a5baae829b355",
+  "translation": "「セレビィ。 もりに やどる\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a963dbbfd7108ac",
+  "translation": "ときの せいれいだ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25e9b165a8415ad4",
+  "translation": "「ときの なかで とざされた ものは ときに よって\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9e740bb1b92db36",
+  "translation": "ふたたび ひらける。 リライブに ひつような\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6bb6f19ec527796",
+  "translation": "ものは まさに ダークポケモンに\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ede7989b8a72ae9",
+  "translation": "かけている もの。 じかん。 きおく。 おもいやり。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81aa202c8ab111bd",
+  "translation": "「これを だれかが よみ わたしが もう\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6dfc60e002d82292",
+  "translation": "いないのなら サミットゲートに\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07942e8a7b5abbb2",
+  "translation": "ねがいを あたえては ならない」$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00b160df4cb128cc",
+  "translation": "{JPN}たなの ものは ひとなぎで\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb87f1e716bf2453",
+  "translation": "すべて はらいおとされている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "979cadaffbcdce31",
+  "translation": "ここを あさった ものは なにを さがしているか\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "906b6ca5116f0389",
+  "translation": "はっきり わかっていて なにが こわれても\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31c070dcf3b50830",
+  "translation": "きに しなかったようだ。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72ab984554bcd31f",
+  "translation": "{JPN}けんきゅうじょの きかいは まっくらだ。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56f599603e6d60f2",
+  "translation": "ひびの はいった まどから ゆきが ふきこみ\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "329eb832c3be219d",
+  "translation": "キーの うえに とけずに\\l",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "789ce0478c5a6675",
+  "translation": "つもっている。\\p",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b459553d3f7686dd",
+  "translation": "この へやを あたためた ひとは\\n",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8451a2d2a5c1291d",
+  "translation": "ながいこと いない。$",
+  "provenance": {
+   "batch": "dialogue-act2-lab-29",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

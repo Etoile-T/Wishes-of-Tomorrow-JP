@@ -51,6 +51,8 @@
 
 - [調査・ビルド手順・検証結果・残作業](localization/README.ja.md)
 - [翻訳カタログ](localization/catalog.json)
+- [日本語訳をテーブルで読む](localization/translated-texts.md)
+- [日本語訳をExcelで確認する](localization/exports/translated-texts.xlsx)
 - [用語辞書](localization/glossary.json)
 - [yomiyasuの導入・翻訳レビュー手順](localization/yomiyasu.md)
 - [機械可読の進捗](localization/status.json)

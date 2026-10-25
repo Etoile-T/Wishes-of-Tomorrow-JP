@@ -38,38 +38,38 @@ Route_2_EventScript_Camper::
 	end
 
 Route_2_Text_FishermanIntro:
-	.string "The fish ain't bitin' today…\n"
-	.string "Maybe YOU'LL give me a nibble!$"
+	.string "{JPN}きょうは さっぱり つれねえ…\n"
+	.string "おまえなら くいついて くれるか？$"
 
 Route_2_Text_FishermanDefeat:
-	.string "Reeled in and tossed back…$"
+	.string "{JPN}つりあげられて リリースされちまった…$"
 
 Route_2_Text_FishermanPost:
-	.string "The big ones are further up the\n"
-	.string "SENNEN line. If it ever\l"
-	.string "reopens, that is.$"
+	.string "{JPN}おおものは センネンせんの さきの\n"
+	.string "ほうに いるんだ。 また でんしゃが\l"
+	.string "うごけば の はなしだがな。$"
 
 Route_2_Text_HikerIntro:
-	.string "These slopes'll toughen you up\n"
-	.string "before you face FROSTWOOD's gym!$"
+	.string "{JPN}この さかで きたえてから\n"
+	.string "フロストウッドの ジムに いどむんだな！$"
 
 Route_2_Text_HikerDefeat:
-	.string "Whew! You've got strong legs!$"
+	.string "{JPN}ふう！ いい あしこしを してるな！$"
 
 Route_2_Text_HikerPost:
-	.string "Train hard out here. That gym\n"
-	.string "leader doesn't go easy on rookies.$"
+	.string "{JPN}ここで しっかり きたえておけ。 あそこの\n"
+	.string "ジムリーダーは しんまいにも てかげん しないぞ。$"
 
 Route_2_Text_CamperIntro:
-	.string "You caught me with a pitched tent.\n"
-	.string "Get ready for my finisher!$"
+	.string "{JPN}テントを はってる ところを みつかったか。\n"
+	.string "ひっさつわざを くらえ！$"
 
 Route_2_Text_CamperDefeat:
-	.string "Ahhh I give uuup!$"
+	.string "{JPN}あああ まいったあ！$"
 
 Route_2_Text_CamperPost:
-	.string "Plenty of wild POKéMON around here\n"
-	.string "if you're looking to level up.$"
+	.string "{JPN}レベルを あげたいなら この あたりには\n"
+	.string "やせいの ポケモンが たくさん いるよ。$"
 
 @ -- Ambient wandering wild POKéMON (cry on talk, no battle) --
 
@@ -114,20 +114,20 @@ Route_2_EventScript_WildPsyduck::
 	end
 
 Route_2_Text_WildZigzagoon:
-	.string "A ZIGZAGOON is zig-zagging through\n"
-	.string "the underbrush!$"
+	.string "{JPN}ジグザグマが しげみの なかを\n"
+	.string "ジグザグに すすんでいる！$"
 
 Route_2_Text_WildPoochyena:
-	.string "A POOCHYENA eyes you warily, then\n"
-	.string "trots off down the trail.$"
+	.string "{JPN}ポチエナは こちらを けいかいして みつめ\n"
+	.string "みちの むこうへ かけていった。$"
 
 Route_2_Text_WildWingull:
-	.string "A WINGULL wheels overhead and lands\n"
-	.string "nearby with a cry!$"
+	.string "{JPN}キャモメが そらを まわり ないて\n"
+	.string "ちかくに おりたった！$"
 
 Route_2_Text_WildPsyduck:
-	.string "Psyyyyy\n"
-	.string "duckkkk$"
+	.string "{JPN}コダァァァ\n"
+	.string "ックゥゥ$"
 
 @ ===========================================================================
 @ SIREN ALLISON -- the approach.
@@ -306,50 +306,50 @@ Route_2_EventScript_AllisonAfter::
 	end
 
 Route_2_Text_AllisonIntro0:
-	.string "It's UV 9…\n"
-	.string "and you're blocking my rays.$"
+	.string "{JPN}しがいせんしすう 9…\n"
+	.string "なのに あなた ひざしを さえぎってる。$"
 
 Route_2_Text_AllisonIntro1:
-	.string "Oh, you came all the way down\n"
-	.string "to the water for me?\p"
-	.string "That's adorable.\n"
-	.string "Wrong, but adorable.$"
+	.string "{JPN}あら わたしの ために わざわざ\n"
+	.string "みずべまで おりてきたの？\p"
+	.string "かわいいわね。\n"
+	.string "かんちがい だけど かわいいわ。$"
 
 Route_2_Text_AllisonIntro2:
-	.string "Careful, sweetie.\p"
-	.string "Everything pretty on this beach\n"
-	.string "stings.$"
+	.string "{JPN}きを つけてね かわいこちゃん。\p"
+	.string "この ビーチの きれいな ものは みんな\n"
+	.string "とげが あるのよ。$"
 
 Route_2_Text_AllisonIntro3:
-	.string "I could let you win…\p"
-	.string "No. No, I couldn't.$"
+	.string "{JPN}かたせて あげても いいけど…\p"
+	.string "だめ。 やっぱり むりだわ。$"
 
 Route_2_Text_AllisonDefeat0:
-	.string "Swept off my feet… and I'm not\n"
-	.string "even standing!$"
+	.string "{JPN}ころっと まいっちゃった… たっても\n"
+	.string "いないのにね！$"
 
 Route_2_Text_AllisonDefeat1:
-	.string "Fine! You win!\p"
-	.string "It's just the salt water in my\n"
-	.string "eyes. That's all this is.$"
+	.string "{JPN}わかったわよ！ あなたの かち！\p"
+	.string "しおみずが めに しみただけ。\n"
+	.string "ただ それだけよ。$"
 
 Route_2_Text_AllisonDefeat2:
-	.string "Ugh… you're so much less charming\n"
-	.string "when you're winning.$"
+	.string "{JPN}もう… かってる ときの あなたって\n"
+	.string "ぜんぜん かわいくない。$"
 
 Route_2_Text_AllisonPost0:
-	.string "My LUVDISC took one look at you and\n"
-	.string "forgot how to swim. Same, honestly.$"
+	.string "{JPN}わたしの ラブカス あなたを みたら\n"
+	.string "およぎかたを わすれちゃった。 わたしもよ。$"
 
 Route_2_Text_AllisonPost1:
-	.string "Rematch? Sure.\p"
-	.string "Right after my tan, my nap and\n"
-	.string "my revenge plan.$"
+	.string "{JPN}リベンジ？ いいわよ。\p"
+	.string "ひやけと おひるねと ふくしゅうの\n"
+	.string "けいかくが すんだらね。$"
 
 Route_2_Text_AllisonPost2:
-	.string "Tell the boys at the shack that\n"
-	.string "a SIREN let you pass.\p"
-	.string "They'll never believe you.$"
+	.string "{JPN}こやの おとこのこたちに いってあげて。\n"
+	.string "セイレーンが とおして くれたって。\p"
+	.string "ぜったい しんじて もらえないわよ。$"
 
 Route_2_EventScript_SwimmerSkye::
 	trainerbattle_single TRAINER_ROUTE2_SWIMMER_SKYE, Route_2_Text_SkyeIntro, Route_2_Text_SkyeDefeat
@@ -367,37 +367,37 @@ Route_2_EventScript_SwimmerMarina::
 	end
 
 Route_2_Text_SkyeIntro:
-	.string "I was floating here waiting for a\n"
-	.string "shooting star… you'll do nicely!$"
+	.string "{JPN}ながれぼしを まって ここで\n"
+	.string "うかんでたの… あなたで いいわ！$"
 
 Route_2_Text_SkyeDefeat:
-	.string "Falling for you was the easy part!$"
+	.string "{JPN}あなたに おちるのは かんたん だったわ！$"
 
 Route_2_Text_SkyePost:
-	.string "They say the SENNEN LINE runs again.\n"
-	.string "Take me somewhere warm sometime?$"
+	.string "{JPN}センネンせんが また うごいてるって。\n"
+	.string "いつか あたたかい ところへ つれてって？$"
 
 Route_2_Text_RosaIntro:
-	.string "A thousand years frozen, and YOU'RE\n"
-	.string "what finally melts the ice? Unfair!$"
+	.string "{JPN}せんねん こおってた こおりを とかすのが\n"
+	.string "あなた だなんて！ ずるい！$"
 
 Route_2_Text_RosaDefeat:
-	.string "Be still, my CORSOLA heart!$"
+	.string "{JPN}おちついて わたしの サニーゴハート！$"
 
 Route_2_Text_RosaPost:
-	.string "If you're climbing STAR SUMMIT, wish\n"
-	.string "for me, okay? Just a little wish.$"
+	.string "{JPN}スターサミットに のぼるなら わたしの ぶんも\n"
+	.string "ねがって くれる？ ちょっとだけで いいから。$"
 
 Route_2_Text_MarinaIntro:
-	.string "Careful, cutie. The current's strong\n"
-	.string "and so am I!$"
+	.string "{JPN}きを つけて かわいこちゃん。 ながれは\n"
+	.string "はやいし わたしも つよいわよ！$"
 
 Route_2_Text_MarinaDefeat:
-	.string "Oof… you sank my whole strategy!$"
+	.string "{JPN}うっ… さくせんが まるごと しずんじゃった！$"
 
 Route_2_Text_MarinaPost:
-	.string "Strong AND charming? The Pro-\n"
-	.string "fessor's lucky to have you up there.$"
+	.string "{JPN}つよくて すてき？ はかせは\n"
+	.string "あなたが いて しあわせものね。$"
 
 @ ---------------------------------------------------------------------------
 @  Beach crowd -- the blizzard is one town south; here it is towel weather.
@@ -481,63 +481,63 @@ Route_2_EventScript_BeachOldMan::
 	end
 
 Route_2_Text_YachtSign::
-	.string "A gleaming yacht bobs at the\n"
-	.string "pier, keys in the ignition.\p"
-	.string "Hijack the yacht?$"
+	.string "{JPN}ぴかぴかの ヨットが さんばしで\n"
+	.string "ゆれている。 キーは さしたままだ。\p"
+	.string "ヨットを ぬすむ？$"
 
 Route_2_Text_YachtFailed::
-	.string "Failed!$"
+	.string "{JPN}しっぱい！$"
 
 Route_2_Text_YachtStarts::
-	.string "You try the fisherman's key.\p"
-	.string "The engine catches on the\n"
-	.string "first turn.\p"
-	.string "...Nobody comes running.$"
+	.string "{JPN}つりびとの カギを ためしてみた。\p"
+	.string "ひとまわしで エンジンが\n"
+	.string "かかった。\p"
+	.string "…だれも かけつけて こない。$"
 
 Route_2_Text_SandyIntro::
-	.string "I heard that one town south\n"
-	.string "it's a whiteout blizzard.$"
+	.string "{JPN}ひとつ みなみの まちは\n"
+	.string "まっしろな ふぶきなんだって。$"
 
 Route_2_Text_SandyDefeat::
-	.string "Whatever, ya flatfoot.!$"
+	.string "{JPN}どうでもいいよ この へなちょこ！$"
 
 Route_2_Text_SandyPost::
-	.string "Snowman or sandcastle?\n"
-	.string "I can't decide!$"
+	.string "{JPN}ゆきだるまか すなのしろか\n"
+	.string "きめられない！$"
 
 Route_2_Text_CocoIntro::
-	.string "Prime beach weather every single\n"
-	.string "day! How is that even fair?$"
+	.string "{JPN}まいにち さいこうの ビーチびより！\n"
+	.string "こんなの ずるくない？$"
 
 Route_2_Text_CocoDefeat::
-	.string "Wipeout...$"
+	.string "{JPN}ワイプアウト…$"
 
 Route_2_Text_CocoPost::
-	.string "They say you can see the storm\n"
-	.string "wall from the south fence. Brrr.$"
+	.string "{JPN}みなみの さくから あらしの かべが\n"
+	.string "みえるんだって。 ぶるぶる。$"
 
 Route_2_Text_PeteIntro::
-	.string "Personally? I prefer the cold.$"
+	.string "{JPN}わたしは さむい ほうが すきです。$"
 
 Route_2_Text_PeteDefeat::
-	.string "I am sweating. That is new.$"
+	.string "{JPN}あせを かいています。 はじめての けいけんです。$"
 
 Route_2_Text_PetePost::
-	.string "The moment I save up, I am\n"
-	.string "moving to Frostwood for good.$"
+	.string "{JPN}おかねが たまったら すぐに\n"
+	.string "フロストウッドへ ひっこします。$"
 
 Route_2_Text_BeachBeauty::
-	.string "Sunscreen on the left arm,\n"
-	.string "frostbite cream on the right.$"
+	.string "{JPN}ひだりうでには ひやけどめ\n"
+	.string "みぎうでには しもやけの くすり。$"
 
 Route_2_Text_BeachSailor::
-	.string "Get a load of the cheeks on her!\n"
-	.string "Arceus, have Mercy!$"
+	.string "{JPN}あの こ みてみろよ！ いい しり してるぜ！\n"
+	.string "アルセウスさま おたすけを！$"
 
 Route_2_Text_BeachOldMan::
-	.string "Some say it is climate change,\n"
-	.string "but legend says JIRACHI\p"
-	.string "will rise again.$"
+	.string "{JPN}きこうへんどう だと いう ものも おるが\n"
+	.string "でんせつでは ジラーチが\p"
+	.string "ふたたび めざめると いう。$"
 
 Route_2_EventScript_TwinsReinaVanessa::
 	trainerbattle_double TRAINER_RED, Route_2_Text_TwinsIntro, Route_2_Text_TwinsDefeat, Route_2_Text_TwinsNotEnough
@@ -545,22 +545,22 @@ Route_2_EventScript_TwinsReinaVanessa::
 	end
 
 Route_2_Text_TwinsIntro::
-	.string "REINA: We do everything as a\n"
-	.string "pair!\p"
-	.string "VANESSA: Even our FINIZEN\n"
-	.string "match! Double battle time!$"
+	.string "{JPN}レイナ: わたしたち なんでも\n"
+	.string "ふたりで やるの！\p"
+	.string "バネッサ: ナミイルカも\n"
+	.string "おそろい！ ダブルバトルよ！$"
 
 Route_2_Text_TwinsDefeat::
-	.string "Even our synchronized splash\n"
-	.string "failed!$"
+	.string "{JPN}ぴったり そろえた はねるも\n"
+	.string "だめだった！$"
 
 Route_2_Text_TwinsNotEnough::
-	.string "You only have one POKeMON?\n"
-	.string "Come back with a pair!$"
+	.string "{JPN}ポケモンが 1ぴき しか いないの？\n"
+	.string "2ひき つれて きてね！$"
 
 Route_2_Text_TwinsPost::
-	.string "Matching partners, matching\n"
-	.string "losses... Still cute though!$"
+	.string "{JPN}おそろいの あいぼう おそろいの\n"
+	.string "まけ… それでも かわいいでしょ！$"
 
 @ Outside the gondola station: rode down expecting Frostwood's slopes.
 Route_2_EventScript_LostSnowboarder::
@@ -571,9 +571,9 @@ Route_2_EventScript_LostSnowboarder::
 	end
 
 Route_2_Text_LostSnowboarder::
-	.string "Where the hell am I?\p"
-	.string "I thought this was where the\n"
-	.string "slopes were!$"
+	.string "{JPN}ここ いったい どこだよ？\p"
+	.string "ゲレンデは ここだと\n"
+	.string "おもったのに！$"
 
 @ RedFatality, Frostwood's GYM LEADER, stuck at the bottom of the lift with no ticket.
 @ Giving him the EPIC PASS (Sennen Village item ball, placeholder) sends him bolting
@@ -658,29 +658,29 @@ Route_2_Movement_RedFatalityBoltAround:
 	step_end
 
 Route_2_Text_RedFatalityIntro::
-	.string "Yo! I'm RedFatality, FROSTWOOD's\n"
-	.string "GYM LEADER.\p"
-	.string "I can't ride the lift back up to\n"
-	.string "the peak without a lift ticket.\p"
-	.string "Kind of a bummer, but can't really\n"
-	.string "complain. I mean, look where we are.$"
+	.string "{JPN}よう！ おれは RedFatality。\n"
+	.string "フロストウッドの ジムリーダーだ。\p"
+	.string "リフトの チケットが ないと\n"
+	.string "やまの うえに もどれなくてさ。\p"
+	.string "ちょっと ついてないけど もんくは\n"
+	.string "いえないな。 だって この けしき だぜ。$"
 
 Route_2_Text_GiveEpicPass::
-	.string "Give RedFatality the EPIC PASS?$"
+	.string "{JPN}RedFatalityに\nリフトのシーズンパスを わたす？$"
 
 Route_2_Text_HandedOverEpicPass::
-	.string "{PLAYER} handed over the EPIC PASS.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は リフトのシーズンパスを わたした。$"
 
 Route_2_Text_RedFatalitySick::
-	.string "Sick!$"
+	.string "{JPN}さいこう！$"
 
 Route_2_Text_RedFatalityNoWorries::
-	.string "All good. I'll just be down here,\n"
-	.string "soaking it in.$"
+	.string "{JPN}だいじょうぶ。 おれは ここで\n"
+	.string "のんびり してるからさ。$"
 
 Route_2_EventScript_SennenStationSign::
 	msgbox Route_2_Text_SennenStationSign, MSGBOX_SIGN
 	end
 
 Route_2_Text_SennenStationSign::
-	.string "{UP_ARROW} NORTH TO SENNEN STATION$"
+	.string "{JPN}{UP_ARROW} きた: センネンえき$"

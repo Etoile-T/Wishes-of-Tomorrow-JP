@@ -63,34 +63,34 @@ ShinkansenInterior_EventScript_ComputerFixed::
 	end
 
 ShinkansenInterior_Text_GoonIntro:
-	.string "…Took you long enough, kid.\p"
-	.string "I jammed this old SHINKANSEN's gears\n"
-	.string "with ice -- frozen solid as steel.\p"
-	.string "Nobody rides the SENNEN LINE up the\n"
-	.string "mountain now. Boss's orders.\p"
-	.string "And you? You're just a brat who\n"
-	.string "wandered where you shouldn't have.\p"
-	.string "Beat it -- or I'll flatten you!$"
+	.string "{JPN}…おそかったな ガキ。\p"
+	.string "この ふるい しんかんせんの はぐるまは\n"
+	.string "こおりで かためてやった。 はがねみたいにな。\p"
+	.string "もう だれも センネンせんで やまへは\n"
+	.string "のぼれねえ。 ボスの めいれいだ。\p"
+	.string "で おまえは？ くるべきじゃない ところに\n"
+	.string "まよいこんだ ただの ガキだろ。\p"
+	.string "うせろ。 さもなきゃ ぺしゃんこだ！$"
 
 ShinkansenInterior_Text_GoonDefeat:
-	.string "Tch…! Flattened by a kid…?$"
+	.string "{JPN}ちっ…！ ガキに ぺしゃんこに されるとは…？$"
 
 ShinkansenInterior_Text_GoonAfter:
-	.string "Fine, FINE -- I'm gone!\p"
-	.string "But good luck thawing those gears.\n"
-	.string "The whole system's locked up tight.\p"
-	.string "You'll NEVER get up that mountain!$"
+	.string "{JPN}わかった わかったよ！ でていくって！\p"
+	.string "だが はぐるまの こおりを とかすのは\n"
+	.string "むりだぜ。 システムは がっちり とまってる。\p"
+	.string "おまえは ぜったいに やまへは いけねえ！$"
 
 ShinkansenInterior_Text_ComputerFrozen:
-	.string "The control console is sheathed in\n"
-	.string "ice. Every readout blinks ERROR.\p"
-	.string "The SENNEN LINE's systems are frozen\n"
-	.string "solid -- the train can't move an inch.$"
+	.string "{JPN}せいぎょばんは こおりで おおわれている。\n"
+	.string "ひょうじは ぜんぶ ERRORと てんめつしている。\p"
+	.string "センネンせんの システムは こおりついていて\n"
+	.string "でんしゃは 1ミリも うごかない。$"
 
 ShinkansenInterior_Text_ComputerFixed:
-	.string "The console hums back to life.\p"
-	.string "SENNEN LINE: now departing for\n"
-	.string "SHIN-TOKYO. All systems nominal.$"
+	.string "{JPN}せいぎょばんが ふたたび うごきだした。\p"
+	.string "センネンせん: シントウキョウゆき\n"
+	.string "まもなく はっしゃ。 システム せいじょう。$"
 
 @ ============================================================================
 @  ACT 2 BOARDING (added): once the keycard door opens at Sennen
@@ -175,56 +175,56 @@ ShinkansenInterior_EventScript_SeatInert::
 @  Text (Act 2 boarding)
 @ ============================================================================
 ShinkansenInterior_Text_Passenger1::
-	.string "The masked passenger doesn't turn\n"
-	.string "its head.\p"
-	.string "“Sit anywhere. Everyone gets\n"
-	.string "where they're going, in the end.”$"
+	.string "{JPN}めんを つけた じょうきゃくは\n"
+	.string "ふりむかない。\p"
+	.string "「どこでも すわりな。 さいごには\n"
+	.string "みんな いくべき ところへ つく」$"
 
 ShinkansenInterior_Text_Passenger2::
-	.string "“First trip east? The lights of\n"
-	.string "Shin-Tokyo never turn off.\p"
-	.string "“The master says sleep is just\n"
-	.string "practice for something lazier.”\p"
-	.string "Behind the mask, something that\n"
-	.string "is not laughter, laughs.$"
+	.string "{JPN}「ひがしへは はじめてか？ シントウキョウの\n"
+	.string "あかりは けっして きえない。\p"
+	.string "「マスターは いう。 ねむりなど もっと\n"
+	.string "なまけた なにかの れんしゅうに すぎぬと」\p"
+	.string "めんの うらで わらいでは ない\n"
+	.string "なにかが わらった。$"
 
 ShinkansenInterior_Text_Passenger3::
-	.string "Ticket? Kekeke. Nobody checks\n"
-	.string "tickets anymore.\p"
-	.string "The train knows who it's\n"
-	.string "carrying.$"
+	.string "{JPN}きっぷ？ ケケケ。 もう だれも\n"
+	.string "きっぷなんか しらべないよ。\p"
+	.string "でんしゃは だれを はこんでいるか\n"
+	.string "わかってるのさ。$"
 
 ShinkansenInterior_Text_TakeSeat::
-	.string "{PLAYER} sank into the last seat\n"
-	.string "in the car.\p"
-	.string "Through the window: smoke over\n"
-	.string "Sennen, and tiny distant flashes\l"
-	.string "of the battle still burning.\p"
-	.string "Everything you have ever loved is\n"
-	.string "on the wrong side of this glass.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は しゃりょうの さいごの\n"
+	.string "せきに しずみこんだ。\p"
+	.string "まどの そと: センネンの うえの けむりと\n"
+	.string "とおくで ちいさく ひかる\l"
+	.string "まだ もえている たたかいの ひ。\p"
+	.string "あいしてきた すべてが\n"
+	.string "この ガラスの むこうがわに ある。$"
 
 ShinkansenInterior_Text_Departing1::
-	.string "The doors hiss shut, one after\n"
-	.string "another, all down the line.\p"
-	.string "Somewhere ahead, the rails snap\n"
-	.string "to GREEN -- all the way east.\p"
-	.string "Minister kept his promise.$"
+	.string "{JPN}ドアが つぎつぎと しまっていく。\n"
+	.string "しゃりょうの さいごまで。\p"
+	.string "ずっと さきで せんろの しんごうが\n"
+	.string "あおに かわる。 ひがしの はてまで。\p"
+	.string "だいじんは やくそくを まもった。$"
 
 ShinkansenInterior_Text_Departing2::
-	.string "The Shinkansen LURCHES--\p"
-	.string "--and Sennen's platform lights\n"
-	.string "tear away into long white\l"
-	.string "streaks.\p"
-	.string "No one on this train looks out\n"
-	.string "the window. Except you.$"
+	.string "{JPN}しんかんせんが ガクンと ゆれ…\p"
+	.string "…センネンの ホームの あかりが\n"
+	.string "ながい しろい すじに なって\l"
+	.string "とおざかっていく。\p"
+	.string "この でんしゃで まどの そとを みている\n"
+	.string "ものは いない。 あなたの ほかには。$"
 
 ShinkansenInterior_Text_PreTitle::
-	.string "…$"
+	.string "{JPN}…$"
 
 ShinkansenInterior_Text_ActThree::
-	.string "Act III: The Infiltration$"
+	.string "{JPN}だい3まく: せんにゅう$"
 
 ShinkansenInterior_Text_TrainHum::
-	.string "The train hums through the dark,\n"
-	.string "eastbound.\p"
-	.string "Next stop: Shin-Tokyo.$"
+	.string "{JPN}でんしゃは やみの なかを ひがしへ\n"
+	.string "うなりながら はしる。\p"
+	.string "つぎは シントウキョウ。$"

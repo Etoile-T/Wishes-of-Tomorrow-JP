@@ -74,24 +74,24 @@ ShinTokyoStation_Movement_BackToConcourse:
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 ShinTokyoStation_Text_Arrival1::
-	.string "The doors hiss open.\p"
-	.string "No announcements. No crowd.\n"
-	.string "Only the rain on the platform.$"
+	.string "{JPN}ドアが ひらいた。\p"
+	.string "アナウンスも ひとごみも ない。\n"
+	.string "ホームに あめが ふっている だけ。$"
 
 ShinTokyoStation_Text_Arrival2::
-	.string "Yiffer. RedFatality.\p"
-	.string "The platform at SENNEN still\n"
-	.string "plays behind your eyes.$"
+	.string "{JPN}Yiffer。 RedFatality。\p"
+	.string "センネンの ホームが いまも\n"
+	.string "まぶたの うらに うかぶ。$"
 
 ShinTokyoStation_Text_Arrival3::
-	.string "Shin-Tokyo.\p"
-	.string "The city of tomorrow.\n"
-	.string "It doesn't look back at you.$"
+	.string "{JPN}シントウキョウ。\p"
+	.string "あしたの まち。\n"
+	.string "まちは あなたを ふりかえらない。$"
 
 ShinTokyoStation_Text_NoTurningBack::
-	.string "There is no turning back.$"
+	.string "{JPN}もう ひきかえせない。$"
 
 ShinTokyoStation_Text_DepartureBoard::
-	.string "DEPARTURES:\p"
-	.string "ALL SERVICES SUSPENDED…\n"
-	.string "BY ORDER OF CITY ADMINISTRATION.$"
+	.string "{JPN}しゅっぱつ:\p"
+	.string "すべての びん うんきゅう…\n"
+	.string "しせいきょくの めいれいに よる。$"

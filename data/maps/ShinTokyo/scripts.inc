@@ -395,19 +395,19 @@ ShinTokyo_Movement_LugiaSurfaces:
 	step_end
 
 ShinTokyo_Text_LugiaWater::
-	.string "The harbour goes flat.\p"
-	.string "Something under the pier is\n"
-	.string "pushing the water aside.$"
+	.string "{JPN}みなとの みずが しずまりかえった。\p"
+	.string "さんばしの したで なにかが\n"
+	.string "みずを おしのけている。$"
 
 ShinTokyo_Text_LugiaSinks::
-	.string "It slides back under the water,\n"
-	.string "and the harbour closes over it.\p"
-	.string "It is still down there.$"
+	.string "{JPN}それは ふたたび みずの したへ すべりこみ\n"
+	.string "みなとの みずが その うえを とざした。\p"
+	.string "まだ その したに いる。$"
 
 ShinTokyo_Text_LugiaCaught::
-	.string "The last thing the program ever\n"
-	.string "made is yours now.\p"
-	.string "The harbour is quiet.$"
+	.string "{JPN}その けいかくが さいごに\n"
+	.string "うみだした ものは いま あなたの もの。\p"
+	.string "みなとは しずかだ。$"
 
 @ Surf route: crossing the southern edge carries the player to Celebi Island
 @ (trigger row -- plain warps don't fire on ordinary water tiles). The TIDE
@@ -492,52 +492,52 @@ ShinTokyo_EventScript_TideSign::
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 ShinTokyo_Text_Citizen1::
-	.string "Isn't the city wonderful?\p"
-	.string "It's wonderful.\n"
-	.string "We're told so every morning.$"
+	.string "{JPN}すてきな まちでしょう？\p"
+	.string "すてきです。\n"
+	.string "まいあさ そう おしえられています。$"
 
 ShinTokyo_Text_Citizen2::
-	.string "My Machamp got strong last month.\p"
-	.string "Then it got collected.\n"
-	.string "It's fine. It's fine.$"
+	.string "{JPN}うちの カイリキー せんげつ つよく なったんだ。\p"
+	.string "そしたら かいしゅう された。\n"
+	.string "いいんだ。 いいんだよ。$"
 
 ShinTokyo_Text_Citizen3::
-	.string "People don't disappear here!\p"
-	.string "They get PROMOTED.\n"
-	.string "Upstairs. Forever.$"
+	.string "{JPN}ここでは ひとは きえたりしない！\p"
+	.string "しょうしん するのよ。\n"
+	.string "うえの かいへ。 えいえんに。$"
 
 ShinTokyo_Text_GymDoor::
-	.string "VOLTEN GYM: “THE CITY'S SPARK”$"
+	.string "{JPN}ボルテンジム: 「まちの ひばな」$"
 
 ShinTokyo_Text_BlackMarketDoor::
-	.string "The shutters hang half-open.\p"
-	.string "Someone inside is watching you\n"
-	.string "decide whether to knock.\p"
-	.string "(Black market comes later.)$"
+	.string "{JPN}シャッターが はんぶん あいている。\p"
+	.string "なかの だれかが あなたが ノックするか\n"
+	.string "まよっているのを みている。\p"
+	.string "(やみいちは あとで じっそう よてい)$"
 
 ShinTokyo_Text_CafeDoor::
-	.string "BATTLE CAFE: OPEN ALL NIGHT\p"
-	.string "(Cafe interior comes later.)$"
+	.string "{JPN}バトルカフェ: よどおし えいぎょう\p"
+	.string "(カフェの なかは あとで じっそう よてい)$"
 
 ShinTokyo_Text_PropagandaScreen::
-	.string "The screen towers overhead,\n"
-	.string "washing the street in light.\p"
-	.string "A face smiles down, ten stories\n"
-	.string "tall, and does not blink.\p"
-	.string "“PRODUCTIVITY IS PEACE.\n"
-	.string "THE LEADER PROVIDES.”$"
+	.string "{JPN}スクリーンが あたまの うえに そびえ\n"
+	.string "とおりを ひかりで そめている。\p"
+	.string "10かいだての たかさの かおが ほほえみ\n"
+	.string "まばたきも しない。\p"
+	.string "「せいさんせいこそ へいわ。\n"
+	.string "リーダーが すべてを あたえる」$"
 
 ShinTokyo_Text_TideTooHigh::
-	.string "The current out past the break-\n"
-	.string "water is a wall of black water.\p"
-	.string "Nothing crosses this while the\n"
-	.string "tower is drawing power.$"
+	.string "{JPN}ぼうはていの そとの ながれは\n"
+	.string "まっくろな みずの かべだ。\p"
+	.string "タワーが でんりょくを すいあげている\n"
+	.string "あいだは なにも わたれない。$"
 
 ShinTokyo_Text_TideSign::
-	.string "TIDE ADVISORY:\p"
-	.string "Water levels raised while the\n"
-	.string "tower draws power.\p"
-	.string "ALL CROSSINGS CLOSED.$"
+	.string "{JPN}ちょうい ちゅういほう:\p"
+	.string "タワーが でんりょくを すいあげている\n"
+	.string "あいだ すいいが あがります。\p"
+	.string "すべての わたしば へいさ。$"
 
 @ ============================================================================
 @  STEP 2 -- THE RESEARCH INSPECTION (trigger row y=10; movable)
@@ -828,221 +828,221 @@ ShinTokyo_Movement_GoonDeferRunDown:
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 ShinTokyo_Text_CitizenRedAlert::
-	.string "Don't stand near me!\p"
-	.string "Your face is on every screen\n"
-	.string "in the city!$"
+	.string "{JPN}ちかよらないで！\p"
+	.string "まちじゅうの スクリーンに\n"
+	.string "あなたの かおが うつってる！$"
 
 ShinTokyo_Text_FerryAsk::
-	.string "A ferry idles at the dock, the\n"
-	.string "first one to call here in\l"
-	.string "years.\p"
-	.string "DECKHAND: We run to the BATTLE\n"
-	.string "FRONTIER now that the lanes\l"
-	.string "are open.\p"
-	.string "Care to sail?$"
+	.string "{JPN}フェリーが さんばしで\n"
+	.string "エンジンを かけたまま まっている。\l"
+	.string "ここに ふねが くるのは なんねんぶりだ。\p"
+	.string "せんいん: こうろが ひらいたので\n"
+	.string "いまは バトルフロンティアまで\l"
+	.string "でています。\p"
+	.string "のっていきますか？$"
 
 ShinTokyo_Text_FerryBoard::
-	.string "DECKHAND: Mind the step.\p"
-	.string "Nobody sails out of this city\n"
-	.string "for fun. You will be the first.$"
+	.string "{JPN}せんいん: あしもとに おきをつけて。\p"
+	.string "あそびで この まちから ふねを だす\n"
+	.string "ものは いなかった。 あなたが はじめてだ。$"
 
 ShinTokyo_Text_FerryDeclined::
-	.string "DECKHAND: We are here every\n"
-	.string "day now. Come back when the\l"
-	.string "sea agrees with you.$"
+	.string "{JPN}せんいん: いまは まいにち\n"
+	.string "ここに います。 うみと きもちが\l"
+	.string "あったら また きてください。$"
 
 ShinTokyo_Text_DracoCall::
-	.string "DRACO: You think it's over?\n"
-	.string "Ha!\p"
-	.string "You haven't even seen MUTRID's\n"
-	.string "secret weapon yet.\p"
-	.string "You think you've seen true\n"
-	.string "power unleashed?\p"
-	.string "Prepare to meet the primitive\n"
-	.string "lifeform.\p"
-	.string "I call it… ARMORED MEWTWO.\p"
+	.string "{JPN}ドラコ: これで おわりだと おもったか？\n"
+	.string "はっ！\p"
+	.string "おまえは まだ ミュートリッドの\n"
+	.string "ひみつへいきを みてもいない。\p"
+	.string "ほんとうの ちからの かいほうを\n"
+	.string "みたと おもってるのか？\p"
+	.string "げんしの せいめいたいと\n"
+	.string "たいめんする じゅんびを しておけ。\p"
+	.string "その なも… アーマードミュウツー。\p"
 	.string "…\p"
-	.string "Meet at the dockhouse at dusk.$"
+	.string "ゆうぐれに ドックの こやで まってるぜ。$"
 
 ShinTokyo_Text_CitizenFree::
-	.string "The screens are dark. The\n"
-	.string "patrols are gone.\p"
-	.string "And have you SEEN the sun?\p"
-	.string "We're free. We're actually\n"
-	.string "free.$"
+	.string "{JPN}スクリーンは まっくら。\n"
+	.string "パトロールも いなくなった。\p"
+	.string "それに たいようを みた？\p"
+	.string "じゆうだ。 ほんとうに\n"
+	.string "じゆうなんだ。$"
 
 ShinTokyo_Text_GoonRedAlert::
-	.string "That's… the face from the\n"
-	.string "bounty screens!\p"
-	.string "All units! ALL UNITS!$"
+	.string "{JPN}そいつは… けんしょうきんの\n"
+	.string "スクリーンの かおだ！\p"
+	.string "ぜんいん！ ぜんいん しゅうごう！$"
 
 ShinTokyo_Text_Holdout1::
-	.string "We lost. I know we lost.\p"
-	.string "The bounty board is down, the\n"
-	.string "Leader is gone, and this corner\l"
-	.string "is all I ever had.\p"
-	.string "One more. For the uniform.$"
+	.string "{JPN}おれたちは まけた。 わかってる。\p"
+	.string "けんしょうきんの けいじばんは きえ\n"
+	.string "リーダーも いない。 この まちかどが\l"
+	.string "おれの すべて だったんだ。\p"
+	.string "もう ひとしょうぶ。 この せいふくの ために。$"
 
 ShinTokyo_Text_Holdout2::
-	.string "Don't look at me like that.\p"
-	.string "You won. You get to be the one\n"
-	.string "who won.\p"
-	.string "I still have THESE. Come on.$"
+	.string "{JPN}そんな めで みるなよ。\p"
+	.string "あんたが かった。 かった がわで\n"
+	.string "いられるんだ。\p"
+	.string "こっちには まだ こいつらが いる。 こいよ。$"
 
 ShinTokyo_Text_Holdout3::
-	.string "Everyone else turned in their\n"
-	.string "badge and went home.\p"
-	.string "Home to what? These are the only\n"
-	.string "POKéMON who still answer me.\p"
-	.string "Take them from me, then.$"
+	.string "{JPN}ほかの やつらは みんな バッジを\n"
+	.string "かえして いえに かえった。\p"
+	.string "かえって なにが ある？ いまでも\n"
+	.string "おれに こたえて くれるのは こいつらだけだ。\p"
+	.string "なら うばってみろ。$"
 
 ShinTokyo_Text_HoldoutPost::
-	.string "Take them. Snag every one.\p"
-	.string "They were never mine.\p"
-	.string "I'll be here tomorrow. There will\n"
-	.string "be more of them. There always are.$"
+	.string "{JPN}もっていけ。 ぜんぶ スナッチしろ。\p"
+	.string "はじめから おれの ものじゃ なかった。\p"
+	.string "あしたも おれは ここに いる。 また\n"
+	.string "こいつらが くる。 いつだって そうだ。$"
 
 ShinTokyo_Text_Patrol1Intro::
-	.string "Prison breaker spotted!\p"
-	.string "This one's soul is ALREADY\n"
-	.string "sold. Take the bounty!$"
+	.string "{JPN}だつごくしゃ はっけん！\p"
+	.string "こいつの たましいは とっくに\n"
+	.string "うられてる。 けんしょうきんを いただけ！$"
 
 ShinTokyo_Text_Patrol1Defeat::
-	.string "The bounty... slipped...$"
+	.string "{JPN}けんしょうきんが… にげた…$"
 
 ShinTokyo_Text_Patrol2Intro::
-	.string "You hear it too, right?\p"
-	.string "How quiet they are now.\n"
-	.string "The machine likes them QUIET.$"
+	.string "{JPN}おまえにも きこえるだろ？\p"
+	.string "あいつら いま すごく しずかなんだ。\n"
+	.string "きかいは しずかなのが すきなんだよ。$"
 
 ShinTokyo_Text_Patrol2Defeat::
-	.string "So loud... why are you so\n"
-	.string "LOUD...$"
+	.string "{JPN}うるさい… なんで おまえは そんなに\n"
+	.string "うるさいんだ…$"
 
 ShinTokyo_Text_Patrol3Intro::
-	.string "Curfew, citizen.\p"
-	.string "Forever.$"
+	.string "{JPN}もんげんだ しみん。\p"
+	.string "えいえんにな。$"
 
 ShinTokyo_Text_Patrol3Defeat::
-	.string "Impossible. They don't even\n"
-	.string "feel pain anymore...$"
+	.string "{JPN}ありえない。 あいつらは もう\n"
+	.string "いたみさえ かんじないのに…$"
 
 ShinTokyo_Text_PatrolPost::
-	.string "The patroller stares at the\n"
-	.string "empty BALL on their belt.$"
+	.string "{JPN}パトロールいんは こしの\n"
+	.string "からっぽの ボールを みつめている。$"
 
 ShinTokyo_Text_TowerSealed::
-	.string "MUTRID TOWER: EXECUTIVE\n"
-	.string "ENTRANCE.\p"
-	.string "Sealed. Whatever waits above\n"
-	.string "unmakes anything it touches.\p"
-	.string "Without the shrine's power to\n"
-	.string "undo it, this door is a grave.$"
+	.string "{JPN}ミュートリッドタワー: かんぶよう\n"
+	.string "いりぐち。\p"
+	.string "ふうさされている。 うえで まつ ものは\n"
+	.string "ふれた ものを すべて むに かえす。\p"
+	.string "それを うちけす やしろの ちからが\n"
+	.string "なければ この とびらは はかばだ。$"
 
 ShinTokyo_Text_BountyScreen::
-	.string "Your own face stares down from\n"
-	.string "ten stories of glass.\p"
-	.string "“WANTED: THE PRISON BREAKER.\n"
-	.string "REWARD BEYOND MEASURE.”$"
+	.string "{JPN}10かいぶんの ガラスから じぶんの\n"
+	.string "かおが みおろしている。\p"
+	.string "「しめいてはい: だつごくしゃ。\n"
+	.string "けんしょうきん はかりしれず」$"
 
 ShinTokyo_Text_CaptainMask::
-	.string "Take that carnival prop off.\p"
-	.string "“Masks are for the rank and\n"
-	.string "file.$"
+	.string "{JPN}その まつりの こどうぐを はずせ。\p"
+	.string "「めんは したっぱの\n"
+	.string "ための ものだ。$"
 
 ShinTokyo_Text_CaptainHalt::
-	.string "The street empties in seconds.\p"
-	.string "Routine inspection, citizen.\n"
-	.string "Arms out. Bag open.$"
+	.string "{JPN}とおりから あっというまに ひとが きえた。\p"
+	.string "ていきけんさだ しみん。\n"
+	.string "りょううでを ひろげろ。 バッグを あけろ。$"
 
 ShinTokyo_Text_CaptainNothing::
-	.string "Gloved hands turn out every\n"
-	.string "pocket. Twice.\p"
-	.string "...Nothing. Tch.\p"
-	.string "Move along, citizen. The city\n"
-	.string "thanks you for your compliance.$"
+	.string "{JPN}てぶくろの てが ポケットを\n"
+	.string "ひとつずつ ひっくりかえす。 2どずつ。\p"
+	.string "…なにも なしか。 ちっ。\p"
+	.string "いけ しみん。 まちは きさまの\n"
+	.string "じゅうじゅんさに かんしゃする。$"
 
 ShinTokyo_Text_CaptainTakes::
-	.string "Gloved fingers stop on the worn\n"
-	.string "cover of the SHADOW DOSSIER.\p"
-	.string "...Well. The dead professor's\n"
-	.string "handwriting.\p"
-	.string "This is city property now.\n"
-	.string "By my authority.$"
+	.string "{JPN}てぶくろの ゆびが すりきれた\n"
+	.string "ダークちょうさしりょうの ひょうしで とまった。\p"
+	.string "…ほう。 しんだ はかせの\n"
+	.string "ひっせきか。\p"
+	.string "いまから これは まちの ものだ。\n"
+	.string "わたしの けんげんでな。$"
 
 ShinTokyo_Text_DossierTaken::
-	.string "The SHADOW DOSSIER was taken!$"
+	.string "{JPN}ダークちょうさしりょうを うばわれた！$"
 
 ShinTokyo_Text_CaptainGloat::
-	.string "You carried it all this way\n"
-	.string "just to hand-deliver it.\p"
-	.string "The tower will remember the\n"
-	.string "favor. I won't.$"
+	.string "{JPN}わざわざ ここまで はこんできて\n"
+	.string "じきじきに とどけて くれたわけだ。\p"
+	.string "タワーは この おんを わすれまい。\n"
+	.string "わたしは わすれるがな。$"
 
 ShinTokyo_Text_GengarStateC::
-	.string "...It's gone.\p"
-	.string "After everything.\n"
-	.string "It's in his hands now.$"
+	.string "{JPN}…なくなった。\p"
+	.string "あれだけの ことが あったのに。\n"
+	.string "いまは あいつの てのなかだ。$"
 
 ShinTokyo_Text_MinisterCall::
-	.string "MINISTER: {PLAYER}. Don't talk,\n"
-	.string "walk. Casual.\p"
-	.string "MIKMANC's been made. They have\n"
-	.string "him in the east block, and he\l"
-	.string "is HOLDING something they must\l"
-	.string "not find.\p"
-	.string "I'm in their cameras. The front\n"
-	.string "door will forget you were there.\p"
-	.string "Go get him out.$"
+	.string "{JPN}だいじん: {ENG}{PLAYER}{JPN}。 しゃべるな\n"
+	.string "あるけ。 さりげなくな。\p"
+	.string "ミクマンクが つかまった。 ひがしの\n"
+	.string "ブロックに いれられている。 あいつは\l"
+	.string "やつらに みつかっては いけない ものを\l"
+	.string "もっているんだ。\p"
+	.string "カメラは おれが のっとった。 しょうめんの\n"
+	.string "とびらは おまえが いたことを わすれる。\p"
+	.string "あいつを たすけだせ。$"
 
 ShinTokyo_Text_JailDoorSealed::
-	.string "EAST BLOCK DETENTION.\p"
-	.string "Sealed. A camera swivels toward\n"
-	.string "you with a soft whir.$"
+	.string "{JPN}ひがしブロック こうちしょ。\p"
+	.string "ふうさされている。 カメラが\n"
+	.string "ウィーンと こちらを むいた。$"
 
 ShinTokyo_Text_JailDoorOpens::
-	.string "EAST BLOCK DETENTION.\p"
-	.string "The camera light is dark.\n"
-	.string "The bolt hangs open.$"
+	.string "{JPN}ひがしブロック こうちしょ。\p"
+	.string "カメラの ランプは きえている。\n"
+	.string "かんぬきは はずれたままだ。$"
 
 ShinTokyo_Text_JailGuard::
-	.string "Detention block. Official\n"
-	.string "business only.\p"
-	.string "Keep walking, citizen. The\n"
-	.string "city is watching you walk.$"
+	.string "{JPN}こうちしょ。 かんけいしゃ\n"
+	.string "いがい たちいり きんし。\p"
+	.string "たちどまるな しみん。 まちは\n"
+	.string "おまえが あるくのを みているぞ。$"
 
 ShinTokyo_Text_GuardsScatter::
-	.string "Down the street, two radios\n"
-	.string "crackle at once.\p"
-	.string "The sentries at the detention\n"
-	.string "door glance at each other…\p"
-	.string "and peel away into the rain.$"
+	.string "{JPN}とおりの むこうで ふたつの むせんが\n"
+	.string "どうじに ガリガリと なった。\p"
+	.string "こうちしょの とびらの みはりたちが\n"
+	.string "かおを みあわせ…\p"
+	.string "あめの なかへ はなれていった。$"
 
 ShinTokyo_Text_RedAlertWail::
-	.string "Sirens.\p"
-	.string "Every screen on the street\n"
-	.string "changes at once, to YOUR face.$"
+	.string "{JPN}サイレン。\p"
+	.string "とおりの スクリーンが いっせいに\n"
+	.string "あなたの かおに きりかわった。$"
 
 ShinTokyo_Text_GoonsBoxIn::
-	.string "Bounty target boxed in!\p"
-	.string "Nobody touch the prize…\n"
-	.string "hold for command!$"
+	.string "{JPN}しょうきんくびを ほういした！\p"
+	.string "えものに さわるな…\n"
+	.string "めいれいを まて！$"
 
 ShinTokyo_Text_ArrestAnnounce::
-	.string "By authority of the tower:\n"
-	.string "you are under arrest.\p"
-	.string "I will escort the prisoner\n"
-	.string "PERSONALLY.$"
+	.string "{JPN}タワーの けんげんに より\n"
+	.string "おまえを たいほする。\p"
+	.string "しゅうじんは わたしが\n"
+	.string "じきじきに れんこうする。$"
 
 ShinTokyo_Text_MaskStripped::
-	.string "That Halloween costume.\n"
-	.string "Off.$"
+	.string "{JPN}その ハロウィンの かそう。\n"
+	.string "はずせ。$"
 
 ShinTokyo_Text_EscortMarch::
-	.string "The ONI marches you through\n"
-	.string "the neon rain.\p"
-	.string "Nobody on the street meets\n"
-	.string "your eyes.$"
+	.string "{JPN}オニは ネオンの あめの なかを\n"
+	.string "あなたを ひきたてていく。\p"
+	.string "とおりの だれも あなたと\n"
+	.string "めを あわせない。$"
 
 @ --- The briefing (all PLACEHOLDER (Joe)) -----------------------------------
 
@@ -1165,22 +1165,22 @@ ShinTokyo_EventScript_ItemPlaza::
 	end
 
 ShinTokyo_Text_BlackMarketAM::
-	.string "Ability Machines. Lab-grade.\n"
-	.string "Fell off a Mutrid convoy.\p"
-	.string "No refunds. No receipts.\n"
-	.string "No questions.$"
+	.string "{JPN}とくせいカプセル。 けんきゅうじょ ひんしつ。\n"
+	.string "ミュートリッドの ゆそうたいから おちてきた。\p"
+	.string "へんぴん なし。 りょうしゅうしょ なし。\n"
+	.string "しつもん なし。$"
 
 ShinTokyo_Text_BlackMarketPaw::
-	.string "Careful with these.\p"
-	.string "A paw grants exactly what you\n"
-	.string "ask. That's the problem.$"
+	.string "{JPN}これの あつかいには きを つけな。\p"
+	.string "さるのては ねがった とおりの ものを\n"
+	.string "あたえる。 そこが もんだいなのさ。$"
 
 ShinTokyo_Text_BlackMarketBalls::
-	.string "Every ball ever made.\n"
-	.string "Mutrid outlawed catching, ya know.$"
+	.string "{JPN}ありとあらゆる ボールが あるよ。\n"
+	.string "ミュートリッドは ほかくを きんしした からね。$"
 
 ShinTokyo_Text_BlackMarketBye::
-	.string "You were never here.$"
+	.string "{JPN}あんたは ここに こなかった。$"
 
 @ --- the jumbotron objects (sign interactions reuse the screen texts) -------
 ShinTokyo_EventScript_LeaderScreen::
@@ -1380,108 +1380,108 @@ ShinTokyo_EventScript_SmallPoster::
 	end
 
 ShinTokyo_Text_MinisterIdle::
-	.string "Ah. lad.\p"
-	.string "Enjoy the city. It counts\n"
-	.string "everything you enjoy.$"
+	.string "{JPN}おや きみか。\p"
+	.string "まちを たのしむと いい。 まちは\n"
+	.string "きみが たのしんだ ものを すべて かぞえている。$"
 
 ShinTokyo_Text_MinisterSettle::
-	.string "I never forget a favor,\n"
-	.string "{PLAYER}.\p"
-	.string "Now we're both fugitives.\n"
-	.string "Pretty badass. If you ask me.$"
+	.string "{JPN}おんは わすれない たちでね\n"
+	.string "{ENG}{PLAYER}{JPN}。\p"
+	.string "これで ふたりとも おたずねものだ。\n"
+	.string "なかなか イカしてるだろ？$"
 
 ShinTokyo_Text_MinisterAfter::
-	.string "Walk carefully.\p"
-	.string "The ONI doesn't take lightly\n"
-	.string "to treason.\p"
-	.string "(The MINISTER stamps out his\n"
-	.string "cigarette.)$"
+	.string "{JPN}あしもとに きを つけて あるけ。\p"
+	.string "オニは うらぎりを\n"
+	.string "ゆるさない。\p"
+	.string "(だいじんは タバコを\n"
+	.string "ふみけした)$"
 
 ShinTokyo_Text_MinisterRyuden::
-	.string "A rumor, since we're friendly.\p"
-	.string "Far east of here lies RYUDEN\n"
-	.string "ISLAND: the dragon keepers'\l"
-	.string "shrine.\p"
-	.string "SURF south and follow the\n"
-	.string "ocean path past the islands.\p"
-	.string "Keep going where the maps stop.$"
+	.string "{JPN}よしみで ひとつ うわさを。\p"
+	.string "ここから はるか ひがしに りゅうでんじま\n"
+	.string "が ある。 りゅうの ばんにんたちの\l"
+	.string "やしろだ。\p"
+	.string "なみのりで みなみへ いき しまじまを\n"
+	.string "ぬける うみのみちを たどれ。\p"
+	.string "ちずが とぎれる さきへ すすめ。$"
 
 ShinTokyo_Text_MonWeezing::
-	.string "WEEZING drinks from the\n"
-	.string "factory vents.\p"
-	.string "It looks healthier than\n"
-	.string "anyone else on this street.$"
+	.string "{JPN}マタドガスが こうじょうの はいきこうから\n"
+	.string "すいこんでいる。\p"
+	.string "この とおりの だれよりも\n"
+	.string "げんきそうに みえる。$"
 
 ShinTokyo_Text_MonKoffing::
-	.string "KOFFING bobs along the alley,\n"
-	.string "perfectly at home.$"
+	.string "{JPN}ドガースが ろじを ふわふわと ただよい\n"
+	.string "すっかり くつろいでいる。$"
 
 ShinTokyo_Text_MonGrimer::
-	.string "GRIMER oozes out of a storm\n"
-	.string "drain.\p"
-	.string "It waves. Politely.$"
+	.string "{JPN}ベトベターが あまみずの はいすいこうから\n"
+	.string "にじみでてきた。\p"
+	.string "てを ふっている。 ていねいに。$"
 
 ShinTokyo_Text_MonRevavroom::
-	.string "REVAVROOM idles by the curb,\n"
-	.string "revving at passing cars.\p"
-	.string "It has no driver.\n"
-	.string "It needs no driver.$"
+	.string "{JPN}ブロロロームが みちばたで アイドリングし\n"
+	.string "とおる くるまに エンジンを ふかしている。\p"
+	.string "うんてんしゅは いない。\n"
+	.string "うんてんしゅなど いらない。$"
 
 ShinTokyo_Text_SmallPoster::
-	.string "WANTED: the terrorist\n"
-	.string "“{PLAYER}”.\p"
-	.string "Reward: 1,000,000.\n"
-	.string "Approach with caution.$"
+	.string "{JPN}しめいてはい: テロリスト\n"
+	.string "「{ENG}{PLAYER}{JPN}」。\p"
+	.string "けんしょうきん: 1000000円。\n"
+	.string "せっしょくには ちゅういせよ。$"
 
 ShinTokyo_Text_MinisterWaiting::
-	.string "The cell I opened is still\n"
-	.string "occupied, {PLAYER}.\p"
-	.string "Finish the job.$"
+	.string "{JPN}おれが あけた ろうやには まだ\n"
+	.string "ひとが いるぞ {ENG}{PLAYER}{JPN}。\p"
+	.string "しごとを かたづけろ。$"
 
 ShinTokyo_Text_MinisterMegaOffer::
-	.string "That {STR_VAR_1} at the front\n"
-	.string "of your party.\p"
-	.string "I can put my hands on its\n"
-	.string "{STR_VAR_2}, ten thousand.\p"
-	.string "No questions, no paperwork.\n"
-	.string "Interested?$"
+	.string "{JPN}てもちの せんとうに いる {ENG}{STR_VAR_1}{JPN}…\n"
+	.string "そいつだよ。\p"
+	.string "そいつ むけの\n"
+	.string "{ENG}{STR_VAR_2}{JPN}を 10000円で ゆずるぜ。\p"
+	.string "しつもん なし しょるい なし。\n"
+	.string "どうだい？$"
 
 ShinTokyo_Text_MinisterMegaSold::
-	.string "{PLAYER} handed over the money\n"
-	.string "and received the {STR_VAR_2}!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は おかねを わたして\n"
+	.string "{ENG}{STR_VAR_2}{JPN}を うけとった！$"
 
 ShinTokyo_Text_MinisterMegaThanks::
-	.string "Keep it on the {STR_VAR_1} and\n"
-	.string "the rest takes care of itself.\p"
-	.string "Bring me another one up front\n"
-	.string "and we'll talk again.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}に もたせておけば\n"
+	.string "あとは かってに うまくいく。\p"
+	.string "また せんとうに べつのを つれてくれば\n"
+	.string "そのときに はなそう。$"
 
 ShinTokyo_Text_MinisterMegaNoStone::
-	.string "I deal in Mega Stones, friend.\p"
-	.string "Whatever you've got leading that\n"
-	.string "party has no Mega form, there's\l"
-	.string "no stone in the world for it.\p"
-	.string "Put something else up front and\n"
-	.string "come see me again.$"
+	.string "{JPN}おれが あつかうのは メガストーンだ。\p"
+	.string "てもちの せんとうの そいつには\n"
+	.string "メガシンカの すがたが ない。 そいつ\l"
+	.string "むけの いしは この よに ない。\p"
+	.string "べつの やつを せんとうに して\n"
+	.string "また きな。$"
 
 ShinTokyo_Text_MinisterMegaNoMoney::
-	.string "Ten thousand. Not a yen less.\p"
-	.string "Come back when you're carrying.$"
+	.string "{JPN}10000円。 1円も まけない。\p"
+	.string "もちあわせが できたら きな。$"
 
 ShinTokyo_Text_MinisterMegaDeclined::
-	.string "Suit yourself.\p"
-	.string "The offer stands.$"
+	.string "{JPN}すきに しな。\p"
+	.string "はなしは いつでも うけるぜ。$"
 
 ShinTokyo_Text_MinisterMegaChoose::
-	.string "There are two stones cut for\n"
-	.string "{STR_VAR_1}. Your pick.$"
+	.string "{JPN}けずった いしが 2つ ある。\n"
+	.string "どちらも {ENG}{STR_VAR_1}{JPN}むけだ。 えらびな。$"
 
 ShinTokyo_Text_MinisterMegaStoneA::
-	.string "{STR_VAR_2}$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}$"
 
 ShinTokyo_Text_MinisterMegaStoneB::
-	.string "{STR_VAR_3}$"
+	.string "{JPN}{ENG}{STR_VAR_3}{JPN}$"
 
 ShinTokyo_Text_MinisterMegaStoneNone::
-	.string "Neither$"
+	.string "{JPN}どちらも いらない$"
 

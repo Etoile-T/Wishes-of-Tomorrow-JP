@@ -24,16 +24,14 @@
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FLYING),
         .abilities = { ABILITY_OVERGROW, ABILITY_NONE, ABILITY_KEEN_EYE },
         .bodyColor = BODY_COLOR_YELLOW,
-        .speciesName = _("Browt"),
+        .speciesName = _("{JPN}ブラウト{ENG}"),
         .cryId = CRY_ROWLET,
         .natDexNum = NATIONAL_DEX_NONE,
-        .categoryName = _("Leafbrow"),
+        .categoryName = _("{JPN}はっぱまゆ{ENG}"),
         .height = 3,
         .weight = 20,
         .description = COMPOUND_STRING(
-            "Its leafy brow bristles when it\n"
-            "senses danger. It naps in hedgerows\n"
-            "and wakes exactly at dawn."),
+            "{JPN}きけんを かんじると はっぱの まゆが\nさかだつ。 いけがきで ひるねをして\nよあけ ちょうどに めを さます。{ENG}"),
         .pokemonScale = 480,
         .pokemonOffset = 20,
         .trainerScale = 256,
@@ -77,16 +75,14 @@
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_WATER_1),
         .abilities = { ABILITY_TORRENT, ABILITY_NONE, ABILITY_SWIFT_SWIM },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Gecqua"),
+        .speciesName = _("{JPN}ゲックア{ENG}"),
         .cryId = CRY_FROAKIE,
         .natDexNum = NATIONAL_DEX_NONE,
-        .categoryName = _("Mist Gecko"),
+        .categoryName = _("{JPN}きりヤモリ{ENG}"),
         .height = 5,
         .weight = 70,
         .description = COMPOUND_STRING(
-            "It climbs sheer wet cliffs on dewy\n"
-            "toe pads. On dry days it grows\n"
-            "sluggish and hides under stones."),
+            "{JPN}しめった あしのうらで ぬれた がけを\nのぼる。 かわいた ひは うごきが\nにぶり いしの したに かくれる。{ENG}"),
         .pokemonScale = 440,
         .pokemonOffset = 16,
         .trainerScale = 256,
@@ -130,16 +126,14 @@
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
         .abilities = { ABILITY_FLASH_FIRE, ABILITY_NONE, ABILITY_INTIMIDATE },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("Pombon"),
+        .speciesName = _("{JPN}ポンボン{ENG}"),
         .cryId = CRY_GROWLITHE,
         .natDexNum = NATIONAL_DEX_NONE,
-        .categoryName = _("Cinder Pup"),
+        .categoryName = _("{JPN}ひのこいぬ{ENG}"),
         .height = 4,
         .weight = 85,
         .description = COMPOUND_STRING(
-            "Its fluffed coat traps embers from\n"
-            "campfires. It naps against warm\n"
-            "stones and growls at the cold."),
+            "{JPN}ふわふわの けに たきびの ひのこを\nためこむ。 あたたかい いしに よりそって\nねむり さむさに うなる。{ENG}"),
         .pokemonScale = 460,
         .pokemonOffset = 18,
         .trainerScale = 256,
@@ -183,16 +177,14 @@
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_NO_EGGS_DISCOVERED),
         .abilities = { ABILITY_LEVITATE, ABILITY_NONE, ABILITY_FLAME_BODY },
         .bodyColor = BODY_COLOR_BLACK,
-        .speciesName = _("Hellraiser"),
+        .speciesName = _("{JPN}ヘルレイザー{ENG}"),
         .cryId = CRY_CHANDELURE,
         .natDexNum = NATIONAL_DEX_NONE,
-        .categoryName = _("Hellfire"),
+        .categoryName = _("{JPN}ごうか{ENG}"),
         .height = 17,
         .weight = 90,
         .description = COMPOUND_STRING(
-            "Old shrine ledgers call it the fire\n"
-            "that grieving hearts feed. It burns\n"
-            "nothing it is not first offered."),
+            "{JPN}ふるい やしろの きろくには かなしむ\nこころが そだてる ほのおと ある。\nささげられた ものしか もやさない。{ENG}"),
         .pokemonScale = 290,
         .pokemonOffset = 3,
         .trainerScale = 300,
@@ -239,16 +231,14 @@
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_NO_EGGS_DISCOVERED),
         .abilities = { ABILITY_LEVITATE, ABILITY_NONE, ABILITY_NONE },
         .bodyColor = BODY_COLOR_PURPLE,
-        .speciesName = _("Ghost"),
+        .speciesName = _("{JPN}ユウレイ{ENG}"),
         .cryId = CRY_GASTLY,
         .natDexNum = NATIONAL_DEX_NONE,
-        .categoryName = _("Kept"),
+        .categoryName = _("{JPN}しまわれ{ENG}"),
         .height = 13,
         .weight = 1,
         .description = COMPOUND_STRING(
-            "Something the mountain kept.\n"
-            "It has a face only from certain\n"
-            "angles, and only briefly."),
+            "{JPN}やまが しまいこんだ なにか。\nある かくどから ほんの いっしゅん\nだけ かおが みえる。{ENG}"),
         .pokemonScale = 320,
         .pokemonOffset = 6,
         .trainerScale = 256,
@@ -293,16 +283,14 @@
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FLYING),
         .abilities = { ABILITY_FLASH_FIRE, ABILITY_EARLY_BIRD, ABILITY_TANGLED_FEET },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("Dodrio"),
+        .speciesName = _("{JPN}ドードリオ{ENG}"),
         .cryId = CRY_DODRIO,
         .natDexNum = NATIONAL_DEX_DODRIO,
-        .categoryName = _("Triple Bird"),
+        .categoryName = _("{JPN}みつごどり{ENG}"),
         .height = 18,
         .weight = 852,
         .description = COMPOUND_STRING(
-            "A Dodrio whose plumage ignited in\n"
-            "the mountain's hot springs. Its\n"
-            "three heads argue over every spark."),
+            "{JPN}やまの おんせんで はねに ひが\nついた ドードリオ。 3つの あたまが\nひのこ ひとつごとに いいあらそう。{ENG}"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,
@@ -347,16 +335,14 @@
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_NO_EGGS_DISCOVERED),
         .abilities = { ABILITY_SERENE_GRACE, ABILITY_NONE, ABILITY_NONE },
         .bodyColor = BODY_COLOR_PURPLE,
-        .speciesName = _("Jirachi"),
+        .speciesName = _("{JPN}ジラーチ{ENG}"),
         .cryId = CRY_JIRACHI,
         .natDexNum = NATIONAL_DEX_JIRACHI,
-        .categoryName = _("Wish"),
+        .categoryName = _("{JPN}ねがいごと{ENG}"),
         .height = 3,
         .weight = 11,
         .description = COMPOUND_STRING(
-            "A wish shaped by a closed heart.\n"
-            "It grants exactly what was asked,\n"
-            "and nothing that was meant."),
+            "{JPN}とざされた こころが かたちにした\nねがい。 ねがわれた とおりの ことだけを\nかなえ こめられた おもいは かなえない。{ENG}"),
         .pokemonScale = 630,
         .pokemonOffset = 25,
         .trainerScale = 256,

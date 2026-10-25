@@ -388,161 +388,161 @@ ShinTokyoJail_Movement_MikmancFlee:
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 ShinTokyoJail_Text_Reveal0::
-	.string "Fluorescent light, humming.\p"
-	.string "Three patrols sweep the cell\n"
-	.string "block.$"
+	.string "{JPN}けいこうとうが うなっている。\p"
+	.string "3くみの パトロールが ろうやの\n"
+	.string "ブロックを みまわっている。$"
 
 ShinTokyoJail_Text_Reveal1::
-	.string "The door seals behind you.\p"
-	.string "The lights die with it.$"
+	.string "{JPN}うしろで とびらが とじた。\p"
+	.string "どうじに あかりが きえた。$"
 
 ShinTokyoJail_Text_Reveal2::
-	.string "One flash of emergency power…\n"
-	.string "then nothing.\p"
-	.string "Only a ring of light around\n"
-	.string "your feet.$"
+	.string "{JPN}ひじょうでんげんが いちど ひかり…\n"
+	.string "そして なにも なくなった。\p"
+	.string "あしもとを かこむ ひかりの わだけが\n"
+	.string "のこっている。$"
 
 ShinTokyoJail_Text_GuardAIntro::
-	.string "A light snaps onto your face.\p"
-	.string "Movement in C-block!$"
+	.string "{JPN}ライトが かおを てらした。\p"
+	.string "Cブロックで うごきあり！$"
 
 ShinTokyoJail_Text_GuardADefeat::
-	.string "Report... report it in...$"
+	.string "{JPN}ほうこく… ほうこくを…$"
 
 ShinTokyoJail_Text_GuardAPost::
-	.string "The lamp rolls on the floor,\n"
-	.string "spinning shadows.$"
+	.string "{JPN}ライトが ゆかを ころがり\n"
+	.string "かげが ぐるぐる まわる。$"
 
 ShinTokyoJail_Text_GuardBIntro::
-	.string "Who cut the lights back here?!\p"
-	.string "...You're no technician.$"
+	.string "{JPN}この へんの あかりを けしたのは だれだ！？\p"
+	.string "…おまえ ぎしじゃ ないな。$"
 
 ShinTokyoJail_Text_GuardBDefeat::
-	.string "The dark took my aim...$"
+	.string "{JPN}くらやみで ねらいが…$"
 
 ShinTokyoJail_Text_GuardBPost::
-	.string "She fumbles for a radio that\n"
-	.string "isn't there anymore.$"
+	.string "{JPN}かのじょは もう ない むせんきを\n"
+	.string "てさぐりで さがしている。$"
 
 ShinTokyoJail_Text_GuardCIntro::
-	.string "Gate post. Nobody passes.\p"
-	.string "NOBODY.$"
+	.string "{JPN}ゲートの けいび。 だれも とおさない。\p"
+	.string "だれもだ。$"
 
 ShinTokyoJail_Text_GuardCDefeat::
-	.string "...The gate... is open...$"
+	.string "{JPN}…ゲートが… あいてる…$"
 
 ShinTokyoJail_Text_GuardCPost::
-	.string "He slumps against the cell-block\n"
-	.string "gate he was guarding.$"
+	.string "{JPN}かれは まもっていた ろうやの ゲートに\n"
+	.string "もたれかかって くずれおちた。$"
 
 ShinTokyoJail_Text_Cell1::
-	.string "...{PLAYER}? Thank Arceus,\n"
-	.string "I don't have to murder that guy\l"
-	.string "in the next cell.\p"
-	.string "Oh wait! Check this out.\n"
-	.string "I rolled a nat 20 and swiped\l"
-	.string "this from a Mutrid Officer.$"
+	.string "{JPN}…{ENG}{PLAYER}{JPN}？ たすかった！ これで\n"
+	.string "となりの ろうやの やつを やらずに\l"
+	.string "すむぜ。\p"
+	.string "あっ そうだ！ これ みてくれ。\n"
+	.string "クリティカルを だして ミュートリッドの\l"
+	.string "しかんから くすねてきたんだ。$"
 
 ShinTokyoJail_Text_CellHandover::
-	.string "Hold out your arm.$"
+	.string "{JPN}うでを だしてくれ。$"
 
 ShinTokyoJail_Text_CellExplain::
-	.string "The SNAG MACHINE. Mutrid tech.\n"
-	.string "Top of the line.\p"
-	.string "They fight with\n"
-	.string "SHADOW POKéMON, stolen souls,\l"
-	.string "sealed shut.\p"
-	.string "With that on your arm, any\n"
-	.string "BALL you throw can rip a\l"
-	.string "SHADOW right off their team.\p"
-	.string "It only answers to Shadows.\n"
-	.string "Ordinary trainers are safe.$"
+	.string "{JPN}スナッチマシン。 ミュートリッドの ぎじゅつ。\n"
+	.string "さいこうきゅうひんだ。\p"
+	.string "やつらは うばった たましいを\n"
+	.string "とじこめた ダークポケモンで\l"
+	.string "たたかう。\p"
+	.string "それを うでに つけていれば\n"
+	.string "なげた ボールで やつらの てもちから\l"
+	.string "ダークポケモンを うばいとれる。\p"
+	.string "はんのうするのは ダークポケモンだけだ。\n"
+	.string "ふつうの トレーナーには きかない。$"
 
 ShinTokyoJail_Text_CellSpare::
-	.string "Huh. You've already got one\n"
-	.string "on your arm.\p"
-	.string "Nat 1 for my big reveal.$"
+	.string "{JPN}あれ。 もう うでに\n"
+	.string "つけてるじゃないか。\p"
+	.string "せっかくの みせばで ファンブルかよ。$"
 
 ShinTokyoJail_Text_Cell2::
-	.string "Now. Let's head to the West\n"
-	.string "service exit, I've got a plan.\p"
-	.string "I'm right behind you, we fight\n"
-	.string "as one.$"
+	.string "{JPN}さて。 にしの サービスでぐちへ\n"
+	.string "むかおう。 さくせんが ある。\p"
+	.string "すぐ うしろに ついていく。 ふたりで\n"
+	.string "いっしょに たたかうぞ。$"
 
 ShinTokyoJail_Text_FollowerTalk::
-	.string "Right behind you.\p"
-	.string "Let's double team these goons.\n"
-	.string "...Oof. You get what I mean.$"
+	.string "{JPN}すぐ うしろに いるぜ。\p"
+	.string "ふたりがかりで したっぱを たおそう。\n"
+	.string "…おっと。 いみは わかるよな。$"
 
 ShinTokyoJail_Text_Inmate1::
-	.string "Psst. You're breaking out?\p"
-	.string "I made a shiv to help us\n"
-	.string "escape. Here, take one.$"
+	.string "{JPN}おい。 だつごく するのか？\p"
+	.string "にげだすために じぶんで ナイフを\n"
+	.string "つくったんだ。 ほら ひとつ やるよ。$"
 
 ShinTokyoJail_Text_Inmate2::
-	.string "Strikes first, every time.\n"
-	.string "Good luck, kid. I'm GONE.$"
+	.string "{JPN}いつだって さきに しかける。\n"
+	.string "がんばれよ。 おれは ずらかる。$"
 
 ShinTokyoJail_Text_RedAlert1::
-	.string "Somewhere above, a bolt SLAMS.$"
+	.string "{JPN}どこか うえの ほうで かんぬきが\nガシャンと しまった。$"
 
 ShinTokyoJail_Text_RedAlert2::
-	.string "We've tripped the alarms.\p"
-	.string "The front door is armed, {PLAYER}.\n"
-	.string "West service run, GO!$"
+	.string "{JPN}けいほうが なっちまった。\p"
+	.string "しょうめんは けいかいが きびしい {ENG}{PLAYER}{JPN}。\n"
+	.string "にしの サービスつうろだ いけ！$"
 
 ShinTokyoJail_Text_FrontDoorSealed::
-	.string "The front door is a slab of\n"
-	.string "blast steel now.\p"
-	.string "Nothing leaves the way it came\n"
-	.string "in.$"
+	.string "{JPN}しょうめんの とびらは ぶあつい\n"
+	.string "ぼうばくの はがねで ふさがれた。\p"
+	.string "はいってきた みちから でることは\n"
+	.string "できない。$"
 
 ShinTokyoJail_Text_GateSealed::
-	.string "A reinforced shutter.\p"
-	.string "It won't budge, the release is\n"
-	.string "inside the cell block.$"
+	.string "{JPN}ほきょうされた シャッターだ。\p"
+	.string "びくとも しない。 かいじょそうちは\n"
+	.string "ろうやの ブロックの なかだ。$"
 
 ShinTokyoJail_Text_SquadMustPick::
-	.string "No time to hesitate!\p"
-	.string "Pick your three, I'll cover\n"
-	.string "the rest!$"
+	.string "{JPN}まよってる ひまは ないぞ！\p"
+	.string "3びき えらんでくれ。 のこりは\n"
+	.string "おれが かばう！$"
 
 ShinTokyoJail_Text_Squad1Mikmanc::
-	.string "Squad ahead, and they've got\n"
-	.string "Shadows with them!\p"
-	.string "Here's our chance, {PLAYER}!\p"
-	.string "Use the SNAG MACHINE, capture\n"
-	.string "their SHADOW POKéMON!$"
+	.string "{JPN}まえに ぶたいが いる。 ダークポケモンを\n"
+	.string "つれてるぞ！\p"
+	.string "チャンスだ {ENG}{PLAYER}{JPN}！\p"
+	.string "スナッチマシンで やつらの\n"
+	.string "ダークポケモンを うばいとれ！$"
 
 ShinTokyoJail_Text_Squad1Lose::
-	.string "The block is sealed. You were\n"
-	.string "never here.$"
+	.string "{JPN}ブロックは ふうさされた。 おまえは\n"
+	.string "はじめから ここに いなかった。$"
 
 ShinTokyoJail_Text_Squad1Won::
-	.string "One more squad between\n"
-	.string "us and the night air. Go!$"
+	.string "{JPN}よるの そとまで あと\n"
+	.string "ひとぶたいだ。 いけ！$"
 
 ShinTokyoJail_Text_Squad2Mikmanc::
-	.string "Last one. I'm going plus-Ultra.$"
+	.string "{JPN}これで さいごだ。 ぜんりょく いくぜ。$"
 
 ShinTokyoJail_Text_Squad2Lose::
-	.string "Lights out, prison breaker.$"
+	.string "{JPN}しょうとうだ だつごくしゃ。$"
 
 ShinTokyoJail_Text_Squad2Won::
-	.string "The exit's clear!$"
+	.string "{JPN}でぐちが あいたぞ！$"
 
 ShinTokyoJail_Text_SquadTalk::
-	.string "The squad stands lamp-lit in the\n"
-	.string "narrow run, listening.$"
+	.string "{JPN}ぶたいは せまい つうろで ライトに てらされ\n"
+	.string "みみを すませている。$"
 
 ShinTokyoJail_Text_ExitSealed::
-	.string "Bolted from the outside.$"
+	.string "{JPN}そとから かんぬきが かかっている。$"
 
 ShinTokyoJail_Text_MikmancFlee::
-	.string "This is where we split.\p"
-	.string "Pints on me when we get home.\n"
-	.string "Thanks for the escort,\n"
-	.string "{PLAYER}.$"
+	.string "{JPN}ここで おわかれだ。\p"
+	.string "かえったら いっぱい おごるよ。\n"
+	.string "ごえい ありがとうな\n"
+	.string "{ENG}{PLAYER}{JPN}。$"
 
 ShinTokyoJail_EventScript_JailbreakerClear::
 	questmenu QUEST_MENU_SET_REWARD, SIDE_QUEST_MINISTERS_FAVOR

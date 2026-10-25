@@ -1,0 +1,1458 @@
+[
+ {
+  "id": "a7395a0575541122",
+  "translation": "{JPN}しぜんこうえんへ ようこそ！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2f724bcc5d70444",
+  "translation": "はじめて？ わたしたちの ちいさな らくえんを\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1b12f8694d172d0",
+  "translation": "ごあんない しますね。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "984e9ddd8a3957a0",
+  "translation": "{JPN}にしの ひあたりの いい そうげんには\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b471f1845ed9962",
+  "translation": "いろんな かたちや いろの くさタイプの\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "decf37895b718d37",
+  "translation": "ポケモンが たくさん いますよ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "719bd7cd4dd4e8b1",
+  "translation": "{JPN}みちを くだって ひがしの はまべへ いくと\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ee2328829b9e827",
+  "translation": "みずタイプの ポケモンが あさせで\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca4e517630b39566",
+  "translation": "しぶきを あげて あそんでいます。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd518faff7452719",
+  "translation": "{JPN}そして きたには ふるい\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "855a6a50a7ab8ee0",
+  "translation": "いれいひが…\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8a3e41d7bc15609",
+  "translation": "いまも やさしい たましいが はかの\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "507892a06dbc118d",
+  "translation": "あいだを ただよって いるそうです。 いくなら\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97472743a5335b0e",
+  "translation": "しずかに おまいり してくださいね。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6051e171af780bb7",
+  "translation": "{JPN}あ もうひとつ！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "661bfc7889b41c4a",
+  "translation": "さきへ すすむ みちは こうえんの\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a7b9f37c9cabf7b",
+  "translation": "きたの はずれから でています。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7d507f99c48f52f",
+  "translation": "その みちは やまへと\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d279ffe1fdd669e4",
+  "translation": "のぼっています。 あしもとに きを つけて。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1874b8c5bc26bd9d",
+  "translation": "{JPN}しぜんこうえんを たのしんで！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b2b2f896788bcb6",
+  "translation": "にしは くさタイプ ひがしは みずと\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f33baa1f40ed94f2",
+  "translation": "はまべですよ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14a6401f2940540c",
+  "translation": "{JPN}わたしの うさぎチームと\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67af5e6df86479cd",
+  "translation": "しょうぶよ！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7ebc212594bd71b",
+  "translation": "{JPN}まあ ひやけ できたし いっか！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca5bcaa93c8b9422",
+  "translation": "{JPN}もっと うさぎを つかまえなきゃ！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b93ba7897c849381",
+  "translation": "{JPN}わたしの ポケモンが うずうず してるの。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2337a3bef4fa3f6f",
+  "translation": "あいては あなたよ！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc5c689c1277bc3c",
+  "translation": "{JPN}たのしかった！ いい しょうぶだったわ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f102ffae4fc27ba2",
+  "translation": "{JPN}はまべから つりを すると\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28dfe82c6d425bcf",
+  "translation": "いろんな ポケモンが つれるわよ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "205282df7b2a18f2",
+  "translation": "{JPN}ごご ずっと うかんで すごしたよ。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31da3dfe98e824d1",
+  "translation": "この こうえんは らくえんだね！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72cacfee890577b4",
+  "translation": "{JPN}なかまと くるまで ポケモンを すなはまで\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4165c1ba4cf51ca9",
+  "translation": "あそばせに きたんだ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c655c4ea240953f7",
+  "translation": "{JPN}この カニカニバーガー たべきりたいけど\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b59f41c34d563515",
+  "translation": "もう クソ おなか いっぱい…\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53e063a6ccbab930",
+  "translation": "まあ いっか。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a607474ce22bc703",
+  "translation": "{JPN}みて みて！ マリルが しっぽで\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bd86c42f0fe1e69",
+  "translation": "うかぶように なったの！ かわいい！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94f10f4641f6ebf3",
+  "translation": "{JPN}あら こんにちは！ ずいぶん\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "821ffcee46e3854b",
+  "translation": "おぎょうぎの いい トレーナーさんね。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1ab60477b780849",
+  "translation": "わたし ここで イーブイを そだてているの。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7d98567b92b12bb",
+  "translation": "けなみが かがやくまで ブラシを かけてね。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6fd74c7b23cbb4b",
+  "translation": "ほんとうの うつくしさは ていねいな\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8d9f7e2a1743c75",
+  "translation": "おていれから はじまるのよ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca2fef3a9c7d2d10",
+  "translation": "{JPN}うちの イーブイに とっても かわいい\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a2fa7ca9b800783",
+  "translation": "こどもたちが うまれたの。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40db9961b475b9a4",
+  "translation": "あなたみたいな やさしい トレーナーさんになら\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0f40616f256e344",
+  "translation": "1ぴき ゆずっても いいわ…\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f641b9d4958507b0",
+  "translation": "そうね 10000円で どうかしら？$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f47206b06e08b059",
+  "translation": "{JPN}すてき！ はい あなたの おちびさんよ。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cec4e7c244f2b095",
+  "translation": "まいにち ブラシを かけてあげれば\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5e2afba6e338aaf",
+  "translation": "とっても きれいに そだつわ！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecefcae45b5e4db6",
+  "translation": "{JPN}あら てもちが いっぱい だから\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f999922250e1a843",
+  "translation": "イーブイちゃんは パソコンに おくったわ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cf31bd0e070589a",
+  "translation": "{JPN}あらあら すこし たりないわね。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "483f74a577aee0e2",
+  "translation": "10000円 たまったら\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26480eb5b950df4f",
+  "translation": "また きてね。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cdc9c3151d3e6f0",
+  "translation": "{JPN}まあ てもちにも パソコンにも\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "248d1885979a5d88",
+  "translation": "あきが ないじゃないの！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd7f0fe8ffd4962c",
+  "translation": "おかねは おかえしするわ。 また\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e22b87d80dc85fdd",
+  "translation": "きてちょうだいね。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fdb0284148270de9",
+  "translation": "{JPN}いらない？ ぜんぜん かまわないわ。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f689baf08422a2e",
+  "translation": "イーブイは ほんとうに ほしい ひとの\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49ae668edb0fcc29",
+  "translation": "ところへ いくべき だもの。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0019fa72d9a110a4",
+  "translation": "{JPN}イーブイちゃんは げんき？\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f411db3cfd4a9f3",
+  "translation": "けなみを ととのえて おけば\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c4dec7e8adb9692",
+  "translation": "ほしみたいに かがやくわよ！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d326cffdaaa07728",
+  "translation": "{JPN}ムウマ: ムゥゥ…\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c7c7612fe332f6d",
+  "translation": "くすくす わらって ちかよってきたかと おもうと\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3799994e38ba9335",
+  "translation": "きりの なかへ さっと きえていった。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f485ecb7632a5c3f",
+  "translation": "{JPN}ゴーストが はかの うえに うかび\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f3de5fb798cca75",
+  "translation": "にたにた わらいながら こちらを みている。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be7f1fcbcf521a04",
+  "translation": "{JPN}ゴースが むらさきの もやを まといながら\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81fbff5bdde7bcad",
+  "translation": "すぎていった。 せすじが\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45dd725fe0d34285",
+  "translation": "ぞくっとした。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bd237f7dd4b33dc",
+  "translation": "{JPN}ヨマワルが はかいしの あいだに\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5c0ee810f417bc2",
+  "translation": "みはりの ように しずかに うかんでいる。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7451e8965885e426",
+  "translation": "{JPN}マリルが みずぎわを たのしそうに\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1c01a311f8c362e",
+  "translation": "はねている。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eff328e2925958a1",
+  "translation": "{JPN}フカマルが たかい くさの なかを はしりまわり\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a471561cf1fad73",
+  "translation": "まいおちる はなびらに\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2744f6beff600988",
+  "translation": "じゃれついている。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04d948a2394c45a8",
+  "translation": "{JPN}イーブイが あたたかい すなの うえを ころがり\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a629e0e567f671c2",
+  "translation": "こちらを みあげて まばたきした。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f86c22efea476d8e",
+  "translation": "{JPN}キャモメが うみかぜに のって\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef35d9279ffb1f31",
+  "translation": "あたまの うえを まわっている。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e519b72e7d0f0a66",
+  "translation": "{JPN}メグロコが あたたかい すなに うもれて\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d331722f649d3a6",
+  "translation": "めだけを だして のんびりしている。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7de26248e1cca50f",
+  "translation": "{JPN}せかいいち おおきな すなのしろを つくったら\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3527bd3756871df0",
+  "translation": "なにかが すみついちゃった！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf9478155db32aed",
+  "translation": "{JPN}あーあ すなのしろチームが まけちゃった！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b0cf7cccab9c05a",
+  "translation": "{JPN}ぼくの スナバァが この はまを まもってるんだ。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "647b0dc90ccec2ea",
+  "translation": "ひきずりこまれないように きを つけてね！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "240b5f5b1e217dbb",
+  "translation": "{JPN}この あたりの いそだまりには\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "474dfc7e6de5d47a",
+  "translation": "ふしぎな いきものが かくれてるんだ！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71188a235ca13647",
+  "translation": "{JPN}うみの いきものに くわしいんだね！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ba416501365ba46",
+  "translation": "{JPN}ヒドイデは おもいがけない ところに\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "938c631b0dc0b5d0",
+  "translation": "かくれてるよ。 あしもとに きを つけて！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8434cbed16933355",
+  "translation": "{JPN}みてよ すなの なかから ぴかぴかの\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eddf791649d07404",
+  "translation": "メタルコートを ほりだしたんだ！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70a3cef4ef6f3221",
+  "translation": "ストライクに もたせると すがたが かわるって\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f80ab6c5c393a09a",
+  "translation": "いうんだ… みてみたいなあ。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "540832e2d8f2eb36",
+  "translation": "ストライクを ゆずって くれない？\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb5985bba781a1c2",
+  "translation": "かわりに ちいさな あいぼうを あげるよ！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d82d7e754c0e59a9",
+  "translation": "{JPN}だめ？ いいよ。 きが かわったら\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99460d36ee127abf",
+  "translation": "また きてね！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78686936e016a129",
+  "translation": "{JPN}うーん いまは ストライクを もってないね。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a38361c6779fb500",
+  "translation": "つれてきたら おしえて！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90003e57be700808",
+  "translation": "{JPN}うわあ ほんものの ストライク！ すごい！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66cacf49bf2a6c3e",
+  "translation": "はい おれいに この こを あげる。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1625361c22b1df68",
+  "translation": "だれかは おたのしみ！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "173d3925fa057c07",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を もらった！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a61ceb4e9422553e",
+  "translation": "{JPN}わわっ てもちも ボックスも\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "592c756edb0dd333",
+  "translation": "ぎっしり いっぱいだよ！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16875cd611b35c86",
+  "translation": "おれいの プレゼントが はいる あきを つくって\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1385d7177800d1fb",
+  "translation": "また きてね。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40d04bce28475ffe",
+  "translation": "{JPN}あの ストライクと メタルコート\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45c365ecf3d9ae81",
+  "translation": "いい なかまに なるよ。 ありがとう！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e847e8e9e722c543",
+  "translation": "{JPN}クルミのもりへ いくの？ ちかくに\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4e0ecab36f3e324",
+  "translation": "ちかみちが あるけど おおきな きが\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39660e434871125d",
+  "translation": "みちを ふさいでるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6270f1b3c4fb4deb",
+  "translation": "ほら これを あげる！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21fc8291c9f51460",
+  "translation": "{JPN}てもちの だれかに いあいぎりを おぼえさせて\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0069ba1d13d86b70",
+  "translation": "あの きを きりたおすと いい。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c566a3f66c3ba0e3",
+  "translation": "クルミのもりへ まっすぐ もどれる\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86e70f9cb69c5def",
+  "translation": "ちかみちだよ。 ためして\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df9b6ed1cfe4590d",
+  "translation": "みてね！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f05c7a0b1e0662c",
+  "translation": "{JPN}あの きを きりたおせば クルミのもりへの\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9548d2c90a03bc7b",
+  "translation": "ちかみちに なるよ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25646c3a9b4550ca",
+  "translation": "{JPN}しぜんこうえん とざんぐち\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d3bb0d551304e97",
+  "translation": "{UP_ARROW} きた: ムネンやま\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11c7c3fd19cdd875",
+  "translation": "けわしい みち。 あたたかい ふくそうで。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "114a4673494e2099",
+  "translation": "{JPN}{UP_ARROW} きた: ムネンやま\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9888feedf0bfd959",
+  "translation": "やまみち けいゆで ムネンむら$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "edc881ecaa6b19c0",
+  "translation": "{JPN}おごそかな はかいしが\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56bc078ee8a8980e",
+  "translation": "とおくの さんちょうを むいている。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d7c45ff6a5f132a",
+  "translation": "「のぼりて かえらぬ ものたちへ。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "762e0913ee84b08e",
+  "translation": "やまは\\l",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00e9492192ee5105",
+  "translation": "おぼえている」\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f58f3acde8b1a92",
+  "translation": "つめたい かぜが いただきから\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa8d9a374dcbe00e",
+  "translation": "ふきおろしてくる。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e107e7117906afbd",
+  "translation": "{JPN}はかいしの うしろに たたんだばかりの\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f28637d974281d4",
+  "translation": "メモが はさまっている。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01c2588eaacc04ea",
+  "translation": "「これを よんでいるなら わしは\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f1128bfcb159eaf",
+  "translation": "いきて おりられたと いうことだ。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e468751a6bb6b77",
+  "translation": "さんちょうで みたものを しんじるな。\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29983751e521db1e",
+  "translation": "のぼりつづけろ。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "174d1adc1591fee1",
+  "translation": "ー クラークソンはかせ」$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82f93f1640123005",
+  "translation": "{JPN}こんな ところで\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2110053fde465a1b",
+  "translation": "しゅぎょうしているとは かんしん かんしん！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "436786b7cf1c37af",
+  "translation": "むかしは よく この のはらで\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e97d42ba772b40e3",
+  "translation": "むすこと バトルしたものだ…\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "108d1006f31d4e9d",
+  "translation": "あいつが よからぬ なかまと\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6148b79df36c7cd4",
+  "translation": "つきあう ように なる まえはな。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c407a1f3c5ede5fd",
+  "translation": "そうだな… おまえは あいつに にている。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9bcb7cb9aa054bd",
+  "translation": "{JPN}…\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7f5f6f4fac79fe7",
+  "translation": "むかしの ことを くよくよ しても はじまらん！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96cf2520da98b536",
+  "translation": "きを つけてな {ENG}{PLAYER}{JPN}！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58e35fe7495b40ef",
+  "translation": "{JPN}ポリゴンが ブーンと うなって\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0283cfa3b249966f",
+  "translation": "ポケモン あずかりシステムを たちあげた。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "048b6b4615bcdc53",
+  "translation": "{JPN}ラッキー: ハピナス！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb681a735986838b",
+  "translation": "つかれた ポケモンの てあてを\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24df0919a328d207",
+  "translation": "してくれるようだ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a90cfd5f0db33b49",
+  "translation": "{JPN}ハピ ハピナス！\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74f31a7acdcad187",
+  "translation": "ポケモンたちは すっかり\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ac10949d1520e4d",
+  "translation": "げんきに なった！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "268b24a76cfb0453",
+  "translation": "{JPN}ゆきの つもった しげみが\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68fab13648e21f2e",
+  "translation": "みちを ふさいでいる。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c8fbddac0509350",
+  "translation": "{ENG}{PLAYER}{JPN}は いあいぎりを つかった！$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94590e9bd84da96c",
+  "translation": "{JPN}ゆきの つもった ぶあつい しげみだ。\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf5fe41983f518ca",
+  "translation": "ちょうどいい わざなら\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a9029037511b796",
+  "translation": "きりたおせそうだ。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8205911e409e54f2",
+  "translation": "{JPN}クルミのもり\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e94bed583205662",
+  "translation": "{RIGHT_ARROW} フロストウッドタウン$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd108647a1d03c69",
+  "translation": "{JPN}フロストウッドタウン {RIGHT_ARROW} クルミのもり\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97385dd644b226a6",
+  "translation": "{RIGHT_ARROW} メルティングマイル$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac0eb437556caa3c",
+  "translation": "{JPN}センネンせん\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "866201bd6bf582aa",
+  "translation": "のぼり: センネン から シントウキョウ\\p",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1cb4e0ed1f6914b8",
+  "translation": "おしらせ: しんかんせんは\\n",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c91aad1c4f82e51",
+  "translation": "とうぶんの あいだ うんきゅう します。$",
+  "provenance": {
+   "batch": "dialogue-national-park-15",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

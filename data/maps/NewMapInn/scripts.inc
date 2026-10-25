@@ -31,22 +31,22 @@ NewMapInn_EventScript_Decline::
 @  Text
 @ ============================================================================
 NewMapInn_Text_Greeting::
-	.string "Welcome to the Pilgrim's Rest.\p"
-	.string "Once, every bed was full the night\n"
-	.string "before a climb. Pilgrims, all of\l"
-	.string "them, waiting on the dawn bell.\p"
-	.string "Now it's just empty beds and me.\p"
-	.string "You look half frozen, dear.\n"
-	.string "Will you rest a while?$"
+	.string "{JPN}じゅんれいしゃの やどへ ようこそ。\p"
+	.string "むかしは のぼる まえの ばんには\n"
+	.string "ベッドが ぜんぶ うまったものさ。 みんな\l"
+	.string "あけの かねを まつ じゅんれいしゃでね。\p"
+	.string "いまじゃ からっぽの ベッドと わたしだけ。\p"
+	.string "こごえそうな かおを してるね。\n"
+	.string "すこし やすんで いくかい？$"
 
 NewMapInn_Text_Rested::
-	.string "There. Warm again, the lot of you.\p"
-	.string "If the mountain turns you back,\n"
-	.string "you come straight here, hear me?\p"
-	.string "This door doesn't lock. Not for\n"
-	.string "anyone coming DOWN.$"
+	.string "{JPN}ほら。 みんな あったまったね。\p"
+	.string "もし やまに おいかえされたら\n"
+	.string "まっすぐ ここへ おいで。 いいね？\p"
+	.string "この とびらに かぎは かけないよ。\n"
+	.string "おりてくる ひとには だれにもね。$"
 
 NewMapInn_Text_Decline::
-	.string "Suit yourself, dear.\p"
-	.string "The kettle stays warm and the beds\n"
-	.string "stay made. That much I can do.$"
+	.string "{JPN}すきに おし。\p"
+	.string "やかんは あたたかく ベッドは\n"
+	.string "ととのえておく。 それくらいは できるからね。$"

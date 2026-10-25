@@ -102,78 +102,78 @@ NewMap_EventScript_ApprenticeDoorCrates::
 @  Text
 @ ============================================================================
 NewMap_Text_Watchman::
-	.string "Before dawn, a line of them came\n"
-	.string "through the gate. Oni masks, every\l"
-	.string "one. Not a single word between them.\p"
-	.string "They went straight up to STAR SUMMIT\n"
-	.string "and didn't look back. Gave me chills.$"
+	.string "{JPN}よあけまえに れつを つくって やつらが\n"
+	.string "もんを くぐって いった。 みんな\l"
+	.string "オニの めんを つけて ひとことも しゃべらずに。\p"
+	.string "まっすぐ スターサミットへ のぼって\n"
+	.string "ふりかえりも しなかった。 ぞっとしたよ。$"
 
 NewMap_Text_WorriedWoman::
-	.string "You saw the masked ones too?\p"
-	.string "What business do folk in demon masks\n"
-	.string "have at the summit...$"
+	.string "{JPN}あなたも めんの ひとたちを みたの？\p"
+	.string "オニの めんを つけた ひとたちが\n"
+	.string "さんちょうに なんの ようが あるのかしら…$"
 
 NewMap_Text_OldMan::
-	.string "Oni masks, before the sun.\p"
-	.string "In my grandfather's day, that meant\n"
-	.string "one of two things, a festival\p"
-	.string "or a reckoning. And I hear no drums.$"
+	.string "{JPN}ひの でる まえの オニの めん。\p"
+	.string "わしの じいさまの ころなら それは\n"
+	.string "ふたつの うち どちらかじゃった。 まつりか\p"
+	.string "さばきか。 たいこの おとは きこえんのう。$"
 
 NewMap_Text_Kid::
-	.string "I SAW them! Big scary red masks!\p"
-	.string "They ran up the mountain path super\n"
-	.string "fast, like they weren't even cold!\l"
-	.string "I wanna know what's up there!$"
+	.string "{JPN}みたよ！ でっかくて こわい あかい めん！\p"
+	.string "やまみちを すっごい はやさで\n"
+	.string "かけのぼってった。 さむくも ないみたいに！\l"
+	.string "うえに なにが あるのか しりたい！$"
 
 NewMap_Text_Skeptic::
-	.string "The masked lot? Pff. Festival troupe,\n"
-	.string "rehearsing early. Has to be.\p"
-	.string "...They left awful quiet, though.\n"
-	.string "And nobody's come back down.$"
+	.string "{JPN}めんの れんちゅう？ ふん。 まつりの\n"
+	.string "いちざが はやめに けいこ してるのさ。\p"
+	.string "…でも やけに しずかに でていったな。\n"
+	.string "それに だれも おりて きていない。$"
 
 NewMap_Text_MountainHint::
-	.string "Thinking of following them up?\p"
-	.string "It's dangerous up there.\n"
-	.string "High level Pokemon prey under the fog.$"
+	.string "{JPN}あとを おって のぼる つもり？\p"
+	.string "うえは きけんよ。 きりの なかでは\n"
+	.string "つよい ポケモンが えものを ねらってるの。$"
 
 NewMap_Text_Poochyena::
-	.string "The town's Poochyena stands stiff by\n"
-	.string "the door, ears pricked toward the peak.$"
+	.string "{JPN}まちの ポチエナが とびらの そばで\n"
+	.string "みみを たてて じっと やまを みている。$"
 
 NewMap_Text_Skitty::
-	.string "A well-fed Skitty dozes in a warm\n"
-	.string "patch of sun, not a care in the world.$"
+	.string "{JPN}まるまると した エネコが ひだまりで\n"
+	.string "なんの しんぱいも なく うとうとしている。$"
 
 NewMap_Text_Wingull::
-	.string "A Wingull preens on the rooftop,\n"
-	.string "watching the mountain road.$"
+	.string "{JPN}キャモメが やねの うえで けづくろいを しながら\n"
+	.string "やまみちを みている。$"
 
 NewMap_Text_KidDare::
-	.string "You talked to old man Gen, huh?\p"
-	.string "You're really going into the tomb\n"
-	.string "tunnel?! For REAL?!\p"
-	.string "I dared Touya to touch the door\n"
-	.string "once and he cried for a WEEK.\p"
-	.string "...I saw something shiny just\n"
-	.string "inside, y'know. Never went back\l"
-	.string "for it. You can have it. Probably.$"
+	.string "{JPN}ゲンじいさんと はなしたんだろ？\p"
+	.string "ほんとに はかばの トンネルに\n"
+	.string "はいるの？！ ほんきで？！\p"
+	.string "まえに トウヤに とびらを さわれって\n"
+	.string "けしかけたら あいつ 1しゅうかん ないてたんだよ。\p"
+	.string "…じつは はいって すぐの ところで\n"
+	.string "ひかる ものを みたんだ。 とりには\l"
+	.string "もどってない。 あげるよ。 たぶん。$"
 
 NewMap_Text_TunnelSign::
-	.string "MUNEN TUNNEL\p"
-	.string "Resting place of the mountain\n"
-	.string "dead. Sealed by order of the\l"
-	.string "village elders.\p"
-	.string "DO NOT WAKE THEM.\p"
-	.string "...The seal beneath the sign is\n"
-	.string "torn. The door stands open.$"
+	.string "{JPN}ムネントンネル\p"
+	.string "やまの しにびとの\n"
+	.string "ねむる ばしょ。 むらの ちょうろうの\l"
+	.string "めいにより ふういんする。\p"
+	.string "おこしては ならない。\p"
+	.string "…かんばんの したの ふうが\n"
+	.string "やぶれている。 とびらは ひらいたままだ。$"
 
 NewMap_Text_ApprenticeDoorCrates::
-	.string "Heavy crates are stacked against\n"
-	.string "the door, nailed shut.\p"
-	.string "A carpenter's mark on the lid:\n"
-	.string "“GEN.”\p"
-	.string "Someone wanted this house left\n"
-	.string "alone.$"
+	.string "{JPN}おもい きばこが とびらの まえに\n"
+	.string "つまれ くぎで うちつけられている。\p"
+	.string "ふたに だいくの しるしが ある:\n"
+	.string "「ゲン」\p"
+	.string "だれかが この いえを そっとして\n"
+	.string "おきたかった ようだ。$"
 
 @ ============================================================================
 @  POMPEII NIGHT MARKET (Spirited Away veil-market direction)
@@ -267,66 +267,66 @@ NewMap_EventScript_TunnelRock::
 	end
 
 NewMap_Text_TunnelRock::
-	.string "A great stone slab seals the old\n"
-	.string "tunnel mouth. It would take half\l"
-	.string "the village to move it.\p"
-	.string "Fresh chisel marks ring its edge --\n"
-	.string "the MASK-MAKER's work, by the look\l"
-	.string "of the cuts.$"
+	.string "{JPN}おおきな いしの いたが ふるい\n"
+	.string "トンネルの いりぐちを ふさいでいる。 むらの\l"
+	.string "はんぶんが かからないと うごかせないだろう。\p"
+	.string "ふちには あたらしい のみの あとが ある。\n"
+	.string "きりくちを みるに めんづくりの\l"
+	.string "しごとの ようだ。$"
 
 NewMap_Text_LanternLighter::
-	.string "Every lantern lit before full dark,\n"
-	.string "that's the rule. Every single one.\p"
-	.string "Not for the pilgrims, dear.\n"
-	.string "For the OTHER customers.\p"
-	.string "The ones who only come out once\n"
-	.string "the paper glows red.$"
+	.string "{JPN}くらく なる まえに ちょうちんは ぜんぶ\n"
+	.string "ともす きまり。 ひとつ のこらずね。\p"
+	.string "じゅんれいしゃの ためじゃ ないのよ。\n"
+	.string "「べつの」 おきゃくさんの ため。\p"
+	.string "かみが あかく ひかって はじめて\n"
+	.string "でてくる おきゃくさん。$"
 
 NewMap_Text_FoodStallGreeting::
-	.string "Hot! Sweet! Fresh off the coals!\p"
-	.string "Eat well before the climb, or the\n"
-	.string "mountain eats YOU. Ha!$"
+	.string "{JPN}あつあつ！ あまい！ やきたてだよ！\p"
+	.string "のぼる まえに しっかり くっとかないと\n"
+	.string "やまに くわれちまうぞ！ はっは！$"
 
 NewMap_Text_FoodStallFarewell::
-	.string "Don't leave food at the tunnel\n"
-	.string "mouth. It ATTRACTS things.$"
+	.string "{JPN}トンネルの いりぐちに たべものを\n"
+	.string "おいていくなよ。 「なにか」が よってくるからな。$"
 
 NewMap_Text_TrinketStallGreeting::
-	.string "Charms and wards, traveler.\p"
-	.string "Sold more this week than in the\n"
-	.string "last ten years. Wonder why.$"
+	.string "{JPN}おまもりに まよけは いかが たびのかた。\p"
+	.string "こんしゅうは この 10ねんぶんより\n"
+	.string "うれたよ。 なんでだろうね。$"
 
 NewMap_Text_TrinketStallFarewell::
-	.string "Keep the Cleanse Tag on the\n"
-	.string "OUTSIDE of your bag. It has to\l"
-	.string "see them coming.$"
+	.string "{JPN}きよめのおふだは バッグの\n"
+	.string "そとがわに つけておきな。 やつらが\l"
+	.string "くるのが みえるように しないと。$"
 
 NewMap_Text_KimonoDancer::
-	.string "The festival needs a dancer, so\n"
-	.string "I practice. Masked ones or no\l"
-	.string "masked ones.\p"
-	.string "When the drums finally sound,\n"
-	.string "Pompeii will remember what this\l"
-	.string "market is FOR.$"
+	.string "{JPN}まつりには まいてが ひつようだから\n"
+	.string "わたしは けいこするの。 めんの ひとたちが\l"
+	.string "いても いなくてもね。\p"
+	.string "いつか たいこが なりひびいたら\n"
+	.string "ポンペイは この いちばが なんの ための\l"
+	.string "ものか おもいだすわ。$"
 
 NewMap_Text_MaskedPatron::
-	.string "A figure in an oni mask stands\n"
-	.string "utterly still among the stalls.\p"
-	.string "It does not browse. It does not\n"
-	.string "speak.\p"
-	.string "It is counting the lanterns.$"
+	.string "{JPN}オニの めんを つけた ひとかげが\n"
+	.string "やたいの あいだで ぴくりとも せず たっている。\p"
+	.string "しなものを みるでもなく\n"
+	.string "しゃべるでもない。\p"
+	.string "ちょうちんの かずを かぞえているのだ。$"
 
 NewMap_Text_MaskedPatronNod::
-	.string "The masked figure's gaze drops to\n"
-	.string "the carved face at your belt.\p"
-	.string "It inclines its head, slowly, and\n"
-	.string "returns to counting lanterns.\p"
-	.string "You have been mistaken for\n"
-	.string "someone. Or something.$"
+	.string "{JPN}めんの ひとかげの しせんが こしに さげた\n"
+	.string "ほりものの めんへと おちた。\p"
+	.string "ひとかげは ゆっくりと うなずき\n"
+	.string "また ちょうちんを かぞえはじめた。\p"
+	.string "だれかと まちがえられたようだ。\n"
+	.string "あるいは なにかと。$"
 
 NewMap_Text_MarketSign::
-	.string "POMPEII NIGHT MARKET\p"
-	.string "“Lit lanterns welcome two kinds\n"
-	.string "of guests.\p"
-	.string "“Please do not stare at the\n"
-	.string "second kind.”$"
+	.string "{JPN}ポンペイ よるの いちば\p"
+	.string "「ちょうちんの あかりは 2しゅるいの\n"
+	.string "おきゃくさまを おむかえします。\p"
+	.string "「2しゅるいめの おきゃくさまを\n"
+	.string "じろじろ みないで ください」$"

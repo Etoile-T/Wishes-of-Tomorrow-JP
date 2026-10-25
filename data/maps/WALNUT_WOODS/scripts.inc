@@ -203,47 +203,47 @@ WALNUT_WOODS_Movement_ClarksonRunOff:
 @ Text
 @ ===========================================================================
 WALNUT_WOODS_Text_Clarkson1:
-	.string "Glad to see you out\n"
-	.string "here training!\p"
-	.string "I used to battle with my son out here\n"
-	.string "in these very fields, back in the day…\p"
-	.string "before he got involved with\n"
-	.string "the wrong group of friends.\p"
-	.string "You know… you remind me of him.$"
+	.string "{JPN}こんな ところで\n"
+	.string "しゅぎょうしているとは かんしん かんしん！\p"
+	.string "むかしは よく この のはらで\n"
+	.string "むすこと バトルしたものだ…\p"
+	.string "あいつが よからぬ なかまと\n"
+	.string "つきあう ように なる まえはな。\p"
+	.string "そうだな… おまえは あいつに にている。$"
 
 WALNUT_WOODS_Text_Clarkson2:
-	.string "…\p"
-	.string "Best not to linger on the past!\p"
-	.string "Godspeed, {PLAYER}!$"
+	.string "{JPN}…\p"
+	.string "むかしの ことを くよくよ しても はじまらん！\p"
+	.string "きを つけてな {ENG}{PLAYER}{JPN}！$"
 
 WALNUT_WOODS_Text_Porygon:
-	.string "A PORYGON hums and fires up the\n"
-	.string "POKéMON Storage System.$"
+	.string "{JPN}ポリゴンが ブーンと うなって\n"
+	.string "ポケモン あずかりシステムを たちあげた。$"
 
 WALNUT_WOODS_Text_ChanseyOffer:
-	.string "CHANSEY: Blissey!\p"
-	.string "It offers to tend to your tired\n"
-	.string "POKéMON.$"
+	.string "{JPN}ラッキー: ハピナス！\p"
+	.string "つかれた ポケモンの てあてを\n"
+	.string "してくれるようだ。$"
 
 WALNUT_WOODS_Text_ChanseyDone:
-	.string "Blissey, blis-sey!\p"
-	.string "Your POKéMON are brimming with\n"
-	.string "health once more!$"
+	.string "{JPN}ハピ ハピナス！\p"
+	.string "ポケモンたちは すっかり\n"
+	.string "げんきに なった！$"
 
 WALNUT_WOODS_Text_CutBush:
-	.string "A thick, snow-laden bush blocks the\n"
-	.string "way.\p"
-	.string "{PLAYER} used CUT!$"
+	.string "{JPN}ゆきの つもった しげみが\n"
+	.string "みちを ふさいでいる。\p"
+	.string "{ENG}{PLAYER}{JPN}は いあいぎりを つかった！$"
 
 WALNUT_WOODS_Text_BushCantCut:
-	.string "A thick, snow-laden bush.\p"
-	.string "It looks like it could be cut down\n"
-	.string "by the right move.$"
+	.string "{JPN}ゆきの つもった ぶあつい しげみだ。\p"
+	.string "ちょうどいい わざなら\n"
+	.string "きりたおせそうだ。$"
 
 WALNUT_WOODS_Text_SignWest:
-	.string "WALNUT WOODS\n"
-	.string "{RIGHT_ARROW} FROSTWOOD TOWN$"
+	.string "{JPN}クルミのもり\n"
+	.string "{RIGHT_ARROW} フロストウッドタウン$"
 
 WALNUT_WOODS_Text_SignEast:
-	.string "FROSTWOOD TOWN {RIGHT_ARROW} WALNUT WOODS\n"
-	.string "{RIGHT_ARROW} MELTING MILE$"
+	.string "{JPN}フロストウッドタウン {RIGHT_ARROW} クルミのもり\n"
+	.string "{RIGHT_ARROW} メルティングマイル$"

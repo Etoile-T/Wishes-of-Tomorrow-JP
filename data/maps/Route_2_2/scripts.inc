@@ -416,160 +416,160 @@ Route_2_2_EventScript_Sandile::
 @ Text
 @ ===========================================================================
 Route_2_2_Text_GuideWelcome:
-	.string "Welcome to the NATIONAL PARK!\p"
-	.string "First time here? Here, let me show\n"
-	.string "you around our little paradise.$"
+	.string "{JPN}しぜんこうえんへ ようこそ！\p"
+	.string "はじめて？ わたしたちの ちいさな らくえんを\n"
+	.string "ごあんない しますね。$"
 
 Route_2_2_Text_GuideShot1:
-	.string "Off to the west, our sunny meadows\n"
-	.string "teem with GRASS POKéMON of every\l"
-	.string "shape and color.$"
+	.string "{JPN}にしの ひあたりの いい そうげんには\n"
+	.string "いろんな かたちや いろの くさタイプの\l"
+	.string "ポケモンが たくさん いますよ。$"
 
 Route_2_2_Text_GuideShot2:
-	.string "Follow the path down to the eastern\n"
-	.string "shore, where WATER POKéMON splash\l"
-	.string "and play in the shallows.$"
+	.string "{JPN}みちを くだって ひがしの はまべへ いくと\n"
+	.string "みずタイプの ポケモンが あさせで\l"
+	.string "しぶきを あげて あそんでいます。$"
 
 Route_2_2_Text_GuideShot3:
-	.string "And up north stands the old\n"
-	.string "memorial…\p"
-	.string "They say gentle SPIRITS still drift\n"
-	.string "among the graves. Do be respectful\l"
-	.string "if you wander up that way.$"
+	.string "{JPN}そして きたには ふるい\n"
+	.string "いれいひが…\p"
+	.string "いまも やさしい たましいが はかの\n"
+	.string "あいだを ただよって いるそうです。 いくなら\l"
+	.string "しずかに おまいり してくださいね。$"
 
 Route_2_2_Text_GuideExitNorth:
-	.string "Oh, one more thing!\p"
-	.string "The way onward is north, out\n"
-	.string "the top of the park.\p"
-	.string "That trail climbs toward\n"
-	.string "the mountain. Mind your step.$"
+	.string "{JPN}あ もうひとつ！\p"
+	.string "さきへ すすむ みちは こうえんの\n"
+	.string "きたの はずれから でています。\p"
+	.string "その みちは やまへと\n"
+	.string "のぼっています。 あしもとに きを つけて。$"
 
 Route_2_2_Text_GuideAgain:
-	.string "Enjoy the NATIONAL PARK!\p"
-	.string "GRASS types to the west, the WATER\n"
-	.string "and the shore to the east.$"
+	.string "{JPN}しぜんこうえんを たのしんで！\p"
+	.string "にしは くさタイプ ひがしは みずと\n"
+	.string "はまべですよ。$"
 
 Route_2_2_Text_AllisonIntro:
-	.string "Prepare to face my team of\n"
-	.string "BUNNIES.$"
+	.string "{JPN}わたしの うさぎチームと\n"
+	.string "しょうぶよ！$"
 
 Route_2_2_Text_AllisonDefeat:
-	.string "At least i'm getting a tan!$"
+	.string "{JPN}まあ ひやけ できたし いっか！$"
 
 Route_2_2_Text_AllisonPost:
-	.string "I need to catch more bunnies!$"
+	.string "{JPN}もっと うさぎを つかまえなきゃ！$"
 
 Route_2_2_Text_MarinaIntro:
-	.string "My POKéMON have been itching for\n"
-	.string "a battle. You're up!$"
+	.string "{JPN}わたしの ポケモンが うずうず してるの。\n"
+	.string "あいては あなたよ！$"
 
 Route_2_2_Text_MarinaDefeat:
-	.string "That was a blast! Good game.$"
+	.string "{JPN}たのしかった！ いい しょうぶだったわ。$"
 
 Route_2_2_Text_MarinaPost:
-	.string "If you fish from the shore,\n"
-	.string "you'll find all kinds of POKéMON.$"
+	.string "{JPN}はまべから つりを すると\n"
+	.string "いろんな ポケモンが つれるわよ。$"
 
 Route_2_2_Text_BeachGoer1:
-	.string "I just floated around all afternoon.\n"
-	.string "This park is paradise!$"
+	.string "{JPN}ごご ずっと うかんで すごしたよ。\n"
+	.string "この こうえんは らくえんだね！$"
 
 Route_2_2_Text_BeachGoer2:
-	.string "My buddies and I drove out here just\n"
-	.string "to let our POKéMON play in the sand.$"
+	.string "{JPN}なかまと くるまで ポケモンを すなはまで\n"
+	.string "あそばせに きたんだ。$"
 
 Route_2_2_Text_Picnicker:
-	.string "I want to finish this Krabby Patty,\n"
-	.string "but i'm just so fucking full..\n"
-	.string "Oh well.$"
+	.string "{JPN}この カニカニバーガー たべきりたいけど\n"
+	.string "もう クソ おなか いっぱい…\n"
+	.string "まあ いっか。$"
 
 Route_2_2_Text_Tuber:
-	.string "Look, look! My MARILL learned to\n"
-	.string "float on its tail! So cute!$"
+	.string "{JPN}みて みて！ マリルが しっぽで\n"
+	.string "うかぶように なったの！ かわいい！$"
 
 Route_2_2_Text_BreederIntro:
-	.string "Why hello, dear! Aren't you a\n"
-	.string "well-mannered trainer.\p"
-	.string "I raise EEVEE here in the park. I\n"
-	.string "brush their coats till they gleam.\p"
-	.string "True beauty begins with good\n"
-	.string "grooming, you know.$"
+	.string "{JPN}あら こんにちは！ ずいぶん\n"
+	.string "おぎょうぎの いい トレーナーさんね。\p"
+	.string "わたし ここで イーブイを そだてているの。\n"
+	.string "けなみが かがやくまで ブラシを かけてね。\p"
+	.string "ほんとうの うつくしさは ていねいな\n"
+	.string "おていれから はじまるのよ。$"
 
 Route_2_2_Text_BreederOffer:
-	.string "One of my EEVEE just had the most\n"
-	.string "darling little litter.\p"
-	.string "I could let one of the babies go to\n"
-	.string "a kind trainer like you…\p"
-	.string "Say, for 10,000? What do you think?$"
+	.string "{JPN}うちの イーブイに とっても かわいい\n"
+	.string "こどもたちが うまれたの。\p"
+	.string "あなたみたいな やさしい トレーナーさんになら\n"
+	.string "1ぴき ゆずっても いいわ…\p"
+	.string "そうね 10000円で どうかしら？$"
 
 Route_2_2_Text_BreederGive:
-	.string "Wonderful! Here is your little one.\p"
-	.string "Brush it every day and it will grow\n"
-	.string "up simply gorgeous!$"
+	.string "{JPN}すてき！ はい あなたの おちびさんよ。\p"
+	.string "まいにち ブラシを かけてあげれば\n"
+	.string "とっても きれいに そだつわ！$"
 
 Route_2_2_Text_BreederPC:
-	.string "Oh my, your team is full, so I sent\n"
-	.string "the little EEVEE to your PC.$"
+	.string "{JPN}あら てもちが いっぱい だから\n"
+	.string "イーブイちゃんは パソコンに おくったわ。$"
 
 Route_2_2_Text_BreederNoMoney:
-	.string "Oh dear, you're a little short.\p"
-	.string "Come back when you've saved up\n"
-	.string "10,000.$"
+	.string "{JPN}あらあら すこし たりないわね。\p"
+	.string "10000円 たまったら\n"
+	.string "また きてね。$"
 
 Route_2_2_Text_BreederNoRoom:
-	.string "Goodness, you've no room for it,\n"
-	.string "not even in your PC!\p"
-	.string "Here's your money back. Do come\n"
-	.string "again, dear.$"
+	.string "{JPN}まあ てもちにも パソコンにも\n"
+	.string "あきが ないじゃないの！\p"
+	.string "おかねは おかえしするわ。 また\n"
+	.string "きてちょうだいね。$"
 
 Route_2_2_Text_BreederDecline:
-	.string "No? That's quite all right.\p"
-	.string "An EEVEE should only go to someone\n"
-	.string "who truly wants one.$"
+	.string "{JPN}いらない？ ぜんぜん かまわないわ。\p"
+	.string "イーブイは ほんとうに ほしい ひとの\n"
+	.string "ところへ いくべき だもの。$"
 
 Route_2_2_Text_BreederAfter:
-	.string "How is your little EEVEE getting on?\p"
-	.string "Keep that coat brushed and it'll\n"
-	.string "shine like a star!$"
+	.string "{JPN}イーブイちゃんは げんき？\p"
+	.string "けなみを ととのえて おけば\n"
+	.string "ほしみたいに かがやくわよ！$"
 
 Route_2_2_Text_Misdreavus:
-	.string "MISDREAVUS: Misss…\p"
-	.string "It giggles, drifts closer, then\n"
-	.string "darts away into the mist.$"
+	.string "{JPN}ムウマ: ムゥゥ…\p"
+	.string "くすくす わらって ちかよってきたかと おもうと\n"
+	.string "きりの なかへ さっと きえていった。$"
 
 Route_2_2_Text_Haunter:
-	.string "A HAUNTER hovers over the graves,\n"
-	.string "watching you with a wide grin.$"
+	.string "{JPN}ゴーストが はかの うえに うかび\n"
+	.string "にたにた わらいながら こちらを みている。$"
 
 Route_2_2_Text_Gastly:
-	.string "A GASTLY swirls past in a cloud of\n"
-	.string "purple haze. A chill runs through\l"
-	.string "you.$"
+	.string "{JPN}ゴースが むらさきの もやを まといながら\n"
+	.string "すぎていった。 せすじが\l"
+	.string "ぞくっとした。$"
 
 Route_2_2_Text_Duskull:
-	.string "DUSKULL floats silently among the\n"
-	.string "headstones, as if standing guard.$"
+	.string "{JPN}ヨマワルが はかいしの あいだに\n"
+	.string "みはりの ように しずかに うかんでいる。$"
 
 Route_2_2_Text_PetMarill:
-	.string "A MARILL bounces happily along the\n"
-	.string "water's edge.$"
+	.string "{JPN}マリルが みずぎわを たのしそうに\n"
+	.string "はねている。$"
 
 Route_2_2_Text_Gible:
-	.string "A GIBLE frolics through the tall\n"
-	.string "weeds, snapping playfully at\l"
-	.string "drifting petals.$"
+	.string "{JPN}フカマルが たかい くさの なかを はしりまわり\n"
+	.string "まいおちる はなびらに\l"
+	.string "じゃれついている。$"
 
 Route_2_2_Text_PetEevee:
-	.string "An EEVEE rolls in the warm sand,\n"
-	.string "then blinks up at you.$"
+	.string "{JPN}イーブイが あたたかい すなの うえを ころがり\n"
+	.string "こちらを みあげて まばたきした。$"
 
 Route_2_2_Text_Wingull:
-	.string "A WINGULL wheels overhead, riding\n"
-	.string "the sea breeze.$"
+	.string "{JPN}キャモメが うみかぜに のって\n"
+	.string "あたまの うえを まわっている。$"
 
 Route_2_2_Text_Sandile:
-	.string "A SANDILE lazes in the warm sand,\n"
-	.string "eyes just above the surface.$"
+	.string "{JPN}メグロコが あたたかい すなに うもれて\n"
+	.string "めだけを だして のんびりしている。$"
 
 @ ===========================================================================
 @ Added beachgoer trainers (Eddie, Finn) + Metal Coat trade NPC
@@ -668,58 +668,58 @@ Route_2_2_EventScript_MetalCoatDone::
 	end
 
 Route_2_2_Text_EddieIntro:
-	.string "I built the biggest sandcastle ever\n"
-	.string "and something MOVED into it!$"
+	.string "{JPN}せかいいち おおきな すなのしろを つくったら\n"
+	.string "なにかが すみついちゃった！$"
 
 Route_2_2_Text_EddieDefeat:
-	.string "Aww, my sandcastle crew lost!$"
+	.string "{JPN}あーあ すなのしろチームが まけちゃった！$"
 
 Route_2_2_Text_EddiePost:
-	.string "My SANDYGAST guards this beach.\n"
-	.string "Careful it doesn't pull you in!$"
+	.string "{JPN}ぼくの スナバァが この はまを まもってるんだ。\n"
+	.string "ひきずりこまれないように きを つけてね！$"
 
 Route_2_2_Text_FinnIntro:
-	.string "The tide pools out here hide all\n"
-	.string "sorts of strange creatures!$"
+	.string "{JPN}この あたりの いそだまりには\n"
+	.string "ふしぎな いきものが かくれてるんだ！$"
 
 Route_2_2_Text_FinnDefeat:
-	.string "You really know your sea life!$"
+	.string "{JPN}うみの いきものに くわしいんだね！$"
 
 Route_2_2_Text_FinnPost:
-	.string "A MAREANIE hides where you least\n"
-	.string "expect it. Watch your step!$"
+	.string "{JPN}ヒドイデは おもいがけない ところに\n"
+	.string "かくれてるよ。 あしもとに きを つけて！$"
 
 Route_2_2_Text_MetalCoatIntro:
-	.string "Check it out - I dug a shiny\n"
-	.string "METAL COAT out of the sand!\p"
-	.string "They say a SCYTHER changes when\n"
-	.string "it holds one... I'd love to see it.\p"
-	.string "Got a SCYTHER you'd part with?\n"
-	.string "I'll give you a little buddy for it!$"
+	.string "{JPN}みてよ すなの なかから ぴかぴかの\n"
+	.string "メタルコートを ほりだしたんだ！\p"
+	.string "ストライクに もたせると すがたが かわるって\n"
+	.string "いうんだ… みてみたいなあ。\p"
+	.string "ストライクを ゆずって くれない？\n"
+	.string "かわりに ちいさな あいぼうを あげるよ！$"
 
 Route_2_2_Text_MetalCoatDeclineMsg:
-	.string "No? That's okay. Come back if you\n"
-	.string "change your mind!$"
+	.string "{JPN}だめ？ いいよ。 きが かわったら\n"
+	.string "また きてね！$"
 
 Route_2_2_Text_MetalCoatNoScyther:
-	.string "Hmm, no SCYTHER on you right now.\n"
-	.string "Come find me when you've got one!$"
+	.string "{JPN}うーん いまは ストライクを もってないね。\n"
+	.string "つれてきたら おしえて！$"
 
 Route_2_2_Text_MetalCoatThanks:
-	.string "Whoa, a real SCYTHER! Incredible!\p"
-	.string "Here, take this little one as my\n"
-	.string "thanks - it's a surprise who!\p"
-	.string "You received a {STR_VAR_1}!$"
+	.string "{JPN}うわあ ほんものの ストライク！ すごい！\p"
+	.string "はい おれいに この こを あげる。\n"
+	.string "だれかは おたのしみ！\p"
+	.string "{ENG}{STR_VAR_1}{JPN}を もらった！$"
 
 Route_2_2_Text_MetalCoatNoRoom:
-	.string "Whoa, whoa - your party and boxes\n"
-	.string "are stuffed full!\p"
-	.string "Make room for my thank-you gift,\n"
-	.string "then come find me again.$"
+	.string "{JPN}わわっ てもちも ボックスも\n"
+	.string "ぎっしり いっぱいだよ！\p"
+	.string "おれいの プレゼントが はいる あきを つくって\n"
+	.string "また きてね。$"
 
 Route_2_2_Text_MetalCoatAfter:
-	.string "That SCYTHER and my METAL COAT\n"
-	.string "are gonna be great pals. Thanks!$"
+	.string "{JPN}あの ストライクと メタルコート\n"
+	.string "いい なかまに なるよ。 ありがとう！$"
 
 @ ===========================================================================
 @ Cut tutor - gives HM01 (Cut) and points to the Walnut Woods shortcut
@@ -746,21 +746,21 @@ Route_2_2_EventScript_CutTutorAfter::
 	end
 
 Route_2_2_Text_CutTutorIntro:
-	.string "Off to WALNUT WOODS? There's a\n"
-	.string "shortcut nearby, but a big tree\l"
-	.string "blocks the way.\p"
-	.string "Here - take this!$"
+	.string "{JPN}クルミのもりへ いくの？ ちかくに\n"
+	.string "ちかみちが あるけど おおきな きが\l"
+	.string "みちを ふさいでるんだ。\p"
+	.string "ほら これを あげる！$"
 
 Route_2_2_Text_CutTutorShortcut:
-	.string "Teach CUT to one of your team,\n"
-	.string "then slice that tree down.\p"
-	.string "It's a quick shortcut straight\n"
-	.string "back to WALNUT WOODS. Give it a\l"
-	.string "try!$"
+	.string "{JPN}てもちの だれかに いあいぎりを おぼえさせて\n"
+	.string "あの きを きりたおすと いい。\p"
+	.string "クルミのもりへ まっすぐ もどれる\n"
+	.string "ちかみちだよ。 ためして\l"
+	.string "みてね！$"
 
 Route_2_2_Text_CutTutorAfter:
-	.string "Cut that tree down for a quick\n"
-	.string "shortcut to WALNUT WOODS.$"
+	.string "{JPN}あの きを きりたおせば クルミのもりへの\n"
+	.string "ちかみちに なるよ。$"
 
 @ ===========================================================================
 @ Trail signs - the north path out of the park climbs to Mount Munen
@@ -774,13 +774,13 @@ Route_2_2_EventScript_MountMunenSign2::
 	end
 
 Route_2_2_Text_MountMunenSign1:
-	.string "NATIONAL PARK TRAILHEAD\p"
-	.string "{UP_ARROW} NORTH: MOUNT MUNEN\n"
-	.string "Steep path. Dress warm.$"
+	.string "{JPN}しぜんこうえん とざんぐち\p"
+	.string "{UP_ARROW} きた: ムネンやま\n"
+	.string "けわしい みち。 あたたかい ふくそうで。$"
 
 Route_2_2_Text_MountMunenSign2:
-	.string "{UP_ARROW} NORTH: MOUNT MUNEN\n"
-	.string "MUNEN VILLAGE via the mountain trail$"
+	.string "{JPN}{UP_ARROW} きた: ムネンやま\n"
+	.string "やまみち けいゆで ムネンむら$"
 
 @ ===========================================================================
 @ Gravesite - foreshadows the summit now; hidden Prof. Clarkson note after flag
@@ -798,22 +798,22 @@ Route_2_2_EventScript_GravesiteSecret::
 	end
 
 Route_2_2_Text_Gravesite:
-	.string "A solemn grave marker faces the\n"
-	.string "distant summit.\p"
-	.string "'For those who climb and do not\n"
-	.string "return. The mountain\l"
-	.string "remembers.'\p"
-	.string "A cold wind drifts down from the\n"
-	.string "peak.$"
+	.string "{JPN}おごそかな はかいしが\n"
+	.string "とおくの さんちょうを むいている。\p"
+	.string "「のぼりて かえらぬ ものたちへ。\n"
+	.string "やまは\l"
+	.string "おぼえている」\p"
+	.string "つめたい かぜが いただきから\n"
+	.string "ふきおろしてくる。$"
 
 Route_2_2_Text_GravesiteClarkson:
-	.string "A note is wedged behind the\n"
-	.string "marker, freshly folded.\p"
-	.string "'If you're reading this, I made\n"
-	.string "it down alive.\p"
-	.string "Don't trust what you saw at the\n"
-	.string "summit. Keep climbing.\p"
-	.string "- Prof. Clarkson'$"
+	.string "{JPN}はかいしの うしろに たたんだばかりの\n"
+	.string "メモが はさまっている。\p"
+	.string "「これを よんでいるなら わしは\n"
+	.string "いきて おりられたと いうことだ。\p"
+	.string "さんちょうで みたものを しんじるな。\n"
+	.string "のぼりつづけろ。\p"
+	.string "ー クラークソンはかせ」$"
 
 Route_2_2_Movement_CamReturn:         @ ghosts (47,19) -> player spawn  (west 18, south 47)
 	walk_faster_left

@@ -182,7 +182,7 @@ SennenVillage_EventScript_LineSign::
 	end
 
 SennenVillage_Text_LineSign:
-	.string "SENNEN LINE\p"
-	.string "Northbound: SENNEN -> SHIN-TOKYO\p"
-	.string "NOTICE: the SHINKANSEN bullet train\n"
-	.string "is CLOSED until further notice.$"
+	.string "{JPN}センネンせん\p"
+	.string "のぼり: センネン から シントウキョウ\p"
+	.string "おしらせ: しんかんせんは\n"
+	.string "とうぶんの あいだ うんきゅう します。$"

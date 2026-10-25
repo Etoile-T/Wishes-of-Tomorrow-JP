@@ -66,7 +66,7 @@ MunenLake_EventScript_Cameraman::
 	end
 
 MunenLake_Text_Cameraman:
-	.string "{JPN}しーっ！ しずかに しろ ぼうず。\p"
+	.string "{JPN}しーっ！ しずかに しな。\p"
 	.string "うわさじゃ この こおった みずうみの\n"
 	.string "したに でかい あかい けものが ねむってる。\p"
 	.string "そいつが こおりを つきやぶった しゅんかん\n"

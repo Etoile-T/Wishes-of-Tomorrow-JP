@@ -149,83 +149,83 @@ Torii_Movement_RivalRunUp:
 @ TEXT
 @==============================================================================
 Torii_Text_OracleIntro:
-	.string "Turn back, child of the valley…\p"
-	.string "The mountain is no place for the\n"
-	.string "living. The dead walk its slopes.\p"
-	.string "I am THE ORACLE, and I will not\n"
-	.string "let you pass to your doom!$"
+	.string "{JPN}ひきかえせ たにの こよ…\p"
+	.string "やまは いきている ものの\n"
+	.string "ばしょでは ない。 しにびとが さかを あるく。\p"
+	.string "わたしは よげんしゃ。 おまえを\n"
+	.string "はめつへ すすませは しない！$"
 
 Torii_Text_OracleDefeat:
-	.string "…So. The thread of your fate is\n"
-	.string "stronger than I foresaw.$"
+	.string "{JPN}…そうか。 おまえの うんめいの いとは\n"
+	.string "わたしの みたてより つよかったか。$"
 
 Torii_Text_OracleNotEnough:
-	.string "You need two POKéMON to face what\n"
-	.string "waits above…$"
+	.string "{JPN}うえで まつ ものに たちむかうには\n"
+	.string "ポケモンが 2ひき ひつようだ…$"
 
 Torii_Text_OraclePost:
-	.string "Go, then. But heed my warning…\n"
-	.string "what sleeps above does not forgive.$"
+	.string "{JPN}では ゆけ。 だが きいておけ…\n"
+	.string "うえで ねむる ものは ゆるしは しない。$"
 
 Torii_Text_OracleMan:
-	.string "The ORACLE sees what others cannot.\p"
-	.string "If she tells you to turn back…\n"
-	.string "you should listen, friend.$"
+	.string "{JPN}よげんしゃさまには ひとに みえない\nものが みえる。\p"
+	.string "あの かたが ひきかえせと いうなら…\n"
+	.string "きいたほうが いいぞ。$"
 
 Torii_Text_OracleManConfused:
-	.string "Who's the ORACLE?\p"
-	.string "I think you're imagining things,\n"
-	.string "kid.$"
+	.string "{JPN}よげんしゃ？ だれだ それ？\p"
+	.string "きみ\n"
+	.string "きの せいじゃ ないか？$"
 
 Torii_Text_HikerIntro:
-	.string "This trail's all grass and thorns!\n"
-	.string "Let's see you push through ME!$"
+	.string "{JPN}この みちは くさと いばらだらけだ！\n"
+	.string "おれを つきぬけて みろ！$"
 
 Torii_Text_HikerDefeat:
-	.string "Argh! Tangled up and taken down!$"
+	.string "{JPN}ぐわっ！ からまって たおされた！$"
 
 Torii_Text_HikerPost:
-	.string "Mind the wild POKéMON in the\n"
-	.string "brush, they bite.$"
+	.string "{JPN}しげみの やせいの ポケモンに\n"
+	.string "きを つけろ。 かみつくぞ。$"
 
 Torii_Text_BlackbeltIntro:
-	.string "Only the strong climb this mountain!\n"
-	.string "Prove your fists, challenger!$"
+	.string "{JPN}この やまを のぼれるのは つよい ものだけ！\n"
+	.string "こぶしで しめして みよ ちょうせんしゃ！$"
 
 Torii_Text_BlackbeltDefeat:
-	.string "Hmph! Your spirit is… formidable.$"
+	.string "{JPN}むう！ その きはく… みごとだ。$"
 
 Torii_Text_BlackbeltPost:
-	.string "Train your body AND your POKéMON.\n"
-	.string "The summit tests both.$"
+	.string "{JPN}からだも ポケモンも きたえよ。\n"
+	.string "さんちょうは その りょうほうを ためす。$"
 
 Torii_Text_BlackbeltHealOffer:
-	.string "You've got real fight in you.\p"
-	.string "The summit ahead is brutal, though.\n"
-	.string "Want me to patch up your team?$"
+	.string "{JPN}ほんものの とうしが あるな。\p"
+	.string "だが この さきの さんちょうは きびしいぞ。\n"
+	.string "てもちを かいふく してやろうか？$"
 
 Torii_Text_BlackbeltGoodLuck:
-	.string "There, good as new.\n"
-	.string "Good luck up there, challenger!$"
+	.string "{JPN}よし げんきに なったぞ。\n"
+	.string "うえでも がんばれよ ちょうせんしゃ！$"
 
 Torii_Text_BlackbeltDecline:
-	.string "Suit yourself.\n"
-	.string "Stay sharp up there.$"
+	.string "{JPN}すきに しろ。\n"
+	.string "うえでは ゆだんするなよ。$"
 
 Torii_Text_RivalTaunt:
-	.string "DRACO: Heh. Knew I'd find you\n"
-	.string "crawling up here.\p"
-	.string "You really think YOU get to reach\n"
-	.string "the top? Pathetic.\p"
-	.string "Let me show you how far apart we\n"
-	.string "really are!$"
+	.string "{JPN}ドラコ: へっ。 ここを はいずり\n"
+	.string "のぼってると おもったぜ。\p"
+	.string "おまえなんかが てっぺんに\n"
+	.string "たどりつけると おもってんのか？ なさけねえ。\p"
+	.string "おれたちの さが どれだけ あるか\n"
+	.string "おしえてやるよ！$"
 
 Torii_Text_RivalDefeat:
-	.string "DRACO:…Tch. Lucky. That's all\n"
-	.string "that was.$"
+	.string "{JPN}ドラコ: …ちっ。 まぐれだ。 ただの\n"
+	.string "まぐれだよ。$"
 
 Torii_Text_RivalRunoff:
-	.string "DRACO: Don't get comfortable.\n"
-	.string "The summit is MINE.\p"
-	.string "I'll be waiting up there, and next\n"
-	.string "time, I won't go easy.$"
+	.string "{JPN}ドラコ: ちょうしに のるなよ。\n"
+	.string "さんちょうは おれの ものだ。\p"
+	.string "うえで まってるぜ。 つぎは\n"
+	.string "てかげん しねえからな。$"

@@ -40,14 +40,14 @@ NewMapShop_EventScript_Shopper::
 @  Text
 @ ============================================================================
 NewMapShop_Text_Greeting::
-	.string "Welcome!\p"
-	.string "What can I get ya, darling?$"
+	.string "{JPN}いらっしゃい！\p"
+	.string "なにに する？ かわいこちゃん。$"
 
 NewMapShop_Text_Farewell::
-	.string "Come back down in one piece, eh?$"
+	.string "{JPN}ぶじに おりて くるんだよ？$"
 
 NewMapShop_Text_Shopper::
-	.string "I'd grab an ESCAPE ROPE\n"
-	.string "if I were you.\l"
-	.string "It'll save ya if ya find yourself\n"
-	.string "caught in a pickle!$"
+	.string "{JPN}わたしなら あなぬけのヒモを\n"
+	.string "かっておくね。\l"
+	.string "こまった ときに\n"
+	.string "たすけて くれるよ！$"

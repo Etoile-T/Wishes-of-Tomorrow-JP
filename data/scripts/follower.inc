@@ -1,14 +1,14 @@
 gText_FollowerLovesYou::
-	.string "{STR_VAR_1} is regarding you with\nadoration!$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたを\nうっとりと みつめている！$"
 
 gText_FollowerLostInThought::
-	.string "{STR_VAR_1} seems lost in thought.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は\nなにか かんがえごとを しているようだ。$"
 
 gText_FollowerDefault::
 	.string "ERROR 404: Script not found.$"
 
 gText_WantsToFly::
-	.string "{STR_VAR_1} looks up at the\nsky restlessly.\pWould you like to use FLY?$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は おちつかない ようすで\nそらを みあげている。\pそらをとぶを つかいますか？$"
 
 @ Pokémon Wishes of Tomorrow: attach this to a map's MAP_SCRIPT_ON_TRANSITION to
 @ hide the Pokémon follower on that specific map, e.g. in a map's *_MapScripts::

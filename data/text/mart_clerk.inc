@@ -1,10 +1,10 @@
 gText_HowMayIServeYou::
-	.string "Welcome!\p"
-	.string "How may I serve you?$"
+	.string "{JPN}いらっしゃいませ！\p"
+	.string "なにを おもとめ ですか？$"
 
 gText_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "{JPN}まいど ありがとう ございました！$"
 
 gText_PlayerWhatCanIDoForYou::
-	.string "{PLAYER}{STRING 5}, welcome!\p"
-	.string "What can I do for you?$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}{ENG}{STRING 5}{JPN} いらっしゃいませ！\p"
+	.string "なにに いたしましょう？$"

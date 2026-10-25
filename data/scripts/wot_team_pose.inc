@@ -19,5 +19,5 @@ EventScript_WotTeamPoseNoRoom:
 	end
 
 Text_WotTeamPoseNoRoom:
-	.string "There isn't enough room here\n"
-	.string "for your team to pose.$"
+	.string "{JPN}ここには てもちの みんなが\n"
+	.string "ならべる スペースが ない。$"

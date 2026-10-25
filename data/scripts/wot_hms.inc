@@ -146,61 +146,61 @@ WotHMs_EventScript_Close::
 
 @ --- menu entries ----------------------------------------------------------
 WotHMs_Text_Cut::
-	.string "CUT$"
+	.string "{JPN}いあいぎり$"
 
 WotHMs_Text_Flash::
-	.string "FLASH$"
+	.string "{JPN}フラッシュ$"
 
 WotHMs_Text_RockSmash::
-	.string "ROCK SMASH$"
+	.string "{JPN}いわくだき$"
 
 WotHMs_Text_Strength::
-	.string "STRENGTH$"
+	.string "{JPN}かいりき$"
 
 WotHMs_Text_Surf::
-	.string "SURF$"
+	.string "{JPN}なみのり$"
 
 WotHMs_Text_Fly::
-	.string "FLY$"
+	.string "{JPN}そらをとぶ$"
 
 WotHMs_Text_Dive::
-	.string "DIVE$"
+	.string "{JPN}ダイビング$"
 
 WotHMs_Text_Waterfall::
-	.string "WATERFALL$"
+	.string "{JPN}たきのぼり$"
 
 WotHMs_Text_Cancel::
-	.string "CANCEL$"
+	.string "{JPN}やめる$"
 
 @ --- descriptions ----------------------------------------------------------
 WotHMs_Text_InfoCut::
-	.string "CUT: step up to a thin tree\n"
-	.string "and it comes down.$"
+	.string "{JPN}いあいぎり: ほそい きに ちかづくと\n"
+	.string "きりたおせる。$"
 
 WotHMs_Text_InfoFlash::
-	.string "FLASH: dark caves light\n"
-	.string "themselves as you enter.$"
+	.string "{JPN}フラッシュ: くらい どうくつに はいると\n"
+	.string "あかるく なる。$"
 
 WotHMs_Text_InfoRockSmash::
-	.string "ROCK SMASH: walk into a\n"
-	.string "cracked rock to break it.$"
+	.string "{JPN}いわくだき: ひびの はいった いわに\n"
+	.string "あるいて ぶつかると くだける。$"
 
 WotHMs_Text_InfoStrength::
-	.string "STRENGTH: push boulders\n"
-	.string "wherever you meet them.$"
+	.string "{JPN}かいりき: どこで であっても\n"
+	.string "おおきな いわを おせる。$"
 
 WotHMs_Text_InfoSurf::
-	.string "SURF: step to the water's\n"
-	.string "edge and ride out.$"
+	.string "{JPN}なみのり: みずべに ちかづくと\n"
+	.string "のりだせる。$"
 
 WotHMs_Text_InfoDive::
-	.string "DIVE: use it on deep water\n"
-	.string "to go under.$"
+	.string "{JPN}ダイビング: ふかい みずの うえで つかうと\n"
+	.string "もぐれる。$"
 
 WotHMs_Text_InfoWaterfall::
-	.string "WATERFALL: ride straight up\n"
-	.string "the falls.$"
+	.string "{JPN}たきのぼり: たきを まっすぐ\n"
+	.string "のぼれる。$"
 
 WotHMs_Text_None::
-	.string "No field moves unlocked yet.\p"
-	.string "Badges awaken them.$"
+	.string "{JPN}まだ つかえる ひでんわざは ない。\p"
+	.string "バッジが その ちからを めざめさせる。$"

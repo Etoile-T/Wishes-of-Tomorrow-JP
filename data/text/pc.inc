@@ -1,20 +1,20 @@
 Text_BootUpPC:
-	.string "{PLAYER} booted up the PC.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は パソコンの スイッチを いれた！$"
 
 gText_WhichPCShouldBeAccessed::
-	.string "Which PC should be accessed?$"
+	.string "{JPN}どの パソコンに アクセスしますか？$"
 
 gText_AccessedSomeonesPC::
-	.string "Accessed SOMEONE'S PC.$"
+	.string "{JPN}だれかさんの パソコンに アクセスした。$"
 
 gText_StorageSystemOpened::
-	.string "POKéMON Storage System opened.$"
+	.string "{JPN}ポケモン あずかりシステムを よびだした。$"
 
 gText_AccessedPlayersPC::
-	.string "Accessed {PLAYER}'s PC.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}の パソコンに アクセスした。$"
 
 gText_AccessedLanettesPC::
-	.string "Accessed LANETTE's PC.$"
+	.string "{JPN}マユミの パソコンに アクセスした。$"
 
 gText_AccessedBillsPC::
-	.string "Accessed BILL's PC.$"
+	.string "{JPN}マサキの パソコンに アクセスした。$"

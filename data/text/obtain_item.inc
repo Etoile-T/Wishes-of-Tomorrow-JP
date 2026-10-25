@@ -1,57 +1,57 @@
 gText_ObtainedTheItem::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}を てにいれた！$"
 
 gText_TheBagIsFull::
-	.string "The BAG is full…$"
+	.string "{JPN}バッグが いっぱいだ…$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3} POCKET.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_2}{JPN}を\n"
+	.string "{ENG}{STR_VAR_3}{JPN}ポケットに しまった。$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_2}{JPN}を みつけた！$"
 
 gText_TooBadBagIsFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "{JPN}ざんねん！\n"
+	.string "バッグが いっぱいだ…$"
 
 gText_PlayerPutItemInBag::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the BAG.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_2}{JPN}を\n"
+	.string "バッグに しまった。$"
 
 gText_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}を てにいれた！$"
 
 gText_NoRoomLeftForAnother::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+	.string "{JPN}ざんねん！ これいじょう\n"
+	.string "{ENG}{STR_VAR_2}{JPN}を おく ばしょが ない…$"
 
 gText_TheDecorWasTransferredToThePC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}は\n"
+	.string "パソコンに おくられた。$"
 
 gText_ObtainedTheItems::
-	.string "Obtained {STR_VAR_1} {STR_VAR_2}!$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}を {ENG}{STR_VAR_1}{JPN}こ てにいれた！$"
 
 gText_PlayerFoundItems::
-	.string "{PLAYER} found {STR_VAR_1} {STR_VAR_2}!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n{ENG}{STR_VAR_2}{JPN}を {ENG}{STR_VAR_1}{JPN}こ みつけた！$"
 
 gText_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} put the COINS away in\n"
-	.string "the COIN CASE.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は コインを\n"
+	.string "コインケースに しまった。$"
 
 gText_FoundXCoins::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n"
+	.string "{ENG}{STR_VAR_2}{JPN}を {ENG}{STR_VAR_1}{JPN}まい みつけた！$"
 
 gText_FoundXItems::
-	.string "{PLAYER} found\n"
-	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n"
+	.string "{ENG}{STR_VAR_2}{JPN}を {ENG}{STR_VAR_1}{JPN}こ みつけた！$"
 
 gText_CoinCaseIsFull::
-	.string "Too bad!\n"
-	.string "The COIN CASE is full…$"
+	.string "{JPN}ざんねん！\n"
+	.string "コインケースが いっぱいだ…$"
 
 gText_NothingToPutThemIn::
-	.string "Too bad!\n"
-	.string "There's nothing to put them in…$"
+	.string "{JPN}ざんねん！\n"
+	.string "いれる ものが ない…$"

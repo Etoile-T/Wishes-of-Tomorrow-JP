@@ -21,9 +21,9 @@ EventScript_CantUseSurfYet::
 	end
 
 EventScript_Text_CantSurfYet::
-	.string "The water is deep and fast.\p"
-	.string "No badge you carry gives you\n"
-	.string "the right to cross it yet.$"
+	.string "{JPN}みずは ふかく ながれも はやい。\p"
+	.string "いま もっている バッジでは\n"
+	.string "まだ ここを わたる ことは ゆるされない。$"
 
 EventScript_CurrentTooFast::
 	lockall

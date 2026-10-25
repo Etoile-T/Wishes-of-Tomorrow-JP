@@ -1,51 +1,51 @@
 gText_WouldYouLikeToRestYourPkmn::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to rest your POKéMON?$"
+	.string "{JPN}ようこそ！\n"
+	.string "ポケモンセンターへ\p"
+	.string "ここでは ポケモンの たいりょくを\n"
+	.string "かいふく いたします\p"
+	.string "あなたの ポケモンを やすませて あげますか？$"
 
 gText_IllTakeYourPkmn::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "{JPN}では ポケモンを\n"
+	.string "おあずかり します！$"
 
 gText_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\p"
-	.string "We've restored your POKéMON\n"
-	.string "to full health.$"
+	.string "{JPN}おまちどうさまでした！\p"
+	.string "おあずかりした ポケモンは\n"
+	.string "みんな げんきに なりましたよ！$"
 
 gText_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "{JPN}また どうぞ！$"
 
 gText_WelcomeCutShort::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to…$"
+	.string "{JPN}ようこそ！\n"
+	.string "ポケモンセンターへ\p"
+	.string "ここでは ポケモンの たいりょくを\n"
+	.string "かいふく いたします\p"
+	.string "あなたの ポケモンを…$"
 
 gText_NoticesGoldCard::
-	.string "Th-that card…\n"
-	.string "Could it be… The GOLD CARD?!\p"
-	.string "Oh, the gold color is brilliant!\n"
-	.string "The four stars seem to sparkle!\p"
-	.string "I've seen several TRAINERS with\n"
-	.string "a SILVER CARD before, but, {PLAYER},\l"
-	.string "you're the first TRAINER I've ever\l"
-	.string "seen with a GOLD CARD!\p"
-	.string "Okay, {PLAYER}, please allow me\n"
-	.string "the honor of resting your POKéMON!$"
+	.string "{JPN}そ そのカードは…\n"
+	.string "もしかして ゴールドカード！？\p"
+	.string "まあ！ なんて すてきな きんいろ！\n"
+	.string "4つの ほしが かがやいて いますね！\p"
+	.string "シルバーカードを もった トレーナーさんは\n"
+	.string "なんにんか みましたけど {ENG}{PLAYER}{JPN}さんが\l"
+	.string "ゴールドカードを もった\l"
+	.string "はじめての トレーナーさんです！\p"
+	.string "{ENG}{PLAYER}{JPN}さん ぜひ わたしに\n"
+	.string "ポケモンを やすませ させてください！$"
 
 gText_YouWantTheUsual::
-	.string "I'm delighted to see you, {PLAYER}!\n"
-	.string "You want the usual, am I right?$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}さん ようこそ！\n"
+	.string "いつもの ですね？$"
 
 gText_IllTakeYourPkmn2::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "{JPN}では ポケモンを\n"
+	.string "おあずかり します！$"
 
 gText_ThankYouForWaiting::
-	.string "Thank you for waiting.$"
+	.string "{JPN}おまちどうさまでした！$"
 
 gText_WeHopeToSeeYouAgain2::
-	.string "We hope to see you again!$"
+	.string "{JPN}また どうぞ！$"

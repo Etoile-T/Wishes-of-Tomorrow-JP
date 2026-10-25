@@ -20,6 +20,10 @@ class CatalogTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             c.validate(row, {' '})
 
+    def test_logo_glyphs_may_be_spelled_out(self):
+        # {PKMN}/{POKEBLOCK} are Latin logo glyphs, not controls.
+        c.validate(dict(id='x', source='{PKMN} TRAINER', translation='{JPN}ポケモントレーナー{ENG}'), set('ポケモントレーナー'))
+
     def test_unmapped_kanji_refused(self):
         with self.assertRaisesRegex(ValueError, 'unmapped'):
             c.validate(dict(id='x', source='Hi', translation='{JPN}願い'), {'い'})

@@ -4867,9 +4867,13 @@
     "end": 11991,
     "raw": "\"{PKMN} TRAINER\"",
     "source": "{PKMN} TRAINER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモントレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0558ce1ffa81094c",
@@ -4879,9 +4883,13 @@
     "end": 12053,
     "raw": "\"{PKMN} TRAINER\"",
     "source": "{PKMN} TRAINER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモントレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e2ed901cb9492944",
@@ -4891,9 +4899,13 @@
     "end": 12097,
     "raw": "\"HIKER\"",
     "source": "HIKER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やまおとこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "94efc4a2a4bc17c6",
@@ -4903,9 +4915,13 @@
     "end": 12215,
     "raw": "\"TEAM AQUA\"",
     "source": "TEAM AQUA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アクアだん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "654f29a9be2afc4b",
@@ -4915,9 +4931,13 @@
     "end": 12275,
     "raw": "\"{PKMN} BREEDER\"",
     "source": "{PKMN} BREEDER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンブリーダー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c1e93f227b93a31",
@@ -4927,9 +4947,13 @@
     "end": 12398,
     "raw": "\"COOLTRAINER\"",
     "source": "COOLTRAINER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}エリートトレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "21fce1154d2e97c3",
@@ -4939,9 +4963,13 @@
     "end": 12470,
     "raw": "\"BIRD KEEPER\"",
     "source": "BIRD KEEPER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}とりつかい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9500fbde03bdda1d",
@@ -4951,9 +4979,13 @@
     "end": 12525,
     "raw": "\"COLLECTOR\"",
     "source": "COLLECTOR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コレクター{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "63d1e5fd22d3c4f5",
@@ -4963,9 +4995,13 @@
     "end": 12594,
     "raw": "\"SWIMMER♂\"",
     "source": "SWIMMER♂",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かいパンやろう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "35c55475b38196ed",
@@ -4975,9 +5011,13 @@
     "end": 12662,
     "raw": "\"TEAM MAGMA\"",
     "source": "TEAM MAGMA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マグマだん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "96da854cf2cd15a2",
@@ -4987,9 +5027,13 @@
     "end": 12708,
     "raw": "\"EXPERT\"",
     "source": "EXPERT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たつじん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "128da3bba4403989",
@@ -4999,9 +5043,13 @@
     "end": 12766,
     "raw": "\"AQUA ADMIN\"",
     "source": "AQUA ADMIN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アクアだんかんぶ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29531057d708b717",
@@ -5011,9 +5059,13 @@
     "end": 12824,
     "raw": "\"BLACK BELT\"",
     "source": "BLACK BELT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}からておう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ac14a83a05415371",
@@ -5023,9 +5075,13 @@
     "end": 12895,
     "raw": "\"AQUA LEADER\"",
     "source": "AQUA LEADER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アクアだんリーダー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ad2b611dbd4b7f80",
@@ -5035,9 +5091,13 @@
     "end": 12966,
     "raw": "\"HEX MANIAC\"",
     "source": "HEX MANIAC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オカルトマニア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1e0256b2a65de724",
@@ -5047,9 +5107,13 @@
     "end": 13023,
     "raw": "\"AROMA LADY\"",
     "source": "AROMA LADY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アロマなおねえさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1b15d2514c70c92e",
@@ -5059,9 +5123,13 @@
     "end": 13083,
     "raw": "\"RUIN MANIAC\"",
     "source": "RUIN MANIAC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いせきマニア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f3c408efda24c52",
@@ -5071,9 +5139,13 @@
     "end": 13143,
     "raw": "\"INTERVIEWER\"",
     "source": "INTERVIEWER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}インタビュアー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e27637d25abec5f",
@@ -5083,9 +5155,13 @@
     "end": 13193,
     "raw": "\"TUBER\"",
     "source": "TUBER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}うきわガール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c4daa8aef701633",
@@ -5095,9 +5171,13 @@
     "end": 13242,
     "raw": "\"TUBER\"",
     "source": "TUBER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}うきわボーイ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc2e15b369f92eb4",
@@ -5107,9 +5187,13 @@
     "end": 13287,
     "raw": "\"LADY\"",
     "source": "LADY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おじょうさま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "42fc3a363cbc2510",
@@ -5119,9 +5203,13 @@
     "end": 13337,
     "raw": "\"BEAUTY\"",
     "source": "BEAUTY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おとなのおねえさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "507332ba55bbed95",
@@ -5131,9 +5219,13 @@
     "end": 13453,
     "raw": "\"RICH BOY\"",
     "source": "RICH BOY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おぼっちゃま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95e9a006516e30c2",
@@ -5143,9 +5235,13 @@
     "end": 13511,
     "raw": "\"POKéMANIAC\"",
     "source": "POKéMANIAC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンマニア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05777e7070696a04",
@@ -5155,9 +5251,13 @@
     "end": 13567,
     "raw": "\"GUITARIST\"",
     "source": "GUITARIST",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ギタリスト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "966953290635086f",
@@ -5167,9 +5267,13 @@
     "end": 13618,
     "raw": "\"KINDLER\"",
     "source": "KINDLER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ひふきやろう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d5efb35ca996ec8",
@@ -5179,9 +5283,13 @@
     "end": 13667,
     "raw": "\"CAMPER\"",
     "source": "CAMPER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}キャンプボーイ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77fd0f12a695f600",
@@ -5191,9 +5299,13 @@
     "end": 13722,
     "raw": "\"PICNICKER\"",
     "source": "PICNICKER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピクニックガール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "64c1cdb16ab9947f",
@@ -5203,9 +5315,13 @@
     "end": 13779,
     "raw": "\"BUG MANIAC\"",
     "source": "BUG MANIAC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}むしマニア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "51515c8527f5430a",
@@ -5215,9 +5331,13 @@
     "end": 13831,
     "raw": "\"PSYCHIC\"",
     "source": "PSYCHIC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サイキッカー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e6f7e531332397cb",
@@ -5227,9 +5347,13 @@
     "end": 13886,
     "raw": "\"GENTLEMAN\"",
     "source": "GENTLEMAN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジェントルマン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c80e73bb9fed4219",
@@ -5239,9 +5363,13 @@
     "end": 13957,
     "raw": "\"ELITE FOUR\"",
     "source": "ELITE FOUR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}してんのう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "90e3df4a9e0d63be",
@@ -5251,9 +5379,13 @@
     "end": 14019,
     "raw": "\"LEADER\"",
     "source": "LEADER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジムリーダー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e1199ca9ef78b84",
@@ -5263,9 +5395,13 @@
     "end": 14139,
     "raw": "\"SCHOOL KID\"",
     "source": "SCHOOL KID",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}じゅくがえり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1816a9c4e336199f",
@@ -5275,9 +5411,13 @@
     "end": 14193,
     "raw": "\"SR. AND JR.\"",
     "source": "SR. AND JR.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}じいじと まご{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d9677ad9a6de5cff",
@@ -5287,9 +5427,13 @@
     "end": 14248,
     "raw": "\"WINSTRATE\"",
     "source": "WINSTRATE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ウィンストンけ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8c9d0b569457ff37",
@@ -5299,9 +5443,13 @@
     "end": 14300,
     "raw": "\"POKéFAN\"",
     "source": "POKéFAN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}だいすきクラブ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b2e3a2cb1bd573a5",
@@ -5311,9 +5459,13 @@
     "end": 14356,
     "raw": "\"YOUNGSTER\"",
     "source": "YOUNGSTER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たんパンこぞう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d373a71263d260f0",
@@ -5323,9 +5475,13 @@
     "end": 14409,
     "raw": "\"CHAMPION\"",
     "source": "CHAMPION",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}チャンピオン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "943ae728fca97a43",
@@ -5335,9 +5491,13 @@
     "end": 14477,
     "raw": "\"FISHERMAN\"",
     "source": "FISHERMAN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}つりびと{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "869831d496c056d5",
@@ -5347,9 +5507,13 @@
     "end": 14596,
     "raw": "\"TRIATHLETE\"",
     "source": "TRIATHLETE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}トライアスリート{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a751489374fcb6a1",
@@ -5359,9 +5523,13 @@
     "end": 14658,
     "raw": "\"DRAGON TAMER\"",
     "source": "DRAGON TAMER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ドラゴンつかい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3c142c0fe7616fcb",
@@ -5371,9 +5539,13 @@
     "end": 14714,
     "raw": "\"NINJA BOY\"",
     "source": "NINJA BOY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}にんじゃごっこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e5c8d42b0304db7a",
@@ -5383,9 +5555,13 @@
     "end": 14773,
     "raw": "\"BATTLE GIRL\"",
     "source": "BATTLE GIRL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルガール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "19d2207452a9d54e",
@@ -5395,9 +5571,13 @@
     "end": 14834,
     "raw": "\"PARASOL LADY\"",
     "source": "PARASOL LADY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}パラソルおねえさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bcac3d2d53d12c6f",
@@ -5407,9 +5587,13 @@
     "end": 14889,
     "raw": "\"SWIMMER♀\"",
     "source": "SWIMMER♀",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ビキニのおねえさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a175e7707e940a40",
@@ -5419,9 +5603,13 @@
     "end": 14947,
     "raw": "\"TWINS\"",
     "source": "TWINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふたごちゃん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "58f2e3cb80ec8107",
@@ -5431,9 +5619,13 @@
     "end": 14996,
     "raw": "\"SAILOR\"",
     "source": "SAILOR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふなのり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "32b7bf3757229cca",
@@ -5443,9 +5635,13 @@
     "end": 15057,
     "raw": "\"COOLTRAINER\"",
     "source": "COOLTRAINER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}エリートトレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef8466ef1c993b4b",
@@ -5455,9 +5651,13 @@
     "end": 15128,
     "raw": "\"MAGMA ADMIN\"",
     "source": "MAGMA ADMIN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マグマだんかんぶ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "282c4a266b25b575",
@@ -5467,9 +5667,13 @@
     "end": 15176,
     "raw": "\"RIVAL\"",
     "source": "RIVAL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ライバル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d9e01eae87a4d3f4",
@@ -5479,9 +5683,13 @@
     "end": 15236,
     "raw": "\"BUG CATCHER\"",
     "source": "BUG CATCHER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}むしとりしょうねん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9510fcc661d1cda0",
@@ -5491,9 +5699,13 @@
     "end": 15297,
     "raw": "\"{PKMN} RANGER\"",
     "source": "{PKMN} RANGER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンレンジャー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44dc2c9d25c4cd19",
@@ -5503,9 +5715,13 @@
     "end": 15359,
     "raw": "\"MAGMA LEADER\"",
     "source": "MAGMA LEADER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マグマだんリーダー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bad93237e34f1a50",
@@ -5515,9 +5731,13 @@
     "end": 15418,
     "raw": "\"LASS\"",
     "source": "LASS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミニスカート{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4cc5769060d08f07",
@@ -5527,9 +5747,13 @@
     "end": 15479,
     "raw": "\"YOUNG COUPLE\"",
     "source": "YOUNG COUPLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わかいカップル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "62f3507d813853a1",
@@ -5539,9 +5763,13 @@
     "end": 15536,
     "raw": "\"OLD COUPLE\"",
     "source": "OLD COUPLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ろうふうふ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "549daf6b51abc630",
@@ -5551,9 +5779,13 @@
     "end": 15596,
     "raw": "\"SIS AND BRO\"",
     "source": "SIS AND BRO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きょうだい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "65ac135320b8204e",
@@ -5563,9 +5795,13 @@
     "end": 15657,
     "raw": "\"SALON MAIDEN\"",
     "source": "SALON MAIDEN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サロンメイデン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2194b3545767836a",
@@ -5575,9 +5811,13 @@
     "end": 15722,
     "raw": "\"DOME ACE\"",
     "source": "DOME ACE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ドームエース{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "624be4dff1d90487",
@@ -5587,9 +5827,13 @@
     "end": 15780,
     "raw": "\"PALACE MAVEN\"",
     "source": "PALACE MAVEN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}パレスガーディアン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf757e45d4639248",
@@ -5599,9 +5843,13 @@
     "end": 15838,
     "raw": "\"ARENA TYCOON\"",
     "source": "ARENA TYCOON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アリーナタイクーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e1bb4ced4528bee",
@@ -5611,9 +5859,13 @@
     "end": 15896,
     "raw": "\"FACTORY HEAD\"",
     "source": "FACTORY HEAD",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ファクトリーヘッド{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1cdc5bd44cec6d4d",
@@ -5623,9 +5875,13 @@
     "end": 15950,
     "raw": "\"PIKE QUEEN\"",
     "source": "PIKE QUEEN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}チューブクイーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f5a147195f3d4554",
@@ -5635,9 +5891,13 @@
     "end": 16008,
     "raw": "\"PYRAMID KING\"",
     "source": "PYRAMID KING",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピラミッドキング{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8da381971e3ea213",
@@ -5647,9 +5907,13 @@
     "end": 16065,
     "raw": "\"{PKMN} TRAINER\"",
     "source": "{PKMN} TRAINER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモントレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d2344a794fc6166",
@@ -5659,9 +5923,13 @@
     "end": 16129,
     "raw": "\"YOUNGSTER\"",
     "source": "YOUNGSTER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たんパンこぞう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29a0a15b1f9fc496",
@@ -5671,9 +5939,13 @@
     "end": 16197,
     "raw": "\"BUG CATCHER\"",
     "source": "BUG CATCHER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}むしとりしょうねん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d69201ed4318fa5f",
@@ -5683,9 +5955,13 @@
     "end": 16258,
     "raw": "\"LASS\"",
     "source": "LASS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミニスカート{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef0689deb5c6026c",
@@ -5695,9 +5971,13 @@
     "end": 16321,
     "raw": "\"SAILOR\"",
     "source": "SAILOR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふなのり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78ec8fb9518b0123",
@@ -5707,9 +5987,13 @@
     "end": 16384,
     "raw": "\"CAMPER\"",
     "source": "CAMPER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}キャンプボーイ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0dfcb04d9edf57d",
@@ -5719,9 +6003,13 @@
     "end": 16450,
     "raw": "\"PICNICKER\"",
     "source": "PICNICKER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピクニックガール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7fa9c7e013e90b5e",
@@ -5731,9 +6019,13 @@
     "end": 16517,
     "raw": "\"POKéMANIAC\"",
     "source": "POKéMANIAC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンマニア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0e95c9257d42113a",
@@ -5743,9 +6035,13 @@
     "end": 16585,
     "raw": "\"SUPER NERD\"",
     "source": "SUPER NERD",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}りかけいのおとこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a7d719042397f9e",
@@ -5755,9 +6051,13 @@
     "end": 16647,
     "raw": "\"HIKER\"",
     "source": "HIKER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やまおとこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d100db3b64174607",
@@ -5767,9 +6067,13 @@
     "end": 16709,
     "raw": "\"BIKER\"",
     "source": "BIKER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ぼうそうぞく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c0b065548041dea0",
@@ -5779,9 +6083,13 @@
     "end": 16773,
     "raw": "\"BURGLAR\"",
     "source": "BURGLAR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どろぼう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d87cb3b34fc60b12",
@@ -5791,9 +6099,13 @@
     "end": 16839,
     "raw": "\"ENGINEER\"",
     "source": "ENGINEER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうじいん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4993bbb8497dbaab",
@@ -5803,9 +6115,13 @@
     "end": 16906,
     "raw": "\"FISHERMAN\"",
     "source": "FISHERMAN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}つりびと{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "019fb3e8efa23c9c",
@@ -5815,9 +6131,13 @@
     "end": 17032,
     "raw": "\"SWIMMER♂\"",
     "source": "SWIMMER♂",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かいパンやろう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "68832c10b64ba00b",
@@ -5827,9 +6147,13 @@
     "end": 17097,
     "raw": "\"CUE BALL\"",
     "source": "CUE BALL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}スキンヘッズ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1cff1bc99efdf7d9",
@@ -5839,9 +6163,13 @@
     "end": 17159,
     "raw": "\"GAMER\"",
     "source": "GAMER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ギャンブラー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d74811d85adc107",
@@ -5851,9 +6179,13 @@
     "end": 17223,
     "raw": "\"BEAUTY\"",
     "source": "BEAUTY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おとなのおねえさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c9b0fe4ac671bcbf",
@@ -5863,9 +6195,13 @@
     "end": 17289,
     "raw": "\"SWIMMER♀\"",
     "source": "SWIMMER♀",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ビキニのおねえさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c8d36d13e64b170b",
@@ -5875,9 +6211,13 @@
     "end": 17364,
     "raw": "\"PSYCHIC\"",
     "source": "PSYCHIC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サイキッカー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d13d7e9a952d9eae",
@@ -5887,9 +6227,13 @@
     "end": 17427,
     "raw": "\"ROCKER\"",
     "source": "ROCKER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ロッカー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "88657faad0218432",
@@ -5899,9 +6243,13 @@
     "end": 17491,
     "raw": "\"JUGGLER\"",
     "source": "JUGGLER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジャグラー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fdbf5d197c5d1f8f",
@@ -5911,9 +6259,13 @@
     "end": 17554,
     "raw": "\"TAMER\"",
     "source": "TAMER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もうじゅうつかい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "eec05cb68f5939e4",
@@ -5923,9 +6275,13 @@
     "end": 17623,
     "raw": "\"BIRD KEEPER\"",
     "source": "BIRD KEEPER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}とりつかい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "85fe6ec9371ed39e",
@@ -5935,9 +6291,13 @@
     "end": 17690,
     "raw": "\"BLACK BELT\"",
     "source": "BLACK BELT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}からておう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b4d8846363bd8582",
@@ -5947,9 +6307,13 @@
     "end": 17764,
     "raw": "\"RIVAL\"",
     "source": "RIVAL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ライバル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c14bf3e7f2d79116",
@@ -5959,9 +6323,13 @@
     "end": 17830,
     "raw": "\"SCIENTIST\"",
     "source": "SCIENTIST",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}けんきゅういん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "40b6db800402c617",
@@ -5971,9 +6339,13 @@
     "end": 17892,
     "raw": "\"BOSS\"",
     "source": "BOSS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ボス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3848d438c66a7dcb",
@@ -5983,9 +6355,13 @@
     "end": 17956,
     "raw": "\"LEADER\"",
     "source": "LEADER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジムリーダー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "39d282f79a53a616",
@@ -5995,9 +6371,13 @@
     "end": 18025,
     "raw": "\"TEAM ROCKET\"",
     "source": "TEAM ROCKET",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ロケットだん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a9a44d4529d83dbd",
@@ -6007,9 +6387,13 @@
     "end": 18093,
     "raw": "\"COOLTRAINER\"",
     "source": "COOLTRAINER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}エリートトレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8c6b76df15039738",
@@ -6019,9 +6403,13 @@
     "end": 18172,
     "raw": "\"ELITE FOUR\"",
     "source": "ELITE FOUR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}してんのう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e6d5b80574c96390",
@@ -6031,9 +6419,13 @@
     "end": 18251,
     "raw": "\"GENTLEMAN\"",
     "source": "GENTLEMAN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジェントルマン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "658e424338a15fc1",
@@ -6043,9 +6435,13 @@
     "end": 18327,
     "raw": "\"RIVAL\"",
     "source": "RIVAL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ライバル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "eeea3bff1ba133b7",
@@ -6055,9 +6451,13 @@
     "end": 18392,
     "raw": "\"CHAMPION\"",
     "source": "CHAMPION",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}チャンピオン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "174bd9998ebafbff",
@@ -6067,9 +6467,13 @@
     "end": 18459,
     "raw": "\"CHANNELER\"",
     "source": "CHANNELER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きとうし{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "91af61ba44a1029d",
@@ -6079,9 +6483,13 @@
     "end": 18521,
     "raw": "\"TWINS\"",
     "source": "TWINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふたごちゃん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b907223ad221c842",
@@ -6091,9 +6499,13 @@
     "end": 18589,
     "raw": "\"COOL COUPLE\"",
     "source": "COOL COUPLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ナイスカップル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d9c54ce5345a712",
@@ -6103,9 +6515,13 @@
     "end": 18658,
     "raw": "\"YOUNG COUPLE\"",
     "source": "YOUNG COUPLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わかいカップル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a7b15336302df688",
@@ -6115,9 +6531,13 @@
     "end": 18724,
     "raw": "\"CRUSH KIN\"",
     "source": "CRUSH KIN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かくとうきょうだい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e53890bb8f333d21",
@@ -6127,9 +6547,13 @@
     "end": 18792,
     "raw": "\"SIS AND BRO\"",
     "source": "SIS AND BRO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きょうだい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "918c4615e416662a",
@@ -6139,9 +6563,13 @@
     "end": 18861,
     "raw": "\"{PKMN} PROF.\"",
     "source": "{PKMN} PROF.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンはかせ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "556779e22404a447",
@@ -6151,9 +6579,13 @@
     "end": 18933,
     "raw": "\"{PKMN} TRAINER\"",
     "source": "{PKMN} TRAINER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモントレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c4d376358b6d5e3",
@@ -6163,9 +6595,13 @@
     "end": 19000,
     "raw": "\"CRUSH GIRL\"",
     "source": "CRUSH GIRL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}クラッシュガール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b4feabdf0c80217",
@@ -6175,9 +6611,13 @@
     "end": 19062,
     "raw": "\"TUBER\"",
     "source": "TUBER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}うきわボーイ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60d92201449d719e",
@@ -6187,9 +6627,13 @@
     "end": 19133,
     "raw": "\"{PKMN} BREEDER\"",
     "source": "{PKMN} BREEDER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンブリーダー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "304d32282566703a",
@@ -6199,9 +6643,13 @@
     "end": 19266,
     "raw": "\"{PKMN} RANGER\"",
     "source": "{PKMN} RANGER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンレンジャー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "720cf12489a8f957",
@@ -6211,9 +6659,13 @@
     "end": 19333,
     "raw": "\"AROMA LADY\"",
     "source": "AROMA LADY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アロマなおねえさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ea6ad19b78c6886b",
@@ -6223,9 +6675,13 @@
     "end": 19401,
     "raw": "\"RUIN MANIAC\"",
     "source": "RUIN MANIAC",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いせきマニア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "68670e97bd01e094",
@@ -6235,9 +6691,13 @@
     "end": 19463,
     "raw": "\"LADY\"",
     "source": "LADY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おじょうさま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8133cad571f04767",
@@ -6247,9 +6707,13 @@
     "end": 19528,
     "raw": "\"PAINTER\"",
     "source": "PAINTER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}えかき{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d710561aa4c00e25",
@@ -6271,9 +6735,13 @@
     "end": 19651,
     "raw": "\"Mutrid\"",
     "source": "Mutrid",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミュートリッド{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29efa664676ad745",
@@ -6283,9 +6751,13 @@
     "end": 19721,
     "raw": "\"Dragon Warden\"",
     "source": "Dragon Warden",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}りゅうのばんにん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "63e136483f8adfc3",
@@ -6295,9 +6767,13 @@
     "end": 19786,
     "raw": "\"General\"",
     "source": "General",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しょうぐん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "50a4561b306451b5",
@@ -6307,9 +6783,13 @@
     "end": 19847,
     "raw": "\"Oni\"",
     "source": "Oni",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オニ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "775483108028c036",
@@ -6319,9 +6799,13 @@
     "end": 19911,
     "raw": "\"Captain\"",
     "source": "Captain",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たいちょう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "91395e4dcd208633",
@@ -6331,9 +6815,13 @@
     "end": 19974,
     "raw": "\"Siren\"",
     "source": "Siren",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}セイレーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c507c7a2d336c653",
@@ -6343,9 +6831,13 @@
     "end": 20040,
     "raw": "\"Streamer\"",
     "source": "Streamer",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}はいしんしゃ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf1bca294887f145",
@@ -6355,9 +6847,13 @@
     "end": 20105,
     "raw": "\"Team MZ\"",
     "source": "Team MZ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}チームMZ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff30aa0f9a807f24",
@@ -6367,9 +6863,13 @@
     "end": 20172,
     "raw": "\"Detective\"",
     "source": "Detective",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たんてい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3014c5e231a71b78",
@@ -6379,9 +6879,13 @@
     "end": 20239,
     "raw": "\"Socialite\"",
     "source": "Socialite",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しゃこうか{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "trainer-classes-20",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b29d162ee4ed740e",

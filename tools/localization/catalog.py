@@ -35,7 +35,8 @@ def extract():
     return rows
 
 def protected(text):
-    return collections.Counter(t for t in TOKENS.findall(text) if t not in ('{JPN}', '{ENG}', r'\n'))
+    # {PKMN}/{POKEBLOCK} are Latin logo glyphs, so a translation may spell them out.
+    return collections.Counter(t for t in TOKENS.findall(text) if t not in ('{JPN}', '{ENG}', r'\n', '{PKMN}', '{POKEBLOCK}'))
 
 def validate(row, cmap):
     source, target = row['source'], row['translation']

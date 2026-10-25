@@ -82,7 +82,7 @@ Music: Male
 Double Battle: No
 
 === TRAINER_SAWYER_1 ===
-Name: SAWYER
+Name: {JPN}ソーヤー{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -95,7 +95,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -108,7 +108,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -125,7 +125,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_3 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -138,7 +138,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_4 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -151,7 +151,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -164,7 +164,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -177,7 +177,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_3 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -190,7 +190,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GABRIELLE_1 ===
-Name: GABRIELLE
+Name: {JPN}ガブリエル{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
@@ -223,7 +223,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_PETALBURG_WOODS ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -236,7 +236,7 @@ Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARCEL ===
-Name: MARCEL
+Name: {JPN}マルセル{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -254,7 +254,7 @@ Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ALBERTO ===
-Name: ALBERTO
+Name: {JPN}アルベルト{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -271,7 +271,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ED ===
-Name: ED
+Name: {JPN}エド{ENG}
 Class: Collector
 Pic: Collector
 Gender: Male
@@ -288,7 +288,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_4 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
@@ -301,7 +301,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DECLAN ===
-Name: DECLAN
+Name: {JPN}デクラン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -314,7 +314,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_RUSTURF_TUNNEL ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -327,7 +327,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -344,7 +344,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -361,7 +361,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_3 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -382,7 +382,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MUSEUM_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -395,7 +395,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MUSEUM_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -412,7 +412,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -425,7 +425,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MT_PYRE_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -438,7 +438,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MT_PYRE_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -451,7 +451,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MT_PYRE_3 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -468,7 +468,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_4 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
@@ -481,7 +481,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_5 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
@@ -494,7 +494,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_6 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
@@ -507,7 +507,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FREDRICK ===
-Name: FREDRICK
+Name: {JPN}フレドリック{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -524,7 +524,7 @@ Level: 30
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MATT ===
-Name: MATT
+Name: {JPN}ウシオ{ENG}
 Class: Aqua Admin
 Pic: Aqua Admin M
 Gender: Male
@@ -542,7 +542,7 @@ Level: 34
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ZANDER ===
-Name: ZANDER
+Name: {JPN}ザンダー{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -555,7 +555,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHELLY_WEATHER_INSTITUTE ===
-Name: SHELLY
+Name: {JPN}イズミ{ENG}
 Class: Aqua Admin
 Pic: Aqua Admin F
 Gender: Female
@@ -572,7 +572,7 @@ Level: 28
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_SHELLY_SEAFLOOR_CAVERN ===
-Name: SHELLY
+Name: {JPN}イズミ{ENG}
 Class: Aqua Admin
 Pic: Aqua Admin F
 Gender: Female
@@ -589,7 +589,7 @@ Level: 37
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ARCHIE ===
-Name: ARCHIE
+Name: {JPN}アオギリ{ENG}
 Class: Aqua Leader
 Pic: Aqua Leader Archie
 Gender: Male
@@ -611,7 +611,7 @@ Level: 43
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_LEAH ===
-Name: LEAH
+Name: {JPN}リア{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -624,7 +624,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAISY ===
-Name: DAISY
+Name: {JPN}デイジー{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -641,7 +641,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROSE_1 ===
-Name: ROSE
+Name: {JPN}ローズ{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -662,7 +662,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FELIX ===
-Name: FELIX
+Name: {JPN}フェリックス{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -683,7 +683,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Earthquake
 
 === TRAINER_VIOLET ===
-Name: VIOLET
+Name: {JPN}バイオレット{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -700,7 +700,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROSE_2 ===
-Name: ROSE
+Name: {JPN}ローズ{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -717,7 +717,7 @@ Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ROSE_3 ===
-Name: ROSE
+Name: {JPN}ローズ{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -738,7 +738,7 @@ Level: 28
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ROSE_4 ===
-Name: ROSE
+Name: {JPN}ローズ{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -759,7 +759,7 @@ Level: 31
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ROSE_5 ===
-Name: ROSE
+Name: {JPN}ローズ{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -780,7 +780,7 @@ Level: 34
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DUSTY_1 ===
-Name: DUSTY
+Name: {JPN}ダスティ{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -797,7 +797,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Poison Sting
 
 === TRAINER_CHIP ===
-Name: CHIP
+Name: {JPN}チップ{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -830,7 +830,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Poison Sting
 
 === TRAINER_FOSTER ===
-Name: FOSTER
+Name: {JPN}フォスター{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -855,7 +855,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Poison Sting
 
 === TRAINER_DUSTY_2 ===
-Name: DUSTY
+Name: {JPN}ダスティ{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -872,7 +872,7 @@ IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
 - Poison Sting
 
 === TRAINER_DUSTY_3 ===
-Name: DUSTY
+Name: {JPN}ダスティ{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -889,7 +889,7 @@ IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 - Poison Sting
 
 === TRAINER_DUSTY_4 ===
-Name: DUSTY
+Name: {JPN}ダスティ{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -906,7 +906,7 @@ IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 - Poison Sting
 
 === TRAINER_DUSTY_5 ===
-Name: DUSTY
+Name: {JPN}ダスティ{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -923,7 +923,7 @@ IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 - Poison Sting
 
 === TRAINER_GABBY_AND_TY_1 ===
-Name: GABBY & TY
+Name: {JPN}ギャビーとタイ{ENG}
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -940,7 +940,7 @@ Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_GABBY_AND_TY_2 ===
-Name: GABBY & TY
+Name: {JPN}ギャビーとタイ{ENG}
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -957,7 +957,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_GABBY_AND_TY_3 ===
-Name: GABBY & TY
+Name: {JPN}ギャビーとタイ{ENG}
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -974,7 +974,7 @@ Level: 30
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_GABBY_AND_TY_4 ===
-Name: GABBY & TY
+Name: {JPN}ギャビーとタイ{ENG}
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -991,7 +991,7 @@ Level: 33
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_GABBY_AND_TY_5 ===
-Name: GABBY & TY
+Name: {JPN}ギャビーとタイ{ENG}
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -1008,7 +1008,7 @@ Level: 36
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_GABBY_AND_TY_6 ===
-Name: GABBY & TY
+Name: {JPN}ギャビーとタイ{ENG}
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -1033,7 +1033,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Hyper Voice
 
 === TRAINER_LOLA_1 ===
-Name: LOLA
+Name: {JPN}ローラ{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -1050,7 +1050,7 @@ Level: 12
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_AUSTINA ===
-Name: AUSTINA
+Name: {JPN}オースティナ{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -1063,7 +1063,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GWEN ===
-Name: GWEN
+Name: {JPN}グウェン{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -1076,7 +1076,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LOLA_2 ===
-Name: LOLA
+Name: {JPN}ローラ{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -1093,7 +1093,7 @@ Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_LOLA_3 ===
-Name: LOLA
+Name: {JPN}ローラ{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -1110,7 +1110,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_LOLA_4 ===
-Name: LOLA
+Name: {JPN}ローラ{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -1127,7 +1127,7 @@ Level: 32
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_LOLA_5 ===
-Name: LOLA
+Name: {JPN}ローラ{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -1144,7 +1144,7 @@ Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RICKY_1 ===
-Name: RICKY
+Name: {JPN}リッキー{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -1161,7 +1161,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Surf
 
 === TRAINER_SIMON ===
-Name: SIMON
+Name: {JPN}サイモン{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -1178,7 +1178,7 @@ Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHARLIE ===
-Name: CHARLIE
+Name: {JPN}チャーリー{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -1191,7 +1191,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICKY_2 ===
-Name: RICKY
+Name: {JPN}リッキー{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -1208,7 +1208,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Surf
 
 === TRAINER_RICKY_3 ===
-Name: RICKY
+Name: {JPN}リッキー{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -1225,7 +1225,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Surf
 
 === TRAINER_RICKY_4 ===
-Name: RICKY
+Name: {JPN}リッキー{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -1242,7 +1242,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Surf
 
 === TRAINER_RICKY_5 ===
-Name: RICKY
+Name: {JPN}リッキー{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -1259,7 +1259,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Surf
 
 === TRAINER_RANDALL ===
-Name: RANDALL
+Name: {JPN}ランドール{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1276,7 +1276,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Wing Attack
 
 === TRAINER_PARKER ===
-Name: PARKER
+Name: {JPN}パーカー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1293,7 +1293,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Focus Punch
 
 === TRAINER_GEORGE ===
-Name: GEORGE
+Name: {JPN}ジョージ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1310,7 +1310,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_BERKE ===
-Name: BERKE
+Name: {JPN}バーク{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1326,7 +1326,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Slash
 
 === TRAINER_BRAXTON ===
-Name: BRAXTON
+Name: {JPN}ブラクストン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1376,7 +1376,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Swagger
 
 === TRAINER_VINCENT ===
-Name: VINCENT
+Name: {JPN}ビンセント{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1398,7 +1398,7 @@ Level: 44
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LEROY ===
-Name: LEROY
+Name: {JPN}リロイ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1416,7 +1416,7 @@ Level: 46
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILTON_1 ===
-Name: WILTON
+Name: {JPN}ウィルトン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1438,7 +1438,7 @@ Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_EDGAR ===
-Name: EDGAR
+Name: {JPN}エドガー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1456,7 +1456,7 @@ Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ALBERT ===
-Name: ALBERT
+Name: {JPN}アルバート{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1474,7 +1474,7 @@ Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SAMUEL ===
-Name: SAMUEL
+Name: {JPN}サミュエル{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1496,7 +1496,7 @@ Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VITO ===
-Name: VITO
+Name: {JPN}ビート{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1522,7 +1522,7 @@ Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_OWEN ===
-Name: OWEN
+Name: {JPN}オーウェン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1544,7 +1544,7 @@ Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILTON_2 ===
-Name: WILTON
+Name: {JPN}ウィルトン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1566,7 +1566,7 @@ Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_WILTON_3 ===
-Name: WILTON
+Name: {JPN}ウィルトン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1588,7 +1588,7 @@ Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_WILTON_4 ===
-Name: WILTON
+Name: {JPN}ウィルトン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1610,7 +1610,7 @@ Level: 32
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_WILTON_5 ===
-Name: WILTON
+Name: {JPN}ウィルトン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1632,7 +1632,7 @@ Level: 35
 IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_WARREN ===
-Name: WARREN
+Name: {JPN}ウォーレン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -1650,7 +1650,7 @@ Level: 33
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MARY ===
-Name: MARY
+Name: {JPN}メアリー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1666,7 +1666,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shock Wave
 
 === TRAINER_ALEXIA ===
-Name: ALEXIA
+Name: {JPN}アレクシア{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1683,7 +1683,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_JODY ===
-Name: JODY
+Name: {JPN}ジョディ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1699,7 +1699,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Slash
 
 === TRAINER_WENDY ===
-Name: WENDY
+Name: {JPN}ウェンディ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1733,7 +1733,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Protect
 
 === TRAINER_KEIRA ===
-Name: KEIRA
+Name: {JPN}キーラ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1751,7 +1751,7 @@ Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BROOKE_1 ===
-Name: BROOKE
+Name: {JPN}ブルック{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1773,7 +1773,7 @@ Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JENNIFER ===
-Name: JENNIFER
+Name: {JPN}ジェニファー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1787,7 +1787,7 @@ Level: 30
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_HOPE ===
-Name: HOPE
+Name: {JPN}ホープ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1801,7 +1801,7 @@ Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SHANNON ===
-Name: SHANNON
+Name: {JPN}シャノン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1815,7 +1815,7 @@ Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MICHELLE ===
-Name: MICHELLE
+Name: {JPN}ミシェル{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1837,7 +1837,7 @@ Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CAROLINE ===
-Name: CAROLINE
+Name: {JPN}キャロライン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1855,7 +1855,7 @@ Level: 43
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JULIE ===
-Name: JULIE
+Name: {JPN}ジュリー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1877,7 +1877,7 @@ Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BROOKE_2 ===
-Name: BROOKE
+Name: {JPN}ブルック{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1899,7 +1899,7 @@ Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_BROOKE_3 ===
-Name: BROOKE
+Name: {JPN}ブルック{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1921,7 +1921,7 @@ Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_BROOKE_4 ===
-Name: BROOKE
+Name: {JPN}ブルック{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1943,7 +1943,7 @@ Level: 32
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_BROOKE_5 ===
-Name: BROOKE
+Name: {JPN}ブルック{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1965,7 +1965,7 @@ Level: 34
 IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_PATRICIA ===
-Name: PATRICIA
+Name: {JPN}パトリシア{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -1982,7 +1982,7 @@ Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KINDRA ===
-Name: KINDRA
+Name: {JPN}キンドラ{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -1999,7 +1999,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TAMMY ===
-Name: TAMMY
+Name: {JPN}タミー{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -2016,7 +2016,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VALERIE_1 ===
-Name: VALERIE
+Name: {JPN}バレリー{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -2029,7 +2029,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TASHA ===
-Name: TASHA
+Name: {JPN}ターシャ{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -2042,7 +2042,7 @@ Level: 32
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_VALERIE_2 ===
-Name: VALERIE
+Name: {JPN}バレリー{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -2059,7 +2059,7 @@ Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_VALERIE_3 ===
-Name: VALERIE
+Name: {JPN}バレリー{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -2076,7 +2076,7 @@ Level: 35
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_VALERIE_4 ===
-Name: VALERIE
+Name: {JPN}バレリー{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -2093,7 +2093,7 @@ Level: 40
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_VALERIE_5 ===
-Name: VALERIE
+Name: {JPN}バレリー{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -2114,7 +2114,7 @@ Level: 42
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CINDY_1 ===
-Name: CINDY
+Name: {JPN}シンディ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2128,7 +2128,7 @@ Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAPHNE ===
-Name: DAPHNE
+Name: {JPN}ダフネ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2154,7 +2154,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Water Pulse
 
 === TRAINER_GRUNT_SPACE_CENTER_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -2175,7 +2175,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CINDY_2 ===
-Name: SANDY
+Name: {JPN}サンディ{ENG}
 Class: Tuber M
 Pic: Wot Poke Kid
 Gender: Male
@@ -2190,7 +2190,7 @@ Crabrawler
 Level: 10
 
 === TRAINER_BRIANNA ===
-Name: BRIANNA
+Name: {JPN}ブリアナ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2204,7 +2204,7 @@ Level: 40
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_NAOMI ===
-Name: NAOMI
+Name: {JPN}ナオミ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2218,7 +2218,7 @@ Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CINDY_3 ===
-Name: CINDY
+Name: {JPN}シンディ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2232,7 +2232,7 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CINDY_4 ===
-Name: CINDY
+Name: {JPN}シンディ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2246,7 +2246,7 @@ Level: 30
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CINDY_5 ===
-Name: CINDY
+Name: {JPN}シンディ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2260,7 +2260,7 @@ Level: 33
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CINDY_6 ===
-Name: CINDY
+Name: {JPN}シンディ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -2278,7 +2278,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Sand Attack
 
 === TRAINER_MELISSA ===
-Name: MELISSA
+Name: {JPN}メリッサ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2291,7 +2291,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHEILA ===
-Name: SHEILA
+Name: {JPN}シーラ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2304,7 +2304,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHIRLEY ===
-Name: SHIRLEY
+Name: {JPN}シャーリー{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2317,7 +2317,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JESSICA_1 ===
-Name: JESSICA
+Name: {JPN}ジェシカ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2342,7 +2342,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Crunch
 
 === TRAINER_CONNIE ===
-Name: CONNIE
+Name: {JPN}コニー{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2355,7 +2355,7 @@ Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRIDGET ===
-Name: BRIDGET
+Name: {JPN}ブリジット{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2368,7 +2368,7 @@ Level: 40
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_OLIVIA ===
-Name: OLIVIA
+Name: {JPN}オリビア{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2400,7 +2400,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Water Pulse
 
 === TRAINER_TIFFANY ===
-Name: TIFFANY
+Name: {JPN}ティファニー{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2417,7 +2417,7 @@ Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JESSICA_2 ===
-Name: JESSICA
+Name: {JPN}ジェシカ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2442,7 +2442,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Crunch
 
 === TRAINER_JESSICA_3 ===
-Name: JESSICA
+Name: {JPN}ジェシカ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2467,7 +2467,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Crunch
 
 === TRAINER_JESSICA_4 ===
-Name: JESSICA
+Name: {JPN}ジェシカ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2492,7 +2492,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Crunch
 
 === TRAINER_JESSICA_5 ===
-Name: JESSICA
+Name: {JPN}ジェシカ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2517,7 +2517,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Crunch
 
 === TRAINER_WINSTON_1 ===
-Name: WINSTON
+Name: {JPN}ウィンストン{ENG}
 Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
@@ -2531,7 +2531,7 @@ Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MOLLIE ===
-Name: MOLLIE
+Name: {JPN}モリー{ENG}
 Class: Expert
 Pic: Expert F
 Gender: Female
@@ -2548,7 +2548,7 @@ Level: 33
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_GARRET ===
-Name: GARRET
+Name: {JPN}ギャレット{ENG}
 Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
@@ -2562,7 +2562,7 @@ Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_2 ===
-Name: WINSTON
+Name: {JPN}ウィンストン{ENG}
 Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
@@ -2576,7 +2576,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_3 ===
-Name: WINSTON
+Name: {JPN}ウィンストン{ENG}
 Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
@@ -2590,7 +2590,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_4 ===
-Name: WINSTON
+Name: {JPN}ウィンストン{ENG}
 Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
@@ -2604,7 +2604,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WINSTON_5 ===
-Name: WINSTON
+Name: {JPN}ウィンストン{ENG}
 Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
@@ -2622,7 +2622,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Sand Attack
 
 === TRAINER_STEVE_1 ===
-Name: STEVE
+Name: {JPN}スティーブ{ENG}
 Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
@@ -2635,7 +2635,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_THALIA_1 ===
-Name: THALIA
+Name: {JPN}タリア{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -2652,7 +2652,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARK ===
-Name: MARK
+Name: {JPN}マーク{ENG}
 Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
@@ -2665,7 +2665,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MT_CHIMNEY_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt F
 Gender: Female
@@ -2678,7 +2678,7 @@ Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_STEVE_2 ===
-Name: STEVE
+Name: {JPN}スティーブ{ENG}
 Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
@@ -2691,7 +2691,7 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_STEVE_3 ===
-Name: STEVE
+Name: {JPN}スティーブ{ENG}
 Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
@@ -2708,7 +2708,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_STEVE_4 ===
-Name: STEVE
+Name: {JPN}スティーブ{ENG}
 Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
@@ -2725,7 +2725,7 @@ Level: 32
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_STEVE_5 ===
-Name: STEVE
+Name: {JPN}スティーブ{ENG}
 Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
@@ -2742,7 +2742,7 @@ Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_LUIS ===
-Name: LUIS
+Name: {JPN}ルイス{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2755,7 +2755,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOMINIK ===
-Name: DOMINIK
+Name: {JPN}ドミニク{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2768,7 +2768,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DOUGLAS ===
-Name: DOUGLAS
+Name: {JPN}ダグラス{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2785,7 +2785,7 @@ Level: 24
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DARRIN ===
-Name: DARRIN
+Name: {JPN}ダリン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2806,7 +2806,7 @@ Level: 24
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TONY_1 ===
-Name: TONY
+Name: {JPN}トニー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2819,7 +2819,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JEROME ===
-Name: JEROME
+Name: {JPN}ジェローム{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2832,7 +2832,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MATTHEW ===
-Name: MATTHEW
+Name: {JPN}マシュー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2845,7 +2845,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAVID ===
-Name: DAVID
+Name: {JPN}デビッド{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2862,7 +2862,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SPENCER ===
-Name: SPENCER
+Name: {JPN}スペンサー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2879,7 +2879,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROLAND ===
-Name: ROLAND
+Name: {JPN}ローランド{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2892,7 +2892,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLEN ===
-Name: NOLEN
+Name: {JPN}ノーレン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2905,7 +2905,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_STAN ===
-Name: STAN
+Name: {JPN}スタン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2918,7 +2918,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BARRY ===
-Name: BARRY
+Name: {JPN}バリー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2931,7 +2931,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEAN ===
-Name: DEAN
+Name: {JPN}ディーン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2952,7 +2952,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RODNEY ===
-Name: RODNEY
+Name: {JPN}ロドニー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2965,7 +2965,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RICHARD ===
-Name: RICHARD
+Name: {JPN}リチャード{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2978,7 +2978,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HERMAN ===
-Name: HERMAN
+Name: {JPN}ハーマン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -2995,7 +2995,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SANTIAGO ===
-Name: SANTIAGO
+Name: {JPN}サンティアゴ{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3012,7 +3012,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GILBERT ===
-Name: GILBERT
+Name: {JPN}ギルバート{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3025,7 +3025,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FRANKLIN ===
-Name: FRANKLIN
+Name: {JPN}フランクリン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3038,7 +3038,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KEVIN ===
-Name: KEVIN
+Name: {JPN}ケビン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3051,7 +3051,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACK ===
-Name: JACK
+Name: {JPN}ジャック{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3064,7 +3064,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DUDLEY ===
-Name: KENJI
+Name: {JPN}ケンジ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -3089,7 +3089,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHAD ===
-Name: CHAD
+Name: {JPN}チャド{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3106,7 +3106,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TONY_2 ===
-Name: TONY
+Name: {JPN}トニー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3119,7 +3119,7 @@ Level: 30
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TONY_3 ===
-Name: TONY
+Name: {JPN}トニー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3132,7 +3132,7 @@ Level: 33
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_TONY_4 ===
-Name: TONY
+Name: {JPN}トニー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3149,7 +3149,7 @@ Level: 36
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_TONY_5 ===
-Name: TONY
+Name: {JPN}トニー{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -3166,7 +3166,7 @@ Level: 39
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_TAKAO ===
-Name: TAKAO
+Name: {JPN}タカオ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3179,7 +3179,7 @@ Level: 13
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_HITOSHI ===
-Name: HITOSHI
+Name: {JPN}ヒトシ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3196,7 +3196,7 @@ Level: 32
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_KIYO ===
-Name: KIYO
+Name: {JPN}キヨ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3209,7 +3209,7 @@ Level: 34
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KOICHI ===
-Name: KOICHI
+Name: {JPN}コウイチ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3226,7 +3226,7 @@ Level: 28
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_NOB_1 ===
-Name: NOB
+Name: {JPN}ノブ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3239,7 +3239,7 @@ Level: 19
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_NOB_2 ===
-Name: NOB
+Name: {JPN}ノブ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3252,7 +3252,7 @@ Level: 27
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_NOB_3 ===
-Name: NOB
+Name: {JPN}ノブ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3269,7 +3269,7 @@ Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_NOB_4 ===
-Name: NOB
+Name: {JPN}ノブ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3290,7 +3290,7 @@ Level: 31
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_NOB_5 ===
-Name: NOB
+Name: {JPN}ノブ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3315,7 +3315,7 @@ Level: 33
 IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_YUJI ===
-Name: YUJI
+Name: {JPN}ユウジ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3332,7 +3332,7 @@ Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DAISUKE ===
-Name: DAISUKE
+Name: {JPN}ダイスケ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3345,7 +3345,7 @@ Level: 19
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ATSUSHI ===
-Name: ATSUSHI
+Name: {JPN}アツシ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -3358,7 +3358,7 @@ Level: 32
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KIRK ===
-Name: KIRK
+Name: {JPN}カーク{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3382,7 +3382,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Screech
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_7 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
@@ -3399,7 +3399,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_8 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
@@ -3412,7 +3412,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHAWN ===
-Name: SHAWN
+Name: {JPN}ショーン{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3429,7 +3429,7 @@ Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_FERNANDO_1 ===
-Name: FERNANDO
+Name: {JPN}フェルナンド{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3446,7 +3446,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DALTON_1 ===
-Name: DALTON
+Name: {JPN}ダルトン{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3463,7 +3463,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DALTON_2 ===
-Name: DALTON
+Name: {JPN}ダルトン{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3484,7 +3484,7 @@ Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DALTON_3 ===
-Name: DALTON
+Name: {JPN}ダルトン{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3505,7 +3505,7 @@ Level: 28
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_DALTON_4 ===
-Name: DALTON
+Name: {JPN}ダルトン{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3526,7 +3526,7 @@ Level: 31
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_DALTON_5 ===
-Name: DALTON
+Name: {JPN}ダルトン{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -3547,7 +3547,7 @@ Level: 34
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_COLE ===
-Name: COLE
+Name: {JPN}コール{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3560,7 +3560,7 @@ Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JEFF ===
-Name: JEFF
+Name: {JPN}ジェフ{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3577,7 +3577,7 @@ Level: 22
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_AXLE ===
-Name: AXLE
+Name: {JPN}アクセル{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3590,7 +3590,7 @@ Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JACE ===
-Name: JACE
+Name: {JPN}ジェイス{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3603,7 +3603,7 @@ Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KEEGAN ===
-Name: KEEGAN
+Name: {JPN}キーガン{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3616,7 +3616,7 @@ Level: 23
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_BERNIE_1 ===
-Name: BERNIE
+Name: {JPN}バーニー{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3633,7 +3633,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BERNIE_2 ===
-Name: BERNIE
+Name: {JPN}バーニー{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3650,7 +3650,7 @@ Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_BERNIE_3 ===
-Name: BERNIE
+Name: {JPN}バーニー{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3667,7 +3667,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_BERNIE_4 ===
-Name: BERNIE
+Name: {JPN}バーニー{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3684,7 +3684,7 @@ Level: 32
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_BERNIE_5 ===
-Name: BERNIE
+Name: {JPN}バーニー{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -3701,7 +3701,7 @@ Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DREW ===
-Name: DREW
+Name: {JPN}ドリュー{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3718,7 +3718,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Slash
 
 === TRAINER_BEAU ===
-Name: BEAU
+Name: {JPN}ボウ{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3751,7 +3751,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Rock Tomb
 
 === TRAINER_LARRY ===
-Name: LARRY
+Name: {JPN}ラリー{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3764,7 +3764,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHANE ===
-Name: SHANE
+Name: {JPN}シェーン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3781,7 +3781,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JUSTIN ===
-Name: JUSTIN
+Name: {JPN}ジャスティン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3794,7 +3794,7 @@ Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ETHAN_1 ===
-Name: ETHAN
+Name: {JPN}イーサン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3811,7 +3811,7 @@ Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AUTUMN ===
-Name: AUTUMN
+Name: {JPN}オータム{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -3824,7 +3824,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TRAVIS ===
-Name: TRAVIS
+Name: {JPN}トラビス{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3837,7 +3837,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ETHAN_2 ===
-Name: ETHAN
+Name: {JPN}イーサン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3854,7 +3854,7 @@ Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ETHAN_3 ===
-Name: ETHAN
+Name: {JPN}イーサン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3871,7 +3871,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ETHAN_4 ===
-Name: ETHAN
+Name: {JPN}イーサン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3892,7 +3892,7 @@ Level: 31
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ETHAN_5 ===
-Name: ETHAN
+Name: {JPN}イーサン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -3913,7 +3913,7 @@ Level: 34
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_BRENT ===
-Name: BRENT
+Name: {JPN}ブレント{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -3926,7 +3926,7 @@ Level: 26
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DONALD ===
-Name: DONALD
+Name: {JPN}ドナルド{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -3947,7 +3947,7 @@ Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_TAYLOR ===
-Name: TAYLOR
+Name: {JPN}テイラー{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -3968,7 +3968,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JEFFREY_1 ===
-Name: JEFFREY
+Name: {JPN}ジェフリー{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -3989,7 +3989,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEREK ===
-Name: DEREK
+Name: {JPN}デレク{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -4006,7 +4006,7 @@ Level: 16
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_JEFFREY_2 ===
-Name: JEFFREY
+Name: {JPN}ジェフリー{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -4027,7 +4027,7 @@ Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JEFFREY_3 ===
-Name: JEFFREY
+Name: {JPN}ジェフリー{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -4048,7 +4048,7 @@ Level: 34
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JEFFREY_4 ===
-Name: JEFFREY
+Name: {JPN}ジェフリー{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -4073,7 +4073,7 @@ Level: 36
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JEFFREY_5 ===
-Name: JEFFREY
+Name: {JPN}ジェフリー{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -4102,7 +4102,7 @@ Level: 38
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_EDWARD ===
-Name: EDWARD
+Name: {JPN}エドワード{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4122,7 +4122,7 @@ Pokemon are dark-typed stand-ins until a real Shadow system exists).
 Levels/teams PLACEHOLDER (Joe).
 */
 === TRAINER_PRESTON ===
-Name: JUZO
+Name: {JPN}ジュウゾウ{ENG}
 Class: Mutrid
 Pic: Magma Grunt M
 Gender: Male
@@ -4151,7 +4151,7 @@ Shadow: Yes
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_VIRGIL ===
-Name: SAYA
+Name: {JPN}サヤ{ENG}
 Class: Mutrid
 Pic: Magma Grunt F
 Gender: Female
@@ -4180,7 +4180,7 @@ Shadow: Yes
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_BLAKE ===
-Name: WHITETIGER
+Name: {JPN}ビャッコ{ENG}
 Class: Expert
 Pic: Cooltrainer M
 Gender: Male
@@ -4215,7 +4215,7 @@ Shadow: Yes
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 === TRAINER_WILLIAM ===
-Name: WILLIAM
+Name: {JPN}ウィリアム{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4236,7 +4236,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSHUA ===
-Name: JOSHUA
+Name: {JPN}ジョシュア{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4253,7 +4253,7 @@ Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAMERON_1 ===
-Name: CAMERON
+Name: {JPN}キャメロン{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4266,7 +4266,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAMERON_2 ===
-Name: CAMERON
+Name: {JPN}キャメロン{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4283,7 +4283,7 @@ Level: 33
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CAMERON_3 ===
-Name: CAMERON
+Name: {JPN}キャメロン{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4300,7 +4300,7 @@ Level: 38
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CAMERON_4 ===
-Name: CAMERON
+Name: {JPN}キャメロン{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4317,7 +4317,7 @@ Level: 41
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CAMERON_5 ===
-Name: CAMERON
+Name: {JPN}キャメロン{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -4334,7 +4334,7 @@ Level: 45
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JACLYN ===
-Name: JACLYN
+Name: {JPN}ジャクリン{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4348,7 +4348,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Hidden Power
 
 === TRAINER_HANNAH ===
-Name: SUZU
+Name: {JPN}スズ{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4365,7 +4365,7 @@ Level: 43
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SAMANTHA ===
-Name: KAEDE
+Name: {JPN}カエデ{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4382,7 +4382,7 @@ Level: 43
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAURA ===
-Name: RAN
+Name: {JPN}ラン{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4399,7 +4399,7 @@ Level: 44
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_KAYLA ===
-Name: ASUKA
+Name: {JPN}アスカ{ENG}
 Class: Mutrid
 Pic: Magma Grunt F
 Gender: Female
@@ -4425,7 +4425,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALEXIS ===
-Name: ALEXIS
+Name: {JPN}アレクシス{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4442,7 +4442,7 @@ Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACKI_1 ===
-Name: JACKI
+Name: {JPN}ジャッキー{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4459,7 +4459,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACKI_2 ===
-Name: JACKI
+Name: {JPN}ジャッキー{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4476,7 +4476,7 @@ Level: 34
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JACKI_3 ===
-Name: JACKI
+Name: {JPN}ジャッキー{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4493,7 +4493,7 @@ Level: 37
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JACKI_4 ===
-Name: JACKI
+Name: {JPN}ジャッキー{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4510,7 +4510,7 @@ Level: 40
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JACKI_5 ===
-Name: JACKI
+Name: {JPN}ジャッキー{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -4527,7 +4527,7 @@ Level: 43
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_WALTER_1 ===
-Name: WALTER
+Name: {JPN}ウォルター{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -4540,7 +4540,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MICAH ===
-Name: MICAH
+Name: {JPN}マイカ{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -4557,7 +4557,7 @@ Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_THOMAS ===
-Name: THOMAS
+Name: {JPN}トーマス{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -4570,7 +4570,7 @@ Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WALTER_2 ===
-Name: WALTER
+Name: {JPN}ウォルター{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -4583,7 +4583,7 @@ Level: 34
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_WALTER_3 ===
-Name: WALTER
+Name: {JPN}ウォルター{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -4608,7 +4608,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Roar
 
 === TRAINER_WALTER_4 ===
-Name: WALTER
+Name: {JPN}ウォルター{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -4632,7 +4632,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Odor Sleuth
 
 === TRAINER_WALTER_5 ===
-Name: WALTER
+Name: {JPN}ウォルター{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -4665,7 +4665,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Roar
 
 === TRAINER_SIDNEY ===
-Name: SIDNEY
+Name: {JPN}カゲツ{ENG}
 Class: Elite Four
 Pic: Elite Four Sidney
 Gender: Male
@@ -4716,7 +4716,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Slash
 
 === TRAINER_PHOEBE ===
-Name: PHOEBE
+Name: {JPN}フヨウ{ENG}
 Class: Elite Four
 Pic: Elite Four Phoebe
 Gender: Female
@@ -4767,7 +4767,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_GLACIA ===
-Name: GLACIA
+Name: {JPN}プリム{ENG}
 Class: Elite Four
 Pic: Elite Four Glacia
 Gender: Female
@@ -4818,7 +4818,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sheer Cold
 
 === TRAINER_DRAKE ===
-Name: DRAKE
+Name: {JPN}ゲンジ{ENG}
 Class: Elite Four
 Pic: Elite Four Drake
 Gender: Male
@@ -4903,7 +4903,7 @@ IVs: 28 HP / 28 Atk / 28 Def / 28 SpA / 28 SpD / 28 Spe
 - Leer
 
 === TRAINER_BRAWLY_1 ===
-Name: BRAWLY
+Name: {JPN}トウキ{ENG}
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -4937,7 +4937,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Bulk Up
 
 === TRAINER_WATTSON_1 ===
-Name: WATTSON
+Name: {JPN}テッセン{ENG}
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -4979,7 +4979,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Howl
 
 === TRAINER_FLANNERY_1 ===
-Name: FLANNERY
+Name: {JPN}アスナ{ENG}
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -5021,7 +5021,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Attract
 
 === TRAINER_NORMAN_1 ===
-Name: NORMAN
+Name: {JPN}センリ{ENG}
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -5063,7 +5063,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Feint Attack
 
 === TRAINER_WINONA_1 ===
-Name: WINONA
+Name: {JPN}ナギ{ENG}
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -5113,7 +5113,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aerial Ace
 
 === TRAINER_TATE_AND_LIZA_1 ===
-Name: TATE&LIZA
+Name: {JPN}フウとラン{ENG}
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -5155,7 +5155,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Flamethrower
 
 === TRAINER_JUAN_1 ===
-Name: JUAN
+Name: {JPN}アダン{ENG}
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -5205,7 +5205,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Rest
 
 === TRAINER_JERRY_1 ===
-Name: JERRY
+Name: {JPN}ジェリー{ENG}
 Class: School Kid
 Pic: School Kid M
 Gender: Male
@@ -5218,7 +5218,7 @@ Level: 9
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TED ===
-Name: TED
+Name: {JPN}テッド{ENG}
 Class: School Kid
 Pic: School Kid M
 Gender: Male
@@ -5231,7 +5231,7 @@ Level: 17
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PAUL ===
-Name: PAUL
+Name: {JPN}ポール{ENG}
 Class: School Kid
 Pic: School Kid M
 Gender: Male
@@ -5252,7 +5252,7 @@ Level: 15
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JERRY_2 ===
-Name: JERRY
+Name: {JPN}ジェリー{ENG}
 Class: School Kid
 Pic: School Kid M
 Gender: Male
@@ -5269,7 +5269,7 @@ Level: 26
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JERRY_3 ===
-Name: JERRY
+Name: {JPN}ジェリー{ENG}
 Class: School Kid
 Pic: School Kid M
 Gender: Male
@@ -5286,7 +5286,7 @@ Level: 29
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JERRY_4 ===
-Name: JERRY
+Name: {JPN}ジェリー{ENG}
 Class: School Kid
 Pic: School Kid M
 Gender: Male
@@ -5303,7 +5303,7 @@ Level: 32
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JERRY_5 ===
-Name: JERRY
+Name: {JPN}ジェリー{ENG}
 Class: School Kid
 Pic: School Kid M
 Gender: Male
@@ -5324,7 +5324,7 @@ Level: 34
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_KAREN_1 ===
-Name: KAREN
+Name: {JPN}カレン{ENG}
 Class: School Kid
 Pic: School Kid F
 Gender: Female
@@ -5337,7 +5337,7 @@ Level: 9
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_GEORGIA ===
-Name: GEORGIA
+Name: {JPN}ジョージア{ENG}
 Class: School Kid
 Pic: School Kid F
 Gender: Female
@@ -5354,7 +5354,7 @@ Level: 16
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KAREN_2 ===
-Name: KAREN
+Name: {JPN}カレン{ENG}
 Class: School Kid
 Pic: School Kid F
 Gender: Female
@@ -5371,7 +5371,7 @@ Level: 26
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KAREN_3 ===
-Name: KAREN
+Name: {JPN}カレン{ENG}
 Class: School Kid
 Pic: School Kid F
 Gender: Female
@@ -5388,7 +5388,7 @@ Level: 29
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KAREN_4 ===
-Name: KAREN
+Name: {JPN}カレン{ENG}
 Class: School Kid
 Pic: School Kid F
 Gender: Female
@@ -5405,7 +5405,7 @@ Level: 32
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_KAREN_5 ===
-Name: KAREN
+Name: {JPN}カレン{ENG}
 Class: School Kid
 Pic: School Kid F
 Gender: Female
@@ -5422,7 +5422,7 @@ Level: 35
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_KATE_AND_JOY ===
-Name: KATE & JOY
+Name: {JPN}ケイトとジョイ{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5447,7 +5447,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Feint Attack
 
 === TRAINER_ANNA_AND_MEG_1 ===
-Name: ANNA & MEG
+Name: {JPN}アンナとメグ{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5471,7 +5471,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_2 ===
-Name: ANNA & MEG
+Name: {JPN}アンナとメグ{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5495,7 +5495,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_3 ===
-Name: ANNA & MEG
+Name: {JPN}アンナとメグ{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5519,7 +5519,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_4 ===
-Name: ANNA & MEG
+Name: {JPN}アンナとメグ{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5543,7 +5543,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_5 ===
-Name: ANNA & MEG
+Name: {JPN}アンナとメグ{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5567,7 +5567,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Arm Thrust
 
 === TRAINER_VICTOR ===
-Name: VICTOR
+Name: {JPN}ビクター{ENG}
 Class: Winstrate
 Pic: Pokefan M
 Gender: Male
@@ -5584,7 +5584,7 @@ Level: 16
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MIGUEL_1 ===
-Name: MIGUEL
+Name: {JPN}ミゲル{ENG}
 Class: Pokefan
 Pic: Pokefan M
 Gender: Male
@@ -5597,7 +5597,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_COLTON ===
-Name: COLTON
+Name: {JPN}コルトン{ENG}
 Class: Pokefan
 Pic: Pokefan M
 Gender: Male
@@ -5654,7 +5654,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Heal Bell
 
 === TRAINER_MIGUEL_2 ===
-Name: MIGUEL
+Name: {JPN}ミゲル{ENG}
 Class: Pokefan
 Pic: Pokefan M
 Gender: Male
@@ -5667,7 +5667,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIGUEL_3 ===
-Name: MIGUEL
+Name: {JPN}ミゲル{ENG}
 Class: Pokefan
 Pic: Pokefan M
 Gender: Male
@@ -5680,7 +5680,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIGUEL_4 ===
-Name: MIGUEL
+Name: {JPN}ミゲル{ENG}
 Class: Pokefan
 Pic: Pokefan M
 Gender: Male
@@ -5693,7 +5693,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIGUEL_5 ===
-Name: MIGUEL
+Name: {JPN}ミゲル{ENG}
 Class: Pokefan
 Pic: Pokefan M
 Gender: Male
@@ -5706,7 +5706,7 @@ Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VICTORIA ===
-Name: VICTORIA
+Name: {JPN}ビクトリア{ENG}
 Class: Winstrate
 Pic: Pokefan F
 Gender: Female
@@ -5719,7 +5719,7 @@ Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_VANESSA ===
-Name: VANESSA
+Name: {JPN}バネッサ{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -5732,7 +5732,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BETHANY ===
-Name: BETHANY
+Name: {JPN}ベサニー{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -5753,7 +5753,7 @@ Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ISABEL_1 ===
-Name: ISABEL
+Name: {JPN}イザベル{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -5770,7 +5770,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABEL_2 ===
-Name: ISABEL
+Name: {JPN}イザベル{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -5787,7 +5787,7 @@ Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ISABEL_3 ===
-Name: ISABEL
+Name: {JPN}イザベル{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -5804,7 +5804,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ISABEL_4 ===
-Name: ISABEL
+Name: {JPN}イザベル{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -5821,7 +5821,7 @@ Level: 32
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ISABEL_5 ===
-Name: ISABEL
+Name: {JPN}イザベル{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -5838,7 +5838,7 @@ Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_TIMOTHY_1 ===
-Name: TIMOTHY
+Name: {JPN}ティモシー{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -5851,7 +5851,7 @@ Level: 27
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_TIMOTHY_2 ===
-Name: TIMOTHY
+Name: {JPN}ティモシー{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -5868,7 +5868,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Dig
 
 === TRAINER_TIMOTHY_3 ===
-Name: TIMOTHY
+Name: {JPN}ティモシー{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -5885,7 +5885,7 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 - Dig
 
 === TRAINER_TIMOTHY_4 ===
-Name: TIMOTHY
+Name: {JPN}ティモシー{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -5902,7 +5902,7 @@ IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
 - Dig
 
 === TRAINER_TIMOTHY_5 ===
-Name: TIMOTHY
+Name: {JPN}ティモシー{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -5919,7 +5919,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 - Dig
 
 === TRAINER_VICKY ===
-Name: VICKY
+Name: {JPN}ビッキー{ENG}
 Class: Winstrate
 Pic: Expert F
 Gender: Female
@@ -5936,7 +5936,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Detect
 
 === TRAINER_SHELBY_1 ===
-Name: SHELBY
+Name: {JPN}シェルビー{ENG}
 Class: Expert
 Pic: Expert F
 Gender: Female
@@ -5953,7 +5953,7 @@ Level: 21
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SHELBY_2 ===
-Name: SHELBY
+Name: {JPN}シェルビー{ENG}
 Class: Expert
 Pic: Expert F
 Gender: Female
@@ -5970,7 +5970,7 @@ Level: 30
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 
 === TRAINER_SHELBY_3 ===
-Name: SHELBY
+Name: {JPN}シェルビー{ENG}
 Class: Expert
 Pic: Expert F
 Gender: Female
@@ -5987,7 +5987,7 @@ Level: 33
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 
 === TRAINER_SHELBY_4 ===
-Name: SHELBY
+Name: {JPN}シェルビー{ENG}
 Class: Expert
 Pic: Expert F
 Gender: Female
@@ -6004,7 +6004,7 @@ Level: 36
 IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
 
 === TRAINER_SHELBY_5 ===
-Name: SHELBY
+Name: {JPN}シェルビー{ENG}
 Class: Expert
 Pic: Expert F
 Gender: Female
@@ -6021,7 +6021,7 @@ Level: 39
 IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 === TRAINER_CALVIN_1 ===
-Name: CALVIN
+Name: {JPN}カルビン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6034,7 +6034,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BILLY ===
-Name: BILLY
+Name: {JPN}ビリー{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6051,7 +6051,7 @@ Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSH ===
-Name: MikManc
+Name: {JPN}ミクマンク{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -6075,7 +6075,7 @@ Leavanny @ Oran Berry
 Level: 16
 
 === TRAINER_TOMMY ===
-Name: Minister
+Name: {JPN}だいじん{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -6099,7 +6099,7 @@ Noivern
 Level: 17
 
 === TRAINER_JOEY ===
-Name: JOEY
+Name: {JPN}ジョーイ{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6112,7 +6112,7 @@ Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BEN ===
-Name: BEN
+Name: {JPN}ベン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6137,7 +6137,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Pound
 
 === TRAINER_QUINCY ===
-Name: QUINCY
+Name: {JPN}クインシー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -6163,7 +6163,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Toxic
 
 === TRAINER_KATELYNN ===
-Name: KATELYNN
+Name: {JPN}ケイトリン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -6189,7 +6189,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Brick Break
 
 === TRAINER_JAYLEN ===
-Name: JAYLEN
+Name: {JPN}ジェイレン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6202,7 +6202,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DILLON ===
-Name: DILLON
+Name: {JPN}ディロン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6215,7 +6215,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CALVIN_2 ===
-Name: CALVIN
+Name: {JPN}カルビン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6228,7 +6228,7 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CALVIN_3 ===
-Name: CALVIN
+Name: {JPN}カルビン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6245,7 +6245,7 @@ Level: 30
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CALVIN_4 ===
-Name: CALVIN
+Name: {JPN}カルビン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6266,7 +6266,7 @@ Level: 33
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CALVIN_5 ===
-Name: CALVIN
+Name: {JPN}カルビン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6287,7 +6287,7 @@ Level: 36
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_EDDIE ===
-Name: EDDIE
+Name: {JPN}エディ{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6304,7 +6304,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALLEN ===
-Name: ALLEN
+Name: {JPN}アレン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6321,7 +6321,7 @@ Level: 3
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TIMMY ===
-Name: TIMMY
+Name: {JPN}ティミー{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -6338,7 +6338,7 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WALLACE ===
-Name: WALLACE
+Name: {JPN}ミクリ{ENG}
 Class: Champion
 Pic: Champion Wallace
 Gender: Male
@@ -6397,7 +6397,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Toxic
 
 === TRAINER_ANDREW ===
-Name: ANDREW
+Name: {JPN}アンドリュー{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6418,7 +6418,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IVAN ===
-Name: IVAN
+Name: {JPN}イワン{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6439,7 +6439,7 @@ Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLAUDE ===
-Name: CLAUDE
+Name: {JPN}クロード{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6460,7 +6460,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ELLIOT_1 ===
-Name: ELLIOT
+Name: {JPN}エリオット{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6481,7 +6481,7 @@ Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NED ===
-Name: NED
+Name: {JPN}ネッド{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6494,7 +6494,7 @@ Level: 11
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DALE ===
-Name: DALE
+Name: {JPN}デール{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6519,7 +6519,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLAN ===
-Name: NOLAN
+Name: {JPN}ノーラン{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6532,7 +6532,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BARNY ===
-Name: BARNY
+Name: {JPN}バーニー{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6549,7 +6549,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WADE ===
-Name: WADE
+Name: {JPN}ウェイド{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6562,7 +6562,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CARTER ===
-Name: CARTER
+Name: {JPN}カーター{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6579,7 +6579,7 @@ Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ELLIOT_2 ===
-Name: ELLIOT
+Name: {JPN}エリオット{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6600,7 +6600,7 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ELLIOT_3 ===
-Name: ELLIOT
+Name: {JPN}エリオット{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6625,7 +6625,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ELLIOT_4 ===
-Name: ELLIOT
+Name: {JPN}エリオット{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6650,7 +6650,7 @@ Level: 31
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ELLIOT_5 ===
-Name: ELLIOT
+Name: {JPN}エリオット{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6675,7 +6675,7 @@ Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RONALD ===
-Name: RONALD
+Name: {JPN}ロナルド{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -6708,7 +6708,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JACOB ===
-Name: JACOB
+Name: {JPN}ジェイコブ{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -6729,7 +6729,7 @@ Level: 14
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_ANTHONY ===
-Name: ANTHONY
+Name: {JPN}アンソニー{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -6746,7 +6746,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENJAMIN_1 ===
-Name: BENJAMIN
+Name: {JPN}ベンジャミン{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -6759,7 +6759,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENJAMIN_2 ===
-Name: BENJAMIN
+Name: {JPN}ベンジャミン{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -6772,7 +6772,7 @@ Level: 30
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_BENJAMIN_3 ===
-Name: BENJAMIN
+Name: {JPN}ベンジャミン{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -6785,7 +6785,7 @@ Level: 33
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_BENJAMIN_4 ===
-Name: BENJAMIN
+Name: {JPN}ベンジャミン{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -6798,7 +6798,7 @@ Level: 36
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_BENJAMIN_5 ===
-Name: BENJAMIN
+Name: {JPN}ベンジャミン{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -6811,7 +6811,7 @@ Level: 39
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ABIGAIL_1 ===
-Name: ABIGAIL
+Name: {JPN}アビゲイル{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
@@ -6824,7 +6824,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JASMINE ===
-Name: JASMINE
+Name: {JPN}ジャスミン{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
@@ -6845,7 +6845,7 @@ Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ABIGAIL_2 ===
-Name: ABIGAIL
+Name: {JPN}アビゲイル{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
@@ -6858,7 +6858,7 @@ Level: 28
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ABIGAIL_3 ===
-Name: ABIGAIL
+Name: {JPN}アビゲイル{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
@@ -6871,7 +6871,7 @@ Level: 31
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ABIGAIL_4 ===
-Name: ABIGAIL
+Name: {JPN}アビゲイル{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
@@ -6884,7 +6884,7 @@ Level: 34
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ABIGAIL_5 ===
-Name: ABIGAIL
+Name: {JPN}アビゲイル{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
@@ -6897,7 +6897,7 @@ Level: 37
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DYLAN_1 ===
-Name: DYLAN
+Name: {JPN}ディラン{ENG}
 Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
@@ -6910,7 +6910,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DYLAN_2 ===
-Name: DYLAN
+Name: {JPN}ディラン{ENG}
 Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
@@ -6923,7 +6923,7 @@ Level: 28
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DYLAN_3 ===
-Name: DYLAN
+Name: {JPN}ディラン{ENG}
 Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
@@ -6936,7 +6936,7 @@ Level: 31
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_DYLAN_4 ===
-Name: DYLAN
+Name: {JPN}ディラン{ENG}
 Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
@@ -6949,7 +6949,7 @@ Level: 34
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_DYLAN_5 ===
-Name: DYLAN
+Name: {JPN}ディラン{ENG}
 Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
@@ -6962,7 +6962,7 @@ Level: 37
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_MARIA_1 ===
-Name: MARIA
+Name: {JPN}マリア{ENG}
 Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
@@ -6975,7 +6975,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARIA_2 ===
-Name: MARIA
+Name: {JPN}マリア{ENG}
 Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
@@ -6988,7 +6988,7 @@ Level: 28
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_MARIA_3 ===
-Name: MARIA
+Name: {JPN}マリア{ENG}
 Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
@@ -7001,7 +7001,7 @@ Level: 31
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_MARIA_4 ===
-Name: MARIA
+Name: {JPN}マリア{ENG}
 Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
@@ -7014,7 +7014,7 @@ Level: 34
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MARIA_5 ===
-Name: MARIA
+Name: {JPN}マリア{ENG}
 Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
@@ -7027,7 +7027,7 @@ Level: 37
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CAMDEN ===
-Name: CAMDEN
+Name: {JPN}カムデン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7044,7 +7044,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEMETRIUS ===
-Name: DEMETRIUS
+Name: {JPN}デメトリウス{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -7061,7 +7061,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISAIAH_1 ===
-Name: ISAIAH
+Name: {JPN}アイザイア{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7074,7 +7074,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PABLO_1 ===
-Name: PABLO
+Name: {JPN}パブロ{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7091,7 +7091,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHASE ===
-Name: CHASE
+Name: {JPN}チェイス{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7108,7 +7108,7 @@ Level: 34
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_ISAIAH_2 ===
-Name: ISAIAH
+Name: {JPN}アイザイア{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7121,7 +7121,7 @@ Level: 39
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ISAIAH_3 ===
-Name: ISAIAH
+Name: {JPN}アイザイア{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7134,7 +7134,7 @@ Level: 42
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ISAIAH_4 ===
-Name: ISAIAH
+Name: {JPN}アイザイア{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7147,7 +7147,7 @@ Level: 45
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ISAIAH_5 ===
-Name: ISAIAH
+Name: {JPN}アイザイア{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -7160,7 +7160,7 @@ Level: 48
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ISOBEL ===
-Name: ISOBEL
+Name: {JPN}イソベル{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7173,7 +7173,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DONNY ===
-Name: DONNY
+Name: {JPN}ドニー{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7190,7 +7190,7 @@ Level: 34
 IVs: 19 HP / 19 Atk / 19 Def / 19 SpA / 19 SpD / 19 Spe
 
 === TRAINER_TALIA ===
-Name: TALIA
+Name: {JPN}タリア{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7203,7 +7203,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KATELYN_1 ===
-Name: KATELYN
+Name: {JPN}ケイトリン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7216,7 +7216,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALLISON ===
-Name: ALLISON
+Name: {JPN}アリソン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7233,7 +7233,7 @@ Level: 33
 IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 
 === TRAINER_KATELYN_2 ===
-Name: KATELYN
+Name: {JPN}ケイトリン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7246,7 +7246,7 @@ Level: 39
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KATELYN_3 ===
-Name: KATELYN
+Name: {JPN}ケイトリン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7259,7 +7259,7 @@ Level: 42
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KATELYN_4 ===
-Name: KATELYN
+Name: {JPN}ケイトリン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7272,7 +7272,7 @@ Level: 45
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KATELYN_5 ===
-Name: KATELYN
+Name: {JPN}ケイトリン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -7285,7 +7285,7 @@ Level: 48
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_NICOLAS_1 ===
-Name: NICOLAS
+Name: {JPN}ニコラス{ENG}
 Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
@@ -7302,7 +7302,7 @@ Level: 37
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_NICOLAS_2 ===
-Name: NICOLAS
+Name: {JPN}ニコラス{ENG}
 Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
@@ -7319,7 +7319,7 @@ Level: 41
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_NICOLAS_3 ===
-Name: NICOLAS
+Name: {JPN}ニコラス{ENG}
 Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
@@ -7336,7 +7336,7 @@ Level: 44
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_NICOLAS_4 ===
-Name: NICOLAS
+Name: {JPN}ニコラス{ENG}
 Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
@@ -7357,7 +7357,7 @@ Level: 46
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_NICOLAS_5 ===
-Name: NICOLAS
+Name: {JPN}ニコラス{ENG}
 Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
@@ -7378,7 +7378,7 @@ Level: 49
 IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_AARON ===
-Name: AARON
+Name: {JPN}アーロン{ENG}
 Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
@@ -7395,7 +7395,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Ember
 
 === TRAINER_PERRY ===
-Name: PERRY
+Name: {JPN}ペリー{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7408,7 +7408,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HUGH ===
-Name: HUGH
+Name: {JPN}ヒュー{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7425,7 +7425,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PHIL ===
-Name: PHIL
+Name: {JPN}フィル{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7438,7 +7438,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JARED ===
-Name: JARED
+Name: {JPN}ジャレッド{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7459,7 +7459,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HUMBERTO ===
-Name: HUMBERTO
+Name: {JPN}ウンベルト{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7472,7 +7472,7 @@ Level: 30
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_PRESLEY ===
-Name: PRESLEY
+Name: {JPN}プレスリー{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7489,7 +7489,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWARDO ===
-Name: EDWARDO
+Name: {JPN}エドワルド{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7506,7 +7506,7 @@ Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_COLIN ===
-Name: COLIN
+Name: {JPN}コリン{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7523,7 +7523,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBERT_1 ===
-Name: ROBERT
+Name: {JPN}ロバート{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7536,7 +7536,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BENNY ===
-Name: BENNY
+Name: {JPN}ベニー{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7557,7 +7557,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHESTER ===
-Name: CHESTER
+Name: {JPN}チェスター{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7574,7 +7574,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBERT_2 ===
-Name: ROBERT
+Name: {JPN}ロバート{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7591,7 +7591,7 @@ Level: 32
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ROBERT_3 ===
-Name: ROBERT
+Name: {JPN}ロバート{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7608,7 +7608,7 @@ Level: 35
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ROBERT_4 ===
-Name: ROBERT
+Name: {JPN}ロバート{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7625,7 +7625,7 @@ Level: 38
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ROBERT_5 ===
-Name: ROBERT
+Name: {JPN}ロバート{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7642,7 +7642,7 @@ Level: 41
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ALEX ===
-Name: ALEX
+Name: {JPN}アレックス{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7659,7 +7659,7 @@ Level: 33
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BECK ===
-Name: BECK
+Name: {JPN}ベック{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -7672,7 +7672,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_YASU ===
-Name: YASU
+Name: {JPN}ヤス{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7685,7 +7685,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TAKASHI ===
-Name: TAKASHI
+Name: {JPN}タカシ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7702,7 +7702,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANNE ===
-Name: DIANNE
+Name: {JPN}ダイアン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -7723,7 +7723,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Earthquake
 
 === TRAINER_JANI ===
-Name: JANI
+Name: {JPN}ジャニ{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -7735,7 +7735,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_1 ===
-Name: LAO
+Name: {JPN}ラオ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7767,7 +7767,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Self Destruct
 
 === TRAINER_LUNG ===
-Name: LUNG
+Name: {JPN}ロン{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7783,7 +7783,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_2 ===
-Name: LAO
+Name: {JPN}ラオ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7820,7 +7820,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Sludge
 
 === TRAINER_LAO_3 ===
-Name: LAO
+Name: {JPN}ラオ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7857,7 +7857,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Sludge
 
 === TRAINER_LAO_4 ===
-Name: LAO
+Name: {JPN}ラオ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7892,7 +7892,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Sludge
 
 === TRAINER_LAO_5 ===
-Name: LAO
+Name: {JPN}ラオ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -7929,7 +7929,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Sludge
 
 === TRAINER_JOCELYN ===
-Name: JOCELYN
+Name: {JPN}ジョセリン{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -7942,7 +7942,7 @@ Level: 13
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_LAURA ===
-Name: LAURA
+Name: {JPN}ローラ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -7955,7 +7955,7 @@ Level: 13
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_CYNDY_1 ===
-Name: CYNDY
+Name: {JPN}シンディ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -7972,7 +7972,7 @@ Level: 18
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CORA ===
-Name: CORA
+Name: {JPN}コーラ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -7985,7 +7985,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_PAULA ===
-Name: PAULA
+Name: {JPN}ポーラ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -7998,7 +7998,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CYNDY_2 ===
-Name: CYNDY
+Name: {JPN}シンディ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -8015,7 +8015,7 @@ Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_CYNDY_3 ===
-Name: CYNDY
+Name: {JPN}シンディ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -8032,7 +8032,7 @@ Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_CYNDY_4 ===
-Name: CYNDY
+Name: {JPN}シンディ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -8049,7 +8049,7 @@ Level: 32
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_CYNDY_5 ===
-Name: CYNDY
+Name: {JPN}シンディ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -8066,7 +8066,7 @@ Level: 35
 IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_MADELINE_1 ===
-Name: MADELINE
+Name: {JPN}マデリン{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -8083,7 +8083,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Sunny Day
 
 === TRAINER_CLARISSA ===
-Name: CLARISSA
+Name: {JPN}クラリッサ{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -8100,7 +8100,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANGELICA ===
-Name: ANGELICA
+Name: {JPN}アンジェリカ{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -8117,7 +8117,7 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Water Pulse
 
 === TRAINER_MADELINE_2 ===
-Name: MADELINE
+Name: {JPN}マデリン{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -8134,7 +8134,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Sunny Day
 
 === TRAINER_MADELINE_3 ===
-Name: MADELINE
+Name: {JPN}マデリン{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -8151,7 +8151,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Sunny Day
 
 === TRAINER_MADELINE_4 ===
-Name: MADELINE
+Name: {JPN}マデリン{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -8176,7 +8176,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Sunny Day
 
 === TRAINER_MADELINE_5 ===
-Name: MADELINE
+Name: {JPN}マデリン{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -8201,7 +8201,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Sunny Day
 
 === TRAINER_BEVERLY ===
-Name: BEVERLY
+Name: {JPN}ビバリー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8218,7 +8218,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_IMANI ===
-Name: IMANI
+Name: {JPN}イマニ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8231,7 +8231,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KYLA ===
-Name: KYLA
+Name: {JPN}カイラ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8244,7 +8244,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DENISE ===
-Name: DENISE
+Name: {JPN}デニース{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8261,7 +8261,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BETH ===
-Name: BETH
+Name: {JPN}ベス{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8274,7 +8274,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TARA ===
-Name: TARA
+Name: {JPN}タラ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8291,7 +8291,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MISSY ===
-Name: MISSY
+Name: {JPN}ミッシー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8304,7 +8304,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALICE ===
-Name: ALICE
+Name: {JPN}アリス{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8325,7 +8325,7 @@ Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_1 ===
-Name: JENNY
+Name: {JPN}ジェニー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8338,7 +8338,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRACE ===
-Name: GRACE
+Name: {JPN}グレース{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8351,7 +8351,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TANYA ===
-Name: TANYA
+Name: {JPN}ターニャ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8364,7 +8364,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHARON ===
-Name: SHARON
+Name: {JPN}シャロン{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8377,7 +8377,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NIKKI ===
-Name: NIKKI
+Name: {JPN}ニッキー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8394,7 +8394,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDA ===
-Name: BRENDA
+Name: {JPN}ブレンダ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8407,7 +8407,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KATIE ===
-Name: KATIE
+Name: {JPN}ケイティ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8424,7 +8424,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SUSIE ===
-Name: SUSIE
+Name: {JPN}スージー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8437,7 +8437,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KARA ===
-Name: KARA
+Name: {JPN}カーラ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8450,7 +8450,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DANA ===
-Name: DANA
+Name: {JPN}ダナ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8463,7 +8463,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SIENNA ===
-Name: SIENNA
+Name: {JPN}シエナ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8480,7 +8480,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEBRA ===
-Name: DEBRA
+Name: {JPN}デブラ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8493,7 +8493,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LINDA ===
-Name: LINDA
+Name: {JPN}リンダ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8510,7 +8510,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KAYLEE ===
-Name: AYAME
+Name: {JPN}アヤメ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -8535,7 +8535,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAUREL ===
-Name: LAUREL
+Name: {JPN}ローレル{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8552,7 +8552,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CARLEE ===
-Name: CARLEE
+Name: {JPN}カーリー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8565,7 +8565,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_2 ===
-Name: JENNY
+Name: {JPN}ジェニー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8578,7 +8578,7 @@ Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_3 ===
-Name: JENNY
+Name: {JPN}ジェニー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8591,7 +8591,7 @@ Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_4 ===
-Name: JENNY
+Name: {JPN}ジェニー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8608,7 +8608,7 @@ Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JENNY_5 ===
-Name: JENNY
+Name: {JPN}ジェニー{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -8629,7 +8629,7 @@ Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HEIDI ===
-Name: HEIDI
+Name: {JPN}ハイジ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8654,7 +8654,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Rock Tomb
 
 === TRAINER_BECKY ===
-Name: BECKY
+Name: {JPN}ベッキー{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8679,7 +8679,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Defense Curl
 
 === TRAINER_CAROL ===
-Name: CAROL
+Name: {JPN}キャロル{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8696,7 +8696,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NANCY ===
-Name: NANCY
+Name: {JPN}ナンシー{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8713,7 +8713,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARTHA ===
-Name: MARTHA
+Name: {JPN}マーサ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8730,7 +8730,7 @@ Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANA_1 ===
-Name: DIANA
+Name: {JPN}ダイアナ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8751,7 +8751,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CEDRIC ===
-Name: CEDRIC
+Name: {JPN}セドリック{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -8768,7 +8768,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Mirror Coat
 
 === TRAINER_IRENE ===
-Name: IRENE
+Name: {JPN}アイリーン{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8785,7 +8785,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANA_2 ===
-Name: DIANA
+Name: {JPN}ダイアナ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8806,7 +8806,7 @@ Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_DIANA_3 ===
-Name: DIANA
+Name: {JPN}ダイアナ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8827,7 +8827,7 @@ Level: 28
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_DIANA_4 ===
-Name: DIANA
+Name: {JPN}ダイアナ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8848,7 +8848,7 @@ Level: 31
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_DIANA_5 ===
-Name: DIANA
+Name: {JPN}ダイアナ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -8869,7 +8869,7 @@ Level: 40
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_AMY_AND_LIV_1 ===
-Name: AMY & LIV
+Name: {JPN}エイミーとリヴ{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8886,7 +8886,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_2 ===
-Name: AMY & LIV
+Name: {JPN}エイミーとリヴ{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8903,7 +8903,7 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_GINA_AND_MIA_1 ===
-Name: GINA & MIA
+Name: {JPN}ジーナとミア{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8920,7 +8920,7 @@ Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIU_AND_YUKI ===
-Name: MIU & YUKI
+Name: {JPN}ミウとユキ{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8937,7 +8937,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_3 ===
-Name: RYUJIN
+Name: {JPN}リュウジン{ENG}
 Class: Dragon Warden
 Pic: Dragon Tamer
 Gender: Male
@@ -8962,7 +8962,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Dragon Dance
 
 === TRAINER_GINA_AND_MIA_2 ===
-Name: TATSUKO
+Name: {JPN}タツコ{ENG}
 Class: Dragon Warden
 Pic: Dragon Tamer
 Gender: Female
@@ -8983,7 +8983,7 @@ Level: 50
 IVs: 28 HP / 28 Atk / 28 Def / 28 SpA / 28 SpD / 28 Spe
 
 === TRAINER_AMY_AND_LIV_4 ===
-Name: AMY & LIV
+Name: {JPN}エイミーとリヴ{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -9000,7 +9000,7 @@ Level: 30
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_AMY_AND_LIV_5 ===
-Name: AMY & LIV
+Name: {JPN}エイミーとリヴ{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -9025,7 +9025,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Helping Hand
 
 === TRAINER_AMY_AND_LIV_6 ===
-Name: AMY & LIV
+Name: {JPN}エイミーとリヴ{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -9050,7 +9050,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Helping Hand
 
 === TRAINER_HUEY ===
-Name: HUEY
+Name: {JPN}ヒューイ{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9067,7 +9067,7 @@ Level: 12
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_EDMOND ===
-Name: EDMOND
+Name: {JPN}エドモンド{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9080,7 +9080,7 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ERNEST_1 ===
-Name: ERNEST
+Name: {JPN}アーネスト{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9097,7 +9097,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DWAYNE ===
-Name: DWAYNE
+Name: {JPN}ドウェイン{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9118,7 +9118,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_PHILLIP ===
-Name: PHILLIP
+Name: {JPN}フィリップ{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9135,7 +9135,7 @@ Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEONARD ===
-Name: LEONARD
+Name: {JPN}レナード{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9156,7 +9156,7 @@ Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DUNCAN ===
-Name: DUNCAN
+Name: {JPN}ダンカン{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9173,7 +9173,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ERNEST_2 ===
-Name: ERNEST
+Name: {JPN}アーネスト{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9194,7 +9194,7 @@ Level: 36
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ERNEST_3 ===
-Name: ERNEST
+Name: {JPN}アーネスト{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9215,7 +9215,7 @@ Level: 39
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ERNEST_4 ===
-Name: ERNEST
+Name: {JPN}アーネスト{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9236,7 +9236,7 @@ Level: 42
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ERNEST_5 ===
-Name: ERNEST
+Name: {JPN}アーネスト{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9257,7 +9257,7 @@ Level: 45
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ELI ===
-Name: ELI
+Name: {JPN}イーライ{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -9270,7 +9270,7 @@ Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ANNIKA ===
-Name: ANNIKA
+Name: {JPN}アニカ{ENG}
 Class: Pokefan
 Pic: Pokefan F
 Gender: Female
@@ -9295,7 +9295,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Attract
 
 === TRAINER_JAZMYN ===
-Name: JAZMYN
+Name: {JPN}ジャズミン{ENG}
 Class: Cooltrainer 2
 Pic: Cooltrainer F
 Gender: Female
@@ -9309,7 +9309,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JONAS ===
-Name: JONAS
+Name: {JPN}ジョナス{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -9326,7 +9326,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Sludge Bomb
 
 === TRAINER_KAYLEY ===
-Name: KAYLEY
+Name: {JPN}ケイリー{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -9343,7 +9343,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Solar Beam
 
 === TRAINER_AURON ===
-Name: AURON
+Name: {JPN}アーロン{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -9360,7 +9360,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KELVIN ===
-Name: KELVIN
+Name: {JPN}ケルビン{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9377,7 +9377,7 @@ Level: 33
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MARLEY ===
-Name: MARLEY
+Name: {JPN}マーリー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -9395,7 +9395,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunderbolt
 
 === TRAINER_REYNA ===
-Name: REYNA
+Name: {JPN}レイナ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -9412,7 +9412,7 @@ Level: 33
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_HUDSON ===
-Name: HUDSON
+Name: {JPN}ハドソン{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -9425,7 +9425,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CONOR ===
-Name: CONOR
+Name: {JPN}コナー{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -9442,7 +9442,7 @@ Level: 33
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_EDWIN_1 ===
-Name: EDWIN
+Name: {JPN}エドウィン{ENG}
 Class: Collector
 Pic: Collector
 Gender: Male
@@ -9459,7 +9459,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HECTOR ===
-Name: HECTOR
+Name: {JPN}ヘクター{ENG}
 Class: Collector
 Pic: Collector
 Gender: Male
@@ -9476,7 +9476,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MOSSDEEP ===
-Name: TABITHA
+Name: {JPN}ホムラ{ENG}
 Class: Magma Admin
 Pic: Magma Admin
 Gender: Male
@@ -9497,7 +9497,7 @@ Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_EDWIN_2 ===
-Name: EDWIN
+Name: {JPN}エドウィン{ENG}
 Class: Collector
 Pic: Collector
 Gender: Male
@@ -9514,7 +9514,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWIN_3 ===
-Name: EDWIN
+Name: {JPN}エドウィン{ENG}
 Class: Collector
 Pic: Collector
 Gender: Male
@@ -9531,7 +9531,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWIN_4 ===
-Name: EDWIN
+Name: {JPN}エドウィン{ENG}
 Class: Collector
 Pic: Collector
 Gender: Male
@@ -9548,7 +9548,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EDWIN_5 ===
-Name: EDWIN
+Name: {JPN}エドウィン{ENG}
 Class: Collector
 Pic: Collector
 Gender: Male
@@ -9565,7 +9565,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WALLY_VR_1 ===
-Name: WALLY
+Name: {JPN}ミツル{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -9615,7 +9615,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Future Sight
 
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9628,7 +9628,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9649,7 +9649,7 @@ Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_MUDKIP ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9670,7 +9670,7 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TREECKO ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9683,7 +9683,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9704,7 +9704,7 @@ Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TREECKO ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9725,7 +9725,7 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9738,7 +9738,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9759,7 +9759,7 @@ Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TORCHIC ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -9780,7 +9780,7 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9793,7 +9793,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9814,7 +9814,7 @@ Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_MUDKIP ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9835,7 +9835,7 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9848,7 +9848,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9869,7 +9869,7 @@ Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_TREECKO ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9890,7 +9890,7 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9903,7 +9903,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9924,7 +9924,7 @@ Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -9945,7 +9945,7 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ISAAC_1 ===
-Name: ISAAC
+Name: {JPN}アイザック{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
@@ -9978,7 +9978,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAVIS ===
-Name: DAVIS
+Name: {JPN}デイビス{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -9991,7 +9991,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MITCHELL ===
-Name: MITCHELL
+Name: {JPN}ミッチェル{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -10016,7 +10016,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Shadow Ball
 
 === TRAINER_ISAAC_2 ===
-Name: ISAAC
+Name: {JPN}アイザック{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
@@ -10049,7 +10049,7 @@ Level: 22
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ISAAC_3 ===
-Name: ISAAC
+Name: {JPN}アイザック{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
@@ -10082,7 +10082,7 @@ Level: 25
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ISAAC_4 ===
-Name: ISAAC
+Name: {JPN}アイザック{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
@@ -10115,7 +10115,7 @@ Level: 28
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ISAAC_5 ===
-Name: ISAAC
+Name: {JPN}アイザック{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
@@ -10148,7 +10148,7 @@ Level: 31
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_LYDIA_1 ===
-Name: LYDIA
+Name: {JPN}リディア{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
@@ -10181,7 +10181,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HALLE ===
-Name: HALLE
+Name: {JPN}ハリー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -10199,7 +10199,7 @@ Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GARRISON ===
-Name: GARRISON
+Name: {JPN}ギャリソン{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -10212,7 +10212,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LYDIA_2 ===
-Name: LYDIA
+Name: {JPN}リディア{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
@@ -10245,7 +10245,7 @@ Level: 22
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_LYDIA_3 ===
-Name: LYDIA
+Name: {JPN}リディア{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
@@ -10278,7 +10278,7 @@ Level: 25
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_LYDIA_4 ===
-Name: LYDIA
+Name: {JPN}リディア{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
@@ -10311,7 +10311,7 @@ Level: 28
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_LYDIA_5 ===
-Name: LYDIA
+Name: {JPN}リディア{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
@@ -10344,7 +10344,7 @@ Level: 31
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JACKSON_1 ===
-Name: JACKSON
+Name: {JPN}ジャクソン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
@@ -10358,7 +10358,7 @@ Level: 27
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_LORENZO ===
-Name: LORENZO
+Name: {JPN}ロレンツォ{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
@@ -10380,7 +10380,7 @@ Level: 28
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_SEBASTIAN ===
-Name: SEBASTIAN
+Name: {JPN}セバスチャン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
@@ -10394,7 +10394,7 @@ Level: 39
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JACKSON_2 ===
-Name: JACKSON
+Name: {JPN}ジャクソン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
@@ -10408,7 +10408,7 @@ Level: 31
 IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
 
 === TRAINER_JACKSON_3 ===
-Name: JACKSON
+Name: {JPN}ジャクソン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
@@ -10422,7 +10422,7 @@ Level: 34
 IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
 === TRAINER_JACKSON_4 ===
-Name: JACKSON
+Name: {JPN}ジャクソン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
@@ -10436,7 +10436,7 @@ Level: 37
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_JACKSON_5 ===
-Name: JACKSON
+Name: {JPN}ジャクソン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
@@ -10454,7 +10454,7 @@ Level: 39
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_CATHERINE_1 ===
-Name: CATHERINE
+Name: {JPN}キャサリン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
@@ -10472,7 +10472,7 @@ Level: 26
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JENNA ===
-Name: JENNA
+Name: {JPN}ジェナ{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
@@ -10494,7 +10494,7 @@ Level: 28
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_SOPHIA ===
-Name: SOPHIA
+Name: {JPN}ソフィア{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
@@ -10512,7 +10512,7 @@ Level: 38
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CATHERINE_2 ===
-Name: CATHERINE
+Name: {JPN}キャサリン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
@@ -10530,7 +10530,7 @@ Level: 30
 IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
 
 === TRAINER_CATHERINE_3 ===
-Name: CATHERINE
+Name: {JPN}キャサリン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
@@ -10548,7 +10548,7 @@ Level: 33
 IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
 === TRAINER_CATHERINE_4 ===
-Name: CATHERINE
+Name: {JPN}キャサリン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
@@ -10566,7 +10566,7 @@ Level: 36
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_CATHERINE_5 ===
-Name: CATHERINE
+Name: {JPN}キャサリン{ENG}
 Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
@@ -10584,7 +10584,7 @@ Level: 39
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_JULIO ===
-Name: JULIO
+Name: {JPN}フリオ{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
@@ -10618,7 +10618,7 @@ Level: 20
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_GRUNT_UNUSED ===
-Name: HOSHI
+Name: {JPN}ホシ{ENG}
 Class: Mutrid
 Pic: Magma Grunt M
 Gender: Male
@@ -10635,7 +10635,7 @@ Level: 40
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_GRUNT_MT_PYRE_4 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
@@ -10652,7 +10652,7 @@ Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_JAGGED_PASS ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -10693,7 +10693,7 @@ Crabrawler @ Oran Berry
 Level: 16
 
 === TRAINER_BRENDEN ===
-Name: BRENDEN
+Name: {JPN}ブレンデン{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -10706,7 +10706,7 @@ Level: 13
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LILITH ===
-Name: LILITH
+Name: {JPN}リリス{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -10719,7 +10719,7 @@ Level: 13
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_CRISTIAN ===
-Name: CRISTIAN
+Name: {JPN}クリスチャン{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -10732,7 +10732,7 @@ Level: 13
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SYLVIA ===
-Name: SUZAKU
+Name: {JPN}スザク{ENG}
 Class: Expert
 Pic: Cooltrainer F
 Gender: Female
@@ -10767,7 +10767,7 @@ Shadow: Yes
 IVs: 28 HP / 28 Atk / 28 Def / 28 SpA / 28 SpD / 28 Spe
 
 === TRAINER_LEONARDO ===
-Name: LEONARDO
+Name: {JPN}レオナルド{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -10780,7 +10780,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ATHENA ===
-Name: ATHENA
+Name: {JPN}アテナ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -10803,7 +10803,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thief
 
 === TRAINER_HARRISON ===
-Name: HARRISON
+Name: {JPN}ハリソン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -10816,7 +10816,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MT_CHIMNEY_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -10829,7 +10829,7 @@ Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLARENCE ===
-Name: CLARENCE
+Name: {JPN}クラレンス{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -10842,7 +10842,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TERRY ===
-Name: VOLTEN
+Name: {JPN}ボルテン{ENG}
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -10867,7 +10867,7 @@ Level: 51
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_NATE ===
-Name: GORO
+Name: {JPN}ゴロウ{ENG}
 Class: Mutrid
 Pic: Magma Grunt M
 Gender: Male
@@ -10890,7 +10890,7 @@ Level: 44
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_KATHLEEN ===
-Name: MUTRID ALPHA
+Name: {JPN}アルファ{ENG}
 Class: Mutrid
 Pic: Mutrid Grunt White
 Gender: Male
@@ -10924,7 +10924,7 @@ Shadow: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_CLIFFORD ===
-Name: ROKU
+Name: {JPN}ロク{ENG}
 Class: Mutrid
 Pic: Magma Grunt M
 Gender: Male
@@ -10947,7 +10947,7 @@ Level: 43
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_NICHOLAS ===
-Name: DAICHI
+Name: {JPN}ダイチ{ENG}
 Class: Mutrid
 Pic: Magma Grunt M
 Gender: Male
@@ -10965,7 +10965,7 @@ Shadow: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_3 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt F
 Gender: Female
@@ -10982,7 +10982,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_4 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -10995,7 +10995,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_5 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -11008,7 +11008,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_6 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -11021,7 +11021,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_7 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -11034,7 +11034,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MACEY ===
-Name: UME
+Name: {JPN}ウメ{ENG}
 Class: Mutrid
 Pic: Magma Grunt F
 Gender: Female
@@ -11057,7 +11057,7 @@ Level: 43
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TREECKO ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -11074,7 +11074,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_MUDKIP ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -11091,7 +11091,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_PAXTON ===
-Name: PAXTON
+Name: {JPN}パクストン{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -11108,7 +11108,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABELLA ===
-Name: ISABELLA
+Name: {JPN}イザベラ{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
@@ -11121,7 +11121,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_5 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
@@ -11138,7 +11138,7 @@ Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MT_CHIMNEY ===
-Name: TABITHA
+Name: {JPN}ホムラ{ENG}
 Class: Magma Admin
 Pic: Magma Admin
 Gender: Male
@@ -11163,7 +11163,7 @@ Level: 22
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JONATHAN ===
-Name: JONATHAN
+Name: {JPN}ジョナサン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -11181,7 +11181,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TORCHIC ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -11198,7 +11198,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_RUSTBORO_MUDKIP ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -11215,7 +11215,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAXIE_MAGMA_HIDEOUT ===
-Name: MAXIE
+Name: {JPN}マツブサ{ENG}
 Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
@@ -11237,7 +11237,7 @@ Level: 39
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAXIE_MT_CHIMNEY ===
-Name: MAXIE
+Name: {JPN}マツブサ{ENG}
 Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
@@ -11259,7 +11259,7 @@ Level: 25
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_TIANA ===
-Name: TIANA
+Name: {JPN}ティアナ{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11276,7 +11276,7 @@ Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HALEY_1 ===
-Name: HALEY
+Name: {JPN}ヘイリー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11293,7 +11293,7 @@ Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JANICE ===
-Name: JANICE
+Name: {JPN}ジャニス{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11306,7 +11306,7 @@ Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_VIVI ===
-Name: VIVI
+Name: {JPN}ビビ{ENG}
 Class: Winstrate
 Pic: Lass
 Gender: Female
@@ -11327,7 +11327,7 @@ Level: 15
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HALEY_2 ===
-Name: HALEY
+Name: {JPN}ヘイリー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11344,7 +11344,7 @@ Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_HALEY_3 ===
-Name: HALEY
+Name: {JPN}ヘイリー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11361,7 +11361,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_HALEY_4 ===
-Name: HALEY
+Name: {JPN}ヘイリー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11378,7 +11378,7 @@ Level: 32
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_HALEY_5 ===
-Name: HALEY
+Name: {JPN}ヘイリー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11399,7 +11399,7 @@ Level: 34
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_SALLY ===
-Name: SALLY
+Name: {JPN}サリー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11412,7 +11412,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROBIN ===
-Name: ROBIN
+Name: {JPN}ロビン{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11433,7 +11433,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANDREA ===
-Name: ANDREA
+Name: {JPN}アンドレア{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11446,7 +11446,7 @@ Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CRISSY ===
-Name: CRISSY
+Name: {JPN}クリシー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female
@@ -11463,7 +11463,7 @@ Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RICK ===
-Name: RICK
+Name: {JPN}リック{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11480,7 +11480,7 @@ Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LYLE ===
-Name: LYLE
+Name: {JPN}ライル{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11505,7 +11505,7 @@ Level: 3
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSE ===
-Name: JOSE
+Name: {JPN}ホセ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11522,7 +11522,7 @@ Level: 8
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_DOUG ===
-Name: DOUG
+Name: {JPN}ダグ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11539,7 +11539,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GREG ===
-Name: GREG
+Name: {JPN}グレッグ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11556,7 +11556,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KENT ===
-Name: KENT
+Name: {JPN}ケント{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11569,7 +11569,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAMES_1 ===
-Name: JAMES
+Name: {JPN}ジェームズ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11586,7 +11586,7 @@ Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAMES_2 ===
-Name: JAMES
+Name: {JPN}ジェームズ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11599,7 +11599,7 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_JAMES_3 ===
-Name: JAMES
+Name: {JPN}ジェームズ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11616,7 +11616,7 @@ Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_JAMES_4 ===
-Name: JAMES
+Name: {JPN}ジェームズ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11637,7 +11637,7 @@ Level: 31
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_JAMES_5 ===
-Name: JAMES
+Name: {JPN}ジェームズ{ENG}
 Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
@@ -11662,7 +11662,7 @@ Level: 33
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_BRICE ===
-Name: BRICE
+Name: {JPN}ブライス{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11679,7 +11679,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TRENT_1 ===
-Name: TRENT
+Name: {JPN}トレント{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11700,7 +11700,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LENNY ===
-Name: LENNY
+Name: {JPN}レニー{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11717,7 +11717,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUCAS_1 ===
-Name: LUCAS
+Name: {JPN}ルーカス{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11734,7 +11734,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALAN ===
-Name: ALAN
+Name: {JPN}アラン{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11755,7 +11755,7 @@ Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CLARK ===
-Name: CLARK
+Name: {JPN}クラーク{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11768,7 +11768,7 @@ Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ERIC ===
-Name: ERIC
+Name: {JPN}エリック{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11785,7 +11785,7 @@ Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUCAS_2 ===
-Name: COCO
+Name: {JPN}ココ{ENG}
 Class: Tuber F
 Pic: Wot Beach Girl
 Gender: Female
@@ -11800,7 +11800,7 @@ Pyukumuku
 Level: 10
 
 === TRAINER_MIKE_1 ===
-Name: PETE
+Name: {JPN}ピート{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -11812,7 +11812,7 @@ Eiscue
 Level: 10
 
 === TRAINER_MIKE_2 ===
-Name: MIKE
+Name: {JPN}マイク{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11833,7 +11833,7 @@ Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TRENT_2 ===
-Name: TRENT
+Name: {JPN}トレント{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11858,7 +11858,7 @@ Level: 24
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_TRENT_3 ===
-Name: TRENT
+Name: {JPN}トレント{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11883,7 +11883,7 @@ Level: 27
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_TRENT_4 ===
-Name: TRENT
+Name: {JPN}トレント{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11908,7 +11908,7 @@ Level: 30
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_TRENT_5 ===
-Name: TRENT
+Name: {JPN}トレント{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -11933,7 +11933,7 @@ Level: 33
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DEZ_AND_LUKE ===
-Name: DEZ & LUKE
+Name: {JPN}デズとルーク{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11950,7 +11950,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEA_AND_JED ===
-Name: LEA & JED
+Name: {JPN}レアとジェド{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11967,7 +11967,7 @@ Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIRA_AND_DAN_1 ===
-Name: KIRA & DAN
+Name: {JPN}キラとダン{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11984,7 +11984,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIRA_AND_DAN_2 ===
-Name: KIRA & DAN
+Name: {JPN}キラとダン{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -12001,7 +12001,7 @@ Level: 30
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KIRA_AND_DAN_3 ===
-Name: KIRA & DAN
+Name: {JPN}キラとダン{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -12018,7 +12018,7 @@ Level: 33
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KIRA_AND_DAN_4 ===
-Name: KIRA & DAN
+Name: {JPN}キラとダン{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -12035,7 +12035,7 @@ Level: 36
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KIRA_AND_DAN_5 ===
-Name: KIRA & DAN
+Name: {JPN}キラとダン{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -12052,7 +12052,7 @@ Level: 39
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JOHANNA ===
-Name: JOHANNA
+Name: {JPN}ヨハンナ{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -12065,7 +12065,7 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GERALD ===
-Name: GERALD
+Name: {JPN}ジェラルド{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -12083,7 +12083,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Bind
 
 === TRAINER_VIVIAN ===
-Name: VIVIAN
+Name: {JPN}ビビアン{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -12108,7 +12108,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Meditate
 
 === TRAINER_DANIELLE ===
-Name: DANIELLE
+Name: {JPN}ダニエル{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -12125,7 +12125,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Fire Punch
 
 === TRAINER_HIDEO ===
-Name: HIDEO
+Name: {JPN}ヒデオ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -12150,7 +12150,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Smokescreen
 
 === TRAINER_KEIGO ===
-Name: KEIGO
+Name: {JPN}ケイゴ{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -12175,7 +12175,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Swords Dance
 
 === TRAINER_RILEY ===
-Name: RILEY
+Name: {JPN}ライリー{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -12200,7 +12200,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Smokescreen
 
 === TRAINER_FLINT ===
-Name: FLINT
+Name: {JPN}フリント{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -12217,7 +12217,7 @@ Level: 29
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ASHLEY ===
-Name: ASHLEY
+Name: {JPN}アシュリー{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -12238,7 +12238,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WALLY_MAUVILLE ===
-Name: WALLY
+Name: {JPN}ミツル{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12251,7 +12251,7 @@ Level: 16
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_WALLY_VR_2 ===
-Name: WALLY
+Name: {JPN}ミツル{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12301,7 +12301,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Future Sight
 
 === TRAINER_WALLY_VR_3 ===
-Name: WALLY
+Name: {JPN}ミツル{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12351,7 +12351,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Future Sight
 
 === TRAINER_WALLY_VR_4 ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -12373,7 +12373,7 @@ THE ONI -- the final boss on TowerTop. Levels sit just above MUTRID ALPHA
 (TowerCommand, Lv54-55).
 */
 === TRAINER_WALLY_VR_5 ===
-Name: THE ONI
+Name: {JPN}オニ{ENG}
 Class: Mutrid
 Pic: Mutrid Leader
 Gender: Male
@@ -12411,7 +12411,7 @@ Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_MUDKIP ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -12436,7 +12436,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_TREECKO ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -12461,7 +12461,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_TORCHIC ===
-Name: BRENDAN
+Name: {JPN}ユウキ{ENG}
 Class: Rival
 Pic: Brendan
 Gender: Male
@@ -12486,7 +12486,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_MUDKIP ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -12511,7 +12511,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_TREECKO ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -12536,7 +12536,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_MAY_LILYCOVE_TORCHIC ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -12561,7 +12561,7 @@ Level: 34
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_JONAH ===
-Name: JONAH
+Name: {JPN}ジョナ{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -12582,7 +12582,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HENRY ===
-Name: HENRY
+Name: {JPN}ヘンリー{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -12599,7 +12599,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROGER ===
-Name: ROGER
+Name: {JPN}ロジャー{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -12620,7 +12620,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALEXA ===
-Name: ALEXA
+Name: {JPN}アレクサ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -12638,7 +12638,7 @@ Level: 34
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RUBEN ===
-Name: RUBEN
+Name: {JPN}ルーベン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -12656,7 +12656,7 @@ Level: 34
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KOJI_1 ===
-Name: KOJI
+Name: {JPN}コウジ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -12669,7 +12669,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WAYNE ===
-Name: WAYNE
+Name: {JPN}ウェイン{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -12690,7 +12690,7 @@ Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AIDAN ===
-Name: AIDAN
+Name: {JPN}エイダン{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -12707,7 +12707,7 @@ Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_REED ===
-Name: REED
+Name: {JPN}リード{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -12724,7 +12724,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TISHA ===
-Name: TISHA
+Name: {JPN}ティシャ{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -12737,7 +12737,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TORI_AND_TIA ===
-Name: TORI & TIA
+Name: {JPN}トリとティア{ENG}
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -12754,7 +12754,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIM_AND_IRIS ===
-Name: KIM & IRIS
+Name: {JPN}キムとアイリス{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -12779,7 +12779,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Earthquake
 
 === TRAINER_TYRA_AND_IVY ===
-Name: TYRA & IVY
+Name: {JPN}タイラとアイビー{ENG}
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -12804,7 +12804,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Rock Throw
 
 === TRAINER_MEL_AND_PAUL ===
-Name: MEL & PAUL
+Name: {JPN}メルとポール{ENG}
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -12829,7 +12829,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Stun Spore
 
 === TRAINER_JOHN_AND_JAY_1 ===
-Name: JOHN & JAY
+Name: {JPN}ジョンとジェイ{ENG}
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12854,7 +12854,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_2 ===
-Name: JOHN & JAY
+Name: {JPN}ジョンとジェイ{ENG}
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12879,7 +12879,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_3 ===
-Name: JOHN & JAY
+Name: {JPN}ジョンとジェイ{ENG}
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12904,7 +12904,7 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_4 ===
-Name: JOHN & JAY
+Name: {JPN}ジョンとジェイ{ENG}
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12929,7 +12929,7 @@ IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_5 ===
-Name: JOHN & JAY
+Name: {JPN}ジョンとジェイ{ENG}
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12954,7 +12954,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 - Belly Drum
 
 === TRAINER_RELI_AND_IAN ===
-Name: RELI & IAN
+Name: {JPN}レリとイアン{ENG}
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12971,7 +12971,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_1 ===
-Name: LILA & ROY
+Name: {JPN}ライラとロイ{ENG}
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12988,7 +12988,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_2 ===
-Name: LILA & ROY
+Name: {JPN}ライラとロイ{ENG}
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -13005,7 +13005,7 @@ Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_3 ===
-Name: LILA & ROY
+Name: {JPN}ライラとロイ{ENG}
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -13022,7 +13022,7 @@ Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_4 ===
-Name: LILA & ROY
+Name: {JPN}ライラとロイ{ENG}
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -13039,7 +13039,7 @@ Level: 46
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_5 ===
-Name: LILA & ROY
+Name: {JPN}ライラとロイ{ENG}
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -13056,7 +13056,7 @@ Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LISA_AND_RAY ===
-Name: LISA & RAY
+Name: {JPN}リサとレイ{ENG}
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -13073,7 +13073,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHRIS ===
-Name: CHRIS
+Name: {JPN}クリス{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -13098,7 +13098,7 @@ Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAWSON ===
-Name: DAWSON
+Name: {JPN}ドーソン{ENG}
 Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
@@ -13115,7 +13115,7 @@ Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SARAH ===
-Name: SARAH
+Name: {JPN}サラ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -13133,7 +13133,7 @@ Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DARIAN ===
-Name: DARIAN
+Name: {JPN}ダリアン{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -13146,7 +13146,7 @@ Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HAILEY ===
-Name: HAILEY
+Name: {JPN}ヘイリー{ENG}
 Class: Tuber F
 Pic: Tuber F
 Gender: Female
@@ -13159,7 +13159,7 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHANDLER ===
-Name: CHANDLER
+Name: {JPN}チャンドラー{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -13176,7 +13176,7 @@ Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KALEB ===
-Name: KALEB
+Name: {JPN}ケイレブ{ENG}
 Class: Pokefan
 Pic: Pokefan M
 Gender: Male
@@ -13193,7 +13193,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOSEPH ===
-Name: JOSEPH
+Name: {JPN}ジョセフ{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -13210,7 +13210,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALYSSA ===
-Name: ALYSSA
+Name: {JPN}アリッサ{ENG}
 Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
@@ -13223,7 +13223,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARCOS ===
-Name: MARCOS
+Name: {JPN}マルコス{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -13236,7 +13236,7 @@ Level: 15
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RHETT ===
-Name: RHETT
+Name: {JPN}レット{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -13249,7 +13249,7 @@ Level: 15
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_TYRON ===
-Name: TYRON
+Name: {JPN}タイロン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -13262,7 +13262,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CELINA ===
-Name: CELINA
+Name: {JPN}セリーナ{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -13275,7 +13275,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BIANCA ===
-Name: BIANCA
+Name: {JPN}ビアンカ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -13288,7 +13288,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HAYDEN ===
-Name: HAYDEN
+Name: {JPN}ヘイデン{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -13301,7 +13301,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SOPHIE ===
-Name: SOPHIE
+Name: {JPN}ソフィー{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -13318,7 +13318,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_COBY ===
-Name: COBY
+Name: {JPN}コービー{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -13335,7 +13335,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAWRENCE ===
-Name: LAWRENCE
+Name: {JPN}ローレンス{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -13352,7 +13352,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_WYATT ===
-Name: WYATT
+Name: {JPN}ワイアット{ENG}
 Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
@@ -13369,7 +13369,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANGELINA ===
-Name: ANGELINA
+Name: {JPN}アンジェリーナ{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -13386,7 +13386,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KAI ===
-Name: KAI
+Name: {JPN}カイ{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -13399,7 +13399,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CHARLOTTE ===
-Name: CHARLOTTE
+Name: {JPN}シャーロット{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -13412,7 +13412,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEANDRE ===
-Name: DEANDRE
+Name: {JPN}ディアンドレ{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -13433,7 +13433,7 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_1 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13446,7 +13446,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_2 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13459,7 +13459,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_3 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13472,7 +13472,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_4 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13489,7 +13489,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_5 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13506,7 +13506,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_6 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13519,7 +13519,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_7 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13532,7 +13532,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_8 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13545,7 +13545,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_9 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13558,7 +13558,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_10 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13571,7 +13571,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_11 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13584,7 +13584,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_12 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13597,7 +13597,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_13 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
@@ -13610,7 +13610,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_14 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt F
 Gender: Female
@@ -13623,7 +13623,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_15 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt F
 Gender: Female
@@ -13636,7 +13636,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_16 ===
-Name: GRUNT
+Name: {JPN}したっぱ{ENG}
 Class: Team Magma
 Pic: Magma Grunt F
 Gender: Female
@@ -13649,7 +13649,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TABITHA_MAGMA_HIDEOUT ===
-Name: TABITHA
+Name: {JPN}ホムラ{ENG}
 Class: Magma Admin
 Pic: Magma Admin
 Gender: Male
@@ -13674,7 +13674,7 @@ Level: 33
 IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_DARCY ===
-Name: DARCY
+Name: {JPN}ダーシー{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -13692,7 +13692,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAXIE_MOSSDEEP ===
-Name: MAXIE
+Name: {JPN}マツブサ{ENG}
 Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
@@ -13713,7 +13713,7 @@ Level: 44
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_PETE ===
-Name: PETE
+Name: {JPN}ピート{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -13726,7 +13726,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ISABELLE ===
-Name: ISABELLE
+Name: {JPN}イザベル{ENG}
 Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
@@ -13739,7 +13739,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANDRES_1 ===
-Name: ANDRES
+Name: {JPN}アンドレス{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -13756,7 +13756,7 @@ Level: 25
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JOSUE ===
-Name: JOSUE
+Name: {JPN}ホスエ{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -13773,7 +13773,7 @@ Level: 25
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_CAMRON ===
-Name: CAMRON
+Name: {JPN}カムロン{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -13786,7 +13786,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CORY_1 ===
-Name: CORY
+Name: {JPN}コーリー{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -13807,7 +13807,7 @@ Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAROLINA ===
-Name: CAROLINA
+Name: {JPN}カロリーナ{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -13829,7 +13829,7 @@ Level: 24
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ELIJAH ===
-Name: ELIJAH
+Name: {JPN}イライジャ{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -13846,7 +13846,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CELIA ===
-Name: CELIA
+Name: {JPN}セリア{ENG}
 Class: Picnicker
 Pic: Picnicker
 Gender: Female
@@ -13863,7 +13863,7 @@ Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYAN ===
-Name: BRYAN
+Name: {JPN}ブライアン{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -13880,7 +13880,7 @@ Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRANDEN ===
-Name: BRANDEN
+Name: {JPN}ブランデン{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -13897,7 +13897,7 @@ Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRYANT ===
-Name: BRYANT
+Name: {JPN}ブライアント{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -13914,7 +13914,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SHAYLA ===
-Name: SHAYLA
+Name: {JPN}シェイラ{ENG}
 Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
@@ -13931,7 +13931,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KYRA ===
-Name: KYRA
+Name: {JPN}カイラ{ENG}
 Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
@@ -13948,7 +13948,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAIDEN ===
-Name: JAIDEN
+Name: {JPN}ジェイデン{ENG}
 Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
@@ -13965,7 +13965,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALIX ===
-Name: ALIX
+Name: {JPN}アリックス{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -13982,7 +13982,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HELENE ===
-Name: HELENE
+Name: {JPN}ヘレン{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -13999,7 +13999,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARLENE ===
-Name: MARLENE
+Name: {JPN}マーリーン{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -14016,7 +14016,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DEVAN ===
-Name: DEVAN
+Name: {JPN}デバン{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -14033,7 +14033,7 @@ Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOHNSON ===
-Name: JOHNSON
+Name: {JPN}ジョンソン{ENG}
 Class: Youngster
 Pic: Youngster
 Gender: Male
@@ -14050,7 +14050,7 @@ Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MELINA ===
-Name: MELINA
+Name: {JPN}メリナ{ENG}
 Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
@@ -14063,7 +14063,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRANDI ===
-Name: BRANDI
+Name: {JPN}ブランディ{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -14076,7 +14076,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AISHA ===
-Name: AISHA
+Name: {JPN}アイシャ{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -14089,7 +14089,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAKAYLA ===
-Name: MAKAYLA
+Name: {JPN}マケイラ{ENG}
 Class: Expert
 Pic: Expert F
 Gender: Female
@@ -14107,7 +14107,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FABIAN ===
-Name: FABIAN
+Name: {JPN}ファビアン{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -14120,7 +14120,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAYTON ===
-Name: DAYTON
+Name: {JPN}デイトン{ENG}
 Class: Kindler
 Pic: Kindler
 Gender: Male
@@ -14137,7 +14137,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RACHEL ===
-Name: RACHEL
+Name: {JPN}レイチェル{ENG}
 Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
@@ -14150,7 +14150,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEONEL ===
-Name: LEONEL
+Name: {JPN}レオネル{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
@@ -14167,7 +14167,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thunder Wave
 
 === TRAINER_CALLIE ===
-Name: CALLIE
+Name: {JPN}キャリー{ENG}
 Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
@@ -14184,7 +14184,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CALE ===
-Name: CALE
+Name: {JPN}ケイル{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -14201,7 +14201,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MYLES ===
-Name: MYLES
+Name: {JPN}マイルズ{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
@@ -14234,7 +14234,7 @@ Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PAT ===
-Name: PAT
+Name: {JPN}パット{ENG}
 Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
@@ -14267,7 +14267,7 @@ Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CRISTIN_1 ===
-Name: CRISTIN
+Name: {JPN}クリスティン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -14285,7 +14285,7 @@ Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_RUSTBORO_TREECKO ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -14302,7 +14302,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_RUSTBORO_TORCHIC ===
-Name: MAY
+Name: {JPN}ハルカ{ENG}
 Class: Rival
 Pic: May
 Gender: Female
@@ -14319,7 +14319,7 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ROXANNE_2 ===
-Name: ROXANNE
+Name: {JPN}ツツジ{ENG}
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14361,7 +14361,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_ROXANNE_3 ===
-Name: ROXANNE
+Name: {JPN}ツツジ{ENG}
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14411,7 +14411,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_ROXANNE_4 ===
-Name: ROXANNE
+Name: {JPN}ツツジ{ENG}
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14461,7 +14461,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_ROXANNE_5 ===
-Name: ROXANNE
+Name: {JPN}ツツジ{ENG}
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
@@ -14519,7 +14519,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_BRAWLY_2 ===
-Name: BRAWLY
+Name: {JPN}トウキ{ENG}
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14561,7 +14561,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_BRAWLY_3 ===
-Name: BRAWLY
+Name: {JPN}トウキ{ENG}
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14603,7 +14603,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_BRAWLY_4 ===
-Name: BRAWLY
+Name: {JPN}トウキ{ENG}
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14653,7 +14653,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_BRAWLY_5 ===
-Name: BRAWLY
+Name: {JPN}トウキ{ENG}
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
@@ -14711,7 +14711,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WATTSON_2 ===
-Name: WATTSON
+Name: {JPN}テッセン{ENG}
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14753,7 +14753,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_WATTSON_3 ===
-Name: WATTSON
+Name: {JPN}テッセン{ENG}
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14803,7 +14803,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_WATTSON_4 ===
-Name: WATTSON
+Name: {JPN}テッセン{ENG}
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14853,7 +14853,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_WATTSON_5 ===
-Name: WATTSON
+Name: {JPN}テッセン{ENG}
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
@@ -14911,7 +14911,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_FLANNERY_2 ===
-Name: FLANNERY
+Name: {JPN}アスナ{ENG}
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -14953,7 +14953,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_FLANNERY_3 ===
-Name: FLANNERY
+Name: {JPN}アスナ{ENG}
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -15003,7 +15003,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_FLANNERY_4 ===
-Name: FLANNERY
+Name: {JPN}アスナ{ENG}
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -15061,7 +15061,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_FLANNERY_5 ===
-Name: FLANNERY
+Name: {JPN}アスナ{ENG}
 Class: Leader
 Pic: Leader Flannery
 Gender: Female
@@ -15119,7 +15119,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Attract
 
 === TRAINER_NORMAN_2 ===
-Name: NORMAN
+Name: {JPN}センリ{ENG}
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15161,7 +15161,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_NORMAN_3 ===
-Name: NORMAN
+Name: {JPN}センリ{ENG}
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15211,7 +15211,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_NORMAN_4 ===
-Name: NORMAN
+Name: {JPN}センリ{ENG}
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15261,7 +15261,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_NORMAN_5 ===
-Name: NORMAN
+Name: {JPN}センリ{ENG}
 Class: Leader
 Pic: Leader Norman
 Gender: Male
@@ -15319,7 +15319,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_WINONA_2 ===
-Name: WINONA
+Name: {JPN}ナギ{ENG}
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15369,7 +15369,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WINONA_3 ===
-Name: WINONA
+Name: {JPN}ナギ{ENG}
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15427,7 +15427,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WINONA_4 ===
-Name: WINONA
+Name: {JPN}ナギ{ENG}
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15485,7 +15485,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WINONA_5 ===
-Name: WINONA
+Name: {JPN}ナギ{ENG}
 Class: Leader
 Pic: Leader Winona
 Gender: Female
@@ -15543,7 +15543,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_TATE_AND_LIZA_2 ===
-Name: TATE&LIZA
+Name: {JPN}フウとラン{ENG}
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15593,7 +15593,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_3 ===
-Name: TATE&LIZA
+Name: {JPN}フウとラン{ENG}
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15651,7 +15651,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_4 ===
-Name: TATE&LIZA
+Name: {JPN}フウとラン{ENG}
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15709,7 +15709,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_5 ===
-Name: TATE&LIZA
+Name: {JPN}フウとラン{ENG}
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15767,7 +15767,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_JUAN_2 ===
-Name: JUAN
+Name: {JPN}アダン{ENG}
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15817,7 +15817,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 
 === TRAINER_JUAN_3 ===
-Name: JUAN
+Name: {JPN}アダン{ENG}
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15867,7 +15867,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 
 === TRAINER_JUAN_4 ===
-Name: JUAN
+Name: {JPN}アダン{ENG}
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15925,7 +15925,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 
 === TRAINER_JUAN_5 ===
-Name: JUAN
+Name: {JPN}アダン{ENG}
 Class: Leader
 Pic: Leader Juan
 Gender: Male
@@ -15983,7 +15983,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 
 === TRAINER_ANGELO ===
-Name: ANGELO
+Name: {JPN}アンジェロ{ENG}
 Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
@@ -16006,7 +16006,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Confuse Ray
 
 === TRAINER_DARIUS ===
-Name: DARIUS
+Name: {JPN}ダリウス{ENG}
 Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
@@ -16019,7 +16019,7 @@ Level: 30
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_STEVEN ===
-Name: STEVEN
+Name: {JPN}ダイゴ{ENG}
 Class: Rival
 Pic: Steven
 Gender: Male
@@ -16077,7 +16077,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 
 === TRAINER_ANABEL ===
-Name: ANABEL
+Name: {JPN}リラ{ENG}
 Class: Salon Maiden
 Pic: Salon Maiden Anabel
 Gender: Female
@@ -16090,7 +16090,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TUCKER ===
-Name: TUCKER
+Name: {JPN}ヒース{ENG}
 Class: Dome Ace
 Pic: Dome Ace Tucker
 Gender: Male
@@ -16103,7 +16103,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SPENSER ===
-Name: SPENSER
+Name: {JPN}ウコン{ENG}
 Class: Palace Maven
 Pic: Palace Maven Spenser
 Gender: Male
@@ -16116,7 +16116,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRETA ===
-Name: GRETA
+Name: {JPN}コゴミ{ENG}
 Class: Arena Tycoon
 Pic: Arena Tycoon Greta
 Gender: Female
@@ -16129,7 +16129,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_NOLAND ===
-Name: NOLAND
+Name: {JPN}ダツラ{ENG}
 Class: Factory Head
 Pic: Factory Head Noland
 Gender: Male
@@ -16142,7 +16142,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUCY ===
-Name: LUCY
+Name: {JPN}アザミ{ENG}
 Class: Pike Queen
 Pic: Pike Queen Lucy
 Gender: Female
@@ -16155,7 +16155,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRANDON ===
-Name: BRANDON
+Name: {JPN}ジンダイ{ENG}
 Class: Pyramid King
 Pic: Pyramid King Brandon
 Gender: Male
@@ -16168,7 +16168,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ANDRES_2 ===
-Name: ANDRES
+Name: {JPN}アンドレス{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -16185,7 +16185,7 @@ Level: 31
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_ANDRES_3 ===
-Name: ANDRES
+Name: {JPN}アンドレス{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -16206,7 +16206,7 @@ Level: 33
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_ANDRES_4 ===
-Name: ANDRES
+Name: {JPN}アンドレス{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -16227,7 +16227,7 @@ Level: 35
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ANDRES_5 ===
-Name: ANDRES
+Name: {JPN}アンドレス{ENG}
 Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
@@ -16248,7 +16248,7 @@ Level: 37
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CORY_2 ===
-Name: CORY
+Name: {JPN}コーリー{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -16269,7 +16269,7 @@ Level: 30
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CORY_3 ===
-Name: CORY
+Name: {JPN}コーリー{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -16290,7 +16290,7 @@ Level: 32
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CORY_4 ===
-Name: CORY
+Name: {JPN}コーリー{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -16311,7 +16311,7 @@ Level: 34
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CORY_5 ===
-Name: CORY
+Name: {JPN}コーリー{ENG}
 Class: Sailor
 Pic: Sailor
 Gender: Male
@@ -16332,7 +16332,7 @@ Level: 36
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_PABLO_2 ===
-Name: PABLO
+Name: {JPN}パブロ{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -16349,7 +16349,7 @@ Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_PABLO_3 ===
-Name: PABLO
+Name: {JPN}パブロ{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -16370,7 +16370,7 @@ Level: 39
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_PABLO_4 ===
-Name: PABLO
+Name: {JPN}パブロ{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -16391,7 +16391,7 @@ Level: 41
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_PABLO_5 ===
-Name: PABLO
+Name: {JPN}パブロ{ENG}
 Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
@@ -16412,7 +16412,7 @@ Level: 43
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_KOJI_2 ===
-Name: KOJI
+Name: {JPN}コウジ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -16429,7 +16429,7 @@ Level: 37
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KOJI_3 ===
-Name: KOJI
+Name: {JPN}コウジ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -16450,7 +16450,7 @@ Level: 39
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KOJI_4 ===
-Name: KOJI
+Name: {JPN}コウジ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -16471,7 +16471,7 @@ Level: 41
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KOJI_5 ===
-Name: KOJI
+Name: {JPN}コウジ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -16492,7 +16492,7 @@ Level: 43
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CRISTIN_2 ===
-Name: CRISTIN
+Name: {JPN}クリスティン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -16510,7 +16510,7 @@ Level: 35
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_CRISTIN_3 ===
-Name: CRISTIN
+Name: {JPN}クリスティン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -16532,7 +16532,7 @@ Level: 37
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_CRISTIN_4 ===
-Name: CRISTIN
+Name: {JPN}クリスティン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -16554,7 +16554,7 @@ Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CRISTIN_5 ===
-Name: CRISTIN
+Name: {JPN}クリスティン{ENG}
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -16576,7 +16576,7 @@ Level: 41
 IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_FERNANDO_2 ===
-Name: FERNANDO
+Name: {JPN}フェルナンド{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -16597,7 +16597,7 @@ Level: 35
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_FERNANDO_3 ===
-Name: FERNANDO
+Name: {JPN}フェルナンド{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -16618,7 +16618,7 @@ Level: 37
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_FERNANDO_4 ===
-Name: FERNANDO
+Name: {JPN}フェルナンド{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -16639,7 +16639,7 @@ Level: 39
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_FERNANDO_5 ===
-Name: FERNANDO
+Name: {JPN}フェルナンド{ENG}
 Class: Guitarist
 Pic: Guitarist
 Gender: Male
@@ -16660,7 +16660,7 @@ Level: 41
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_SAWYER_2 ===
-Name: SAWYER
+Name: {JPN}ソーヤー{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -16677,7 +16677,7 @@ Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_SAWYER_3 ===
-Name: SAWYER
+Name: {JPN}ソーヤー{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -16698,7 +16698,7 @@ Level: 28
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_SAWYER_4 ===
-Name: SAWYER
+Name: {JPN}ソーヤー{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -16719,7 +16719,7 @@ Level: 30
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_SAWYER_5 ===
-Name: SAWYER
+Name: {JPN}ソーヤー{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -16744,7 +16744,7 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
    and the 3rd slot becomes the portal's rogue Mega holding its stone (always
    their highest level; the other two sit 2-4 under it). */
 === TRAINER_GABRIELLE_2 ===
-Name: CANARI
+Name: {JPN}カナリィ{ENG}
 Class: Streamer
 Pic: Lass
 Gender: Female
@@ -16769,7 +16769,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
    and the 3rd slot becomes the portal's rogue Mega holding its stone (always
    their highest level; the other two sit 2-4 under it). */
 === TRAINER_GABRIELLE_3 ===
-Name: LIDA
+Name: {JPN}リダ{ENG}
 Class: Team MZ
 Pic: Za Lida
 Gender: Female
@@ -16794,7 +16794,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
    and the 3rd slot becomes the portal's rogue Mega holding its stone (always
    their highest level; the other two sit 2-4 under it). */
 === TRAINER_GABRIELLE_4 ===
-Name: EMMA
+Name: {JPN}エマ{ENG}
 Class: Detective
 Pic: Expert F
 Gender: Female
@@ -16819,7 +16819,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
    and the 3rd slot becomes the portal's rogue Mega holding its stone (always
    their highest level; the other two sit 2-4 under it). */
 === TRAINER_GABRIELLE_5 ===
-Name: TAUNIE
+Name: {JPN}トーニー{ENG}
 Class: Team MZ
 Pic: Pokemon Ranger F
 Gender: Female
@@ -16844,7 +16844,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
    and the 3rd slot becomes the portal's rogue Mega holding its stone (always
    their highest level; the other two sit 2-4 under it). */
 === TRAINER_THALIA_2 ===
-Name: TULIP
+Name: {JPN}チューリップ{ENG}
 Class: Leader
 Pic: Psychic F
 Gender: Female
@@ -16869,7 +16869,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
    and the 3rd slot becomes the portal's rogue Mega holding its stone (always
    their highest level; the other two sit 2-4 under it). */
 === TRAINER_THALIA_3 ===
-Name: JACINTHE
+Name: {JPN}ジャサント{ENG}
 Class: Socialite
 Pic: Lady
 Gender: Female
@@ -16890,7 +16890,7 @@ Level: 30
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 
 === TRAINER_THALIA_4 ===
-Name: THALIA
+Name: {JPN}タリア{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -16911,7 +16911,7 @@ Level: 38
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_THALIA_5 ===
-Name: THALIA
+Name: {JPN}タリア{ENG}
 Class: Beauty
 Pic: Beauty
 Gender: Female
@@ -16932,7 +16932,7 @@ Level: 40
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_MARIELA ===
-Name: MARIELA
+Name: {JPN}マリエラ{ENG}
 Class: Psychic
 Pic: Psychic F
 Gender: Female
@@ -16944,7 +16944,7 @@ Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALVARO ===
-Name: ALVARO
+Name: {JPN}アルバロ{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -16960,7 +16960,7 @@ Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_EVERETT ===
-Name: EVERETT
+Name: {JPN}エベレット{ENG}
 Class: Gentleman
 Pic: Gentleman
 Gender: Male
@@ -16972,7 +16972,7 @@ Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RED ===
-Name: REINA & VAN
+Name: {JPN}レイナとバン{ENG}
 Class: Twins
 Pic: Wot Reina Vanessa
 Gender: Female
@@ -16992,7 +16992,7 @@ the Mutrid elite whose Mega Alakazam killed Yiffer in the Sennen assault.
 Optional talk battle on SennenAct2 (object 6, the mid-battle goon).
 */
 === TRAINER_LEAF ===
-Name: VOSS
+Name: {JPN}ボス{ENG}
 Class: Team Mutrid
 Pic: Mutrid Goon
 Gender: Male
@@ -17014,7 +17014,7 @@ REPURPOSED dead vanilla placeholder ids -- Act 3 Shin-Tokyo jail patrol
 guards B and C (WoT_Act3_Canon.md Step 4). Levels/teams PLACEHOLDER (Joe).
 */
 === TRAINER_BRENDAN_PLACEHOLDER ===
-Name: RIN
+Name: {JPN}リン{ENG}
 Class: Mutrid
 Pic: Magma Grunt F
 Gender: Female
@@ -17031,7 +17031,7 @@ Level: 41
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_MAY_PLACEHOLDER ===
-Name: TETSU
+Name: {JPN}テツ{ENG}
 Class: Mutrid
 Pic: Magma Grunt M
 Gender: Male
@@ -17057,7 +17057,7 @@ All three at level 5 (matches player's starter level).
 */
 
 === TRAINER_HARU_HAS_AMAURA ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17070,7 +17070,7 @@ Level: 5
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_HARU_HAS_ANORITH ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17083,7 +17083,7 @@ Level: 5
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_HARU_HAS_TYRUNT ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17096,7 +17096,7 @@ Level: 5
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_SHINKANSEN_GOON ===
-Name: Goon
+Name: {JPN}したっぱ{ENG}
 Class: Team Mutrid
 Pic: Mutrid Goon
 Gender: Male
@@ -17114,7 +17114,7 @@ Koffing
 Level: 16
 
 === TRAINER_ROUTE2_FISHERMAN ===
-Name: Wade
+Name: {JPN}ウェイド{ENG}
 Class: Fisherman
 Pic: Fisherman
 Gender: Male
@@ -17129,7 +17129,7 @@ Goldeen
 Level: 10
 
 === TRAINER_ROUTE2_HIKER ===
-Name: Clyde
+Name: {JPN}クライド{ENG}
 Class: Hiker
 Pic: Hiker
 Gender: Male
@@ -17147,7 +17147,7 @@ Binacle
 Level: 10
 
 === TRAINER_ROUTE2_CAMPER ===
-Name: Denny
+Name: {JPN}デニー{ENG}
 Class: Camper
 Pic: Camper
 Gender: Male
@@ -17169,7 +17169,7 @@ Allison is a surf-era optional fight (Surf unlocks with the Distortion Badge),
 so her team is tuned to the late-Act-2 curve. Levels PLACEHOLDER (Joe).
 */
 === TRAINER_ROUTE2_SWIMMER_ALLISON ===
-Name: Allison
+Name: {JPN}アリソン{ENG}
 Class: Siren
 Pic: Wot Allison Land
 Gender: Female
@@ -17199,7 +17199,7 @@ Level: 25
 IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 
 === TRAINER_ROUTE2_SWIMMER_SKYE ===
-Name: Skye
+Name: {JPN}スカイ{ENG}
 Class: Swimmer F
 Pic: Wot Skye Land
 Gender: Female
@@ -17214,7 +17214,7 @@ Staryu
 Level: 10
 
 === TRAINER_ROUTE2_SWIMMER_ROSA ===
-Name: Rosa
+Name: {JPN}ローザ{ENG}
 Class: Swimmer F
 Pic: Wot Rosa Land
 Gender: Female
@@ -17229,7 +17229,7 @@ Corsola
 Level: 10
 
 === TRAINER_ROUTE2_SWIMMER_MARINA ===
-Name: Marina
+Name: {JPN}マリーナ{ENG}
 Class: Swimmer F
 Pic: Wot Marina Land
 Gender: Female
@@ -17244,7 +17244,7 @@ Wailmer
 Level: 10
 
 === TRAINER_TORII_ORACLE ===
-Name: The Oracle
+Name: {JPN}よげんしゃ{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -17283,7 +17283,7 @@ Weepinbell
 Level: 18
 
 === TRAINER_TORII_BLACKBELT ===
-Name: Kenji
+Name: {JPN}ケンジ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -17301,7 +17301,7 @@ Machoke
 Level: 19
 
 === TRAINER_DRACO_TORII_AURORUS ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17319,7 +17319,7 @@ Sneasel
 Level: 20
 
 === TRAINER_DRACO_TORII_ARMALDO ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17337,7 +17337,7 @@ Sneasel
 Level: 20
 
 === TRAINER_DRACO_TORII_TYRANTRUM ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17370,7 +17370,7 @@ Feraligatr
 Level: 50
 
 === TRAINER_NATIONAL_PARK_TUBER_EDDIE ===
-Name: Eddie
+Name: {JPN}エディ{ENG}
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -17385,7 +17385,7 @@ Dwebble
 Level: 15
 
 === TRAINER_NATIONAL_PARK_SWIMMER_FINN ===
-Name: Finn
+Name: {JPN}フィン{ENG}
 Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
@@ -17400,7 +17400,7 @@ Dhelmise
 Level: 17
 
 === TRAINER_TRADEWIND_GORO ===
-Name: GORO
+Name: {JPN}ゴロウ{ENG}
 Class: Black Belt
 Pic: Black Belt
 Gender: Male
@@ -17415,7 +17415,7 @@ Snorlax
 Level: 30
 
 === TRAINER_TRADEWIND_LANTERN_BEARER ===
-Name: HOZUKI
+Name: {JPN}ホオズキ{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -17430,7 +17430,7 @@ Ninetales
 Level: 37
 
 === TRAINER_TSUJI_APPRENTICE ===
-Name: KOHANA
+Name: {JPN}コハナ{ENG}
 Class: Lady
 Pic: Lady
 Gender: Female
@@ -17445,7 +17445,7 @@ Sableye
 Level: 37
 
 === TRAINER_MADAM_TSUJI ===
-Name: TSUJI
+Name: {JPN}ツジ{ENG}
 Class: Leader
 Pic: Elite Four Phoebe
 Gender: Female
@@ -17469,7 +17469,7 @@ Sableye @ Sablenite
 Level: 44
 
 === TRAINER_MUNEN_TUNNEL_GRUNT ===
-Name: Goon
+Name: {JPN}したっぱ{ENG}
 Class: Team Mutrid
 Pic: Mutrid Goon
 Gender: Male
@@ -17487,7 +17487,7 @@ Duskull
 Level: 16
 
 === TRAINER_ACT2_PARK_GOON_EAST ===
-Name: Goon
+Name: {JPN}したっぱ{ENG}
 Class: Mutrid
 Pic: Mutrid Goon
 Gender: Male
@@ -17502,7 +17502,7 @@ Banette
 Level: 39
 
 === TRAINER_ACT2_PARK_GOON_WEST ===
-Name: Goon
+Name: {JPN}したっぱ{ENG}
 Class: Mutrid
 Pic: Mutrid Grunt F
 Gender: Female
@@ -17517,7 +17517,7 @@ Dusclops
 Level: 39
 
 === TRAINER_DRACO_LAB_AURORUS ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17535,7 +17535,7 @@ Haxorus
 Level: 40
 
 === TRAINER_DRACO_LAB_ARMALDO ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17553,7 +17553,7 @@ Garchomp
 Level: 40
 
 === TRAINER_DRACO_LAB_TYRANTRUM ===
-Name: DRACO
+Name: {JPN}ドラコ{ENG}
 Class: Rival
 Pic: Wally
 Gender: Male
@@ -17571,7 +17571,7 @@ Baxcalibur
 Level: 40
 
 === TRAINER_SENNEN_CAPTAIN_KANNON ===
-Name: EDWARDS
+Name: {JPN}エドワーズ{ENG}
 Class: General
 Pic: Elite Four Drake
 Gender: Male
@@ -17604,7 +17604,7 @@ Level: 35
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_SENNEN_CAPTAIN_RYOKO ===
-Name: RYOKO
+Name: {JPN}リョウコ{ENG}
 Class: Team Magma
 Pic: Mutrid Grunt White
 Gender: Female
@@ -17622,7 +17622,7 @@ Dusclops
 Level: 41
 
 === TRAINER_TUNNEL_GOON_A ===
-Name: Goon
+Name: {JPN}したっぱ{ENG}
 Class: Team Mutrid
 Pic: Mutrid Goon
 Gender: Male
@@ -17639,7 +17639,7 @@ Level: 17
 IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_TUNNEL_GOON_B ===
-Name: Goon
+Name: {JPN}したっぱ{ENG}
 Class: Team Mutrid
 Pic: Mutrid Grunt F
 Gender: Female
@@ -17660,7 +17660,7 @@ The Munen Tunnel boss (was "General Edwards" -- that identity now belongs to
 the Act 2 Dojo general). Name PLACEHOLDER (Joe).
 */
 === TRAINER_TUNNEL_CAPTAIN ===
-Name: McCormick
+Name: {JPN}マコーミック{ENG}
 Class: Captain
 Pic: Magma Leader Maxie
 Gender: Male
@@ -17685,7 +17685,7 @@ Distortion World layer 4 -- the Oni guarding the Rift Core.
 Name/level PLACEHOLDER (Joe).
 */
 === TRAINER_DISTORTION_ONI ===
-Name: KIYO
+Name: {JPN}キヨ{ENG}
 Class: Oni
 Pic: Gold Oni
 Gender: Male
@@ -17698,7 +17698,7 @@ Level: 38
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_RIFT_WARDEN ===
-Name: SILAS
+Name: {JPN}サイラス{ENG}
 Class: Expert
 Pic: Expert M
 Gender: Male
@@ -17715,7 +17715,7 @@ Level: 36
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_DISTORTION_LEADER ===
-Name: VESPER
+Name: {JPN}ベスパー{ENG}
 Class: Leader
 Pic: Steven
 Gender: Male
@@ -17749,7 +17749,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 
 === TRAINER_TRADEWIND_SABLE ===
-Name: SABLE
+Name: {JPN}セーブル{ENG}
 Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
@@ -17764,7 +17764,7 @@ Duskull
 Level: 19
 
 === TRAINER_TRADEWIND_ROSHAN ===
-Name: ROSHAN
+Name: {JPN}ロシャン{ENG}
 Class: Psychic
 Pic: Psychic M
 Gender: Male
@@ -17779,7 +17779,7 @@ Haunter
 Level: 19
 
 === TRAINER_TRADEWIND_PIPER ===
-Name: PIPER
+Name: {JPN}パイパー{ENG}
 Class: Lass
 Pic: Lass
 Gender: Female

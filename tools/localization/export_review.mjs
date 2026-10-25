@@ -51,6 +51,11 @@ function readable(text){
     .replace(/\\n/g,'\n').replace(/\\p/g,'\n［改ページ］\n').replace(/\\l/g,'\n［スクロール］\n');
 }
 const rows=translated.map((r,i)=>[i+1,category(r),readable(r.source),readable(r.translation),'',r.id,definition(r),`${r.file}:${r.line}`,r.translation,r.source]);
+// Trainer and map names live outside the catalog (trainers.party / region_map_sections.json).
+for(const [file,label] of [['trainer-names.json','トレーナー名'],['map-names.json','マップ名']]){
+  const table=JSON.parse(await fs.readFile(`${root}/localization/${file}`,'utf8'));
+  for(const [en,ja] of Object.entries(table.names)) rows.push([rows.length+1,label,en,ja,'',`${label}:${en}`,'',table.file,`{JPN}${ja}{ENG}`,en]);
+}
 const wb=Workbook.create();
 const sheet=wb.worksheets.add('翻訳一覧');
 const terms=wb.worksheets.add('用語辞書');
@@ -110,7 +115,7 @@ terms.getRange(`D8:D${termRows.length+7}`).format.fill='#FFF4CE';
 terms.freezePanes.freezeRows(7);
 
 wb.recalculate();
-if(sheet.getRange(`F8:F${rows.length+7}`).values.flat().length!==translated.length) throw Error('Written row mismatch');
+if(sheet.getRange(`F8:F${rows.length+7}`).values.flat().length!==rows.length) throw Error('Written row mismatch');
 console.log((await wb.inspect({kind:'table',range:'翻訳一覧!A7:D10',include:'values',tableMaxRows:4,tableMaxCols:4,maxChars:2000})).ndjson);
 console.log((await wb.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#N/A|#NUM!|#NULL!|#SPILL!|#CALC!',options:{useRegex:true,maxResults:20},summary:'error scan',maxChars:1000})).ndjson);
 const storyStart=rows.findIndex(r=>r[1]==='ムネン村の会話・看板')+8;

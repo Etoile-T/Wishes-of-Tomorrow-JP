@@ -24,6 +24,13 @@ class CatalogTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'unmapped'):
             c.validate(dict(id='x', source='Hi', translation='{JPN}願い'), {'い'})
 
+    def test_latin_punctuation_refused_in_japanese_mode(self):
+        # B7/B8/B1-B4 render as 円 . 『』「」 in the Japanese font.
+        for text in ('{JPN}¥200', '{JPN}9,999まい', "{JPN}いや'", '{JPN}“あ”'):
+            with self.assertRaisesRegex(ValueError, 'Japanese mode'):
+                c.validate(dict(id='x', source='a', translation=text), set(text))
+        c.validate(dict(id='x', source='a', translation='{ENG}¥9,999{JPN}200円'), set('¥9,2円0'))
+
     def test_extract_positions_and_script(self):
         original = c.ROOT
         try:

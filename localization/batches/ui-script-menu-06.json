@@ -1,0 +1,1826 @@
+[
+ {
+  "id": "ee600ea4d1d506cd",
+  "translation": "{JPN}トウカシティ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "913d59726059aabf",
+  "translation": "{JPN}カイナシティ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d700fd638a496206",
+  "translation": "{JPN}はいる{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "19dd571960808da8",
+  "translation": "{JPN}コンテストとは？{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "476dbf4b6e062361",
+  "translation": "{JPN}コンテストのしゅるい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "5e6cceef59531df1",
+  "translation": "{JPN}ランク{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "6b82c7ab89d75176",
+  "translation": "{JPN}マッハ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a4be71e2a30ee05e",
+  "translation": "{JPN}ダート{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "e6278dd41b3af549",
+  "translation": "{JPN}どく{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "c5d356c9363448d7",
+  "translation": "{JPN}まひ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "eb157ee19b62e71e",
+  "translation": "{JPN}ねむり{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "6738039a13e03c9e",
+  "translation": "{JPN}やけど{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "72fca099165a751b",
+  "translation": "{JPN}こおり{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "87b9e19bf2cd57a9",
+  "translation": "{JPN}ムロタウン{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "964fe361aeacc2cd",
+  "translation": "{JPN}みた{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "99ce02b311904d9d",
+  "translation": "{JPN}まだ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "f660bb2dccacba1e",
+  "translation": "{JPN}ちょうせん{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8fbcb6c8b12aae38",
+  "translation": "{JPN}じょうほう{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a8912dc49b32d611",
+  "translation": "{JPN}ナゾノクサ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8ab39c54084cfe0f",
+  "translation": "{JPN}ポチエナ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "96d49399e80e7f00",
+  "translation": "{JPN}スバメ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a092832a086f7540",
+  "translation": "{JPN}ルリリ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "471437c6ae4320f7",
+  "translation": "{JPN}ハスボー{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a38f36340024705a",
+  "translation": "{JPN}キャモメ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "61a707e4c7a5d118",
+  "translation": "{JPN}ドクケイル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0b078a39722ebadd",
+  "translation": "{JPN}ズバット{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "1e015de7b33e6859",
+  "translation": "{JPN}ツチニン{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fe453f3fcb1a07cc",
+  "translation": "{JPN}ラルトス{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "18c4edcd4f2c0f37",
+  "translation": "{JPN}ジグザグマ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "bd3e2683811cb972",
+  "translation": "{JPN}ナマケロ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "18e83f2e2752d3ee",
+  "translation": "{JPN}ポチエナ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3260882778fcf045",
+  "translation": "{JPN}キノココ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "6ac22e1144ab0b5f",
+  "translation": "{JPN}ジグザグマ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b5882aeed1225d5f",
+  "translation": "{JPN}ポチエナ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "648a0a3ef188e39b",
+  "translation": "{JPN}ズバット{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3073c53e8aec0a43",
+  "translation": "{JPN}キバニア{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "77d00daf12f2b82e",
+  "translation": "{JPN}やけどなおし{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8fd7b2b7773bd67a",
+  "translation": "{JPN}ハーバーメール{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b3ec001638a8b89b",
+  "translation": "{JPN}おなじねだん{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d0983c6ede43bb82",
+  "translation": "{JPN}60円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fb9173ce196ba0c5",
+  "translation": "{JPN}55円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0f02552e0ba50d41",
+  "translation": "{JPN}のこらない{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b5365bc6bb2840df",
+  "translation": "{JPN}たかくなる{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a492850dc3f6ea3c",
+  "translation": "{JPN}やすくなる{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "5161b28dbdd8425c",
+  "translation": "{JPN}おなじねだん{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a65e3a492adabd49",
+  "translation": "{JPN}おとこのひと{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "795c95b95bd06c8c",
+  "translation": "{JPN}おんなのひと{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "089b90ce677647ae",
+  "translation": "{JPN}おなじかず{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3422736ca03be598",
+  "translation": "{JPN}おじいさん{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "07d9913fc76d0df9",
+  "translation": "{JPN}おばあさん{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "105470abe01abd91",
+  "translation": "{JPN}おなじかず{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9e694ae684ff85b8",
+  "translation": "{JPN}いない{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "5689e7abfe3c4817",
+  "translation": "1",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "45e06dfabab3a550",
+  "translation": "2",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "da259f31d88e39da",
+  "translation": "2",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "c267abb065565b70",
+  "translation": "3",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "5b0ff0be49c427d3",
+  "translation": "4",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "61a9bca44d92a34c",
+  "translation": "6",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "371fe1d17a0cc922",
+  "translation": "7",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "9e1b7710efd03b2c",
+  "translation": "8",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "f2b6e400cd3f1363",
+  "translation": "6",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "d9647b6dec8abdcc",
+  "translation": "7",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "c422026224763d20",
+  "translation": "8",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "12152a7eb35ce86e",
+  "translation": "{JPN}おいしいみず{CLEAR_TO 0x48}200円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "bc76891c403da240",
+  "translation": "{JPN}サイコソーダ{CLEAR_TO 0x48}300円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "7847aada609e2414",
+  "translation": "{JPN}ミックスオレ{CLEAR_TO 0x48}350円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ebeaf473a3371282",
+  "translation": "{JPN}のりかた{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9e3190a2cc7a51f6",
+  "translation": "{JPN}まがりかた{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "aae758c01d9dae8c",
+  "translation": "{JPN}すなのさか{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "c44f5b2bbd96d2a4",
+  "translation": "{JPN}ウィリー{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "18353ffd1e1e8273",
+  "translation": "{JPN}バニーホップ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3a1d8a90be06e363",
+  "translation": "{JPN}ジャンプ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b702b0338d3675f6",
+  "translation": "{JPN}まんぞく{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b03cd414ee3cb125",
+  "translation": "{JPN}ふまん{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "08365f1f17c4acf1",
+  "translation": "{JPN}しんかいのキバ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "80a0ca9c909767dc",
+  "translation": "{JPN}しんかいのウロコ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "086d0084ba02bda6",
+  "translation": "{JPN}あおいビードロ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0df27a0cf5082fe1",
+  "translation": "{JPN}きいろビードロ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "f39ef9d03b26b17a",
+  "translation": "{JPN}あかいビードロ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "2e766b756c298b86",
+  "translation": "{JPN}しろいビードロ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "4824f05c0bb263aa",
+  "translation": "{JPN}くろいビードロ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "67c4baa155fe53e0",
+  "translation": "{JPN}ガラスのいす{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3f4d16085fc15211",
+  "translation": "{JPN}ガラスのつくえ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a2926e8c083fb400",
+  "translation": "{JPN}キモリドール   1000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9d7a784b2e6cdf9f",
+  "translation": "{JPN}アチャモドール  1000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "2908074526171668",
+  "translation": "{JPN}ミズゴロウドール 1000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ad20c36fe83446d0",
+  "translation": "{JPN}わざマシン32{CLEAR_TO 0x48}1500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "5ee94ffc0d227c3d",
+  "translation": "{JPN}わざマシン29{CLEAR_TO 0x48}3500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "6329074ed7523034",
+  "translation": "{JPN}わざマシン35{CLEAR_TO 0x48}4000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "f55edf8546b7495b",
+  "translation": "{JPN}わざマシン24{CLEAR_TO 0x48}4000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "510a301a8677bcfe",
+  "translation": "{JPN}わざマシン13{CLEAR_TO 0x48}4000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b3bc155f87a5db4e",
+  "translation": "{JPN}  50まい    1000円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "4d354def5da1ff77",
+  "translation": "{JPN}500まい   10000円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9120005082a7ce92",
+  "translation": "{JPN}ばっちり{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8bedcfa33f955713",
+  "translation": "{JPN}いまいち{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "f13f7036781ea252",
+  "translation": "{JPN}みぎ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "997a351318336b45",
+  "translation": "{JPN}ひだり{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "86aa3349c48c1cdf",
+  "translation": "{JPN}あかいテント{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fd75385427680311",
+  "translation": "{JPN}あおいテント{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9a8ead2869636526",
+  "translation": "{JPN}ルカリオナイトZ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0b83732785a366f8",
+  "translation": "{JPN}バンギラスナイト{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "c66d36aa827318a8",
+  "translation": "{JPN}ギャラドスナイト{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "1ce3435a4c678f34",
+  "translation": "{JPN}ライチュウナイトY{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d5e93ef5e264bf77",
+  "translation": "{JPN}シャリタツナイト{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "90ef8a250e0c7d70",
+  "translation": "{JPN}ヘルガナイト{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d27893001051cc61",
+  "translation": "{JPN}ジュペッタナイト{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "52dedea38b445f6d",
+  "translation": "{JPN}ガブリアスナイト{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "c15bae08ccf51380",
+  "translation": "{JPN}シングルバトル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3b68f1c2c637dd96",
+  "translation": "{JPN}ダブルバトル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "46fd98c2d87ee90c",
+  "translation": "{JPN}マルチバトル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fc98a604b8a85fca",
+  "translation": "{JPN}ポケモンジャンプ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "315f622c802ec4b9",
+  "translation": "{JPN}ドードリオのきのみとり{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3a202f23b33b352e",
+  "translation": "{JPN}グループにはいる{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d56c8382db143fa2",
+  "translation": "{JPN}リーダーになる{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8c8407843c2e980b",
+  "translation": "{JPN}ノーマルランク{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "56b67068ad79814a",
+  "translation": "{JPN}スーパーランク{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "f1f6d805999d63bc",
+  "translation": "{JPN}ハイパーランク{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fc883ed65d589b3f",
+  "translation": "{JPN}マスターランク{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "374895efd158deb7",
+  "translation": "{JPN}バトルバッグ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d8faa5a189c6e822",
+  "translation": "{JPN}もちもの{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "cfa509ab695a3bac",
+  "translation": "{JPN}つうしんコンテスト{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "f0885f8bb1109434",
+  "translation": "{JPN}Eモードについて{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "164a96cda44b4f10",
+  "translation": "{JPN}Gモードについて{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "f25bd00b1bbc2d92",
+  "translation": "{JPN}Eモード{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fed01ee1354d5c5d",
+  "translation": "{JPN}Gモード{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ed8dbae082d7a2ee",
+  "translation": "  5BP",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "4cb893ef82a0cc41",
+  "translation": "10BP",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "c209a1772deac602",
+  "translation": "15BP",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "50c9abd4094f9753",
+  "translation": "{JPN}ツメのカセキ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "327fdfe32baf64a4",
+  "translation": "{JPN}ねっこのカセキ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "33536f6172422ac0",
+  "translation": "{JPN}いいえ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "bf89a1fbbaa68f91",
+  "translation": "{JPN}2つのスタイル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "28101a11e1dd07aa",
+  "translation": "{JPN}レベル50{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d3828a92e8413c8e",
+  "translation": "{JPN}オープンレベル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "1ecdf02e946e6cbd",
+  "translation": "{JPN}{ENG}{PKMN}{JPN}のしゅるいとかず{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ec4102cd490d3f5c",
+  "translation": "{JPN}もちもの{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ff715d5ac3edc3d5",
+  "translation": "{JPN}シンボル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "2a509c088f627a28",
+  "translation": "{JPN}きろく{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "744bb945c2ca89b7",
+  "translation": "{JPN}バトルポイント{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "40e0fabe0d7df64c",
+  "translation": "{JPN}タワーについて{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fb47df4896f4facb",
+  "translation": "{JPN}バトルの{ENG}{PKMN}{JPN}{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "dd62f64471503a2f",
+  "translation": "{JPN}バトルサロン{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "4b7e76c35fc3f63c",
+  "translation": "{JPN}マルチリンク{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "c9441ca704142c82",
+  "translation": "{JPN}くみあわせ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9d63fe02c203c880",
+  "translation": "{JPN}トーナメントひょう{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "dd8945b40db4b44c",
+  "translation": "{JPN}あいうち{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ee03f761cdcd1ed9",
+  "translation": "{JPN}オープンレベル{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "92ff136b35d1518b",
+  "translation": "{JPN}ピラミッド:ポケモン{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "cd80a8905080a67b",
+  "translation": "{JPN}ピラミッド:トレーナー{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "5e343a1140a3da47",
+  "translation": "{JPN}ピラミッド:めいろ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "65459a3fa00353b2",
+  "translation": "{JPN}バトルバッグ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0d9fbe66ab848b3b",
+  "translation": "{JPN}ポケナビとバッグ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "e8f8d3d061ed56c2",
+  "translation": "{JPN}もちもの{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8a8f14bf22252555",
+  "translation": "{JPN}ポケモンのじゅんばん{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "2d41d14eb21d806a",
+  "translation": "{JPN}あか{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "da5dffb8674439c3",
+  "translation": "{JPN}あお{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "7e78eb02868496c0",
+  "translation": "{JPN}いまからバトル！{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "59109e75b3388c46",
+  "translation": "{JPN}かったよ！{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "23880ffe019f183a",
+  "translation": "{JPN}まけちゃった！{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "59549fa9305968cd",
+  "translation": "{JPN}ないしょ。{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "2458349b8c42ad27",
+  "translation": "{JPN}めざめのほこら{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "54f6461f317fac4b",
+  "translation": "{JPN}おくりびやま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "5a359d24f2dd9083",
+  "translation": "{JPN}そらのはしら{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "7f412574d4ceee59",
+  "translation": "{JPN}おぼえていない{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "957c34d02ab8fdd3",
+  "translation": "{JPN}こやしをまく{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b071dad34c0e77b0",
+  "translation": "{JPN}きのみをうえる{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3db0e0f1ee26de63",
+  "translation": "{JPN}じてんしゃ{CLEAR_TO 0x49}{FONT_SMALL}1000000円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "6a615f30f7ac0ed4",
+  "translation": "{JPN}いりません{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "cfb050a21dc70e71",
+  "translation": "{JPN}イーブイ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "1ae08040bac42c2b",
+  "translation": "{JPN}ブースター{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "4869cb71a958ebfd",
+  "translation": "{JPN}サンダース{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "14e5b6c87abbe03f",
+  "translation": "{JPN}シャワーズ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0fa49460b8d27296",
+  "translation": "{JPN}みるのをやめる{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "87a8cd43e22272e9",
+  "translation": "{JPN}ナナシマ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "84ad35f1f15578e9",
+  "translation": "{JPN}1のしま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d9c2283aaf61f088",
+  "translation": "{JPN}2のしま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3c93c65350102ea8",
+  "translation": "{JPN}3のしま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "16025b9ac409104a",
+  "translation": "{JPN}4のしま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3a82a3cb48ad968e",
+  "translation": "{JPN}5のしま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0814cbd456216622",
+  "translation": "{JPN}6のしま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "1e105c36b5bec9db",
+  "translation": "{JPN}7のしま{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "374ec6a782cda6d5",
+  "translation": "{JPN}クチバシティ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "367ae3076fc178a6",
+  "translation": "{JPN}いりません{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9df2d3a596aba452",
+  "translation": "{JPN}ケーシィ{CLEAR_TO 0x55}{FONT_SMALL} 180まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "018618fd4b8f5703",
+  "translation": "{JPN}ピッピ{CLEAR_TO 0x55}{FONT_SMALL} 500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "82930cece87afa3d",
+  "translation": "{JPN}ミニリュウ{CLEAR_TO 0x4B}{FONT_SMALL} 2800まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fd3fb711abb25da2",
+  "translation": "{JPN}ストライク{CLEAR_TO 0x4B}{FONT_SMALL} 5500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "2bc4885696e1dcbb",
+  "translation": "{JPN}ポリゴン{CLEAR_TO 0x4B}{FONT_SMALL} 9999まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "49f81b8059c13d95",
+  "translation": "{JPN}ケーシィ{CLEAR_TO 0x55}{FONT_SMALL} 120まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "b979362de0d06271",
+  "translation": "{JPN}ピッピ{CLEAR_TO 0x55}{FONT_SMALL} 750まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "871a951906d40a6e",
+  "translation": "{JPN}カイロス{CLEAR_TO 0x4B}{FONT_SMALL} 2500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "0c3b8b771b33d727",
+  "translation": "{JPN}ミニリュウ{CLEAR_TO 0x4B}{FONT_SMALL} 4600まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "7dbcd7ecf0419141",
+  "translation": "{JPN}ポリゴン{CLEAR_TO 0x4B}{FONT_SMALL} 6500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "703112778ea5925c",
+  "translation": "{JPN}わざマシン13{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "e497fc7fff608d14",
+  "translation": "{JPN}わざマシン23{CLEAR_TO 0x48}{FONT_SMALL}3500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "80603ec2854a23e6",
+  "translation": "{JPN}わざマシン24{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "063230fdab52cfc0",
+  "translation": "{JPN}わざマシン30{CLEAR_TO 0x48}{FONT_SMALL}4500まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "6a19acbdb6c902d6",
+  "translation": "{JPN}わざマシン35{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "4cdd1fafb6867f6d",
+  "translation": "{JPN}けむりだま{CLEAR_TO 0x5A}{FONT_SMALL}800まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "57ee2a1bb3c3a9d5",
+  "translation": "{JPN}きせきのタネ{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3ce48aa6dcf7c8b0",
+  "translation": "{JPN}もくたん{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "18d82fe877e1ff1c",
+  "translation": "{JPN}しんぴのしずく{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "7dd1542a52b10c06",
+  "translation": "{JPN}きいろビードロ{CLEAR_TO 0x50}{FONT_SMALL}1600まい{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "10f71528ccacc107",
+  "translation": "5F",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "ba7602f6e8c0f140",
+  "translation": "4F",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "becbcf14a839f94d",
+  "translation": "3F",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "5016cb51a73d14b6",
+  "translation": "2F",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "2b44a55fa551273c",
+  "translation": "1F",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+  }
+ },
+ {
+  "id": "0a37e3a94415109d",
+  "translation": "{JPN}{FONT_SMALL} 50まい{CLEAR_TO 0x45}1000円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "973dfecf5489196c",
+  "translation": "{JPN}{FONT_SMALL}500まい{CLEAR_TO 0x40}10000円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "44f6e4921a5e3a1c",
+  "translation": "{JPN}つうしんプレイ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ad3f5fca6ae33550",
+  "translation": "{JPN}ダイレクトコーナー{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "95eabbb4407ad0a2",
+  "translation": "{JPN}ユニオンルーム{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "1f1db6136beb704f",
+  "translation": "{JPN}おいしいみず{CLEAR_TO 0x57}{FONT_SMALL}200円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "a91ac597fb15f71f",
+  "translation": "{JPN}サイコソーダ{CLEAR_TO 0x57}{FONT_SMALL}300円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "ff79733267b4d411",
+  "translation": "{JPN}ミックスオレ{CLEAR_TO 0x57}{FONT_SMALL}350円{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8cd7a4d64a63eb85",
+  "translation": "{JPN}おいしいみず{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "3c40338eb240e82b",
+  "translation": "{JPN}サイコソーダ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "11ed86e6e4e9af1d",
+  "translation": "{JPN}ミックスオレ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "d88d002887f635d2",
+  "translation": "{JPN}かいのカセキ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "56714a1bab6bbec2",
+  "translation": "{JPN}こうらのカセキ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "00c92c03eb683030",
+  "translation": "{JPN}ひみつのコハク{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8ca3f68161595b5f",
+  "translation": "{JPN}ちいさなキノコ2こ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "9e5436e42b2f2006",
+  "translation": "{JPN}おおきなキノコ1こ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "fdd970a5119257d3",
+  "translation": "{JPN}セピア{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8372ff8c0e7bfaf5",
+  "translation": "{JPN}タマゴ{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "8fd66f04490307cb",
+  "translation": "{JPN}しょうり{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ },
+ {
+  "id": "660f231acf3bc2d5",
+  "translation": "{JPN}コイン{ENG}",
+  "provenance": {
+   "batch": "ui-script-menu-06",
+   "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+  }
+ }
+]

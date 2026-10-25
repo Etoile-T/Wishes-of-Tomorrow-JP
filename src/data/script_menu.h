@@ -1,23 +1,23 @@
 // multichoice lists
 static const struct MenuAction MultichoiceList_BrineyOnDewford[] =
 {
-    {COMPOUND_STRING("PETALBURG")},
-    {COMPOUND_STRING("SLATEPORT")},
+    {COMPOUND_STRING("{JPN}トウカシティ{ENG}")},
+    {COMPOUND_STRING("{JPN}カイナシティ{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_EnterInfo[] =
 {
-    {COMPOUND_STRING("ENTER")},
+    {COMPOUND_STRING("{JPN}はいる{ENG}")},
     {gText_Info2},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_ContestInfo[] =
 {
-    {COMPOUND_STRING("What's a CONTEST?")},
-    {COMPOUND_STRING("Types of CONTESTS")},
-    {COMPOUND_STRING("Ranks")},
+    {COMPOUND_STRING("{JPN}コンテストとは？{ENG}")},
+    {COMPOUND_STRING("{JPN}コンテストのしゅるい{ENG}")},
+    {COMPOUND_STRING("{JPN}ランク{ENG}")},
     {gText_Cancel2},
 };
 
@@ -56,30 +56,30 @@ static const struct MenuAction MultichoiceList_RegisterMenu[] =
 
 static const struct MenuAction MultichoiceList_Bike[] =
 {
-    {COMPOUND_STRING("MACH")},
-    {COMPOUND_STRING("ACRO")},
+    {COMPOUND_STRING("{JPN}マッハ{ENG}")},
+    {COMPOUND_STRING("{JPN}ダート{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_StatusInfo[] =
 {
-    {COMPOUND_STRING("PSN")},
-    {COMPOUND_STRING("PAR")},
-    {COMPOUND_STRING("SLP")},
-    {COMPOUND_STRING("BRN")},
-    {COMPOUND_STRING("FRZ")},
+    {COMPOUND_STRING("{JPN}どく{ENG}")},
+    {COMPOUND_STRING("{JPN}まひ{ENG}")},
+    {COMPOUND_STRING("{JPN}ねむり{ENG}")},
+    {COMPOUND_STRING("{JPN}やけど{ENG}")},
+    {COMPOUND_STRING("{JPN}こおり{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_BrineyOffDewford[] =
 {
-    {COMPOUND_STRING("DEWFORD")},
+    {COMPOUND_STRING("{JPN}ムロタウン{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_ViewedPaintings[] =
 {
-    {COMPOUND_STRING("Saw it")},
-    {COMPOUND_STRING("Not yet")},
+    {COMPOUND_STRING("{JPN}みた{ENG}")},
+    {COMPOUND_STRING("{JPN}まだ{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_YesNoInfo2[] =
@@ -91,8 +91,8 @@ static const struct MenuAction MultichoiceList_YesNoInfo2[] =
 
 static const struct MenuAction MultichoiceList_ChallengeInfo[] =
 {
-    {COMPOUND_STRING("CHALLENGE")},
-    {COMPOUND_STRING("INFO")},
+    {COMPOUND_STRING("{JPN}ちょうせん{ENG}")},
+    {COMPOUND_STRING("{JPN}じょうほう{ENG}")},
     {gText_Exit},
 };
 
@@ -105,84 +105,84 @@ static const struct MenuAction MultichoiceList_LevelMode[] =
 
 static const struct MenuAction MultichoiceList_Mechadoll1_Q1[] =
 {
-    {COMPOUND_STRING("ODDISH")},
-    {COMPOUND_STRING("POOCHYENA")},
-    {COMPOUND_STRING("TAILLOW")},
+    {COMPOUND_STRING("{JPN}ナゾノクサ{ENG}")},
+    {COMPOUND_STRING("{JPN}ポチエナ{ENG}")},
+    {COMPOUND_STRING("{JPN}スバメ{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll1_Q2[] =
 {
-    {COMPOUND_STRING("AZURILL")},
-    {COMPOUND_STRING("LOTAD")},
-    {COMPOUND_STRING("WINGULL")},
+    {COMPOUND_STRING("{JPN}ルリリ{ENG}")},
+    {COMPOUND_STRING("{JPN}ハスボー{ENG}")},
+    {COMPOUND_STRING("{JPN}キャモメ{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll1_Q3[] =
 {
-    {COMPOUND_STRING("DUSTOX")},
-    {COMPOUND_STRING("ZUBAT")},
-    {COMPOUND_STRING("NINCADA")},
+    {COMPOUND_STRING("{JPN}ドクケイル{ENG}")},
+    {COMPOUND_STRING("{JPN}ズバット{ENG}")},
+    {COMPOUND_STRING("{JPN}ツチニン{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll2_Q1[] =
 {
-    {COMPOUND_STRING("RALTS")},
-    {COMPOUND_STRING("ZIGZAGOON")},
-    {COMPOUND_STRING("SLAKOTH")},
+    {COMPOUND_STRING("{JPN}ラルトス{ENG}")},
+    {COMPOUND_STRING("{JPN}ジグザグマ{ENG}")},
+    {COMPOUND_STRING("{JPN}ナマケロ{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll2_Q2[] =
 {
-    {COMPOUND_STRING("POOCHYENA")},
-    {COMPOUND_STRING("SHROOMISH")},
-    {COMPOUND_STRING("ZIGZAGOON")},
+    {COMPOUND_STRING("{JPN}ポチエナ{ENG}")},
+    {COMPOUND_STRING("{JPN}キノココ{ENG}")},
+    {COMPOUND_STRING("{JPN}ジグザグマ{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll2_Q3[] =
 {
-    {COMPOUND_STRING("POOCHYENA")},
-    {COMPOUND_STRING("ZUBAT")},
-    {COMPOUND_STRING("CARVANHA")},
+    {COMPOUND_STRING("{JPN}ポチエナ{ENG}")},
+    {COMPOUND_STRING("{JPN}ズバット{ENG}")},
+    {COMPOUND_STRING("{JPN}キバニア{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll3_Q1[] =
 {
-    {COMPOUND_STRING("BURN HEAL")},
-    {COMPOUND_STRING("HARBOR MAIL")},
-    {COMPOUND_STRING("Same price")},
+    {COMPOUND_STRING("{JPN}やけどなおし{ENG}")},
+    {COMPOUND_STRING("{JPN}ハーバーメール{ENG}")},
+    {COMPOUND_STRING("{JPN}おなじねだん{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll3_Q2[] =
 {
-    {COMPOUND_STRING("¥60")},
-    {COMPOUND_STRING("¥55")},
-    {COMPOUND_STRING("Nothing")},
+    {COMPOUND_STRING("{JPN}60円{ENG}")},
+    {COMPOUND_STRING("{JPN}55円{ENG}")},
+    {COMPOUND_STRING("{JPN}のこらない{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll3_Q3[] =
 {
-    {COMPOUND_STRING("They will cost more.")},
-    {COMPOUND_STRING("They will cost less.")},
-    {COMPOUND_STRING("Same price")},
+    {COMPOUND_STRING("{JPN}たかくなる{ENG}")},
+    {COMPOUND_STRING("{JPN}やすくなる{ENG}")},
+    {COMPOUND_STRING("{JPN}おなじねだん{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q1[] =
 {
-    {COMPOUND_STRING("Male")},
-    {COMPOUND_STRING("Female")},
-    {COMPOUND_STRING("Neither")},
+    {COMPOUND_STRING("{JPN}おとこのひと{ENG}")},
+    {COMPOUND_STRING("{JPN}おんなのひと{ENG}")},
+    {COMPOUND_STRING("{JPN}おなじかず{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q2[] =
 {
-    {COMPOUND_STRING("Elderly men")},
-    {COMPOUND_STRING("Elderly ladies")},
-    {COMPOUND_STRING("Same number")},
+    {COMPOUND_STRING("{JPN}おじいさん{ENG}")},
+    {COMPOUND_STRING("{JPN}おばあさん{ENG}")},
+    {COMPOUND_STRING("{JPN}おなじかず{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q3[] =
 {
-    {COMPOUND_STRING("None")},
+    {COMPOUND_STRING("{JPN}いない{ENG}")},
     {COMPOUND_STRING("1")},
     {COMPOUND_STRING("2")},
 };
@@ -210,82 +210,82 @@ static const struct MenuAction MultichoiceList_Mechadoll5_Q3[] =
 
 static const struct MenuAction MultichoiceList_VendingMachine[] =
 {
-    {COMPOUND_STRING("FRESH WATER{CLEAR_TO 0x48}¥200")},
-    {COMPOUND_STRING("SODA POP{CLEAR_TO 0x48}¥300")},
-    {COMPOUND_STRING("LEMONADE{CLEAR_TO 0x48}¥350")},
+    {COMPOUND_STRING("{JPN}おいしいみず{CLEAR_TO 0x48}200円{ENG}")},
+    {COMPOUND_STRING("{JPN}サイコソーダ{CLEAR_TO 0x48}300円{ENG}")},
+    {COMPOUND_STRING("{JPN}ミックスオレ{CLEAR_TO 0x48}350円{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_MachBikeInfo[] =
 {
-    {COMPOUND_STRING("HOW TO RIDE")},
-    {COMPOUND_STRING("HOW TO TURN")},
-    {COMPOUND_STRING("SANDY SLOPES")},
+    {COMPOUND_STRING("{JPN}のりかた{ENG}")},
+    {COMPOUND_STRING("{JPN}まがりかた{ENG}")},
+    {COMPOUND_STRING("{JPN}すなのさか{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_AcroBikeInfo[] =
 {
-    {COMPOUND_STRING("WHEELIES")},
-    {COMPOUND_STRING("BUNNY-HOPS")},
-    {COMPOUND_STRING("JUMP")},
+    {COMPOUND_STRING("{JPN}ウィリー{ENG}")},
+    {COMPOUND_STRING("{JPN}バニーホップ{ENG}")},
+    {COMPOUND_STRING("{JPN}ジャンプ{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_Satisfaction[] =
 {
-    {COMPOUND_STRING("Satisfied")},
-    {COMPOUND_STRING("Dissatisfied")},
+    {COMPOUND_STRING("{JPN}まんぞく{ENG}")},
+    {COMPOUND_STRING("{JPN}ふまん{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_SternDeepSea[] =
 {
-    {COMPOUND_STRING("DEEPSEATOOTH")},
-    {COMPOUND_STRING("DEEPSEASCALE")},
+    {COMPOUND_STRING("{JPN}しんかいのキバ{ENG}")},
+    {COMPOUND_STRING("{JPN}しんかいのウロコ{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_UnusedAshVendor[] =
 {
-    {COMPOUND_STRING("BLUE FLUTE")},
-    {COMPOUND_STRING("YELLOW FLUTE")},
-    {COMPOUND_STRING("RED FLUTE")},
-    {COMPOUND_STRING("WHITE FLUTE")},
-    {COMPOUND_STRING("BLACK FLUTE")},
-    {COMPOUND_STRING("GLASS CHAIR")},
-    {COMPOUND_STRING("GLASS DESK")},
+    {COMPOUND_STRING("{JPN}あおいビードロ{ENG}")},
+    {COMPOUND_STRING("{JPN}きいろビードロ{ENG}")},
+    {COMPOUND_STRING("{JPN}あかいビードロ{ENG}")},
+    {COMPOUND_STRING("{JPN}しろいビードロ{ENG}")},
+    {COMPOUND_STRING("{JPN}くろいビードロ{ENG}")},
+    {COMPOUND_STRING("{JPN}ガラスのいす{ENG}")},
+    {COMPOUND_STRING("{JPN}ガラスのつくえ{ENG}")},
     {gText_Cancel2},
 };
 
 static const struct MenuAction MultichoiceList_GameCornerDolls[] =
 {
-    {COMPOUND_STRING("TREECKO DOLL 1,000 COINS")},
-    {COMPOUND_STRING("TORCHIC DOLL 1,000 COINS")},
-    {COMPOUND_STRING("MUDKIP DOLL   1,000 COINS")},
+    {COMPOUND_STRING("{JPN}キモリドール   1000まい{ENG}")},
+    {COMPOUND_STRING("{JPN}アチャモドール  1000まい{ENG}")},
+    {COMPOUND_STRING("{JPN}ミズゴロウドール 1000まい{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_GameCornerTMs[] =
 {
-    {COMPOUND_STRING("TM32{CLEAR_TO 0x48}1,500 COINS")},
-    {COMPOUND_STRING("TM29{CLEAR_TO 0x48}3,500 COINS")},
-    {COMPOUND_STRING("TM35{CLEAR_TO 0x48}4,000 COINS")},
-    {COMPOUND_STRING("TM24{CLEAR_TO 0x48}4,000 COINS")},
-    {COMPOUND_STRING("TM13{CLEAR_TO 0x48}4,000 COINS")},
+    {COMPOUND_STRING("{JPN}わざマシン32{CLEAR_TO 0x48}1500まい{ENG}")},
+    {COMPOUND_STRING("{JPN}わざマシン29{CLEAR_TO 0x48}3500まい{ENG}")},
+    {COMPOUND_STRING("{JPN}わざマシン35{CLEAR_TO 0x48}4000まい{ENG}")},
+    {COMPOUND_STRING("{JPN}わざマシン24{CLEAR_TO 0x48}4000まい{ENG}")},
+    {COMPOUND_STRING("{JPN}わざマシン13{CLEAR_TO 0x48}4000まい{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_GameCornerCoins[] =
 {
-    {COMPOUND_STRING("  50 COINS    ¥1,000")},
-    {COMPOUND_STRING("500 COINS  ¥10,000")},
+    {COMPOUND_STRING("{JPN}  50まい    1000円{ENG}")},
+    {COMPOUND_STRING("{JPN}500まい   10000円{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_HowsFishing[] =
 {
-    {COMPOUND_STRING("Excellent")},
-    {COMPOUND_STRING("Not so good")},
+    {COMPOUND_STRING("{JPN}ばっちり{ENG}")},
+    {COMPOUND_STRING("{JPN}いまいち{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_SSTidalSlateportWithBF[] =
@@ -304,8 +304,8 @@ static const struct MenuAction MultichoiceList_SSTidalBattleFrontier[] =
 
 static const struct MenuAction MultichoiceList_RightLeft[] =
 {
-    {COMPOUND_STRING("Right")},
-    {COMPOUND_STRING("Left")},
+    {COMPOUND_STRING("{JPN}みぎ{ENG}")},
+    {COMPOUND_STRING("{JPN}ひだり{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_SSTidalSlateportNoBF[] =
@@ -452,8 +452,8 @@ static const struct MenuAction MultichoiceList_TourneyNoRecord[] =
 
 static const struct MenuAction MultichoiceList_Tent[] =
 {
-    {COMPOUND_STRING("RED TENT")},
-    {COMPOUND_STRING("BLUE TENT")},
+    {COMPOUND_STRING("{JPN}あかいテント{ENG}")},
+    {COMPOUND_STRING("{JPN}あおいテント{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_LinkServicesNoBerry[] =
@@ -481,14 +481,14 @@ static const struct MenuAction MultichoiceList_CatalpaDestinations[] =
 // in Tradewind_EventScript_CurioMenu.
 static const struct MenuAction MultichoiceList_TradewindCurios[] =
 {
-    {COMPOUND_STRING("Lucarionite Z")},
-    {COMPOUND_STRING("Tyranitarite")},
-    {COMPOUND_STRING("Gyaradosite")},
-    {COMPOUND_STRING("Raichunite Y")},
-    {COMPOUND_STRING("Tatsugirinite")},
-    {COMPOUND_STRING("Houndoominite")},
-    {COMPOUND_STRING("Banettite")},
-    {COMPOUND_STRING("Garchompite")},
+    {COMPOUND_STRING("{JPN}ルカリオナイトZ{ENG}")},
+    {COMPOUND_STRING("{JPN}バンギラスナイト{ENG}")},
+    {COMPOUND_STRING("{JPN}ギャラドスナイト{ENG}")},
+    {COMPOUND_STRING("{JPN}ライチュウナイトY{ENG}")},
+    {COMPOUND_STRING("{JPN}シャリタツナイト{ENG}")},
+    {COMPOUND_STRING("{JPN}ヘルガナイト{ENG}")},
+    {COMPOUND_STRING("{JPN}ジュペッタナイト{ENG}")},
+    {COMPOUND_STRING("{JPN}ガブリアスナイト{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_ReadDestroyResearch[] =
@@ -507,9 +507,9 @@ static const struct MenuAction MultichoiceList_YesNoInfo[] =
 
 static const struct MenuAction MultichoiceList_BattleMode[] =
 {
-    {COMPOUND_STRING("SINGLE BATTLE")},
-    {COMPOUND_STRING("DOUBLE BATTLE")},
-    {COMPOUND_STRING("MULTI BATTLE")},
+    {COMPOUND_STRING("{JPN}シングルバトル{ENG}")},
+    {COMPOUND_STRING("{JPN}ダブルバトル{ENG}")},
+    {COMPOUND_STRING("{JPN}マルチバトル{ENG}")},
     {gText_Info2},
     {gText_Exit},
 };
@@ -540,46 +540,46 @@ static const struct MenuAction MultichoiceList_LinkServicesNoRecordBerry[] =
 
 static const struct MenuAction MultichoiceList_WirelessMinigame[] =
 {
-    {COMPOUND_STRING("POKéMON JUMP")},
-    {COMPOUND_STRING("DODRIO BERRY-PICKING")},
+    {COMPOUND_STRING("{JPN}ポケモンジャンプ{ENG}")},
+    {COMPOUND_STRING("{JPN}ドードリオのきのみとり{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_LinkLeader[] =
 {
-    {COMPOUND_STRING("JOIN GROUP")},
-    {COMPOUND_STRING("BECOME LEADER")},
+    {COMPOUND_STRING("{JPN}グループにはいる{ENG}")},
+    {COMPOUND_STRING("{JPN}リーダーになる{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_ContestRank[] =
 {
-    {COMPOUND_STRING("NORMAL RANK")},
-    {COMPOUND_STRING("SUPER RANK")},
-    {COMPOUND_STRING("HYPER RANK")},
-    {COMPOUND_STRING("MASTER RANK")},
+    {COMPOUND_STRING("{JPN}ノーマルランク{ENG}")},
+    {COMPOUND_STRING("{JPN}スーパーランク{ENG}")},
+    {COMPOUND_STRING("{JPN}ハイパーランク{ENG}")},
+    {COMPOUND_STRING("{JPN}マスターランク{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_FrontierItemChoose[] =
 {
-    {COMPOUND_STRING("BATTLE BAG")},
-    {COMPOUND_STRING("HELD ITEM")},
+    {COMPOUND_STRING("{JPN}バトルバッグ{ENG}")},
+    {COMPOUND_STRING("{JPN}もちもの{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_LinkContestInfo[] =
 {
-    {COMPOUND_STRING("LINK CONTEST")},
-    {COMPOUND_STRING("ABOUT E-MODE")},
-    {COMPOUND_STRING("ABOUT G-MODE")},
+    {COMPOUND_STRING("{JPN}つうしんコンテスト{ENG}")},
+    {COMPOUND_STRING("{JPN}Eモードについて{ENG}")},
+    {COMPOUND_STRING("{JPN}Gモードについて{ENG}")},
     {gText_Cancel2},
 };
 
 static const struct MenuAction MultichoiceList_LinkContestMode[] =
 {
-    {COMPOUND_STRING("E-MODE")},
-    {COMPOUND_STRING("G-MODE")},
+    {COMPOUND_STRING("{JPN}Eモード{ENG}")},
+    {COMPOUND_STRING("{JPN}Gモード{ENG}")},
     {gText_Exit},
 };
 
@@ -634,32 +634,32 @@ static const struct MenuAction MultichoiceList_UnusedSSTidal4[] =
 
 static const struct MenuAction MultichoiceList_Fossil[] =
 {
-    {COMPOUND_STRING("CLAW FOSSIL")},
-    {COMPOUND_STRING("ROOT FOSSIL")},
+    {COMPOUND_STRING("{JPN}ツメのカセキ{ENG}")},
+    {COMPOUND_STRING("{JPN}ねっこのカセキ{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_YesNo[] =
 {
     {gText_Yes},
-    {COMPOUND_STRING("NO")},
+    {COMPOUND_STRING("{JPN}いいえ{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_FrontierRules[] =
 {
-    {COMPOUND_STRING("TWO STYLES")},
-    {COMPOUND_STRING("LV. 50")},
-    {COMPOUND_STRING("OPEN LEVEL")},
-    {COMPOUND_STRING("{PKMN} TYPE & NO.")},
-    {COMPOUND_STRING("HOLD ITEMS")},
+    {COMPOUND_STRING("{JPN}2つのスタイル{ENG}")},
+    {COMPOUND_STRING("{JPN}レベル50{ENG}")},
+    {COMPOUND_STRING("{JPN}オープンレベル{ENG}")},
+    {COMPOUND_STRING("{JPN}{ENG}{PKMN}{JPN}のしゅるいとかず{ENG}")},
+    {COMPOUND_STRING("{JPN}もちもの{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_FrontierPassInfo[] =
 {
-    {COMPOUND_STRING("SYMBOLS")},
-    {COMPOUND_STRING("RECORD")},
-    {COMPOUND_STRING("BATTLE PTS")},
+    {COMPOUND_STRING("{JPN}シンボル{ENG}")},
+    {COMPOUND_STRING("{JPN}きろく{ENG}")},
+    {COMPOUND_STRING("{JPN}バトルポイント{ENG}")},
     {gText_Exit},
 };
 
@@ -674,18 +674,18 @@ static const struct MenuAction MultichoiceList_BattleArenaRules[] =
 
 static const struct MenuAction MultichoiceList_BattleTowerRules[] =
 {
-    {COMPOUND_STRING("TOWER INFO")},
-    {COMPOUND_STRING("BATTLE {PKMN}")},
-    {COMPOUND_STRING("BATTLE SALON")},
-    {COMPOUND_STRING("MULTI-LINK")},
+    {COMPOUND_STRING("{JPN}タワーについて{ENG}")},
+    {COMPOUND_STRING("{JPN}バトルの{ENG}{PKMN}{JPN}{ENG}")},
+    {COMPOUND_STRING("{JPN}バトルサロン{ENG}")},
+    {COMPOUND_STRING("{JPN}マルチリンク{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_BattleDomeRules[] =
 {
-    {COMPOUND_STRING("MATCHUP")},
-    {COMPOUND_STRING("TOURNEY TREE")},
-    {COMPOUND_STRING("DOUBLE KO")},
+    {COMPOUND_STRING("{JPN}くみあわせ{ENG}")},
+    {COMPOUND_STRING("{JPN}トーナメントひょう{ENG}")},
+    {COMPOUND_STRING("{JPN}あいうち{ENG}")},
     {gText_Exit},
 };
 
@@ -695,7 +695,7 @@ static const struct MenuAction MultichoiceList_BattleFactoryRules[] =
     {gText_SwapPartners},
     {gText_SwapNumber},
     {gText_SwapNotes},
-    {COMPOUND_STRING("OPEN LEVEL")},
+    {COMPOUND_STRING("{JPN}オープンレベル{ENG}")},
     {gText_Exit},
 };
 
@@ -711,18 +711,18 @@ static const struct MenuAction MultichoiceList_BattlePalaceRules[] =
 
 static const struct MenuAction MultichoiceList_BattlePyramidRules[] =
 {
-    {COMPOUND_STRING("PYRAMID: POKéMON")},
-    {COMPOUND_STRING("PYRAMID: TRAINERS")},
-    {COMPOUND_STRING("PYRAMID: MAZE")},
-    {COMPOUND_STRING("BATTLE BAG")},
+    {COMPOUND_STRING("{JPN}ピラミッド:ポケモン{ENG}")},
+    {COMPOUND_STRING("{JPN}ピラミッド:トレーナー{ENG}")},
+    {COMPOUND_STRING("{JPN}ピラミッド:めいろ{ENG}")},
+    {COMPOUND_STRING("{JPN}バトルバッグ{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_BattlePikeRules[] =
 {
-    {COMPOUND_STRING("POKéNAV AND BAG")},
-    {COMPOUND_STRING("HELD ITEMS")},
-    {COMPOUND_STRING("POKéMON ORDER")},
+    {COMPOUND_STRING("{JPN}ポケナビとバッグ{ENG}")},
+    {COMPOUND_STRING("{JPN}もちもの{ENG}")},
+    {COMPOUND_STRING("{JPN}ポケモンのじゅんばん{ENG}")},
     {gText_Exit},
 };
 
@@ -756,24 +756,24 @@ static const struct MenuAction MultichoiceList_GoOnRetire[] =
 
 static const struct MenuAction MultichoiceList_TVLati[] =
 {
-    {COMPOUND_STRING("RED")},
-    {COMPOUND_STRING("BLUE")},
+    {COMPOUND_STRING("{JPN}あか{ENG}")},
+    {COMPOUND_STRING("{JPN}あお{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_BattleTowerFeelings[] =
 {
-    {COMPOUND_STRING("I'll battle now!")},
-    {COMPOUND_STRING("I won!")},
-    {COMPOUND_STRING("I lost!")},
-    {COMPOUND_STRING("I won't tell.")},
+    {COMPOUND_STRING("{JPN}いまからバトル！{ENG}")},
+    {COMPOUND_STRING("{JPN}かったよ！{ENG}")},
+    {COMPOUND_STRING("{JPN}まけちゃった！{ENG}")},
+    {COMPOUND_STRING("{JPN}ないしょ。{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_WheresRayquaza[] =
 {
-    {COMPOUND_STRING("CAVE OF ORIGIN")},
-    {COMPOUND_STRING("MT. PYRE")},
-    {COMPOUND_STRING("SKY PILLAR")},
-    {COMPOUND_STRING("Don't remember")},
+    {COMPOUND_STRING("{JPN}めざめのほこら{ENG}")},
+    {COMPOUND_STRING("{JPN}おくりびやま{ENG}")},
+    {COMPOUND_STRING("{JPN}そらのはしら{ENG}")},
+    {COMPOUND_STRING("{JPN}おぼえていない{ENG}")},
 };
 
 static const struct MenuAction MultichoiceList_SlateportTentRules[] =
@@ -807,33 +807,33 @@ static const struct MenuAction MultichoiceList_TagMatchType[] =
 
 static const struct MenuAction MultichoiceList_BerryPlot[] =
 {
-    {COMPOUND_STRING("FERTILIZE")},
-    {COMPOUND_STRING("PLANT BERRY")},
+    {COMPOUND_STRING("{JPN}こやしをまく{ENG}")},
+    {COMPOUND_STRING("{JPN}きのみをうえる{ENG}")},
     {gText_Exit},
 };
 
 static const struct MenuAction sMultichoiceList_BikeShop[] = {
-    { COMPOUND_STRING("BICYCLE{CLEAR_TO 0x49}{FONT_SMALL}¥1,000,000") },
-    { COMPOUND_STRING("NO THANKS") }
+    { COMPOUND_STRING("{JPN}じてんしゃ{CLEAR_TO 0x49}{FONT_SMALL}1000000円{ENG}") },
+    { COMPOUND_STRING("{JPN}いりません{ENG}") }
 };
 
 static const struct MenuAction sMultichoiceList_Eeveelutions[] = {
-    { COMPOUND_STRING("EEVEE") },
-    { COMPOUND_STRING("FLAREON") },
-    { COMPOUND_STRING("JOLTEON") },
-    { COMPOUND_STRING("VAPOREON") },
-    { COMPOUND_STRING("Quit looking.") }
+    { COMPOUND_STRING("{JPN}イーブイ{ENG}") },
+    { COMPOUND_STRING("{JPN}ブースター{ENG}") },
+    { COMPOUND_STRING("{JPN}サンダース{ENG}") },
+    { COMPOUND_STRING("{JPN}シャワーズ{ENG}") },
+    { COMPOUND_STRING("{JPN}みるのをやめる{ENG}") }
 };
 
-static const u8 gText_SeviiIslands[] = _("SEVII ISLANDS");
-static const u8 gText_OneIsland[] = _("ONE ISLAND");
-static const u8 gText_TwoIsland[] = _("TWO ISLAND");
-static const u8 gText_ThreeIsland[] = _("THREE ISLAND");
-static const u8 gText_FourIsland[] = _("FOUR ISLAND");
-static const u8 gText_FiveIsland[] = _("FIVE ISLAND");
-static const u8 gText_SixIsland[] = _("SIX ISLAND");
-static const u8 gText_SevenIsland[] = _("SEVEN ISLAND");
-static const u8 gText_Vermilion[] = _("VERMILION");
+static const u8 gText_SeviiIslands[] = _("{JPN}ナナシマ{ENG}");
+static const u8 gText_OneIsland[] = _("{JPN}1のしま{ENG}");
+static const u8 gText_TwoIsland[] = _("{JPN}2のしま{ENG}");
+static const u8 gText_ThreeIsland[] = _("{JPN}3のしま{ENG}");
+static const u8 gText_FourIsland[] = _("{JPN}4のしま{ENG}");
+static const u8 gText_FiveIsland[] = _("{JPN}5のしま{ENG}");
+static const u8 gText_SixIsland[] = _("{JPN}6のしま{ENG}");
+static const u8 gText_SevenIsland[] = _("{JPN}7のしま{ENG}");
+static const u8 gText_Vermilion[] = _("{JPN}クチバシティ{ENG}");
 
 static const struct MenuAction sMultichoiceList_Island23[] = {
     { gText_TwoIsland },
@@ -905,40 +905,40 @@ static const struct MenuAction sMultichoiceList_SeagallopVermilion[] = {
     { gText_Exit }
 };
 
-const u8 sText_NoThanks[] = _("NO THANKS");
+const u8 sText_NoThanks[] = _("{JPN}いりません{ENG}");
 
 static const struct MenuAction sMultichoiceList_GameCornerPokemonPrizes[] = {
 #if defined(FIRERED)
-    { COMPOUND_STRING("ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS") },
-    { COMPOUND_STRING("CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 500 COINS") },
-    { COMPOUND_STRING("DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 2,800 COINS") },
-    { COMPOUND_STRING("SCYTHER{CLEAR_TO 0x4B}{FONT_SMALL} 5,500 COINS") },
-    { COMPOUND_STRING("PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS") },
+    { COMPOUND_STRING("{JPN}ケーシィ{CLEAR_TO 0x55}{FONT_SMALL} 180まい{ENG}") },
+    { COMPOUND_STRING("{JPN}ピッピ{CLEAR_TO 0x55}{FONT_SMALL} 500まい{ENG}") },
+    { COMPOUND_STRING("{JPN}ミニリュウ{CLEAR_TO 0x4B}{FONT_SMALL} 2800まい{ENG}") },
+    { COMPOUND_STRING("{JPN}ストライク{CLEAR_TO 0x4B}{FONT_SMALL} 5500まい{ENG}") },
+    { COMPOUND_STRING("{JPN}ポリゴン{CLEAR_TO 0x4B}{FONT_SMALL} 9999まい{ENG}") },
 #else
-    { COMPOUND_STRING("ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120 COINS") },
-    { COMPOUND_STRING("CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 750 COINS") },
-    { COMPOUND_STRING("PINSIR{CLEAR_TO 0x4B}{FONT_SMALL} 2,500 COINS") },
-    { COMPOUND_STRING("DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 4,600 COINS") },
-    { COMPOUND_STRING("PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500 COINS") },
+    { COMPOUND_STRING("{JPN}ケーシィ{CLEAR_TO 0x55}{FONT_SMALL} 120まい{ENG}") },
+    { COMPOUND_STRING("{JPN}ピッピ{CLEAR_TO 0x55}{FONT_SMALL} 750まい{ENG}") },
+    { COMPOUND_STRING("{JPN}カイロス{CLEAR_TO 0x4B}{FONT_SMALL} 2500まい{ENG}") },
+    { COMPOUND_STRING("{JPN}ミニリュウ{CLEAR_TO 0x4B}{FONT_SMALL} 4600まい{ENG}") },
+    { COMPOUND_STRING("{JPN}ポリゴン{CLEAR_TO 0x4B}{FONT_SMALL} 6500まい{ENG}") },
 #endif
     { sText_NoThanks }
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerTMPrizes[] = {
-    { COMPOUND_STRING("TM13{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS") },
-    { COMPOUND_STRING("TM23{CLEAR_TO 0x48}{FONT_SMALL}3,500 COINS") },
-    { COMPOUND_STRING("TM24{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS") },
-    { COMPOUND_STRING("TM30{CLEAR_TO 0x48}{FONT_SMALL}4,500 COINS") },
-    { COMPOUND_STRING("TM35{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS") },
+    { COMPOUND_STRING("{JPN}わざマシン13{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}") },
+    { COMPOUND_STRING("{JPN}わざマシン23{CLEAR_TO 0x48}{FONT_SMALL}3500まい{ENG}") },
+    { COMPOUND_STRING("{JPN}わざマシン24{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}") },
+    { COMPOUND_STRING("{JPN}わざマシン30{CLEAR_TO 0x48}{FONT_SMALL}4500まい{ENG}") },
+    { COMPOUND_STRING("{JPN}わざマシン35{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}") },
     { sText_NoThanks }
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerBattleItemPrizes[] = {
-    { COMPOUND_STRING("SMOKE BALL{CLEAR_TO 0x5A}{FONT_SMALL}800 COINS") },
-    { COMPOUND_STRING("MIRACLE SEED{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS") },
-    { COMPOUND_STRING("CHARCOAL{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS") },
-    { COMPOUND_STRING("MYSTIC WATER{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS") },
-    { COMPOUND_STRING("YELLOW FLUTE{CLEAR_TO 0x50}{FONT_SMALL}1,600 COINS") },
+    { COMPOUND_STRING("{JPN}けむりだま{CLEAR_TO 0x5A}{FONT_SMALL}800まい{ENG}") },
+    { COMPOUND_STRING("{JPN}きせきのタネ{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}") },
+    { COMPOUND_STRING("{JPN}もくたん{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}") },
+    { COMPOUND_STRING("{JPN}しんぴのしずく{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}") },
+    { COMPOUND_STRING("{JPN}きいろビードロ{CLEAR_TO 0x50}{FONT_SMALL}1600まい{ENG}") },
     { sText_NoThanks }
 };
 
@@ -952,28 +952,28 @@ static const struct MenuAction sMultichoiceList_DeptStoreElevator[] = {
 };
 
 static const struct MenuAction sMultichoiceList_GameCornerCoinPurchaseCounter[] = {
-    { COMPOUND_STRING("{FONT_SMALL} 50 COINS{CLEAR_TO 0x45}¥1,000") },
-    { COMPOUND_STRING("{FONT_SMALL}500 COINS{CLEAR_TO 0x40}¥10,000") },
+    { COMPOUND_STRING("{JPN}{FONT_SMALL} 50まい{CLEAR_TO 0x45}1000円{ENG}") },
+    { COMPOUND_STRING("{JPN}{FONT_SMALL}500まい{CLEAR_TO 0x40}10000円{ENG}") },
     { gText_Exit }
 };
 
 static const struct MenuAction sMultichoiceList_LinkedDirectUnion[] = {
-    { COMPOUND_STRING("LINKED GAME PLAY") },
-    { COMPOUND_STRING("DIRECT CORNER") },
-    { COMPOUND_STRING("UNION ROOM") },
+    { COMPOUND_STRING("{JPN}つうしんプレイ{ENG}") },
+    { COMPOUND_STRING("{JPN}ダイレクトコーナー{ENG}") },
+    { COMPOUND_STRING("{JPN}ユニオンルーム{ENG}") },
     { gText_Exit }
 };
 
 static const struct MenuAction sMultichoiceList_CeladonVendingMachine[] = {
-    { COMPOUND_STRING("FRESH WATER{CLEAR_TO 0x57}{FONT_SMALL}¥200") },
-    { COMPOUND_STRING("SODA POP{CLEAR_TO 0x57}{FONT_SMALL}¥300") },
-    { COMPOUND_STRING("LEMONADE{CLEAR_TO 0x57}{FONT_SMALL}¥350") },
+    { COMPOUND_STRING("{JPN}おいしいみず{CLEAR_TO 0x57}{FONT_SMALL}200円{ENG}") },
+    { COMPOUND_STRING("{JPN}サイコソーダ{CLEAR_TO 0x57}{FONT_SMALL}300円{ENG}") },
+    { COMPOUND_STRING("{JPN}ミックスオレ{CLEAR_TO 0x57}{FONT_SMALL}350円{ENG}") },
     { gText_Exit }
 };
 
-const u8 sText_FreshWater[] = _("FRESH WATER");
-const u8 sText_SodaPop[] = _("SODA POP");
-const u8 sText_Lemonade[] = _("LEMONADE");
+const u8 sText_FreshWater[] = _("{JPN}おいしいみず{ENG}");
+const u8 sText_SodaPop[] = _("{JPN}サイコソーダ{ENG}");
+const u8 sText_Lemonade[] = _("{JPN}ミックスオレ{ENG}");
 
 static const struct MenuAction sMultichoiceList_ThirstyGirlFreshWater[] = {
     { sText_FreshWater },
@@ -1022,9 +1022,9 @@ static const struct MenuAction sMultichoiceList_RocketHideoutElevator[] = {
     { gText_Exit }
 };
 
-static const u8 sText_HelixFossil[] = _("HELIX FOSSIL");
-static const u8 sText_DomeFossil[] = _("DOME FOSSIL");
-static const u8 sText_OldAmber[] = _("OLD AMBER");
+static const u8 sText_HelixFossil[] = _("{JPN}かいのカセキ{ENG}");
+static const u8 sText_DomeFossil[] = _("{JPN}こうらのカセキ{ENG}");
+static const u8 sText_OldAmber[] = _("{JPN}ひみつのコハク{ENG}");
 
 static const struct MenuAction sMultichoiceList_Helix[] = {
     { sText_HelixFossil },
@@ -1054,8 +1054,8 @@ static const struct MenuAction sMultichoiceList_DomeAmber[] = {
 };
 
 static const struct MenuAction sMultichoiceList_Mushrooms[] = {
-    { COMPOUND_STRING("2 TINYMUSHROOMS") },
-    { COMPOUND_STRING("1 BIG MUSHROOM") }
+    { COMPOUND_STRING("{JPN}ちいさなキノコ2こ{ENG}") },
+    { COMPOUND_STRING("{JPN}おおきなキノコ1こ{ENG}") }
 };
 
 static const struct MenuAction sMultichoiceList_RooftopB1F[] = {
@@ -1076,11 +1076,11 @@ static const struct MenuAction sMultichoiceList_TrainerCardIconTint[] = {
     { gText_Normal },
     { gText_DexSearchColorBlack },
     { gText_DexSearchColorPink },
-    { COMPOUND_STRING("SEPIA") }
+    { COMPOUND_STRING("{JPN}セピア{ENG}") }
 };
 
-static const u8 sText_Eggs[] = _("EGGS");
-static const u8 sText_Victories[] = _("VICTORIES");
+static const u8 sText_Eggs[] = _("{JPN}タマゴ{ENG}");
+static const u8 sText_Victories[] = _("{JPN}しょうり{ENG}");
 
 static const struct MenuAction sMultichoiceList_HOF_Quit[] = {
     { gText_HallOfFame },
@@ -1340,7 +1340,7 @@ const u8 *const gStdStrings[] =
     [STDSTRING_MARSH_BADGE]      = gText_Marshbadge,
     [STDSTRING_VOLCANO_BADGE]    = gText_Volcanobadge,
     [STDSTRING_EARTH_BADGE]      = gText_Earthbadge,
-    [STDSTRING_COINS]            = COMPOUND_STRING("COINS"),
+    [STDSTRING_COINS]            = COMPOUND_STRING("{JPN}コイン{ENG}"),
 };
 
 static const u8 sLinkServicesMultichoiceIds[] =

@@ -79217,14 +79217,13 @@
     "end": 455840,
     "raw": "\"A case that holds\\n\"\n            \"up to 9,999 Coins.\"",
     "source": "A case that holds\\nup to 9,999 Coins.",
-    "translation": "{JPN}コインをさいだい9,999\\nまいまでいれられるケース。{ENG}",
+    "translation": "{JPN}コインをさいだい9999\\nまいまでいれられるケース。{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "target": "item_description",
     "provenance": {
-      "method": "English description translated; macros protected",
-      "columns": 13,
-      "max_lines": 3
+      "batch": "jpn-punctuation-fix-05",
+      "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
     }
   },
   {
@@ -178757,9 +178756,13 @@
     "end": 122,
     "raw": "\"PETALBURG\"",
     "source": "PETALBURG",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}トウカシティ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "913d59726059aabf",
@@ -178769,9 +178772,13 @@
     "end": 158,
     "raw": "\"SLATEPORT\"",
     "source": "SLATEPORT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カイナシティ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d700fd638a496206",
@@ -178781,9 +178788,13 @@
     "end": 275,
     "raw": "\"ENTER\"",
     "source": "ENTER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}はいる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "19dd571960808da8",
@@ -178793,9 +178804,13 @@
     "end": 425,
     "raw": "\"What's a CONTEST?\"",
     "source": "What's a CONTEST?",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コンテストとは？{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "476dbf4b6e062361",
@@ -178805,9 +178820,13 @@
     "end": 469,
     "raw": "\"Types of CONTESTS\"",
     "source": "Types of CONTESTS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コンテストのしゅるい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "5e6cceef59531df1",
@@ -178817,9 +178836,13 @@
     "end": 501,
     "raw": "\"Ranks\"",
     "source": "Ranks",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ランク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "6b82c7ab89d75176",
@@ -178829,9 +178852,13 @@
     "end": 1309,
     "raw": "\"MACH\"",
     "source": "MACH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マッハ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a4be71e2a30ee05e",
@@ -178841,9 +178868,13 @@
     "end": 1340,
     "raw": "\"ACRO\"",
     "source": "ACRO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ダート{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "e6278dd41b3af549",
@@ -178853,9 +178884,13 @@
     "end": 1438,
     "raw": "\"PSN\"",
     "source": "PSN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "c5d356c9363448d7",
@@ -178865,9 +178900,13 @@
     "end": 1468,
     "raw": "\"PAR\"",
     "source": "PAR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まひ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "eb157ee19b62e71e",
@@ -178877,9 +178916,13 @@
     "end": 1498,
     "raw": "\"SLP\"",
     "source": "SLP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ねむり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "6738039a13e03c9e",
@@ -178889,9 +178932,13 @@
     "end": 1528,
     "raw": "\"BRN\"",
     "source": "BRN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やけど{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "72fca099165a751b",
@@ -178901,9 +178948,13 @@
     "end": 1558,
     "raw": "\"FRZ\"",
     "source": "FRZ",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こおり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "87b9e19bf2cd57a9",
@@ -178913,9 +178964,13 @@
     "end": 1684,
     "raw": "\"DEWFORD\"",
     "source": "DEWFORD",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ムロタウン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "964fe361aeacc2cd",
@@ -178925,9 +178980,13 @@
     "end": 1808,
     "raw": "\"Saw it\"",
     "source": "Saw it",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}みた{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "99ce02b311904d9d",
@@ -178937,9 +178996,13 @@
     "end": 1842,
     "raw": "\"Not yet\"",
     "source": "Not yet",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まだ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f660bb2dccacba1e",
@@ -178949,9 +179012,13 @@
     "end": 2069,
     "raw": "\"CHALLENGE\"",
     "source": "CHALLENGE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ちょうせん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8fbcb6c8b12aae38",
@@ -178961,9 +179028,13 @@
     "end": 2100,
     "raw": "\"INFO\"",
     "source": "INFO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}じょうほう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a8912dc49b32d611",
@@ -178973,9 +179044,13 @@
     "end": 2348,
     "raw": "\"ODDISH\"",
     "source": "ODDISH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ナゾノクサ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8ab39c54084cfe0f",
@@ -178985,9 +179060,13 @@
     "end": 2384,
     "raw": "\"POOCHYENA\"",
     "source": "POOCHYENA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポチエナ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "96d49399e80e7f00",
@@ -178997,9 +179076,13 @@
     "end": 2418,
     "raw": "\"TAILLOW\"",
     "source": "TAILLOW",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}スバメ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a092832a086f7540",
@@ -179009,9 +179092,13 @@
     "end": 2523,
     "raw": "\"AZURILL\"",
     "source": "AZURILL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ルリリ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "471437c6ae4320f7",
@@ -179021,9 +179108,13 @@
     "end": 2555,
     "raw": "\"LOTAD\"",
     "source": "LOTAD",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ハスボー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a38f36340024705a",
@@ -179033,9 +179124,13 @@
     "end": 2589,
     "raw": "\"WINGULL\"",
     "source": "WINGULL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}キャモメ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "61a707e4c7a5d118",
@@ -179045,9 +179140,13 @@
     "end": 2693,
     "raw": "\"DUSTOX\"",
     "source": "DUSTOX",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ドクケイル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0b078a39722ebadd",
@@ -179057,9 +179156,13 @@
     "end": 2725,
     "raw": "\"ZUBAT\"",
     "source": "ZUBAT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ズバット{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "1e015de7b33e6859",
@@ -179069,9 +179172,13 @@
     "end": 2759,
     "raw": "\"NINCADA\"",
     "source": "NINCADA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ツチニン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fe453f3fcb1a07cc",
@@ -179081,9 +179188,13 @@
     "end": 2862,
     "raw": "\"RALTS\"",
     "source": "RALTS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ラルトス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "18c4edcd4f2c0f37",
@@ -179093,9 +179204,13 @@
     "end": 2898,
     "raw": "\"ZIGZAGOON\"",
     "source": "ZIGZAGOON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジグザグマ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "bd3e2683811cb972",
@@ -179105,9 +179220,13 @@
     "end": 2932,
     "raw": "\"SLAKOTH\"",
     "source": "SLAKOTH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ナマケロ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "18e83f2e2752d3ee",
@@ -179117,9 +179236,13 @@
     "end": 3039,
     "raw": "\"POOCHYENA\"",
     "source": "POOCHYENA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポチエナ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3260882778fcf045",
@@ -179129,9 +179252,13 @@
     "end": 3075,
     "raw": "\"SHROOMISH\"",
     "source": "SHROOMISH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}キノココ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "6ac22e1144ab0b5f",
@@ -179141,9 +179268,13 @@
     "end": 3111,
     "raw": "\"ZIGZAGOON\"",
     "source": "ZIGZAGOON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジグザグマ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b5882aeed1225d5f",
@@ -179153,9 +179284,13 @@
     "end": 3218,
     "raw": "\"POOCHYENA\"",
     "source": "POOCHYENA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポチエナ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "648a0a3ef188e39b",
@@ -179165,9 +179300,13 @@
     "end": 3250,
     "raw": "\"ZUBAT\"",
     "source": "ZUBAT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ズバット{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3073c53e8aec0a43",
@@ -179177,9 +179316,13 @@
     "end": 3285,
     "raw": "\"CARVANHA\"",
     "source": "CARVANHA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}キバニア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "77d00daf12f2b82e",
@@ -179189,9 +179332,13 @@
     "end": 3392,
     "raw": "\"BURN HEAL\"",
     "source": "BURN HEAL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やけどなおし{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8fd7b2b7773bd67a",
@@ -179201,9 +179348,13 @@
     "end": 3430,
     "raw": "\"HARBOR MAIL\"",
     "source": "HARBOR MAIL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ハーバーメール{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b3ec001638a8b89b",
@@ -179213,9 +179364,13 @@
     "end": 3467,
     "raw": "\"Same price\"",
     "source": "Same price",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おなじねだん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d0983c6ede43bb82",
@@ -179225,9 +179380,13 @@
     "end": 3568,
     "raw": "\"¥60\"",
     "source": "¥60",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}60円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fb9173ce196ba0c5",
@@ -179237,9 +179396,13 @@
     "end": 3598,
     "raw": "\"¥55\"",
     "source": "¥55",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}55円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0f02552e0ba50d41",
@@ -179249,9 +179412,13 @@
     "end": 3632,
     "raw": "\"Nothing\"",
     "source": "Nothing",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}のこらない{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b5365bc6bb2840df",
@@ -179261,9 +179428,13 @@
     "end": 3750,
     "raw": "\"They will cost more.\"",
     "source": "They will cost more.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たかくなる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a492850dc3f6ea3c",
@@ -179273,9 +179444,13 @@
     "end": 3797,
     "raw": "\"They will cost less.\"",
     "source": "They will cost less.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やすくなる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "5161b28dbdd8425c",
@@ -179285,9 +179460,13 @@
     "end": 3834,
     "raw": "\"Same price\"",
     "source": "Same price",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おなじねだん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a65e3a492adabd49",
@@ -179297,9 +179476,13 @@
     "end": 3936,
     "raw": "\"Male\"",
     "source": "Male",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おとこのひと{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "795c95b95bd06c8c",
@@ -179309,9 +179492,13 @@
     "end": 3969,
     "raw": "\"Female\"",
     "source": "Female",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おんなのひと{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "089b90ce677647ae",
@@ -179321,9 +179508,13 @@
     "end": 4003,
     "raw": "\"Neither\"",
     "source": "Neither",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おなじかず{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3422736ca03be598",
@@ -179333,9 +179524,13 @@
     "end": 4112,
     "raw": "\"Elderly men\"",
     "source": "Elderly men",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おじいさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "07d9913fc76d0df9",
@@ -179345,9 +179540,13 @@
     "end": 4153,
     "raw": "\"Elderly ladies\"",
     "source": "Elderly ladies",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おばあさん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "105470abe01abd91",
@@ -179357,9 +179556,13 @@
     "end": 4191,
     "raw": "\"Same number\"",
     "source": "Same number",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おなじかず{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9e694ae684ff85b8",
@@ -179369,9 +179572,13 @@
     "end": 4293,
     "raw": "\"None\"",
     "source": "None",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いない{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "5689e7abfe3c4817",
@@ -179381,9 +179588,13 @@
     "end": 4321,
     "raw": "\"1\"",
     "source": "1",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "1",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "45e06dfabab3a550",
@@ -179393,9 +179604,13 @@
     "end": 4349,
     "raw": "\"2\"",
     "source": "2",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "2",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "da259f31d88e39da",
@@ -179405,9 +179620,13 @@
     "end": 4448,
     "raw": "\"2\"",
     "source": "2",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "2",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "c267abb065565b70",
@@ -179417,9 +179636,13 @@
     "end": 4476,
     "raw": "\"3\"",
     "source": "3",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "3",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "5b0ff0be49c427d3",
@@ -179429,9 +179652,13 @@
     "end": 4504,
     "raw": "\"4\"",
     "source": "4",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "4",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "61a9bca44d92a34c",
@@ -179441,9 +179668,13 @@
     "end": 4603,
     "raw": "\"6\"",
     "source": "6",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "6",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "371fe1d17a0cc922",
@@ -179453,9 +179684,13 @@
     "end": 4631,
     "raw": "\"7\"",
     "source": "7",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "7",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "9e1b7710efd03b2c",
@@ -179465,9 +179700,13 @@
     "end": 4659,
     "raw": "\"8\"",
     "source": "8",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "8",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "f2b6e400cd3f1363",
@@ -179477,9 +179716,13 @@
     "end": 4758,
     "raw": "\"6\"",
     "source": "6",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "6",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "d9647b6dec8abdcc",
@@ -179489,9 +179732,13 @@
     "end": 4786,
     "raw": "\"7\"",
     "source": "7",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "7",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "c422026224763d20",
@@ -179501,9 +179748,13 @@
     "end": 4814,
     "raw": "\"8\"",
     "source": "8",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "8",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "12152a7eb35ce86e",
@@ -179513,9 +179764,13 @@
     "end": 4943,
     "raw": "\"FRESH WATER{CLEAR_TO 0x48}¥200\"",
     "source": "FRESH WATER{CLEAR_TO 0x48}¥200",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おいしいみず{CLEAR_TO 0x48}200円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "bc76891c403da240",
@@ -179525,9 +179780,13 @@
     "end": 4997,
     "raw": "\"SODA POP{CLEAR_TO 0x48}¥300\"",
     "source": "SODA POP{CLEAR_TO 0x48}¥300",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サイコソーダ{CLEAR_TO 0x48}300円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "7847aada609e2414",
@@ -179537,9 +179796,13 @@
     "end": 5051,
     "raw": "\"LEMONADE{CLEAR_TO 0x48}¥350\"",
     "source": "LEMONADE{CLEAR_TO 0x48}¥350",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミックスオレ{CLEAR_TO 0x48}350円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ebeaf473a3371282",
@@ -179549,9 +179812,13 @@
     "end": 5177,
     "raw": "\"HOW TO RIDE\"",
     "source": "HOW TO RIDE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}のりかた{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9e3190a2cc7a51f6",
@@ -179561,9 +179828,13 @@
     "end": 5215,
     "raw": "\"HOW TO TURN\"",
     "source": "HOW TO TURN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まがりかた{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "aae758c01d9dae8c",
@@ -179573,9 +179844,13 @@
     "end": 5254,
     "raw": "\"SANDY SLOPES\"",
     "source": "SANDY SLOPES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}すなのさか{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "c44f5b2bbd96d2a4",
@@ -179585,9 +179860,13 @@
     "end": 5377,
     "raw": "\"WHEELIES\"",
     "source": "WHEELIES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ウィリー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "18353ffd1e1e8273",
@@ -179597,9 +179876,13 @@
     "end": 5414,
     "raw": "\"BUNNY-HOPS\"",
     "source": "BUNNY-HOPS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バニーホップ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3a1d8a90be06e363",
@@ -179609,9 +179892,13 @@
     "end": 5445,
     "raw": "\"JUMP\"",
     "source": "JUMP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジャンプ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b702b0338d3675f6",
@@ -179621,9 +179908,13 @@
     "end": 5569,
     "raw": "\"Satisfied\"",
     "source": "Satisfied",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まんぞく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b03cd414ee3cb125",
@@ -179633,9 +179924,13 @@
     "end": 5608,
     "raw": "\"Dissatisfied\"",
     "source": "Dissatisfied",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふまん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "08365f1f17c4acf1",
@@ -179645,9 +179940,13 @@
     "end": 5717,
     "raw": "\"DEEPSEATOOTH\"",
     "source": "DEEPSEATOOTH",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんかいのキバ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "80a0ca9c909767dc",
@@ -179657,9 +179956,13 @@
     "end": 5756,
     "raw": "\"DEEPSEASCALE\"",
     "source": "DEEPSEASCALE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんかいのウロコ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "086d0084ba02bda6",
@@ -179669,9 +179972,13 @@
     "end": 5884,
     "raw": "\"BLUE FLUTE\"",
     "source": "BLUE FLUTE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あおいビードロ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0df27a0cf5082fe1",
@@ -179681,9 +179988,13 @@
     "end": 5923,
     "raw": "\"YELLOW FLUTE\"",
     "source": "YELLOW FLUTE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きいろビードロ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f39ef9d03b26b17a",
@@ -179693,9 +180004,13 @@
     "end": 5959,
     "raw": "\"RED FLUTE\"",
     "source": "RED FLUTE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あかいビードロ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "2e766b756c298b86",
@@ -179705,9 +180020,13 @@
     "end": 5997,
     "raw": "\"WHITE FLUTE\"",
     "source": "WHITE FLUTE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しろいビードロ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "4824f05c0bb263aa",
@@ -179717,9 +180036,13 @@
     "end": 6035,
     "raw": "\"BLACK FLUTE\"",
     "source": "BLACK FLUTE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}くろいビードロ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "67c4baa155fe53e0",
@@ -179729,9 +180052,13 @@
     "end": 6073,
     "raw": "\"GLASS CHAIR\"",
     "source": "GLASS CHAIR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ガラスのいす{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3f4d16085fc15211",
@@ -179741,9 +180068,13 @@
     "end": 6110,
     "raw": "\"GLASS DESK\"",
     "source": "GLASS DESK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ガラスのつくえ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a2926e8c083fb400",
@@ -179753,9 +180084,13 @@
     "end": 6255,
     "raw": "\"TREECKO DOLL 1,000 COINS\"",
     "source": "TREECKO DOLL 1,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}キモリドール   1000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9d7a784b2e6cdf9f",
@@ -179765,9 +180100,13 @@
     "end": 6306,
     "raw": "\"TORCHIC DOLL 1,000 COINS\"",
     "source": "TORCHIC DOLL 1,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アチャモドール  1000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "2908074526171668",
@@ -179777,9 +180116,13 @@
     "end": 6358,
     "raw": "\"MUDKIP DOLL   1,000 COINS\"",
     "source": "MUDKIP DOLL   1,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミズゴロウドール 1000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ad20c36fe83446d0",
@@ -179789,9 +180132,13 @@
     "end": 6504,
     "raw": "\"TM32{CLEAR_TO 0x48}1,500 COINS\"",
     "source": "TM32{CLEAR_TO 0x48}1,500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン32{CLEAR_TO 0x48}1500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "5ee94ffc0d227c3d",
@@ -179801,9 +180148,13 @@
     "end": 6561,
     "raw": "\"TM29{CLEAR_TO 0x48}3,500 COINS\"",
     "source": "TM29{CLEAR_TO 0x48}3,500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン29{CLEAR_TO 0x48}3500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "6329074ed7523034",
@@ -179813,9 +180164,13 @@
     "end": 6618,
     "raw": "\"TM35{CLEAR_TO 0x48}4,000 COINS\"",
     "source": "TM35{CLEAR_TO 0x48}4,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン35{CLEAR_TO 0x48}4000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f55edf8546b7495b",
@@ -179825,9 +180180,13 @@
     "end": 6675,
     "raw": "\"TM24{CLEAR_TO 0x48}4,000 COINS\"",
     "source": "TM24{CLEAR_TO 0x48}4,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン24{CLEAR_TO 0x48}4000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "510a301a8677bcfe",
@@ -179837,9 +180196,13 @@
     "end": 6732,
     "raw": "\"TM13{CLEAR_TO 0x48}4,000 COINS\"",
     "source": "TM13{CLEAR_TO 0x48}4,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン13{CLEAR_TO 0x48}4000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b3bc155f87a5db4e",
@@ -179849,9 +180212,13 @@
     "end": 6870,
     "raw": "\"  50 COINS    ¥1,000\"",
     "source": "  50 COINS    ¥1,000",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}  50まい    1000円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "4d354def5da1ff77",
@@ -179861,9 +180228,13 @@
     "end": 6915,
     "raw": "\"500 COINS  ¥10,000\"",
     "source": "500 COINS  ¥10,000",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}500まい   10000円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9120005082a7ce92",
@@ -179873,9 +180244,13 @@
     "end": 7038,
     "raw": "\"Excellent\"",
     "source": "Excellent",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ばっちり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8bedcfa33f955713",
@@ -179885,9 +180260,13 @@
     "end": 7076,
     "raw": "\"Not so good\"",
     "source": "Not so good",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまいち{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f13f7036781ea252",
@@ -179897,9 +180276,13 @@
     "end": 7477,
     "raw": "\"Right\"",
     "source": "Right",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}みぎ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "997a351318336b45",
@@ -179909,9 +180292,13 @@
     "end": 7508,
     "raw": "\"Left\"",
     "source": "Left",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ひだり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "86aa3349c48c1cdf",
@@ -179921,9 +180308,13 @@
     "end": 10296,
     "raw": "\"RED TENT\"",
     "source": "RED TENT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あかいテント{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fd75385427680311",
@@ -179933,9 +180324,13 @@
     "end": 10332,
     "raw": "\"BLUE TENT\"",
     "source": "BLUE TENT",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あおいテント{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9a8ead2869636526",
@@ -179945,9 +180340,13 @@
     "end": 11024,
     "raw": "\"Lucarionite Z\"",
     "source": "Lucarionite Z",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ルカリオナイトZ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0b83732785a366f8",
@@ -179957,9 +180356,13 @@
     "end": 11063,
     "raw": "\"Tyranitarite\"",
     "source": "Tyranitarite",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バンギラスナイト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "c66d36aa827318a8",
@@ -179969,9 +180372,13 @@
     "end": 11101,
     "raw": "\"Gyaradosite\"",
     "source": "Gyaradosite",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ギャラドスナイト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "1ce3435a4c678f34",
@@ -179981,9 +180388,13 @@
     "end": 11140,
     "raw": "\"Raichunite Y\"",
     "source": "Raichunite Y",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ライチュウナイトY{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d5e93ef5e264bf77",
@@ -179993,9 +180404,13 @@
     "end": 11180,
     "raw": "\"Tatsugirinite\"",
     "source": "Tatsugirinite",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}シャリタツナイト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "90ef8a250e0c7d70",
@@ -180005,9 +180420,13 @@
     "end": 11220,
     "raw": "\"Houndoominite\"",
     "source": "Houndoominite",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ヘルガナイト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d27893001051cc61",
@@ -180017,9 +180436,13 @@
     "end": 11256,
     "raw": "\"Banettite\"",
     "source": "Banettite",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ジュペッタナイト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "52dedea38b445f6d",
@@ -180029,9 +180452,13 @@
     "end": 11294,
     "raw": "\"Garchompite\"",
     "source": "Garchompite",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ガブリアスナイト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "c15bae08ccf51380",
@@ -180041,9 +180468,13 @@
     "end": 11670,
     "raw": "\"SINGLE BATTLE\"",
     "source": "SINGLE BATTLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}シングルバトル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3b68f1c2c637dd96",
@@ -180053,9 +180484,13 @@
     "end": 11710,
     "raw": "\"DOUBLE BATTLE\"",
     "source": "DOUBLE BATTLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ダブルバトル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "46fd98c2d87ee90c",
@@ -180065,9 +180500,13 @@
     "end": 11749,
     "raw": "\"MULTI BATTLE\"",
     "source": "MULTI BATTLE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マルチバトル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fc98a604b8a85fca",
@@ -180077,9 +180516,13 @@
     "end": 12407,
     "raw": "\"POKéMON JUMP\"",
     "source": "POKéMON JUMP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンジャンプ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "315f622c802ec4b9",
@@ -180089,9 +180532,13 @@
     "end": 12454,
     "raw": "\"DODRIO BERRY-PICKING\"",
     "source": "DODRIO BERRY-PICKING",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ドードリオのきのみとり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3a202f23b33b352e",
@@ -180101,9 +180548,13 @@
     "end": 12577,
     "raw": "\"JOIN GROUP\"",
     "source": "JOIN GROUP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}グループにはいる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d56c8382db143fa2",
@@ -180113,9 +180564,13 @@
     "end": 12617,
     "raw": "\"BECOME LEADER\"",
     "source": "BECOME LEADER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}リーダーになる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8c8407843c2e980b",
@@ -180125,9 +180580,13 @@
     "end": 12742,
     "raw": "\"NORMAL RANK\"",
     "source": "NORMAL RANK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ノーマルランク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "56b67068ad79814a",
@@ -180137,9 +180596,13 @@
     "end": 12779,
     "raw": "\"SUPER RANK\"",
     "source": "SUPER RANK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}スーパーランク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f1f6d805999d63bc",
@@ -180149,9 +180612,13 @@
     "end": 12816,
     "raw": "\"HYPER RANK\"",
     "source": "HYPER RANK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ハイパーランク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fc883ed65d589b3f",
@@ -180161,9 +180628,13 @@
     "end": 12854,
     "raw": "\"MASTER RANK\"",
     "source": "MASTER RANK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マスターランク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "374895efd158deb7",
@@ -180173,9 +180644,13 @@
     "end": 12985,
     "raw": "\"BATTLE BAG\"",
     "source": "BATTLE BAG",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルバッグ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d8faa5a189c6e822",
@@ -180185,9 +180660,13 @@
     "end": 13021,
     "raw": "\"HELD ITEM\"",
     "source": "HELD ITEM",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もちもの{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "cfa509ab695a3bac",
@@ -180197,9 +180676,13 @@
     "end": 13151,
     "raw": "\"LINK CONTEST\"",
     "source": "LINK CONTEST",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}つうしんコンテスト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f0885f8bb1109434",
@@ -180209,9 +180692,13 @@
     "end": 13190,
     "raw": "\"ABOUT E-MODE\"",
     "source": "ABOUT E-MODE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}Eモードについて{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "164a96cda44b4f10",
@@ -180221,9 +180708,13 @@
     "end": 13229,
     "raw": "\"ABOUT G-MODE\"",
     "source": "ABOUT G-MODE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}Gモードについて{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f25bd00b1bbc2d92",
@@ -180233,9 +180724,13 @@
     "end": 13356,
     "raw": "\"E-MODE\"",
     "source": "E-MODE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}Eモード{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fed01ee1354d5c5d",
@@ -180245,9 +180740,13 @@
     "end": 13389,
     "raw": "\"G-MODE\"",
     "source": "G-MODE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}Gモード{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ed8dbae082d7a2ee",
@@ -180257,9 +180756,13 @@
     "end": 13863,
     "raw": "\"  5BP\"",
     "source": "  5BP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "  5BP",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "4cb893ef82a0cc41",
@@ -180269,9 +180772,13 @@
     "end": 13894,
     "raw": "\"10BP\"",
     "source": "10BP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "10BP",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "c209a1772deac602",
@@ -180281,9 +180788,13 @@
     "end": 13925,
     "raw": "\"15BP\"",
     "source": "15BP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "15BP",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "50c9abd4094f9753",
@@ -180293,9 +180804,13 @@
     "end": 14645,
     "raw": "\"CLAW FOSSIL\"",
     "source": "CLAW FOSSIL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ツメのカセキ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "327fdfe32baf64a4",
@@ -180305,9 +180820,13 @@
     "end": 14683,
     "raw": "\"ROOT FOSSIL\"",
     "source": "ROOT FOSSIL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ねっこのカセキ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "33536f6172422ac0",
@@ -180317,9 +180836,13 @@
     "end": 14810,
     "raw": "\"NO\"",
     "source": "NO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いいえ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "bf89a1fbbaa68f91",
@@ -180329,9 +180852,13 @@
     "end": 14918,
     "raw": "\"TWO STYLES\"",
     "source": "TWO STYLES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}2つのスタイル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "28101a11e1dd07aa",
@@ -180341,9 +180868,13 @@
     "end": 14951,
     "raw": "\"LV. 50\"",
     "source": "LV. 50",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}レベル50{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d3828a92e8413c8e",
@@ -180353,9 +180884,13 @@
     "end": 14988,
     "raw": "\"OPEN LEVEL\"",
     "source": "OPEN LEVEL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オープンレベル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "1ecdf02e946e6cbd",
@@ -180365,9 +180900,13 @@
     "end": 15032,
     "raw": "\"{PKMN} TYPE & NO.\"",
     "source": "{PKMN} TYPE & NO.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{ENG}{PKMN}{JPN}のしゅるいとかず{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ec4102cd490d3f5c",
@@ -180377,9 +180916,13 @@
     "end": 15069,
     "raw": "\"HOLD ITEMS\"",
     "source": "HOLD ITEMS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もちもの{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ff715d5ac3edc3d5",
@@ -180389,9 +180932,13 @@
     "end": 15195,
     "raw": "\"SYMBOLS\"",
     "source": "SYMBOLS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}シンボル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "2a509c088f627a28",
@@ -180401,9 +180948,13 @@
     "end": 15228,
     "raw": "\"RECORD\"",
     "source": "RECORD",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きろく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "744bb945c2ca89b7",
@@ -180413,9 +180964,13 @@
     "end": 15265,
     "raw": "\"BATTLE PTS\"",
     "source": "BATTLE PTS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルポイント{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "40e0fabe0d7df64c",
@@ -180425,9 +180980,13 @@
     "end": 15581,
     "raw": "\"TOWER INFO\"",
     "source": "TOWER INFO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}タワーについて{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fb47df4896f4facb",
@@ -180437,9 +180996,13 @@
     "end": 15621,
     "raw": "\"BATTLE {PKMN}\"",
     "source": "BATTLE {PKMN}",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルの{ENG}{PKMN}{JPN}{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "dd62f64471503a2f",
@@ -180449,9 +181012,13 @@
     "end": 15660,
     "raw": "\"BATTLE SALON\"",
     "source": "BATTLE SALON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルサロン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "4b7e76c35fc3f63c",
@@ -180461,9 +181028,13 @@
     "end": 15697,
     "raw": "\"MULTI-LINK\"",
     "source": "MULTI-LINK",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マルチリンク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "c9441ca704142c82",
@@ -180473,9 +181044,13 @@
     "end": 15822,
     "raw": "\"MATCHUP\"",
     "source": "MATCHUP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}くみあわせ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9d63fe02c203c880",
@@ -180485,9 +181060,13 @@
     "end": 15861,
     "raw": "\"TOURNEY TREE\"",
     "source": "TOURNEY TREE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}トーナメントひょう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "dd8945b40db4b44c",
@@ -180497,9 +181076,13 @@
     "end": 15897,
     "raw": "\"DOUBLE KO\"",
     "source": "DOUBLE KO",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あいうち{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ee03f761cdcd1ed9",
@@ -180509,9 +181092,13 @@
     "end": 16125,
     "raw": "\"OPEN LEVEL\"",
     "source": "OPEN LEVEL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オープンレベル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "92ff136b35d1518b",
@@ -180521,9 +181108,13 @@
     "end": 16486,
     "raw": "\"PYRAMID: POKéMON\"",
     "source": "PYRAMID: POKéMON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピラミッド:ポケモン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "cd80a8905080a67b",
@@ -180533,9 +181124,13 @@
     "end": 16530,
     "raw": "\"PYRAMID: TRAINERS\"",
     "source": "PYRAMID: TRAINERS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピラミッド:トレーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "5e343a1140a3da47",
@@ -180545,9 +181140,13 @@
     "end": 16570,
     "raw": "\"PYRAMID: MAZE\"",
     "source": "PYRAMID: MAZE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピラミッド:めいろ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "65459a3fa00353b2",
@@ -180557,9 +181156,13 @@
     "end": 16607,
     "raw": "\"BATTLE BAG\"",
     "source": "BATTLE BAG",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バトルバッグ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0d9fbe66ab848b3b",
@@ -180569,9 +181172,13 @@
     "end": 16740,
     "raw": "\"POKéNAV AND BAG\"",
     "source": "POKéNAV AND BAG",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケナビとバッグ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "e8f8d3d061ed56c2",
@@ -180581,9 +181188,13 @@
     "end": 16777,
     "raw": "\"HELD ITEMS\"",
     "source": "HELD ITEMS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もちもの{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8a8f14bf22252555",
@@ -180593,9 +181204,13 @@
     "end": 16817,
     "raw": "\"POKéMON ORDER\"",
     "source": "POKéMON ORDER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポケモンのじゅんばん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "2d41d14eb21d806a",
@@ -180605,9 +181220,13 @@
     "end": 17451,
     "raw": "\"RED\"",
     "source": "RED",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あか{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "da5dffb8674439c3",
@@ -180617,9 +181236,13 @@
     "end": 17482,
     "raw": "\"BLUE\"",
     "source": "BLUE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あお{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "7e78eb02868496c0",
@@ -180629,9 +181252,13 @@
     "end": 17602,
     "raw": "\"I'll battle now!\"",
     "source": "I'll battle now!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いまからバトル！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "59109e75b3388c46",
@@ -180641,9 +181268,13 @@
     "end": 17635,
     "raw": "\"I won!\"",
     "source": "I won!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かったよ！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "23880ffe019f183a",
@@ -180653,9 +181284,13 @@
     "end": 17669,
     "raw": "\"I lost!\"",
     "source": "I lost!",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まけちゃった！{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "59549fa9305968cd",
@@ -180665,9 +181300,13 @@
     "end": 17709,
     "raw": "\"I won't tell.\"",
     "source": "I won't tell.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ないしょ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "2458349b8c42ad27",
@@ -180677,9 +181316,13 @@
     "end": 17822,
     "raw": "\"CAVE OF ORIGIN\"",
     "source": "CAVE OF ORIGIN",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}めざめのほこら{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "54f6461f317fac4b",
@@ -180689,9 +181332,13 @@
     "end": 17857,
     "raw": "\"MT. PYRE\"",
     "source": "MT. PYRE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おくりびやま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "5a359d24f2dd9083",
@@ -180701,9 +181348,13 @@
     "end": 17894,
     "raw": "\"SKY PILLAR\"",
     "source": "SKY PILLAR",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}そらのはしら{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "7f412574d4ceee59",
@@ -180713,9 +181364,13 @@
     "end": 17935,
     "raw": "\"Don't remember\"",
     "source": "Don't remember",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おぼえていない{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "957c34d02ab8fdd3",
@@ -180725,9 +181380,13 @@
     "end": 18674,
     "raw": "\"FERTILIZE\"",
     "source": "FERTILIZE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こやしをまく{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b071dad34c0e77b0",
@@ -180737,9 +181396,13 @@
     "end": 18712,
     "raw": "\"PLANT BERRY\"",
     "source": "PLANT BERRY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きのみをうえる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3db0e0f1ee26de63",
@@ -180749,9 +181412,13 @@
     "end": 18869,
     "raw": "\"BICYCLE{CLEAR_TO 0x49}{FONT_SMALL}¥1,000,000\"",
     "source": "BICYCLE{CLEAR_TO 0x49}{FONT_SMALL}¥1,000,000",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}じてんしゃ{CLEAR_TO 0x49}{FONT_SMALL}1000000円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "6a615f30f7ac0ed4",
@@ -180761,9 +181428,13 @@
     "end": 18907,
     "raw": "\"NO THANKS\"",
     "source": "NO THANKS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いりません{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "cfb050a21dc70e71",
@@ -180773,9 +181444,13 @@
     "end": 19011,
     "raw": "\"EEVEE\"",
     "source": "EEVEE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}イーブイ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "1ae08040bac42c2b",
@@ -180785,9 +181460,13 @@
     "end": 19047,
     "raw": "\"FLAREON\"",
     "source": "FLAREON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ブースター{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "4869cb71a958ebfd",
@@ -180797,9 +181476,13 @@
     "end": 19083,
     "raw": "\"JOLTEON\"",
     "source": "JOLTEON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サンダース{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "14e5b6c87abbe03f",
@@ -180809,9 +181492,13 @@
     "end": 19120,
     "raw": "\"VAPOREON\"",
     "source": "VAPOREON",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}シャワーズ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0fa49460b8d27296",
@@ -180821,9 +181508,13 @@
     "end": 19162,
     "raw": "\"Quit looking.\"",
     "source": "Quit looking.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}みるのをやめる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "87a8cd43e22272e9",
@@ -180833,9 +181524,13 @@
     "end": 19226,
     "raw": "\"SEVII ISLANDS\"",
     "source": "SEVII ISLANDS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ナナシマ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "84ad35f1f15578e9",
@@ -180845,9 +181540,13 @@
     "end": 19279,
     "raw": "\"ONE ISLAND\"",
     "source": "ONE ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}1のしま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d9c2283aaf61f088",
@@ -180857,9 +181556,13 @@
     "end": 19332,
     "raw": "\"TWO ISLAND\"",
     "source": "TWO ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}2のしま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3c93c65350102ea8",
@@ -180869,9 +181572,13 @@
     "end": 19389,
     "raw": "\"THREE ISLAND\"",
     "source": "THREE ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}3のしま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "16025b9ac409104a",
@@ -180881,9 +181588,13 @@
     "end": 19444,
     "raw": "\"FOUR ISLAND\"",
     "source": "FOUR ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}4のしま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3a82a3cb48ad968e",
@@ -180893,9 +181604,13 @@
     "end": 19499,
     "raw": "\"FIVE ISLAND\"",
     "source": "FIVE ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}5のしま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0814cbd456216622",
@@ -180905,9 +181620,13 @@
     "end": 19552,
     "raw": "\"SIX ISLAND\"",
     "source": "SIX ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}6のしま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "1e105c36b5bec9db",
@@ -180917,9 +181636,13 @@
     "end": 19609,
     "raw": "\"SEVEN ISLAND\"",
     "source": "SEVEN ISLAND",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}7のしま{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "374ec6a782cda6d5",
@@ -180929,9 +181652,13 @@
     "end": 19661,
     "raw": "\"VERMILION\"",
     "source": "VERMILION",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}クチバシティ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "367ae3076fc178a6",
@@ -180941,9 +181668,13 @@
     "end": 21362,
     "raw": "\"NO THANKS\"",
     "source": "NO THANKS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いりません{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9df2d3a596aba452",
@@ -180953,9 +181684,13 @@
     "end": 21530,
     "raw": "\"ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS\"",
     "source": "ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ケーシィ{CLEAR_TO 0x55}{FONT_SMALL} 180まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "018618fd4b8f5703",
@@ -180965,9 +181700,13 @@
     "end": 21604,
     "raw": "\"CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 500 COINS\"",
     "source": "CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピッピ{CLEAR_TO 0x55}{FONT_SMALL} 500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "82930cece87afa3d",
@@ -180977,9 +181716,13 @@
     "end": 21679,
     "raw": "\"DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 2,800 COINS\"",
     "source": "DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 2,800 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミニリュウ{CLEAR_TO 0x4B}{FONT_SMALL} 2800まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fd3fb711abb25da2",
@@ -180989,9 +181732,13 @@
     "end": 21754,
     "raw": "\"SCYTHER{CLEAR_TO 0x4B}{FONT_SMALL} 5,500 COINS\"",
     "source": "SCYTHER{CLEAR_TO 0x4B}{FONT_SMALL} 5,500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ストライク{CLEAR_TO 0x4B}{FONT_SMALL} 5500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "2bc4885696e1dcbb",
@@ -181001,9 +181748,13 @@
     "end": 21829,
     "raw": "\"PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS\"",
     "source": "PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポリゴン{CLEAR_TO 0x4B}{FONT_SMALL} 9999まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "49f81b8059c13d95",
@@ -181013,9 +181764,13 @@
     "end": 21905,
     "raw": "\"ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120 COINS\"",
     "source": "ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ケーシィ{CLEAR_TO 0x55}{FONT_SMALL} 120まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "b979362de0d06271",
@@ -181025,9 +181780,13 @@
     "end": 21979,
     "raw": "\"CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 750 COINS\"",
     "source": "CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 750 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ピッピ{CLEAR_TO 0x55}{FONT_SMALL} 750まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "871a951906d40a6e",
@@ -181037,9 +181796,13 @@
     "end": 22053,
     "raw": "\"PINSIR{CLEAR_TO 0x4B}{FONT_SMALL} 2,500 COINS\"",
     "source": "PINSIR{CLEAR_TO 0x4B}{FONT_SMALL} 2,500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カイロス{CLEAR_TO 0x4B}{FONT_SMALL} 2500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "0c3b8b771b33d727",
@@ -181049,9 +181812,13 @@
     "end": 22128,
     "raw": "\"DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 4,600 COINS\"",
     "source": "DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 4,600 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミニリュウ{CLEAR_TO 0x4B}{FONT_SMALL} 4600まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "7dbcd7ecf0419141",
@@ -181061,9 +181828,13 @@
     "end": 22203,
     "raw": "\"PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500 COINS\"",
     "source": "PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ポリゴン{CLEAR_TO 0x4B}{FONT_SMALL} 6500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "703112778ea5925c",
@@ -181073,9 +181844,13 @@
     "end": 22381,
     "raw": "\"TM13{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS\"",
     "source": "TM13{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン13{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "e497fc7fff608d14",
@@ -181085,9 +181860,13 @@
     "end": 22452,
     "raw": "\"TM23{CLEAR_TO 0x48}{FONT_SMALL}3,500 COINS\"",
     "source": "TM23{CLEAR_TO 0x48}{FONT_SMALL}3,500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン23{CLEAR_TO 0x48}{FONT_SMALL}3500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "80603ec2854a23e6",
@@ -181097,9 +181876,13 @@
     "end": 22523,
     "raw": "\"TM24{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS\"",
     "source": "TM24{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン24{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "063230fdab52cfc0",
@@ -181109,9 +181892,13 @@
     "end": 22594,
     "raw": "\"TM30{CLEAR_TO 0x48}{FONT_SMALL}4,500 COINS\"",
     "source": "TM30{CLEAR_TO 0x48}{FONT_SMALL}4,500 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン30{CLEAR_TO 0x48}{FONT_SMALL}4500まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "6a19acbdb6c902d6",
@@ -181121,9 +181908,13 @@
     "end": 22665,
     "raw": "\"TM35{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS\"",
     "source": "TM35{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}わざマシン35{CLEAR_TO 0x48}{FONT_SMALL}4000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "4cdd1fafb6867f6d",
@@ -181133,9 +181924,13 @@
     "end": 22848,
     "raw": "\"SMOKE BALL{CLEAR_TO 0x5A}{FONT_SMALL}800 COINS\"",
     "source": "SMOKE BALL{CLEAR_TO 0x5A}{FONT_SMALL}800 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}けむりだま{CLEAR_TO 0x5A}{FONT_SMALL}800まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "57ee2a1bb3c3a9d5",
@@ -181145,9 +181940,13 @@
     "end": 22927,
     "raw": "\"MIRACLE SEED{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS\"",
     "source": "MIRACLE SEED{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きせきのタネ{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3ce48aa6dcf7c8b0",
@@ -181157,9 +181956,13 @@
     "end": 23002,
     "raw": "\"CHARCOAL{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS\"",
     "source": "CHARCOAL{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もくたん{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "18d82fe877e1ff1c",
@@ -181169,9 +181972,13 @@
     "end": 23081,
     "raw": "\"MYSTIC WATER{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS\"",
     "source": "MYSTIC WATER{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんぴのしずく{CLEAR_TO 0x50}{FONT_SMALL}1000まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "7dd1542a52b10c06",
@@ -181181,9 +181988,13 @@
     "end": 23160,
     "raw": "\"YELLOW FLUTE{CLEAR_TO 0x50}{FONT_SMALL}1,600 COINS\"",
     "source": "YELLOW FLUTE{CLEAR_TO 0x50}{FONT_SMALL}1,600 COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きいろビードロ{CLEAR_TO 0x50}{FONT_SMALL}1600まい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "10f71528ccacc107",
@@ -181193,9 +182004,13 @@
     "end": 23290,
     "raw": "\"5F\"",
     "source": "5F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "5F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "ba7602f6e8c0f140",
@@ -181205,9 +182020,13 @@
     "end": 23321,
     "raw": "\"4F\"",
     "source": "4F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "4F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "becbcf14a839f94d",
@@ -181217,9 +182036,13 @@
     "end": 23352,
     "raw": "\"3F\"",
     "source": "3F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "3F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "5016cb51a73d14b6",
@@ -181229,9 +182052,13 @@
     "end": 23383,
     "raw": "\"2F\"",
     "source": "2F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "2F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "2b44a55fa551273c",
@@ -181241,9 +182068,13 @@
     "end": 23414,
     "raw": "\"1F\"",
     "source": "1F",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "1F",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Latin digits/floor/BP label kept; renders identically in Japanese UI"
+    }
   },
   {
     "id": "0a37e3a94415109d",
@@ -181253,9 +182084,13 @@
     "end": 23592,
     "raw": "\"{FONT_SMALL} 50 COINS{CLEAR_TO 0x45}¥1,000\"",
     "source": "{FONT_SMALL} 50 COINS{CLEAR_TO 0x45}¥1,000",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{FONT_SMALL} 50まい{CLEAR_TO 0x45}1000円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "973dfecf5489196c",
@@ -181265,9 +182100,13 @@
     "end": 23664,
     "raw": "\"{FONT_SMALL}500 COINS{CLEAR_TO 0x40}¥10,000\"",
     "source": "{FONT_SMALL}500 COINS{CLEAR_TO 0x40}¥10,000",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}{FONT_SMALL}500まい{CLEAR_TO 0x40}10000円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "44f6e4921a5e3a1c",
@@ -181277,9 +182116,13 @@
     "end": 23804,
     "raw": "\"LINKED GAME PLAY\"",
     "source": "LINKED GAME PLAY",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}つうしんプレイ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ad3f5fca6ae33550",
@@ -181289,9 +182132,13 @@
     "end": 23846,
     "raw": "\"DIRECT CORNER\"",
     "source": "DIRECT CORNER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ダイレクトコーナー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "95eabbb4407ad0a2",
@@ -181301,9 +182148,13 @@
     "end": 23885,
     "raw": "\"UNION ROOM\"",
     "source": "UNION ROOM",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ユニオンルーム{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "1f1db6136beb704f",
@@ -181313,9 +182164,13 @@
     "end": 24055,
     "raw": "\"FRESH WATER{CLEAR_TO 0x57}{FONT_SMALL}¥200\"",
     "source": "FRESH WATER{CLEAR_TO 0x57}{FONT_SMALL}¥200",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おいしいみず{CLEAR_TO 0x57}{FONT_SMALL}200円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "a91ac597fb15f71f",
@@ -181325,9 +182180,13 @@
     "end": 24123,
     "raw": "\"SODA POP{CLEAR_TO 0x57}{FONT_SMALL}¥300\"",
     "source": "SODA POP{CLEAR_TO 0x57}{FONT_SMALL}¥300",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サイコソーダ{CLEAR_TO 0x57}{FONT_SMALL}300円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "ff79733267b4d411",
@@ -181337,9 +182196,13 @@
     "end": 24191,
     "raw": "\"LEMONADE{CLEAR_TO 0x57}{FONT_SMALL}¥350\"",
     "source": "LEMONADE{CLEAR_TO 0x57}{FONT_SMALL}¥350",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミックスオレ{CLEAR_TO 0x57}{FONT_SMALL}350円{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8cd7a4d64a63eb85",
@@ -181349,9 +182212,13 @@
     "end": 24264,
     "raw": "\"FRESH WATER\"",
     "source": "FRESH WATER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おいしいみず{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "3c40338eb240e82b",
@@ -181361,9 +182228,13 @@
     "end": 24306,
     "raw": "\"SODA POP\"",
     "source": "SODA POP",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}サイコソーダ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "11ed86e6e4e9af1d",
@@ -181373,9 +182244,13 @@
     "end": 24349,
     "raw": "\"LEMONADE\"",
     "source": "LEMONADE",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミックスオレ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "d88d002887f635d2",
@@ -181385,9 +182260,13 @@
     "end": 25578,
     "raw": "\"HELIX FOSSIL\"",
     "source": "HELIX FOSSIL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かいのカセキ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "56714a1bab6bbec2",
@@ -181397,9 +182276,13 @@
     "end": 25633,
     "raw": "\"DOME FOSSIL\"",
     "source": "DOME FOSSIL",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうらのカセキ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "00c92c03eb683030",
@@ -181409,9 +182292,13 @@
     "end": 25684,
     "raw": "\"OLD AMBER\"",
     "source": "OLD AMBER",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ひみつのコハク{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8ca3f68161595b5f",
@@ -181421,9 +182308,13 @@
     "end": 26392,
     "raw": "\"2 TINYMUSHROOMS\"",
     "source": "2 TINYMUSHROOMS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ちいさなキノコ2こ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "9e5436e42b2f2006",
@@ -181433,9 +182324,13 @@
     "end": 26435,
     "raw": "\"1 BIG MUSHROOM\"",
     "source": "1 BIG MUSHROOM",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}おおきなキノコ1こ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "fdd970a5119257d3",
@@ -181445,9 +182340,13 @@
     "end": 26950,
     "raw": "\"SEPIA\"",
     "source": "SEPIA",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}セピア{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8372ff8c0e7bfaf5",
@@ -181457,9 +182356,13 @@
     "end": 26997,
     "raw": "\"EGGS\"",
     "source": "EGGS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}タマゴ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "8fd66f04490307cb",
@@ -181469,9 +182372,13 @@
     "end": 27049,
     "raw": "\"VICTORIES\"",
     "source": "VICTORIES",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しょうり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "660f231acf3bc2d5",
@@ -181481,9 +182388,13 @@
     "end": 44380,
     "raw": "\"COINS\"",
     "source": "COINS",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コイン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "ui-script-menu-06",
+      "method": "Multichoice caller/question context reviewed; names from translated species/item catalog; amounts written as N円/Nまい for the Japanese font"
+    }
   },
   {
     "id": "f6437a2817aad344",
@@ -231853,12 +232764,12 @@
     "end": 12533,
     "raw": "\"{STR_VAR_1}? And you wanted {STR_VAR_2}?\\nThat will be ¥{STR_VAR_3}.\"",
     "source": "{STR_VAR_1}? And you wanted {STR_VAR_2}?\\nThat will be ¥{STR_VAR_3}.",
-    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を{ENG}{STR_VAR_2}{JPN}こで\\n¥{ENG}{STR_VAR_3}{JPN}になります。{ENG}",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を{ENG}{STR_VAR_2}{JPN}こで\\n{ENG}{STR_VAR_3}{JPN}円になります。{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "provenance": {
-      "batch": "ui-common-01",
-      "method": "Exact English UI vocabulary, reviewed in source context"
+      "batch": "jpn-punctuation-fix-05",
+      "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
     }
   },
   {
@@ -231869,12 +232780,12 @@
     "end": 12641,
     "raw": "\"{STR_VAR_1}, is it?\\nThat'll be ¥{STR_VAR_2}. Do you want it?\"",
     "source": "{STR_VAR_1}, is it?\\nThat'll be ¥{STR_VAR_2}. Do you want it?",
-    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n¥{ENG}{STR_VAR_2}{JPN}ですが よろしいですか？{ENG}",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}円ですが よろしいですか？{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "provenance": {
-      "batch": "ui-common-01",
-      "method": "Exact English UI vocabulary, reviewed in source context"
+      "batch": "jpn-punctuation-fix-05",
+      "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
     }
   },
   {
@@ -231885,12 +232796,12 @@
     "end": 12761,
     "raw": "\"You wanted {STR_VAR_1}?\\nThat'll be ¥{STR_VAR_2}. Will that be okay?\"",
     "source": "You wanted {STR_VAR_1}?\\nThat'll be ¥{STR_VAR_2}. Will that be okay?",
-    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}ですね。\\n¥{ENG}{STR_VAR_2}{JPN}ですが よろしいですか？{ENG}",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}ですね。\\n{ENG}{STR_VAR_2}{JPN}円ですが よろしいですか？{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "provenance": {
-      "batch": "ui-common-01",
-      "method": "Exact English UI vocabulary, reviewed in source context"
+      "batch": "jpn-punctuation-fix-05",
+      "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
     }
   },
   {
@@ -232093,12 +233004,12 @@
     "end": 13952,
     "raw": "\"I can pay ¥{STR_VAR_1}.\\nWould that be okay?\"",
     "source": "I can pay ¥{STR_VAR_1}.\\nWould that be okay?",
-    "translation": "{JPN}¥{ENG}{STR_VAR_1}{JPN}になりますが\\nよろしいですか？{ENG}",
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}円で かいとりますが\\nよろしいですか？{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "provenance": {
-      "batch": "ui-common-01",
-      "method": "Exact English UI vocabulary, reviewed in source context"
+      "batch": "jpn-punctuation-fix-05",
+      "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
     }
   },
   {
@@ -232109,12 +233020,12 @@
     "end": 14055,
     "raw": "\"Turned over the {STR_VAR_2}\\nand received ¥{STR_VAR_1}.\"",
     "source": "Turned over the {STR_VAR_2}\\nand received ¥{STR_VAR_1}.",
-    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}をわたして\\n¥{ENG}{STR_VAR_1}{JPN}をうけとった。{ENG}",
+    "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}をわたして\\n{ENG}{STR_VAR_1}{JPN}円をうけとった。{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "provenance": {
-      "batch": "ui-common-01",
-      "method": "Exact English UI vocabulary, reviewed in source context"
+      "batch": "jpn-punctuation-fix-05",
+      "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
     }
   },
   {

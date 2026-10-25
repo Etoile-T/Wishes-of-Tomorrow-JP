@@ -48,6 +48,21 @@ def validate(row, cmap):
     missing = sorted(set(plain) - cmap)
     if missing:
         raise ValueError(f"{row['id']}: unmapped characters: {missing}")
+    misrendered = sorted(set(japanese_mode_text(target)) & JAPANESE_MODE_MISRENDERED)
+    if misrendered:
+        raise ValueError(f"{row['id']}: Latin punctuation renders differently in Japanese mode: {misrendered}")
+
+# These Latin bytes are 円 . 『 』 「 」 in the Japanese font; use 円 or {ENG}.
+JAPANESE_MODE_MISRENDERED = frozenset('¥,“”‘’\'')
+
+def japanese_mode_text(text):
+    japanese, parts = False, []
+    for token in re.findall(r'\{[^{}]*\}|\\.|.', text, re.S):
+        if token in ('{JPN}', '{ENG}'):
+            japanese = token == '{JPN}'
+        elif japanese and len(token) == 1:
+            parts.append(token)
+    return ''.join(parts)
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__)

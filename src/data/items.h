@@ -13097,7 +13097,7 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("{JPN}コインケース{ENG}"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "{JPN}コインをさいだい9,999\nまいまでいれられるケース。{ENG}"),
+            "{JPN}コインをさいだい9999\nまいまでいれられるケース。{ENG}"),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,

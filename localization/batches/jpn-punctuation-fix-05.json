@@ -1,0 +1,50 @@
+[
+ {
+  "id": "fa3dcc9b1d2095c9",
+  "translation": "{JPN}コインをさいだい9999\\nまいまでいれられるケース。{ENG}",
+  "provenance": {
+   "batch": "jpn-punctuation-fix-05",
+   "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
+  }
+ },
+ {
+  "id": "810c3a15a56b1831",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を{ENG}{STR_VAR_2}{JPN}こで\\n{ENG}{STR_VAR_3}{JPN}円になります。{ENG}",
+  "provenance": {
+   "batch": "jpn-punctuation-fix-05",
+   "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
+  }
+ },
+ {
+  "id": "5fa7e78db2a05386",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\n{ENG}{STR_VAR_2}{JPN}円ですが よろしいですか？{ENG}",
+  "provenance": {
+   "batch": "jpn-punctuation-fix-05",
+   "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
+  }
+ },
+ {
+  "id": "1dd8ee333f807d7d",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}ですね。\\n{ENG}{STR_VAR_2}{JPN}円ですが よろしいですか？{ENG}",
+  "provenance": {
+   "batch": "jpn-punctuation-fix-05",
+   "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
+  }
+ },
+ {
+  "id": "88935d7b5a9a7552",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}円で かいとりますが\\nよろしいですか？{ENG}",
+  "provenance": {
+   "batch": "jpn-punctuation-fix-05",
+   "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
+  }
+ },
+ {
+  "id": "4956a76d70028e4f",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}をわたして\\n{ENG}{STR_VAR_1}{JPN}円をうけとった。{ENG}",
+  "provenance": {
+   "batch": "jpn-punctuation-fix-05",
+   "method": "JPN-mode punctuation fix: Latin ¥/, bytes render as 円/. in the Japanese font; amount moved before 円"
+  }
+ }
+]

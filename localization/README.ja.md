@@ -1,4 +1,4 @@
-> 最新の状況（2026-10-26）: 61,722候補中5,777件を翻訳適用。最新の引き継ぎはルートのHANDOFF_CLAUDE_CODE.md。UI翻訳は継続中。グラフィック報告はユーザーがエミュレータ原因と確認して取り下げたため調査終了。ソース検査・ビルド優先、画面検証は延期。
+> 最新の状況（2026-10-26）: 61,722候補中10,096件を翻訳適用。RebelHideoutとTradewindTown一帯に409件を追加。最新はHANDOFF_CODEX.md、status.jsonを参照。GBAは../outputs/gba/wishes-jp-10096-95e8d370.gba。画面・進行・実機は未検証。
 
 # Wishes of Tomorrow 日本語化・途中成果
 

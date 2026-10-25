@@ -3,18 +3,18 @@
   "baseline_commit": "efb1c880d0b486c1948763051b6c1bb8990a7353",
   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
   "total_candidates": 61722,
-  "translated": 9687,
-  "pending": 52035,
+  "translated": 10096,
+  "pending": 51626,
   "baseline_build": "passed",
   "jp_build": "passed",
   "tests_passed": 41,
-  "bps_roundtrip": "passed: 9687 build, exact target ROM and all SHA256; apply_verified_patch output byte-identical to build",
+  "bps_roundtrip": "passed: 10096 build; apply_verified_patch with SHA256/CRC checks produced byte-identical target ROM",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "not implemented",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29874216,
+  "jp_rom_used_bytes": 29871016,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -22,7 +22,7 @@
     "move": 923,
     "species": 1321
   },
-  "work_state": "handoff_to_codex",
+  "work_state": "in_progress_custom_map_dialogue",
   "pause_scope": "User expanded work to all UI; Pokemon data and UI scope remain incomplete",
   "translation_review": "Types/pockets and seven resale-description corrections reviewed with yomiyasu; remaining new ability/item batches still need full semantic review",
   "verification_policy": "Static validation and builds first. GUI gameplay verification deferred per user.",
@@ -30,8 +30,8 @@
   "type_icons": 19,
   "ui_added": 1220,
   "ui_inventory_files": 59,
-  "ui_pending_language_candidates": 3185,
-  "excel_translated_rows": 10394,
+  "ui_pending_language_candidates": 2344,
+  "excel_translated_rows": 10803,
   "reported_graphics_issue": "Closed at user request: user identified emulator bug; stop investigating and resume translation",
   "graphics_diagnostic_build": {
     "status": "passed",
@@ -40,14 +40,27 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-d7794c852b669b70.gba",
-  "latest_patch_manifest": "patch-manifest-ui9687.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-df800506d498ec69.gba",
+  "latest_patch_manifest": "patch-manifest-ui10096.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-9687-03f7d392.gba",
-  "dialogue_progress": "done: shared, Act I (Munen..Star Summit), Act II (Munen/home/lab/park/Sennen/dojo/shinkansen), Act III (Shin-Tokyo, jail, Hotel Z, tower), Ashlands. Remaining custom: RebelHideout, CelebiIsland, DistortionWorld*, DragonKeeper, MewtwoPostGame, PrototypeIsland/Lab, UndergroundArena, Tradewind*",
-  "battle_messages": "844 of src/battle_message.c translated; only symbols/empty/unused fragments pending. Trainer classes/names (trainers.party) and trainer win/lose texts untranslated",
+  "user_output_rom": "../outputs/gba/wishes-jp-10096-95e8d370.gba",
+  "dialogue_progress": "Applied: shared, Acts I-III to Ashlands, RebelHideout, TradewindTown/Lab/Gym/House/Apartment_2. Next: CelebiIsland, UndergroundArena, DistortionWorld*, PrototypeIsland/Lab, DragonKeeper, MewtwoPostGame; source order needs confirmation.",
+  "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
-  "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history"
+  "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
+  "review_workbook": "exports/translated-texts-10096.xlsx",
+  "user_review_workbook": "../outputs/translation-review-10096/Wishes_日本語訳一覧.xlsx",
+  "last_dialogue_batch": {
+    "entries": 409,
+    "batches": [
+      "dialogue-rebel-hideout-32",
+      "dialogue-tradewind-33"
+    ],
+    "translation_commit": "8c6d30d0c636dc83285fbc2717a80f7607d85d63",
+    "source_logic": "non-string content unchanged in all six script files",
+    "width": "dialogue_tools width: >26 cells = 0; expanded runtime widths unverified",
+    "runtime": "not run"
+  }
 }

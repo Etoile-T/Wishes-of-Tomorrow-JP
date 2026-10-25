@@ -22,11 +22,13 @@ def cell(text):
 def main():
     rows = json.loads((ROOT / 'localization/catalog.json').read_text())
     rows = [r for r in rows if r['status'] == 'translated']
+    status = json.loads((ROOT / 'localization/status.json').read_text())
+    workbook = status.get('review_workbook', 'exports/translated-texts.xlsx')
     commit = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()
     lines = [
         '# 日本語訳一覧', '',
         f'翻訳適用済み {len(rows)}件。表示確認・通しプレイは未完了です。', '',
-        '[Excel版](exports/translated-texts.xlsx)では区分の絞り込みとメモの記入ができます。', '',
+        f'[Excel版]({workbook})では区分の絞り込みとメモの記入ができます。', '',
         '出典: [同じ版の翻訳カタログ](catalog.json)。',
         '言語切替コードと終端記号は非表示にし、改ページとスクロールは明示しています。', '',
         '| No. | 英語原文 | 日本語訳 | ID・出典 |',

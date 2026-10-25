@@ -9,16 +9,22 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `50f0c034587667dc2464bf96591d86d6993d4a68`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 9,687、pending 52,035（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `8c6d30d0c636dc83285fbc2717a80f7607d85d63`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,096、pending 51,626（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で41件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg9687.gba`（ROM 29,874,216B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-9687-03f7d392.gba`（README.txt あり） |
-| 配布パッチ | `../artifacts/wishes-jp-ui9687-03f7d392-patch.zip`、追跡用 `localization/patch-manifest-ui9687.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-review-20261026/Wishes_日本語訳一覧.xlsx`（Git内コピー `localization/exports/translated-texts.xlsx`、10,394行） |
+| 最新ビルド | `pokeemerald-jp-dlg10096.gba`（ROM 29,871,016B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10096-95e8d370.gba`（README.txt 更新済み） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10096-95e8d370-patch.zip`、追跡用 `localization/patch-manifest-ui10096.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-review-10096/Wishes_日本語訳一覧.xlsx`（Git内コピー `localization/exports/translated-texts-10096.xlsx`、10,803行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+今回の開始時: statusとcatalog statsは61,722 / 9,687 / 52,035で一致。Gitはmain、最新572ee8cefb。未追跡の `localization/exports/~$translated-texts.xlsx` はExcelのロックファイルとして触っていない。保存済みの旧Excelのメモ列は0件だった。開いている旧Excelは上書きせず、今回の一覧を版別ファイルへ出した（未保存の編集は読み取っていない）。
+
+今回の追加: RebelHideout 177、TradewindTown 180、TradewindLab 21、TradewindGym 16、TradewindHouse 7、TradewindApartment_2 8、計409件。対象6ファイルのpendingは0。会話以外のスクリプト内容は前コミットと同一。レビューは `localization/reviews/dialogue-rebel-tradewind-32-33.review.md`。ツジの敗北時の原文に勝敗と合わない表現があるため、作者意図未確認として記録した。
+
+検証: dialogue_tools check両バッチbad 0、widthは26マス超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `df800506d498ec69ce67586c1e771e9649c67cec85f5bdf1d58f02af3c713825`。ログは `../artifacts/build-dlg10096.log`、`../artifacts/logs/dialogue-32-33-tests.log`、`verify-10096.log`。Excelは全10,803件のID・制御付き原文・訳文を保存後にカタログとカタログ外名称表へ照合し一致、プレビュー確認済み。実機・画面・進行は未検証。
 
 ## 2. ユーザーの指示（守ること）
 
@@ -36,7 +42,7 @@
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。今は**ストーリーの会話を、プレイ順に独自マップから**進めている。
 
-1. 独自マップの残り（約800行）: RebelHideout 177、TradewindTown 180（＋TradewindLab 21 / TradewindGym 16 / TradewindHouse 7 / TradewindApartment_2 8）、CelebiIsland 114、UndergroundArena 102、DistortionWorld 系 131、PrototypeIsland 21 / PrototypeLab 47、DragonKeeper 34、MewtwoPostGame 29。件数は `dialogue_tools.py dump` で確認。
+1. 独自マップの残り（約478行）: 次はCelebiIsland 114、続いてUndergroundArena 102、DistortionWorld 系 131、PrototypeIsland 21 / PrototypeLab 47、DragonKeeper 34、MewtwoPostGame 29。RebelHideoutとTradewindTown一帯は今回適用済み。件数・プレイ順・前後の会話はソースと `dialogue_tools.py dump` で再確認する。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。
@@ -114,12 +120,15 @@ cmp /tmp/verify/*.gba ../artifacts/play/wishes-jp-<hash>.gba
 cp -n ../artifacts/play/wishes-jp-<hash>.gba ../outputs/gba/wishes-jp-<件数>-<crc>.gba && chmod a-w 同ファイル
 # ../outputs/gba/README.txt の「最新」と「以前の版」を更新（存在するファイルだけ列挙）
 python3 tools/localization/ui_inventory.py && python3 tools/localization/export_table.py
-# Excel: ../artifacts/translation-review-build で node build_review.mjs、生成後に Git 内へコピー
-cp ../outputs/translation-review-20261026/Wishes_日本語訳一覧.xlsx localization/exports/translated-texts.xlsx
+# Excel: 下記の版別出力で生成し、開いている既存ブックは上書きしない
+cp tools/localization/export_review.mjs ../artifacts/translation-review-build/build_review.mjs
+node ../artifacts/translation-review-build/build_review.mjs "$PWD" ../outputs/translation-review-NNNN '会話・看板（対象マップ名）'
+cp ../outputs/translation-review-NNNN/Wishes_日本語訳一覧.xlsx localization/exports/translated-texts-NNNN.xlsx
+# status.json の review_workbook を exports/translated-texts-NNNN.xlsx に更新して export_table.py を再実行
 # localization/status.json と HANDOFF_CODEX.md の数値・最新成果物を更新し、docs コミットして push
 ```
 
-- Excel生成は `../artifacts/translation-review-build/build_review.mjs`（Git内の `tools/localization/export_review.mjs` と同じ内容に保つ）。依存は Codex キャッシュの `@oai/artifact-tool`（node_modules はシンボリックリンク済み）。トレーナー名・マップ名のJSONからも行を作る。ユーザーのメモ欄は自動では引き継がないので、編集済みのExcelがあれば先にIDで退避する。
+- Excel生成は `../artifacts/translation-review-build/build_review.mjs`（Git内の `tools/localization/export_review.mjs` と同じ内容に保つ）。依存は Codex キャッシュの `@oai/artifact-tool`（node_modules はシンボリックリンク済み）。引数はリポジトリ、出力先、会話プレビューの区分名。トレーナー名・マップ名のJSONからも行を作る。ユーザーのメモ欄は自動では引き継がないので、編集済みのExcelがあれば先にIDで退避して新版へ復元する。ロック中の旧ブック・ロックファイルは触らない。
 - `patch_crc32` が毎回 `2144df1c` になるのは、自身のCRCを末尾に持つBPSの性質。異常ではない。
 
 ## 8. やってはいけないこと

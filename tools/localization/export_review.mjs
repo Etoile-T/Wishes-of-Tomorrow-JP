@@ -118,7 +118,10 @@ wb.recalculate();
 if(sheet.getRange(`F8:F${rows.length+7}`).values.flat().length!==rows.length) throw Error('Written row mismatch');
 console.log((await wb.inspect({kind:'table',range:'翻訳一覧!A7:D10',include:'values',tableMaxRows:4,tableMaxCols:4,maxChars:2000})).ndjson);
 console.log((await wb.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#N/A|#NUM!|#NULL!|#SPILL!|#CALC!',options:{useRegex:true,maxResults:20},summary:'error scan',maxChars:1000})).ndjson);
-const storyStart=rows.findIndex(r=>r[1]==='ムネン村の会話・看板')+8;
+const previewCategory=process.argv[4]??'会話・看板（MunenVillage）';
+const storyIndex=rows.findIndex(r=>r[1]===previewCategory);
+if(storyIndex<0) throw Error('Preview category not found: '+previewCategory);
+const storyStart=storyIndex+8;
 const uiStart=rows.findIndex(r=>r[1]==='ランダマイザー設定')+8;
 const nameStart=rows.findIndex(r=>r[1]==='特性名')+8;
 for(const [name,range,file] of [['翻訳一覧','A1:E14','translations'],['用語辞書','A1:D16','glossary'],['翻訳一覧',`A${storyStart}:E${storyStart+3}`,'story'],['翻訳一覧',`A${nameStart}:E${nameStart+7}`,'names'],['翻訳一覧',`A${uiStart}:E${uiStart+6}`,'ui']]){

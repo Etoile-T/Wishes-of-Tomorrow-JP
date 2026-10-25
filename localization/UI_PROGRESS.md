@@ -20,7 +20,7 @@
 | src/data/contest_opponents.h | 0 | 208 |
 | src/data/contest_text_tables.h | 0 | 58 |
 | src/data/party_menu.h | 33 | 0 |
-| src/data/script_menu.h | 0 | 215 |
+| src/data/script_menu.h | 228 | 0 |
 | src/data/trade.h | 0 | 47 |
 | src/data/union_room.h | 0 | 224 |
 | src/dodrio_berry_picking.c | 0 | 2 |

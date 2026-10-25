@@ -36,6 +36,7 @@ function category(row){
   if(row.file.startsWith('data/maps/')) return 'ムネン村の会話・看板';
   if(row.file==='src/main_menu.c'||row.file==='src/main_menu_bw.c') return '開始メニュー';
   if(row.file==='src/start_menu.c'||row.target?.startsWith('gText_Menu')) return 'スタートメニュー';
+  if(row.file==='src/data/script_menu.h') return 'スクリプト選択肢';
   if(row.file==='src/quest_toast.c') return 'クエスト通知';
   if(row.file==='src/quests.c') return 'クエスト画面';
   if(row.target?.startsWith('gText_QuestLoc_')) return '地名';

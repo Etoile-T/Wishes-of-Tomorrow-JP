@@ -1,6 +1,6 @@
 # Claude Code 引き継ぎ — Wishes of Tomorrow 日本語化
 
-更新: 2026-10-26（日本時間）。最初にAGENTS.mdとこの文書を読むこと。
+更新: 2026-10-26（日本時間、Claude Codeで継続）。最初にAGENTS.mdとこの文書を読むこと。
 **調査だけで終えず、既存の翻訳を維持して実装・検証を続ける。完全日本語化は未完了。**
 
 ## 直近のユーザー指示
@@ -14,6 +14,7 @@
 - クエストにっし後のグラフィック報告は、ユーザーが「エミュレータのバグでした。気にしないでください。日本語の翻訳を続けてください」と確認済み。**調査を再開したり、この件で翻訳を止めたりしない。** エミュレータ側原因というユーザー確認と、全ゲーム検証完了は別。
 - コンテキスト/トークンが切れる前に引き継ぎを残し、Claude Codeへ移行する。こちらからClaude Codeを起動する指示ではない。
 - 所要時間の質問には、粗い工数としてUI残り20〜50時間、全体は数百時間規模と回答済み。未使用・重複を含むので確約や実測ではない。
+- Claude Code移行後のトークン見積もり（2026-10-26回答）: UI残りは1バッチ30〜50万トークン×15〜25バッチで約400〜1,000万、セッション予算約1,500万で足りる見込み。全体（会話・ストーリー含む）は5千万〜1億5千万トークン級で1セッションでは不足し、複数セッションで引き継ぎながら進める。粗い見積もり。
 
 ## リポジトリと版
 
@@ -21,7 +22,7 @@
 - origin: `https://github.com/Etoile-T/Wishes-of-Tomorrow-JP.git`、作業ブランチmain。
 - upstream: `https://github.com/jmaloney95/Wishes-Game.git`、ゲーム本体のmaster。
 - 英語ソース: `efb1c880d0b486c1948763051b6c1bb8990a7353`。最初のソース取込コミットは`23be896714`。英語原文を読むときは`git show 23be896714:PATH`。
-- 最新の翻訳実装: `7820d864f783bde31a8d1611559251cb01aaa44e`（84件追加）。この文書・最新のstatus/manifest/Excelはその後のコミットに保存されるので、開始時に`git log -5 --oneline`と`git status --short`を確認する。
+- 最新の翻訳実装: `784af1ba35d124908352222d8f22166f93cafc05`（script_menu 228件＋円記号修正6件）。この文書・最新のstatus/manifest/Excelはその後のコミットに保存されるので、開始時に`git log -5 --oneline`と`git status --short`を確認する。
 - 参考フォーク: `/Users/owner/Desktop/Wish/reference-jp`、`b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef`。無条件にファイルを上書きしない。
 - ゲームREADMEはExpansion 1.15.3をベースと記載。独自のquests、field name box、NPC portraits、Shadow、DLC等がある。
 
@@ -37,7 +38,7 @@
 
 ## 現在の進捗
 
-カタログは**61,722候補、翻訳適用5,777件、pending55,945件**。会話数・有効な画面数・完成率ではない。未使用、重複、制御のみ等も含む。
+カタログは**61,722候補、翻訳適用6,005件、pending55,717件**。会話数・有効な画面数・完成率ではない。未使用、重複、制御のみ等も含む。
 
 主な適用済み:
 
@@ -47,11 +48,13 @@
 - タイプ/バッグ分類等53文字列、タイプアイコン19枚。
 - UIバッチ01/02で680件、今回ui-party-status-04で84件。主な開始/設定/バッグ/ボックス/手持ち/セーブ/ランダマイザー、図鑑UIの一部。
 - 今回84件: 手持ちの選択・技習得/忘却・持ち物/メール・回復/状態異常・交換制限・きのみタグ。`src/strings.c`76件、`src/berry_tag_screen.c`8件。
-- UI候補一覧: `localization/UI_PROGRESS.md`、`ui-inventory.json`。59ファイル・未翻訳言語候補3,599件。ただしトレーナー名・未使用施設文言等も含む。画像文字や裸C文字列を網羅した数ではない。
+- Claude Code移行後のui-script-menu-06で228件: `src/data/script_menu.h`の全選択肢（クイズ・自販機・景品・施設ルール・ナナシマ等）。数字/階数/BPの19件は原文のまま確認済み。
+- jpn-punctuation-fix-05で既訳6件の金額・桁区切りを修正（下記「日本語モードの記号」）。
+- UI候補一覧: `localization/UI_PROGRESS.md`、`ui-inventory.json`。59ファイル・未翻訳言語候補3,384件。ただしトレーナー名・未使用施設文言等も含む。画像文字や裸C文字列を網羅した数ではない。
 
 ## 次に進める作業
 
-1. `src/strings.c`の残りの短い共通UI、`src/data/script_menu.h`の各メニューを、呼び出し文脈・表示幅を確認して翻訳。
+1. `src/strings.c`の残り650候補の短い共通UI（gText_Lv50/OpenLevel等、script_menuから参照されるもの優先）を、呼び出し文脈・表示幅を確認して翻訳。script_menu.hは完了。
 2. 図鑑UIの未訳・動的な文の連結・狭い能力/タマゴグループ欄を調整。英語の語順を単語単位置換して完成扱いしない。
 3. 戦闘メッセージ、施設、通信・コンテスト等UIを用途別に対応。
 4. 図鑑本文、技説明、残りの名称、ストーリー・クリア後を進める。参考フォークの図鑑本文は版が違う例が多く、英語の意味を読んで訳す。
@@ -81,6 +84,14 @@ python3 tools/localization/export_table.py
 - `ui_common.scoped()`は変数前ENG/後JPN、色指定を先頭に保持、EOS `$`前に言語復帰。名前が変数から展開されると末尾ENGで終わるので、後続日本語を再度JPNにする。
 - `{PKMN}`/`{POKEBLOCK}`ロゴ、PP等ラテン略号はENGで囲む。JPNのままだと同じバイトがかなを指す場合がある。
 
+### 日本語モードの記号（2026-10-26確認）
+
+日本語フォント画像で確認済み。JPN区間ではラテンの`¥`(B7)=「円」、`,`(B8)=「.」、`“ ” ‘ ’ '`(B1–B4)=『』「」として描画される。英字A–Z/a–z・数字・`:`・`!?`は同じ字形。`.`(AD)は「。」、`-`(AE)は「ー」と同じバイト。
+
+- 金額は`{ENG}{STR_VAR_n}{JPN}円`または`200円`。charmapに`'円' = B7`を追加済み。
+- JPN区間で桁区切りの`,`は使わない（`1500まい`）。必要ならENGへ戻す。
+- `catalog.validate`が上記7文字をJPN区間で拒否する。
+
 ## フォント・UIの実装と限界
 
 - 既存日本語かなフォントを再利用。既定言語を日本語へ変更せず、訳文にJPN/ENGを明示。
@@ -101,7 +112,7 @@ python3 tools/localization/export_table.py
 - 台詞はscript、UI案内はmanual。自然な句点・キャラの口調・繰返し・比喩を検出候補を消すために削らない。
 - 英語資料、日本語下書き、最終稿を`localization/reviews/`へ保存。CLIのlint→run→verifyを使い、候補の採用/維持理由と正確な実行行をreview.mdへ記録する。
 - 状態ディレクトリは`../artifacts/yomiyasu-state`。Gitへキャッシュ全文は加えない。CLIの記録時刻はUTCで、ユーザー向け日付はJST。
-- 直近レビュー: `localization/reviews/ui-party-status-04.review.md`。
+- 直近レビュー: `localization/reviews/ui-script-menu-06.review.md`。
 
 ## ビルドと検証
 
@@ -113,8 +124,8 @@ make -j8 FILE_NAME=pokeemerald-jp-NEXT_ID TOOLCHAIN=/opt/devkitpro/devkitARM
 python3 tools/localization/export_play_rom.py pokeemerald-jp-NEXT_ID.gba ../artifacts/play
 ```
 
-- 最新ビルド: `pokeemerald-jp-ui5777.gba`。ROM使用29,897,992B、EWRAM230,024B、IWRAM28,600B。物理ROM32MiB。
-- 自動テスト31件成功。文字コード/制御、差分再挿入、BPS、UI固定バッファ、code_offset、版固定出力、誤パッチ拒否等。ゲーム全イベントの回帰テストではない。
+- 最新ビルド: `pokeemerald-jp-ui6005.gba`。ROM使用29,897,960B、EWRAM230,024B、IWRAM28,600B。物理ROM32MiB。
+- 自動テスト32件成功。文字コード/制御、差分再挿入、BPS、UI固定バッファ、code_offset、版固定出力、誤パッチ拒否等。ゲーム全イベントの回帰テストではない。
 - 直近のソース2ファイルは非文字列トークンが変更前と一致。
 - リンカRWX警告は英語基準版にもある。成功と警告を両方記録。
 - 実画面の全面確認、戦闘/イベント/セーブ互換の通し検証は未実施。ビルド成功から正常プレイを断言しない。
@@ -125,11 +136,13 @@ python3 tools/localization/export_play_rom.py pokeemerald-jp-NEXT_ID.gba ../arti
 親ディレクトリ`/Users/owner/Desktop/Wish/artifacts`はGit管理外。**ROMをGitHubへpushしない。**
 
 - 最新情報: `../artifacts/LATEST-JP.json`
-- 最新プレイROM: `../artifacts/play/wishes-jp-ce3ba4f4a8f08efc.gba`
-- SHA256: `ce3ba4f4a8f08efc793219e5249743edea75e94cf3d6721b37a40d9ea5e5a93c`、CRC32 `a03824a8`。
-- 最新BPSフォルダ: `../artifacts/patches/ui-5777-a03824a8/`。`manifest.json`に全ハッシュ。
-- 配布用（ROMなし）: `../artifacts/wishes-jp-ui5777-a03824a8-patch.zip`。
-- 追跡用manifest: `localization/patch-manifest-ui5777.json`。
+- 最新プレイROM: `../artifacts/play/wishes-jp-5da49b13ad4f7afb.gba`
+- SHA256: `5da49b13ad4f7afb6f156b7c4a2aa89c0fac4cd58500d5e674ea4debbc8b24f2`、CRC32 `c2623c32`。
+- 最新BPSフォルダ: `../artifacts/patches/ui-6005-c2623c32/`。`manifest.json`に全ハッシュ。
+- 配布用（ROMなし）: `../artifacts/wishes-jp-ui6005-c2623c32-patch.zip`。
+- 追跡用manifest: `localization/patch-manifest-ui6005.json`。
+- UI6005はPython版`apply_verified_patch.py`で復元ROMとビルドROMの全バイト一致を確認。RomPatcher.jsでの独立検証はUI5777まで。
+- BPSの`patch_crc32`が毎回`2144df1c`なのは、末尾に自身のCRCを含むファイル全体のCRC32が定数になるため。異常ではない。
 - 英語基準ROM: `../artifacts/wishes-en-baseline.gba`、SHA256 `93fb28460bb7348e327c97e217ecd50091fc01200e8d9cc41b871469c36c9db7`、CRC32 `62ba561e`。
 - BPSはこの32MiB英語Wishesから日本語版へ変換する。**市販Emerald、公式1.2.6適用後ROM、日本語版への重ね適用には使わない。** 日本語ROMをそのまま開く場合BPS追加は不要。
 - `apply_verified_patch.py SOURCE PATCH MANIFEST OUTPUT_DIR`は入力・BPS・出力のSHA256とBPS CRCを照合し、誤った組み合わせを拒否。出力は上書きしないハッシュ名。
@@ -149,7 +162,7 @@ python3 tools/localization/export_play_rom.py pokeemerald-jp-NEXT_ID.gba ../arti
 - GitHub表: `localization/translated-texts.md`。
 - Excelは翻訳一覧/用語辞書の2タブ、フィルタと7行固定、メモ欄あり。IDと制御付き原文/訳文を保持。用語辞書タブは初期23語で、全公式名称辞書ではない。
 - `tools/localization/export_review.mjs`がartifact-tool用の再生成コード。依存はCodexキャッシュの@oai/artifact-tool。作業ディレクトリへnode_modulesリンクを置き、スクリプトをコピーして`node export_review.mjs REPO_PATH OUTPUT_DIR`で実行できる。
-- 現在使っている実行場所: `../artifacts/translation-review-build/build_review.mjs`。カタログから動的に全適用済み行を作る。ユーザーメモは自動継承しないので、編集済みExcelがあればIDで退避してから更新する。
+- 現在使っている実行場所: `../artifacts/translation-review-build/build_review.mjs`（Git内export_review.mjsと分類を同期済み。openpyxlは未導入）。カタログから動的に全適用済み行を作る。ユーザーメモは自動継承しないので、編集済みExcelがあればIDで退避してから更新する。
 - openpyxl等で安易に上書きせず、既存の形式を維持する。プレビュー/保存XLSXのID・原文・訳文とフィルタ/固定行を検証する。
 - 辞書: `glossary.json`、`terminology-names.json`、`terminology-items-custom.json`、参考名称/道具の取り込みレポート。独自名称は暫定表記を含む。
 

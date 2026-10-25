@@ -181,7 +181,12 @@ u8 *CopyItemNameHandlePlural(enum Item itemId, u8 *dst, u32 quantity)
     }
     else
     {
-        u8 *end = StringCopy(dst, GetItemName(itemId));
+        const u8 *name = GetItemName(itemId);
+        u8 *end = StringCopy(dst, name);
+
+        // Japanese has no plural suffix; localized names start with {JPN}.
+        if (name[0] == EXT_CTRL_CODE_BEGIN && name[1] == EXT_CTRL_CODE_JPN)
+            return end;
         return StringCopy(end, sText_s);
     }
 }

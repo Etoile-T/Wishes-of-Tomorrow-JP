@@ -1,0 +1,844 @@
+e2e2337e2c04825f {B_ATK_TEAM1} team became shrouded in mist!
+cb16aba3300319e8 {B_DEF_NAME_WITH_PREFIX} is getting pumped!
+d8fbab8542697852 {B_BUFF1} is preventing switching out with its {B_LAST_ABILITY} Ability!\p
+50858febc4ff20e9 sharply 
+485a8dd6f41c3b38 rose!
+a47ffc31fc1ba5b1 fell!
+e70d9a171ee5d338 {B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1} {B_BUFF2}rose!
+8e01ac5052a5417b {PLAY_SE SE_FLEE}You got away safely!\p
+457a3645298266cb You defeated {B_LINK_OPPONENT1_NAME}!
+3b015be51dc31339 You defeated {B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}!
+a062daeabb3201f3 You lost against {B_LINK_OPPONENT1_NAME}!
+d4956f1449e82e20 You lost to {B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}!
+25540ff8b96f8ee1 You battled to a draw against {B_LINK_OPPONENT1_NAME}!
+e04b7ce378c9278f You battled to a draw against {B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}!
+55b5f9b35aa6cc5f {PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} fled!
+69301ca41792950d {PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME} fled!
+4c4a243f8b28da17 You defeated {B_TRAINER1_NAME_WITH_CLASS}!\p
+61bacda0614a125a {B_OPPONENT_MON1_NAME} appeared!\p
+6dfd8fc72545e367 You encountered a wild {B_OPPONENT_MON1_NAME}!\p
+955361b5bc4ca009 You encountered a wild {B_OPPONENT_MON1_NAME}!\p
+a0e5ebbfbf82702e You encountered a wild {B_OPPONENT_MON1_NAME}!{PAUSE 127}
+c92fe0d610914c9c Oh! A wild {B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME} appeared!\p
+ee2d8ccf8c30cd3e The GHOST appeared!\pDarn!\nThe GHOST can't be ID'd!\p
+faa7624a981f66b9 The GHOST appeared!\p
+c552ca969d21899c You are challenged by {B_TRAINER1_NAME_WITH_CLASS}!\p
+e2249febed378d16 You are challenged by {B_LINK_OPPONENT1_NAME}!
+0bd6a898fa39345a You are challenged by {B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}!
+7528b0e70db57688 {B_TRAINER1_NAME_WITH_CLASS} sent out {B_OPPONENT_MON1_NAME}!
+80be1621b7686a86 {B_TRAINER1_NAME_WITH_CLASS} sent out {B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!
+d0a1a0cf1fef9aa5 {B_TRAINER1_NAME_WITH_CLASS} sent out {B_BUFF1}!
+5095380877ecbc81 {B_LINK_OPPONENT1_NAME} sent out {B_OPPONENT_MON1_NAME}!
+7b5f425255e6a1f4 {B_LINK_OPPONENT2_NAME} sent out {B_OPPONENT_MON2_NAME}!
+6105520950bcc274 {B_LINK_OPPONENT1_NAME} sent out {B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!
+a8ab6a0c99994eb7 {B_LINK_OPPONENT1_NAME} sent out {B_LINK_OPPONENT_MON1_NAME}! {B_LINK_OPPONENT2_NAME} sent out {B_LINK_OPPONENT_MON2_NAME}!
+61f63e53c93e9f3a {B_LINK_OPPONENT1_NAME} sent out {B_BUFF1}!
+b9d33732442c0401 {B_LINK_SCR_TRAINER_NAME} sent out {B_BUFF1}!
+b96cd2c70b06f947 Go! {B_PLAYER_MON1_NAME}!
+8caccbf4356e176c Go! {B_PLAYER_MON1_NAME} and {B_PLAYER_MON2_NAME}!
+09b69df91fdb2cc3 Go! {B_BUFF1}!
+e197752a09a5665b You're in charge, {B_BUFF1}!
+0ec4820c2fdf5ca8 Go for it, {B_BUFF1}!
+b912f05825172da0 Just a little more! Hang in there, {B_BUFF1}!
+d4aede3e3a9b246d Your opponent's weak! Get 'em, {B_BUFF1}!
+f9cae19e2ea8245b {B_LINK_PARTNER_NAME} sent out {B_LINK_PLAYER_MON1_NAME}! Go! {B_LINK_PLAYER_MON2_NAME}!
+cca0b397dd61faa2 {B_LINK_PARTNER_NAME} sent out {B_LINK_PLAYER_MON2_NAME}! Go! {B_LINK_PLAYER_MON1_NAME}!
+318c0d122e46081e {B_LINK_PARTNER_NAME} sent out {B_LINK_PLAYER_MON1_NAME}!
+7ab1b67998f01a92 {B_LINK_PARTNER_NAME} sent out {B_LINK_PLAYER_MON2_NAME}!
+7c0889b93e41b89c {B_LINK_PARTNER_NAME} withdrew {B_LINK_PLAYER_MON1_NAME}!
+92533b1b09d491d1 {B_LINK_PARTNER_NAME} withdrew {B_LINK_PLAYER_MON2_NAME}!
+231cd82dcd9e8ea2 {B_BUFF1}, switch out! Come back!
+4ae074dafef407bc {B_BUFF1}, that's enough! Come back!
+4280515af210d8f2 {B_BUFF1}, come back!
+6758e4f9307ecbb3 OK, {B_BUFF1}! Come back!
+cda6c88ae263ab51 Good job, {B_BUFF1}! Come back!
+88e9486e91c17ec3 {B_TRAINER1_NAME_WITH_CLASS} withdrew {B_BUFF1}!
+4aa063b5730f39d5 {B_TRAINER2_NAME_WITH_CLASS} withdrew {B_BUFF1}!
+a08080d61e8fecfa {B_LINK_OPPONENT1_NAME} withdrew {B_BUFF1}!
+0c436b7a47a6aebf {B_LINK_OPPONENT2_NAME} withdrew {B_BUFF1}!
+03819e0d930bcfa2 The wild 
+cab38bc8a0a71f48 The opposing 
+0c0e0fec9bafbaaf the wild 
+842214f233196516 the opposing 
+48883d706877b94b Opposing
+5b8e290447316361 Ally
+aa30aa0f30d6fd8d Opposing
+af6befe14a7b8ff4 Ally
+abafe7fb1189c84e Opposing
+4f27dedbc0c04ed7 Ally
+62deb6a0c2a91681 {B_ATK_NAME_WITH_PREFIX} used {B_BUFF3}!
+4f1b300550890dc5 HP
+d8805360b7168a01 Attack
+c6b81e1cf360aca3 Defense
+546177c67eca1931 Speed
+f51581fb89d1783c Sp. Atk
+63ab10273f9aaf77 Sp. Def
+ba9cc6c24de6c3fd accuracy
+ccce04a995888100 evasiveness
+20c603605730e2c9 was too spicy!
+d1e75441b0b11ad8 was too dry!
+455e8ac08b907daf was too sweet!
+a32efb9e84fa9447 was too bitter!
+60b25d6f1848cbee was too sour!
+8aa1c21e0953b043 someone's
+fe5915c74bedf4a6 LANETTE's
+ca41467e13245fbf BILL's
+e1f4fb892d049e59 ENIGMA BERRY
+6c087e5f476896ea  BERRY
+9e8788c08c00b081 You defeated {B_TRAINER1_NAME_WITH_CLASS} and {B_TRAINER2_NAME_WITH_CLASS}!\p
+057f7d1b4b35655a drastically 
+7d7f63ca5a7bb5e8 severely 
+9c0b477d98839aae The terrain returned to normal!
+8972b29a73db5b06 {B_BUFF1} gained{B_BUFF2} {B_BUFF3} Exp. Points!\p
+f23bd00c50a5ea2f {B_BUFF1} grew to Lv. {B_BUFF2}!{WAIT_SE}\p
+00fafc5ea59372c3 {B_BUFF1} learned {B_BUFF2}!{WAIT_SE}\p
+ff8293b412ebece2 {B_BUFF1} wants to learn the move {B_BUFF2}.\p
+9d2faebfa3ac448a However, {B_BUFF1} already knows four moves.\p
+98bda0530487436f Should another move be forgotten and replaced with {B_BUFF2}?
+acae1d6f9ba3207d {B_BUFF1} forgot {B_BUFF2}…\p
+93e67389d002fea1 {PAUSE 32}Do you want to give up on having {B_BUFF1} learn {B_BUFF2}?
+6f1f6746df5f5c3a {B_BUFF1} did not learn {B_BUFF2}.\p
+a249b701040bf9f1 {B_ATK_NAME_WITH_PREFIX} learned {B_BUFF1}!
+4fdf1721346af0e1 {B_ATK_NAME_WITH_PREFIX}'s attack missed!
+7f33fd5c376cde14 {B_SCR_NAME_WITH_PREFIX} protected itself!
+e472178b50942618 {B_ATK_NAME_WITH_PREFIX}'s stats won't go any higher!
+cf2f62877f0e4126 It doesn't affect {B_DEF_NAME_WITH_PREFIX2}…
+a8d55f161c7f325d It doesn't affect {B_SCR_NAME_WITH_PREFIX2}…
+a3789adeb23c6c11 {B_SCR_NAME_WITH_PREFIX} fainted!\p
+f96510bb9cb82ce7 You got ¥{B_BUFF1} for winning!\p
+7b5e5be5a334f477 You have no more Pokémon that can fight!\p
+01df79d7a93c631e You panicked and dropped ¥{B_BUFF1}…
+168a0b51773cce8c You gave ¥{B_BUFF1} to the winner…
+bdc7065ecb71ee9b You were overwhelmed by your defeat!
+af7b8bd8d8382333 {B_SCR_NAME_WITH_PREFIX} prevents escape with {B_SCR_ABILITY}!\p
+d82c173a0b8865ee The Pokémon was hit {B_BUFF1} time(s)!
+5c4529a1c4e1f010 {B_EFF_NAME_WITH_PREFIX} fell asleep!
+c5d52b6c0e678c46 {B_SCR_NAME_WITH_PREFIX}'s {B_BUFF1} made {B_EFF_NAME_WITH_PREFIX2} sleep!
+caa5e9ffcff1c573 {B_DEF_NAME_WITH_PREFIX} is already asleep!
+20c9a70450adef97 {B_ATK_NAME_WITH_PREFIX} is already asleep!
+5bc8619a9e1d2344 {B_EFF_NAME_WITH_PREFIX} was poisoned!
+605718b7277401b4 {B_EFF_NAME_WITH_PREFIX} was poisoned by {B_SCR_NAME_WITH_PREFIX2}'s {B_BUFF1}!
+3e748090ea01340b {B_ATK_NAME_WITH_PREFIX} was hurt by its poisoning!
+d02dbe2be133a6c2 {B_DEF_NAME_WITH_PREFIX} is already poisoned!
+662fef31f4851dc7 {B_EFF_NAME_WITH_PREFIX} was badly poisoned!
+8e81d1b589b06e7f {B_DEF_NAME_WITH_PREFIX} had its energy drained!
+09c90eff3f915adf {B_EFF_NAME_WITH_PREFIX} was burned!
+150b37efa273a2ee {B_SCR_NAME_WITH_PREFIX}'s {B_BUFF1} burned {B_EFF_NAME_WITH_PREFIX2}!
+76c612cb7c5c5cbf {B_ATK_NAME_WITH_PREFIX} was hurt by its burn!
+3ccc0c6b0debe1ab {B_EFF_NAME_WITH_PREFIX} was frozen solid!
+54b547de34c7f50d {B_SCR_NAME_WITH_PREFIX}'s {B_BUFF1} froze {B_EFF_NAME_WITH_PREFIX2} solid!
+518679e1d86822a8 {B_ATK_NAME_WITH_PREFIX} is frozen solid!
+275ab48503b3bfb8 {B_SCR_NAME_WITH_PREFIX} thawed out!
+d3b3edfab64ead7c {B_SCR_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE} melted the ice!
+74790bddfecba842 {B_EFF_NAME_WITH_PREFIX} is paralyzed, so it may be unable to move!
+94105d2216ffe5b3 {B_SCR_NAME_WITH_PREFIX}'s {B_BUFF1} paralyzed {B_EFF_NAME_WITH_PREFIX2}, so it may be unable to move!
+d3089448ca727356 {B_ATK_NAME_WITH_PREFIX} couldn't move because it's paralyzed!
+a45b562562858cc0 {B_DEF_NAME_WITH_PREFIX} is already paralyzed!
+f9a4f9e3632a9a35 {B_DEF_NAME_WITH_PREFIX} was cured of paralysis!
+9127be6389d0cf37 {B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} won't go any higher!
+3cd16fd25a1f89ac {B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1} won't go any lower!
+8bcade077267919e {B_ATK_NAME_WITH_PREFIX} is confused!
+7cab94baa2c7193e {B_ATK_NAME_WITH_PREFIX} snapped out of its confusion!
+ea6e869d6b3d0c7d {B_EFF_NAME_WITH_PREFIX} became confused!
+9735694d0db21c64 {B_DEF_NAME_WITH_PREFIX} is already confused!
+c64e3dc9bf0f5673 {B_DEF_NAME_WITH_PREFIX} fell in love!
+3c560be0260b6d01 {B_ATK_NAME_WITH_PREFIX} is in love with {B_SCR_NAME_WITH_PREFIX2}!
+bae665a8e9e0bb0d {B_ATK_NAME_WITH_PREFIX} is immobilized by love!
+98bae38d30c28fac {B_ATK_NAME_WITH_PREFIX} transformed into the {B_BUFF1} type!
+19cbdfe9406c60b2 {B_ATK_NAME_WITH_PREFIX} flinched and couldn't move!
+96d8a2a09b956218 {B_DEF_NAME_WITH_PREFIX}'s HP was restored.
+1c6b7ff0257b17b9 {B_DEF_NAME_WITH_PREFIX}'s HP is full!
+e4dd1aec0347bd97 Light Screen made {B_ATK_TEAM2} team stronger against special moves!
+ed174ec6b386b7af Reflect made {B_ATK_TEAM2} team stronger against physical moves!
+2561ee2967d1aa5b {B_ATK_TEAM1} team cloaked itself in a mystical veil!
+23174446c7e04d46 {B_SCR_NAME_WITH_PREFIX} is protected by Safeguard!
+7ceb73938272987f {B_ATK_TEAM1} team is no longer protected by Safeguard!
+c06365fdc3839fb0 {B_ATK_NAME_WITH_PREFIX} went to sleep!
+953d337f3de9fc44 {B_ATK_NAME_WITH_PREFIX} slept and restored its HP!
+9503fe5a2aa813d7 {B_ATK_NAME_WITH_PREFIX} whipped up a whirlwind!
+acafc06dfd9095ec {B_ATK_NAME_WITH_PREFIX} absorbed light!
+7cb68d5dd2c3283d {B_ATK_NAME_WITH_PREFIX} tucked in its head!
+07daaeba23192f0a {B_ATK_NAME_WITH_PREFIX} became cloaked in a harsh light!
+3ca709147e39742e {B_ATK_NAME_WITH_PREFIX} flew up high!
+34ae8dd3ea6755bf {B_ATK_NAME_WITH_PREFIX} burrowed its way under the ground!
+2e7fc1d2165ec01d {B_DEF_NAME_WITH_PREFIX} was squeezed by {B_ATK_NAME_WITH_PREFIX2}!
+be717dafdaf9cbb9 {B_DEF_NAME_WITH_PREFIX} became trapped in the vortex!
+7dfb08becc67bcee {B_DEF_NAME_WITH_PREFIX} was wrapped by {B_ATK_NAME_WITH_PREFIX2}!
+01c25c81bc144e90 {B_ATK_NAME_WITH_PREFIX} clamped down on {B_DEF_NAME_WITH_PREFIX2}!
+3d219be695808837 {B_ATK_NAME_WITH_PREFIX} is hurt by {B_BUFF1}!
+faba9cff3eac0ad6 {B_ATK_NAME_WITH_PREFIX} was freed from {B_BUFF1}!
+e1b59ae50c6cc75a {B_ATK_NAME_WITH_PREFIX} kept going and crashed!
+aadda312bfac48bf {B_SCR_NAME_WITH_PREFIX} is protected by the mist!
+cf2e0fc988653f87 {B_ATK_NAME_WITH_PREFIX} was damaged by the recoil!
+2283431763bec958 {B_ATK_NAME_WITH_PREFIX} protected itself!
+233ee6bb28041992 {B_ATK_NAME_WITH_PREFIX} is buffeted by the sandstorm!
+49954cd1f7d2c23b {B_ATK_NAME_WITH_PREFIX} is buffeted by the hail!
+a7bc388166639138 {B_DEF_NAME_WITH_PREFIX} was seeded!
+9a9145730b3ac3bf {B_DEF_NAME_WITH_PREFIX} avoided the attack!
+9f3ab1e70d9be276 {B_ATK_NAME_WITH_PREFIX}'s health is sapped by Leech Seed!
+30a30deba53b1833 {B_ATK_NAME_WITH_PREFIX} is fast asleep.
+2e6f0860effc8699 {B_ATK_NAME_WITH_PREFIX} woke up!
+7e724a2c0cf968f4 The uproar woke {B_EFF_NAME_WITH_PREFIX2}!
+5a4c438d50f3029c {B_ATK_NAME_WITH_PREFIX} caused an uproar!
+2e9aab50120d502e {B_ATK_NAME_WITH_PREFIX} is making an uproar!
+9cf4eeaab8731447 {B_ATK_NAME_WITH_PREFIX} calmed down.
+2c33e3323c8f2f00 {B_ATK_NAME_WITH_PREFIX} stockpiled {B_BUFF1}!
+1ee58f956474ace3 But {B_DEF_NAME_WITH_PREFIX2} can't sleep in an uproar!
+48298916ec76d0d2 But the uproar kept {B_DEF_NAME_WITH_PREFIX2} awake!
+2dad703e8a800f5c {B_DEF_NAME_WITH_PREFIX} stayed awake using its {B_DEF_ABILITY}!
+19b32f21cf255449 {B_ATK_NAME_WITH_PREFIX} is storing energy!
+4a6e13e5c0773cc3 {B_ATK_NAME_WITH_PREFIX} unleashed its energy!
+7d13ab96ee23e1d2 {B_SCR_NAME_WITH_PREFIX} became confused due to fatigue!
+74bb97508fe3a1a5 You picked up ¥{B_BUFF1}!\p
+8a0eef39b27d70bb {B_DEF_NAME_WITH_PREFIX} is unaffected!
+63881396872e31e1 {B_ATK_NAME_WITH_PREFIX} transformed into {B_BUFF1}!
+7450cea342d7de5a {B_ATK_NAME_WITH_PREFIX} put in a substitute!
+ef40f76e757799c8 {B_ATK_NAME_WITH_PREFIX} already has a substitute!
+3b8005bc01e5cd4b The substitute took damage for {B_DEF_NAME_WITH_PREFIX2}!\p
+d238ebe4eb988bb1 {B_DEF_NAME_WITH_PREFIX}'s substitute faded!\p
+dc6cf7e1acf84361 {B_ATK_NAME_WITH_PREFIX} must recharge!
+0c9c03370cf46c65 {B_DEF_NAME_WITH_PREFIX}'s rage is building!
+035e28892e18c646 {B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1} was disabled!
+389018a34568c6a5 {B_ATK_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE} is disabled!\p
+97fa2c38afa50943 {B_SCR_NAME_WITH_PREFIX}'s move is no longer disabled!
+2ec0a596a44a4557 {B_DEF_NAME_WITH_PREFIX} must do an encore!
+af5c99f568232147 {B_SCR_NAME_WITH_PREFIX} can only use {B_CURRENT_MOVE}!\p
+a8c471f88bb9e30c {B_SCR_NAME_WITH_PREFIX} ended its encore!
+b5acc1c078671477 {B_ATK_NAME_WITH_PREFIX} took aim at {B_DEF_NAME_WITH_PREFIX2}!
+55f6420ba03ddc94 {B_ATK_NAME_WITH_PREFIX} sketched {B_BUFF1}!
+0917159315e9e9aa {B_ATK_NAME_WITH_PREFIX} is hoping to take its attacker down with it!
+fe3cd619ecd6eec5 {B_DEF_NAME_WITH_PREFIX} took its attacker down with it!
+2e8b408ccc740b12 {B_DEF_NAME_WITH_PREFIX} lost {B_BUFF2} PP from {B_BUFF1}!
+b44207e519e43845 {B_ATK_NAME_WITH_PREFIX} stole {B_EFF_NAME_WITH_PREFIX2}'s {B_LAST_ITEM}!
+f3bb6bdea3baf180 {B_DEF_NAME_WITH_PREFIX} can no longer escape!
+97afbb98fca5339c {B_DEF_NAME_WITH_PREFIX} began having a nightmare!
+a8cd2f453c348b12 {B_ATK_NAME_WITH_PREFIX} is locked in a nightmare!
+46b7f5b996d89cfe {B_ATK_NAME_WITH_PREFIX} cut its own HP and put a curse on {B_DEF_NAME_WITH_PREFIX2}!
+e090102a80d52928 {B_ATK_NAME_WITH_PREFIX} is afflicted by the curse!
+9275819647a3033c Spikes were scattered on the ground all around {B_DEF_TEAM2} team!
+a0aedb060a1f4dd4 {B_SCR_NAME_WITH_PREFIX} was hurt by the spikes!
+38931362ea553286 {B_DEF_NAME_WITH_PREFIX} was identified!
+2011bf679bc93ee9 {B_ATK_NAME_WITH_PREFIX}'s perish count fell to {B_BUFF1}!
+aa739172c7f60576 {B_ATK_NAME_WITH_PREFIX} braced itself!
+968d22122f34708d {B_DEF_NAME_WITH_PREFIX} endured the hit!
+a590a44075e6633b Magnitude {B_BUFF1}!
+4116541668a9b4e5 {B_ATK_NAME_WITH_PREFIX} cut its own HP and maximized its Attack!
+3bfd9622764942cd {B_SCR_NAME_WITH_PREFIX} copied {B_EFF_NAME_WITH_PREFIX2}'s stat changes!
+615ef7e8669b645c {B_ATK_NAME_WITH_PREFIX} got free of {B_DEF_NAME_WITH_PREFIX2}'s {B_BUFF1}!
+21b62083dfa35a3a {B_ATK_NAME_WITH_PREFIX} shed Leech Seed!
+247b6cdc2192a704 {B_ATK_NAME_WITH_PREFIX} blew away Spikes!
+4b3c994766bb5a33 {B_ATK_NAME_WITH_PREFIX} fled from battle!
+332433e1ee93728d {B_ATK_NAME_WITH_PREFIX} foresaw an attack!
+1d8cff6a93377f8a {B_DEF_NAME_WITH_PREFIX} took the {B_BUFF1} attack!
+1a8082937d6b64a6 {B_BUFF1}'s attack!
+d15947efc35ad169 {B_DEF_NAME_WITH_PREFIX} became the center of attention!
+be61c63c73cbfb19 {B_ATK_NAME_WITH_PREFIX} began charging power!
+0075ebe92e5053a1 Nature Power turned into {B_CURRENT_MOVE}!
+9d36b3c88e2da6dd {B_ATK_NAME_WITH_PREFIX}'s status returned to normal!
+5d0a5d8dc2a80a03 {B_ATK_NAME_WITH_PREFIX} has no moves left that it can use!\p
+1ff0474c5d037c7c {B_DEF_NAME_WITH_PREFIX} was subjected to torment!
+3974b507d96f4bf7 {B_ATK_NAME_WITH_PREFIX} can't use the same move twice in a row due to the torment!\p
+4af08ae3058c903e {B_ATK_NAME_WITH_PREFIX} is tightening its focus!
+0c3a656eb099f1f0 {B_DEF_NAME_WITH_PREFIX} fell for the taunt!
+8016cab3399fbd4c {B_ATK_NAME_WITH_PREFIX} can't use {B_CURRENT_MOVE} after the taunt!\p
+bb46b082543638e5 {B_ATK_NAME_WITH_PREFIX} is ready to help {B_DEF_NAME_WITH_PREFIX2}!
+c5feff09b0f7d756 {B_ATK_NAME_WITH_PREFIX} switched items with its target!
+eccb3cd6cab0623d {B_ATK_NAME_WITH_PREFIX} copied {B_DEF_NAME_WITH_PREFIX2}'s Ability!
+3f0bd7bffd9d2492 {B_BUFF1}'s wish came true!
+c536e82056de80e4 {B_ATK_NAME_WITH_PREFIX} planted its roots!
+838283a5cad3db24 {B_ATK_NAME_WITH_PREFIX} absorbed nutrients with its roots!
+48dde0fb227e80ce {B_DEF_NAME_WITH_PREFIX} anchored itself with its roots!
+2c9ad174f6829d3f {B_DEF_NAME_WITH_PREFIX} grew drowsy!
+5aeec8e9b713e3f6 {B_ATK_NAME_WITH_PREFIX} knocked off {B_DEF_NAME_WITH_PREFIX2}'s {B_LAST_ITEM}!
+6a8921e75c1f27fa {B_ATK_NAME_WITH_PREFIX} swapped Abilities with its target!
+85265d9c8b9ebaa9 {B_ATK_NAME_WITH_PREFIX} sealed any moves its target shares with it!
+0afdb8cee17ac97a {B_ATK_NAME_WITH_PREFIX} can't use its sealed {B_CURRENT_MOVE}!\p
+e19e05071a943f3d {B_ATK_NAME_WITH_PREFIX} wants its target to bear a grudge!
+4ef09a1939bda9c8 {B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} lost all its PP due to the grudge!
+fd0283e2e7500a27 {B_ATK_NAME_WITH_PREFIX} shrouded itself with Magic Coat!
+5e19abd3b955a85b {B_EFF_NAME_WITH_PREFIX} bounced the {B_CURRENT_MOVE} back!
+6309b5abd04f8da7 {B_ATK_NAME_WITH_PREFIX} waits for a target to make a move!
+11c7456edd92fd42 {B_DEF_NAME_WITH_PREFIX} snatched {B_SCR_NAME_WITH_PREFIX2}'s move!
+e0474db611b74735 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} made it rain!
+04c0854bda1629f2 {B_DEF_NAME_WITH_PREFIX} was protected by {B_DEF_ABILITY}!
+b77d5566fe2f8fc5 {B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY} prevents {B_ATK_NAME_WITH_PREFIX2} from using {B_CURRENT_MOVE}!
+695efc62d3e63c2b {B_SCR_NAME_WITH_PREFIX} restored HP using its {B_SCR_ABILITY}!
+9b28faeb38c23818 {B_EFF_NAME_WITH_PREFIX}'s {B_EFF_ABILITY} made it the {B_BUFF1} type!
+3150d7d46ba78c20 {B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY} prevents romance!
+315175fcb5ae1ea4 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} prevents confusion!
+fddea291e32b0ee3 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} raised the power of Fire-type moves!
+52c8f15a7d3568b3 {B_DEF_NAME_WITH_PREFIX} anchors itself with {B_DEF_ABILITY}!
+262423943f7f0fc3 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} cuts {B_DEF_NAME_WITH_PREFIX2}'s Attack!
+2bfb0ce4209e9761 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} prevents stat loss!
+ddf155d8290d6b74 {B_ATK_NAME_WITH_PREFIX} was hurt by {B_DEF_NAME_WITH_PREFIX2}'s {B_BUFF1}!
+66d73a2f3d3af21a It traced {B_BUFF1}'s {B_BUFF2}!
+71c208e7ec1e4f0f harshly 
+8b55ce0b6bf55d92 {B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} {B_BUFF2}rose!
+1719c84cf403f268 {B_SCR_NAME_WITH_PREFIX}'s {B_BUFF1} {B_BUFF2}rose!
+578b83dc01fe9457 {B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} {B_BUFF2}fell!
+b6b18295fd8510a5 {B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1} {B_BUFF2}fell!
+c40d3d2fe9641771 A critical hit!
+3bf8e29a2abdfcbb It's a one-hit KO!
+35792491883d87c5 One…{PAUSE 10}two…{PAUSE 10}and…{PAUSE 10}{PAUSE 20}{PLAY_SE SE_BALL_BOUNCE_1}ta-da!\p
+359d5baed2a2689d And…\p
+82a2e751f34799c0 It's not very effective…
+cffa103201990cc9 It's super effective!
+fb3333224f9a0f93 {PLAY_SE SE_FLEE}The wild {B_BUFF1} fled!
+d583519a529bce2f No! There's no running from a Trainer battle!\p
+0e66dbaf101470e8 You can't escape!\p
+39b84a9abb38a396 PROF. BIRCH: Don't leave me like this!\p
+453e89956a52d166 But nothing happened!
+904b87603503bae2 But it failed!
+8cfa01ca58094606 It hurt itself in its confusion!
+83e446d22b593844 It started to rain!
+00e41516a0aa8b22 A downpour started!
+5ec756e06c1db8d0 Rain continues to fall.
+397cff1c163dbf6f The downpour continues.
+5829103f27770d2c The rain stopped.
+e964bfb9d69697be A sandstorm kicked up!
+fd0f186845a55d9a The sandstorm is raging.
+76cbbb225ec6538e The sandstorm subsided.
+08d72e96352a4321 The sunlight turned harsh!
+ca8d3603decdb3c3 The sunlight is strong.
+6cccff1b00174783 The sunlight faded.
+b02a09910571a784 It started to hail!
+4d9f75ffc0267410 The hail is crashing down.
+49ada6c3e255ee7d The hail stopped.
+49172ec0992ba2d5 All stat changes were eliminated!
+eca283f5b82042c4 Coins were scattered everywhere!
+cb8fb3389e866df7 But it does not have enough HP left to make a substitute!
+9c8d0092b08b50d9 The battlers shared their pain!
+49c3935ca6044e86 A bell chimed!
+40d764e1d2a0ce52 All Pokémon that heard the song will faint in three turns!
+81044c7c5cb0f7cc There's no PP left for this move!\p
+16d14af661210cb4 But there was no PP left for the move!
+77bdd79bba3ab62f You used {B_LAST_ITEM}!
+a2bf8cc77ba19290 WALLY used {B_LAST_ITEM}!
+900c913f789f11bc The Trainer blocked your Poké Ball!
+8d42bad87b39915c Don't be a thief!
+f7ebd26b1eaa5001 It dodged your thrown Poké Ball! This Pokémon can't be caught!
+d7e3af89a38a198d Oh no! The Pokémon broke free!
+1ae22ce1d6f4b465 Aww! It appeared to be caught!
+a0bcb747ebb79ae8 Aargh! Almost had it!
+a40e50c1ca35aeb5 Gah! It was so close, too!
+6614fb773154d853 Gotcha! {B_DEF_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\p
+3e73b8be6a1b22a4 Gotcha! {B_DEF_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}{PAUSE 127}
+b658d3b14364658b Would you like to give {B_DEF_NAME} a nickname?
+3edefb6cac59e1ec {B_DEF_NAME}'s data has been added to the Pokédex!\p
+a259c2a7480b4634 It's raining!
+0fcffe8ed637b635 The sandstorm is raging!
+b0dbab844167800e You couldn't get away!\p
+d42e17726a408a2f {B_ATK_NAME_WITH_PREFIX} ignored orders and kept sleeping!
+0d4549695b38a5ba {B_ATK_NAME_WITH_PREFIX} ignored orders!
+b56aa280d9479c32 {B_ATK_NAME_WITH_PREFIX} began to nap!
+be0104c1f4db53f4 {B_ATK_NAME_WITH_PREFIX} is loafing around!
+6f7ed6a370b420c2 {B_ATK_NAME_WITH_PREFIX} won't obey!
+b87a4b31f4b22fdc {B_ATK_NAME_WITH_PREFIX} turned away!
+63d6e050df81d706 {B_ATK_NAME_WITH_PREFIX} pretended not to notice!
+c98fc4abf368490b {B_TRAINER1_NAME_WITH_CLASS} is about to send out {B_BUFF2}.\pWill you switch your Pokémon?
+060ac1fb2dcd311c {B_PLAYER_NAME} crept closer to {B_OPPONENT_MON1_NAME}!
+ee4c342f084d2089 {B_PLAYER_NAME} can't get any closer!
+f45d7d4382151253 {B_OPPONENT_MON1_NAME} is watching carefully!
+ac16fcd8973fd858 {B_OPPONENT_MON1_NAME} is curious about the {B_BUFF1}!
+6553d4be03b81054 {B_OPPONENT_MON1_NAME} is enthralled by the {B_BUFF1}!
+eee08d26c70868ac {B_OPPONENT_MON1_NAME} completely ignored the {B_BUFF1}!
+518e7d715f8677f6 {B_PLAYER_NAME} threw a {POKEBLOCK} at the {B_OPPONENT_MON1_NAME}!
+57847f789e4b443a {PLAY_SE SE_DING_DONG}ANNOUNCER: You're out of Safari Balls! Game over!\p
+44dbd25bc85b6e65 {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} cured its paralysis!
+275b0a1517ad14b6 {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} cured its poison!
+b5a85471d93541be {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} cured its burn!
+e8c661ba7a94ef5a {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} defrosted it!
+77d1b7c59fad0315 {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} woke it up!
+92bd15a05d299893 {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} snapped it out of its confusion!
+f9f75d7bc536ba42 {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} cured its {B_BUFF1} problem!
+7ff46f43af6359be {B_SCR_NAME_WITH_PREFIX} restored its health using its {B_LAST_ITEM}!
+1efc9fc5d91811e3 {B_SCR_NAME_WITH_PREFIX} restored PP to its move {B_BUFF1} using its {B_LAST_ITEM}!
+3297c0490fa9d824 {B_SCR_NAME_WITH_PREFIX} returned its stats to normal using its {B_LAST_ITEM}!
+456ee8557a11ac98 {B_SCR_NAME_WITH_PREFIX} restored a little HP using its {B_LAST_ITEM}!
+cb44c1ed1773154b {B_LAST_ITEM} only allows the use of {B_CURRENT_MOVE}!\p
+1c3db57f01e2622f {B_DEF_NAME_WITH_PREFIX} hung on using its {B_LAST_ITEM}!
+b8f3c813e7292137 {B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY} restored its HP a little!
+c0ecb029b90104a4 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} whipped up a sandstorm!
+b30765795db62a23 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} prevents {B_BUFF1} loss!
+aaa27dcd659a8e64 {B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY} infatuated {B_ATK_NAME_WITH_PREFIX2}!
+011716ed86a4174b {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} made {B_CURRENT_MOVE} ineffective!
+323e574d1a45226f {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} cured its {B_BUFF1} problem!
+2043573fb275ae9b {B_ATK_NAME_WITH_PREFIX} sucked up the liquid ooze!
+80fd83727a123dd4 {B_SCR_NAME_WITH_PREFIX} transformed!
+f6671f256c325e1d Electricity's power was weakened!
+2c36b765c31c8994 Fire's power was weakened!
+8670c406a90b0793 {B_ATK_NAME_WITH_PREFIX} hid underwater!
+0c78da643d666bd5 {B_ATK_NAME_WITH_PREFIX} sprang up!
+c4c24a65870146bc HM moves can't be forgotten now.\p
+894a87e5ed70cda7 {B_ATK_NAME_WITH_PREFIX} found one {B_LAST_ITEM}!
+13cd3b86ce5a7d21 A soothing aroma wafted through the area!
+9d5ed340d991e700 Items can't be used now.{PAUSE 64}
+a06d097068dc46e9 Using {B_LAST_ITEM}, the {B_BUFF1} of {B_SCR_NAME_WITH_PREFIX2} {B_BUFF2}rose!
+6aa30105fe55a981 Using {B_LAST_ITEM}, the {B_BUFF1} of {B_SCR_NAME_WITH_PREFIX2} {B_BUFF2}fell!
+e45a540ec5345faa {B_SCR_NAME_WITH_PREFIX} used the {B_LAST_ITEM} to get pumped!
+280f298e912c6aa6 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} made {B_CURRENT_MOVE} useless!
+c83fe03e1ddda235 {B_DEF_NAME_WITH_PREFIX} became trapped by the quicksand!
+9e3a2e092a8261bc  a boosted
+b7b5d2c4837cfa7e {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} intensified the sun's rays!
+1619d4669c900fa4 You throw a Ball now, right? I… I'll do my best!
+a1c45edc0d75b94b {B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY} took the attack!
+fe134a6af6e728fe {B_ATK_NAME_WITH_PREFIX} chose Doom Desire as its destiny!
+bbea65094e2ef9bd {B_ATK_NAME_WITH_PREFIX} lost its focus and couldn't move!
+c64ba1ac8dd55f34 Use next Pokémon?
+a9b3b3c6da42334e {PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fled using its {B_LAST_ITEM}!\p
+32e4e2b5e1e34c42 {PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fled using {B_ATK_ABILITY}!\p
+00170bdae1bd0e7e {B_DEF_NAME_WITH_PREFIX} was dragged out!\p
+114cf9264dabacef {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} normalized its status!
+3bd27860a04addec {B_ATK_TRAINER_NAME_WITH_CLASS} used {B_LAST_ITEM}!
+fafdd1a4ef962daa The Box is full! You can't catch any more!\p
+7f392b04d3143e51 {B_SCR_NAME_WITH_PREFIX} avoided the attack!
+ba1715483db83512 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} made it ineffective!
+6ece60de5be9cf8c {B_EFF_NAME_WITH_PREFIX}'s {B_EFF_ABILITY} prevents flinching!
+5579255a6802eb8b {B_DEF_NAME_WITH_PREFIX} is already burned!
+516cac30bd487337 {B_DEF_NAME_WITH_PREFIX}'s stats won't go any lower!
+eeb29496ecacd0ac {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} blocks {B_CURRENT_MOVE}!
+dfaf60589b425590 {B_ATK_TEAM1} team's {B_BUFF1} wore off!
+7ca02013b6365a17 The wall shattered!
+06022e73ecfe44c4 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} cured its {B_BUFF1} problem!
+40a62949bba3a9c0 {B_ATK_NAME_WITH_PREFIX} can't escape!
+ef3f22918e301251 {B_ATK_NAME_WITH_PREFIX} obtained {B_BUFF1}.
+b69f5e40ea72a05e {B_DEF_NAME_WITH_PREFIX} obtained {B_BUFF2}.
+61b0054f80d933c0 {B_ATK_NAME_WITH_PREFIX} obtained {B_BUFF1}.\p{B_DEF_NAME_WITH_PREFIX} obtained {B_BUFF2}.
+1da44cb3f533010e But it had no effect!
+91ee19ef2235bd0d {B_ATK_NAME_WITH_PREFIX} appears incapable of using its power!
+7ffc14c0ddca51db A glint appears in {B_SCR_NAME_WITH_PREFIX2}'s eyes!
+c2987a827df595d3 {B_SCR_NAME_WITH_PREFIX} is getting into position!
+7695be46fb1616e6 {B_SCR_NAME_WITH_PREFIX} began growling deeply!
+287be7667c3ee394 {B_SCR_NAME_WITH_PREFIX} is eager for more!
+2cae28bf0fc85b5c {B_PLAYER_MON1_NAME} defeated the opponent {B_OPPONENT_MON1_NAME} in a REFEREE's decision!
+d40c7fe1f6304b6e {B_PLAYER_MON1_NAME} lost to the opponent {B_OPPONENT_MON1_NAME} in a REFEREE's decision!
+2e5c975861b42e0f {B_PLAYER_MON1_NAME} tied the opponent {B_OPPONENT_MON1_NAME} in a REFEREE's decision!
+c28ee5c6f824969d Would you like to forfeit the match and quit now?
+9b057725916137d6 The match was forfeited.
+06ea87b2b07264a2 {B_DEF_NAME_WITH_PREFIX} endured the hit using {B_DEF_ABILITY}!
+fbfafe06e7413abc {B_ATK_NAME_WITH_PREFIX} became fully charged due to its {B_LAST_ITEM}!
+733c461a19ebe0d9 {B_ATK_NAME_WITH_PREFIX} was hurt by the {B_LAST_ITEM}!
+5a1b0dad3ddcc666 Gravity intensified!
+2925549ecbf4dca1 {B_DEF_NAME_WITH_PREFIX} woke up!
+6c0f54a8cef0fceb The Tailwind blew from behind {B_ATK_TEAM2} team!
+dccf27f41cdf8a53 {B_ATK_NAME_WITH_PREFIX} went back to {B_ATK_TRAINER_NAME}!
+83eacfb889d8f40d {B_DEF_NAME_WITH_PREFIX} can't use items anymore!
+e1e945db756fc643 {B_ATK_NAME_WITH_PREFIX} flung its {B_LAST_ITEM}!
+da6e4459e491d86a {B_DEF_NAME_WITH_PREFIX} was prevented from healing!
+b8131026a97fe3d3 {B_ATK_NAME_WITH_PREFIX} switched its Attack and Defense!
+bfb62f5ed8a0b825 {B_DEF_NAME_WITH_PREFIX}'s Ability was suppressed!
+c3f3c83a9577681d Lucky Chant shielded {B_ATK_TEAM2} team from critical hits!
+52d671f04852e911 {B_DEF_NAME_WITH_PREFIX} acquired {B_DEF_ABILITY}!
+a5918743abea8d84 Poison spikes were scattered on the ground all around {B_DEF_TEAM2} team!
+7d72dfe0b98ed348 {B_ATK_NAME_WITH_PREFIX} switched stat changes with its target!
+9899569c9311ba12 {B_ATK_NAME_WITH_PREFIX} surrounded itself with a veil of water!
+659645f5ac1859a9 {B_ATK_NAME_WITH_PREFIX} levitated with electromagnetism!
+0765282008f9c1d9 {B_ATK_NAME_WITH_PREFIX} twisted the dimensions!
+eca3d6b34b81cc96 Pointed stones float in the air around {B_DEF_TEAM2} team!
+1cd68a058df13eaa {B_DEF_NAME_WITH_PREFIX} became trapped by swirling magma!
+ebca3fe478658f50 {B_ATK_NAME_WITH_PREFIX} vanished instantly!
+a1849d22b4ea846f {B_CURRENT_MOVE} protected {B_ATK_TEAM2} team!
+9b51cbfeeabc1da8 {B_ATK_NAME_WITH_PREFIX} shared its guard with the target!
+11afea358badd3ca {B_ATK_NAME_WITH_PREFIX} shared its power with the target!
+50894cf560e3a34f It created a bizarre area in which Defense and Sp. Def stats are swapped!
+ea97a593aad76246 {B_ATK_NAME_WITH_PREFIX} became nimble!
+21ab67685eb51f19 {B_DEF_NAME_WITH_PREFIX} was hurled into the air!
+84b018d13357f2d3 It created a bizarre area in which Pokémon's held items lose their effects!
+c01625da3556deeb {B_DEF_NAME_WITH_PREFIX} fell straight down!
+f8db3693e40367ca {B_DEF_NAME_WITH_PREFIX} transformed into the {B_BUFF1} type!
+077eebd0bfc77346 {B_DEF_NAME_WITH_PREFIX} took the kind offer!
+4dee9b034064218a {B_DEF_NAME_WITH_PREFIX}'s stat changes were removed!
+29a0fe47bdad1f07 {B_ATK_NAME_WITH_PREFIX} and {B_SCR_NAME_WITH_PREFIX2} switched places!
+8fd3763c75c021d8 {B_ATK_NAME_WITH_PREFIX} became the same type as {B_DEF_NAME_WITH_PREFIX2}!
+2e208ec048078d01 {B_ATK_NAME_WITH_PREFIX} can use items again!
+f5ee0b3658c43eea electromagnetism
+68589b3335e12f17 {B_SCR_NAME_WITH_PREFIX}'s {B_BUFF1} wore off!
+e89bba009f25c44e {B_ATK_NAME_WITH_PREFIX} was freed from the telekinesis!
+727c27935a8f183a {B_ATK_TEAM1} team's Tailwind petered out!
+80084d9b7a9993c1 {B_ATK_TEAM1} team's Lucky Chant wore off!
+59e7271d25a115db The twisted dimensions returned to normal!
+3c51b75e34ce099d Wonder Room wore off, and Defense and Sp. Def stats returned to normal!
+5f5ecdb8047a4e0b Magic Room wore off, and held items' effects returned to normal!
+d56dc112c6697359 The effects of Mud Sport have faded.
+9062bd6574d9fb0b The effects of Water Sport have faded.
+89b4cbe132c60d53 Gravity returned to normal!
+a426096519eb1804 A veil of water restored {B_ATK_NAME_WITH_PREFIX2}'s HP!
+9343bab57d84e2c6 The electricity disappeared from the battlefield.
+769893a782f6f7f1 The mist disappeared from the battlefield.
+2ad3e20f23c25f5b The weirdness disappeared from the battlefield!
+c00f2381421f53d3 The grass disappeared from the battlefield.
+39a1ce5c3487eea8 {B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY} {B_BUFF2}raised its {B_BUFF1}!
+fc7466dbe9d5b8b0 {B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY} maxed its {B_BUFF1}!
+e91fda402aad1697 {B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY} {B_BUFF2}raised its {B_BUFF1}!
+d2c1e8d995bbee49 The poisoning healed {B_ATK_NAME_WITH_PREFIX2} a little bit!
+b32504a5e7cc0848 {B_DEF_NAME_WITH_PREFIX} is tormented!
+2d87876a955d469b {B_SCR_NAME_WITH_PREFIX} breaks the mold!
+fab174fe4d6ab773 {B_SCR_NAME_WITH_PREFIX} is radiating a bursting aura!
+3cea7bcdccec4425 {B_SCR_NAME_WITH_PREFIX} is radiating a blazing aura!
+7e3c90fa9d1f90d4 {B_SCR_NAME_WITH_PREFIX} is slow to get going!
+dcbaf0ffbbdefd3a {B_ATK_NAME_WITH_PREFIX} finally got its act together!
+96643826b0cd3b09 {B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY} takes its toll!
+2b99ffb186e4f3e7 {B_ATK_NAME_WITH_PREFIX} was hurt!
+8a327ea240dc149e {B_SCR_NAME_WITH_PREFIX} shuddered!
+d5938b50a16631c2 {B_SCR_ABILITY} alerted {B_SCR_NAME_WITH_PREFIX2} to {B_EFF_NAME_WITH_PREFIX2}'s {B_BUFF1}!
+f5da53446069fa61 {B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY} healed it a little bit!
+fc2f7a91922005eb It started to hail!
+36240167a5ad1a95 {B_ATK_NAME_WITH_PREFIX} frisked {B_DEF_NAME_WITH_PREFIX2} and found its {B_LAST_ITEM}!
+55b7e30f54bd413a {B_EFF_TEAM1} team is too nervous to eat Berries!
+5ed6747f7855c6cd {B_ATK_NAME_WITH_PREFIX} harvested its {B_LAST_ITEM}!
+4f5424b44e5bc794 {B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY} transformed it into the {B_BUFF1} type!
+f2a1a3c7ba841f69 {B_SCR_NAME_WITH_PREFIX} passed its {B_LAST_ITEM} to {B_EFF_NAME_WITH_PREFIX2} through {B_LAST_ABILITY}!
+1328f961d3438165 Pointed stones dug into {B_SCR_NAME_WITH_PREFIX2}!
+fe6e96753d7ec47f The poison spikes disappeared from the ground around {B_EFF_TEAM2} team!
+f4efa9a7b72c9cdc {B_SCR_NAME_WITH_PREFIX} was poisoned!
+4fa227cbd88b8b96 {B_SCR_NAME_WITH_PREFIX} was badly poisoned!
+eb12cdcc3707a23a {B_SCR_NAME_WITH_PREFIX} was caught in a sticky web!
+ee820bc3a07050f5 The healing wish came true for {B_SCR_NAME_WITH_PREFIX2}!
+9769f1dc169e225a {B_SCR_NAME_WITH_PREFIX} regained health!
+d30f267f4ebfc90c {B_SCR_NAME_WITH_PREFIX} became cloaked in mystical moonlight!
+4dae5ea81cdc7366 {B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} was disabled by {B_DEF_NAME_WITH_PREFIX2}'s {B_DEF_ABILITY}!
+28bc662e7e4406c3 {B_ATK_NAME_WITH_PREFIX} acquired {B_ATK_ABILITY}!
+32a3e7932beac84d {B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY} {B_BUFF2}lowered its {B_BUFF1}!
+dc97da324b3b09f7 {B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1} won't go any higher!
+b5a061087661c126 {B_ATK_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE} was bounced back by {B_DEF_NAME_WITH_PREFIX2}'s {B_DEF_ABILITY}!
+b6f57450609d5213 {B_ATK_NAME_WITH_PREFIX} transformed into {B_DEF_NAME_WITH_PREFIX2} using {B_LAST_ABILITY}!
+cc0d4cfd2a616094 The effects of the {B_LAST_ITEM} prevent status moves from being used!\p
+5f1b459d12c546c4 {B_ATK_NAME_WITH_PREFIX} can't use {B_CURRENT_MOVE} because of gravity!\p
+b9ad985cf0648a41 {B_ATK_NAME_WITH_PREFIX} was prevented from healing!\p
+8780501673ea88e9 This move effect is not done yet!\p
+49e8da0447e19f58 A sticky web has been laid out on the ground around {B_DEF_TEAM2} team!
+cd8288fb7c4ff39c {B_DEF_NAME_WITH_PREFIX}'s move was postponed!
+87e642ea9df8105f {B_ATK_NAME_WITH_PREFIX} blew away Toxic Spikes!
+ef7f52bc1f0f7c02 {B_ATK_NAME_WITH_PREFIX} blew away Sticky Web!
+8b9b0e5f023dc1de {B_ATK_NAME_WITH_PREFIX} blew away Stealth Rock!
+172fcbe0b19e2aae A deluge of ions showers the battlefield!
+4e2b951cdeeb8433 All stat changes on {B_DEF_NAME_WITH_PREFIX2} were inverted!
+881df877d7eb7ab4 Mist swirled around the battlefield!
+3f4517f5743134ec Grass grew to cover the battlefield!
+41b532839fe745a5 An electric current ran across the battlefield!
+d27bb664ad864086 The battlefield got weird!
+a6f67dac1a3096d5 {B_DEF_NAME_WITH_PREFIX}'s moves have been electrified!
+dcd9ef65de5190dd {B_ATK_NAME_WITH_PREFIX}'s {B_LAST_ITEM} is reacting to {B_ATK_TRAINER_NAME}'s Mega Ring!
+f1cd899979bc5ccd {B_ATK_NAME_WITH_PREFIX} has Mega Evolved into Mega {B_BUFF1}!
+22bef4fd93ae3080 {B_DEF_NAME_WITH_PREFIX} has been afflicted with an infestation by {B_ATK_NAME_WITH_PREFIX2}!
+0e3a2cb20296ba4f It won't have any effect on {B_DEF_NAME_WITH_PREFIX2}!
+f3b1ee7923e74b83 The bursting flames hit {B_SCR_NAME_WITH_PREFIX2}!
+9e6118542feb75a3 {B_DEF_NAME_WITH_PREFIX} received {B_LAST_ITEM} from {B_ATK_NAME_WITH_PREFIX2}!
+778f78f217762057 {B_BUFF1} type was added to {B_DEF_NAME_WITH_PREFIX2}!
+d7744e5d86b23e98 {B_DEF_NAME_WITH_PREFIX} fell for the feint!
+25adaf76794b3ac1 {B_ATK_NAME_WITH_PREFIX} cannot use {B_CURRENT_MOVE}!
+e3e1f2d14d7af063 {B_DEF_NAME_WITH_PREFIX} is covered in powder!
+5eb68c9f53dbaa22 When the flame touched the powder on the Pokémon, it exploded!
+147ba188d2304998 {B_ATK_NAME_WITH_PREFIX} hasn't eaten any held Berries, so it can't possibly belch!\p
+37d0578444b718a6 {B_ATK_NAME_WITH_PREFIX} stole the target's boosted stats!
+2890d3574bf95a92 {B_DEF_NAME_WITH_PREFIX} fell from the sky due to the gravity!
+5671c084d02d0ac2 {B_DEF_NAME_WITH_PREFIX} surrounds itself with a protective mist!
+9b1024e9cd016819 {B_ATK_NAME_WITH_PREFIX} is healed by the grassy terrain!
+130d4d066d359262 {B_DEF_NAME_WITH_PREFIX} surrounds itself with electrified terrain!
+2daa85509001775b {B_SCR_NAME_WITH_PREFIX} is protected by the Psychic Terrain!
+4c1982e95f1d98d2 {B_SCR_NAME_WITH_PREFIX} is not affected thanks to its {B_LAST_ITEM}!
+70e3d4afb63d1352 {B_DEF_NAME_WITH_PREFIX} surrounded itself with a veil of petals!
+6815d8adbf294fa7 {B_DEF_NAME_WITH_PREFIX} is protected by an aromatic veil!
+10ded40f627147a7 Congratulations, {B_PLAYER_NAME}!
+db4a35c5b59725f5 {B_DEF_NAME_WITH_PREFIX} followed {B_ATK_NAME_WITH_PREFIX2}'s instructions!
+c09c7add5bbbf398 {B_ATK_NAME_WITH_PREFIX} can use sound-based moves again!
+a52e5bd8c8b6283f The effects of Throat Chop prevent {B_ATK_NAME_WITH_PREFIX2} from using certain moves!\p
+03dde9f55bdd5a70 {B_ATK_NAME_WITH_PREFIX} concentrated intensely!
+66e6ff35fcb54ed8 The {B_LAST_ITEM} strengthened {B_ATK_NAME_WITH_PREFIX2}'s power!
+274e7f4c21b0ffcf The {B_LAST_ITEM} weakened the damage to {B_SCR_NAME_WITH_PREFIX2}!
+a8a86ef7309eb03d {B_SCR_NAME_WITH_PREFIX} floats in the air with its Air Balloon!
+962ca117768b9f7e {B_DEF_NAME_WITH_PREFIX}'s Air Balloon popped!
+17deb99e36d6d7aa {B_EFF_NAME_WITH_PREFIX}'s {B_LAST_ITEM} was burnt up!
+3eec1130c6097ee3 {B_ATK_NAME_WITH_PREFIX} stole and ate its target's {B_LAST_ITEM}!
+ce94bb8b59da1f23 {B_SCR_NAME_WITH_PREFIX}'s illusion wore off!
+7728a5d569abae57 {B_ATK_NAME_WITH_PREFIX} cured {B_DEF_NAME_WITH_PREFIX2}'s problem!
+f888f2c2a261a7cb {B_ATK_NAME_WITH_PREFIX} burned itself out!
+4b02d8c1d96d5b2b {B_ATK_NAME_WITH_PREFIX}'s {B_LAST_ABILITY} cured {B_SCR_NAME_WITH_PREFIX2}'s problem!
+cc97f15e3dc27608 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} {B_BUFF2}raised its {B_BUFF1}!
+bf16bae800197580 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} was taken over!
+798dd3e50b9a1342 {B_ATK_NAME_WITH_PREFIX} is absorbing power!
+8f5d428118d2074f No one will be able to run away during the next turn!
+c4f4b4f8c31dc41e {B_DEF_NAME_WITH_PREFIX} fell in love because of the {B_LAST_ITEM}!
+d3494ba3d5810c35 {B_ATK_NAME_WITH_PREFIX} became cloaked in a freezing light!
+c46c3534fc0fe7cf The effects of the {B_LAST_ITEM} held by {B_SCR_NAME_WITH_PREFIX2} prevents its stats from being lowered!
+14ae292e9e55a211 {B_ATK_TRAINER_NAME}'s fervent wish has reached {B_ATK_NAME_WITH_PREFIX2}!
+797e8434b780f500 The effects of the weather disappeared.
+6a2f4b9123cbd51d {B_SCR_NAME_WITH_PREFIX} is exerting its pressure!
+62c714096f89ddd4 {B_SCR_NAME_WITH_PREFIX} is radiating a dark aura!
+929b62fc11d3276e {B_SCR_NAME_WITH_PREFIX} is radiating a fairy aura!
+6faeb9e55d9f5971 {B_SCR_NAME_WITH_PREFIX} reversed all other Pokémon's auras!
+89dad05d0dbc58d8 {B_SCR_NAME_WITH_PREFIX} is drowsing!
+aa3c22cb07f8a8c0 All screens on the field were cleansed!
+757e6cccacb0142b {B_SCR_NAME_WITH_PREFIX} found a {B_LAST_ITEM}!
+feb82202b7f0741e A sandstorm kicked up!
+a1b5140f7fe93e65 Both Pokémon will perish in three turns!
+fc6d61b5d6a7ed05 {B_DEF_NAME_WITH_PREFIX}'s aura flared to life!
+501699a313f51e37 {B_SCR_NAME_WITH_PREFIX} has two Abilities!
+18ba3cd634e3a340 {B_EFF_NAME_WITH_PREFIX}'s stat changes were removed!
+8fb3e954f5d7f4b4 {B_ATK_NAME_WITH_PREFIX} can act faster than normal, thanks to its {B_BUFF1}!
+1bc1a145bba8fb47 {B_SCR_NAME_WITH_PREFIX} boosted the accuracy of its next move using {B_LAST_ITEM}!
+abbea097fbc6aa08 {B_SCR_NAME_WITH_PREFIX} shook off the taunt!
+581cea9af7e3642d {B_SCR_NAME_WITH_PREFIX} got over its infatuation!
+bb9cd9ee6ef9c2f9 {B_ATK_NAME_WITH_PREFIX}'s item cannot be removed!
+0398561ea630db77 The {B_LAST_ITEM} attached itself to {B_ATK_NAME_WITH_PREFIX2}!
+11066a5403c4ddc7 {B_DEF_NAME_WITH_PREFIX}'s burn was cured!
+b87fd1bfd600a9c9 {B_SCR_NAME_WITH_PREFIX} held up its Red Card against {B_ATK_NAME_WITH_PREFIX2}!
+4c641eef835e7b96 {B_SCR_NAME_WITH_PREFIX} is switched out with the {B_LAST_ITEM}!
+5dcb66dae75ce01b {B_SCR_NAME_WITH_PREFIX} got over its infatuation!
+8bad0967d4b6212c {B_SCR_NAME_WITH_PREFIX} is no longer tormented!
+9ddebcf057888ad6 {B_SCR_NAME_WITH_PREFIX} is cured of its heal block!
+e73dabd7b908680a {B_ATK_NAME_WITH_PREFIX} became fully charged due to its bond with its trainer!\p
+26c8b9967035a9e5 {B_ATK_NAME_WITH_PREFIX} became Ash-Greninja!\p
+22838d70602ecb8d The sunlight turned extremely harsh!
+3a369d2c2496e728 The extremely harsh sunlight faded!
+d801160e026844cc The Water-type attack evaporated in the extremely harsh sunlight!
+ca8d8a59d018317b The extremely harsh sunlight was not lessened at all!
+0242e290e504192e A heavy rain began to fall!
+292233e9e54b2973 The heavy rain has lifted!
+33acac4ed2f601ac The Fire-type attack fizzled out in the heavy rain!
+870572b3ebd42a59 There is no relief from this heavy rain!
+55e4a0fcada81e00 Mysterious strong winds are protecting Flying-type Pokémon!
+96dcdb756c179031 The mysterious strong winds have dissipated!
+f5dd79a5116d60cd The mysterious strong winds blow on regardless!
+bca70148463dd65b The mysterious strong winds weakened the attack!
+96ff8912a175b236 It can't use the move because it doesn't have a Berry!\p
+ccbb8792ed75927d {B_SCR_NAME_WITH_PREFIX}'s Primal Reversion! It reverted to its primal state!
+47118eb2e0433791 But {B_ATK_NAME_WITH_PREFIX2} can't use the move!
+30252f9cd960446d But {B_ATK_NAME_WITH_PREFIX2} can't use it the way it is now!
+d0b9cdfe619cab09 It broke through {B_DEF_NAME_WITH_PREFIX2}'s protection!
+0260d66cab501959 {B_ATK_ABILITY} only allows the use of {B_CURRENT_MOVE}!\p
+3e4ae968847449b1 {B_DEF_NAME_WITH_PREFIX} swapped Abilities with its target!
+3141e9173cd0d4ff {B_DEF_NAME_WITH_PREFIX} was cured of its poisoning!
+68a528b1f1b53412 {B_SCR_NAME_WITH_PREFIX}'s type changed to {B_BUFF1}!
+7e3882715dfd5875 Neither Pokémon can run away!
+0cb8c1d0ea124915 {B_ATK_NAME_WITH_PREFIX} can no longer escape because it used No Retreat!
+9ce82d992c130ba7 {B_DEF_NAME_WITH_PREFIX} became weaker to fire!
+d4fbb309dbd07c8c {B_DEF_NAME_WITH_PREFIX} is about to be attacked by its {B_BUFF1}!
+93575d24a6863c57 {B_DEF_NAME_WITH_PREFIX} can no longer escape because of Octolock!
+3de73598be1cb96f Neutralizing gas filled the area!
+1a15afa2775ddfd5 The effects of the neutralizing gas wore off!
+57c664456df55f47 {B_DEF_NAME_WITH_PREFIX} is too heavy to be lifted!
+a94cc91adcfb9f20 {B_ATK_NAME_WITH_PREFIX} took {B_DEF_NAME_WITH_PREFIX2} into the sky!
+c2c6fc476c0d9a83 {B_DEF_NAME_WITH_PREFIX} got trapped by a snap trap!
+dc04314424d9ffcb {B_ATK_NAME_WITH_PREFIX} is overflowing with space power!
+415b4bcce1fbdaf8 {B_ATK_NAME_WITH_PREFIX} started heating up its beak!
+aafc9dc52b2af5f8 {B_ATK_NAME_WITH_PREFIX} swapped the battle effects affecting each side of the field!
+ab194af3adc81814 {B_ATK_NAME_WITH_PREFIX} surrounded itself with its Z-Power!
+f8e007df76738e6c {B_ATK_NAME_WITH_PREFIX} unleashes its full-force Z-Move!
+88d3b7a38c6a8c99 {B_SCR_NAME_WITH_PREFIX} returned its decreased stats to normal using its Z-Power!
+a31b3b9aef8edf38 {B_SCR_NAME_WITH_PREFIX} boosted its stats using its Z-Power!
+ae149da89bd2c320 {B_SCR_NAME_WITH_PREFIX} boosted its critical-hit ratio using its Z-Power!
+56473cfe24b3549e {B_SCR_NAME_WITH_PREFIX} restored its HP using its Z-Power!
+ebb54fa80de7816d {B_SCR_NAME_WITH_PREFIX} boosted its stats using its Z-Power!
+6cd8d93c213bc0b3 {B_SCR_NAME_WITH_PREFIX}'s HP was restored by the Z-Power!
+3172078b044705bb {B_ATK_NAME_WITH_PREFIX} managed to expel the poison so you wouldn't worry!
+d837431430332cd7 {B_ATK_NAME_WITH_PREFIX} shook itself awake so you wouldn't worry!
+085a780bb847b353 {B_ATK_NAME_WITH_PREFIX} gathered all its energy to break through its paralysis so you wouldn't worry!
+ff2f74cdc06977bf {B_ATK_NAME_WITH_PREFIX} cured its burn through sheer determination so you wouldn't worry!
+05996b06459a99fb {B_ATK_NAME_WITH_PREFIX} melted the ice with its fiery determination so you wouldn't worry!
+de297c9f37070062 {B_DEF_NAME_WITH_PREFIX} toughed it out so you wouldn't feel sad!
+10a8c30ba2b81651 {B_ATK_NAME_WITH_PREFIX} used up all its electricity!
+58e0009c7aacd94d {B_ATK_NAME_WITH_PREFIX} switched {B_BUFF1} with its target!
+7a599d32ab74ac91 Being hit by {B_CURRENT_MOVE} charged {B_DEF_NAME_WITH_PREFIX2} with power!
+397720b3851702c8 The harsh sunlight activated {B_SCR_NAME_WITH_PREFIX2}'s Protosynthesis!
+c23fc7cbffb6c605 {B_SCR_NAME_WITH_PREFIX}'s {B_BUFF1} was heightened!
+f4e3844a78a5a3a1 The Electric Terrain activated {B_SCR_NAME_WITH_PREFIX2}'s Quark Drive!
+fb52c7c673be1694 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} weakened the {B_BUFF1} of all surrounding Pokémon!\p
+063f4695964e002e {B_SCR_NAME_WITH_PREFIX} gained strength from the fallen!
+5e44d5b291072235 {B_SCR_NAME_WITH_PREFIX}'s {B_SCR_ABILITY} prevents {B_DEF_NAME_WITH_PREFIX2}'s {B_DEF_ABILITY} from working!
+85fab68c90693eaf {B_ATK_NAME_WITH_PREFIX} set a shell trap!
+eedeabc385a43219 {B_ATK_NAME_WITH_PREFIX}'s shell trap didn't work!
+b5691d73eae971b7 The spikes disappeared from the ground around {B_ATK_TEAM2} team!
+c3e47f5f43231714 The poison spikes disappeared from the ground around {B_ATK_TEAM2} team!
+73edb7f4f91dc851 The sticky web has disappeared from the ground around {B_ATK_TEAM2} team!
+dbc29ab3e80290c8 The pointed stones disappeared from around {B_ATK_TEAM2} team!
+f82e25dc98370034 {B_DEF_NAME_WITH_PREFIX} couldn't fully protect itself and got hurt!
+e269c66cb142c2a7 {B_ATK_NAME_WITH_PREFIX}'s stockpiled effect wore off!
+7fb6baca2d065573 {B_BUFF1} was revived and is ready to fight again!
+d7d561edbfda8fe8 {B_BUFF1} had its HP restored.
+b7fd042495d6d8ca {B_BUFF1} had its status healed!
+520f9fc43a253153 {B_BUFF1} had its PP restored!
+0387b9d2081b7d02 {B_ATK_NAME_WITH_PREFIX} trapped {B_DEF_NAME_WITH_PREFIX2}!
+fbfa871bad5536de {B_ATK_NAME_WITH_PREFIX} was hurt by its frostbite!
+9adac0a5f7ed3566 {B_EFF_NAME_WITH_PREFIX} got frostbite!
+185357bf30712031 {B_SCR_NAME_WITH_PREFIX}'s {B_LAST_ITEM} cured its frostbite!
+bc8cb5cee0f5cda3 {B_ATK_NAME_WITH_PREFIX} cured its frostbite through sheer determination so you wouldn't worry!
+abbcfbe235624474 {B_SCR_NAME_WITH_PREFIX}'s frostbite was cured!
+29e893f2bdc221a2 {B_SCR_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE} cured its frostbite!
+b641d4c10bf55d3c {B_SCR_NAME_WITH_PREFIX} used its Mirror Herb to mirror its opponent's stat changes!
+ff2494a3a60b5858 It started to snow!
+7313501603d8adba Snow continues to fall.
+1de8501cd8b7a7e5 The snow stopped.
+d259e21434bf6c2f It started to snow!
+bc05a1edc22ad367 {B_ATK_NAME_WITH_PREFIX} corroded {B_DEF_NAME_WITH_PREFIX2}'s {B_LAST_ITEM}!
+ee8256eb01ce28b5 Bright light is about to burst out of {B_ATK_NAME_WITH_PREFIX2}!
+23f710f4c5199ba8 {B_ATK_NAME_WITH_PREFIX} regained its true power through Ultra Burst!
+561d2c543c707682 The rest of your team gained Exp. Points thanks to the Exp. Share!\p
+e0b7582a237953dc {B_BUFF1} cannot be used!\p
+7ee1fefe581408c1 {B_DEF_NAME_WITH_PREFIX} is being salt cured!
+b57fafb70d78b678 {B_ATK_NAME_WITH_PREFIX} is hurt by {B_BUFF1}!
+2d8c4ebade95fc84 {B_DEF_NAME_WITH_PREFIX} got covered in sticky candy syrup!
+e9d1e4c13c5bd822 Sharp-pointed pieces of steel started floating around {B_DEF_TEAM2} Pokémon!
+a02e96b7e29f1a08 The sharp steel bit into {B_DEF_NAME_WITH_PREFIX2}!
+b0f24224033092e8 {B_ATK_NAME_WITH_PREFIX} blew away sharp steel!
+b22e953dfa77f175 The pieces of steel surrounding {B_ATK_TEAM2} Pokémon disappeared!
+98a17007a07a431a {B_DEF_TEAM1} Pokémon got trapped with vines!
+ca3369d5a1b9c901 {B_ATK_NAME_WITH_PREFIX} is hurt by G-Max Vine Lash's ferocious beating!
+4046eb2a05bcabd8 {B_DEF_TEAM1} Pokémon got caught in a vortex of water!
+a28515a7e07b0abb {B_ATK_NAME_WITH_PREFIX} is hurt by G-Max Cannonade's vortex!
+77bdfea873ac22af {B_DEF_TEAM1} Pokémon were surrounded by fire!
+de946f2a2a06fbbd {B_ATK_NAME_WITH_PREFIX} is burning up within G-Max Wildfire's flames!
+9123fd88f7323354 {B_DEF_TEAM1} Pokémon became surrounded by rocks!
+0e1fc5ac183fbc24 {B_ATK_NAME_WITH_PREFIX} is hurt by rocks thrown out by G-Max Volcalith!
+8a8a49a92683c982 The move was blocked by the power of Dynamax!
+db96a8e5de1826bb {B_SCR_NAME_WITH_PREFIX} underwent a heroic transformation!
+9bad87b48ba106d1 The two moves have become one! It's a combined move!{PAUSE 16}
+c2919cfdbd5e3653 A rainbow appeared in the sky on {B_ATK_TEAM2} team's side!
+83a280140e9975b7 The rainbow on {B_ATK_TEAM2} team's side disappeared!
+ced4b003e9ddba77 {B_ATK_NAME_WITH_PREFIX} is waiting for {B_ATK_PARTNER_NAME}'s move…{PAUSE 16}
+13f841b2446c6daf A sea of fire enveloped {B_DEF_TEAM2} team!
+1ba6007e59aa365c {B_ATK_NAME_WITH_PREFIX} was hurt by the sea of fire!
+3ded3ddacb20385f The sea of fire around {B_ATK_TEAM2} team disappeared!
+d1d1a3f845fb3df4 A swamp enveloped {B_DEF_TEAM2} team!
+33f98f9ae13fa32a The swamp around {B_ATK_TEAM2} team disappeared!
+86d28f998d147d36 {B_ATK_NAME_WITH_PREFIX} is preparing to tell a chillingly bad joke!
+b30a74812cc0240b {B_EFF_NAME_WITH_PREFIX} drank down all the matcha that {B_SCR_NAME_WITH_PREFIX2} made!
+db61a5cbc0b3240c {B_ATK_NAME_WITH_PREFIX} absorbed electricity!
+b9be1f9a9207e1ac The {B_LAST_ITEM} was used up…
+abf046db1a560671 {B_ATK_NAME_WITH_PREFIX} lost its {B_BUFF1} type!
+7942765edeb0cf36 {B_ATK_NAME_WITH_PREFIX} shed its tail to create a decoy!
+ee2163a39304ac7e {B_ATK_NAME_WITH_PREFIX} became cloaked in a harsh light!
+6f766a46b84bf4fe A supersweet aroma is wafting from the syrup covering {B_ATK_NAME_WITH_PREFIX2}!
+7e94872e26a97831 The dimensions were twisted!
+2045dde702ae6d6b A bizarre area was created in which Pokémon's held items lose their effects!
+3293d8ca983b9717 A bizarre area was created in which Defense and Sp. Def stats are swapped!
+7a057b1ee8e2f6af Tidying up complete!
+507e1da39095a01f {B_ATK_NAME_WITH_PREFIX} terastallized into the {B_BUFF1} type!
+1dce6e2cece45494 {B_SCR_NAME_WITH_PREFIX} used its {B_LAST_ITEM} to activate {B_SCR_ABILITY}!
+062161dc0a4c486a Fog crept up as thick as soup!
+10c87bc15a81d432 The fog is deep…
+16dde9ccd4406095 The fog lifted.
+909adc365b95f44f {B_DEF_NAME_WITH_PREFIX} made its shell gleam! It's distorting type matchups!
+88095f18e87c08f9 {B_ATK_NAME_WITH_PREFIX} is going all out for this attack!
+ed852799b02d15db {B_SCR_NAME_WITH_PREFIX} was swallowed by Dondozo and became Dondozo's commander!
+e067909f160dad90 {B_PLAYER_NAME} played the {B_LAST_ITEM}.\pNow, that's a catchy tune!
+d0af825eff43e670 {B_PLAYER_NAME} played the {B_LAST_ITEM}.
+a60f8d7dc306dac5 The Pokémon hearing the flute awoke!
+33b6756d362457bc The sunlight is harsh!
+aa6ffe9cca7f4a9a It's hailing!
+011a513975f52622 It's snowing!
+2b5bfc754cd0dbc9 The battlefield is covered with grass!
+b8b1d9075098cbbd Mist swirls around the battlefield!
+3538a8fc0b845b44 An electric current is running across the battlefield!
+c4a995d294dfbb11 The battlefield seems weird!
+330b11eedd57c932 Waggling a finger let it use {B_CURRENT_MOVE}!
+b993038196fbe361 Sleep Clause kept {B_DEF_NAME_WITH_PREFIX2} awake!
+66c77b7b0954f3a1 It's super effective on {B_DEF_NAME_WITH_PREFIX2} and {B_DEF_PARTNER_NAME}!
+61de687deae58486 It's not very effective on {B_DEF_NAME_WITH_PREFIX2} and {B_DEF_PARTNER_NAME}!
+930a3554c7a1d584 It doesn't affect {B_DEF_NAME_WITH_PREFIX2} and {B_DEF_PARTNER_NAME}…
+5a86b5054ef1f73f Add {B_DEF_NAME} to your party?
+322a227174f7788a {B_ATK_NAME_WITH_PREFIX} grew huge into its Dynamax form!
+6143073c76dd49b6 {B_ATK_NAME_WITH_PREFIX} grew huge into its Gigantamax form!
+e95e11de6d139334 Time to Dynamax!
+19711faeb78ae656 Time to Gigantamax!
+1a935665930586fc Would you like to give up on this battle and quit now? Quitting the battle is the same as losing the battle.
+ccf9627b4ba59a01 You sense the presence of many!
+a5a09945e0487b0d {B_ATK_NAME_WITH_PREFIX} transformed into its Complete Forme!
+e20043a06794dfef {B_ATK_NAME_WITH_PREFIX}'s Ability is protected by the effects of its {B_LAST_ITEM}!
+e7b527f39546be26 {B_ATK_NAME_WITH_PREFIX} is too scared to move!
+bc06dfd837ad8881 GHOST: Get out…… Get out……
+f3929e8048068566 SILPH SCOPE unveiled the GHOST's\nidentity!
+9e31e66c870dc22a The GHOST was MAROWAK!\p\n
+bde7d720b17b5dc6 {B_TRAINER1_NAME}: {B_OPPONENT_MON1_NAME}, come back!
+5301e9ba5f98fdd9 {B_PLAYER_NAME} threw a ROCK\nat the {B_OPPONENT_MON1_NAME}!
+f8ec8627abe35eb2 {B_PLAYER_NAME} threw some BAIT\nat the {B_OPPONENT_MON1_NAME}!
+542f5ed51679a404 {B_OPPONENT_MON1_NAME} is angry!
+d7a1f389c8a9fd28 {B_OPPONENT_MON1_NAME} is eating!
+3b2cdfebd4ef32cf {B_SCR_NAME_WITH_PREFIX}'s disguise was busted!
+6bb9b69e6caae2e4 {B_SCR_ABILITY} triggered!
+54874929edb96977 {B_SCR_ABILITY} ended!
+27b4baab53aeb6fa Gotcha! {B_DEF_NAME} was snagged away!\p
+d48befc388a681c2 {B_ATK_NAME_WITH_PREFIX} is in HYPER MODE!
+818000977d58e81f {B_ATK_NAME_WITH_PREFIX} settled down.
+3df35083bcb57f6d {B_ATK_NAME_WITH_PREFIX} is overflowing with Mega energy!
+6a4cef0f652ba827 {B_BUFF1} was added to your party!\p
+c40833d75f3308fc {B_BUFF1} was transferred to the PC!\p
+027c4a7f0f76e42a The snagged {B_BUFF1} was added to your party!\p
+d02aaf1e296b958c The snagged {B_BUFF1} was transferred to the PC!\p
+70cb17e56db4c70c {B_SCR_NAME_WITH_PREFIX} is wreathed in a Shadow aura!\pIts power surges!
+55e57d160ef413cb Give a nickname to the snagged {B_BUFF1}?
+b3397abb0282b205 What?\n{STR_VAR_1} is evolving!
+4bfad0aeb812c14f Congratulations! Your {STR_VAR_1}\nevolved into {STR_VAR_2}!{WAIT_SE}\p
+d1039e63ecd09166 Huh? {STR_VAR_1}\nstopped evolving!\p
+126b9d8a2163bfd1 ……?\p
+a959b114331cc67d What will\n{B_BUFF1} do?
+ed343fc0408b7672 What will\n{B_PLAYER_NAME} do?
+6d4438618c3c84ae What will\nWALLY do?
+6f5142e4cb3bdde8 {PAUSE 16}Link standby…
+6e3a96ece80969f5 Battle{CLEAR_TO 56}Bag\nPokémon{CLEAR_TO 56}Run
+26102d45b20b7073 Ball{CLEAR_TO 56}{POKEBLOCK}\nGo Near{CLEAR_TO 56}Run
+b1f4a15609e4393a {PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}BALL{CLEAR_TO 56}BAIT\nROCK{CLEAR_TO 56}RUN
+43babadbbca171e8 TYPE/
+9149043c459fa9a4 {PALETTE 5}{BACKGROUND DYNAMIC_COLOR5}{TEXT_COLORS DYNAMIC_COLOR4 DYNAMIC_COLOR6 DYNAMIC_COLOR5}PP\nTYPE/
+454fb5b757647125 {PALETTE 5}{BACKGROUND DYNAMIC_COLOR5}{TEXT_COLORS DYNAMIC_COLOR4 DYNAMIC_COLOR6 DYNAMIC_COLOR5}Which move should\nbe forgotten?
+0a6de315ee43dd17 {PALETTE 5}{BACKGROUND DYNAMIC_COLOR5}{TEXT_COLORS DYNAMIC_COLOR4 DYNAMIC_COLOR6 DYNAMIC_COLOR5}Yes\nNo
+d40be97a53f9129c {PALETTE 5}{BACKGROUND DYNAMIC_COLOR5}{TEXT_COLORS DYNAMIC_COLOR4 DYNAMIC_COLOR6 DYNAMIC_COLOR5}Switch\nwhich?
+1c5ffd2ea93a5bf4 Safari Balls
+27d344b92b02b1f7 Left: $
+4697b70721b6115e sleep
+76ce488078427735 poison
+be6853d729b692d4 burn
+e1412dce121e2cc6 paralysis
+2481c85b0dd3681b ice
+f470f43f6a766a0b confusion
+17a209a624ab4fe5 love
+3fa46cd9d68bd1ac  and 
+d3cfc56cf6efff17 , 
+1225fb50ba69221e Bad Egg
+b4558d6d73c168da WALLY
+6091d5e0e6830173 {BACKGROUND TRANSPARENT}{ACCENT TRANSPARENT}Win
+8e7cb3b3f9bee761 {BACKGROUND TRANSPARENT}{ACCENT TRANSPARENT}Loss
+521fb65299ddbfb6 {BACKGROUND TRANSPARENT}{ACCENT TRANSPARENT}Draw
+000f27af97908f7e BATTLE TOURNEY
+bad5318d34a124d3 Round 1
+c5509245cc357960 Round 2
+859257b0adcadc4b Semifinal
+e9e85581aa6cb168 Final
+7a707b6909374950 The great new hope!\p
+916d5c933c451332 Will the championship dream come true?!\p
+24e755bcd2052f39 A former champion!\p
+f242d5b3a6d24935 The previous champion!\p
+c04a0c8bb272c536 The unbeaten champion!\p
+4566da7e653471bc Mind
+cfbeae15cd779e06 Skill
+5818a3c1cfad201a Body
+534dfbf35aac54f7 {B_BUFF1}{CLEAR 13}Judgment{CLEAR 13}{B_BUFF2}
+3e6dfb84d5976b66 {B_TRAINER1_NAME_WITH_CLASS} sent out {B_OPPONENT_MON1_NAME}!\p{B_TRAINER2_NAME_WITH_CLASS} sent out {B_OPPONENT_MON2_NAME}!
+5907eb056b56fbc0 {B_TRAINER2_NAME_WITH_CLASS} sent out {B_BUFF1}!
+de1307fc51d65d47 You are challenged by {B_TRAINER1_NAME_WITH_CLASS} and {B_TRAINER2_NAME_WITH_CLASS}!\p
+e3bfd9fcb9b5b2a7 {B_PARTNER_NAME_WITH_CLASS} sent out {B_PLAYER_MON2_NAME}! Go, {B_PLAYER_MON1_NAME}!
+4d0d59e6834f8580 {B_PARTNER_NAME_WITH_CLASS} sent out {B_PLAYER_MON1_NAME}! Go, {B_PLAYER_MON2_NAME}!
+535cc586d2a7ac42 {B_PARTNER_NAME_WITH_CLASS} sent out {B_PLAYER_MON1_NAME}!
+31baa83962cbd8d9 {B_PARTNER_NAME_WITH_CLASS} sent out {B_PLAYER_MON2_NAME}!
+54167cc49d1a048e {B_PARTNER_NAME_WITH_CLASS} withdrew {B_PLAYER_MON1_NAME}!
+1e680e43c623d427 {B_PARTNER_NAME_WITH_CLASS} withdrew {B_PLAYER_MON2_NAME}!
+b4fdce33293127d3 REFEREE: If nothing is decided in 3 turns, we will go to judging!
+41ebbd1260511f2b REFEREE: That's it! We will now go to judging to determine the winner!
+2435873b51cfdc6d REFEREE: Judging category 1, Mind! The POKéMON showing the most guts!\p
+323742f5541f3f15 REFEREE: Judging category 2, Skill! The POKéMON using moves the best!\p
+c295bd931224892a REFEREE: Judging category 3, Body! The POKéMON with the most vitality!\p
+0193d3bd3e093143 REFEREE: Judgment: {B_BUFF1} to {B_BUFF2}! The winner is {B_PLAYER_NAME}'s {B_PLAYER_MON1_NAME}!\p
+2b8612c7232b2689 REFEREE: Judgment: {B_BUFF1} to {B_BUFF2}! The winner is {B_TRAINER1_NAME}'s {B_OPPONENT_MON1_NAME}!\p
+6d2dae43e50e6911 REFEREE: Judgment: 3 to 3! We have a draw!\p
+e401bd501c9db7c3 REFEREE: {B_PLAYER_MON1_NAME} VS {B_OPPONENT_MON1_NAME}! Commence battling!
+67b29685d4be5907 {PLAY_SE SE_FLEE}{B_TRAINER1_NAME_WITH_CLASS} fled!
+bdcc225df6acd865 You lost to {B_TRAINER1_NAME_WITH_CLASS}!
+c762a1a133151617 You battled to a draw against {B_TRAINER1_NAME_WITH_CLASS}!
+4d20dd6114bd6096 Would you like to record your battle\non your Frontier Pass?
+165a519827149f49 {B_PLAYER_NAME}'s battle result was recorded\non the Frontier Pass.
+efaae470ba2af364 You are challenged by {B_LINK_OPPONENT1_NAME}!\p
+f785e3e51540c501 You are challenged by {B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}!\p
+5d14472f865e7b2a Your
+7d0583cbe952c4d4 The opposing
+4301414d8d6f86f5 your
+0ae9520e059dcfb3 the opposing

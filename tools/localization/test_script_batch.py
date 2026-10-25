@@ -29,6 +29,11 @@ class ScriptBatchTests(unittest.TestCase):
     def test_region_placeholder_is_scoped(self):
         self.assertEqual(s.scope('{REGION}の ちず$', False), '{ENG}{REGION}{JPN}の ちず$')
 
+    def test_c_string_is_its_own_message(self):
+        rows = [dict(row('a', 'Go! {B_BUFF1}!', 0, 'src/b.c'), kind='encoded_c')]
+        result = s.build(rows, [('a', 'ゆけっ！ {B_BUFF1}！')], 'B')
+        self.assertEqual(result[0]['translation'], '{JPN}ゆけっ！ {ENG}{B_BUFF1}{JPN}！{ENG}')
+
     def test_refuses_partial_message(self):
         rows = [row('a', 'Hi\\n', 0), row('b', 'there$', 10)]
         with self.assertRaisesRegex(ValueError, 'whole message'):

@@ -11,7 +11,8 @@ import catalog
 
 BASELINE = '23be896714'  # English source snapshot; catalog line numbers refer to it
 # FD-prefixed placeholders expand to names that may end in {ENG}; see charmap.txt.
-VARIABLE = re.compile(r'\{(?:PLAYER|RIVAL|KUN|VERSION|AQUA|MAGMA|ARCHIE|MAXIE|KYOGRE|GROUDON|REGION|STR_VAR_[123]|STRING \d+|B_[A-Z_0-9]+)\}')
+# PKMN/POKEBLOCK are Latin logo glyphs whose bytes are kana in Japanese mode.
+VARIABLE = re.compile(r'\{(?:PLAYER|RIVAL|KUN|VERSION|AQUA|MAGMA|ARCHIE|MAXIE|KYOGRE|GROUDON|REGION|PKMN|POKEBLOCK|STR_VAR_[123]|STRING \d+|B_[A-Z_0-9]+)\}')
 
 def parse(text):
     pairs = []
@@ -51,6 +52,9 @@ def build(rows, pairs, batch, after_directive=frozenset()):
             raise ValueError('already translated: ' + key)
     script_rows = [r for r in rows if r['kind'] == 'script' and r['file'] in {by_id[k]['file'] for k in wanted}]
     groups = messages(script_rows)
+    for row in rows:
+        if row['id'] in wanted and row['kind'] != 'script':
+            groups[row['id']] = [row['id']]  # a C string literal is one whole message
     for key in wanted:
         missing = [m for m in groups[key] if m not in wanted]
         if missing:
@@ -59,7 +63,10 @@ def build(rows, pairs, batch, after_directive=frozenset()):
     for key, value in pairs:
         # A row right after #if/#else may begin the message in one build variant.
         first = groups[key][0] == key or key in after_directive
-        result.append(dict(id=key, translation=scope(value, first),
+        text = scope(value, first)
+        if by_id[key]['kind'] != 'script':
+            text += '{ENG}'  # C strings are also spliced into other (possibly English) text
+        result.append(dict(id=key, translation=text,
                            provenance=dict(batch=batch, method='Hand-translated dialogue; whole message, variables scoped ENG/JPN')))
     return result
 

@@ -28,6 +28,36 @@ u32 CountLineBreaks(u8 *src)
     return numNewLines;
 }
 
+#define MAX_WORD_WIDTH 255 // StringWord.width is an 8-bit field
+
+//  Width of src[0..end), honoring control codes and {JPN}/{ENG} glyph widths.
+static u32 GetPrefixWidth(u8 *src, u32 end, u8 fontId)
+{
+    u8 saved = src[end];
+    u32 width;
+
+    src[end] = EOS;
+    width = GetStringWidth(fontId, src, 0);
+    src[end] = saved;
+    return width;
+}
+
+//  Each word's width includes the space before it, measured in the language
+//  mode active at that point (Japanese glyphs and spaces are wider).
+static void FillWordWidths(u8 *src, struct StringWord *allWords, u32 numWords, u8 fontId)
+{
+    u32 prevWidth = 0;
+
+    for (u32 i = 0; i < numWords; i++)
+    {
+        u32 width = GetPrefixWidth(src, allWords[i].startIndex + allWords[i].length, fontId);
+        u32 wordWidth = width > prevWidth ? width - prevWidth : 0;
+
+        allWords[i].width = wordWidth > MAX_WORD_WIDTH ? MAX_WORD_WIDTH : wordWidth;
+        prevWidth = width;
+    }
+}
+
 void BreakStringAutomatic(u8 *src, u32 maxWidth, u32 screenLines, u8 fontId, enum ToggleScrollPrompt toggleScrollPrompt)
 {
     u32 currIndex = 0;
@@ -121,15 +151,12 @@ void BreakSubStringNaive(u8 *src, u32 maxWidth, u32 screenLines, u8 fontId, enum
     allWords[currWordIndex].length = currWordLength;
 
     //  Fill in individual word widths
-    for (u32 i = 0; i < numWords; i++)
-    {
-        for (u32 j = 0; j < allWords[i].length; j++)
-            allWords[i].width += GetGlyphWidth(src[allWords[i].startIndex + j], FALSE, fontId);
-    }
+    FillWordWidths(src, allWords, numWords, fontId);
 
     //  Step 1: Does it all fit one one line? Then no break
     //  Step 2: Try to split across minimum number of lines
-    u32 spaceWidth = GetGlyphWidth(CHAR_SPACE, FALSE, fontId);
+    //  Separating spaces are already counted in the following word's width.
+    u32 spaceWidth = 0;
     u32 totalWidth = allWords[0].width;
     //  Calculate total widths without any line breaks
     for (u32 i = 1; i < numWords; i++)
@@ -231,15 +258,12 @@ void BreakSubStringAutomatic(u8 *src, u32 maxWidth, u32 screenLines, u8 fontId, 
     allWords[currWordIndex].length = currWordLength;
 
     //  Fill in individual word widths
-    for (u32 i = 0; i < numWords; i++)
-    {
-        for (u32 j = 0; j < allWords[i].length; j++)
-            allWords[i].width += GetGlyphWidth(src[allWords[i].startIndex + j], FALSE, fontId);
-    }
+    FillWordWidths(src, allWords, numWords, fontId);
 
     //  Step 1: Does it all fit one one line? Then no break
     //  Step 2: Try to split across minimum number of lines
-    u32 spaceWidth = GetGlyphWidth(CHAR_SPACE, FALSE, fontId);
+    //  Separating spaces are already counted in the following word's width.
+    u32 spaceWidth = 0;
     u32 totalWidth = allWords[0].width;
     //  Calculate total widths without any line breaks
     for (u32 i = 1; i < numWords; i++)

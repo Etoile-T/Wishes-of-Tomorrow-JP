@@ -1,0 +1,1426 @@
+[
+ {
+  "id": "c2987a827df595d3",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は みがまえた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7695be46fb1616e6",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は ひくく うなりはじめた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "287be7667c3ee394",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は もっと たたかいたがっている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cae28bf0fc85b5c",
+  "translation": "{JPN}しんぱんの はんていで {ENG}{B_PLAYER_MON1_NAME}{JPN}は あいての {ENG}{B_OPPONENT_MON1_NAME}{JPN}に かった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d40c7fe1f6304b6e",
+  "translation": "{JPN}しんぱんの はんていで {ENG}{B_PLAYER_MON1_NAME}{JPN}は あいての {ENG}{B_OPPONENT_MON1_NAME}{JPN}に まけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e5c975861b42e0f",
+  "translation": "{JPN}しんぱんの はんていで {ENG}{B_PLAYER_MON1_NAME}{JPN}と あいての {ENG}{B_OPPONENT_MON1_NAME}{JPN}は ひきわけ！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c28ee5c6f824969d",
+  "translation": "{JPN}しょうぶを すてて やめますか？{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b057725916137d6",
+  "translation": "{JPN}しょうぶを すてた。{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06ea87b2b07264a2",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_DEF_ABILITY}{JPN}で こうげきを こらえた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbfafe06e7413abc",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}で パワーが みなぎった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "733c461a19ebe0d9",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}で ダメージを うけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a1b0dad3ddcc666",
+  "translation": "{JPN}じゅうりょくが つよくなった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2925549ecbf4dca1",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は めを さました！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c0f54a8cef0fceb",
+  "translation": "{JPN}{ENG}{B_ATK_TEAM2}{JPN}の うしろから おいかぜが ふきはじめた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dccf27f41cdf8a53",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_TRAINER_NAME}{JPN}の もとへ もどっていく！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83eacfb889d8f40d",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は どうぐが つかえなく なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1e945db756fc643",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}を なげつけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da6e4459e491d86a",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は かいふくを ふうじられた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8131026a97fe3d3",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は こうげきと ぼうぎょを いれかえた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfb62f5ed8a0b825",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の とくせいが きかなくなった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3f3c83a9577681d",
+  "translation": "{JPN}おまじないで {ENG}{B_ATK_TEAM2}{JPN}は きゅうしょに あたらなくなった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52d671f04852e911",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の とくせいが {ENG}{B_DEF_ABILITY}{JPN}に なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5918743abea8d84",
+  "translation": "{JPN}{ENG}{B_DEF_TEAM2}{JPN}の あしもとに どくびしが ちらばった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d72dfe0b98ed348",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は あいてと のうりょくへんかを いれかえた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9899569c9311ba12",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は みずの リングを まとった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "659645f5ac1859a9",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は でんじりょくで ういた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0765282008f9c1d9",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は じくうを ゆがめた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eca3d6b34b81cc96",
+  "translation": "{JPN}{ENG}{B_DEF_TEAM2}{JPN}の まわりに とがった いわが ただよいはじめた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1cd68a058df13eaa",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は マグマの うずに とじこめられた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebca3fe478658f50",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の すがたが いっしゅんで きえた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1849d22b4ea846f",
+  "translation": "{JPN}{ENG}{B_CURRENT_MOVE}{JPN}が {ENG}{B_ATK_TEAM2}{JPN}を まもった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b51cbfeeabc1da8",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は あいてと ガードを わけあった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11afea358badd3ca",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は あいてと パワーを わけあった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50894cf560e3a34f",
+  "translation": "{JPN}ぼうぎょと とくぼうが いれかわる ふしぎな くうかんを つくりだした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea97a593aad76246",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の からだが かるくなった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21ab67685eb51f19",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は くうちゅうに うかびあがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84b018d13357f2d3",
+  "translation": "{JPN}もちものの こうかが なくなる ふしぎな くうかんを つくりだした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c01625da3556deeb",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は うちおとされて じめんに おちた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8db3693e40367ca",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_BUFF1}{JPN}タイプに なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "077eebd0bfc77346",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は こうい に あまえた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4dee9b034064218a",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の のうりょくへんかが もとに もどった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29a0fe47bdad1f07",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}と {ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}の いちが いれかわった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fd3763c75c021d8",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}と おなじ タイプに なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e208ec048078d01",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は また どうぐが つかえるように なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5ee0b3658c43eea",
+  "translation": "{JPN}でんじふゆう{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68589b3335e12f17",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}の {ENG}{B_BUFF1}{JPN}の こうかが きれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e89bba009f25c44e",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は テレキネシスから かいほうされた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "727c27935a8f183a",
+  "translation": "{JPN}{ENG}{B_ATK_TEAM1}{JPN}の おいかぜが やんだ！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80084d9b7a9993c1",
+  "translation": "{JPN}{ENG}{B_ATK_TEAM1}{JPN}の おまじないの こうかが きれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59e7271d25a115db",
+  "translation": "{JPN}ゆがんだ じくうが もとに もどった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c51b75e34ce099d",
+  "translation": "{JPN}ワンダールームが とけて ぼうぎょと とくぼうが もとに もどった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f5ecdb8047a4e0b",
+  "translation": "{JPN}マジックルームが とけて もちものの こうかが もとに もどった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d56dc112c6697359",
+  "translation": "{JPN}どろあそびの こうかが きれた。{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9062bd6574d9fb0b",
+  "translation": "{JPN}みずあそびの こうかが きれた。{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89b4cbe132c60d53",
+  "translation": "{JPN}じゅうりょくが もとに もどった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a426096519eb1804",
+  "translation": "{JPN}みずの リングが {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}の たいりょくを かいふくした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9343bab57d84e2c6",
+  "translation": "{JPN}あしもとの でんきが きえた。{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "769893a782f6f7f1",
+  "translation": "{JPN}あしもとの きりが きえた。{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ad3e20f23c25f5b",
+  "translation": "{JPN}あしもとの ふしぎな かんじが きえた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c00f2381421f53d3",
+  "translation": "{JPN}あしもとの くさが きえた。{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39a1ce5c3487eea8",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_DEF_ABILITY}{JPN}で {ENG}{B_BUFF1}{JPN}が {ENG}{B_BUFF2}{JPN}あがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc7466dbe9d5b8b0",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_DEF_ABILITY}{JPN}で {ENG}{B_BUFF1}{JPN}が さいだいまで あがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e91fda402aad1697",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_ABILITY}{JPN}で {ENG}{B_BUFF1}{JPN}が {ENG}{B_BUFF2}{JPN}あがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2c1e8d995bbee49",
+  "translation": "{JPN}どくで {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}は すこし かいふくした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b32504a5e7cc0848",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は いちゃもんを つけられている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d87876a955d469b",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は かたやぶりだ！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fab174fe4d6ab773",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は はじける オーラを はなっている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cea7bcdccec4425",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は もえさかる オーラを はなっている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e3c90fa9d1f90d4",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は ちょうしが あがらない！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcbaf0ffbbdefd3a",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は ちょうしを とりもどした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96643826b0cd3b09",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_ABILITY}{JPN}で ダメージを うけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b99ffb186e4f3e7",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は ダメージを うけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a327ea240dc149e",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は みぶるいした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5938b50a16631c2",
+  "translation": "{JPN}{ENG}{B_SCR_ABILITY}{JPN}で {ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}は {ENG}{B_EFF_NAME_WITH_PREFIX2}{JPN}の {ENG}{B_BUFF1}{JPN}を よみとった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5da53446069fa61",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_ABILITY}{JPN}で すこし かいふくした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc2f7a91922005eb",
+  "translation": "{JPN}あられが ふりはじめた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36240167a5ad1a95",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}の {ENG}{B_LAST_ITEM}{JPN}を おみとおしだ！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55b7e30f54bd413a",
+  "translation": "{JPN}{ENG}{B_EFF_TEAM1}{JPN}の ポケモンは きんちょうして きのみが たべられなくなった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ed6747f7855c6cd",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}を しゅうかくした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f5424b44e5bc794",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_ABILITY}{JPN}で {ENG}{B_BUFF1}{JPN}タイプに なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2a1a3c7ba841f69",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ABILITY}{JPN}で {ENG}{B_EFF_NAME_WITH_PREFIX2}{JPN}に {ENG}{B_LAST_ITEM}{JPN}を わたした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1328f961d3438165",
+  "translation": "{JPN}とがった いわが {ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}に くいこんだ！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe6e96753d7ec47f",
+  "translation": "{JPN}{ENG}{B_EFF_TEAM2}{JPN}の あしもとの どくびしが きえさった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4efa9a7b72c9cdc",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は どくを あびた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fa227cbd88b8b96",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は もうどくを あびた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb12cdcc3707a23a",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は ねばねばネットに ひっかかった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee820bc3a07050f5",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}に いやしのねがいが とどいた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9769f1dc169e225a",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は げんきを とりもどした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d30f267f4ebfc90c",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は しんぴの つきあかりに つつまれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4dae5ea81cdc7366",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}の {ENG}{B_DEF_ABILITY}{JPN}で {ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の {ENG}{B_BUFF1}{JPN}は ふうじられた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28bc662e7e4406c3",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の とくせいが {ENG}{B_ATK_ABILITY}{JPN}に なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32a3e7932beac84d",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_DEF_ABILITY}{JPN}で {ENG}{B_BUFF1}{JPN}が {ENG}{B_BUFF2}{JPN}さがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc97da324b3b09f7",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の {ENG}{B_BUFF1}{JPN}は もう あがらない！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5a061087661c126",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}の {ENG}{B_DEF_ABILITY}{JPN}で {ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の {ENG}{B_CURRENT_MOVE}{JPN}は はねかえされた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6f57450609d5213",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ABILITY}{JPN}で {ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}に へんしんした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc0d4cfd2a616094",
+  "translation": "{JPN}{ENG}{B_LAST_ITEM}{JPN}の こうかで へんかわざが だせない！\\p{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f1b459d12c546c4",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は じゅうりょくの せいで {ENG}{B_CURRENT_MOVE}{JPN}が だせない！\\p{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9ad985cf0648a41",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は かいふくを ふうじられている！\\p{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8780501673ea88e9",
+  "translation": "{JPN}この わざの こうかは まだ みじっそうです！\\p{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49e8da0447e19f58",
+  "translation": "{JPN}{ENG}{B_DEF_TEAM2}{JPN}の あしもとに ねばねばネットが ひろがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd8288fb7c4ff39c",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の わざは あとまわしに された！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87e642ea9df8105f",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は どくびしを ふきとばした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef7f52bc1f0f7c02",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は ねばねばネットを ふきとばした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b9b0e5f023dc1de",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は ステルスロックを ふきとばした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "172fcbe0b19e2aae",
+  "translation": "{JPN}プラズマの つぶが ふりそそいだ！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e2b951cdeeb8433",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}の のうりょくへんかが ぎゃくてんした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "881df877d7eb7ab4",
+  "translation": "{JPN}あしもとに きりが たちこめた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f4517f5743134ec",
+  "translation": "{JPN}あしもとに くさが おいしげった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41b532839fe745a5",
+  "translation": "{JPN}あしもとに でんきが かけめぐる！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d27bb664ad864086",
+  "translation": "{JPN}あしもとが へんな かんじに なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6f67dac1a3096d5",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の わざに でんきが やどった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcd9ef65de5190dd",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の {ENG}{B_LAST_ITEM}{JPN}と {ENG}{B_ATK_TRAINER_NAME}{JPN}の メガリングが はんのうした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1cd899979bc5ccd",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は メガ{ENG}{B_BUFF1}{JPN}に メガシンカした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22bef4fd93ae3080",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}に まとわりつかれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e3a2cb20296ba4f",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}には こうかが ない！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3b1ee7923e74b83",
+  "translation": "{JPN}はじけた ほのおが {ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}に あたった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e6118542feb75a3",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}から {ENG}{B_LAST_ITEM}{JPN}を もらった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "778f78f217762057",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}に {ENG}{B_BUFF1}{JPN}タイプが ついかされた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7744e5d86b23e98",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は フェイントに ひっかかった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25adaf76794b3ac1",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_CURRENT_MOVE}{JPN}が だせない！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3e1f2d14d7af063",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は こなまみれに なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5eb68c9f53dbaa22",
+  "translation": "{JPN}ほのおが こなに ひきうつって ばくはつした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "147ba188d2304998",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は きのみを たべていないので ゲップが できない！\\p{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37d0578444b718a6",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は あいての のうりょくアップを うばいとった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2890d3574bf95a92",
+  "translation": "{JPN}じゅうりょくで {ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は そらから おちた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5671c084d02d0ac2",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は ミストフィールドに まもられている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b1024e9cd016819",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は グラスフィールドで かいふくした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "130d4d066d359262",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は エレキフィールドに まもられている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2daa85509001775b",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は サイコフィールドに まもられている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c1982e95f1d98d2",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}の おかげで こうかを うけない！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70e3d4afb63d1352",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は はなの ベールに つつまれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6815d8adbf294fa7",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は アロマベールで まもられている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10ded40f627147a7",
+  "translation": "{JPN}おめでとう {ENG}{B_PLAYER_NAME}{JPN}！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db4a35c5b59725f5",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}の さしずに したがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c09c7add5bbbf398",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は また おとの わざが だせるように なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a52e5bd8c8b6283f",
+  "translation": "{JPN}じごくづきの こうかで {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}は いくつかの わざが だせない！\\p{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03dde9f55bdd5a70",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は ふかく しゅうちゅうした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66e6ff35fcb54ed8",
+  "translation": "{JPN}{ENG}{B_LAST_ITEM}{JPN}で {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}の いりょくが あがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "274e7f4c21b0ffcf",
+  "translation": "{JPN}{ENG}{B_LAST_ITEM}{JPN}で {ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}への ダメージが へった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8a86ef7309eb03d",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は ふうせんで うかんでいる！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "962ca117768b9f7e",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の ふうせんが われた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17deb99e36d6d7aa",
+  "translation": "{JPN}{ENG}{B_EFF_NAME_WITH_PREFIX}{JPN}の {ENG}{B_LAST_ITEM}{JPN}が もえつきた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3eec1130c6097ee3",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は あいての {ENG}{B_LAST_ITEM}{JPN}を うばって たべた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce94bb8b59da1f23",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}の イリュージョンが とけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7728a5d569abae57",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_DEF_NAME_WITH_PREFIX2}{JPN}の じょうたいいじょうを なおした！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f888f2c2a261a7cb",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は もえつきた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b02d8c1d96d5b2b",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の {ENG}{B_LAST_ABILITY}{JPN}で {ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}の じょうたいいじょうが なおった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc97f15e3dc27608",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は {ENG}{B_SCR_ABILITY}{JPN}で {ENG}{B_BUFF1}{JPN}が {ENG}{B_BUFF2}{JPN}あがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf16bae800197580",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}の {ENG}{B_SCR_ABILITY}{JPN}が うばわれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "798dd3e50b9a1342",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は ちからを たくわえている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f5d428118d2074f",
+  "translation": "{JPN}つぎの ターン だれも にげられなくなった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4f4b4f8c31dc41e",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}で メロメロに なった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3494ba3d5810c35",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は つめたい ひかりに つつまれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c46c3534fc0fe7cf",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX2}{JPN}の {ENG}{B_LAST_ITEM}{JPN}の こうかで のうりょくは さがらない！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14ae292e9e55a211",
+  "translation": "{JPN}{ENG}{B_ATK_TRAINER_NAME}{JPN}の つよい ねがいが {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}に とどいた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "797e8434b780f500",
+  "translation": "{JPN}てんきの えいきょうが なくなった。{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a2f4b9123cbd51d",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は プレッシャーを はなっている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62c714096f89ddd4",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は ダークオーラを はなっている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "929b62fc11d3276e",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は フェアリーオーラを はなっている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6faeb9e55d9f5971",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は ほかの ポケモンの オーラを ぎゃくてんさせた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89dad05d0dbc58d8",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は うとうと している！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa3c22cb07f8a8c0",
+  "translation": "{JPN}ばの かべが すべて きえさった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "757e6cccacb0142b",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}を みつけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "feb82202b7f0741e",
+  "translation": "{JPN}すなあらしが ふきあれた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1b5140f7fe93e65",
+  "translation": "{JPN}2ひきとも 3ターンごに ほろびる！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc6d61b5d6a7ed05",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の オーラが もえあがった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "501699a313f51e37",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は とくせいを 2つ もっている！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18ba3cd634e3a340",
+  "translation": "{JPN}{ENG}{B_EFF_NAME_WITH_PREFIX}{JPN}の のうりょくへんかが もとに もどった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fb3e954f5d7f4b4",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}は {ENG}{B_BUFF1}{JPN}で こうどうが はやくなった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1bc1a145bba8fb47",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}で つぎの わざの めいちゅうを あげた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abbea097fbc6aa08",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は ちょうはつを ふりはらった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "581cea9af7e3642d",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}の メロメロが とけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb9cd9ee6ef9c2f9",
+  "translation": "{JPN}{ENG}{B_ATK_NAME_WITH_PREFIX}{JPN}の もちものは はずせない！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0398561ea630db77",
+  "translation": "{JPN}{ENG}{B_LAST_ITEM}{JPN}が {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}に くっついた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11066a5403c4ddc7",
+  "translation": "{JPN}{ENG}{B_DEF_NAME_WITH_PREFIX}{JPN}の やけどが なおった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b87fd1bfd600a9c9",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は {ENG}{B_ATK_NAME_WITH_PREFIX2}{JPN}に レッドカードを つきつけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c641eef835e7b96",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}は {ENG}{B_LAST_ITEM}{JPN}で いれかわった！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dcb66dae75ce01b",
+  "translation": "{JPN}{ENG}{B_SCR_NAME_WITH_PREFIX}{JPN}の メロメロが とけた！{ENG}",
+  "provenance": {
+   "batch": "battle-messages-18",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

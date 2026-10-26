@@ -10,12 +10,12 @@ LilycoveCity_House4_EventScript_Man2::
 	end
 
 LilycoveCity_House4_Text_MysteriesAtBottomOfSea:
-	.string "This planet's biggest mysteries are\n"
-	.string "at the bottom of the sea.\p"
-	.string "Somebody said that, but I don't know…$"
+	.string "{JPN}この ほしの さいだいの なぞは\n"
+	.string "うみの そこに ある。\p"
+	.string "だれかが いってたけど どうなんだろう…$"
 
 LilycoveCity_House4_Text_UnderwaterTrenchMossdeepSootopolis:
-	.string "There's a deep underwater trench\n"
-	.string "between MOSSDEEP and SOOTOPOLIS.\p"
-	.string "That's what someone told me, anyway.$"
+	.string "{JPN}トクサネと ルネの あいだには\n"
+	.string "ふかい かいこうが あるんだって。\p"
+	.string "まあ ひとから きいた はなしだけどね。$"
 

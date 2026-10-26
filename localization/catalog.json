@@ -379032,9 +379032,13 @@
     "end": 2645,
     "raw": "\"Hm, so they doubled the guests by\\n\"",
     "source": "Hm, so they doubled the guests by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほう ポケモンを めだまにして\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "827cc681dd859e18",
@@ -379044,9 +379048,13 @@
     "end": 2688,
     "raw": "\"using POKéMON as attractions?\\p\"",
     "source": "using POKéMON as attractions?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おきゃくが ばいに なったのか?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "40ef4c3c657b11ce",
@@ -379056,9 +379064,13 @@
     "end": 2738,
     "raw": "\"Hm, well, maybe I should make a cute\\n\"",
     "source": "Hm, well, maybe I should make a cute\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふむ うちの やどにも かわいい\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c8f282a9482ac37d",
@@ -379068,9 +379080,13 @@
     "end": 2777,
     "raw": "\"POKéMON our inn's mascot.\\p\"",
     "source": "POKéMON our inn's mascot.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの マスコットを おこうかな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "27862b803290d854",
@@ -379080,9 +379096,13 @@
     "end": 2825,
     "raw": "\"I wonder if that will attract more\\n\"",
     "source": "I wonder if that will attract more\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうすれば とまりにくる おきゃくが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f31fb66fc4bf3710",
@@ -379092,9 +379112,13 @@
     "end": 2861,
     "raw": "\"guests to stay with us?$\"",
     "source": "guests to stay with us?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふえるかねえ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ff755c34380fc91",
@@ -379104,9 +379128,13 @@
     "end": 2950,
     "raw": "\"Oh, sorry, sorry!\\n\"",
     "source": "Oh, sorry, sorry!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おっと すまん すまん!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78d448f2f9722a0e",
@@ -379116,9 +379144,13 @@
     "end": 2998,
     "raw": "\"I was too involved in watching TV!\\p\"",
     "source": "I was too involved in watching TV!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "テレビに むちゅうに なってたよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7747b60a9602cbc1",
@@ -379128,9 +379160,13 @@
     "end": 3046,
     "raw": "\"Since that TEAM AQUA came to town,\\n\"",
     "source": "Since that TEAM AQUA came to town,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アクアだんが このまちに きてから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74b8058a3fa4b346",
@@ -379140,9 +379176,13 @@
     "end": 3095,
     "raw": "\"the tourists have been staying away.$\"",
     "source": "the tourists have been staying away.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんこうきゃくが とおのいて しまってね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "47d26b8512471434",
@@ -379152,9 +379192,13 @@
     "end": 3178,
     "raw": "\"Hey, down in front!\\n\"",
     "source": "Hey, down in front!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おい まえの ひと しゃがんでくれ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "58cc30b392f60a69",
@@ -379164,9 +379208,13 @@
     "end": 3210,
     "raw": "\"I can't see the TV!$\"",
     "source": "I can't see the TV!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "テレビが みえないよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f60a99b3a07b2980",
@@ -379176,9 +379224,13 @@
     "end": 3314,
     "raw": "\"Amazing! You're telling me a POKéMON\\n\"",
     "source": "Amazing! You're telling me a POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}すごいな! ポケモンが だれかの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6e0a669bae53e5d7",
@@ -379188,9 +379240,13 @@
     "end": 3354,
     "raw": "\"found someone's lost item?\\p\"",
     "source": "found someone's lost item?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おとしものを みつけたって?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1cb50581aa3bd4d1",
@@ -379200,9 +379256,13 @@
     "end": 3406,
     "raw": "\"That's something. If we had some smart\\n\"",
     "source": "That's something. If we had some smart\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たいしたもんだ。そんな かしこい\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "07bb4be6e6c416fa",
@@ -379212,9 +379272,13 @@
     "end": 3438,
     "raw": "\"POKéMON like that…\\p\"",
     "source": "POKéMON like that…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが うちにも いれば…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aad94172c949f06f",
@@ -379224,9 +379288,13 @@
     "end": 3486,
     "raw": "\"We could recover anything that our\\n\"",
     "source": "We could recover anything that our\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おきゃくが なくした ものを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "de44b300443b5b93",
@@ -379236,9 +379304,13 @@
     "end": 3514,
     "raw": "\"guests mislaid…$\"",
     "source": "guests mislaid…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんでも みつけられるのになあ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "da5a6618f44c647f",
@@ -379248,9 +379320,13 @@
     "end": 3605,
     "raw": "\"Oh, sorry, sorry!\\n\"",
     "source": "Oh, sorry, sorry!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おっと すまん すまん!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d686201a75bc75c",
@@ -379260,9 +379336,13 @@
     "end": 3653,
     "raw": "\"I was too involved in watching TV!\\p\"",
     "source": "I was too involved in watching TV!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "テレビに むちゅうに なってたよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2835a50a9eda6bc9",
@@ -379272,9 +379352,13 @@
     "end": 3694,
     "raw": "\"I heard that someone busted\\n\"",
     "source": "I heard that someone busted\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかが アクアだんの アジトを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8218d96e98d7bb47",
@@ -379284,9 +379368,13 @@
     "end": 3730,
     "raw": "\"the TEAM AQUA HIDEOUT.\\p\"",
     "source": "the TEAM AQUA HIDEOUT.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぶしたそうだね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ee9af4d86725eef2",
@@ -379296,9 +379384,13 @@
     "end": 3774,
     "raw": "\"Thanks to that, we just booked\\n\"",
     "source": "Thanks to that, we just booked\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかげで たったいま\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9da5adcb4595eab5",
@@ -379308,9 +379400,13 @@
     "end": 3819,
     "raw": "\"a reservation from a big group.\\p\"",
     "source": "a reservation from a big group.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だんたいきゃくの よやくが はいったよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "12d0cab33aef1725",
@@ -379320,9 +379416,13 @@
     "end": 3861,
     "raw": "\"It was a company called… Uh…\\n\"",
     "source": "It was a company called… Uh…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かいしゃの なまえは… ええと…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6ce415bbb922294d",
@@ -379332,9 +379432,13 @@
     "end": 3889,
     "raw": "\"GAME something…$\"",
     "source": "GAME something…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゲームなんとか だったな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cefde5baa68be72d",
@@ -379344,9 +379448,13 @@
     "end": 4001,
     "raw": "\"Amazing! A house-sitting POKéMON\\n\"",
     "source": "Amazing! A house-sitting POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}すごいな! るすばんの ポケモンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5224a0686a7fc55b",
@@ -379356,9 +379464,13 @@
     "end": 4032,
     "raw": "\"caught a burglar?\\p\"",
     "source": "caught a burglar?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どろぼうを つかまえたって?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1005c3f0362a7a18",
@@ -379368,9 +379480,13 @@
     "end": 4081,
     "raw": "\"That's something. If we had a tough\\n\"",
     "source": "That's something. If we had a tough\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たいしたもんだ。つよい ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6e722247c9702d1d",
@@ -379380,9 +379496,13 @@
     "end": 4123,
     "raw": "\"POKéMON as a security guard…\\p\"",
     "source": "POKéMON as a security guard…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けいびを してもらえば…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d8d633da5a92cb0b",
@@ -379392,9 +379512,13 @@
     "end": 4175,
     "raw": "\"We would be able to provide our guests\\n\"",
     "source": "We would be able to provide our guests\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おきゃくに もっと あんしんして\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6646d83658c12a35",
@@ -379404,9 +379528,13 @@
     "end": 4208,
     "raw": "\"with greater safety.$\"",
     "source": "with greater safety.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とまって もらえるんだな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab74a3e30932238e",
@@ -379416,9 +379544,13 @@
     "end": 4307,
     "raw": "\"Oh, sorry, sorry!\\n\"",
     "source": "Oh, sorry, sorry!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おっと すまん すまん!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "492a4d2a8321fc22",
@@ -379428,9 +379560,13 @@
     "end": 4355,
     "raw": "\"I was too involved in watching TV.\\p\"",
     "source": "I was too involved in watching TV.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "テレビに むちゅうに なってたよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9179a81301757ab9",
@@ -379440,9 +379576,13 @@
     "end": 4407,
     "raw": "\"Oh, yes. A big group of guests arrived\\n\"",
     "source": "Oh, yes. A big group of guests arrived\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうそう すこしまえに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5ef996f624a513d6",
@@ -379452,9 +379592,13 @@
     "end": 4440,
     "raw": "\"a little while ago.\\p\"",
     "source": "a little while ago.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だんたいの おきゃくが ついてね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c4905feb048dad3",
@@ -379464,9 +379608,13 @@
     "end": 4483,
     "raw": "\"They booked in as GAME FREAK,\\n\"",
     "source": "They booked in as GAME FREAK,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゲームフリークって なまえだったから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef2b0189e81cbf3c",
@@ -379476,9 +379624,13 @@
     "end": 4529,
     "raw": "\"so I guess they must make games.\\p\"",
     "source": "so I guess they must make games.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゲームを つくってるんだろうね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bcdef4a5d08cec59",
@@ -379488,9 +379640,13 @@
     "end": 4575,
     "raw": "\"Uh-oh, I'd better get working on\\n\"",
     "source": "Uh-oh, I'd better get working on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おっと いけない。みんなの ゆうしょくを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e9b79ff2ad3229a3",
@@ -379500,9 +379656,13 @@
     "end": 4601,
     "raw": "\"their dinner!$\"",
     "source": "their dinner!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つくりはじめなきゃ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "223c6e3cea210df1",
@@ -379512,9 +379672,13 @@
     "end": 2242,
     "raw": "\"I'm the GAME DESIGNER.\\p\"",
     "source": "I'm the GAME DESIGNER.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしは ゲームデザイナーです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d858755d7109ee3b",
@@ -379524,9 +379688,13 @@
     "end": 2274,
     "raw": "\"Oh, is that right?\\n\"",
     "source": "Oh, is that right?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "へえ そうなんですか。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "25db0d11987a2764",
@@ -379536,9 +379704,13 @@
     "end": 2316,
     "raw": "\"You're working on a POKéDEX?\\p\"",
     "source": "You're working on a POKéDEX?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンずかんを つくってるんですね?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9340276554dba066",
@@ -379548,9 +379720,13 @@
     "end": 2363,
     "raw": "\"It's tough trying to complete it,\\n\"",
     "source": "It's tough trying to complete it,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんせいさせるのは たいへんですが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "561208ae1455a1c0",
@@ -379560,9 +379736,13 @@
     "end": 2395,
     "raw": "\"but don't give up.\\p\"",
     "source": "but don't give up.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきらめないで くださいね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "028d83724656aaee",
@@ -379572,9 +379752,13 @@
     "end": 2443,
     "raw": "\"If you do complete it, please come\\n\"",
     "source": "If you do complete it, please come\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんせいしたら ぜひ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b7dc0b41fcd3c73",
@@ -379584,9 +379768,13 @@
     "end": 2464,
     "raw": "\"show me.$\"",
     "source": "show me.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしに みせに きてください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "15ceac5a7e33146a",
@@ -379596,9 +379784,13 @@
     "end": 2560,
     "raw": "\"Wow! That's awesome!\\n\"",
     "source": "Wow! That's awesome!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うわあ! すごい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ceff982be655db23",
@@ -379608,9 +379800,13 @@
     "end": 2600,
     "raw": "\"Yep, it's totally awesome!\\p\"",
     "source": "Yep, it's totally awesome!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに すばらしい!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14d1a490781dcf77",
@@ -379620,9 +379816,13 @@
     "end": 2648,
     "raw": "\"This POKéDEX is completely filled!\\n\"",
     "source": "This POKéDEX is completely filled!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この ずかんは ぜんぶ うまってますね!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7459521919afb0f6",
@@ -379632,9 +379832,13 @@
     "end": 2691,
     "raw": "\"You really must love POKéMON!\\p\"",
     "source": "You really must love POKéMON!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが だいすきなんですね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "beb338bb12fbc32b",
@@ -379644,9 +379848,13 @@
     "end": 2722,
     "raw": "\"I'm so impressed!\\p\"",
     "source": "I'm so impressed!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんどう しました!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2fda49732fd386a7",
@@ -379656,9 +379864,13 @@
     "end": 2764,
     "raw": "\"Let me give you something in\\n\"",
     "source": "Let me give you something in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この りっぱな せいかを たたえて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d729933aecf0cea5",
@@ -379668,9 +379880,13 @@
     "end": 2802,
     "raw": "\"recognition of your feat!$\"",
     "source": "recognition of your feat!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おくりものを させてください!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ccba054096ca3326",
@@ -379680,9 +379896,13 @@
     "end": 2894,
     "raw": "\"Me? You're talking to me?\\n\"",
     "source": "Me? You're talking to me?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}え? わたしに はなしかけてるの?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8f2036ab30c682e8",
@@ -379692,9 +379912,13 @@
     "end": 2927,
     "raw": "\"I'm the PROGRAMMER.\\p\"",
     "source": "I'm the PROGRAMMER.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは プログラマーです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c974e8b31d610d36",
@@ -379704,9 +379928,13 @@
     "end": 2968,
     "raw": "\"I wonder what the SLOTS are\\n\"",
     "source": "I wonder what the SLOTS are\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここの スロットって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e8bb1fe2d4ca5c16",
@@ -379716,9 +379944,13 @@
     "end": 2991,
     "raw": "\"like here.$\"",
     "source": "like here.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どんな かんじなのかなあ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "31eb2acb7b8b14b9",
@@ -379728,9 +379960,13 @@
     "end": 3095,
     "raw": "\"I'm the GRAPHIC ARTIST! Aren't the\\n\"",
     "source": "I'm the GRAPHIC ARTIST! Aren't the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}グラフィックデザイナーです! ホウエンの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "606c4417bdbe7e2c",
@@ -379740,9 +379976,13 @@
     "end": 3137,
     "raw": "\"POKéMON of HOENN interesting?$\"",
     "source": "POKéMON of HOENN interesting?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンって おもしろいでしょ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aa4ae679b2d6a27b",
@@ -379752,9 +379992,13 @@
     "end": 3236,
     "raw": "\"The girl TUBERS, they're cute, hey?\\n\"",
     "source": "The girl TUBERS, they're cute, hey?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うきわガールって かわいいよね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "85896fd444ead128",
@@ -379764,9 +380008,13 @@
     "end": 3281,
     "raw": "\"To battle against a cute TUBER…\\p\"",
     "source": "To battle against a cute TUBER…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かわいい うきわガールと しょうぶ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7bfcc8f15035626f",
@@ -379776,9 +380024,13 @@
     "end": 3318,
     "raw": "\"Whoop, it's so awesome!\\p\"",
     "source": "Whoop, it's so awesome!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うひゃー さいこう!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "27342ae7fe88ae4f",
@@ -379788,9 +380040,13 @@
     "end": 3364,
     "raw": "\"And the TWINS! Aren't they cute?\\n\"",
     "source": "And the TWINS! Aren't they cute?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふたごちゃんも かわいいよね?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "581b48405d8ece43",
@@ -379800,9 +380056,13 @@
     "end": 3405,
     "raw": "\"A 2-on-2 battle with TWINS…\\p\"",
     "source": "A 2-on-2 battle with TWINS…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふたごちゃんと 2たい2の しょうぶ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f41c7c3996c40e16",
@@ -379812,9 +380072,13 @@
     "end": 3445,
     "raw": "\"Whoop, it's unbearably fun!$\"",
     "source": "Whoop, it's unbearably fun!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うひゃー たまらなく たのしい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "faca029bb3a606f7",
@@ -379824,9 +380088,13 @@
     "end": 3550,
     "raw": "\"The sea breeze tickles my heart.\\n\"",
     "source": "The sea breeze tickles my heart.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しおかぜが こころを くすぐる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dde8f9b8fca7f4d4",
@@ -379836,9 +380104,13 @@
     "end": 3587,
     "raw": "\"It feels wonderful here!$\"",
     "source": "It feels wonderful here!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここは きもちが いいねえ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8e09939394472c0c",
@@ -379848,9 +380120,13 @@
     "end": 3692,
     "raw": "\"You never know when and where\\n\"",
     "source": "You never know when and where\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いつ どこで しょうぶを いどまれるか\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4ad500b04ad4140b",
@@ -379860,9 +380136,13 @@
     "end": 3732,
     "raw": "\"people will challenge you.\\p\"",
     "source": "people will challenge you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わからないからね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d94c01ee078f49c",
@@ -379872,9 +380152,13 @@
     "end": 3783,
     "raw": "\"That's why I never leave home without\\n\"",
     "source": "That's why I never leave home without\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いえを でるときは かならず\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "797589b3e2c2ebe1",
@@ -379884,9 +380168,13 @@
     "end": 3816,
     "raw": "\"my GAME BOY ADVANCE.$\"",
     "source": "my GAME BOY ADVANCE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゲームボーイアドバンスを もっていくんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f97874faeae9dad3",
@@ -379896,9 +380184,13 @@
     "end": 3905,
     "raw": "\"SCOTT: … … … … …\\n\"",
     "source": "SCOTT: … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "48ca41eae47c9f67",
@@ -379908,9 +380200,13 @@
     "end": 3933,
     "raw": "\"… … … … … Zzz…\\p\"",
     "source": "… … … … … Zzz…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … ぐう…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bb1b00a7d5ab3acf",
@@ -379920,9 +380216,13 @@
     "end": 3962,
     "raw": "\"… … … … … Huh?!\\n\"",
     "source": "… … … … … Huh?!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … はっ?!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1e7cd11dbd77bb03",
@@ -379932,9 +380232,13 @@
     "end": 4009,
     "raw": "\"Oh, sorry, sorry! I was snoozing!\\p\"",
     "source": "Oh, sorry, sorry! I was snoozing!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ すまん すまん! いねむりしてたよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "efa8c0ac12c5f7f9",
@@ -379944,9 +380248,13 @@
     "end": 4055,
     "raw": "\"I came to check out this POKéMON\\n\"",
     "source": "I came to check out this POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この ポケモンコンテストって やつを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e492f91df49ee854",
@@ -379956,9 +380264,13 @@
     "end": 4083,
     "raw": "\"CONTEST thing.\\p\"",
     "source": "CONTEST thing.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みに きたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c85d21205ed60ce3",
@@ -379968,9 +380280,13 @@
     "end": 4132,
     "raw": "\"I have to admit, it does look quite\\n\"",
     "source": "I have to admit, it does look quite\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たしかに なかなか たのしそうだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "12fc24452bfac1d9",
@@ -379980,9 +380296,13 @@
     "end": 4164,
     "raw": "\"entertaining, but…\\p\"",
     "source": "entertaining, but…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だが…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d1d66e4281b059e4",
@@ -379992,9 +380312,13 @@
     "end": 4208,
     "raw": "\"Consider me a purist--I prefer\\n\"",
     "source": "Consider me a purist--I prefer\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは こだわりが あってね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ce77f2457702075e",
@@ -380004,9 +380328,13 @@
     "end": 4249,
     "raw": "\"battles and tough TRAINERS.\\p\"",
     "source": "battles and tough TRAINERS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バトルと つよい トレーナーが すきなんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d1c67f8a6b4fd84e",
@@ -380016,9 +380344,13 @@
     "end": 4282,
     "raw": "\"But that's just me.\\p\"",
     "source": "But that's just me.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まあ わたしはって だけだが。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0bfd6192f19f51de",
@@ -380028,9 +380360,13 @@
     "end": 4341,
     "raw": "\"{PLAYER}{KUN}, I hope you'll enjoy everything\\n\"",
     "source": "{PLAYER}{KUN}, I hope you'll enjoy everything\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}には ジムも コンテストも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "34a5b583cbac4085",
@@ -380040,9 +380376,13 @@
     "end": 4392,
     "raw": "\"like the GYMS, CONTESTS, BATTLE TENT,\\l\"",
     "source": "like the GYMS, CONTESTS, BATTLE TENT,\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バトルテントも なにもかも\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b63fe7cbe8ee32ed",
@@ -380052,9 +380392,13 @@
     "end": 4421,
     "raw": "\"the whole works!$\"",
     "source": "the whole works!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たのしんで もらいたいね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "43918f3984a8418e",
@@ -380064,9 +380408,13 @@
     "end": 4531,
     "raw": "\"SCOTT: I think it does take strategy\\n\"",
     "source": "SCOTT: I think it does take strategy\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: コンテストで かつにも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f42201089d545242",
@@ -380076,9 +380424,13 @@
     "end": 4562,
     "raw": "\"to win a CONTEST.\\p\"",
     "source": "to win a CONTEST.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さくせんが いると おもうんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "864126275444abc8",
@@ -380088,9 +380440,13 @@
     "end": 4614,
     "raw": "\"Devising CONTEST strategies is one way\\n\"",
     "source": "Devising CONTEST strategies is one way\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "コンテストの さくせんを ねるのも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69eb90aae42e51e1",
@@ -380100,9 +380456,13 @@
     "end": 4665,
     "raw": "\"of becoming a better TRAINER, I'd say.$\"",
     "source": "of becoming a better TRAINER, I'd say.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トレーナーとして うでを あげる みちだね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-motel-56",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "149cff59fd0abce7",
@@ -380112,9 +380472,13 @@
     "end": 7050,
     "raw": "\"Don't they have set dates for their\\n\"",
     "source": "Don't they have set dates for their\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ざいこ いっそうセールの ひって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e14fc46350ed54fe",
@@ -380124,9 +380488,13 @@
     "end": 7080,
     "raw": "\"clear-out sales?\\p\"",
     "source": "clear-out sales?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きまって ないのかしら?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c216a1952eb8f4f1",
@@ -380136,9 +380504,13 @@
     "end": 7129,
     "raw": "\"I watch TV, but they never show any\\n\"",
     "source": "I watch TV, but they never show any\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "テレビを みてるのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fa143448805d1d0e",
@@ -380148,9 +380520,13 @@
     "end": 7154,
     "raw": "\"commercials.$\"",
     "source": "commercials.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちっとも コマーシャルを やらないわ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bc7dc9dc7a597ced",
@@ -380160,9 +380536,13 @@
     "end": 7276,
     "raw": "\"Yes! I've been waiting a long time for\\n\"",
     "source": "Yes! I've been waiting a long time for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やった! この ざいこ いっそうセールを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3fb15a549d5ddead",
@@ -380172,9 +380552,13 @@
     "end": 7310,
     "raw": "\"this clear-out sale.\\p\"",
     "source": "this clear-out sale.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずっと まってたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3d51de2186629e8a",
@@ -380184,9 +380568,13 @@
     "end": 7361,
     "raw": "\"They have items that you can only get\\n\"",
     "source": "They have items that you can only get\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここでしか てに はいらない ものが ある。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "acfdb152fe20a249",
@@ -380196,9 +380584,13 @@
     "end": 7412,
     "raw": "\"here. I'm going to load up, that I am!$\"",
     "source": "here. I'm going to load up, that I am!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たっぷり かいこんで いくぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1ccdc1e1b68de4cf",
@@ -380208,9 +380600,13 @@
     "end": 7509,
     "raw": "\"Ohh… I'm bone-dry thirsty!$\"",
     "source": "Ohh… I'm bone-dry thirsty!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ… のどが からからだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "09a0edbbfe9b8df2",
@@ -380220,9 +380616,13 @@
     "end": 7612,
     "raw": "\"It's a VENDING MACHINE.\\n\"",
     "source": "It's a VENDING MACHINE.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じどうはんばいきだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6f927912d0ad8489",
@@ -380232,9 +380632,13 @@
     "end": 7652,
     "raw": "\"Which drink would you like?$\"",
     "source": "Which drink would you like?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの のみものを かいますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5541a3d47a0787ee",
@@ -380244,9 +380648,13 @@
     "end": 7737,
     "raw": "\"Clang!\\p\"",
     "source": "Clang!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ガコン!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3df5be7d6aba5ca7",
@@ -380256,9 +380664,13 @@
     "end": 7784,
     "raw": "\"A can of {STR_VAR_1} dropped down.$\"",
     "source": "A can of {STR_VAR_1} dropped down.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}の カンが おちてきた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7d73b3464390790a",
@@ -380268,9 +380680,13 @@
     "end": 7874,
     "raw": "\"Clang!\\p\"",
     "source": "Clang!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ガコン!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e7dd02bb1a36a49",
@@ -380280,9 +380696,13 @@
     "end": 7922,
     "raw": "\"Score! An extra can of {STR_VAR_1}\\n\"",
     "source": "Score! An extra can of {STR_VAR_1}\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やった! {ENG}{STR_VAR_1}{JPN}が おまけに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9c9b67cdb673cc59",
@@ -380292,9 +380712,13 @@
     "end": 7948,
     "raw": "\"dropped down!$\"",
     "source": "dropped down!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もう1ぽん おちてきた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab32505727a30728",
@@ -380304,9 +380728,13 @@
     "end": 8036,
     "raw": "\"Not enough money…$\"",
     "source": "Not enough money…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おかねが たりない…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "15755c5b45882bdf",
@@ -380316,9 +380744,13 @@
     "end": 8149,
     "raw": "\"Decided against buying a drink.$\"",
     "source": "Decided against buying a drink.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}のみものを かうのは やめた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7829f955814194f8",
@@ -380328,9 +380760,13 @@
     "end": 5557,
     "raw": "\"Welcome to LILYCOVE DEPARTMENT STORE.$\"",
     "source": "Welcome to LILYCOVE DEPARTMENT STORE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミナモデパートへ ようこそ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c76623a90f9e0234",
@@ -380340,9 +380776,13 @@
     "end": 5664,
     "raw": "\"Whenever I come to the DEPARTMENT\\n\"",
     "source": "Whenever I come to the DEPARTMENT\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}デパートに くると たのしくて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4b2a56f60cca5bd8",
@@ -380352,9 +380792,13 @@
     "end": 5717,
     "raw": "\"STORE, I always end up buying all sorts\\l\"",
     "source": "STORE, I always end up buying all sorts\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ついつい いろいろな ものを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2618dac3149f735f",
@@ -380364,9 +380808,13 @@
     "end": 5760,
     "raw": "\"of things because it's so fun.$\"",
     "source": "of things because it's so fun.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かっちゃうのよね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "084daafaffce2528",
@@ -380376,9 +380824,13 @@
     "end": 5871,
     "raw": "\"Today, my mom is going to buy me some\\n\"",
     "source": "Today, my mom is going to buy me some\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きょうは ママが すてきな かぐを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0542af2d6746b427",
@@ -380388,9 +380840,13 @@
     "end": 5899,
     "raw": "\"nice furniture.$\"",
     "source": "nice furniture.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かってくれるんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "225b02d9b0681168",
@@ -380400,9 +380856,13 @@
     "end": 6017,
     "raw": "\"I'm buying something for my AZUMARILL\\n\"",
     "source": "I'm buying something for my AZUMARILL\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}コンテストで ゆうしょうした ごほうびに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3437f1fdf284a989",
@@ -380412,9 +380872,13 @@
     "end": 6064,
     "raw": "\"as a reward for winning a CONTEST.$\"",
     "source": "as a reward for winning a CONTEST.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "マリルリに なにか かってあげるの。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "52bbf4381f88e6f7",
@@ -380424,9 +380888,13 @@
     "end": 6147,
     "raw": "\"AZUMARILL: Maririroo!$\"",
     "source": "AZUMARILL: Maririroo!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}マリルリ: マリリルー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a78158a8c0a1e3c",
@@ -380436,9 +380904,13 @@
     "end": 6234,
     "raw": "\"1F: SERVICE COUNTER\\n\"",
     "source": "1F: SERVICE COUNTER\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}1かい: サービスカウンター\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "80ae638a8ea7fb19",
@@ -380448,9 +380920,13 @@
     "end": 6266,
     "raw": "\"    LOTTERY CORNER\\p\"",
     "source": "    LOTTERY CORNER\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "       ポケモンくじコーナー\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b80473dde5374941",
@@ -380460,9 +380936,13 @@
     "end": 6298,
     "raw": "\"2F: TRAINER'S ZONE\\p\"",
     "source": "2F: TRAINER'S ZONE\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2かい: トレーナーズゾーン\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c64e5c71656edbe",
@@ -380472,9 +380952,13 @@
     "end": 6333,
     "raw": "\"3F: BATTLE COLLECTION\\p\"",
     "source": "3F: BATTLE COLLECTION\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3かい: バトルコレクション\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cd617069ea4972db",
@@ -380484,9 +380968,13 @@
     "end": 6360,
     "raw": "\"4F: TM CORNER\\p\"",
     "source": "4F: TM CORNER\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "4かい: わざマシンコーナー\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "375c0b79f280e73f",
@@ -380496,9 +380984,13 @@
     "end": 6393,
     "raw": "\"5F: POKé DOLL FLOOR\\p\"",
     "source": "5F: POKé DOLL FLOOR\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "5かい: ポケモンぬいぐるみフロア\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "736b5d240b0cb60d",
@@ -380508,9 +381000,13 @@
     "end": 6428,
     "raw": "\"ROOFTOP: ROOFTOP PLAZA$\"",
     "source": "ROOFTOP: ROOFTOP PLAZA$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おくじょう: おくじょうひろば$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "79e3f34577191466",
@@ -380520,9 +381016,13 @@
     "end": 6535,
     "raw": "\"Wireless Communication is a\\n\"",
     "source": "Wireless Communication is a\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ワイヤレスつうしんって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "56bc03150f9458dd",
@@ -380532,9 +381032,13 @@
     "end": 6570,
     "raw": "\"lot of fun, isn't it?\\p\"",
     "source": "lot of fun, isn't it?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とっても たのしいよね?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e0361df313f161a9",
@@ -380544,9 +381048,13 @@
     "end": 6618,
     "raw": "\"I think it lets you do things that\\n\"",
     "source": "I think it lets you do things that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いままで できなかったことも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1a09a6783811ef92",
@@ -380556,9 +381064,13 @@
     "end": 6656,
     "raw": "\"weren't possible before.\\p\"",
     "source": "weren't possible before.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "できるように なると おもうんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c61fd25e1a606109",
@@ -380568,9 +381080,13 @@
     "end": 6701,
     "raw": "\"For instance, you can now trade\\n\"",
     "source": "For instance, you can now trade\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たとえば いままで できなかった\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "410a9bed87969c08",
@@ -380580,9 +381096,13 @@
     "end": 6747,
     "raw": "\"with people you couldn't before.\\p\"",
     "source": "with people you couldn't before.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひととも こうかん できるんだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "226cf66c39b9f4a3",
@@ -380592,9 +381112,13 @@
     "end": 6794,
     "raw": "\"I think it's going to be exciting!$\"",
     "source": "I think it's going to be exciting!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わくわく することに なりそうだね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "787e4fcd905a07ef",
@@ -380604,9 +381128,13 @@
     "end": 6919,
     "raw": "\"I want to spread the word about how\\n\"",
     "source": "I want to spread the word about how\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ワイヤレスつうしんの たのしさを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a385a765d43de955",
@@ -380616,9 +381144,13 @@
     "end": 6966,
     "raw": "\"fun Wireless Communication can be.$\"",
     "source": "fun Wireless Communication can be.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんなに つたえたいな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c9bdbab2de188705",
@@ -380852,9 +381384,13 @@
     "end": 2221,
     "raw": "\"I used the MANKEY'S PAW,\\n\"",
     "source": "I used the MANKEY'S PAW,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}マンキーのてを つかってみたんだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "640f5efe88f711b6",
@@ -380864,9 +381400,13 @@
     "end": 2256,
     "raw": "\"on one of my Pokemon.\\p\"",
     "source": "on one of my Pokemon.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんの ポケモンの 1ぴきにね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cc5b506d57150d85",
@@ -380876,9 +381416,13 @@
     "end": 2296,
     "raw": "\"Now it's going absolutely,\\n\"",
     "source": "Now it's going absolutely,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そしたら もう とんでもなく\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "610ef23a7e61267c",
@@ -380888,9 +381432,13 @@
     "end": 2317,
     "raw": "\"bananas!$\"",
     "source": "bananas!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかしく なっちゃったよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "455075ab6529a897",
@@ -380900,9 +381448,13 @@
     "end": 2408,
     "raw": "\"PAW item mods stack,\\n\"",
     "source": "PAW item mods stack,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ての どうぐの ほせいは かさなるが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "583e1e833334c1f0",
@@ -380912,9 +381464,13 @@
     "end": 2440,
     "raw": "\"but clamp at +-12.\\p\"",
     "source": "but clamp at +-12.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はんいは マイナス12から プラス12だ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "118058aca72baf35",
@@ -380924,9 +381480,13 @@
     "end": 2476,
     "raw": "\"Each WISH comes with a\\n\"",
     "source": "Each WISH comes with a\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねがいを かけるたび おんけいが つく。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c4a4f523e4f1ab86",
@@ -380936,9 +381496,13 @@
     "end": 2520,
     "raw": "\"BOON. Willing to take the risk?$\"",
     "source": "BOON. Willing to take the risk?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リスクを おかす きは あるか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78de94aa2448eb7a",
@@ -380948,9 +381512,13 @@
     "end": 2619,
     "raw": "\"I've tried HMs and TMs,\\n\"",
     "source": "I've tried HMs and TMs,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ひでんマシンも わざマシンも つかったが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "53faeafa1513954d",
@@ -380960,9 +381528,13 @@
     "end": 2649,
     "raw": "\"but wtf are AMs ?$\"",
     "source": "but wtf are AMs ?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くそっ AMって なんなんだよ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-paw-54",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c17e4486a19844b6",
@@ -381292,9 +381864,13 @@
     "end": 4542,
     "raw": "\"This place is full of cute DOLLS.\\p\"",
     "source": "This place is full of cute DOLLS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは かわいい ぬいぐるみが いっぱい!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6e763084847ab9ef",
@@ -381304,9 +381880,13 @@
     "end": 4592,
     "raw": "\"I should buy some for me, instead of\\n\"",
     "source": "I should buy some for me, instead of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こどもたちの ぶんだけじゃなくて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e3ab9b34b49085a8",
@@ -381316,9 +381896,13 @@
     "end": 4626,
     "raw": "\"just for my children.$\"",
     "source": "just for my children.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんの ぶんも かおうかしら。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7938c31c8de85297",
@@ -381328,9 +381912,13 @@
     "end": 4743,
     "raw": "\"I'm not big enough to raise POKéMON,\\n\"",
     "source": "I'm not big enough to raise POKéMON,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まだ ポケモンを そだてるには ちいさいから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9be2c6c3fb3b890f",
@@ -381340,9 +381928,13 @@
     "end": 4791,
     "raw": "\"so I'm getting a cute DOLL instead.$\"",
     "source": "so I'm getting a cute DOLL instead.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かわりに かわいい ぬいぐるみを かうの。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a6128cc9086bef7c",
@@ -381352,9 +381944,13 @@
     "end": 4895,
     "raw": "\"They sell many cute MATS here.\\p\"",
     "source": "They sell many cute MATS here.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かわいい マットが たくさん うってるわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "eaea75842cc8c115",
@@ -381364,9 +381960,13 @@
     "end": 4941,
     "raw": "\"I wonder which one I should get?\\n\"",
     "source": "I wonder which one I should get?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どれに しようかしら?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d081234add983351",
@@ -381376,9 +381976,13 @@
     "end": 4978,
     "raw": "\"Maybe I'll buy them all…$\"",
     "source": "Maybe I'll buy them all…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜんぶ かっちゃおうかな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6dfd85ea8278d560",
@@ -381388,9 +381992,13 @@
     "end": 5086,
     "raw": "\"I think they closed the rooftop\\n\"",
     "source": "I think they closed the rooftop\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きょうは てんきが あれてるから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c6a9299022b64c50",
@@ -381400,9 +382008,13 @@
     "end": 5133,
     "raw": "\"because the weather is wild today.$\"",
     "source": "because the weather is wild today.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おくじょうを しめたんだと おもうよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f712a106bf2b738a",
@@ -381412,9 +382024,13 @@
     "end": 18238,
     "raw": "\"I beg your pardon?\\n\"",
     "source": "I beg your pardon?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はい?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c6db0d23cc888c36",
@@ -381424,9 +382040,13 @@
     "end": 18278,
     "raw": "\"You're looking for a ship?\\p\"",
     "source": "You're looking for a ship?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふねを おさがしですか?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9091921e8a540135",
@@ -381436,9 +382056,13 @@
     "end": 18326,
     "raw": "\"I'm sorry, the ferry service isn't\\n\"",
     "source": "I'm sorry, the ferry service isn't\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もうしわけ ありません。いまは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "52105ad4013e2b8e",
@@ -381448,9 +382072,13 @@
     "end": 18360,
     "raw": "\"available at present…$\"",
     "source": "available at present…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんらくせんが うんこうして おりません…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "83d55bbae3ea768e",
@@ -381460,9 +382088,13 @@
     "end": 18453,
     "raw": "\"Hello, are you here for the ferry?\\n\"",
     "source": "Hello, are you here for the ferry?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こんにちは。れんらくせんを ごりようで?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c4315ae20090aa2c",
@@ -381472,9 +382104,13 @@
     "end": 18488,
     "raw": "\"May I see your TICKET?$\"",
     "source": "May I see your TICKET?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チケットを はいけん できますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dcb05893959932be",
@@ -381484,9 +382120,13 @@
     "end": 18571,
     "raw": "\"{PLAYER} doesn't have the TICKET…\\p\"",
     "source": "{PLAYER} doesn't have the TICKET…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は チケットを もっていない…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a0580bfab04aab30",
@@ -381496,9 +382136,13 @@
     "end": 18604,
     "raw": "\"I'm terribly sorry.\\p\"",
     "source": "I'm terribly sorry.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たいへん もうしわけ ありません。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cea37a8d2b6e7502",
@@ -381508,9 +382152,13 @@
     "end": 18649,
     "raw": "\"You must have a TICKET to board\\n\"",
     "source": "You must have a TICKET to board\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんらくせんの ごじょうせんには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "40ea7bd84f544c71",
@@ -381520,9 +382168,13 @@
     "end": 18672,
     "raw": "\"the ferry.$\"",
     "source": "the ferry.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チケットが ひつようです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f129b017ee934fb",
@@ -381532,9 +382184,13 @@
     "end": 18760,
     "raw": "\"{PLAYER} flashed the TICKET.\\p\"",
     "source": "{PLAYER} flashed the TICKET.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は チケットを みせた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ff1ded4b2de4694",
@@ -381544,9 +382200,13 @@
     "end": 18803,
     "raw": "\"Perfect! That's all you need!\\p\"",
     "source": "Perfect! That's all you need!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はい! それが あれば けっこうです!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8e800aa2f4178fa2",
@@ -381556,9 +382216,13 @@
     "end": 18847,
     "raw": "\"And where would you like to go?$\"",
     "source": "And where would you like to go?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでは どちらへ いかれますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dbc72f175720cd74",
@@ -381568,9 +382232,13 @@
     "end": 18936,
     "raw": "\"Please sail with us another time!$\"",
     "source": "Please sail with us another time!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}またの ごじょうせんを おまちしてます!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4b5c9f7e08315baa",
@@ -381580,9 +382248,13 @@
     "end": 19017,
     "raw": "\"SLATEPORT CITY it is, then!$\"",
     "source": "SLATEPORT CITY it is, then!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カイナシティ ですね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe09f95855d8de8d",
@@ -381592,9 +382264,13 @@
     "end": 19104,
     "raw": "\"BATTLE FRONTIER it is, then!$\"",
     "source": "BATTLE FRONTIER it is, then!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}バトルフロンティア ですね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7391730b1bc3cbdc",
@@ -381604,9 +382280,13 @@
     "end": 19192,
     "raw": "\"Please board the ferry and wait for\\n\"",
     "source": "Please board the ferry and wait for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}れんらくせんに のって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a29fe6b0a6a550e",
@@ -381616,9 +382296,13 @@
     "end": 19215,
     "raw": "\"departure.$\"",
     "source": "departure.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しゅっこうを おまちください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bf00a319b18a8874",
@@ -381628,9 +382312,13 @@
     "end": 19310,
     "raw": "\"Then, where would you like to go?$\"",
     "source": "Then, where would you like to go?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それでは どちらへ いかれますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8f1a629d61a894a1",
@@ -381640,9 +382328,13 @@
     "end": 19409,
     "raw": "\"Until they finish making the ferry,\\n\"",
     "source": "Until they finish making the ferry,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}れんらくせんが できあがるまでは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "556e02cb31bcd5ff",
@@ -381652,9 +382344,13 @@
     "end": 19453,
     "raw": "\"we sailors have nothing to do…\\p\"",
     "source": "we sailors have nothing to do…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふなのりは やることが ないんだ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "37c412bccaf6e4ba",
@@ -381664,9 +382360,13 @@
     "end": 19505,
     "raw": "\"I wish they'd get a move on, the folks\\n\"",
     "source": "I wish they'd get a move on, the folks\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カイナの ぞうせんじょの ひとたちに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d5a603faa40235e7",
@@ -381676,9 +382376,13 @@
     "end": 19547,
     "raw": "\"at the SHIPYARD in SLATEPORT.$\"",
     "source": "at the SHIPYARD in SLATEPORT.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いそいで ほしいもんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8625eff7c17c4916",
@@ -381688,9 +382392,13 @@
     "end": 19643,
     "raw": "\"The ferry S.S. TIDAL is finally in\\n\"",
     "source": "The ferry S.S. TIDAL is finally in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}れんらくせん タイドリップごうが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d91dcf48d0d44132",
@@ -381700,9 +382408,13 @@
     "end": 19667,
     "raw": "\"operation.\\p\"",
     "source": "operation.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ついに うんこうを はじめたよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fb439722f8cde84f",
@@ -381712,9 +382424,13 @@
     "end": 19719,
     "raw": "\"The folks at the SHIPYARD in SLATEPORT\\n\"",
     "source": "The folks at the SHIPYARD in SLATEPORT\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カイナの ぞうせんじょの ひとたちが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4128b49042d6f1b3",
@@ -381724,9 +382440,13 @@
     "end": 19759,
     "raw": "\"must've worked extra hard.\\p\"",
     "source": "must've worked extra hard.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうとう がんばったんだろうね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6f9f73111c77de7d",
@@ -381736,9 +382456,13 @@
     "end": 19807,
     "raw": "\"Well, it's my turn to get busy now!$\"",
     "source": "Well, it's my turn to get busy now!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さあ こんどは おれが いそがしくなるぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6ae13e4fe83e49f0",
@@ -381748,9 +382472,13 @@
     "end": 451,
     "raw": "\"POKéMON are partners to people.\\n\"",
     "source": "POKéMON are partners to people.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンは ひとの パートナーだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "53d07e6b565405c6",
@@ -381760,9 +382488,13 @@
     "end": 487,
     "raw": "\"They aren't our tools.\\p\"",
     "source": "They aren't our tools.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぐじゃ ない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "428984e15436efb0",
@@ -381772,9 +382504,13 @@
     "end": 537,
     "raw": "\"Unfortunately, there are some people\\n\"",
     "source": "Unfortunately, there are some people\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ざんねんなことに それが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c21df2138b3d8e4",
@@ -381784,9 +382520,13 @@
     "end": 578,
     "raw": "\"who fail to understand that…$\"",
     "source": "who fail to understand that…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わからない ひとも いるんだ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "359662d3dde3fc65",
@@ -381796,9 +382536,13 @@
     "end": 642,
     "raw": "\"KECLEON: Ruroro?$\"",
     "source": "KECLEON: Ruroro?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カクレオン: ルロロ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "85c16188051f4c74",
@@ -381808,9 +382552,13 @@
     "end": 661,
     "raw": "\"Huh? What? What's that?\\p\"",
     "source": "Huh? What? What's that?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ん? なに? なんだって?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "59fdd8a1031dc814",
@@ -381820,9 +382568,13 @@
     "end": 698,
     "raw": "\"I'm not near awake yet…\\n\"",
     "source": "I'm not near awake yet…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ ぜんぜん めが さめてないんだ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "257713ccd83856ab",
@@ -381832,9 +382584,13 @@
     "end": 729,
     "raw": "\"You can have this…$\"",
     "source": "You can have this…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これ あげるよ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "07c590f6b5fe9753",
@@ -381844,9 +382600,13 @@
     "end": 792,
     "raw": "\"Yawn…\\p\"",
     "source": "Yawn…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふああ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ee580d849587a93b",
@@ -381856,9 +382616,13 @@
     "end": 841,
     "raw": "\"Sleep is essential for good health…\\n\"",
     "source": "Sleep is essential for good health…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けんこうの ためには ねむらないと…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "91253c4ebbb4aa84",
@@ -381868,9 +382632,13 @@
     "end": 878,
     "raw": "\"Sleep and regain health…$\"",
     "source": "Sleep and regain health…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねむって げんきを とりもどそう…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "00174a2d69f0b97a",
@@ -382516,9 +383284,13 @@
     "end": 378,
     "raw": "\"This planet's biggest mysteries are\\n\"",
     "source": "This planet's biggest mysteries are\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この ほしの さいだいの なぞは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4ef75a8925b910cb",
@@ -382528,9 +383300,13 @@
     "end": 417,
     "raw": "\"at the bottom of the sea.\\p\"",
     "source": "at the bottom of the sea.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみの そこに ある。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "edb5ffa17f8321b4",
@@ -382540,9 +383316,13 @@
     "end": 467,
     "raw": "\"Somebody said that, but I don't know…$\"",
     "source": "Somebody said that, but I don't know…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかが いってたけど どうなんだろう…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "76bdb2ffb4cb5a51",
@@ -382552,9 +383332,13 @@
     "end": 575,
     "raw": "\"There's a deep underwater trench\\n\"",
     "source": "There's a deep underwater trench\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}トクサネと ルネの あいだには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c217fd829d177cd4",
@@ -382564,9 +383348,13 @@
     "end": 621,
     "raw": "\"between MOSSDEEP and SOOTOPOLIS.\\p\"",
     "source": "between MOSSDEEP and SOOTOPOLIS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふかい かいこうが あるんだって。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "86888a05f2efe511",
@@ -382576,9 +383364,13 @@
     "end": 670,
     "raw": "\"That's what someone told me, anyway.$\"",
     "source": "That's what someone told me, anyway.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まあ ひとから きいた はなしだけどね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c8d6c355c330d7cf",
@@ -384472,9 +385264,13 @@
     "end": 2717,
     "raw": "\"Uh…\\n\"",
     "source": "Uh…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ええと…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "37604aaab9a1250f",
@@ -384484,9 +385280,13 @@
     "end": 2761,
     "raw": "\"Oh, yes, I'm the MOVE DELETER.\\p\"",
     "source": "Oh, yes, I'm the MOVE DELETER.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうそう わたしは わすれオヤジ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "64a5f8000de03cc4",
@@ -384496,9 +385296,13 @@
     "end": 2813,
     "raw": "\"I can make POKéMON forget their moves.\\p\"",
     "source": "I can make POKéMON forget their moves.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの わざを わすれさせられるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "94b5a821f21ed211",
@@ -384508,9 +385312,13 @@
     "end": 2855,
     "raw": "\"Would you like me to do that?$\"",
     "source": "Would you like me to do that?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わすれさせて ほしいかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cb8c556cb5eda238",
@@ -384520,9 +385328,13 @@
     "end": 2962,
     "raw": "\"Which POKéMON should forget a move?$\"",
     "source": "Which POKéMON should forget a move?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どの ポケモンの わざを わすれさせる?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c3ccffa156a93be2",
@@ -384532,9 +385344,13 @@
     "end": 3071,
     "raw": "\"Which move should be forgotten?$\"",
     "source": "Which move should be forgotten?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どの わざを わすれさせる?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "27221c239bda52a3",
@@ -384544,9 +385360,13 @@
     "end": 3174,
     "raw": "\"{STR_VAR_1} knows only one move\\n\"",
     "source": "{STR_VAR_1} knows only one move\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は わざを 1つしか\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4069286ec74ff5ab",
@@ -384556,9 +385376,13 @@
     "end": 3212,
     "raw": "\"so it can't be forgotten…$\"",
     "source": "so it can't be forgotten…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おぼえていないので わすれられないよ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd4e79c9f67998c1",
@@ -384568,9 +385392,13 @@
     "end": 3320,
     "raw": "\"Hm! {STR_VAR_1}'s {STR_VAR_2}?\\n\"",
     "source": "Hm! {STR_VAR_1}'s {STR_VAR_2}?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふむ! {ENG}{STR_VAR_1}{JPN}の{ENG}{STR_VAR_2}{JPN}?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "76b7fa942f717ea5",
@@ -384580,9 +385408,13 @@
     "end": 3363,
     "raw": "\"That move should be forgotten?$\"",
     "source": "That move should be forgotten?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この わざを わすれさせて いいのかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "39913bda877957a3",
@@ -384592,9 +385424,13 @@
     "end": 3459,
     "raw": "\"It worked to perfection!\\p\"",
     "source": "It worked to perfection!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うまく いったぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "32ea487099c1f692",
@@ -384604,9 +385440,13 @@
     "end": 3498,
     "raw": "\"{STR_VAR_1} has forgotten\\n\"",
     "source": "{STR_VAR_1} has forgotten\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}は\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "53ccc9f15281c2b9",
@@ -384616,9 +385456,13 @@
     "end": 3534,
     "raw": "\"{STR_VAR_2} completely.$\"",
     "source": "{STR_VAR_2} completely.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_2}{JPN}を すっかり わすれた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e036608f83d5e39b",
@@ -384628,9 +385472,13 @@
     "end": 3630,
     "raw": "\"Come again if there are moves that\\n\"",
     "source": "Come again if there are moves that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わすれさせたい わざが あったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e876c9c048822b46",
@@ -384640,9 +385488,13 @@
     "end": 3664,
     "raw": "\"need to be forgotten.$\"",
     "source": "need to be forgotten.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e2deea4ff901dc34",
@@ -384652,9 +385504,13 @@
     "end": 3740,
     "raw": "\"What?\\n\"",
     "source": "What?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんだって?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9c40ab8f1c62067f",
@@ -384664,9 +385520,13 @@
     "end": 3782,
     "raw": "\"No EGG should know any moves.$\"",
     "source": "No EGG should know any moves.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "タマゴが わざを おぼえてるはず ないだろ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a3b2683844aad1ad",
@@ -384676,9 +385536,13 @@
     "end": 3852,
     "raw": "\"Hm!\\p\"",
     "source": "Hm!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふむ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc951d766cb8a587",
@@ -384688,9 +385552,13 @@
     "end": 3903,
     "raw": "\"Your {STR_VAR_1} doesn't seem willing\\n\"",
     "source": "Your {STR_VAR_1} doesn't seem willing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}は なみのりを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a9863372a1e4dacd",
@@ -384700,9 +385568,13 @@
     "end": 3931,
     "raw": "\"to forget SURF.$\"",
     "source": "to forget SURF.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わすれたく ないようだね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ed36584b2eada11",
@@ -384712,9 +385584,13 @@
     "end": 1781,
     "raw": "\"I wonder how many kinds of POKéMON\\n\"",
     "source": "I wonder how many kinds of POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}せかいには なんしゅるいの ポケモンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ddf891d32c9523a7",
@@ -384724,9 +385600,13 @@
     "end": 1818,
     "raw": "\"there are in the world.\\p\"",
     "source": "there are in the world.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いるのかなあ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c469231be1089b75",
@@ -384736,9 +385616,13 @@
     "end": 1863,
     "raw": "\"It'd be great to cross seas and\\n\"",
     "source": "It'd be great to cross seas and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみを こえて とおくの ひとたちと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4adbe374af82d429",
@@ -384748,9 +385632,13 @@
     "end": 1911,
     "raw": "\"trade POKéMON with people far away.$\"",
     "source": "trade POKéMON with people far away.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを こうかん できたら いいな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bc42ffa2afbb1b1f",
@@ -384760,9 +385648,13 @@
     "end": 2024,
     "raw": "\"I've been hearing about some rotten\\n\"",
     "source": "I've been hearing about some rotten\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを ぬすんだり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2d5010f391f0089c",
@@ -384772,9 +385664,13 @@
     "end": 2074,
     "raw": "\"scoundrels who steal POKéMON and rip\\l\"",
     "source": "scoundrels who steal POKéMON and rip\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきを うばったりする ひどい やつらの\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f00d3249f89e894",
@@ -384784,9 +385680,13 @@
     "end": 2102,
     "raw": "\"off METEORITES.$\"",
     "source": "off METEORITES.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はなしを きいたよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a4a5bad816198a04",
@@ -384796,9 +385696,13 @@
     "end": 2213,
     "raw": "\"Those rotten scoundrels who steal\\n\"",
     "source": "Those rotten scoundrels who steal\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを ぬすんだり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fbfcb70349de4ad3",
@@ -384808,9 +385712,13 @@
     "end": 2258,
     "raw": "\"POKéMON and rip off METEORITES…\\p\"",
     "source": "POKéMON and rip off METEORITES…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきを うばったりする あの わるもの…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "26fe9dc8a7052dcf",
@@ -384820,9 +385728,13 @@
     "end": 2307,
     "raw": "\"I haven't seen them around recently.$\"",
     "source": "I haven't seen them around recently.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さいきんは みかけないね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-lilycove-services-55",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fea1bff664b7477f",

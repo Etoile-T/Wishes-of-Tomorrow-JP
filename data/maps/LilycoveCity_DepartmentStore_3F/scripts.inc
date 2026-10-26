@@ -84,18 +84,18 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "I used the MANKEY'S PAW,\n"
-	.string "on one of my Pokemon.\p"
-	.string "Now it's going absolutely,\n"
-	.string "bananas!$"
+	.string "{JPN}マンキーのてを つかってみたんだ。\n"
+	.string "じぶんの ポケモンの 1ぴきにね。\p"
+	.string "そしたら もう とんでもなく\n"
+	.string "おかしく なっちゃったよ!$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "PAW item mods stack,\n"
-	.string "but clamp at +-12.\p"
-	.string "Each WISH comes with a\n"
-	.string "BOON. Willing to take the risk?$"
+	.string "{JPN}ての どうぐの ほせいは かさなるが\n"
+	.string "はんいは マイナス12から プラス12だ。\p"
+	.string "ねがいを かけるたび おんけいが つく。\n"
+	.string "リスクを おかす きは あるか?$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
-	.string "I've tried HMs and TMs,\n"
-	.string "but wtf are AMs ?$"
+	.string "{JPN}ひでんマシンも わざマシンも つかったが\n"
+	.string "くそっ AMって なんなんだよ?$"
 

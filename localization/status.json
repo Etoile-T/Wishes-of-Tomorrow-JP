@@ -50,8 +50,8 @@
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/all-texts-10716.xlsx",
-  "user_review_workbook": "../outputs/translation-all-10716/Wishes_全テキスト翻訳一覧.xlsx",
+  "review_workbook": "exports/types-10716.xlsx",
+  "user_review_workbook": "../outputs/translation-types-10716/Wishes_種類別翻訳一覧.xlsx",
   "last_dialogue_batch": {
     "entries": 63,
     "batches": [
@@ -118,5 +118,21 @@
     "checks": "control checks passed, widths <=26 cells, category <=12 bytes, description <=4 lines",
     "scope": "Regular literal entries only; shared macros and most regular Pokedex text still pending",
     "runtime": "not run; form entry reachability and registration screen unverified"
+  },
+  "excel_layout": {
+    "data_sheets": 12,
+    "other_sheets": [
+      "目次・件数",
+      "用語辞書"
+    ],
+    "total_sheets": 14,
+    "rows": 62429,
+    "catalog_entries": 61722,
+    "external_names": 707,
+    "applied": 11423,
+    "pending": 51006,
+    "memo_key": "row ID; glossary English+Japanese",
+    "scope": "Workbook organization only, no game source or translations changed",
+    "verification": "all rows/IDs/raw text/status, summary formula values and previews; native Excel GUI not tested"
   }
 }

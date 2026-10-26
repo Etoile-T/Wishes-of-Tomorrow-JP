@@ -13,19 +13,24 @@ const commit=execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'})
 const translated=catalog.filter(r=>r.status==='translated');
 const allEntries=process.argv.includes('--all');
 const selected=allEntries?catalog:translated;
+const byType=process.argv.includes('--by-type');
+if(byType&&!allEntries) throw Error('--by-type requires --all to retain translation status');
+const notesPath=process.argv.find(a=>a.startsWith('--notes='))?.slice(8);
+const savedNotes=notesPath?JSON.parse(await fs.readFile(notesPath,'utf8')):{rows:{},terms:{}};
 if(new Set(selected.map(r=>r.id)).size!==selected.length) throw Error('Translation ID mismatch');
 const sourceCache=new Map();
 const fieldSourceCache=new Map();
 function speciesField(row){
-  const declared=(row.target??'').match(/(?:^|\.)(speciesName|categoryName|description)(?:\.|\[|$)/)?.[1];
+  const declared=(row.target??'').match(/(?:^|\.)(speciesName|categoryName|description|name|pluralName)(?:\.|\[|$)/)?.[1];
   if(declared) return declared;
   if(!fieldSourceCache.has(row.file)){
     let source='';
     try{source=execFileSync('git',['show',`23be896714:${row.file}`],{cwd:root,encoding:'utf8',stdio:['ignore','pipe','pipe']});}catch{}
     fieldSourceCache.set(row.file,source);
   }
-  return fieldSourceCache.get(row.file).slice(Math.max(0,row.start-180),row.start)
-    .match(/\.(speciesName|categoryName|description)\s*=\s*(?:_|COMPOUND_STRING)\(\s*$/)?.[1]??'';
+  const prefix=fieldSourceCache.get(row.file).slice(Math.max(0,row.start-180),row.start);
+  return prefix.match(/\.(speciesName|categoryName|description|name|pluralName)\s*=\s*(?:_|COMPOUND_STRING)\(\s*$/)?.[1]
+    ??(/\b\w*Description\w*\s*\[\s*\]\s*=\s*(?:_|COMPOUND_STRING)\(\s*$/.test(prefix)?'description':'');
 }
 function definition(row){
   if(row.target) return row.target;
@@ -45,9 +50,9 @@ function category(row){
     const field=speciesField(row);
     return field==='description'?'図鑑説明':field==='categoryName'?'図鑑分類':field==='speciesName'?'ポケモン名':'ポケモンデータ・要分類';
   }
-  if(row.file==='src/data/moves_info.h') return row.target?.includes('.description') ? '技説明' : '技名';
-  if(row.file==='src/data/abilities.h') return row.target?.includes('.description') ? '特性説明' : '特性名';
-  if(row.file==='src/data/items.h') return /\.(name|pluralName)\[/.test(row.target??'') ? '道具名' : '道具説明';
+  if(row.file==='src/data/moves_info.h') return speciesField(row)==='description' ? '技説明' : '技名';
+  if(row.file==='src/data/abilities.h') return speciesField(row)==='description' ? '特性説明' : '特性名';
+  if(row.file==='src/data/items.h') return ['name','pluralName'].includes(speciesField(row)) ? '道具名' : '道具説明';
   if(row.file==='src/data/types_info.h') return 'タイプ';
   if(row.file==='src/option_menu.c') return '設定';
   if(row.file==='src/wot_randomizer_menu.c') return 'ランダマイザー設定';
@@ -82,8 +87,28 @@ for(const [file,label] of [['trainer-names.json','トレーナー名'],['map-nam
   const table=JSON.parse(await fs.readFile(`${root}/localization/${file}`,'utf8'));
   for(const [en,ja] of Object.entries(table.names)) rows.push([rows.length+1,label,en,ja,'',`${label}:${en}`,'',table.file,`{JPN}${ja}{ENG}`,en,...(allEntries?['翻訳適用済み']:[])]);
 }
+for(const row of rows) row[4]=savedNotes.rows?.[row[5]]??'';
 const wb=Workbook.create();
-const sheet=wb.worksheets.add('翻訳一覧');
+const overview=byType?wb.worksheets.add('目次・件数'):null;
+function group(row){
+  const label=row[1], file=row[7].split(':')[0];
+  if(label.startsWith('図鑑')) return '図鑑';
+  if(label.startsWith('ポケモン')||label==='タイプ') return 'ポケモン';
+  if(label.startsWith('技')) return '技';
+  if(label.startsWith('特性')) return '特性';
+  if(label.startsWith('道具')||label==='バッグ・道具使用') return '道具';
+  if(label==='戦闘メッセージ'||file.startsWith('src/battle_')) return '戦闘';
+  if(['ボックス','名前入力案内','手持ち','ステータス'].includes(label)) return 'ポケモンUI';
+  if(['設定','ランダマイザー設定','開始メニュー','スタートメニュー','スクリプト選択肢'].includes(label)) return 'メニュー・設定UI';
+  if(label.includes('クエスト')) return 'クエスト';
+  if(label.startsWith('会話・看板')||label==='共通会話') return '会話・看板';
+  if(['話者名','地名','トレーナー名','マップ名'].includes(label)) return '人名・地名';
+  return 'その他UI・要分類';
+}
+const grouped=new Map();
+for(const name of (byType?['ポケモン','図鑑','技','特性','道具','戦闘','ポケモンUI','メニュー・設定UI','クエスト','会話・看板','人名・地名','その他UI・要分類']:['翻訳一覧'])) grouped.set(name,[]);
+for(const row of rows) grouped.get(byType?group(row):'翻訳一覧').push(row);
+const sheets=[...grouped].filter(([,items])=>items.length).map(([name,items])=>({name,rows:items,sheet:wb.worksheets.add(name)}));
 const terms=wb.worksheets.add('用語辞書');
 const navy='#243A53', ink='#1C2D40', muted='#5F6F7D';
 function base(s,end){
@@ -95,16 +120,17 @@ function base(s,end){
   s.tabColor=navy;
 }
 const lastCol=allEntries?'K':'J';
+function fillSheet(sheet,rows,name,index){
 base(sheet,`A1:${lastCol}${rows.length+7}`);
-sheet.getRange('A2').values=[['Wishes of Tomorrow　'+(allEntries?'全テキスト翻訳一覧':'日本語訳一覧')]];
-sheet.getRange('A3').values=[[allEntries?`カタログ ${catalog.length.toLocaleString('en-US')}候補　適用済み ${translated.length.toLocaleString('en-US')}　未翻訳 ${(catalog.length-translated.length).toLocaleString('en-US')}　別途名称 ${rows.length-selected.length}件`:`翻訳適用済み ${translated.length.toLocaleString('en-US')}件　2026年10月26日時点`]];
+sheet.getRange('A2').values=[['Wishes of Tomorrow　'+(byType?name:(allEntries?'全テキスト翻訳一覧':'日本語訳一覧'))]];
+sheet.getRange('A3').values=[[byType?`このシート ${rows.length.toLocaleString('en-US')}件　翻訳適用済み ${rows.filter(r=>r[10]==='翻訳適用済み').length.toLocaleString('en-US')}　未翻訳 ${rows.filter(r=>r[10]==='未翻訳').length.toLocaleString('en-US')}`:allEntries?`カタログ ${catalog.length.toLocaleString('en-US')}候補　適用済み ${translated.length.toLocaleString('en-US')}　未翻訳 ${(catalog.length-translated.length).toLocaleString('en-US')}　別途名称 ${rows.length-selected.length}件`:`翻訳適用済み ${translated.length.toLocaleString('en-US')}件　2026年10月26日時点`]];
 sheet.getRange('A4').values=[['原文・訳文の出典: localization/catalog.json　コミット '+commit.slice(0,10)+' + 作業ツリーの訳文']];
 sheet.getRange('A5').values=[[allEntries?'K列の翻訳状態で絞り込めます。未使用・重複・制御のみの候補を含み、画像内文字等は未網羅です。':'［改ページ］・［スクロール］を明示しています。確認メモは自由に記入できます。']];
 sheet.getRange('A6').values=[['表示確認・通しプレイは未完了です。メモの記入だけではゲームに反映されません。']];
 sheet.getRange('A3:J6').format.font.color=muted;
 sheet.getRange(`A7:${lastCol}7`).values=[['No.','区分','英語原文','日本語訳','確認メモ','ID','定義名','原文の出典','日本語訳（制御コード付き）','英語原文（制御コード付き）',...(allEntries?['翻訳状態']:[])]];
 sheet.getRange(`A8:${lastCol}${rows.length+7}`).values=rows;
-const table=sheet.tables.add(`A7:${lastCol}${rows.length+7}`,true,'Translations');
+const table=sheet.tables.add(`A7:${lastCol}${rows.length+7}`,true,'Translations'+index);
 table.style='TableStyleMedium2'; table.showFilterButton=true;
 sheet.getRange(`A7:${lastCol}7`).format={fill:navy,font:{name:'Arial',size:11,bold:true,color:'#FFFFFF'},horizontalAlignment:'center',verticalAlignment:'center',rowHeight:30};
 const widths=[6,24,57,57,32,23,46,60,60,60,...(allEntries?[18]:[])];
@@ -124,8 +150,11 @@ for(let i=0;i<rows.length;i++){
 }
 sheet.freezePanes.freezeRows(7);
 
+}
+for(const [i,item] of sheets.entries()) fillSheet(item.sheet,item.rows,item.name,i);
+
 const statuses={provisional:'暫定',series_terminology:'シリーズ用語'};
-const termRows=glossary.terms.map(t=>[t.source,t.translation,statuses[t.status]??t.status,'']);
+const termRows=glossary.terms.map(t=>[t.source,t.translation,statuses[t.status]??t.status,savedNotes.terms?.[t.source+'\u0000'+t.translation]??'']);
 base(terms,`A1:D${termRows.length+7}`);
 terms.getRange('A2').values=[['用語辞書']];
 terms.getRange('A3').values=[['独自名称は暫定表記です。公式名称の網羅辞書ではありません。']];
@@ -141,21 +170,42 @@ terms.getRange(`A8:D${termRows.length+7}`).format.rowHeight=30;
 terms.getRange(`D8:D${termRows.length+7}`).format.fill='#FFF4CE';
 terms.freezePanes.freezeRows(7);
 
+if(overview){
+  base(overview,`A1:F${sheets.length+9}`);
+  overview.getRange('A2').values=[['Wishes of Tomorrow　種類別 翻訳一覧']];
+  overview.getRange('A3').values=[[`全${rows.length.toLocaleString('en-US')}件（カタログ${catalog.length.toLocaleString('en-US')}件＋別管理名称${rows.length-selected.length}件）`]];
+  overview.getRange('A4').values=[['各シートの翻訳状態で未翻訳を絞り込めます。黄色の確認メモ欄は自由に記入できます。']];
+  overview.getRange('A5').values=[['IDと制御コード付き原文・訳文を維持。メモの記入だけではROMに反映されません。']];
+  overview.getRange('A6').values=[['ファイル・定義に基づく分類です。共通文字列や未分類候補は「その他UI・要分類」に含みます。']];
+  overview.getRange('A7:F7').values=[['シート','全件','翻訳適用済み','未翻訳','その他の状態','案内']];
+  for(const [i,item] of sheets.entries()){
+    const r=i+8,end=item.rows.length+7,ref=`'${item.name}'!`;
+    overview.getRange(`A${r}`).values=[[item.name]];
+    overview.getRange(`B${r}:E${r}`).formulas=[[`=COUNTA(${ref}F8:F${end})`,`=COUNTIF(${ref}K8:K${end},"翻訳適用済み")`,`=COUNTIF(${ref}K8:K${end},"未翻訳")`,`=B${r}-C${r}-D${r}`]];
+    overview.getRange(`F${r}`).values=[[item.name==='会話・看板'?'区分列にマップ名を保持。未使用マップを含みます。':item.name==='図鑑'?'分類・説明・図鑑UIを区分列で絞り込めます。':'英語原文・日本語訳・状態・確認メモ・IDを収録。']];
+  }
+  const total=sheets.length+8;
+  overview.getRange(`A${total}`).values=[['合計']];
+  overview.getRange(`B${total}:E${total}`).formulas=[['B','C','D','E'].map(c=>`=SUM(${c}8:${c}${total-1})`)];
+  overview.getRange(`A${total}:F${total}`).format.fill='#E5EDF5';
+  overview.getRange(`A${total}:F${total}`).format.font.bold=true;
+  overview.getRange('A7:F7').format={fill:navy,font:{name:'Arial',size:11,bold:true,color:'#FFFFFF'},rowHeight:30};
+  [26,14,16,14,18,70].forEach((w,i)=>overview.getRangeByIndexes(0,i,total,1).format.columnWidth=w);
+  overview.getRange(`A8:F${total}`).format.rowHeight=32;
+  overview.getRange(`B8:E${total}`).setNumberFormat('#,##0');
+  overview.freezePanes.freezeRows(7);
+}
 wb.recalculate();
-if(sheet.getRange(`F8:F${rows.length+7}`).values.flat().length!==rows.length) throw Error('Written row mismatch');
-console.log((await wb.inspect({kind:'table',range:'翻訳一覧!A7:D10',include:'values',tableMaxRows:4,tableMaxCols:4,maxChars:2000})).ndjson);
+for(const item of sheets) if(item.sheet.getRange(`F8:F${item.rows.length+7}`).values.flat().length!==item.rows.length) throw Error('Written row mismatch: '+item.name);
+console.log((await wb.inspect({kind:'table',range:byType?`目次・件数!A7:F${sheets.length+8}`:'翻訳一覧!A7:D10',include:'values,formulas',tableMaxRows:20,tableMaxCols:6,maxChars:2500})).ndjson);
 console.log((await wb.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#N/A|#NUM!|#NULL!|#SPILL!|#CALC!',options:{useRegex:true,maxResults:20},summary:'error scan',maxChars:1000})).ndjson);
-const previewCategory=process.argv[4]??'会話・看板（MunenVillage）';
-const storyIndex=rows.findIndex(r=>r[1]===previewCategory);
-if(storyIndex<0) throw Error('Preview category not found: '+previewCategory);
-const storyStart=storyIndex+8;
-const uiStart=rows.findIndex(r=>r[1]==='ランダマイザー設定')+8;
-const nameStart=rows.findIndex(r=>r[1]==='特性名')+8;
-for(const [name,range,file] of [['翻訳一覧','A1:E14','translations'],['用語辞書','A1:D16','glossary'],['翻訳一覧',`A${storyStart}:E${storyStart+3}`,'story'],['翻訳一覧',`A${nameStart}:E${nameStart+7}`,'names'],['翻訳一覧',`A${uiStart}:E${uiStart+6}`,'ui']]){
+const previews=byType?[['目次・件数',`A1:F${sheets.length+8}`,'index'],...sheets.map((item,i)=>[item.name,`A1:E${Math.min(item.rows.length+7,10)}`,'type-'+i]),['用語辞書','A1:D12','glossary']]:[['翻訳一覧','A1:E14','translations'],['用語辞書','A1:D16','glossary']];
+for(const [name,range,file] of previews){
   const png=await wb.render({sheetName:name,range,scale:1.5,format:'png'});
   await fs.writeFile(`${output}/${file}-preview.png`,new Uint8Array(await png.arrayBuffer()));
 }
+const filename=byType?'Wishes_種類別翻訳一覧':allEntries?'Wishes_全テキスト翻訳一覧':'Wishes_日本語訳一覧';
 const xlsx=await SpreadsheetFile.exportXlsx(wb);
-await xlsx.save(`${output}/${allEntries?'Wishes_全テキスト翻訳一覧':'Wishes_日本語訳一覧'}.xlsx`);
-await fs.writeFile(`${output}/review-data.json`,JSON.stringify({commit,rows,terms:termRows},null,2));
-console.log(`Exported ${rows.length} translations and ${termRows.length} glossary entries.`);
+await xlsx.save(`${output}/${filename}.xlsx`);
+await fs.writeFile(`${output}/review-data.json`,JSON.stringify({commit,rows,terms:termRows,sheets:sheets.map(item=>({name:item.name,ids:item.rows.map(row=>row[5])}))},null,2));
+console.log(`Exported ${rows.length} entries in ${sheets.length} data sheets and ${termRows.length} glossary entries.`);

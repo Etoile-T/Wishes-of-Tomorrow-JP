@@ -16,9 +16,13 @@
 | 最新ビルド | `pokeemerald-jp-dex10716.gba`（ROM 29,868,616B / EWRAM 230,024B / IWRAM 28,600B） |
 | ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10716-ae4fa5d9.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
 | 配布パッチ | `../artifacts/wishes-jp-ui10716-ae4fa5d9-patch.zip`、追跡用 `localization/patch-manifest-ui10716.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10716/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10716.xlsx`、62,429行：全61,722候補＋名称707件） |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-10716/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-10716.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+Excelの最新更新: ユーザーの指示で同じブック内の種類別シートへ分割。12データシート（ポケモン・図鑑・技・特性・道具・戦闘・ポケモンUI・メニュー・設定UI・クエスト・会話・看板・人名・地名・その他UI・要分類）＋目次・件数＋用語辞書の14シート。未翻訳を含む全62,429件を重複なく維持。目次の全件62,429／適用済み11,423（カタログ10,716＋別名称707）／未翻訳51,006を各データシートから計算。ゲームの翻訳数・ソース・最新GBAは不変、Excelだけの変更なのでROM再ビルドはしていない。
+
+再生成にはexport_review.mjsの --all --by-type を使う。メモはID（用語は英語＋日本語）で引き継ぐ。先に review_notes.py INPUT.xlsx NOTES.json で保存済みメモを退避し、生成時に --notes=NOTES.json を渡す。旧全件ブック・新しい種類別ブックの両方を読める。今回は旧ブックの保存済みメモ0件、旧ブックは維持。種類別ブックの全行11列・元ID・生原文・生訳・状態・目次集計値を保存後照合し、14シートのプレビュー確認。実Excelアプリは未確認。検証ログ ../artifacts/logs/excel-types-10716-verify.log。共通文字列等の分類はファイル／定義に基づくため「その他UI・要分類」を残す。
 
 最新図鑑44/45: ユーザーが図鑑翻訳を依頼し通常種も追加指定。独自メガ19種＋アーマードミュウツーの分類・説明40件、通常30種の分類・説明60件、計100件を適用。通常種は同一種族・同一フィールドで日本語参考を再利用して英語と照合。共有マクロのピカチュウ・ニドラン等は今回の候補に含まれず、全国番号1〜30の完了ではない。wot_families独自7種は既訳を維持。次は共有マクロの図鑑説明・分類とgen_1の残り通常種（ニドキング以降など）を継続。通常図鑑全体は未完了。
 
@@ -162,8 +166,8 @@ cp -n ../artifacts/play/wishes-jp-<hash>.gba ../outputs/gba/wishes-jp-<件数>-<
 python3 tools/localization/ui_inventory.py && python3 tools/localization/export_table.py
 # Excel: 下記の版別出力で生成し、開いている既存ブックは上書きしない
 cp tools/localization/export_review.mjs ../artifacts/translation-review-build/build_review.mjs
-node ../artifacts/translation-review-build/build_review.mjs "$PWD" ../outputs/translation-review-NNNN '会話・看板（対象マップ名）' --all
-cp ../outputs/translation-review-NNNN/Wishes_全テキスト翻訳一覧.xlsx localization/exports/all-texts-NNNN.xlsx
+node ../artifacts/translation-review-build/build_review.mjs "$PWD" ../outputs/translation-review-NNNN '会話・看板（対象マップ名）' --all --by-type
+cp ../outputs/translation-review-NNNN/Wishes_種類別翻訳一覧.xlsx localization/exports/all-texts-NNNN.xlsx
 # status.json の review_workbook を exports/all-texts-NNNN.xlsx に更新して export_table.py を再実行
 # localization/status.json と HANDOFF_CODEX.md の数値・最新成果物を更新し、docs コミットして push
 ```

@@ -3701,7 +3701,11 @@ u32 BattleStringExpandPlaceholders(const u8 *src, u8 *dst, u32 dstSize)
             {
                 while (*toCpy != EOS)
                 {
-                    if (*toCpy == CHAR_SPACE)
+                    // Trainer dialogue is prose, not an indivisible name.
+                    // NBSP (0x39) is the kana ぐ while Japanese mode is active.
+                    if (*toCpy == CHAR_SPACE
+                     && *src != B_TXT_TRAINER1_LOSE_TEXT && *src != B_TXT_TRAINER2_LOSE_TEXT
+                     && *src != B_TXT_TRAINER1_WIN_TEXT && *src != B_TXT_TRAINER2_WIN_TEXT)
                         dst[dstID] = CHAR_NBSP;
                     else
                         dst[dstID] = *toCpy;

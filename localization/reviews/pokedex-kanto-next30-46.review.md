@@ -11,3 +11,5 @@ yomiyasu-check: executed via=verify run=20261026T044421Z-c5d0ca76 attempt=1 fina
 check bad0、width26マス超0、分類12バイト以内、説明4行以内。catalog validate、audit推定超過0、59テスト成功。種族ファイル2つの文字列と空白以外は開始時HEADと一致。制御コード・ID・原文は維持。実画面・図鑑登録・フォーム切替・進行は未検証。
 
 通常図鑑はまだ未完了。次は同じgen_1ファイルのガーディ以降と、shared_dex_textの残り、地域・メガ等のフォームを継続。
+
+最終成果物: ../outputs/gba/wishes-jp-10782-082d046d.gba。BPS再適用はSHA256/CRCとバイト一致。種類別Excelは14シート・全62,429件を保存後にID・生原文・生訳・状態・メモ・91用語・目次の集計値で照合し一致。旧ブック保存済みメモ0件、新版と一致。検証ログ../artifacts/logs/excel-types-10782-verify.log。実Excelアプリ未確認。

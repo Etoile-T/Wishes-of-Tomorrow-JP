@@ -9,16 +9,24 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `ff0cd5000ce9a5cc43cec2d5e42d78a5fb7f2e41`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,716、pending 51,006（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `3d130d58815d6d56f982eb68a117637e7dd5d5a6`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,782、pending 50,940（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で59件成功 |
-| 最新ビルド | `pokeemerald-jp-dex10716.gba`（ROM 29,868,616B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10716-ae4fa5d9.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10716-ae4fa5d9-patch.zip`、追跡用 `localization/patch-manifest-ui10716.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-10716/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-10716.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-dex10782.gba`（ROM 29,866,120B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10782-082d046d.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10782-082d046d-patch.zip`、追跡用 `localization/patch-manifest-ui10782.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-10782/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-10782.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+最新図鑑46: 通常33種（gen_1内のニドキング〜コノヨザルの通常30種と関連進化、ピカチュウ・ニドラン♀♂）の分類・説明66件を追加。ピカチュウの本文は共有定義gPikachuPokedexTextを更新。ニドランは共有マクロではなく、定数名の_F/_Mが前回の抽出条件から除外された個別定義だった。前回の「共有マクロ」という推測を訂正。通常図鑑は未完了、次はガーディ以降とshared_dex_textの残り・別フォーム。
+
+開始時HEAD cde0d01a88・クリーン。status/stats61722/10716/51006一致。今回は61722/10782/50940。英語と参考訳を照合し、ピィの夜露→朝露、ニドキングの送電塔を倒す描写、クロバットの進化と前後の翼、ニャイキングの戦いのスリル、クサイハナのcan/saidの確度のかかり先を修正。yomiyasu meaning_risk=1は参考訳「らしい」の変更指摘で、英語のcanを「ことがある」、saidを愛好家の節の「いわれている」として維持した判断をレビューに記録。
+
+check bad0・26マス超0・分類12バイト以内・説明4行以内、59テスト・audit超過0・catalog validate成功。種族2ファイルの文字列・空白以外は開始時HEADと一致。GBA wishes-jp-10782-082d046d.gba、ROM29,866,120B/EWRAM230,024/IWRAM28,600。新規OBJ_DIR build/emerald-jp-dex10782-clean。ログ../artifacts/build-dex10782.log。SHA256 ff49a49229b190893733207f14bcac0a836ac6324239b3a41d1ab4072623e6ab。BPS再適用バイト一致。種類別Excel10782版は14シート・全62,429件、適用済み11,489（カタログ10,782＋別名称707）、未翻訳50,940。実画面・図鑑登録・フォーム・進行は未検証。
+
+以下は以前の記録。
 
 Excelの最新更新: ユーザーの指示で同じブック内の種類別シートへ分割。12データシート（ポケモン・図鑑・技・特性・道具・戦闘・ポケモンUI・メニュー・設定UI・クエスト・会話・看板・人名・地名・その他UI・要分類）＋目次・件数＋用語辞書の14シート。未翻訳を含む全62,429件を重複なく維持。目次の全件62,429／適用済み11,423（カタログ10,716＋別名称707）／未翻訳51,006を各データシートから計算。ゲームの翻訳数・ソース・最新GBAは不変、Excelだけの変更なのでROM再ビルドはしていない。
 

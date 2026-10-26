@@ -9,16 +9,30 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `0a926a6abb24c5c62126f49eddfdeec5b6d406a2`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 11,228、pending 50,494（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `611fb4a23420f7dc01c71aa5c0ea35ad5743b068`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 11,646、pending 50,076（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で59件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg11228.gba`（ROM 29,862,344B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-11228-5e8294d0.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui11228-5e8294d0-patch.zip`、追跡用 `localization/patch-manifest-ui11228.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-11228/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-11228.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-dlg11646.gba`（ROM 29,858,024B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-11646-c6f4a737.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui11646-c6f4a737-patch.zip`、追跡用 `localization/patch-manifest-ui11646.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-11646/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-11646.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+最新会話50/51: ストーリー全訳を維持して再開し、418行・96メッセージを翻訳。研究所219行（既訳7行は維持）、赤いギャラドス／Frostwoodの家族・店・センター／ゴンドラ／初ジムRedFatalityの199行。旧フォルダ名・旧ラベルだけで原作の台詞と判断しない。RustboroCity_GymのRoxanneという旧ラベルでも本文はWishesのRedFatalityなので、JP参考のツツジの台詞をコピーしてはいけない。今回7マップのカタログpendingは0になったが、ストーリー全訳は未完了。
+
+開始時HEADd402c37619・クリーン、status/stats61722/11228/50494一致。今回は61722/11646/50076。7スクリプトの非.string行は開始時と完全一致。変数・改ページ・スクロール・終端は元行を維持。check bad0/26マス超0、catalog validate、audit超過0、59テスト成功。yomiyasuは研究所lint0、Frostwoodは一覧見出し末尾コロン警告1を機能上必要として維持、meaning_riskは両方0。辞書101語。エニシダ／タイドリップごうは参照JPと照合。Yiffは「イフ」の暫定音写。乱暴な口調、スキー用語、Halo 3/MLG/Instagram等は原文に沿って残した。
+
+GBA wishes-jp-11646-c6f4a737.gba、ROM29,858,024B/EWRAM230,024/IWRAM28,600。新規OBJ_DIR build/emerald-jp-dlg11646-clean、ログ../artifacts/build-dlg11646.log。SHA256 196deb34ff6fb239a74289e0b0672961948265d27efa94be0f210368cf4e5518。BPS再適用バイト一致。種類別Excel11646版は14シート・全62,429件、適用済み12,353（カタログ11,646＋名称707）、未翻訳50,076。保存後の全行11列・ID・生文字列・状態・メモ・辞書101語・目次集計を照合。実画面・ジム・バッジ・列車解放・家族イベント・図鑑報酬・保存再読み込みは未検証。
+
+次の候補: story_candidates.pyで新ラベルを調査。story-new-label-candidates.jsonは51行・34ラベル（主にMauvilleCity_GameCornerのWotText景品メニューと確認、LilycoveCity_DepartmentStore_2FのWASTER BALL／ルージュラの夫婦会話8行、4FのAM説明9行、MtChimneyの隕石説明4行）。これらを優先しつつ、同じ旧ラベルのまま上書きされた本文も必ず調べる。新ラベルがゼロでも完了ではない。
+
+マップグラフは460候補・map内pending14,173。条件・地形・C/共通/動的ワープ・未抽出文字列は未網羅。必要なら同バージョンの英語expansionを調べ、元の英語をラベルと本文の両方で比較してWishesの書き換えを識別する。参照JPでは英語本文の比較はできない。研究所でもクラークソンの独自7行とオダマキ由来の219行が混在するため、原文の人物名を勝手に統一しない。
+
+ユーザーのストーリー全訳目標は保持。作業履歴の長いこの区切りをpushして指定の中断とし、再開時は上記から継続。図鑑全件は保留。
+
+以下は以前の記録。
 
 最新会話48/49とユーザー指定の中断: ユーザーは「育て屋終了後、ストーリー全訳まで継続。トークンが切れそうならpushして中断」と指定。作業履歴が長くなったこの区切りをpushして中断する。**ストーリー全訳は未完了。次の再開では研究所219行を訳し、その後もストーリー全訳の目標を維持する。** 図鑑全件は保留のまま。
 
@@ -114,7 +128,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
-1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。次はsrc/strings.cなど残りUI、または図鑑・技説明。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。次はMauvilleCity_GameCorner・Lilycove百貨店等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

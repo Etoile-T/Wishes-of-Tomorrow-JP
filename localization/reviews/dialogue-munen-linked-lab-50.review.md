@@ -10,3 +10,5 @@ yomiyasu script lint/run/verify実施。原文と英日を読んで確認。指�
 yomiyasu-check: executed via=verify run=20261026T105420Z-4d6aab5c attempt=1 final=sha256:d03fef26d64e mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=0 replay=skipped
 
 script_batch→check bad0/width26マス超0→update_catalog dry-run/apply。校正後のバッジ文1件も小さなIDバッチで再適用し、元バッチと一致。catalog validate・audit推定超過0・59テスト成功。7スクリプトの.string以外は開始時と完全一致。名前・数字・変数・改ページ・スクロール・終端の行位置を保持。ゲームロジック・イベント・セーブ構造は不変。実画面・進行・電話・報酬は未検証。
+
+最終成果物: ../outputs/gba/wishes-jp-11646-c6f4a737.gba。BPS再適用のSHA256/CRC・バイト一致成功。種類別Excelは14シート・全62,429行11列と101用語、メモ、集計を保存後照合し一致。旧ブック保存メモ0件、新版と一致。../artifacts/logs/excel-types-11646-verify.log。実Excelアプリ／ゲーム画面は未検証。

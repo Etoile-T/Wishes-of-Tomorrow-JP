@@ -84,8 +84,6 @@ enum {
     WIN_TEXT_ENTRY_BOX,
     WIN_BANNER,
     WIN_PAGE_LABEL,
-    WIN_BACK_LABEL,
-    WIN_OK_LABEL,
     WIN_COUNT,
 };
 
@@ -284,9 +282,8 @@ static const struct WindowTemplate sWindowTemplates[WIN_COUNT + 1] =
         .paletteNum = 11,
         .baseBlock = 0x074
     },
-    [WIN_PAGE_LABEL] = {.bg = 0, .tilemapLeft = 23, .tilemapTop = 9, .width = 6, .height = 2, .paletteNum = 11, .baseBlock = 0x0B0},
-    [WIN_BACK_LABEL] = {.bg = 0, .tilemapLeft = 23, .tilemapTop = 13, .width = 6, .height = 2, .paletteNum = 11, .baseBlock = 0x0BC},
-    [WIN_OK_LABEL] = {.bg = 0, .tilemapLeft = 23, .tilemapTop = 16, .width = 6, .height = 2, .paletteNum = 11, .baseBlock = 0x0C8},
+    // Transparent overlay on the page swap button's label slot (kana keyboards only).
+    [WIN_PAGE_LABEL] = {.bg = 0, .tilemapLeft = 23, .tilemapTop = 9, .width = 5, .height = 2, .paletteNum = 11, .baseBlock = 0x0B0},
     DUMMY_WIN_TEMPLATE
 };
 
@@ -1149,7 +1146,7 @@ static void SetCursorPos(s16 x, s16 y)
     struct Sprite *cursorSprite = &gSprites[sNamingScreen->cursorSpriteId];
 
     if (x < GetCurrentPageColumnCount())
-        cursorSprite->x = (sNamingScreen->keyboardFamily ? x * 8 : sPageColumnXPos[CurrentPageToKeyboardId()][x]) + 38;
+        cursorSprite->x = sNamingScreen->keyboardFamily ? x * 8 + 28 : sPageColumnXPos[CurrentPageToKeyboardId()][x] + 38;
     else
         cursorSprite->x = 0;
 
@@ -1279,7 +1276,8 @@ static u8 (*const sPageSwapSpriteFuncs[])(struct Sprite *) =
 static void SpriteCB_PageSwap(struct Sprite *sprite)
 {
     while (sPageSwapSpriteFuncs[sprite->sState](sprite));
-    gSprites[sprite->sTextSpriteId].invisible = TRUE;
+    // The Latin page names (UPPER/lower/others) do not apply to kana keyboards.
+    gSprites[sprite->sTextSpriteId].invisible = sNamingScreen->keyboardFamily != 0;
 }
 
 static bool8 PageSwapSprite_Init(struct Sprite *sprite)
@@ -2129,20 +2127,20 @@ static void PrintKeyboardKeys(u8 window, u8 page)
     {
         if (sNamingScreen->keyboardFamily)
         {
-            u8 col;
+            // One printer per row: each printer queues a window copy, and per-glyph
+            // printers overflowed the DMA queue so the BG tilemap copies were dropped.
+            // Every glyph is 8px wide in {JPN} mode, so columns stay at col * 8.
+            u8 col, text[JP_KBCOL_COUNT + 5];
+            text[0] = EXT_CTRL_CODE_BEGIN;
+            text[1] = EXT_CTRL_CODE_JPN;
             for (col = 0; col < JP_KBCOL_COUNT; col++)
-            {
-                u8 text[6];
-                u8 glyph = sJapaneseKeyboard[sNamingScreen->keyboardFamily - 1][i][col];
-                NamingInputEncode(text, sizeof(text), &glyph, 1);
-                text[0] = EXT_CTRL_CODE_BEGIN;
-                text[1] = EXT_CTRL_CODE_JPN;
-                text[2] = glyph;
-                text[3] = EXT_CTRL_CODE_BEGIN;
-                text[4] = EXT_CTRL_CODE_ENG;
-                text[5] = EOS;
-                AddTextPrinterParameterized3(window, FONT_NORMAL, col * 8, i * 16 + 1, sKeyboardTextColors[page], 0, text);
-            }
+                text[2 + col] = sJapaneseKeyboard[sNamingScreen->keyboardFamily - 1][i][col];
+            if (i == 3)
+                text[2 + 12] = CHAR_SPACE; // kana/katakana switch key, labelled below
+            text[2 + JP_KBCOL_COUNT] = EXT_CTRL_CODE_BEGIN;
+            text[3 + JP_KBCOL_COUNT] = EXT_CTRL_CODE_ENG;
+            text[4 + JP_KBCOL_COUNT] = EOS;
+            AddTextPrinterParameterized3(window, FONT_NORMAL, 0, i * 16 + 1, sKeyboardTextColors[page], 0, text);
         }
         else
             AddTextPrinterParameterized3(window, FONT_NORMAL, 0, i * 16 + 1, sKeyboardTextColors[page], 0, sNamingScreenKeyboardText[page][i]);
@@ -2264,19 +2262,15 @@ static void PrintControls(void)
     else
         AddTextPrinterParameterized3(sNamingScreen->windows[WIN_BANNER], FONT_SMALL, 2, 1, color, 0, sText_MoveOkBack);
     {
-        const u8 *page = sNamingScreen->keyboardFamily ? COMPOUND_STRING("{JPN}ABC{ENG}")
-            : sNamingScreen->currentPage == KBPAGE_LETTERS_UPPER ? COMPOUND_STRING("{JPN}abc{ENG}")
-            : sNamingScreen->currentPage == KBPAGE_LETTERS_LOWER ? COMPOUND_STRING("{JPN}きごう{ENG}") : COMPOUND_STRING("{JPN}かな{ENG}");
-        const u8 *labels[] = {page, COMPOUND_STRING("{JPN}けす{ENG}"), COMPOUND_STRING("{JPN}けってい{ENG}")};
-        u8 i;
-        for (i = 0; i < 3; i++)
-        {
-            u8 win = sNamingScreen->windows[WIN_PAGE_LABEL + i];
-            FillWindowPixelBuffer(win, PIXEL_FILL(15));
-            AddTextPrinterParameterized3(win, FONT_SMALL, 2, 1, color, 0, labels[i]);
-            PutWindowTilemap(win);
-            CopyWindowToVram(win, COPYWIN_FULL);
-        }
+        // On kana keyboards SELECT returns to the Latin keyboard; Latin pages keep
+        // their own UPPER/lower/others sprite in the same slot.
+        const u8 labelColor[3] = { TEXT_COLOR_TRANSPARENT, TEXT_COLOR_WHITE, TEXT_COLOR_DARK_GRAY };
+        u8 win = sNamingScreen->windows[WIN_PAGE_LABEL];
+        FillWindowPixelBuffer(win, PIXEL_FILL(0));
+        if (sNamingScreen->keyboardFamily)
+            AddTextPrinterParameterized3(win, FONT_SMALL, 8, 2, labelColor, 0, COMPOUND_STRING("{JPN}ABC{ENG}"));
+        PutWindowTilemap(win);
+        CopyWindowToVram(win, COPYWIN_FULL);
     }
     PutWindowTilemap(sNamingScreen->windows[WIN_BANNER]);
     CopyWindowToVram(sNamingScreen->windows[WIN_BANNER], COPYWIN_FULL);

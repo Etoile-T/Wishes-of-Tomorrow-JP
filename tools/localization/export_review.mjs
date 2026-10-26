@@ -15,6 +15,18 @@ const allEntries=process.argv.includes('--all');
 const selected=allEntries?catalog:translated;
 if(new Set(selected.map(r=>r.id)).size!==selected.length) throw Error('Translation ID mismatch');
 const sourceCache=new Map();
+const fieldSourceCache=new Map();
+function speciesField(row){
+  const declared=(row.target??'').match(/(?:^|\.)(speciesName|categoryName|description)(?:\.|\[|$)/)?.[1];
+  if(declared) return declared;
+  if(!fieldSourceCache.has(row.file)){
+    let source='';
+    try{source=execFileSync('git',['show',`23be896714:${row.file}`],{cwd:root,encoding:'utf8',stdio:['ignore','pipe','pipe']});}catch{}
+    fieldSourceCache.set(row.file,source);
+  }
+  return fieldSourceCache.get(row.file).slice(Math.max(0,row.start-180),row.start)
+    .match(/\.(speciesName|categoryName|description)\s*=\s*(?:_|COMPOUND_STRING)\(\s*$/)?.[1]??'';
+}
 function definition(row){
   if(row.target) return row.target;
   if(!sourceCache.has(row.file)) {
@@ -29,7 +41,10 @@ function definition(row){
   return labels[lo-1]?.label??'';
 }
 function category(row){
-  if(row.file.includes('/pokemon/species_info/')) return row.target?.includes('.description') ? '図鑑説明' : row.target?.includes('.categoryName') ? '図鑑分類' : 'ポケモン名';
+  if(row.file.includes('/pokemon/species_info/')){
+    const field=speciesField(row);
+    return field==='description'?'図鑑説明':field==='categoryName'?'図鑑分類':field==='speciesName'?'ポケモン名':'ポケモンデータ・要分類';
+  }
   if(row.file==='src/data/moves_info.h') return row.target?.includes('.description') ? '技説明' : '技名';
   if(row.file==='src/data/abilities.h') return row.target?.includes('.description') ? '特性説明' : '特性名';
   if(row.file==='src/data/items.h') return /\.(name|pluralName)\[/.test(row.target??'') ? '道具名' : '道具説明';

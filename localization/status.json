@@ -3,18 +3,18 @@
   "baseline_commit": "efb1c880d0b486c1948763051b6c1bb8990a7353",
   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
   "total_candidates": 61722,
-  "translated": 10574,
-  "pending": 51148,
+  "translated": 10616,
+  "pending": 51106,
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": 51,
-  "bps_roundtrip": "passed: 10574 clean build exact target bytes, SHA256/CRC checked",
+  "tests_passed": 57,
+  "bps_roundtrip": "passed: 10616 clean objects build, exact target bytes, SHA256/CRC checked",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "kana3: keyboard board/entry/background drawn (one printer per row; per-glyph printers overflowed DMA queue), けす/おわり buttons, cursor aligned; verified by mgba_probe VRAM render, GUI play unverified",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29871208,
+  "jp_rom_used_bytes": 29871720,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -22,7 +22,7 @@
     "move": 923,
     "species": 1321
   },
-  "work_state": "in_progress_custom_map_dialogue",
+  "work_state": "in_progress_species_names",
   "pause_scope": "User expanded work to all UI; Pokemon data and UI scope remain incomplete",
   "translation_review": "Types/pockets and seven resale-description corrections reviewed with yomiyasu; remaining new ability/item batches still need full semantic review",
   "verification_policy": "Static validation and builds first. GUI gameplay verification deferred per user.",
@@ -31,7 +31,7 @@
   "ui_added": 1220,
   "ui_inventory_files": 59,
   "ui_pending_language_candidates": 2344,
-  "excel_translated_rows": 11281,
+  "excel_translated_rows": 11323,
   "reported_graphics_issue": "Closed at user request: user identified emulator bug; stop investigating and resume translation",
   "graphics_diagnostic_build": {
     "status": "passed",
@@ -40,18 +40,18 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-544ab4a7efd36130.gba",
-  "latest_patch_manifest": "patch-manifest-ui10574.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-baf29ca44ceeeed0.gba",
+  "latest_patch_manifest": "patch-manifest-ui10616.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-10574-74ea4c79.gba",
+  "user_output_rom": "../outputs/gba/wishes-jp-10616-68a7f93e.gba",
   "dialogue_progress": "Applied: DragonKeeper and MewtwoPostGame, plus previously listed custom maps. No pending catalog rows in map folders absent from local JP reference except *_Frlg. This heuristic excludes custom dialogue in reused Emerald maps and unextracted text.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/all-texts-10574.xlsx",
-  "user_review_workbook": "../outputs/translation-all-10574/Wishes_全テキスト翻訳一覧.xlsx",
+  "review_workbook": "exports/all-texts-10616.xlsx",
+  "user_review_workbook": "../outputs/translation-all-10616/Wishes_全テキスト翻訳一覧.xlsx",
   "last_dialogue_batch": {
     "entries": 63,
     "batches": [
@@ -64,7 +64,7 @@
   },
   "excel_total_rows": 62429,
   "excel_catalog_rows": 61722,
-  "excel_pending_rows": 51148,
+  "excel_pending_rows": 51106,
   "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings",
   "name_input_limits": {
     "player_rival": 5,
@@ -74,5 +74,21 @@
     "save_layout": "unchanged",
     "runtime": "see kana3 review; new dialogue not played"
   },
-  "build_directory": "build/emerald-jp10574-clean"
+  "build_directory": "build/emerald-jp10616-clean",
+  "last_species_name_batch": {
+    "entries": 42,
+    "batches": [
+      "species-names-remaining-39",
+      "species-name-armored-40"
+    ],
+    "implementation_commits": [
+      "d1a46e13d4",
+      "bfdc0ef026"
+    ],
+    "pending_literal_species_names_in_catalog": 0,
+    "armored_display": "アーマードミュウツー",
+    "name_span_max_glyphs": 10,
+    "save_layout": "unchanged; existing 12-byte nickname support",
+    "runtime": "not run; 5px small-font readability, battle, communication and saves unverified"
+  }
 }

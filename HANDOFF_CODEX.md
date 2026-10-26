@@ -9,16 +9,28 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `4e6a5d940325db928598920cfbe7c84a68d7ddf8`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,574、pending 51,148（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `bfdc0ef0261335888a31a8c9e9e4c83827009842`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,616、pending 51,106（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
-| テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で51件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg10574-clean.gba`（ROM 29,871,208B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10574-74ea4c79.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10574-74ea4c79-patch.zip`、追跡用 `localization/patch-manifest-ui10574.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10574/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10574.xlsx`、62,429行：全61,722候補＋名称707件） |
+| テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で57件成功 |
+| 最新ビルド | `pokeemerald-jp-names10616-final.gba`（ROM 29,871,720B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10616-68a7f93e.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10616-68a7f93e-patch.zip`、追跡用 `localization/patch-manifest-ui10616.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10616/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10616.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+今回（種族名42件）の開始時: statusとcatalog statsは61,722 / 10,574 / 51,148で一致。mainの最新da1c0eeb55、作業ツリーはクリーン。
+
+今回の追加: 独自メガ19件と通常／共通定義22件、アーマードミュウツー1件の計42件。カタログ内の未翻訳リテラルspeciesNameは0件（図鑑分類・説明やカタログ外の完全網羅を意味しない）。バッチ39/40、レビュー `localization/reviews/species-names-39-40.review.md`、棚卸し `localization/species-name-audit-39.json`。yomiyasu検証済み、アンノーンへのmetaphor_label指摘は固有名詞として維持。種族データ9ファイルの文字列以外の内容は不変。
+
+ユーザーの選択に従い「アーマードミュウツー」を省略せず表示するため、既存の長さ指定日本語制御をJPN_NAME_1〜10へ拡張。入力上限は引き続き日本語5文字、セーブ構造は変更していない。既存12バイトの種族名／ニックネーム経路を使う。旧デフォルト名Armor Mewtwoは種族と12バイトが一致する場合のみ表示バッファで置換し、保存データは書き換えない。古い10バイト限定経路は8かなまでとなり、制御コードの長さを補正して後続の言語漏れを防ぐ。戦闘名欄は日本語FONT_SMALL_NARROWERのみ5pxへ縮小、長い種族名の名前入力見出しは既存の小さいフォントへ切替。**縮小字形の可読性・戦闘・保存・通信等は未実機検証。** エンジンのC文字列位置は元IDを維持してcode_offset補正済み。旧値へ戻さない。
+
+今回の検証: catalog validate成功、audit推定超過0、57テスト成功。新規OBJ_DIR=build/emerald-jp10616-cleanでビルド。ログ `../artifacts/build-names10616-final.log`、ROM29,871,720B / EWRAM230,024B / IWRAM28,600B。SHA256 `baf29ca44ceeeed004dbb40e5a291a716f10fe676104057489e0c82627822c09`、CRC68a7f93e。BPSのSHA/CRC検査付き再適用結果はバイト一致（`../artifacts/logs/verify-10616.log`）。元ROMは32MiB・CRC62ba561eのソースビルド英語版。公式1.2.6 BPSやクリーンEmeraldとは別物。
+
+今回のExcel: 全62,429行、カタログ61,722件＋別管理名称707件。カタログ翻訳済み10,616、未翻訳51,106。保存後の全行11列とエクスポートデータ、カタログID・生原文・生訳・状態を照合して一致（`../artifacts/logs/excel-all-10616-verify.log`）。従来の分類誤りも修正し、未翻訳の図鑑分類・説明を「ポケモン名」と表示しない。プレビュー確認済み、実Excelアプリは未確認。旧Excel・ROM・セーブは維持。
+
+以下の10574版の記録は直前の会話翻訳の履歴。
 
 今回の開始時: statusとcatalog statsは61,722 / 10,511 / 51,211で一致。mainの最新34301241c8、作業ツリーはクリーン。Claude Codeのkana3実装を確認して維持。旧全件Excel2ファイルの保存済みメモは0件。既存ROM・セーブ・Excelは変更していない。
 
@@ -58,7 +70,7 @@
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。
 5. 元のホウエン／カントーの会話（`data/maps/` の元マップ、`data/text/*.inc`）。Wishes から到達する範囲は不明確で、量が多い（数万行）。
 6. 道具・特性の説明の意味レビュー（参考フォークからの取り込みで、全件の意味確認は未了）。
-7. 漢字、名前入力の実動作・文字数拡張の設計、画像内の文字、通しプレイ。
+7. 漢字、名前入力と長い種族名の実動作・縮小字形の可読性・通信、画像内の文字、通しプレイ。
 
 ## 4. 会話を訳す手順（いつもの流れ）
 
@@ -103,7 +115,7 @@ python3 tools/localization/catalog.py validate
 
 | 対象 | 制限 | 備考 |
 | --- | --- | --- |
-| 種族名 | 10バイト（JPN/ENG各2バイト込み） | かな6文字まで |
+| 種族名 | 最大12バイト（既存speciesName[13]） | JPN_NAME_10ならかな10文字。旧10バイト限定経路は8文字まで。入力欄は5文字のまま |
 | 技・特性名 | 16バイト | |
 | トレーナー名 | 12バイト＋EOS（`trainerName[13]`） | `trainers.party` の `Name:` を直接編集。対訳は `localization/trainer-names.json` |
 | 肩書き | 13バイト＋EOS（`name[14]`） | カタログの `src/battle_main.c` |

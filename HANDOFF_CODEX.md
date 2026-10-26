@@ -13,9 +13,9 @@
 | カタログ | 61,722候補のうち翻訳済み 10,511、pending 51,211（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で51件成功 |
-| 最新ビルド | `pokeemerald-jp-kana3.gba`（ROM 29,871,752B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10511-kana2-b6c3c432.gba`（README.txt 更新済み。ユーザーはkana1版の.savでプレイ中） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10511-kana2-b6c3c432-patch.zip`、追跡用 `localization/patch-manifest-ui10511-kana2.json` |
+| 最新ビルド | `pokeemerald-jp-kana4.gba`（ROM 29,871,560B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10511-kana3-57279866.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10511-kana3-57279866-patch.zip`、追跡用 `localization/patch-manifest-ui10511-kana3.json` |
 | Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10511/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10511.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
@@ -27,6 +27,8 @@
 検証: dialogue_tools check両バッチbad 0、個別・連結後の幅は26マス超0、スクロール前のページは2行超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `e8d1fc025dcc6c1fbd20d91fb28d39decf374965eb4020c32b2f93ef022efcf7`。ログは `../artifacts/build-dlg10511.log`、`../artifacts/logs/dialogue-36-37-tests.log`、`verify-10511.log`。実機・画面・進行は未検証。
 
 全件Excel: K列が翻訳状態、D列が読みやすい訳、I/J列が制御コード付き訳／原文、F列がID。未翻訳51,211件、適用済み10,511件、別管理名称707件。全62,429行と用語辞書89件を収録。画像・未抽出文字列の網羅を意味しない。Excelへの記入は自動でゲームに反映されない。保存後に全62,429行のID・順番・原文・訳文・状態と89用語を照合し一致、フィルター・7行固定を確認、プレビュー目視済み。ログは `../artifacts/logs/excel-all-10511-verify.log`。Excel実アプリは未実行。
+
+名前入力（kana3、表示修正）: コミット `be9aa0de55f34af6c726f55c2ab8da3fd96207c3`。kana2ではキーボード盤面・入力欄・背景が出なかった（1文字ずつの描画命令でDMA待ち行列があふれ、BG配置データの転送が捨てられていた）。1行1回の描画に直し、BACK/OKの画像を「けす」「おわり」に描き直し（`tools/localization/naming_buttons.py`）、カーソル位置を `x*8+28` に修正。レビューは `localization/reviews/naming-kana-03.review.md`。**画面確認は `tools/localization/mgba_probe.py`**（headless mGBAのデバッガでキー入力を再現し、VRAMから画面を再構成する。試験用ROMの作り方は同ファイルの説明を参照。試験用の仕掛けはコミットしない）。
 
 名前入力（kana2、Claude Codeが引き継ぎ）: 実装コミット `a3d34bf057eab697f4eb6ab503b8b8b948d84439`。日本語版エメラルドと同じキー配列（濁点・半濁点・小文字・かな/カナ切替キー）。日本語を含む名前は全項目5文字。保存は新しい制御コード `EXT_CTRL_CODE_JPN_NAME_1`〜`_5`（FC 1D〜21、「次のn文字を日本語で描いて元の言語に戻す」2バイト）で、セーブ構造は不変。`RenderText`・`GetStringWidth`・`StringExpandPlaceholders`が対応。英字だけの名前は従来の長さ（`NamingInputKanaLimit`）。付け直しは `NamingInputDecode` で新旧形式の制御コードを除いてから編集欄へ写す。kana1版の旧形式（FC 15…FC 16）の名前も表示・付け直し可能。naming_screen.c の後ろ5項目のcode_offsetは8907。レビューは `localization/reviews/naming-kana-02.review.md`。キー操作・保存後表示・通信等は未検証。
 

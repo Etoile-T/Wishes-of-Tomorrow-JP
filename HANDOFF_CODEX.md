@@ -9,16 +9,22 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `42e1b84b70a70325b5fcbf0cd0de232e3cc87dd0`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| 最新の翻訳コミット | `010c536f57cb251921d9320fb8efd04e139208d5`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
 | カタログ | 61,722候補のうち翻訳済み 10,616、pending 51,106（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
-| テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で57件成功 |
-| 最新ビルド | `pokeemerald-jp-ar10616.gba`（ROM 29,871,752B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10616-ar-b4237eaf.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10616-ar-b4237eaf-patch.zip`、追跡用 `localization/patch-manifest-ui10616-ar.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10616-ar/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10616-ar.xlsx`、62,429行：全61,722候補＋名称707件） |
+| テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で59件成功 |
+| 最新ビルド | `pokeemerald-jp-storage10616.gba`（ROM 29,872,008B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10616-storage-1895cd6a.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10616-storage-1895cd6a-patch.zip`、追跡用 `localization/patch-manifest-ui10616-storage.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10616-storage/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10616-storage.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+最新修正42/43: 勝敗台詞の空白が「ぐ」になる原因はBattleStringExpandPlaceholdersのNBSP変換。トレーナー1/2の勝ち・負け台詞では変換しない。別件のボックス不具合はgText_Boxが制御付き8バイト＋番号＋EOSでboxNames[][9]を超え、次の名前が前のEOSを消し、タイトル用40バイトの作業領域を超えて読み書きし得る。接頭辞をJPN_NAME_4（6バイト）に変更。GetBoxNamePtrで厳密一致した旧既定名だけ番号を再構成、全名称の8バイト末尾を終端。不正壁紙IDは表示時に既定値を使用。セーブ構造は不変。名称はRAMで補正され、通常ゲーム内セーブ時には補正名も保存される。ホストの.savは未変更。全59テスト・catalog validate・audit・ビルド・BPS再適用バイト一致成功。A操作・アイコン・実画面の復旧は未確認。レビューはbattle-dialogue-spaces-42 / storage-default-name-43。
+
+最新GBA: wishes-jp-10616-storage-1895cd6a.gba、ROM29,872,008B、EWRAM230,024/IWRAM28,600。ビルドログ ../artifacts/build-storage10616.log。新規OBJ_DIR=build/emerald-jp-storage10616-clean。SHA256 f24fdb9f081ba2e0edaf26f6cc8d65f1719da91a92376fc9ac6ce4ef43343272。翻訳件数10616は不変。Excelは制御付き生訳が1件変わるため10616-storage版へ更新。
+
+以下は旧版の記録。
 
 最新の修正41: ユーザーの画面報告で5px圧縮の文字欠落を確認。「ARミュウツー」へ短縮し、日本語FONT_SMALL_NARROWERを元の8px幅に戻した。英字AR＋かな5字は48pxで55px欄に収まる。会話は正式名のまま。旧英語・前版の日本語フル名は種族と全バイトが一致するデフォルト名だけ表示時変換。セーブは書き換えない。57テスト、audit、ビルド、BPS照合成功。実画面・通信・保存は未検証。レビュー species-armored-readable-41.review.md。最新GBAは wishes-jp-10616-ar-b4237eaf.gba。ROM29,871,752B。今回開始時 status/stats一致、HEAD e68ca7fae7・作業ツリークリーン。
 

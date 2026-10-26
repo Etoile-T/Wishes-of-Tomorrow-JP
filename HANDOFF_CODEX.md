@@ -16,7 +16,7 @@
 | 最新ビルド | `pokeemerald-jp-dlg10312.gba`（ROM 29,869,416B / EWRAM 230,024B / IWRAM 28,600B） |
 | ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10312-b4119a6c.gba`（README.txt 更新済み） |
 | 配布パッチ | `../artifacts/wishes-jp-ui10312-b4119a6c-patch.zip`、追跡用 `localization/patch-manifest-ui10312.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-review-10312/Wishes_日本語訳一覧.xlsx`（Git内コピー `localization/exports/translated-texts-10312.xlsx`、11,019行） |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10312/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10312.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -25,6 +25,8 @@
 今回の追加: CelebiIsland 114、UndergroundArena 102、計216件。対象2ファイルのpendingは0。会話以外のスクリプト内容は翻訳前と同一。レビューは `localization/reviews/dialogue-celebi-arena-34-35.review.md`。前回のRebelHideout・TradewindTown一帯409件も適用済み。ツジの敗北時原文の違和感は前回のレビューへ記録しており、未解決のまま維持している。
 
 検証: dialogue_tools check両バッチbad 0、widthは26マス超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `fe8ccc9401194cdec32c49f6f54b3246d1c90ffd1586d9499daa969b7022afb7`。ログは `../artifacts/build-dlg10312.log`、`../artifacts/logs/dialogue-34-35-tests.log`、`verify-10312.log`。Excelは全11,019件のID・制御付き原文・訳文を保存後にカタログとカタログ外名称表へ照合し一致、プレビュー確認済み。実機・画面・進行は未検証。
+
+全件Excelの追加（2026-10-26）: ユーザーの指示により未翻訳も同じ一覧へ収録。K列が翻訳状態、D列が読みやすい訳、I/J列が制御コード付き訳／原文、F列がID。未翻訳51,410件、適用済み10,312件、別管理の名称707件。保存後に全62,429行のID・原文・訳文・状態と84用語を照合し一致、表のフィルターと7行固定も確認。旧Excel・メモ・ロックファイルは変更していない。画像・未抽出文字列の網羅を意味しない。今回ゲームソース・ROMの変更はなし。
 
 ## 2. ユーザーの指示（守ること）
 
@@ -122,13 +124,13 @@ cp -n ../artifacts/play/wishes-jp-<hash>.gba ../outputs/gba/wishes-jp-<件数>-<
 python3 tools/localization/ui_inventory.py && python3 tools/localization/export_table.py
 # Excel: 下記の版別出力で生成し、開いている既存ブックは上書きしない
 cp tools/localization/export_review.mjs ../artifacts/translation-review-build/build_review.mjs
-node ../artifacts/translation-review-build/build_review.mjs "$PWD" ../outputs/translation-review-NNNN '会話・看板（対象マップ名）'
-cp ../outputs/translation-review-NNNN/Wishes_日本語訳一覧.xlsx localization/exports/translated-texts-NNNN.xlsx
-# status.json の review_workbook を exports/translated-texts-NNNN.xlsx に更新して export_table.py を再実行
+node ../artifacts/translation-review-build/build_review.mjs "$PWD" ../outputs/translation-review-NNNN '会話・看板（対象マップ名）' --all
+cp ../outputs/translation-review-NNNN/Wishes_全テキスト翻訳一覧.xlsx localization/exports/all-texts-NNNN.xlsx
+# status.json の review_workbook を exports/all-texts-NNNN.xlsx に更新して export_table.py を再実行
 # localization/status.json と HANDOFF_CODEX.md の数値・最新成果物を更新し、docs コミットして push
 ```
 
-- Excel生成は `../artifacts/translation-review-build/build_review.mjs`（Git内の `tools/localization/export_review.mjs` と同じ内容に保つ）。依存は Codex キャッシュの `@oai/artifact-tool`（node_modules はシンボリックリンク済み）。引数はリポジトリ、出力先、会話プレビューの区分名。トレーナー名・マップ名のJSONからも行を作る。ユーザーのメモ欄は自動では引き継がないので、編集済みのExcelがあれば先にIDで退避して新版へ復元する。ロック中の旧ブック・ロックファイルは触らない。
+- Excel生成は `../artifacts/translation-review-build/build_review.mjs`（Git内の `tools/localization/export_review.mjs` と同じ内容に保つ）。依存は Codex キャッシュの `@oai/artifact-tool`（node_modules はシンボリックリンク済み）。引数はリポジトリ、出力先、会話プレビューの区分名。今後は末尾に `--all` を付け、未翻訳を含む全件一覧を生成する（付けないと従来の翻訳済みだけになる）。トレーナー名・マップ名のJSONからも行を作る。ユーザーのメモ欄は自動では引き継がないので、編集済みのExcelがあれば先にIDで退避して新版へ復元する。ロック中の旧ブック・ロックファイルは触らない。
 - `patch_crc32` が毎回 `2144df1c` になるのは、自身のCRCを末尾に持つBPSの性質。異常ではない。
 
 ## 8. やってはいけないこと

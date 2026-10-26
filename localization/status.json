@@ -50,8 +50,8 @@
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/translated-texts-10312.xlsx",
-  "user_review_workbook": "../outputs/translation-review-10312/Wishes_日本語訳一覧.xlsx",
+  "review_workbook": "exports/all-texts-10312.xlsx",
+  "user_review_workbook": "../outputs/translation-all-10312/Wishes_全テキスト翻訳一覧.xlsx",
   "last_dialogue_batch": {
     "entries": 216,
     "batches": [
@@ -62,5 +62,9 @@
     "source_logic": "non-string content unchanged in both script files",
     "width": "dialogue_tools width: >26 cells = 0; expanded runtime widths unverified",
     "runtime": "not run"
-  }
+  },
+  "excel_total_rows": 62429,
+  "excel_catalog_rows": 61722,
+  "excel_pending_rows": 51410,
+  "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings"
 }

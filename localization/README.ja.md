@@ -181,3 +181,7 @@ python3 tools/localization/apply_verified_patch.py ENGLISH.gba JAPANESE.bps loca
 ```
 
 ハッシュが違う場合は出力を拒否し、生成ROMもハッシュ名で保存する。パッチ適用成功は画面やゲーム進行の検証とは区別する。
+
+## 全テキストExcel
+
+未翻訳を含む[全件Excel](exports/all-texts-10312.xlsx)に61,722候補＋別管理名称707件を収録。K列の翻訳状態で絞り込み可能。未翻訳の日本語訳欄は空欄。元のID・原文・既存訳は保持している。候補には重複・未使用・制御だけの行も含み、画像内文字などの未抽出対象は別途調査が必要。生成はexport_review.mjsの末尾に `--all` を追加する。Excelへの記入は自動でゲームへ反映されない。

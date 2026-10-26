@@ -11,12 +11,22 @@ const catalog=JSON.parse(await fs.readFile(`${root}/localization/catalog.json`,'
 const glossary=JSON.parse(await fs.readFile(`${root}/localization/glossary.json`,'utf8'));
 const commit=execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim();
 const translated=catalog.filter(r=>r.status==='translated');
-if(new Set(translated.map(r=>r.id)).size!==translated.length) throw Error('Translation ID mismatch');
+const allEntries=process.argv.includes('--all');
+const selected=allEntries?catalog:translated;
+if(new Set(selected.map(r=>r.id)).size!==selected.length) throw Error('Translation ID mismatch');
 const sourceCache=new Map();
 function definition(row){
   if(row.target) return row.target;
-  if(!sourceCache.has(row.file)) sourceCache.set(row.file,execFileSync('git',['show',`23be896714:${row.file}`],{cwd:root,encoding:'utf8'}));
-  return [...sourceCache.get(row.file).slice(0,row.start).matchAll(/^([A-Za-z0-9_]+):+/gm)].at(-1)?.[1]??'';
+  if(!sourceCache.has(row.file)) {
+    let source='';
+    try{source=execFileSync('git',['show',`23be896714:${row.file}`],{cwd:root,encoding:'utf8',stdio:['ignore','pipe','pipe']});}
+    catch{console.log('Definition unavailable in pinned snapshot: '+row.file);}
+    sourceCache.set(row.file,[...source.matchAll(/^([A-Za-z0-9_]+):+/gm)].map(m=>({offset:m.index,label:m[1]})));
+  }
+  const labels=sourceCache.get(row.file);
+  let lo=0,hi=labels.length;
+  while(lo<hi){const mid=(lo+hi)>>1;if(labels[mid].offset<row.start)lo=mid+1;else hi=mid;}
+  return labels[lo-1]?.label??'';
 }
 function category(row){
   if(row.file.includes('/pokemon/species_info/')) return row.target?.includes('.description') ? '図鑑説明' : row.target?.includes('.categoryName') ? '図鑑分類' : 'ポケモン名';
@@ -50,11 +60,12 @@ function readable(text){
   return text.replace(/\{(?:JPN|ENG)\}/g,'').replace(/\{(?:COLOR|SHADOW|BACKGROUND|TEXT_COLORS) [^}]*\}/g,'').replace(/\$$/,'')
     .replace(/\\n/g,'\n').replace(/\\p/g,'\n［改ページ］\n').replace(/\\l/g,'\n［スクロール］\n');
 }
-const rows=translated.map((r,i)=>[i+1,category(r),readable(r.source),readable(r.translation),'',r.id,definition(r),`${r.file}:${r.line}`,r.translation,r.source]);
+const statusLabel=s=>({translated:'翻訳適用済み',pending:'未翻訳',draft:'訳稿',needs_review:'要確認'}[s]??s);
+const rows=selected.map((r,i)=>[i+1,category(r),readable(r.source),readable(r.translation??''),'',r.id,definition(r),`${r.file}:${r.line}`,r.translation??'',r.source,...(allEntries?[statusLabel(r.status)]:[])]);
 // Trainer and map names live outside the catalog (trainers.party / region_map_sections.json).
 for(const [file,label] of [['trainer-names.json','トレーナー名'],['map-names.json','マップ名']]){
   const table=JSON.parse(await fs.readFile(`${root}/localization/${file}`,'utf8'));
-  for(const [en,ja] of Object.entries(table.names)) rows.push([rows.length+1,label,en,ja,'',`${label}:${en}`,'',table.file,`{JPN}${ja}{ENG}`,en]);
+  for(const [en,ja] of Object.entries(table.names)) rows.push([rows.length+1,label,en,ja,'',`${label}:${en}`,'',table.file,`{JPN}${ja}{ENG}`,en,...(allEntries?['翻訳適用済み']:[])]);
 }
 const wb=Workbook.create();
 const sheet=wb.worksheets.add('翻訳一覧');
@@ -68,19 +79,20 @@ function base(s,end){
   s.getRange('A2:J2').format.rowHeight=32;
   s.tabColor=navy;
 }
-base(sheet,`A1:J${rows.length+7}`);
-sheet.getRange('A2').values=[['Wishes of Tomorrow　日本語訳一覧']];
-sheet.getRange('A3').values=[[`翻訳適用済み ${translated.length.toLocaleString('en-US')}件　2026年10月26日時点`]];
+const lastCol=allEntries?'K':'J';
+base(sheet,`A1:${lastCol}${rows.length+7}`);
+sheet.getRange('A2').values=[['Wishes of Tomorrow　'+(allEntries?'全テキスト翻訳一覧':'日本語訳一覧')]];
+sheet.getRange('A3').values=[[allEntries?`カタログ ${catalog.length.toLocaleString('en-US')}候補　適用済み ${translated.length.toLocaleString('en-US')}　未翻訳 ${(catalog.length-translated.length).toLocaleString('en-US')}　別途名称 ${rows.length-selected.length}件`:`翻訳適用済み ${translated.length.toLocaleString('en-US')}件　2026年10月26日時点`]];
 sheet.getRange('A4').values=[['原文・訳文の出典: localization/catalog.json　コミット '+commit.slice(0,10)+' + 作業ツリーの訳文']];
-sheet.getRange('A5').values=[['［改ページ］・［スクロール］を明示しています。確認メモは自由に記入できます。']];
+sheet.getRange('A5').values=[[allEntries?'K列の翻訳状態で絞り込めます。未使用・重複・制御のみの候補を含み、画像内文字等は未網羅です。':'［改ページ］・［スクロール］を明示しています。確認メモは自由に記入できます。']];
 sheet.getRange('A6').values=[['表示確認・通しプレイは未完了です。メモの記入だけではゲームに反映されません。']];
 sheet.getRange('A3:J6').format.font.color=muted;
-sheet.getRange('A7:J7').values=[['No.','区分','英語原文','日本語訳','確認メモ','ID','定義名','原文の出典','日本語訳（制御コード付き）','英語原文（制御コード付き）']];
-sheet.getRange(`A8:J${rows.length+7}`).values=rows;
-const table=sheet.tables.add(`A7:J${rows.length+7}`,true,'Translations');
+sheet.getRange(`A7:${lastCol}7`).values=[['No.','区分','英語原文','日本語訳','確認メモ','ID','定義名','原文の出典','日本語訳（制御コード付き）','英語原文（制御コード付き）',...(allEntries?['翻訳状態']:[])]];
+sheet.getRange(`A8:${lastCol}${rows.length+7}`).values=rows;
+const table=sheet.tables.add(`A7:${lastCol}${rows.length+7}`,true,'Translations');
 table.style='TableStyleMedium2'; table.showFilterButton=true;
-sheet.getRange('A7:J7').format={fill:navy,font:{name:'Arial',size:11,bold:true,color:'#FFFFFF'},horizontalAlignment:'center',verticalAlignment:'center',rowHeight:30};
-const widths=[6,24,57,57,32,23,46,60,60,60];
+sheet.getRange(`A7:${lastCol}7`).format={fill:navy,font:{name:'Arial',size:11,bold:true,color:'#FFFFFF'},horizontalAlignment:'center',verticalAlignment:'center',rowHeight:30};
+const widths=[6,24,57,57,32,23,46,60,60,60,...(allEntries?[18]:[])];
 widths.forEach((w,i)=>sheet.getRangeByIndexes(0,i,rows.length+7,1).format.columnWidth=w);
 sheet.getRange(`C8:E${rows.length+7}`).format.wrapText=true;
 sheet.getRange(`I8:J${rows.length+7}`).format.wrapText=true;
@@ -129,6 +141,6 @@ for(const [name,range,file] of [['翻訳一覧','A1:E14','translations'],['用�
   await fs.writeFile(`${output}/${file}-preview.png`,new Uint8Array(await png.arrayBuffer()));
 }
 const xlsx=await SpreadsheetFile.exportXlsx(wb);
-await xlsx.save(`${output}/Wishes_日本語訳一覧.xlsx`);
+await xlsx.save(`${output}/${allEntries?'Wishes_全テキスト翻訳一覧':'Wishes_日本語訳一覧'}.xlsx`);
 await fs.writeFile(`${output}/review-data.json`,JSON.stringify({commit,rows,terms:termRows},null,2));
 console.log(`Exported ${rows.length} translations and ${termRows.length} glossary entries.`);

@@ -6,15 +6,15 @@
   "translated": 13528,
   "pending": 48194,
   "baseline_build": "passed",
-  "jp_build": "pending: dialogue62 applied; fresh build required",
+  "jp_build": "passed",
   "tests_passed": 78,
-  "bps_roundtrip": "passed: 13312 Slateport city build, SHA256/CRC and byte comparison",
+  "bps_roundtrip": "passed: 13528 Oceanic Museum build, SHA256/CRC and byte comparison",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "kana3: keyboard board/entry/background drawn (one printer per row; per-glyph printers overflowed DMA queue), けす/おわり buttons, cursor aligned; verified by mgba_probe VRAM render, GUI play unverified",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29839784,
+  "jp_rom_used_bytes": 29837544,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -31,7 +31,7 @@
   "ui_added": 1220,
   "ui_inventory_files": 59,
   "ui_pending_language_candidates": 2344,
-  "excel_translated_rows": 14019,
+  "excel_translated_rows": 14235,
   "reported_graphics_issue": "Closed at user request: user identified emulator bug; stop investigating and resume translation",
   "graphics_diagnostic_build": {
     "status": "passed",
@@ -40,34 +40,34 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-ccfb80edf1550834.gba",
-  "latest_patch_manifest": "patch-manifest-ui13312.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-8ef23afe7a0e09ed.gba",
+  "latest_patch_manifest": "patch-manifest-ui13528.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-13312-5ff7ff21.gba",
+  "user_output_rom": "../outputs/gba/wishes-jp-13528-e052d444.gba",
   "dialogue_progress": "Applied: DragonKeeper and MewtwoPostGame, plus previously listed custom maps. No pending catalog rows in map folders absent from local JP reference except *_Frlg. This heuristic excludes custom dialogue in reused Emerald maps and unextracted text. Applied move tutor common NPC dialogue: 41 messages / 156 rows, no pending catalog rows in data/text/move_tutors.inc. Core game-wide dialogue still incomplete.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/types-13312.xlsx",
-  "user_review_workbook": "../outputs/translation-types-13312/Wishes_種類別翻訳一覧.xlsx",
+  "review_workbook": "exports/types-13528.xlsx",
+  "user_review_workbook": "../outputs/translation-types-13528/Wishes_種類別翻訳一覧.xlsx",
   "last_dialogue_batch": {
-    "entries": 278,
-    "script_rows": 278,
-    "messages": 78,
+    "entries": 216,
+    "script_rows": 216,
+    "messages": 52,
     "batches": [
-      "dialogue-slateport-city-61"
+      "dialogue-slateport-museum-62"
     ],
-    "translation_commit": "8e11b2cd9d0a22af2fa5d4bd62d590721d3ce803",
-    "reference_rows_reviewed": 155,
-    "source_logic": "all non-string lines identical in SlateportCity script",
+    "translation_commit": "9255a74a5c10b20c962ed55b19b13db3fd3ce5e1",
+    "reference_rows_reviewed": 89,
+    "source_logic": "all non-string lines identical in both Oceanic Museum scripts",
     "width": "bad0; >26cells0; variables/pages/scroll/end preserved per original row",
-    "runtime": "not run; submarine events, berry powder exchange, Scott, progression and saves unverified"
+    "runtime": "not run; entry fee, TM, Aqua battles, parts delivery, exhibits, progression and saves unverified"
   },
   "excel_total_rows": 62429,
   "excel_catalog_rows": 61722,
-  "excel_pending_rows": 48410,
+  "excel_pending_rows": 48194,
   "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings",
   "name_input_limits": {
     "player_rival": 5,
@@ -77,7 +77,7 @@
     "save_layout": "unchanged",
     "runtime": "see kana3 review; new dialogue not played"
   },
-  "build_directory": "build/emerald-jp-dlg13312-clean",
+  "build_directory": "build/emerald-jp-dlg13528-clean",
   "last_species_name_batch": {
     "entries": 42,
     "batches": [
@@ -132,18 +132,18 @@
     "rows": 62429,
     "catalog_entries": 61722,
     "external_names": 707,
-    "applied": 14019,
-    "pending": 48410,
+    "applied": 14235,
+    "pending": 48194,
     "memo_key": "row ID; glossary English+Japanese",
-    "scope": "Category sheets retained; 278 Slateport city rows updated; glossary120",
+    "scope": "Category sheets retained; 216 Oceanic Museum rows updated; glossary124",
     "verification": "all rows/IDs/raw text/status, summary formula values and previews; native Excel GUI not tested"
   },
   "story_inventory": {
     "file": "story-map-inventory.json",
     "candidate_maps": 460,
-    "pending_map_rows": 12535,
+    "pending_map_rows": 12319,
     "scope": "Over-approximate map graph only; conditions/dynamic/C/common-script warps and unextracted text not complete",
-    "next": "SlateportCity_OceanicMuseum_1F/2F (102/114 rows); review matching Japanese drafts against English",
+    "next": "SlateportCity_SternsShipyard_1F/2F (59/7), Harbor (107), PokemonFanClub (102): 275 rows; review reference drafts against English",
     "complete": false,
     "new_label_file": "story-new-label-candidates.json",
     "new_label_rows": 0,
@@ -153,8 +153,8 @@
     "content_difference_labels": 0,
     "content_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741",
     "reference_draft_file": "reference-dialogue-candidates.json",
-    "reference_draft_messages": 2087,
-    "reference_draft_rows": 5602,
+    "reference_draft_messages": 2056,
+    "reference_draft_rows": 5513,
     "reference_draft_status": "unreviewed; no source apply for remaining candidates"
   }
 }

@@ -15,3 +15,5 @@ meaning_risk6件を全て英語で確認: 50えん→50円は同額、30%削除�
 yomiyasu-check: executed via=verify run=20261026T214959Z-96d10ea6 attempt=2 final=sha256:cf71b732de79 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=6 replay=skipped
 
 script_batch→check bad0/26マス超0→update_catalog dry-run/apply→catalog validate、audit推定超過0、78テスト成功。2ファイルの非.string行は開始時と完全一致。変数・改ページ・スクロール・終端は原文行に維持。ロジック・フラグ・セーブ構造不変。入館/支払/わざマシン受領/戦闘/引渡し/展示/進行/保存の実画面は未検証。ビルド・成果物は別途記録する。
+
+成果物: ../outputs/gba/wishes-jp-13528-e052d444.gba、SHA256 8ef23afe7a0e09ed5defd1ebbf02afcf8999638d5dfa4fa659d143f8a8412e0b。build/emerald-jp-dlg13528-cleanでビルド成功（exit0）。ROM29,837,544B/EWRAM230,024B/IWRAM28,600B。BPS再適用のSHA/CRCと全バイト列一致。Excel14シート・62,429行11列、124語、全原文/訳文/ID/状態/メモと目次62,429/14,235/48,194を保存後照合。旧メモ0件維持。実Excelアプリ・ゲーム実画面は未確認。

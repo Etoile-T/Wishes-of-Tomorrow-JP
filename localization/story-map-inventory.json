@@ -1393,8 +1393,8 @@
       "map": "SlateportCity_OceanicMuseum_1F",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 102,
-      "translated": 0,
+      "pending": 0,
+      "translated": 102,
       "outgoing": [
         "SlateportCity",
         "SlateportCity_OceanicMuseum_2F"
@@ -1883,8 +1883,8 @@
       "map": "SlateportCity_OceanicMuseum_2F",
       "depth": 12,
       "via": "SlateportCity_OceanicMuseum_1F",
-      "pending": 114,
-      "translated": 0,
+      "pending": 0,
+      "translated": 114,
       "outgoing": [
         "SlateportCity_OceanicMuseum_1F"
       ]
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 12535,
-  "translated_map_rows": 4820
+  "pending_map_rows": 12319,
+  "translated_map_rows": 5036
 }

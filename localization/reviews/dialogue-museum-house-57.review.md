@@ -11,3 +11,5 @@ yomiyasuをscript指定でrun（lint/diff/materials）→全候補確認→verif
 yomiyasu-check: executed via=verify run=20261026T201203Z-1ac9e1ce attempt=1 final=sha256:ef027eefa43c mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=0 replay=skipped
 
 script_batch→check bad0/width26マス超0→update_catalog dry-run/apply→catalog validate、audit推定超過0、75テスト成功。3スクリプトの.string以外の行は開始時と完全一致。変数/改ページ/スクロール/終端は元行に保持。ゲームロジック・イベント・セーブ構造は変更していない。実画面・展示/報酬・ポロック/コンテスト・進行・保存再読み込みは未検証。
+
+成果物: ../outputs/gba/wishes-jp-12422-8d1e7738.gba、SHA256 6590e809d18326fbb5a25f9bffdf8de91b09f99baefd30532748d2170c3af585。ROM29,849,576B/EWRAM230,024B/IWRAM28,600B。BPS再適用バイト一致。Excel14シート・62,429行11列の原文/訳文/ID/状態/メモ、113語、目次62,429/13,129/49,300を保存後照合。旧メモ0件も維持。参考抽出ツール3テストを追加し最終78テスト成功。実Excelアプリ・ゲーム実画面は未検証。

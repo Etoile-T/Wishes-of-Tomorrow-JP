@@ -1,0 +1,17 @@
+{
+  "format": "BPS1",
+  "game_source_commit": "efb1c880d0b486c1948763051b6c1bb8990a7353",
+  "translation_commit": "14c943a52e45ced731540fed3732825e582443f2",
+  "translated_entries": 10312,
+  "complete_localization": false,
+  "patch_file": "wishes-jp-ui10312_from-62ba561e_to-b4119a6c.bps",
+  "source_sha256": "93fb28460bb7348e327c97e217ecd50091fc01200e8d9cc41b871469c36c9db7",
+  "source_crc32": "62ba561e",
+  "source_bytes": 33554432,
+  "target_sha256": "fe8ccc9401194cdec32c49f6f54b3246d1c90ffd1586d9499daa969b7022afb7",
+  "target_crc32": "b4119a6c",
+  "target_bytes": 33554432,
+  "patch_sha256": "8807daba93ec021e6fd26a15dd3f05d4bbaa03906bc2f9b3a1ae75a3544e2e4d",
+  "patch_crc32": "2144df1c",
+  "patch_bytes": 3902135
+}

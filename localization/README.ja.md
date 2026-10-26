@@ -1,4 +1,4 @@
-> 最新の状況（2026-10-26）: 61,722候補中10,096件を翻訳適用。RebelHideoutとTradewindTown一帯に409件を追加。最新はHANDOFF_CODEX.md、status.jsonを参照。GBAは../outputs/gba/wishes-jp-10096-95e8d370.gba。画面・進行・実機は未検証。
+> 最新の状況（2026-10-26）: 61,722候補中10,312件を翻訳適用。CelebiIslandとUndergroundArenaに216件を追加。最新はHANDOFF_CODEX.md、status.jsonを参照。GBAは../outputs/gba/wishes-jp-10312-b4119a6c.gba。画面・進行・実機は未検証。
 
 # Wishes of Tomorrow 日本語化・途中成果
 

@@ -9,22 +9,22 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `8c6d30d0c636dc83285fbc2717a80f7607d85d63`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,096、pending 51,626（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `14c943a52e45ced731540fed3732825e582443f2`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,312、pending 51,410（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で41件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg10096.gba`（ROM 29,871,016B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10096-95e8d370.gba`（README.txt 更新済み） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10096-95e8d370-patch.zip`、追跡用 `localization/patch-manifest-ui10096.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-review-10096/Wishes_日本語訳一覧.xlsx`（Git内コピー `localization/exports/translated-texts-10096.xlsx`、10,803行） |
+| 最新ビルド | `pokeemerald-jp-dlg10312.gba`（ROM 29,869,416B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10312-b4119a6c.gba`（README.txt 更新済み） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10312-b4119a6c-patch.zip`、追跡用 `localization/patch-manifest-ui10312.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-review-10312/Wishes_日本語訳一覧.xlsx`（Git内コピー `localization/exports/translated-texts-10312.xlsx`、11,019行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
-今回の開始時: statusとcatalog statsは61,722 / 9,687 / 52,035で一致。Gitはmain、最新572ee8cefb。未追跡の `localization/exports/~$translated-texts.xlsx` はExcelのロックファイルとして触っていない。保存済みの旧Excelのメモ列は0件だった。開いている旧Excelは上書きせず、今回の一覧を版別ファイルへ出した（未保存の編集は読み取っていない）。
+今回の開始時: statusとcatalog statsは61,722 / 10,096 / 51,626で一致。Gitはmain、最新4aa19cf27b。Excelロックファイル2個だけが未追跡で、触っていない。旧ブック3ファイルの保存済みメモ欄はいずれも0件。旧ブックを上書きせず新版を別名で出力した。未保存の編集は読み取っていない。
 
-今回の追加: RebelHideout 177、TradewindTown 180、TradewindLab 21、TradewindGym 16、TradewindHouse 7、TradewindApartment_2 8、計409件。対象6ファイルのpendingは0。会話以外のスクリプト内容は前コミットと同一。レビューは `localization/reviews/dialogue-rebel-tradewind-32-33.review.md`。ツジの敗北時の原文に勝敗と合わない表現があるため、作者意図未確認として記録した。
+今回の追加: CelebiIsland 114、UndergroundArena 102、計216件。対象2ファイルのpendingは0。会話以外のスクリプト内容は翻訳前と同一。レビューは `localization/reviews/dialogue-celebi-arena-34-35.review.md`。前回のRebelHideout・TradewindTown一帯409件も適用済み。ツジの敗北時原文の違和感は前回のレビューへ記録しており、未解決のまま維持している。
 
-検証: dialogue_tools check両バッチbad 0、widthは26マス超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `df800506d498ec69ce67586c1e771e9649c67cec85f5bdf1d58f02af3c713825`。ログは `../artifacts/build-dlg10096.log`、`../artifacts/logs/dialogue-32-33-tests.log`、`verify-10096.log`。Excelは全10,803件のID・制御付き原文・訳文を保存後にカタログとカタログ外名称表へ照合し一致、プレビュー確認済み。実機・画面・進行は未検証。
+検証: dialogue_tools check両バッチbad 0、widthは26マス超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `fe8ccc9401194cdec32c49f6f54b3246d1c90ffd1586d9499daa969b7022afb7`。ログは `../artifacts/build-dlg10312.log`、`../artifacts/logs/dialogue-34-35-tests.log`、`verify-10312.log`。Excelは全11,019件のID・制御付き原文・訳文を保存後にカタログとカタログ外名称表へ照合し一致、プレビュー確認済み。実機・画面・進行は未検証。
 
 ## 2. ユーザーの指示（守ること）
 
@@ -42,7 +42,7 @@
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。今は**ストーリーの会話を、プレイ順に独自マップから**進めている。
 
-1. 独自マップの残り（約478行）: 次はCelebiIsland 114、続いてUndergroundArena 102、DistortionWorld 系 131、PrototypeIsland 21 / PrototypeLab 47、DragonKeeper 34、MewtwoPostGame 29。RebelHideoutとTradewindTown一帯は今回適用済み。件数・プレイ順・前後の会話はソースと `dialogue_tools.py dump` で再確認する。
+1. 独自マップの残り（約262行）: 次はDistortionWorld 系 131、PrototypeIsland 21 / PrototypeLab 47、DragonKeeper 34、MewtwoPostGame 29。RebelHideout、TradewindTown一帯、CelebiIsland、UndergroundArenaは適用済み。件数・プレイ順・前後の会話はソースと `dialogue_tools.py dump` で再確認する。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

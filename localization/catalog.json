@@ -129610,14 +129610,14 @@
     "end": 771197,
     "raw": "\"Armor Mewtwo\"",
     "source": "Armor Mewtwo",
-    "translation": "{JPN_NAME_10}アーマードミュウツー",
+    "translation": "AR{JPN_NAME_5}ミュウツー",
     "status": "translated",
     "kind": "encoded_c",
     "target": "SPECIES_MEWTWO_ARMORED.speciesName[0]",
     "provenance": {
-      "batch": "species-name-armored-40",
-      "method": "Full Japanese species name; bounded 10-glyph scope; existing 12-byte nickname extension",
-      "encoded_bytes": 12,
+      "batch": "species-armored-readable-41",
+      "method": "User requested AR abbreviation; Latin AR plus unscaled Japanese five-glyph span",
+      "encoded_bytes": 9,
       "byte_budget": 12
     }
   },

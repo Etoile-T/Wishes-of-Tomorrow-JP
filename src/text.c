@@ -2580,29 +2580,6 @@ static u32 GetGlyphWidth_Narrower(u16 glyphId, bool32 isJapanese)
         return gFontNarrowerLatinGlyphWidths[glyphId];
 }
 
-// The healthbox fits names in 55 pixels. Ten-kana species names need the
-// existing narrowest small-font fallback to have actual narrow Japanese glyphs.
-static void CompressJapaneseSmallGlyph(void)
-{
-    static const u8 columns[5] = {0, 2, 4, 5, 7};
-    u8 row, x;
-    for (row = 0; row < 8; row++)
-    {
-        u32 top = gCurGlyph.gfxBufferTop[row];
-        u32 bottom = gCurGlyph.gfxBufferBottom[row];
-        u32 outTop = 0, outBottom = 0;
-        for (x = 0; x < 5; x++)
-        {
-            outTop |= ((top >> (columns[x] * 4)) & 15) << (x * 4);
-            outBottom |= ((bottom >> (columns[x] * 4)) & 15) << (x * 4);
-        }
-        gCurGlyph.gfxBufferTop[row] = outTop;
-        gCurGlyph.gfxBufferBottom[row] = outBottom;
-    }
-    gCurGlyph.width = 5;
-    gCurGlyph.height = 12;
-}
-
 static void DecompressGlyph_SmallNarrower(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
@@ -2610,7 +2587,6 @@ static void DecompressGlyph_SmallNarrower(u16 glyphId, bool32 isJapanese)
 
     if (TryDecompressJapaneseVu(glyphId, isJapanese, 0))
     {
-        CompressJapaneseSmallGlyph();
         return;
     }
 
@@ -2619,7 +2595,8 @@ static void DecompressGlyph_SmallNarrower(u16 glyphId, bool32 isJapanese)
         glyphs = gFontSmallJapaneseGlyphs + (0x100 * (glyphId >> 0x4)) + (0x8 * (glyphId % 0x10));
         DecompressGlyphTile(glyphs, gCurGlyph.gfxBufferTop);
         DecompressGlyphTile(glyphs + 0x80, gCurGlyph.gfxBufferBottom);
-        CompressJapaneseSmallGlyph();
+        gCurGlyph.width = 8;
+        gCurGlyph.height = 12;
     }
     else
     {
@@ -2647,7 +2624,7 @@ static u32 GetGlyphWidth_SmallNarrower(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
-        return 5;
+        return 8;
     else
         return gFontSmallNarrowerLatinGlyphWidths[glyphId];
 }

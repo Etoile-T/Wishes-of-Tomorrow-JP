@@ -20532,7 +20532,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .abilities = { ABILITY_PRESSURE, ABILITY_NONE, ABILITY_UNNERVE },
         .bodyColor = BODY_COLOR_PURPLE,
         // engine cap is POKEMON_NAME_LENGTH (12) -- "Armored Mewtwo" won't fit
-        .speciesName = _("{JPN_NAME_10}アーマードミュウツー"),
+        .speciesName = _("AR{JPN_NAME_5}ミュウツー"),
         .cryId = CRY_MEWTWO,
         .natDexNum = NATIONAL_DEX_MEWTWO,
         .categoryName = _("Genetic"),

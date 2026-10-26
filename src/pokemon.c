@@ -2539,6 +2539,14 @@ u32 GetBoxMonData3(struct BoxPokemon *boxMon, s32 field, u8 *data)
                 StringCopy(data, gText_EggNickname);
                 retVal = StringLength(data);
             }
+            else if (GetSubstruct0(boxMon)->species == SPECIES_MEWTWO_ARMORED
+                  && IsArmoredDefaultName(boxMon->nickname, GetSubstruct0(boxMon)->nickname11, GetSubstruct0(boxMon)->nickname12))
+            {
+                // Display exact old defaults with the readable current name.
+                // The nine-byte mixed-script name also fits NICKNAME10.
+                StringCopy(data, GetSpeciesName(SPECIES_MEWTWO_ARMORED));
+                retVal = StringLength(data);
+            }
             else if (boxMon->language == LANGUAGE_JAPANESE
                   && !(boxMon->nickname[0] == EXT_CTRL_CODE_BEGIN && (boxMon->nickname[1] == EXT_CTRL_CODE_JPN
                        || (boxMon->nickname[1] >= EXT_CTRL_CODE_JPN_NAME_1 && boxMon->nickname[1] <= EXT_CTRL_CODE_JPN_NAME_10))))

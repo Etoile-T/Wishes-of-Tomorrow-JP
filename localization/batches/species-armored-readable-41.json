@@ -1,0 +1,13 @@
+[
+  {
+    "id": "5be624ae67fa591c",
+    "translation": "AR{JPN_NAME_5}ミュウツー",
+    "target": "SPECIES_MEWTWO_ARMORED.speciesName[0]",
+    "provenance": {
+      "batch": "species-armored-readable-41",
+      "method": "User requested AR abbreviation; Latin AR plus unscaled Japanese five-glyph span",
+      "encoded_bytes": 9,
+      "byte_budget": 12
+    }
+  }
+]

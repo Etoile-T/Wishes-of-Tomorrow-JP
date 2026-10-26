@@ -22,7 +22,8 @@ class NamingInputTests(unittest.TestCase):
                           'int limit(u8 c) { return NamingInputKanaLimit(c); }\n'
                           'void fit(u8 *d,u8 n) { NamingInputFitSpan(d,n); }\n'
                           '#include "pokemon_name_localization.h"\n'
-                          'int legacy(const u8 *d,u8 a,u8 b){return IsLegacyArmoredMewtwoName(d,a,b); }\n')
+                          'int legacy(const u8 *d,u8 a,u8 b){return IsLegacyArmoredMewtwoName(d,a,b); }\n'
+                          'int defaultname(const u8 *d,u8 a,u8 b){return IsArmoredDefaultName(d,a,b); }\n')
         text = (ROOT / 'src/text.c').read_text()
         width = text.split('s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)\n{', 1)[1].split('s32 GetStringLineWidth(', 1)[0]
         with source.open('a') as out:
@@ -38,11 +39,6 @@ class NamingInputTests(unittest.TestCase):
                       's32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)\n{' + width + '\n'
                       'int width(const u8 *s){return GetStringWidth(0,s,0);}\n'
                       'int widthvar(const u8 *s){const u8 t[]={PLACEHOLDER_BEGIN,PLACEHOLDER_ID_STRING_VAR_1,CHAR_A,EOS};gStringVar1=s;return width(t);}\n')
-        compress = text.split('static void CompressJapaneseSmallGlyph(void)\n{', 1)[1].split('static void DecompressGlyph_SmallNarrower(', 1)[0]
-        with source.open('a') as out:
-            out.write('struct {u32 gfxBufferTop[16],gfxBufferBottom[16];u8 width,height;} gCurGlyph;\n'
-                      'static void CompressJapaneseSmallGlyph(void)\n{' + compress + '\n'
-                      'u32 compress(u32 row){gCurGlyph.gfxBufferTop[0]=row;CompressJapaneseSmallGlyph();return gCurGlyph.gfxBufferTop[0];}\n')
         library = folder / 'encoder.so'
         subprocess.run(['cc', '-shared', '-fPIC', '-I', str(ROOT / 'include'), str(source), '-o', str(library)], check=True)
         cls.library = ctypes.CDLL(str(library))
@@ -156,14 +152,20 @@ class NamingInputTests(unittest.TestCase):
         name[0] = 0xBC
         self.assertFalse(legacy(name, 0xEB, 0xE3))
 
-    def test_healthbox_glyph_compression(self):
-        compress = self.library.compress
-        compress.argtypes = [ctypes.c_uint32]
-        compress.restype = ctypes.c_uint32
-        self.assertEqual(compress(0x76543210), 0x75420)
-        self.assertEqual(compress(0xFFFFFFFF), 0xFFFFF)
-        self.assertEqual(compress(0), 0)
-        self.assertLessEqual(10 * 5, 55)
+    def test_previous_japanese_default_and_short_name(self):
+        import json
+        fn = self.library.defaultname
+        fn.argtypes = [ctypes.POINTER(ctypes.c_ubyte), ctypes.c_ubyte, ctypes.c_ubyte]
+        header = (ROOT / 'include/pokemon_name_localization.h').read_text()
+        full = [int(v.strip(), 16) for v in re.search(r'japanese\[12\] = \{([^}]+)', header)[1].split(',')]
+        short = [int(v.strip(), 16) for v in re.search(r'abbreviated\[10\] = \{([^}]+)', header)[1].split(',')]
+        self.assertTrue(fn((ctypes.c_ubyte * 10)(*full[:10]), full[10], full[11]))
+        self.assertFalse(fn((ctypes.c_ubyte * 10)(*full[:10]), full[10], 0))
+        self.assertTrue(fn((ctypes.c_ubyte * 10)(*short), 0, 0))
+        short[0] += 1
+        self.assertFalse(fn((ctypes.c_ubyte * 10)(*short), 0, 0))
+        row = next(r for r in json.loads((ROOT / 'localization/catalog.json').read_text()) if r['id'] == '5be624ae67fa591c')
+        self.assertEqual(row['translation'], 'AR{JPN_NAME_5}ミュウツー')
 
     def test_keyboard_coverage_and_glyphs(self):
         source = (ROOT / 'src/naming_screen.c').read_text()

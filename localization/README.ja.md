@@ -1,3 +1,5 @@
+最新追記（2026-10-26・会話優先）: 技教えNPCの41会話・156行を追加し、翻訳計10,938件。GBAは../outputs/gba/wishes-jp-10938-57fd012b.gba。種類別Excelは../outputs/translation-types-10938/Wishes_種類別翻訳一覧.xlsx。59テスト・クリーンビルド・BPS照合成功。実画面・習得・進行・Wishes内到達性は未検証。図鑑全件はユーザー指定で保留。以下は旧記録。
+
 最新追記（2026-10-26・図鑑続き）: 通常33種の分類・説明66件を追加し翻訳計10,782件。GBAは../outputs/gba/wishes-jp-10782-082d046d.gba、Excelは../outputs/translation-types-10782/Wishes_種類別翻訳一覧.xlsx。59テスト・クリーンビルド・BPS照合成功。通常図鑑は未完了、実画面未検証。以下は旧記録。
 
 最新Excel: ../outputs/translation-types-10716/Wishes_種類別翻訳一覧.xlsx。全62,429件を12種類のシートに分割し、目次と用語辞書を含む14シートに整理。未翻訳・ID・制御付き原文と訳文を維持。ゲームの変更はなし。

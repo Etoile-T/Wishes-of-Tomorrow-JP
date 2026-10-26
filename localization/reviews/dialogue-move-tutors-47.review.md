@@ -13,3 +13,5 @@ Mimicの若者が老人を真似る口調と、辞退時に素へ戻る箇所を
 yomiyasu-check: executed via=verify run=20261026T050257Z-ff6a70cd attempt=2 final=sha256:97de80861007 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=0 replay=skipped
 
 script_batchで生成、check bad0・26マス超0、元の各行の改ページ／スクロール／終端を保持。catalog validate・audit推定超過0・59テスト成功。.string行以外のスクリプトは開始時HEADと完全一致。ラベル・イベント・フラグ・セーブ構造は変更なし。実画面・技習得・イベント進行は未検証。
+
+最終成果物: ../outputs/gba/wishes-jp-10938-57fd012b.gba。BPS再適用はSHA256/CRC検査とバイト一致。種類別Excel10938版は14シート・全62,429件、全行11列・ID・原文・訳文・状態・メモ・91用語と目次集計を保存後照合し一致。旧ブック保存済みメモ0件、新版と一致。検証ログ../artifacts/logs/excel-types-10938-verify.log。実Excelアプリとゲーム画面は未確認。

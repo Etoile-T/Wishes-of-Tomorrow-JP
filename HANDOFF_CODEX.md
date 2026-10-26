@@ -9,16 +9,24 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `3d130d58815d6d56f982eb68a117637e7dd5d5a6`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,782、pending 50,940（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `41bb85ab7ce5dcce65b94925991a1e8ab13cef52`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,938、pending 50,784（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で59件成功 |
-| 最新ビルド | `pokeemerald-jp-dex10782.gba`（ROM 29,866,120B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10782-082d046d.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10782-082d046d-patch.zip`、追跡用 `localization/patch-manifest-ui10782.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-10782/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-10782.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-dlg10938.gba`（ROM 29,864,200B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10938-57fd012b.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10938-57fd012b-patch.zip`、追跡用 `localization/patch-manifest-ui10938.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-10938/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-10938.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+最新会話47: ユーザーが全ポケモン・図鑑より「まずセリフ」を優先するよう変更したため、図鑑全件対応は調査だけで停止し、新しいポケモンデータ訳は適用していない。次の優先は会話。data/text/move_tutors.incの全41メッセージ・156カタログ行を訳した。いばる等10種類の教える前／辞退／選択／習得後と共通確認。元ホウエン側の参照スクリプトは存在するが、Wishesの実プレイ上の到達性は未確認。ストーリーが全訳済みという意味ではない。次は育て屋等の共通NPC・未抽出や流用マップの独自セリフを調べて進める。
+
+開始時HEAD0e4e587e2d、クリーン、status/stats61722/10782/50940一致。今回は61722/10938/50784。script_batch・check bad0・26マス超0、yomiyasu scriptのlint0/meaning_risk0（コインの手品→コインあてを文脈照合で修正、指示語候補や共通確認の敬体は維持）。非.string行は開始時と完全一致、技習得フラグ・ラベル・ゲームロジック・セーブ構造は不変。59テスト・audit超過0・catalog validate成功。
+
+GBA wishes-jp-10938-57fd012b.gba、ROM29,864,200B/EWRAM230,024/IWRAM28,600。新規OBJ_DIR build/emerald-jp-dlg10938-clean、ログ../artifacts/build-dlg10938.log。SHA256 bbfebb993b2489fad281ef71abef92221812a8f92f6efa9b4626308dbcf5681f。BPS再適用バイト一致。種類別Excel10938版は14シート・全62,429件、適用済み11,645（カタログ10,938＋名称707）、未翻訳50,784。実画面・技習得・進行・到達性は未検証。レビューdialogue-move-tutors-47.review.md。
+
+以下は以前の記録。
 
 最新図鑑46: 通常33種（gen_1内のニドキング〜コノヨザルの通常30種と関連進化、ピカチュウ・ニドラン♀♂）の分類・説明66件を追加。ピカチュウの本文は共有定義gPikachuPokedexTextを更新。ニドランは共有マクロではなく、定数名の_F/_Mが前回の抽出条件から除外された個別定義だった。前回の「共有マクロ」という推測を訂正。通常図鑑は未完了、次はガーディ以降とshared_dex_textの残り・別フォーム。
 
@@ -92,7 +100,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ## 3. 残りの作業（優先順）
 
-ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。今は**ストーリーの会話を、プレイ順に独自マップから**進めている。
+ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
 1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。次はsrc/strings.cなど残りUI、または図鑑・技説明。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。

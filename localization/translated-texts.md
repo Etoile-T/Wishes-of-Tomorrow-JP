@@ -1,8 +1,8 @@
 # 日本語訳一覧
 
-翻訳適用済み 10782件。表示確認・通しプレイは未完了です。
+翻訳適用済み 10938件。表示確認・通しプレイは未完了です。
 
-[Excel版](exports/types-10782.xlsx)では区分の絞り込みとメモの記入ができます。
+[Excel版](exports/types-10938.xlsx)では区分の絞り込みとメモの記入ができます。
 
 出典: [同じ版の翻訳カタログ](catalog.json)。
 言語切替コードと終端記号は非表示にし、改ページとスクロールは明示しています。
@@ -9548,1246 +9548,1402 @@
 | 9537 | Which {STR_VAR_3} should I teach? | どの {STR_VAR_3}を おしえようかね？ | `03b32cb929fbd990`<br>[data/text/move_relearner.inc:54](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_relearner.inc#L54) |
 | 9538 | Thank you for using our services.<br> | ごりよう ありがとう！<br> | `5929c26cd0ee045d`<br>[data/text/move_relearner.inc:57](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_relearner.inc#L57) |
 | 9539 | Please come again! | また きておくれ！ | `34fdb5019753d0a7`<br>[data/text/move_relearner.inc:58](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_relearner.inc#L58) |
-| 9540 | Obtained the {STR_VAR_2}! | {STR_VAR_2}を てにいれた！ | `9bd98143c81af028`<br>[data/text/obtain_item.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L2) |
-| 9541 | The BAG is full… | バッグが いっぱいだ… | `3f89b586158b6e05`<br>[data/text/obtain_item.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L5) |
-| 9542 | {PLAYER} put away the {STR_VAR_2}<br> | {PLAYER}は {STR_VAR_2}を<br> | `d238bcbd5c1d0b93`<br>[data/text/obtain_item.inc:8](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L8) |
-| 9543 | in the {STR_VAR_3} POCKET. | {STR_VAR_3}ポケットに しまった。 | `aca73c0f321681f9`<br>[data/text/obtain_item.inc:9](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L9) |
-| 9544 | {PLAYER} found one {STR_VAR_2}! | {PLAYER}は {STR_VAR_2}を みつけた！ | `5406b64eeb9e78b1`<br>[data/text/obtain_item.inc:12](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L12) |
-| 9545 | Too bad!<br> | ざんねん！<br> | `433674318b2a65cf`<br>[data/text/obtain_item.inc:15](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L15) |
-| 9546 | The BAG is full… | バッグが いっぱいだ… | `63ebd5664fc30a5b`<br>[data/text/obtain_item.inc:16](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L16) |
-| 9547 | {PLAYER} put away the {STR_VAR_2}<br> | {PLAYER}は {STR_VAR_2}を<br> | `859d6a83debca04e`<br>[data/text/obtain_item.inc:19](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L19) |
-| 9548 | in the BAG. | バッグに しまった。 | `56b9493daf4898a3`<br>[data/text/obtain_item.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L20) |
-| 9549 | Obtained the {STR_VAR_2}! | {STR_VAR_2}を てにいれた！ | `060d8eecaf716abc`<br>[data/text/obtain_item.inc:23](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L23) |
-| 9550 | Too bad! There's no room left for<br> | ざんねん！ これいじょう<br> | `4917d2774aa908bf`<br>[data/text/obtain_item.inc:26](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L26) |
-| 9551 | another {STR_VAR_2}… | {STR_VAR_2}を おく ばしょが ない… | `9add72a541b205a6`<br>[data/text/obtain_item.inc:27](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L27) |
-| 9552 | The {STR_VAR_2} was transferred<br> | {STR_VAR_2}は<br> | `de08b6970dedc28d`<br>[data/text/obtain_item.inc:30](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L30) |
-| 9553 | to the PC. | パソコンに おくられた。 | `ac0736e036ae1394`<br>[data/text/obtain_item.inc:31](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L31) |
-| 9554 | Obtained {STR_VAR_1} {STR_VAR_2}! | {STR_VAR_2}を {STR_VAR_1}こ てにいれた！ | `c80d695dd44c75ce`<br>[data/text/obtain_item.inc:34](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L34) |
-| 9555 | {PLAYER} found {STR_VAR_1} {STR_VAR_2}! | {PLAYER}は<br>{STR_VAR_2}を {STR_VAR_1}こ みつけた！ | `3efdfa4c5c74ab58`<br>[data/text/obtain_item.inc:37](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L37) |
-| 9556 | {PLAYER} put the COINS away in<br> | {PLAYER}は コインを<br> | `285473ca4fa34308`<br>[data/text/obtain_item.inc:40](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L40) |
-| 9557 | the COIN CASE. | コインケースに しまった。 | `c419b20004971f71`<br>[data/text/obtain_item.inc:41](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L41) |
-| 9558 | {PLAYER} found<br> | {PLAYER}は<br> | `5c91bfd813c4ea18`<br>[data/text/obtain_item.inc:44](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L44) |
-| 9559 | {STR_VAR_1} {STR_VAR_2}! | {STR_VAR_2}を {STR_VAR_1}まい みつけた！ | `d1806d490435b07e`<br>[data/text/obtain_item.inc:45](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L45) |
-| 9560 | {PLAYER} found<br> | {PLAYER}は<br> | `2f9d08149fc5fade`<br>[data/text/obtain_item.inc:48](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L48) |
-| 9561 | {STR_VAR_1} {STR_VAR_2}(s)! | {STR_VAR_2}を {STR_VAR_1}こ みつけた！ | `f9367ec4b1f826ec`<br>[data/text/obtain_item.inc:49](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L49) |
-| 9562 | Too bad!<br> | ざんねん！<br> | `729e75c4eab469d9`<br>[data/text/obtain_item.inc:52](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L52) |
-| 9563 | The COIN CASE is full… | コインケースが いっぱいだ… | `eecdf4f9d9d869fd`<br>[data/text/obtain_item.inc:53](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L53) |
-| 9564 | Too bad!<br> | ざんねん！<br> | `8573fb0917784b03`<br>[data/text/obtain_item.inc:56](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L56) |
-| 9565 | There's nothing to put them in… | いれる ものが ない… | `cf912822ac47762d`<br>[data/text/obtain_item.inc:57](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L57) |
-| 9566 | {PLAYER} booted up the PC. | {PLAYER}は パソコンの スイッチを いれた！ | `2eec59dba98af7fc`<br>[data/text/pc.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L2) |
-| 9567 | Which PC should be accessed? | どの パソコンに アクセスしますか？ | `288d2a5063b0997a`<br>[data/text/pc.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L5) |
-| 9568 | Accessed SOMEONE'S PC. | だれかさんの パソコンに アクセスした。 | `a2aa5a55162dc0bf`<br>[data/text/pc.inc:8](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L8) |
-| 9569 | POKéMON Storage System opened. | ポケモン あずかりシステムを よびだした。 | `e13be8f73c3a8114`<br>[data/text/pc.inc:11](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L11) |
-| 9570 | Accessed {PLAYER}'s PC. | {PLAYER}の パソコンに アクセスした。 | `c5b8d50f418eb615`<br>[data/text/pc.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L14) |
-| 9571 | Accessed LANETTE's PC. | マユミの パソコンに アクセスした。 | `032181437cdd1074`<br>[data/text/pc.inc:17](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L17) |
-| 9572 | Accessed BILL's PC. | マサキの パソコンに アクセスした。 | `90838eac1bbcc6e3`<br>[data/text/pc.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L20) |
-| 9573 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は<br> | `6183fe11b63636df`<br>[data/text/pc_transfer.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L2) |
-| 9574 | SOMEONE'S PC.<br>［改ページ］<br> | だれかさんの パソコンに てんそうされた！<br>［改ページ］<br> | `0ad87b93e281d150`<br>[data/text/pc_transfer.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L3) |
-| 9575 | It was placed in <br> | ボックス<br> | `13b86e473fcde8ce`<br>[data/text/pc_transfer.inc:4](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L4) |
-| 9576 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に あずけられた。 | `68e6b9cf1c4742de`<br>[data/text/pc_transfer.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L5) |
-| 9577 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は<br> | `73cd0961d8388189`<br>[data/text/pc_transfer.inc:8](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L8) |
-| 9578 | BILL'S PC.<br>［改ページ］<br> | マサキの パソコンに てんそうされた！<br>［改ページ］<br> | `745f4cf2cd054ab9`<br>[data/text/pc_transfer.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L10) |
-| 9579 | LANETTE'S PC.<br>［改ページ］<br> | マユミの パソコンに てんそうされた！<br>［改ページ］<br> | `957b2f6869271d43`<br>[data/text/pc_transfer.inc:12](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L12) |
-| 9580 | It was placed in <br> | ボックス<br> | `2fa1d40538575004`<br>[data/text/pc_transfer.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L14) |
-| 9581 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に あずけられた。 | `91dd26b5a7e410e0`<br>[data/text/pc_transfer.inc:15](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L15) |
-| 9582 | BOX “{STR_VAR_3}” on<br> | ボックス「{STR_VAR_3}」は<br> | `c92c9809bf4580a3`<br>[data/text/pc_transfer.inc:18](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L18) |
-| 9583 | SOMEONE'S PC was full.<br>［改ページ］<br> | だれかさんの パソコンで いっぱいに なっていた。<br>［改ページ］<br> | `b664b74747411431`<br>[data/text/pc_transfer.inc:19](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L19) |
-| 9584 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は ボックス<br> | `ef2b5067f8b06ed9`<br>[data/text/pc_transfer.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L20) |
-| 9585 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に てんそうされた！ | `685b0a3a77329c24`<br>[data/text/pc_transfer.inc:21](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L21) |
-| 9586 | BOX “{STR_VAR_3}” on<br> | ボックス「{STR_VAR_3}」は<br> | `d972a149f4532858`<br>[data/text/pc_transfer.inc:24](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L24) |
-| 9587 | BILL'S PC was full.<br>［改ページ］<br> | マサキの パソコンで いっぱいに なっていた。<br>［改ページ］<br> | `28f734b5686610e0`<br>[data/text/pc_transfer.inc:26](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L26) |
-| 9588 | LANETTE'S PC was full.<br>［改ページ］<br> | マユミの パソコンで いっぱいに なっていた。<br>［改ページ］<br> | `de496639c5e918b7`<br>[data/text/pc_transfer.inc:28](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L28) |
-| 9589 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は ボックス<br> | `5fee9071ac19cf4f`<br>[data/text/pc_transfer.inc:30](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L30) |
-| 9590 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に てんそうされた！ | `d801c88a7a82a5d2`<br>[data/text/pc_transfer.inc:31](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L31) |
-| 9591 | {STR_VAR_2} was sent to<br> | {STR_VAR_2}は<br> | `8e6a0e6c81ecfdd9`<br>[data/text/pc_transfer.inc:34](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L34) |
-| 9592 | {B_PC_CREATOR_NAME} PC.<br>［改ページ］<br> | {B_PC_CREATOR_NAME}の パソコンに てんそうされた！<br>［改ページ］<br> | `6b747d3b444192f0`<br>[data/text/pc_transfer.inc:35](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L35) |
-| 9593 | It was placed in <br> | ボックス<br> | `9132f651c9da61f6`<br>[data/text/pc_transfer.inc:36](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L36) |
-| 9594 | BOX “{STR_VAR_1}”. | 「{STR_VAR_1}」に あずけられた。 | `d87b2d2d88f42708`<br>[data/text/pc_transfer.inc:37](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L37) |
-| 9595 | {PLAYER} obtained<br> | {PLAYER}は<br> | `34762034387eb788`<br>[data/text/pc_transfer.inc:40](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L40) |
-| 9596 | the {STR_VAR_1}! | {STR_VAR_1}を てにいれた！ | `511778c3a3eca991`<br>[data/text/pc_transfer.inc:41](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L41) |
-| 9597 | There's no more room for POKéMON!<br>［改ページ］<br> | もう ポケモンを あずけられない！<br>［改ページ］<br> | `1df394ba3f170707`<br>[data/text/pc_transfer.inc:44](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L44) |
-| 9598 | The POKéMON BOXES are full and<br> | ポケモンボックスが ぜんぶ いっぱいで<br> | `f0bf9615899caea5`<br>[data/text/pc_transfer.inc:45](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L45) |
-| 9599 | can't accept any more! | これいじょう あずけられない！ | `9e9df27ba9e40218`<br>[data/text/pc_transfer.inc:46](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L46) |
-| 9600 | Do you want to give a nickname to<br> | さっそく<br> | `4cbd679a87fad153`<br>[data/text/pc_transfer.inc:49](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L49) |
-| 9601 | this {STR_VAR_1}? | {STR_VAR_1}に ニックネームを つけますか？ | `898fa07620962cc9`<br>[data/text/pc_transfer.inc:50](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L50) |
-| 9602 | Hello, and welcome to<br> | ようこそ！<br> | `16bdf580f9d1734a`<br>[data/text/pkmn_center_nurse.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L2) |
-| 9603 | the POKéMON CENTER.<br>［改ページ］<br> | ポケモンセンターへ<br>［改ページ］<br> | `6324cdfee9b005a3`<br>[data/text/pkmn_center_nurse.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L3) |
-| 9604 | We restore your tired POKéMON<br> | ここでは ポケモンの たいりょくを<br> | `577a37d32d8ca062`<br>[data/text/pkmn_center_nurse.inc:4](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L4) |
-| 9605 | to full health.<br>［改ページ］<br> | かいふく いたします<br>［改ページ］<br> | `cb473fe7bfbcd5ed`<br>[data/text/pkmn_center_nurse.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L5) |
-| 9606 | Would you like to rest your POKéMON? | あなたの ポケモンを やすませて あげますか？ | `b8390e7e1c023b4e`<br>[data/text/pkmn_center_nurse.inc:6](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L6) |
-| 9607 | Okay, I'll take your POKéMON<br> | では ポケモンを<br> | `e43e7b6d117fee29`<br>[data/text/pkmn_center_nurse.inc:9](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L9) |
-| 9608 | for a few seconds. | おあずかり します！ | `d86816539652a950`<br>[data/text/pkmn_center_nurse.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L10) |
-| 9609 | Thank you for waiting.<br>［改ページ］<br> | おまちどうさまでした！<br>［改ページ］<br> | `5f0a648b4a352a78`<br>[data/text/pkmn_center_nurse.inc:13](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L13) |
-| 9610 | We've restored your POKéMON<br> | おあずかりした ポケモンは<br> | `67773a935437be40`<br>[data/text/pkmn_center_nurse.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L14) |
-| 9611 | to full health. | みんな げんきに なりましたよ！ | `c69ad2e114640140`<br>[data/text/pkmn_center_nurse.inc:15](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L15) |
-| 9612 | We hope to see you again! | また どうぞ！ | `4b7335f1fa8f6ef2`<br>[data/text/pkmn_center_nurse.inc:18](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L18) |
-| 9613 | Hello, and welcome to<br> | ようこそ！<br> | `5fc6b9a6e235e8c3`<br>[data/text/pkmn_center_nurse.inc:21](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L21) |
-| 9614 | the POKéMON CENTER.<br>［改ページ］<br> | ポケモンセンターへ<br>［改ページ］<br> | `581559e6ef8b84e3`<br>[data/text/pkmn_center_nurse.inc:22](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L22) |
-| 9615 | We restore your tired POKéMON<br> | ここでは ポケモンの たいりょくを<br> | `72d80aeb81789411`<br>[data/text/pkmn_center_nurse.inc:23](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L23) |
-| 9616 | to full health.<br>［改ページ］<br> | かいふく いたします<br>［改ページ］<br> | `c5bb07daea4b3723`<br>[data/text/pkmn_center_nurse.inc:24](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L24) |
-| 9617 | Would you like to… | あなたの ポケモンを… | `4ef1107ce015ca02`<br>[data/text/pkmn_center_nurse.inc:25](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L25) |
-| 9618 | Th-that card…<br> | そ そのカードは…<br> | `572d9bc077d2c023`<br>[data/text/pkmn_center_nurse.inc:28](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L28) |
-| 9619 | Could it be… The GOLD CARD?!<br>［改ページ］<br> | もしかして ゴールドカード！？<br>［改ページ］<br> | `cdfdd541765302ff`<br>[data/text/pkmn_center_nurse.inc:29](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L29) |
-| 9620 | Oh, the gold color is brilliant!<br> | まあ！ なんて すてきな きんいろ！<br> | `4f15eabe33a635eb`<br>[data/text/pkmn_center_nurse.inc:30](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L30) |
-| 9621 | The four stars seem to sparkle!<br>［改ページ］<br> | 4つの ほしが かがやいて いますね！<br>［改ページ］<br> | `c70bcb7e21358789`<br>[data/text/pkmn_center_nurse.inc:31](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L31) |
-| 9622 | I've seen several TRAINERS with<br> | シルバーカードを もった トレーナーさんは<br> | `4bfff4fbca3857b6`<br>[data/text/pkmn_center_nurse.inc:32](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L32) |
-| 9623 | a SILVER CARD before, but, {PLAYER},<br>［スクロール］<br> | なんにんか みましたけど {PLAYER}さんが<br>［スクロール］<br> | `d320541232c792b1`<br>[data/text/pkmn_center_nurse.inc:33](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L33) |
-| 9624 | you're the first TRAINER I've ever<br>［スクロール］<br> | ゴールドカードを もった<br>［スクロール］<br> | `04831278d815bf1b`<br>[data/text/pkmn_center_nurse.inc:34](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L34) |
-| 9625 | seen with a GOLD CARD!<br>［改ページ］<br> | はじめての トレーナーさんです！<br>［改ページ］<br> | `abe815c37e26b025`<br>[data/text/pkmn_center_nurse.inc:35](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L35) |
-| 9626 | Okay, {PLAYER}, please allow me<br> | {PLAYER}さん ぜひ わたしに<br> | `3b51c2a5590ad716`<br>[data/text/pkmn_center_nurse.inc:36](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L36) |
-| 9627 | the honor of resting your POKéMON! | ポケモンを やすませ させてください！ | `d3184a30357ebd67`<br>[data/text/pkmn_center_nurse.inc:37](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L37) |
-| 9628 | I'm delighted to see you, {PLAYER}!<br> | {PLAYER}さん ようこそ！<br> | `a1d300f54b0111f9`<br>[data/text/pkmn_center_nurse.inc:40](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L40) |
-| 9629 | You want the usual, am I right? | いつもの ですね？ | `9f3447ddaffff488`<br>[data/text/pkmn_center_nurse.inc:41](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L41) |
-| 9630 | Okay, I'll take your POKéMON<br> | では ポケモンを<br> | `586879794d7a692c`<br>[data/text/pkmn_center_nurse.inc:44](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L44) |
-| 9631 | for a few seconds. | おあずかり します！ | `1b1ad78b9ad3de9c`<br>[data/text/pkmn_center_nurse.inc:45](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L45) |
-| 9632 | Thank you for waiting. | おまちどうさまでした！ | `e0c8d86443dc343b`<br>[data/text/pkmn_center_nurse.inc:48](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L48) |
-| 9633 | We hope to see you again! | また どうぞ！ | `93c9a98b609615a6`<br>[data/text/pkmn_center_nurse.inc:51](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L51) |
-| 9634 | Would you like to save the game? | ここまでのぼうけんを<br>レポートにかきこみますか？ | `694e974b19816979`<br>[data/text/save.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L3) |
-| 9635 | There is already a saved file.<br> | すでにレポートがかかれています。<br> | `d338f4277c697d6e`<br>[data/text/save.inc:6](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L6) |
-| 9636 | Is it okay to overwrite it? | うえからかきかえてもいいですか？ | `b04e8ffeb720919f`<br>[data/text/save.inc:7](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L7) |
-| 9637 | SAVING…<br> | レポートをかいています…<br> | `d55fc5faabcc3c50`<br>[data/text/save.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L10) |
-| 9638 | DON'T TURN OFF THE POWER. | でんげんをきらないでください。 | `14f83edd2320a1ed`<br>[data/text/save.inc:11](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L11) |
-| 9639 | {PLAYER} saved the game. | {PLAYER}は<br>レポートにしっかりかきのこした！ | `449e79605be633d0`<br>[data/text/save.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L14) |
-| 9640 | WARNING!<br>［改ページ］<br> | ちゅうい！<br>［改ページ］<br> | `d633108846201208`<br>[data/text/save.inc:17](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L17) |
-| 9641 | There is a different game file that<br> | すでにべつのぼうけんのレポートが<br> | `327c1f84be4d6d78`<br>[data/text/save.inc:18](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L18) |
-| 9642 | is already saved.<br>［改ページ］<br> | かきこまれています。<br>［改ページ］<br> | `ee001646bbccdd86`<br>[data/text/save.inc:19](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L19) |
-| 9643 | If you save now, the other file's<br> | いまレポートをかくと まえのぼうけんの<br> | `f1e7866c1e6fcc4a`<br>[data/text/save.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L20) |
-| 9644 | adventure, including items and<br>［スクロール］<br> | きろくは どうぐやポケモンもふくめて<br>［スクロール］<br> | `041ee7378fdd7f8a`<br>[data/text/save.inc:21](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L21) |
-| 9645 | POKéMON, will be entirely lost.<br>［改ページ］<br> | すべてきえてしまいます。<br>［改ページ］<br> | `7597f43092d71b85`<br>[data/text/save.inc:22](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L22) |
-| 9646 | Are you sure you want to save now<br> | それでも まえのレポートをけして<br> | `d8342085f2a5da5e`<br>[data/text/save.inc:23](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L23) |
-| 9647 | and overwrite the other save file? | うえからかきかえてもいいですか？ | `f068f86c5d5e300d`<br>[data/text/save.inc:24](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L24) |
-| 9648 | Save error.<br>［改ページ］<br> | レポートのかきこみにしっぱいしました。<br>［改ページ］<br> | `9bf168a9612ba26f`<br>[data/text/save.inc:27](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L27) |
-| 9649 | Please exchange the<br> | バックアップメモリを<br> | `25b25d75e0342b69`<br>[data/text/save.inc:28](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L28) |
-| 9650 | backup memory. | こうかんしてください。 | `cf3efa2fba568796`<br>[data/text/save.inc:29](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L29) |
-| 9651 | SAVING…<br> | レポートをかいています…<br> | `7a305b81d06d4ce0`<br>[data/text/save.inc:32](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L32) |
-| 9652 | DON'T TURN OFF THE POWER. | でんげんをきらないでください。 | `3f92600a1d9455cc`<br>[data/text/save.inc:33](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L33) |
-| 9653 | The water is dyed a deep blue…<br> | みずが あおあおと している…<br> | `fdcba2d7751ee2e7`<br>[data/text/surf.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L2) |
-| 9654 | Would you like to SURF? | なみのりを つかいますか？ | `7f7bc2f4161b25cc`<br>[data/text/surf.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L3) |
-| 9655 | {STR_VAR_1} used SURF! | {STR_VAR_1}は なみのりを つかった！ | `77299ce1af71a83a`<br>[data/text/surf.inc:6](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L6) |
-| 9656 | The current is much too fast!<br> | ながれが はやすぎる！<br> | `7fd58fa982f19c24`<br>[data/text/surf.inc:9](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L9) |
-| 9657 | SURF can't be used here… | ここでは なみのりは つかえない… | `bfe3e58cc88187ee`<br>[data/text/surf.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L10) |
-| 9658 | Strange Ball | ストレンジボール | `783e2224dca3ea13`<br>[src/data/items.h:181](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L181) |
-| 9659 | Poké Ball | モンスターボール | `54ef5963c863185d`<br>[src/data/items.h:197](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L197) |
-| 9660 | Great Ball | スーパーボール | `d6bb364e87760163`<br>[src/data/items.h:213](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L213) |
-| 9661 | Ultra Ball | ハイパーボール | `f217e92a1f250167`<br>[src/data/items.h:229](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L229) |
-| 9662 | Master Ball | マスターボール | `e04e248714707091`<br>[src/data/items.h:245](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L245) |
-| 9663 | AM Intimidate | とくせいマシン・いかく | `fc1e36b442d0bd72`<br>[src/data/items.h:262](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L262) |
-| 9664 | AM Guts | とくせいマシン・こんじょう | `96fd87b044cb8008`<br>[src/data/items.h:278](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L278) |
-| 9665 | AM Technician | とくせいマシン・テクニシャン | `e6632dd57e2950f0`<br>[src/data/items.h:294](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L294) |
-| 9666 | AM Moxie | とくせいマシン・じしんかじょう | `6786b400d8cbac5a`<br>[src/data/items.h:310](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L310) |
-| 9667 | AM Adaptability | とくせいマシン・てきおうりょく | `139bbfed2728f8e1`<br>[src/data/items.h:326](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L326) |
-| 9668 | AM Sheer Force | とくせいマシン・ちからずく | `a14c89b79ae0f074`<br>[src/data/items.h:342](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L342) |
-| 9669 | AM Tough Claws | とくせいマシン・かたいツメ | `df2d5a9d49b3a46d`<br>[src/data/items.h:358](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L358) |
-| 9670 | AM Iron Fist | とくせいマシン・てつのこぶし | `5af896883eb4b9c2`<br>[src/data/items.h:374](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L374) |
-| 9671 | AM Tinted Lens | とくせいマシン・いろめがね | `ce2e5a42231567b7`<br>[src/data/items.h:389](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L389) |
-| 9672 | AM Skill Link | とくせいマシン・スキルリンク | `f93842cecda4ac21`<br>[src/data/items.h:405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L405) |
-| 9673 | AM Thick Fat | とくせいマシン・あついしぼう | `2481ac45f8930f0a`<br>[src/data/items.h:421](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L421) |
-| 9674 | AM Sturdy | とくせいマシン・がんじょう | `8ddebe0d9889e7d3`<br>[src/data/items.h:437](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L437) |
-| 9675 | AM Levitate | とくせいマシン・ふゆう | `c8b064277ac3ce0e`<br>[src/data/items.h:453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L453) |
-| 9676 | AM Unaware | とくせいマシン・てんねん | `c48b94ac31cc7eff`<br>[src/data/items.h:469](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L469) |
-| 9677 | AM Serene Grace | とくせいマシン・てんのめぐみ | `25f2d9eaa158c50f`<br>[src/data/items.h:485](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L485) |
-| 9678 | AM Prankster | とくせいマシン・いたずらごころ | `5bf6893e2dff9d70`<br>[src/data/items.h:501](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L501) |
-| 9679 | AM Poison Heal | とくせいマシン・ポイズンヒール | `8b08e916b07949d9`<br>[src/data/items.h:517](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L517) |
-| 9680 | AM Multiscale | とくせいマシン・マルチスケイル | `1004b34fef8c9ed0`<br>[src/data/items.h:533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L533) |
-| 9681 | AM Magic Guard | とくせいマシン・マジックガード | `eaf0ce8156a90b86`<br>[src/data/items.h:549](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L549) |
-| 9682 | AM Regenerator | とくせいマシン・さいせいりょく | `cb46efb796f8d690`<br>[src/data/items.h:565](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L565) |
-| 9683 | AM Speed Boost | とくせいマシン・かそく | `3030915d78004ea0`<br>[src/data/items.h:581](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L581) |
-| 9684 | AM Magic Bounce | とくせいマシン・マジックミラー | `3d2b7efd4e7767be`<br>[src/data/items.h:596](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L596) |
-| 9685 | Mankey's Paw | マンキーのて | `c2e65acf16c36330`<br>[src/data/items.h:613](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L613) |
-| 9686 | Primeape's Paw | オコリザルのて | `844b07d22a2d0c20`<br>[src/data/items.h:629](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L629) |
-| 9687 | Annihilape Paw | コノヨザルのて | `fc8aba451cedc295`<br>[src/data/items.h:645](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L645) |
-| 9688 | Snag Ball | スナッチボール | `b5da0a5bedaafc95`<br>[src/data/items.h:661](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L661) |
-| 9689 | Premier Ball | プレミアボール | `744bdc08f5d89526`<br>[src/data/items.h:678](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L678) |
-| 9690 | Heal Ball | ヒールボール | `abbfd4d8bc21581f`<br>[src/data/items.h:694](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L694) |
-| 9691 | Net Ball | ネットボール | `0a7d613fd29c0f2e`<br>[src/data/items.h:710](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L710) |
-| 9692 | Nest Ball | ネストボール | `ab81ec5c8e7e26e7`<br>[src/data/items.h:726](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L726) |
-| 9693 | Dive Ball | ダイブボール | `3b7f0946805ffa71`<br>[src/data/items.h:742](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L742) |
-| 9694 | Dusk Ball | ダークボール | `4db3c907dd133568`<br>[src/data/items.h:758](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L758) |
-| 9695 | Timer Ball | タイマーボール | `205da0bdbcf9fed3`<br>[src/data/items.h:774](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L774) |
-| 9696 | Quick Ball | クイックボール | `e3f25e56731a5573`<br>[src/data/items.h:790](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L790) |
-| 9697 | Repeat Ball | リピートボール | `8efd2cb506df5ba6`<br>[src/data/items.h:806](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L806) |
-| 9698 | Luxury Ball | ゴージャスボール | `696defec8a65ba90`<br>[src/data/items.h:822](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L822) |
-| 9699 | Level Ball | レベルボール | `03caa32d57ae092a`<br>[src/data/items.h:838](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L838) |
-| 9700 | Lure Ball | ルアーボール | `1b6c15dca6864d59`<br>[src/data/items.h:854](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L854) |
-| 9701 | Moon Ball | ムーンボール | `996b82acfd4f92fd`<br>[src/data/items.h:870](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L870) |
-| 9702 | Friend Ball | フレンドボール | `65c7088e934dd943`<br>[src/data/items.h:886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L886) |
-| 9703 | Love Ball | ラブラブボール | `9559903a943506ec`<br>[src/data/items.h:902](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L902) |
-| 9704 | Fast Ball | スピードボール | `6051078316ac3507`<br>[src/data/items.h:918](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L918) |
-| 9705 | Heavy Ball | ヘビーボール | `0f043adc1931412d`<br>[src/data/items.h:934](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L934) |
-| 9706 | Dream Ball | ドリームボール | `9a271b1c5d7cee47`<br>[src/data/items.h:950](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L950) |
-| 9707 | Safari Ball | サファリボール | `9ea090dcad1f53a1`<br>[src/data/items.h:971](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L971) |
-| 9708 | Sport Ball | コンペボール | `b351193985ed9bd7`<br>[src/data/items.h:987](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L987) |
-| 9709 | Park Ball | パークボール | `0e8e7e5b18f151aa`<br>[src/data/items.h:1003](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1003) |
-| 9710 | Beast Ball | ウルトラボール | `8512b7dfe978ed69`<br>[src/data/items.h:1018](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1018) |
-| 9711 | Cherish Ball | プレシャスボール | `1b972ea114956ddc`<br>[src/data/items.h:1033](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1033) |
-| 9712 | Potion | キズぐすり | `bb871572f93b416f`<br>[src/data/items.h:1051](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1051) |
-| 9713 | Super Potion | いいキズぐすり | `7a34badc02c78fe4`<br>[src/data/items.h:1071](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1071) |
-| 9714 | Hyper Potion | すごいキズぐすり | `abb1512a80fdc889`<br>[src/data/items.h:1095](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1095) |
-| 9715 | Max Potion | まんたんのくすり | `d05a59affe3dc7ed`<br>[src/data/items.h:1119](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1119) |
-| 9716 | Full Restore | かいふくのくすり | `11297a74b358d31d`<br>[src/data/items.h:1138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1138) |
-| 9717 | Revive | げんきのかけら | `3fba89a26215c5f4`<br>[src/data/items.h:1158](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1158) |
-| 9718 | Max Revive | げんきのかたまり | `cce5c5f21052c554`<br>[src/data/items.h:1177](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1177) |
-| 9719 | Fresh Water | おいしいみず | `4188f7c4d58a8870`<br>[src/data/items.h:1193](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1193) |
-| 9720 | Soda Pop | サイコソーダ | `4e45ddbb9adf4f16`<br>[src/data/items.h:1217](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1217) |
-| 9721 | Lemonade | ミックスオレ | `c69d4e4c1da7c97f`<br>[src/data/items.h:1241](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1241) |
-| 9722 | Moomoo Milk | モーモーミルク | `4b67d2a5c4ea3111`<br>[src/data/items.h:1265](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1265) |
-| 9723 | Energy Powder | ちからのこな | `5d92ecd1f5d8cb02`<br>[src/data/items.h:1285](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1285) |
-| 9724 | Energy Root | ちからのねっこ | `28be8a6045be521f`<br>[src/data/items.h:1308](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1308) |
-| 9725 | Heal Powder | ばんのうごな | `4785ce7cba6d5495`<br>[src/data/items.h:1331](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1331) |
-| 9726 | Revival Herb | ふっかつそう | `0a58d95ed96b614a`<br>[src/data/items.h:1350](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1350) |
-| 9727 | Antidote | どくけし | `93a426987e09d503`<br>[src/data/items.h:1369](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1369) |
-| 9728 | Paralyze Heal | まひなおし | `f93a5bb328e18c9b`<br>[src/data/items.h:1387](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1387) |
-| 9729 | Burn Heal | やけどなおし | `b8a6a866168d78d6`<br>[src/data/items.h:1405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1405) |
-| 9730 | Ice Heal | こおりなおし | `2f93cbf28c10396e`<br>[src/data/items.h:1429](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1429) |
-| 9731 | Awakening | ねむけざまし | `25e5b559dc3f14bf`<br>[src/data/items.h:1453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1453) |
-| 9732 | Full Heal | なんでもなおし | `ae607c33d9cb6950`<br>[src/data/items.h:1477](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1477) |
-| 9733 | Ether | ピーピーエイド | `d9a9456432a65284`<br>[src/data/items.h:1493](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1493) |
-| 9734 | Max Ether | ピーピーリカバー | `afaf16da3d3bc1e7`<br>[src/data/items.h:1513](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1513) |
-| 9735 | Elixir | ピーピーエイダー | `01bde493e0d98dad`<br>[src/data/items.h:1533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1533) |
-| 9736 | Max Elixir | ピーピーマックス | `c09fc15d2a807741`<br>[src/data/items.h:1552](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1552) |
-| 9737 | Berry Juice | きのみジュース | `6b7c17683a9f49c1`<br>[src/data/items.h:1572](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1572) |
-| 9738 | Sacred Ash | せいなるはい | `f33a850d0728db12`<br>[src/data/items.h:1593](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1593) |
-| 9739 | Sacred Ashes | せいなるはい | `d5477f85a10a00b9`<br>[src/data/items.h:1594](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1594) |
-| 9740 | Sweet Heart | ハートスイーツ | `a6e48499afd1977f`<br>[src/data/items.h:1612](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1612) |
-| 9741 | Max Honey | ダイミツ | `d8a47b1d475c434c`<br>[src/data/items.h:1632](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1632) |
-| 9742 | Max Honey | ダイミツ | `ef1efc9fd389e00b`<br>[src/data/items.h:1633](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1633) |
-| 9743 | Pewter Crunchies | ニビあられ | `b47afb27cd040e59`<br>[src/data/items.h:1651](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1651) |
-| 9744 | Pewter Crunchies | ニビあられ | `4bab38cd9cb27d03`<br>[src/data/items.h:1652](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1652) |
-| 9745 | Rage Candy Bar | いかりまんじゅう | `a1c720013aa8de4b`<br>[src/data/items.h:1668](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1668) |
-| 9746 | Lava Cookie | フエンせんべい | `b73cf05789c412dc`<br>[src/data/items.h:1684](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1684) |
-| 9747 | Old Gateau | もりのヨウカン | `c52db7d4fe0efb57`<br>[src/data/items.h:1703](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1703) |
-| 9748 | Old Gateaux | もりのヨウカン | `9186b4ad8369b764`<br>[src/data/items.h:1704](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1704) |
-| 9749 | Casteliacone | ヒウンアイス | `faaeae7f9d985916`<br>[src/data/items.h:1720](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1720) |
-| 9750 | Lumiose Galette | ミアレガレット | `c585bf4fe52dcb98`<br>[src/data/items.h:1736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1736) |
-| 9751 | Shalour Sable | シャラサブレ | `f788534b33685872`<br>[src/data/items.h:1752](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1752) |
-| 9752 | Big Malasada | おおきいマラサダ | `16efe2aef9e6772b`<br>[src/data/items.h:1768](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1768) |
-| 9753 | HP Up | マックスアップ | `ca924e5fdfd4b7de`<br>[src/data/items.h:1786](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1786) |
-| 9754 | Protein | タウリン | `cbb6281b0230fa51`<br>[src/data/items.h:1803](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1803) |
-| 9755 | Iron | ブロムヘキシン | `e2e0179bb4077088`<br>[src/data/items.h:1821](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1821) |
-| 9756 | Calcium | リゾチウム | `817e7e7c008692d3`<br>[src/data/items.h:1839](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1839) |
-| 9757 | Zinc | キトサン | `ba62983df1f2f105`<br>[src/data/items.h:1857](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1857) |
-| 9758 | Carbos | インドメタシン | `8d8130173b52d994`<br>[src/data/items.h:1875](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1875) |
-| 9759 | Carbos | インドメタシン | `5aab76743c1362f8`<br>[src/data/items.h:1876](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1876) |
-| 9760 | PP Up | ポイントアップ | `22cf5da8ff8f8a89`<br>[src/data/items.h:1894](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1894) |
-| 9761 | PP Max | ポイントマックス | `1a8e30965c09774a`<br>[src/data/items.h:1918](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1918) |
-| 9762 | PP Maxes | ポイントマックス | `54acec01240c1c53`<br>[src/data/items.h:1919](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1919) |
-| 9763 | Health Feather | たいりょくのハネ | `2d879d60b9a81b71`<br>[src/data/items.h:1939](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1939) |
-| 9764 | Muscle Feather | きんりょくのハネ | `ff99be668d0ff8c2`<br>[src/data/items.h:1954](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1954) |
-| 9765 | Resist Feather | ていこうのハネ | `74671bda7725d476`<br>[src/data/items.h:1969](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1969) |
-| 9766 | Genius Feather | ちりょくのハネ | `1195f2f967410a35`<br>[src/data/items.h:1984](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1984) |
-| 9767 | Clever Feather | せいしんのハネ | `0db5d6533205a2d5`<br>[src/data/items.h:1999](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1999) |
-| 9768 | Swift Feather | しゅんぱつのハネ | `62fb8966e4aa1d3c`<br>[src/data/items.h:2014](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2014) |
-| 9769 | Ability Capsule | とくせいカプセル | `97b3c143f56d324d`<br>[src/data/items.h:2031](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2031) |
-| 9770 | Ability Patch | とくせいパッチ | `20bf6122c6400d8f`<br>[src/data/items.h:2053](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2053) |
-| 9771 | Ability Patches | とくせいパッチ | `2b9e83de97be0fe2`<br>[src/data/items.h:2054](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2054) |
-| 9772 | Lonely Mint | さみしがりミント | `6f561850a83f3180`<br>[src/data/items.h:2073](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2073) |
-| 9773 | Adamant Mint | いじっぱりミント | `33f09232b65a4703`<br>[src/data/items.h:2091](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2091) |
-| 9774 | Naughty Mint | やんちゃミント | `47680e872549dab5`<br>[src/data/items.h:2109](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2109) |
-| 9775 | Brave Mint | ゆうかんミント | `91762b99e7d27ab6`<br>[src/data/items.h:2127](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2127) |
-| 9776 | Bold Mint | ずぶといミント | `7a3b46b0af5e2279`<br>[src/data/items.h:2145](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2145) |
-| 9777 | Impish Mint | わんぱくミント | `9ee01d50686bc412`<br>[src/data/items.h:2163](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2163) |
-| 9778 | Lax Mint | のうてんきミント | `b98039da616b91b9`<br>[src/data/items.h:2181](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2181) |
-| 9779 | Relaxed Mint | のんきミント | `1f154862aa194512`<br>[src/data/items.h:2199](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2199) |
-| 9780 | Modest Mint | ひかえめミント | `c94f453207b47786`<br>[src/data/items.h:2217](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2217) |
-| 9781 | Mild Mint | おっとりミント | `10dd6a4d9fceb887`<br>[src/data/items.h:2235](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2235) |
-| 9782 | Rash Mint | うっかりやミント | `9e6aed65c3138f50`<br>[src/data/items.h:2253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2253) |
-| 9783 | Quiet Mint | れいせいミント | `79775d4b41347878`<br>[src/data/items.h:2271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2271) |
-| 9784 | Calm Mint | おだやかミント | `031ad3afa686940e`<br>[src/data/items.h:2289](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2289) |
-| 9785 | Gentle Mint | おとなしいミント | `6c6d85e0fe5425a5`<br>[src/data/items.h:2307](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2307) |
-| 9786 | Careful Mint | しんちょうミント | `bce2f4a154a8c508`<br>[src/data/items.h:2325](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2325) |
-| 9787 | Sassy Mint | なまいきミント | `f6a5fb3c2ba0d739`<br>[src/data/items.h:2343](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2343) |
-| 9788 | Timid Mint | おくびょうミント | `e35dca4c3115091e`<br>[src/data/items.h:2361](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2361) |
-| 9789 | Hasty Mint | せっかちミント | `28f7574b8032951b`<br>[src/data/items.h:2379](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2379) |
-| 9790 | Jolly Mint | ようきミント | `a84ab9dc42938671`<br>[src/data/items.h:2397](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2397) |
-| 9791 | Naive Mint | むじゃきミント | `017cb760fad9a228`<br>[src/data/items.h:2415](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2415) |
-| 9792 | Serious Mint | まじめミント | `78b5230c92139411`<br>[src/data/items.h:2433](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2433) |
-| 9793 | Rare Candy | ふしぎなアメ | `b0cadf9fa3f64478`<br>[src/data/items.h:2453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2453) |
-| 9794 | Rare Candies | ふしぎなアメ | `5f66da0ded2172d4`<br>[src/data/items.h:2454](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2454) |
-| 9795 | Exp. Candy XS | けいけんアメXS | `b1afa56f2f53b32d`<br>[src/data/items.h:2472](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2472) |
-| 9796 | Exp. Candies XS | けいけんアメXS | `8f6c4f02fc1c303d`<br>[src/data/items.h:2473](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2473) |
-| 9797 | Exp. Candy S | けいけんアメS | `9501a17da1793b8c`<br>[src/data/items.h:2492](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2492) |
-| 9798 | Exp. Candies S | けいけんアメS | `a43094bd8563e54f`<br>[src/data/items.h:2493](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2493) |
-| 9799 | Exp. Candy M | けいけんアメM | `32fe0940f470b604`<br>[src/data/items.h:2512](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2512) |
-| 9800 | Exp. Candies M | けいけんアメM | `253d9a9195984c2c`<br>[src/data/items.h:2513](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2513) |
-| 9801 | Exp. Candy L | けいけんアメL | `087fd0e07b82ed08`<br>[src/data/items.h:2532](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2532) |
-| 9802 | Exp. Candies L | けいけんアメL | `4406237b8ccb303a`<br>[src/data/items.h:2533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2533) |
-| 9803 | Exp. Candy XL | けいけんアメXL | `901bd271fc8f1f19`<br>[src/data/items.h:2552](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2552) |
-| 9804 | Exp. Candies XL | けいけんアメXL | `0ac8b37c75e2c26e`<br>[src/data/items.h:2553](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2553) |
-| 9805 | Dynamax Candy | ダイマックスアメ | `857064383a496e04`<br>[src/data/items.h:2572](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2572) |
-| 9806 | Dynamax Candies | ダイマックスアメ | `be4eb178166ee57f`<br>[src/data/items.h:2573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2573) |
-| 9807 | Blue Flute | あおいビードロ | `4d21fb1e1a419539`<br>[src/data/items.h:2592](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2592) |
-| 9808 | Yellow Flute | きいろビードロ | `cbd3044a95433974`<br>[src/data/items.h:2612](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2612) |
-| 9809 | Red Flute | あかいビードロ | `a6a07ff7d55d28fa`<br>[src/data/items.h:2632](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2632) |
-| 9810 | Black Flute | くろいビードロ | `0539a42d8039c0e2`<br>[src/data/items.h:2654](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2654) |
-| 9811 | White Flute | しろいビードロ | `b821446881d2ca8e`<br>[src/data/items.h:2673](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2673) |
-| 9812 | Repel | むしよけスプレー | `01fcce3b89e297ce`<br>[src/data/items.h:2693](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2693) |
-| 9813 | Super Repel | シルバースプレー | `4499a06fdd62600c`<br>[src/data/items.h:2711](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2711) |
-| 9814 | Max Repel | ゴールドスプレー | `09a1a33d7d7caf70`<br>[src/data/items.h:2729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2729) |
-| 9815 | Lure | むしよせコロン | `ca9434415705e97c`<br>[src/data/items.h:2747](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2747) |
-| 9816 | Super Lure | シルバーコロン | `f9ebc5cdf4b1ab2c`<br>[src/data/items.h:2766](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2766) |
-| 9817 | Max Lure | ゴールドコロン | `10f3dcc1595b45b5`<br>[src/data/items.h:2785](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2785) |
-| 9818 | Escape Rope | あなぬけのヒモ | `4aaafc891f2de685`<br>[src/data/items.h:2804](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2804) |
-| 9819 | X Attack | プラスパワー | `aeef818a9f816c78`<br>[src/data/items.h:2829](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2829) |
-| 9820 | X Defense | ディフェンダー | `b06ebef88bd459d0`<br>[src/data/items.h:2855](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2855) |
-| 9821 | X Sp. Atk | スペシャルアップ | `e4b76129dcc99c7e`<br>[src/data/items.h:2881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2881) |
-| 9822 | X Sp. Def | スペシャルガード | `27e622421159c9e2`<br>[src/data/items.h:2907](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2907) |
-| 9823 | X Speed | スピーダー | `2700462b1dff3e1e`<br>[src/data/items.h:2933](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2933) |
-| 9824 | X Accuracy | ヨクアタール | `1a378d39ce6a2c9e`<br>[src/data/items.h:2959](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2959) |
-| 9825 | X Accuracies | ヨクアタール | `eaa9772bf9d7ac2b`<br>[src/data/items.h:2960](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2960) |
-| 9826 | Dire Hit | クリティカッター | `0da047259ad76fd4`<br>[src/data/items.h:2986](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2986) |
-| 9827 | Guard Spec. | エフェクトガード | `440863f1b159c8a2`<br>[src/data/items.h:3005](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3005) |
-| 9828 | Guard Specs. | エフェクトガード | `6528d183d551fc8d`<br>[src/data/items.h:3006](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3006) |
-| 9829 | Poké Doll | ピッピにんぎょう | `6f37e18b5fc4f76a`<br>[src/data/items.h:3025](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3025) |
-| 9830 | Fluffy Tail | エネコのシッポ | `f6aac764f42ee747`<br>[src/data/items.h:3046](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3046) |
-| 9831 | Poké Toy | ポケじゃらし | `124dd0b41ced7b45`<br>[src/data/items.h:3061](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3061) |
-| 9832 | Max Mushrooms | ダイキノコ | `5635666f324bbf71`<br>[src/data/items.h:3076](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3076) |
-| 9833 | Max Mushrooms | ダイキノコ | `ba0f54a423891b34`<br>[src/data/items.h:3077](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3077) |
-| 9834 | Bottle Cap | ぎんのおうかん | `ab5275f581ffc561`<br>[src/data/items.h:3097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3097) |
-| 9835 | Gold Bottle Cap | きんのおうかん | `cfb10c01db2be77b`<br>[src/data/items.h:3114](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3114) |
-| 9836 | Nugget | きんのたま | `6bfa116983afed27`<br>[src/data/items.h:3131](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3131) |
-| 9837 | Big Nugget | でかいきんのたま | `2a67ab273ef26044`<br>[src/data/items.h:3148](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3148) |
-| 9838 | Tiny Mushroom | ちいさなキノコ | `029bf4a74b36b7a3`<br>[src/data/items.h:3171](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3171) |
-| 9839 | Big Mushroom | おおきなキノコ | `653b95420374c2a9`<br>[src/data/items.h:3188](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3188) |
-| 9840 | Balm Mushroom | かおるキノコ | `a6d5de496115e7c3`<br>[src/data/items.h:3202](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3202) |
-| 9841 | Pearl | しんじゅ | `fc99b7c69a5e6dbd`<br>[src/data/items.h:3222](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3222) |
-| 9842 | Big Pearl | おおきなしんじゅ | `2b2236fb656716b0`<br>[src/data/items.h:3239](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3239) |
-| 9843 | Pearl String | おだんごしんじゅ | `cdd0f0fef3377856`<br>[src/data/items.h:3256](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3256) |
-| 9844 | Stardust | ほしのすな | `9090b8f1afeab46e`<br>[src/data/items.h:3281](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3281) |
-| 9845 | Star Piece | ほしのかけら | `f7f85d8b8c4ef661`<br>[src/data/items.h:3298](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3298) |
-| 9846 | Comet Shard | すいせいのかけら | `3aa5c3cf1764f95c`<br>[src/data/items.h:3315](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3315) |
-| 9847 | Shoal Salt | あさせのしお | `49218a80dcc07686`<br>[src/data/items.h:3340](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3340) |
-| 9848 | Shoal Shell | あさせのかいがら | `f9d60f7834c5c754`<br>[src/data/items.h:3357](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3357) |
-| 9849 | Red Shard | あかいかけら | `1a3114825005bc07`<br>[src/data/items.h:3374](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3374) |
-| 9850 | Blue Shard | あおいかけら | `a8c9e2c68c64e301`<br>[src/data/items.h:3388](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3388) |
-| 9851 | Yellow Shard | きいろいかけら | `beeca02329a6b30a`<br>[src/data/items.h:3402](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3402) |
-| 9852 | Green Shard | みどりのかけら | `545022627e9c6688`<br>[src/data/items.h:3416](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3416) |
-| 9853 | Heart Scale | ハートのウロコ | `2a7b366d62577c5c`<br>[src/data/items.h:3430](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3430) |
-| 9854 | Honey | あまいミツ | `6cf02d782505d38a`<br>[src/data/items.h:3447](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3447) |
-| 9855 | Honey | あまいミツ | `22c2d2834a969633`<br>[src/data/items.h:3448](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3448) |
-| 9856 | Rare Bone | きちょうなホネ | `7d3549f073ac7c84`<br>[src/data/items.h:3471](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3471) |
-| 9857 | Odd Keystone | かなめいし | `74aad3a76454ac7d`<br>[src/data/items.h:3488](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3488) |
-| 9858 | Pretty Feather | きれいなハネ | `d664509a6e51a18d`<br>[src/data/items.h:3505](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3505) |
-| 9859 | Relic Copper | こだいのどうか | `26f975fcb31c1e67`<br>[src/data/items.h:3522](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3522) |
-| 9860 | Relic Silver | こだいのぎんか | `56dd7c6022f8e89d`<br>[src/data/items.h:3539](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3539) |
-| 9861 | Relic Gold | こだいのきんか | `68eb1c2c1fb80712`<br>[src/data/items.h:3556](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3556) |
-| 9862 | Relic Vase | こだいのツボ | `5fb5c0548d2d648b`<br>[src/data/items.h:3573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3573) |
-| 9863 | Relic Band | こだいのうでわ | `8cea962113b7657f`<br>[src/data/items.h:3590](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3590) |
-| 9864 | Relic Statue | こだいのせきぞう | `7aa30d970ebeda0e`<br>[src/data/items.h:3607](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3607) |
-| 9865 | Relic Crown | こだいのおうかん | `e785085dded11153`<br>[src/data/items.h:3624](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3624) |
-| 9866 | Strange Souvenir | ふしぎなおきもの | `646bf7a7097caf51`<br>[src/data/items.h:3641](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3641) |
-| 9867 | Helix Fossil | かいのカセキ | `0c250c9327b2c726`<br>[src/data/items.h:3660](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3660) |
-| 9868 | Dome Fossil | こうらのカセキ | `f5c2b29301f96159`<br>[src/data/items.h:3683](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3683) |
-| 9869 | Old Amber | ひみつのコハク | `fd609660a84de6d0`<br>[src/data/items.h:3706](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3706) |
-| 9870 | Root Fossil | ねっこのカセキ | `69c05edb4bccfcc1`<br>[src/data/items.h:3729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3729) |
-| 9871 | Claw Fossil | ツメのカセキ | `4e4969608e99bd67`<br>[src/data/items.h:3749](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3749) |
-| 9872 | Armor Fossil | たてのカセキ | `b1c370769dd76199`<br>[src/data/items.h:3769](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3769) |
-| 9873 | Skull Fossil | ずがいのカセキ | `0502b75be614c97d`<br>[src/data/items.h:3786](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3786) |
-| 9874 | Cover Fossil | ふたのカセキ | `f87b0ebaff6fdf1d`<br>[src/data/items.h:3803](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3803) |
-| 9875 | Plume Fossil | はねのカセキ | `738f3113e9ffde8c`<br>[src/data/items.h:3820](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3820) |
-| 9876 | Jaw Fossil | アゴのカセキ | `dd91135fb60204f3`<br>[src/data/items.h:3837](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3837) |
-| 9877 | Sail Fossil | ヒレのカセキ | `b729ab4f2d032a80`<br>[src/data/items.h:3854](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3854) |
-| 9878 | Fossilized Bird | カセキのトリ | `a3e607f7df5c5e17`<br>[src/data/items.h:3871](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3871) |
-| 9879 | Fossilized Fish | カセキのサカナ | `018f067a50c105ca`<br>[src/data/items.h:3888](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3888) |
-| 9880 | Fossilized Fish | カセキのサカナ | `3239e1379e092606`<br>[src/data/items.h:3889](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3889) |
-| 9881 | Fossilized Drake | カセキのリュウ | `3bf2c53d1166d35a`<br>[src/data/items.h:3903](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3903) |
-| 9882 | Fossilized Dino | カセキのクビナガ | `9675d580ea682d8a`<br>[src/data/items.h:3920](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3920) |
-| 9883 | Growth Mulch | すくすくこやし | `e2a597a624625b5b`<br>[src/data/items.h:3936](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3936) |
-| 9884 | Growth Mulch | すくすくこやし | `dcb7a05a131468dc`<br>[src/data/items.h:3937](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3937) |
-| 9885 | Damp Mulch | じめじめこやし | `c7527c717d3fd34c`<br>[src/data/items.h:3959](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3959) |
-| 9886 | Damp Mulch | じめじめこやし | `22a58e9bccb32992`<br>[src/data/items.h:3960](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3960) |
-| 9887 | Stable Mulch | ながながこやし | `d69bd9ccf7917ea9`<br>[src/data/items.h:3982](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3982) |
-| 9888 | Stable Mulch | ながながこやし | `2f600e6963fab7cb`<br>[src/data/items.h:3983](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3983) |
-| 9889 | Gooey Mulch | ねばねばこやし | `7d616f5387aeaba6`<br>[src/data/items.h:4005](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4005) |
-| 9890 | Gooey Mulch | ねばねばこやし | `4786b82f38a369ae`<br>[src/data/items.h:4006](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4006) |
-| 9891 | Rich Mulch | たわわこやし | `9cd128c1807f3482`<br>[src/data/items.h:4028](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4028) |
-| 9892 | Rich Mulch | たわわこやし | `8abab1ea6ffceaba`<br>[src/data/items.h:4029](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4029) |
-| 9893 | Surprise Mulch | びっくりこやし | `0ed600d2ca6bff92`<br>[src/data/items.h:4051](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4051) |
-| 9894 | Surprise Mulch | びっくりこやし | `73350b2515ff770c`<br>[src/data/items.h:4052](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4052) |
-| 9895 | Boost Mulch | ぐんぐんこやし | `0b654305a5b6fe06`<br>[src/data/items.h:4074](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4074) |
-| 9896 | Boost Mulch | ぐんぐんこやし | `180b4d4a826d25b5`<br>[src/data/items.h:4075](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4075) |
-| 9897 | Amaze Mulch | とんでもこやし | `f6d54db350300559`<br>[src/data/items.h:4097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4097) |
-| 9898 | Amaze Mulch | とんでもこやし | `703dde47b2fe0927`<br>[src/data/items.h:4098](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4098) |
-| 9899 | Red Apricorn | あかぼんぐり | `a3f9fd90ee2305af`<br>[src/data/items.h:4129](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4129) |
-| 9900 | Blue Apricorn | あおぼんぐり | `f9b783aa4470d897`<br>[src/data/items.h:4145](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4145) |
-| 9901 | Yellow Apricorn | きぼんぐり | `21f5783163183a28`<br>[src/data/items.h:4161](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4161) |
-| 9902 | Green Apricorn | みどぼんぐり | `a71c3d0eb2bc813f`<br>[src/data/items.h:4177](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4177) |
-| 9903 | Pink Apricorn | ももぼんぐり | `9f69e208ea2f0ef3`<br>[src/data/items.h:4193](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4193) |
-| 9904 | White Apricorn | しろぼんぐり | `2893bf4dc02b5bc1`<br>[src/data/items.h:4209](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4209) |
-| 9905 | Black Apricorn | くろぼんぐり | `b2ee53095b063da0`<br>[src/data/items.h:4225](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4225) |
-| 9906 | Wishing Piece | ねがいのかたまり | `d375f5f0aa4910a5`<br>[src/data/items.h:4241](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4241) |
-| 9907 | Galarica Twig | ガラナツのえだ | `5fd1d5a4ee009276`<br>[src/data/items.h:4258](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4258) |
-| 9908 | Armorite Ore | ヨロイこうせき | `312709e19e1fa6ba`<br>[src/data/items.h:4275](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4275) |
-| 9909 | Armorite Ore | ヨロイこうせき | `10b51e3dd3774c38`<br>[src/data/items.h:4276](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4276) |
-| 9910 | Dynite Ore | マックスこうせき | `585c8e26c8cc0033`<br>[src/data/items.h:4293](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4293) |
-| 9911 | Dynite Ore | マックスこうせき | `d8b21cf3ffa8f27b`<br>[src/data/items.h:4294](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4294) |
-| 9912 | Orange Mail | オレンジメール | `07de2c405fe3b973`<br>[src/data/items.h:4313](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4313) |
-| 9913 | Orange Mail | オレンジメール | `8d579b408b61685a`<br>[src/data/items.h:4314](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4314) |
-| 9914 | Harbor Mail | ハーバーメール | `46b75443ad1cf0e0`<br>[src/data/items.h:4331](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4331) |
-| 9915 | Harbor Mail | ハーバーメール | `b85d72d6d7d8159f`<br>[src/data/items.h:4332](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4332) |
-| 9916 | Glitter Mail | キラキラメール | `868c166ea4d3cdb3`<br>[src/data/items.h:4349](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4349) |
-| 9917 | Glitter Mail | キラキラメール | `dfd515504f1d4716`<br>[src/data/items.h:4350](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4350) |
-| 9918 | Mech Mail | メカニカルメール | `1044405bee374446`<br>[src/data/items.h:4367](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4367) |
-| 9919 | Mech Mail | メカニカルメール | `1930c5cbee0497f5`<br>[src/data/items.h:4368](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4368) |
-| 9920 | Wood Mail | ウッディメール | `53f3c80595d86821`<br>[src/data/items.h:4385](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4385) |
-| 9921 | Wood Mail | ウッディメール | `73944aaee84194cb`<br>[src/data/items.h:4386](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4386) |
-| 9922 | Wave Mail | クロスメール | `d43b58fd00fece01`<br>[src/data/items.h:4403](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4403) |
-| 9923 | Wave Mail | クロスメール | `4fb156ff5b834f3a`<br>[src/data/items.h:4404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4404) |
-| 9924 | Bead Mail | トレジャーメール | `0709f331deee5fc6`<br>[src/data/items.h:4421](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4421) |
-| 9925 | Bead Mail | トレジャーメール | `64b447c76dac6df9`<br>[src/data/items.h:4422](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4422) |
-| 9926 | Shadow Mail | シャドーメール | `d084b9681956eb97`<br>[src/data/items.h:4436](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4436) |
-| 9927 | Shadow Mail | シャドーメール | `9205572b9dab29ef`<br>[src/data/items.h:4437](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4437) |
-| 9928 | Tropic Mail | トロピカルメール | `f0e1ba26b7895654`<br>[src/data/items.h:4454](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4454) |
-| 9929 | Tropic Mail | トロピカルメール | `55b40d4ba913ce67`<br>[src/data/items.h:4455](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4455) |
-| 9930 | Dream Mail | ドリームメール | `be706f636b283557`<br>[src/data/items.h:4472](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4472) |
-| 9931 | Dream Mail | ドリームメール | `df931876c2e5b019`<br>[src/data/items.h:4473](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4473) |
-| 9932 | Fab Mail | ミラクルメール | `782d0e3faab9666e`<br>[src/data/items.h:4487](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4487) |
-| 9933 | Fab Mail | ミラクルメール | `1ff6bbb7026c8954`<br>[src/data/items.h:4488](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4488) |
-| 9934 | Retro Mail | レトロメール | `3bc5a37e777f8315`<br>[src/data/items.h:4505](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4505) |
-| 9935 | Retro Mail | レトロメール | `85073c6e0a53e7b6`<br>[src/data/items.h:4506](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4506) |
-| 9936 | Fire Stone | ほのおのいし | `bda37390209b73d4`<br>[src/data/items.h:4525](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4525) |
-| 9937 | Water Stone | みずのいし | `2562524d02cffc37`<br>[src/data/items.h:4540](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4540) |
-| 9938 | Thunder Stone | かみなりのいし | `a0011251e686db1d`<br>[src/data/items.h:4555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4555) |
-| 9939 | Leaf Stone | リーフのいし | `79d014e6475ab1a1`<br>[src/data/items.h:4570](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4570) |
-| 9940 | Ice Stone | こおりのいし | `05d7266365118cb1`<br>[src/data/items.h:4585](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4585) |
-| 9941 | Sun Stone | たいようのいし | `22488134862b7488`<br>[src/data/items.h:4600](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4600) |
-| 9942 | Moon Stone | つきのいし | `abc15ee4147029ec`<br>[src/data/items.h:4615](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4615) |
-| 9943 | Shiny Stone | ひかりのいし | `9cab7ab56b1bfe8e`<br>[src/data/items.h:4638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4638) |
-| 9944 | Dusk Stone | やみのいし | `c716ff24afeee019`<br>[src/data/items.h:4653](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4653) |
-| 9945 | Dawn Stone | めざめいし | `496b74e5f21e6a00`<br>[src/data/items.h:4668](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4668) |
-| 9946 | Sweet Apple | あまーいりんご | `cc37ec49ff9dfef1`<br>[src/data/items.h:4683](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4683) |
-| 9947 | Tart Apple | すっぱいりんご | `0b7692dc492b7455`<br>[src/data/items.h:4701](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4701) |
-| 9948 | Cracked Pot | われたポット | `2dbe22cd764de953`<br>[src/data/items.h:4719](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4719) |
-| 9949 | Chipped Pot | かけたポット | `9ced4bde44eb6553`<br>[src/data/items.h:4737](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4737) |
-| 9950 | Galarica Cuff | ガラナツブレス | `1e711a1a2d5a7058`<br>[src/data/items.h:4755](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4755) |
-| 9951 | Galarica Wreath | ガラナツリース | `3a77394851c1df1d`<br>[src/data/items.h:4773](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4773) |
-| 9952 | Dragon Scale | りゅうのウロコ | `dc5d62296a877a68`<br>[src/data/items.h:4791](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4791) |
-| 9953 | Upgrade | アップグレード | `f803ff1ca6fb4420`<br>[src/data/items.h:4810](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4810) |
-| 9954 | Protector | プロテクター | `99d2fc928ac5cd43`<br>[src/data/items.h:4827](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4827) |
-| 9955 | Electirizer | エレキブースター | `7f8fa80ee2d91a40`<br>[src/data/items.h:4845](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4845) |
-| 9956 | Magmarizer | マグマブースター | `a20f14216fd8a96e`<br>[src/data/items.h:4863](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4863) |
-| 9957 | Dubious Disc | あやしいパッチ | `e3e0065def4e7c7d`<br>[src/data/items.h:4881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4881) |
-| 9958 | Reaper Cloth | れいかいのぬの | `1b52fbff1e204cd9`<br>[src/data/items.h:4899](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4899) |
-| 9959 | Prism Scale | きれいなウロコ | `01370d50394013ae`<br>[src/data/items.h:4917](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4917) |
-| 9960 | Whipped Dream | ホイップポップ | `039ab5415fc4a365`<br>[src/data/items.h:4941](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4941) |
-| 9961 | Sachet | においぶくろ | `f7af040763e446c0`<br>[src/data/items.h:4959](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4959) |
-| 9962 | Oval Stone | まんまるいし | `4cf507b951b2d6ff`<br>[src/data/items.h:4977](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4977) |
-| 9963 | Strawberry Sweet | いちごアメざいく | `8233790a06dd109e`<br>[src/data/items.h:4995](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4995) |
-| 9964 | Love Sweet | ハートアメざいく | `2b1a574d15b8baec`<br>[src/data/items.h:5012](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5012) |
-| 9965 | Berry Sweet | ベリーアメざいく | `20047f2c4177a5be`<br>[src/data/items.h:5029](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5029) |
-| 9966 | Clover Sweet | よつばアメざいく | `b70daf8e4b3f339e`<br>[src/data/items.h:5046](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5046) |
-| 9967 | Flower Sweet | おはなアメざいく | `eecb0c4f11294180`<br>[src/data/items.h:5063](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5063) |
-| 9968 | Star Sweet | スターアメざいく | `8604dba3898321f1`<br>[src/data/items.h:5080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5080) |
-| 9969 | Ribbon Sweet | リボンアメざいく | `a953bfc1dce7e409`<br>[src/data/items.h:5097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5097) |
-| 9970 | Everstone | かわらずのいし | `a5d7185971aee056`<br>[src/data/items.h:5114](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5114) |
-| 9971 | Red Nectar | くれないのミツ | `95a9a646918b2736`<br>[src/data/items.h:5134](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5134) |
-| 9972 | Yellow Nectar | やまぶきのミツ | `8fec6dde7d84b03f`<br>[src/data/items.h:5149](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5149) |
-| 9973 | Pink Nectar | うすもものミツ | `9fa43ddf099bec39`<br>[src/data/items.h:5164](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5164) |
-| 9974 | Purple Nectar | むらさきのミツ | `7809e6aa4aa27660`<br>[src/data/items.h:5179](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5179) |
-| 9975 | Flame Plate | ひのたまプレート | `6309ec582d30872b`<br>[src/data/items.h:5196](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5196) |
-| 9976 | Splash Plate | しずくプレート | `a932d924d8649560`<br>[src/data/items.h:5216](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5216) |
-| 9977 | Zap Plate | いかずちプレート | `f95191910924b994`<br>[src/data/items.h:5236](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5236) |
-| 9978 | Meadow Plate | みどりのプレート | `1b4d9d4f9d9a7dc0`<br>[src/data/items.h:5256](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5256) |
-| 9979 | Icicle Plate | つららのプレート | `f2bd036d90a5f100`<br>[src/data/items.h:5276](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5276) |
-| 9980 | Fist Plate | こぶしのプレート | `20f3a99b7c2edddd`<br>[src/data/items.h:5296](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5296) |
-| 9981 | Toxic Plate | もうどくプレート | `c3d7f620056a5d5a`<br>[src/data/items.h:5316](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5316) |
-| 9982 | Earth Plate | だいちのプレート | `e1762ed528612710`<br>[src/data/items.h:5336](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5336) |
-| 9983 | Sky Plate | あおぞらプレート | `cce865a081340158`<br>[src/data/items.h:5356](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5356) |
-| 9984 | Mind Plate | ふしぎのプレート | `f7bdf7f0dbb5c299`<br>[src/data/items.h:5376](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5376) |
-| 9985 | Insect Plate | たまむしプレート | `07d35126f0d00eb4`<br>[src/data/items.h:5396](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5396) |
-| 9986 | Stone Plate | がんせきプレート | `786acb1c23c6e23d`<br>[src/data/items.h:5416](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5416) |
-| 9987 | Spooky Plate | もののけプレート | `45c3527c2dacd946`<br>[src/data/items.h:5436](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5436) |
-| 9988 | Draco Plate | りゅうのプレート | `618c7a3cae2ea337`<br>[src/data/items.h:5456](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5456) |
-| 9989 | Dread Plate | こわもてプレート | `227a0fd971086682`<br>[src/data/items.h:5476](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5476) |
-| 9990 | Iron Plate | こうてつプレート | `8bdf8af486ba7f5e`<br>[src/data/items.h:5496](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5496) |
-| 9991 | Pixie Plate | せいれいプレート | `e92f8448b8dcca05`<br>[src/data/items.h:5516](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5516) |
-| 9992 | Douse Drive | アクアカセット | `a6c7b6e6b3fba3d4`<br>[src/data/items.h:5538](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5538) |
-| 9993 | Shock Drive | イナズマカセット | `172e426b323f90ed`<br>[src/data/items.h:5557](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5557) |
-| 9994 | Burn Drive | ブレイズカセット | `9b4e0f150f22e9e8`<br>[src/data/items.h:5576](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5576) |
-| 9995 | Chill Drive | フリーズカセット | `e41a199d56839890`<br>[src/data/items.h:5595](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5595) |
-| 9996 | Fire Memory | ファイヤーメモリ | `3d29956bdfbe6c80`<br>[src/data/items.h:5616](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5616) |
-| 9997 | Fire Memories | ファイヤーメモリ | `24eede414b5afaa3`<br>[src/data/items.h:5617](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5617) |
-| 9998 | Water Memory | ウオーターメモリ | `104e9f841be28a7c`<br>[src/data/items.h:5637](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5637) |
-| 9999 | Water Memories | ウオーターメモリ | `6f4cbca3ce7dfee4`<br>[src/data/items.h:5638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5638) |
-| 10000 | Electric Memory | エレクトロメモリ | `25bf1eae442abafe`<br>[src/data/items.h:5658](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5658) |
-| 10001 | Electric Memories | エレクトロメモリ | `347d7d815b3a85e6`<br>[src/data/items.h:5659](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5659) |
-| 10002 | Grass Memory | グラスメモリ | `331ab9d37082d943`<br>[src/data/items.h:5679](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5679) |
-| 10003 | Grass Memories | グラスメモリ | `0750dff72f850593`<br>[src/data/items.h:5680](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5680) |
-| 10004 | Ice Memory | アイスメモリ | `2df41348276b2d76`<br>[src/data/items.h:5700](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5700) |
-| 10005 | Ice Memories | アイスメモリ | `0e0ae7b928471534`<br>[src/data/items.h:5701](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5701) |
-| 10006 | Fighting Memory | ファイトメモリ | `b484c58662d1b121`<br>[src/data/items.h:5721](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5721) |
-| 10007 | Fighting Memories | ファイトメモリ | `2715b94921b294b5`<br>[src/data/items.h:5722](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5722) |
-| 10008 | Poison Memory | ポイズンメモリ | `97741e317b026f56`<br>[src/data/items.h:5742](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5742) |
-| 10009 | Poison Memories | ポイズンメモリ | `8ee9d9e252d48d91`<br>[src/data/items.h:5743](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5743) |
-| 10010 | Ground Memory | グラウンドメモリ | `3b39011d607038e8`<br>[src/data/items.h:5763](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5763) |
-| 10011 | Ground Memories | グラウンドメモリ | `08b9238e3831f208`<br>[src/data/items.h:5764](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5764) |
-| 10012 | Flying Memory | フライングメモリ | `e9c53eb8195523d3`<br>[src/data/items.h:5784](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5784) |
-| 10013 | Flying Memories | フライングメモリ | `23aac20d31b3778a`<br>[src/data/items.h:5785](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5785) |
-| 10014 | Psychic Memory | サイキックメモリ | `5da4fbd16174d9e1`<br>[src/data/items.h:5805](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5805) |
-| 10015 | Psychic Memories | サイキックメモリ | `ca09224d35846968`<br>[src/data/items.h:5806](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5806) |
-| 10016 | Bug Memory | バグメモリ | `cf246187369cf9a5`<br>[src/data/items.h:5826](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5826) |
-| 10017 | Bug Memories | バグメモリ | `0242259438e54895`<br>[src/data/items.h:5827](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5827) |
-| 10018 | Rock Memory | ロックメモリ | `f1279029fd61c440`<br>[src/data/items.h:5847](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5847) |
-| 10019 | Rock Memories | ロックメモリ | `7e6d8758beb5d678`<br>[src/data/items.h:5848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5848) |
-| 10020 | Ghost Memory | ゴーストメモリ | `d79461166b47f570`<br>[src/data/items.h:5868](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5868) |
-| 10021 | Ghost Memories | ゴーストメモリ | `95d6d46b7e2c5b08`<br>[src/data/items.h:5869](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5869) |
-| 10022 | Dragon Memory | ドラゴンメモリ | `5c2ef07162a0bc01`<br>[src/data/items.h:5889](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5889) |
-| 10023 | Dragon Memories | ドラゴンメモリ | `72861525a3cb9328`<br>[src/data/items.h:5890](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5890) |
-| 10024 | Dark Memory | ダークメモリ | `253050279a9493c8`<br>[src/data/items.h:5910](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5910) |
-| 10025 | Dark Memories | ダークメモリ | `caf1c715e2ec742c`<br>[src/data/items.h:5911](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5911) |
-| 10026 | Steel Memory | スチールメモリ | `82c83c9e32f16b46`<br>[src/data/items.h:5931](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5931) |
-| 10027 | Steel Memories | スチールメモリ | `5822796bc1c6ba7a`<br>[src/data/items.h:5932](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5932) |
-| 10028 | Fairy Memory | フェアリーメモリ | `539a235cc0201b92`<br>[src/data/items.h:5952](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5952) |
-| 10029 | Fairy Memories | フェアリーメモリ | `4dc8bffc2dc09ec2`<br>[src/data/items.h:5953](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5953) |
-| 10030 | Rusted Sword | くちたけん | `7a77ee779828bd63`<br>[src/data/items.h:5973](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5973) |
-| 10031 | Rusted Shield | くちたたて | `b6f22fca1cb54d02`<br>[src/data/items.h:5989](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5989) |
-| 10032 | Red Orb | べにいろのたま | `0c7e766f75df5e09`<br>[src/data/items.h:6007](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6007) |
-| 10033 | Blue Orb | あいいろのたま | `6e6ac9ad4089373e`<br>[src/data/items.h:6024](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6024) |
-| 10034 | Venusaurite | フシギバナイト | `eb6400d46e32c192`<br>[src/data/items.h:6043](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6043) |
-| 10035 | Charizardite X | リザードナイトX | `99094d8d0052e5f3`<br>[src/data/items.h:6061](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6061) |
-| 10036 | Charizardite Y | リザードナイトY | `4f2506159e6fd694`<br>[src/data/items.h:6076](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6076) |
-| 10037 | Blastoisinite | カメックスナイト | `d636bc2d9eb30456`<br>[src/data/items.h:6091](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6091) |
-| 10038 | Beedrillite | スピアナイト | `07f1873feb391a6a`<br>[src/data/items.h:6109](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6109) |
-| 10039 | Pidgeotite | ピジョットナイト | `a4f5627ceda3811b`<br>[src/data/items.h:6127](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6127) |
-| 10040 | Alakazite | フーディナイト | `9ea24ce949c774fb`<br>[src/data/items.h:6145](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6145) |
-| 10041 | Slowbronite | ヤドランナイト | `c4c37096665cd5ef`<br>[src/data/items.h:6163](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6163) |
-| 10042 | Gengarite | ゲンガナイト | `8a6d3fae3c223831`<br>[src/data/items.h:6181](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6181) |
-| 10043 | Kangaskhanite | ガルーラナイト | `3bd37ce3d8ea3d1c`<br>[src/data/items.h:6199](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6199) |
-| 10044 | Pinsirite | カイロスナイト | `2515ad623cfe12d7`<br>[src/data/items.h:6217](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6217) |
-| 10045 | Gyaradosite | ギャラドスナイト | `610b86bf6112f768`<br>[src/data/items.h:6235](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6235) |
-| 10046 | Aerodactylite | プテラナイト | `22e97364fab07479`<br>[src/data/items.h:6253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6253) |
-| 10047 | Mewtwonite X | ミュウツナイトX | `53c8b4235315ac17`<br>[src/data/items.h:6271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6271) |
-| 10048 | Mewtwonite Y | ミュウツナイトY | `e993fd901b7306c5`<br>[src/data/items.h:6286](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6286) |
-| 10049 | Ampharosite | デンリュウナイト | `3bd82f197a07c208`<br>[src/data/items.h:6301](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6301) |
-| 10050 | Steelixite | ハガネールナイト | `2b6a0da31db2d9fe`<br>[src/data/items.h:6319](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6319) |
-| 10051 | Scizorite | ハッサムナイト | `51de65bb9c55c176`<br>[src/data/items.h:6337](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6337) |
-| 10052 | Heracronite | ヘラクロスナイト | `0eb1e82568503c7b`<br>[src/data/items.h:6355](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6355) |
-| 10053 | Houndoominite | ヘルガナイト | `696614f17600a5a1`<br>[src/data/items.h:6373](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6373) |
-| 10054 | Tyranitarite | バンギラスナイト | `00ec22393f55c523`<br>[src/data/items.h:6391](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6391) |
-| 10055 | Sceptilite | ジュカインナイト | `7376d5f5f6588e69`<br>[src/data/items.h:6409](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6409) |
-| 10056 | Blazikenite | バシャーモナイト | `ece15dfc7cc35500`<br>[src/data/items.h:6427](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6427) |
-| 10057 | Swampertite | ラグラージナイト | `ada21544de401001`<br>[src/data/items.h:6445](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6445) |
-| 10058 | Gardevoirite | サーナイトナイト | `5f92a28c68f2b8eb`<br>[src/data/items.h:6463](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6463) |
-| 10059 | Sablenite | ヤミラミナイト | `0bc7c9e8a7284dd0`<br>[src/data/items.h:6481](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6481) |
-| 10060 | Mawilite | クチートナイト | `9d7e87235c994255`<br>[src/data/items.h:6499](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6499) |
-| 10061 | Aggronite | ボスゴドラナイト | `0298471d0cc06a7d`<br>[src/data/items.h:6517](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6517) |
-| 10062 | Medichamite | チャーレムナイト | `20eaa0b476bcd83d`<br>[src/data/items.h:6535](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6535) |
-| 10063 | Manectite | ライボルトナイト | `522b09c38a3f4ba0`<br>[src/data/items.h:6553](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6553) |
-| 10064 | Sharpedonite | サメハダナイト | `38b6507952a32c8e`<br>[src/data/items.h:6571](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6571) |
-| 10065 | Cameruptite | バクーダナイト | `35106d1fdad19b92`<br>[src/data/items.h:6589](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6589) |
-| 10066 | Altarianite | チルタリスナイト | `bc005746c2d04d92`<br>[src/data/items.h:6607](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6607) |
-| 10067 | Banettite | ジュペッタナイト | `37cc23ac5e1497cc`<br>[src/data/items.h:6625](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6625) |
-| 10068 | Absolite | アブソルナイト | `3e1d7f1ef30d3b91`<br>[src/data/items.h:6643](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6643) |
-| 10069 | Glalitite | オニゴーリナイト | `66918814c1dd7e54`<br>[src/data/items.h:6658](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6658) |
-| 10070 | Salamencite | ボーマンダナイト | `8461ff9cbde66e91`<br>[src/data/items.h:6676](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6676) |
-| 10071 | Metagrossite | メタグロスナイト | `2e6ac167278645d8`<br>[src/data/items.h:6694](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6694) |
-| 10072 | Latiasite | ラティアスナイト | `04a96a712911b8e6`<br>[src/data/items.h:6712](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6712) |
-| 10073 | Latiosite | ラティオスナイト | `aa59352f1e1bbb96`<br>[src/data/items.h:6730](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6730) |
-| 10074 | Lopunnite | ミミロップナイト | `8113c0f208658208`<br>[src/data/items.h:6748](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6748) |
-| 10075 | Garchompite | ガブリアスナイト | `2538cead0725a53a`<br>[src/data/items.h:6766](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6766) |
-| 10076 | Lucarionite | ルカリオナイト | `f2a7d4e2611cfa11`<br>[src/data/items.h:6781](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6781) |
-| 10077 | Abomasite | ユキノオナイト | `04ec630594d79054`<br>[src/data/items.h:6796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6796) |
-| 10078 | Galladite | エルレイドナイト | `2f1030c50817c3b1`<br>[src/data/items.h:6814](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6814) |
-| 10079 | Audinite | タブンネナイト | `a4f355ce8dbea4c1`<br>[src/data/items.h:6832](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6832) |
-| 10080 | Diancite | ディアンシナイト | `3de796dfbd4bc196`<br>[src/data/items.h:6850](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6850) |
-| 10081 | Clefablite | ピクシナイト | `3cd283d1fcf6210b`<br>[src/data/items.h:6868](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6868) |
-| 10082 | Victreebelite | ウツボットナイト | `baee3df057581be9`<br>[src/data/items.h:6886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6886) |
-| 10083 | Starminite | スターミナイト | `4b357a07e97eb4ad`<br>[src/data/items.h:6904](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6904) |
-| 10084 | Dragoninite | カイリュナイト | `cd39bb157a711735`<br>[src/data/items.h:6922](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6922) |
-| 10085 | Meganiumite | メガニウムナイト | `faaee72b209b6c5a`<br>[src/data/items.h:6940](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6940) |
-| 10086 | Feraligite | オーダイルナイト | `9bad0aa06831c816`<br>[src/data/items.h:6958](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6958) |
-| 10087 | Skarmorite | エアームドナイト | `131c3c264b2517f6`<br>[src/data/items.h:6976](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6976) |
-| 10088 | Froslassite | ユキメノコナイト | `59007e924829c402`<br>[src/data/items.h:6994](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6994) |
-| 10089 | Emboarite | エンブオナイト | `876018c61db0d21d`<br>[src/data/items.h:7012](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7012) |
-| 10090 | Excadrite | ドリュウズナイト | `a2539d92b1e9e536`<br>[src/data/items.h:7030](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7030) |
-| 10091 | Scolipite | ペンドラナイト | `1d0a5dd608aa16f9`<br>[src/data/items.h:7048](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7048) |
-| 10092 | Scraftinite | ズルズキナイト | `ed8915f387596fab`<br>[src/data/items.h:7066](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7066) |
-| 10093 | Eelektrossite | シビルドナイト | `ad9f60e456054d99`<br>[src/data/items.h:7084](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7084) |
-| 10094 | Chandelurite | シャンデラナイト | `f90852b6b14bd8af`<br>[src/data/items.h:7102](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7102) |
-| 10095 | Chesnaughtite | ブリガロナイト | `2808df6391c5d90d`<br>[src/data/items.h:7120](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7120) |
-| 10096 | Delphoxite | マフォクシナイト | `491f9a71b45d0469`<br>[src/data/items.h:7138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7138) |
-| 10097 | Greninjite | ゲッコウガナイト | `4b6805bc107f1321`<br>[src/data/items.h:7156](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7156) |
-| 10098 | Pyroarite | カエンジシナイト | `2ed3db59e8904016`<br>[src/data/items.h:7174](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7174) |
-| 10099 | Floettite | フラエッテナイト | `bf10d34c72909943`<br>[src/data/items.h:7192](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7192) |
-| 10100 | Malamarite | カラマネロナイト | `48c57412ed9151b6`<br>[src/data/items.h:7210](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7210) |
-| 10101 | Barbaracite | ガメノデスナイト | `0d034fa39791a73a`<br>[src/data/items.h:7228](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7228) |
-| 10102 | Dragalgite | ドラミドナイト | `efa2a1a4d774bd71`<br>[src/data/items.h:7246](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7246) |
-| 10103 | Hawluchanite | ルチャブルナイト | `08909ca92a83c766`<br>[src/data/items.h:7264](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7264) |
-| 10104 | Zygardite | ジガルデナイト | `5851513ec98dbbe4`<br>[src/data/items.h:7282](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7282) |
-| 10105 | Drampanite | ジジーロナイト | `160b2f0a4db98996`<br>[src/data/items.h:7300](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7300) |
-| 10106 | Falinksite | タイレーツナイト | `4b86f23e227c12c4`<br>[src/data/items.h:7318](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7318) |
-| 10107 | Heatranite | ヒードラナイト | `8fdc7c9bedb3ee66`<br>[src/data/items.h:7336](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7336) |
-| 10108 | Darkranite | ダークライナイト | `44cd9febd6b8e0e6`<br>[src/data/items.h:7354](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7354) |
-| 10109 | Zeraorite | ゼラオラナイト | `71305d2f803d9b9b`<br>[src/data/items.h:7372](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7372) |
-| 10110 | Raichunite X | ライチュウナイトX | `3d3ea09517d0ea9f`<br>[src/data/items.h:7390](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7390) |
-| 10111 | Raichunite Y | ライチュウナイトY | `70e3445802b6e2bf`<br>[src/data/items.h:7405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7405) |
-| 10112 | Chimechite | チリーンナイト | `fc756705a0b9c4bd`<br>[src/data/items.h:7420](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7420) |
-| 10113 | Absolite Z | アブソルナイトZ | `eae50d1280ce16a0`<br>[src/data/items.h:7438](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7438) |
-| 10114 | Staraptite | ムクホークナイト | `06b04636430b5da8`<br>[src/data/items.h:7453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7453) |
-| 10115 | Garchompite Z | ガブリアスナイトZ | `858740758e361ef1`<br>[src/data/items.h:7471](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7471) |
-| 10116 | Lucarionite Z | ルカリオナイトZ | `402d75ec2be534fc`<br>[src/data/items.h:7486](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7486) |
-| 10117 | Golurkite | ゴルーグナイト | `06207ca45e113c9c`<br>[src/data/items.h:7501](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7501) |
-| 10118 | Meowsticite | ニャオニクスナイト | `1935159ea0d787f2`<br>[src/data/items.h:7519](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7519) |
-| 10119 | Crabominite | ケケンカニナイト | `207684872f575774`<br>[src/data/items.h:7537](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7537) |
-| 10120 | Golisopite | グソクムシャナイト | `b098754116651a38`<br>[src/data/items.h:7555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7555) |
-| 10121 | Magearnite | マギアナイト | `20b2b9972e8b30da`<br>[src/data/items.h:7573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7573) |
-| 10122 | Scovillainite | スコヴィラナイト | `a404137c3e1f502b`<br>[src/data/items.h:7591](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7591) |
-| 10123 | Baxcalibrite | セグレイブナイト | `94f96506f5cff122`<br>[src/data/items.h:7609](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7609) |
-| 10124 | Tatsugirinite | シャリタツナイト | `0372ee8555174e8e`<br>[src/data/items.h:7627](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7627) |
-| 10125 | Glimmoranite | キラフロルナイト | `ffcd4fa573d2cbf8`<br>[src/data/items.h:7645](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7645) |
-| 10126 | Normal Gem | ノーマルジュエル | `92fdf544212cce8c`<br>[src/data/items.h:7672](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7672) |
-| 10127 | Fire Gem | ほのおのジュエル | `37ac3f70e384c16d`<br>[src/data/items.h:7691](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7691) |
-| 10128 | Water Gem | みずのジュエル | `af6437acf90b4896`<br>[src/data/items.h:7710](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7710) |
-| 10129 | Electric Gem | でんきのジュエル | `f8685c9e4940b5ab`<br>[src/data/items.h:7729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7729) |
-| 10130 | Grass Gem | くさのジュエル | `69e473692b83fede`<br>[src/data/items.h:7748](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7748) |
-| 10131 | Ice Gem | こおりのジュエル | `56b5f7b0ad53fb3f`<br>[src/data/items.h:7767](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7767) |
-| 10132 | Fighting Gem | かくとうジュエル | `2ff1468b1b7ce682`<br>[src/data/items.h:7786](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7786) |
-| 10133 | Poison Gem | どくのジュエル | `58fd0fdbc2a03857`<br>[src/data/items.h:7805](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7805) |
-| 10134 | Ground Gem | じめんのジュエル | `3dc31076e0c91a9a`<br>[src/data/items.h:7824](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7824) |
-| 10135 | Flying Gem | ひこうのジュエル | `ce7b0e414f80f64a`<br>[src/data/items.h:7843](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7843) |
-| 10136 | Psychic Gem | エスパージュエル | `663bc763e93b420e`<br>[src/data/items.h:7862](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7862) |
-| 10137 | Bug Gem | むしのジュエル | `afccaab9cb579382`<br>[src/data/items.h:7881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7881) |
-| 10138 | Rock Gem | いわのジュエル | `95a2aad9509517b1`<br>[src/data/items.h:7900](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7900) |
-| 10139 | Ghost Gem | ゴーストジュエル | `5b0e23f2ea31d488`<br>[src/data/items.h:7919](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7919) |
-| 10140 | Dragon Gem | ドラゴンジュエル | `56c420f85bb18619`<br>[src/data/items.h:7938](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7938) |
-| 10141 | Dark Gem | あくのジュエル | `832c1c25ca1aa4a8`<br>[src/data/items.h:7957](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7957) |
-| 10142 | Steel Gem | はがねのジュエル | `a4ad7daad758205c`<br>[src/data/items.h:7976](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7976) |
-| 10143 | Fairy Gem | ようせいジュエル | `f3b857a71ecad344`<br>[src/data/items.h:7995](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7995) |
-| 10144 | Normalium Z | ノーマルZ | `fac53252d3634fb1`<br>[src/data/items.h:8016](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8016) |
-| 10145 | Firium Z | ホノオZ | `68d00a52744788b1`<br>[src/data/items.h:8034](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8034) |
-| 10146 | Waterium Z | ミズZ | `8256b9bb20bc89ed`<br>[src/data/items.h:8052](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8052) |
-| 10147 | Electrium Z | デンキZ | `622d35718596c575`<br>[src/data/items.h:8070](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8070) |
-| 10148 | Grassium Z | クサZ | `b189eb1295226bef`<br>[src/data/items.h:8088](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8088) |
-| 10149 | Icium Z | コオリZ | `7129fd9849162759`<br>[src/data/items.h:8106](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8106) |
-| 10150 | Fightinium Z | カクトウZ | `26d48b37ede73466`<br>[src/data/items.h:8124](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8124) |
-| 10151 | Poisonium Z | ドクZ | `c759b69c080a2abe`<br>[src/data/items.h:8142](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8142) |
-| 10152 | Groundium Z | ジメンZ | `688b33bbd2d88680`<br>[src/data/items.h:8160](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8160) |
-| 10153 | Flyinium Z | ヒコウZ | `d33d6d175d6ec8de`<br>[src/data/items.h:8178](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8178) |
-| 10154 | Psychium Z | エスパーZ | `801005e2896dcc7d`<br>[src/data/items.h:8196](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8196) |
-| 10155 | Buginium Z | ムシZ | `e9cb78b510aabbaf`<br>[src/data/items.h:8214](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8214) |
-| 10156 | Rockium Z | イワZ | `97823ed3eb088f70`<br>[src/data/items.h:8232](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8232) |
-| 10157 | Ghostium Z | ゴーストZ | `a0106ac5316a85f9`<br>[src/data/items.h:8250](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8250) |
-| 10158 | Dragonium Z | ドラゴンZ | `b7dc8eec94532208`<br>[src/data/items.h:8268](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8268) |
-| 10159 | Darkinium Z | アクZ | `0beae451df049413`<br>[src/data/items.h:8286](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8286) |
-| 10160 | Steelium Z | ハガネZ | `159bdb2ff59609e5`<br>[src/data/items.h:8304](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8304) |
-| 10161 | Fairium Z | フェアリーZ | `d6e9f83ec9ffab95`<br>[src/data/items.h:8322](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8322) |
-| 10162 | Pikanium Z | ピカチュウZ | `36a50d3e9540aabe`<br>[src/data/items.h:8340](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8340) |
-| 10163 | Eevium Z | イーブイZ | `efaff48f915d27ae`<br>[src/data/items.h:8358](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8358) |
-| 10164 | Snorlium Z | カビゴンZ | `520886b36576df06`<br>[src/data/items.h:8376](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8376) |
-| 10165 | Mewnium Z | ミュウZ | `7a4a88186dcd032f`<br>[src/data/items.h:8394](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8394) |
-| 10166 | Decidium Z | ジュナイパーZ | `644baa2fefd6dfc0`<br>[src/data/items.h:8412](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8412) |
-| 10167 | Incinium Z | ガオガエンZ | `22443fc97949a090`<br>[src/data/items.h:8430](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8430) |
-| 10168 | Primarium Z | アシレーヌZ | `7cfd04fc70c1e829`<br>[src/data/items.h:8448](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8448) |
-| 10169 | Lycanium Z | ルガルガンZ | `18a73402a758bfbb`<br>[src/data/items.h:8466](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8466) |
-| 10170 | Mimikium Z | ミミッキュZ | `eb01485952104d89`<br>[src/data/items.h:8484](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8484) |
-| 10171 | Kommonium Z | ジャラランガZ | `5f7f0366c579ddd7`<br>[src/data/items.h:8502](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8502) |
-| 10172 | Tapunium Z | カプZ | `ac05ddc96bb77afa`<br>[src/data/items.h:8520](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8520) |
-| 10173 | Solganium Z | ソルガレオZ | `20d09a50c167d3c5`<br>[src/data/items.h:8538](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8538) |
-| 10174 | Lunalium Z | ルナアーラZ | `0493fc964eaa52f4`<br>[src/data/items.h:8556](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8556) |
-| 10175 | Marshadium Z | マーシャドーZ | `6ddffae9f19979ed`<br>[src/data/items.h:8574](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8574) |
-| 10176 | Aloraichium Z | アロライZ | `f524d0f93043d346`<br>[src/data/items.h:8592](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8592) |
-| 10177 | Pikashunium Z | サトピカZ | `126b755f5d047537`<br>[src/data/items.h:8610](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8610) |
-| 10178 | Ultranecrozium Z | ウルトラネクロZ | `f7bc9a7d6e97c794`<br>[src/data/items.h:8628](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8628) |
-| 10179 | Light Ball | でんきだま | `de9f6a210ac134ac`<br>[src/data/items.h:8648](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8648) |
-| 10180 | Leek | ながねぎ | `0455284510ab872f`<br>[src/data/items.h:8666](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8666) |
-| 10181 | Thick Club | ふといホネ | `dfdfa5465768fc06`<br>[src/data/items.h:8684](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8684) |
-| 10182 | Lucky Punch | ラッキーパンチ | `a5134f729e4d012a`<br>[src/data/items.h:8702](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8702) |
-| 10183 | Lucky Punches | ラッキーパンチ | `e41598eb819ee6d9`<br>[src/data/items.h:8703](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8703) |
-| 10184 | Metal Powder | メタルパウダー | `66846f5cc75ea003`<br>[src/data/items.h:8721](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8721) |
-| 10185 | Quick Powder | スピードパウダー | `a7cde2fe26ddb04c`<br>[src/data/items.h:8739](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8739) |
-| 10186 | Deep Sea Scale | しんかいのウロコ | `807b918f01b327e0`<br>[src/data/items.h:8757](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8757) |
-| 10187 | Deep Sea Tooth | しんかいのキバ | `b2f2b52d1f8d1581`<br>[src/data/items.h:8776](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8776) |
-| 10188 | Deep Sea Teeth | しんかいのキバ | `1b5d084ccb97cacd`<br>[src/data/items.h:8777](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8777) |
-| 10189 | Soul Dew | こころのしずく | `b4910c0e3ba3253e`<br>[src/data/items.h:8796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8796) |
-| 10190 | Adamant Orb | こんごうだま | `474d58a7944b8f5c`<br>[src/data/items.h:8821](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8821) |
-| 10191 | Lustrous Orb | しらたま | `f4a9553fca211241`<br>[src/data/items.h:8840](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8840) |
-| 10192 | Griseous Orb | はっきんだま | `0a699bbbe62783bd`<br>[src/data/items.h:8859](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8859) |
-| 10193 | Sea Incense | うしおのおこう | `7c3c4cc28140ddc5`<br>[src/data/items.h:8880](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8880) |
-| 10194 | Lax Incense | のんきのおこう | `2f9bb956e4bfc75f`<br>[src/data/items.h:8897](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8897) |
-| 10195 | Odd Incense | あやしいおこう | `234f6587e5816b2f`<br>[src/data/items.h:8924](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8924) |
-| 10196 | Rock Incense | がんせきおこう | `9667a158ed7d8d46`<br>[src/data/items.h:8941](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8941) |
-| 10197 | Full Incense | まんぷくおこう | `7791b96cbb4a6515`<br>[src/data/items.h:8958](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8958) |
-| 10198 | Wave Incense | さざなみのおこう | `f3051a47d99bb293`<br>[src/data/items.h:8974](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8974) |
-| 10199 | Rose Incense | おはなのおこう | `73e3e52470e893a9`<br>[src/data/items.h:8991](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8991) |
-| 10200 | Luck Incense | こううんのおこう | `97b54c4c3638dbf7`<br>[src/data/items.h:9008](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9008) |
-| 10201 | Pure Incense | きよめのおこう | `4b922fa27f6cf504`<br>[src/data/items.h:9023](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9023) |
-| 10202 | Red Scarf | あかいバンダナ | `c98453499fe0a1a4`<br>[src/data/items.h:9040](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9040) |
-| 10203 | Red Scarves | あかいバンダナ | `80261710a879422e`<br>[src/data/items.h:9041](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9041) |
-| 10204 | Blue Scarf | あおいバンダナ | `ef47d1da85be47c1`<br>[src/data/items.h:9058](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9058) |
-| 10205 | Blue Scarves | あおいバンダナ | `a0aeb40335e74e4b`<br>[src/data/items.h:9059](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9059) |
-| 10206 | Pink Scarf | ピンクのバンダナ | `033d006ec7217bae`<br>[src/data/items.h:9076](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9076) |
-| 10207 | Pink Scarves | ピンクのバンダナ | `a319ff941bff0889`<br>[src/data/items.h:9077](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9077) |
-| 10208 | Green Scarf | みどりのバンダナ | `d78e55036db54d64`<br>[src/data/items.h:9094](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9094) |
-| 10209 | Green Scarves | みどりのバンダナ | `0753a5c44c405f36`<br>[src/data/items.h:9095](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9095) |
-| 10210 | Yellow Scarf | きいろのバンダナ | `f270ef6df14a0045`<br>[src/data/items.h:9112](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9112) |
-| 10211 | Yellow Scarves | きいろのバンダナ | `f3abaa03df8b42c2`<br>[src/data/items.h:9113](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9113) |
-| 10212 | Macho Brace | きょうせいギプス | `68c652a332147439`<br>[src/data/items.h:9132](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9132) |
-| 10213 | Power Weight | パワーウエイト | `0e3b11bf2b4c58a1`<br>[src/data/items.h:9150](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9150) |
-| 10214 | Power Bracer | パワーリスト | `0a8c2e5a8bd54957`<br>[src/data/items.h:9170](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9170) |
-| 10215 | Power Belt | パワーベルト | `a7795a46149bfb6f`<br>[src/data/items.h:9190](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9190) |
-| 10216 | Power Lens | パワーレンズ | `cb898ae870c0b1e0`<br>[src/data/items.h:9210](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9210) |
-| 10217 | Power Lenses | パワーレンズ | `93a46592d9efd8f9`<br>[src/data/items.h:9211](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9211) |
-| 10218 | Power Band | パワーバンド | `b09773741e47c277`<br>[src/data/items.h:9231](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9231) |
-| 10219 | Power Anklet | パワーアンクル | `b8f940a30dc3a5d5`<br>[src/data/items.h:9251](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9251) |
-| 10220 | Silk Scarf | シルクのスカーフ | `0cc600ee8b25bba5`<br>[src/data/items.h:9280](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9280) |
-| 10221 | Silk Scarves | シルクのスカーフ | `510ed453cb772155`<br>[src/data/items.h:9281](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9281) |
-| 10222 | Charcoal | もくたん | `3b7e849056333fc5`<br>[src/data/items.h:9301](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9301) |
-| 10223 | Mystic Water | しんぴのしずく | `11d7adf340bc0c6d`<br>[src/data/items.h:9327](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9327) |
-| 10224 | Magnet | じしゃく | `ac6bcee2900884e4`<br>[src/data/items.h:9347](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9347) |
-| 10225 | Miracle Seed | きせきのタネ | `48ce886d5f39d474`<br>[src/data/items.h:9367](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9367) |
-| 10226 | Never-Melt Ice | とけないこおり | `d8f28b2456d5b19c`<br>[src/data/items.h:9384](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9384) |
-| 10227 | Black Belt | くろおび | `6569394f1e5b2d65`<br>[src/data/items.h:9404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9404) |
-| 10228 | Poison Barb | どくバリ | `f8e9ac275dec4a61`<br>[src/data/items.h:9424](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9424) |
-| 10229 | Soft Sand | やわらかいすな | `bce8b64e8ad6f0bb`<br>[src/data/items.h:9444](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9444) |
-| 10230 | Soft Sand | やわらかいすな | `385482352a37fcf6`<br>[src/data/items.h:9445](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9445) |
-| 10231 | Sharp Beak | するどいくちばし | `62dba6279233291b`<br>[src/data/items.h:9465](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9465) |
-| 10232 | Twisted Spoon | まがったスプーン | `b55ede5a859e4bde`<br>[src/data/items.h:9485](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9485) |
-| 10233 | Silver Powder | ぎんのこな | `5b28ae099f815010`<br>[src/data/items.h:9502](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9502) |
-| 10234 | Hard Stone | かたいいし | `fb68164ca8615f72`<br>[src/data/items.h:9522](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9522) |
-| 10235 | Spell Tag | のろいのおふだ | `0340f2adced6605d`<br>[src/data/items.h:9539](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9539) |
-| 10236 | Dragon Fang | りゅうのキバ | `8f0069bd1f8a6d04`<br>[src/data/items.h:9559](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9559) |
-| 10237 | Black Glasses | くろいメガネ | `3f64c962622f7adb`<br>[src/data/items.h:9579](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9579) |
-| 10238 | Black Glasses | くろいメガネ | `b37aeb750b26f6c6`<br>[src/data/items.h:9580](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9580) |
-| 10239 | Metal Coat | メタルコート | `f22afcb325fadbb0`<br>[src/data/items.h:9600](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9600) |
-| 10240 | Choice Band | こだわりハチマキ | `bc91b866a4f7f3b5`<br>[src/data/items.h:9629](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9629) |
-| 10241 | Choice Specs | こだわりメガネ | `8f9a566566fbd2c7`<br>[src/data/items.h:9653](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9653) |
-| 10242 | Choice Specs | こだわりメガネ | `b6c7ef0b0c12287a`<br>[src/data/items.h:9654](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9654) |
-| 10243 | Choice Scarf | こだわりスカーフ | `784f02469dbe68f4`<br>[src/data/items.h:9678](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9678) |
-| 10244 | Choice Scarves | こだわりスカーフ | `7848b2bf9d56abed`<br>[src/data/items.h:9679](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9679) |
-| 10245 | Flame Orb | かえんだま | `f3489883e8bfbf8c`<br>[src/data/items.h:9705](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9705) |
-| 10246 | Toxic Orb | どくどくだま | `d25a89f912efc5af`<br>[src/data/items.h:9729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9729) |
-| 10247 | Damp Rock | しめったいわ | `a058327c1307b9a3`<br>[src/data/items.h:9755](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9755) |
-| 10248 | Heat Rock | あついいわ | `aa45f60219cc189b`<br>[src/data/items.h:9779](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9779) |
-| 10249 | Smooth Rock | さらさらいわ | `2a00b464f0331ca2`<br>[src/data/items.h:9803](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9803) |
-| 10250 | Icy Rock | つめたいいわ | `c3c325d5b3b15cd8`<br>[src/data/items.h:9827](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9827) |
-| 10251 | Electric Seed | エレキシード | `e906325799f935f1`<br>[src/data/items.h:9865](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9865) |
-| 10252 | Psychic Seed | サイコシード | `b5ec5f871eb5a1f2`<br>[src/data/items.h:9884](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9884) |
-| 10253 | Misty Seed | ミストシード | `c09d71c77799599c`<br>[src/data/items.h:9903](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9903) |
-| 10254 | Grassy Seed | グラスシード | `926c444f93202fd4`<br>[src/data/items.h:9922](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9922) |
-| 10255 | Absorb Bulb | きゅうこん | `564acfc742d34cb2`<br>[src/data/items.h:9943](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9943) |
-| 10256 | Cell Battery | じゅうでんち | `4949516fc0b20f6a`<br>[src/data/items.h:9968](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9968) |
-| 10257 | Cell Batteries | じゅうでんち | `8ddc9d73678b7406`<br>[src/data/items.h:9969](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9969) |
-| 10258 | Luminous Moss | ひかりごけ | `9ff1931359cc640b`<br>[src/data/items.h:9994](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9994) |
-| 10259 | Luminous Moss | ひかりごけ | `5988dd0529e8569a`<br>[src/data/items.h:9995](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9995) |
-| 10260 | Snowball | ゆきだま | `90844b61a8e547ab`<br>[src/data/items.h:10020](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10020) |
-| 10261 | Bright Powder | ひかりのこな | `fc1a262d1c002362`<br>[src/data/items.h:10047](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10047) |
-| 10262 | White Herb | しろいハーブ | `f98236cabf4bddb4`<br>[src/data/items.h:10072](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10072) |
-| 10263 | Exp. Share | がくしゅうそうち | `668979862e7a748c`<br>[src/data/items.h:10096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10096) |
-| 10264 | Quick Claw | せんせいのツメ | `f5bf6e30fe2c1bd8`<br>[src/data/items.h:10124](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10124) |
-| 10265 | Soothe Bell | やすらぎのすず | `7f6934833200fc78`<br>[src/data/items.h:10149](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10149) |
-| 10266 | Mental Herb | メンタルハーブ | `2293d7897c4a973b`<br>[src/data/items.h:10173](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10173) |
-| 10267 | King's Rock | おうじゃのしるし | `9f629e0c42080008`<br>[src/data/items.h:10203](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10203) |
-| 10268 | Amulet Coin | おまもりこばん | `f25e4db26801cb32`<br>[src/data/items.h:10226](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10226) |
-| 10269 | Cleanse Tag | きよめのおふだ | `5e7d2423a309a609`<br>[src/data/items.h:10247](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10247) |
-| 10270 | Smoke Ball | けむりだま | `f7484de31c73deec`<br>[src/data/items.h:10262](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10262) |
-| 10271 | Focus Band | きあいのハチマキ | `9afda143f92e0d60`<br>[src/data/items.h:10286](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10286) |
-| 10272 | Lucky Egg | しあわせタマゴ | `06bb49305ee36996`<br>[src/data/items.h:10311](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10311) |
-| 10273 | Scope Lens | ピントレンズ | `0dd9fb49eade9e8f`<br>[src/data/items.h:10329](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10329) |
-| 10274 | Scope Lenses | ピントレンズ | `bab05bb62b249b3e`<br>[src/data/items.h:10330](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10330) |
-| 10275 | Leftovers | たべのこし | `cdda6c904bfd61c1`<br>[src/data/items.h:10354](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10354) |
-| 10276 | Leftovers | たべのこし | `538134e2e09996f6`<br>[src/data/items.h:10355](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10355) |
-| 10277 | Shell Bell | かいがらのすず | `b4f49464f83505e5`<br>[src/data/items.h:10380](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10380) |
-| 10278 | Wide Lens | こうかくレンズ | `0a4a9e651e1682fb`<br>[src/data/items.h:10405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10405) |
-| 10279 | Wide Lenses | こうかくレンズ | `a83c9dfc57aec69d`<br>[src/data/items.h:10406](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10406) |
-| 10280 | Muscle Band | ちからのハチマキ | `f36711237066976d`<br>[src/data/items.h:10431](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10431) |
-| 10281 | Wise Glasses | ものしりメガネ | `45c5e98ae3f42948`<br>[src/data/items.h:10456](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10456) |
-| 10282 | Wise Glasses | ものしりメガネ | `d9c3f80f92d0bb90`<br>[src/data/items.h:10457](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10457) |
-| 10283 | Expert Belt | たつじんのおび | `ee3e91c4984f9c3b`<br>[src/data/items.h:10482](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10482) |
-| 10284 | Light Clay | ひかりのねんど | `f8d54e8c2a894ab9`<br>[src/data/items.h:10507](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10507) |
-| 10285 | Life Orb | いのちのたま | `0b99329ed3476999`<br>[src/data/items.h:10531](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10531) |
-| 10286 | Power Herb | パワフルハーブ | `243b6f0264468ff3`<br>[src/data/items.h:10555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10555) |
-| 10287 | Focus Sash | きあいのタスキ | `32343217f91632d6`<br>[src/data/items.h:10579](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10579) |
-| 10288 | Focus Sashes | きあいのタスキ | `e9a5b46fa9d55bfa`<br>[src/data/items.h:10580](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10580) |
-| 10289 | Zoom Lens | フォーカスレンズ | `c4f63d3e4e15fa9c`<br>[src/data/items.h:10604](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10604) |
-| 10290 | Zoom Lenses | フォーカスレンズ | `0ebe64fa25c7c5aa`<br>[src/data/items.h:10605](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10605) |
-| 10291 | Metronome | メトロノーム | `0ad3bdc7d5d9058a`<br>[src/data/items.h:10630](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10630) |
-| 10292 | Iron Ball | くろいてっきゅう | `c3318b225b7d684f`<br>[src/data/items.h:10655](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10655) |
-| 10293 | Lagging Tail | こうこうのしっぽ | `3cc8638406929384`<br>[src/data/items.h:10679](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10679) |
-| 10294 | Destiny Knot | あかいいと | `de1e737fdbfa40b0`<br>[src/data/items.h:10700](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10700) |
-| 10295 | Black Sludge | くろいヘドロ | `0a6b05044636d40c`<br>[src/data/items.h:10724](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10724) |
-| 10296 | Grip Claw | ねばりのかぎづめ | `3d01d14bce68e284`<br>[src/data/items.h:10748](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10748) |
-| 10297 | Sticky Barb | くっつきバリ | `1b286f8752e91b95`<br>[src/data/items.h:10772](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10772) |
-| 10298 | Shed Shell | きれいなぬけがら | `754770d649b14081`<br>[src/data/items.h:10796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10796) |
-| 10299 | Big Root | おおきなねっこ | `b66a5c6a42c26690`<br>[src/data/items.h:10820](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10820) |
-| 10300 | Razor Claw | するどいツメ | `9b1ad57c1a420ba9`<br>[src/data/items.h:10845](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10845) |
-| 10301 | Razor Fang | するどいキバ | `9af522a332c67e8d`<br>[src/data/items.h:10870](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10870) |
-| 10302 | Eviolite | しんかのきせき | `103415a5965ea6a0`<br>[src/data/items.h:10893](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10893) |
-| 10303 | Float Stone | かるいし | `b6171f2ce480adbb`<br>[src/data/items.h:10918](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10918) |
-| 10304 | Rocky Helmet | ゴツゴツメット | `14073425068603f9`<br>[src/data/items.h:10942](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10942) |
-| 10305 | Air Balloon | ふうせん | `fc354f26cecebce1`<br>[src/data/items.h:10967](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10967) |
-| 10306 | Red Card | レッドカード | `03733d652efd0ec1`<br>[src/data/items.h:10992](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10992) |
-| 10307 | Ring Target | ねらいのまと | `e5741256d63678f1`<br>[src/data/items.h:11017](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11017) |
-| 10308 | Binding Band | しめつけバンド | `5fb79f8370a340ac`<br>[src/data/items.h:11042](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11042) |
-| 10309 | Eject Button | だっしゅつボタン | `8fe32c8920368520`<br>[src/data/items.h:11066](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11066) |
-| 10310 | Weakness Policy | じゃくてんほけん | `235c2477f8d7995f`<br>[src/data/items.h:11091](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11091) |
-| 10311 | Weakness Policies | じゃくてんほけん | `248148f7b11d4fb9`<br>[src/data/items.h:11092](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11092) |
-| 10312 | Assault Vest | とつげきチョッキ | `d9b014e053da8002`<br>[src/data/items.h:11111](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11111) |
-| 10313 | Safety Goggles | ぼうじんゴーグル | `732c00a1e0911e3b`<br>[src/data/items.h:11130](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11130) |
-| 10314 | Safety Goggles | ぼうじんゴーグル | `d13285f10ddc225f`<br>[src/data/items.h:11131](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11131) |
-| 10315 | Adrenaline Orb | ビビリだま | `cf532f1a6cbc124d`<br>[src/data/items.h:11155](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11155) |
-| 10316 | Terrain Extender | グランドコート | `8ef575e66eb848b8`<br>[src/data/items.h:11179](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11179) |
-| 10317 | Protective Pads | ぼうごパット | `629ebe79c8d5f029`<br>[src/data/items.h:11197](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11197) |
-| 10318 | Protective Pads | ぼうごパット | `5343f329389f33b0`<br>[src/data/items.h:11198](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11198) |
-| 10319 | Throat Spray | のどスプレー | `a34c435e5493812f`<br>[src/data/items.h:11216](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11216) |
-| 10320 | Eject Pack | だっしゅつパック | `847dbe943a75914e`<br>[src/data/items.h:11234](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11234) |
-| 10321 | Heavy-Duty Boots | あつぞこブーツ | `01426fe7ea1a46cb`<br>[src/data/items.h:11252](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11252) |
-| 10322 | Heavy-Duty Boots | あつぞこブーツ | `334e34c1efd46d25`<br>[src/data/items.h:11253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11253) |
-| 10323 | Blunder Policy | からぶりほけん | `5d5f60e9278e852c`<br>[src/data/items.h:11271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11271) |
-| 10324 | Blunder Policies | からぶりほけん | `95704590fe0801a0`<br>[src/data/items.h:11272](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11272) |
-| 10325 | Room Service | ルームサービス | `fe4bdf087ead5d5b`<br>[src/data/items.h:11290](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11290) |
-| 10326 | Utility Umbrella | ばんのうがさ | `295dadc357d53282`<br>[src/data/items.h:11308](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11308) |
-| 10327 | Cheri Berry | クラボのみ | `d66582405a5ebd88`<br>[src/data/items.h:11328](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11328) |
-| 10328 | Cheri Berries | クラボのみ | `0668dafb1f8c499e`<br>[src/data/items.h:11329](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11329) |
-| 10329 | Chesto Berry | カゴのみ | `f36fd012fa0e4b37`<br>[src/data/items.h:11348](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11348) |
-| 10330 | Chesto Berries | カゴのみ | `ccd1c62fbba15636`<br>[src/data/items.h:11349](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11349) |
-| 10331 | Pecha Berry | モモンのみ | `5543e408af0a2791`<br>[src/data/items.h:11368](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11368) |
-| 10332 | Pecha Berries | モモンのみ | `16b3c09c39e1c399`<br>[src/data/items.h:11369](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11369) |
-| 10333 | Rawst Berry | チーゴのみ | `8f05e35489bd9a0e`<br>[src/data/items.h:11388](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11388) |
-| 10334 | Rawst Berries | チーゴのみ | `ef7d8b1071978f0b`<br>[src/data/items.h:11389](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11389) |
-| 10335 | Aspear Berry | ナナシのみ | `debed01db5cb44e8`<br>[src/data/items.h:11408](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11408) |
-| 10336 | Aspear Berries | ナナシのみ | `275cbb36763f7262`<br>[src/data/items.h:11409](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11409) |
-| 10337 | Leppa Berry | ヒメリのみ | `e0f558fdb915b3dd`<br>[src/data/items.h:11428](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11428) |
-| 10338 | Leppa Berries | ヒメリのみ | `c7c69e83cf0a9c18`<br>[src/data/items.h:11429](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11429) |
-| 10339 | Oran Berry | オレンのみ | `44ad0b843f056268`<br>[src/data/items.h:11449](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11449) |
-| 10340 | Oran Berries | オレンのみ | `37e045b72eca9028`<br>[src/data/items.h:11450](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11450) |
-| 10341 | Persim Berry | キーのみ | `6be1d43719931eb6`<br>[src/data/items.h:11470](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11470) |
-| 10342 | Persim Berries | キーのみ | `8634cd8dd509aa02`<br>[src/data/items.h:11471](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11471) |
-| 10343 | Lum Berry | ラムのみ | `839617762637d97b`<br>[src/data/items.h:11490](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11490) |
-| 10344 | Lum Berries | ラムのみ | `4045ccab66288c8c`<br>[src/data/items.h:11491](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11491) |
-| 10345 | Sitrus Berry | オボンのみ | `667fc5c49eb2b2c7`<br>[src/data/items.h:11510](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11510) |
-| 10346 | Sitrus Berries | オボンのみ | `6bff12417ed292e1`<br>[src/data/items.h:11511](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11511) |
-| 10347 | Figy Berry | フィラのみ | `ef4a81b7149f6a7e`<br>[src/data/items.h:11540](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11540) |
-| 10348 | Figy Berries | フィラのみ | `748de63b308640e7`<br>[src/data/items.h:11541](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11541) |
-| 10349 | Wiki Berry | ウイのみ | `863a1d70aa8be40b`<br>[src/data/items.h:11556](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11556) |
-| 10350 | Wiki Berries | ウイのみ | `415e49fb2541db32`<br>[src/data/items.h:11557](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11557) |
-| 10351 | Mago Berry | マゴのみ | `89d650db6ab4ae59`<br>[src/data/items.h:11572](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11572) |
-| 10352 | Mago Berries | マゴのみ | `97cfcaf39049c0ef`<br>[src/data/items.h:11573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11573) |
-| 10353 | Aguav Berry | バンジのみ | `831f196c2ca02901`<br>[src/data/items.h:11588](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11588) |
-| 10354 | Aguav Berries | バンジのみ | `45481d3b9dc0b2a9`<br>[src/data/items.h:11589](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11589) |
-| 10355 | Iapapa Berry | イアのみ | `797510ee8f9e415c`<br>[src/data/items.h:11604](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11604) |
-| 10356 | Iapapa Berries | イアのみ | `9995eb90e2293c35`<br>[src/data/items.h:11605](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11605) |
-| 10357 | Razz Berry | ズリのみ | `381a22e506d806c4`<br>[src/data/items.h:11620](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11620) |
-| 10358 | Razz Berries | ズリのみ | `22e777ec93c24633`<br>[src/data/items.h:11621](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11621) |
-| 10359 | Bluk Berry | ブリーのみ | `9b12bd4aff85673b`<br>[src/data/items.h:11637](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11637) |
-| 10360 | Bluk Berries | ブリーのみ | `bd49ebc22bebd73a`<br>[src/data/items.h:11638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11638) |
-| 10361 | Nanab Berry | ナナのみ | `1118f8d811f994a6`<br>[src/data/items.h:11654](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11654) |
-| 10362 | Nanab Berries | ナナのみ | `ac8abaf3e2759017`<br>[src/data/items.h:11655](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11655) |
-| 10363 | Wepear Berry | セシナのみ | `a18c01f3b0074a71`<br>[src/data/items.h:11671](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11671) |
-| 10364 | Wepear Berries | セシナのみ | `ba2f0d55c3d357d9`<br>[src/data/items.h:11672](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11672) |
-| 10365 | Pinap Berry | パイルのみ | `c41a23f27a4e0eb5`<br>[src/data/items.h:11688](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11688) |
-| 10366 | Pinap Berries | パイルのみ | `5c293482ae4de371`<br>[src/data/items.h:11689](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11689) |
-| 10367 | Pomeg Berry | ザロクのみ | `2df48137699279d2`<br>[src/data/items.h:11705](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11705) |
-| 10368 | Pomeg Berries | ザロクのみ | `f0418f2dc9f5440f`<br>[src/data/items.h:11706](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11706) |
-| 10369 | Kelpsy Berry | ネコブのみ | `31a892b52a8aabc2`<br>[src/data/items.h:11723](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11723) |
-| 10370 | Kelpsy Berries | ネコブのみ | `d265c6cdec086fbe`<br>[src/data/items.h:11724](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11724) |
-| 10371 | Qualot Berry | タポルのみ | `bdef8c9f5ab57713`<br>[src/data/items.h:11741](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11741) |
-| 10372 | Qualot Berries | タポルのみ | `cd707703b9c60f77`<br>[src/data/items.h:11742](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11742) |
-| 10373 | Hondew Berry | ロメのみ | `3e249e4870fedc90`<br>[src/data/items.h:11759](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11759) |
-| 10374 | Hondew Berries | ロメのみ | `f36376c98d9b7042`<br>[src/data/items.h:11760](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11760) |
-| 10375 | Grepa Berry | ウブのみ | `3619730b7c3806b2`<br>[src/data/items.h:11777](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11777) |
-| 10376 | Grepa Berries | ウブのみ | `dd65e1f4e55eb20a`<br>[src/data/items.h:11778](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11778) |
-| 10377 | Tamato Berry | マトマのみ | `a2b50ba5c7fbbb4c`<br>[src/data/items.h:11795](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11795) |
-| 10378 | Tamato Berries | マトマのみ | `4e9800021a7d6a8a`<br>[src/data/items.h:11796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11796) |
-| 10379 | Cornn Berry | モコシのみ | `3c8be5b8861feaf8`<br>[src/data/items.h:11813](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11813) |
-| 10380 | Cornn Berries | モコシのみ | `77e6a7800db7af0f`<br>[src/data/items.h:11814](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11814) |
-| 10381 | Magost Berry | ゴスのみ | `32bc0d514a9763c1`<br>[src/data/items.h:11830](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11830) |
-| 10382 | Magost Berries | ゴスのみ | `e81b08d3edeca1cc`<br>[src/data/items.h:11831](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11831) |
-| 10383 | Rabuta Berry | ラブタのみ | `03e400c70958c6be`<br>[src/data/items.h:11847](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11847) |
-| 10384 | Rabuta Berries | ラブタのみ | `225d6b6df842deab`<br>[src/data/items.h:11848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11848) |
-| 10385 | Nomel Berry | ノメルのみ | `85838467192a5ffb`<br>[src/data/items.h:11864](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11864) |
-| 10386 | Nomel Berries | ノメルのみ | `5aafd66aff804e23`<br>[src/data/items.h:11865](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11865) |
-| 10387 | Spelon Berry | ノワキのみ | `88f7e1a02760d1b7`<br>[src/data/items.h:11881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11881) |
-| 10388 | Spelon Berries | ノワキのみ | `6bfba52536031c78`<br>[src/data/items.h:11882](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11882) |
-| 10389 | Pamtre Berry | シーヤのみ | `77bb46bb549dae06`<br>[src/data/items.h:11898](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11898) |
-| 10390 | Pamtre Berries | シーヤのみ | `5c990624104ef895`<br>[src/data/items.h:11899](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11899) |
-| 10391 | Watmel Berry | カイスのみ | `152b335681452174`<br>[src/data/items.h:11915](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11915) |
-| 10392 | Watmel Berries | カイスのみ | `e881a0d95ccecfc0`<br>[src/data/items.h:11916](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11916) |
-| 10393 | Durin Berry | ドリのみ | `a449921f4dfd7743`<br>[src/data/items.h:11932](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11932) |
-| 10394 | Durin Berries | ドリのみ | `7882fa056bec0029`<br>[src/data/items.h:11933](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11933) |
-| 10395 | Belue Berry | ベリブのみ | `51b379ba21aeece3`<br>[src/data/items.h:11949](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11949) |
-| 10396 | Belue Berries | ベリブのみ | `b2c084cb8076b94d`<br>[src/data/items.h:11950](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11950) |
-| 10397 | Chilan Berry | ホズのみ | `bbec610471a0424b`<br>[src/data/items.h:11966](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11966) |
-| 10398 | Chilan Berries | ホズのみ | `3c58129fd6d874a8`<br>[src/data/items.h:11967](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11967) |
-| 10399 | Occa Berry | オッカのみ | `daee10cbc85807cc`<br>[src/data/items.h:11985](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11985) |
-| 10400 | Occa Berries | オッカのみ | `f4d9e5f4a3934804`<br>[src/data/items.h:11986](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11986) |
-| 10401 | Passho Berry | イトケのみ | `673181eb7953ba03`<br>[src/data/items.h:12004](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12004) |
-| 10402 | Passho Berries | イトケのみ | `e86d2bc31e3bfad6`<br>[src/data/items.h:12005](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12005) |
-| 10403 | Wacan Berry | ソクノのみ | `d4bd7a2bb3d245f1`<br>[src/data/items.h:12023](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12023) |
-| 10404 | Wacan Berries | ソクノのみ | `c9fb5cb069e43e73`<br>[src/data/items.h:12024](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12024) |
-| 10405 | Rindo Berry | リンドのみ | `536597f609ab9590`<br>[src/data/items.h:12042](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12042) |
-| 10406 | Rindo Berries | リンドのみ | `553cc5a09046ea8d`<br>[src/data/items.h:12043](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12043) |
-| 10407 | Yache Berry | ヤチェのみ | `642463b6dbae33c4`<br>[src/data/items.h:12061](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12061) |
-| 10408 | Yache Berries | ヤチェのみ | `0b750eacda68dbe6`<br>[src/data/items.h:12062](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12062) |
-| 10409 | Chople Berry | ヨプのみ | `b0c4371ea961c13a`<br>[src/data/items.h:12080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12080) |
-| 10410 | Chople Berries | ヨプのみ | `3aafd8c3c88122cb`<br>[src/data/items.h:12081](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12081) |
-| 10411 | Kebia Berry | ビアーのみ | `329e2f2cb6059d4f`<br>[src/data/items.h:12099](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12099) |
-| 10412 | Kebia Berries | ビアーのみ | `6d9c165fd0ad20db`<br>[src/data/items.h:12100](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12100) |
-| 10413 | Shuca Berry | シュカのみ | `340ea820b38ecb03`<br>[src/data/items.h:12118](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12118) |
-| 10414 | Shuca Berries | シュカのみ | `3bc0ef9a67dd1aa5`<br>[src/data/items.h:12119](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12119) |
-| 10415 | Coba Berry | バコウのみ | `8af62854aa511bab`<br>[src/data/items.h:12137](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12137) |
-| 10416 | Coba Berries | バコウのみ | `26059d7e9794aa7f`<br>[src/data/items.h:12138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12138) |
-| 10417 | Payapa Berry | ウタンのみ | `a0f6cfa2054c37bf`<br>[src/data/items.h:12156](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12156) |
-| 10418 | Payapa Berries | ウタンのみ | `9266ad3302c52d0a`<br>[src/data/items.h:12157](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12157) |
-| 10419 | Tanga Berry | タンガのみ | `1f17bd6c7b1ee8f3`<br>[src/data/items.h:12175](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12175) |
-| 10420 | Tanga Berries | タンガのみ | `c1dd76e262f00a02`<br>[src/data/items.h:12176](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12176) |
-| 10421 | Charti Berry | ヨロギのみ | `20c4233b829bbea1`<br>[src/data/items.h:12194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12194) |
-| 10422 | Charti Berries | ヨロギのみ | `b992e90983b507d7`<br>[src/data/items.h:12195](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12195) |
-| 10423 | Kasib Berry | カシブのみ | `38f6f710aece8dc9`<br>[src/data/items.h:12213](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12213) |
-| 10424 | Kasib Berries | カシブのみ | `5c4cdf1d9ab853bf`<br>[src/data/items.h:12214](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12214) |
-| 10425 | Haban Berry | ハバンのみ | `7d85f8115f33390d`<br>[src/data/items.h:12232](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12232) |
-| 10426 | Haban Berries | ハバンのみ | `0a57dc3f17ed67cf`<br>[src/data/items.h:12233](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12233) |
-| 10427 | Colbur Berry | ナモのみ | `f8c8510725bedec2`<br>[src/data/items.h:12251](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12251) |
-| 10428 | Colbur Berries | ナモのみ | `64f9db0335414edc`<br>[src/data/items.h:12252](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12252) |
-| 10429 | Babiri Berry | リリバのみ | `40f37ffdce599ceb`<br>[src/data/items.h:12270](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12270) |
-| 10430 | Babiri Berries | リリバのみ | `3f4532541a3a85bd`<br>[src/data/items.h:12271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12271) |
-| 10431 | Roseli Berry | ロゼルのみ | `933c84edaf8dd197`<br>[src/data/items.h:12289](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12289) |
-| 10432 | Roseli Berries | ロゼルのみ | `13a300231786f73d`<br>[src/data/items.h:12290](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12290) |
-| 10433 | Liechi Berry | チイラのみ | `26bb6b13327e438f`<br>[src/data/items.h:12308](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12308) |
-| 10434 | Liechi Berries | チイラのみ | `6a1fab51e30bd24f`<br>[src/data/items.h:12309](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12309) |
-| 10435 | Ganlon Berry | リュガのみ | `689f3a0a3595549f`<br>[src/data/items.h:12327](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12327) |
-| 10436 | Ganlon Berries | リュガのみ | `fe251fecf57d73d1`<br>[src/data/items.h:12328](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12328) |
-| 10437 | Salac Berry | カムラのみ | `b0ac4511a7552a71`<br>[src/data/items.h:12346](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12346) |
-| 10438 | Salac Berries | カムラのみ | `f6d3f1633deaf5d1`<br>[src/data/items.h:12347](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12347) |
-| 10439 | Petaya Berry | ヤタピのみ | `b2a10c566c4a8157`<br>[src/data/items.h:12365](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12365) |
-| 10440 | Petaya Berries | ヤタピのみ | `0d976b55e0d4dee8`<br>[src/data/items.h:12366](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12366) |
-| 10441 | Apicot Berry | ズアのみ | `df967a295403c2f9`<br>[src/data/items.h:12384](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12384) |
-| 10442 | Apicot Berries | ズアのみ | `79c939f25ade5b18`<br>[src/data/items.h:12385](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12385) |
-| 10443 | Lansat Berry | サンのみ | `e2c221e04a4ccc62`<br>[src/data/items.h:12403](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12403) |
-| 10444 | Lansat Berries | サンのみ | `829481ffdc6d41ce`<br>[src/data/items.h:12404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12404) |
-| 10445 | Starf Berry | スターのみ | `0fbac5be4ab63f3e`<br>[src/data/items.h:12422](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12422) |
-| 10446 | Starf Berries | スターのみ | `2f5322498e5daf9f`<br>[src/data/items.h:12423](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12423) |
-| 10447 | Enigma Berry | ナゾのみ | `8dfa389f6e3aa51b`<br>[src/data/items.h:12441](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12441) |
-| 10448 | Enigma Berries | ナゾのみ | `68182ad1fccde4da`<br>[src/data/items.h:12442](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12442) |
-| 10449 | Micle Berry | ミクルのみ | `2fee341842d883ac`<br>[src/data/items.h:12459](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12459) |
-| 10450 | Micle Berries | ミクルのみ | `07d7dba572c38309`<br>[src/data/items.h:12460](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12460) |
-| 10451 | Custap Berry | イバンのみ | `8aa31977183be76d`<br>[src/data/items.h:12478](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12478) |
-| 10452 | Custap Berries | イバンのみ | `5874c57c521c0f02`<br>[src/data/items.h:12479](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12479) |
-| 10453 | Jaboca Berry | ジャポのみ | `3c3eb81e549e91c3`<br>[src/data/items.h:12497](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12497) |
-| 10454 | Jaboca Berries | ジャポのみ | `2c4e859696914d30`<br>[src/data/items.h:12498](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12498) |
-| 10455 | Rowap Berry | レンブのみ | `9a36a3c6d87501a9`<br>[src/data/items.h:12515](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12515) |
-| 10456 | Rowap Berries | レンブのみ | `d40e96e68dbbaed6`<br>[src/data/items.h:12516](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12516) |
-| 10457 | Kee Berry | アッキのみ | `4fd27cff0e53ca9a`<br>[src/data/items.h:12533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12533) |
-| 10458 | Kee Berries | アッキのみ | `61f5eec227194343`<br>[src/data/items.h:12534](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12534) |
-| 10459 | Maranga Berry | タラプのみ | `0f9790437a226988`<br>[src/data/items.h:12551](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12551) |
-| 10460 | Maranga Berries | タラプのみ | `251159da4ee75feb`<br>[src/data/items.h:12552](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12552) |
-| 10461 | Enigma Berry | ナゾのみ | `da35bd3ed36afe14`<br>[src/data/items.h:12569](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12569) |
-| 10462 | Enigma Berries | ナゾのみ | `686aa2b96d3a8943`<br>[src/data/items.h:12570](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12570) |
-| 10463 | TM01 | わざマシン01 | `08400417c4babf13`<br>[src/data/items.h:12589](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12589) |
-| 10464 | TM02 | わざマシン02 | `4e4e512ebdaba84e`<br>[src/data/items.h:12603](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12603) |
-| 10465 | TM03 | わざマシン03 | `81aa3621bd7f960d`<br>[src/data/items.h:12617](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12617) |
-| 10466 | TM04 | わざマシン04 | `4997967d06bdafbe`<br>[src/data/items.h:12631](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12631) |
-| 10467 | TM05 | わざマシン05 | `8c6ae5112674041d`<br>[src/data/items.h:12645](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12645) |
-| 10468 | TM06 | わざマシン06 | `f313905bd161011c`<br>[src/data/items.h:12659](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12659) |
-| 10469 | TM07 | わざマシン07 | `b3f1df076ac08ea6`<br>[src/data/items.h:12673](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12673) |
-| 10470 | TM08 | わざマシン08 | `b572d12a89a39876`<br>[src/data/items.h:12694](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12694) |
-| 10471 | TM09 | わざマシン09 | `6bae2bcbe0ff77b2`<br>[src/data/items.h:12708](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12708) |
-| 10472 | TM10 | わざマシン10 | `935557bebc7a1938`<br>[src/data/items.h:12722](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12722) |
-| 10473 | TM11 | わざマシン11 | `988692acb394b7c7`<br>[src/data/items.h:12736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12736) |
-| 10474 | TM12 | わざマシン12 | `d09e7f7ef165a703`<br>[src/data/items.h:12750](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12750) |
-| 10475 | TM13 | わざマシン13 | `6bb6a8bb3778cd84`<br>[src/data/items.h:12764](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12764) |
-| 10476 | TM14 | わざマシン14 | `5258da79c0f60fb2`<br>[src/data/items.h:12782](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12782) |
-| 10477 | TM15 | わざマシン15 | `4572cf765f6725de`<br>[src/data/items.h:12802](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12802) |
-| 10478 | TM16 | わざマシン16 | `aaea32764974da37`<br>[src/data/items.h:12816](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12816) |
-| 10479 | TM17 | わざマシン17 | `76e9e2e0b0d79301`<br>[src/data/items.h:12830](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12830) |
-| 10480 | TM18 | わざマシン18 | `fe61f8b065037d75`<br>[src/data/items.h:12844](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12844) |
-| 10481 | TM19 | わざマシン19 | `1bd937ab6aac0648`<br>[src/data/items.h:12858](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12858) |
-| 10482 | TM20 | わざマシン20 | `4db43c0c5a059742`<br>[src/data/items.h:12872](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12872) |
-| 10483 | TM21 | わざマシン21 | `1301e44db471d8d7`<br>[src/data/items.h:12886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12886) |
-| 10484 | TM22 | わざマシン22 | `b0827af2b8406843`<br>[src/data/items.h:12900](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12900) |
-| 10485 | TM23 | わざマシン23 | `f6600b2b1133cc24`<br>[src/data/items.h:12914](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12914) |
-| 10486 | TM24 | わざマシン24 | `b370e560ace86a76`<br>[src/data/items.h:12928](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12928) |
-| 10487 | TM25 | わざマシン25 | `a076004f24c8e75e`<br>[src/data/items.h:12942](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12942) |
-| 10488 | TM26 | わざマシン26 | `a3e89640774874e3`<br>[src/data/items.h:12956](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12956) |
-| 10489 | TM27 | わざマシン27 | `5542b6f364a1fde3`<br>[src/data/items.h:12970](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12970) |
-| 10490 | TM28 | わざマシン28 | `c02eca7b6a24af58`<br>[src/data/items.h:12984](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12984) |
-| 10491 | TM29 | わざマシン29 | `d4e214dfd07683dc`<br>[src/data/items.h:12998](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12998) |
-| 10492 | TM30 | わざマシン30 | `c31c2d6c37a1ea6a`<br>[src/data/items.h:13012](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13012) |
-| 10493 | TM31 | わざマシン31 | `d51850f8c0a16471`<br>[src/data/items.h:13026](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13026) |
-| 10494 | TM32 | わざマシン32 | `e04ef9d4b20dbb83`<br>[src/data/items.h:13040](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13040) |
-| 10495 | TM33 | わざマシン33 | `8824c0b384abd08c`<br>[src/data/items.h:13054](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13054) |
-| 10496 | TM34 | わざマシン34 | `87a0eee25cc85747`<br>[src/data/items.h:13068](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13068) |
-| 10497 | TM35 | わざマシン35 | `2d94c4b2673652f3`<br>[src/data/items.h:13082](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13082) |
-| 10498 | TM36 | わざマシン36 | `a7c633c55d59aef0`<br>[src/data/items.h:13096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13096) |
-| 10499 | TM37 | わざマシン37 | `d0d8f88817130c84`<br>[src/data/items.h:13110](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13110) |
-| 10500 | TM38 | わざマシン38 | `eff28bb8ec40cb40`<br>[src/data/items.h:13124](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13124) |
-| 10501 | TM39 | わざマシン39 | `08ba8a29e2b5b48b`<br>[src/data/items.h:13138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13138) |
-| 10502 | TM40 | わざマシン40 | `17370f829c31801d`<br>[src/data/items.h:13152](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13152) |
-| 10503 | TM41 | わざマシン41 | `4650639cb25e126a`<br>[src/data/items.h:13166](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13166) |
-| 10504 | TM42 | わざマシン42 | `531e8f9088c22746`<br>[src/data/items.h:13180](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13180) |
-| 10505 | TM43 | わざマシン43 | `c8b68882106801d3`<br>[src/data/items.h:13194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13194) |
-| 10506 | TM44 | わざマシン44 | `4b5227576d092296`<br>[src/data/items.h:13208](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13208) |
-| 10507 | TM45 | わざマシン45 | `f44e9d83a733c78b`<br>[src/data/items.h:13222](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13222) |
-| 10508 | TM46 | わざマシン46 | `623d241bbbb20a02`<br>[src/data/items.h:13236](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13236) |
-| 10509 | TM47 | わざマシン47 | `21678b14f6ba7dba`<br>[src/data/items.h:13250](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13250) |
-| 10510 | TM48 | わざマシン48 | `8351b38a9df856e4`<br>[src/data/items.h:13264](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13264) |
-| 10511 | TM49 | わざマシン49 | `47ccb8c51f3fc938`<br>[src/data/items.h:13278](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13278) |
-| 10512 | TM50 | わざマシン50 | `f85361c59d4da3d2`<br>[src/data/items.h:13292](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13292) |
-| 10513 | TM51 | わざマシン51 | `c44283d9919e2eeb`<br>[src/data/items.h:13306](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13306) |
-| 10514 | TM52 | わざマシン52 | `37ba3038e604c90a`<br>[src/data/items.h:13320](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13320) |
-| 10515 | TM53 | わざマシン53 | `118e8c7c9cb1b0a6`<br>[src/data/items.h:13334](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13334) |
-| 10516 | TM54 | わざマシン54 | `7daaa6a34e44d02f`<br>[src/data/items.h:13348](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13348) |
-| 10517 | TM55 | わざマシン55 | `dd57a2e0191b4f56`<br>[src/data/items.h:13362](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13362) |
-| 10518 | TM56 | わざマシン56 | `d7fdc7b9278e5d0e`<br>[src/data/items.h:13376](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13376) |
-| 10519 | TM57 | わざマシン57 | `1303764766b2f388`<br>[src/data/items.h:13390](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13390) |
-| 10520 | TM58 | わざマシン58 | `2941d278e2670055`<br>[src/data/items.h:13404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13404) |
-| 10521 | TM59 | わざマシン59 | `74109c98f2cf5a5d`<br>[src/data/items.h:13418](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13418) |
-| 10522 | TM60 | わざマシン60 | `98ecd26af9a1265f`<br>[src/data/items.h:13432](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13432) |
-| 10523 | TM61 | わざマシン61 | `d8889b3f8e3279f6`<br>[src/data/items.h:13443](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13443) |
-| 10524 | TM62 | わざマシン62 | `ac2f96134c08cb13`<br>[src/data/items.h:13454](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13454) |
-| 10525 | TM63 | わざマシン63 | `1350d3287c07a12b`<br>[src/data/items.h:13465](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13465) |
-| 10526 | TM64 | わざマシン64 | `8fe7151662be61e4`<br>[src/data/items.h:13476](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13476) |
-| 10527 | TM65 | わざマシン65 | `7c640b959f572537`<br>[src/data/items.h:13487](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13487) |
-| 10528 | TM66 | わざマシン66 | `dc7ac244c3e2c8cd`<br>[src/data/items.h:13498](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13498) |
-| 10529 | TM67 | わざマシン67 | `25ad67b64a3b49bd`<br>[src/data/items.h:13509](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13509) |
-| 10530 | TM68 | わざマシン68 | `6e4c4e45f9992604`<br>[src/data/items.h:13520](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13520) |
-| 10531 | TM69 | わざマシン69 | `e7dda7b84e4ac2e0`<br>[src/data/items.h:13531](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13531) |
-| 10532 | TM70 | わざマシン70 | `52a0bb1a665168bc`<br>[src/data/items.h:13542](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13542) |
-| 10533 | TM71 | わざマシン71 | `55991b1d0d458b81`<br>[src/data/items.h:13553](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13553) |
-| 10534 | TM72 | わざマシン72 | `4bf183dd2463c620`<br>[src/data/items.h:13564](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13564) |
-| 10535 | TM73 | わざマシン73 | `0cb02ab398dba37a`<br>[src/data/items.h:13575](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13575) |
-| 10536 | TM74 | わざマシン74 | `74f0fdc0c41aa4d1`<br>[src/data/items.h:13586](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13586) |
-| 10537 | TM75 | わざマシン75 | `61a7d00219a61157`<br>[src/data/items.h:13597](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13597) |
-| 10538 | TM76 | わざマシン76 | `f03225ddd91d8d40`<br>[src/data/items.h:13608](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13608) |
-| 10539 | TM77 | わざマシン77 | `18198ff7f90068d3`<br>[src/data/items.h:13619](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13619) |
-| 10540 | TM78 | わざマシン78 | `d48b775a9ba91df0`<br>[src/data/items.h:13630](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13630) |
-| 10541 | TM79 | わざマシン79 | `721d664d14ecddf4`<br>[src/data/items.h:13641](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13641) |
-| 10542 | TM80 | わざマシン80 | `f892eb7e87920c71`<br>[src/data/items.h:13652](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13652) |
-| 10543 | TM81 | わざマシン81 | `94b3950c041f65d2`<br>[src/data/items.h:13663](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13663) |
-| 10544 | TM82 | わざマシン82 | `4c963cdf93a1cd7b`<br>[src/data/items.h:13674](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13674) |
-| 10545 | TM83 | わざマシン83 | `09408ac32c4d3e13`<br>[src/data/items.h:13685](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13685) |
-| 10546 | TM84 | わざマシン84 | `99a360e813cfc9d0`<br>[src/data/items.h:13696](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13696) |
-| 10547 | TM85 | わざマシン85 | `58fe877f5ea4714d`<br>[src/data/items.h:13707](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13707) |
-| 10548 | TM86 | わざマシン86 | `7b8244fb2f277d84`<br>[src/data/items.h:13718](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13718) |
-| 10549 | TM87 | わざマシン87 | `5bf77ab1769fb5b0`<br>[src/data/items.h:13729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13729) |
-| 10550 | TM88 | わざマシン88 | `231c8f604a8bb9d0`<br>[src/data/items.h:13740](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13740) |
-| 10551 | TM89 | わざマシン89 | `d42b32109ade96bd`<br>[src/data/items.h:13751](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13751) |
-| 10552 | TM90 | わざマシン90 | `91875db828275398`<br>[src/data/items.h:13762](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13762) |
-| 10553 | TM91 | わざマシン91 | `bbe1c373d2879ba8`<br>[src/data/items.h:13773](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13773) |
-| 10554 | TM92 | わざマシン92 | `7b1f30619fb5b41e`<br>[src/data/items.h:13784](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13784) |
-| 10555 | TM93 | わざマシン93 | `31a124d6d95d6f8d`<br>[src/data/items.h:13795](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13795) |
-| 10556 | TM94 | わざマシン94 | `638eaf15b521c5cd`<br>[src/data/items.h:13806](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13806) |
-| 10557 | TM95 | わざマシン95 | `523053bb229bc61a`<br>[src/data/items.h:13817](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13817) |
-| 10558 | TM96 | わざマシン96 | `02d223f079983980`<br>[src/data/items.h:13828](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13828) |
-| 10559 | TM97 | わざマシン97 | `55293c9fb1ea7b3d`<br>[src/data/items.h:13839](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13839) |
-| 10560 | TM98 | わざマシン98 | `3b1072c4771393e1`<br>[src/data/items.h:13850](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13850) |
-| 10561 | TM99 | わざマシン99 | `d46934496415077e`<br>[src/data/items.h:13861](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13861) |
-| 10562 | TM100 | わざマシン100 | `2879324546dc73f0`<br>[src/data/items.h:13872](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13872) |
-| 10563 | HM01 | ひでんマシン01 | `eb42c2f7a57b4d1c`<br>[src/data/items.h:13883](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13883) |
-| 10564 | HM02 | ひでんマシン02 | `7a744520115ce0d3`<br>[src/data/items.h:13897](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13897) |
-| 10565 | HM03 | ひでんマシン03 | `1bb9de15b4bd5ecd`<br>[src/data/items.h:13911](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13911) |
-| 10566 | HM04 | ひでんマシン04 | `a5a8b0792906dd57`<br>[src/data/items.h:13925](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13925) |
-| 10567 | HM05 | ひでんマシン05 | `76a0fe2ee6d309c6`<br>[src/data/items.h:13939](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13939) |
-| 10568 | HM06 | ひでんマシン06 | `15dc543dfcb62dae`<br>[src/data/items.h:13953](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13953) |
-| 10569 | HM07 | ひでんマシン07 | `2dfeeb21e7c4607d`<br>[src/data/items.h:13967](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13967) |
-| 10570 | HM08 | ひでんマシン08 | `f424e7c9e9849bb0`<br>[src/data/items.h:13981](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13981) |
-| 10571 | Oval Charm | まるいおまもり | `d69236f42afb814b`<br>[src/data/items.h:13998](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13998) |
-| 10572 | Shiny Charm | ひかるおまもり | `0d31c157830a1ab2`<br>[src/data/items.h:14014](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14014) |
-| 10573 | Catching Charm | ゆれないおまもり | `a8f9eaeb8e882ab6`<br>[src/data/items.h:14030](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14030) |
-| 10574 | Exp. Charm | けいけんおまもり | `74fd26d9b959fc36`<br>[src/data/items.h:14046](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14046) |
-| 10575 | Rotom Catalog | ロトムのカタログ | `5dbef56c8b34392e`<br>[src/data/items.h:14064](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14064) |
-| 10576 | Gracidea | グラシデアのはな | `584b6a05dcb2dbd6`<br>[src/data/items.h:14080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14080) |
-| 10577 | Reveal Glass | うつしかがみ | `ee428ca38ee130f4`<br>[src/data/items.h:14096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14096) |
-| 10578 | Reveal Glasses | うつしかがみ | `0c9b30352176c9fe`<br>[src/data/items.h:14097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14097) |
-| 10579 | DNA Splicers | いでんしのくさび | `7d3300eb003802ac`<br>[src/data/items.h:14113](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14113) |
-| 10580 | DNA Splicers | いでんしのくさび | `3d9e1614a4cad229`<br>[src/data/items.h:14114](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14114) |
-| 10581 | Zygarde Cube | ジガルデキューブ | `2f14a4b7851823f2`<br>[src/data/items.h:14130](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14130) |
-| 10582 | Prison Bottle | いましめのツボ | `88c35a4e52af99d5`<br>[src/data/items.h:14146](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14146) |
-| 10583 | N-Solarizer | ネクロプラスソル | `5748a75a391102a6`<br>[src/data/items.h:14162](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14162) |
-| 10584 | N-Lunarizer | ネクロプラスルナ | `0a39202abceab284`<br>[src/data/items.h:14178](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14178) |
-| 10585 | Reins of Unity | キズナのタヅナ | `5d72e76d85099a14`<br>[src/data/items.h:14194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14194) |
-| 10586 | Reins of Unity | キズナのタヅナ | `a57d3c9176006293`<br>[src/data/items.h:14195](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14195) |
-| 10587 | Mega Ring | メガリング | `7eb8c3b0df80ae0d`<br>[src/data/items.h:14213](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14213) |
-| 10588 | Z-Power Ring | Zパワーリング | `ac63722ec6d77331`<br>[src/data/items.h:14229](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14229) |
-| 10589 | Dynamax Band | ダイマックスB | `c5a5ff888d17e73a`<br>[src/data/items.h:14245](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14245) |
-| 10590 | Bike | じてんしゃ | `3fd03accccf3c87f`<br>[src/data/items.h:14263](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14263) |
-| 10591 | Mach Bike | マッハじてんしゃ | `6e072e3382f78dc2`<br>[src/data/items.h:14280](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14280) |
-| 10592 | Acro Bike | ダートじてんしゃ | `4b4e7bf2cfb2b96c`<br>[src/data/items.h:14297](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14297) |
-| 10593 | Old Rod | ボロのつりざお | `a14ee0a984fce445`<br>[src/data/items.h:14314](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14314) |
-| 10594 | Good Rod | いいつりざお | `54f11c7eed6e3f02`<br>[src/data/items.h:14331](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14331) |
-| 10595 | Super Rod | すごいつりざお | `00ba4b62c76e8f0b`<br>[src/data/items.h:14348](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14348) |
-| 10596 | Dowsing Machine | ダウジングマシン | `a57b9a605ec33373`<br>[src/data/items.h:14365](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14365) |
-| 10597 | Town Map | タウンマップ | `5e90d70d503fc2e6`<br>[src/data/items.h:14381](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14381) |
-| 10598 | Vs. Seeker | バトルサーチャー | `b97087832effc6e7`<br>[src/data/items.h:14397](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14397) |
-| 10599 | TM Case | わざマシンケース | `7aa7849559ccedaa`<br>[src/data/items.h:14417](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14417) |
-| 10600 | Berry Pouch | きのみぶくろ | `fd1253afcff8ce2b`<br>[src/data/items.h:14433](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14433) |
-| 10601 | Berry Pouches | きのみぶくろ | `c9d207414e42f89c`<br>[src/data/items.h:14434](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14434) |
-| 10602 | {PKMN} Box Link | {PKMN}ボックスリンク | `6bea96704f85d81c`<br>[src/data/items.h:14450](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14450) |
-| 10603 | Coin Case | コインケース | `4fec995136724f4a`<br>[src/data/items.h:14466](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14466) |
-| 10604 | Powder Jar | こないれ | `ceb9858baa620ff7`<br>[src/data/items.h:14481](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14481) |
-| 10605 | Wailmer Pail | ホエルコじょうろ | `0cc184737255ec42`<br>[src/data/items.h:14497](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14497) |
-| 10606 | Poké Radar | ポケトレ | `02fed5ddff67c4d8`<br>[src/data/items.h:14513](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14513) |
-| 10607 | {POKEBLOCK} Case | {POKEBLOCK}ケース | `82599e8290b0cf20`<br>[src/data/items.h:14529](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14529) |
-| 10608 | Soot Sack | はいぶくろ | `ae870aee6348fd6b`<br>[src/data/items.h:14545](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14545) |
-| 10609 | Poké Flute | ポケモンのふえ | `90083dfe31e54277`<br>[src/data/items.h:14561](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14561) |
-| 10610 | Fame Checker | ボイスチェッカー | `c9085112ce05d744`<br>[src/data/items.h:14578](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14578) |
-| 10611 | Teachy TV | おしえテレビ | `de2250011e15ffd0`<br>[src/data/items.h:14594](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14594) |
-| 10612 | S.S. Ticket | ふねのチケット | `a954e46f0f16e42d`<br>[src/data/items.h:14612](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14612) |
-| 10613 | Hot Cocoa | ホットココア | `b7ce99d7530a4741`<br>[src/data/items.h:14628](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14628) |
-| 10614 | Fentanyl | フェンタニル | `1a6d885d139ad76d`<br>[src/data/items.h:14644](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14644) |
-| 10615 | Bottled Warmth | びんづめのぬくもり | `d3f93484664e1252`<br>[src/data/items.h:14661](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14661) |
-| 10616 | Borrowed Years | かりたとしつき | `2909df67eedf8a9e`<br>[src/data/items.h:14676](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14676) |
-| 10617 | Unspoken Last Words | つたえなかったことば | `83bfb633616098ab`<br>[src/data/items.h:14691](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14691) |
-| 10618 | Stranger's Name | しらないひとのなまえ | `3d729f874793ecec`<br>[src/data/items.h:14706](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14706) |
-| 10619 | Folded Goodbye | おりたたんださよなら | `ef1f1acfafb0945e`<br>[src/data/items.h:14721](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14721) |
-| 10620 | One Good Dream | ひとつのよいゆめ | `a85cb8521f2d294c`<br>[src/data/items.h:14736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14736) |
-| 10621 | Long Way Home | とおいかえりみち | `00be5f803555de20`<br>[src/data/items.h:14751](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14751) |
-| 10622 | Carved Mask | ほりもののめん | `2845bc08ffc03003`<br>[src/data/items.h:14766](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14766) |
-| 10623 | Catalpa Bow | アズサユミ | `fb2e39a3dbead3bf`<br>[src/data/items.h:14782](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14782) |
-| 10624 | Shadow Dossier | ダークちょうさしりょう | `cfcd597150538672`<br>[src/data/items.h:14798](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14798) |
-| 10625 | Quest Log | クエストにっし | `32a7f2c3269fbdb7`<br>[src/data/items.h:14814](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14814) |
-| 10626 | Yacht Key | ヨットのカギ | `6798d596b2c9acc6`<br>[src/data/items.h:14830](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14830) |
-| 10627 | Epic Pass | リフトのシーズンパス | `6af0544bb117c29a`<br>[src/data/items.h:14848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14848) |
-| 10628 | Domestic | こくさんビール | `c3107f5154605b30`<br>[src/data/items.h:14866](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14866) |
-| 10629 | Craft | クラフトビール | `4da6fdcd181b99e5`<br>[src/data/items.h:14886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14886) |
-| 10630 | Infinite Candy | むげんのアメ | `5733bfc09ad0355f`<br>[src/data/items.h:14914](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14914) |
-| 10631 | Snag Machine | スナッチマシン | `8e866975a7a67bb6`<br>[src/data/items.h:14932](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14932) |
-| 10632 | Shinkansen Key | しんかんせんのカギ | `efe24ae2b341e1a2`<br>[src/data/items.h:14948](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14948) |
-| 10633 | Rift Shard | さけめのかけら | `681f9b0cad88587b`<br>[src/data/items.h:14965](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14965) |
-| 10634 | Rift Core | さけめのかく | `718fde3b6d21adfb`<br>[src/data/items.h:14981](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14981) |
-| 10635 | Rift Heart | さけめのしんぞう | `99e9aebbff160713`<br>[src/data/items.h:14997](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14997) |
-| 10636 | Waster Ball | ウェイスターボール | `6597856c7d1c4b46`<br>[src/data/items.h:15016](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15016) |
-| 10637 | Eon Ticket | むげんのチケット | `b5e9ed4520e2a70f`<br>[src/data/items.h:15031](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15031) |
-| 10638 | Mystic Ticket | しんぴのチケット | `d33b9176b057daf9`<br>[src/data/items.h:15048](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15048) |
-| 10639 | Aurora Ticket | オーロラチケット | `1589124076db7d5e`<br>[src/data/items.h:15064](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15064) |
-| 10640 | Old Sea Map | ふるびたかいず | `3be41a9914a92f07`<br>[src/data/items.h:15080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15080) |
-| 10641 | Letter | ダイゴへのてがみ | `42000fdfc81026c1`<br>[src/data/items.h:15096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15096) |
-| 10642 | Devon Parts | デボンのにもつ | `8f35c1f30ac0fedc`<br>[src/data/items.h:15112](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15112) |
-| 10643 | Devon Parts | デボンのにもつ | `d7e47205a01eca11`<br>[src/data/items.h:15113](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15113) |
-| 10644 | Go-Goggles | ゴーゴーゴーグル | `f754a99dfbbee637`<br>[src/data/items.h:15129](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15129) |
-| 10645 | Go-Goggles | ゴーゴーゴーグル | `6f190d35d280eb45`<br>[src/data/items.h:15130](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15130) |
-| 10646 | Devon Scope | デボンスコープ | `7b51b1a6083fa9a4`<br>[src/data/items.h:15146](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15146) |
-| 10647 | Basement Key | ちかのカギ | `4a1ac6be550fe21f`<br>[src/data/items.h:15162](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15162) |
-| 10648 | Scanner | たんちき | `bc6465869c4a1736`<br>[src/data/items.h:15178](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15178) |
-| 10649 | Storage Key | そうこのカギ | `fcb946bd50c2ce03`<br>[src/data/items.h:15194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15194) |
-| 10650 | Key to Room 1 | 1ごうしつのカギ | `1aeb5fecb8d66bb9`<br>[src/data/items.h:15210](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15210) |
-| 10651 | Keys to Room 1 | 1ごうしつのカギ | `f437830f731bd986`<br>[src/data/items.h:15211](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15211) |
-| 10652 | Key to Room 2 | 2ごうしつのカギ | `7e3c9a7daa0985b7`<br>[src/data/items.h:15224](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15224) |
-| 10653 | Keys to Room 2 | 2ごうしつのカギ | `1868815f7bb23737`<br>[src/data/items.h:15225](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15225) |
-| 10654 | Key to Room 4 | 4ごうしつのカギ | `56ff66a226cee08c`<br>[src/data/items.h:15238](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15238) |
-| 10655 | Keys to Room 4 | 4ごうしつのカギ | `a5926e5fc70b28fd`<br>[src/data/items.h:15239](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15239) |
-| 10656 | Key to Room 6 | 6ごうしつのカギ | `f070432127ddd3a9`<br>[src/data/items.h:15252](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15252) |
-| 10657 | Keys to Room 6 | 6ごうしつのカギ | `d3c9a37a51ca2aa0`<br>[src/data/items.h:15253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15253) |
-| 10658 | Meteorite | いんせき | `169cfebaacb03a05`<br>[src/data/items.h:15266](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15266) |
-| 10659 | Magma Emblem | マグマのしるし | `8740f73562a0b1b9`<br>[src/data/items.h:15281](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15281) |
-| 10660 | Contest Pass | コンテストパス | `15ec707149c207b7`<br>[src/data/items.h:15297](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15297) |
-| 10661 | Contest Passes | コンテストパス | `f02489e14c95cdd6`<br>[src/data/items.h:15298](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15298) |
-| 10662 | Parcel | おとどけもの | `2627d8431ebc0b74`<br>[src/data/items.h:15314](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15314) |
-| 10663 | Secret Key | ひみつのカギ | `8201fa67a4d4ba98`<br>[src/data/items.h:15330](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15330) |
-| 10664 | Bike Voucher | ひきかえけん | `0463158003986631`<br>[src/data/items.h:15346](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15346) |
-| 10665 | Gold Teeth | きんのいれば | `bd5012ffb230f41f`<br>[src/data/items.h:15362](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15362) |
-| 10666 | Gold Teeth | きんのいれば | `e0da057818e32d4c`<br>[src/data/items.h:15363](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15363) |
-| 10667 | Card Key | カードキー | `690ff38ff43c68f0`<br>[src/data/items.h:15379](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15379) |
-| 10668 | Lift Key | エレベータのカギ | `5212a88ea523ac8d`<br>[src/data/items.h:15395](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15395) |
-| 10669 | Silph Scope | シルフスコープ | `2fcdf5ae861a929a`<br>[src/data/items.h:15411](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15411) |
-| 10670 | Tri-Pass | トライパス | `6057d118970fbaaf`<br>[src/data/items.h:15427](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15427) |
-| 10671 | Tri-Passes | トライパス | `801b9f73505200f9`<br>[src/data/items.h:15428](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15428) |
-| 10672 | Rainbow Pass | レインボーパス | `35895e65bd8b0981`<br>[src/data/items.h:15444](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15444) |
-| 10673 | Rainbow Passes | レインボーパス | `8d7b383c88067e35`<br>[src/data/items.h:15445](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15445) |
-| 10674 | Tea | おちゃ | `69eb6abd1b732a29`<br>[src/data/items.h:15461](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15461) |
-| 10675 | Tea | おちゃ | `507a70bb15d912a3`<br>[src/data/items.h:15462](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15462) |
-| 10676 | Ruby | ルビー | `2d1d1a51701d35c8`<br>[src/data/items.h:15478](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15478) |
-| 10677 | Rubies | ルビー | `9aaf5f6ec1b92990`<br>[src/data/items.h:15479](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15479) |
-| 10678 | Sapphire | サファイア | `2e0acf18e27146a3`<br>[src/data/items.h:15495](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15495) |
-| 10679 | Ability Shield | とくせいガード | `b49d195769ebe4db`<br>[src/data/items.h:15511](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15511) |
-| 10680 | Clear Amulet | クリアチャーム | `241a9f83db40bd44`<br>[src/data/items.h:15530](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15530) |
-| 10681 | Punching Glove | パンチグローブ | `dab606633e27fb8c`<br>[src/data/items.h:15548](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15548) |
-| 10682 | Covert Cloak | おんみつマント | `4ffef5c8f839fec8`<br>[src/data/items.h:15566](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15566) |
-| 10683 | Loaded Dice | いかさまダイス | `ed4806d62cea4dc3`<br>[src/data/items.h:15584](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15584) |
-| 10684 | Loaded Dice | いかさまダイス | `058e75a5fdafd93d`<br>[src/data/items.h:15585](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15585) |
-| 10685 | Auspicious Armor | イワイノヨロイ | `eae3d96646ca42b4`<br>[src/data/items.h:15603](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15603) |
-| 10686 | Booster Energy | ブーストエナジー | `a44649c1526aef82`<br>[src/data/items.h:15621](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15621) |
-| 10687 | Booster Energies | ブーストエナジー | `40cfc93205df0aa6`<br>[src/data/items.h:15622](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15622) |
-| 10688 | Big Bamboo Shoot | おおきなタケノコ | `5d0070ecd2ea7c4f`<br>[src/data/items.h:15640](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15640) |
-| 10689 | Gimmighoul Coin | コレクレーのコイン | `358bc54e787be57b`<br>[src/data/items.h:15657](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15657) |
-| 10690 | Leader's Crest | かしらのしるし | `980909f5ab043c96`<br>[src/data/items.h:15673](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15673) |
-| 10691 | Malicious Armor | ノロイノヨロイ | `dfb599be37344dae`<br>[src/data/items.h:15689](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15689) |
-| 10692 | Mirror Herb | ものまねハーブ | `bdfc85a3230d79e8`<br>[src/data/items.h:15707](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15707) |
-| 10693 | Scroll of Darkness | あくのかけじく | `472f5449987dace6`<br>[src/data/items.h:15725](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15725) |
-| 10694 | Scrolls of Darkness | あくのかけじく | `b6670cbee9479344`<br>[src/data/items.h:15726](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15726) |
-| 10695 | Scroll of Waters | みずのかけじく | `4d757f3859ac7e2b`<br>[src/data/items.h:15744](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15744) |
-| 10696 | Scrolls of Waters | みずのかけじく | `53e1bba227a56261`<br>[src/data/items.h:15745](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15745) |
-| 10697 | Tera Orb | テラスタルオーブ | `20edf805330dd5c6`<br>[src/data/items.h:15763](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15763) |
-| 10698 | Tiny Bamboo Shoot | ちいさなタケノコ | `b3df6ecba9511216`<br>[src/data/items.h:15779](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15779) |
-| 10699 | Bug Tera Shard | テラピースむし | `59ccee952994b712`<br>[src/data/items.h:15796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15796) |
-| 10700 | Dark Tera Shard | テラピースあく | `bd9f127332cba522`<br>[src/data/items.h:15809](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15809) |
-| 10701 | Dragon Tera Shard | テラピースドラゴン | `55f6e7f2453995f3`<br>[src/data/items.h:15822](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15822) |
-| 10702 | Electric Tera Shard | テラピースでんき | `9cd280a33b29091d`<br>[src/data/items.h:15835](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15835) |
-| 10703 | Fairy Tera Shard | テラピースフェアリー | `b24206473e82a7d3`<br>[src/data/items.h:15848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15848) |
-| 10704 | Fighting Tera Shard | テラピースかくとう | `7569eb367fbdca48`<br>[src/data/items.h:15861](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15861) |
-| 10705 | Fire Tera Shard | テラピースほのお | `995e53f6c46429ab`<br>[src/data/items.h:15874](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15874) |
-| 10706 | Flying Tera Shard | テラピースひこう | `35566d952517db12`<br>[src/data/items.h:15887](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15887) |
-| 10707 | Ghost Tera Shard | テラピースゴースト | `b75a06bd7a884ab6`<br>[src/data/items.h:15900](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15900) |
-| 10708 | Grass Tera Shard | テラピースくさ | `ddcb956c96c43658`<br>[src/data/items.h:15913](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15913) |
-| 10709 | Ground Tera Shard | テラピースじめん | `de587def45946ee4`<br>[src/data/items.h:15926](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15926) |
-| 10710 | Ice Tera Shard | テラピースこおり | `4746ac745eae464c`<br>[src/data/items.h:15939](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15939) |
-| 10711 | Normal Tera Shard | テラピースノーマル | `b5b1a8e086832bf5`<br>[src/data/items.h:15952](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15952) |
-| 10712 | Poison Tera Shard | テラピースどく | `8c315e7bdc58f915`<br>[src/data/items.h:15965](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15965) |
-| 10713 | Psychic Tera Shard | テラピースエスパー | `8fcccea445f88d1d`<br>[src/data/items.h:15978](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15978) |
-| 10714 | Rock Tera Shard | テラピースいわ | `65966357446a6be5`<br>[src/data/items.h:15991](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15991) |
-| 10715 | Steel Tera Shard | テラピースはがね | `ec3e9e84c48a06f0`<br>[src/data/items.h:16004](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16004) |
-| 10716 | Water Tera Shard | テラピースみず | `329c39fabd1d6dab`<br>[src/data/items.h:16017](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16017) |
-| 10717 | Adamant Crystal | だいこんごうだま | `ae5e0007f833c91a`<br>[src/data/items.h:16030](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16030) |
-| 10718 | Griseous Core | だいはっきんだま | `f77f3983b002a6e8`<br>[src/data/items.h:16049](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16049) |
-| 10719 | Lustrous Globe | だいしらたま | `c7aa551a70f78972`<br>[src/data/items.h:16068](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16068) |
-| 10720 | Black Augurite | くろのきせき | `1acf14a88f77439d`<br>[src/data/items.h:16087](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16087) |
-| 10721 | Linking Cord |  つながりのヒモ | `a9c64c1f67bf8821`<br>[src/data/items.h:16105](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16105) |
-| 10722 | Peat Block | ピートブロック | `7bbc21aa10b21840`<br>[src/data/items.h:16123](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16123) |
-| 10723 | Berserk Gene | はかいのいでんし | `5671017498667093`<br>[src/data/items.h:16141](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16141) |
-| 10724 | Fairy Feather | ようせいのハネ | `729e5e78ef8e55ae`<br>[src/data/items.h:16159](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16159) |
-| 10725 | Syrupy Apple | みついりりんご | `cf53fe08952e49aa`<br>[src/data/items.h:16179](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16179) |
-| 10726 | Unremarkable Teacup | ボンサクのちゃわん | `605482bc5c82e381`<br>[src/data/items.h:16197](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16197) |
-| 10727 | Masterpiece Teacup | ケッサクのちゃわん | `ab9e5e7cc5be4d66`<br>[src/data/items.h:16215](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16215) |
-| 10728 | Cornerstone Mask | いしずえのめん | `c1966b36efac6b11`<br>[src/data/items.h:16233](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16233) |
-| 10729 | Wellspring Mask | いどのめん | `9c6d5271199bc874`<br>[src/data/items.h:16251](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16251) |
-| 10730 | Hearthflame Mask | かまどのめん | `bf5705e58abdbcad`<br>[src/data/items.h:16269](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16269) |
-| 10731 | Health Mochi | たいりょくのもち | `b55c61f2db511019`<br>[src/data/items.h:16287](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16287) |
-| 10732 | Health Mochi | たいりょくのもち | `dff328db3c7cbea1`<br>[src/data/items.h:16288](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16288) |
-| 10733 | Muscle Mochi | きんりょくのもち | `fcea7058358da3ad`<br>[src/data/items.h:16303](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16303) |
-| 10734 | Muscle Mochi | きんりょくのもち | `40e8d7efccabda91`<br>[src/data/items.h:16304](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16304) |
-| 10735 | Resist Mochi | ていこうのもち | `593f01e0f10b4338`<br>[src/data/items.h:16319](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16319) |
-| 10736 | Resist Mochi | ていこうのもち | `11f2b9a963c7ff6b`<br>[src/data/items.h:16320](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16320) |
-| 10737 | Genius Mochi | ちりょくのもち | `8ca6fdd23395b316`<br>[src/data/items.h:16335](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16335) |
-| 10738 | Genius Mochi | ちりょくのもち | `b056115cd940bbaa`<br>[src/data/items.h:16336](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16336) |
-| 10739 | Clever Mochi | せいしんのもち | `c2eae9dac8ea8fa3`<br>[src/data/items.h:16351](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16351) |
-| 10740 | Clever Mochi | せいしんのもち | `6039d502dac9ecf7`<br>[src/data/items.h:16352](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16352) |
-| 10741 | Swift Mochi | しゅんぱつのもち | `c4c7d7305d8dbe10`<br>[src/data/items.h:16367](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16367) |
-| 10742 | Swift Mochi | しゅんぱつのもち | `946d58eb2bfa0169`<br>[src/data/items.h:16368](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16368) |
-| 10743 | Fresh-Start Mochi | まっさらもち | `2c1c2e4cebaa1fef`<br>[src/data/items.h:16383](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16383) |
-| 10744 | Fresh-Start Mochi | まっさらもち | `235aa36669d5db0c`<br>[src/data/items.h:16384](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16384) |
-| 10745 | Glimmering Charm | きらめくおまもり | `808a20b5353c1671`<br>[src/data/items.h:16402](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16402) |
-| 10746 | Metal Alloy | ふくごうきんぞく | `8a02558cdccf0313`<br>[src/data/items.h:16418](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16418) |
-| 10747 | Stellar Tera Shard | ステラテラピース | `3e665d8da21034b3`<br>[src/data/items.h:16435](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16435) |
-| 10748 | Jubilife Muffin | コトブキマフィン | `2fd0b301e7322bed`<br>[src/data/items.h:16448](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16448) |
-| 10749 | Remedy | カンポーやく | `aa8f6c3dcfa651d9`<br>[src/data/items.h:16464](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16464) |
-| 10750 | Remedies | カンポーやく | `a0116d8b084d8e0f`<br>[src/data/items.h:16465](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16465) |
-| 10751 | Fine Remedy | いいカンポーやく | `327cd3032bc43df3`<br>[src/data/items.h:16484](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16484) |
-| 10752 | Fine Remedies | いいカンポーやく | `cd3b34cd39461e7b`<br>[src/data/items.h:16485](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16485) |
-| 10753 | Superb Remedy | すごいカンポーやく | `51409d978534128a`<br>[src/data/items.h:16508](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16508) |
-| 10754 | Superb Remedies | すごいカンポーやく | `36f78bf607416feb`<br>[src/data/items.h:16509](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16509) |
-| 10755 | Aux Evasion | ヨクアタラーヌ | `9189cdd82c5d7fe9`<br>[src/data/items.h:16532](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16532) |
-| 10756 | Aux Guard | ガードアップ | `11cefaf3c02c1497`<br>[src/data/items.h:16555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16555) |
-| 10757 | Aux Power | パワーアップ | `65afd2e0bd7b2eaa`<br>[src/data/items.h:16578](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16578) |
-| 10758 | Aux Powerguard | マルチアップ | `8786edebcaa32a1f`<br>[src/data/items.h:16601](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16601) |
-| 10759 | Choice Dumpling | こだわりちまき | `f5e10d9ee2e0024f`<br>[src/data/items.h:16625](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16625) |
-| 10760 | Swap Snack | あべこべやき | `193450a914c5074c`<br>[src/data/items.h:16638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16638) |
-| 10761 | Twice-Spiced Radish | にばいづけ | `c9ff2a9d553e1dda`<br>[src/data/items.h:16651](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16651) |
-| 10762 | Twice-Spiced Radishes | にばいづけ | `d1f6acef35558ce6`<br>[src/data/items.h:16652](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16652) |
-| 10763 | Pokéshi Doll | ポケモンこけし | `a7fef2a8c06eb361`<br>[src/data/items.h:16665](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16665) |
-| 10764 | Amoongussite | モロバレルナイト | `06457a119de59b12`<br>[src/data/items.h:16682](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16682) |
-| 10765 | Azumarillite | マリルリナイト | `5b7aec5bce8db7f0`<br>[src/data/items.h:16700](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16700) |
-| 10766 | Butterfrite | バタフリーナイト | `00bb74f0cbce315d`<br>[src/data/items.h:16718](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16718) |
-| 10767 | Conkeldurrite | ローブシンナイト | `221e70613f4da558`<br>[src/data/items.h:16736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16736) |
-| 10768 | Dugtrionite | ダグトリオナイト | `4dd32c9d27da7703`<br>[src/data/items.h:16754](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16754) |
-| 10769 | Electivirite | エレキブルナイト | `b0df6decb86e9cb8`<br>[src/data/items.h:16772](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16772) |
-| 10770 | Flygonite | フライゴナイト | `9598b62f69df522c`<br>[src/data/items.h:16790](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16790) |
-| 10771 | Golemite | ゴローニャナイト | `16ea01ef1ecc6917`<br>[src/data/items.h:16808](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16808) |
-| 10772 | Jumpluffite | ワタッコナイト | `14f0c1bd6422a0b4`<br>[src/data/items.h:16826](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16826) |
-| 10773 | Kabutopsite | カブトプスナイト | `cb10d2dced84a49c`<br>[src/data/items.h:16844](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16844) |
-| 10774 | Magmortarite | ブーバーナイト | `cd2b237b796cbb2b`<br>[src/data/items.h:16862](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16862) |
-| 10775 | Miloticite | ミロカロスナイト | `496575ed89d0c0e8`<br>[src/data/items.h:16880](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16880) |
-| 10776 | Omastarite | オムスターナイト | `286f9c6ece9e3cf9`<br>[src/data/items.h:16898](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16898) |
-| 10777 | Poliwrathite | ニョロボンナイト | `5471b6563ea9d270`<br>[src/data/items.h:16916](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16916) |
-| 10778 | Shiftrite | ダーテングナイト | `84bb5b76cecb08d3`<br>[src/data/items.h:16934](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16934) |
-| 10779 | Snorlaxite | カビゴンナイト | `23b790c7fd398ae9`<br>[src/data/items.h:16952](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16952) |
-| 10780 | Torkoalite | コータスナイト | `a6a9b254908b4b84`<br>[src/data/items.h:16970](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16970) |
-| 10781 | Typhlosionite | バクフーンナイト | `1b114733b69eca0d`<br>[src/data/items.h:16988](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16988) |
-| 10782 | Whimsicottite | エルフーンナイト | `34816e07d513a809`<br>[src/data/items.h:17006](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L17006) |
+| 9540 | This move can be learned only<br> | この わざを おぼえられるのは<br> | `9f702a048300890e`<br>[data/text/move_tutors.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L2) |
+| 9541 | once. Is that okay? | いちどだけです。 よろしいですか？ | `17503f04d2950afe`<br>[data/text/move_tutors.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L3) |
+| 9542 | Heh! My POKéMON totally rules!<br> | へへっ! おれの ポケモンは さいこう!<br> | `bb49314801917216`<br>[data/text/move_tutors.inc:6](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L6) |
+| 9543 | It's cooler than any POKéMON!<br>［改ページ］<br> | どんな ポケモンよりも かっこいい!<br>［改ページ］<br> | `9908064518dfda90`<br>[data/text/move_tutors.inc:7](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L7) |
+| 9544 | I was lipping off with a swagger in<br> | そんなふうに いばって<br> | `d5010ae8c3d00a42`<br>[data/text/move_tutors.inc:8](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L8) |
+| 9545 | my step like that when the CHAIRMAN<br>［スクロール］<br> | えらそうに あるいていたら かいちょうに<br>［スクロール］<br> | `ab9b97d06cefe0c4`<br>[data/text/move_tutors.inc:9](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L9) |
+| 9546 | chewed me out.<br>［改ページ］<br> | こっぴどく しかられちゃってさ。<br>［改ページ］<br> | `e1ba25b9aa163f17`<br>[data/text/move_tutors.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L10) |
+| 9547 | That took the swagger out of my step.<br>［改ページ］<br> | おかげで いばる きも うせたよ。<br>［改ページ］<br> | `0985a2e7b47aaa8f`<br>[data/text/move_tutors.inc:11](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L11) |
+| 9548 | If you'd like, I'll teach the move<br> | よかったら きみの ポケモンに<br> | `030211178aed3526`<br>[data/text/move_tutors.inc:12](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L12) |
+| 9549 | SWAGGER to a POKéMON of yours. | いばるの わざを おしえてあげるよ。 | `b85e1642db1c2235`<br>[data/text/move_tutors.inc:13](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L13) |
+| 9550 | What, no? Can't you get into<br> | なんだ いやなのか？<br> | `d72dd49c8b3e51be`<br>[data/text/move_tutors.inc:16](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L16) |
+| 9551 | the spirit of things? | のりが わるいなあ。 | `20cee6a8d39cf946`<br>[data/text/move_tutors.inc:17](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L17) |
+| 9552 | All right, which POKéMON wants to<br> | よーし! どの ポケモンに<br> | `1aeec5d3c79e91bd`<br>[data/text/move_tutors.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L20) |
+| 9553 | learn how to SWAGGER? | いばるを おしえようか？ | `c85ba666b47f3f27`<br>[data/text/move_tutors.inc:21](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L21) |
+| 9554 | I'll just praise my POKéMON from now<br> | これからは いばらずに<br> | `ff1fe440a9fc92cc`<br>[data/text/move_tutors.inc:24](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L24) |
+| 9555 | on without the swagger. | じぶんの ポケモンを ほめるだけに するよ。 | `bc2ec30305b9f70f`<br>[data/text/move_tutors.inc:25](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L25) |
+| 9556 | Did you know that you can go from<br> | ここから あっちの ほうへ<br> | `63513f790de80ffb`<br>[data/text/move_tutors.inc:28](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L28) |
+| 9557 | here a long way in that direction<br>［スクロール］<br> | ほうこうを かえずに ずっと いけるって<br>［スクロール］<br> | `c4161bdd08e92dc0`<br>[data/text/move_tutors.inc:29](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L29) |
+| 9558 | without changing direction?<br>［改ページ］<br> | しってた？<br>［改ページ］<br> | `b5a44994cea68e23`<br>[data/text/move_tutors.inc:30](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L30) |
+| 9559 | I might even be able to roll<br> | そのまま ころがって<br> | `0f13d6782bfd0b42`<br>[data/text/move_tutors.inc:31](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L31) |
+| 9560 | that way.<br>［改ページ］<br> | いけちゃうかもね。<br>［改ページ］<br> | `4aca6b44d22a7964`<br>[data/text/move_tutors.inc:32](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L32) |
+| 9561 | Do you think your POKéMON will<br> | きみの ポケモンも<br> | `9f56ebd29e308269`<br>[data/text/move_tutors.inc:33](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L33) |
+| 9562 | want to roll, too?<br>［改ページ］<br> | ころがってみたいと おもうかな？<br>［改ページ］<br> | `ca8eee3af5437e90`<br>[data/text/move_tutors.inc:34](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L34) |
+| 9563 | I can teach one the move ROLLOUT<br> | よかったら ころがるっていう<br> | `4c3d779c6907ad89`<br>[data/text/move_tutors.inc:35](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L35) |
+| 9564 | if you'd like. | わざを おしえてあげるよ。 | `b4bb57e9b0d22f5d`<br>[data/text/move_tutors.inc:36](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L36) |
+| 9565 | You don't need to be shy about it.<br> | えんりょ しなくて いいのに。<br> | `e4496b50bd1db320`<br>[data/text/move_tutors.inc:39](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L39) |
+| 9566 | Let's roll! | さあ ころがろうよ! | `581e8af8773ad6f7`<br>[data/text/move_tutors.inc:40](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L40) |
+| 9567 | Ehehe, sure thing! It'd be great if<br> | えへへ いいよ! ポケモンも<br> | `8a53b393354bb239`<br>[data/text/move_tutors.inc:43](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L43) |
+| 9568 | the POKéMON looked like me. | わたしに にてたら うれしいな。 | `445071b6c274346f`<br>[data/text/move_tutors.inc:44](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L44) |
+| 9569 | Rolling around in the grass makes me<br> | くさの うえを ごろごろ ころがると<br> | `bfd2ad1d5095da4f`<br>[data/text/move_tutors.inc:47](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L47) |
+| 9570 | happy. Come on, let's roll! | しあわせなんだ。 さあ ころがろう! | `2fbfd63ba72a293e`<br>[data/text/move_tutors.inc:48](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L48) |
+| 9571 | There's a move that gets stronger<br> | つづけて つかうほど つよくなる<br> | `f41191d0ee853d4b`<br>[data/text/move_tutors.inc:51](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L51) |
+| 9572 | when you keep using it in a row.<br>［改ページ］<br> | わざが あるんだ。<br>［改ページ］<br> | `ba33f3a9bb964bf8`<br>[data/text/move_tutors.inc:52](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L52) |
+| 9573 | It's a BUG-type move, and it is<br> | むしタイプの わざで<br> | `ec4b9f3a51d6af2a`<br>[data/text/move_tutors.inc:53](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L53) |
+| 9574 | wickedly cool.<br>［改ページ］<br> | すっごく かっこいいんだよ。<br>［改ページ］<br> | `985df14b1017ce09`<br>[data/text/move_tutors.inc:54](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L54) |
+| 9575 | It's called FURY CUTTER.<br> | れんぞくぎりって いうんだ。<br> | `3382399be512cf07`<br>[data/text/move_tutors.inc:55](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L55) |
+| 9576 | Want me to teach it to a POKéMON? | ポケモンに おしえてあげようか？ | `b664ed810ee3d297`<br>[data/text/move_tutors.inc:56](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L56) |
+| 9577 | We're not on the same wavelength. | きみとは はなしが あわないね。 | `69c8038871b2f668`<br>[data/text/move_tutors.inc:59](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L59) |
+| 9578 | Yay!<br> | やったあ!<br> | `309c77537d73b590`<br>[data/text/move_tutors.inc:62](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L62) |
+| 9579 | Show me which POKéMON I should teach. | どの ポケモンに おしえるか みせて。 | `44919022c209cf0a`<br>[data/text/move_tutors.inc:63](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L63) |
+| 9580 | I get a thrill watching to see if<br> | つぎも つづけて あたるかなって<br> | `72af45cc2e2014b9`<br>[data/text/move_tutors.inc:66](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L66) |
+| 9581 | the move keeps hitting in succession! | みてると わくわくするんだ! | `fab62f2299db9148`<br>[data/text/move_tutors.inc:67](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L67) |
+| 9582 | Ah, young one!<br>［改ページ］<br> | おお わかいの!<br>［改ページ］<br> | `932808832c72b610`<br>[data/text/move_tutors.inc:70](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L70) |
+| 9583 | I am also a young one, but I mimic<br> | わしも わかいのじゃが この まちの<br> | `8cd6025057f3a75f`<br>[data/text/move_tutors.inc:71](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L71) |
+| 9584 | the styles and speech of the elderly<br>［スクロール］<br> | おとしよりの しぐさや しゃべりかたを<br>［スクロール］<br> | `f9943a9e7d3a3633`<br>[data/text/move_tutors.inc:72](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L72) |
+| 9585 | folks of this town.<br>［改ページ］<br> | ものまね しておるのじゃ。<br>［改ページ］<br> | `211f7f46e28ccaf5`<br>[data/text/move_tutors.inc:73](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L73) |
+| 9586 | What do you say, young one?<br> | どうじゃ わかいの？<br> | `ff849cfa5a574bce`<br>[data/text/move_tutors.inc:74](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L74) |
+| 9587 | Would you agree to it if I were to<br>［スクロール］<br> | ものまねの わざを おしえてやると<br>［スクロール］<br> | `4e2236daedf8b2a2`<br>[data/text/move_tutors.inc:75](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L75) |
+| 9588 | offer to teach the move MIMIC? | いったら うけてくれるかの？ | `126d1023055b144a`<br>[data/text/move_tutors.inc:76](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L76) |
+| 9589 | Oh, boo! I wanted to teach MIMIC<br> | えーっ! きみの ポケモンに<br> | `35d30b75adc8bdaf`<br>[data/text/move_tutors.inc:79](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L79) |
+| 9590 | to your POKéMON! | ものまねを おしえたかったのに! | `ba08f9414f5b7089`<br>[data/text/move_tutors.inc:80](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L80) |
+| 9591 | Fwofwo! And so I shall!<br> | ふぉふぉ! よかろう!<br> | `c131b2f3adbb55e7`<br>[data/text/move_tutors.inc:83](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L83) |
+| 9592 | Let me see the POKéMON<br>［スクロール］<br> | おしえて ほしい ポケモンを<br>［スクロール］<br> | `b8943e4943096fa2`<br>[data/text/move_tutors.inc:84](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L84) |
+| 9593 | you wish me to teach. | みせてみるのじゃ。 | `87a826dda6ae2858`<br>[data/text/move_tutors.inc:85](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L85) |
+| 9594 | MIMIC is a move of great depth.<br>［改ページ］<br> | ものまねは おくの ふかい わざじゃ。<br>［改ページ］<br> | `9e67b32199d8536d`<br>[data/text/move_tutors.inc:88](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L88) |
+| 9595 | Could you execute it to perfection<br> | わしのように かんぺきな ものまねが<br> | `03ddb7e035af8294`<br>[data/text/move_tutors.inc:89](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L89) |
+| 9596 | as well as me…? | できるかのう…？ | `d17fe71297528f2d`<br>[data/text/move_tutors.inc:90](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L90) |
+| 9597 | I want all sorts of things!<br> | ほしいものが いっぱい あるのに<br> | `d01baf5eae96ae4b`<br>[data/text/move_tutors.inc:93](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L93) |
+| 9598 | But I used up my allowance…<br>［改ページ］<br> | おこづかいを つかいきっちゃった…<br>［改ページ］<br> | `09791141f0d3a293`<br>[data/text/move_tutors.inc:94](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L94) |
+| 9599 | Wouldn't it be nice if there were<br> | ゆびを ふるだけで<br> | `73f8db356071e1ea`<br>[data/text/move_tutors.inc:95](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L95) |
+| 9600 | a spell that made money appear when<br>［スクロール］<br> | おかねが でてくる まほうが あれば<br>［スクロール］<br> | `29fecb9addea4b8d`<br>[data/text/move_tutors.inc:96](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L96) |
+| 9601 | you waggle a finger?<br>［改ページ］<br> | いいのになあ。<br>［改ページ］<br> | `0502ef58e98804a7`<br>[data/text/move_tutors.inc:97](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L97) |
+| 9602 | If you want, I can teach your POKéMON<br> | よかったら きみの ポケモンに<br> | `f4d092e73be1e5d3`<br>[data/text/move_tutors.inc:98](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L98) |
+| 9603 | the move METRONOME.<br>［改ページ］<br> | ゆびをふるの わざを おしえるよ。<br>［改ページ］<br> | `68ab9647bae957ef`<br>[data/text/move_tutors.inc:99](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L99) |
+| 9604 | Money won't appear, but your POKéMON<br> | おかねは でないけど ポケモンが<br> | `9ef3997084784dfe`<br>[data/text/move_tutors.inc:100](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L100) |
+| 9605 | will waggle a finger. Yes? | ゆびを ふるよ。 どう？ | `8a086c1ae68b6abe`<br>[data/text/move_tutors.inc:101](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L101) |
+| 9606 | Okay. I'll be here if you change<br> | わかった。 きが かわったら<br> | `64d75d29363ef7d9`<br>[data/text/move_tutors.inc:104](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L104) |
+| 9607 | your mind. | ここに いるからね。 | `c8c6a1bd1b166d52`<br>[data/text/move_tutors.inc:105](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L105) |
+| 9608 | Okay! I'll teach it!<br> | よーし! おしえるよ!<br> | `0617fe25488163b6`<br>[data/text/move_tutors.inc:108](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L108) |
+| 9609 | Which POKéMON should I teach? | どの ポケモンに おしえようか？ | `7dc93a4571c901a7`<br>[data/text/move_tutors.inc:109](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L109) |
+| 9610 | When a POKéMON waggles its finger<br> | ポケモンが ゆびをふるの わざで<br> | `44b8cca642f1c4a7`<br>[data/text/move_tutors.inc:112](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L112) |
+| 9611 | like a METRONOME, all sorts of nice<br>［スクロール］<br> | ゆびを ふると いろんないいことが<br>［スクロール］<br> | `f5fee0f3f518f44b`<br>[data/text/move_tutors.inc:113](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L113) |
+| 9612 | things happen.<br>［改ページ］<br> | おこるんだ。<br>［改ページ］<br> | `4e3729618713e619`<br>[data/text/move_tutors.inc:114](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L114) |
+| 9613 | Wouldn't it be nice if we could<br> | わたしたちも つかえたら<br> | `06cbd8259081bd57`<br>[data/text/move_tutors.inc:115](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L115) |
+| 9614 | use it, too? | いいのにね。 | `b1effccd9140b402`<br>[data/text/move_tutors.inc:116](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L116) |
+| 9615 | Humph! My wife relies on HIDDEN<br> | ふん! うちの かみさんは<br> | `1a942f4bbceefc74`<br>[data/text/move_tutors.inc:119](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L119) |
+| 9616 | POWER to stay awake.<br>［改ページ］<br> | めざめるパワーで おきておる。<br>［改ページ］<br> | `8a32de7332e372d2`<br>[data/text/move_tutors.inc:120](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L120) |
+| 9617 | She should just take a nap like I do,<br> | わしのように ひるねをして<br> | `dc32a7b51e5a462d`<br>[data/text/move_tutors.inc:121](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L121) |
+| 9618 | and SLEEP TALK.<br>［改ページ］<br> | ねごとでも いえば いいものを。<br>［改ページ］<br> | `a38ed2be485af54d`<br>[data/text/move_tutors.inc:122](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L122) |
+| 9619 | I can teach your POKéMON how to<br> | かわりに おまえさんの ポケモンに<br> | `80946dedd4cb97ad`<br>[data/text/move_tutors.inc:123](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L123) |
+| 9620 | SLEEP TALK instead. Interested? | ねごとを おしえてやろうか？ | `0d05b5dab40bb2ff`<br>[data/text/move_tutors.inc:124](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L124) |
+| 9621 | Oh, fine, fine. You want to stay awake<br> | ああ そうかい そうかい。 おまえさんも<br> | `f8e8bef9223319db`<br>[data/text/move_tutors.inc:127](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L127) |
+| 9622 | with HIDDEN POWER, too… | めざめるパワーで おきていたいのか… | `e7340df73c010434`<br>[data/text/move_tutors.inc:128](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L128) |
+| 9623 | Ah, an appreciative child!<br> | おお ありがたみが わかる こじゃ!<br> | `b84fb7d82449bc13`<br>[data/text/move_tutors.inc:131](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L131) |
+| 9624 | Which POKéMON should I teach? | どの ポケモンに おしえようかの？ | `47bc7fefc295b4df`<br>[data/text/move_tutors.inc:132](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L132) |
+| 9625 | I've never once gotten my wife's<br> | かみさんの コインあては<br> | `d35309b280e4408e`<br>[data/text/move_tutors.inc:135](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L135) |
+| 9626 | coin trick right.<br>［改ページ］<br> | いちども あたったことが なくてのう。<br>［改ページ］<br> | `4f9354624fca077a`<br>[data/text/move_tutors.inc:136](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L136) |
+| 9627 | I would be happy if I got it right<br> | ねごとを いってる ときでも<br> | `287f3b071f63a231`<br>[data/text/move_tutors.inc:137](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L137) |
+| 9628 | even as I SLEEP TALK… | あたってくれれば うれしいんじゃが… | `9aa6b52d3227fbe9`<br>[data/text/move_tutors.inc:138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L138) |
+| 9629 | When I see the wide world from up<br> | こうして やねの うえから<br> | `2173b8f32ab9bd65`<br>[data/text/move_tutors.inc:141](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L141) |
+| 9630 | here on the roof…<br>［改ページ］<br> | ひろい せかいを みているとね…<br>［改ページ］<br> | `f8a0ac92ba4c7bca`<br>[data/text/move_tutors.inc:142](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L142) |
+| 9631 | I think about how nice it would be<br> | わたしが ひとりだけじゃ なくて<br> | `e654b1e46a1a2491`<br>[data/text/move_tutors.inc:143](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L143) |
+| 9632 | if there were more than just one me<br>［スクロール］<br> | もっと たくさん いたら いろんな<br>［スクロール］<br> | `0256c9a1edb4cb75`<br>[data/text/move_tutors.inc:144](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L144) |
+| 9633 | so I could enjoy all sorts of lives.<br>［改ページ］<br> | じんせいを たのしめるのにって おもうの。<br>［改ページ］<br> | `b963734a71d377c9`<br>[data/text/move_tutors.inc:145](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L145) |
+| 9634 | Of course it's not possible.<br> | もちろん そんなことは できないけど。<br> | `1adb4e35c5da8d84`<br>[data/text/move_tutors.inc:146](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L146) |
+| 9635 | Giggle…<br>［改ページ］<br> | うふふ…<br>［改ページ］<br> | `08c19524f54473f3`<br>[data/text/move_tutors.inc:147](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L147) |
+| 9636 | I know! Would you be interested in<br> | そうだ! ポケモンに みがわりを<br> | `f301aafbc0ae7cf2`<br>[data/text/move_tutors.inc:148](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L148) |
+| 9637 | having a POKéMON learn SUBSTITUTE? | おぼえさせて みたくない？ | `0eb46928c6bd6e61`<br>[data/text/move_tutors.inc:149](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L149) |
+| 9638 | Oh, no?<br>［改ページ］<br> | あら そう？<br>［改ページ］<br> | `1ae7f87beabe7ca4`<br>[data/text/move_tutors.inc:152](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L152) |
+| 9639 | A POKéMON can make a copy of<br> | この わざで ポケモンは じぶんの<br> | `e796fb3aa268f31f`<br>[data/text/move_tutors.inc:153](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L153) |
+| 9640 | itself using it, you know. | ぶんしんを つくれるのよ。 | `483e17cddabe0f30`<br>[data/text/move_tutors.inc:154](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L154) |
+| 9641 | Giggle…<br> | うふふ…<br> | `c1383490b8b0ff1b`<br>[data/text/move_tutors.inc:157](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L157) |
+| 9642 | Which POKéMON do you want me to<br>［スクロール］<br> | どの ポケモンに みがわりを<br>［スクロール］<br> | `64728f4cae2c3fa4`<br>[data/text/move_tutors.inc:158](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L158) |
+| 9643 | teach SUBSTITUTE? | おしえて ほしいの？ | `8703c1daabeb1954`<br>[data/text/move_tutors.inc:159](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L159) |
+| 9644 | We human beings should enjoy our<br> | わたしたち にんげんは じぶんの<br> | `4005d7c0ae1008ed`<br>[data/text/move_tutors.inc:162](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L162) |
+| 9645 | own lives to the utmost!<br>［改ページ］<br> | じんせいを おもいきり たのしまなきゃ!<br>［改ページ］<br> | `e10cf9f3c36e2717`<br>[data/text/move_tutors.inc:163](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L163) |
+| 9646 | I hope you'll get that way, too! | あなたにも そうなって ほしいな! | `9a21240f54a2c517`<br>[data/text/move_tutors.inc:164](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L164) |
+| 9647 | I can't do this anymore!<br>［改ページ］<br> | もう やってられない!<br>［改ページ］<br> | `60d20827de7e0a99`<br>[data/text/move_tutors.inc:167](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L167) |
+| 9648 | It's utterly hopeless!<br>［改ページ］<br> | ぜんぜん だめだ!<br>［改ページ］<br> | `0a302e6b51af63f3`<br>[data/text/move_tutors.inc:168](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L168) |
+| 9649 | I'm a FIGHTING-type TRAINER,<br> | おれは かくとうタイプの トレーナー。<br> | `fe958b3d11087471`<br>[data/text/move_tutors.inc:169](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L169) |
+| 9650 | so I can't win at the MOSSDEEP GYM<br>［スクロール］<br> | だから トクサネジムじゃ いくら がんばっても<br>［スクロール］<br> | `d4320220439386f6`<br>[data/text/move_tutors.inc:170](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L170) |
+| 9651 | no matter how hard I try!<br>［改ページ］<br> | かてないんだ!<br>［改ページ］<br> | `b5a9bba3e2480b3e`<br>[data/text/move_tutors.inc:171](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L171) |
+| 9652 | Argh! Punch! Punch! Punch!<br> | うおお! パンチ! パンチ! パンチ!<br> | `11e354a21be30cf8`<br>[data/text/move_tutors.inc:172](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L172) |
+| 9653 | Punch! Punch! Punch!<br>［改ページ］<br> | パンチ! パンチ! パンチ!<br>［改ページ］<br> | `265b64eb7ff8b083`<br>[data/text/move_tutors.inc:173](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L173) |
+| 9654 | What, don't look at me that way!<br> | なんだよ そんな めで みるなよ!<br> | `429a6589bb67597a`<br>[data/text/move_tutors.inc:174](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L174) |
+| 9655 | I'm only hitting the ground!<br>［改ページ］<br> | じめんを なぐってるだけだ!<br>［改ページ］<br> | `e13cb628377db9a6`<br>[data/text/move_tutors.inc:175](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L175) |
+| 9656 | Or do you want me to teach your<br> | それとも きみの ポケモンに<br> | `59879b4fa8d5a256`<br>[data/text/move_tutors.inc:176](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L176) |
+| 9657 | POKéMON DYNAMICPUNCH? | ばくれつパンチを おしえてほしいのか？ | `9e49eb9dd8d58b06`<br>[data/text/move_tutors.inc:177](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L177) |
+| 9658 | Darn! You're even making fun of me?<br> | ちくしょう! きみまで ばかにするのか？<br> | `57fa2c7e77bbb3ec`<br>[data/text/move_tutors.inc:180](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L180) |
+| 9659 | Punch! Punch! Punch! | パンチ! パンチ! パンチ! | `737705a26a943715`<br>[data/text/move_tutors.inc:181](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L181) |
+| 9660 | What? You do? You're a good person!<br> | え？ そうなのか？ いいひとだな!<br> | `459d71657705f80d`<br>[data/text/move_tutors.inc:184](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L184) |
+| 9661 | Which POKéMON should I teach? | どの ポケモンに おしえようか？ | `1a0dcd76527c1932`<br>[data/text/move_tutors.inc:185](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L185) |
+| 9662 | I want you to win at the MOSSDEEP GYM<br> | その ばくれつパンチで<br> | `4043c094e318532a`<br>[data/text/move_tutors.inc:188](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L188) |
+| 9663 | using that DYNAMICPUNCH! | トクサネジムに かってくれよ! | `94b97dc2fe0fc6d0`<br>[data/text/move_tutors.inc:189](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L189) |
+| 9664 | Sigh…<br>［改ページ］<br> | はあ…<br>［改ページ］<br> | `2040a32440a9b287`<br>[data/text/move_tutors.inc:192](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L192) |
+| 9665 | SOOTOPOLIS's GYM LEADER is really<br> | ルネの ジムリーダーって<br> | `438e558713fd78f4`<br>[data/text/move_tutors.inc:193](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L193) |
+| 9666 | lovably admirable.<br>［改ページ］<br> | ほんとに すてきで あこがれちゃう。<br>［改ページ］<br> | `b7fee4bc1ac3fc0c`<br>[data/text/move_tutors.inc:194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L194) |
+| 9667 | But that also means I have many<br> | でも そのぶん こいの ライバルも<br> | `1ce4c26f3ea522de`<br>[data/text/move_tutors.inc:195](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L195) |
+| 9668 | rivals for his attention.<br>［改ページ］<br> | たくさん いるのよね。<br>［改ページ］<br> | `737b7040b7ea3a69`<br>[data/text/move_tutors.inc:196](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L196) |
+| 9669 | He's got appeal with a DOUBLE-EDGE.<br> | その みりょくも もろはの つるぎ。<br> | `af31ebedd8efaa64`<br>[data/text/move_tutors.inc:197](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L197) |
+| 9670 | I couldn't even catch his eye.<br>［改ページ］<br> | こっちを みても もらえなかったわ。<br>［改ページ］<br> | `9c9ce95558c38c78`<br>[data/text/move_tutors.inc:198](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L198) |
+| 9671 | Please, let me teach your POKéMON<br> | おねがい! あなたの ポケモンに<br> | `fcaab71c00275bf4`<br>[data/text/move_tutors.inc:199](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L199) |
+| 9672 | the move DOUBLE-EDGE! | すてみタックルを おしえさせて! | `daad16fc25fc6157`<br>[data/text/move_tutors.inc:200](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L200) |
+| 9673 | Oh…<br> | ああ…<br> | `e4bdc94ae264baa9`<br>[data/text/move_tutors.inc:203](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L203) |
+| 9674 | Even you rejected me… | あなたにも ふられちゃった… | `bca6db8c1a01785c`<br>[data/text/move_tutors.inc:204](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L204) |
+| 9675 | Okay, which POKéMON should I teach<br> | それじゃ どの ポケモンに<br> | `b68cad3f55b28b64`<br>[data/text/move_tutors.inc:207](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L207) |
+| 9676 | DOUBLE-EDGE? | すてみタックルを おしえるの？ | `2af7ed5f5efc6aa7`<br>[data/text/move_tutors.inc:208](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L208) |
+| 9677 | I won't live for love anymore!<br> | もう こいに いきるのは やめるわ!<br> | `574b84cf4e74b790`<br>[data/text/move_tutors.inc:211](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L211) |
+| 9678 | I'll become tough! | つよく なるんだから! | `f34ad591deb53b4f`<br>[data/text/move_tutors.inc:212](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L212) |
+| 9679 | I don't intend to be going nowhere<br> | こんな いなかで ずっと<br> | `e89bc85a14ef12cc`<br>[data/text/move_tutors.inc:215](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L215) |
+| 9680 | fast in the sticks like this forever.<br>［改ページ］<br> | くすぶってる つもりは ないんだ。<br>［改ページ］<br> | `6a080d5373621af0`<br>[data/text/move_tutors.inc:216](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L216) |
+| 9681 | You watch me, I'll get out to the city<br> | みてろよ! とかいに でて<br> | `baf5c118810b92a0`<br>[data/text/move_tutors.inc:217](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L217) |
+| 9682 | and become a huge hit.<br>［改ページ］<br> | おおあたり してやるんだ。<br>［改ページ］<br> | `6867c5cd3b600f92`<br>[data/text/move_tutors.inc:218](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L218) |
+| 9683 | Seriously, I'm going to cause<br> | ほんとだぞ! にんきを<br> | `9cbc0e0a9a31f8ff`<br>[data/text/move_tutors.inc:219](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L219) |
+| 9684 | a huge EXPLOSION of popularity!<br>［改ページ］<br> | だいばくはつ させるんだ!<br>［改ページ］<br> | `8576dadd8a90c874`<br>[data/text/move_tutors.inc:220](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L220) |
+| 9685 | If you overheard that, I'll happily<br> | きいちゃったなら よろこんで<br> | `5ff1800b52c7b569`<br>[data/text/move_tutors.inc:221](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L221) |
+| 9686 | teach EXPLOSION to your POKéMON! | きみの ポケモンに だいばくはつを おしえるよ! | `02e665734a488e26`<br>[data/text/move_tutors.inc:222](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L222) |
+| 9687 | Gaah! You're turning me down because<br> | うがあ! いなかぐらしだからって<br> | `b1b9bf3b8f0b45c4`<br>[data/text/move_tutors.inc:225](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L225) |
+| 9688 | I live in the country? | ことわるのか？ | `e40e592f449d2513`<br>[data/text/move_tutors.inc:226](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L226) |
+| 9689 | Fine! An EXPLOSION it is!<br> | よし! だいばくはつだ!<br> | `4c50fe25a2f99c80`<br>[data/text/move_tutors.inc:229](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L229) |
+| 9690 | Which POKéMON wants to blow up? | どの ポケモンが ばくはつしたいんだ？ | `f81a37cea3745983`<br>[data/text/move_tutors.inc:230](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L230) |
+| 9691 | For a long time, I've taught POKéMON<br> | ずっと ポケモンに<br> | `dcb9b22496e75dd9`<br>[data/text/move_tutors.inc:233](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L233) |
+| 9692 | how to use EXPLOSION, but I've yet<br>［スクロール］<br> | だいばくはつを おしえてきたのに<br>［スクロール］<br> | `990887873d93a218`<br>[data/text/move_tutors.inc:234](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L234) |
+| 9693 | to ignite my own EXPLOSION…<br>［改ページ］<br> | じぶんは まだ だいばくはつ できない…<br>［改ページ］<br> | `4736617293057f0e`<br>[data/text/move_tutors.inc:235](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L235) |
+| 9694 | Maybe it's because deep down,<br> | ほんとうは ここに<br> | `6d60f86eff21eb38`<br>[data/text/move_tutors.inc:236](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L236) |
+| 9695 | I would rather stay here… | いたいから なのかな… | `f43d75bc37c610a6`<br>[data/text/move_tutors.inc:237](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/move_tutors.inc#L237) |
+| 9696 | Obtained the {STR_VAR_2}! | {STR_VAR_2}を てにいれた！ | `9bd98143c81af028`<br>[data/text/obtain_item.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L2) |
+| 9697 | The BAG is full… | バッグが いっぱいだ… | `3f89b586158b6e05`<br>[data/text/obtain_item.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L5) |
+| 9698 | {PLAYER} put away the {STR_VAR_2}<br> | {PLAYER}は {STR_VAR_2}を<br> | `d238bcbd5c1d0b93`<br>[data/text/obtain_item.inc:8](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L8) |
+| 9699 | in the {STR_VAR_3} POCKET. | {STR_VAR_3}ポケットに しまった。 | `aca73c0f321681f9`<br>[data/text/obtain_item.inc:9](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L9) |
+| 9700 | {PLAYER} found one {STR_VAR_2}! | {PLAYER}は {STR_VAR_2}を みつけた！ | `5406b64eeb9e78b1`<br>[data/text/obtain_item.inc:12](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L12) |
+| 9701 | Too bad!<br> | ざんねん！<br> | `433674318b2a65cf`<br>[data/text/obtain_item.inc:15](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L15) |
+| 9702 | The BAG is full… | バッグが いっぱいだ… | `63ebd5664fc30a5b`<br>[data/text/obtain_item.inc:16](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L16) |
+| 9703 | {PLAYER} put away the {STR_VAR_2}<br> | {PLAYER}は {STR_VAR_2}を<br> | `859d6a83debca04e`<br>[data/text/obtain_item.inc:19](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L19) |
+| 9704 | in the BAG. | バッグに しまった。 | `56b9493daf4898a3`<br>[data/text/obtain_item.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L20) |
+| 9705 | Obtained the {STR_VAR_2}! | {STR_VAR_2}を てにいれた！ | `060d8eecaf716abc`<br>[data/text/obtain_item.inc:23](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L23) |
+| 9706 | Too bad! There's no room left for<br> | ざんねん！ これいじょう<br> | `4917d2774aa908bf`<br>[data/text/obtain_item.inc:26](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L26) |
+| 9707 | another {STR_VAR_2}… | {STR_VAR_2}を おく ばしょが ない… | `9add72a541b205a6`<br>[data/text/obtain_item.inc:27](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L27) |
+| 9708 | The {STR_VAR_2} was transferred<br> | {STR_VAR_2}は<br> | `de08b6970dedc28d`<br>[data/text/obtain_item.inc:30](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L30) |
+| 9709 | to the PC. | パソコンに おくられた。 | `ac0736e036ae1394`<br>[data/text/obtain_item.inc:31](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L31) |
+| 9710 | Obtained {STR_VAR_1} {STR_VAR_2}! | {STR_VAR_2}を {STR_VAR_1}こ てにいれた！ | `c80d695dd44c75ce`<br>[data/text/obtain_item.inc:34](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L34) |
+| 9711 | {PLAYER} found {STR_VAR_1} {STR_VAR_2}! | {PLAYER}は<br>{STR_VAR_2}を {STR_VAR_1}こ みつけた！ | `3efdfa4c5c74ab58`<br>[data/text/obtain_item.inc:37](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L37) |
+| 9712 | {PLAYER} put the COINS away in<br> | {PLAYER}は コインを<br> | `285473ca4fa34308`<br>[data/text/obtain_item.inc:40](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L40) |
+| 9713 | the COIN CASE. | コインケースに しまった。 | `c419b20004971f71`<br>[data/text/obtain_item.inc:41](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L41) |
+| 9714 | {PLAYER} found<br> | {PLAYER}は<br> | `5c91bfd813c4ea18`<br>[data/text/obtain_item.inc:44](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L44) |
+| 9715 | {STR_VAR_1} {STR_VAR_2}! | {STR_VAR_2}を {STR_VAR_1}まい みつけた！ | `d1806d490435b07e`<br>[data/text/obtain_item.inc:45](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L45) |
+| 9716 | {PLAYER} found<br> | {PLAYER}は<br> | `2f9d08149fc5fade`<br>[data/text/obtain_item.inc:48](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L48) |
+| 9717 | {STR_VAR_1} {STR_VAR_2}(s)! | {STR_VAR_2}を {STR_VAR_1}こ みつけた！ | `f9367ec4b1f826ec`<br>[data/text/obtain_item.inc:49](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L49) |
+| 9718 | Too bad!<br> | ざんねん！<br> | `729e75c4eab469d9`<br>[data/text/obtain_item.inc:52](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L52) |
+| 9719 | The COIN CASE is full… | コインケースが いっぱいだ… | `eecdf4f9d9d869fd`<br>[data/text/obtain_item.inc:53](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L53) |
+| 9720 | Too bad!<br> | ざんねん！<br> | `8573fb0917784b03`<br>[data/text/obtain_item.inc:56](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L56) |
+| 9721 | There's nothing to put them in… | いれる ものが ない… | `cf912822ac47762d`<br>[data/text/obtain_item.inc:57](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/obtain_item.inc#L57) |
+| 9722 | {PLAYER} booted up the PC. | {PLAYER}は パソコンの スイッチを いれた！ | `2eec59dba98af7fc`<br>[data/text/pc.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L2) |
+| 9723 | Which PC should be accessed? | どの パソコンに アクセスしますか？ | `288d2a5063b0997a`<br>[data/text/pc.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L5) |
+| 9724 | Accessed SOMEONE'S PC. | だれかさんの パソコンに アクセスした。 | `a2aa5a55162dc0bf`<br>[data/text/pc.inc:8](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L8) |
+| 9725 | POKéMON Storage System opened. | ポケモン あずかりシステムを よびだした。 | `e13be8f73c3a8114`<br>[data/text/pc.inc:11](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L11) |
+| 9726 | Accessed {PLAYER}'s PC. | {PLAYER}の パソコンに アクセスした。 | `c5b8d50f418eb615`<br>[data/text/pc.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L14) |
+| 9727 | Accessed LANETTE's PC. | マユミの パソコンに アクセスした。 | `032181437cdd1074`<br>[data/text/pc.inc:17](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L17) |
+| 9728 | Accessed BILL's PC. | マサキの パソコンに アクセスした。 | `90838eac1bbcc6e3`<br>[data/text/pc.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc.inc#L20) |
+| 9729 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は<br> | `6183fe11b63636df`<br>[data/text/pc_transfer.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L2) |
+| 9730 | SOMEONE'S PC.<br>［改ページ］<br> | だれかさんの パソコンに てんそうされた！<br>［改ページ］<br> | `0ad87b93e281d150`<br>[data/text/pc_transfer.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L3) |
+| 9731 | It was placed in <br> | ボックス<br> | `13b86e473fcde8ce`<br>[data/text/pc_transfer.inc:4](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L4) |
+| 9732 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に あずけられた。 | `68e6b9cf1c4742de`<br>[data/text/pc_transfer.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L5) |
+| 9733 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は<br> | `73cd0961d8388189`<br>[data/text/pc_transfer.inc:8](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L8) |
+| 9734 | BILL'S PC.<br>［改ページ］<br> | マサキの パソコンに てんそうされた！<br>［改ページ］<br> | `745f4cf2cd054ab9`<br>[data/text/pc_transfer.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L10) |
+| 9735 | LANETTE'S PC.<br>［改ページ］<br> | マユミの パソコンに てんそうされた！<br>［改ページ］<br> | `957b2f6869271d43`<br>[data/text/pc_transfer.inc:12](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L12) |
+| 9736 | It was placed in <br> | ボックス<br> | `2fa1d40538575004`<br>[data/text/pc_transfer.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L14) |
+| 9737 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に あずけられた。 | `91dd26b5a7e410e0`<br>[data/text/pc_transfer.inc:15](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L15) |
+| 9738 | BOX “{STR_VAR_3}” on<br> | ボックス「{STR_VAR_3}」は<br> | `c92c9809bf4580a3`<br>[data/text/pc_transfer.inc:18](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L18) |
+| 9739 | SOMEONE'S PC was full.<br>［改ページ］<br> | だれかさんの パソコンで いっぱいに なっていた。<br>［改ページ］<br> | `b664b74747411431`<br>[data/text/pc_transfer.inc:19](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L19) |
+| 9740 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は ボックス<br> | `ef2b5067f8b06ed9`<br>[data/text/pc_transfer.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L20) |
+| 9741 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に てんそうされた！ | `685b0a3a77329c24`<br>[data/text/pc_transfer.inc:21](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L21) |
+| 9742 | BOX “{STR_VAR_3}” on<br> | ボックス「{STR_VAR_3}」は<br> | `d972a149f4532858`<br>[data/text/pc_transfer.inc:24](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L24) |
+| 9743 | BILL'S PC was full.<br>［改ページ］<br> | マサキの パソコンで いっぱいに なっていた。<br>［改ページ］<br> | `28f734b5686610e0`<br>[data/text/pc_transfer.inc:26](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L26) |
+| 9744 | LANETTE'S PC was full.<br>［改ページ］<br> | マユミの パソコンで いっぱいに なっていた。<br>［改ページ］<br> | `de496639c5e918b7`<br>[data/text/pc_transfer.inc:28](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L28) |
+| 9745 | {STR_VAR_2} was transferred to<br> | {STR_VAR_2}は ボックス<br> | `5fee9071ac19cf4f`<br>[data/text/pc_transfer.inc:30](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L30) |
+| 9746 | BOX “{STR_VAR_1}.” | 「{STR_VAR_1}」に てんそうされた！ | `d801c88a7a82a5d2`<br>[data/text/pc_transfer.inc:31](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L31) |
+| 9747 | {STR_VAR_2} was sent to<br> | {STR_VAR_2}は<br> | `8e6a0e6c81ecfdd9`<br>[data/text/pc_transfer.inc:34](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L34) |
+| 9748 | {B_PC_CREATOR_NAME} PC.<br>［改ページ］<br> | {B_PC_CREATOR_NAME}の パソコンに てんそうされた！<br>［改ページ］<br> | `6b747d3b444192f0`<br>[data/text/pc_transfer.inc:35](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L35) |
+| 9749 | It was placed in <br> | ボックス<br> | `9132f651c9da61f6`<br>[data/text/pc_transfer.inc:36](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L36) |
+| 9750 | BOX “{STR_VAR_1}”. | 「{STR_VAR_1}」に あずけられた。 | `d87b2d2d88f42708`<br>[data/text/pc_transfer.inc:37](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L37) |
+| 9751 | {PLAYER} obtained<br> | {PLAYER}は<br> | `34762034387eb788`<br>[data/text/pc_transfer.inc:40](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L40) |
+| 9752 | the {STR_VAR_1}! | {STR_VAR_1}を てにいれた！ | `511778c3a3eca991`<br>[data/text/pc_transfer.inc:41](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L41) |
+| 9753 | There's no more room for POKéMON!<br>［改ページ］<br> | もう ポケモンを あずけられない！<br>［改ページ］<br> | `1df394ba3f170707`<br>[data/text/pc_transfer.inc:44](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L44) |
+| 9754 | The POKéMON BOXES are full and<br> | ポケモンボックスが ぜんぶ いっぱいで<br> | `f0bf9615899caea5`<br>[data/text/pc_transfer.inc:45](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L45) |
+| 9755 | can't accept any more! | これいじょう あずけられない！ | `9e9df27ba9e40218`<br>[data/text/pc_transfer.inc:46](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L46) |
+| 9756 | Do you want to give a nickname to<br> | さっそく<br> | `4cbd679a87fad153`<br>[data/text/pc_transfer.inc:49](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L49) |
+| 9757 | this {STR_VAR_1}? | {STR_VAR_1}に ニックネームを つけますか？ | `898fa07620962cc9`<br>[data/text/pc_transfer.inc:50](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pc_transfer.inc#L50) |
+| 9758 | Hello, and welcome to<br> | ようこそ！<br> | `16bdf580f9d1734a`<br>[data/text/pkmn_center_nurse.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L2) |
+| 9759 | the POKéMON CENTER.<br>［改ページ］<br> | ポケモンセンターへ<br>［改ページ］<br> | `6324cdfee9b005a3`<br>[data/text/pkmn_center_nurse.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L3) |
+| 9760 | We restore your tired POKéMON<br> | ここでは ポケモンの たいりょくを<br> | `577a37d32d8ca062`<br>[data/text/pkmn_center_nurse.inc:4](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L4) |
+| 9761 | to full health.<br>［改ページ］<br> | かいふく いたします<br>［改ページ］<br> | `cb473fe7bfbcd5ed`<br>[data/text/pkmn_center_nurse.inc:5](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L5) |
+| 9762 | Would you like to rest your POKéMON? | あなたの ポケモンを やすませて あげますか？ | `b8390e7e1c023b4e`<br>[data/text/pkmn_center_nurse.inc:6](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L6) |
+| 9763 | Okay, I'll take your POKéMON<br> | では ポケモンを<br> | `e43e7b6d117fee29`<br>[data/text/pkmn_center_nurse.inc:9](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L9) |
+| 9764 | for a few seconds. | おあずかり します！ | `d86816539652a950`<br>[data/text/pkmn_center_nurse.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L10) |
+| 9765 | Thank you for waiting.<br>［改ページ］<br> | おまちどうさまでした！<br>［改ページ］<br> | `5f0a648b4a352a78`<br>[data/text/pkmn_center_nurse.inc:13](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L13) |
+| 9766 | We've restored your POKéMON<br> | おあずかりした ポケモンは<br> | `67773a935437be40`<br>[data/text/pkmn_center_nurse.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L14) |
+| 9767 | to full health. | みんな げんきに なりましたよ！ | `c69ad2e114640140`<br>[data/text/pkmn_center_nurse.inc:15](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L15) |
+| 9768 | We hope to see you again! | また どうぞ！ | `4b7335f1fa8f6ef2`<br>[data/text/pkmn_center_nurse.inc:18](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L18) |
+| 9769 | Hello, and welcome to<br> | ようこそ！<br> | `5fc6b9a6e235e8c3`<br>[data/text/pkmn_center_nurse.inc:21](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L21) |
+| 9770 | the POKéMON CENTER.<br>［改ページ］<br> | ポケモンセンターへ<br>［改ページ］<br> | `581559e6ef8b84e3`<br>[data/text/pkmn_center_nurse.inc:22](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L22) |
+| 9771 | We restore your tired POKéMON<br> | ここでは ポケモンの たいりょくを<br> | `72d80aeb81789411`<br>[data/text/pkmn_center_nurse.inc:23](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L23) |
+| 9772 | to full health.<br>［改ページ］<br> | かいふく いたします<br>［改ページ］<br> | `c5bb07daea4b3723`<br>[data/text/pkmn_center_nurse.inc:24](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L24) |
+| 9773 | Would you like to… | あなたの ポケモンを… | `4ef1107ce015ca02`<br>[data/text/pkmn_center_nurse.inc:25](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L25) |
+| 9774 | Th-that card…<br> | そ そのカードは…<br> | `572d9bc077d2c023`<br>[data/text/pkmn_center_nurse.inc:28](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L28) |
+| 9775 | Could it be… The GOLD CARD?!<br>［改ページ］<br> | もしかして ゴールドカード！？<br>［改ページ］<br> | `cdfdd541765302ff`<br>[data/text/pkmn_center_nurse.inc:29](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L29) |
+| 9776 | Oh, the gold color is brilliant!<br> | まあ！ なんて すてきな きんいろ！<br> | `4f15eabe33a635eb`<br>[data/text/pkmn_center_nurse.inc:30](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L30) |
+| 9777 | The four stars seem to sparkle!<br>［改ページ］<br> | 4つの ほしが かがやいて いますね！<br>［改ページ］<br> | `c70bcb7e21358789`<br>[data/text/pkmn_center_nurse.inc:31](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L31) |
+| 9778 | I've seen several TRAINERS with<br> | シルバーカードを もった トレーナーさんは<br> | `4bfff4fbca3857b6`<br>[data/text/pkmn_center_nurse.inc:32](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L32) |
+| 9779 | a SILVER CARD before, but, {PLAYER},<br>［スクロール］<br> | なんにんか みましたけど {PLAYER}さんが<br>［スクロール］<br> | `d320541232c792b1`<br>[data/text/pkmn_center_nurse.inc:33](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L33) |
+| 9780 | you're the first TRAINER I've ever<br>［スクロール］<br> | ゴールドカードを もった<br>［スクロール］<br> | `04831278d815bf1b`<br>[data/text/pkmn_center_nurse.inc:34](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L34) |
+| 9781 | seen with a GOLD CARD!<br>［改ページ］<br> | はじめての トレーナーさんです！<br>［改ページ］<br> | `abe815c37e26b025`<br>[data/text/pkmn_center_nurse.inc:35](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L35) |
+| 9782 | Okay, {PLAYER}, please allow me<br> | {PLAYER}さん ぜひ わたしに<br> | `3b51c2a5590ad716`<br>[data/text/pkmn_center_nurse.inc:36](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L36) |
+| 9783 | the honor of resting your POKéMON! | ポケモンを やすませ させてください！ | `d3184a30357ebd67`<br>[data/text/pkmn_center_nurse.inc:37](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L37) |
+| 9784 | I'm delighted to see you, {PLAYER}!<br> | {PLAYER}さん ようこそ！<br> | `a1d300f54b0111f9`<br>[data/text/pkmn_center_nurse.inc:40](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L40) |
+| 9785 | You want the usual, am I right? | いつもの ですね？ | `9f3447ddaffff488`<br>[data/text/pkmn_center_nurse.inc:41](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L41) |
+| 9786 | Okay, I'll take your POKéMON<br> | では ポケモンを<br> | `586879794d7a692c`<br>[data/text/pkmn_center_nurse.inc:44](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L44) |
+| 9787 | for a few seconds. | おあずかり します！ | `1b1ad78b9ad3de9c`<br>[data/text/pkmn_center_nurse.inc:45](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L45) |
+| 9788 | Thank you for waiting. | おまちどうさまでした！ | `e0c8d86443dc343b`<br>[data/text/pkmn_center_nurse.inc:48](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L48) |
+| 9789 | We hope to see you again! | また どうぞ！ | `93c9a98b609615a6`<br>[data/text/pkmn_center_nurse.inc:51](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/pkmn_center_nurse.inc#L51) |
+| 9790 | Would you like to save the game? | ここまでのぼうけんを<br>レポートにかきこみますか？ | `694e974b19816979`<br>[data/text/save.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L3) |
+| 9791 | There is already a saved file.<br> | すでにレポートがかかれています。<br> | `d338f4277c697d6e`<br>[data/text/save.inc:6](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L6) |
+| 9792 | Is it okay to overwrite it? | うえからかきかえてもいいですか？ | `b04e8ffeb720919f`<br>[data/text/save.inc:7](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L7) |
+| 9793 | SAVING…<br> | レポートをかいています…<br> | `d55fc5faabcc3c50`<br>[data/text/save.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L10) |
+| 9794 | DON'T TURN OFF THE POWER. | でんげんをきらないでください。 | `14f83edd2320a1ed`<br>[data/text/save.inc:11](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L11) |
+| 9795 | {PLAYER} saved the game. | {PLAYER}は<br>レポートにしっかりかきのこした！ | `449e79605be633d0`<br>[data/text/save.inc:14](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L14) |
+| 9796 | WARNING!<br>［改ページ］<br> | ちゅうい！<br>［改ページ］<br> | `d633108846201208`<br>[data/text/save.inc:17](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L17) |
+| 9797 | There is a different game file that<br> | すでにべつのぼうけんのレポートが<br> | `327c1f84be4d6d78`<br>[data/text/save.inc:18](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L18) |
+| 9798 | is already saved.<br>［改ページ］<br> | かきこまれています。<br>［改ページ］<br> | `ee001646bbccdd86`<br>[data/text/save.inc:19](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L19) |
+| 9799 | If you save now, the other file's<br> | いまレポートをかくと まえのぼうけんの<br> | `f1e7866c1e6fcc4a`<br>[data/text/save.inc:20](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L20) |
+| 9800 | adventure, including items and<br>［スクロール］<br> | きろくは どうぐやポケモンもふくめて<br>［スクロール］<br> | `041ee7378fdd7f8a`<br>[data/text/save.inc:21](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L21) |
+| 9801 | POKéMON, will be entirely lost.<br>［改ページ］<br> | すべてきえてしまいます。<br>［改ページ］<br> | `7597f43092d71b85`<br>[data/text/save.inc:22](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L22) |
+| 9802 | Are you sure you want to save now<br> | それでも まえのレポートをけして<br> | `d8342085f2a5da5e`<br>[data/text/save.inc:23](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L23) |
+| 9803 | and overwrite the other save file? | うえからかきかえてもいいですか？ | `f068f86c5d5e300d`<br>[data/text/save.inc:24](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L24) |
+| 9804 | Save error.<br>［改ページ］<br> | レポートのかきこみにしっぱいしました。<br>［改ページ］<br> | `9bf168a9612ba26f`<br>[data/text/save.inc:27](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L27) |
+| 9805 | Please exchange the<br> | バックアップメモリを<br> | `25b25d75e0342b69`<br>[data/text/save.inc:28](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L28) |
+| 9806 | backup memory. | こうかんしてください。 | `cf3efa2fba568796`<br>[data/text/save.inc:29](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L29) |
+| 9807 | SAVING…<br> | レポートをかいています…<br> | `7a305b81d06d4ce0`<br>[data/text/save.inc:32](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L32) |
+| 9808 | DON'T TURN OFF THE POWER. | でんげんをきらないでください。 | `3f92600a1d9455cc`<br>[data/text/save.inc:33](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/save.inc#L33) |
+| 9809 | The water is dyed a deep blue…<br> | みずが あおあおと している…<br> | `fdcba2d7751ee2e7`<br>[data/text/surf.inc:2](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L2) |
+| 9810 | Would you like to SURF? | なみのりを つかいますか？ | `7f7bc2f4161b25cc`<br>[data/text/surf.inc:3](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L3) |
+| 9811 | {STR_VAR_1} used SURF! | {STR_VAR_1}は なみのりを つかった！ | `77299ce1af71a83a`<br>[data/text/surf.inc:6](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L6) |
+| 9812 | The current is much too fast!<br> | ながれが はやすぎる！<br> | `7fd58fa982f19c24`<br>[data/text/surf.inc:9](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L9) |
+| 9813 | SURF can't be used here… | ここでは なみのりは つかえない… | `bfe3e58cc88187ee`<br>[data/text/surf.inc:10](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/data/text/surf.inc#L10) |
+| 9814 | Strange Ball | ストレンジボール | `783e2224dca3ea13`<br>[src/data/items.h:181](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L181) |
+| 9815 | Poké Ball | モンスターボール | `54ef5963c863185d`<br>[src/data/items.h:197](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L197) |
+| 9816 | Great Ball | スーパーボール | `d6bb364e87760163`<br>[src/data/items.h:213](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L213) |
+| 9817 | Ultra Ball | ハイパーボール | `f217e92a1f250167`<br>[src/data/items.h:229](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L229) |
+| 9818 | Master Ball | マスターボール | `e04e248714707091`<br>[src/data/items.h:245](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L245) |
+| 9819 | AM Intimidate | とくせいマシン・いかく | `fc1e36b442d0bd72`<br>[src/data/items.h:262](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L262) |
+| 9820 | AM Guts | とくせいマシン・こんじょう | `96fd87b044cb8008`<br>[src/data/items.h:278](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L278) |
+| 9821 | AM Technician | とくせいマシン・テクニシャン | `e6632dd57e2950f0`<br>[src/data/items.h:294](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L294) |
+| 9822 | AM Moxie | とくせいマシン・じしんかじょう | `6786b400d8cbac5a`<br>[src/data/items.h:310](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L310) |
+| 9823 | AM Adaptability | とくせいマシン・てきおうりょく | `139bbfed2728f8e1`<br>[src/data/items.h:326](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L326) |
+| 9824 | AM Sheer Force | とくせいマシン・ちからずく | `a14c89b79ae0f074`<br>[src/data/items.h:342](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L342) |
+| 9825 | AM Tough Claws | とくせいマシン・かたいツメ | `df2d5a9d49b3a46d`<br>[src/data/items.h:358](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L358) |
+| 9826 | AM Iron Fist | とくせいマシン・てつのこぶし | `5af896883eb4b9c2`<br>[src/data/items.h:374](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L374) |
+| 9827 | AM Tinted Lens | とくせいマシン・いろめがね | `ce2e5a42231567b7`<br>[src/data/items.h:389](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L389) |
+| 9828 | AM Skill Link | とくせいマシン・スキルリンク | `f93842cecda4ac21`<br>[src/data/items.h:405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L405) |
+| 9829 | AM Thick Fat | とくせいマシン・あついしぼう | `2481ac45f8930f0a`<br>[src/data/items.h:421](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L421) |
+| 9830 | AM Sturdy | とくせいマシン・がんじょう | `8ddebe0d9889e7d3`<br>[src/data/items.h:437](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L437) |
+| 9831 | AM Levitate | とくせいマシン・ふゆう | `c8b064277ac3ce0e`<br>[src/data/items.h:453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L453) |
+| 9832 | AM Unaware | とくせいマシン・てんねん | `c48b94ac31cc7eff`<br>[src/data/items.h:469](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L469) |
+| 9833 | AM Serene Grace | とくせいマシン・てんのめぐみ | `25f2d9eaa158c50f`<br>[src/data/items.h:485](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L485) |
+| 9834 | AM Prankster | とくせいマシン・いたずらごころ | `5bf6893e2dff9d70`<br>[src/data/items.h:501](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L501) |
+| 9835 | AM Poison Heal | とくせいマシン・ポイズンヒール | `8b08e916b07949d9`<br>[src/data/items.h:517](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L517) |
+| 9836 | AM Multiscale | とくせいマシン・マルチスケイル | `1004b34fef8c9ed0`<br>[src/data/items.h:533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L533) |
+| 9837 | AM Magic Guard | とくせいマシン・マジックガード | `eaf0ce8156a90b86`<br>[src/data/items.h:549](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L549) |
+| 9838 | AM Regenerator | とくせいマシン・さいせいりょく | `cb46efb796f8d690`<br>[src/data/items.h:565](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L565) |
+| 9839 | AM Speed Boost | とくせいマシン・かそく | `3030915d78004ea0`<br>[src/data/items.h:581](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L581) |
+| 9840 | AM Magic Bounce | とくせいマシン・マジックミラー | `3d2b7efd4e7767be`<br>[src/data/items.h:596](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L596) |
+| 9841 | Mankey's Paw | マンキーのて | `c2e65acf16c36330`<br>[src/data/items.h:613](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L613) |
+| 9842 | Primeape's Paw | オコリザルのて | `844b07d22a2d0c20`<br>[src/data/items.h:629](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L629) |
+| 9843 | Annihilape Paw | コノヨザルのて | `fc8aba451cedc295`<br>[src/data/items.h:645](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L645) |
+| 9844 | Snag Ball | スナッチボール | `b5da0a5bedaafc95`<br>[src/data/items.h:661](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L661) |
+| 9845 | Premier Ball | プレミアボール | `744bdc08f5d89526`<br>[src/data/items.h:678](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L678) |
+| 9846 | Heal Ball | ヒールボール | `abbfd4d8bc21581f`<br>[src/data/items.h:694](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L694) |
+| 9847 | Net Ball | ネットボール | `0a7d613fd29c0f2e`<br>[src/data/items.h:710](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L710) |
+| 9848 | Nest Ball | ネストボール | `ab81ec5c8e7e26e7`<br>[src/data/items.h:726](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L726) |
+| 9849 | Dive Ball | ダイブボール | `3b7f0946805ffa71`<br>[src/data/items.h:742](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L742) |
+| 9850 | Dusk Ball | ダークボール | `4db3c907dd133568`<br>[src/data/items.h:758](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L758) |
+| 9851 | Timer Ball | タイマーボール | `205da0bdbcf9fed3`<br>[src/data/items.h:774](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L774) |
+| 9852 | Quick Ball | クイックボール | `e3f25e56731a5573`<br>[src/data/items.h:790](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L790) |
+| 9853 | Repeat Ball | リピートボール | `8efd2cb506df5ba6`<br>[src/data/items.h:806](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L806) |
+| 9854 | Luxury Ball | ゴージャスボール | `696defec8a65ba90`<br>[src/data/items.h:822](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L822) |
+| 9855 | Level Ball | レベルボール | `03caa32d57ae092a`<br>[src/data/items.h:838](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L838) |
+| 9856 | Lure Ball | ルアーボール | `1b6c15dca6864d59`<br>[src/data/items.h:854](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L854) |
+| 9857 | Moon Ball | ムーンボール | `996b82acfd4f92fd`<br>[src/data/items.h:870](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L870) |
+| 9858 | Friend Ball | フレンドボール | `65c7088e934dd943`<br>[src/data/items.h:886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L886) |
+| 9859 | Love Ball | ラブラブボール | `9559903a943506ec`<br>[src/data/items.h:902](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L902) |
+| 9860 | Fast Ball | スピードボール | `6051078316ac3507`<br>[src/data/items.h:918](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L918) |
+| 9861 | Heavy Ball | ヘビーボール | `0f043adc1931412d`<br>[src/data/items.h:934](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L934) |
+| 9862 | Dream Ball | ドリームボール | `9a271b1c5d7cee47`<br>[src/data/items.h:950](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L950) |
+| 9863 | Safari Ball | サファリボール | `9ea090dcad1f53a1`<br>[src/data/items.h:971](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L971) |
+| 9864 | Sport Ball | コンペボール | `b351193985ed9bd7`<br>[src/data/items.h:987](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L987) |
+| 9865 | Park Ball | パークボール | `0e8e7e5b18f151aa`<br>[src/data/items.h:1003](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1003) |
+| 9866 | Beast Ball | ウルトラボール | `8512b7dfe978ed69`<br>[src/data/items.h:1018](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1018) |
+| 9867 | Cherish Ball | プレシャスボール | `1b972ea114956ddc`<br>[src/data/items.h:1033](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1033) |
+| 9868 | Potion | キズぐすり | `bb871572f93b416f`<br>[src/data/items.h:1051](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1051) |
+| 9869 | Super Potion | いいキズぐすり | `7a34badc02c78fe4`<br>[src/data/items.h:1071](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1071) |
+| 9870 | Hyper Potion | すごいキズぐすり | `abb1512a80fdc889`<br>[src/data/items.h:1095](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1095) |
+| 9871 | Max Potion | まんたんのくすり | `d05a59affe3dc7ed`<br>[src/data/items.h:1119](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1119) |
+| 9872 | Full Restore | かいふくのくすり | `11297a74b358d31d`<br>[src/data/items.h:1138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1138) |
+| 9873 | Revive | げんきのかけら | `3fba89a26215c5f4`<br>[src/data/items.h:1158](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1158) |
+| 9874 | Max Revive | げんきのかたまり | `cce5c5f21052c554`<br>[src/data/items.h:1177](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1177) |
+| 9875 | Fresh Water | おいしいみず | `4188f7c4d58a8870`<br>[src/data/items.h:1193](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1193) |
+| 9876 | Soda Pop | サイコソーダ | `4e45ddbb9adf4f16`<br>[src/data/items.h:1217](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1217) |
+| 9877 | Lemonade | ミックスオレ | `c69d4e4c1da7c97f`<br>[src/data/items.h:1241](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1241) |
+| 9878 | Moomoo Milk | モーモーミルク | `4b67d2a5c4ea3111`<br>[src/data/items.h:1265](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1265) |
+| 9879 | Energy Powder | ちからのこな | `5d92ecd1f5d8cb02`<br>[src/data/items.h:1285](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1285) |
+| 9880 | Energy Root | ちからのねっこ | `28be8a6045be521f`<br>[src/data/items.h:1308](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1308) |
+| 9881 | Heal Powder | ばんのうごな | `4785ce7cba6d5495`<br>[src/data/items.h:1331](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1331) |
+| 9882 | Revival Herb | ふっかつそう | `0a58d95ed96b614a`<br>[src/data/items.h:1350](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1350) |
+| 9883 | Antidote | どくけし | `93a426987e09d503`<br>[src/data/items.h:1369](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1369) |
+| 9884 | Paralyze Heal | まひなおし | `f93a5bb328e18c9b`<br>[src/data/items.h:1387](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1387) |
+| 9885 | Burn Heal | やけどなおし | `b8a6a866168d78d6`<br>[src/data/items.h:1405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1405) |
+| 9886 | Ice Heal | こおりなおし | `2f93cbf28c10396e`<br>[src/data/items.h:1429](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1429) |
+| 9887 | Awakening | ねむけざまし | `25e5b559dc3f14bf`<br>[src/data/items.h:1453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1453) |
+| 9888 | Full Heal | なんでもなおし | `ae607c33d9cb6950`<br>[src/data/items.h:1477](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1477) |
+| 9889 | Ether | ピーピーエイド | `d9a9456432a65284`<br>[src/data/items.h:1493](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1493) |
+| 9890 | Max Ether | ピーピーリカバー | `afaf16da3d3bc1e7`<br>[src/data/items.h:1513](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1513) |
+| 9891 | Elixir | ピーピーエイダー | `01bde493e0d98dad`<br>[src/data/items.h:1533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1533) |
+| 9892 | Max Elixir | ピーピーマックス | `c09fc15d2a807741`<br>[src/data/items.h:1552](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1552) |
+| 9893 | Berry Juice | きのみジュース | `6b7c17683a9f49c1`<br>[src/data/items.h:1572](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1572) |
+| 9894 | Sacred Ash | せいなるはい | `f33a850d0728db12`<br>[src/data/items.h:1593](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1593) |
+| 9895 | Sacred Ashes | せいなるはい | `d5477f85a10a00b9`<br>[src/data/items.h:1594](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1594) |
+| 9896 | Sweet Heart | ハートスイーツ | `a6e48499afd1977f`<br>[src/data/items.h:1612](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1612) |
+| 9897 | Max Honey | ダイミツ | `d8a47b1d475c434c`<br>[src/data/items.h:1632](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1632) |
+| 9898 | Max Honey | ダイミツ | `ef1efc9fd389e00b`<br>[src/data/items.h:1633](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1633) |
+| 9899 | Pewter Crunchies | ニビあられ | `b47afb27cd040e59`<br>[src/data/items.h:1651](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1651) |
+| 9900 | Pewter Crunchies | ニビあられ | `4bab38cd9cb27d03`<br>[src/data/items.h:1652](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1652) |
+| 9901 | Rage Candy Bar | いかりまんじゅう | `a1c720013aa8de4b`<br>[src/data/items.h:1668](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1668) |
+| 9902 | Lava Cookie | フエンせんべい | `b73cf05789c412dc`<br>[src/data/items.h:1684](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1684) |
+| 9903 | Old Gateau | もりのヨウカン | `c52db7d4fe0efb57`<br>[src/data/items.h:1703](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1703) |
+| 9904 | Old Gateaux | もりのヨウカン | `9186b4ad8369b764`<br>[src/data/items.h:1704](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1704) |
+| 9905 | Casteliacone | ヒウンアイス | `faaeae7f9d985916`<br>[src/data/items.h:1720](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1720) |
+| 9906 | Lumiose Galette | ミアレガレット | `c585bf4fe52dcb98`<br>[src/data/items.h:1736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1736) |
+| 9907 | Shalour Sable | シャラサブレ | `f788534b33685872`<br>[src/data/items.h:1752](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1752) |
+| 9908 | Big Malasada | おおきいマラサダ | `16efe2aef9e6772b`<br>[src/data/items.h:1768](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1768) |
+| 9909 | HP Up | マックスアップ | `ca924e5fdfd4b7de`<br>[src/data/items.h:1786](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1786) |
+| 9910 | Protein | タウリン | `cbb6281b0230fa51`<br>[src/data/items.h:1803](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1803) |
+| 9911 | Iron | ブロムヘキシン | `e2e0179bb4077088`<br>[src/data/items.h:1821](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1821) |
+| 9912 | Calcium | リゾチウム | `817e7e7c008692d3`<br>[src/data/items.h:1839](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1839) |
+| 9913 | Zinc | キトサン | `ba62983df1f2f105`<br>[src/data/items.h:1857](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1857) |
+| 9914 | Carbos | インドメタシン | `8d8130173b52d994`<br>[src/data/items.h:1875](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1875) |
+| 9915 | Carbos | インドメタシン | `5aab76743c1362f8`<br>[src/data/items.h:1876](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1876) |
+| 9916 | PP Up | ポイントアップ | `22cf5da8ff8f8a89`<br>[src/data/items.h:1894](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1894) |
+| 9917 | PP Max | ポイントマックス | `1a8e30965c09774a`<br>[src/data/items.h:1918](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1918) |
+| 9918 | PP Maxes | ポイントマックス | `54acec01240c1c53`<br>[src/data/items.h:1919](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1919) |
+| 9919 | Health Feather | たいりょくのハネ | `2d879d60b9a81b71`<br>[src/data/items.h:1939](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1939) |
+| 9920 | Muscle Feather | きんりょくのハネ | `ff99be668d0ff8c2`<br>[src/data/items.h:1954](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1954) |
+| 9921 | Resist Feather | ていこうのハネ | `74671bda7725d476`<br>[src/data/items.h:1969](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1969) |
+| 9922 | Genius Feather | ちりょくのハネ | `1195f2f967410a35`<br>[src/data/items.h:1984](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1984) |
+| 9923 | Clever Feather | せいしんのハネ | `0db5d6533205a2d5`<br>[src/data/items.h:1999](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L1999) |
+| 9924 | Swift Feather | しゅんぱつのハネ | `62fb8966e4aa1d3c`<br>[src/data/items.h:2014](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2014) |
+| 9925 | Ability Capsule | とくせいカプセル | `97b3c143f56d324d`<br>[src/data/items.h:2031](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2031) |
+| 9926 | Ability Patch | とくせいパッチ | `20bf6122c6400d8f`<br>[src/data/items.h:2053](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2053) |
+| 9927 | Ability Patches | とくせいパッチ | `2b9e83de97be0fe2`<br>[src/data/items.h:2054](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2054) |
+| 9928 | Lonely Mint | さみしがりミント | `6f561850a83f3180`<br>[src/data/items.h:2073](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2073) |
+| 9929 | Adamant Mint | いじっぱりミント | `33f09232b65a4703`<br>[src/data/items.h:2091](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2091) |
+| 9930 | Naughty Mint | やんちゃミント | `47680e872549dab5`<br>[src/data/items.h:2109](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2109) |
+| 9931 | Brave Mint | ゆうかんミント | `91762b99e7d27ab6`<br>[src/data/items.h:2127](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2127) |
+| 9932 | Bold Mint | ずぶといミント | `7a3b46b0af5e2279`<br>[src/data/items.h:2145](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2145) |
+| 9933 | Impish Mint | わんぱくミント | `9ee01d50686bc412`<br>[src/data/items.h:2163](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2163) |
+| 9934 | Lax Mint | のうてんきミント | `b98039da616b91b9`<br>[src/data/items.h:2181](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2181) |
+| 9935 | Relaxed Mint | のんきミント | `1f154862aa194512`<br>[src/data/items.h:2199](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2199) |
+| 9936 | Modest Mint | ひかえめミント | `c94f453207b47786`<br>[src/data/items.h:2217](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2217) |
+| 9937 | Mild Mint | おっとりミント | `10dd6a4d9fceb887`<br>[src/data/items.h:2235](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2235) |
+| 9938 | Rash Mint | うっかりやミント | `9e6aed65c3138f50`<br>[src/data/items.h:2253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2253) |
+| 9939 | Quiet Mint | れいせいミント | `79775d4b41347878`<br>[src/data/items.h:2271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2271) |
+| 9940 | Calm Mint | おだやかミント | `031ad3afa686940e`<br>[src/data/items.h:2289](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2289) |
+| 9941 | Gentle Mint | おとなしいミント | `6c6d85e0fe5425a5`<br>[src/data/items.h:2307](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2307) |
+| 9942 | Careful Mint | しんちょうミント | `bce2f4a154a8c508`<br>[src/data/items.h:2325](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2325) |
+| 9943 | Sassy Mint | なまいきミント | `f6a5fb3c2ba0d739`<br>[src/data/items.h:2343](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2343) |
+| 9944 | Timid Mint | おくびょうミント | `e35dca4c3115091e`<br>[src/data/items.h:2361](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2361) |
+| 9945 | Hasty Mint | せっかちミント | `28f7574b8032951b`<br>[src/data/items.h:2379](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2379) |
+| 9946 | Jolly Mint | ようきミント | `a84ab9dc42938671`<br>[src/data/items.h:2397](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2397) |
+| 9947 | Naive Mint | むじゃきミント | `017cb760fad9a228`<br>[src/data/items.h:2415](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2415) |
+| 9948 | Serious Mint | まじめミント | `78b5230c92139411`<br>[src/data/items.h:2433](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2433) |
+| 9949 | Rare Candy | ふしぎなアメ | `b0cadf9fa3f64478`<br>[src/data/items.h:2453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2453) |
+| 9950 | Rare Candies | ふしぎなアメ | `5f66da0ded2172d4`<br>[src/data/items.h:2454](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2454) |
+| 9951 | Exp. Candy XS | けいけんアメXS | `b1afa56f2f53b32d`<br>[src/data/items.h:2472](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2472) |
+| 9952 | Exp. Candies XS | けいけんアメXS | `8f6c4f02fc1c303d`<br>[src/data/items.h:2473](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2473) |
+| 9953 | Exp. Candy S | けいけんアメS | `9501a17da1793b8c`<br>[src/data/items.h:2492](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2492) |
+| 9954 | Exp. Candies S | けいけんアメS | `a43094bd8563e54f`<br>[src/data/items.h:2493](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2493) |
+| 9955 | Exp. Candy M | けいけんアメM | `32fe0940f470b604`<br>[src/data/items.h:2512](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2512) |
+| 9956 | Exp. Candies M | けいけんアメM | `253d9a9195984c2c`<br>[src/data/items.h:2513](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2513) |
+| 9957 | Exp. Candy L | けいけんアメL | `087fd0e07b82ed08`<br>[src/data/items.h:2532](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2532) |
+| 9958 | Exp. Candies L | けいけんアメL | `4406237b8ccb303a`<br>[src/data/items.h:2533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2533) |
+| 9959 | Exp. Candy XL | けいけんアメXL | `901bd271fc8f1f19`<br>[src/data/items.h:2552](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2552) |
+| 9960 | Exp. Candies XL | けいけんアメXL | `0ac8b37c75e2c26e`<br>[src/data/items.h:2553](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2553) |
+| 9961 | Dynamax Candy | ダイマックスアメ | `857064383a496e04`<br>[src/data/items.h:2572](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2572) |
+| 9962 | Dynamax Candies | ダイマックスアメ | `be4eb178166ee57f`<br>[src/data/items.h:2573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2573) |
+| 9963 | Blue Flute | あおいビードロ | `4d21fb1e1a419539`<br>[src/data/items.h:2592](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2592) |
+| 9964 | Yellow Flute | きいろビードロ | `cbd3044a95433974`<br>[src/data/items.h:2612](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2612) |
+| 9965 | Red Flute | あかいビードロ | `a6a07ff7d55d28fa`<br>[src/data/items.h:2632](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2632) |
+| 9966 | Black Flute | くろいビードロ | `0539a42d8039c0e2`<br>[src/data/items.h:2654](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2654) |
+| 9967 | White Flute | しろいビードロ | `b821446881d2ca8e`<br>[src/data/items.h:2673](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2673) |
+| 9968 | Repel | むしよけスプレー | `01fcce3b89e297ce`<br>[src/data/items.h:2693](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2693) |
+| 9969 | Super Repel | シルバースプレー | `4499a06fdd62600c`<br>[src/data/items.h:2711](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2711) |
+| 9970 | Max Repel | ゴールドスプレー | `09a1a33d7d7caf70`<br>[src/data/items.h:2729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2729) |
+| 9971 | Lure | むしよせコロン | `ca9434415705e97c`<br>[src/data/items.h:2747](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2747) |
+| 9972 | Super Lure | シルバーコロン | `f9ebc5cdf4b1ab2c`<br>[src/data/items.h:2766](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2766) |
+| 9973 | Max Lure | ゴールドコロン | `10f3dcc1595b45b5`<br>[src/data/items.h:2785](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2785) |
+| 9974 | Escape Rope | あなぬけのヒモ | `4aaafc891f2de685`<br>[src/data/items.h:2804](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2804) |
+| 9975 | X Attack | プラスパワー | `aeef818a9f816c78`<br>[src/data/items.h:2829](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2829) |
+| 9976 | X Defense | ディフェンダー | `b06ebef88bd459d0`<br>[src/data/items.h:2855](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2855) |
+| 9977 | X Sp. Atk | スペシャルアップ | `e4b76129dcc99c7e`<br>[src/data/items.h:2881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2881) |
+| 9978 | X Sp. Def | スペシャルガード | `27e622421159c9e2`<br>[src/data/items.h:2907](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2907) |
+| 9979 | X Speed | スピーダー | `2700462b1dff3e1e`<br>[src/data/items.h:2933](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2933) |
+| 9980 | X Accuracy | ヨクアタール | `1a378d39ce6a2c9e`<br>[src/data/items.h:2959](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2959) |
+| 9981 | X Accuracies | ヨクアタール | `eaa9772bf9d7ac2b`<br>[src/data/items.h:2960](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2960) |
+| 9982 | Dire Hit | クリティカッター | `0da047259ad76fd4`<br>[src/data/items.h:2986](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L2986) |
+| 9983 | Guard Spec. | エフェクトガード | `440863f1b159c8a2`<br>[src/data/items.h:3005](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3005) |
+| 9984 | Guard Specs. | エフェクトガード | `6528d183d551fc8d`<br>[src/data/items.h:3006](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3006) |
+| 9985 | Poké Doll | ピッピにんぎょう | `6f37e18b5fc4f76a`<br>[src/data/items.h:3025](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3025) |
+| 9986 | Fluffy Tail | エネコのシッポ | `f6aac764f42ee747`<br>[src/data/items.h:3046](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3046) |
+| 9987 | Poké Toy | ポケじゃらし | `124dd0b41ced7b45`<br>[src/data/items.h:3061](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3061) |
+| 9988 | Max Mushrooms | ダイキノコ | `5635666f324bbf71`<br>[src/data/items.h:3076](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3076) |
+| 9989 | Max Mushrooms | ダイキノコ | `ba0f54a423891b34`<br>[src/data/items.h:3077](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3077) |
+| 9990 | Bottle Cap | ぎんのおうかん | `ab5275f581ffc561`<br>[src/data/items.h:3097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3097) |
+| 9991 | Gold Bottle Cap | きんのおうかん | `cfb10c01db2be77b`<br>[src/data/items.h:3114](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3114) |
+| 9992 | Nugget | きんのたま | `6bfa116983afed27`<br>[src/data/items.h:3131](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3131) |
+| 9993 | Big Nugget | でかいきんのたま | `2a67ab273ef26044`<br>[src/data/items.h:3148](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3148) |
+| 9994 | Tiny Mushroom | ちいさなキノコ | `029bf4a74b36b7a3`<br>[src/data/items.h:3171](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3171) |
+| 9995 | Big Mushroom | おおきなキノコ | `653b95420374c2a9`<br>[src/data/items.h:3188](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3188) |
+| 9996 | Balm Mushroom | かおるキノコ | `a6d5de496115e7c3`<br>[src/data/items.h:3202](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3202) |
+| 9997 | Pearl | しんじゅ | `fc99b7c69a5e6dbd`<br>[src/data/items.h:3222](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3222) |
+| 9998 | Big Pearl | おおきなしんじゅ | `2b2236fb656716b0`<br>[src/data/items.h:3239](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3239) |
+| 9999 | Pearl String | おだんごしんじゅ | `cdd0f0fef3377856`<br>[src/data/items.h:3256](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3256) |
+| 10000 | Stardust | ほしのすな | `9090b8f1afeab46e`<br>[src/data/items.h:3281](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3281) |
+| 10001 | Star Piece | ほしのかけら | `f7f85d8b8c4ef661`<br>[src/data/items.h:3298](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3298) |
+| 10002 | Comet Shard | すいせいのかけら | `3aa5c3cf1764f95c`<br>[src/data/items.h:3315](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3315) |
+| 10003 | Shoal Salt | あさせのしお | `49218a80dcc07686`<br>[src/data/items.h:3340](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3340) |
+| 10004 | Shoal Shell | あさせのかいがら | `f9d60f7834c5c754`<br>[src/data/items.h:3357](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3357) |
+| 10005 | Red Shard | あかいかけら | `1a3114825005bc07`<br>[src/data/items.h:3374](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3374) |
+| 10006 | Blue Shard | あおいかけら | `a8c9e2c68c64e301`<br>[src/data/items.h:3388](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3388) |
+| 10007 | Yellow Shard | きいろいかけら | `beeca02329a6b30a`<br>[src/data/items.h:3402](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3402) |
+| 10008 | Green Shard | みどりのかけら | `545022627e9c6688`<br>[src/data/items.h:3416](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3416) |
+| 10009 | Heart Scale | ハートのウロコ | `2a7b366d62577c5c`<br>[src/data/items.h:3430](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3430) |
+| 10010 | Honey | あまいミツ | `6cf02d782505d38a`<br>[src/data/items.h:3447](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3447) |
+| 10011 | Honey | あまいミツ | `22c2d2834a969633`<br>[src/data/items.h:3448](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3448) |
+| 10012 | Rare Bone | きちょうなホネ | `7d3549f073ac7c84`<br>[src/data/items.h:3471](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3471) |
+| 10013 | Odd Keystone | かなめいし | `74aad3a76454ac7d`<br>[src/data/items.h:3488](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3488) |
+| 10014 | Pretty Feather | きれいなハネ | `d664509a6e51a18d`<br>[src/data/items.h:3505](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3505) |
+| 10015 | Relic Copper | こだいのどうか | `26f975fcb31c1e67`<br>[src/data/items.h:3522](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3522) |
+| 10016 | Relic Silver | こだいのぎんか | `56dd7c6022f8e89d`<br>[src/data/items.h:3539](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3539) |
+| 10017 | Relic Gold | こだいのきんか | `68eb1c2c1fb80712`<br>[src/data/items.h:3556](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3556) |
+| 10018 | Relic Vase | こだいのツボ | `5fb5c0548d2d648b`<br>[src/data/items.h:3573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3573) |
+| 10019 | Relic Band | こだいのうでわ | `8cea962113b7657f`<br>[src/data/items.h:3590](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3590) |
+| 10020 | Relic Statue | こだいのせきぞう | `7aa30d970ebeda0e`<br>[src/data/items.h:3607](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3607) |
+| 10021 | Relic Crown | こだいのおうかん | `e785085dded11153`<br>[src/data/items.h:3624](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3624) |
+| 10022 | Strange Souvenir | ふしぎなおきもの | `646bf7a7097caf51`<br>[src/data/items.h:3641](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3641) |
+| 10023 | Helix Fossil | かいのカセキ | `0c250c9327b2c726`<br>[src/data/items.h:3660](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3660) |
+| 10024 | Dome Fossil | こうらのカセキ | `f5c2b29301f96159`<br>[src/data/items.h:3683](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3683) |
+| 10025 | Old Amber | ひみつのコハク | `fd609660a84de6d0`<br>[src/data/items.h:3706](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3706) |
+| 10026 | Root Fossil | ねっこのカセキ | `69c05edb4bccfcc1`<br>[src/data/items.h:3729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3729) |
+| 10027 | Claw Fossil | ツメのカセキ | `4e4969608e99bd67`<br>[src/data/items.h:3749](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3749) |
+| 10028 | Armor Fossil | たてのカセキ | `b1c370769dd76199`<br>[src/data/items.h:3769](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3769) |
+| 10029 | Skull Fossil | ずがいのカセキ | `0502b75be614c97d`<br>[src/data/items.h:3786](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3786) |
+| 10030 | Cover Fossil | ふたのカセキ | `f87b0ebaff6fdf1d`<br>[src/data/items.h:3803](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3803) |
+| 10031 | Plume Fossil | はねのカセキ | `738f3113e9ffde8c`<br>[src/data/items.h:3820](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3820) |
+| 10032 | Jaw Fossil | アゴのカセキ | `dd91135fb60204f3`<br>[src/data/items.h:3837](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3837) |
+| 10033 | Sail Fossil | ヒレのカセキ | `b729ab4f2d032a80`<br>[src/data/items.h:3854](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3854) |
+| 10034 | Fossilized Bird | カセキのトリ | `a3e607f7df5c5e17`<br>[src/data/items.h:3871](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3871) |
+| 10035 | Fossilized Fish | カセキのサカナ | `018f067a50c105ca`<br>[src/data/items.h:3888](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3888) |
+| 10036 | Fossilized Fish | カセキのサカナ | `3239e1379e092606`<br>[src/data/items.h:3889](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3889) |
+| 10037 | Fossilized Drake | カセキのリュウ | `3bf2c53d1166d35a`<br>[src/data/items.h:3903](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3903) |
+| 10038 | Fossilized Dino | カセキのクビナガ | `9675d580ea682d8a`<br>[src/data/items.h:3920](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3920) |
+| 10039 | Growth Mulch | すくすくこやし | `e2a597a624625b5b`<br>[src/data/items.h:3936](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3936) |
+| 10040 | Growth Mulch | すくすくこやし | `dcb7a05a131468dc`<br>[src/data/items.h:3937](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3937) |
+| 10041 | Damp Mulch | じめじめこやし | `c7527c717d3fd34c`<br>[src/data/items.h:3959](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3959) |
+| 10042 | Damp Mulch | じめじめこやし | `22a58e9bccb32992`<br>[src/data/items.h:3960](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3960) |
+| 10043 | Stable Mulch | ながながこやし | `d69bd9ccf7917ea9`<br>[src/data/items.h:3982](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3982) |
+| 10044 | Stable Mulch | ながながこやし | `2f600e6963fab7cb`<br>[src/data/items.h:3983](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L3983) |
+| 10045 | Gooey Mulch | ねばねばこやし | `7d616f5387aeaba6`<br>[src/data/items.h:4005](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4005) |
+| 10046 | Gooey Mulch | ねばねばこやし | `4786b82f38a369ae`<br>[src/data/items.h:4006](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4006) |
+| 10047 | Rich Mulch | たわわこやし | `9cd128c1807f3482`<br>[src/data/items.h:4028](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4028) |
+| 10048 | Rich Mulch | たわわこやし | `8abab1ea6ffceaba`<br>[src/data/items.h:4029](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4029) |
+| 10049 | Surprise Mulch | びっくりこやし | `0ed600d2ca6bff92`<br>[src/data/items.h:4051](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4051) |
+| 10050 | Surprise Mulch | びっくりこやし | `73350b2515ff770c`<br>[src/data/items.h:4052](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4052) |
+| 10051 | Boost Mulch | ぐんぐんこやし | `0b654305a5b6fe06`<br>[src/data/items.h:4074](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4074) |
+| 10052 | Boost Mulch | ぐんぐんこやし | `180b4d4a826d25b5`<br>[src/data/items.h:4075](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4075) |
+| 10053 | Amaze Mulch | とんでもこやし | `f6d54db350300559`<br>[src/data/items.h:4097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4097) |
+| 10054 | Amaze Mulch | とんでもこやし | `703dde47b2fe0927`<br>[src/data/items.h:4098](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4098) |
+| 10055 | Red Apricorn | あかぼんぐり | `a3f9fd90ee2305af`<br>[src/data/items.h:4129](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4129) |
+| 10056 | Blue Apricorn | あおぼんぐり | `f9b783aa4470d897`<br>[src/data/items.h:4145](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4145) |
+| 10057 | Yellow Apricorn | きぼんぐり | `21f5783163183a28`<br>[src/data/items.h:4161](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4161) |
+| 10058 | Green Apricorn | みどぼんぐり | `a71c3d0eb2bc813f`<br>[src/data/items.h:4177](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4177) |
+| 10059 | Pink Apricorn | ももぼんぐり | `9f69e208ea2f0ef3`<br>[src/data/items.h:4193](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4193) |
+| 10060 | White Apricorn | しろぼんぐり | `2893bf4dc02b5bc1`<br>[src/data/items.h:4209](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4209) |
+| 10061 | Black Apricorn | くろぼんぐり | `b2ee53095b063da0`<br>[src/data/items.h:4225](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4225) |
+| 10062 | Wishing Piece | ねがいのかたまり | `d375f5f0aa4910a5`<br>[src/data/items.h:4241](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4241) |
+| 10063 | Galarica Twig | ガラナツのえだ | `5fd1d5a4ee009276`<br>[src/data/items.h:4258](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4258) |
+| 10064 | Armorite Ore | ヨロイこうせき | `312709e19e1fa6ba`<br>[src/data/items.h:4275](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4275) |
+| 10065 | Armorite Ore | ヨロイこうせき | `10b51e3dd3774c38`<br>[src/data/items.h:4276](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4276) |
+| 10066 | Dynite Ore | マックスこうせき | `585c8e26c8cc0033`<br>[src/data/items.h:4293](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4293) |
+| 10067 | Dynite Ore | マックスこうせき | `d8b21cf3ffa8f27b`<br>[src/data/items.h:4294](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4294) |
+| 10068 | Orange Mail | オレンジメール | `07de2c405fe3b973`<br>[src/data/items.h:4313](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4313) |
+| 10069 | Orange Mail | オレンジメール | `8d579b408b61685a`<br>[src/data/items.h:4314](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4314) |
+| 10070 | Harbor Mail | ハーバーメール | `46b75443ad1cf0e0`<br>[src/data/items.h:4331](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4331) |
+| 10071 | Harbor Mail | ハーバーメール | `b85d72d6d7d8159f`<br>[src/data/items.h:4332](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4332) |
+| 10072 | Glitter Mail | キラキラメール | `868c166ea4d3cdb3`<br>[src/data/items.h:4349](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4349) |
+| 10073 | Glitter Mail | キラキラメール | `dfd515504f1d4716`<br>[src/data/items.h:4350](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4350) |
+| 10074 | Mech Mail | メカニカルメール | `1044405bee374446`<br>[src/data/items.h:4367](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4367) |
+| 10075 | Mech Mail | メカニカルメール | `1930c5cbee0497f5`<br>[src/data/items.h:4368](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4368) |
+| 10076 | Wood Mail | ウッディメール | `53f3c80595d86821`<br>[src/data/items.h:4385](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4385) |
+| 10077 | Wood Mail | ウッディメール | `73944aaee84194cb`<br>[src/data/items.h:4386](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4386) |
+| 10078 | Wave Mail | クロスメール | `d43b58fd00fece01`<br>[src/data/items.h:4403](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4403) |
+| 10079 | Wave Mail | クロスメール | `4fb156ff5b834f3a`<br>[src/data/items.h:4404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4404) |
+| 10080 | Bead Mail | トレジャーメール | `0709f331deee5fc6`<br>[src/data/items.h:4421](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4421) |
+| 10081 | Bead Mail | トレジャーメール | `64b447c76dac6df9`<br>[src/data/items.h:4422](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4422) |
+| 10082 | Shadow Mail | シャドーメール | `d084b9681956eb97`<br>[src/data/items.h:4436](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4436) |
+| 10083 | Shadow Mail | シャドーメール | `9205572b9dab29ef`<br>[src/data/items.h:4437](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4437) |
+| 10084 | Tropic Mail | トロピカルメール | `f0e1ba26b7895654`<br>[src/data/items.h:4454](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4454) |
+| 10085 | Tropic Mail | トロピカルメール | `55b40d4ba913ce67`<br>[src/data/items.h:4455](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4455) |
+| 10086 | Dream Mail | ドリームメール | `be706f636b283557`<br>[src/data/items.h:4472](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4472) |
+| 10087 | Dream Mail | ドリームメール | `df931876c2e5b019`<br>[src/data/items.h:4473](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4473) |
+| 10088 | Fab Mail | ミラクルメール | `782d0e3faab9666e`<br>[src/data/items.h:4487](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4487) |
+| 10089 | Fab Mail | ミラクルメール | `1ff6bbb7026c8954`<br>[src/data/items.h:4488](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4488) |
+| 10090 | Retro Mail | レトロメール | `3bc5a37e777f8315`<br>[src/data/items.h:4505](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4505) |
+| 10091 | Retro Mail | レトロメール | `85073c6e0a53e7b6`<br>[src/data/items.h:4506](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4506) |
+| 10092 | Fire Stone | ほのおのいし | `bda37390209b73d4`<br>[src/data/items.h:4525](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4525) |
+| 10093 | Water Stone | みずのいし | `2562524d02cffc37`<br>[src/data/items.h:4540](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4540) |
+| 10094 | Thunder Stone | かみなりのいし | `a0011251e686db1d`<br>[src/data/items.h:4555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4555) |
+| 10095 | Leaf Stone | リーフのいし | `79d014e6475ab1a1`<br>[src/data/items.h:4570](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4570) |
+| 10096 | Ice Stone | こおりのいし | `05d7266365118cb1`<br>[src/data/items.h:4585](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4585) |
+| 10097 | Sun Stone | たいようのいし | `22488134862b7488`<br>[src/data/items.h:4600](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4600) |
+| 10098 | Moon Stone | つきのいし | `abc15ee4147029ec`<br>[src/data/items.h:4615](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4615) |
+| 10099 | Shiny Stone | ひかりのいし | `9cab7ab56b1bfe8e`<br>[src/data/items.h:4638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4638) |
+| 10100 | Dusk Stone | やみのいし | `c716ff24afeee019`<br>[src/data/items.h:4653](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4653) |
+| 10101 | Dawn Stone | めざめいし | `496b74e5f21e6a00`<br>[src/data/items.h:4668](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4668) |
+| 10102 | Sweet Apple | あまーいりんご | `cc37ec49ff9dfef1`<br>[src/data/items.h:4683](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4683) |
+| 10103 | Tart Apple | すっぱいりんご | `0b7692dc492b7455`<br>[src/data/items.h:4701](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4701) |
+| 10104 | Cracked Pot | われたポット | `2dbe22cd764de953`<br>[src/data/items.h:4719](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4719) |
+| 10105 | Chipped Pot | かけたポット | `9ced4bde44eb6553`<br>[src/data/items.h:4737](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4737) |
+| 10106 | Galarica Cuff | ガラナツブレス | `1e711a1a2d5a7058`<br>[src/data/items.h:4755](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4755) |
+| 10107 | Galarica Wreath | ガラナツリース | `3a77394851c1df1d`<br>[src/data/items.h:4773](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4773) |
+| 10108 | Dragon Scale | りゅうのウロコ | `dc5d62296a877a68`<br>[src/data/items.h:4791](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4791) |
+| 10109 | Upgrade | アップグレード | `f803ff1ca6fb4420`<br>[src/data/items.h:4810](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4810) |
+| 10110 | Protector | プロテクター | `99d2fc928ac5cd43`<br>[src/data/items.h:4827](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4827) |
+| 10111 | Electirizer | エレキブースター | `7f8fa80ee2d91a40`<br>[src/data/items.h:4845](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4845) |
+| 10112 | Magmarizer | マグマブースター | `a20f14216fd8a96e`<br>[src/data/items.h:4863](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4863) |
+| 10113 | Dubious Disc | あやしいパッチ | `e3e0065def4e7c7d`<br>[src/data/items.h:4881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4881) |
+| 10114 | Reaper Cloth | れいかいのぬの | `1b52fbff1e204cd9`<br>[src/data/items.h:4899](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4899) |
+| 10115 | Prism Scale | きれいなウロコ | `01370d50394013ae`<br>[src/data/items.h:4917](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4917) |
+| 10116 | Whipped Dream | ホイップポップ | `039ab5415fc4a365`<br>[src/data/items.h:4941](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4941) |
+| 10117 | Sachet | においぶくろ | `f7af040763e446c0`<br>[src/data/items.h:4959](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4959) |
+| 10118 | Oval Stone | まんまるいし | `4cf507b951b2d6ff`<br>[src/data/items.h:4977](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4977) |
+| 10119 | Strawberry Sweet | いちごアメざいく | `8233790a06dd109e`<br>[src/data/items.h:4995](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L4995) |
+| 10120 | Love Sweet | ハートアメざいく | `2b1a574d15b8baec`<br>[src/data/items.h:5012](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5012) |
+| 10121 | Berry Sweet | ベリーアメざいく | `20047f2c4177a5be`<br>[src/data/items.h:5029](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5029) |
+| 10122 | Clover Sweet | よつばアメざいく | `b70daf8e4b3f339e`<br>[src/data/items.h:5046](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5046) |
+| 10123 | Flower Sweet | おはなアメざいく | `eecb0c4f11294180`<br>[src/data/items.h:5063](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5063) |
+| 10124 | Star Sweet | スターアメざいく | `8604dba3898321f1`<br>[src/data/items.h:5080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5080) |
+| 10125 | Ribbon Sweet | リボンアメざいく | `a953bfc1dce7e409`<br>[src/data/items.h:5097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5097) |
+| 10126 | Everstone | かわらずのいし | `a5d7185971aee056`<br>[src/data/items.h:5114](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5114) |
+| 10127 | Red Nectar | くれないのミツ | `95a9a646918b2736`<br>[src/data/items.h:5134](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5134) |
+| 10128 | Yellow Nectar | やまぶきのミツ | `8fec6dde7d84b03f`<br>[src/data/items.h:5149](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5149) |
+| 10129 | Pink Nectar | うすもものミツ | `9fa43ddf099bec39`<br>[src/data/items.h:5164](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5164) |
+| 10130 | Purple Nectar | むらさきのミツ | `7809e6aa4aa27660`<br>[src/data/items.h:5179](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5179) |
+| 10131 | Flame Plate | ひのたまプレート | `6309ec582d30872b`<br>[src/data/items.h:5196](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5196) |
+| 10132 | Splash Plate | しずくプレート | `a932d924d8649560`<br>[src/data/items.h:5216](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5216) |
+| 10133 | Zap Plate | いかずちプレート | `f95191910924b994`<br>[src/data/items.h:5236](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5236) |
+| 10134 | Meadow Plate | みどりのプレート | `1b4d9d4f9d9a7dc0`<br>[src/data/items.h:5256](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5256) |
+| 10135 | Icicle Plate | つららのプレート | `f2bd036d90a5f100`<br>[src/data/items.h:5276](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5276) |
+| 10136 | Fist Plate | こぶしのプレート | `20f3a99b7c2edddd`<br>[src/data/items.h:5296](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5296) |
+| 10137 | Toxic Plate | もうどくプレート | `c3d7f620056a5d5a`<br>[src/data/items.h:5316](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5316) |
+| 10138 | Earth Plate | だいちのプレート | `e1762ed528612710`<br>[src/data/items.h:5336](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5336) |
+| 10139 | Sky Plate | あおぞらプレート | `cce865a081340158`<br>[src/data/items.h:5356](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5356) |
+| 10140 | Mind Plate | ふしぎのプレート | `f7bdf7f0dbb5c299`<br>[src/data/items.h:5376](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5376) |
+| 10141 | Insect Plate | たまむしプレート | `07d35126f0d00eb4`<br>[src/data/items.h:5396](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5396) |
+| 10142 | Stone Plate | がんせきプレート | `786acb1c23c6e23d`<br>[src/data/items.h:5416](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5416) |
+| 10143 | Spooky Plate | もののけプレート | `45c3527c2dacd946`<br>[src/data/items.h:5436](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5436) |
+| 10144 | Draco Plate | りゅうのプレート | `618c7a3cae2ea337`<br>[src/data/items.h:5456](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5456) |
+| 10145 | Dread Plate | こわもてプレート | `227a0fd971086682`<br>[src/data/items.h:5476](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5476) |
+| 10146 | Iron Plate | こうてつプレート | `8bdf8af486ba7f5e`<br>[src/data/items.h:5496](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5496) |
+| 10147 | Pixie Plate | せいれいプレート | `e92f8448b8dcca05`<br>[src/data/items.h:5516](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5516) |
+| 10148 | Douse Drive | アクアカセット | `a6c7b6e6b3fba3d4`<br>[src/data/items.h:5538](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5538) |
+| 10149 | Shock Drive | イナズマカセット | `172e426b323f90ed`<br>[src/data/items.h:5557](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5557) |
+| 10150 | Burn Drive | ブレイズカセット | `9b4e0f150f22e9e8`<br>[src/data/items.h:5576](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5576) |
+| 10151 | Chill Drive | フリーズカセット | `e41a199d56839890`<br>[src/data/items.h:5595](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5595) |
+| 10152 | Fire Memory | ファイヤーメモリ | `3d29956bdfbe6c80`<br>[src/data/items.h:5616](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5616) |
+| 10153 | Fire Memories | ファイヤーメモリ | `24eede414b5afaa3`<br>[src/data/items.h:5617](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5617) |
+| 10154 | Water Memory | ウオーターメモリ | `104e9f841be28a7c`<br>[src/data/items.h:5637](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5637) |
+| 10155 | Water Memories | ウオーターメモリ | `6f4cbca3ce7dfee4`<br>[src/data/items.h:5638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5638) |
+| 10156 | Electric Memory | エレクトロメモリ | `25bf1eae442abafe`<br>[src/data/items.h:5658](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5658) |
+| 10157 | Electric Memories | エレクトロメモリ | `347d7d815b3a85e6`<br>[src/data/items.h:5659](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5659) |
+| 10158 | Grass Memory | グラスメモリ | `331ab9d37082d943`<br>[src/data/items.h:5679](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5679) |
+| 10159 | Grass Memories | グラスメモリ | `0750dff72f850593`<br>[src/data/items.h:5680](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5680) |
+| 10160 | Ice Memory | アイスメモリ | `2df41348276b2d76`<br>[src/data/items.h:5700](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5700) |
+| 10161 | Ice Memories | アイスメモリ | `0e0ae7b928471534`<br>[src/data/items.h:5701](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5701) |
+| 10162 | Fighting Memory | ファイトメモリ | `b484c58662d1b121`<br>[src/data/items.h:5721](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5721) |
+| 10163 | Fighting Memories | ファイトメモリ | `2715b94921b294b5`<br>[src/data/items.h:5722](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5722) |
+| 10164 | Poison Memory | ポイズンメモリ | `97741e317b026f56`<br>[src/data/items.h:5742](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5742) |
+| 10165 | Poison Memories | ポイズンメモリ | `8ee9d9e252d48d91`<br>[src/data/items.h:5743](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5743) |
+| 10166 | Ground Memory | グラウンドメモリ | `3b39011d607038e8`<br>[src/data/items.h:5763](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5763) |
+| 10167 | Ground Memories | グラウンドメモリ | `08b9238e3831f208`<br>[src/data/items.h:5764](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5764) |
+| 10168 | Flying Memory | フライングメモリ | `e9c53eb8195523d3`<br>[src/data/items.h:5784](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5784) |
+| 10169 | Flying Memories | フライングメモリ | `23aac20d31b3778a`<br>[src/data/items.h:5785](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5785) |
+| 10170 | Psychic Memory | サイキックメモリ | `5da4fbd16174d9e1`<br>[src/data/items.h:5805](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5805) |
+| 10171 | Psychic Memories | サイキックメモリ | `ca09224d35846968`<br>[src/data/items.h:5806](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5806) |
+| 10172 | Bug Memory | バグメモリ | `cf246187369cf9a5`<br>[src/data/items.h:5826](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5826) |
+| 10173 | Bug Memories | バグメモリ | `0242259438e54895`<br>[src/data/items.h:5827](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5827) |
+| 10174 | Rock Memory | ロックメモリ | `f1279029fd61c440`<br>[src/data/items.h:5847](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5847) |
+| 10175 | Rock Memories | ロックメモリ | `7e6d8758beb5d678`<br>[src/data/items.h:5848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5848) |
+| 10176 | Ghost Memory | ゴーストメモリ | `d79461166b47f570`<br>[src/data/items.h:5868](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5868) |
+| 10177 | Ghost Memories | ゴーストメモリ | `95d6d46b7e2c5b08`<br>[src/data/items.h:5869](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5869) |
+| 10178 | Dragon Memory | ドラゴンメモリ | `5c2ef07162a0bc01`<br>[src/data/items.h:5889](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5889) |
+| 10179 | Dragon Memories | ドラゴンメモリ | `72861525a3cb9328`<br>[src/data/items.h:5890](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5890) |
+| 10180 | Dark Memory | ダークメモリ | `253050279a9493c8`<br>[src/data/items.h:5910](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5910) |
+| 10181 | Dark Memories | ダークメモリ | `caf1c715e2ec742c`<br>[src/data/items.h:5911](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5911) |
+| 10182 | Steel Memory | スチールメモリ | `82c83c9e32f16b46`<br>[src/data/items.h:5931](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5931) |
+| 10183 | Steel Memories | スチールメモリ | `5822796bc1c6ba7a`<br>[src/data/items.h:5932](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5932) |
+| 10184 | Fairy Memory | フェアリーメモリ | `539a235cc0201b92`<br>[src/data/items.h:5952](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5952) |
+| 10185 | Fairy Memories | フェアリーメモリ | `4dc8bffc2dc09ec2`<br>[src/data/items.h:5953](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5953) |
+| 10186 | Rusted Sword | くちたけん | `7a77ee779828bd63`<br>[src/data/items.h:5973](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5973) |
+| 10187 | Rusted Shield | くちたたて | `b6f22fca1cb54d02`<br>[src/data/items.h:5989](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L5989) |
+| 10188 | Red Orb | べにいろのたま | `0c7e766f75df5e09`<br>[src/data/items.h:6007](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6007) |
+| 10189 | Blue Orb | あいいろのたま | `6e6ac9ad4089373e`<br>[src/data/items.h:6024](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6024) |
+| 10190 | Venusaurite | フシギバナイト | `eb6400d46e32c192`<br>[src/data/items.h:6043](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6043) |
+| 10191 | Charizardite X | リザードナイトX | `99094d8d0052e5f3`<br>[src/data/items.h:6061](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6061) |
+| 10192 | Charizardite Y | リザードナイトY | `4f2506159e6fd694`<br>[src/data/items.h:6076](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6076) |
+| 10193 | Blastoisinite | カメックスナイト | `d636bc2d9eb30456`<br>[src/data/items.h:6091](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6091) |
+| 10194 | Beedrillite | スピアナイト | `07f1873feb391a6a`<br>[src/data/items.h:6109](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6109) |
+| 10195 | Pidgeotite | ピジョットナイト | `a4f5627ceda3811b`<br>[src/data/items.h:6127](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6127) |
+| 10196 | Alakazite | フーディナイト | `9ea24ce949c774fb`<br>[src/data/items.h:6145](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6145) |
+| 10197 | Slowbronite | ヤドランナイト | `c4c37096665cd5ef`<br>[src/data/items.h:6163](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6163) |
+| 10198 | Gengarite | ゲンガナイト | `8a6d3fae3c223831`<br>[src/data/items.h:6181](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6181) |
+| 10199 | Kangaskhanite | ガルーラナイト | `3bd37ce3d8ea3d1c`<br>[src/data/items.h:6199](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6199) |
+| 10200 | Pinsirite | カイロスナイト | `2515ad623cfe12d7`<br>[src/data/items.h:6217](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6217) |
+| 10201 | Gyaradosite | ギャラドスナイト | `610b86bf6112f768`<br>[src/data/items.h:6235](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6235) |
+| 10202 | Aerodactylite | プテラナイト | `22e97364fab07479`<br>[src/data/items.h:6253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6253) |
+| 10203 | Mewtwonite X | ミュウツナイトX | `53c8b4235315ac17`<br>[src/data/items.h:6271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6271) |
+| 10204 | Mewtwonite Y | ミュウツナイトY | `e993fd901b7306c5`<br>[src/data/items.h:6286](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6286) |
+| 10205 | Ampharosite | デンリュウナイト | `3bd82f197a07c208`<br>[src/data/items.h:6301](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6301) |
+| 10206 | Steelixite | ハガネールナイト | `2b6a0da31db2d9fe`<br>[src/data/items.h:6319](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6319) |
+| 10207 | Scizorite | ハッサムナイト | `51de65bb9c55c176`<br>[src/data/items.h:6337](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6337) |
+| 10208 | Heracronite | ヘラクロスナイト | `0eb1e82568503c7b`<br>[src/data/items.h:6355](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6355) |
+| 10209 | Houndoominite | ヘルガナイト | `696614f17600a5a1`<br>[src/data/items.h:6373](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6373) |
+| 10210 | Tyranitarite | バンギラスナイト | `00ec22393f55c523`<br>[src/data/items.h:6391](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6391) |
+| 10211 | Sceptilite | ジュカインナイト | `7376d5f5f6588e69`<br>[src/data/items.h:6409](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6409) |
+| 10212 | Blazikenite | バシャーモナイト | `ece15dfc7cc35500`<br>[src/data/items.h:6427](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6427) |
+| 10213 | Swampertite | ラグラージナイト | `ada21544de401001`<br>[src/data/items.h:6445](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6445) |
+| 10214 | Gardevoirite | サーナイトナイト | `5f92a28c68f2b8eb`<br>[src/data/items.h:6463](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6463) |
+| 10215 | Sablenite | ヤミラミナイト | `0bc7c9e8a7284dd0`<br>[src/data/items.h:6481](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6481) |
+| 10216 | Mawilite | クチートナイト | `9d7e87235c994255`<br>[src/data/items.h:6499](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6499) |
+| 10217 | Aggronite | ボスゴドラナイト | `0298471d0cc06a7d`<br>[src/data/items.h:6517](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6517) |
+| 10218 | Medichamite | チャーレムナイト | `20eaa0b476bcd83d`<br>[src/data/items.h:6535](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6535) |
+| 10219 | Manectite | ライボルトナイト | `522b09c38a3f4ba0`<br>[src/data/items.h:6553](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6553) |
+| 10220 | Sharpedonite | サメハダナイト | `38b6507952a32c8e`<br>[src/data/items.h:6571](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6571) |
+| 10221 | Cameruptite | バクーダナイト | `35106d1fdad19b92`<br>[src/data/items.h:6589](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6589) |
+| 10222 | Altarianite | チルタリスナイト | `bc005746c2d04d92`<br>[src/data/items.h:6607](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6607) |
+| 10223 | Banettite | ジュペッタナイト | `37cc23ac5e1497cc`<br>[src/data/items.h:6625](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6625) |
+| 10224 | Absolite | アブソルナイト | `3e1d7f1ef30d3b91`<br>[src/data/items.h:6643](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6643) |
+| 10225 | Glalitite | オニゴーリナイト | `66918814c1dd7e54`<br>[src/data/items.h:6658](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6658) |
+| 10226 | Salamencite | ボーマンダナイト | `8461ff9cbde66e91`<br>[src/data/items.h:6676](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6676) |
+| 10227 | Metagrossite | メタグロスナイト | `2e6ac167278645d8`<br>[src/data/items.h:6694](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6694) |
+| 10228 | Latiasite | ラティアスナイト | `04a96a712911b8e6`<br>[src/data/items.h:6712](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6712) |
+| 10229 | Latiosite | ラティオスナイト | `aa59352f1e1bbb96`<br>[src/data/items.h:6730](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6730) |
+| 10230 | Lopunnite | ミミロップナイト | `8113c0f208658208`<br>[src/data/items.h:6748](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6748) |
+| 10231 | Garchompite | ガブリアスナイト | `2538cead0725a53a`<br>[src/data/items.h:6766](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6766) |
+| 10232 | Lucarionite | ルカリオナイト | `f2a7d4e2611cfa11`<br>[src/data/items.h:6781](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6781) |
+| 10233 | Abomasite | ユキノオナイト | `04ec630594d79054`<br>[src/data/items.h:6796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6796) |
+| 10234 | Galladite | エルレイドナイト | `2f1030c50817c3b1`<br>[src/data/items.h:6814](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6814) |
+| 10235 | Audinite | タブンネナイト | `a4f355ce8dbea4c1`<br>[src/data/items.h:6832](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6832) |
+| 10236 | Diancite | ディアンシナイト | `3de796dfbd4bc196`<br>[src/data/items.h:6850](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6850) |
+| 10237 | Clefablite | ピクシナイト | `3cd283d1fcf6210b`<br>[src/data/items.h:6868](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6868) |
+| 10238 | Victreebelite | ウツボットナイト | `baee3df057581be9`<br>[src/data/items.h:6886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6886) |
+| 10239 | Starminite | スターミナイト | `4b357a07e97eb4ad`<br>[src/data/items.h:6904](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6904) |
+| 10240 | Dragoninite | カイリュナイト | `cd39bb157a711735`<br>[src/data/items.h:6922](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6922) |
+| 10241 | Meganiumite | メガニウムナイト | `faaee72b209b6c5a`<br>[src/data/items.h:6940](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6940) |
+| 10242 | Feraligite | オーダイルナイト | `9bad0aa06831c816`<br>[src/data/items.h:6958](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6958) |
+| 10243 | Skarmorite | エアームドナイト | `131c3c264b2517f6`<br>[src/data/items.h:6976](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6976) |
+| 10244 | Froslassite | ユキメノコナイト | `59007e924829c402`<br>[src/data/items.h:6994](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L6994) |
+| 10245 | Emboarite | エンブオナイト | `876018c61db0d21d`<br>[src/data/items.h:7012](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7012) |
+| 10246 | Excadrite | ドリュウズナイト | `a2539d92b1e9e536`<br>[src/data/items.h:7030](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7030) |
+| 10247 | Scolipite | ペンドラナイト | `1d0a5dd608aa16f9`<br>[src/data/items.h:7048](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7048) |
+| 10248 | Scraftinite | ズルズキナイト | `ed8915f387596fab`<br>[src/data/items.h:7066](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7066) |
+| 10249 | Eelektrossite | シビルドナイト | `ad9f60e456054d99`<br>[src/data/items.h:7084](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7084) |
+| 10250 | Chandelurite | シャンデラナイト | `f90852b6b14bd8af`<br>[src/data/items.h:7102](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7102) |
+| 10251 | Chesnaughtite | ブリガロナイト | `2808df6391c5d90d`<br>[src/data/items.h:7120](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7120) |
+| 10252 | Delphoxite | マフォクシナイト | `491f9a71b45d0469`<br>[src/data/items.h:7138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7138) |
+| 10253 | Greninjite | ゲッコウガナイト | `4b6805bc107f1321`<br>[src/data/items.h:7156](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7156) |
+| 10254 | Pyroarite | カエンジシナイト | `2ed3db59e8904016`<br>[src/data/items.h:7174](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7174) |
+| 10255 | Floettite | フラエッテナイト | `bf10d34c72909943`<br>[src/data/items.h:7192](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7192) |
+| 10256 | Malamarite | カラマネロナイト | `48c57412ed9151b6`<br>[src/data/items.h:7210](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7210) |
+| 10257 | Barbaracite | ガメノデスナイト | `0d034fa39791a73a`<br>[src/data/items.h:7228](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7228) |
+| 10258 | Dragalgite | ドラミドナイト | `efa2a1a4d774bd71`<br>[src/data/items.h:7246](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7246) |
+| 10259 | Hawluchanite | ルチャブルナイト | `08909ca92a83c766`<br>[src/data/items.h:7264](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7264) |
+| 10260 | Zygardite | ジガルデナイト | `5851513ec98dbbe4`<br>[src/data/items.h:7282](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7282) |
+| 10261 | Drampanite | ジジーロナイト | `160b2f0a4db98996`<br>[src/data/items.h:7300](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7300) |
+| 10262 | Falinksite | タイレーツナイト | `4b86f23e227c12c4`<br>[src/data/items.h:7318](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7318) |
+| 10263 | Heatranite | ヒードラナイト | `8fdc7c9bedb3ee66`<br>[src/data/items.h:7336](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7336) |
+| 10264 | Darkranite | ダークライナイト | `44cd9febd6b8e0e6`<br>[src/data/items.h:7354](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7354) |
+| 10265 | Zeraorite | ゼラオラナイト | `71305d2f803d9b9b`<br>[src/data/items.h:7372](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7372) |
+| 10266 | Raichunite X | ライチュウナイトX | `3d3ea09517d0ea9f`<br>[src/data/items.h:7390](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7390) |
+| 10267 | Raichunite Y | ライチュウナイトY | `70e3445802b6e2bf`<br>[src/data/items.h:7405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7405) |
+| 10268 | Chimechite | チリーンナイト | `fc756705a0b9c4bd`<br>[src/data/items.h:7420](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7420) |
+| 10269 | Absolite Z | アブソルナイトZ | `eae50d1280ce16a0`<br>[src/data/items.h:7438](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7438) |
+| 10270 | Staraptite | ムクホークナイト | `06b04636430b5da8`<br>[src/data/items.h:7453](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7453) |
+| 10271 | Garchompite Z | ガブリアスナイトZ | `858740758e361ef1`<br>[src/data/items.h:7471](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7471) |
+| 10272 | Lucarionite Z | ルカリオナイトZ | `402d75ec2be534fc`<br>[src/data/items.h:7486](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7486) |
+| 10273 | Golurkite | ゴルーグナイト | `06207ca45e113c9c`<br>[src/data/items.h:7501](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7501) |
+| 10274 | Meowsticite | ニャオニクスナイト | `1935159ea0d787f2`<br>[src/data/items.h:7519](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7519) |
+| 10275 | Crabominite | ケケンカニナイト | `207684872f575774`<br>[src/data/items.h:7537](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7537) |
+| 10276 | Golisopite | グソクムシャナイト | `b098754116651a38`<br>[src/data/items.h:7555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7555) |
+| 10277 | Magearnite | マギアナイト | `20b2b9972e8b30da`<br>[src/data/items.h:7573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7573) |
+| 10278 | Scovillainite | スコヴィラナイト | `a404137c3e1f502b`<br>[src/data/items.h:7591](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7591) |
+| 10279 | Baxcalibrite | セグレイブナイト | `94f96506f5cff122`<br>[src/data/items.h:7609](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7609) |
+| 10280 | Tatsugirinite | シャリタツナイト | `0372ee8555174e8e`<br>[src/data/items.h:7627](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7627) |
+| 10281 | Glimmoranite | キラフロルナイト | `ffcd4fa573d2cbf8`<br>[src/data/items.h:7645](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7645) |
+| 10282 | Normal Gem | ノーマルジュエル | `92fdf544212cce8c`<br>[src/data/items.h:7672](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7672) |
+| 10283 | Fire Gem | ほのおのジュエル | `37ac3f70e384c16d`<br>[src/data/items.h:7691](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7691) |
+| 10284 | Water Gem | みずのジュエル | `af6437acf90b4896`<br>[src/data/items.h:7710](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7710) |
+| 10285 | Electric Gem | でんきのジュエル | `f8685c9e4940b5ab`<br>[src/data/items.h:7729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7729) |
+| 10286 | Grass Gem | くさのジュエル | `69e473692b83fede`<br>[src/data/items.h:7748](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7748) |
+| 10287 | Ice Gem | こおりのジュエル | `56b5f7b0ad53fb3f`<br>[src/data/items.h:7767](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7767) |
+| 10288 | Fighting Gem | かくとうジュエル | `2ff1468b1b7ce682`<br>[src/data/items.h:7786](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7786) |
+| 10289 | Poison Gem | どくのジュエル | `58fd0fdbc2a03857`<br>[src/data/items.h:7805](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7805) |
+| 10290 | Ground Gem | じめんのジュエル | `3dc31076e0c91a9a`<br>[src/data/items.h:7824](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7824) |
+| 10291 | Flying Gem | ひこうのジュエル | `ce7b0e414f80f64a`<br>[src/data/items.h:7843](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7843) |
+| 10292 | Psychic Gem | エスパージュエル | `663bc763e93b420e`<br>[src/data/items.h:7862](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7862) |
+| 10293 | Bug Gem | むしのジュエル | `afccaab9cb579382`<br>[src/data/items.h:7881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7881) |
+| 10294 | Rock Gem | いわのジュエル | `95a2aad9509517b1`<br>[src/data/items.h:7900](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7900) |
+| 10295 | Ghost Gem | ゴーストジュエル | `5b0e23f2ea31d488`<br>[src/data/items.h:7919](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7919) |
+| 10296 | Dragon Gem | ドラゴンジュエル | `56c420f85bb18619`<br>[src/data/items.h:7938](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7938) |
+| 10297 | Dark Gem | あくのジュエル | `832c1c25ca1aa4a8`<br>[src/data/items.h:7957](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7957) |
+| 10298 | Steel Gem | はがねのジュエル | `a4ad7daad758205c`<br>[src/data/items.h:7976](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7976) |
+| 10299 | Fairy Gem | ようせいジュエル | `f3b857a71ecad344`<br>[src/data/items.h:7995](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L7995) |
+| 10300 | Normalium Z | ノーマルZ | `fac53252d3634fb1`<br>[src/data/items.h:8016](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8016) |
+| 10301 | Firium Z | ホノオZ | `68d00a52744788b1`<br>[src/data/items.h:8034](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8034) |
+| 10302 | Waterium Z | ミズZ | `8256b9bb20bc89ed`<br>[src/data/items.h:8052](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8052) |
+| 10303 | Electrium Z | デンキZ | `622d35718596c575`<br>[src/data/items.h:8070](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8070) |
+| 10304 | Grassium Z | クサZ | `b189eb1295226bef`<br>[src/data/items.h:8088](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8088) |
+| 10305 | Icium Z | コオリZ | `7129fd9849162759`<br>[src/data/items.h:8106](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8106) |
+| 10306 | Fightinium Z | カクトウZ | `26d48b37ede73466`<br>[src/data/items.h:8124](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8124) |
+| 10307 | Poisonium Z | ドクZ | `c759b69c080a2abe`<br>[src/data/items.h:8142](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8142) |
+| 10308 | Groundium Z | ジメンZ | `688b33bbd2d88680`<br>[src/data/items.h:8160](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8160) |
+| 10309 | Flyinium Z | ヒコウZ | `d33d6d175d6ec8de`<br>[src/data/items.h:8178](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8178) |
+| 10310 | Psychium Z | エスパーZ | `801005e2896dcc7d`<br>[src/data/items.h:8196](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8196) |
+| 10311 | Buginium Z | ムシZ | `e9cb78b510aabbaf`<br>[src/data/items.h:8214](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8214) |
+| 10312 | Rockium Z | イワZ | `97823ed3eb088f70`<br>[src/data/items.h:8232](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8232) |
+| 10313 | Ghostium Z | ゴーストZ | `a0106ac5316a85f9`<br>[src/data/items.h:8250](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8250) |
+| 10314 | Dragonium Z | ドラゴンZ | `b7dc8eec94532208`<br>[src/data/items.h:8268](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8268) |
+| 10315 | Darkinium Z | アクZ | `0beae451df049413`<br>[src/data/items.h:8286](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8286) |
+| 10316 | Steelium Z | ハガネZ | `159bdb2ff59609e5`<br>[src/data/items.h:8304](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8304) |
+| 10317 | Fairium Z | フェアリーZ | `d6e9f83ec9ffab95`<br>[src/data/items.h:8322](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8322) |
+| 10318 | Pikanium Z | ピカチュウZ | `36a50d3e9540aabe`<br>[src/data/items.h:8340](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8340) |
+| 10319 | Eevium Z | イーブイZ | `efaff48f915d27ae`<br>[src/data/items.h:8358](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8358) |
+| 10320 | Snorlium Z | カビゴンZ | `520886b36576df06`<br>[src/data/items.h:8376](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8376) |
+| 10321 | Mewnium Z | ミュウZ | `7a4a88186dcd032f`<br>[src/data/items.h:8394](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8394) |
+| 10322 | Decidium Z | ジュナイパーZ | `644baa2fefd6dfc0`<br>[src/data/items.h:8412](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8412) |
+| 10323 | Incinium Z | ガオガエンZ | `22443fc97949a090`<br>[src/data/items.h:8430](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8430) |
+| 10324 | Primarium Z | アシレーヌZ | `7cfd04fc70c1e829`<br>[src/data/items.h:8448](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8448) |
+| 10325 | Lycanium Z | ルガルガンZ | `18a73402a758bfbb`<br>[src/data/items.h:8466](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8466) |
+| 10326 | Mimikium Z | ミミッキュZ | `eb01485952104d89`<br>[src/data/items.h:8484](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8484) |
+| 10327 | Kommonium Z | ジャラランガZ | `5f7f0366c579ddd7`<br>[src/data/items.h:8502](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8502) |
+| 10328 | Tapunium Z | カプZ | `ac05ddc96bb77afa`<br>[src/data/items.h:8520](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8520) |
+| 10329 | Solganium Z | ソルガレオZ | `20d09a50c167d3c5`<br>[src/data/items.h:8538](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8538) |
+| 10330 | Lunalium Z | ルナアーラZ | `0493fc964eaa52f4`<br>[src/data/items.h:8556](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8556) |
+| 10331 | Marshadium Z | マーシャドーZ | `6ddffae9f19979ed`<br>[src/data/items.h:8574](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8574) |
+| 10332 | Aloraichium Z | アロライZ | `f524d0f93043d346`<br>[src/data/items.h:8592](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8592) |
+| 10333 | Pikashunium Z | サトピカZ | `126b755f5d047537`<br>[src/data/items.h:8610](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8610) |
+| 10334 | Ultranecrozium Z | ウルトラネクロZ | `f7bc9a7d6e97c794`<br>[src/data/items.h:8628](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8628) |
+| 10335 | Light Ball | でんきだま | `de9f6a210ac134ac`<br>[src/data/items.h:8648](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8648) |
+| 10336 | Leek | ながねぎ | `0455284510ab872f`<br>[src/data/items.h:8666](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8666) |
+| 10337 | Thick Club | ふといホネ | `dfdfa5465768fc06`<br>[src/data/items.h:8684](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8684) |
+| 10338 | Lucky Punch | ラッキーパンチ | `a5134f729e4d012a`<br>[src/data/items.h:8702](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8702) |
+| 10339 | Lucky Punches | ラッキーパンチ | `e41598eb819ee6d9`<br>[src/data/items.h:8703](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8703) |
+| 10340 | Metal Powder | メタルパウダー | `66846f5cc75ea003`<br>[src/data/items.h:8721](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8721) |
+| 10341 | Quick Powder | スピードパウダー | `a7cde2fe26ddb04c`<br>[src/data/items.h:8739](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8739) |
+| 10342 | Deep Sea Scale | しんかいのウロコ | `807b918f01b327e0`<br>[src/data/items.h:8757](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8757) |
+| 10343 | Deep Sea Tooth | しんかいのキバ | `b2f2b52d1f8d1581`<br>[src/data/items.h:8776](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8776) |
+| 10344 | Deep Sea Teeth | しんかいのキバ | `1b5d084ccb97cacd`<br>[src/data/items.h:8777](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8777) |
+| 10345 | Soul Dew | こころのしずく | `b4910c0e3ba3253e`<br>[src/data/items.h:8796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8796) |
+| 10346 | Adamant Orb | こんごうだま | `474d58a7944b8f5c`<br>[src/data/items.h:8821](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8821) |
+| 10347 | Lustrous Orb | しらたま | `f4a9553fca211241`<br>[src/data/items.h:8840](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8840) |
+| 10348 | Griseous Orb | はっきんだま | `0a699bbbe62783bd`<br>[src/data/items.h:8859](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8859) |
+| 10349 | Sea Incense | うしおのおこう | `7c3c4cc28140ddc5`<br>[src/data/items.h:8880](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8880) |
+| 10350 | Lax Incense | のんきのおこう | `2f9bb956e4bfc75f`<br>[src/data/items.h:8897](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8897) |
+| 10351 | Odd Incense | あやしいおこう | `234f6587e5816b2f`<br>[src/data/items.h:8924](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8924) |
+| 10352 | Rock Incense | がんせきおこう | `9667a158ed7d8d46`<br>[src/data/items.h:8941](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8941) |
+| 10353 | Full Incense | まんぷくおこう | `7791b96cbb4a6515`<br>[src/data/items.h:8958](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8958) |
+| 10354 | Wave Incense | さざなみのおこう | `f3051a47d99bb293`<br>[src/data/items.h:8974](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8974) |
+| 10355 | Rose Incense | おはなのおこう | `73e3e52470e893a9`<br>[src/data/items.h:8991](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L8991) |
+| 10356 | Luck Incense | こううんのおこう | `97b54c4c3638dbf7`<br>[src/data/items.h:9008](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9008) |
+| 10357 | Pure Incense | きよめのおこう | `4b922fa27f6cf504`<br>[src/data/items.h:9023](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9023) |
+| 10358 | Red Scarf | あかいバンダナ | `c98453499fe0a1a4`<br>[src/data/items.h:9040](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9040) |
+| 10359 | Red Scarves | あかいバンダナ | `80261710a879422e`<br>[src/data/items.h:9041](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9041) |
+| 10360 | Blue Scarf | あおいバンダナ | `ef47d1da85be47c1`<br>[src/data/items.h:9058](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9058) |
+| 10361 | Blue Scarves | あおいバンダナ | `a0aeb40335e74e4b`<br>[src/data/items.h:9059](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9059) |
+| 10362 | Pink Scarf | ピンクのバンダナ | `033d006ec7217bae`<br>[src/data/items.h:9076](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9076) |
+| 10363 | Pink Scarves | ピンクのバンダナ | `a319ff941bff0889`<br>[src/data/items.h:9077](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9077) |
+| 10364 | Green Scarf | みどりのバンダナ | `d78e55036db54d64`<br>[src/data/items.h:9094](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9094) |
+| 10365 | Green Scarves | みどりのバンダナ | `0753a5c44c405f36`<br>[src/data/items.h:9095](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9095) |
+| 10366 | Yellow Scarf | きいろのバンダナ | `f270ef6df14a0045`<br>[src/data/items.h:9112](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9112) |
+| 10367 | Yellow Scarves | きいろのバンダナ | `f3abaa03df8b42c2`<br>[src/data/items.h:9113](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9113) |
+| 10368 | Macho Brace | きょうせいギプス | `68c652a332147439`<br>[src/data/items.h:9132](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9132) |
+| 10369 | Power Weight | パワーウエイト | `0e3b11bf2b4c58a1`<br>[src/data/items.h:9150](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9150) |
+| 10370 | Power Bracer | パワーリスト | `0a8c2e5a8bd54957`<br>[src/data/items.h:9170](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9170) |
+| 10371 | Power Belt | パワーベルト | `a7795a46149bfb6f`<br>[src/data/items.h:9190](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9190) |
+| 10372 | Power Lens | パワーレンズ | `cb898ae870c0b1e0`<br>[src/data/items.h:9210](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9210) |
+| 10373 | Power Lenses | パワーレンズ | `93a46592d9efd8f9`<br>[src/data/items.h:9211](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9211) |
+| 10374 | Power Band | パワーバンド | `b09773741e47c277`<br>[src/data/items.h:9231](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9231) |
+| 10375 | Power Anklet | パワーアンクル | `b8f940a30dc3a5d5`<br>[src/data/items.h:9251](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9251) |
+| 10376 | Silk Scarf | シルクのスカーフ | `0cc600ee8b25bba5`<br>[src/data/items.h:9280](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9280) |
+| 10377 | Silk Scarves | シルクのスカーフ | `510ed453cb772155`<br>[src/data/items.h:9281](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9281) |
+| 10378 | Charcoal | もくたん | `3b7e849056333fc5`<br>[src/data/items.h:9301](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9301) |
+| 10379 | Mystic Water | しんぴのしずく | `11d7adf340bc0c6d`<br>[src/data/items.h:9327](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9327) |
+| 10380 | Magnet | じしゃく | `ac6bcee2900884e4`<br>[src/data/items.h:9347](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9347) |
+| 10381 | Miracle Seed | きせきのタネ | `48ce886d5f39d474`<br>[src/data/items.h:9367](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9367) |
+| 10382 | Never-Melt Ice | とけないこおり | `d8f28b2456d5b19c`<br>[src/data/items.h:9384](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9384) |
+| 10383 | Black Belt | くろおび | `6569394f1e5b2d65`<br>[src/data/items.h:9404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9404) |
+| 10384 | Poison Barb | どくバリ | `f8e9ac275dec4a61`<br>[src/data/items.h:9424](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9424) |
+| 10385 | Soft Sand | やわらかいすな | `bce8b64e8ad6f0bb`<br>[src/data/items.h:9444](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9444) |
+| 10386 | Soft Sand | やわらかいすな | `385482352a37fcf6`<br>[src/data/items.h:9445](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9445) |
+| 10387 | Sharp Beak | するどいくちばし | `62dba6279233291b`<br>[src/data/items.h:9465](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9465) |
+| 10388 | Twisted Spoon | まがったスプーン | `b55ede5a859e4bde`<br>[src/data/items.h:9485](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9485) |
+| 10389 | Silver Powder | ぎんのこな | `5b28ae099f815010`<br>[src/data/items.h:9502](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9502) |
+| 10390 | Hard Stone | かたいいし | `fb68164ca8615f72`<br>[src/data/items.h:9522](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9522) |
+| 10391 | Spell Tag | のろいのおふだ | `0340f2adced6605d`<br>[src/data/items.h:9539](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9539) |
+| 10392 | Dragon Fang | りゅうのキバ | `8f0069bd1f8a6d04`<br>[src/data/items.h:9559](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9559) |
+| 10393 | Black Glasses | くろいメガネ | `3f64c962622f7adb`<br>[src/data/items.h:9579](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9579) |
+| 10394 | Black Glasses | くろいメガネ | `b37aeb750b26f6c6`<br>[src/data/items.h:9580](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9580) |
+| 10395 | Metal Coat | メタルコート | `f22afcb325fadbb0`<br>[src/data/items.h:9600](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9600) |
+| 10396 | Choice Band | こだわりハチマキ | `bc91b866a4f7f3b5`<br>[src/data/items.h:9629](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9629) |
+| 10397 | Choice Specs | こだわりメガネ | `8f9a566566fbd2c7`<br>[src/data/items.h:9653](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9653) |
+| 10398 | Choice Specs | こだわりメガネ | `b6c7ef0b0c12287a`<br>[src/data/items.h:9654](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9654) |
+| 10399 | Choice Scarf | こだわりスカーフ | `784f02469dbe68f4`<br>[src/data/items.h:9678](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9678) |
+| 10400 | Choice Scarves | こだわりスカーフ | `7848b2bf9d56abed`<br>[src/data/items.h:9679](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9679) |
+| 10401 | Flame Orb | かえんだま | `f3489883e8bfbf8c`<br>[src/data/items.h:9705](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9705) |
+| 10402 | Toxic Orb | どくどくだま | `d25a89f912efc5af`<br>[src/data/items.h:9729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9729) |
+| 10403 | Damp Rock | しめったいわ | `a058327c1307b9a3`<br>[src/data/items.h:9755](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9755) |
+| 10404 | Heat Rock | あついいわ | `aa45f60219cc189b`<br>[src/data/items.h:9779](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9779) |
+| 10405 | Smooth Rock | さらさらいわ | `2a00b464f0331ca2`<br>[src/data/items.h:9803](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9803) |
+| 10406 | Icy Rock | つめたいいわ | `c3c325d5b3b15cd8`<br>[src/data/items.h:9827](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9827) |
+| 10407 | Electric Seed | エレキシード | `e906325799f935f1`<br>[src/data/items.h:9865](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9865) |
+| 10408 | Psychic Seed | サイコシード | `b5ec5f871eb5a1f2`<br>[src/data/items.h:9884](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9884) |
+| 10409 | Misty Seed | ミストシード | `c09d71c77799599c`<br>[src/data/items.h:9903](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9903) |
+| 10410 | Grassy Seed | グラスシード | `926c444f93202fd4`<br>[src/data/items.h:9922](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9922) |
+| 10411 | Absorb Bulb | きゅうこん | `564acfc742d34cb2`<br>[src/data/items.h:9943](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9943) |
+| 10412 | Cell Battery | じゅうでんち | `4949516fc0b20f6a`<br>[src/data/items.h:9968](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9968) |
+| 10413 | Cell Batteries | じゅうでんち | `8ddc9d73678b7406`<br>[src/data/items.h:9969](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9969) |
+| 10414 | Luminous Moss | ひかりごけ | `9ff1931359cc640b`<br>[src/data/items.h:9994](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9994) |
+| 10415 | Luminous Moss | ひかりごけ | `5988dd0529e8569a`<br>[src/data/items.h:9995](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L9995) |
+| 10416 | Snowball | ゆきだま | `90844b61a8e547ab`<br>[src/data/items.h:10020](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10020) |
+| 10417 | Bright Powder | ひかりのこな | `fc1a262d1c002362`<br>[src/data/items.h:10047](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10047) |
+| 10418 | White Herb | しろいハーブ | `f98236cabf4bddb4`<br>[src/data/items.h:10072](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10072) |
+| 10419 | Exp. Share | がくしゅうそうち | `668979862e7a748c`<br>[src/data/items.h:10096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10096) |
+| 10420 | Quick Claw | せんせいのツメ | `f5bf6e30fe2c1bd8`<br>[src/data/items.h:10124](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10124) |
+| 10421 | Soothe Bell | やすらぎのすず | `7f6934833200fc78`<br>[src/data/items.h:10149](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10149) |
+| 10422 | Mental Herb | メンタルハーブ | `2293d7897c4a973b`<br>[src/data/items.h:10173](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10173) |
+| 10423 | King's Rock | おうじゃのしるし | `9f629e0c42080008`<br>[src/data/items.h:10203](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10203) |
+| 10424 | Amulet Coin | おまもりこばん | `f25e4db26801cb32`<br>[src/data/items.h:10226](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10226) |
+| 10425 | Cleanse Tag | きよめのおふだ | `5e7d2423a309a609`<br>[src/data/items.h:10247](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10247) |
+| 10426 | Smoke Ball | けむりだま | `f7484de31c73deec`<br>[src/data/items.h:10262](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10262) |
+| 10427 | Focus Band | きあいのハチマキ | `9afda143f92e0d60`<br>[src/data/items.h:10286](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10286) |
+| 10428 | Lucky Egg | しあわせタマゴ | `06bb49305ee36996`<br>[src/data/items.h:10311](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10311) |
+| 10429 | Scope Lens | ピントレンズ | `0dd9fb49eade9e8f`<br>[src/data/items.h:10329](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10329) |
+| 10430 | Scope Lenses | ピントレンズ | `bab05bb62b249b3e`<br>[src/data/items.h:10330](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10330) |
+| 10431 | Leftovers | たべのこし | `cdda6c904bfd61c1`<br>[src/data/items.h:10354](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10354) |
+| 10432 | Leftovers | たべのこし | `538134e2e09996f6`<br>[src/data/items.h:10355](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10355) |
+| 10433 | Shell Bell | かいがらのすず | `b4f49464f83505e5`<br>[src/data/items.h:10380](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10380) |
+| 10434 | Wide Lens | こうかくレンズ | `0a4a9e651e1682fb`<br>[src/data/items.h:10405](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10405) |
+| 10435 | Wide Lenses | こうかくレンズ | `a83c9dfc57aec69d`<br>[src/data/items.h:10406](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10406) |
+| 10436 | Muscle Band | ちからのハチマキ | `f36711237066976d`<br>[src/data/items.h:10431](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10431) |
+| 10437 | Wise Glasses | ものしりメガネ | `45c5e98ae3f42948`<br>[src/data/items.h:10456](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10456) |
+| 10438 | Wise Glasses | ものしりメガネ | `d9c3f80f92d0bb90`<br>[src/data/items.h:10457](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10457) |
+| 10439 | Expert Belt | たつじんのおび | `ee3e91c4984f9c3b`<br>[src/data/items.h:10482](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10482) |
+| 10440 | Light Clay | ひかりのねんど | `f8d54e8c2a894ab9`<br>[src/data/items.h:10507](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10507) |
+| 10441 | Life Orb | いのちのたま | `0b99329ed3476999`<br>[src/data/items.h:10531](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10531) |
+| 10442 | Power Herb | パワフルハーブ | `243b6f0264468ff3`<br>[src/data/items.h:10555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10555) |
+| 10443 | Focus Sash | きあいのタスキ | `32343217f91632d6`<br>[src/data/items.h:10579](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10579) |
+| 10444 | Focus Sashes | きあいのタスキ | `e9a5b46fa9d55bfa`<br>[src/data/items.h:10580](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10580) |
+| 10445 | Zoom Lens | フォーカスレンズ | `c4f63d3e4e15fa9c`<br>[src/data/items.h:10604](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10604) |
+| 10446 | Zoom Lenses | フォーカスレンズ | `0ebe64fa25c7c5aa`<br>[src/data/items.h:10605](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10605) |
+| 10447 | Metronome | メトロノーム | `0ad3bdc7d5d9058a`<br>[src/data/items.h:10630](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10630) |
+| 10448 | Iron Ball | くろいてっきゅう | `c3318b225b7d684f`<br>[src/data/items.h:10655](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10655) |
+| 10449 | Lagging Tail | こうこうのしっぽ | `3cc8638406929384`<br>[src/data/items.h:10679](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10679) |
+| 10450 | Destiny Knot | あかいいと | `de1e737fdbfa40b0`<br>[src/data/items.h:10700](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10700) |
+| 10451 | Black Sludge | くろいヘドロ | `0a6b05044636d40c`<br>[src/data/items.h:10724](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10724) |
+| 10452 | Grip Claw | ねばりのかぎづめ | `3d01d14bce68e284`<br>[src/data/items.h:10748](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10748) |
+| 10453 | Sticky Barb | くっつきバリ | `1b286f8752e91b95`<br>[src/data/items.h:10772](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10772) |
+| 10454 | Shed Shell | きれいなぬけがら | `754770d649b14081`<br>[src/data/items.h:10796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10796) |
+| 10455 | Big Root | おおきなねっこ | `b66a5c6a42c26690`<br>[src/data/items.h:10820](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10820) |
+| 10456 | Razor Claw | するどいツメ | `9b1ad57c1a420ba9`<br>[src/data/items.h:10845](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10845) |
+| 10457 | Razor Fang | するどいキバ | `9af522a332c67e8d`<br>[src/data/items.h:10870](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10870) |
+| 10458 | Eviolite | しんかのきせき | `103415a5965ea6a0`<br>[src/data/items.h:10893](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10893) |
+| 10459 | Float Stone | かるいし | `b6171f2ce480adbb`<br>[src/data/items.h:10918](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10918) |
+| 10460 | Rocky Helmet | ゴツゴツメット | `14073425068603f9`<br>[src/data/items.h:10942](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10942) |
+| 10461 | Air Balloon | ふうせん | `fc354f26cecebce1`<br>[src/data/items.h:10967](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10967) |
+| 10462 | Red Card | レッドカード | `03733d652efd0ec1`<br>[src/data/items.h:10992](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L10992) |
+| 10463 | Ring Target | ねらいのまと | `e5741256d63678f1`<br>[src/data/items.h:11017](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11017) |
+| 10464 | Binding Band | しめつけバンド | `5fb79f8370a340ac`<br>[src/data/items.h:11042](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11042) |
+| 10465 | Eject Button | だっしゅつボタン | `8fe32c8920368520`<br>[src/data/items.h:11066](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11066) |
+| 10466 | Weakness Policy | じゃくてんほけん | `235c2477f8d7995f`<br>[src/data/items.h:11091](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11091) |
+| 10467 | Weakness Policies | じゃくてんほけん | `248148f7b11d4fb9`<br>[src/data/items.h:11092](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11092) |
+| 10468 | Assault Vest | とつげきチョッキ | `d9b014e053da8002`<br>[src/data/items.h:11111](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11111) |
+| 10469 | Safety Goggles | ぼうじんゴーグル | `732c00a1e0911e3b`<br>[src/data/items.h:11130](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11130) |
+| 10470 | Safety Goggles | ぼうじんゴーグル | `d13285f10ddc225f`<br>[src/data/items.h:11131](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11131) |
+| 10471 | Adrenaline Orb | ビビリだま | `cf532f1a6cbc124d`<br>[src/data/items.h:11155](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11155) |
+| 10472 | Terrain Extender | グランドコート | `8ef575e66eb848b8`<br>[src/data/items.h:11179](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11179) |
+| 10473 | Protective Pads | ぼうごパット | `629ebe79c8d5f029`<br>[src/data/items.h:11197](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11197) |
+| 10474 | Protective Pads | ぼうごパット | `5343f329389f33b0`<br>[src/data/items.h:11198](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11198) |
+| 10475 | Throat Spray | のどスプレー | `a34c435e5493812f`<br>[src/data/items.h:11216](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11216) |
+| 10476 | Eject Pack | だっしゅつパック | `847dbe943a75914e`<br>[src/data/items.h:11234](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11234) |
+| 10477 | Heavy-Duty Boots | あつぞこブーツ | `01426fe7ea1a46cb`<br>[src/data/items.h:11252](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11252) |
+| 10478 | Heavy-Duty Boots | あつぞこブーツ | `334e34c1efd46d25`<br>[src/data/items.h:11253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11253) |
+| 10479 | Blunder Policy | からぶりほけん | `5d5f60e9278e852c`<br>[src/data/items.h:11271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11271) |
+| 10480 | Blunder Policies | からぶりほけん | `95704590fe0801a0`<br>[src/data/items.h:11272](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11272) |
+| 10481 | Room Service | ルームサービス | `fe4bdf087ead5d5b`<br>[src/data/items.h:11290](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11290) |
+| 10482 | Utility Umbrella | ばんのうがさ | `295dadc357d53282`<br>[src/data/items.h:11308](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11308) |
+| 10483 | Cheri Berry | クラボのみ | `d66582405a5ebd88`<br>[src/data/items.h:11328](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11328) |
+| 10484 | Cheri Berries | クラボのみ | `0668dafb1f8c499e`<br>[src/data/items.h:11329](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11329) |
+| 10485 | Chesto Berry | カゴのみ | `f36fd012fa0e4b37`<br>[src/data/items.h:11348](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11348) |
+| 10486 | Chesto Berries | カゴのみ | `ccd1c62fbba15636`<br>[src/data/items.h:11349](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11349) |
+| 10487 | Pecha Berry | モモンのみ | `5543e408af0a2791`<br>[src/data/items.h:11368](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11368) |
+| 10488 | Pecha Berries | モモンのみ | `16b3c09c39e1c399`<br>[src/data/items.h:11369](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11369) |
+| 10489 | Rawst Berry | チーゴのみ | `8f05e35489bd9a0e`<br>[src/data/items.h:11388](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11388) |
+| 10490 | Rawst Berries | チーゴのみ | `ef7d8b1071978f0b`<br>[src/data/items.h:11389](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11389) |
+| 10491 | Aspear Berry | ナナシのみ | `debed01db5cb44e8`<br>[src/data/items.h:11408](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11408) |
+| 10492 | Aspear Berries | ナナシのみ | `275cbb36763f7262`<br>[src/data/items.h:11409](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11409) |
+| 10493 | Leppa Berry | ヒメリのみ | `e0f558fdb915b3dd`<br>[src/data/items.h:11428](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11428) |
+| 10494 | Leppa Berries | ヒメリのみ | `c7c69e83cf0a9c18`<br>[src/data/items.h:11429](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11429) |
+| 10495 | Oran Berry | オレンのみ | `44ad0b843f056268`<br>[src/data/items.h:11449](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11449) |
+| 10496 | Oran Berries | オレンのみ | `37e045b72eca9028`<br>[src/data/items.h:11450](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11450) |
+| 10497 | Persim Berry | キーのみ | `6be1d43719931eb6`<br>[src/data/items.h:11470](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11470) |
+| 10498 | Persim Berries | キーのみ | `8634cd8dd509aa02`<br>[src/data/items.h:11471](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11471) |
+| 10499 | Lum Berry | ラムのみ | `839617762637d97b`<br>[src/data/items.h:11490](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11490) |
+| 10500 | Lum Berries | ラムのみ | `4045ccab66288c8c`<br>[src/data/items.h:11491](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11491) |
+| 10501 | Sitrus Berry | オボンのみ | `667fc5c49eb2b2c7`<br>[src/data/items.h:11510](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11510) |
+| 10502 | Sitrus Berries | オボンのみ | `6bff12417ed292e1`<br>[src/data/items.h:11511](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11511) |
+| 10503 | Figy Berry | フィラのみ | `ef4a81b7149f6a7e`<br>[src/data/items.h:11540](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11540) |
+| 10504 | Figy Berries | フィラのみ | `748de63b308640e7`<br>[src/data/items.h:11541](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11541) |
+| 10505 | Wiki Berry | ウイのみ | `863a1d70aa8be40b`<br>[src/data/items.h:11556](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11556) |
+| 10506 | Wiki Berries | ウイのみ | `415e49fb2541db32`<br>[src/data/items.h:11557](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11557) |
+| 10507 | Mago Berry | マゴのみ | `89d650db6ab4ae59`<br>[src/data/items.h:11572](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11572) |
+| 10508 | Mago Berries | マゴのみ | `97cfcaf39049c0ef`<br>[src/data/items.h:11573](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11573) |
+| 10509 | Aguav Berry | バンジのみ | `831f196c2ca02901`<br>[src/data/items.h:11588](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11588) |
+| 10510 | Aguav Berries | バンジのみ | `45481d3b9dc0b2a9`<br>[src/data/items.h:11589](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11589) |
+| 10511 | Iapapa Berry | イアのみ | `797510ee8f9e415c`<br>[src/data/items.h:11604](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11604) |
+| 10512 | Iapapa Berries | イアのみ | `9995eb90e2293c35`<br>[src/data/items.h:11605](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11605) |
+| 10513 | Razz Berry | ズリのみ | `381a22e506d806c4`<br>[src/data/items.h:11620](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11620) |
+| 10514 | Razz Berries | ズリのみ | `22e777ec93c24633`<br>[src/data/items.h:11621](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11621) |
+| 10515 | Bluk Berry | ブリーのみ | `9b12bd4aff85673b`<br>[src/data/items.h:11637](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11637) |
+| 10516 | Bluk Berries | ブリーのみ | `bd49ebc22bebd73a`<br>[src/data/items.h:11638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11638) |
+| 10517 | Nanab Berry | ナナのみ | `1118f8d811f994a6`<br>[src/data/items.h:11654](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11654) |
+| 10518 | Nanab Berries | ナナのみ | `ac8abaf3e2759017`<br>[src/data/items.h:11655](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11655) |
+| 10519 | Wepear Berry | セシナのみ | `a18c01f3b0074a71`<br>[src/data/items.h:11671](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11671) |
+| 10520 | Wepear Berries | セシナのみ | `ba2f0d55c3d357d9`<br>[src/data/items.h:11672](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11672) |
+| 10521 | Pinap Berry | パイルのみ | `c41a23f27a4e0eb5`<br>[src/data/items.h:11688](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11688) |
+| 10522 | Pinap Berries | パイルのみ | `5c293482ae4de371`<br>[src/data/items.h:11689](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11689) |
+| 10523 | Pomeg Berry | ザロクのみ | `2df48137699279d2`<br>[src/data/items.h:11705](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11705) |
+| 10524 | Pomeg Berries | ザロクのみ | `f0418f2dc9f5440f`<br>[src/data/items.h:11706](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11706) |
+| 10525 | Kelpsy Berry | ネコブのみ | `31a892b52a8aabc2`<br>[src/data/items.h:11723](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11723) |
+| 10526 | Kelpsy Berries | ネコブのみ | `d265c6cdec086fbe`<br>[src/data/items.h:11724](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11724) |
+| 10527 | Qualot Berry | タポルのみ | `bdef8c9f5ab57713`<br>[src/data/items.h:11741](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11741) |
+| 10528 | Qualot Berries | タポルのみ | `cd707703b9c60f77`<br>[src/data/items.h:11742](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11742) |
+| 10529 | Hondew Berry | ロメのみ | `3e249e4870fedc90`<br>[src/data/items.h:11759](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11759) |
+| 10530 | Hondew Berries | ロメのみ | `f36376c98d9b7042`<br>[src/data/items.h:11760](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11760) |
+| 10531 | Grepa Berry | ウブのみ | `3619730b7c3806b2`<br>[src/data/items.h:11777](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11777) |
+| 10532 | Grepa Berries | ウブのみ | `dd65e1f4e55eb20a`<br>[src/data/items.h:11778](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11778) |
+| 10533 | Tamato Berry | マトマのみ | `a2b50ba5c7fbbb4c`<br>[src/data/items.h:11795](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11795) |
+| 10534 | Tamato Berries | マトマのみ | `4e9800021a7d6a8a`<br>[src/data/items.h:11796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11796) |
+| 10535 | Cornn Berry | モコシのみ | `3c8be5b8861feaf8`<br>[src/data/items.h:11813](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11813) |
+| 10536 | Cornn Berries | モコシのみ | `77e6a7800db7af0f`<br>[src/data/items.h:11814](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11814) |
+| 10537 | Magost Berry | ゴスのみ | `32bc0d514a9763c1`<br>[src/data/items.h:11830](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11830) |
+| 10538 | Magost Berries | ゴスのみ | `e81b08d3edeca1cc`<br>[src/data/items.h:11831](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11831) |
+| 10539 | Rabuta Berry | ラブタのみ | `03e400c70958c6be`<br>[src/data/items.h:11847](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11847) |
+| 10540 | Rabuta Berries | ラブタのみ | `225d6b6df842deab`<br>[src/data/items.h:11848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11848) |
+| 10541 | Nomel Berry | ノメルのみ | `85838467192a5ffb`<br>[src/data/items.h:11864](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11864) |
+| 10542 | Nomel Berries | ノメルのみ | `5aafd66aff804e23`<br>[src/data/items.h:11865](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11865) |
+| 10543 | Spelon Berry | ノワキのみ | `88f7e1a02760d1b7`<br>[src/data/items.h:11881](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11881) |
+| 10544 | Spelon Berries | ノワキのみ | `6bfba52536031c78`<br>[src/data/items.h:11882](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11882) |
+| 10545 | Pamtre Berry | シーヤのみ | `77bb46bb549dae06`<br>[src/data/items.h:11898](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11898) |
+| 10546 | Pamtre Berries | シーヤのみ | `5c990624104ef895`<br>[src/data/items.h:11899](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11899) |
+| 10547 | Watmel Berry | カイスのみ | `152b335681452174`<br>[src/data/items.h:11915](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11915) |
+| 10548 | Watmel Berries | カイスのみ | `e881a0d95ccecfc0`<br>[src/data/items.h:11916](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11916) |
+| 10549 | Durin Berry | ドリのみ | `a449921f4dfd7743`<br>[src/data/items.h:11932](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11932) |
+| 10550 | Durin Berries | ドリのみ | `7882fa056bec0029`<br>[src/data/items.h:11933](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11933) |
+| 10551 | Belue Berry | ベリブのみ | `51b379ba21aeece3`<br>[src/data/items.h:11949](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11949) |
+| 10552 | Belue Berries | ベリブのみ | `b2c084cb8076b94d`<br>[src/data/items.h:11950](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11950) |
+| 10553 | Chilan Berry | ホズのみ | `bbec610471a0424b`<br>[src/data/items.h:11966](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11966) |
+| 10554 | Chilan Berries | ホズのみ | `3c58129fd6d874a8`<br>[src/data/items.h:11967](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11967) |
+| 10555 | Occa Berry | オッカのみ | `daee10cbc85807cc`<br>[src/data/items.h:11985](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11985) |
+| 10556 | Occa Berries | オッカのみ | `f4d9e5f4a3934804`<br>[src/data/items.h:11986](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L11986) |
+| 10557 | Passho Berry | イトケのみ | `673181eb7953ba03`<br>[src/data/items.h:12004](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12004) |
+| 10558 | Passho Berries | イトケのみ | `e86d2bc31e3bfad6`<br>[src/data/items.h:12005](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12005) |
+| 10559 | Wacan Berry | ソクノのみ | `d4bd7a2bb3d245f1`<br>[src/data/items.h:12023](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12023) |
+| 10560 | Wacan Berries | ソクノのみ | `c9fb5cb069e43e73`<br>[src/data/items.h:12024](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12024) |
+| 10561 | Rindo Berry | リンドのみ | `536597f609ab9590`<br>[src/data/items.h:12042](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12042) |
+| 10562 | Rindo Berries | リンドのみ | `553cc5a09046ea8d`<br>[src/data/items.h:12043](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12043) |
+| 10563 | Yache Berry | ヤチェのみ | `642463b6dbae33c4`<br>[src/data/items.h:12061](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12061) |
+| 10564 | Yache Berries | ヤチェのみ | `0b750eacda68dbe6`<br>[src/data/items.h:12062](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12062) |
+| 10565 | Chople Berry | ヨプのみ | `b0c4371ea961c13a`<br>[src/data/items.h:12080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12080) |
+| 10566 | Chople Berries | ヨプのみ | `3aafd8c3c88122cb`<br>[src/data/items.h:12081](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12081) |
+| 10567 | Kebia Berry | ビアーのみ | `329e2f2cb6059d4f`<br>[src/data/items.h:12099](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12099) |
+| 10568 | Kebia Berries | ビアーのみ | `6d9c165fd0ad20db`<br>[src/data/items.h:12100](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12100) |
+| 10569 | Shuca Berry | シュカのみ | `340ea820b38ecb03`<br>[src/data/items.h:12118](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12118) |
+| 10570 | Shuca Berries | シュカのみ | `3bc0ef9a67dd1aa5`<br>[src/data/items.h:12119](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12119) |
+| 10571 | Coba Berry | バコウのみ | `8af62854aa511bab`<br>[src/data/items.h:12137](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12137) |
+| 10572 | Coba Berries | バコウのみ | `26059d7e9794aa7f`<br>[src/data/items.h:12138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12138) |
+| 10573 | Payapa Berry | ウタンのみ | `a0f6cfa2054c37bf`<br>[src/data/items.h:12156](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12156) |
+| 10574 | Payapa Berries | ウタンのみ | `9266ad3302c52d0a`<br>[src/data/items.h:12157](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12157) |
+| 10575 | Tanga Berry | タンガのみ | `1f17bd6c7b1ee8f3`<br>[src/data/items.h:12175](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12175) |
+| 10576 | Tanga Berries | タンガのみ | `c1dd76e262f00a02`<br>[src/data/items.h:12176](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12176) |
+| 10577 | Charti Berry | ヨロギのみ | `20c4233b829bbea1`<br>[src/data/items.h:12194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12194) |
+| 10578 | Charti Berries | ヨロギのみ | `b992e90983b507d7`<br>[src/data/items.h:12195](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12195) |
+| 10579 | Kasib Berry | カシブのみ | `38f6f710aece8dc9`<br>[src/data/items.h:12213](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12213) |
+| 10580 | Kasib Berries | カシブのみ | `5c4cdf1d9ab853bf`<br>[src/data/items.h:12214](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12214) |
+| 10581 | Haban Berry | ハバンのみ | `7d85f8115f33390d`<br>[src/data/items.h:12232](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12232) |
+| 10582 | Haban Berries | ハバンのみ | `0a57dc3f17ed67cf`<br>[src/data/items.h:12233](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12233) |
+| 10583 | Colbur Berry | ナモのみ | `f8c8510725bedec2`<br>[src/data/items.h:12251](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12251) |
+| 10584 | Colbur Berries | ナモのみ | `64f9db0335414edc`<br>[src/data/items.h:12252](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12252) |
+| 10585 | Babiri Berry | リリバのみ | `40f37ffdce599ceb`<br>[src/data/items.h:12270](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12270) |
+| 10586 | Babiri Berries | リリバのみ | `3f4532541a3a85bd`<br>[src/data/items.h:12271](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12271) |
+| 10587 | Roseli Berry | ロゼルのみ | `933c84edaf8dd197`<br>[src/data/items.h:12289](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12289) |
+| 10588 | Roseli Berries | ロゼルのみ | `13a300231786f73d`<br>[src/data/items.h:12290](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12290) |
+| 10589 | Liechi Berry | チイラのみ | `26bb6b13327e438f`<br>[src/data/items.h:12308](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12308) |
+| 10590 | Liechi Berries | チイラのみ | `6a1fab51e30bd24f`<br>[src/data/items.h:12309](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12309) |
+| 10591 | Ganlon Berry | リュガのみ | `689f3a0a3595549f`<br>[src/data/items.h:12327](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12327) |
+| 10592 | Ganlon Berries | リュガのみ | `fe251fecf57d73d1`<br>[src/data/items.h:12328](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12328) |
+| 10593 | Salac Berry | カムラのみ | `b0ac4511a7552a71`<br>[src/data/items.h:12346](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12346) |
+| 10594 | Salac Berries | カムラのみ | `f6d3f1633deaf5d1`<br>[src/data/items.h:12347](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12347) |
+| 10595 | Petaya Berry | ヤタピのみ | `b2a10c566c4a8157`<br>[src/data/items.h:12365](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12365) |
+| 10596 | Petaya Berries | ヤタピのみ | `0d976b55e0d4dee8`<br>[src/data/items.h:12366](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12366) |
+| 10597 | Apicot Berry | ズアのみ | `df967a295403c2f9`<br>[src/data/items.h:12384](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12384) |
+| 10598 | Apicot Berries | ズアのみ | `79c939f25ade5b18`<br>[src/data/items.h:12385](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12385) |
+| 10599 | Lansat Berry | サンのみ | `e2c221e04a4ccc62`<br>[src/data/items.h:12403](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12403) |
+| 10600 | Lansat Berries | サンのみ | `829481ffdc6d41ce`<br>[src/data/items.h:12404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12404) |
+| 10601 | Starf Berry | スターのみ | `0fbac5be4ab63f3e`<br>[src/data/items.h:12422](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12422) |
+| 10602 | Starf Berries | スターのみ | `2f5322498e5daf9f`<br>[src/data/items.h:12423](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12423) |
+| 10603 | Enigma Berry | ナゾのみ | `8dfa389f6e3aa51b`<br>[src/data/items.h:12441](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12441) |
+| 10604 | Enigma Berries | ナゾのみ | `68182ad1fccde4da`<br>[src/data/items.h:12442](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12442) |
+| 10605 | Micle Berry | ミクルのみ | `2fee341842d883ac`<br>[src/data/items.h:12459](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12459) |
+| 10606 | Micle Berries | ミクルのみ | `07d7dba572c38309`<br>[src/data/items.h:12460](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12460) |
+| 10607 | Custap Berry | イバンのみ | `8aa31977183be76d`<br>[src/data/items.h:12478](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12478) |
+| 10608 | Custap Berries | イバンのみ | `5874c57c521c0f02`<br>[src/data/items.h:12479](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12479) |
+| 10609 | Jaboca Berry | ジャポのみ | `3c3eb81e549e91c3`<br>[src/data/items.h:12497](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12497) |
+| 10610 | Jaboca Berries | ジャポのみ | `2c4e859696914d30`<br>[src/data/items.h:12498](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12498) |
+| 10611 | Rowap Berry | レンブのみ | `9a36a3c6d87501a9`<br>[src/data/items.h:12515](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12515) |
+| 10612 | Rowap Berries | レンブのみ | `d40e96e68dbbaed6`<br>[src/data/items.h:12516](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12516) |
+| 10613 | Kee Berry | アッキのみ | `4fd27cff0e53ca9a`<br>[src/data/items.h:12533](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12533) |
+| 10614 | Kee Berries | アッキのみ | `61f5eec227194343`<br>[src/data/items.h:12534](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12534) |
+| 10615 | Maranga Berry | タラプのみ | `0f9790437a226988`<br>[src/data/items.h:12551](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12551) |
+| 10616 | Maranga Berries | タラプのみ | `251159da4ee75feb`<br>[src/data/items.h:12552](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12552) |
+| 10617 | Enigma Berry | ナゾのみ | `da35bd3ed36afe14`<br>[src/data/items.h:12569](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12569) |
+| 10618 | Enigma Berries | ナゾのみ | `686aa2b96d3a8943`<br>[src/data/items.h:12570](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12570) |
+| 10619 | TM01 | わざマシン01 | `08400417c4babf13`<br>[src/data/items.h:12589](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12589) |
+| 10620 | TM02 | わざマシン02 | `4e4e512ebdaba84e`<br>[src/data/items.h:12603](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12603) |
+| 10621 | TM03 | わざマシン03 | `81aa3621bd7f960d`<br>[src/data/items.h:12617](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12617) |
+| 10622 | TM04 | わざマシン04 | `4997967d06bdafbe`<br>[src/data/items.h:12631](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12631) |
+| 10623 | TM05 | わざマシン05 | `8c6ae5112674041d`<br>[src/data/items.h:12645](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12645) |
+| 10624 | TM06 | わざマシン06 | `f313905bd161011c`<br>[src/data/items.h:12659](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12659) |
+| 10625 | TM07 | わざマシン07 | `b3f1df076ac08ea6`<br>[src/data/items.h:12673](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12673) |
+| 10626 | TM08 | わざマシン08 | `b572d12a89a39876`<br>[src/data/items.h:12694](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12694) |
+| 10627 | TM09 | わざマシン09 | `6bae2bcbe0ff77b2`<br>[src/data/items.h:12708](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12708) |
+| 10628 | TM10 | わざマシン10 | `935557bebc7a1938`<br>[src/data/items.h:12722](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12722) |
+| 10629 | TM11 | わざマシン11 | `988692acb394b7c7`<br>[src/data/items.h:12736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12736) |
+| 10630 | TM12 | わざマシン12 | `d09e7f7ef165a703`<br>[src/data/items.h:12750](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12750) |
+| 10631 | TM13 | わざマシン13 | `6bb6a8bb3778cd84`<br>[src/data/items.h:12764](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12764) |
+| 10632 | TM14 | わざマシン14 | `5258da79c0f60fb2`<br>[src/data/items.h:12782](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12782) |
+| 10633 | TM15 | わざマシン15 | `4572cf765f6725de`<br>[src/data/items.h:12802](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12802) |
+| 10634 | TM16 | わざマシン16 | `aaea32764974da37`<br>[src/data/items.h:12816](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12816) |
+| 10635 | TM17 | わざマシン17 | `76e9e2e0b0d79301`<br>[src/data/items.h:12830](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12830) |
+| 10636 | TM18 | わざマシン18 | `fe61f8b065037d75`<br>[src/data/items.h:12844](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12844) |
+| 10637 | TM19 | わざマシン19 | `1bd937ab6aac0648`<br>[src/data/items.h:12858](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12858) |
+| 10638 | TM20 | わざマシン20 | `4db43c0c5a059742`<br>[src/data/items.h:12872](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12872) |
+| 10639 | TM21 | わざマシン21 | `1301e44db471d8d7`<br>[src/data/items.h:12886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12886) |
+| 10640 | TM22 | わざマシン22 | `b0827af2b8406843`<br>[src/data/items.h:12900](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12900) |
+| 10641 | TM23 | わざマシン23 | `f6600b2b1133cc24`<br>[src/data/items.h:12914](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12914) |
+| 10642 | TM24 | わざマシン24 | `b370e560ace86a76`<br>[src/data/items.h:12928](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12928) |
+| 10643 | TM25 | わざマシン25 | `a076004f24c8e75e`<br>[src/data/items.h:12942](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12942) |
+| 10644 | TM26 | わざマシン26 | `a3e89640774874e3`<br>[src/data/items.h:12956](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12956) |
+| 10645 | TM27 | わざマシン27 | `5542b6f364a1fde3`<br>[src/data/items.h:12970](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12970) |
+| 10646 | TM28 | わざマシン28 | `c02eca7b6a24af58`<br>[src/data/items.h:12984](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12984) |
+| 10647 | TM29 | わざマシン29 | `d4e214dfd07683dc`<br>[src/data/items.h:12998](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L12998) |
+| 10648 | TM30 | わざマシン30 | `c31c2d6c37a1ea6a`<br>[src/data/items.h:13012](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13012) |
+| 10649 | TM31 | わざマシン31 | `d51850f8c0a16471`<br>[src/data/items.h:13026](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13026) |
+| 10650 | TM32 | わざマシン32 | `e04ef9d4b20dbb83`<br>[src/data/items.h:13040](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13040) |
+| 10651 | TM33 | わざマシン33 | `8824c0b384abd08c`<br>[src/data/items.h:13054](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13054) |
+| 10652 | TM34 | わざマシン34 | `87a0eee25cc85747`<br>[src/data/items.h:13068](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13068) |
+| 10653 | TM35 | わざマシン35 | `2d94c4b2673652f3`<br>[src/data/items.h:13082](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13082) |
+| 10654 | TM36 | わざマシン36 | `a7c633c55d59aef0`<br>[src/data/items.h:13096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13096) |
+| 10655 | TM37 | わざマシン37 | `d0d8f88817130c84`<br>[src/data/items.h:13110](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13110) |
+| 10656 | TM38 | わざマシン38 | `eff28bb8ec40cb40`<br>[src/data/items.h:13124](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13124) |
+| 10657 | TM39 | わざマシン39 | `08ba8a29e2b5b48b`<br>[src/data/items.h:13138](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13138) |
+| 10658 | TM40 | わざマシン40 | `17370f829c31801d`<br>[src/data/items.h:13152](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13152) |
+| 10659 | TM41 | わざマシン41 | `4650639cb25e126a`<br>[src/data/items.h:13166](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13166) |
+| 10660 | TM42 | わざマシン42 | `531e8f9088c22746`<br>[src/data/items.h:13180](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13180) |
+| 10661 | TM43 | わざマシン43 | `c8b68882106801d3`<br>[src/data/items.h:13194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13194) |
+| 10662 | TM44 | わざマシン44 | `4b5227576d092296`<br>[src/data/items.h:13208](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13208) |
+| 10663 | TM45 | わざマシン45 | `f44e9d83a733c78b`<br>[src/data/items.h:13222](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13222) |
+| 10664 | TM46 | わざマシン46 | `623d241bbbb20a02`<br>[src/data/items.h:13236](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13236) |
+| 10665 | TM47 | わざマシン47 | `21678b14f6ba7dba`<br>[src/data/items.h:13250](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13250) |
+| 10666 | TM48 | わざマシン48 | `8351b38a9df856e4`<br>[src/data/items.h:13264](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13264) |
+| 10667 | TM49 | わざマシン49 | `47ccb8c51f3fc938`<br>[src/data/items.h:13278](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13278) |
+| 10668 | TM50 | わざマシン50 | `f85361c59d4da3d2`<br>[src/data/items.h:13292](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13292) |
+| 10669 | TM51 | わざマシン51 | `c44283d9919e2eeb`<br>[src/data/items.h:13306](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13306) |
+| 10670 | TM52 | わざマシン52 | `37ba3038e604c90a`<br>[src/data/items.h:13320](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13320) |
+| 10671 | TM53 | わざマシン53 | `118e8c7c9cb1b0a6`<br>[src/data/items.h:13334](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13334) |
+| 10672 | TM54 | わざマシン54 | `7daaa6a34e44d02f`<br>[src/data/items.h:13348](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13348) |
+| 10673 | TM55 | わざマシン55 | `dd57a2e0191b4f56`<br>[src/data/items.h:13362](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13362) |
+| 10674 | TM56 | わざマシン56 | `d7fdc7b9278e5d0e`<br>[src/data/items.h:13376](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13376) |
+| 10675 | TM57 | わざマシン57 | `1303764766b2f388`<br>[src/data/items.h:13390](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13390) |
+| 10676 | TM58 | わざマシン58 | `2941d278e2670055`<br>[src/data/items.h:13404](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13404) |
+| 10677 | TM59 | わざマシン59 | `74109c98f2cf5a5d`<br>[src/data/items.h:13418](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13418) |
+| 10678 | TM60 | わざマシン60 | `98ecd26af9a1265f`<br>[src/data/items.h:13432](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13432) |
+| 10679 | TM61 | わざマシン61 | `d8889b3f8e3279f6`<br>[src/data/items.h:13443](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13443) |
+| 10680 | TM62 | わざマシン62 | `ac2f96134c08cb13`<br>[src/data/items.h:13454](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13454) |
+| 10681 | TM63 | わざマシン63 | `1350d3287c07a12b`<br>[src/data/items.h:13465](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13465) |
+| 10682 | TM64 | わざマシン64 | `8fe7151662be61e4`<br>[src/data/items.h:13476](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13476) |
+| 10683 | TM65 | わざマシン65 | `7c640b959f572537`<br>[src/data/items.h:13487](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13487) |
+| 10684 | TM66 | わざマシン66 | `dc7ac244c3e2c8cd`<br>[src/data/items.h:13498](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13498) |
+| 10685 | TM67 | わざマシン67 | `25ad67b64a3b49bd`<br>[src/data/items.h:13509](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13509) |
+| 10686 | TM68 | わざマシン68 | `6e4c4e45f9992604`<br>[src/data/items.h:13520](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13520) |
+| 10687 | TM69 | わざマシン69 | `e7dda7b84e4ac2e0`<br>[src/data/items.h:13531](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13531) |
+| 10688 | TM70 | わざマシン70 | `52a0bb1a665168bc`<br>[src/data/items.h:13542](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13542) |
+| 10689 | TM71 | わざマシン71 | `55991b1d0d458b81`<br>[src/data/items.h:13553](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13553) |
+| 10690 | TM72 | わざマシン72 | `4bf183dd2463c620`<br>[src/data/items.h:13564](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13564) |
+| 10691 | TM73 | わざマシン73 | `0cb02ab398dba37a`<br>[src/data/items.h:13575](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13575) |
+| 10692 | TM74 | わざマシン74 | `74f0fdc0c41aa4d1`<br>[src/data/items.h:13586](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13586) |
+| 10693 | TM75 | わざマシン75 | `61a7d00219a61157`<br>[src/data/items.h:13597](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13597) |
+| 10694 | TM76 | わざマシン76 | `f03225ddd91d8d40`<br>[src/data/items.h:13608](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13608) |
+| 10695 | TM77 | わざマシン77 | `18198ff7f90068d3`<br>[src/data/items.h:13619](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13619) |
+| 10696 | TM78 | わざマシン78 | `d48b775a9ba91df0`<br>[src/data/items.h:13630](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13630) |
+| 10697 | TM79 | わざマシン79 | `721d664d14ecddf4`<br>[src/data/items.h:13641](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13641) |
+| 10698 | TM80 | わざマシン80 | `f892eb7e87920c71`<br>[src/data/items.h:13652](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13652) |
+| 10699 | TM81 | わざマシン81 | `94b3950c041f65d2`<br>[src/data/items.h:13663](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13663) |
+| 10700 | TM82 | わざマシン82 | `4c963cdf93a1cd7b`<br>[src/data/items.h:13674](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13674) |
+| 10701 | TM83 | わざマシン83 | `09408ac32c4d3e13`<br>[src/data/items.h:13685](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13685) |
+| 10702 | TM84 | わざマシン84 | `99a360e813cfc9d0`<br>[src/data/items.h:13696](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13696) |
+| 10703 | TM85 | わざマシン85 | `58fe877f5ea4714d`<br>[src/data/items.h:13707](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13707) |
+| 10704 | TM86 | わざマシン86 | `7b8244fb2f277d84`<br>[src/data/items.h:13718](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13718) |
+| 10705 | TM87 | わざマシン87 | `5bf77ab1769fb5b0`<br>[src/data/items.h:13729](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13729) |
+| 10706 | TM88 | わざマシン88 | `231c8f604a8bb9d0`<br>[src/data/items.h:13740](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13740) |
+| 10707 | TM89 | わざマシン89 | `d42b32109ade96bd`<br>[src/data/items.h:13751](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13751) |
+| 10708 | TM90 | わざマシン90 | `91875db828275398`<br>[src/data/items.h:13762](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13762) |
+| 10709 | TM91 | わざマシン91 | `bbe1c373d2879ba8`<br>[src/data/items.h:13773](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13773) |
+| 10710 | TM92 | わざマシン92 | `7b1f30619fb5b41e`<br>[src/data/items.h:13784](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13784) |
+| 10711 | TM93 | わざマシン93 | `31a124d6d95d6f8d`<br>[src/data/items.h:13795](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13795) |
+| 10712 | TM94 | わざマシン94 | `638eaf15b521c5cd`<br>[src/data/items.h:13806](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13806) |
+| 10713 | TM95 | わざマシン95 | `523053bb229bc61a`<br>[src/data/items.h:13817](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13817) |
+| 10714 | TM96 | わざマシン96 | `02d223f079983980`<br>[src/data/items.h:13828](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13828) |
+| 10715 | TM97 | わざマシン97 | `55293c9fb1ea7b3d`<br>[src/data/items.h:13839](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13839) |
+| 10716 | TM98 | わざマシン98 | `3b1072c4771393e1`<br>[src/data/items.h:13850](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13850) |
+| 10717 | TM99 | わざマシン99 | `d46934496415077e`<br>[src/data/items.h:13861](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13861) |
+| 10718 | TM100 | わざマシン100 | `2879324546dc73f0`<br>[src/data/items.h:13872](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13872) |
+| 10719 | HM01 | ひでんマシン01 | `eb42c2f7a57b4d1c`<br>[src/data/items.h:13883](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13883) |
+| 10720 | HM02 | ひでんマシン02 | `7a744520115ce0d3`<br>[src/data/items.h:13897](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13897) |
+| 10721 | HM03 | ひでんマシン03 | `1bb9de15b4bd5ecd`<br>[src/data/items.h:13911](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13911) |
+| 10722 | HM04 | ひでんマシン04 | `a5a8b0792906dd57`<br>[src/data/items.h:13925](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13925) |
+| 10723 | HM05 | ひでんマシン05 | `76a0fe2ee6d309c6`<br>[src/data/items.h:13939](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13939) |
+| 10724 | HM06 | ひでんマシン06 | `15dc543dfcb62dae`<br>[src/data/items.h:13953](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13953) |
+| 10725 | HM07 | ひでんマシン07 | `2dfeeb21e7c4607d`<br>[src/data/items.h:13967](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13967) |
+| 10726 | HM08 | ひでんマシン08 | `f424e7c9e9849bb0`<br>[src/data/items.h:13981](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13981) |
+| 10727 | Oval Charm | まるいおまもり | `d69236f42afb814b`<br>[src/data/items.h:13998](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L13998) |
+| 10728 | Shiny Charm | ひかるおまもり | `0d31c157830a1ab2`<br>[src/data/items.h:14014](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14014) |
+| 10729 | Catching Charm | ゆれないおまもり | `a8f9eaeb8e882ab6`<br>[src/data/items.h:14030](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14030) |
+| 10730 | Exp. Charm | けいけんおまもり | `74fd26d9b959fc36`<br>[src/data/items.h:14046](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14046) |
+| 10731 | Rotom Catalog | ロトムのカタログ | `5dbef56c8b34392e`<br>[src/data/items.h:14064](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14064) |
+| 10732 | Gracidea | グラシデアのはな | `584b6a05dcb2dbd6`<br>[src/data/items.h:14080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14080) |
+| 10733 | Reveal Glass | うつしかがみ | `ee428ca38ee130f4`<br>[src/data/items.h:14096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14096) |
+| 10734 | Reveal Glasses | うつしかがみ | `0c9b30352176c9fe`<br>[src/data/items.h:14097](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14097) |
+| 10735 | DNA Splicers | いでんしのくさび | `7d3300eb003802ac`<br>[src/data/items.h:14113](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14113) |
+| 10736 | DNA Splicers | いでんしのくさび | `3d9e1614a4cad229`<br>[src/data/items.h:14114](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14114) |
+| 10737 | Zygarde Cube | ジガルデキューブ | `2f14a4b7851823f2`<br>[src/data/items.h:14130](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14130) |
+| 10738 | Prison Bottle | いましめのツボ | `88c35a4e52af99d5`<br>[src/data/items.h:14146](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14146) |
+| 10739 | N-Solarizer | ネクロプラスソル | `5748a75a391102a6`<br>[src/data/items.h:14162](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14162) |
+| 10740 | N-Lunarizer | ネクロプラスルナ | `0a39202abceab284`<br>[src/data/items.h:14178](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14178) |
+| 10741 | Reins of Unity | キズナのタヅナ | `5d72e76d85099a14`<br>[src/data/items.h:14194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14194) |
+| 10742 | Reins of Unity | キズナのタヅナ | `a57d3c9176006293`<br>[src/data/items.h:14195](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14195) |
+| 10743 | Mega Ring | メガリング | `7eb8c3b0df80ae0d`<br>[src/data/items.h:14213](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14213) |
+| 10744 | Z-Power Ring | Zパワーリング | `ac63722ec6d77331`<br>[src/data/items.h:14229](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14229) |
+| 10745 | Dynamax Band | ダイマックスB | `c5a5ff888d17e73a`<br>[src/data/items.h:14245](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14245) |
+| 10746 | Bike | じてんしゃ | `3fd03accccf3c87f`<br>[src/data/items.h:14263](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14263) |
+| 10747 | Mach Bike | マッハじてんしゃ | `6e072e3382f78dc2`<br>[src/data/items.h:14280](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14280) |
+| 10748 | Acro Bike | ダートじてんしゃ | `4b4e7bf2cfb2b96c`<br>[src/data/items.h:14297](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14297) |
+| 10749 | Old Rod | ボロのつりざお | `a14ee0a984fce445`<br>[src/data/items.h:14314](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14314) |
+| 10750 | Good Rod | いいつりざお | `54f11c7eed6e3f02`<br>[src/data/items.h:14331](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14331) |
+| 10751 | Super Rod | すごいつりざお | `00ba4b62c76e8f0b`<br>[src/data/items.h:14348](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14348) |
+| 10752 | Dowsing Machine | ダウジングマシン | `a57b9a605ec33373`<br>[src/data/items.h:14365](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14365) |
+| 10753 | Town Map | タウンマップ | `5e90d70d503fc2e6`<br>[src/data/items.h:14381](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14381) |
+| 10754 | Vs. Seeker | バトルサーチャー | `b97087832effc6e7`<br>[src/data/items.h:14397](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14397) |
+| 10755 | TM Case | わざマシンケース | `7aa7849559ccedaa`<br>[src/data/items.h:14417](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14417) |
+| 10756 | Berry Pouch | きのみぶくろ | `fd1253afcff8ce2b`<br>[src/data/items.h:14433](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14433) |
+| 10757 | Berry Pouches | きのみぶくろ | `c9d207414e42f89c`<br>[src/data/items.h:14434](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14434) |
+| 10758 | {PKMN} Box Link | {PKMN}ボックスリンク | `6bea96704f85d81c`<br>[src/data/items.h:14450](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14450) |
+| 10759 | Coin Case | コインケース | `4fec995136724f4a`<br>[src/data/items.h:14466](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14466) |
+| 10760 | Powder Jar | こないれ | `ceb9858baa620ff7`<br>[src/data/items.h:14481](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14481) |
+| 10761 | Wailmer Pail | ホエルコじょうろ | `0cc184737255ec42`<br>[src/data/items.h:14497](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14497) |
+| 10762 | Poké Radar | ポケトレ | `02fed5ddff67c4d8`<br>[src/data/items.h:14513](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14513) |
+| 10763 | {POKEBLOCK} Case | {POKEBLOCK}ケース | `82599e8290b0cf20`<br>[src/data/items.h:14529](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14529) |
+| 10764 | Soot Sack | はいぶくろ | `ae870aee6348fd6b`<br>[src/data/items.h:14545](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14545) |
+| 10765 | Poké Flute | ポケモンのふえ | `90083dfe31e54277`<br>[src/data/items.h:14561](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14561) |
+| 10766 | Fame Checker | ボイスチェッカー | `c9085112ce05d744`<br>[src/data/items.h:14578](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14578) |
+| 10767 | Teachy TV | おしえテレビ | `de2250011e15ffd0`<br>[src/data/items.h:14594](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14594) |
+| 10768 | S.S. Ticket | ふねのチケット | `a954e46f0f16e42d`<br>[src/data/items.h:14612](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14612) |
+| 10769 | Hot Cocoa | ホットココア | `b7ce99d7530a4741`<br>[src/data/items.h:14628](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14628) |
+| 10770 | Fentanyl | フェンタニル | `1a6d885d139ad76d`<br>[src/data/items.h:14644](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14644) |
+| 10771 | Bottled Warmth | びんづめのぬくもり | `d3f93484664e1252`<br>[src/data/items.h:14661](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14661) |
+| 10772 | Borrowed Years | かりたとしつき | `2909df67eedf8a9e`<br>[src/data/items.h:14676](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14676) |
+| 10773 | Unspoken Last Words | つたえなかったことば | `83bfb633616098ab`<br>[src/data/items.h:14691](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14691) |
+| 10774 | Stranger's Name | しらないひとのなまえ | `3d729f874793ecec`<br>[src/data/items.h:14706](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14706) |
+| 10775 | Folded Goodbye | おりたたんださよなら | `ef1f1acfafb0945e`<br>[src/data/items.h:14721](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14721) |
+| 10776 | One Good Dream | ひとつのよいゆめ | `a85cb8521f2d294c`<br>[src/data/items.h:14736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14736) |
+| 10777 | Long Way Home | とおいかえりみち | `00be5f803555de20`<br>[src/data/items.h:14751](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14751) |
+| 10778 | Carved Mask | ほりもののめん | `2845bc08ffc03003`<br>[src/data/items.h:14766](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14766) |
+| 10779 | Catalpa Bow | アズサユミ | `fb2e39a3dbead3bf`<br>[src/data/items.h:14782](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14782) |
+| 10780 | Shadow Dossier | ダークちょうさしりょう | `cfcd597150538672`<br>[src/data/items.h:14798](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14798) |
+| 10781 | Quest Log | クエストにっし | `32a7f2c3269fbdb7`<br>[src/data/items.h:14814](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14814) |
+| 10782 | Yacht Key | ヨットのカギ | `6798d596b2c9acc6`<br>[src/data/items.h:14830](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14830) |
+| 10783 | Epic Pass | リフトのシーズンパス | `6af0544bb117c29a`<br>[src/data/items.h:14848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14848) |
+| 10784 | Domestic | こくさんビール | `c3107f5154605b30`<br>[src/data/items.h:14866](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14866) |
+| 10785 | Craft | クラフトビール | `4da6fdcd181b99e5`<br>[src/data/items.h:14886](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14886) |
+| 10786 | Infinite Candy | むげんのアメ | `5733bfc09ad0355f`<br>[src/data/items.h:14914](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14914) |
+| 10787 | Snag Machine | スナッチマシン | `8e866975a7a67bb6`<br>[src/data/items.h:14932](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14932) |
+| 10788 | Shinkansen Key | しんかんせんのカギ | `efe24ae2b341e1a2`<br>[src/data/items.h:14948](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14948) |
+| 10789 | Rift Shard | さけめのかけら | `681f9b0cad88587b`<br>[src/data/items.h:14965](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14965) |
+| 10790 | Rift Core | さけめのかく | `718fde3b6d21adfb`<br>[src/data/items.h:14981](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14981) |
+| 10791 | Rift Heart | さけめのしんぞう | `99e9aebbff160713`<br>[src/data/items.h:14997](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L14997) |
+| 10792 | Waster Ball | ウェイスターボール | `6597856c7d1c4b46`<br>[src/data/items.h:15016](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15016) |
+| 10793 | Eon Ticket | むげんのチケット | `b5e9ed4520e2a70f`<br>[src/data/items.h:15031](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15031) |
+| 10794 | Mystic Ticket | しんぴのチケット | `d33b9176b057daf9`<br>[src/data/items.h:15048](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15048) |
+| 10795 | Aurora Ticket | オーロラチケット | `1589124076db7d5e`<br>[src/data/items.h:15064](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15064) |
+| 10796 | Old Sea Map | ふるびたかいず | `3be41a9914a92f07`<br>[src/data/items.h:15080](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15080) |
+| 10797 | Letter | ダイゴへのてがみ | `42000fdfc81026c1`<br>[src/data/items.h:15096](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15096) |
+| 10798 | Devon Parts | デボンのにもつ | `8f35c1f30ac0fedc`<br>[src/data/items.h:15112](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15112) |
+| 10799 | Devon Parts | デボンのにもつ | `d7e47205a01eca11`<br>[src/data/items.h:15113](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15113) |
+| 10800 | Go-Goggles | ゴーゴーゴーグル | `f754a99dfbbee637`<br>[src/data/items.h:15129](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15129) |
+| 10801 | Go-Goggles | ゴーゴーゴーグル | `6f190d35d280eb45`<br>[src/data/items.h:15130](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15130) |
+| 10802 | Devon Scope | デボンスコープ | `7b51b1a6083fa9a4`<br>[src/data/items.h:15146](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15146) |
+| 10803 | Basement Key | ちかのカギ | `4a1ac6be550fe21f`<br>[src/data/items.h:15162](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15162) |
+| 10804 | Scanner | たんちき | `bc6465869c4a1736`<br>[src/data/items.h:15178](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15178) |
+| 10805 | Storage Key | そうこのカギ | `fcb946bd50c2ce03`<br>[src/data/items.h:15194](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15194) |
+| 10806 | Key to Room 1 | 1ごうしつのカギ | `1aeb5fecb8d66bb9`<br>[src/data/items.h:15210](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15210) |
+| 10807 | Keys to Room 1 | 1ごうしつのカギ | `f437830f731bd986`<br>[src/data/items.h:15211](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15211) |
+| 10808 | Key to Room 2 | 2ごうしつのカギ | `7e3c9a7daa0985b7`<br>[src/data/items.h:15224](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15224) |
+| 10809 | Keys to Room 2 | 2ごうしつのカギ | `1868815f7bb23737`<br>[src/data/items.h:15225](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15225) |
+| 10810 | Key to Room 4 | 4ごうしつのカギ | `56ff66a226cee08c`<br>[src/data/items.h:15238](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15238) |
+| 10811 | Keys to Room 4 | 4ごうしつのカギ | `a5926e5fc70b28fd`<br>[src/data/items.h:15239](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15239) |
+| 10812 | Key to Room 6 | 6ごうしつのカギ | `f070432127ddd3a9`<br>[src/data/items.h:15252](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15252) |
+| 10813 | Keys to Room 6 | 6ごうしつのカギ | `d3c9a37a51ca2aa0`<br>[src/data/items.h:15253](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15253) |
+| 10814 | Meteorite | いんせき | `169cfebaacb03a05`<br>[src/data/items.h:15266](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15266) |
+| 10815 | Magma Emblem | マグマのしるし | `8740f73562a0b1b9`<br>[src/data/items.h:15281](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15281) |
+| 10816 | Contest Pass | コンテストパス | `15ec707149c207b7`<br>[src/data/items.h:15297](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15297) |
+| 10817 | Contest Passes | コンテストパス | `f02489e14c95cdd6`<br>[src/data/items.h:15298](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15298) |
+| 10818 | Parcel | おとどけもの | `2627d8431ebc0b74`<br>[src/data/items.h:15314](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15314) |
+| 10819 | Secret Key | ひみつのカギ | `8201fa67a4d4ba98`<br>[src/data/items.h:15330](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15330) |
+| 10820 | Bike Voucher | ひきかえけん | `0463158003986631`<br>[src/data/items.h:15346](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15346) |
+| 10821 | Gold Teeth | きんのいれば | `bd5012ffb230f41f`<br>[src/data/items.h:15362](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15362) |
+| 10822 | Gold Teeth | きんのいれば | `e0da057818e32d4c`<br>[src/data/items.h:15363](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15363) |
+| 10823 | Card Key | カードキー | `690ff38ff43c68f0`<br>[src/data/items.h:15379](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15379) |
+| 10824 | Lift Key | エレベータのカギ | `5212a88ea523ac8d`<br>[src/data/items.h:15395](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15395) |
+| 10825 | Silph Scope | シルフスコープ | `2fcdf5ae861a929a`<br>[src/data/items.h:15411](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15411) |
+| 10826 | Tri-Pass | トライパス | `6057d118970fbaaf`<br>[src/data/items.h:15427](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15427) |
+| 10827 | Tri-Passes | トライパス | `801b9f73505200f9`<br>[src/data/items.h:15428](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15428) |
+| 10828 | Rainbow Pass | レインボーパス | `35895e65bd8b0981`<br>[src/data/items.h:15444](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15444) |
+| 10829 | Rainbow Passes | レインボーパス | `8d7b383c88067e35`<br>[src/data/items.h:15445](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15445) |
+| 10830 | Tea | おちゃ | `69eb6abd1b732a29`<br>[src/data/items.h:15461](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15461) |
+| 10831 | Tea | おちゃ | `507a70bb15d912a3`<br>[src/data/items.h:15462](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15462) |
+| 10832 | Ruby | ルビー | `2d1d1a51701d35c8`<br>[src/data/items.h:15478](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15478) |
+| 10833 | Rubies | ルビー | `9aaf5f6ec1b92990`<br>[src/data/items.h:15479](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15479) |
+| 10834 | Sapphire | サファイア | `2e0acf18e27146a3`<br>[src/data/items.h:15495](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15495) |
+| 10835 | Ability Shield | とくせいガード | `b49d195769ebe4db`<br>[src/data/items.h:15511](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15511) |
+| 10836 | Clear Amulet | クリアチャーム | `241a9f83db40bd44`<br>[src/data/items.h:15530](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15530) |
+| 10837 | Punching Glove | パンチグローブ | `dab606633e27fb8c`<br>[src/data/items.h:15548](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15548) |
+| 10838 | Covert Cloak | おんみつマント | `4ffef5c8f839fec8`<br>[src/data/items.h:15566](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15566) |
+| 10839 | Loaded Dice | いかさまダイス | `ed4806d62cea4dc3`<br>[src/data/items.h:15584](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15584) |
+| 10840 | Loaded Dice | いかさまダイス | `058e75a5fdafd93d`<br>[src/data/items.h:15585](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15585) |
+| 10841 | Auspicious Armor | イワイノヨロイ | `eae3d96646ca42b4`<br>[src/data/items.h:15603](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15603) |
+| 10842 | Booster Energy | ブーストエナジー | `a44649c1526aef82`<br>[src/data/items.h:15621](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15621) |
+| 10843 | Booster Energies | ブーストエナジー | `40cfc93205df0aa6`<br>[src/data/items.h:15622](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15622) |
+| 10844 | Big Bamboo Shoot | おおきなタケノコ | `5d0070ecd2ea7c4f`<br>[src/data/items.h:15640](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15640) |
+| 10845 | Gimmighoul Coin | コレクレーのコイン | `358bc54e787be57b`<br>[src/data/items.h:15657](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15657) |
+| 10846 | Leader's Crest | かしらのしるし | `980909f5ab043c96`<br>[src/data/items.h:15673](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15673) |
+| 10847 | Malicious Armor | ノロイノヨロイ | `dfb599be37344dae`<br>[src/data/items.h:15689](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15689) |
+| 10848 | Mirror Herb | ものまねハーブ | `bdfc85a3230d79e8`<br>[src/data/items.h:15707](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15707) |
+| 10849 | Scroll of Darkness | あくのかけじく | `472f5449987dace6`<br>[src/data/items.h:15725](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15725) |
+| 10850 | Scrolls of Darkness | あくのかけじく | `b6670cbee9479344`<br>[src/data/items.h:15726](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15726) |
+| 10851 | Scroll of Waters | みずのかけじく | `4d757f3859ac7e2b`<br>[src/data/items.h:15744](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15744) |
+| 10852 | Scrolls of Waters | みずのかけじく | `53e1bba227a56261`<br>[src/data/items.h:15745](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15745) |
+| 10853 | Tera Orb | テラスタルオーブ | `20edf805330dd5c6`<br>[src/data/items.h:15763](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15763) |
+| 10854 | Tiny Bamboo Shoot | ちいさなタケノコ | `b3df6ecba9511216`<br>[src/data/items.h:15779](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15779) |
+| 10855 | Bug Tera Shard | テラピースむし | `59ccee952994b712`<br>[src/data/items.h:15796](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15796) |
+| 10856 | Dark Tera Shard | テラピースあく | `bd9f127332cba522`<br>[src/data/items.h:15809](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15809) |
+| 10857 | Dragon Tera Shard | テラピースドラゴン | `55f6e7f2453995f3`<br>[src/data/items.h:15822](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15822) |
+| 10858 | Electric Tera Shard | テラピースでんき | `9cd280a33b29091d`<br>[src/data/items.h:15835](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15835) |
+| 10859 | Fairy Tera Shard | テラピースフェアリー | `b24206473e82a7d3`<br>[src/data/items.h:15848](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15848) |
+| 10860 | Fighting Tera Shard | テラピースかくとう | `7569eb367fbdca48`<br>[src/data/items.h:15861](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15861) |
+| 10861 | Fire Tera Shard | テラピースほのお | `995e53f6c46429ab`<br>[src/data/items.h:15874](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15874) |
+| 10862 | Flying Tera Shard | テラピースひこう | `35566d952517db12`<br>[src/data/items.h:15887](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15887) |
+| 10863 | Ghost Tera Shard | テラピースゴースト | `b75a06bd7a884ab6`<br>[src/data/items.h:15900](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15900) |
+| 10864 | Grass Tera Shard | テラピースくさ | `ddcb956c96c43658`<br>[src/data/items.h:15913](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15913) |
+| 10865 | Ground Tera Shard | テラピースじめん | `de587def45946ee4`<br>[src/data/items.h:15926](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15926) |
+| 10866 | Ice Tera Shard | テラピースこおり | `4746ac745eae464c`<br>[src/data/items.h:15939](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15939) |
+| 10867 | Normal Tera Shard | テラピースノーマル | `b5b1a8e086832bf5`<br>[src/data/items.h:15952](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15952) |
+| 10868 | Poison Tera Shard | テラピースどく | `8c315e7bdc58f915`<br>[src/data/items.h:15965](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15965) |
+| 10869 | Psychic Tera Shard | テラピースエスパー | `8fcccea445f88d1d`<br>[src/data/items.h:15978](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15978) |
+| 10870 | Rock Tera Shard | テラピースいわ | `65966357446a6be5`<br>[src/data/items.h:15991](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L15991) |
+| 10871 | Steel Tera Shard | テラピースはがね | `ec3e9e84c48a06f0`<br>[src/data/items.h:16004](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16004) |
+| 10872 | Water Tera Shard | テラピースみず | `329c39fabd1d6dab`<br>[src/data/items.h:16017](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16017) |
+| 10873 | Adamant Crystal | だいこんごうだま | `ae5e0007f833c91a`<br>[src/data/items.h:16030](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16030) |
+| 10874 | Griseous Core | だいはっきんだま | `f77f3983b002a6e8`<br>[src/data/items.h:16049](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16049) |
+| 10875 | Lustrous Globe | だいしらたま | `c7aa551a70f78972`<br>[src/data/items.h:16068](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16068) |
+| 10876 | Black Augurite | くろのきせき | `1acf14a88f77439d`<br>[src/data/items.h:16087](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16087) |
+| 10877 | Linking Cord |  つながりのヒモ | `a9c64c1f67bf8821`<br>[src/data/items.h:16105](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16105) |
+| 10878 | Peat Block | ピートブロック | `7bbc21aa10b21840`<br>[src/data/items.h:16123](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16123) |
+| 10879 | Berserk Gene | はかいのいでんし | `5671017498667093`<br>[src/data/items.h:16141](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16141) |
+| 10880 | Fairy Feather | ようせいのハネ | `729e5e78ef8e55ae`<br>[src/data/items.h:16159](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16159) |
+| 10881 | Syrupy Apple | みついりりんご | `cf53fe08952e49aa`<br>[src/data/items.h:16179](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16179) |
+| 10882 | Unremarkable Teacup | ボンサクのちゃわん | `605482bc5c82e381`<br>[src/data/items.h:16197](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16197) |
+| 10883 | Masterpiece Teacup | ケッサクのちゃわん | `ab9e5e7cc5be4d66`<br>[src/data/items.h:16215](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16215) |
+| 10884 | Cornerstone Mask | いしずえのめん | `c1966b36efac6b11`<br>[src/data/items.h:16233](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16233) |
+| 10885 | Wellspring Mask | いどのめん | `9c6d5271199bc874`<br>[src/data/items.h:16251](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16251) |
+| 10886 | Hearthflame Mask | かまどのめん | `bf5705e58abdbcad`<br>[src/data/items.h:16269](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16269) |
+| 10887 | Health Mochi | たいりょくのもち | `b55c61f2db511019`<br>[src/data/items.h:16287](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16287) |
+| 10888 | Health Mochi | たいりょくのもち | `dff328db3c7cbea1`<br>[src/data/items.h:16288](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16288) |
+| 10889 | Muscle Mochi | きんりょくのもち | `fcea7058358da3ad`<br>[src/data/items.h:16303](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16303) |
+| 10890 | Muscle Mochi | きんりょくのもち | `40e8d7efccabda91`<br>[src/data/items.h:16304](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16304) |
+| 10891 | Resist Mochi | ていこうのもち | `593f01e0f10b4338`<br>[src/data/items.h:16319](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16319) |
+| 10892 | Resist Mochi | ていこうのもち | `11f2b9a963c7ff6b`<br>[src/data/items.h:16320](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16320) |
+| 10893 | Genius Mochi | ちりょくのもち | `8ca6fdd23395b316`<br>[src/data/items.h:16335](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16335) |
+| 10894 | Genius Mochi | ちりょくのもち | `b056115cd940bbaa`<br>[src/data/items.h:16336](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16336) |
+| 10895 | Clever Mochi | せいしんのもち | `c2eae9dac8ea8fa3`<br>[src/data/items.h:16351](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16351) |
+| 10896 | Clever Mochi | せいしんのもち | `6039d502dac9ecf7`<br>[src/data/items.h:16352](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16352) |
+| 10897 | Swift Mochi | しゅんぱつのもち | `c4c7d7305d8dbe10`<br>[src/data/items.h:16367](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16367) |
+| 10898 | Swift Mochi | しゅんぱつのもち | `946d58eb2bfa0169`<br>[src/data/items.h:16368](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16368) |
+| 10899 | Fresh-Start Mochi | まっさらもち | `2c1c2e4cebaa1fef`<br>[src/data/items.h:16383](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16383) |
+| 10900 | Fresh-Start Mochi | まっさらもち | `235aa36669d5db0c`<br>[src/data/items.h:16384](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16384) |
+| 10901 | Glimmering Charm | きらめくおまもり | `808a20b5353c1671`<br>[src/data/items.h:16402](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16402) |
+| 10902 | Metal Alloy | ふくごうきんぞく | `8a02558cdccf0313`<br>[src/data/items.h:16418](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16418) |
+| 10903 | Stellar Tera Shard | ステラテラピース | `3e665d8da21034b3`<br>[src/data/items.h:16435](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16435) |
+| 10904 | Jubilife Muffin | コトブキマフィン | `2fd0b301e7322bed`<br>[src/data/items.h:16448](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16448) |
+| 10905 | Remedy | カンポーやく | `aa8f6c3dcfa651d9`<br>[src/data/items.h:16464](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16464) |
+| 10906 | Remedies | カンポーやく | `a0116d8b084d8e0f`<br>[src/data/items.h:16465](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16465) |
+| 10907 | Fine Remedy | いいカンポーやく | `327cd3032bc43df3`<br>[src/data/items.h:16484](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16484) |
+| 10908 | Fine Remedies | いいカンポーやく | `cd3b34cd39461e7b`<br>[src/data/items.h:16485](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16485) |
+| 10909 | Superb Remedy | すごいカンポーやく | `51409d978534128a`<br>[src/data/items.h:16508](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16508) |
+| 10910 | Superb Remedies | すごいカンポーやく | `36f78bf607416feb`<br>[src/data/items.h:16509](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16509) |
+| 10911 | Aux Evasion | ヨクアタラーヌ | `9189cdd82c5d7fe9`<br>[src/data/items.h:16532](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16532) |
+| 10912 | Aux Guard | ガードアップ | `11cefaf3c02c1497`<br>[src/data/items.h:16555](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16555) |
+| 10913 | Aux Power | パワーアップ | `65afd2e0bd7b2eaa`<br>[src/data/items.h:16578](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16578) |
+| 10914 | Aux Powerguard | マルチアップ | `8786edebcaa32a1f`<br>[src/data/items.h:16601](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16601) |
+| 10915 | Choice Dumpling | こだわりちまき | `f5e10d9ee2e0024f`<br>[src/data/items.h:16625](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16625) |
+| 10916 | Swap Snack | あべこべやき | `193450a914c5074c`<br>[src/data/items.h:16638](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16638) |
+| 10917 | Twice-Spiced Radish | にばいづけ | `c9ff2a9d553e1dda`<br>[src/data/items.h:16651](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16651) |
+| 10918 | Twice-Spiced Radishes | にばいづけ | `d1f6acef35558ce6`<br>[src/data/items.h:16652](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16652) |
+| 10919 | Pokéshi Doll | ポケモンこけし | `a7fef2a8c06eb361`<br>[src/data/items.h:16665](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16665) |
+| 10920 | Amoongussite | モロバレルナイト | `06457a119de59b12`<br>[src/data/items.h:16682](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16682) |
+| 10921 | Azumarillite | マリルリナイト | `5b7aec5bce8db7f0`<br>[src/data/items.h:16700](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16700) |
+| 10922 | Butterfrite | バタフリーナイト | `00bb74f0cbce315d`<br>[src/data/items.h:16718](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16718) |
+| 10923 | Conkeldurrite | ローブシンナイト | `221e70613f4da558`<br>[src/data/items.h:16736](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16736) |
+| 10924 | Dugtrionite | ダグトリオナイト | `4dd32c9d27da7703`<br>[src/data/items.h:16754](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16754) |
+| 10925 | Electivirite | エレキブルナイト | `b0df6decb86e9cb8`<br>[src/data/items.h:16772](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16772) |
+| 10926 | Flygonite | フライゴナイト | `9598b62f69df522c`<br>[src/data/items.h:16790](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16790) |
+| 10927 | Golemite | ゴローニャナイト | `16ea01ef1ecc6917`<br>[src/data/items.h:16808](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16808) |
+| 10928 | Jumpluffite | ワタッコナイト | `14f0c1bd6422a0b4`<br>[src/data/items.h:16826](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16826) |
+| 10929 | Kabutopsite | カブトプスナイト | `cb10d2dced84a49c`<br>[src/data/items.h:16844](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16844) |
+| 10930 | Magmortarite | ブーバーナイト | `cd2b237b796cbb2b`<br>[src/data/items.h:16862](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16862) |
+| 10931 | Miloticite | ミロカロスナイト | `496575ed89d0c0e8`<br>[src/data/items.h:16880](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16880) |
+| 10932 | Omastarite | オムスターナイト | `286f9c6ece9e3cf9`<br>[src/data/items.h:16898](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16898) |
+| 10933 | Poliwrathite | ニョロボンナイト | `5471b6563ea9d270`<br>[src/data/items.h:16916](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16916) |
+| 10934 | Shiftrite | ダーテングナイト | `84bb5b76cecb08d3`<br>[src/data/items.h:16934](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16934) |
+| 10935 | Snorlaxite | カビゴンナイト | `23b790c7fd398ae9`<br>[src/data/items.h:16952](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16952) |
+| 10936 | Torkoalite | コータスナイト | `a6a9b254908b4b84`<br>[src/data/items.h:16970](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16970) |
+| 10937 | Typhlosionite | バクフーンナイト | `1b114733b69eca0d`<br>[src/data/items.h:16988](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L16988) |
+| 10938 | Whimsicottite | エルフーンナイト | `34816e07d513a809`<br>[src/data/items.h:17006](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/items.h#L17006) |

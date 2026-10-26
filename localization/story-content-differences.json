@@ -1,0 +1,64 @@
+{
+  "wishes_snapshot": "23be896714",
+  "reference_repository": "https://github.com/rh-hideout/pokeemerald-expansion",
+  "reference_tag": "expansion/1.15.3",
+  "reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741",
+  "method": "Compare concatenated English text per label, ignoring layout and whitespace only",
+  "limitations": [
+    "Changed text can be upstream/version noise, not necessarily Wishes story.",
+    "Unchanged expansion dialogue can still be used by Wishes and still needs translation.",
+    "Files missing from reference are listed separately, not classified.",
+    "This omits non-map, dynamic, C and unextracted text and cannot prove story completion.",
+    "Map depth is an over-approximation, not verified play order."
+  ],
+  "pending_rows": 10,
+  "groups": [
+    {
+      "map": "LilycoveCity_DepartmentStore_3F",
+      "file": "data/maps/LilycoveCity_DepartmentStore_3F/scripts.inc",
+      "label": "LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon",
+      "reason": "changed_body",
+      "pending": 2,
+      "map_graph_depth": 13,
+      "ids": [
+        "78de94aa2448eb7a",
+        "53faeafa1513954d"
+      ],
+      "wishes_english": "I've tried HMs and TMs,\\nbut wtf are AMs ?$",
+      "expansion_english": "I gave a CARBOS to my POKéMON,\\nand its SPEED went up.$"
+    },
+    {
+      "map": "LilycoveCity_DepartmentStore_3F",
+      "file": "data/maps/LilycoveCity_DepartmentStore_3F/scripts.inc",
+      "label": "LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon",
+      "reason": "changed_body",
+      "pending": 4,
+      "map_graph_depth": 13,
+      "ids": [
+        "3dde9ea712875fbe",
+        "640f5efe88f711b6",
+        "cc5b506d57150d85",
+        "610ef23a7e61267c"
+      ],
+      "wishes_english": "I used the MANKEY'S PAW,\\non one of my Pokemon.\\pNow it's going absolutely,\\nbananas!$",
+      "expansion_english": "For quickly toughening up POKéMON,\\nitems are the best.\\pPROTEIN boosts ATTACK,\\nand CALCIUM raises SP. ATK.$"
+    },
+    {
+      "map": "LilycoveCity_DepartmentStore_3F",
+      "file": "data/maps/LilycoveCity_DepartmentStore_3F/scripts.inc",
+      "label": "LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance",
+      "reason": "changed_body",
+      "pending": 4,
+      "map_graph_depth": 13,
+      "ids": [
+        "455075ab6529a897",
+        "583e1e833334c1f0",
+        "118058aca72baf35",
+        "c4a4f523e4f1ab86"
+      ],
+      "wishes_english": "PAW item mods stack,\\nbut clamp at +-12.\\pEach WISH comes with a\\nBOON. Willing to take the risk?$",
+      "expansion_english": "I want my POKéMON to have more\\nendurance.\\pI'm trying to decide whether to raise\\nDEFENSE with IRON, or SP. DEF with ZINC.$"
+    }
+  ],
+  "files_absent_from_reference": []
+}

@@ -1,8 +1,22 @@
 # Codex 引き継ぎ — Wishes of Tomorrow 日本語化
 
-更新: 2026-10-26（日本時間）。Claude Code から Codex への引き継ぎ。
+更新: 2026-10-27（日本時間）。Claude Code から Codex への引き継ぎと、その後の作業記録。
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
+
+## 最新の会話52/53（2026-10-27・ユーザー指定の区切り）
+
+ストーリー全訳目標を維持して338行追加し、61,722 / 11,984 / 49,738。百貨店2F/4Fとえんとつやま225行、ゲームコーナー113行。4ファイルのカタログpending0。旧ラベルの独自会話、AMの不可逆な説明、WASTER BALLとMASTER BALLの取り違え・ルージュラの成人向け冗談、隕石分岐、NPCと景品28件を訳した。非.string行は開始時HEAD1f63741fc1と完全一致。制御・変数・価格・番号を保持。意味レビュー記録はreviews/dialogue-stores-gamecorner-52-53.review.md。yomiyasu lint0/meaning_risk0、check bad0/26マス超0、audit0、75テスト成功。用語107件。
+
+GBA `../outputs/gba/wishes-jp-11984-a22b978a.gba`。SHA256 b22b30ca900adb5810678685a15cde49e2ca8d4162c3119a3ac73c9811bb921d。source commit ba882ed501。新規OBJ_DIR build/emerald-jp-dlg11984-clean、ROM29,854,568B/EWRAM230,024/IWRAM28,600。BPS再適用バイト一致、パッチ ../artifacts/wishes-jp-ui11984-a22b978a-patch.zip。実画面・購入・AM・景品交換・隕石・進行・保存は未検証。旧ROM・セーブ不変。
+
+Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/12,691/49,738を保存後照合し一致。旧版メモ0件も維持。Git内コピー localization/exports/types-11984.xlsx、表更新済み。初回はNodeのheap上限で失敗し、--max-old-space-size=8192で再出力成功。管理画面のカタログも再読み込み済み。実Excelアプリ未確認。
+
+次に必ず行うこと: **LilycoveCity_DepartmentStore_3F** の独自10行。旧ラベルGaveCarbosToSpeedUpMonは実際には「HM/TMは使ったがAMって何だ？」、ItemsBestForTougheningPokemonはMANKEY'S PAWでポケモンが暴走する話、WantMoreEnduranceはPAW補正の重複/±12制限とWISH/BOONのリスク。元Emeraldの栄養ドリンク会話に戻さない。どうぐの既訳と仕様を調べてから訳す。その後、到達する流用マップ・共通会話も継続する。
+
+新ラベル候補0でもストーリー完成ではない。`story_content_diff.py --reference ../artifacts/expansion-1.15.3-reference` を追加。英語タグ expansion/1.15.3（b669d9ccf9c148070b99eba11cd65f6071be0741）とラベル内本文を比較し、上記10行/3ラベルを検出。`story-content-differences.json` に原文双方を保持。改行・空白だけを無視し、本文が同じ元Expansionの会話もWishesで使われるため翻訳は必要。mapグラフ460候補・map内pending13,835は過大推定で、実プレイ順や完成率ではない。C/共通/動的移動/未抽出は未網羅。比較用参照はGit外、同じタグで再取得可能。
+
+作業履歴が長くなったため、成果物をpushし、ユーザー指定どおりこの区切りで中断する。全ストーリー・全日本語化は未完了。再開時はAGENTS/status/stats/Gitを照合し、上記3Fから進める。
 
 ## ローカル翻訳管理画面（2026-10-27）
 
@@ -19,14 +33,14 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `611fb4a23420f7dc01c71aa5c0ea35ad5743b068`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 11,646、pending 50,076（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `ba882ed501f2076a23faa5a23e471af4e368cd45`（この後にdocsコミットがある。git logで確認） |
+| カタログ | 61,722候補のうち翻訳済み11,984、pending49,738（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
-| テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で59件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg11646.gba`（ROM 29,858,024B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-11646-c6f4a737.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui11646-c6f4a737-patch.zip`、追跡用 `localization/patch-manifest-ui11646.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-11646/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-11646.xlsx`、62,429行：全61,722候補＋名称707件） |
+| テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で75件成功 |
+| 最新ビルド | pokeemerald-jp-dlg11984.gba（ROM29,854,568B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-11984-a22b978a.gba（旧ROM・セーブは保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui11984-a22b978a-patch.zip / localization/patch-manifest-ui11984.json |
+| Excel | ../outputs/translation-types-11984/Wishes_種類別翻訳一覧.xlsx（Git内 exports/types-11984.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -218,7 +232,7 @@ cp -n ../artifacts/play/wishes-jp-<hash>.gba ../outputs/gba/wishes-jp-<件数>-<
 python3 tools/localization/ui_inventory.py && python3 tools/localization/export_table.py
 # Excel: 下記の版別出力で生成し、開いている既存ブックは上書きしない
 cp tools/localization/export_review.mjs ../artifacts/translation-review-build/build_review.mjs
-node ../artifacts/translation-review-build/build_review.mjs "$PWD" ../outputs/translation-review-NNNN '会話・看板（対象マップ名）' --all --by-type
+node --max-old-space-size=8192 ../artifacts/translation-review-build/build_review.mjs "$PWD" ../outputs/translation-review-NNNN '会話・看板（対象マップ名）' --all --by-type
 cp ../outputs/translation-review-NNNN/Wishes_種類別翻訳一覧.xlsx localization/exports/all-texts-NNNN.xlsx
 # status.json の review_workbook を exports/all-texts-NNNN.xlsx に更新して export_table.py を再実行
 # localization/status.json と HANDOFF_CODEX.md の数値・最新成果物を更新し、docs コミットして push

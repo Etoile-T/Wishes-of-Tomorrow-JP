@@ -410,8 +410,8 @@
       "map": "MauvilleCity_GameCorner",
       "depth": 8,
       "via": "ShinTokyo",
-      "pending": 113,
-      "translated": 0,
+      "pending": 0,
+      "translated": 113,
       "outgoing": [
         "ShinTokyo"
       ]
@@ -1620,8 +1620,8 @@
       "map": "LilycoveCity_DepartmentStore_2F",
       "depth": 12,
       "via": "LilycoveCity_DepartmentStore_1F",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "LilycoveCity_DepartmentStoreElevator",
         "LilycoveCity_DepartmentStore_1F",
@@ -2736,8 +2736,8 @@
       "map": "LilycoveCity_DepartmentStore_4F",
       "depth": 14,
       "via": "LilycoveCity_DepartmentStore_3F",
-      "pending": 20,
-      "translated": 0,
+      "pending": 0,
+      "translated": 20,
       "outgoing": [
         "LilycoveCity_DepartmentStoreElevator",
         "LilycoveCity_DepartmentStore_3F"
@@ -3912,8 +3912,8 @@
       "map": "MtChimney",
       "depth": 16,
       "via": "JaggedPass",
-      "pending": 191,
-      "translated": 0,
+      "pending": 0,
+      "translated": 191,
       "outgoing": [
         "JaggedPass",
         "MtChimney_CableCarStation"
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 14173,
-  "translated_map_rows": 3182
+  "pending_map_rows": 13835,
+  "translated_map_rows": 3520
 }

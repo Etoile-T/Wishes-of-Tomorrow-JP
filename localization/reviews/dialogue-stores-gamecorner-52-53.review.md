@@ -19,3 +19,5 @@ yomiyasu-check: executed via=verify run=20261026T170338Z-a480bcc6 attempt=1 fina
 yomiyasu-check: executed via=verify run=20261026T170339Z-a3d3168a attempt=1 final=sha256:6797138b0522 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=0 replay=skipped
 
 script_batch → check（bad0）/width（26マス超0）→ update_catalog dry-run/apply → catalog validateを実施。4スクリプトの.string以外の行は開始時と完全一致。変数・改ページ・スクロール・終端を元の行に維持。ゲームロジック・イベントフラグ・セーブ構造は変更していない。75テスト成功、audit推定超過0。実画面・イベント進行・AM使用・購入・景品交換・対戦・保存再読み込みは未検証。
+
+成果物: ../outputs/gba/wishes-jp-11984-a22b978a.gba（SHA256 b22b30ca900adb5810678685a15cde49e2ca8d4162c3119a3ac73c9811bb921d）。新規OBJ_DIR build/emerald-jp-dlg11984-cleanでビルド成功。ROM29,854,568B/EWRAM230,024B/IWRAM28,600B。BPS適用後のSHA/CRCとバイト列が一致。種類別Excelは14シート・全62,429行11列のID/原文/訳文/状態/メモ、用語107件、目次62,429/12,691/49,738を保存後照合。既存ブックの保存メモ0件も維持。Nodeの既定heap上限で初回出力が失敗したため、8192MiBへ引き上げて再生成し成功。検査ログ ../artifacts/logs/excel-types-11984-verify.log。Excel実アプリ・ゲーム実画面は未確認。

@@ -879,8 +879,8 @@
       "map": "LilycoveCity",
       "depth": 10,
       "via": "LilycoveCity_Harbor",
-      "pending": 239,
-      "translated": 0,
+      "pending": 0,
+      "translated": 239,
       "outgoing": [
         "AquaHideout_1F",
         "LilycoveCity_ContestLobby",
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 13052,
-  "translated_map_rows": 4303
+  "pending_map_rows": 12813,
+  "translated_map_rows": 4542
 }

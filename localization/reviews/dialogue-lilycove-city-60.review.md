@@ -13,3 +13,5 @@ yomiyasu script run（lint/diff/materials）→全候補確認→verify。lint0�
 yomiyasu-check: executed via=verify run=20261026T203539Z-6e01f812 attempt=1 final=sha256:39a4373d852f mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=2 replay=skipped
 
 script_batch→check bad0/width26マス超0→update_catalog dry-run/apply→catalog validate、audit推定超過0、78テスト成功。対象ファイルの.string以外の全行は開始時と完全一致。変数/改ページ/スクロール/終端は元行に保持。ゲームロジック・イベントフラグ・セーブ構造は変更していない。実画面・ライバル戦・封鎖/解放・船・施設・進行・保存再読み込みは未検証。
+
+成果物: ../outputs/gba/wishes-jp-13034-334b895d.gba、SHA256 357b8032d2b6cd6e49633aa076a6afb49718e62c33957d8bfc836f79b46b9735。build/emerald-jp-dlg13034-cleanでビルド成功。ROM29,842,792B/EWRAM230,024B/IWRAM28,600B。BPS再適用のSHA/CRCとバイト列が一致。Excel14シート・62,429行11列と117語、原文/訳文/ID/状態/メモ、目次62,429/13,741/48,688を保存後照合。旧メモ0件維持。実Excelアプリ・ゲーム実画面は未確認。

@@ -4,7 +4,19 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話58/59（2026-10-27）
+## 最新の会話60（2026-10-27）
+
+f453861b4b・クリーン、status/stats61,722/12,795/48,927一致から継続。LilycoveCity/scripts.incの239行を追加し61,722/13,034/48,688。LilycoveCity*の全スクリプトでカタログpending0（未抽出/到達性/実画面の網羅ではない）。参考74行を英語と照合して編集、残り165行は新訳。レビューreviews/dialogue-lilycove-city-60.review.md。原文のハルカ/ユウキ・ミシロ等を勝手にWishesの別設定へ統一しない。宿は参考JPで「みんしゅく モナミ」を確認、そらのはしらも辞書へ入れ117語。画商の売買の誤字、参考の弱い確度や余分な伝聞、ぜんこくからという範囲を校正。PLAYER/KUNは元行維持、KUNは現実装で空と確認し幅ツールは変更せず。
+
+yomiyasu script lint0、meaning_risk2はI know I'll get the chanceとIf world becomes ours, it will be happierの英語へ戻した確度を指すため、確認して維持した（警告を消すために意味を弱めない）。check bad0/width超0、audit0、78テスト成功。対象の非.string行は開始時と完全一致。イベント・フラグ・セーブ構造は不変。
+
+GBA ../outputs/gba/wishes-jp-13034-334b895d.gba、SHA256 357b8032d2b6cd6e49633aa076a6afb49718e62c33957d8bfc836f79b46b9735。source commit 4b6026448e87593e2660ef54699f74ef8f124a78。build/emerald-jp-dlg13034-clean、ROM29,842,792B/EWRAM230,024/IWRAM28,600。BPS再適用バイト一致、../artifacts/wishes-jp-ui13034-334b895d-patch.zip。実画面・ライバル・アクア団封鎖・街/施設・進行・保存は未検証。旧ROM・セーブ保持。
+
+Excel14シート・62,429行11列の原文/訳文/ID/状態/メモ、117語、目次62,429/13,741/48,688を保存後照合し一致。旧メモ0件維持。Git内exports/types-13034.xlsx、ユーザー版 ../outputs/translation-types-13034/Wishes_種類別翻訳一覧.xlsx。Excel実アプリは未確認。
+
+次は **data/maps/SlateportCity/scripts.inc（278行、参考同形155行）**、続いて **SlateportCity_OceanicMuseum_1F/2F（102+114=216行、参考45+44行）**。参考候補は2,139メッセージ/5,757行へ再生成（未レビュー、未適用）。mapグラフ460候補・map内pending12,813。新ラベル/本文差分0でもストーリー完成ではない。C/共通/動的移動/未抽出の網羅は未確認。
+
+## 以前の会話58/59（2026-10-27）
 
 6673307502・クリーン、status/stats61,722/12,422/49,300一致から継続。FanClub176行、ContestLobby68行/ContestHall129行、計373行追加し61,722/12,795/48,927。3ファイルのカタログpending0。レビューreviews/dialogue-fanclub-contest-58-59.review.md。参考候補から37メッセージ133行を取得し英語と照合、残り240行は新訳。参考初期値はreference.tsv、採用した133行はprovenanceへJP/英語参照コミットを明記。参考の誤字「だたもの」、英語にない「ついに」、coffeeがお茶になっていた箇所、can't alwaysの確度、父センリのpower/charisma/showmanshipの3要素を修正。変数の原文行位置はcheckで確認し移動していた初稿を戻した。原文に残る家族設定を勝手にWishesの別設定へ統一していない。辞書115語。
 
@@ -69,14 +81,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `b20d2dc3ba277fd4460bc95a98ddf1119df12626`（この後にdocsコミットあり） |
-| カタログ | 61,722候補のうち翻訳済み12,795、pending48,927（完成率ではない） |
+| 最新の翻訳コミット | `4b6026448e87593e2660ef54699f74ef8f124a78`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み13,034、pending48,688（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で78件成功 |
-| 最新ビルド | pokeemerald-jp-dlg12795.gba（ROM29,845,544B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-12795-50c0023a.gba（旧ROM・セーブ保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui12795-50c0023a-patch.zip / localization/patch-manifest-ui12795.json |
-| Excel | ../outputs/translation-types-12795/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-12795.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg13034.gba（ROM29,842,792B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-13034-334b895d.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui13034-334b895d-patch.zip / localization/patch-manifest-ui13034.json |
+| Excel | ../outputs/translation-types-13034/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-13034.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -188,7 +200,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
-1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。次はMauvilleCity_GameCorner・Lilycove百貨店等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はSlateportCityと海の科学博物館等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

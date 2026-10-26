@@ -9,16 +9,24 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `010c536f57cb251921d9320fb8efd04e139208d5`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,616、pending 51,106（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `ff0cd5000ce9a5cc43cec2d5e42d78a5fb7f2e41`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,716、pending 51,006（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で59件成功 |
-| 最新ビルド | `pokeemerald-jp-storage10616.gba`（ROM 29,872,008B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10616-storage-1895cd6a.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10616-storage-1895cd6a-patch.zip`、追跡用 `localization/patch-manifest-ui10616-storage.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10616-storage/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10616-storage.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-dex10716.gba`（ROM 29,868,616B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10716-ae4fa5d9.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10716-ae4fa5d9-patch.zip`、追跡用 `localization/patch-manifest-ui10716.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10716/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10716.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+最新図鑑44/45: ユーザーが図鑑翻訳を依頼し通常種も追加指定。独自メガ19種＋アーマードミュウツーの分類・説明40件、通常30種の分類・説明60件、計100件を適用。通常種は同一種族・同一フィールドで日本語参考を再利用して英語と照合。共有マクロのピカチュウ・ニドラン等は今回の候補に含まれず、全国番号1〜30の完了ではない。wot_families独自7種は既訳を維持。次は共有マクロの図鑑説明・分類とgen_1の残り通常種（ニドキング以降など）を継続。通常図鑑全体は未完了。
+
+チェック100件bad0、26マス超0、分類12バイト以内、説明4行以内、59テスト、audit超過0、クリーンビルド成功。種族2ファイルの文字列・空白以外のコードは開始時HEADと一致。レビューpokedex-44-45.review.md、棚卸しpokedex-batch-44-45-audit.json。開始時HEAD6914180e9f・クリーン、status/stats61722/10616/51106一致。今回は61722/10716/51006。
+
+最新GBA wishes-jp-10716-ae4fa5d9.gba。ROM29,868,616B/EWRAM230,024/IWRAM28,600。build/emerald-jp-dex10716-cleanで作成、ログ../artifacts/build-dex10716.log。SHA256 b73c0c25b3be82fd5756e0ce234ce18170fc520d3fa647158765d32bcc9413d7。BPS再適用バイト一致。全件Excel10716版は62,429行、カタログ翻訳10,716＋別管理名称707、未翻訳51,006。実機・図鑑登録画面・独自メガ説明への到達性は未検証。
+
+以下は旧版の記録。
 
 最新修正42/43: 勝敗台詞の空白が「ぐ」になる原因はBattleStringExpandPlaceholdersのNBSP変換。トレーナー1/2の勝ち・負け台詞では変換しない。別件のボックス不具合はgText_Boxが制御付き8バイト＋番号＋EOSでboxNames[][9]を超え、次の名前が前のEOSを消し、タイトル用40バイトの作業領域を超えて読み書きし得る。接頭辞をJPN_NAME_4（6バイト）に変更。GetBoxNamePtrで厳密一致した旧既定名だけ番号を再構成、全名称の8バイト末尾を終端。不正壁紙IDは表示時に既定値を使用。セーブ構造は不変。名称はRAMで補正され、通常ゲーム内セーブ時には補正名も保存される。ホストの.savは未変更。全59テスト・catalog validate・audit・ビルド・BPS再適用バイト一致成功。A操作・アイコン・実画面の復旧は未確認。レビューはbattle-dialogue-spaces-42 / storage-default-name-43。
 

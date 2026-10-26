@@ -1,0 +1,2416 @@
+[
+  {
+    "id": "fd41b151bf78ac4e",
+    "translation": "{JPN}はい?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8fa29f509c14b5be",
+    "translation": "ふねを おさがしですか?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "636eb3edaed32745",
+    "translation": "もうしわけ ありませんが れんらくせんは\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "72e4876ff5b632f2",
+    "translation": "ただいま うんこう しておりません…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ddadc3a34ba79ee2",
+    "translation": "{JPN}こんにちは れんらくせんの ごりようですか?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b7e873e86e05786c",
+    "translation": "チケットを はいけん できますか?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "20589f913ca4b7cd",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は チケットを もっていない…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "300b2796b1990396",
+    "translation": "たいへん もうしわけ ありません。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b56764456e875cde",
+    "translation": "れんらくせんの ごじょうせんには\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4e6b8ea068981662",
+    "translation": "チケットが ひつようです。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "430841c1ca361354",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は チケットを みせた。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b99f015f39500986",
+    "translation": "けっこうです! これで だいじょうぶです!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3534c7bd06c6500f",
+    "translation": "どちらへ いかれますか?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5b95300e2acdb3af",
+    "translation": "{JPN}また ごりよう ください!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "def3c2b1474d8ed8",
+    "translation": "{JPN}ミナモシティ ですね!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ff7622c2fc92dc9d",
+    "translation": "{JPN}バトルフロンティア ですね!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b4e7f1c0d281d3a6",
+    "translation": "{JPN}ふねに のって しゅっぱつまで\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1cc8df0978f37fa8",
+    "translation": "おまちください。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4ea775bb00e7ac6f",
+    "translation": "{JPN}いきさきは どちら でしょう?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c45def089ea51bae",
+    "translation": "{JPN}うみの そこへの たびか…\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ebf16925ea7abf9f",
+    "translation": "どんな かんじなんだろう?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "93088fe0e19d3733",
+    "translation": "いつか そんなふうに ふかい うみへ\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d7ff54e850562a68",
+    "translation": "いって みたいなあ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "98445b4562f8bb5a",
+    "translation": "{JPN}ふねを あんぜんに すすめる ためには\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5bb36f4dcb881fe3",
+    "translation": "てんきを りかいする ひつようが ある!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "20f06f5b8dadcc81",
+    "translation": "そういえば てんきけんきゅうじょの\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3dd3c39c62347ee7",
+    "translation": "ひとが いってたけど\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ed0e694d19c04c3f",
+    "translation": "かくちで いじょうきしょうが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "28922014231f7a80",
+    "translation": "かんそく されている らしいな!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "aed58d13dd407b0c",
+    "translation": "きみも けんきゅうじょに いって\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e282f7a477c45c23",
+    "translation": "はなしを きいてみると いいぞ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d35934be72111e3f",
+    "translation": "{JPN}クスノキかんちょうと いっしょに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b842f0119b2ea46d",
+    "translation": "かいてい たんさに いきたかったんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "579b2f49be352324",
+    "translation": "でも せんすいていが ちいさすぎてね。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2c5dbce8c5ce27ca",
+    "translation": "むりに はいったら かんちょうの\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "95698a2fc03ef35a",
+    "translation": "はいる ばしょが なくなっちゃうよ…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "16a66a99b1e9dd85",
+    "translation": "{JPN}クスノキ: あの ごろつきどもは…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "38c0c095af085a30",
+    "translation": "いぜん はくぶつかんで\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5852c1e7f232fc4a",
+    "translation": "デボンのにもつを うばおうと していた……$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f2a9e050a5ce91b5",
+    "translation": "{JPN}アオギリ: おや?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "74e7abc72ef7a7b9",
+    "translation": "また おまえか…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2ea7757bc7cfbb75",
+    "translation": "ここまで おってくる しつこさだけは\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0678b65cfe3fc19b",
+    "translation": "みとめて やろう。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0ecc1ad99b35521b",
+    "translation": "だが もう…\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "16817209417313f5",
+    "translation": "だれも われわれを とめられん! だれもな!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5a25536deb127f77",
+    "translation": "それとも ミナモシティの アジトまで\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8cab45ab886500ad",
+    "translation": "われわれを おってくるか?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2c6b196cdda15e62",
+    "translation": "ふわはははは…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e4466c17a937e8a5",
+    "translation": "{JPN}クスノキ: なぜ…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cdb9c13829b5071c",
+    "translation": "なぜ アクアだんは わたしの せんすいてい\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2536140c6749eacc",
+    "translation": "かいえん1ごうを ぬすんだんだ?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2fecac37a37feeb6",
+    "translation": "まさか うみの そこで ねむる\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "51d07f3584eab392",
+    "translation": "ポケモンを ねらっているのか…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2a34e0446fa871a4",
+    "translation": "だが おいかけた ところで\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e0ed35217aa43282",
+    "translation": "わたしでは かなう あいてじゃない…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "818e713944b65b31",
+    "translation": "{JPN}クスノキ: ああ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "dd473d9c5637967a",
+    "translation": "そうか… きみが とめるまえに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "01c981772f794428",
+    "translation": "アクアだんは いってしまったのか…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d58aa16979fbb62e",
+    "translation": "いや じぶんを せめちゃ いけないよ。\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e2b59077c4078197",
+    "translation": "きみに せきにんは ないんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b05c81c38111dcdb",
+    "translation": "せんすいていを つかまえる なんて…\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1aa50723e30003fe",
+    "translation": "ほとんどの ひとには むりだよ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5cd665f000874daa",
+    "translation": "ダイビングが できる ポケモンが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "db20261f96d4ac58",
+    "translation": "ひつように なるだろうね…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "03aeb588b514c4d6",
+    "translation": "ひょっとしたら\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e6769b9eaeec61cc",
+    "translation": "トクサネシティに いけば…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ed87b994c59773ce",
+    "translation": "ダイバーが たくさん すんでいるから\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6f76811e3f9fdd32",
+    "translation": "だれかが おしえて くれるかも しれない…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0dbeaee920262ca5",
+    "translation": "{JPN}クスノキ: せんすいていを つかまえる\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7486f52f68b868b0",
+    "translation": "なんて… むりだよ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a519f2f46b59066a",
+    "translation": "ダイビングが できる ポケモンが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a4c258549687d51f",
+    "translation": "ひつように なるだろうね…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "51cedff8a3fc6d0e",
+    "translation": "ひょっとしたら\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7abe020bd177669d",
+    "translation": "トクサネシティに いけば…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "da1e8f276905dc92",
+    "translation": "ダイバーが たくさん すんでいるから\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8cd2f072a34f8b1c",
+    "translation": "だれかが おしえて くれるかも しれない…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4731f14295d781e1",
+    "translation": "{JPN}クスノキ: そうだ! ハギろうじんが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "19fec020628d3ec8",
+    "translation": "ぞうせんじょに きてくれたんだ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9d19cc6ea238be28",
+    "translation": "よーし! これで れんらくせんが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5f11757b8ca9de96",
+    "translation": "かんせい するのも もうすぐ だぞ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7324e0f7bcf1f87b",
+    "translation": "{JPN}クスノキ: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "11329ff1461345fc",
+    "translation": "れんらくせん タイドリップごうが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3d0601143973f63d",
+    "translation": "ついに かんせい したんだ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "31831ccb5e26172f",
+    "translation": "きみの ともだちの ハギろうじんが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e5e75d6a3b1802b8",
+    "translation": "いなければ かんせい しなかったよ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "78ad7a8b8b7c37bd",
+    "translation": "ぜひ ちょっとした ふなたびに でてみてくれ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "961d90002306154e",
+    "translation": "{JPN}クスノキ: おや?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "672bd8515bca3d3c",
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} それは…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fdea371793fac4f9",
+    "translation": "たんちきだね! それが あれば\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6133b156b113712d",
+    "translation": "わたしたちの たんさに きっと やくだつよ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fa5570f5093245dc",
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} その たんちきを\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "449267eafc0742a5",
+    "translation": "なにかと こうかん してくれないか?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "45c393793e7bc0e9",
+    "translation": "たとえば わたしの しんかいのキバか\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f97655091400df8a",
+    "translation": "しんかいのウロコは どうだい?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a74789b59416c34e",
+    "translation": "{JPN}クスノキ: ほんとうに いいのかい?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d2302f960c3dfc8b",
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}には やくに たたないのに…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c8bfa84b6c7a20d3",
+    "translation": "まあ いい。たんちきを こうかんしたく\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "692bd2460e2fe184",
+    "translation": "なったら こえを かけてくれ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "243f68e3f9e9f0bf",
+    "translation": "{JPN}クスノキ: わたしの しんかいのキバと\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fde4cf0e72b3e18d",
+    "translation": "こうかん するんだね?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "348c7a06e794d975",
+    "translation": "{JPN}クスノキ: わたしの しんかいのウロコと\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "26694c7b7200da3d",
+    "translation": "こうかん するんだね?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c0ded66bc61723b3",
+    "translation": "{JPN}クスノキ: どっちに するんだい?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "aeebafe64135dfc5",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は クスノキかんちょうに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "79ae73b40c11aa16",
+    "translation": "たんちきを わたした!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4abc31a528f15be9",
+    "translation": "{JPN}クスノキ: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} ありがとう!\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "390f8af4b0d7c981",
+    "translation": "これで けんきゅうが おおいに はかどるよ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b6b98d698afe077d",
+    "translation": "{JPN}えっへん! わたしが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6f666998d738e28a",
+    "translation": "ポケモンだいすきクラブの かいちょうですぞ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3aa7a25e2bb1263b",
+    "translation": "かいちょう なのだから とうぜん\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "03a65cb5fd0d196a",
+    "translation": "わたしが いちばん えらいのです!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "34eb512a54c23c2d",
+    "translation": "ポケモンを そだてることでは\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "38f162b77977eee8",
+    "translation": "だれにも まけませんぞ! だれにも!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "86527253e0586e7a",
+    "translation": "では ポケモンコンテストに ついて\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "99635231d3e4c06c",
+    "translation": "おはなし しましょう。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b0ab9fa439999d92",
+    "translation": "ポケモンを せかいじゅうの ひとに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e35c1d0a7d317080",
+    "translation": "じまん できる イベントですぞ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9ce1a042c97994b3",
+    "translation": "ただ とおくの まちで ひらかれるので\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d25c7db76ec1024c",
+    "translation": "なかなか さんか できないのです。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2a39c3844e62b76f",
+    "translation": "だから ここに あつまって\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3e13fd5cae1024d2",
+    "translation": "じぶんの ポケモンを じまんしたり\\l",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b33a0821f3dedd99",
+    "translation": "ほかの ひとのを みせて もらうのですぞ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8857760baad3ce34",
+    "translation": "{JPN}ポケモンコンテストに でた ことが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "66e9c5bc1314a649",
+    "translation": "ある トレーナーの ポケモン…\\l",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6b162c4709b29e48",
+    "translation": "ぜひとも みて みたい ものですな。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bd95a1f06f0b6915",
+    "translation": "{JPN}えっへん! きみは\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "629ade4ffa4b5eda",
+    "translation": "ポケモンコンテストに さんかしたようですな!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a4d6c721309c41fd",
+    "translation": "ぜひ! どのように ポケモンを そだてたのか\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "262c6282ba9b20d4",
+    "translation": "はいけん させて ください。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3ad29ac565f8bd4e",
+    "translation": "ほかの トレーナーが そだてた ポケモンを\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8880ce542a5aa033",
+    "translation": "みるのは このうえなく うれしいのです。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1f00dd195724d7ad",
+    "translation": "だいじに そだてられた ポケモンの\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "52f4b4f717497c40",
+    "translation": "しあわせそうな ひょうじょう…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b0fadd3d3be8cd51",
+    "translation": "ポケモンを いつくしみ そだてた\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f2fe7c78f5db4bf9",
+    "translation": "トレーナーの やさしい まなざし…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1247b73a1a945ed9",
+    "translation": "かんがえるだけで むねが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fd92a3d0bfce6004",
+    "translation": "よろこびで いっぱいに なるのですぞ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "dff4238287b617ab",
+    "translation": "おっと! しつれい しました!\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1bb250e173407658",
+    "translation": "ながながと しゃべって しまいましたな!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e263f4b0f7a978ed",
+    "translation": "ぜひ! きみの ポケモンが どれだけ\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d57048592b664ce3",
+    "translation": "そだったのか みせて ください!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "57cdb9702423432d",
+    "translation": "{JPN}きみの ポケモン そだって ますかな?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b46ac6f1966a61d5",
+    "translation": "ちょっと はいけん させて もらいますぞ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cfeab3557add124b",
+    "translation": "{JPN}ふむふむ……\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "30626f3c1d4f0bbc",
+    "translation": "なるほど……$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3ff8d784baf9b126",
+    "translation": "{JPN}ふむう……\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9ed64528da216080",
+    "translation": "わるくは ないんだが よくもない……\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "26eb5a908c11cd12",
+    "translation": "おやの トレーナーである きみの\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "37cdb66642fb3a6a",
+    "translation": "どりょくが ひつよう ですな!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "74fc42ffef68f6d9",
+    "translation": "たとえば もっと たくさん\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b1de4e02931f5cfe",
+    "translation": "ポロックを あげるのは どうですかな?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ee7af11c8d29960d",
+    "translation": "{JPN}おやおや…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "be66c9baa2f4b735",
+    "translation": "ポケモンが なかなか よく そだっているので\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "047d6d555a39bca9",
+    "translation": "ごほうびを もらうに ふさわしいですぞ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9775f1c5eb40b8de",
+    "translation": "ざんねんながら バッグに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9a1f60d824f3ee04",
+    "translation": "これを いれる あきが ありませんな。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9d48c04db5b6530a",
+    "translation": "{JPN}きみの {ENG}{STR_VAR_1}{JPN} ですが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0668c8ff516f19f1",
+    "translation": "じつに みごとに そだって おりますな!\\l",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0a49ca98d97f6f73",
+    "translation": "いやー たいした ものです!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "574fc099b393b74c",
+    "translation": "だが! これを あげれば\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c44507e3bed69619",
+    "translation": "もっと よく そだちますぞ! そうですとも!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c25217e020e3ffe7",
+    "translation": "{JPN}その あかいバンダナを もたせなさい。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fb3d97485ee56548",
+    "translation": "ポケモンの かっこよさを\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d577e3f74d5a8b5e",
+    "translation": "みんなが みとめる ことでしょう!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fa4178662727baa8",
+    "translation": "{JPN}その あおいバンダナを もたせなさい。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "11bd60f389cdc6be",
+    "translation": "ポケモンの うつくしさが いまより\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f0c27c9705fe20df",
+    "translation": "ずっと ひきたちますぞ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3778439f23d9e644",
+    "translation": "{JPN}その ピンクのバンダナを もたせなさい。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "14cc5f234561702e",
+    "translation": "ポケモンの かわいさが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "28d66af123e304b3",
+    "translation": "もっと ひきだされますぞ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3b61119ab1f443f7",
+    "translation": "{JPN}その みどりのバンダナを もたせなさい。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "054a61ef3d65369e",
+    "translation": "ポケモンの かしこさが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7970b1aa7539b58e",
+    "translation": "たかまりますぞ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fcf1ef2c0fe2e09d",
+    "translation": "{JPN}その きいろのバンダナを もたせなさい。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ea409956f87ed31f",
+    "translation": "ポケモンの たくましさが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "38ccedc14536dc80",
+    "translation": "いっそう たかまりますぞ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "727aa4b1ba47e23d",
+    "translation": "{JPN}すまないが きみに あげられるものは\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b1f3e001ba2c45a0",
+    "translation": "もう なにも ないですぞ! ひとつも!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1df7dd4a8a6fd721",
+    "translation": "なにしろ どうぐに たよらんでも\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b76447e98ef5e5e9",
+    "translation": "きみの ポケモンを そだてる\\l",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0e9fb75b67e7214b",
+    "translation": "さいのうは バツグン ですからな!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "80f27bf40bc3e32b",
+    "translation": "{JPN}わたし ポケモンが なついている\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "74c376927107dfbb",
+    "translation": "すがたを みるのが すき\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2115b8cc434d45d0",
+    "translation": "トレーナーの きもちに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5c56d0a4e9de7d7c",
+    "translation": "ポケモンは とても びんかん なの!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a4d973d4bc62e696",
+    "translation": "ポケモンを あいじょうこめて だいじに すれば\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3a43f7f4c47e0533",
+    "translation": "ポケモンも あなたに なついてくれるわ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "34970b8a7e188019",
+    "translation": "あなたの ポケモンが あなたに なついたら\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7e3e4f2feaa0f751",
+    "translation": "わたしにも みせてね。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5adb591d3e0ca6d9",
+    "translation": "{JPN}あなたの ポケモン とても なついてるわね。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ecd2931ecaa82eb2",
+    "translation": "とても おもいやりの ある トレーナーの\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "82ed880149d469fe",
+    "translation": "あなたに クラブからの プレゼントよ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5e4c6dfbe6b8e83a",
+    "translation": "{JPN}トレーナーの きもちに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "930ed1a4095652ff",
+    "translation": "ポケモンは とても びんかん なの!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ce0c9c6ba32dbaa7",
+    "translation": "ポケモンを あいじょうこめて だいじに すれば\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e4b9c13b8b94c555",
+    "translation": "ポケモンも あなたに なついてくれるわ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e4f0375a82661a19",
+    "translation": "{JPN}しょうぶで ポケモンを なんども\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "476db3cee737de5a",
+    "translation": "ひんしに すると いやがるように なります。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bde90a394f1b8400",
+    "translation": "やがて トレーナーを しんじる きもちも\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cdc2e7adfd03684c",
+    "translation": "うすれて しまいます。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c43b46803722a45a",
+    "translation": "つまり あなたのことを\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c033da77d4381e28",
+    "translation": "あまり すきでは なくなるのです。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5a514efb25e843a9",
+    "translation": "{JPN}ポケモンって どうぐ\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3da7104f599a97a8",
+    "translation": "つかってもらうのが すきなのかな?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a540822a00fa2a9b",
+    "translation": "うちの ポケモンは タウリンを あげたら\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cae2f4c89ccf8096",
+    "translation": "とても うれしそうに していたわ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "62580c7ee4037fa7",
+    "translation": "{JPN}エネコ: ふにゃあーあ…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a3db9402972fad88",
+    "translation": "{JPN}ジグザグマ: キュウウ…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1681a8e92ffd8b52",
+    "translation": "{JPN}マリルリ: マリマリ?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "050d552fab1ba5e9",
+    "translation": "{JPN}ええと… これが ここで\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "acfd2874a4c06533",
+    "translation": "あれが むこうだと すると…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9a7d89c94e13ec3b",
+    "translation": "この ぶひんは どこだっけ?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "20caaad44390524d",
+    "translation": "あの よくわからない やつは?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6052a961cba449f5",
+    "translation": "ああっ! なにが なんだか\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6ec6f716eb74206f",
+    "translation": "さっぱり わからないよ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3421bc5785732690",
+    "translation": "{JPN}ん?\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a5c937a8410b0dd7",
+    "translation": "やあ ツガだよ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a90e3a7441f8d495",
+    "translation": "クスノキかんちょうに たのまれて\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b1e169e51ed22a83",
+    "translation": "れんらくせんの せっけいを しているんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9696e5ca7b99fd4d",
+    "translation": "おや! それは…\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2a1b8454026bb469",
+    "translation": "デボンのにもつ じゃないか?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "76f1d33f8a8291c6",
+    "translation": "でも うーん…\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "25a30464f324adda",
+    "translation": "こまったなあ…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c40ec7e5b3e6f1d3",
+    "translation": "クスノキかんちょうは どこかへ でかけたよ。\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "92a2a82ccfc11bf8",
+    "translation": "しごとが あるって いってね。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d8cc9ca0164134c1",
+    "translation": "クスノキかんちょうを さがして\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1364007c3e999ebc",
+    "translation": "それを とどけて くれないか?$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "36f04d2c59ad88fe",
+    "translation": "{JPN}ツガ: クスノキかんちょう\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c72bc23753b0afb8",
+    "translation": "どこに いっちゃったのかな?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1819480a25b18348",
+    "translation": "わるいけど きみ クスノキかんちょう\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a24a22c3e844fc1c",
+    "translation": "さがして にもつを わたしてあげてよ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ff61f9f0c54703c7",
+    "translation": "{JPN}ツガ: ふねづくりは げいじゅつだよ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "378bdee33325a068",
+    "translation": "けいさん するだけでは わからないことが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "87f626aaaaf6182d",
+    "translation": "たくさん あるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fc288a429425350c",
+    "translation": "うみを よく しる ベテランに\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "44597f33eb70cc3e",
+    "translation": "じょげんを もらえたらなあ…$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e927c5afbae50302",
+    "translation": "{JPN}ツガ: やあ! ハギろうじんが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b438ddd65fbc5041",
+    "translation": "てつだいに くわわって くれたんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "82d35d3e387a22b9",
+    "translation": "ベテランの ふなのりの おかげで\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "be84a2695923843b",
+    "translation": "れんらくせんは ちゃくちゃくと できているよ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "84dbb9ee457ca590",
+    "translation": "{JPN}ツガ: ついに ふねは かんせいしたよ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9f5bd7340ccc5101",
+    "translation": "あたらしい タイドリップごうは\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f3649fe2e28dd92c",
+    "translation": "まさに ぎじゅつの けっしょうだ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "da6dc2b84937a217",
+    "translation": "だけど もっと いいものが できそうな……\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ab800edd58d3e4f2",
+    "translation": "そんな きも するんだよ\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "be941456b614d93f",
+    "translation": "そう……\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4f380ea94a67feba",
+    "translation": "ぎじゅつの しんぽに おわりは ないのさ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b3c5ff5232687654",
+    "translation": "{JPN}ハギ: おお! {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d6fb8a6de8392d98",
+    "translation": "ひさしぶり じゃのう!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bfdf7799290819b2",
+    "translation": "きみに であってから この おいぼれも\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e138726e3f3f1c66",
+    "translation": "ふなのりとして げんきが わいてきてのう!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3f40c2dab6897000",
+    "translation": "ツガくんの れんらくせん づくりを\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ce5f2315e77799e5",
+    "translation": "てつだうことに したんじゃ!\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1cb8aa36da01be2a",
+    "translation": "れんらくせんが できると おおくの\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6ca6a3d6232d1888",
+    "translation": "ひとを はこべるように なるからのう\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f86b07a8a192d828",
+    "translation": "しかし…… ふむう……\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e24f8483793b8339",
+    "translation": "ツガくんは すごいのう……\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "14b6fa86b2d0d6fd",
+    "translation": "かれの ぎじゅつと わしの けいけんを\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0d374948f4c2a7a5",
+    "translation": "あわせれば きっと わしらは\\l",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a5b97f8a7312687c",
+    "translation": "すばらしい ふねを つくれるはずじゃ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "50b76093020817cf",
+    "translation": "{JPN}きせつ てんき そらに みえる\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2d9babb3c65f56fc",
+    "translation": "つきの いち…\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "250b2ccea8d28b79",
+    "translation": "そうした いろいろな じょうけんで\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cfb251c9ce954879",
+    "translation": "うみは ひょうじょうを かえるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ec9bcc16d9423777",
+    "translation": "そうさ!\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "78bd7704f2568708",
+    "translation": "うみは いきものの ようなものだ!$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "be1b6e5200449305",
+    "translation": "{JPN}すぐに ふなよい してしまうから\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4abb61a05d3f9662",
+    "translation": "かわりに ここで てつだっているんだ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "73b6233c2d885f00",
+    "translation": "{JPN}おおきな ふねの せっけいは\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0bbf1d15c31f209f",
+    "translation": "のりものを くみたてる というよりも\\l",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "df18a9ec17b89742",
+    "translation": "おおきな たてものづくりに にているんだよ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ffd477fe181c9808",
+    "translation": "{JPN}おもたい てつで できている ふねが\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "21f9b5723abb5720",
+    "translation": "うみに うくなんて ふしぎ だろう?\\p",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7c39629300c99ee4",
+    "translation": "あれは 「ふりょく」 という げんりを\\n",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8644cadeda9724da",
+    "translation": "おうよう しているんだ。$",
+    "provenance": {
+      "batch": "dialogue-slateport-facilities-63",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  }
+]

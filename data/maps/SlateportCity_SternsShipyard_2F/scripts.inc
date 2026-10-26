@@ -10,13 +10,13 @@ SlateportCity_SternsShipyard_2F_EventScript_Scientist2::
 	end
 
 SlateportCity_SternsShipyard_2F_Text_ShipDesignMoreLikeBuilding:
-	.string "Designing a large ship is more like\n"
-	.string "making a big building than putting\l"
-	.string "together a transportation vehicle.$"
+	.string "{JPN}おおきな ふねの せっけいは\n"
+	.string "のりものを くみたてる というよりも\l"
+	.string "おおきな たてものづくりに にているんだよ。$"
 
 SlateportCity_SternsShipyard_2F_Text_FloatsBecauseBuoyancy:
-	.string "Don't you think it's strange that\n"
-	.string "a ship made of heavy iron floats?\p"
-	.string "It floats because of a principle\n"
-	.string "called buoyancy.$"
+	.string "{JPN}おもたい てつで できている ふねが\n"
+	.string "うみに うくなんて ふしぎ だろう?\p"
+	.string "あれは 「ふりょく」 という げんりを\n"
+	.string "おうよう しているんだ。$"
 

@@ -60,19 +60,19 @@ DistortionWorld_4_EventScript_Oni::
 	end
 
 DistortionWorld_4_Text_OniIntro::
-	.string "A kept thing wears a demon's\n"
-	.string "face. It grins.\p"
-	.string "You want what the deep keeps?\n"
-	.string "Past me, little breather.$"
+	.string "{JPN}のこされたものが おにの かおを かぶり\n"
+	.string "にやりと わらっている。\p"
+	.string "おくに あるものが ほしいか?\n"
+	.string "なら わたしを こえろ。 いきする こよ。$"
 
 DistortionWorld_4_Text_OniDefeat::
-	.string "The mask cracks…\n"
-	.string "the grin stays.$"
+	.string "{JPN}おめんが われる…\n"
+	.string "わらいは きえない。$"
 
 DistortionWorld_4_Text_OniPost::
-	.string "Take it, then.\p"
-	.string "The deep keeps what it wants\n"
-	.string "anyway.$"
+	.string "{JPN}なら もっていけ。\p"
+	.string "どのみち おくそこは のこしたいものを\n"
+	.string "のこすだけだ。$"
 
 @ Rift Core ball (placeholder spot 23,18 -- move it when the layer is
 @ painted). VAR_DISTORTION_RIFT_DEPTH -> 3: the DistortionWorld_2 cave

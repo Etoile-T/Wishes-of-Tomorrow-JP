@@ -276,31 +276,31 @@ DistortionRift_EventScript_GengarCollapse::
 @  Text -- all lines PLACEHOLDER (Joe)
 @ ============================================================================
 DistortionWorld_2_Text_SeamRemembers::
-	.string "GENGAR pours out of its Poke Ball\n"
-	.string "like smoke.\p"
-	.string "Kekeke. Welcome back, {PLAYER}.\n"
-	.string "The seam remembers you.\p"
-	.string "But look, it is not\n"
-	.string "quite as we left it…$"
+	.string "{JPN}ゲンガーが モンスターボールから\n"
+	.string "けむりのように ながれでた。\p"
+	.string "ケケケ。 おかえりじゃ。 {ENG}{PLAYER}{JPN}。\n"
+	.string "はざまは おぬしを おぼえておる。\p"
+	.string "じゃが みよ。 わしらが さったときとは\n"
+	.string "すこし ちがっておるな…$"
 
 DistortionWorld_2_Text_IslandRose::
-	.string "There. A stepping-path across\n"
-	.string "the void…$"
+	.string "{JPN}あそこじゃ。 なにもない くうかんに\n"
+	.string "とびいしの みちが…$"
 
 DistortionWorld_2_Text_CaveAbove::
-	.string "…straight to that cave above.\p"
-	.string "The rift is inviting us deeper.\n"
-	.string "Kekeke. It would be rude\l"
-	.string "to refuse.$"
+	.string "{JPN}…まっすぐ うえの どうくつへ。\p"
+	.string "さけめが わしらを おくへ さそっておる。\n"
+	.string "ケケケ。 ことわるのは\l"
+	.string "しつれいじゃろう。$"
 
 DistortionRift_Text_CantHoldIt::
-	.string "{PLAYER}! The rift is closing in…\n"
-	.string "I can't hold it open.\l"
-	.string "Hold on to me!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}! さけめが とじてゆく…\n"
+	.string "もう ひらいておけん。\l"
+	.string "わしに つかまれ!$"
 
 DistortionRift_Text_RiftFolds::
-	.string "The Distortion World folds\n"
-	.string "inward…$"
+	.string "{JPN}やぶれたせかいが\n"
+	.string "うちがわへ おりたたまれてゆく…$"
 
 @ Ferry pad (15,24) -> island heart (25,11): east 10, north 13, moved under a
 @ fade with walk_faster (hidden reposition, park-tour style). Then a slow
@@ -385,9 +385,9 @@ DistortionWorld_2_EventScript_SeamHint::
 	end
 
 DistortionWorld_2_Text_SeamHint::
-	.string "The seam hangs in the air,\n"
-	.string "sealed tight.\p"
-	.string "GENGAR taps the CATALPA BOW at\n"
-	.string "your hip.\p"
-	.string "When you want out, call the\n"
-	.string "ghost-road. Kekeke.$"
+	.string "{JPN}くうちゅうの はざまは\n"
+	.string "かたく とざされている。\p"
+	.string "ゲンガーが こしに さした アズサユミを\n"
+	.string "かるく たたいた。\p"
+	.string "でたくなったら ゆうれいのみちを\n"
+	.string "よぶのじゃ。 ケケケ。$"

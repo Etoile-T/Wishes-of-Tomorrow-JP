@@ -341096,9 +341096,13 @@
     "end": 5287,
     "raw": "\"Kekeke... don't reach for a Poke\\n\"",
     "source": "Kekeke... don't reach for a Poke\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ケケケ… まだ モンスターボールを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aec4de27a274b6a6",
@@ -341108,9 +341112,13 @@
     "end": 5325,
     "raw": "\"Ball just yet, {PLAYER}.\\p\"",
     "source": "Ball just yet, {PLAYER}.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とるでないぞ。 {ENG}{PLAYER}{JPN}。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "47f07c03528147da",
@@ -341120,9 +341128,13 @@
     "end": 5370,
     "raw": "\"It's me. Or what remains of me.\\n\"",
     "source": "It's me. Or what remains of me.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わし… わしの なごりじゃ。 ",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7a04cb8ec745b13a",
@@ -341132,9 +341144,13 @@
     "end": 5406,
     "raw": "\"Let me say it plainly,\\n\"",
     "source": "Let me say it plainly,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はっきり いおう。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8b02bb2ed8698dc5",
@@ -341144,9 +341160,13 @@
     "end": 5451,
     "raw": "\"Professor Clarkson died on Star\\n\"",
     "source": "Professor Clarkson died on Star\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "クラークソンはかせは ",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "757ddd83fd6433a2",
@@ -341156,9 +341176,13 @@
     "end": 5472,
     "raw": "\"Summit.\\p\"",
     "source": "Summit.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "スターサミットで しんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95918c12dc604829",
@@ -341168,9 +341192,13 @@
     "end": 5517,
     "raw": "\"What fell into the lava was me.\\n\"",
     "source": "What fell into the lava was me.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ようがんに おちたのは わしじゃ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "22753c67d03411f4",
@@ -341180,9 +341208,13 @@
     "end": 5540,
     "raw": "\"All of me.$\"",
     "source": "All of me.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしの すべてじゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5e24bc18e61a12e3",
@@ -341192,9 +341224,13 @@
     "end": 5616,
     "raw": "\"GENGAR found my spirit\\n\"",
     "source": "GENGAR found my spirit\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はざまを ただよっていた わしの たましいを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6cb07da16bc64153",
@@ -341204,9 +341240,13 @@
     "end": 5658,
     "raw": "\"drifting loose in the seams.\\p\"",
     "source": "drifting loose in the seams.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゲンガーが みつけてくれた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4df9655507c9bc75",
@@ -341216,9 +341256,13 @@
     "end": 5707,
     "raw": "\"The grin took some getting used to.\\n\"",
     "source": "The grin took some getting used to.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この かおには なれが ひつようじゃった。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "323f13c5fa967a00",
@@ -341228,9 +341272,13 @@
     "end": 5747,
     "raw": "\"And you hear my words only\\n\"",
     "source": "And you hear my words only\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしの ことばは その ゆみが あればこそ",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6308a5ff9327bd4a",
@@ -341240,9 +341288,13 @@
     "end": 5791,
     "raw": "\"because of that bow you carry.\\p\"",
     "source": "because of that bow you carry.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b463e8dc94e20ca7",
@@ -341252,9 +341304,13 @@
     "end": 5822,
     "raw": "\"Catalpa wood. The\\n\"",
     "source": "Catalpa wood. The\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あずさの き。 あのよと このよの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "75fd5a769bef96fa",
@@ -341264,9 +341320,13 @@
     "end": 5866,
     "raw": "\"one string that sounds on BOTH\\l\"",
     "source": "one string that sounds on BOTH\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どちらにも ひびく\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6463c27173085cd7",
@@ -341276,9 +341336,13 @@
     "end": 5897,
     "raw": "\"sides of the veil.$\"",
     "source": "sides of the veil.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ただ 1ぽんの つるじゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bc0a76d74cca926e",
@@ -341288,9 +341352,13 @@
     "end": 5971,
     "raw": "\"Listen. I can't hold\\n\"",
     "source": "Listen. I can't hold\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}よいか。 いつまでも この さけめを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1556306f7fabcf6",
@@ -341300,9 +341368,13 @@
     "end": 6007,
     "raw": "\"the rift open forever.\\p\"",
     "source": "the rift open forever.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひらいては おけん。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ad522c06c51c4f97",
@@ -341312,9 +341384,13 @@
     "end": 6049,
     "raw": "\"My research still sits in my\\n\"",
     "source": "My research still sits in my\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けんきゅうは まだ けんきゅうじょに ある。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "260f332f419073a7",
@@ -341324,9 +341400,13 @@
     "end": 6087,
     "raw": "\"lab. My notes on JIRACHI\\l\"",
     "source": "lab. My notes on JIRACHI\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ジラーチと ダークポケモンについての\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "283acecec5980812",
@@ -341336,9 +341416,13 @@
     "end": 6120,
     "raw": "\"and SHADOW pokemon.\\p\"",
     "source": "and SHADOW pokemon.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしの きろくじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e76eb05739f5206e",
@@ -341348,9 +341432,13 @@
     "end": 6159,
     "raw": "\"{PLAYER}... you can't let\\n\"",
     "source": "{PLAYER}... you can't let\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}… あれを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7f32ddcc3cc65ce1",
@@ -341360,9 +341448,13 @@
     "end": 6193,
     "raw": "\"Team Mutrid find it.\\p\"",
     "source": "Team Mutrid find it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミュートリッドだんに みつけさせるな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "edaff23a48985c6e",
@@ -341372,9 +341464,13 @@
     "end": 6236,
     "raw": "\"You must DESTROY my research.\\n\"",
     "source": "You must DESTROY my research.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしの けんきゅうを はきするのじゃ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "75bd501b0256885e",
@@ -341384,9 +341480,13 @@
     "end": 6266,
     "raw": "\"Burn every page.\\p\"",
     "source": "Burn every page.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1ページ のこらず やくのじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "382d67f364623840",
@@ -341396,9 +341496,13 @@
     "end": 6314,
     "raw": "\"We must see this through together.\\p\"",
     "source": "We must see this through together.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ともに さいごまで みとどけねば。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5cd024a8469f711c",
@@ -341408,9 +341512,13 @@
     "end": 6354,
     "raw": "\"Take us with you, {PLAYER}.$\"",
     "source": "Take us with you, {PLAYER}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしらを つれていってくれ。 {ENG}{PLAYER}{JPN}。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f84661c074cf02a",
@@ -341420,9 +341528,13 @@
     "end": 6433,
     "raw": "\"GENGAR and everything riding\\n\"",
     "source": "GENGAR and everything riding\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ゲンガーと その なかに やどる すべてが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "10af3bfc15e390ed",
@@ -341432,9 +341544,13 @@
     "end": 6475,
     "raw": "\"within it, joined your party!$\"",
     "source": "within it, joined your party!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかまに くわわった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d7ef0ad6f0e7556",
@@ -341444,9 +341560,13 @@
     "end": 6557,
     "raw": "\"GENGAR: and everything riding\\n\"",
     "source": "GENGAR: and everything riding\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ゲンガー: なかに やどる すべてと ともに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "02001579d4f8fdb9",
@@ -341456,9 +341576,13 @@
     "end": 6601,
     "raw": "\"within it, was sent to the PC.\\p\"",
     "source": "within it, was sent to the PC.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パソコンに おくられたわい。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e8309f467ba2422f",
@@ -341468,9 +341592,13 @@
     "end": 6644,
     "raw": "\"Box logistics. Even death has\\n\"",
     "source": "Box logistics. Even death has\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ボックスの てつづきか。 しんでも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a3a56aaf22d2806a",
@@ -341480,9 +341608,13 @@
     "end": 6675,
     "raw": "\"paperwork, kekeke.$\"",
     "source": "paperwork, kekeke.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しょるいしごとは あるんじゃな。 ケケケ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0ffd277cd7f20000",
@@ -341492,9 +341624,13 @@
     "end": 6752,
     "raw": "\"...Your party and your boxes are\\n\"",
     "source": "...Your party and your boxes are\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…てもちも ボックスも いっぱいじゃな。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cb4788a85857db0c",
@@ -341504,9 +341640,13 @@
     "end": 6781,
     "raw": "\"FULL, {PLAYER}.\\p\"",
     "source": "FULL, {PLAYER}.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "71ae3a92d05a4158",
@@ -341516,9 +341656,13 @@
     "end": 6822,
     "raw": "\"“Even a ghost needs a seat.\\p\"",
     "source": "“Even a ghost needs a seat.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「ゆうれいにも せきが いるわい。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2a192a16f2e21f5a",
@@ -341528,9 +341672,13 @@
     "end": 6865,
     "raw": "\"Make room, then come back for\\n\"",
     "source": "Make room, then come back for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきを つくって むかえに きてくれ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4903609d1d6757c5",
@@ -341540,9 +341688,13 @@
     "end": 6906,
     "raw": "\"me. I have waited this long.$\"",
     "source": "me. I have waited this long.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここまで まっておったんじゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a4cfa20fe77a5757",
@@ -341552,9 +341704,13 @@
     "end": 6993,
     "raw": "\"This place won't hold together\\n\"",
     "source": "This place won't hold together\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここも もう ながくは もたぬ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a001c29fa786264d",
@@ -341564,9 +341720,13 @@
     "end": 7039,
     "raw": "\"much longer, and neither will I.\\p\"",
     "source": "much longer, and neither will I.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしも そうじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "51bcefc04d447213",
@@ -341576,9 +341736,13 @@
     "end": 7086,
     "raw": "\"But I have just enough left in me\\n\"",
     "source": "But I have just enough left in me\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃが さいごに もう 1つ げいを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a433ae9cb1694f52",
@@ -341588,9 +341752,13 @@
     "end": 7119,
     "raw": "\"for one last trick.\\p\"",
     "source": "for one last trick.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みせるくらいの ちからは ある。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dce7d4a5ed81332e",
@@ -341600,9 +341768,13 @@
     "end": 7164,
     "raw": "\"Let me send you home, {PLAYER}.\\n\"",
     "source": "Let me send you home, {PLAYER}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おぬしを かえそう。 {ENG}{PLAYER}{JPN}。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a2fe473780d91b22",
@@ -341612,9 +341784,13 @@
     "end": 7213,
     "raw": "\"Back to the living world, where you\\l\"",
     "source": "Back to the living world, where you\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おぬしが いるべき\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "68599ed32f11ce12",
@@ -341624,9 +341800,13 @@
     "end": 7233,
     "raw": "\"belong.$\"",
     "source": "belong.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いきたものの せかいへ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c113773ccf119333",
@@ -341636,9 +341816,13 @@
     "end": 7297,
     "raw": "\"Ah. There it is.\\p\"",
     "source": "Ah. There it is.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ。 そういうことか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b292fedbb5de9f2c",
@@ -341648,9 +341832,13 @@
     "end": 7342,
     "raw": "\"It seems I was the nail holding\\n\"",
     "source": "It seems I was the nail holding\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしが この へやを とじておく くぎ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9821c32c055141bb",
@@ -341660,9 +341848,13 @@
     "end": 7381,
     "raw": "\"this room shut, {PLAYER}.\\p\"",
     "source": "this room shut, {PLAYER}.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だったようじゃな。 {ENG}{PLAYER}{JPN}。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "311423e39d3a2d33",
@@ -341672,9 +341864,13 @@
     "end": 7408,
     "raw": "\"Hold on to me!$\"",
     "source": "Hold on to me!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしに つかまれ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fd539a10f5eb0de8",
@@ -341684,9 +341880,13 @@
     "end": 7487,
     "raw": "\"The floating stones crack apart\\p\"",
     "source": "The floating stones crack apart\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うかぶ いしが くだけてゆく\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c392eb787dfbbda5",
@@ -341696,9 +341896,13 @@
     "end": 7527,
     "raw": "\"The Distortion World folds\\n\"",
     "source": "The Distortion World folds\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やぶれたせかいが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "39cec0135cc977a3",
@@ -341708,9 +341912,13 @@
     "end": 7547,
     "raw": "\"inward…$\"",
     "source": "inward…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちがわへ おりたたまれてゆく…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3599edc9f16478bb",
@@ -341720,9 +341928,13 @@
     "end": 7621,
     "raw": "\"The seam hangs in the air here,\\n\"",
     "source": "The seam hangs in the air here,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くうちゅうに はざまが うかんでいる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ea94e730b2d4d0d8",
@@ -341732,9 +341944,13 @@
     "end": 7666,
     "raw": "\"a thin bright wound in the fog.\\p\"",
     "source": "a thin bright wound in the fog.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きりの なかの ほそく ひかる きず。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5ca57020df009b90",
@@ -341744,9 +341960,13 @@
     "end": 7710,
     "raw": "\"Through it: the gravesite, the\\n\"",
     "source": "Through it: the gravesite, the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その むこうには はかと こうえん。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "528934837e11ba29",
@@ -341756,9 +341976,13 @@
     "end": 7754,
     "raw": "\"park, the cold ordinary world.\\p\"",
     "source": "park, the cold ordinary world.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つめたい いつもの せかいが みえる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "443215f639337b89",
@@ -341768,9 +341992,13 @@
     "end": 7785,
     "raw": "\"Step back through?$\"",
     "source": "Step back through?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くぐって もどりますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "892e41ee89b235cf",
@@ -341780,9 +342008,13 @@
     "end": 7872,
     "raw": "\"Grave-stones drift here, unmoored,\\n\"",
     "source": "Grave-stones drift here, unmoored,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はかいしが じめんを はなれ ただよっている。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd7daa01509de6cc",
@@ -341792,9 +342024,13 @@
     "end": 7914,
     "raw": "\"turning slowly end over end.\\p\"",
     "source": "turning slowly end over end.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆっくりと たてに かいてんしながら。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c166d91a33e4adbf",
@@ -341804,9 +342040,13 @@
     "end": 7953,
     "raw": "\"The names on them are all\\n\"",
     "source": "The names on them are all\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きざまれた なまえは どれも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d5f022c17bb4b80",
@@ -341816,9 +342056,13 @@
     "end": 7985,
     "raw": "\"perfectly legible.\\p\"",
     "source": "perfectly legible.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はっきりと よめる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "daacf6970adf09eb",
@@ -341828,9 +342072,13 @@
     "end": 8020,
     "raw": "\"That is somehow worse.$\"",
     "source": "That is somehow worse.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そのせいで なおさら おそろしい。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "925b417e4e9a0e37",
@@ -341840,9 +342088,13 @@
     "end": 8101,
     "raw": "\"Small things are gathered in the\\n\"",
     "source": "Small things are gathered in the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うかぶ いしの くぼみに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "18d03546f2af327b",
@@ -341852,9 +342104,13 @@
     "end": 8142,
     "raw": "\"hollow of a floating stone:\\p\"",
     "source": "hollow of a floating stone:\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちいさなものが あつめられている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5a06fd3bfe9c58dd",
@@ -341864,9 +342120,13 @@
     "end": 8186,
     "raw": "\"a child's shoe. A dry brush. A\\n\"",
     "source": "a child's shoe. A dry brush. A\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こどもの くつ。 かわいた ふで。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1079bc431cb3ea24",
@@ -341876,9 +342136,13 @@
     "end": 8231,
     "raw": "\"letter, folded so many times it\\l\"",
     "source": "letter, folded so many times it\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんども おられ もう ひらけなくなった\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ecd4a67de3b15822",
@@ -341888,9 +342152,13 @@
     "end": 8271,
     "raw": "\"can never be opened again.\\p\"",
     "source": "can never be opened again.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てがみ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fd2f273bc922b34c",
@@ -341900,9 +342168,13 @@
     "end": 8315,
     "raw": "\"Kept things. Every one of them\\n\"",
     "source": "Kept things. Every one of them\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "のこされたもの。 どれも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3d1a2e46a09628db",
@@ -341912,9 +342184,13 @@
     "end": 8346,
     "raw": "\"somebody's regret.$\"",
     "source": "somebody's regret.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかの くいだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "acb34c57741b6e44",
@@ -341924,9 +342200,13 @@
     "end": 9534,
     "raw": "\"GENGAR pours out of its Poke Ball\\n\"",
     "source": "GENGAR pours out of its Poke Ball\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ゲンガーが モンスターボールから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5d994bec9e635dda",
@@ -341936,9 +342216,13 @@
     "end": 9559,
     "raw": "\"like smoke.\\p\"",
     "source": "like smoke.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けむりのように ながれでた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13bb74f2fd7053b7",
@@ -341948,9 +342232,13 @@
     "end": 9604,
     "raw": "\"Kekeke. Welcome back, {PLAYER}.\\n\"",
     "source": "Kekeke. Welcome back, {PLAYER}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ケケケ。 おかえりじゃ。 {ENG}{PLAYER}{JPN}。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5d8069790af4a31e",
@@ -341960,9 +342248,13 @@
     "end": 9641,
     "raw": "\"The seam remembers you.\\p\"",
     "source": "The seam remembers you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はざまは おぬしを おぼえておる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "19c03f2c7c273374",
@@ -341972,9 +342264,13 @@
     "end": 9674,
     "raw": "\"But look, it is not\\n\"",
     "source": "But look, it is not\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃが みよ。 わしらが さったときとは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c8fc18f4b619fa1d",
@@ -341984,9 +342280,13 @@
     "end": 9707,
     "raw": "\"quite as we left it…$\"",
     "source": "quite as we left it…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すこし ちがっておるな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2f5fa1556ee7e4d8",
@@ -341996,9 +342296,13 @@
     "end": 9787,
     "raw": "\"There. A stepping-path across\\n\"",
     "source": "There. A stepping-path across\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あそこじゃ。 なにもない くうかんに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "047fae0e8ca0b4c1",
@@ -342008,9 +342312,13 @@
     "end": 9809,
     "raw": "\"the void…$\"",
     "source": "the void…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびいしの みちが…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "336b8e902e30819d",
@@ -342020,9 +342328,13 @@
     "end": 9888,
     "raw": "\"…straight to that cave above.\\p\"",
     "source": "…straight to that cave above.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…まっすぐ うえの どうくつへ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e677bfcd796e022e",
@@ -342032,9 +342344,13 @@
     "end": 9933,
     "raw": "\"The rift is inviting us deeper.\\n\"",
     "source": "The rift is inviting us deeper.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さけめが わしらを おくへ さそっておる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2f5b31c3ac420980",
@@ -342044,9 +342360,13 @@
     "end": 9971,
     "raw": "\"Kekeke. It would be rude\\l\"",
     "source": "Kekeke. It would be rude\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ケケケ。 ことわるのは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd9db850a25f1c16",
@@ -342056,9 +342376,13 @@
     "end": 9994,
     "raw": "\"to refuse.$\"",
     "source": "to refuse.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しつれいじゃろう。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "49c7869f0208c97f",
@@ -342068,9 +342392,13 @@
     "end": 10075,
     "raw": "\"{PLAYER}! The rift is closing in…\\n\"",
     "source": "{PLAYER}! The rift is closing in…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}! さけめが とじてゆく…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e9d7e3d38fc3596d",
@@ -342080,9 +342408,13 @@
     "end": 10110,
     "raw": "\"I can't hold it open.\\l\"",
     "source": "I can't hold it open.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もう ひらいておけん。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e08145c4e677958e",
@@ -342092,9 +342424,13 @@
     "end": 10137,
     "raw": "\"Hold on to me!$\"",
     "source": "Hold on to me!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしに つかまれ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bcbee12872cb473a",
@@ -342104,9 +342440,13 @@
     "end": 10210,
     "raw": "\"The Distortion World folds\\n\"",
     "source": "The Distortion World folds\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やぶれたせかいが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "26d034700ae0b55b",
@@ -342116,9 +342456,13 @@
     "end": 10230,
     "raw": "\"inward…$\"",
     "source": "inward…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちがわへ おりたたまれてゆく…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf398ea0ce47a294",
@@ -342128,9 +342472,13 @@
     "end": 12215,
     "raw": "\"The seam hangs in the air,\\n\"",
     "source": "The seam hangs in the air,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くうちゅうの はざまは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60c3bc5cccdf25e2",
@@ -342140,9 +342488,13 @@
     "end": 12242,
     "raw": "\"sealed tight.\\p\"",
     "source": "sealed tight.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かたく とざされている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "67fdc26eb4e8e0b5",
@@ -342152,9 +342504,13 @@
     "end": 12286,
     "raw": "\"GENGAR taps the CATALPA BOW at\\n\"",
     "source": "GENGAR taps the CATALPA BOW at\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゲンガーが こしに さした アズサユミを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "923ebed2d414b710",
@@ -342164,9 +342520,13 @@
     "end": 12309,
     "raw": "\"your hip.\\p\"",
     "source": "your hip.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かるく たたいた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6fb4e91c4add3145",
@@ -342176,9 +342536,13 @@
     "end": 12350,
     "raw": "\"When you want out, call the\\n\"",
     "source": "When you want out, call the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でたくなったら ゆうれいのみちを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7fdca1300867cfe5",
@@ -342188,9 +342552,13 @@
     "end": 12382,
     "raw": "\"ghost-road. Kekeke.$\"",
     "source": "ghost-road. Kekeke.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よぶのじゃ。 ケケケ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1425a9e57a514b83",
@@ -342200,9 +342568,13 @@
     "end": 2217,
     "raw": "\"You walk like the living.\\p\"",
     "source": "You walk like the living.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いきたものの あるきかただ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "76419266b6ee6df4",
@@ -342212,9 +342584,13 @@
     "end": 2264,
     "raw": "\"The rift keeps what cannot be let\\n\"",
     "source": "The rift keeps what cannot be let\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さけめには てばなせぬものが のこる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44749cf9abad4b24",
@@ -342224,9 +342600,13 @@
     "end": 2307,
     "raw": "\"go. I stayed to learn what it\\l\"",
     "source": "go. I stayed to learn what it\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ じぶんが のこされたか しるために\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6123c46eeb0bff4b",
@@ -342236,9 +342616,13 @@
     "end": 2333,
     "raw": "\"kept me for.\\p\"",
     "source": "kept me for.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここに とどまった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dcef435323718f54",
@@ -342248,9 +342632,13 @@
     "end": 2377,
     "raw": "\"Show me your grip on the world.$\"",
     "source": "Show me your grip on the world.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せかいを つかむ ちからを みせてみろ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c38c28fe002e9e7",
@@ -342260,9 +342648,13 @@
     "end": 2462,
     "raw": "\"...A firm grip. Firmer than mine.$\"",
     "source": "...A firm grip. Firmer than mine.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…つよく つかんでいる。 わたし いじょうに。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "08197cdb35ef82dd",
@@ -342272,9 +342664,13 @@
     "end": 2542,
     "raw": "\"Deeper down, the stones drift\\n\"",
     "source": "Deeper down, the stones drift\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おくへ いくほど いしの あいだは ひろがる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3a44d0e549fd216c",
@@ -342284,9 +342680,13 @@
     "end": 2589,
     "raw": "\"further apart. Jump like you mean\\l\"",
     "source": "further apart. Jump like you mean\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもいきって とべ。 ためらえば\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "043f6549e8400df8",
@@ -342296,9 +342696,13 @@
     "end": 2632,
     "raw": "\"it, hesitation is a long fall.$\"",
     "source": "it, hesitation is a long fall.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どこまでも おちるぞ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7587e82f99b7d919",
@@ -342308,9 +342712,13 @@
     "end": 1824,
     "raw": "\"A kept thing wears a demon's\\n\"",
     "source": "A kept thing wears a demon's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}のこされたものが おにの かおを かぶり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3b7931b81ee28543",
@@ -342320,9 +342728,13 @@
     "end": 1853,
     "raw": "\"face. It grins.\\p\"",
     "source": "face. It grins.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "にやりと わらっている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "65f837ffb06d6966",
@@ -342332,9 +342744,13 @@
     "end": 1896,
     "raw": "\"You want what the deep keeps?\\n\"",
     "source": "You want what the deep keeps?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おくに あるものが ほしいか?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24498dddf43b3278",
@@ -342344,9 +342760,13 @@
     "end": 1934,
     "raw": "\"Past me, little breather.$\"",
     "source": "Past me, little breather.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なら わたしを こえろ。 いきする こよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f199de4920829e69",
@@ -342356,9 +342776,13 @@
     "end": 2000,
     "raw": "\"The mask cracks…\\n\"",
     "source": "The mask cracks…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おめんが われる…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57da610e3f613be5",
@@ -342368,9 +342792,13 @@
     "end": 2028,
     "raw": "\"the grin stays.$\"",
     "source": "the grin stays.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わらいは きえない。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "eaa7f989dcd790b1",
@@ -342380,9 +342808,13 @@
     "end": 2090,
     "raw": "\"Take it, then.\\p\"",
     "source": "Take it, then.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なら もっていけ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab63ae3611e0ff44",
@@ -342392,9 +342824,13 @@
     "end": 2132,
     "raw": "\"The deep keeps what it wants\\n\"",
     "source": "The deep keeps what it wants\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どのみち おくそこは のこしたいものを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "73638a7cb7d5c039",
@@ -342404,9 +342840,13 @@
     "end": 2152,
     "raw": "\"anyway.$\"",
     "source": "anyway.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "のこすだけだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ee30cda75a5082e5",
@@ -342416,9 +342856,13 @@
     "end": 2592,
     "raw": "\"You crossed every stone to reach\\n\"",
     "source": "You crossed every stone to reach\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いしを すべて わたり せかいが わすれた\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "be34cce754a6af74",
@@ -342428,9 +342872,13 @@
     "end": 2630,
     "raw": "\"a room the world forgot.\\p\"",
     "source": "a room the world forgot.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "へやまで たどりついたか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "efa50e220a5f5197",
@@ -342440,9 +342888,13 @@
     "end": 2674,
     "raw": "\"I am VESPER. I keep the rift's\\n\"",
     "source": "I am VESPER. I keep the rift's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは ベスパー。 さけめの しんぞうを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec88675116a31a2a",
@@ -342452,9 +342904,13 @@
     "end": 2717,
     "raw": "\"heart, and the rift keeps me.\\p\"",
     "source": "heart, and the rift keeps me.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まもり さけめに とどめられている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "644e13b680777140",
@@ -342464,9 +342920,13 @@
     "end": 2763,
     "raw": "\"The one below us has watched you\\n\"",
     "source": "The one below us has watched you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われらの したに いるものは そなたが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "926daee7fab28926",
@@ -342476,9 +342936,13 @@
     "end": 2802,
     "raw": "\"fall through every layer.\\p\"",
     "source": "fall through every layer.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すべての そうを おちるのを みていた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "760022d85b502451",
@@ -342488,9 +342952,13 @@
     "end": 2843,
     "raw": "\"Show us both what you carry.$\"",
     "source": "Show us both what you carry.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われら ふたりに そなたの もつものを みせよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9ee3c867549aa721",
@@ -342500,9 +342968,13 @@
     "end": 2924,
     "raw": "\"...Even IT leans toward you.\\n\"",
     "source": "...Even IT leans toward you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…あれさえも そなたに こころを よせるか。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4133095cd83a3deb",
@@ -342512,9 +342984,13 @@
     "end": 2948,
     "raw": "\"Remarkable.$\"",
     "source": "Remarkable.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みごとだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "469069cf80cea46e",
@@ -342524,9 +343000,13 @@
     "end": 3032,
     "raw": "\"The rift does not yield. It\\n\"",
     "source": "The rift does not yield. It\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}さけめは くっしない。 うけいれるのだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8ceb47f4d5a0f475",
@@ -342536,9 +343016,13 @@
     "end": 3078,
     "raw": "\"ACCEPTS. And it has accepted you.$\"",
     "source": "ACCEPTS. And it has accepted you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そして そなたは うけいれられた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a32af3229bed11e",
@@ -342548,9 +343032,13 @@
     "end": 3174,
     "raw": "\"{PLAYER} received the DISTORTION\\n\"",
     "source": "{PLAYER} received the DISTORTION\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は ベスパーから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ff8489a4411ea1f",
@@ -342560,9 +343048,13 @@
     "end": 3205,
     "raw": "\"BADGE from VESPER!$\"",
     "source": "BADGE from VESPER!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ディストーションバッジを うけとった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e0cc6647fd9e4ba",
@@ -342572,9 +343064,13 @@
     "end": 3292,
     "raw": "\"That mark carries weight on both\\n\"",
     "source": "That mark carries weight on both\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その しるしは あのよと このよの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ba0a689acf8c4645",
@@ -342584,9 +343080,13 @@
     "end": 3324,
     "raw": "\"sides of the veil.\\p\"",
     "source": "sides of the veil.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どちらでも おもみを もつ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5775076baa43f1d6",
@@ -342596,9 +343096,13 @@
     "end": 3369,
     "raw": "\"POKEMON that know SURF will now\\n\"",
     "source": "POKEMON that know SURF will now\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なみのりを おぼえた ポケモンは もう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c4cea0b502496d4",
@@ -342608,9 +343112,13 @@
     "end": 3411,
     "raw": "\"carry you across open water.\\p\"",
     "source": "carry you across open water.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひろい うみを わたらせてくれる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "951598b79c290d1e",
@@ -342620,9 +343128,13 @@
     "end": 3456,
     "raw": "\"Take the heart, if you can bear\\n\"",
     "source": "Take the heart, if you can bear\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しんぞうを とれ。 それが おぼえているものを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d0f942149d39e7ab",
@@ -342632,9 +343144,13 @@
     "end": 3487,
     "raw": "\"what it remembers.$\"",
     "source": "what it remembers.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うけとめる かくごが あれば。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c2e160560c372825",
@@ -342644,9 +343160,13 @@
     "end": 3570,
     "raw": "\"The rift is quieter with you in\\n\"",
     "source": "The rift is quieter with you in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そなたが いると さけめは しずかだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8657e8e8fb5cbc18",
@@ -342656,9 +343176,13 @@
     "end": 3616,
     "raw": "\"it. Giratina notices such things.$\"",
     "source": "it. Giratina notices such things.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ギラティナは そういうことに きづく。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-distortion-world-36",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c3f59a964c535994",
@@ -455981,9 +456505,13 @@
     "end": 1877,
     "raw": "\"Hoh? A visitor. The tide must\\n\"",
     "source": "Hoh? A visitor. The tide must\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほう? きゃくか。 しおも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5f8d89452091a72e",
@@ -455993,9 +456521,13 @@
     "end": 1911,
     "raw": "\"be feeling generous.\\p\"",
     "source": "be feeling generous.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きまえが よかったと みえる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "59816cec3581c0b8",
@@ -456005,9 +456537,13 @@
     "end": 1955,
     "raw": "\"You're standing on the roof of\\n\"",
     "source": "You're standing on the roof of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おぬしが たっているのは さいしょの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6b48d79c635bafe1",
@@ -456017,9 +456553,13 @@
     "end": 1988,
     "raw": "\"the FIRST lab, kid.\\p\"",
     "source": "the FIRST lab, kid.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けんきゅうじょの やねじゃよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3764d36d3988e2c3",
@@ -456029,9 +456569,13 @@
     "end": 2033,
     "raw": "\"Before Munen. Before the tower.\\n\"",
     "source": "Before Munen. Before the tower.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ムネンよりも タワーよりも まえ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e5ea2259879c6d83",
@@ -456041,9 +456585,13 @@
     "end": 2066,
     "raw": "\"Mutrid started HERE.$\"",
     "source": "Mutrid started HERE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミュートリッドは ここで はじまった。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "43e267538c7dfa16",
@@ -456053,9 +456601,13 @@
     "end": 2141,
     "raw": "\"They wanted a “perfect form”.\\p\"",
     "source": "They wanted a “perfect form”.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やつらは 「かんぜんな すがた」を もとめた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9125e20f0f7e77c7",
@@ -456065,9 +456617,13 @@
     "end": 2184,
     "raw": "\"A POKéMON built from scratch…\\n\"",
     "source": "A POKéMON built from scratch…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちから つくりあげた ポケモン…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3ec97eb3ba657201",
@@ -456077,9 +456633,13 @@
     "end": 2225,
     "raw": "\"no soul to seal, nothing to\\l\"",
     "source": "no soul to seal, nothing to\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふうじる たましいも なければ\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "48e5f193c711d595",
@@ -456089,9 +456649,13 @@
     "end": 2251,
     "raw": "\"resist them.\\p\"",
     "source": "resist them.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やつらに さからうものも ない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b458e38a18b47abe",
@@ -456101,9 +456665,13 @@
     "end": 2292,
     "raw": "\"What woke up down there was\\n\"",
     "source": "What woke up down there was\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あの したで めざめたものは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "80cd0b51108b7b83",
@@ -456113,9 +456681,13 @@
     "end": 2318,
     "raw": "\"not perfect.\\p\"",
     "source": "not perfect.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんぜんでは なかった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9efbbda9ae220f02",
@@ -456125,9 +456697,13 @@
     "end": 2344,
     "raw": "\"It was WRONG.$\"",
     "source": "It was WRONG.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まちがっておったのじゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "782ddb2627da932f",
@@ -456137,9 +456713,13 @@
     "end": 2421,
     "raw": "\"They flooded the shafts and ran\\n\"",
     "source": "They flooded the shafts and ran\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やつらは ひとばんで たてあなを みずで みたし\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc4dc2b03d8f4afa",
@@ -456149,9 +456729,13 @@
     "end": 2453,
     "raw": "\"in a single night.\\p\"",
     "source": "in a single night.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "にげだした。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24fdb225ffedefd9",
@@ -456161,9 +456745,13 @@
     "end": 2498,
     "raw": "\"Don't go below, kid. I mean it.\\p\"",
     "source": "Don't go below, kid. I mean it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "したへ いくでない。 ほんきじゃぞ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c7d342af0bb33cee",
@@ -456173,9 +456761,13 @@
     "end": 2536,
     "raw": "\"The water didn't kill it.$\"",
     "source": "The water didn't kill it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みずでは あれは しななかった。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f68aff002970e25",
@@ -456185,9 +456777,13 @@
     "end": 2610,
     "raw": "\"A stairwell drops into black\\n\"",
     "source": "A stairwell drops into black\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かいだんが くろい みずの なかへ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "31540343925ad1dc",
@@ -456197,9 +456793,13 @@
     "end": 2630,
     "raw": "\"water.\\p\"",
     "source": "water.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つづいている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5a609778147154b5",
@@ -456209,9 +456809,13 @@
     "end": 2674,
     "raw": "\"Somewhere far below, something\\n\"",
     "source": "Somewhere far below, something\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はるか したで なにかが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "559322d1ee2a8438",
@@ -456221,9 +456825,13 @@
     "end": 2710,
     "raw": "\"hums against the flood.$\"",
     "source": "hums against the flood.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あふれる みずに あらがうように うなっている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e8c8e365a949fef1",
@@ -456233,9 +456841,13 @@
     "end": 2529,
     "raw": "\"A waterlogged terminal, still\\n\"",
     "source": "A waterlogged terminal, still\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みずびたしの たんまつが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "102f798351e19ef2",
@@ -456245,9 +456857,13 @@
     "end": 2557,
     "raw": "\"faintly alive.\\p\"",
     "source": "faintly alive.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ かすかに うごいている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "efb744dc948f4c20",
@@ -456257,9 +456873,13 @@
     "end": 2600,
     "raw": "\"“DAY 4. The director calls it\\n\"",
     "source": "“DAY 4. The director calls it\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「4にちめ。 しょちょうは これを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74eee61f271ae91a",
@@ -456269,9 +456889,13 @@
     "end": 2635,
     "raw": "\"PROJECT PERFECT FORM.\\p\"",
     "source": "PROJECT PERFECT FORM.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんぜんけいたいけいかくと よぶ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60dffb46525c3725",
@@ -456281,9 +456905,13 @@
     "end": 2678,
     "raw": "\"“A vessel with no soul of its\\n\"",
     "source": "“A vessel with no soul of its\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「じぶんの たましいを もたない うつわ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e2807db03234827",
@@ -456293,9 +456921,13 @@
     "end": 2721,
     "raw": "\"own. Nothing to seal. Nothing\\l\"",
     "source": "own. Nothing to seal. Nothing\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふうじるものも なければ\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b373361377fe64cd",
@@ -456305,9 +456937,13 @@
     "end": 2748,
     "raw": "\"to resist us.”$\"",
     "source": "to resist us.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれに さからうものも ない。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cac541fd447716bb",
@@ -456317,9 +456953,13 @@
     "end": 2815,
     "raw": "\"“DAY 61. It rebuilt its own\\n\"",
     "source": "“DAY 61. It rebuilt its own\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「61にちめ。 きょう あれは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0509f5841f276144",
@@ -456329,9 +456969,13 @@
     "end": 2840,
     "raw": "\"arms today.\\p\"",
     "source": "arms today.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんの うでを つくりなおした。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "66f8f78f7eb8d7bc",
@@ -456341,9 +456985,13 @@
     "end": 2885,
     "raw": "\"“Not the shape we grew. A shape\\n\"",
     "source": "“Not the shape we grew. A shape\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「われわれが そだてた かたちではない。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6ff3d63d5bb001e1",
@@ -456353,9 +457001,13 @@
     "end": 2912,
     "raw": "\"it PREFERRED.\\p\"",
     "source": "it PREFERRED.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あれ じしんが このんだ かたちに。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5625e1165aedb56f",
@@ -456365,9 +457017,13 @@
     "end": 2952,
     "raw": "\"“The director is thrilled.\\n\"",
     "source": "“The director is thrilled.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「しょちょうは こうふんしている。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7538e684b4e6d0e1",
@@ -456377,9 +457033,13 @@
     "end": 2993,
     "raw": "\"The rest of us have stopped\\l\"",
     "source": "The rest of us have stopped\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほかの ものは もう\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ca54317b8d239af7",
@@ -456389,9 +457049,13 @@
     "end": 3021,
     "raw": "\"sleeping here.”$\"",
     "source": "sleeping here.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここで ねむらなくなった。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "80b5d5f3c211aa9d",
@@ -456401,9 +457065,13 @@
     "end": 3084,
     "raw": "\"“DAY 77. Containment is\\n\"",
     "source": "“DAY 77. Containment is\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「77にちめ。 かくりそうちに ひびが。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5fdf768a8152d02e",
@@ -456413,9 +457081,13 @@
     "end": 3123,
     "raw": "\"cracked. It is not angry.\\p\"",
     "source": "cracked. It is not angry.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あれは おこっていない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c4355ff6e81844af",
@@ -456425,9 +457097,13 @@
     "end": 3164,
     "raw": "\"“That is the worst part. It\\n\"",
     "source": "“That is the worst part. It\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「それが なにより おそろしい。 ただ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e2904842f45bc39",
@@ -456437,9 +457113,13 @@
     "end": 3207,
     "raw": "\"just WATCHES us, and changes.\\p\"",
     "source": "just WATCHES us, and changes.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれを みつめて すがたを かえる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "551d11b9af7c3b9d",
@@ -456449,9 +457129,13 @@
     "end": 3250,
     "raw": "\"“We flood the shafts tonight.\\n\"",
     "source": "“We flood the shafts tonight.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「こんや たてあなを すいぼつさせる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8711a503fccbfb85",
@@ -456461,9 +457145,13 @@
     "end": 3287,
     "raw": "\"Forgive us. Forgive me.”$\"",
     "source": "Forgive us. Forgive me.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれを… わたしを ゆるしてくれ。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7da48371047a18cf",
@@ -456473,9 +457161,13 @@
     "end": 3356,
     "raw": "\"This terminal is dry. Someone\\n\"",
     "source": "This terminal is dry. Someone\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この たんまつは かわいている。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fa26ee542b12575e",
@@ -456485,9 +457177,13 @@
     "end": 3387,
     "raw": "\"kept it that way.\\p\"",
     "source": "kept it that way.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかが かわいたままに していた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95940fded8a1fa4f",
@@ -456497,9 +457193,13 @@
     "end": 3433,
     "raw": "\"“DAY 52. The lab system filed an\\n\"",
     "source": "“DAY 52. The lab system filed an\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「52にちめ。 だれも かいていない じっけんが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2486f248924518ec",
@@ -456509,9 +457209,13 @@
     "end": 3475,
     "raw": "\"experiment none of us wrote.\\p\"",
     "source": "experiment none of us wrote.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けんきゅうじょの システムに とうろくされた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "10657e4abcfdf867",
@@ -456521,9 +457225,13 @@
     "end": 3521,
     "raw": "\"“It logged the results before we\\n\"",
     "source": "“It logged the results before we\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「おこなう まえに けっかが きろくされた。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1a390eccf44e66d4",
@@ -456533,9 +457241,13 @@
     "end": 3556,
     "raw": "\"ran it. They matched.\\p\"",
     "source": "ran it. They matched.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けっかは いっちした。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "195afa6e96834a93",
@@ -456545,9 +457257,13 @@
     "end": 3601,
     "raw": "\"“We are no longer sure which of\\n\"",
     "source": "“We are no longer sure which of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「もはや だれが じっけんの どうぐなのか\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "192dfc273b52e25e",
@@ -456557,9 +457273,13 @@
     "end": 3636,
     "raw": "\"us is the instrument.”$\"",
     "source": "us is the instrument.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれにも わからない。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7d78585f93a08bd2",
@@ -456569,9 +457289,13 @@
     "end": 3706,
     "raw": "\"The screen is scrolling on its\\n\"",
     "source": "The screen is scrolling on its\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}がめんが ひとりでに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cafb7d5c408dbb65",
@@ -456581,9 +457305,13 @@
     "end": 3724,
     "raw": "\"own.\\p\"",
     "source": "own.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "スクロールしている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f51e2c21b8995564",
@@ -456593,9 +457321,13 @@
     "end": 3766,
     "raw": "\"“DAY 71. We cut the system's\\n\"",
     "source": "“DAY 71. We cut the system's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「71にちめ。 せつぞくばこで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2b8a8ea4e64093dc",
@@ -456605,9 +457337,13 @@
     "end": 3807,
     "raw": "\"uplink at the junction box.\\p\"",
     "source": "uplink at the junction box.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "システムの つうしんかいせんを きった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec64ec558bcaebf5",
@@ -456617,9 +457353,13 @@
     "end": 3854,
     "raw": "\"“The doors still open for it. The\\n\"",
     "source": "“The doors still open for it. The\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「それでも あれの ために ドアは ひらき\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bff68c84c2abd266",
@@ -456629,9 +457369,13 @@
     "end": 3891,
     "raw": "\"lights still answer it.\\p\"",
     "source": "lights still answer it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あかりも あれに こたえる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a8976cfedce3699e",
@@ -456641,9 +457385,13 @@
     "end": 3936,
     "raw": "\"“It has begun signing our names\\n\"",
     "source": "“It has begun signing our names\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「あれは この きろくの さいごに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c82672ba1065ec7d",
@@ -456653,9 +457401,13 @@
     "end": 3978,
     "raw": "\"at the bottom of these logs.\\p\"",
     "source": "at the bottom of these logs.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれの なまえを かきはじめた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "97c3f19dc79eaa22",
@@ -456665,9 +457417,13 @@
     "end": 4015,
     "raw": "\"“It says it is helping.”$\"",
     "source": "“It says it is helping.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「てつだっているのだと いう。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7bad87a122842fc0",
@@ -456677,9 +457433,13 @@
     "end": 4092,
     "raw": "\"The water around the ring goes\\n\"",
     "source": "The water around the ring goes\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}リングの まわりの みずが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78bdad4614774dbd",
@@ -456689,9 +457449,13 @@
     "end": 4120,
     "raw": "\"utterly still.\\p\"",
     "source": "utterly still.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんぜんに しずまった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0a387e14bab6a8a5",
@@ -456701,9 +457465,13 @@
     "end": 4160,
     "raw": "\"Something uncoils from the\\n\"",
     "source": "Something uncoils from the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひびわれた ガラスから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1d38fcc348f1c4cc",
@@ -456713,9 +457481,13 @@
     "end": 4188,
     "raw": "\"cracked glass…\\p\"",
     "source": "cracked glass…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにかが ほどけるように はいだし…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d922ef7baf1c376",
@@ -456725,9 +457497,13 @@
     "end": 4228,
     "raw": "\"and rebuilds itself, piece\\n\"",
     "source": "and rebuilds itself, piece\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたに むきなおるように すこしずつ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fb562bc5689513f2",
@@ -456737,9 +457513,13 @@
     "end": 4263,
     "raw": "\"by piece, to face you.$\"",
     "source": "by piece, to face you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんの からだを くみなおしていく。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "232f605f5f0e09b3",
@@ -456749,9 +457529,13 @@
     "end": 4339,
     "raw": "\"The prototype folds back into\\n\"",
     "source": "The prototype folds back into\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しさくたいは からだを おりたたみ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "198430345bd3ae43",
@@ -456761,9 +457545,13 @@
     "end": 4368,
     "raw": "\"the dark water.\\p\"",
     "source": "the dark water.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くらい みずに もどっていった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "785b5a948012a7cd",
@@ -456773,9 +457561,13 @@
     "end": 4404,
     "raw": "\"Unhurried. Unfinished.\\n\"",
     "source": "Unhurried. Unfinished.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あせらず。 みかんせいのまま。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ebfed1f40393a39c",
@@ -456785,9 +457577,13 @@
     "end": 4425,
     "raw": "\"Waiting.$\"",
     "source": "Waiting.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まちつづけている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-prototype-37",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d8c3dae5ae843c92",

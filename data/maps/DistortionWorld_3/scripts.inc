@@ -57,16 +57,16 @@ DistortionWorld_3_EventScript_Warden::
 	end
 
 DistortionWorld_3_Text_WardenIntro::
-	.string "You walk like the living.\p"
-	.string "The rift keeps what cannot be let\n"
-	.string "go. I stayed to learn what it\l"
-	.string "kept me for.\p"
-	.string "Show me your grip on the world.$"
+	.string "{JPN}いきたものの あるきかただ。\p"
+	.string "さけめには てばなせぬものが のこる。\n"
+	.string "なぜ じぶんが のこされたか しるために\l"
+	.string "ここに とどまった。\p"
+	.string "せかいを つかむ ちからを みせてみろ。$"
 
 DistortionWorld_3_Text_WardenDefeat::
-	.string "...A firm grip. Firmer than mine.$"
+	.string "{JPN}…つよく つかんでいる。 わたし いじょうに。$"
 
 DistortionWorld_3_Text_WardenPost::
-	.string "Deeper down, the stones drift\n"
-	.string "further apart. Jump like you mean\l"
-	.string "it, hesitation is a long fall.$"
+	.string "{JPN}おくへ いくほど いしの あいだは ひろがる。\n"
+	.string "おもいきって とべ。 ためらえば\l"
+	.string "どこまでも おちるぞ。$"

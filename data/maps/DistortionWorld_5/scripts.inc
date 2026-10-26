@@ -67,34 +67,34 @@ DistortionWorld_5_EventScript_LeaderAfter::
 	end
 
 DistortionWorld_5_Text_LeaderIntro::
-	.string "You crossed every stone to reach\n"
-	.string "a room the world forgot.\p"
-	.string "I am VESPER. I keep the rift's\n"
-	.string "heart, and the rift keeps me.\p"
-	.string "The one below us has watched you\n"
-	.string "fall through every layer.\p"
-	.string "Show us both what you carry.$"
+	.string "{JPN}いしを すべて わたり せかいが わすれた\n"
+	.string "へやまで たどりついたか。\p"
+	.string "わたしは ベスパー。 さけめの しんぞうを\n"
+	.string "まもり さけめに とどめられている。\p"
+	.string "われらの したに いるものは そなたが\n"
+	.string "すべての そうを おちるのを みていた。\p"
+	.string "われら ふたりに そなたの もつものを みせよ。$"
 
 DistortionWorld_5_Text_LeaderDefeat::
-	.string "...Even IT leans toward you.\n"
-	.string "Remarkable.$"
+	.string "{JPN}…あれさえも そなたに こころを よせるか。\n"
+	.string "みごとだ。$"
 
 DistortionWorld_5_Text_LeaderBadgeWords::
-	.string "The rift does not yield. It\n"
-	.string "ACCEPTS. And it has accepted you.$"
+	.string "{JPN}さけめは くっしない。 うけいれるのだ。\n"
+	.string "そして そなたは うけいれられた。$"
 
 DistortionWorld_5_Text_ReceivedDistortionBadge::
-	.string "{PLAYER} received the DISTORTION\n"
-	.string "BADGE from VESPER!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ベスパーから\n"
+	.string "ディストーションバッジを うけとった!$"
 
 DistortionWorld_5_Text_LeaderFarewell::
-	.string "That mark carries weight on both\n"
-	.string "sides of the veil.\p"
-	.string "POKEMON that know SURF will now\n"
-	.string "carry you across open water.\p"
-	.string "Take the heart, if you can bear\n"
-	.string "what it remembers.$"
+	.string "{JPN}その しるしは あのよと このよの\n"
+	.string "どちらでも おもみを もつ。\p"
+	.string "なみのりを おぼえた ポケモンは もう\n"
+	.string "ひろい うみを わたらせてくれる。\p"
+	.string "しんぞうを とれ。 それが おぼえているものを\n"
+	.string "うけとめる かくごが あれば。$"
 
 DistortionWorld_5_Text_LeaderAfter::
-	.string "The rift is quieter with you in\n"
-	.string "it. Giratina notices such things.$"
+	.string "{JPN}そなたが いると さけめは しずかだ。\n"
+	.string "ギラティナは そういうことに きづく。$"

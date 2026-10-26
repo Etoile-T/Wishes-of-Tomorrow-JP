@@ -53,30 +53,30 @@ PrototypeIsland_EventScript_SurfToRoute130::
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 PrototypeIsland_Text_Hermit1::
-	.string "Hoh? A visitor. The tide must\n"
-	.string "be feeling generous.\p"
-	.string "You're standing on the roof of\n"
-	.string "the FIRST lab, kid.\p"
-	.string "Before Munen. Before the tower.\n"
-	.string "Mutrid started HERE.$"
+	.string "{JPN}ほう? きゃくか。 しおも\n"
+	.string "きまえが よかったと みえる。\p"
+	.string "おぬしが たっているのは さいしょの\n"
+	.string "けんきゅうじょの やねじゃよ。\p"
+	.string "ムネンよりも タワーよりも まえ。\n"
+	.string "ミュートリッドは ここで はじまった。$"
 
 PrototypeIsland_Text_Hermit2::
-	.string "They wanted a “perfect form”.\p"
-	.string "A POKéMON built from scratch…\n"
-	.string "no soul to seal, nothing to\l"
-	.string "resist them.\p"
-	.string "What woke up down there was\n"
-	.string "not perfect.\p"
-	.string "It was WRONG.$"
+	.string "{JPN}やつらは 「かんぜんな すがた」を もとめた。\p"
+	.string "いちから つくりあげた ポケモン…\n"
+	.string "ふうじる たましいも なければ\l"
+	.string "やつらに さからうものも ない。\p"
+	.string "あの したで めざめたものは\n"
+	.string "かんぜんでは なかった。\p"
+	.string "まちがっておったのじゃ。$"
 
 PrototypeIsland_Text_Hermit3::
-	.string "They flooded the shafts and ran\n"
-	.string "in a single night.\p"
-	.string "Don't go below, kid. I mean it.\p"
-	.string "The water didn't kill it.$"
+	.string "{JPN}やつらは ひとばんで たてあなを みずで みたし\n"
+	.string "にげだした。\p"
+	.string "したへ いくでない。 ほんきじゃぞ。\p"
+	.string "みずでは あれは しななかった。$"
 
 PrototypeIsland_Text_Doorway::
-	.string "A stairwell drops into black\n"
-	.string "water.\p"
-	.string "Somewhere far below, something\n"
-	.string "hums against the flood.$"
+	.string "{JPN}かいだんが くろい みずの なかへ\n"
+	.string "つづいている。\p"
+	.string "はるか したで なにかが\n"
+	.string "あふれる みずに あらがうように うなっている。$"

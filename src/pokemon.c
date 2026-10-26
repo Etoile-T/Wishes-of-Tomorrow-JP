@@ -2538,7 +2538,8 @@ u32 GetBoxMonData3(struct BoxPokemon *boxMon, s32 field, u8 *data)
                 retVal = StringLength(data);
             }
             else if (boxMon->language == LANGUAGE_JAPANESE
-                  && !(boxMon->nickname[0] == EXT_CTRL_CODE_BEGIN && boxMon->nickname[1] == EXT_CTRL_CODE_JPN))
+                  && !(boxMon->nickname[0] == EXT_CTRL_CODE_BEGIN && (boxMon->nickname[1] == EXT_CTRL_CODE_JPN
+                       || (boxMon->nickname[1] >= EXT_CTRL_CODE_JPN_NAME_1 && boxMon->nickname[1] <= EXT_CTRL_CODE_JPN_NAME_5))))
             {
                 data[0] = EXT_CTRL_CODE_BEGIN;
                 data[1] = EXT_CTRL_CODE_JPN;

@@ -236,6 +236,13 @@
 #define EXT_CTRL_CODE_ACCENT                 0x1A
 #define EXT_CTRL_CODE_BACKGROUND             0x1B
 #define EXT_CTRL_CODE_TEXT_COLORS            0x1C
+// Fixed-length Japanese name spans: save five glyphs in seven bytes without
+// changing the save layout. Rendering restores the caller's language afterwards.
+#define EXT_CTRL_CODE_JPN_NAME_1             0x1D
+#define EXT_CTRL_CODE_JPN_NAME_2             0x1E
+#define EXT_CTRL_CODE_JPN_NAME_3             0x1F
+#define EXT_CTRL_CODE_JPN_NAME_4             0x20
+#define EXT_CTRL_CODE_JPN_NAME_5             0x21
 
 #define TEXT_COLOR_TRANSPARENT  0x0
 #define TEXT_COLOR_WHITE        0x1

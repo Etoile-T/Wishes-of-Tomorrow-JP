@@ -18,11 +18,39 @@ static inline bool8 NamingInputSafeWithKana(u8 ch)
         && ch != CHAR_CURRENCY && ch != CHAR_COMMA;
 }
 
+// Japanese names match the Japanese ROM: at most five glyphs, stored behind one
+// two-byte EXT_CTRL_CODE_JPN_NAME_n span so they fit the unchanged save fields.
+#define NAMING_INPUT_KANA_MAX 5
+
+static inline u8 NamingInputKanaLimit(u8 maxChars)
+{
+    return maxChars - 2 < NAMING_INPUT_KANA_MAX ? maxChars - 2 : NAMING_INPUT_KANA_MAX;
+}
+
+// Copy a saved name into the editor as plain glyphs. Strips span codes and the
+// older {JPN}...{ENG} wrapping; capacity includes the EOS.
+static inline void NamingInputDecode(u8 *dest, u8 capacity, const u8 *src)
+{
+    u8 pos = 0;
+    while (*src != EOS && pos + 1 < capacity)
+    {
+        if (src[0] == EXT_CTRL_CODE_BEGIN
+         && (src[1] == EXT_CTRL_CODE_JPN || src[1] == EXT_CTRL_CODE_ENG
+          || (src[1] >= EXT_CTRL_CODE_JPN_NAME_1 && src[1] <= EXT_CTRL_CODE_JPN_NAME_5)))
+        {
+            src += 2;
+            continue;
+        }
+        dest[pos++] = *src++;
+    }
+    dest[pos] = EOS;
+}
+
 static inline bool8 NamingInputEncode(u8 *dest, u8 capacity, const u8 *glyphs, u8 length)
 {
     u8 i, pos = 0;
     bool8 japanese = NamingInputHasKana(glyphs, length);
-    if ((u16)length + (japanese ? 4 : 0) + 1 > capacity)
+    if ((u16)length + (japanese ? 2 : 0) + 1 > capacity || (japanese && length > NAMING_INPUT_KANA_MAX))
         return FALSE;
     if (japanese)
     {
@@ -30,15 +58,10 @@ static inline bool8 NamingInputEncode(u8 *dest, u8 capacity, const u8 *glyphs, u
             if (!NamingInputSafeWithKana(glyphs[i]))
                 return FALSE;
         dest[pos++] = EXT_CTRL_CODE_BEGIN;
-        dest[pos++] = EXT_CTRL_CODE_JPN;
+        dest[pos++] = EXT_CTRL_CODE_JPN_NAME_1 + length - 1;
     }
     for (i = 0; i < length; i++)
         dest[pos++] = glyphs[i];
-    if (japanese)
-    {
-        dest[pos++] = EXT_CTRL_CODE_BEGIN;
-        dest[pos++] = EXT_CTRL_CODE_ENG;
-    }
     dest[pos] = EOS;
     return TRUE;
 }

@@ -132,7 +132,9 @@ struct TextPrinter
     u8 minLetterSpacing;
 
     u8 textSpeed;
-    u8 padding[3];
+    u8 japaneseNameRemaining;
+    u8 japaneseNameReturn;
+    u8 padding;
 
     struct TextPrinter *nextPrinter;
 

@@ -1543,6 +1543,15 @@ static u16 RenderText(struct TextPrinter *textPrinter)
             case EXT_CTRL_CODE_MIN_LETTER_SPACING:
                 textPrinter->minLetterSpacing = *textPrinter->printerTemplate.currentChar++;
                 return RENDER_REPEAT;
+            case EXT_CTRL_CODE_JPN_NAME_1:
+            case EXT_CTRL_CODE_JPN_NAME_2:
+            case EXT_CTRL_CODE_JPN_NAME_3:
+            case EXT_CTRL_CODE_JPN_NAME_4:
+            case EXT_CTRL_CODE_JPN_NAME_5:
+                textPrinter->japaneseNameRemaining = textPrinter->printerTemplate.currentChar[-1] - EXT_CTRL_CODE_JPN_NAME_1 + 1;
+                textPrinter->japaneseNameReturn = textPrinter->japanese;
+                textPrinter->japanese = TRUE;
+                return RENDER_REPEAT;
             case EXT_CTRL_CODE_JPN:
                 textPrinter->japanese = TRUE;
                 return RENDER_REPEAT;
@@ -1639,6 +1648,8 @@ static u16 RenderText(struct TextPrinter *textPrinter)
 
         PrintGlyph(textPrinter);
 
+        if (textPrinter->japaneseNameRemaining && --textPrinter->japaneseNameRemaining == 0)
+            textPrinter->japanese = textPrinter->japaneseNameReturn;
         return RENDER_PRINT;
     case RENDER_STATE_WAIT:
         if (TextPrinterWait(textPrinter))
@@ -1836,6 +1847,8 @@ s32 GetGlyphWidth(u16 glyphId, bool32 isJapanese, u8 fontId)
 s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
 {
     bool32 isJapanese;
+    u8 nameRemaining = 0;
+    bool32 nameReturn = FALSE;
     int minGlyphWidth;
     u32 (*func)(u16 fontId, bool32 isJapanese);
     int localLetterSpacing;
@@ -1889,6 +1902,22 @@ s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
                 bufferPointer = DynamicPlaceholderTextUtil_GetPlaceholderPtr(*++str);
             while (*bufferPointer != EOS)
             {
+                if (*bufferPointer == EXT_CTRL_CODE_BEGIN)
+                {
+                    u8 code = *++bufferPointer;
+                    if (code >= EXT_CTRL_CODE_JPN_NAME_1 && code <= EXT_CTRL_CODE_JPN_NAME_5)
+                    {
+                        nameRemaining = code - EXT_CTRL_CODE_JPN_NAME_1 + 1;
+                        nameReturn = isJapanese;
+                        isJapanese = TRUE;
+                    }
+                    else if (code == EXT_CTRL_CODE_JPN)
+                        isJapanese = TRUE;
+                    else if (code == EXT_CTRL_CODE_ENG)
+                        isJapanese = FALSE;
+                    bufferPointer += max(1, GetExtCtrlCodeLength(code));
+                    continue;
+                }
                 glyphWidth = func(*bufferPointer++, isJapanese);
                 if (minGlyphWidth > 0)
                 {
@@ -1902,6 +1931,8 @@ s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
                     if (isJapanese && str[1] != EOS)
                         lineWidth += localLetterSpacing;
                 }
+                if (nameRemaining && --nameRemaining == 0)
+                    isJapanese = nameReturn;
             }
             bufferPointer = 0;
             break;
@@ -1947,6 +1978,15 @@ s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
                 break;
             case EXT_CTRL_CODE_MIN_LETTER_SPACING:
                 minGlyphWidth = *++str;
+                break;
+            case EXT_CTRL_CODE_JPN_NAME_1:
+            case EXT_CTRL_CODE_JPN_NAME_2:
+            case EXT_CTRL_CODE_JPN_NAME_3:
+            case EXT_CTRL_CODE_JPN_NAME_4:
+            case EXT_CTRL_CODE_JPN_NAME_5:
+                nameRemaining = *str - EXT_CTRL_CODE_JPN_NAME_1 + 1;
+                nameReturn = isJapanese;
+                isJapanese = TRUE;
                 break;
             case EXT_CTRL_CODE_JPN:
                 isJapanese = 1;
@@ -1999,6 +2039,8 @@ s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
                 if (isJapanese && str[1] != EOS)
                     lineWidth += localLetterSpacing;
             }
+            if (nameRemaining && --nameRemaining == 0)
+                isJapanese = nameReturn;
             break;
         }
         ++str;

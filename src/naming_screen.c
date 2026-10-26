@@ -47,6 +47,7 @@ enum {
 
 #define KBROW_COUNT 4
 #define KBCOL_COUNT 8
+#define JP_KBCOL_COUNT 18
 
 enum {
     GFXTAG_BACK_BUTTON,
@@ -82,6 +83,9 @@ enum {
     WIN_TEXT_ENTRY,
     WIN_TEXT_ENTRY_BOX,
     WIN_BANNER,
+    WIN_PAGE_LABEL,
+    WIN_BACK_LABEL,
+    WIN_OK_LABEL,
     WIN_COUNT,
 };
 
@@ -280,6 +284,9 @@ static const struct WindowTemplate sWindowTemplates[WIN_COUNT + 1] =
         .paletteNum = 11,
         .baseBlock = 0x074
     },
+    [WIN_PAGE_LABEL] = {.bg = 0, .tilemapLeft = 23, .tilemapTop = 9, .width = 6, .height = 2, .paletteNum = 11, .baseBlock = 0x0B0},
+    [WIN_BACK_LABEL] = {.bg = 0, .tilemapLeft = 23, .tilemapTop = 13, .width = 6, .height = 2, .paletteNum = 11, .baseBlock = 0x0BC},
+    [WIN_OK_LABEL] = {.bg = 0, .tilemapLeft = 23, .tilemapTop = 16, .width = 6, .height = 2, .paletteNum = 11, .baseBlock = 0x0C8},
     DUMMY_WIN_TEMPLATE
 };
 
@@ -383,6 +390,8 @@ static u8 GetTextEntryPosition(void);
 static void DeleteTextCharacter(void);
 static bool8 AddTextCharacter(void);
 static u8 GetNameMaxChars(void);
+static void SwitchKeyboardFamily(u8 family);
+static bool8 ModifyLastKana(u8 action);
 static void SaveInputText(void);
 static void LoadGfx(void);
 static void CreateHelperTasks(void);
@@ -484,13 +493,14 @@ static void NamingScreen_Init(void)
     sNamingScreen->template = sNamingScreenTemplates[sNamingScreen->templateNum];
     sNamingScreen->currentPage = sNamingScreen->template->initialPage;
     sNamingScreen->keyboardFamily = (sNamingScreen->templateNum <= NAMING_SCREEN_NICKNAME || sNamingScreen->templateNum == NAMING_SCREEN_RIVAL) ? 1 : 0;
-    sNamingScreen->inputCharBaseXPos = (DISPLAY_WIDTH - sNamingScreen->template->maxChars * 8) / 2 + 6;
-    if (sNamingScreen->templateNum == NAMING_SCREEN_WALDA)
-        sNamingScreen->inputCharBaseXPos += 11;
     sNamingScreen->keyRepeatStartDelayCopy = gKeyRepeatStartDelay;
     memset(sNamingScreen->textBuffer, EOS, sizeof(sNamingScreen->textBuffer));
     if (sNamingScreen->template->copyExistingString)
-        StringCopy(sNamingScreen->textBuffer, sNamingScreen->destBuffer);
+        NamingInputDecode(sNamingScreen->textBuffer, sizeof(sNamingScreen->textBuffer), sNamingScreen->destBuffer);
+    // Centered on the limit that applies to the starting keyboard and text.
+    sNamingScreen->inputCharBaseXPos = (DISPLAY_WIDTH - GetNameMaxChars() * 8) / 2 + 6;
+    if (sNamingScreen->templateNum == NAMING_SCREEN_WALDA)
+        sNamingScreen->inputCharBaseXPos += 11;
     gKeyRepeatStartDelay = 16;
 }
 
@@ -788,6 +798,7 @@ static bool8 MainState_WaitPageSwap(void)
 
         SetCursorPos(cursorX, cursorY);
         DrawKeyboardPageOnDeck();
+        PrintControls();
         SetInputState(INPUT_STATE_ENABLED);
         SetCursorInvisibility(FALSE);
     }
@@ -1138,7 +1149,7 @@ static void SetCursorPos(s16 x, s16 y)
     struct Sprite *cursorSprite = &gSprites[sNamingScreen->cursorSpriteId];
 
     if (x < GetCurrentPageColumnCount())
-        cursorSprite->x = (sNamingScreen->keyboardFamily ? x * 17 : sPageColumnXPos[CurrentPageToKeyboardId()][x]) + 38;
+        cursorSprite->x = (sNamingScreen->keyboardFamily ? x * 8 : sPageColumnXPos[CurrentPageToKeyboardId()][x]) + 38;
     else
         cursorSprite->x = 0;
 
@@ -1203,7 +1214,7 @@ static u8 GetKeyRoleAtCursorPos(void)
 static u8 GetCurrentPageColumnCount(void)
 {
     if (sNamingScreen->keyboardFamily)
-        return KBCOL_COUNT;
+        return JP_KBCOL_COUNT;
     return sPageColumnCounts[CurrentPageToKeyboardId()];
 }
 
@@ -1268,8 +1279,7 @@ static u8 (*const sPageSwapSpriteFuncs[])(struct Sprite *) =
 static void SpriteCB_PageSwap(struct Sprite *sprite)
 {
     while (sPageSwapSpriteFuncs[sprite->sState](sprite));
-    if (sNamingScreen->keyboardFamily)
-        gSprites[sprite->sTextSpriteId].invisible = TRUE;
+    gSprites[sprite->sTextSpriteId].invisible = TRUE;
 }
 
 static bool8 PageSwapSprite_Init(struct Sprite *sprite)
@@ -1514,25 +1524,8 @@ static bool8 HandleKeyboardEvent(void)
 
     if (input == INPUT_LR_BUTTON)
     {
-        s16 x, y;
-        bool8 button;
-        u8 window;
-        if (sNamingScreen->templateNum == NAMING_SCREEN_WALDA || sNamingScreen->templateNum == NAMING_SCREEN_CODE)
-            return FALSE;
-        GetCursorPos(&x, &y);
-        button = x == GetCurrentPageColumnCount();
-        sNamingScreen->keyboardFamily = (sNamingScreen->keyboardFamily + 1) % 3;
-        if (button)
-            x = GetCurrentPageColumnCount();
-        else if (x >= GetCurrentPageColumnCount())
-            x = GetCurrentPageColumnCount() - 1;
-        SetCursorPos(x, y);
-        window = sNamingScreen->windows[sNamingScreen->bg1Priority < sNamingScreen->bg2Priority ? WIN_KB_PAGE_1 : WIN_KB_PAGE_2];
-        PrintKeyboardKeys(window, CurrentPageToKeyboardId());
-        DrawKeyboardPageOnDeck();
-        gSprites[gSprites[sNamingScreen->swapBtnFrameSpriteId].data[6]].invisible = sNamingScreen->keyboardFamily != 0;
-        PrintControls();
-        PlaySE(SE_SELECT);
+        if (sNamingScreen->templateNum != NAMING_SCREEN_WALDA && sNamingScreen->templateNum != NAMING_SCREEN_CODE)
+            SwitchKeyboardFamily((sNamingScreen->keyboardFamily + 1) % 3);
         return FALSE;
     }
     else if (input == INPUT_SELECT)
@@ -1622,6 +1615,19 @@ static bool8 KeyboardKeyHandler_OK(u8 input)
 
 static bool8 SwapKeyboardPage(void)
 {
+    if (sNamingScreen->templateNum != NAMING_SCREEN_WALDA && sNamingScreen->templateNum != NAMING_SCREEN_CODE)
+    {
+        if (sNamingScreen->keyboardFamily)
+        {
+            SwitchKeyboardFamily(0);
+            return FALSE;
+        }
+        if (sNamingScreen->currentPage == KBPAGE_SYMBOLS)
+        {
+            SwitchKeyboardFamily(1);
+            return FALSE;
+        }
+    }
     sNamingScreen->state = STATE_START_PAGE_SWAP;
     return TRUE;
 }
@@ -1881,24 +1887,16 @@ static void DrawGenderIcon(void)
     }
 }
 
-static const u8 sJapaneseKeyboard[2][3][KBROW_COUNT][KBCOL_COUNT + 1] =
+static const u8 sJapaneseKeyboard[2][KBROW_COUNT][JP_KBCOL_COUNT + 1] =
 {
-    {
-        {__("むめもやゆよらり"), __("るれろわをんぁぃ"), __("ぅぇぉゃゅょっが"), __("ぎぐげござじずぜ")},
-        {__("あいうえおかきく"), __("けこさしすせそた"), __("ちつてとなにぬね"), __("のはひふへほまみ")},
-        {__("ぞだぢづでどばび"), __("ぶべぼぱぴぷぺぽ"), __("ー！？・ 012"), __("3456789 ")},
-    },
-    {
-        {__("ムメモヤユヨラリ"), __("ルレロワヲンァィ"), __("ゥェォャュョッガ"), __("ギグゲゴザジズゼ")},
-        {__("アイウエオカキク"), __("ケコサシスセソタ"), __("チツテトナニヌネ"), __("ノハヒフヘホマミ")},
-        {__("ゾダヂヅデドバビ"), __("ブベボパピプペポ"), __("ーヴ！？・ 01"), __("23456789")},
-    },
+    {__("あいうえお なにぬねの らりるれろ "), __("かきくけこ はひふへほ わ を ん "), __("さしすせそ まみむめも だ ぱ ぁ "), __("たちつてと や ゆ よ カ ！？ー ")},
+    {__("アイウエオ ナニヌネノ ラリルレロ "), __("カキクケコ ハヒフヘホ ワ ヲ ン "), __("サシスセソ マミムメモ ダ パ ァ "), __("タチツテト ヤ ユ ヨ カ ！？ー ")},
 };
 
 static u8 GetCharAtKeyboardPos(s16 x, s16 y)
 {
     if (sNamingScreen->keyboardFamily)
-        return sJapaneseKeyboard[sNamingScreen->keyboardFamily - 1][CurrentPageToKeyboardId()][y][x];
+        return sJapaneseKeyboard[sNamingScreen->keyboardFamily - 1][y][x];
     return sKeyboardChars[CurrentPageToKeyboardId()][y][x];
 }
 
@@ -1906,7 +1904,16 @@ static u8 GetCharAtKeyboardPos(s16 x, s16 y)
 static u8 GetNameMaxChars(void)
 {
     u8 max = sNamingScreen->template->maxChars;
-    return NamingInputHasKana(sNamingScreen->textBuffer, max) ? max - 4 : max;
+    u8 length = 0;
+    if (sNamingScreen->templateNum == NAMING_SCREEN_WALDA || sNamingScreen->templateNum == NAMING_SCREEN_CODE)
+        return max;
+    while (length < max && sNamingScreen->textBuffer[length] != EOS)
+        length++;
+    // Kana names use the Japanese ROM length; Latin-only names keep the full field.
+    if (NamingInputHasKana(sNamingScreen->textBuffer, max)
+     || (sNamingScreen->keyboardFamily && length <= NamingInputKanaLimit(max)))
+        return NamingInputKanaLimit(max);
+    return max;
 }
 
 static u8 GetTextEntryPosition(void)
@@ -1961,8 +1968,23 @@ static bool8 AddTextCharacter(void)
     GetCursorPos(&x, &y);
     {
         u8 i, length = 0, ch = GetCharAtKeyboardPos(x, y);
-        u8 max = sNamingScreen->template->maxChars;
+        u8 max = GetNameMaxChars();
         bool8 japanese = NamingInputHasKana(sNamingScreen->textBuffer, max) || NamingInputHasKana(&ch, 1);
+        if (sNamingScreen->keyboardFamily)
+        {
+            if (y == 3 && x == 12)
+            {
+                SwitchKeyboardFamily(sNamingScreen->keyboardFamily == 1 ? 2 : 1);
+                return FALSE;
+            }
+            if (y == 2 && (x == 12 || x == 14 || x == 16))
+            {
+                ModifyLastKana(x);
+                return FALSE;
+            }
+            if (ch == CHAR_SPACE)
+                return FALSE;
+        }
         while (length < max && sNamingScreen->textBuffer[length] != EOS)
             length++;
         if (japanese)
@@ -1972,7 +1994,7 @@ static bool8 AddTextCharacter(void)
             for (i = 0; i < length; i++)
                 if (!NamingInputSafeWithKana(sNamingScreen->textBuffer[i]))
                     return FALSE;
-            max -= 4;
+            max = NamingInputKanaLimit(sNamingScreen->template->maxChars);
         }
         if (length >= max)
         {
@@ -2108,10 +2130,10 @@ static void PrintKeyboardKeys(u8 window, u8 page)
         if (sNamingScreen->keyboardFamily)
         {
             u8 col;
-            for (col = 0; col < KBCOL_COUNT; col++)
+            for (col = 0; col < JP_KBCOL_COUNT; col++)
             {
                 u8 text[6];
-                u8 glyph = sJapaneseKeyboard[sNamingScreen->keyboardFamily - 1][page][i][col];
+                u8 glyph = sJapaneseKeyboard[sNamingScreen->keyboardFamily - 1][i][col];
                 NamingInputEncode(text, sizeof(text), &glyph, 1);
                 text[0] = EXT_CTRL_CODE_BEGIN;
                 text[1] = EXT_CTRL_CODE_JPN;
@@ -2119,13 +2141,18 @@ static void PrintKeyboardKeys(u8 window, u8 page)
                 text[3] = EXT_CTRL_CODE_BEGIN;
                 text[4] = EXT_CTRL_CODE_ENG;
                 text[5] = EOS;
-                AddTextPrinterParameterized3(window, FONT_NORMAL, col * 17, i * 16 + 1, sKeyboardTextColors[page], 0, text);
+                AddTextPrinterParameterized3(window, FONT_NORMAL, col * 8, i * 16 + 1, sKeyboardTextColors[page], 0, text);
             }
         }
         else
             AddTextPrinterParameterized3(window, FONT_NORMAL, 0, i * 16 + 1, sKeyboardTextColors[page], 0, sNamingScreenKeyboardText[page][i]);
     }
 
+    if (sNamingScreen->keyboardFamily)
+    {
+        const u8 *shift = sNamingScreen->keyboardFamily == 1 ? COMPOUND_STRING("{JPN}カナ{ENG}") : COMPOUND_STRING("{JPN}かな{ENG}");
+        AddTextPrinterParameterized3(window, FONT_SMALL, 96, 49, sKeyboardTextColors[page], 0, shift);
+    }
     PutWindowTilemap(window);
 }
 
@@ -2165,6 +2192,61 @@ static void DrawKeyboardPageOnDeck(void)
     CopyBgTilemapBufferToVram(bg_);
 }
 
+static void SwitchKeyboardFamily(u8 family)
+{
+    s16 x, y;
+    u8 window;
+    GetCursorPos(&x, &y);
+    sNamingScreen->keyboardFamily = family;
+    sNamingScreen->currentPage = KBPAGE_LETTERS_UPPER;
+    SetCursorPos(0, 0);
+    window = sNamingScreen->windows[sNamingScreen->bg1Priority < sNamingScreen->bg2Priority ? WIN_KB_PAGE_1 : WIN_KB_PAGE_2];
+    PrintKeyboardKeys(window, CurrentPageToKeyboardId());
+    DrawKeyboardPageOnDeck();
+    PrintControls();
+    PlaySE(SE_SELECT);
+}
+
+static bool8 ModifyLastKana(u8 action)
+{
+    const u8 voiced[] = __("かがきぎくぐけげこごさざしじすずせぜそぞただちぢつづてでとどカガキギクグケゲコゴサザシジスズセゼソゾタダチヂツヅテデトドウヴ");
+    const u8 semi[] = __("はばぱひびぴふぶぷへべぺほぼぽハバパヒビピフブプヘベペホボポ");
+    const u8 small[] = __("あぁいぃうぅえぇおぉやゃゆゅよょつっアァイィウゥエェオォヤャユュヨョツッ");
+    u8 index = GetPreviousTextCaretPosition();
+    u8 ch = sNamingScreen->textBuffer[index];
+    u16 i;
+    if (ch == EOS)
+        return FALSE;
+    if (action == 12)
+        for (i = 0; voiced[i] != EOS; i += 2)
+            if (ch == voiced[i] || ch == voiced[i + 1])
+            {
+                sNamingScreen->textBuffer[index] = ch == voiced[i] ? voiced[i + 1] : voiced[i];
+                goto changed;
+            }
+    if (action == 12 || action == 14)
+        for (i = 0; semi[i] != EOS; i += 3)
+            if (ch == semi[i] || ch == semi[i + 1] || ch == semi[i + 2])
+            {
+                u8 target = action == 12 ? 1 : 2;
+                sNamingScreen->textBuffer[index] = ch == semi[i + target] ? semi[i] : semi[i + target];
+                goto changed;
+            }
+    if (action == 16)
+        for (i = 0; small[i] != EOS; i += 2)
+            if (ch == small[i] || ch == small[i + 1])
+            {
+                sNamingScreen->textBuffer[index] = ch == small[i] ? small[i + 1] : small[i];
+                goto changed;
+            }
+    return FALSE;
+changed:
+    DrawTextEntry();
+    CopyBgTilemapBufferToVram(3);
+    PlaySE(SE_SELECT);
+    return TRUE;
+}
+
 static void PrintControls(void)
 {
     const u8 color[3] = { TEXT_DYNAMIC_COLOR_6, TEXT_COLOR_WHITE, TEXT_COLOR_DARK_GRAY };
@@ -2181,6 +2263,21 @@ static void PrintControls(void)
     }
     else
         AddTextPrinterParameterized3(sNamingScreen->windows[WIN_BANNER], FONT_SMALL, 2, 1, color, 0, sText_MoveOkBack);
+    {
+        const u8 *page = sNamingScreen->keyboardFamily ? COMPOUND_STRING("{JPN}ABC{ENG}")
+            : sNamingScreen->currentPage == KBPAGE_LETTERS_UPPER ? COMPOUND_STRING("{JPN}abc{ENG}")
+            : sNamingScreen->currentPage == KBPAGE_LETTERS_LOWER ? COMPOUND_STRING("{JPN}きごう{ENG}") : COMPOUND_STRING("{JPN}かな{ENG}");
+        const u8 *labels[] = {page, COMPOUND_STRING("{JPN}けす{ENG}"), COMPOUND_STRING("{JPN}けってい{ENG}")};
+        u8 i;
+        for (i = 0; i < 3; i++)
+        {
+            u8 win = sNamingScreen->windows[WIN_PAGE_LABEL + i];
+            FillWindowPixelBuffer(win, PIXEL_FILL(15));
+            AddTextPrinterParameterized3(win, FONT_SMALL, 2, 1, color, 0, labels[i]);
+            PutWindowTilemap(win);
+            CopyWindowToVram(win, COPYWIN_FULL);
+        }
+    }
     PutWindowTilemap(sNamingScreen->windows[WIN_BANNER]);
     CopyWindowToVram(sNamingScreen->windows[WIN_BANNER], COPYWIN_FULL);
 }

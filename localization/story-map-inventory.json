@@ -1112,8 +1112,8 @@
       "map": "LilycoveCity_ContestLobby",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 68,
-      "translated": 0,
+      "pending": 0,
+      "translated": 68,
       "outgoing": [
         "ContestHallBeauty",
         "ContestHallCool",
@@ -1223,8 +1223,8 @@
       "map": "LilycoveCity_PokemonTrainerFanClub",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 176,
-      "translated": 0,
+      "pending": 0,
+      "translated": 176,
       "outgoing": [
         "LilycoveCity"
       ]
@@ -1592,8 +1592,8 @@
       "map": "LilycoveCity_ContestHall",
       "depth": 12,
       "via": "LilycoveCity_ContestLobby",
-      "pending": 129,
-      "translated": 0,
+      "pending": 0,
+      "translated": 129,
       "outgoing": [
         "LilycoveCity_ContestLobby"
       ]
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 13425,
-  "translated_map_rows": 3930
+  "pending_map_rows": 13052,
+  "translated_map_rows": 4303
 }

@@ -4,7 +4,19 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話57（2026-10-27）
+## 最新の会話58/59（2026-10-27）
+
+6673307502・クリーン、status/stats61,722/12,422/49,300一致から継続。FanClub176行、ContestLobby68行/ContestHall129行、計373行追加し61,722/12,795/48,927。3ファイルのカタログpending0。レビューreviews/dialogue-fanclub-contest-58-59.review.md。参考候補から37メッセージ133行を取得し英語と照合、残り240行は新訳。参考初期値はreference.tsv、採用した133行はprovenanceへJP/英語参照コミットを明記。参考の誤字「だたもの」、英語にない「ついに」、coffeeがお茶になっていた箇所、can't alwaysの確度、父センリのpower/charisma/showmanshipの3要素を修正。変数の原文行位置はcheckで確認し移動していた初稿を戻した。原文に残る家族設定を勝手にWishesの別設定へ統一していない。辞書115語。
+
+yomiyasu script lint0/meaning_risk0（保証ではない）、check bad0/width超0、audit0、78テスト成功。3スクリプトの非.string行は開始時と完全一致。イベント・フラグ・セーブ構造は不変。
+
+GBA ../outputs/gba/wishes-jp-12795-50c0023a.gba、SHA256 c00abbe204acfc1b32fdf29cd321e24c79af9c901f358f98f8793e50eecb69dd。source commit b20d2dc3ba277fd4460bc95a98ddf1119df12626。build/emerald-jp-dlg12795-clean、ROM29,845,544B/EWRAM230,024/IWRAM28,600。BPS再適用バイト一致、../artifacts/wishes-jp-ui12795-50c0023a-patch.zip。実画面・人気変動・コンテスト・リボン・展示・進行・保存は未検証。旧ROM・セーブ保持。
+
+Excel14シート・62,429行11列の原文/訳文/ID/状態/メモ、115語、目次62,429/13,502/48,927を保存後照合し一致。旧メモ0件も維持。Git内exports/types-12795.xlsx。管理画面カタログも12,795/48,927へ再読込済み。Excel実アプリ未確認。
+
+次は **data/maps/LilycoveCity/scripts.inc（239行）**。ミナモ関連でここだけカタログpendingが残る。参考同形候補74行があるので全文意味レビューして活用し、通常の手順を通す。候補一覧を再生成し残り2,160メッセージ/5,831行（未レビュー、未適用）。mapグラフ460候補・map内pending13,052。新ラベル/本文差分0や参考候補0だけで全ストーリー完成とは判断しない。
+
+## 以前の会話57（2026-10-27）
 
 b400dde3e2・クリーン、status/stats61,722/12,212/49,510一致から継続。美術館1F83行・2F74行、House3の53行、計210行を追加し、61,722/12,422/49,300。3スクリプトのカタログpending0。レビューreviews/dialogue-museum-house-57.review.md。現代作品の修飾先と子どもの不明な性別を校正。絵の比喩・限定/否定・伝聞・館長の願いと報酬、ポロックの低いなめらかさ数値/高いレベル等を保持。参考JPの語彙を照合し辞書113語。yomiyasu script lint0/meaning_risk0、check bad0/26マス超0、audit0。3ファイルの非.string行は開始時と完全一致。ソース適用時75テスト、参考抽出3テスト追加後78テスト成功。
 
@@ -57,14 +69,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `975eb39549698f68a1c7a048e5aaee537ad55775`（この後にdocsコミットあり） |
-| カタログ | 61,722候補のうち翻訳済み12,422、pending49,300（完成率ではない） |
+| 最新の翻訳コミット | `b20d2dc3ba277fd4460bc95a98ddf1119df12626`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み12,795、pending48,927（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で78件成功 |
-| 最新ビルド | pokeemerald-jp-dlg12422.gba（ROM29,849,576B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-12422-8d1e7738.gba（旧ROM・セーブ保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui12422-8d1e7738-patch.zip / localization/patch-manifest-ui12422.json |
-| Excel | ../outputs/translation-types-12422/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-12422.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg12795.gba（ROM29,845,544B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-12795-50c0023a.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui12795-50c0023a-patch.zip / localization/patch-manifest-ui12795.json |
+| Excel | ../outputs/translation-types-12795/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-12795.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 

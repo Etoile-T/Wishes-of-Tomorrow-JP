@@ -9,24 +9,24 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `14c943a52e45ced731540fed3732825e582443f2`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,312、pending 51,410（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `2ca12614e5df818187ce199b7369c905739e5420`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,511、pending 51,211（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で41件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg10312.gba`（ROM 29,869,416B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10312-b4119a6c.gba`（README.txt 更新済み） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10312-b4119a6c-patch.zip`、追跡用 `localization/patch-manifest-ui10312.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10312/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10312.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-dlg10511.gba`（ROM 29,867,816B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10511-b892cefe.gba`（README.txt 更新済み） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10511-b892cefe-patch.zip`、追跡用 `localization/patch-manifest-ui10511.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10511/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10511.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
-今回の開始時: statusとcatalog statsは61,722 / 10,096 / 51,626で一致。Gitはmain、最新4aa19cf27b。Excelロックファイル2個だけが未追跡で、触っていない。旧ブック3ファイルの保存済みメモ欄はいずれも0件。旧ブックを上書きせず新版を別名で出力した。未保存の編集は読み取っていない。
+今回の開始時: statusとcatalog statsは61,722 / 10,312 / 51,410で一致。Gitはmain、最新4ceb3831ac、作業ツリーはクリーン。直前の全件Excel2ファイルの保存済みメモは0件。旧ファイルを上書きせず新版を別名出力。未保存の編集は読み取っていない。
 
-今回の追加: CelebiIsland 114、UndergroundArena 102、計216件。対象2ファイルのpendingは0。会話以外のスクリプト内容は翻訳前と同一。レビューは `localization/reviews/dialogue-celebi-arena-34-35.review.md`。前回のRebelHideout・TradewindTown一帯409件も適用済み。ツジの敗北時原文の違和感は前回のレビューへ記録しており、未解決のまま維持している。
+今回の追加: DistortionWorld系5マップ131件、PrototypeIsland / PrototypeLab 68件、計199件。対象7ファイルのpendingは0。会話以外のスクリプト内容は翻訳前と同一。レビューは `localization/reviews/dialogue-distortion-prototype-36-37.review.md`。博士の元の長いページは、変更可能な改行だけを調整して日本語2行へ組み直し、メッセージ連結後も検査した。ツジの敗北時原文の違和感は以前のレビューに記録したまま未解決。
 
-検証: dialogue_tools check両バッチbad 0、widthは26マス超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `fe8ccc9401194cdec32c49f6f54b3246d1c90ffd1586d9499daa969b7022afb7`。ログは `../artifacts/build-dlg10312.log`、`../artifacts/logs/dialogue-34-35-tests.log`、`verify-10312.log`。Excelは全11,019件のID・制御付き原文・訳文を保存後にカタログとカタログ外名称表へ照合し一致、プレビュー確認済み。実機・画面・進行は未検証。
+検証: dialogue_tools check両バッチbad 0、個別・連結後の幅は26マス超0、スクロール前のページは2行超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `e8d1fc025dcc6c1fbd20d91fb28d39decf374965eb4020c32b2f93ef022efcf7`。ログは `../artifacts/build-dlg10511.log`、`../artifacts/logs/dialogue-36-37-tests.log`、`verify-10511.log`。実機・画面・進行は未検証。
 
-全件Excelの追加（2026-10-26）: ユーザーの指示により未翻訳も同じ一覧へ収録。K列が翻訳状態、D列が読みやすい訳、I/J列が制御コード付き訳／原文、F列がID。未翻訳51,410件、適用済み10,312件、別管理の名称707件。保存後に全62,429行のID・原文・訳文・状態と84用語を照合し一致、表のフィルターと7行固定も確認。旧Excel・メモ・ロックファイルは変更していない。画像・未抽出文字列の網羅を意味しない。今回ゲームソース・ROMの変更はなし。
+全件Excel: K列が翻訳状態、D列が読みやすい訳、I/J列が制御コード付き訳／原文、F列がID。未翻訳51,211件、適用済み10,511件、別管理名称707件。全62,429行と用語辞書89件を収録。画像・未抽出文字列の網羅を意味しない。Excelへの記入は自動でゲームに反映されない。保存後に全62,429行のID・順番・原文・訳文・状態と89用語を照合し一致、フィルター・7行固定を確認、プレビュー目視済み。ログは `../artifacts/logs/excel-all-10511-verify.log`。Excel実アプリは未実行。
 
 ## 2. ユーザーの指示（守ること）
 
@@ -44,7 +44,7 @@
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。今は**ストーリーの会話を、プレイ順に独自マップから**進めている。
 
-1. 独自マップの残り（約262行）: 次はDistortionWorld 系 131、PrototypeIsland 21 / PrototypeLab 47、DragonKeeper 34、MewtwoPostGame 29。RebelHideout、TradewindTown一帯、CelebiIsland、UndergroundArenaは適用済み。件数・プレイ順・前後の会話はソースと `dialogue_tools.py dump` で再確認する。
+1. 独自マップの残り（把握済み63行）: 次はDragonKeeper 34、MewtwoPostGame 29。DistortionWorld系とPrototypeIsland/Labまで適用済み。その後、独自マップに未抽出・未翻訳の会話が残っていないか棚卸しする。件数・プレイ順・前後の会話はソースと `dialogue_tools.py dump` で再確認する。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

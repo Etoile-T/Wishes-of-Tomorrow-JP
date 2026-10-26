@@ -1,0 +1,818 @@
+[
+ {
+  "id": "6202c4d22d805c0e",
+  "translation": "{JPN}トンネルを ぬけると どよめきが ひびいた。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92486eb8f4fa76c8",
+  "translation": "したでは ぬすんだ しょうめいの わに かこまれ\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36a84c32392289ab",
+  "translation": "2にんの トレーナーが\\l",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "154cd506d92284d6",
+  "translation": "まだ たたかいつづけている。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31a8daad042831e2",
+  "translation": "{JPN}じっきょう: …ここで\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80eb0f85eb76bb6e",
+  "translation": "しあい しゅうりょう!\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9a5dabd6c1a7529",
+  "translation": "ちょうせんしゃ ダウンです!\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94cba2c0d27b163c",
+  "translation": "みなさん! みごとな たたかいぶりでした!$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09e5bc83140e8a50",
+  "translation": "{JPN}じっきょう: ちかとうぎじょうの\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b84dcb7fa0bc242",
+  "translation": "ぜったいおうじゃは\\l",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f74a37eaee82f2e1",
+  "translation": "やはり この おとこ…\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1a521813ad3f42b",
+  "translation": "ボ ル テ ン !\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33e59c2b88108bf6",
+  "translation": "トンネルが ゆれる。 はるか うえの\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9ea41f27484a993",
+  "translation": "ミュートリッドには なにも きこえない。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3188c236c7eec19f",
+  "translation": "{JPN}みにきた わけじゃ ないんだろ。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ab61043b9352c87",
+  "translation": "その かおを みれば わかる。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c364d220ed73953",
+  "translation": "3れんせんだ。 あいだに きゅうけいも\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42b0770bfacc94da",
+  "translation": "キズぐすりも なし…\\l",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "878efeb632ca35c7",
+  "translation": "いまの てもちで たたかいぬく。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f905df8fdcc27332",
+  "translation": "でるかい?$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "343472b99e1531d3",
+  "translation": "{JPN}けんめいだ。 てもちの じゅんびが\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0dc5f2d28d9aa605",
+  "translation": "できたら また きな。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b26386517690ed8",
+  "translation": "{JPN}じっきょう: まった! まった…\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01d4b2bc799a2400",
+  "translation": "とびいりの ちょうせんしゃが とうじょう!\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "749b9f1d96da6608",
+  "translation": "{ENG}{PLAYER}{JPN}!!$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f60526750a2e9c83",
+  "translation": "{JPN}かんきゃくは そうだちだ。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88bb7a465a08634f",
+  "translation": "じゅんびが できたら しるしの うえへ。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8a2b07598b47539",
+  "translation": "リングは きみの ものだ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a0b4fc0984056db",
+  "translation": "{JPN}みなさん。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "687484e48c58aaac",
+  "translation": "チャンピオンの おでましです。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55fd91758e0dd082",
+  "translation": "かれは あなたに ウインクした。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a1980da62011a44",
+  "translation": "{JPN}じっきょう: だい1せん!\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dce0f9fd23c47bee",
+  "translation": "ちょうせんしゃに はくしゅを!$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "095b105b27482c9c",
+  "translation": "{JPN}ぜんりょくで きな。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "055da64faac20a23",
+  "translation": "{JPN}…ほんとに ぜんりょくだったね。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f06a7a004d045fa0",
+  "translation": "{JPN}じっきょう: だい2せん! きゅうけいなしが\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ede25943e50d46cc",
+  "translation": "ちかの ルールだ!$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91188b2f8316a674",
+  "translation": "{JPN}まだ たってるの?\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d88350333e13641",
+  "translation": "それじゃ たおれてもらおうか。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3e9a6448a05f778",
+  "translation": "{JPN}ちっ。 まだ たってる。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aaa842a7495ad0dd",
+  "translation": "{JPN}じっきょう: さいしゅうせん!\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "307f22eaec43e67b",
+  "translation": "つぎが だれか わかってるよな。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb1803ec5c9c004e",
+  "translation": "みんな はじめから わかってたはずだ!$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0ccf4e41c49a56f",
+  "translation": "{JPN}きゅうけいも なしに 2にん たおしたか。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6aaf830c27302bed",
+  "translation": "やつらは ジムを とじた。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60b7bfb80bd8eaae",
+  "translation": "バッジも あかりも うばった。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37ebeaab1f32c336",
+  "translation": "だから あなを ほって\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5386dafc9bd926ae",
+  "translation": "その なかで たたかいつづけた。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f95fbe941653f9ee",
+  "translation": "ほった かいが あったと おもわせてくれ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "337c1922bb6dfdf3",
+  "translation": "{JPN}ははっ! それだ!$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9237ce77cb958e46",
+  "translation": "{JPN}こんな ちかで まけちまった。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2add7221d3340dbb",
+  "translation": "しかも かおに しょうきんの ついた こにな。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cadfecb660f6419",
+  "translation": "この あなが できてから さいこうの よるだ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65f970d0cf8e49f9",
+  "translation": "{JPN}じっきょう: しんチャンピオン!\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2a2d429a1e0775d",
+  "translation": "しんチャンピオンだ!!\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8499c924e160ca37",
+  "translation": "トンネルが\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96add5a96034c9e6",
+  "translation": "すさまじい ねっきに つつまれた。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13f357b72f8ff3fc",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3b6e180910b5497",
+  "translation": "ちかバッジを てにいれた!$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f832478dbd267ed6",
+  "translation": "{JPN}その バッジは こうしきじゃない。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4d283ed46686e86",
+  "translation": "それ いじょうさ。 レジスタンスの とびては\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27dd9908f17e6d8e",
+  "translation": "みんな その バッジに こたえる。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dce9b58bd5bfc01e",
+  "translation": "どこでも くちぶえを ふけば\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "857c4251d23feb2c",
+  "translation": "むかえにきて のせてくれる。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "643bc736b03cc305",
+  "translation": "{JPN}これも もっていけ。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1cb2f60f29c32e9f",
+  "translation": "いのちのたまだ。 おもい いちげきを\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca81e439a157caeb",
+  "translation": "くりだすには だいしょうが いる。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baabf8942859123c",
+  "translation": "ここでは なんでも そうさ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "240d94fb754a6b35",
+  "translation": "{JPN}じめんに ほった あなの\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12d5b11e4bb5327b",
+  "translation": "チャンピオンか。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0be3b81310e01ad4",
+  "translation": "それでも チャンピオンだ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5baf485a275bc474",
+  "translation": "{JPN}いつでも リングに もどってきな。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2b2cf8f18df3722",
+  "translation": "チャンピオン。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ccd1ffbce4875535",
+  "translation": "ここに いるさ。 だれかが\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4aea396e81b2df8c",
+  "translation": "あかりを ともしつづけないとな。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7d78d87b9da4788",
+  "translation": "{JPN}ミュートリッドが シントウキョウじゅうで\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b0de5deb7ec92dc",
+  "translation": "ポケモンしょうぶを きんしした。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe744e67b3928f35",
+  "translation": "「ひせいさんてき」なんだと。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a6efa8bb893f507",
+  "translation": "だから かわりに この ちかで\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6eda6145619bbd1a",
+  "translation": "たいかいを ひらいているんだ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "151fc2b4a95e2b41",
+  "translation": "{JPN}ファイトクラブの おきて その1。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c6056681f82953c",
+  "translation": "ファイトクラブについて\\l",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f342e4db153bad14",
+  "translation": "はなしては いけない。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07843bf684b5a97e",
+  "translation": "…その2。 その1を まもるのは\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "265ebd0eba8c4d62",
+  "translation": "むかしから にがてだ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa6fc87999d080e7",
+  "translation": "{JPN}ボルテンは 200ばんも\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85c6848aa8524fc2",
+  "translation": "あの リングを まもってる。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "272064dfbf411350",
+  "translation": "さいごの 1ぴきまで おいつめた やつさえ\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a779619443edf52",
+  "translation": "いないんだ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d43e82964e1b6634",
+  "translation": "{JPN}チャンピオンに 3しゅうかんぶんの\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90f0e70ac9f75eff",
+  "translation": "はいきゅうしょくを かけてるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88fafda5c20d43cf",
+  "translation": "よけいなことは するなよ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7773d8e165b6bef2",
+  "translation": "{JPN}おおきくなったら リングで\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc090397e1803cf8",
+  "translation": "たたかうんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06b0e3c4fc613dd7",
+  "translation": "ママは リングは いほうだって。\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d67fb2c8437ff68",
+  "translation": "でも その ママも ここに いるんだよ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c52dcc4aaf3e8387",
+  "translation": "{JPN}うえでは こえを おさえろ。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3fe1179f2609b5d",
+  "translation": "ここでは? さけべ。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "998ff9a1429e41dd",
+  "translation": "{JPN}あいことばは こんしゅうだけで\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5fdfc349832ac12",
+  "translation": "2かい かわった。\\p",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b859a35436041297",
+  "translation": "はいれたってことは きみを きにいった\\n",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22a95d3edafc9563",
+  "translation": "だれかが いるんだろうね。$",
+  "provenance": {
+   "batch": "dialogue-underground-arena-35",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

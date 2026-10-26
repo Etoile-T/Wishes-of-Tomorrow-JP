@@ -283,165 +283,165 @@ UndergroundArena_Movement_VoltenBack:
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 UndergroundArena_Text_Intro1::
-	.string "The tunnel opens into noise.\p"
-	.string "Below, under a ring of stolen\n"
-	.string "floodlights, two trainers are\l"
-	.string "still going at it.$"
+	.string "{JPN}トンネルを ぬけると どよめきが ひびいた。\p"
+	.string "したでは ぬすんだ しょうめいの わに かこまれ\n"
+	.string "2にんの トレーナーが\l"
+	.string "まだ たたかいつづけている。$"
 
 UndergroundArena_Text_Intro2::
-	.string "ANNOUNCER:…AND THAT'S THE\n"
-	.string "MATCH!\p"
-	.string "The challenger is DOWN, folks!\n"
-	.string "What a run they had!$"
+	.string "{JPN}じっきょう: …ここで\n"
+	.string "しあい しゅうりょう!\p"
+	.string "ちょうせんしゃ ダウンです!\n"
+	.string "みなさん! みごとな たたかいぶりでした!$"
 
 UndergroundArena_Text_Intro3::
-	.string "ANNOUNCER: STILL your undisputed\n"
-	.string "champion of the UNDERGROUND\l"
-	.string "ARENA…\p"
-	.string "V O L T E N !\p"
-	.string "The tunnel shakes. Somewhere\n"
-	.string "above, Mutrid hears nothing.$"
+	.string "{JPN}じっきょう: ちかとうぎじょうの\n"
+	.string "ぜったいおうじゃは\l"
+	.string "やはり この おとこ…\p"
+	.string "ボ ル テ ン !\p"
+	.string "トンネルが ゆれる。 はるか うえの\n"
+	.string "ミュートリッドには なにも きこえない。$"
 
 UndergroundArena_Text_AnnouncerOffer::
-	.string "You're not here to watch, are\n"
-	.string "you. I know that face.\p"
-	.string "Three bouts, back to back. No\n"
-	.string "breaks, no potions between…\l"
-	.string "you go in with what you've got.\p"
-	.string "Want in?$"
+	.string "{JPN}みにきた わけじゃ ないんだろ。\n"
+	.string "その かおを みれば わかる。\p"
+	.string "3れんせんだ。 あいだに きゅうけいも\n"
+	.string "キズぐすりも なし…\l"
+	.string "いまの てもちで たたかいぬく。\p"
+	.string "でるかい?$"
 
 UndergroundArena_Text_AnnouncerDecline::
-	.string "Smart. Come back when your\n"
-	.string "team's ready.$"
+	.string "{JPN}けんめいだ。 てもちの じゅんびが\n"
+	.string "できたら また きな。$"
 
 UndergroundArena_Text_AnnouncerEntry::
-	.string "ANNOUNCER: WAIT! WAIT…\p"
-	.string "WE HAVE A LAST-MINUTE ENTRY!\p"
-	.string "{PLAYER}!!$"
+	.string "{JPN}じっきょう: まった! まった…\p"
+	.string "とびいりの ちょうせんしゃが とうじょう!\p"
+	.string "{ENG}{PLAYER}{JPN}!!$"
 
 UndergroundArena_Text_AnnouncerToRing::
-	.string "The crowd is on its feet.\p"
-	.string "Step onto the mark when you're\n"
-	.string "ready, kid. Ring's yours.$"
+	.string "{JPN}かんきゃくは そうだちだ。\p"
+	.string "じゅんびが できたら しるしの うえへ。\n"
+	.string "リングは きみの ものだ。$"
 
 UndergroundArena_Text_AnnouncerChamp::
-	.string "Ladies and gentlemen: the\n"
-	.string "champion is in the building.\p"
-	.string "He winks at you.$"
+	.string "{JPN}みなさん。\n"
+	.string "チャンピオンの おでましです。\p"
+	.string "かれは あなたに ウインクした。$"
 
 UndergroundArena_Text_RoundOne::
-	.string "ANNOUNCER: ROUND ONE!\p"
-	.string "Give it up for the challenger!$"
+	.string "{JPN}じっきょう: だい1せん!\p"
+	.string "ちょうせんしゃに はくしゅを!$"
 
 UndergroundArena_Text_Challenger1::
-	.string "Do your worst.$"
+	.string "{JPN}ぜんりょくで きな。$"
 
 UndergroundArena_Text_Challenger1Lose::
-	.string "...You did your worst.$"
+	.string "{JPN}…ほんとに ぜんりょくだったね。$"
 
 UndergroundArena_Text_RoundTwo::
-	.string "ANNOUNCER: ROUND TWO, no rest,\n"
-	.string "that's the underground rule!$"
+	.string "{JPN}じっきょう: だい2せん! きゅうけいなしが\n"
+	.string "ちかの ルールだ!$"
 
 UndergroundArena_Text_Challenger2::
-	.string "You're still standing?\p"
-	.string "Let's fix that.$"
+	.string "{JPN}まだ たってるの?\p"
+	.string "それじゃ たおれてもらおうか。$"
 
 UndergroundArena_Text_Challenger2Lose::
-	.string "Tch. Still standing.$"
+	.string "{JPN}ちっ。 まだ たってる。$"
 
 UndergroundArena_Text_FinalRound::
-	.string "ANNOUNCER: FINAL ROUND!\p"
-	.string "You know who's next.\n"
-	.string "You've ALL known who's next!$"
+	.string "{JPN}じっきょう: さいしゅうせん!\p"
+	.string "つぎが だれか わかってるよな。\n"
+	.string "みんな はじめから わかってたはずだ!$"
 
 UndergroundArena_Text_VoltenIntro::
-	.string "Two down. On no rest.\p"
-	.string "They shut the gyms, kid. Took\n"
-	.string "the badges, took the lights.\p"
-	.string "So we dug a hole and kept\n"
-	.string "battling in it.\p"
-	.string "Show me it was worth digging.$"
+	.string "{JPN}きゅうけいも なしに 2にん たおしたか。\p"
+	.string "やつらは ジムを とじた。\n"
+	.string "バッジも あかりも うばった。\p"
+	.string "だから あなを ほって\n"
+	.string "その なかで たたかいつづけた。\p"
+	.string "ほった かいが あったと おもわせてくれ。$"
 
 UndergroundArena_Text_VoltenLose::
-	.string "HA! There it is!$"
+	.string "{JPN}ははっ! それだ!$"
 
 UndergroundArena_Text_VoltenBeaten::
-	.string "Beaten. Down here. By a kid\n"
-	.string "with a bounty on their face.\p"
-	.string "Best night this pit's ever had.$"
+	.string "{JPN}こんな ちかで まけちまった。\n"
+	.string "しかも かおに しょうきんの ついた こにな。\p"
+	.string "この あなが できてから さいこうの よるだ。$"
 
 UndergroundArena_Text_NewChamp::
-	.string "ANNOUNCER: NEW CHAMPION!\n"
-	.string "NEW CHAMPION!!\p"
-	.string "The tunnel goes absolutely\n"
-	.string "feral.$"
+	.string "{JPN}じっきょう: しんチャンピオン!\n"
+	.string "しんチャンピオンだ!!\p"
+	.string "トンネルが\n"
+	.string "すさまじい ねっきに つつまれた。$"
 
 UndergroundArena_Text_ReceivedBadge::
-	.string "{PLAYER} earned the\n"
-	.string "UNDERGROUND BADGE!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n"
+	.string "ちかバッジを てにいれた!$"
 
 UndergroundArena_Text_VoltenFly::
-	.string "That badge isn't official.\p"
-	.string "It's better. Every flier in the\n"
-	.string "resistance answers to it.\p"
-	.string "Whistle from anywhere and\n"
-	.string "they'll come carry you.$"
+	.string "{JPN}その バッジは こうしきじゃない。\p"
+	.string "それ いじょうさ。 レジスタンスの とびては\n"
+	.string "みんな その バッジに こたえる。\p"
+	.string "どこでも くちぶえを ふけば\n"
+	.string "むかえにきて のせてくれる。$"
 
 UndergroundArena_Text_VoltenAfter::
-	.string "Take this too.\p"
-	.string "A LIFE ORB. It costs you to\n"
-	.string "swing that hard.\p"
-	.string "Down here, everything does.$"
+	.string "{JPN}これも もっていけ。\p"
+	.string "いのちのたまだ。 おもい いちげきを\n"
+	.string "くりだすには だいしょうが いる。\p"
+	.string "ここでは なんでも そうさ。$"
 
 UndergroundArena_Text_VoltenIdle::
-	.string "Champion of a hole in the\n"
-	.string "ground.\p"
-	.string "Still counts.$"
+	.string "{JPN}じめんに ほった あなの\n"
+	.string "チャンピオンか。\p"
+	.string "それでも チャンピオンだ。$"
 
 UndergroundArena_Text_VoltenPost::
-	.string "Ring's yours whenever you want\n"
-	.string "it back, champ.\p"
-	.string "I'll be here. Somebody has to\n"
-	.string "keep the lights on.$"
+	.string "{JPN}いつでも リングに もどってきな。\n"
+	.string "チャンピオン。\p"
+	.string "ここに いるさ。 だれかが\n"
+	.string "あかりを ともしつづけないとな。$"
 
 UndergroundArena_Text_CrowdBanned::
-	.string "Mutrid shut battling down all\n"
-	.string "over Shin-Tokyo.\p"
-	.string "Said it was “unproductive.”\p"
-	.string "So we hold the tournament down\n"
-	.string "here instead.$"
+	.string "{JPN}ミュートリッドが シントウキョウじゅうで\n"
+	.string "ポケモンしょうぶを きんしした。\p"
+	.string "「ひせいさんてき」なんだと。\p"
+	.string "だから かわりに この ちかで\n"
+	.string "たいかいを ひらいているんだ。$"
 
 UndergroundArena_Text_CrowdFightClub::
-	.string "The first rule of fight club\n"
-	.string "is we don't talk about fight\l"
-	.string "club.\p"
-	.string "...The second rule is I've\n"
-	.string "never been good at rule one.$"
+	.string "{JPN}ファイトクラブの おきて その1。\n"
+	.string "ファイトクラブについて\l"
+	.string "はなしては いけない。\p"
+	.string "…その2。 その1を まもるのは\n"
+	.string "むかしから にがてだ。$"
 
 UndergroundArena_Text_CrowdVolten::
-	.string "VOLTEN's held that ring for\n"
-	.string "two hundred nights.\p"
-	.string "Nobody's even taken him to a\n"
-	.string "last mon.$"
+	.string "{JPN}ボルテンは 200ばんも\n"
+	.string "あの リングを まもってる。\p"
+	.string "さいごの 1ぴきまで おいつめた やつさえ\n"
+	.string "いないんだ。$"
 
 UndergroundArena_Text_CrowdBetting::
-	.string "I've got three weeks' rations\n"
-	.string "riding on the champ.\p"
-	.string "Don't you dare.$"
+	.string "{JPN}チャンピオンに 3しゅうかんぶんの\n"
+	.string "はいきゅうしょくを かけてるんだ。\p"
+	.string "よけいなことは するなよ。$"
 
 UndergroundArena_Text_CrowdKid::
-	.string "When I grow up I'm gonna battle\n"
-	.string "in the ring!\p"
-	.string "Mom says the ring is illegal.\n"
-	.string "Mom's HERE, though.$"
+	.string "{JPN}おおきくなったら リングで\n"
+	.string "たたかうんだ!\p"
+	.string "ママは リングは いほうだって。\n"
+	.string "でも その ママも ここに いるんだよ。$"
 
 UndergroundArena_Text_CrowdNoisy::
-	.string "Keep your voice down up top.\p"
-	.string "Down here? SCREAM.$"
+	.string "{JPN}うえでは こえを おさえろ。\p"
+	.string "ここでは? さけべ。$"
 
 UndergroundArena_Text_Doorman::
-	.string "Password's changed twice this\n"
-	.string "week.\p"
-	.string "You got in, so I guess somebody\n"
-	.string "likes you.$"
+	.string "{JPN}あいことばは こんしゅうだけで\n"
+	.string "2かい かわった。\p"
+	.string "はいれたってことは きみを きにいった\n"
+	.string "だれかが いるんだろうね。$"

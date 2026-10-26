@@ -157,116 +157,116 @@ CelebiIsland_EventScript_Farewell::
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 CelebiIsland_Text_SuzuIntro:
-	.string "The tide let you through?\p"
-	.string "Then the island is already\n"
-	.string "curious about you.\p"
-	.string "I am not. Prove yourself!$"
+	.string "{JPN}しおが あなたを とおしたの?\p"
+	.string "それなら しまは もう あなたに\n"
+	.string "きょうみを もっているのね。\p"
+	.string "わたしは まだよ。 ちからを しめして!$"
 
 CelebiIsland_Text_SuzuDefeat:
-	.string "...Gentle AND strong.$"
+	.string "{JPN}…やさしくて つよい。$"
 
 CelebiIsland_Text_SuzuPost:
-	.string "The keepers watch the bridge.\n"
-	.string "All three of us must agree.$"
+	.string "{JPN}まもりてたちが はしを みはっているの。\n"
+	.string "3にん ぜんいんの みとめが ひつようよ。$"
 
 CelebiIsland_Text_KaedeIntro:
-	.string "The city across the water\n"
-	.string "makes shadows.\p"
-	.string "This island unmakes them.\n"
-	.string "Show me which side you feed!$"
+	.string "{JPN}うみの むこうの まちは\n"
+	.string "やみを つくる。\p"
+	.string "この しまは それを とりのぞく。\n"
+	.string "あなたが どちらに ちからを かすか みせて!$"
 
 CelebiIsland_Text_KaedeDefeat:
-	.string "Warm. Your light is warm.$"
+	.string "{JPN}あたたかい。 あなたの ひかりは。$"
 
 CelebiIsland_Text_KaedePost:
-	.string "Bring the poor twisted ones\n"
-	.string "here. All of them.$"
+	.string "{JPN}ゆがめられた かわいそうな こたちを\n"
+	.string "ここへ つれてきて。 1ぴき のこらず。$"
 
 CelebiIsland_Text_RanIntro:
-	.string "Kekeke... you smell of the\n"
-	.string "dark city.\p"
-	.string "But underneath that...\n"
-	.string "something older. Show me!$"
+	.string "{JPN}ケケケ… くらい まちの\n"
+	.string "においが するね。\p"
+	.string "でも その おくには…\n"
+	.string "もっと ふるい なにかが。 みせてごらん!$"
 
 CelebiIsland_Text_RanDefeat:
-	.string "Yes... THAT. That is it.$"
+	.string "{JPN}そう… それ。 それだよ。$"
 
 CelebiIsland_Text_RanPost:
-	.string "The old man on the bridge is\n"
-	.string "softer than he looks.$"
+	.string "{JPN}はしの おじいさんは\n"
+	.string "みかけよりも やさしいよ。$"
 
 CelebiIsland_Text_WardenNotYet:
-	.string "This bridge bears only those\n"
-	.string "the keepers accept.\p"
-	.string "Three tests. All three.\n"
-	.string "Then the shrine will see you.$"
+	.string "{JPN}この はしを わたれるのは\n"
+	.string "まもりてに みとめられた ものだけじゃ。\p"
+	.string "3つの しれん。 すべてを こなせ。\n"
+	.string "さすれば ほこらも むかえよう。$"
 
 CelebiIsland_Text_WardenOpens:
-	.string "All three keepers bow to you.\p"
-	.string "Then it is not my place to\n"
-	.string "stand here.\p"
-	.string "Cross, child. What waits on\n"
-	.string "the islet has waited long.$"
+	.string "{JPN}3にんの まもりてが そなたを みとめた。\p"
+	.string "ならば わしが ここに\n"
+	.string "たちはだかる いわれも ない。\p"
+	.string "わたるがよい。 あの こじまに あるものは\n"
+	.string "ながく まちつづけておる。$"
 
 CelebiIsland_Text_CelebiGreet:
-	.string "The air goes still.\p"
-	.string "CELEBI hovers above the dais,\n"
-	.string "and time leans in to listen.$"
+	.string "{JPN}くうきが しずまった。\p"
+	.string "セレビィが だいの うえに うかび\n"
+	.string "ときさえも みみを かたむけている。$"
 
 CelebiIsland_Text_NoShadows:
-	.string "It circles your team once,\n"
-	.string "twice.\p"
-	.string "No shadow clings to any of\n"
-	.string "them. CELEBI trills, relieved.$"
+	.string "{JPN}セレビィが てもちの まわりを\n"
+	.string "1ど 2どと まわった。\p"
+	.string "どの こにも やみは ない。\n"
+	.string "セレビィが ほっとしたように さえずった。$"
 
 CelebiIsland_Text_Present:
-	.string "CELEBI opens its small hands,\n"
-	.string "palms full of light.\p"
-	.string "Present a POKéMON.$"
+	.string "{JPN}セレビィが ひかりで いっぱいの\n"
+	.string "ちいさな てを ひらいた。\p"
+	.string "ポケモンを さしだそう。$"
 
 CelebiIsland_Text_NotShadow:
-	.string "{STR_VAR_1} carries no shadow.\p"
-	.string "CELEBI pats it on the head\n"
-	.string "anyway.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}には やみが ない。\p"
+	.string "それでも セレビィは\n"
+	.string "あたまを なでてくれた。$"
 
 CelebiIsland_Text_NotOpened:
-	.string "The shadow around {STR_VAR_1}\n"
-	.string "is still sealed shut.\p"
-	.string "Walk with it. Fight beside it,\n"
-	.string "even once. Then return.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}を つつむ やみは\n"
+	.string "まだ かたく とざされている。\p"
+	.string "ともに あるき 1どでも ともに たたかおう。\n"
+	.string "それから もどってこよう。$"
 
 CelebiIsland_Text_Ready:
-	.string "CELEBI cups {STR_VAR_1}'s face\n"
-	.string "in its hands.\p"
-	.string "The shadow strains… light\n"
-	.string "gathers…$"
+	.string "{JPN}セレビィが {ENG}{STR_VAR_1}{JPN}の かおを\n"
+	.string "りょうてで つつんだ。\p"
+	.string "やみが あらがい…\n"
+	.string "ひかりが あつまる…$"
 
 CelebiIsland_Text_Purified:
-	.string "The shadow lifts!\p"
-	.string "{STR_VAR_1} came back to\n"
-	.string "itself!\p"
-	.string "...A NATIONAL RIBBON settles\n"
-	.string "quietly among its things.$"
+	.string "{JPN}やみが はれた!\p"
+	.string "{ENG}{STR_VAR_1}{JPN}は\n"
+	.string "じぶんを とりもどした!\p"
+	.string "…もちものに ナショナルリボンが\n"
+	.string "しずかに くわわった。$"
 
 CelebiIsland_Text_Another:
-	.string "The dark still clings to\n"
-	.string "another of yours.\p"
-	.string "Present it as well?$"
+	.string "{JPN}ほかにも やみに つつまれた\n"
+	.string "ポケモンが いる。\p"
+	.string "その こも さしだしますか?$"
 
 CelebiIsland_Text_AllClear:
-	.string "The last shadow on your team\n"
-	.string "is gone.\p"
-	.string "CELEBI spins once in the air,\n"
-	.string "bright as morning.$"
+	.string "{JPN}てもちに のこっていた\n"
+	.string "さいごの やみが きえた。\p"
+	.string "セレビィが ちゅうで くるりと まわる。\n"
+	.string "あさのように あかるく。$"
 
 CelebiIsland_Text_Farewell:
-	.string "CELEBI settles back above the\n"
-	.string "dais, patient as the forest.$"
+	.string "{JPN}セレビィが だいの うえに もどった。\n"
+	.string "もりのように しずかに まっている。$"
 
 CelebiIsland_Text_Checkpoint:
-	.string "The island the fairies keep.\p"
-	.string "The first light you have seen\n"
-	.string "since the city went dark.$"
+	.string "{JPN}ようせいたちが まもる しま。\p"
+	.string "まちが やみに おちてから\n"
+	.string "はじめて めにした ひかりだ。$"
 
 @ --- the guardians and their trial -------------------------------------------
 @ Each guardian gates the trial the same way, then teaches its own half of
@@ -458,61 +458,61 @@ CelebiIsland_EventScript_TrioNotYet::
 	end
 
 CelebiIsland_Text_GuardianBlocks::
-	.string "The small one hovers between\n"
-	.string "you and the shrine.\p"
-	.string "Its closed eyes see everything\n"
-	.string "you have ever done.$"
+	.string "{JPN}ちいさな ポケモンが あなたと ほこらの\n"
+	.string "あいだに うかんでいる。\p"
+	.string "とじた めが あなたの してきたことを\n"
+	.string "すべて みとおしている。$"
 
 CelebiIsland_Text_LessonUxie::
-	.string "UXIE presses a thought into\n"
-	.string "your head, patiently.\p"
-	.string "A sealed heart cannot be\n"
-	.string "reached from outside.\p"
-	.string "BATTLE with the Shadow one.\n"
-	.string "Stand beside it while it\l"
-	.string "fights, and the seal loosens.\p"
-	.string "Only then can the shrine\n"
-	.string "finish the work.$"
+	.string "{JPN}ユクシーが あなたの あたまへ\n"
+	.string "ねばりづよく おもいを おくりこむ。\p"
+	.string "とざされた こころには\n"
+	.string "そとから ては とどかない。\p"
+	.string "ダークポケモンと ともに たたかいなさい。\n"
+	.string "たたかう あいだ そばに いれば\l"
+	.string "こころの ふういんが ゆるむ。\p"
+	.string "そうして はじめて ほこらで\n"
+	.string "しあげを することが できる。$"
 
 CelebiIsland_Text_LessonMesprit::
-	.string "MESPRIT turns a slow circle,\n"
-	.string "delighted with itself.\p"
-	.string "You fear losing the strength\n"
-	.string "the shadow gave them.\p"
-	.string "Do not. A purified one keeps\n"
-	.string "every bit of that power…\l"
-	.string "and pays none of the cost.\p"
-	.string "No brittle defense. No HYPER\n"
-	.string "MODE. Stronger than it was\l"
-	.string "as a shadow.$"
+	.string "{JPN}エムリットが ゆっくりと まわる。\n"
+	.string "じぶんで たのしんでいるようだ。\p"
+	.string "やみに さずけられた ちからを\n"
+	.string "うしなうのを おそれているのですね。\p"
+	.string "その しんぱいは いりません。 リライブしても\n"
+	.string "ちからは すべて のこります…\l"
+	.string "だいしょうは いっさい ありません。\p"
+	.string "ぼうぎょの よわさも ハイパーモードも なく\n"
+	.string "ダークポケモンだった ときより\l"
+	.string "つよくなるのです。$"
 
 CelebiIsland_Text_LessonAzelf::
-	.string "AZELF will not settle.\p"
-	.string "It has been thinking about\n"
-	.string "the stones. The MEGA stones.\p"
-	.string "A purified heart, it wonders,\n"
-	.string "pushed through a MEGA bond...\p"
-	.string "Nobody has ever done it.\n"
-	.string "AZELF very much wants someone\l"
-	.string "to try.$"
+	.string "{JPN}アグノムは おちつかない。\p"
+	.string "あの いし… メガストーンについて\n"
+	.string "かんがえていたようだ。\p"
+	.string "リライブした こころを\n"
+	.string "メガシンカの きずなに とおしたら…?\p"
+	.string "まだ だれも ためしていない。\n"
+	.string "アグノムは だれかに ためしてほしくて\l"
+	.string "たまらないようだ。$"
 
 CelebiIsland_Text_TrioNotYet::
-	.string "Three presences press against\n"
-	.string "your thoughts:\p"
-	.string "“The keepers. All of them.\n"
-	.string "Then the shrine.”$"
+	.string "{JPN}3つの けはいが\n"
+	.string "こころに かたりかける。\p"
+	.string "「まもりてを。 すべての まもりてを。\n"
+	.string "それから ほこらへ。」$"
 
 CelebiIsland_Text_TrioYield::
-	.string "The three lift as one.\p"
-	.string "“Knowledge. Emotion. Will.\n"
-	.string "The keepers vouch for yours.\p"
-	.string "“The shrine is open,\n"
-	.string "wish-bearer. We will hold\l"
-	.string "the shores.”$"
+	.string "{JPN}3びきが いっせいに まいあがる。\p"
+	.string "「ちしき。 かんじょう。 いし。\n"
+	.string "まもりてたちは あなたの それを みとめた。\p"
+	.string "「ほこらは ひらかれた。\n"
+	.string "ねがいを になうものよ。 われらは\l"
+	.string "しまの きしを まもろう。」$"
 
 CelebiIsland_Text_TrioWatch::
-	.string "They scatter to the island's\n"
-	.string "ends, three sleepless\l"
-	.string "sentinels.\p"
-	.string "At the shrine... something\n"
-	.string "green flickers into being.$"
+	.string "{JPN}3びきは しまの はしばしへ わかれた。\n"
+	.string "ねむることのない\l"
+	.string "3びきの みはりだ。\p"
+	.string "ほこらでは… みどりいろの なにかが\n"
+	.string "またたくように すがたを あらわした。$"

@@ -326504,9 +326504,13 @@
     "end": 5712,
     "raw": "\"The tide let you through?\\p\"",
     "source": "The tide let you through?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しおが あなたを とおしたの?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e9127f2dd1b5d94",
@@ -326516,9 +326520,13 @@
     "end": 5752,
     "raw": "\"Then the island is already\\n\"",
     "source": "Then the island is already\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それなら しまは もう あなたに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ac8f0371e4ecb103",
@@ -326528,9 +326536,13 @@
     "end": 5784,
     "raw": "\"curious about you.\\p\"",
     "source": "curious about you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きょうみを もっているのね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "eac17e3bcb109697",
@@ -326540,9 +326552,13 @@
     "end": 5822,
     "raw": "\"I am not. Prove yourself!$\"",
     "source": "I am not. Prove yourself!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは まだよ。 ちからを しめして!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29bc8747cd02c7b7",
@@ -326552,9 +326568,13 @@
     "end": 5887,
     "raw": "\"...Gentle AND strong.$\"",
     "source": "...Gentle AND strong.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…やさしくて つよい。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e22aa3687ee6a797",
@@ -326564,9 +326584,13 @@
     "end": 5959,
     "raw": "\"The keepers watch the bridge.\\n\"",
     "source": "The keepers watch the bridge.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まもりてたちが はしを みはっているの。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "786c5abac7a4c049",
@@ -326576,9 +326600,13 @@
     "end": 5999,
     "raw": "\"All three of us must agree.$\"",
     "source": "All three of us must agree.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3にん ぜんいんの みとめが ひつようよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cc78f5b5742a2200",
@@ -326588,9 +326616,13 @@
     "end": 6069,
     "raw": "\"The city across the water\\n\"",
     "source": "The city across the water\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うみの むこうの まちは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "befbb731e0e5c525",
@@ -326600,9 +326632,13 @@
     "end": 6097,
     "raw": "\"makes shadows.\\p\"",
     "source": "makes shadows.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やみを つくる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd65b8278dde5eaa",
@@ -326612,9 +326648,13 @@
     "end": 6136,
     "raw": "\"This island unmakes them.\\n\"",
     "source": "This island unmakes them.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この しまは それを とりのぞく。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24558232b8f182ee",
@@ -326624,9 +326664,13 @@
     "end": 6177,
     "raw": "\"Show me which side you feed!$\"",
     "source": "Show me which side you feed!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたが どちらに ちからを かすか みせて!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9ca85584d327c2cd",
@@ -326636,9 +326680,13 @@
     "end": 6247,
     "raw": "\"Warm. Your light is warm.$\"",
     "source": "Warm. Your light is warm.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あたたかい。 あなたの ひかりは。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77dba5c31567e805",
@@ -326648,9 +326696,13 @@
     "end": 6318,
     "raw": "\"Bring the poor twisted ones\\n\"",
     "source": "Bring the poor twisted ones\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ゆがめられた かわいそうな こたちを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bb089c8fd624ab53",
@@ -326660,9 +326712,13 @@
     "end": 6349,
     "raw": "\"here. All of them.$\"",
     "source": "here. All of them.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここへ つれてきて。 1ぴき のこらず。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "075f4e87ac412624",
@@ -326672,9 +326728,13 @@
     "end": 6418,
     "raw": "\"Kekeke... you smell of the\\n\"",
     "source": "Kekeke... you smell of the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ケケケ… くらい まちの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c043770a0e9270e4",
@@ -326684,9 +326744,13 @@
     "end": 6442,
     "raw": "\"dark city.\\p\"",
     "source": "dark city.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "においが するね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3fad7d84c672e456",
@@ -326696,9 +326760,13 @@
     "end": 6478,
     "raw": "\"But underneath that...\\n\"",
     "source": "But underneath that...\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも その おくには…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bf36555e42c8bd8d",
@@ -326708,9 +326776,13 @@
     "end": 6516,
     "raw": "\"something older. Show me!$\"",
     "source": "something older. Show me!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もっと ふるい なにかが。 みせてごらん!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1412e731ecbc4ce",
@@ -326720,9 +326792,13 @@
     "end": 6583,
     "raw": "\"Yes... THAT. That is it.$\"",
     "source": "Yes... THAT. That is it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そう… それ。 それだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "487f09e8385efba2",
@@ -326732,9 +326808,13 @@
     "end": 6653,
     "raw": "\"The old man on the bridge is\\n\"",
     "source": "The old man on the bridge is\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はしの おじいさんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "55eea50a6a21155c",
@@ -326744,9 +326824,13 @@
     "end": 6687,
     "raw": "\"softer than he looks.$\"",
     "source": "softer than he looks.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みかけよりも やさしいよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2533c3efbce12493",
@@ -326756,9 +326840,13 @@
     "end": 6762,
     "raw": "\"This bridge bears only those\\n\"",
     "source": "This bridge bears only those\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この はしを わたれるのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3db82bf51f7ca63c",
@@ -326768,9 +326856,13 @@
     "end": 6795,
     "raw": "\"the keepers accept.\\p\"",
     "source": "the keepers accept.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まもりてに みとめられた ものだけじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1685a90c26a60bd9",
@@ -326780,9 +326872,13 @@
     "end": 6832,
     "raw": "\"Three tests. All three.\\n\"",
     "source": "Three tests. All three.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3つの しれん。 すべてを こなせ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ebd5d27ae2343ff2",
@@ -326792,9 +326888,13 @@
     "end": 6874,
     "raw": "\"Then the shrine will see you.$\"",
     "source": "Then the shrine will see you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さすれば ほこらも むかえよう。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b2129fb48cb2bafd",
@@ -326804,9 +326904,13 @@
     "end": 6949,
     "raw": "\"All three keepers bow to you.\\p\"",
     "source": "All three keepers bow to you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}3にんの まもりてが そなたを みとめた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c4ce59311fc5955d",
@@ -326816,9 +326920,13 @@
     "end": 6989,
     "raw": "\"Then it is not my place to\\n\"",
     "source": "Then it is not my place to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ならば わしが ここに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2b4a21bd8b7c73fa",
@@ -326828,9 +326936,13 @@
     "end": 7014,
     "raw": "\"stand here.\\p\"",
     "source": "stand here.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たちはだかる いわれも ない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d42a38c1efa7ca3a",
@@ -326840,9 +326952,13 @@
     "end": 7055,
     "raw": "\"Cross, child. What waits on\\n\"",
     "source": "Cross, child. What waits on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたるがよい。 あの こじまに あるものは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cd87986a66a0b94c",
@@ -326852,9 +326968,13 @@
     "end": 7094,
     "raw": "\"the islet has waited long.$\"",
     "source": "the islet has waited long.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ながく まちつづけておる。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b25f8f2a6279a99",
@@ -326864,9 +326984,13 @@
     "end": 7159,
     "raw": "\"The air goes still.\\p\"",
     "source": "The air goes still.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くうきが しずまった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2791492564cf9106",
@@ -326876,9 +327000,13 @@
     "end": 7202,
     "raw": "\"CELEBI hovers above the dais,\\n\"",
     "source": "CELEBI hovers above the dais,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "セレビィが だいの うえに うかび\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "91b1863204e7f86a",
@@ -326888,9 +327016,13 @@
     "end": 7243,
     "raw": "\"and time leans in to listen.$\"",
     "source": "and time leans in to listen.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ときさえも みみを かたむけている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "22df11aa64a2740d",
@@ -326900,9 +327032,13 @@
     "end": 7313,
     "raw": "\"It circles your team once,\\n\"",
     "source": "It circles your team once,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}セレビィが てもちの まわりを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "61c4dbb3a653b58e",
@@ -326912,9 +327048,13 @@
     "end": 7333,
     "raw": "\"twice.\\p\"",
     "source": "twice.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1ど 2どと まわった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "20447c28a61a295f",
@@ -326924,9 +327064,13 @@
     "end": 7373,
     "raw": "\"No shadow clings to any of\\n\"",
     "source": "No shadow clings to any of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの こにも やみは ない。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9013617c4de9d2b5",
@@ -326936,9 +327080,13 @@
     "end": 7416,
     "raw": "\"them. CELEBI trills, relieved.$\"",
     "source": "them. CELEBI trills, relieved.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "セレビィが ほっとしたように さえずった。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5c825e0aab13b0f7",
@@ -326948,9 +327096,13 @@
     "end": 7487,
     "raw": "\"CELEBI opens its small hands,\\n\"",
     "source": "CELEBI opens its small hands,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}セレビィが ひかりで いっぱいの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2fb2508ab8fd9d7e",
@@ -326960,9 +327112,13 @@
     "end": 7521,
     "raw": "\"palms full of light.\\p\"",
     "source": "palms full of light.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちいさな てを ひらいた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60738da6cd602eb5",
@@ -326972,9 +327128,13 @@
     "end": 7552,
     "raw": "\"Present a POKéMON.$\"",
     "source": "Present a POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを さしだそう。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b87b38ab1a665a06",
@@ -326984,9 +327144,13 @@
     "end": 7626,
     "raw": "\"{STR_VAR_1} carries no shadow.\\p\"",
     "source": "{STR_VAR_1} carries no shadow.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}には やみが ない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e9030fcf4c68fb5a",
@@ -326996,9 +327160,13 @@
     "end": 7666,
     "raw": "\"CELEBI pats it on the head\\n\"",
     "source": "CELEBI pats it on the head\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでも セレビィは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6e3746505be0e7ef",
@@ -327008,9 +327176,13 @@
     "end": 7686,
     "raw": "\"anyway.$\"",
     "source": "anyway.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたまを なでてくれた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c77c3182c2f041ce",
@@ -327020,9 +327192,13 @@
     "end": 7759,
     "raw": "\"The shadow around {STR_VAR_1}\\n\"",
     "source": "The shadow around {STR_VAR_1}\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を つつむ やみは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c9a1fa183b941d2e",
@@ -327032,9 +327208,13 @@
     "end": 7794,
     "raw": "\"is still sealed shut.\\p\"",
     "source": "is still sealed shut.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ かたく とざされている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4251a55b8dc57da6",
@@ -327044,9 +327224,13 @@
     "end": 7838,
     "raw": "\"Walk with it. Fight beside it,\\n\"",
     "source": "Walk with it. Fight beside it,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ともに あるき 1どでも ともに たたかおう。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3a742169d8df1db5",
@@ -327056,9 +327240,13 @@
     "end": 7874,
     "raw": "\"even once. Then return.$\"",
     "source": "even once. Then return.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それから もどってこよう。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3de2122bf05cafbc",
@@ -327068,9 +327256,13 @@
     "end": 7944,
     "raw": "\"CELEBI cups {STR_VAR_1}'s face\\n\"",
     "source": "CELEBI cups {STR_VAR_1}'s face\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}セレビィが {ENG}{STR_VAR_1}{JPN}の かおを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b3ed6ea13ba2b12",
@@ -327080,9 +327272,13 @@
     "end": 7971,
     "raw": "\"in its hands.\\p\"",
     "source": "in its hands.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "りょうてで つつんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6a3acb1ac5fd5ebc",
@@ -327092,9 +327288,13 @@
     "end": 8010,
     "raw": "\"The shadow strains… light\\n\"",
     "source": "The shadow strains… light\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やみが あらがい…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5e00bf0324ae67a3",
@@ -327104,9 +327304,13 @@
     "end": 8031,
     "raw": "\"gathers…$\"",
     "source": "gathers…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひかりが あつまる…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "364bc74df348ed00",
@@ -327116,9 +327320,13 @@
     "end": 8091,
     "raw": "\"The shadow lifts!\\p\"",
     "source": "The shadow lifts!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やみが はれた!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4b3946e6564f5d98",
@@ -327128,9 +327336,13 @@
     "end": 8129,
     "raw": "\"{STR_VAR_1} came back to\\n\"",
     "source": "{STR_VAR_1} came back to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}は\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f773da75c4e59271",
@@ -327140,9 +327352,13 @@
     "end": 8150,
     "raw": "\"itself!\\p\"",
     "source": "itself!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんを とりもどした!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1cde4eaffa5863d5",
@@ -327152,9 +327368,13 @@
     "end": 8192,
     "raw": "\"...A NATIONAL RIBBON settles\\n\"",
     "source": "...A NATIONAL RIBBON settles\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "…もちものに ナショナルリボンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2daffe120750b9e5",
@@ -327164,9 +327384,13 @@
     "end": 8230,
     "raw": "\"quietly among its things.$\"",
     "source": "quietly among its things.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しずかに くわわった。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab0a35fbefce4f7f",
@@ -327176,9 +327400,13 @@
     "end": 8296,
     "raw": "\"The dark still clings to\\n\"",
     "source": "The dark still clings to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほかにも やみに つつまれた\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "03e72b3431083a28",
@@ -327188,9 +327416,13 @@
     "end": 8327,
     "raw": "\"another of yours.\\p\"",
     "source": "another of yours.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが いる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b34dccde281f9929",
@@ -327200,9 +327432,13 @@
     "end": 8359,
     "raw": "\"Present it as well?$\"",
     "source": "Present it as well?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その こも さしだしますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1e511d21dfa41e62",
@@ -327212,9 +327448,13 @@
     "end": 8430,
     "raw": "\"The last shadow on your team\\n\"",
     "source": "The last shadow on your team\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てもちに のこっていた\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "252cc3eaaa9e3565",
@@ -327224,9 +327464,13 @@
     "end": 8452,
     "raw": "\"is gone.\\p\"",
     "source": "is gone.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さいごの やみが きえた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b2e5c98d706f5d79",
@@ -327236,9 +327480,13 @@
     "end": 8495,
     "raw": "\"CELEBI spins once in the air,\\n\"",
     "source": "CELEBI spins once in the air,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "セレビィが ちゅうで くるりと まわる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "09cb4c7dff02aac2",
@@ -327248,9 +327496,13 @@
     "end": 8526,
     "raw": "\"bright as morning.$\"",
     "source": "bright as morning.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あさのように あかるく。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aa1cbe041b4ce6de",
@@ -327260,9 +327512,13 @@
     "end": 8598,
     "raw": "\"CELEBI settles back above the\\n\"",
     "source": "CELEBI settles back above the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}セレビィが だいの うえに もどった。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b4709eaa8d6d5507",
@@ -327272,9 +327528,13 @@
     "end": 8639,
     "raw": "\"dais, patient as the forest.$\"",
     "source": "dais, patient as the forest.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もりのように しずかに まっている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b5df671f72e031c7",
@@ -327284,9 +327544,13 @@
     "end": 8712,
     "raw": "\"The island the fairies keep.\\p\"",
     "source": "The island the fairies keep.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ようせいたちが まもる しま。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "df67e3adf515e837",
@@ -327296,9 +327560,13 @@
     "end": 8755,
     "raw": "\"The first light you have seen\\n\"",
     "source": "The first light you have seen\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まちが やみに おちてから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b67419cf93f6dce4",
@@ -327308,9 +327576,13 @@
     "end": 8793,
     "raw": "\"since the city went dark.$\"",
     "source": "since the city went dark.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はじめて めにした ひかりだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "120583e2a3a2d038",
@@ -327320,9 +327592,13 @@
     "end": 14630,
     "raw": "\"The small one hovers between\\n\"",
     "source": "The small one hovers between\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ちいさな ポケモンが あなたと ほこらの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "434c51cc7beee9c7",
@@ -327332,9 +327608,13 @@
     "end": 14663,
     "raw": "\"you and the shrine.\\p\"",
     "source": "you and the shrine.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいだに うかんでいる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c002e69ab17b784",
@@ -327344,9 +327624,13 @@
     "end": 14707,
     "raw": "\"Its closed eyes see everything\\n\"",
     "source": "Its closed eyes see everything\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とじた めが あなたの してきたことを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1e0889ea7d17064",
@@ -327356,9 +327640,13 @@
     "end": 14739,
     "raw": "\"you have ever done.$\"",
     "source": "you have ever done.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すべて みとおしている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1db236a305bed86",
@@ -327368,9 +327656,13 @@
     "end": 14812,
     "raw": "\"UXIE presses a thought into\\n\"",
     "source": "UXIE presses a thought into\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ユクシーが あなたの あたまへ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b89811490d54f5ad",
@@ -327380,9 +327672,13 @@
     "end": 14847,
     "raw": "\"your head, patiently.\\p\"",
     "source": "your head, patiently.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねばりづよく おもいを おくりこむ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "442c430d4f3783ac",
@@ -327392,9 +327688,13 @@
     "end": 14885,
     "raw": "\"A sealed heart cannot be\\n\"",
     "source": "A sealed heart cannot be\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とざされた こころには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f2dd542679c34da5",
@@ -327404,9 +327704,13 @@
     "end": 14920,
     "raw": "\"reached from outside.\\p\"",
     "source": "reached from outside.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そとから ては とどかない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0904a9f05671100b",
@@ -327416,9 +327720,13 @@
     "end": 14961,
     "raw": "\"BATTLE with the Shadow one.\\n\"",
     "source": "BATTLE with the Shadow one.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ダークポケモンと ともに たたかいなさい。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "393d6f252cfb644c",
@@ -327428,9 +327736,13 @@
     "end": 14999,
     "raw": "\"Stand beside it while it\\l\"",
     "source": "Stand beside it while it\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たたかう あいだ そばに いれば\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a32423e905a49f1",
@@ -327440,9 +327752,13 @@
     "end": 15042,
     "raw": "\"fights, and the seal loosens.\\p\"",
     "source": "fights, and the seal loosens.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こころの ふういんが ゆるむ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff8ff86610737c9f",
@@ -327452,9 +327768,13 @@
     "end": 15080,
     "raw": "\"Only then can the shrine\\n\"",
     "source": "Only then can the shrine\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうして はじめて ほこらで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a66485d2435725f9",
@@ -327464,9 +327784,13 @@
     "end": 15109,
     "raw": "\"finish the work.$\"",
     "source": "finish the work.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しあげを することが できる。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e208976a1b9cee9",
@@ -327476,9 +327800,13 @@
     "end": 15186,
     "raw": "\"MESPRIT turns a slow circle,\\n\"",
     "source": "MESPRIT turns a slow circle,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エムリットが ゆっくりと まわる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "454c63520fe07c34",
@@ -327488,9 +327816,13 @@
     "end": 15222,
     "raw": "\"delighted with itself.\\p\"",
     "source": "delighted with itself.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんで たのしんでいるようだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc2c3c46f5e84622",
@@ -327500,9 +327832,13 @@
     "end": 15264,
     "raw": "\"You fear losing the strength\\n\"",
     "source": "You fear losing the strength\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やみに さずけられた ちからを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7eebb678dd165be6",
@@ -327512,9 +327848,13 @@
     "end": 15299,
     "raw": "\"the shadow gave them.\\p\"",
     "source": "the shadow gave them.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うしなうのを おそれているのですね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9f77b0af0d76686e",
@@ -327524,9 +327864,13 @@
     "end": 15341,
     "raw": "\"Do not. A purified one keeps\\n\"",
     "source": "Do not. A purified one keeps\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その しんぱいは いりません。 リライブしても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05be6c417f1a4340",
@@ -327536,9 +327880,13 @@
     "end": 15379,
     "raw": "\"every bit of that power…\\l\"",
     "source": "every bit of that power…\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちからは すべて のこります…\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24db385998f6f832",
@@ -327548,9 +327896,13 @@
     "end": 15419,
     "raw": "\"and pays none of the cost.\\p\"",
     "source": "and pays none of the cost.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいしょうは いっさい ありません。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3eda1c13880a8227",
@@ -327560,9 +327912,13 @@
     "end": 15461,
     "raw": "\"No brittle defense. No HYPER\\n\"",
     "source": "No brittle defense. No HYPER\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼうぎょの よわさも ハイパーモードも なく\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5dcbe06eab015827",
@@ -327572,9 +327928,13 @@
     "end": 15501,
     "raw": "\"MODE. Stronger than it was\\l\"",
     "source": "MODE. Stronger than it was\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ダークポケモンだった ときより\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d39a5d933c145cc8",
@@ -327584,9 +327944,13 @@
     "end": 15526,
     "raw": "\"as a shadow.$\"",
     "source": "as a shadow.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つよくなるのです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc346a465680633b",
@@ -327596,9 +327960,13 @@
     "end": 15595,
     "raw": "\"AZELF will not settle.\\p\"",
     "source": "AZELF will not settle.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}アグノムは おちつかない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "941c94ffd1cf950a",
@@ -327608,9 +327976,13 @@
     "end": 15635,
     "raw": "\"It has been thinking about\\n\"",
     "source": "It has been thinking about\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あの いし… メガストーンについて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab26ad05c7d0b21a",
@@ -327620,9 +327992,13 @@
     "end": 15677,
     "raw": "\"the stones. The MEGA stones.\\p\"",
     "source": "the stones. The MEGA stones.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんがえていたようだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d2d270c220623a10",
@@ -327632,9 +328008,13 @@
     "end": 15720,
     "raw": "\"A purified heart, it wonders,\\n\"",
     "source": "A purified heart, it wonders,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リライブした こころを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "63d96ae737e2f81e",
@@ -327644,9 +328024,13 @@
     "end": 15763,
     "raw": "\"pushed through a MEGA bond...\\p\"",
     "source": "pushed through a MEGA bond...\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "メガシンカの きずなに とおしたら…?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5bcde9907472186b",
@@ -327656,9 +328040,13 @@
     "end": 15801,
     "raw": "\"Nobody has ever done it.\\n\"",
     "source": "Nobody has ever done it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ だれも ためしていない。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fd61d7a870ffa11c",
@@ -327668,9 +328056,13 @@
     "end": 15844,
     "raw": "\"AZELF very much wants someone\\l\"",
     "source": "AZELF very much wants someone\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アグノムは だれかに ためしてほしくて\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b1f649fda60e2bc",
@@ -327680,9 +328072,13 @@
     "end": 15864,
     "raw": "\"to try.$\"",
     "source": "to try.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たまらないようだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0e6f3f554cfa4a2c",
@@ -327692,9 +328088,13 @@
     "end": 15939,
     "raw": "\"Three presences press against\\n\"",
     "source": "Three presences press against\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}3つの けはいが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d51816bc8a9debcb",
@@ -327704,9 +328104,13 @@
     "end": 15967,
     "raw": "\"your thoughts:\\p\"",
     "source": "your thoughts:\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こころに かたりかける。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e58374e92b1ef429",
@@ -327716,9 +328120,13 @@
     "end": 16007,
     "raw": "\"“The keepers. All of them.\\n\"",
     "source": "“The keepers. All of them.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「まもりてを。 すべての まもりてを。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14a7b6254dd01c2f",
@@ -327728,9 +328136,13 @@
     "end": 16037,
     "raw": "\"Then the shrine.”$\"",
     "source": "Then the shrine.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それから ほこらへ。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3d2b1f2d348fb59c",
@@ -327740,9 +328152,13 @@
     "end": 16104,
     "raw": "\"The three lift as one.\\p\"",
     "source": "The three lift as one.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}3びきが いっせいに まいあがる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a1278d1b1a1e0870",
@@ -327752,9 +328168,13 @@
     "end": 16144,
     "raw": "\"“Knowledge. Emotion. Will.\\n\"",
     "source": "“Knowledge. Emotion. Will.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「ちしき。 かんじょう。 いし。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5890caf2b49788cd",
@@ -327764,9 +328184,13 @@
     "end": 16186,
     "raw": "\"The keepers vouch for yours.\\p\"",
     "source": "The keepers vouch for yours.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まもりてたちは あなたの それを みとめた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "66f756df1aa89dbb",
@@ -327776,9 +328200,13 @@
     "end": 16220,
     "raw": "\"“The shrine is open,\\n\"",
     "source": "“The shrine is open,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「ほこらは ひらかれた。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f66fa8fb5c9f11e",
@@ -327788,9 +328216,13 @@
     "end": 16259,
     "raw": "\"wish-bearer. We will hold\\l\"",
     "source": "wish-bearer. We will hold\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねがいを になうものよ。 われらは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3661051937b5aab1",
@@ -327800,9 +328232,13 @@
     "end": 16284,
     "raw": "\"the shores.”$\"",
     "source": "the shores.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しまの きしを まもろう。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d731ead008d4255d",
@@ -327812,9 +328248,13 @@
     "end": 16357,
     "raw": "\"They scatter to the island's\\n\"",
     "source": "They scatter to the island's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}3びきは しまの はしばしへ わかれた。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4b7381bcd5b470e2",
@@ -327824,9 +328264,13 @@
     "end": 16392,
     "raw": "\"ends, three sleepless\\l\"",
     "source": "ends, three sleepless\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねむることのない\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c7af2875e914e1a7",
@@ -327836,9 +328280,13 @@
     "end": 16416,
     "raw": "\"sentinels.\\p\"",
     "source": "sentinels.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3びきの みはりだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "506132d7589f3497",
@@ -327848,9 +328296,13 @@
     "end": 16456,
     "raw": "\"At the shrine... something\\n\"",
     "source": "At the shrine... something\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほこらでは… みどりいろの なにかが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "86835fa02467c321",
@@ -327860,9 +328312,13 @@
     "end": 16495,
     "raw": "\"green flickers into being.$\"",
     "source": "green flickers into being.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "またたくように すがたを あらわした。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-celebi-island-34",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f948c7e6115040f",
@@ -584993,9 +585449,13 @@
     "end": 9218,
     "raw": "\"The tunnel opens into noise.\\p\"",
     "source": "The tunnel opens into noise.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}トンネルを ぬけると どよめきが ひびいた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "92486eb8f4fa76c8",
@@ -585005,9 +585465,13 @@
     "end": 9261,
     "raw": "\"Below, under a ring of stolen\\n\"",
     "source": "Below, under a ring of stolen\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "したでは ぬすんだ しょうめいの わに かこまれ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "36a84c32392289ab",
@@ -585017,9 +585481,13 @@
     "end": 9304,
     "raw": "\"floodlights, two trainers are\\l\"",
     "source": "floodlights, two trainers are\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2にんの トレーナーが\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "154cd506d92284d6",
@@ -585029,9 +585497,13 @@
     "end": 9335,
     "raw": "\"still going at it.$\"",
     "source": "still going at it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ たたかいつづけている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "31a8daad042831e2",
@@ -585041,9 +585513,13 @@
     "end": 9406,
     "raw": "\"ANNOUNCER:…AND THAT'S THE\\n\"",
     "source": "ANNOUNCER:…AND THAT'S THE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じっきょう: …ここで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "80eb0f85eb76bb6e",
@@ -585053,9 +585529,13 @@
     "end": 9426,
     "raw": "\"MATCH!\\p\"",
     "source": "MATCH!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しあい しゅうりょう!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b9a5dabd6c1a7529",
@@ -585065,9 +585545,13 @@
     "end": 9470,
     "raw": "\"The challenger is DOWN, folks!\\n\"",
     "source": "The challenger is DOWN, folks!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうせんしゃ ダウンです!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "94cba2c0d27b163c",
@@ -585077,9 +585561,13 @@
     "end": 9503,
     "raw": "\"What a run they had!$\"",
     "source": "What a run they had!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みなさん! みごとな たたかいぶりでした!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "09e5bc83140e8a50",
@@ -585089,9 +585577,13 @@
     "end": 9581,
     "raw": "\"ANNOUNCER: STILL your undisputed\\n\"",
     "source": "ANNOUNCER: STILL your undisputed\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じっきょう: ちかとうぎじょうの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b84dcb7fa0bc242",
@@ -585101,9 +585593,13 @@
     "end": 9622,
     "raw": "\"champion of the UNDERGROUND\\l\"",
     "source": "champion of the UNDERGROUND\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜったいおうじゃは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f74a37eaee82f2e1",
@@ -585113,9 +585609,13 @@
     "end": 9642,
     "raw": "\"ARENA…\\p\"",
     "source": "ARENA…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やはり この おとこ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d1a521813ad3f42b",
@@ -585125,9 +585625,13 @@
     "end": 9669,
     "raw": "\"V O L T E N !\\p\"",
     "source": "V O L T E N !\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ボ ル テ ン !\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33e59c2b88108bf6",
@@ -585137,9 +585641,13 @@
     "end": 9711,
     "raw": "\"The tunnel shakes. Somewhere\\n\"",
     "source": "The tunnel shakes. Somewhere\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トンネルが ゆれる。 はるか うえの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a9ea41f27484a993",
@@ -585149,9 +585657,13 @@
     "end": 9752,
     "raw": "\"above, Mutrid hears nothing.$\"",
     "source": "above, Mutrid hears nothing.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミュートリッドには なにも きこえない。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3188c236c7eec19f",
@@ -585161,9 +585673,13 @@
     "end": 9835,
     "raw": "\"You're not here to watch, are\\n\"",
     "source": "You're not here to watch, are\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みにきた わけじゃ ないんだろ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8ab61043b9352c87",
@@ -585173,9 +585689,13 @@
     "end": 9871,
     "raw": "\"you. I know that face.\\p\"",
     "source": "you. I know that face.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その かおを みれば わかる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c364d220ed73953",
@@ -585185,9 +585705,13 @@
     "end": 9914,
     "raw": "\"Three bouts, back to back. No\\n\"",
     "source": "Three bouts, back to back. No\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3れんせんだ。 あいだに きゅうけいも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "42b0770bfacc94da",
@@ -585197,9 +585721,13 @@
     "end": 9955,
     "raw": "\"breaks, no potions between…\\l\"",
     "source": "breaks, no potions between…\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "キズぐすりも なし…\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "878efeb632ca35c7",
@@ -585209,9 +585737,13 @@
     "end": 10000,
     "raw": "\"you go in with what you've got.\\p\"",
     "source": "you go in with what you've got.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いまの てもちで たたかいぬく。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f905df8fdcc27332",
@@ -585221,9 +585753,13 @@
     "end": 10021,
     "raw": "\"Want in?$\"",
     "source": "Want in?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でるかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "343472b99e1531d3",
@@ -585233,9 +585769,13 @@
     "end": 10103,
     "raw": "\"Smart. Come back when your\\n\"",
     "source": "Smart. Come back when your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}けんめいだ。 てもちの じゅんびが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0dc5f2d28d9aa605",
@@ -585245,9 +585785,13 @@
     "end": 10129,
     "raw": "\"team's ready.$\"",
     "source": "team's ready.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "できたら また きな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3b26386517690ed8",
@@ -585257,9 +585801,13 @@
     "end": 10205,
     "raw": "\"ANNOUNCER: WAIT! WAIT…\\p\"",
     "source": "ANNOUNCER: WAIT! WAIT…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じっきょう: まった! まった…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "01d4b2bc799a2400",
@@ -585269,9 +585817,13 @@
     "end": 10247,
     "raw": "\"WE HAVE A LAST-MINUTE ENTRY!\\p\"",
     "source": "WE HAVE A LAST-MINUTE ENTRY!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびいりの ちょうせんしゃが とうじょう!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "749b9f1d96da6608",
@@ -585281,9 +585833,13 @@
     "end": 10270,
     "raw": "\"{PLAYER}!!$\"",
     "source": "{PLAYER}!!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}!!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f60526750a2e9c83",
@@ -585293,9 +585849,13 @@
     "end": 10350,
     "raw": "\"The crowd is on its feet.\\p\"",
     "source": "The crowd is on its feet.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かんきゃくは そうだちだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "88bb7a465a08634f",
@@ -585305,9 +585865,13 @@
     "end": 10394,
     "raw": "\"Step onto the mark when you're\\n\"",
     "source": "Step onto the mark when you're\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゅんびが できたら しるしの うえへ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f8a2b07598b47539",
@@ -585317,9 +585881,13 @@
     "end": 10432,
     "raw": "\"ready, kid. Ring's yours.$\"",
     "source": "ready, kid. Ring's yours.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リングは きみの ものだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a0b4fc0984056db",
@@ -585329,9 +585897,13 @@
     "end": 10511,
     "raw": "\"Ladies and gentlemen: the\\n\"",
     "source": "Ladies and gentlemen: the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みなさん。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "687484e48c58aaac",
@@ -585341,9 +585913,13 @@
     "end": 10553,
     "raw": "\"champion is in the building.\\p\"",
     "source": "champion is in the building.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チャンピオンの おでましです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "55fd91758e0dd082",
@@ -585353,9 +585929,13 @@
     "end": 10582,
     "raw": "\"He winks at you.$\"",
     "source": "He winks at you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かれは あなたに ウインクした。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a1980da62011a44",
@@ -585365,9 +585945,13 @@
     "end": 10651,
     "raw": "\"ANNOUNCER: ROUND ONE!\\p\"",
     "source": "ANNOUNCER: ROUND ONE!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じっきょう: だい1せん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dce0f9fd23c47bee",
@@ -585377,9 +585961,13 @@
     "end": 10694,
     "raw": "\"Give it up for the challenger!$\"",
     "source": "Give it up for the challenger!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうせんしゃに はくしゅを!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "095b105b27482c9c",
@@ -585389,9 +585977,13 @@
     "end": 10758,
     "raw": "\"Do your worst.$\"",
     "source": "Do your worst.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぜんりょくで きな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "055da64faac20a23",
@@ -585401,9 +585993,13 @@
     "end": 10834,
     "raw": "\"...You did your worst.$\"",
     "source": "...You did your worst.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…ほんとに ぜんりょくだったね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f06a7a004d045fa0",
@@ -585413,9 +586009,13 @@
     "end": 10912,
     "raw": "\"ANNOUNCER: ROUND TWO, no rest,\\n\"",
     "source": "ANNOUNCER: ROUND TWO, no rest,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じっきょう: だい2せん! きゅうけいなしが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ede25943e50d46cc",
@@ -585425,9 +586025,13 @@
     "end": 10953,
     "raw": "\"that's the underground rule!$\"",
     "source": "that's the underground rule!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちかの ルールだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "91188b2f8316a674",
@@ -585437,9 +586041,13 @@
     "end": 11026,
     "raw": "\"You're still standing?\\p\"",
     "source": "You're still standing?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まだ たってるの?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1d88350333e13641",
@@ -585449,9 +586057,13 @@
     "end": 11054,
     "raw": "\"Let's fix that.$\"",
     "source": "Let's fix that.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それじゃ たおれてもらおうか。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e3e9a6448a05f778",
@@ -585461,9 +586073,13 @@
     "end": 11128,
     "raw": "\"Tch. Still standing.$\"",
     "source": "Tch. Still standing.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ちっ。 まだ たってる。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aaa842a7495ad0dd",
@@ -585473,9 +586089,13 @@
     "end": 11201,
     "raw": "\"ANNOUNCER: FINAL ROUND!\\p\"",
     "source": "ANNOUNCER: FINAL ROUND!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じっきょう: さいしゅうせん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "307f22eaec43e67b",
@@ -585485,9 +586105,13 @@
     "end": 11235,
     "raw": "\"You know who's next.\\n\"",
     "source": "You know who's next.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎが だれか わかってるよな。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bb1803ec5c9c004e",
@@ -585497,9 +586121,13 @@
     "end": 11276,
     "raw": "\"You've ALL known who's next!$\"",
     "source": "You've ALL known who's next!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんな はじめから わかってたはずだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0ccf4e41c49a56f",
@@ -585509,9 +586137,13 @@
     "end": 11348,
     "raw": "\"Two down. On no rest.\\p\"",
     "source": "Two down. On no rest.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きゅうけいも なしに 2にん たおしたか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6aaf830c27302bed",
@@ -585521,9 +586153,13 @@
     "end": 11391,
     "raw": "\"They shut the gyms, kid. Took\\n\"",
     "source": "They shut the gyms, kid. Took\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やつらは ジムを とじた。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60b7bfb80bd8eaae",
@@ -585533,9 +586169,13 @@
     "end": 11433,
     "raw": "\"the badges, took the lights.\\p\"",
     "source": "the badges, took the lights.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バッジも あかりも うばった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "37ebeaab1f32c336",
@@ -585545,9 +586185,13 @@
     "end": 11472,
     "raw": "\"So we dug a hole and kept\\n\"",
     "source": "So we dug a hole and kept\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから あなを ほって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5386dafc9bd926ae",
@@ -585557,9 +586201,13 @@
     "end": 11501,
     "raw": "\"battling in it.\\p\"",
     "source": "battling in it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その なかで たたかいつづけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f95fbe941653f9ee",
@@ -585569,9 +586217,13 @@
     "end": 11543,
     "raw": "\"Show me it was worth digging.$\"",
     "source": "Show me it was worth digging.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほった かいが あったと おもわせてくれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "337c1922bb6dfdf3",
@@ -585581,9 +586233,13 @@
     "end": 11608,
     "raw": "\"HA! There it is!$\"",
     "source": "HA! There it is!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ははっ! それだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9237ce77cb958e46",
@@ -585593,9 +586249,13 @@
     "end": 11687,
     "raw": "\"Beaten. Down here. By a kid\\n\"",
     "source": "Beaten. Down here. By a kid\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こんな ちかで まけちまった。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2add7221d3340dbb",
@@ -585605,9 +586265,13 @@
     "end": 11729,
     "raw": "\"with a bounty on their face.\\p\"",
     "source": "with a bounty on their face.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しかも かおに しょうきんの ついた こにな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4cadfecb660f6419",
@@ -585617,9 +586281,13 @@
     "end": 11773,
     "raw": "\"Best night this pit's ever had.$\"",
     "source": "Best night this pit's ever had.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この あなが できてから さいこうの よるだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "65f970d0cf8e49f9",
@@ -585629,9 +586297,13 @@
     "end": 11845,
     "raw": "\"ANNOUNCER: NEW CHAMPION!\\n\"",
     "source": "ANNOUNCER: NEW CHAMPION!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じっきょう: しんチャンピオン!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b2a2d429a1e0775d",
@@ -585641,9 +586313,13 @@
     "end": 11873,
     "raw": "\"NEW CHAMPION!!\\p\"",
     "source": "NEW CHAMPION!!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しんチャンピオンだ!!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8499c924e160ca37",
@@ -585653,9 +586329,13 @@
     "end": 11913,
     "raw": "\"The tunnel goes absolutely\\n\"",
     "source": "The tunnel goes absolutely\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トンネルが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "96add5a96034c9e6",
@@ -585665,9 +586345,13 @@
     "end": 11932,
     "raw": "\"feral.$\"",
     "source": "feral.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すさまじい ねっきに つつまれた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13f357b72f8ff3fc",
@@ -585677,9 +586361,13 @@
     "end": 12004,
     "raw": "\"{PLAYER} earned the\\n\"",
     "source": "{PLAYER} earned the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f3b6e180910b5497",
@@ -585689,9 +586377,13 @@
     "end": 12035,
     "raw": "\"UNDERGROUND BADGE!$\"",
     "source": "UNDERGROUND BADGE!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちかバッジを てにいれた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f832478dbd267ed6",
@@ -585701,9 +586393,13 @@
     "end": 12110,
     "raw": "\"That badge isn't official.\\p\"",
     "source": "That badge isn't official.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その バッジは こうしきじゃない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4d283ed46686e86",
@@ -585713,9 +586409,13 @@
     "end": 12155,
     "raw": "\"It's better. Every flier in the\\n\"",
     "source": "It's better. Every flier in the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それ いじょうさ。 レジスタンスの とびては\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "27dd9908f17e6d8e",
@@ -585725,9 +586425,13 @@
     "end": 12194,
     "raw": "\"resistance answers to it.\\p\"",
     "source": "resistance answers to it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんな その バッジに こたえる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dce9b58bd5bfc01e",
@@ -585737,9 +586441,13 @@
     "end": 12233,
     "raw": "\"Whistle from anywhere and\\n\"",
     "source": "Whistle from anywhere and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どこでも くちぶえを ふけば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "857c4251d23feb2c",
@@ -585749,9 +586457,13 @@
     "end": 12269,
     "raw": "\"they'll come carry you.$\"",
     "source": "they'll come carry you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むかえにきて のせてくれる。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "643bc736b03cc305",
@@ -585761,9 +586473,13 @@
     "end": 12334,
     "raw": "\"Take this too.\\p\"",
     "source": "Take this too.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}これも もっていけ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1cb2f60f29c32e9f",
@@ -585773,9 +586489,13 @@
     "end": 12375,
     "raw": "\"A LIFE ORB. It costs you to\\n\"",
     "source": "A LIFE ORB. It costs you to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いのちのたまだ。 おもい いちげきを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ca81e439a157caeb",
@@ -585785,9 +586505,13 @@
     "end": 12405,
     "raw": "\"swing that hard.\\p\"",
     "source": "swing that hard.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くりだすには だいしょうが いる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "baabf8942859123c",
@@ -585797,9 +586521,13 @@
     "end": 12445,
     "raw": "\"Down here, everything does.$\"",
     "source": "Down here, everything does.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここでは なんでも そうさ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "240d94fb754a6b35",
@@ -585809,9 +586537,13 @@
     "end": 12520,
     "raw": "\"Champion of a hole in the\\n\"",
     "source": "Champion of a hole in the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じめんに ほった あなの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "12d5b11e4bb5327b",
@@ -585821,9 +586553,13 @@
     "end": 12541,
     "raw": "\"ground.\\p\"",
     "source": "ground.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チャンピオンか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0be3b81310e01ad4",
@@ -585833,9 +586569,13 @@
     "end": 12567,
     "raw": "\"Still counts.$\"",
     "source": "Still counts.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでも チャンピオンだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5baf485a275bc474",
@@ -585845,9 +586585,13 @@
     "end": 12647,
     "raw": "\"Ring's yours whenever you want\\n\"",
     "source": "Ring's yours whenever you want\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いつでも リングに もどってきな。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a2b2cf8f18df3722",
@@ -585857,9 +586601,13 @@
     "end": 12676,
     "raw": "\"it back, champ.\\p\"",
     "source": "it back, champ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チャンピオン。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ccd1ffbce4875535",
@@ -585869,9 +586617,13 @@
     "end": 12719,
     "raw": "\"I'll be here. Somebody has to\\n\"",
     "source": "I'll be here. Somebody has to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここに いるさ。 だれかが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4aea396e81b2df8c",
@@ -585881,9 +586633,13 @@
     "end": 12751,
     "raw": "\"keep the lights on.$\"",
     "source": "keep the lights on.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あかりを ともしつづけないとな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a7d78d87b9da4788",
@@ -585893,9 +586649,13 @@
     "end": 12831,
     "raw": "\"Mutrid shut battling down all\\n\"",
     "source": "Mutrid shut battling down all\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミュートリッドが シントウキョウじゅうで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5b0de5deb7ec92dc",
@@ -585905,9 +586665,13 @@
     "end": 12861,
     "raw": "\"over Shin-Tokyo.\\p\"",
     "source": "over Shin-Tokyo.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンしょうぶを きんしした。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe744e67b3928f35",
@@ -585917,9 +586681,13 @@
     "end": 12902,
     "raw": "\"Said it was “unproductive.”\\p\"",
     "source": "Said it was “unproductive.”\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「ひせいさんてき」なんだと。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a6efa8bb893f507",
@@ -585929,9 +586697,13 @@
     "end": 12946,
     "raw": "\"So we hold the tournament down\\n\"",
     "source": "So we hold the tournament down\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから かわりに この ちかで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6eda6145619bbd1a",
@@ -585941,9 +586713,13 @@
     "end": 12972,
     "raw": "\"here instead.$\"",
     "source": "here instead.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たいかいを ひらいているんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "151fc2b4a95e2b41",
@@ -585953,9 +586729,13 @@
     "end": 13054,
     "raw": "\"The first rule of fight club\\n\"",
     "source": "The first rule of fight club\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ファイトクラブの おきて その1。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c6056681f82953c",
@@ -585965,9 +586745,13 @@
     "end": 13096,
     "raw": "\"is we don't talk about fight\\l\"",
     "source": "is we don't talk about fight\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ファイトクラブについて\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f342e4db153bad14",
@@ -585977,9 +586761,13 @@
     "end": 13115,
     "raw": "\"club.\\p\"",
     "source": "club.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はなしては いけない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "07843bf684b5a97e",
@@ -585989,9 +586777,13 @@
     "end": 13155,
     "raw": "\"...The second rule is I've\\n\"",
     "source": "...The second rule is I've\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "…その2。 その1を まもるのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "265ebd0eba8c4d62",
@@ -586001,9 +586793,13 @@
     "end": 13196,
     "raw": "\"never been good at rule one.$\"",
     "source": "never been good at rule one.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むかしから にがてだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aa6fc87999d080e7",
@@ -586013,9 +586809,13 @@
     "end": 13274,
     "raw": "\"VOLTEN's held that ring for\\n\"",
     "source": "VOLTEN's held that ring for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ボルテンは 200ばんも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "85c6848aa8524fc2",
@@ -586025,9 +586825,13 @@
     "end": 13307,
     "raw": "\"two hundred nights.\\p\"",
     "source": "two hundred nights.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あの リングを まもってる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "272064dfbf411350",
@@ -586037,9 +586841,13 @@
     "end": 13349,
     "raw": "\"Nobody's even taken him to a\\n\"",
     "source": "Nobody's even taken him to a\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さいごの 1ぴきまで おいつめた やつさえ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a779619443edf52",
@@ -586049,9 +586857,13 @@
     "end": 13371,
     "raw": "\"last mon.$\"",
     "source": "last mon.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いないんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d43e82964e1b6634",
@@ -586061,9 +586873,13 @@
     "end": 13452,
     "raw": "\"I've got three weeks' rations\\n\"",
     "source": "I've got three weeks' rations\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}チャンピオンに 3しゅうかんぶんの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "90f0e70ac9f75eff",
@@ -586073,9 +586889,13 @@
     "end": 13486,
     "raw": "\"riding on the champ.\\p\"",
     "source": "riding on the champ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいきゅうしょくを かけてるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "88fafda5c20d43cf",
@@ -586085,9 +586905,13 @@
     "end": 13514,
     "raw": "\"Don't you dare.$\"",
     "source": "Don't you dare.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よけいなことは するなよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7773d8e165b6bef2",
@@ -586097,9 +586921,13 @@
     "end": 13593,
     "raw": "\"When I grow up I'm gonna battle\\n\"",
     "source": "When I grow up I'm gonna battle\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おおきくなったら リングで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc090397e1803cf8",
@@ -586109,9 +586937,13 @@
     "end": 13619,
     "raw": "\"in the ring!\\p\"",
     "source": "in the ring!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たたかうんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "06b0e3c4fc613dd7",
@@ -586121,9 +586953,13 @@
     "end": 13662,
     "raw": "\"Mom says the ring is illegal.\\n\"",
     "source": "Mom says the ring is illegal.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ママは リングは いほうだって。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d67fb2c8437ff68",
@@ -586133,9 +586969,13 @@
     "end": 13694,
     "raw": "\"Mom's HERE, though.$\"",
     "source": "Mom's HERE, though.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも その ママも ここに いるんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c52dcc4aaf3e8387",
@@ -586145,9 +586985,13 @@
     "end": 13772,
     "raw": "\"Keep your voice down up top.\\p\"",
     "source": "Keep your voice down up top.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うえでは こえを おさえろ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e3fe1179f2609b5d",
@@ -586157,9 +587001,13 @@
     "end": 13803,
     "raw": "\"Down here? SCREAM.$\"",
     "source": "Down here? SCREAM.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここでは? さけべ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "998ff9a1429e41dd",
@@ -586169,9 +587017,13 @@
     "end": 13879,
     "raw": "\"Password's changed twice this\\n\"",
     "source": "Password's changed twice this\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あいことばは こんしゅうだけで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d5fdfc349832ac12",
@@ -586181,9 +587033,13 @@
     "end": 13898,
     "raw": "\"week.\\p\"",
     "source": "week.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2かい かわった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b859a35436041297",
@@ -586193,9 +587049,13 @@
     "end": 13943,
     "raw": "\"You got in, so I guess somebody\\n\"",
     "source": "You got in, so I guess somebody\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいれたってことは きみを きにいった\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "22a95d3edafc9563",
@@ -586205,9 +587065,13 @@
     "end": 13966,
     "raw": "\"likes you.$\"",
     "source": "likes you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかが いるんだろうね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-underground-arena-35",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e6d1537026c6bbb7",

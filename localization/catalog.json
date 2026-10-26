@@ -709909,9 +709909,13 @@
     "end": 87,
     "raw": "\"This move can be learned only\\n\"",
     "source": "This move can be learned only\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この わざを おぼえられるのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "17503f04d2950afe",
@@ -709921,9 +709925,13 @@
     "end": 119,
     "raw": "\"once. Is that okay?$\"",
     "source": "once. Is that okay?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちどだけです。 よろしいですか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bb49314801917216",
@@ -709933,9 +709941,13 @@
     "end": 193,
     "raw": "\"Heh! My POKéMON totally rules!\\n\"",
     "source": "Heh! My POKéMON totally rules!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へへっ! おれの ポケモンは さいこう!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9908064518dfda90",
@@ -709945,9 +709957,13 @@
     "end": 236,
     "raw": "\"It's cooler than any POKéMON!\\p\"",
     "source": "It's cooler than any POKéMON!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どんな ポケモンよりも かっこいい!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d5010ae8c3d00a42",
@@ -709957,9 +709973,13 @@
     "end": 285,
     "raw": "\"I was lipping off with a swagger in\\n\"",
     "source": "I was lipping off with a swagger in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そんなふうに いばって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab9b97d06cefe0c4",
@@ -709969,9 +709989,13 @@
     "end": 334,
     "raw": "\"my step like that when the CHAIRMAN\\l\"",
     "source": "my step like that when the CHAIRMAN\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えらそうに あるいていたら かいちょうに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1ba25b9aa163f17",
@@ -709981,9 +710005,13 @@
     "end": 362,
     "raw": "\"chewed me out.\\p\"",
     "source": "chewed me out.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こっぴどく しかられちゃってさ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0985a2e7b47aaa8f",
@@ -709993,9 +710021,13 @@
     "end": 413,
     "raw": "\"That took the swagger out of my step.\\p\"",
     "source": "That took the swagger out of my step.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかげで いばる きも うせたよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "030211178aed3526",
@@ -710005,9 +710037,13 @@
     "end": 461,
     "raw": "\"If you'd like, I'll teach the move\\n\"",
     "source": "If you'd like, I'll teach the move\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よかったら きみの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b85e1642db1c2235",
@@ -710017,9 +710053,13 @@
     "end": 504,
     "raw": "\"SWAGGER to a POKéMON of yours.$\"",
     "source": "SWAGGER to a POKéMON of yours.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いばるの わざを おしえてあげるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d72dd49c8b3e51be",
@@ -710029,9 +710069,13 @@
     "end": 579,
     "raw": "\"What, no? Can't you get into\\n\"",
     "source": "What, no? Can't you get into\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんだ いやなのか？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "20cee6a8d39cf946",
@@ -710041,9 +710085,13 @@
     "end": 613,
     "raw": "\"the spirit of things?$\"",
     "source": "the spirit of things?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "のりが わるいなあ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1aeec5d3c79e91bd",
@@ -710053,9 +710101,13 @@
     "end": 693,
     "raw": "\"All right, which POKéMON wants to\\n\"",
     "source": "All right, which POKéMON wants to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}よーし! どの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c85ba666b47f3f27",
@@ -710065,9 +710117,13 @@
     "end": 727,
     "raw": "\"learn how to SWAGGER?$\"",
     "source": "learn how to SWAGGER?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いばるを おしえようか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff1fe440a9fc92cc",
@@ -710077,9 +710133,13 @@
     "end": 808,
     "raw": "\"I'll just praise my POKéMON from now\\n\"",
     "source": "I'll just praise my POKéMON from now\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}これからは いばらずに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bc2ec30305b9f70f",
@@ -710089,9 +710149,13 @@
     "end": 844,
     "raw": "\"on without the swagger.$\"",
     "source": "on without the swagger.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんの ポケモンを ほめるだけに するよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "63513f790de80ffb",
@@ -710101,9 +710165,13 @@
     "end": 921,
     "raw": "\"Did you know that you can go from\\n\"",
     "source": "Did you know that you can go from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここから あっちの ほうへ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c4161bdd08e92dc0",
@@ -710113,9 +710181,13 @@
     "end": 968,
     "raw": "\"here a long way in that direction\\l\"",
     "source": "here a long way in that direction\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほうこうを かえずに ずっと いけるって\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b5a44994cea68e23",
@@ -710125,9 +710197,13 @@
     "end": 1009,
     "raw": "\"without changing direction?\\p\"",
     "source": "without changing direction?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しってた？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0f13d6782bfd0b42",
@@ -710137,9 +710213,13 @@
     "end": 1051,
     "raw": "\"I might even be able to roll\\n\"",
     "source": "I might even be able to roll\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そのまま ころがって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4aca6b44d22a7964",
@@ -710149,9 +710229,13 @@
     "end": 1074,
     "raw": "\"that way.\\p\"",
     "source": "that way.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いけちゃうかもね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9f56ebd29e308269",
@@ -710161,9 +710245,13 @@
     "end": 1118,
     "raw": "\"Do you think your POKéMON will\\n\"",
     "source": "Do you think your POKéMON will\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの ポケモンも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ca8eee3af5437e90",
@@ -710173,9 +710261,13 @@
     "end": 1150,
     "raw": "\"want to roll, too?\\p\"",
     "source": "want to roll, too?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ころがってみたいと おもうかな？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4c3d779c6907ad89",
@@ -710185,9 +710277,13 @@
     "end": 1196,
     "raw": "\"I can teach one the move ROLLOUT\\n\"",
     "source": "I can teach one the move ROLLOUT\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よかったら ころがるっていう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b4bb57e9b0d22f5d",
@@ -710197,9 +710293,13 @@
     "end": 1223,
     "raw": "\"if you'd like.$\"",
     "source": "if you'd like.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わざを おしえてあげるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4496b50bd1db320",
@@ -710209,9 +710309,13 @@
     "end": 1304,
     "raw": "\"You don't need to be shy about it.\\n\"",
     "source": "You don't need to be shy about it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えんりょ しなくて いいのに。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "581e8af8773ad6f7",
@@ -710221,9 +710325,13 @@
     "end": 1328,
     "raw": "\"Let's roll!$\"",
     "source": "Let's roll!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さあ ころがろうよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a53b393354bb239",
@@ -710233,9 +710341,13 @@
     "end": 1410,
     "raw": "\"Ehehe, sure thing! It'd be great if\\n\"",
     "source": "Ehehe, sure thing! It'd be great if\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えへへ いいよ! ポケモンも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "445071b6c274346f",
@@ -710245,9 +710357,13 @@
     "end": 1450,
     "raw": "\"the POKéMON looked like me.$\"",
     "source": "the POKéMON looked like me.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしに にてたら うれしいな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bfd2ad1d5095da4f",
@@ -710257,9 +710373,13 @@
     "end": 1531,
     "raw": "\"Rolling around in the grass makes me\\n\"",
     "source": "Rolling around in the grass makes me\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くさの うえを ごろごろ ころがると\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2fbfd63ba72a293e",
@@ -710269,9 +710389,13 @@
     "end": 1571,
     "raw": "\"happy. Come on, let's roll!$\"",
     "source": "happy. Come on, let's roll!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しあわせなんだ。 さあ ころがろう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f41191d0ee853d4b",
@@ -710281,9 +710405,13 @@
     "end": 1651,
     "raw": "\"There's a move that gets stronger\\n\"",
     "source": "There's a move that gets stronger\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}つづけて つかうほど つよくなる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ba33f3a9bb964bf8",
@@ -710293,9 +710421,13 @@
     "end": 1697,
     "raw": "\"when you keep using it in a row.\\p\"",
     "source": "when you keep using it in a row.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わざが あるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec4b9f3a51d6af2a",
@@ -710305,9 +710437,13 @@
     "end": 1742,
     "raw": "\"It's a BUG-type move, and it is\\n\"",
     "source": "It's a BUG-type move, and it is\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むしタイプの わざで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "985df14b1017ce09",
@@ -710317,9 +710453,13 @@
     "end": 1770,
     "raw": "\"wickedly cool.\\p\"",
     "source": "wickedly cool.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すっごく かっこいいんだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3382399be512cf07",
@@ -710329,9 +710469,13 @@
     "end": 1808,
     "raw": "\"It's called FURY CUTTER.\\n\"",
     "source": "It's called FURY CUTTER.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんぞくぎりって いうんだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b664ed810ee3d297",
@@ -710341,9 +710485,13 @@
     "end": 1854,
     "raw": "\"Want me to teach it to a POKéMON?$\"",
     "source": "Want me to teach it to a POKéMON?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンに おしえてあげようか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69c8038871b2f668",
@@ -710353,9 +710501,13 @@
     "end": 1936,
     "raw": "\"We're not on the same wavelength.$\"",
     "source": "We're not on the same wavelength.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみとは はなしが あわないね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "309c77537d73b590",
@@ -710365,9 +710517,13 @@
     "end": 1990,
     "raw": "\"Yay!\\n\"",
     "source": "Yay!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やったあ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44919022c209cf0a",
@@ -710377,9 +710533,13 @@
     "end": 2040,
     "raw": "\"Show me which POKéMON I should teach.$\"",
     "source": "Show me which POKéMON I should teach.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの ポケモンに おしえるか みせて。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "72af45cc2e2014b9",
@@ -710389,9 +710549,13 @@
     "end": 2121,
     "raw": "\"I get a thrill watching to see if\\n\"",
     "source": "I get a thrill watching to see if\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}つぎも つづけて あたるかなって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fab62f2299db9148",
@@ -710401,9 +710565,13 @@
     "end": 2171,
     "raw": "\"the move keeps hitting in succession!$\"",
     "source": "the move keeps hitting in succession!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みてると わくわくするんだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "932808832c72b610",
@@ -710413,9 +710581,13 @@
     "end": 2222,
     "raw": "\"Ah, young one!\\p\"",
     "source": "Ah, young one!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお わかいの!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8cd6025057f3a75f",
@@ -710425,9 +710597,13 @@
     "end": 2270,
     "raw": "\"I am also a young one, but I mimic\\n\"",
     "source": "I am also a young one, but I mimic\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしも わかいのじゃが この まちの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f9943a9e7d3a3633",
@@ -710437,9 +710613,13 @@
     "end": 2320,
     "raw": "\"the styles and speech of the elderly\\l\"",
     "source": "the styles and speech of the elderly\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おとしよりの しぐさや しゃべりかたを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "211f7f46e28ccaf5",
@@ -710449,9 +710629,13 @@
     "end": 2353,
     "raw": "\"folks of this town.\\p\"",
     "source": "folks of this town.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ものまね しておるのじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff849cfa5a574bce",
@@ -710461,9 +710645,13 @@
     "end": 2394,
     "raw": "\"What do you say, young one?\\n\"",
     "source": "What do you say, young one?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうじゃ わかいの？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4e2236daedf8b2a2",
@@ -710473,9 +710661,13 @@
     "end": 2442,
     "raw": "\"Would you agree to it if I were to\\l\"",
     "source": "Would you agree to it if I were to\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ものまねの わざを おしえてやると\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "126d1023055b144a",
@@ -710485,9 +710677,13 @@
     "end": 2485,
     "raw": "\"offer to teach the move MIMIC?$\"",
     "source": "offer to teach the move MIMIC?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いったら うけてくれるかの？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "35d30b75adc8bdaf",
@@ -710497,9 +710693,13 @@
     "end": 2557,
     "raw": "\"Oh, boo! I wanted to teach MIMIC\\n\"",
     "source": "Oh, boo! I wanted to teach MIMIC\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えーっ! きみの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ba08f9414f5b7089",
@@ -710509,9 +710709,13 @@
     "end": 2586,
     "raw": "\"to your POKéMON!$\"",
     "source": "to your POKéMON!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ものまねを おしえたかったのに!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c131b2f3adbb55e7",
@@ -710521,9 +710725,13 @@
     "end": 2654,
     "raw": "\"Fwofwo! And so I shall!\\n\"",
     "source": "Fwofwo! And so I shall!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふぉふぉ! よかろう!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b8943e4943096fa2",
@@ -710533,9 +710741,13 @@
     "end": 2690,
     "raw": "\"Let me see the POKéMON\\l\"",
     "source": "Let me see the POKéMON\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おしえて ほしい ポケモンを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "87a826dda6ae2858",
@@ -710545,9 +710757,13 @@
     "end": 2724,
     "raw": "\"you wish me to teach.$\"",
     "source": "you wish me to teach.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みせてみるのじゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9e67b32199d8536d",
@@ -710557,9 +710773,13 @@
     "end": 2798,
     "raw": "\"MIMIC is a move of great depth.\\p\"",
     "source": "MIMIC is a move of great depth.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ものまねは おくの ふかい わざじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "03ddb7e035af8294",
@@ -710569,9 +710789,13 @@
     "end": 2846,
     "raw": "\"Could you execute it to perfection\\n\"",
     "source": "Could you execute it to perfection\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしのように かんぺきな ものまねが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d17fe71297528f2d",
@@ -710581,9 +710805,13 @@
     "end": 2874,
     "raw": "\"as well as me…?$\"",
     "source": "as well as me…?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "できるかのう…？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d01baf5eae96ae4b",
@@ -710593,9 +710821,13 @@
     "end": 2947,
     "raw": "\"I want all sorts of things!\\n\"",
     "source": "I want all sorts of things!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほしいものが いっぱい あるのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "09791141f0d3a293",
@@ -710605,9 +710837,13 @@
     "end": 2988,
     "raw": "\"But I used up my allowance…\\p\"",
     "source": "But I used up my allowance…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おこづかいを つかいきっちゃった…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "73f8db356071e1ea",
@@ -710617,9 +710853,13 @@
     "end": 3035,
     "raw": "\"Wouldn't it be nice if there were\\n\"",
     "source": "Wouldn't it be nice if there were\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆびを ふるだけで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29fecb9addea4b8d",
@@ -710629,9 +710869,13 @@
     "end": 3084,
     "raw": "\"a spell that made money appear when\\l\"",
     "source": "a spell that made money appear when\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかねが でてくる まほうが あれば\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0502ef58e98804a7",
@@ -710641,9 +710885,13 @@
     "end": 3118,
     "raw": "\"you waggle a finger?\\p\"",
     "source": "you waggle a finger?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいのになあ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f4d092e73be1e5d3",
@@ -710653,9 +710901,13 @@
     "end": 3169,
     "raw": "\"If you want, I can teach your POKéMON\\n\"",
     "source": "If you want, I can teach your POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よかったら きみの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "68ab9647bae957ef",
@@ -710665,9 +710917,13 @@
     "end": 3202,
     "raw": "\"the move METRONOME.\\p\"",
     "source": "the move METRONOME.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆびをふるの わざを おしえるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9ef3997084784dfe",
@@ -710677,9 +710933,13 @@
     "end": 3252,
     "raw": "\"Money won't appear, but your POKéMON\\n\"",
     "source": "Money won't appear, but your POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかねは でないけど ポケモンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a086c1ae68b6abe",
@@ -710689,9 +710949,13 @@
     "end": 3291,
     "raw": "\"will waggle a finger. Yes?$\"",
     "source": "will waggle a finger. Yes?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆびを ふるよ。 どう？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "64d75d29363ef7d9",
@@ -710701,9 +710965,13 @@
     "end": 3372,
     "raw": "\"Okay. I'll be here if you change\\n\"",
     "source": "Okay. I'll be here if you change\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わかった。 きが かわったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c8c6a1bd1b166d52",
@@ -710713,9 +710981,13 @@
     "end": 3395,
     "raw": "\"your mind.$\"",
     "source": "your mind.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここに いるからね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0617fe25488163b6",
@@ -710725,9 +710997,13 @@
     "end": 3464,
     "raw": "\"Okay! I'll teach it!\\n\"",
     "source": "Okay! I'll teach it!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}よーし! おしえるよ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7dc93a4571c901a7",
@@ -710737,9 +711013,13 @@
     "end": 3506,
     "raw": "\"Which POKéMON should I teach?$\"",
     "source": "Which POKéMON should I teach?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの ポケモンに おしえようか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44b8cca642f1c4a7",
@@ -710749,9 +711029,13 @@
     "end": 3586,
     "raw": "\"When a POKéMON waggles its finger\\n\"",
     "source": "When a POKéMON waggles its finger\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンが ゆびをふるの わざで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f5fee0f3f518f44b",
@@ -710761,9 +711045,13 @@
     "end": 3635,
     "raw": "\"like a METRONOME, all sorts of nice\\l\"",
     "source": "like a METRONOME, all sorts of nice\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆびを ふると いろんないいことが\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4e3729618713e619",
@@ -710773,9 +711061,13 @@
     "end": 3663,
     "raw": "\"things happen.\\p\"",
     "source": "things happen.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おこるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "06cbd8259081bd57",
@@ -710785,9 +711077,13 @@
     "end": 3708,
     "raw": "\"Wouldn't it be nice if we could\\n\"",
     "source": "Wouldn't it be nice if we could\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしたちも つかえたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1effccd9140b402",
@@ -710797,9 +711093,13 @@
     "end": 3733,
     "raw": "\"use it, too?$\"",
     "source": "use it, too?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいのにね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1a942f4bbceefc74",
@@ -710809,9 +711109,13 @@
     "end": 3810,
     "raw": "\"Humph! My wife relies on HIDDEN\\n\"",
     "source": "Humph! My wife relies on HIDDEN\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふん! うちの かみさんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a32de7332e372d2",
@@ -710821,9 +711125,13 @@
     "end": 3844,
     "raw": "\"POWER to stay awake.\\p\"",
     "source": "POWER to stay awake.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "めざめるパワーで おきておる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc32a7b51e5a462d",
@@ -710833,9 +711141,13 @@
     "end": 3895,
     "raw": "\"She should just take a nap like I do,\\n\"",
     "source": "She should just take a nap like I do,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしのように ひるねをして\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a38ed2be485af54d",
@@ -710845,9 +711157,13 @@
     "end": 3924,
     "raw": "\"and SLEEP TALK.\\p\"",
     "source": "and SLEEP TALK.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねごとでも いえば いいものを。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "80946dedd4cb97ad",
@@ -710857,9 +711173,13 @@
     "end": 3969,
     "raw": "\"I can teach your POKéMON how to\\n\"",
     "source": "I can teach your POKéMON how to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かわりに おまえさんの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d05b5dab40bb2ff",
@@ -710869,9 +711189,13 @@
     "end": 4013,
     "raw": "\"SLEEP TALK instead. Interested?$\"",
     "source": "SLEEP TALK instead. Interested?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねごとを おしえてやろうか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f8e8bef9223319db",
@@ -710881,9 +711205,13 @@
     "end": 4100,
     "raw": "\"Oh, fine, fine. You want to stay awake\\n\"",
     "source": "Oh, fine, fine. You want to stay awake\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ そうかい そうかい。 おまえさんも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e7340df73c010434",
@@ -710893,9 +711221,13 @@
     "end": 4136,
     "raw": "\"with HIDDEN POWER, too…$\"",
     "source": "with HIDDEN POWER, too…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "めざめるパワーで おきていたいのか…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b84fb7d82449bc13",
@@ -710905,9 +711237,13 @@
     "end": 4211,
     "raw": "\"Ah, an appreciative child!\\n\"",
     "source": "Ah, an appreciative child!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお ありがたみが わかる こじゃ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "47bc7fefc295b4df",
@@ -710917,9 +711253,13 @@
     "end": 4253,
     "raw": "\"Which POKéMON should I teach?$\"",
     "source": "Which POKéMON should I teach?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの ポケモンに おしえようかの？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d35309b280e4408e",
@@ -710929,9 +711269,13 @@
     "end": 4332,
     "raw": "\"I've never once gotten my wife's\\n\"",
     "source": "I've never once gotten my wife's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かみさんの コインあては\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f9354624fca077a",
@@ -710941,9 +711285,13 @@
     "end": 4363,
     "raw": "\"coin trick right.\\p\"",
     "source": "coin trick right.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちども あたったことが なくてのう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "287f3b071f63a231",
@@ -710953,9 +711301,13 @@
     "end": 4411,
     "raw": "\"I would be happy if I got it right\\n\"",
     "source": "I would be happy if I got it right\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねごとを いってる ときでも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9aa6b52d3227fbe9",
@@ -710965,9 +711317,13 @@
     "end": 4445,
     "raw": "\"even as I SLEEP TALK…$\"",
     "source": "even as I SLEEP TALK…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたってくれれば うれしいんじゃが…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2173b8f32ab9bd65",
@@ -710977,9 +711333,13 @@
     "end": 4525,
     "raw": "\"When I see the wide world from up\\n\"",
     "source": "When I see the wide world from up\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こうして やねの うえから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f8a0ac92ba4c7bca",
@@ -710989,9 +711349,13 @@
     "end": 4556,
     "raw": "\"here on the roof…\\p\"",
     "source": "here on the roof…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひろい せかいを みているとね…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e654b1e46a1a2491",
@@ -711001,9 +711365,13 @@
     "end": 4604,
     "raw": "\"I think about how nice it would be\\n\"",
     "source": "I think about how nice it would be\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしが ひとりだけじゃ なくて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0256c9a1edb4cb75",
@@ -711013,9 +711381,13 @@
     "end": 4653,
     "raw": "\"if there were more than just one me\\l\"",
     "source": "if there were more than just one me\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もっと たくさん いたら いろんな\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b963734a71d377c9",
@@ -711025,9 +711397,13 @@
     "end": 4703,
     "raw": "\"so I could enjoy all sorts of lives.\\p\"",
     "source": "so I could enjoy all sorts of lives.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じんせいを たのしめるのにって おもうの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1adb4e35c5da8d84",
@@ -711037,9 +711413,13 @@
     "end": 4745,
     "raw": "\"Of course it's not possible.\\n\"",
     "source": "Of course it's not possible.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もちろん そんなことは できないけど。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "08c19524f54473f3",
@@ -711049,9 +711429,13 @@
     "end": 4766,
     "raw": "\"Giggle…\\p\"",
     "source": "Giggle…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うふふ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f301aafbc0ae7cf2",
@@ -711061,9 +711445,13 @@
     "end": 4814,
     "raw": "\"I know! Would you be interested in\\n\"",
     "source": "I know! Would you be interested in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうだ! ポケモンに みがわりを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0eb46928c6bd6e61",
@@ -711073,9 +711461,13 @@
     "end": 4861,
     "raw": "\"having a POKéMON learn SUBSTITUTE?$\"",
     "source": "having a POKéMON learn SUBSTITUTE?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おぼえさせて みたくない？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1ae7f87beabe7ca4",
@@ -711085,9 +711477,13 @@
     "end": 4918,
     "raw": "\"Oh, no?\\p\"",
     "source": "Oh, no?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら そう？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e796fb3aa268f31f",
@@ -711097,9 +711493,13 @@
     "end": 4960,
     "raw": "\"A POKéMON can make a copy of\\n\"",
     "source": "A POKéMON can make a copy of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この わざで ポケモンは じぶんの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "483e17cddabe0f30",
@@ -711109,9 +711509,13 @@
     "end": 4999,
     "raw": "\"itself using it, you know.$\"",
     "source": "itself using it, you know.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぶんしんを つくれるのよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c1383490b8b0ff1b",
@@ -711121,9 +711525,13 @@
     "end": 5056,
     "raw": "\"Giggle…\\n\"",
     "source": "Giggle…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うふふ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "64728f4cae2c3fa4",
@@ -711133,9 +711541,13 @@
     "end": 5101,
     "raw": "\"Which POKéMON do you want me to\\l\"",
     "source": "Which POKéMON do you want me to\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの ポケモンに みがわりを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8703c1daabeb1954",
@@ -711145,9 +711557,13 @@
     "end": 5131,
     "raw": "\"teach SUBSTITUTE?$\"",
     "source": "teach SUBSTITUTE?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おしえて ほしいの？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4005d7c0ae1008ed",
@@ -711157,9 +711573,13 @@
     "end": 5211,
     "raw": "\"We human beings should enjoy our\\n\"",
     "source": "We human beings should enjoy our\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしたち にんげんは じぶんの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e10cf9f3c36e2717",
@@ -711169,9 +711589,13 @@
     "end": 5249,
     "raw": "\"own lives to the utmost!\\p\"",
     "source": "own lives to the utmost!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じんせいを おもいきり たのしまなきゃ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a21240f54a2c517",
@@ -711181,9 +711605,13 @@
     "end": 5294,
     "raw": "\"I hope you'll get that way, too!$\"",
     "source": "I hope you'll get that way, too!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたにも そうなって ほしいな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60d20827de7e0a99",
@@ -711193,9 +711621,13 @@
     "end": 5367,
     "raw": "\"I can't do this anymore!\\p\"",
     "source": "I can't do this anymore!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もう やってられない!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0a302e6b51af63f3",
@@ -711205,9 +711637,13 @@
     "end": 5403,
     "raw": "\"It's utterly hopeless!\\p\"",
     "source": "It's utterly hopeless!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜんぜん だめだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe958b3d11087471",
@@ -711217,9 +711653,13 @@
     "end": 5445,
     "raw": "\"I'm a FIGHTING-type TRAINER,\\n\"",
     "source": "I'm a FIGHTING-type TRAINER,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれは かくとうタイプの トレーナー。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d4320220439386f6",
@@ -711229,9 +711669,13 @@
     "end": 5493,
     "raw": "\"so I can't win at the MOSSDEEP GYM\\l\"",
     "source": "so I can't win at the MOSSDEEP GYM\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから トクサネジムじゃ いくら がんばっても\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b5a9bba3e2480b3e",
@@ -711241,9 +711685,13 @@
     "end": 5532,
     "raw": "\"no matter how hard I try!\\p\"",
     "source": "no matter how hard I try!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かてないんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "11e354a21be30cf8",
@@ -711253,9 +711701,13 @@
     "end": 5572,
     "raw": "\"Argh! Punch! Punch! Punch!\\n\"",
     "source": "Argh! Punch! Punch! Punch!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うおお! パンチ! パンチ! パンチ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "265b64eb7ff8b083",
@@ -711265,9 +711717,13 @@
     "end": 5606,
     "raw": "\"Punch! Punch! Punch!\\p\"",
     "source": "Punch! Punch! Punch!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パンチ! パンチ! パンチ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "429a6589bb67597a",
@@ -711277,9 +711733,13 @@
     "end": 5652,
     "raw": "\"What, don't look at me that way!\\n\"",
     "source": "What, don't look at me that way!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんだよ そんな めで みるなよ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e13cb628377db9a6",
@@ -711289,9 +711749,13 @@
     "end": 5694,
     "raw": "\"I'm only hitting the ground!\\p\"",
     "source": "I'm only hitting the ground!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じめんを なぐってるだけだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "59879b4fa8d5a256",
@@ -711301,9 +711765,13 @@
     "end": 5739,
     "raw": "\"Or do you want me to teach your\\n\"",
     "source": "Or do you want me to teach your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それとも きみの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9e49eb9dd8d58b06",
@@ -711313,9 +711781,13 @@
     "end": 5773,
     "raw": "\"POKéMON DYNAMICPUNCH?$\"",
     "source": "POKéMON DYNAMICPUNCH?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ばくれつパンチを おしえてほしいのか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57fa2c7e77bbb3ec",
@@ -711325,9 +711797,13 @@
     "end": 5860,
     "raw": "\"Darn! You're even making fun of me?\\n\"",
     "source": "Darn! You're even making fun of me?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ちくしょう! きみまで ばかにするのか？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "737705a26a943715",
@@ -711337,9 +711813,13 @@
     "end": 5893,
     "raw": "\"Punch! Punch! Punch!$\"",
     "source": "Punch! Punch! Punch!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パンチ! パンチ! パンチ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "459d71657705f80d",
@@ -711349,9 +711829,13 @@
     "end": 5980,
     "raw": "\"What? You do? You're a good person!\\n\"",
     "source": "What? You do? You're a good person!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}え？ そうなのか？ いいひとだな!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1a0dcd76527c1932",
@@ -711361,9 +711845,13 @@
     "end": 6022,
     "raw": "\"Which POKéMON should I teach?$\"",
     "source": "Which POKéMON should I teach?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの ポケモンに おしえようか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4043c094e318532a",
@@ -711373,9 +711861,13 @@
     "end": 6109,
     "raw": "\"I want you to win at the MOSSDEEP GYM\\n\"",
     "source": "I want you to win at the MOSSDEEP GYM\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その ばくれつパンチで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "94b97dc2fe0fc6d0",
@@ -711385,9 +711877,13 @@
     "end": 6146,
     "raw": "\"using that DYNAMICPUNCH!$\"",
     "source": "using that DYNAMICPUNCH!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トクサネジムに かってくれよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2040a32440a9b287",
@@ -711397,9 +711893,13 @@
     "end": 6198,
     "raw": "\"Sigh…\\p\"",
     "source": "Sigh…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はあ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "438e558713fd78f4",
@@ -711409,9 +711909,13 @@
     "end": 6245,
     "raw": "\"SOOTOPOLIS's GYM LEADER is really\\n\"",
     "source": "SOOTOPOLIS's GYM LEADER is really\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ルネの ジムリーダーって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b7fee4bc1ac3fc0c",
@@ -711421,9 +711925,13 @@
     "end": 6277,
     "raw": "\"lovably admirable.\\p\"",
     "source": "lovably admirable.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとに すてきで あこがれちゃう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1ce4c26f3ea522de",
@@ -711433,9 +711941,13 @@
     "end": 6322,
     "raw": "\"But that also means I have many\\n\"",
     "source": "But that also means I have many\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも そのぶん こいの ライバルも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "737b7040b7ea3a69",
@@ -711445,9 +711957,13 @@
     "end": 6361,
     "raw": "\"rivals for his attention.\\p\"",
     "source": "rivals for his attention.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たくさん いるのよね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "af31ebedd8efaa64",
@@ -711457,9 +711973,13 @@
     "end": 6410,
     "raw": "\"He's got appeal with a DOUBLE-EDGE.\\n\"",
     "source": "He's got appeal with a DOUBLE-EDGE.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その みりょくも もろはの つるぎ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9c9ce95558c38c78",
@@ -711469,9 +711989,13 @@
     "end": 6454,
     "raw": "\"I couldn't even catch his eye.\\p\"",
     "source": "I couldn't even catch his eye.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こっちを みても もらえなかったわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fcaab71c00275bf4",
@@ -711481,9 +712005,13 @@
     "end": 6501,
     "raw": "\"Please, let me teach your POKéMON\\n\"",
     "source": "Please, let me teach your POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おねがい! あなたの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "daad16fc25fc6157",
@@ -711493,9 +712021,13 @@
     "end": 6535,
     "raw": "\"the move DOUBLE-EDGE!$\"",
     "source": "the move DOUBLE-EDGE!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すてみタックルを おしえさせて!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4bdc94ae264baa9",
@@ -711505,9 +712037,13 @@
     "end": 6588,
     "raw": "\"Oh…\\n\"",
     "source": "Oh…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bca6db8c1a01785c",
@@ -711517,9 +712053,13 @@
     "end": 6622,
     "raw": "\"Even you rejected me…$\"",
     "source": "Even you rejected me…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたにも ふられちゃった…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b68cad3f55b28b64",
@@ -711529,9 +712069,13 @@
     "end": 6706,
     "raw": "\"Okay, which POKéMON should I teach\\n\"",
     "source": "Okay, which POKéMON should I teach\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それじゃ どの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2af7ed5f5efc6aa7",
@@ -711541,9 +712085,13 @@
     "end": 6731,
     "raw": "\"DOUBLE-EDGE?$\"",
     "source": "DOUBLE-EDGE?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すてみタックルを おしえるの？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "574b84cf4e74b790",
@@ -711553,9 +712101,13 @@
     "end": 6809,
     "raw": "\"I won't live for love anymore!\\n\"",
     "source": "I won't live for love anymore!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もう こいに いきるのは やめるわ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f34ad591deb53b4f",
@@ -711565,9 +712117,13 @@
     "end": 6840,
     "raw": "\"I'll become tough!$\"",
     "source": "I'll become tough!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つよく なるんだから!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e89bc85a14ef12cc",
@@ -711577,9 +712133,13 @@
     "end": 6920,
     "raw": "\"I don't intend to be going nowhere\\n\"",
     "source": "I don't intend to be going nowhere\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こんな いなかで ずっと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6a080d5373621af0",
@@ -711589,9 +712149,13 @@
     "end": 6971,
     "raw": "\"fast in the sticks like this forever.\\p\"",
     "source": "fast in the sticks like this forever.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くすぶってる つもりは ないんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "baf5c118810b92a0",
@@ -711601,9 +712165,13 @@
     "end": 7023,
     "raw": "\"You watch me, I'll get out to the city\\n\"",
     "source": "You watch me, I'll get out to the city\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みてろよ! とかいに でて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6867c5cd3b600f92",
@@ -711613,9 +712181,13 @@
     "end": 7059,
     "raw": "\"and become a huge hit.\\p\"",
     "source": "and become a huge hit.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おおあたり してやるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9cbc0e0a9a31f8ff",
@@ -711625,9 +712197,13 @@
     "end": 7102,
     "raw": "\"Seriously, I'm going to cause\\n\"",
     "source": "Seriously, I'm going to cause\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとだぞ! にんきを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8576dadd8a90c874",
@@ -711637,9 +712213,13 @@
     "end": 7147,
     "raw": "\"a huge EXPLOSION of popularity!\\p\"",
     "source": "a huge EXPLOSION of popularity!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいばくはつ させるんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5ff1800b52c7b569",
@@ -711649,9 +712229,13 @@
     "end": 7196,
     "raw": "\"If you overheard that, I'll happily\\n\"",
     "source": "If you overheard that, I'll happily\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きいちゃったなら よろこんで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "02e665734a488e26",
@@ -711661,9 +712245,13 @@
     "end": 7241,
     "raw": "\"teach EXPLOSION to your POKéMON!$\"",
     "source": "teach EXPLOSION to your POKéMON!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの ポケモンに だいばくはつを おしえるよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1b9bf3b8f0b45c4",
@@ -711673,9 +712261,13 @@
     "end": 7326,
     "raw": "\"Gaah! You're turning me down because\\n\"",
     "source": "Gaah! You're turning me down because\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うがあ! いなかぐらしだからって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e40e592f449d2513",
@@ -711685,9 +712277,13 @@
     "end": 7361,
     "raw": "\"I live in the country?$\"",
     "source": "I live in the country?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ことわるのか？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4c50fe25a2f99c80",
@@ -711697,9 +712293,13 @@
     "end": 7435,
     "raw": "\"Fine! An EXPLOSION it is!\\n\"",
     "source": "Fine! An EXPLOSION it is!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}よし! だいばくはつだ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f81a37cea3745983",
@@ -711709,9 +712309,13 @@
     "end": 7479,
     "raw": "\"Which POKéMON wants to blow up?$\"",
     "source": "Which POKéMON wants to blow up?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの ポケモンが ばくはつしたいんだ？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dcb9b22496e75dd9",
@@ -711721,9 +712325,13 @@
     "end": 7562,
     "raw": "\"For a long time, I've taught POKéMON\\n\"",
     "source": "For a long time, I've taught POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ずっと ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "990887873d93a218",
@@ -711733,9 +712341,13 @@
     "end": 7610,
     "raw": "\"how to use EXPLOSION, but I've yet\\l\"",
     "source": "how to use EXPLOSION, but I've yet\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいばくはつを おしえてきたのに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4736617293057f0e",
@@ -711745,9 +712357,13 @@
     "end": 7651,
     "raw": "\"to ignite my own EXPLOSION…\\p\"",
     "source": "to ignite my own EXPLOSION…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんは まだ だいばくはつ できない…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6d60f86eff21eb38",
@@ -711757,9 +712373,13 @@
     "end": 7694,
     "raw": "\"Maybe it's because deep down,\\n\"",
     "source": "Maybe it's because deep down,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうは ここに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f43d75bc37c610a6",
@@ -711769,9 +712389,13 @@
     "end": 7732,
     "raw": "\"I would rather stay here…$\"",
     "source": "I would rather stay here…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いたいから なのかな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-move-tutors-47",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c1c375e66a64411",

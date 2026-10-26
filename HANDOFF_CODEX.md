@@ -4,7 +4,21 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話63（2026-10-27）
+## 最新の会話64（2026-10-27）
+
+開始時HEAD8327209c42・クリーン、status/stats61,722/13,803/47,919一致。カイナ残り155行＋Route110の163行、計318行78メッセージ追加し61,722/14,121/47,601。7ファイルとSlateportCity*の全スクリプトでカタログpending0。未抽出/実画面/到達性の網羅ではない。参考131行は全英語と照合して編集、残り187行は新訳。レビューreviews/dialogue-slateport-route110-64.review.md。
+
+BattleTentCorridorには旧コンテストの会話がある。地名に合わせて内容を改稿しない。カゼノ45回の広告、衝突を避けつつ加速という助言、TM41/2連続、3歩右/2歩上、より多いselectionの要望を保持。参考の貸出男性の冗談や速すぎ注意は採用せず英語へ戻す。ハルカ/ユウキ/オダマキの親子関係・助言/登録、姓名判断、性格/道具/交換、旧コンテストの二次審査説明も原文を保持。辞書132語。
+
+yomiyasu script lint0、meaning_risk6はlittle scary/市場interesting、居場所/新名の疑問、Magma rulesの引用、seemsの推量を英語で確認して維持。勢い候補1は英語の句点/省略記号へ合わせたもの。check bad0/26マス超0、audit0、78テスト成功。7ファイルの非.string行は開始時と完全一致。ロジック/フラグ/セーブ構造不変。
+
+GBA ../outputs/gba/wishes-jp-14121-ecf33154.gba、SHA256 da4038b6bb265fa625b468590d75f3d3ca438abb0472191d1db7c17a60a3ef1c。source commit 08826ced1dd18dcb01985b00f76185eb74c22d0c。build/emerald-jp-dlg14121-clean、ROM29,831,048B/EWRAM230,024/IWRAM28,600。BPS再適用全バイト一致、../artifacts/wishes-jp-ui14121-ecf33154-patch.zip。実画面・旧コンテスト到達性/対戦/受領/評価/命名/交換/進行/保存は未検証。旧ROM・セーブ保持。
+
+Excel14シート・62,429行11列、132語、全原文/訳文/ID/状態/メモと目次62,429/14,828/47,601を保存後照合し一致。旧メモ0件維持。Git内exports/types-14121.xlsx、ユーザー版 ../outputs/translation-types-14121/Wishes_種類別翻訳一覧.xlsx。Excel実アプリ未確認。管理画面は14121/47601へ再読込済み。
+
+次は **MauvilleCity/scripts.inc141行→Route110_SeasideCyclingRoadNorthEntrance/SouthEntrance各7行→Route110_TrickHouseEntrance79行、計234行**。その後カラクリの各Puzzle1〜8計241行とTrickHouseEnd73行。参考候補は1,983メッセージ/5,275行（未レビュー/未適用）。mapグラフ460候補・map内pending11,726。全ストーリー未完了。新ラベル/本文差分0でもC/共通/動的移動/未抽出を含めた完成証明ではない。トークンが戻ったらこの続きから再開。
+
+## 以前の会話63（2026-10-27）
 
 開始時HEAD1e2d9487cf・クリーン、status/stats61,722/13,528/48,194一致。カイナ造船所1F59行/2F7行、港107行、ファンクラブ102行、計275行59メッセージ追加し61,722/13,803/47,919。4ファイルのカタログpending0。参考107行は英語全文と照合して編集、残り168行は新訳。レビューreviews/dialogue-slateport-facilities-63.review.md。技術の進歩と造船の芸術、ハギの決定/能力/確信、船旅の勧め、Most peopleの範囲、道具交換/バンダナを持たせる指示、会長の反復と感情、なつき度・タウリンを与えた過去の体験を保持。ツガ/ハギろうじん/てんきけんきゅうじょを追加し辞書127語。
 
@@ -117,14 +131,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `ba05c63bff3cd5601c92290bc629134803c48b34`（この後にdocsコミットあり） |
-| カタログ | 61,722候補のうち翻訳済み13,803、pending47,919（完成率ではない） |
+| 最新の翻訳コミット | `08826ced1dd18dcb01985b00f76185eb74c22d0c`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み14,121、pending47,601（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で78件成功 |
-| 最新ビルド | pokeemerald-jp-dlg13803.gba（ROM29,834,568B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-13803-ac863b7a.gba（旧ROM・セーブ保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui13803-ac863b7a-patch.zip / localization/patch-manifest-ui13803.json |
-| Excel | ../outputs/translation-types-13803/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-13803.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg14121.gba（ROM29,831,048B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-14121-ecf33154.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui14121-ecf33154-patch.zip / localization/patch-manifest-ui14121.json |
+| Excel | ../outputs/translation-types-14121/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-14121.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -236,7 +250,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
-1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はカイナの残り/110番道路等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はキンセツ/110番道路の施設等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

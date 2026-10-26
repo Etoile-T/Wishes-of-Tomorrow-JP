@@ -13,3 +13,5 @@
 yomiyasu-check: executed via=verify run=20261026T220502Z-e9ee9fc7 attempt=2 final=sha256:b27622c65e48 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=6 replay=skipped
 
 script_batch→check bad0/26マス超0→update_catalog dry-run/apply→catalog validate・audit超過0・78テスト成功。7ファイルの非.string行は開始時と完全一致。変数・改ページ・スクロール・終端は元行を維持。ロジック/フラグ/セーブ構造不変。実画面・旧コンテスト会話の到達性・対戦/受領/評価/命名/交換/進行/保存は未検証。ビルドと成果物は別途記録。
+
+成果物: ../outputs/gba/wishes-jp-14121-ecf33154.gba、SHA256 da4038b6bb265fa625b468590d75f3d3ca438abb0472191d1db7c17a60a3ef1c。新規build/emerald-jp-dlg14121-cleanでビルドexit0。ROM29,831,048B/EWRAM230,024B/IWRAM28,600B。BPS再適用SHA/CRCと全バイト一致。Excel14シート・62,429行11列、132語、全原文/訳文/ID/状態/メモと目次62,429/14,828/47,601を保存後照合。旧メモ0件維持。実Excelアプリ・ゲーム実画面は未確認。

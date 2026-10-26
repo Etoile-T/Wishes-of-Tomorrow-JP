@@ -1266,8 +1266,8 @@
       "map": "Route110",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 163,
-      "translated": 0,
+      "pending": 0,
+      "translated": 163,
       "outgoing": [
         "MauvilleCity",
         "NewMauville_Entrance",
@@ -1352,8 +1352,8 @@
       "map": "SlateportCity_BattleTentLobby",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 23,
-      "translated": 0,
+      "pending": 0,
+      "translated": 23,
       "outgoing": [
         "SlateportCity",
         "SlateportCity_BattleTentCorridor"
@@ -1363,8 +1363,8 @@
       "map": "SlateportCity_House",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 8,
-      "translated": 0,
+      "pending": 0,
+      "translated": 8,
       "outgoing": [
         "SlateportCity"
       ]
@@ -1373,8 +1373,8 @@
       "map": "SlateportCity_Mart",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 8,
-      "translated": 0,
+      "pending": 0,
+      "translated": 8,
       "outgoing": [
         "SlateportCity"
       ]
@@ -1383,8 +1383,8 @@
       "map": "SlateportCity_NameRatersHouse",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 30,
-      "translated": 0,
+      "pending": 0,
+      "translated": 30,
       "outgoing": [
         "SlateportCity"
       ]
@@ -1404,8 +1404,8 @@
       "map": "SlateportCity_PokemonCenter_1F",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "SlateportCity",
         "SlateportCity_PokemonCenter_2F"
@@ -1873,8 +1873,8 @@
       "map": "SlateportCity_BattleTentCorridor",
       "depth": 12,
       "via": "SlateportCity_BattleTentLobby",
-      "pending": 76,
-      "translated": 0,
+      "pending": 0,
+      "translated": 76,
       "outgoing": [
         "SlateportCity_BattleTentBattleRoom"
       ]
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 12044,
-  "translated_map_rows": 5311
+  "pending_map_rows": 11726,
+  "translated_map_rows": 5629
 }

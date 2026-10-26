@@ -402654,9 +402654,15 @@
     "end": 12585,
     "raw": "\"UNCLE: It's because of POKéMON that\\n\"",
     "source": "UNCLE: It's because of POKéMON that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おじさん: このこは ポケモンの おかげで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f2642fb3dc160271",
@@ -402666,9 +402672,15 @@
     "end": 12634,
     "raw": "\"this boy's got more pep, I suppose…\\l\"",
     "source": "this boy's got more pep, I suppose…\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げんきに なれたような もんだけど\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5c0d2bf01b5f6b06",
@@ -402678,9 +402690,15 @@
     "end": 12679,
     "raw": "\"But he's become a bit too peppy…$\"",
     "source": "But he's become a bit too peppy…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょっと げんきに なりすぎ なんだ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7525808ef8d5f580",
@@ -402690,9 +402708,15 @@
     "end": 12763,
     "raw": "\"WALLY: Aww, UNCLE, please?\\p\"",
     "source": "WALLY: Aww, UNCLE, please?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: おじさん おねがい だから!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9214cdf6d4f0f0ce",
@@ -402702,9 +402726,15 @@
     "end": 12813,
     "raw": "\"I want to challenge this GYM and see\\n\"",
     "source": "I want to challenge this GYM and see\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんが どれくらい つよくなったか\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d03ff2aae548c8c9",
@@ -402714,9 +402744,15 @@
     "end": 12855,
     "raw": "\"how much better I've become.\\p\"",
     "source": "how much better I've become.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "このジムで ためして みたいんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4de650eaa9746436",
@@ -402726,9 +402762,15 @@
     "end": 12890,
     "raw": "\"Please? May I, please?$\"",
     "source": "Please? May I, please?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ね ね いいでしょう!?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4671bf4011756b52",
@@ -402738,9 +402780,13 @@
     "end": 12970,
     "raw": "\"UNCLE: Now hold on, WALLY.\\p\"",
     "source": "UNCLE: Now hold on, WALLY.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おじさん: まあ まちなさい ミツル。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "baf2b0f325b06bdb",
@@ -402750,9 +402796,13 @@
     "end": 13022,
     "raw": "\"Since you started living with POKéMON,\\n\"",
     "source": "Since you started living with POKéMON,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンと くらすように なってから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "21c22bd44a96a037",
@@ -402762,9 +402812,13 @@
     "end": 13072,
     "raw": "\"you have grown quite a lot stronger.\\p\"",
     "source": "you have grown quite a lot stronger.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずいぶん つよくなったのは たしかだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e6c09782c08da040",
@@ -402774,9 +402828,13 @@
     "end": 13123,
     "raw": "\"But don't you think you're pushing it\\n\"",
     "source": "But don't you think you're pushing it\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも いきなり ジムに ちょうせんするのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "716875d678a14bba",
@@ -402786,9 +402844,13 @@
     "end": 13164,
     "raw": "\"to suddenly challenge a GYM?$\"",
     "source": "to suddenly challenge a GYM?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むりを していると おもわないかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2f890f93c5078372",
@@ -402798,9 +402860,15 @@
     "end": 13245,
     "raw": "\"WALLY: I'm not pushing it.\\p\"",
     "source": "WALLY: I'm not pushing it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: むり なんか してません\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1e76ab598538b90f",
@@ -402810,9 +402878,15 @@
     "end": 13290,
     "raw": "\"If I combine forces with RALTS,\\n\"",
     "source": "If I combine forces with RALTS,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくと ラルトスが ちからを あわせれば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "61c59d7a7525ca65",
@@ -402822,9 +402896,15 @@
     "end": 13322,
     "raw": "\"we can beat anyone!$\"",
     "source": "we can beat anyone!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれにだって かてるんです!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "36e83cbd8f341879",
@@ -402834,9 +402914,13 @@
     "end": 13401,
     "raw": "\"WALLY: Oh! Hi, {PLAYER}!\\p\"",
     "source": "WALLY: Oh! Hi, {PLAYER}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: あっ! {ENG}{PLAYER}{JPN}さん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "72cde1fbce139129",
@@ -402846,9 +402930,13 @@
     "end": 13447,
     "raw": "\"I've gotten a lot stronger since\\n\"",
     "source": "I've gotten a lot stronger since\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼく であったころより\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "543881e45263aa3b",
@@ -402858,9 +402946,13 @@
     "end": 13468,
     "raw": "\"we met.\\p\"",
     "source": "we met.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずっと つよくなったんです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0511d19c9d964e33",
@@ -402870,9 +402962,13 @@
     "end": 13518,
     "raw": "\"{PLAYER}, I want you and my UNCLE to\\n\"",
     "source": "{PLAYER}, I want you and my UNCLE to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}さんと おじさんに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e530ce2cdca95d4",
@@ -402882,9 +402978,13 @@
     "end": 13548,
     "raw": "\"understand that.\\p\"",
     "source": "understand that.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それを わかって ほしいんです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe639546139586f0",
@@ -402894,9 +402994,13 @@
     "end": 13593,
     "raw": "\"{PLAYER}, please, will you have\\n\"",
     "source": "{PLAYER}, please, will you have\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}さん おねがいです。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "518758542f18eed9",
@@ -402906,9 +403010,13 @@
     "end": 13623,
     "raw": "\"a battle with me?$\"",
     "source": "a battle with me?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくと しょうぶ してくれませんか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "61786f9355379a77",
@@ -402918,9 +403026,13 @@
     "end": 13720,
     "raw": "\"WALLY: Oh… If you won't battle me,\\n\"",
     "source": "WALLY: Oh… If you won't battle me,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: ああ… しょうぶ してくれないと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33a6909de3598b82",
@@ -402930,9 +403042,13 @@
     "end": 13773,
     "raw": "\"{PLAYER}, my UNCLE won't know that I've\\l\"",
     "source": "{PLAYER}, my UNCLE won't know that I've\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}さん ぼくが つよくなったことを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1e3e846f24c61d74",
@@ -402942,9 +403058,13 @@
     "end": 13807,
     "raw": "\"become really strong.$\"",
     "source": "become really strong.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おじさんに わかって もらえません。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "38de46b2a1f0da7c",
@@ -402954,9 +403074,15 @@
     "end": 13893,
     "raw": "\"UNCLE: {PLAYER}{KUN}, was it?\\n\"",
     "source": "UNCLE: {PLAYER}{KUN}, was it?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おじさん: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}とやら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3d7138c0efb6df85",
@@ -402966,9 +403092,15 @@
     "end": 13942,
     "raw": "\"On WALLY's behalf, can I ask you to\\l\"",
     "source": "On WALLY's behalf, can I ask you to\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わるいけど ミツルくんと\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e9fa97b2caaef802",
@@ -402978,9 +403110,15 @@
     "end": 13987,
     "raw": "\"battle with him just this once?\\p\"",
     "source": "battle with him just this once?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちどだけ しょうぶ してくれないかな?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e4959a3393ba0bf5",
@@ -402990,9 +403128,15 @@
     "end": 14038,
     "raw": "\"I don't think he's going to listen to\\n\"",
     "source": "I don't think he's going to listen to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "このままだと なにを いっても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "153702d092fb4e96",
@@ -403002,9 +403146,15 @@
     "end": 14080,
     "raw": "\"any reason the way he is now.$\"",
     "source": "any reason the way he is now.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きいて もらえそうに ないよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "47bb64e757c7888a",
@@ -403014,9 +403164,15 @@
     "end": 14158,
     "raw": "\"WALLY: {PLAYER}, please!\\n\"",
     "source": "WALLY: {PLAYER}, please!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: {ENG}{PLAYER}{JPN}さん おねがいです!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b9d21e4fe1b9caae",
@@ -403026,9 +403182,15 @@
     "end": 14194,
     "raw": "\"Battle with me, please.$\"",
     "source": "Battle with me, please.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくと しょうぶ してください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2c989ee82c41fb56",
@@ -403038,9 +403200,15 @@
     "end": 14270,
     "raw": "\"WALLY: {PLAYER}, thank you.\\p\"",
     "source": "WALLY: {PLAYER}, thank you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: ありがとう {ENG}{PLAYER}{JPN}さん\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9f9993f38688e003",
@@ -403050,9 +403218,15 @@
     "end": 14301,
     "raw": "\"Okay… Here I come!$\"",
     "source": "Okay… Here I come!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでは…… いきますね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "52dd7c0ef53f33a5",
@@ -403062,9 +403236,15 @@
     "end": 14367,
     "raw": "\"WALLY: … … … … … … …\\p\"",
     "source": "WALLY: … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0515c2a2d69382f9",
@@ -403074,9 +403254,15 @@
     "end": 14396,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b34b8534dc02dd72",
@@ -403086,9 +403272,15 @@
     "end": 14416,
     "raw": "\"I lost…$\"",
     "source": "I lost…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくの まけ です……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d584bb787334658f",
@@ -403098,9 +403290,15 @@
     "end": 14490,
     "raw": "\"WALLY: UNCLE…\\n\"",
     "source": "WALLY: UNCLE…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: おじさん……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b353b431f96b0c42",
@@ -403110,9 +403308,15 @@
     "end": 14530,
     "raw": "\"I'll go back to VERDANTURF…$\"",
     "source": "I'll go back to VERDANTURF…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼく シダケに もどります。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d2afb1d971f05e2f",
@@ -403122,9 +403326,15 @@
     "end": 14610,
     "raw": "\"{PLAYER}, thank you.\\n\"",
     "source": "{PLAYER}, thank you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}さん ありがとう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "16847606fc747381",
@@ -403134,9 +403344,15 @@
     "end": 14659,
     "raw": "\"Being a TRAINER is tough, isn't it?\\p\"",
     "source": "Being a TRAINER is tough, isn't it?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トレーナーって むずかしいんですね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f8bcdea1789dcd1e",
@@ -403146,9 +403362,15 @@
     "end": 14709,
     "raw": "\"It's not enough just to have POKéMON\\n\"",
     "source": "It's not enough just to have POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ただ ポケモンを もっていて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "aee0a02ceec97827",
@@ -403158,9 +403380,15 @@
     "end": 14760,
     "raw": "\"and make them battle. That isn't what\\l\"",
     "source": "and make them battle. That isn't what\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たたかわせる だけじゃ ほんとうの いみで\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0f8ff478151678c7",
@@ -403170,9 +403398,15 @@
     "end": 14803,
     "raw": "\"being a real TRAINER is about.$\"",
     "source": "being a real TRAINER is about.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トレーナーには なれないんだ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "483ddb3a489573e8",
@@ -403182,9 +403416,15 @@
     "end": 14895,
     "raw": "\"UNCLE: WALLY, there's no need to be so\\n\"",
     "source": "UNCLE: WALLY, there's no need to be so\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おじさん: ミツルくん\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1d24457315248a24",
@@ -403194,9 +403434,15 @@
     "end": 14926,
     "raw": "\"down on yourself.\\p\"",
     "source": "down on yourself.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そんなに しょげることは ないよ\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5d0f6daf1853bfbc",
@@ -403206,9 +403452,15 @@
     "end": 14977,
     "raw": "\"Why, what's keeping you from becoming\\n\"",
     "source": "Why, what's keeping you from becoming\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これから もっともっと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4147e5afdeca1314",
@@ -403218,9 +403470,15 @@
     "end": 15013,
     "raw": "\"stronger and stronger?\\p\"",
     "source": "stronger and stronger?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つよくなるのを じゃまするものは あるかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6c1e4c482a21cafe",
@@ -403230,9 +403488,15 @@
     "end": 15050,
     "raw": "\"Come on, let's go home.\\n\"",
     "source": "Come on, let's go home.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さあ うちに かえろう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ff051bfafc63e895",
@@ -403242,9 +403506,15 @@
     "end": 15090,
     "raw": "\"Everyone's waiting for you.$\"",
     "source": "Everyone's waiting for you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんな まってるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "57918420e13e38d5",
@@ -403254,9 +403524,13 @@
     "end": 15187,
     "raw": "\"UNCLE: {PLAYER}{KUN}, it just dawned on me\\n\"",
     "source": "UNCLE: {PLAYER}{KUN}, it just dawned on me\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おじさん: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} そうか!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "beacc8e735fa90e3",
@@ -403266,9 +403540,13 @@
     "end": 15238,
     "raw": "\"that you must be the TRAINER who kept\\l\"",
     "source": "that you must be the TRAINER who kept\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみが あの トレーナー なんだね。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e342502cd4f81a3f",
@@ -403278,9 +403556,13 @@
     "end": 15287,
     "raw": "\"an eye out for WALLY when he caught\\l\"",
     "source": "an eye out for WALLY when he caught\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルが ポケモンを つかまえるとき\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57e5543e705e30d7",
@@ -403290,9 +403572,13 @@
     "end": 15313,
     "raw": "\"his POKéMON.\\p\"",
     "source": "his POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みまもって くれたという。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "509022d59412cd1f",
@@ -403302,9 +403588,13 @@
     "end": 15363,
     "raw": "\"Why don't you visit us in VERDANTURF\\n\"",
     "source": "Why don't you visit us in VERDANTURF\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつか シダケの わたしたちの いえへ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4e3be435bf13a7a9",
@@ -403314,9 +403604,13 @@
     "end": 15386,
     "raw": "\"sometime?\\l\"",
     "source": "sometime?\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あそびに こないかい?\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29344338958b4f25",
@@ -403326,9 +403620,13 @@
     "end": 15429,
     "raw": "\"I'm sure WALLY would enjoy it.$\"",
     "source": "I'm sure WALLY would enjoy it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルも きっと よろこぶよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "882002835f65b8c3",
@@ -403338,9 +403636,13 @@
     "end": 15492,
     "raw": "\"… … … … … …\\n\"",
     "source": "… … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}… … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9de43f2df14815d0",
@@ -403350,9 +403652,13 @@
     "end": 15521,
     "raw": "\"… … … … … Beep!\\p\"",
     "source": "… … … … … Beep!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … ピッ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e8b62b779ce5b57a",
@@ -403362,9 +403668,13 @@
     "end": 15562,
     "raw": "\"WALLY: Oh, hello, {PLAYER}!\\p\"",
     "source": "WALLY: Oh, hello, {PLAYER}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツル: あっ {ENG}{PLAYER}{JPN}さん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3bdfbb07fea094fe",
@@ -403374,9 +403684,13 @@
     "end": 15606,
     "raw": "\"I just wanted to tell you that\\n\"",
     "source": "I just wanted to tell you that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おじさんが ポケナビを かってくれたんです!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "04dabfb1c11b2fc6",
@@ -403386,9 +403700,13 @@
     "end": 15649,
     "raw": "\"my uncle bought me a POKéNAV!\\p\"",
     "source": "my uncle bought me a POKéNAV!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それを つたえたくて!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b58a2c77242b05a",
@@ -403398,9 +403716,13 @@
     "end": 15694,
     "raw": "\"Now I can get in touch with you\\n\"",
     "source": "Now I can get in touch with you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これで いつでも れんらく できますね\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d9f65faddf6f66c8",
@@ -403410,9 +403732,13 @@
     "end": 15726,
     "raw": "\"anytime, {PLAYER}!\\p\"",
     "source": "anytime, {PLAYER}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}さん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "baa11da04aa9277c",
@@ -403422,9 +403748,13 @@
     "end": 15751,
     "raw": "\"… … … … … …\\n\"",
     "source": "… … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "303304e1a7ef9a36",
@@ -403434,9 +403764,13 @@
     "end": 15780,
     "raw": "\"… … … … … Click!$\"",
     "source": "… … … … … Click!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … プツッ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2bd3abdc810c7d9c",
@@ -403446,9 +403780,15 @@
     "end": 15846,
     "raw": "\"Registered WALLY\\n\"",
     "source": "Registered WALLY\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツルを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "aed725ad0e9a2c9d",
@@ -403458,9 +403798,15 @@
     "end": 15874,
     "raw": "\"in the POKéNAV.$\"",
     "source": "in the POKéNAV.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケナビに とうろく した!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "24d1f99fbfb966f8",
@@ -403470,9 +403816,13 @@
     "end": 15942,
     "raw": "\"SCOTT: Hehe…\\n\"",
     "source": "SCOTT: Hehe…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: ふふ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d23b59169030ba87",
@@ -403482,9 +403832,13 @@
     "end": 15982,
     "raw": "\"I was watching that match!\\p\"",
     "source": "I was watching that match!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さっきの しょうぶを みていたよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8f5775d1cc3ee7c5",
@@ -403494,9 +403848,13 @@
     "end": 16031,
     "raw": "\"You're friends with that boy WALLY,\\n\"",
     "source": "You're friends with that boy WALLY,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルくんとは ともだち\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1e55478fb0f24dd6",
@@ -403506,9 +403864,13 @@
     "end": 16056,
     "raw": "\"aren't you?\\p\"",
     "source": "aren't you?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんだろう?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ab2924c35a00080",
@@ -403518,9 +403880,13 @@
     "end": 16103,
     "raw": "\"But you didn't hold anything back\\n\"",
     "source": "But you didn't hold anything back\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでも いっさい てかげんせず\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "55b031bdc6d196ff",
@@ -403530,9 +403896,13 @@
     "end": 16143,
     "raw": "\"and beat him impressively.\\p\"",
     "source": "and beat him impressively.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みごとに かって みせたね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0abcf1879b77c6f",
@@ -403542,9 +403912,13 @@
     "end": 16189,
     "raw": "\"Yeah! That's what a real POKéMON\\n\"",
     "source": "Yeah! That's what a real POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そう! それこそが ほんとうの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d29f80d2cd37d8b0",
@@ -403554,9 +403928,13 @@
     "end": 16223,
     "raw": "\"battle is all about!\\p\"",
     "source": "battle is all about!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンしょうぶと いうものだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d41bff8a09003e30",
@@ -403566,9 +403944,13 @@
     "end": 16266,
     "raw": "\"I idolize TRAINERS like that!\\p\"",
     "source": "I idolize TRAINERS like that!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは そういう トレーナーに あこがれるよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "15daec12f6a25846",
@@ -403578,9 +403960,13 @@
     "end": 16291,
     "raw": "\"… … … … … …\\n\"",
     "source": "… … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "87cd10bd1e9bdde2",
@@ -403590,9 +403976,13 @@
     "end": 16329,
     "raw": "\"I'll be cheering for you!$\"",
     "source": "I'll be cheering for you!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみを おうえん しているよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c0542d33dee01c6e",
@@ -403602,9 +403992,13 @@
     "end": 16414,
     "raw": "\"WATTSON: Oh, {PLAYER}{KUN}!\\n\"",
     "source": "WATTSON: Oh, {PLAYER}{KUN}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}テッセン: おお {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d55a6459e7663f9f",
@@ -403614,9 +404008,13 @@
     "end": 16464,
     "raw": "\"You look like you have a lot of zip!\\l\"",
     "source": "You look like you have a lot of zip!\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げんき いっぱいの ようじゃな!\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4653b31631b4e724",
@@ -403626,9 +404024,13 @@
     "end": 16510,
     "raw": "\"That's a good thing, wahahahaha!\\p\"",
     "source": "That's a good thing, wahahahaha!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいことじゃ わっはははは!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "425fb5296f758df0",
@@ -403638,9 +404040,13 @@
     "end": 16543,
     "raw": "\"Fine! I've decided!\\n\"",
     "source": "Fine! I've decided!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よし! きめた!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33e3972a30fe84bd",
@@ -403650,9 +404056,13 @@
     "end": 16587,
     "raw": "\"I need a favor, {PLAYER}{KUN}!\\p\"",
     "source": "I need a favor, {PLAYER}{KUN}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}に おねがいが あるぞい!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "995ee956dff36488",
@@ -403662,9 +404072,13 @@
     "end": 16633,
     "raw": "\"MAUVILLE CITY has an underground\\n\"",
     "source": "MAUVILLE CITY has an underground\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "キンセツシティには ニューキンセツという\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9f0761750859d3d6",
@@ -403674,9 +404088,13 @@
     "end": 16674,
     "raw": "\"sector called NEW MAUVILLE.\\p\"",
     "source": "sector called NEW MAUVILLE.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちかの くかくが あるんじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5eff096e31087c6f",
@@ -403686,9 +404104,13 @@
     "end": 16731,
     "raw": "\"{PLAYER}{KUN}, I'd like you to go there and\\n\"",
     "source": "{PLAYER}{KUN}, I'd like you to go there and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}に そこへ いって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "23d9d07dd7b97461",
@@ -403698,9 +404120,13 @@
     "end": 16770,
     "raw": "\"switch off the GENERATOR.\\p\"",
     "source": "switch off the GENERATOR.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はつでんそうちを とめてきて ほしいのじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "037a92e9cdcb3cdc",
@@ -403710,9 +404136,13 @@
     "end": 16820,
     "raw": "\"The GENERATOR has been running a bit\\n\"",
     "source": "The GENERATOR has been running a bit\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はつでんそうちが すこし ぼうそうぎみで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d27dbc301cc5c77",
@@ -403722,9 +404152,13 @@
     "end": 16863,
     "raw": "\"haywire. It's getting unsafe.\\p\"",
     "source": "haywire. It's getting unsafe.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あぶなく なってきて おるんじゃよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "56711ae5040e3ad9",
@@ -403734,9 +404168,13 @@
     "end": 16910,
     "raw": "\"Here, this is the KEY to get into\\n\"",
     "source": "Here, this is the KEY to get into\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほら これが ニューキンセツに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54814ddbac9c2c4c",
@@ -403746,9 +404184,13 @@
     "end": 16936,
     "raw": "\"NEW MAUVILLE.$\"",
     "source": "NEW MAUVILLE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいるための カギじゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a69fecfdd045c89e",
@@ -403758,9 +404200,13 @@
     "end": 17027,
     "raw": "\"WATTSON: Don't you worry about it.\\n\"",
     "source": "WATTSON: Don't you worry about it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}テッセン: なあに しんぱいは いらん。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5fcade0920054663",
@@ -403770,9 +404216,13 @@
     "end": 17072,
     "raw": "\"It won't be a challenge to you.\\p\"",
     "source": "It won't be a challenge to you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみなら なんてこと ないじゃろう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6399fca205e82358",
@@ -403782,9 +404232,13 @@
     "end": 17122,
     "raw": "\"The entrance to NEW MAUVILLE is just\\n\"",
     "source": "The entrance to NEW MAUVILLE is just\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ニューキンセツの いりぐちは 110ばんどうろから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "caa66aa83c55129e",
@@ -403794,9 +404248,13 @@
     "end": 17169,
     "raw": "\"a short SURF away from ROUTE 110.\\p\"",
     "source": "a short SURF away from ROUTE 110.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すこし なみのりした ところじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f1b3d46d447beec0",
@@ -403806,9 +404264,13 @@
     "end": 17218,
     "raw": "\"That's it, then, you have my trust!\\n\"",
     "source": "That's it, then, you have my trust!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それじゃ しんらい しておるぞ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a6827cda3cffd28c",
@@ -403818,9 +404280,13 @@
     "end": 17242,
     "raw": "\"Wahahahaha!$\"",
     "source": "Wahahahaha!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わっはははは!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "935d8d5f3dd19cda",
@@ -403830,9 +404296,13 @@
     "end": 17316,
     "raw": "\"WATTSON: Wahahahaha!\\p\"",
     "source": "WATTSON: Wahahahaha!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}テッセン: わっはははは!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "72737da642ed8d72",
@@ -403842,9 +404312,13 @@
     "end": 17371,
     "raw": "\"I knew it, {PLAYER}{KUN}! I knew I'd made\\n\"",
     "source": "I knew it, {PLAYER}{KUN}! I knew I'd made\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やはりな {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f0400d9946277968",
@@ -403854,9 +404328,13 @@
     "end": 17413,
     "raw": "\"the right choice asking you!\\p\"",
     "source": "the right choice asking you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみに たのんで せいかいじゃった!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b460ab1eab097e1",
@@ -403866,9 +404344,13 @@
     "end": 17461,
     "raw": "\"This is my thanks--a TM containing\\n\"",
     "source": "This is my thanks--a TM containing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれいに 10まんボルトの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "908dd9d08ee1e372",
@@ -403878,9 +404360,13 @@
     "end": 17487,
     "raw": "\"THUNDERBOLT!\\p\"",
     "source": "THUNDERBOLT!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいった わざマシンを やろう!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d23c45213f9a8cac",
@@ -403890,9 +404376,13 @@
     "end": 17524,
     "raw": "\"Go on, you've earned it!$\"",
     "source": "Go on, you've earned it!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えんりょ するな! きみの てがらじゃ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c396344df8ce4e21",
@@ -403902,9 +404392,15 @@
     "end": 17601,
     "raw": "\"WATTSON: Wahahahaha!\\p\"",
     "source": "WATTSON: Wahahahaha!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}テッセン: わっはははは!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ccb9960c8fdc8104",
@@ -403914,9 +404410,15 @@
     "end": 17645,
     "raw": "\"It pleases me to no end to see\\n\"",
     "source": "It pleases me to no end to see\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わかものが みずから すすんで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d29879bdf66e693f",
@@ -403926,9 +404428,15 @@
     "end": 17692,
     "raw": "\"the young step up and take charge!$\"",
     "source": "the young step up and take charge!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひっぱっていくのは なんとも うれしいのう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b4159a98c66bab96",
@@ -403938,9 +404446,13 @@
     "end": 17786,
     "raw": "\"You know, it's cool to have POKéMON\\n\"",
     "source": "You know, it's cool to have POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンしょうぶ なんかを するのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "403a1f7ae36499c4",
@@ -403950,9 +404462,13 @@
     "end": 17818,
     "raw": "\"battles and stuff…\\p\"",
     "source": "battles and stuff…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいこと だけどさ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd825ebd1242372a",
@@ -403962,9 +404478,13 @@
     "end": 17862,
     "raw": "\"But if your POKéMON gets hurt,\\n\"",
     "source": "But if your POKéMON gets hurt,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが きずついたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "763c88d0c6227129",
@@ -403974,9 +404494,13 @@
     "end": 17911,
     "raw": "\"you have to nurse it back to health.$\"",
     "source": "you have to nurse it back to health.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げんきに なるまで かんびょう しなくちゃね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "20f46cd03c1b5c8d",
@@ -403986,9 +404510,13 @@
     "end": 18009,
     "raw": "\"The roads of this town stretch north\\n\"",
     "source": "The roads of this town stretch north\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この まちの みちは きたと みなみ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "557df00a36c7ddb7",
@@ -403998,9 +404526,13 @@
     "end": 18052,
     "raw": "\"and south, and east and west.\\p\"",
     "source": "and south, and east and west.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひがしと にしへ のびている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dabe0be37a0f7798",
@@ -404010,9 +404542,13 @@
     "end": 18102,
     "raw": "\"Because of that, we get all sorts of\\n\"",
     "source": "Because of that, we get all sorts of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから いろんな ひとが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "451fbe7940fc7f6c",
@@ -404022,9 +404558,13 @@
     "end": 18137,
     "raw": "\"people coming through.$\"",
     "source": "people coming through.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とおって いくんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "99a0d55389360d0a",
@@ -404034,9 +404574,13 @@
     "end": 18225,
     "raw": "\"Have you been to RYDEL'S CYCLES yet?\\p\"",
     "source": "Have you been to RYDEL'S CYCLES yet?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カゼノの じてんしゃやには もう いった?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5b93c9c5476d66a5",
@@ -404046,9 +404590,13 @@
     "end": 18275,
     "raw": "\"RYDEL, the owner, is a very generous\\n\"",
     "source": "RYDEL, the owner, is a very generous\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てんしゅの カゼノさんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "243f8a695355dc7c",
@@ -404058,9 +404606,13 @@
     "end": 18292,
     "raw": "\"man.$\"",
     "source": "man.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とても きまえの いい ひとだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e5ac108ff566b44",
@@ -404070,9 +404622,15 @@
     "end": 18379,
     "raw": "\"Even if you're riding a BIKE,\\n\"",
     "source": "Even if you're riding a BIKE,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じてんしゃに のっていても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "230582192beec934",
@@ -404082,9 +404640,15 @@
     "end": 18420,
     "raw": "\"wild POKéMON could jump you.$\"",
     "source": "wild POKéMON could jump you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やせいの ポケモンは とびだしてくるよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "43108401e7bfdefc",
@@ -404094,9 +404658,15 @@
     "end": 18476,
     "raw": "\"MAUVILLE CITY\\n\"",
     "source": "MAUVILLE CITY\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは キンセツ シティ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ffb42b890c7ed5db",
@@ -404106,9 +404676,15 @@
     "end": 18524,
     "raw": "\"“The bright and shiny city of fun!”$\"",
     "source": "“The bright and shiny city of fun!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あかるく かがやく たのしい まち。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d73b140bd34297a2",
@@ -404118,9 +404694,15 @@
     "end": 18591,
     "raw": "\"MAUVILLE CITY POKéMON GYM\\n\"",
     "source": "MAUVILLE CITY POKéMON GYM\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}キンセツ シティ ポケモンジム\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e83141eed4a3d80f",
@@ -404130,9 +404712,15 @@
     "end": 18620,
     "raw": "\"LEADER: WATTSON\\l\"",
     "source": "LEADER: WATTSON\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リーダー テッセン\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "37a04021216b8185",
@@ -404142,9 +404730,15 @@
     "end": 18667,
     "raw": "\"“The cheerfully electrifying man!”$\"",
     "source": "“The cheerfully electrifying man!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あっかるい でんげき オヤジ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e8853565454a5f97",
@@ -404154,9 +404748,13 @@
     "end": 18747,
     "raw": "\"“Ride in gravel and shake up your\\n\"",
     "source": "“Ride in gravel and shake up your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「じゃりみちを はしって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1ac1dbf3b3a5775",
@@ -404166,9 +404764,13 @@
     "end": 18767,
     "raw": "\"soul!”\\l\"",
     "source": "soul!”\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たましいを ゆさぶれ!」\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6df908e460a68306",
@@ -404178,9 +404780,13 @@
     "end": 18794,
     "raw": "\"RYDEL'S CYCLES$\"",
     "source": "RYDEL'S CYCLES$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カゼノの じてんしゃや$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef51fdb92c9f0d5c",
@@ -404190,9 +404796,15 @@
     "end": 18867,
     "raw": "\"“The play spot for all!”\\n\"",
     "source": "“The play spot for all!”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}だれもが あそべる すてきな スポット!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "00e6d4f50b53f301",
@@ -404202,9 +404814,15 @@
     "end": 18900,
     "raw": "\"MAUVILLE GAME CORNER$\"",
     "source": "MAUVILLE GAME CORNER$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「キンセツ ゲームコーナー」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "422586874d690d57",
@@ -404214,9 +404832,13 @@
     "end": 18975,
     "raw": "\"Hi, do you check out TV at all?\\p\"",
     "source": "Hi, do you check out TV at all?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やあ テレビは みてるかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bdba6a567157d051",
@@ -404226,9 +404848,13 @@
     "end": 19022,
     "raw": "\"They've added a bunch of cool new\\n\"",
     "source": "They've added a bunch of cool new\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さいきん おもしろい あたらしい ばんぐみが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7d525863a47bff68",
@@ -404238,9 +404864,13 @@
     "end": 19051,
     "raw": "\"shows recently.\\p\"",
     "source": "shows recently.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たくさん ふえたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8111429117e4094b",
@@ -404250,9 +404880,13 @@
     "end": 19103,
     "raw": "\"TV is so cool. I've seen my friends on\\n\"",
     "source": "TV is so cool. I've seen my friends on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "テレビって いいよね。いきなり ともだちが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2a5c2e1bcb25c0c0",
@@ -404262,9 +404896,13 @@
     "end": 19141,
     "raw": "\"TV just out of the blue.\\p\"",
     "source": "TV just out of the blue.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うつっていたことも あるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e3d1162c25abc26",
@@ -404274,9 +404912,13 @@
     "end": 19194,
     "raw": "\"And, sometimes, they even put you on TV\\n\"",
     "source": "And, sometimes, they even put you on TV\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それに ほんにんに しらせずに テレビに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c2c27f6d5f8d6d25",
@@ -404286,9 +404928,13 @@
     "end": 19228,
     "raw": "\"without telling you.\\p\"",
     "source": "without telling you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うつしちゃうことも あるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "86d07ab7f615a7bf",
@@ -404298,9 +404944,13 @@
     "end": 19275,
     "raw": "\"I wish I would be on TV sometime.\\p\"",
     "source": "I wish I would be on TV sometime.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつか テレビに でられたらなあ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a1f9b4a88e19a7e8",
@@ -404310,9 +404960,13 @@
     "end": 19324,
     "raw": "\"That's why I think you should check\\n\"",
     "source": "That's why I think you should check\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから できるだけ テレビを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c21c2668a707bcff",
@@ -404322,9 +404976,13 @@
     "end": 19362,
     "raw": "\"out TVs whenever you can.$\"",
     "source": "out TVs whenever you can.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みておくと いいと おもうよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fa06a3e5cf768950",
@@ -404334,9 +404992,13 @@
     "end": 19448,
     "raw": "\"Hi, have you been checking out TVs?$\"",
     "source": "Hi, have you been checking out TVs?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やあ テレビは みてるかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8b9173cc5eb8aded",
@@ -479689,9 +480351,15 @@
     "end": 1947,
     "raw": "\"On CYCLING ROAD, you can go all out\\n\"",
     "source": "On CYCLING ROAD, you can go all out\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}サイクリング ロードでは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e59acea0dd12e055",
@@ -479701,9 +480369,15 @@
     "end": 1993,
     "raw": "\"and cycle as fast as you'd like.\\p\"",
     "source": "and cycle as fast as you'd like.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもいっきり スピードを だせるんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "49577baf00bc0a2b",
@@ -479713,9 +480387,15 @@
     "end": 2046,
     "raw": "\"It feels great to go that fast, but try\\n\"",
     "source": "It feels great to go that fast, but try\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はやく はしるのは すごく きもちいいけど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b39fd56e0e7bc9d0",
@@ -479725,9 +480405,15 @@
     "end": 2084,
     "raw": "\"not to crash into anyone!$\"",
     "source": "not to crash into anyone!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれにも ぶつからないように な!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "39d4ca0a1d011691",
@@ -479737,9 +480423,13 @@
     "end": 2197,
     "raw": "\"Sorry, you can't walk on CYCLING\\n\"",
     "source": "Sorry, you can't walk on CYCLING\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}すみませんが サイクリングロードは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c1620d7b78d5d489",
@@ -479749,9 +480439,13 @@
     "end": 2236,
     "raw": "\"ROAD. It's too dangerous.\\p\"",
     "source": "ROAD. It's too dangerous.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きけんなので あるいて とおれません。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "285130e8c4673768",
@@ -479761,9 +480455,13 @@
     "end": 2278,
     "raw": "\"Please come back with a BIKE.$\"",
     "source": "Please come back with a BIKE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じてんしゃで また きてください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29d9b82660520ca7",
@@ -479773,9 +480471,15 @@
     "end": 1202,
     "raw": "\"On CYCLING ROAD, you can go all out\\n\"",
     "source": "On CYCLING ROAD, you can go all out\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}サイクリング ロードでは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "72ec25a7b382df93",
@@ -479785,9 +480489,15 @@
     "end": 1248,
     "raw": "\"and cycle as fast as you'd like.\\p\"",
     "source": "and cycle as fast as you'd like.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもいっきり スピードを だせるんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5789d91ed8af6c4a",
@@ -479797,9 +480507,15 @@
     "end": 1301,
     "raw": "\"It feels great to go that fast, but try\\n\"",
     "source": "It feels great to go that fast, but try\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はやく はしるのは すごく きもちいいけど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bf2f5e827fa6653e",
@@ -479809,9 +480525,15 @@
     "end": 1339,
     "raw": "\"not to crash into anyone!$\"",
     "source": "not to crash into anyone!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれにも ぶつからないように な!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6428d979d58cd858",
@@ -479821,9 +480543,13 @@
     "end": 1452,
     "raw": "\"Sorry, you can't walk on CYCLING\\n\"",
     "source": "Sorry, you can't walk on CYCLING\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}すみませんが サイクリングロードは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1da83d2a83a6753",
@@ -479833,9 +480559,13 @@
     "end": 1491,
     "raw": "\"ROAD. It's too dangerous.\\p\"",
     "source": "ROAD. It's too dangerous.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きけんなので あるいて とおれません。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "59accccbaad24265",
@@ -479845,9 +480575,13 @@
     "end": 1533,
     "raw": "\"Please come back with a BIKE.$\"",
     "source": "Please come back with a BIKE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じてんしゃで また きてください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d91ac4a2c2555d8",
@@ -480733,9 +481467,15 @@
     "end": 26900,
     "raw": "\"You're being watched…$\"",
     "source": "You're being watched…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}だれかの しせんを かんじる…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "189e3793944328af",
@@ -480745,9 +481485,15 @@
     "end": 26980,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "53dc9fa839910775",
@@ -480757,9 +481503,15 @@
     "end": 27029,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが つくえの したに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ef468f29d317b718",
@@ -480769,9 +481521,15 @@
     "end": 27074,
     "raw": "\"beneath this desk? You're sharp!$\"",
     "source": "beneath this desk? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "49c1acd7178108e6",
@@ -480781,9 +481539,15 @@
     "end": 27153,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "055129f86c944f10",
@@ -480793,9 +481557,15 @@
     "end": 27202,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが きの うしろに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "965372dacaba261a",
@@ -480805,9 +481575,15 @@
     "end": 27246,
     "raw": "\"behind this tree? You're sharp!$\"",
     "source": "behind this tree? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "085c4ec21ab9e7b7",
@@ -480817,9 +481593,15 @@
     "end": 27324,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b2219b7336bc6526",
@@ -480829,9 +481611,15 @@
     "end": 27373,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが タンスの なかに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f5e27c656332577f",
@@ -480841,9 +481629,15 @@
     "end": 27416,
     "raw": "\"in this dresser? You're sharp!$\"",
     "source": "in this dresser? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d29244c6b8707b65",
@@ -480853,9 +481647,15 @@
     "end": 27496,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "57dd2bbca28f764f",
@@ -480865,9 +481665,15 @@
     "end": 27545,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが まどの むこうに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "75d5f0d2fec5c122",
@@ -480877,9 +481683,15 @@
     "end": 27591,
     "raw": "\"beyond this window? You're sharp!$\"",
     "source": "beyond this window? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0f4ba91ff1d2bbbe",
@@ -480889,9 +481701,15 @@
     "end": 27669,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a7365f3621571254",
@@ -480901,9 +481719,15 @@
     "end": 27718,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが うえきばちの なかに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8c8cf66bc86f0466",
@@ -480913,9 +481737,15 @@
     "end": 27761,
     "raw": "\"in this planter? You're sharp!$\"",
     "source": "in this planter? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fb1f1c87351c7aaf",
@@ -480925,9 +481755,15 @@
     "end": 27840,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ae90a4630d98f39f",
@@ -480937,9 +481773,15 @@
     "end": 27889,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが とだなの なかに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b85e39b38365b6fd",
@@ -480949,9 +481791,15 @@
     "end": 27933,
     "raw": "\"in this cupboard? You're sharp!$\"",
     "source": "in this cupboard? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "04f39310d840f5a0",
@@ -480961,9 +481809,15 @@
     "end": 28014,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9ac36cd12f4577c1",
@@ -480973,9 +481827,15 @@
     "end": 28063,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが まどの うらに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "207aeef1480ae719",
@@ -480985,9 +481845,15 @@
     "end": 28109,
     "raw": "\"behind this window? You're sharp!$\"",
     "source": "behind this window? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bbfa954e4b7b8ab4",
@@ -480997,9 +481863,15 @@
     "end": 28192,
     "raw": "\"Hah? Grrr…\\p\"",
     "source": "Hah? Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むむ…!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e6ad6dcec7a46867",
@@ -481009,9 +481881,15 @@
     "end": 28241,
     "raw": "\"How did you know I concealed myself\\n\"",
     "source": "How did you know I concealed myself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜ わがはいが ざぶとんの したに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e8e5935849ca5df6",
@@ -481021,9 +481899,15 @@
     "end": 28289,
     "raw": "\"beneath this cushion? You're sharp!$\"",
     "source": "beneath this cushion? You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かくれていると わかった? ……できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "83272bbcf7d20f35",
@@ -481033,9 +481917,15 @@
     "end": 28367,
     "raw": "\"Behold!\\p\"",
     "source": "Behold!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わがはい こそ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e0cc3cce2245ee95",
@@ -481045,9 +481935,15 @@
     "end": 28417,
     "raw": "\"For I am the greatest living mystery\\n\"",
     "source": "For I am the greatest living mystery\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ホウエンちほう さいだいの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0b718840acdb525a",
@@ -481057,9 +481953,15 @@
     "end": 28456,
     "raw": "\"of a man in all of HOENN!\\l\"",
     "source": "of a man in all of HOENN!\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぞの じんぶつ\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "36433dfe193fb269",
@@ -481069,9 +481971,15 @@
     "end": 28483,
     "raw": "\"They call me…\\p\"",
     "source": "They call me…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひと よんで……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4245f211b5ac9ce0",
@@ -481081,9 +481989,15 @@
     "end": 28514,
     "raw": "\"The TRICK MASTER!\\n\"",
     "source": "The TRICK MASTER!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カラクリだいおう!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "00f95c930cf1f4f9",
@@ -481093,9 +482007,15 @@
     "end": 28554,
     "raw": "\"Wahahaha! Glad to meet you!$\"",
     "source": "Wahahaha! Glad to meet you!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わははは! はじめまして!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c5024cf3fd382bce",
@@ -481105,9 +482025,13 @@
     "end": 28658,
     "raw": "\"You, you've come to challenge\\n\"",
     "source": "You, you've come to challenge\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみは わがはいの カラクリやしきに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c1d06dac5410c9e1",
@@ -481117,9 +482041,13 @@
     "end": 28700,
     "raw": "\"my TRICK HOUSE, haven't you?\\p\"",
     "source": "my TRICK HOUSE, haven't you?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうせん しにきたので あろう?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e777dd11cee3282",
@@ -481129,9 +482057,13 @@
     "end": 28747,
     "raw": "\"That's why you're here, isn't it?\\n\"",
     "source": "That's why you're here, isn't it?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから ここに きたのだな?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c7efeb26e84813b",
@@ -481141,9 +482073,13 @@
     "end": 28772,
     "raw": "\"Yes, it is!\\p\"",
     "source": "Yes, it is!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うむ そうに ちがいない!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0f8dd56eef2004d",
@@ -481153,9 +482089,13 @@
     "end": 28819,
     "raw": "\"Consider your challenge accepted!\\p\"",
     "source": "Consider your challenge accepted!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その ちょうせん うけて たとう!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1cf3444e4216beb7",
@@ -481165,9 +482105,13 @@
     "end": 28864,
     "raw": "\"Enter through the scroll there,\\n\"",
     "source": "Enter through the scroll there,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そこにある かけじくから はいって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d22697d39546df6",
@@ -481177,9 +482121,13 @@
     "end": 28910,
     "raw": "\"and let your challenge commence!\\p\"",
     "source": "and let your challenge commence!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうせんを はじめるが いい!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b4233643c56d44bf",
@@ -481189,9 +482137,13 @@
     "end": 28954,
     "raw": "\"I shall be waiting in the back!$\"",
     "source": "I shall be waiting in the back!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おくで まって おるぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24a0cc46c2029259",
@@ -481201,9 +482153,15 @@
     "end": 29027,
     "raw": "\"It's a scroll.$\"",
     "source": "It's a scroll.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かけじくだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a110d477acdbfa4e",
@@ -481213,9 +482171,13 @@
     "end": 29135,
     "raw": "\"There is a big hole behind the scroll!\\p\"",
     "source": "There is a big hole behind the scroll!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かけじくの うらに おおきな あなが ある!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4542a14c37b6b81a",
@@ -481225,9 +482187,13 @@
     "end": 29162,
     "raw": "\"Want to go in?$\"",
     "source": "Want to go in?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかに はいりますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8cd4e87b37274bae",
@@ -481237,9 +482203,15 @@
     "end": 29270,
     "raw": "\"There is a note affixed to the scroll…\\p\"",
     "source": "There is a note affixed to the scroll…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かけじくの うえに メモが はってある\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "05b41e25fdd5c0ab",
@@ -481249,9 +482221,15 @@
     "end": 29311,
     "raw": "\"“I am leaving on a journey.\\n\"",
     "source": "“I am leaving on a journey.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「たびに でます。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1e9a5bded5a4efd8",
@@ -481261,9 +482239,15 @@
     "end": 29356,
     "raw": "\"Don't look for me. TRICK MASTER”$\"",
     "source": "Don't look for me. TRICK MASTER”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さがさないでね。カラクリだいおう」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "68ec465e696c3771",
@@ -481273,9 +482257,15 @@
     "end": 29465,
     "raw": "\"For the next time, I'll use this trick,\\n\"",
     "source": "For the next time, I'll use this trick,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}つぎは この しかけと あの たくらみ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1a20c71d8005ac87",
@@ -481285,9 +482275,15 @@
     "end": 29512,
     "raw": "\"and that scheme, and those ruses…\\p\"",
     "source": "and that scheme, and those ruses…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それに あんな わなも…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "422e6b82dd99738b",
@@ -481297,9 +482293,15 @@
     "end": 29557,
     "raw": "\"Mufufufu… If I may say so, it's\\n\"",
     "source": "Mufufufu… If I may say so, it's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むふふふ… じぶんで いうのも なんだが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fa3e2e8a79d2afce",
@@ -481309,9 +482311,15 @@
     "end": 29605,
     "raw": "\"brilliantly difficult, even for me!$\"",
     "source": "brilliantly difficult, even for me!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいにも むずかしいほどの できばえだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2d33a42935c520df",
@@ -481321,9 +482329,13 @@
     "end": 29696,
     "raw": "\"Hah? What?!\\n\"",
     "source": "Hah? What?!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なに? なんだ?!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "00bd92000ac13b01",
@@ -481333,9 +482345,13 @@
     "end": 29723,
     "raw": "\"Oh, it's you!\\p\"",
     "source": "Oh, it's you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おお きみか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d6a11d56f907b27",
@@ -481345,9 +482361,13 @@
     "end": 29776,
     "raw": "\"I'm in the midst of devising new tricky\\n\"",
     "source": "I'm in the midst of devising new tricky\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いま あたらしい やっかいな しかけを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74733c33d372576e",
@@ -481357,9 +482377,13 @@
     "end": 29801,
     "raw": "\"challenges!\\p\"",
     "source": "challenges!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんがえている ところなのだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b056bccf396ebb2f",
@@ -481369,9 +482393,13 @@
     "end": 29854,
     "raw": "\"It's not too much to ask for a bit more\\n\"",
     "source": "It's not too much to ask for a bit more\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もうすこし かんがえる じかんを くれても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "267df3887f67acc4",
@@ -481381,9 +482409,13 @@
     "end": 29900,
     "raw": "\"time for me to think, is it now?\\l\"",
     "source": "time for me to think, is it now?\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいじゃないか?\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0141aeeb32f1cc4",
@@ -481393,9 +482425,13 @@
     "end": 29944,
     "raw": "\"You wouldn't begrudge me that?\\l\"",
     "source": "You wouldn't begrudge me that?\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そのくらい おしまないだろう?\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "86fd6d7b50ce2957",
@@ -481405,9 +482441,13 @@
     "end": 29985,
     "raw": "\"Come back in a little while!$\"",
     "source": "Come back in a little while!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すこし たってから また くるが いい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "228c8559b9e98a33",
@@ -481417,9 +482457,13 @@
     "end": 30097,
     "raw": "\"Ah, it's you! You're here to accept the\\n\"",
     "source": "Ah, it's you! You're here to accept the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみか! このまえの ごほうびを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69a164129fdb8102",
@@ -481429,9 +482473,13 @@
     "end": 30148,
     "raw": "\"reward from before, isn't that right?\\l\"",
     "source": "reward from before, isn't that right?\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もらいに きたのだろう?\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cca363391bf9e5de",
@@ -481441,9 +482489,13 @@
     "end": 30178,
     "raw": "\"Yes, right I am!\\p\"",
     "source": "Yes, right I am!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うむ わがはいの いうとおりだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "75deb7d3672bf947",
@@ -481453,9 +482505,13 @@
     "end": 30197,
     "raw": "\"Here!\\n\"",
     "source": "Here!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほら!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aefee909083dd2eb",
@@ -481465,9 +482521,13 @@
     "end": 30234,
     "raw": "\"I'll give it to you now!$\"",
     "source": "I'll give it to you now!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いま わたして やろう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "52ec7438fb9663e1",
@@ -481477,9 +482537,13 @@
     "end": 30314,
     "raw": "\"Hah?\\n\"",
     "source": "Hah?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なに?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c74b1ebd21d1c09a",
@@ -481489,9 +482553,13 @@
     "end": 30365,
     "raw": "\"Did you not come to claim your reward?$\"",
     "source": "Did you not come to claim your reward?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ごほうびを もらいに きたのでは ないのか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a04bc26607e4bf7b",
@@ -481501,9 +482569,15 @@
     "end": 30450,
     "raw": "\"MECHADOLL 5 I AM!\\n\"",
     "source": "MECHADOLL 5 I AM!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ワタシハ カラクリニンギョウ5ゴウ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ae7f332f95145583",
@@ -481513,9 +482587,15 @@
     "end": 30494,
     "raw": "\"IF REWARD IS NOT TAKEN BY YOU,\\l\"",
     "source": "IF REWARD IS NOT TAKEN BY YOU,\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アナタガ ホウシュウヲ ウケトラナイト\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9301120ea5aba086",
@@ -481525,9 +482605,15 @@
     "end": 30544,
     "raw": "\"THEN TRICK MASTER YOU CANNOT FOLLOW.\\p\"",
     "source": "THEN TRICK MASTER YOU CANNOT FOLLOW.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カラクリダイオウノ アトヲ オエナイノダ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b47da0c40eb4742f",
@@ -481537,9 +482623,15 @@
     "end": 30580,
     "raw": "\"RED TENT OR BLUE TENT,\\n\"",
     "source": "RED TENT OR BLUE TENT,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アカイテントト アオイテント\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "69aa9a55776d7922",
@@ -481549,9 +482641,15 @@
     "end": 30613,
     "raw": "\"WHICH DO YOU PREFER?$\"",
     "source": "WHICH DO YOU PREFER?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドチラガ オコノミカ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c5966a6b6f880955",
@@ -481561,9 +482659,15 @@
     "end": 30688,
     "raw": "\"THEN FAREWELL.$\"",
     "source": "THEN FAREWELL.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ソレデハ サラバ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3e9c3373f6ef4057",
@@ -481573,9 +482677,15 @@
     "end": 30776,
     "raw": "\"YOUR PC STATUS: FULL AGAIN.\\n\"",
     "source": "YOUR PC STATUS: FULL AGAIN.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}アナタノ パソコン マタ イッパイ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cf6406008944dc55",
@@ -481585,9 +482695,15 @@
     "end": 30803,
     "raw": "\"MEAN, YOU ARE.$\"",
     "source": "MEAN, YOU ARE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "イジワル ダナ アナタハ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c5bd24da9bf7ceb6",
@@ -481597,9 +482713,15 @@
     "end": 30886,
     "raw": "\"{PLAYER} found a scroll.$\"",
     "source": "{PLAYER} found a scroll.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は まきものを みつけた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2026c16b9ad2c63e",
@@ -481609,9 +482731,15 @@
     "end": 30987,
     "raw": "\"{PLAYER} memorized the secret code\\n\"",
     "source": "{PLAYER} memorized the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は まきものに かいてある\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "10a2ce31765ded0b",
@@ -481621,9 +482749,15 @@
     "end": 31022,
     "raw": "\"written on the scroll.$\"",
     "source": "written on the scroll.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいことばを おぼえた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9f04aaa63a1926d1",
@@ -481633,9 +482767,15 @@
     "end": 31121,
     "raw": "\"A secret code is written on it.$\"",
     "source": "A secret code is written on it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あいことばが かいてある。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5bc4f25d4d2db6c4",
@@ -481645,9 +482785,15 @@
     "end": 31219,
     "raw": "\"The door is locked.\\p\"",
     "source": "The door is locked.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とびらには カギが かかっている!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6ec1b85595cbd1a7",
@@ -481657,9 +482803,15 @@
     "end": 31271,
     "raw": "\"…On closer inspection, this is written\\n\"",
     "source": "…On closer inspection, this is written\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "……よくみると とびらに もじが かいてある\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4f8f213d8ec1d77e",
@@ -481669,9 +482821,15 @@
     "end": 31320,
     "raw": "\"on it: “Write the secret code here.”$\"",
     "source": "on it: “Write the secret code here.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「ここに あいことばを かきつけよ」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-mauville-trick-65",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5248142209aa7483",

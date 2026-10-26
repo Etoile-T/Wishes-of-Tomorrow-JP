@@ -28,44 +28,44 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\n"
+	.string "とびらに かきつけた。\p"
+	.string "「カラクリだいおうが だいすき」\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "カチッと カギが あいた!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+	.string "{JPN}ここまで こられる トレーナーは\n"
+	.string "そうは いないよな!$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+	.string "{JPN}きみも つよいって ことだろうな…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "{JPN}えっ ポケモンリーグの チャンピオンに\n"
+	.string "かったって? す すごい……!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "{JPN}わたしと しょうぶ できるなんて\n"
+	.string "あなた しあわせよ!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string "{JPN}そんな わたしが\n"
+	.string "まけるなんて……!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "{JPN}わたしに かつなんて きせきよ!\n"
+	.string "じまん できる ことだわ!$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+	.string "{JPN}あなたも カラクリやしきに\n"
+	.string "ちょうせん しつづけて いるんですね!$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "{JPN}なるほど……\n"
+	.string "ひとなみはずれた スタイルですね。$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+	.string "{JPN}あなた みたいな ひとが きてくれて\n"
+	.string "カラクリだいおうも まんぞく でしょうね!$"
 

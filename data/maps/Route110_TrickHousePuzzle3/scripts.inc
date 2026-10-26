@@ -302,44 +302,44 @@ Route110_TrickHousePuzzle3_EventScript_Alan::
 	end
 
 Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is coveted.”\n"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\n"
+	.string "とびらに かきつけた。\p"
+	.string "「カラクリだいおうは あこがれの まと」\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "カチッと カギが あいた!$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
-	.string "I keep coming back to this same place!$"
+	.string "{JPN}なんども おなじ ばしょに もどってくる!$"
 
 Route110_TrickHousePuzzle3_Text_JustinDefeat:
-	.string "I'm already having trouble, and then\n"
-	.string "you have to beat me? It's not fair!$"
+	.string "{JPN}ぼくが こまってるのに\n"
+	.string "ダメおしで かつなんて ひどいよー!$"
 
 Route110_TrickHousePuzzle3_Text_JustinPostBattle:
-	.string "It's full of doors here!\n"
-	.string "It's too small and dark in here! Help!$"
+	.string "{JPN}とびら だらけで\n"
+	.string "せまくて くらいよー! たすけて!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaIntro:
-	.string "I don't know what's going on here.\n"
-	.string "I'm starting to feel sad…$"
+	.string "{JPN}なにが なんだか わからなくて\n"
+	.string "かなしく なってきたわ……$"
 
 Route110_TrickHousePuzzle3_Text_MarthaDefeat:
-	.string "You… You're awful!$"
+	.string "{JPN}ひっ ひどいわ……$"
 
 Route110_TrickHousePuzzle3_Text_MarthaPostBattle:
-	.string "I know I'm weak!\n"
-	.string "And, I have no sense of direction!$"
+	.string "{JPN}どうせ あたしは よわいし\n"
+	.string "ほうこうおんちよー!$"
 
 Route110_TrickHousePuzzle3_Text_AlanIntro:
-	.string "I don't get it. What would anyone want\n"
-	.string "with a house this bizarre?$"
+	.string "{JPN}わからん。こんな へんな やしきが\n"
+	.string "なんの やくに たつというんだ?$"
 
 Route110_TrickHousePuzzle3_Text_AlanDefeat:
-	.string "I don't get it.\n"
-	.string "How did I lose?$"
+	.string "{JPN}わからん。\n"
+	.string "どうして まけたんだ?$"
 
 Route110_TrickHousePuzzle3_Text_AlanPostBattle:
-	.string "I don't get it.\n"
-	.string "How many traps are in this house?\p"
-	.string "You may be the one to solve that.$"
+	.string "{JPN}わからん。この やしきには\n"
+	.string "しかけが いくつ あるんだろう?\p"
+	.string "きみなら わかるかもな。$"
 

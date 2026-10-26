@@ -1,0 +1,170 @@
+{
+  "source_commit": "198c1f03b3",
+  "scope": "Static choices/answer-index inspection only; gameplay not tested",
+  "quizzes": [
+    {
+      "quiz": "1_Q1",
+      "choices": [
+        "{JPN}ナゾノクサ{ENG}",
+        "{JPN}ポチエナ{ENG}",
+        "{JPN}スバメ{ENG}"
+      ],
+      "correct_index": 2,
+      "correct": "{JPN}スバメ{ENG}"
+    },
+    {
+      "quiz": "1_Q2",
+      "choices": [
+        "{JPN}ルリリ{ENG}",
+        "{JPN}ハスボー{ENG}",
+        "{JPN}キャモメ{ENG}"
+      ],
+      "correct_index": 0,
+      "correct": "{JPN}ルリリ{ENG}"
+    },
+    {
+      "quiz": "1_Q3",
+      "choices": [
+        "{JPN}ドクケイル{ENG}",
+        "{JPN}ズバット{ENG}",
+        "{JPN}ツチニン{ENG}"
+      ],
+      "correct_index": 0,
+      "correct": "{JPN}ドクケイル{ENG}"
+    },
+    {
+      "quiz": "2_Q1",
+      "choices": [
+        "{JPN}ラルトス{ENG}",
+        "{JPN}ジグザグマ{ENG}",
+        "{JPN}ナマケロ{ENG}"
+      ],
+      "correct_index": 1,
+      "correct": "{JPN}ジグザグマ{ENG}"
+    },
+    {
+      "quiz": "2_Q2",
+      "choices": [
+        "{JPN}ポチエナ{ENG}",
+        "{JPN}キノココ{ENG}",
+        "{JPN}ジグザグマ{ENG}"
+      ],
+      "correct_index": 2,
+      "correct": "{JPN}ジグザグマ{ENG}"
+    },
+    {
+      "quiz": "2_Q3",
+      "choices": [
+        "{JPN}ポチエナ{ENG}",
+        "{JPN}ズバット{ENG}",
+        "{JPN}キバニア{ENG}"
+      ],
+      "correct_index": 0,
+      "correct": "{JPN}ポチエナ{ENG}"
+    },
+    {
+      "quiz": "3_Q1",
+      "choices": [
+        "{JPN}やけどなおし{ENG}",
+        "{JPN}ハーバーメール{ENG}",
+        "{JPN}おなじねだん{ENG}"
+      ],
+      "correct_index": 0,
+      "correct": "{JPN}やけどなおし{ENG}"
+    },
+    {
+      "quiz": "3_Q2",
+      "choices": [
+        "{JPN}60円{ENG}",
+        "{JPN}55円{ENG}",
+        "{JPN}のこらない{ENG}"
+      ],
+      "correct_index": 2,
+      "correct": "{JPN}のこらない{ENG}"
+    },
+    {
+      "quiz": "3_Q3",
+      "choices": [
+        "{JPN}たかくなる{ENG}",
+        "{JPN}やすくなる{ENG}",
+        "{JPN}おなじねだん{ENG}"
+      ],
+      "correct_index": 1,
+      "correct": "{JPN}やすくなる{ENG}"
+    },
+    {
+      "quiz": "4_Q1",
+      "choices": [
+        "{JPN}おとこのひと{ENG}",
+        "{JPN}おんなのひと{ENG}",
+        "{JPN}おなじかず{ENG}"
+      ],
+      "correct_index": 0,
+      "correct": "{JPN}おとこのひと{ENG}"
+    },
+    {
+      "quiz": "4_Q2",
+      "choices": [
+        "{JPN}おじいさん{ENG}",
+        "{JPN}おばあさん{ENG}",
+        "{JPN}おなじかず{ENG}"
+      ],
+      "correct_index": 0,
+      "correct": "{JPN}おじいさん{ENG}"
+    },
+    {
+      "quiz": "4_Q3",
+      "choices": [
+        "{JPN}いない{ENG}",
+        "1",
+        "2"
+      ],
+      "correct_index": 1,
+      "correct": "1"
+    },
+    {
+      "quiz": "5_Q1",
+      "choices": [
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_index": 1,
+      "correct": "3"
+    },
+    {
+      "quiz": "5_Q2",
+      "choices": [
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_index": 0,
+      "correct": "6"
+    },
+    {
+      "quiz": "5_Q3",
+      "choices": [
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_index": 2,
+      "correct": "8"
+    }
+  ],
+  "existing_price_issue": {
+    "quiz": "3_Q3",
+    "config": "I_PRICE=GEN_LATEST=GEN_9",
+    "prices": {
+      "Repel": 400,
+      "Soda Pop": 300,
+      "Super Potion": 700
+    },
+    "sum": 700,
+    "existing_correct_choice": "やすくなる",
+    "actual_comparison": "equal",
+    "action": "Preserved original question and fixed logic; did not change game data"
+  },
+  "other_uncertainty": "Vanilla event memories/wild species/town counts and Gen9 sell prices not exhaustively verified; no runtime claims"
+}

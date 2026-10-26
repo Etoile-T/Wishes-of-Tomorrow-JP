@@ -480591,9 +480591,15 @@
     "end": 9428,
     "raw": "\"Aak!\\n\"",
     "source": "Aak!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あっ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8ee2363c15e24d62",
@@ -480603,9 +480609,15 @@
     "end": 9463,
     "raw": "\"You've made it to me?\\l\"",
     "source": "You've made it to me?\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あんた ここまで こられたのか!\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0b243690c019101a",
@@ -480615,9 +480627,15 @@
     "end": 9495,
     "raw": "\"Hmmm… You're sharp!$\"",
     "source": "Hmmm… You're sharp!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うーむ…… できる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fc954d05b93549fe",
@@ -480627,9 +480645,13 @@
     "end": 9599,
     "raw": "\"It took me all night to plant all those\\n\"",
     "source": "It took me all night to plant all those\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あの きを ぜんぶ うえるのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "48b0fd542912b663",
@@ -480639,9 +480661,13 @@
     "end": 9619,
     "raw": "\"trees…\\p\"",
     "source": "trees…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとばん かかったのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "362f920800ac04ed",
@@ -480651,9 +480677,13 @@
     "end": 9671,
     "raw": "\"You're almost my equal in greatness by\\n\"",
     "source": "You're almost my equal in greatness by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの すごさは わがはいの つぎの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1e3eb0bde3001ed",
@@ -480663,9 +480693,13 @@
     "end": 9724,
     "raw": "\"one, two, three, four, five, six places!$\"",
     "source": "one, two, three, four, five, six places!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎの つぎの つぎの つぎの つぎだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a1e8132139cace08",
@@ -480675,9 +480709,15 @@
     "end": 9825,
     "raw": "\"It took me all night to make the maze…\\p\"",
     "source": "It took me all night to make the maze…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てつやで めいろを つくったのに……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5a23ec0de6444128",
@@ -480687,9 +480727,15 @@
     "end": 9877,
     "raw": "\"You're almost my equal in greatness by\\n\"",
     "source": "You're almost my equal in greatness by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいの つぎの つぎの つぎの つぎの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "aff029ba1bf0efa8",
@@ -480699,9 +480745,15 @@
     "end": 9925,
     "raw": "\"one, two, three, four, five places!$\"",
     "source": "one, two, three, four, five places!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎ くらいに すごい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "881306d4433dc706",
@@ -480711,9 +480763,13 @@
     "end": 10024,
     "raw": "\"It took me all night to prepare\\n\"",
     "source": "It took me all night to prepare\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かべの パネルを じゅんびするのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5c86c6fd67d80bf8",
@@ -480723,9 +480779,13 @@
     "end": 10054,
     "raw": "\"the wall panels…\\p\"",
     "source": "the wall panels…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとばん かかったのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "010a8ed9bb588ec8",
@@ -480735,9 +480795,13 @@
     "end": 10106,
     "raw": "\"You're almost my equal in greatness by\\n\"",
     "source": "You're almost my equal in greatness by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの すごさは わがはいの つぎの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "892f47b449570251",
@@ -480747,9 +480811,13 @@
     "end": 10148,
     "raw": "\"one, two, three, four places!$\"",
     "source": "one, two, three, four places!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎの つぎの つぎだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf703e30e3178b20",
@@ -480759,9 +480827,13 @@
     "end": 10254,
     "raw": "\"It took me all night to shove in those\\n\"",
     "source": "It took me all night to shove in those\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あの いわを おしこむのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f0a7fe591d935562",
@@ -480771,9 +480843,13 @@
     "end": 10277,
     "raw": "\"boulders…\\p\"",
     "source": "boulders…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとばん かかったのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cd2459bcfd258067",
@@ -480783,9 +480859,13 @@
     "end": 10329,
     "raw": "\"You're almost my equal in greatness by\\n\"",
     "source": "You're almost my equal in greatness by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの すごさは わがはいの つぎの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "209e82910df0e5f7",
@@ -480795,9 +480875,13 @@
     "end": 10365,
     "raw": "\"one, two, three places!$\"",
     "source": "one, two, three places!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎの つぎだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7acea023471762d1",
@@ -480807,9 +480891,15 @@
     "end": 10473,
     "raw": "\"It took me all night to make MECHADOLLS\\n\"",
     "source": "It took me all night to make MECHADOLLS\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てつやで にんぎょう つくって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d089dbfc0cebbe70",
@@ -480819,9 +480909,15 @@
     "end": 10520,
     "raw": "\"and another to think up the quiz…\\p\"",
     "source": "and another to think up the quiz…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てつやで クイズも かんがえたのに……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9370414c09ed8e80",
@@ -480831,9 +480927,15 @@
     "end": 10572,
     "raw": "\"You're almost my equal in greatness by\\n\"",
     "source": "You're almost my equal in greatness by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいの つぎの つぎ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "79001a42a07f6a61",
@@ -480843,9 +480945,15 @@
     "end": 10601,
     "raw": "\"one, two places!$\"",
     "source": "one, two places!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くらいに すごい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c5a87ccf38231ed2",
@@ -480855,9 +480963,13 @@
     "end": 10699,
     "raw": "\"It took me all night to install\\n\"",
     "source": "It took me all night to install\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とびらを とりつけるのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e535d8bfa1e58a38",
@@ -480867,9 +480979,13 @@
     "end": 10723,
     "raw": "\"the doors…\\p\"",
     "source": "the doors…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとばん かかったのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8e46b175c1d303bb",
@@ -480879,9 +480995,13 @@
     "end": 10772,
     "raw": "\"You're almost my equal in greatness!$\"",
     "source": "You're almost my equal in greatness!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみも ほとんど わがはいほどに すごいぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e0a4f704ec9a957a",
@@ -480891,9 +481011,15 @@
     "end": 10879,
     "raw": "\"It took me all night setting up arrows…\\p\"",
     "source": "It took me all night setting up arrows…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てつやで やじるしを ならべたのに……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "44f555c71f7c38c2",
@@ -480903,9 +481029,15 @@
     "end": 10921,
     "raw": "\"You're my equal in greatness!$\"",
     "source": "You're my equal in greatness!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいと おなじ くらい すごい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "08fccb06c34d6ab8",
@@ -480915,9 +481047,13 @@
     "end": 11027,
     "raw": "\"It took me all night polishing floors…\\p\"",
     "source": "It took me all night polishing floors…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ひとばんじゅう ゆかを みがいたのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a7a3b1724667dfa9",
@@ -480927,9 +481063,13 @@
     "end": 11070,
     "raw": "\"You're above me in greatness!\\n\"",
     "source": "You're above me in greatness!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみは わがはいより すごい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77911ec15c263f4e",
@@ -480939,9 +481079,13 @@
     "end": 11092,
     "raw": "\"Possibly…$\"",
     "source": "Possibly…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かも しれない…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e90590ef73f6812c",
@@ -480951,9 +481095,13 @@
     "end": 11178,
     "raw": "\"Wh-what should I do?\\n\"",
     "source": "Wh-what should I do?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ど どうすれば いいのだ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "08783fb63c805dcc",
@@ -480963,9 +481111,13 @@
     "end": 11227,
     "raw": "\"My fountain of ideas for tricks has\\l\"",
     "source": "My fountain of ideas for tricks has\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しかけの アイデアの いずみが\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1594de0af415185",
@@ -480975,9 +481127,13 @@
     "end": 11249,
     "raw": "\"run dry…\\p\"",
     "source": "run dry…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かれて しまった…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8f55b815fac64dcb",
@@ -480987,9 +481143,13 @@
     "end": 11302,
     "raw": "\"Perhaps it is time I toured the country\\n\"",
     "source": "Perhaps it is time I toured the country\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたらしい しかけを かんがえるために\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "73ce174c629ef0eb",
@@ -480999,9 +481159,13 @@
     "end": 11347,
     "raw": "\"on a quest to devise new tricks…$\"",
     "source": "on a quest to devise new tricks…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜんこくを たびする ときなのかも しれん…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e11f40f0d304be6",
@@ -481011,9 +481175,13 @@
     "end": 11453,
     "raw": "\"I hate to admit defeat, but you have\\n\"",
     "source": "I hate to admit defeat, but you have\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まけは みとめたくないが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2b3448bb8391fc39",
@@ -481023,9 +481191,13 @@
     "end": 11477,
     "raw": "\"bested me!\\p\"",
     "source": "bested me!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみには まけた!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef0dc7fc031c1bc3",
@@ -481035,9 +481207,13 @@
     "end": 11529,
     "raw": "\"Still, you must have been reeled in by\\n\"",
     "source": "Still, you must have been reeled in by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでも なんども なんども くるのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a16fd6ba09b200d6",
@@ -481047,9 +481223,13 @@
     "end": 11580,
     "raw": "\"my charisma for you to visit me again\\l\"",
     "source": "my charisma for you to visit me again\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいの カリスマに ひかれたから\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95f109a2f39726c5",
@@ -481059,9 +481239,13 @@
     "end": 11624,
     "raw": "\"and again. Yes, you must have!\\p\"",
     "source": "and again. Yes, you must have!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なのだろう。うむ そうに ちがいない!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "67ba37057467225e",
@@ -481071,9 +481255,13 @@
     "end": 11672,
     "raw": "\"But that has nothing to do with my\\n\"",
     "source": "But that has nothing to do with my\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だが それと わがはいが まけたことは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a75c7dc70a50d574",
@@ -481083,9 +481271,13 @@
     "end": 11693,
     "raw": "\"losing!\\p\"",
     "source": "losing!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんの かんけいも ないぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4c74fbecdc0f1065",
@@ -481095,9 +481287,13 @@
     "end": 11739,
     "raw": "\"In recognition of the friendship\\n\"",
     "source": "In recognition of the friendship\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねっしんな きみと てんさいの わがはい。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d9174f94c3c1cbf1",
@@ -481107,9 +481303,13 @@
     "end": 11792,
     "raw": "\"between you, the driven, and the genius\\l\"",
     "source": "between you, the driven, and the genius\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふたりの ゆうじょうの しるしとして\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e669444c17df002",
@@ -481119,9 +481319,13 @@
     "end": 11844,
     "raw": "\"that is myself, I demand that you take\\l\"",
     "source": "that is myself, I demand that you take\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この きねんの しなを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e50665dd069a7e52",
@@ -481131,9 +481335,13 @@
     "end": 11872,
     "raw": "\"this keepsake!\\p\"",
     "source": "this keepsake!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜひとも うけとるのだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "32f0f44b6c1d34ca",
@@ -481143,9 +481351,13 @@
     "end": 11910,
     "raw": "\"Actually there are two--\\n\"",
     "source": "Actually there are two--\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じつは ふたつ あってな。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0700e266994806dc",
@@ -481155,9 +481367,13 @@
     "end": 11951,
     "raw": "\"a RED TENT and a BLUE TENT.\\l\"",
     "source": "a RED TENT and a BLUE TENT.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あかいテントと あおいテントだ。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3bf0688ae01903eb",
@@ -481167,9 +481383,13 @@
     "end": 11984,
     "raw": "\"Which do you prefer?$\"",
     "source": "Which do you prefer?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どちらが おこのみかな?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a8b2a474ec978bef",
@@ -481179,9 +481399,15 @@
     "end": 12064,
     "raw": "\"What? No room in your PC?\\n\"",
     "source": "What? No room in your PC?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なに パソコンに はいりきらない?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6c3a134b212ea4d4",
@@ -481191,9 +481417,15 @@
     "end": 12104,
     "raw": "\"What am I to make of that?\\p\"",
     "source": "What am I to make of that?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いったい どう うけとめれば いいのだ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "13470e316ff41817",
@@ -481203,9 +481435,15 @@
     "end": 12156,
     "raw": "\"I wish I could say that, but I am much\\n\"",
     "source": "I wish I could say that, but I am much\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "…と いいたいが わがはいは やさしすぎて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "31428e52517c9c14",
@@ -481215,9 +481453,15 @@
     "end": 12209,
     "raw": "\"too kind and caring, so come back later!$\"",
     "source": "too kind and caring, so come back later!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもいやりも あるので あとで くるがいい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5e04c8d5d65b2ba0",
@@ -481227,9 +481471,13 @@
     "end": 12281,
     "raw": "\"… … … … … …\\p\"",
     "source": "… … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}… … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c68344f4734a9231",
@@ -481239,9 +481487,13 @@
     "end": 12334,
     "raw": "\"I am leaving on a journey of discovery.\\n\"",
     "source": "I am leaving on a journey of discovery.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいは はっけんの たびに でる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "741619dd66f9c5c6",
@@ -481251,9 +481503,13 @@
     "end": 12380,
     "raw": "\"A quest in search of new tricks.\\p\"",
     "source": "A quest in search of new tricks.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたらしい しかけを さがす たびにな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d7ad192c3c5968b",
@@ -481263,9 +481519,13 @@
     "end": 12432,
     "raw": "\"I wish that you will one day visit and\\n\"",
     "source": "I wish that you will one day visit and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつか また あいにきて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a44d2e208da736f1",
@@ -481275,9 +481535,13 @@
     "end": 12465,
     "raw": "\"entertain me again.\\p\"",
     "source": "entertain me again.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいを たのしませて ほしい。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab2944c0ff77b78c",
@@ -481287,9 +481551,13 @@
     "end": 12496,
     "raw": "\"And now, farewell!$\"",
     "source": "And now, farewell!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでは さらばだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6b05dfeff8ceadc3",
@@ -481299,9 +481567,15 @@
     "end": 12569,
     "raw": "\"Fine!\\n\"",
     "source": "Fine!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}よし!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c019275e1469a270",
@@ -481311,9 +481585,15 @@
     "end": 12610,
     "raw": "\"You have earned this reward!$\"",
     "source": "You have earned this reward!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみは この ごほうびに ふさわしい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1fc5f3b028a30271",
@@ -481323,9 +481603,13 @@
     "end": 12700,
     "raw": "\"What? Have you no room for this?\\n\"",
     "source": "What? Have you no room for this?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なに? これが はいらないのか?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c65a0cde8cf3a1b1",
@@ -481335,9 +481619,13 @@
     "end": 12748,
     "raw": "\"What manner of items do you carry?\\p\"",
     "source": "What manner of items do you carry?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いったい どんな どうぐを もっているんだ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "45d4522b3683db9e",
@@ -481347,9 +481635,13 @@
     "end": 12796,
     "raw": "\"But fine, since you've reached me,\\n\"",
     "source": "But fine, since you've reached me,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まあ いい。ここまで きたのだから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44278891be858303",
@@ -481359,9 +481651,13 @@
     "end": 12848,
     "raw": "\"your reward will be with me till later.$\"",
     "source": "your reward will be with me till later.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ごほうびは あとまで あずかっておこう。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f5bb70e428d6a187",
@@ -481371,9 +481667,13 @@
     "end": 12953,
     "raw": "\"Scrub that smug smirk from your face!\\n\"",
     "source": "Scrub that smug smirk from your face!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その とくいげな ニヤニヤを やめるのだ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1735e08961183093",
@@ -481383,9 +481683,13 @@
     "end": 13007,
     "raw": "\"It's much too early to think you've won!\\p\"",
     "source": "It's much too early to think you've won!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かったと おもうのは まだまだ はやいぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0372221817fe511b",
@@ -481395,9 +481699,13 @@
     "end": 13063,
     "raw": "\"I'll make new tricks to stump you, I will.\\n\"",
     "source": "I'll make new tricks to stump you, I will.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみを こまらせる しかけを また つくるぞ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "25dfc58007688dad",
@@ -481407,9 +481715,13 @@
     "end": 13115,
     "raw": "\"You may mock me only when you're done.\\p\"",
     "source": "You may mock me only when you're done.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わがはいを わらうのは といてからに しろ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c9f607c42311145f",
@@ -481419,9 +481731,13 @@
     "end": 13160,
     "raw": "\"Come back for the next exciting\\n\"",
     "source": "Come back for the next exciting\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎの ワクワクする しかけにも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b01ad51abde4a045",
@@ -481431,9 +481747,13 @@
     "end": 13185,
     "raw": "\"installment!$\"",
     "source": "installment!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また ちょうせん しにくるが いい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f410c798d3ff6512",
@@ -481443,9 +481763,13 @@
     "end": 13278,
     "raw": "\"Now, now! You're ignoring me now?\\n\"",
     "source": "Now, now! You're ignoring me now?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おい おい! わがはいを むしするのか?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c03168d8eda0161",
@@ -481455,9 +481779,13 @@
     "end": 13326,
     "raw": "\"Now that, I consider heartbreaking!$\"",
     "source": "Now that, I consider heartbreaking!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それは むねが はりさけるほど かなしいぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c3808f0732c7cd3b",
@@ -482839,9 +483167,13 @@
     "end": 1615,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4d4351d119f80379",
@@ -482851,9 +483183,13 @@
     "end": 1641,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9ab7347e4f629807",
@@ -482863,9 +483199,13 @@
     "end": 1682,
     "raw": "\"“TRICK MASTER is fabulous.”\\n\"",
     "source": "“TRICK MASTER is fabulous.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうは すばらしい」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3a08f048ed4c366f",
@@ -482875,9 +483215,13 @@
     "end": 1711,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cadcb7d38e6192cf",
@@ -482887,9 +483231,13 @@
     "end": 1746,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c21b3e7676a69112",
@@ -482899,9 +483247,15 @@
     "end": 1842,
     "raw": "\"I'll hack and slash my way to victory\\n\"",
     "source": "I'll hack and slash my way to victory\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おぼえたての いあいぎりで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3ffaeaf286b57fb7",
@@ -482911,9 +483265,15 @@
     "end": 1884,
     "raw": "\"with the CUT we just learned!$\"",
     "source": "with the CUT we just learned!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きって きって かちすすむわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e998953199a02d29",
@@ -482923,9 +483283,15 @@
     "end": 1966,
     "raw": "\"Why are you so serious?$\"",
     "source": "Why are you so serious?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どうして そんなに ほんきなの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3f437749701ecc65",
@@ -482935,9 +483301,13 @@
     "end": 2058,
     "raw": "\"I never get tired of hacking\\n\"",
     "source": "I never get tired of hacking\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きって きって きりまくっても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14985577caa558ce",
@@ -482947,9 +483317,13 @@
     "end": 2084,
     "raw": "\"and slashing!$\"",
     "source": "and slashing!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちっとも あきないわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "524ae85401648c15",
@@ -482959,9 +483333,15 @@
     "end": 2175,
     "raw": "\"I wandered into this weird house\\n\"",
     "source": "I wandered into this weird house\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へんな やしきに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b5bdd2ba3f589a5f",
@@ -482971,9 +483351,15 @@
     "end": 2200,
     "raw": "\"by accident…$\"",
     "source": "by accident…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まよいこんじゃった……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "60305fea2ffd27c3",
@@ -482983,9 +483369,15 @@
     "end": 2277,
     "raw": "\"And now I've lost…$\"",
     "source": "And now I've lost…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おまけに まけちゃった……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3f5f4ed8fc4184c9",
@@ -482995,9 +483387,15 @@
     "end": 2380,
     "raw": "\"I lost my way, I lost a battle, and I'm\\n\"",
     "source": "I lost my way, I lost a battle, and I'm\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みちに まよって しょうぶにも まけて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2cda537e9e03f381",
@@ -483007,9 +483405,15 @@
     "end": 2429,
     "raw": "\"now even more lost… I can't get out…$\"",
     "source": "now even more lost… I can't get out…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さらに まよった… でられない…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9ef10a61a5828229",
@@ -483019,9 +483423,13 @@
     "end": 2516,
     "raw": "\"Just who is the TRICK MASTER?$\"",
     "source": "Just who is the TRICK MASTER?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリだいおうって いったい なにもの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "47c1075bd053c8f8",
@@ -483031,9 +483439,13 @@
     "end": 2610,
     "raw": "\"I lost while I was lost in thought!$\"",
     "source": "I lost while I was lost in thought!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かんがえごとを していたら まけちゃった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6f634cd6e0baa80c",
@@ -483043,9 +483455,15 @@
     "end": 2688,
     "raw": "\"You're strong!\\n\"",
     "source": "You're strong!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}つよいわ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "69126b6bcea909a2",
@@ -483055,9 +483473,15 @@
     "end": 2718,
     "raw": "\"Just who are you?$\"",
     "source": "Just who are you?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたも なにもの なの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "acedd93daee6369b",
@@ -483067,9 +483491,13 @@
     "end": 3512,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "21ebf4307b84e982",
@@ -483079,9 +483507,13 @@
     "end": 3538,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "791dc56c83ec5b2e",
@@ -483091,9 +483523,13 @@
     "end": 3576,
     "raw": "\"“TRICK MASTER is smart.”\\n\"",
     "source": "“TRICK MASTER is smart.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうは かしこい」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a01128625ce3ab48",
@@ -483103,9 +483539,13 @@
     "end": 3605,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4ed250e4a7bbe52b",
@@ -483115,9 +483555,13 @@
     "end": 3640,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54d24aa6d8cfca25",
@@ -483127,9 +483571,13 @@
     "end": 3727,
     "raw": "\"Which switch closes which hole?$\"",
     "source": "Which switch closes which hole?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どの スイッチが どの あなを ふさぐんだ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54a07228d0666c15",
@@ -483139,9 +483587,15 @@
     "end": 3817,
     "raw": "\"After that battle, I'm even more\\n\"",
     "source": "After that battle, I'm even more\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しょうぶ してたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1f3edef14294072b",
@@ -483151,9 +483605,15 @@
     "end": 3839,
     "raw": "\"confused!$\"",
     "source": "confused!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よけい わかんなくなった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ce8445a38da479ec",
@@ -483163,9 +483623,15 @@
     "end": 3938,
     "raw": "\"Can I get you to push all the buttons\\n\"",
     "source": "Can I get you to push all the buttons\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみ ぼくの かわりに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3fa67fd7201afe4d",
@@ -483175,9 +483641,15 @@
     "end": 3958,
     "raw": "\"for me?$\"",
     "source": "for me?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "スイッチ ぜんぶ おしてきてよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5ecf2a693e9d4bcf",
@@ -483187,9 +483659,15 @@
     "end": 4053,
     "raw": "\"Oh! You're on your second TRICK HOUSE\\n\"",
     "source": "Oh! You're on your second TRICK HOUSE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おっ! カラクリやしき\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ed7d8e8559cf6e13",
@@ -483199,9 +483677,15 @@
     "end": 4076,
     "raw": "\"challenge!$\"",
     "source": "challenge!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2どめの チャレンジだね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fa72283ac156c465",
@@ -483211,9 +483695,13 @@
     "end": 4162,
     "raw": "\"You're good at battling too?$\"",
     "source": "You're good at battling too?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しょうぶも とくいなの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "792915f7dcf05d72",
@@ -483223,9 +483711,15 @@
     "end": 4263,
     "raw": "\"The TRICK MASTER rigged all the tricks\\n\"",
     "source": "The TRICK MASTER rigged all the tricks\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリだいおうが ひとりで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d084c8db29cec804",
@@ -483235,9 +483729,15 @@
     "end": 4305,
     "raw": "\"in this house all by himself.$\"",
     "source": "in this house all by himself.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この いえの しかけを ぜんぶ つくったんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "86d4e9eeaedb65e7",
@@ -483247,9 +483747,15 @@
     "end": 4400,
     "raw": "\"I want to make my own GYM one day.\\n\"",
     "source": "I want to make my own GYM one day.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いつか わたしの ジムを つくりたくて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e10e3f3446ef3a9c",
@@ -483259,9 +483765,15 @@
     "end": 4447,
     "raw": "\"So, I'm studying how to set traps.$\"",
     "source": "So, I'm studying how to set traps.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しかけを けんきゅうしてるの!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "24183de5384ed183",
@@ -483271,9 +483783,13 @@
     "end": 4539,
     "raw": "\"I didn't study battling enough!$\"",
     "source": "I didn't study battling enough!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しょうぶの べんきょうが たりなかった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cdacf678e65dffad",
@@ -483283,9 +483799,15 @@
     "end": 4631,
     "raw": "\"You're strong, aren't you?\\n\"",
     "source": "You're strong, aren't you?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなた つよいのね…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "277dd5fee413c614",
@@ -483295,9 +483817,15 @@
     "end": 4681,
     "raw": "\"Maybe even enough to be a GYM LEADER!$\"",
     "source": "Maybe even enough to be a GYM LEADER!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ジムリーダーに なれるんじゃない?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cbf27e0b2c6cbef7",
@@ -483307,9 +483835,13 @@
     "end": 16310,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b1f77131e215e22",
@@ -483319,9 +483851,13 @@
     "end": 16336,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3c4fd9a4b851c8d0",
@@ -483331,9 +483867,13 @@
     "end": 16376,
     "raw": "\"“TRICK MASTER is coveted.”\\n\"",
     "source": "“TRICK MASTER is coveted.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうは あこがれの まと」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5321126f397e551a",
@@ -483343,9 +483883,13 @@
     "end": 16405,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc1fcf8f541e4472",
@@ -483355,9 +483899,13 @@
     "end": 16440,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d14d57fe4ba97e6a",
@@ -483367,9 +483915,13 @@
     "end": 16537,
     "raw": "\"I keep coming back to this same place!$\"",
     "source": "I keep coming back to this same place!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんども おなじ ばしょに もどってくる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc597e8399c18d64",
@@ -483379,9 +483931,15 @@
     "end": 16634,
     "raw": "\"I'm already having trouble, and then\\n\"",
     "source": "I'm already having trouble, and then\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぼくが こまってるのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d1af0d51704b6c83",
@@ -483391,9 +483949,15 @@
     "end": 16682,
     "raw": "\"you have to beat me? It's not fair!$\"",
     "source": "you have to beat me? It's not fair!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ダメおしで かつなんて ひどいよー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ee135e04ab1656a5",
@@ -483403,9 +483967,15 @@
     "end": 16771,
     "raw": "\"It's full of doors here!\\n\"",
     "source": "It's full of doors here!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とびら だらけで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b0511802975e1ae6",
@@ -483415,9 +483985,15 @@
     "end": 16822,
     "raw": "\"It's too small and dark in here! Help!$\"",
     "source": "It's too small and dark in here! Help!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せまくて くらいよー! たすけて!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a913744b9c87850b",
@@ -483427,9 +484003,15 @@
     "end": 16916,
     "raw": "\"I don't know what's going on here.\\n\"",
     "source": "I don't know what's going on here.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なにが なんだか わからなくて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6e79d8c7bb32718e",
@@ -483439,9 +484021,15 @@
     "end": 16954,
     "raw": "\"I'm starting to feel sad…$\"",
     "source": "I'm starting to feel sad…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かなしく なってきたわ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "690a8dca4a64c13a",
@@ -483451,9 +484039,15 @@
     "end": 17032,
     "raw": "\"You… You're awful!$\"",
     "source": "You… You're awful!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ひっ ひどいわ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e676a79b39bd6861",
@@ -483463,9 +484057,15 @@
     "end": 17113,
     "raw": "\"I know I'm weak!\\n\"",
     "source": "I know I'm weak!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どうせ あたしは よわいし\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6bc34ae710e40414",
@@ -483475,9 +484075,15 @@
     "end": 17160,
     "raw": "\"And, I have no sense of direction!$\"",
     "source": "And, I have no sense of direction!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほうこうおんちよー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0ed0a296c1d30d56",
@@ -483487,9 +484093,15 @@
     "end": 17256,
     "raw": "\"I don't get it. What would anyone want\\n\"",
     "source": "I don't get it. What would anyone want\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わからん。こんな へんな やしきが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "02b91230904de347",
@@ -483499,9 +484111,15 @@
     "end": 17295,
     "raw": "\"with a house this bizarre?$\"",
     "source": "with a house this bizarre?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんの やくに たつというんだ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a7933cab388c3618",
@@ -483511,9 +484129,15 @@
     "end": 17369,
     "raw": "\"I don't get it.\\n\"",
     "source": "I don't get it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わからん。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f9e59e36c4c36b24",
@@ -483523,9 +484147,15 @@
     "end": 17397,
     "raw": "\"How did I lose?$\"",
     "source": "How did I lose?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうして まけたんだ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "79b34d5f2ab4a245",
@@ -483535,9 +484165,15 @@
     "end": 17475,
     "raw": "\"I don't get it.\\n\"",
     "source": "I don't get it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わからん。この やしきには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7726f8e99557ecb4",
@@ -483547,9 +484183,15 @@
     "end": 17522,
     "raw": "\"How many traps are in this house?\\p\"",
     "source": "How many traps are in this house?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しかけが いくつ あるんだろう?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3c4270bb7ea7ab20",
@@ -483559,9 +484201,15 @@
     "end": 17568,
     "raw": "\"You may be the one to solve that.$\"",
     "source": "You may be the one to solve that.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみなら わかるかもな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "49c7330df770f301",
@@ -483571,9 +484219,13 @@
     "end": 1281,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ecc27ed7622368a5",
@@ -483583,9 +484235,13 @@
     "end": 1307,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "718d1dcd0c815791",
@@ -483595,9 +484251,13 @@
     "end": 1344,
     "raw": "\"“TRICK MASTER is cool.”\\n\"",
     "source": "“TRICK MASTER is cool.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうは かっこいい」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14e9a8b99bd966ed",
@@ -483607,9 +484267,13 @@
     "end": 1373,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3afe1f0558b9e5e2",
@@ -483619,9 +484283,13 @@
     "end": 1408,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f99925b337a51a7a",
@@ -483631,9 +484299,15 @@
     "end": 1505,
     "raw": "\"It's too much bother to think this out.\\n\"",
     "source": "It's too much bother to think this out.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こういうの かんがえるのって めんどう!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "27607184b8af2ce9",
@@ -483643,9 +484317,15 @@
     "end": 1542,
     "raw": "\"I only wanted to battle!$\"",
     "source": "I only wanted to battle!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは しょうぶだけ したいのにー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "95490a5258c0f879",
@@ -483655,9 +484335,15 @@
     "end": 1642,
     "raw": "\"Even though I lost, I still like battling\\n\"",
     "source": "Even though I lost, I still like battling\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まけちゃった けど やっぱり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e69567306755145c",
@@ -483667,9 +484353,15 @@
     "end": 1664,
     "raw": "\"the best!$\"",
     "source": "the best!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しょうぶが いちばん たのしい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b005e0dca255761b",
@@ -483679,9 +484371,15 @@
     "end": 1759,
     "raw": "\"Wouldn't you agree? You would go\\n\"",
     "source": "Wouldn't you agree? You would go\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}トレーナーが いそうな ところは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b0895bc137dd9fcd",
@@ -483691,9 +484389,15 @@
     "end": 1804,
     "raw": "\"anywhere if TRAINERS were there.$\"",
     "source": "anywhere if TRAINERS were there.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どこにでも いきたく なるわよね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ea26fe80ceeb26db",
@@ -483703,9 +484407,15 @@
     "end": 1898,
     "raw": "\"Heh! Boulders like this, I can brush\\n\"",
     "source": "Heh! Boulders like this, I can brush\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふん! こんな いわくらい\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "112c07ec6d073933",
@@ -483715,9 +484425,15 @@
     "end": 1933,
     "raw": "\"aside with one finger!$\"",
     "source": "aside with one finger!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆび1ぽんで おしのけられるぜ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7d62534ce7f80e93",
@@ -483727,9 +484443,15 @@
     "end": 2030,
     "raw": "\"I can push boulders, but I can't solve\\n\"",
     "source": "I can push boulders, but I can't solve\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いわが おせても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f4c03d91535d9e14",
@@ -483739,9 +484461,15 @@
     "end": 2054,
     "raw": "\"the puzzle…$\"",
     "source": "the puzzle…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パズルが とけない……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a4bac6cbc054de44",
@@ -483751,9 +484479,15 @@
     "end": 2151,
     "raw": "\"It's not good enough to be brawny…\\n\"",
     "source": "It's not good enough to be brawny…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ちからが つよいだけじゃ ダメだね……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "84b5953236f636e9",
@@ -483763,9 +484497,15 @@
     "end": 2201,
     "raw": "\"You have to use your head. Be brainy!$\"",
     "source": "You have to use your head. Be brainy!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アタマ つかわないと。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "33342dbd0b2e0e5e",
@@ -483775,9 +484515,15 @@
     "end": 2296,
     "raw": "\"The TRICK HOUSE is getting trickier,\\n\"",
     "source": "The TRICK HOUSE is getting trickier,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリやしきも だんだん\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "946985d38fae2865",
@@ -483787,9 +484533,15 @@
     "end": 2318,
     "raw": "\"isn't it?$\"",
     "source": "isn't it?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むずかしく なってきたわね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4ed50b10504f35c3",
@@ -483799,9 +484551,15 @@
     "end": 2382,
     "raw": "\"Aaak!$\"",
     "source": "Aaak!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああっ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f582df1c703008cc",
@@ -483811,9 +484569,13 @@
     "end": 2475,
     "raw": "\"Has anyone made it to the end?$\"",
     "source": "Has anyone made it to the end?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}さいごまで いけた ひとは いるのかな?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "caa80bed0e80675d",
@@ -483823,9 +484585,13 @@
     "end": 32721,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b65efa246fa13917",
@@ -483835,9 +484601,13 @@
     "end": 32747,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "901f55112dd78e6d",
@@ -483847,9 +484617,13 @@
     "end": 32788,
     "raw": "\"“TRICK MASTER is a genius.”\\n\"",
     "source": "“TRICK MASTER is a genius.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうは てんさい」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "71e6a3484ed0a34d",
@@ -483859,9 +484633,13 @@
     "end": 32817,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d6fa8fa4efa237a5",
@@ -483871,9 +484649,13 @@
     "end": 32852,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e40cdf3e2ac74d88",
@@ -483883,9 +484665,15 @@
     "end": 32931,
     "raw": "\"CLICKETY-CLACK…\\n\"",
     "source": "CLICKETY-CLACK…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カタカタ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a1e56567fb9389c3",
@@ -483895,9 +484683,15 @@
     "end": 32962,
     "raw": "\"MECHADOLL 1 AM I!\\p\"",
     "source": "MECHADOLL 1 AM I!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ワタシハ カラクリニンギョウ1ゴウ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d0139b261746346a",
@@ -483907,9 +484701,15 @@
     "end": 33008,
     "raw": "\"IF YOU ANSWER QUIZZES CORRECTLY,\\n\"",
     "source": "IF YOU ANSWER QUIZZES CORRECTLY,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "クイズニ セイカイ スルト\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e2063728c38b545d",
@@ -483919,9 +484719,15 @@
     "end": 33054,
     "raw": "\"THEN YOU WILL GO TO MECHADOLL 5.\\l\"",
     "source": "THEN YOU WILL GO TO MECHADOLL 5.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カラクリニンギョウ5ゴウノ トコロヘ イケル。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a6aca6c5ffd4effb",
@@ -483931,9 +484737,15 @@
     "end": 33103,
     "raw": "\"THEN YOU CAN OBTAIN THE SECRET CODE.$\"",
     "source": "THEN YOU CAN OBTAIN THE SECRET CODE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ソシテ アイコトバガ テニ ハイル。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c9ff2ed79f259ac5",
@@ -483943,9 +484755,15 @@
     "end": 33184,
     "raw": "\"MECHADOLL 1 QUIZ.\\p\"",
     "source": "MECHADOLL 1 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ1ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "590058f303a83316",
@@ -483955,9 +484773,15 @@
     "end": 33231,
     "raw": "\"One of these POKéMON is not found\\n\"",
     "source": "One of these POKéMON is not found\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "110バンドウロニ ミツカラナイノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6a9c709cdeb898b1",
@@ -483967,9 +484791,15 @@
     "end": 33274,
     "raw": "\"on ROUTE 110. Which one is it?$\"",
     "source": "on ROUTE 110. Which one is it?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドノ ポケモン?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b5d9bd3708fb3cd1",
@@ -483979,9 +484809,15 @@
     "end": 33355,
     "raw": "\"MECHADOLL 1 QUIZ.\\p\"",
     "source": "MECHADOLL 1 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ1ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0d682b332978a6cb",
@@ -483991,9 +484827,15 @@
     "end": 33403,
     "raw": "\"One of these POKéMON is not of the\\n\"",
     "source": "One of these POKéMON is not of the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みずタイプデハ ナイノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "057f6f0e60f13d5e",
@@ -484003,9 +484845,15 @@
     "end": 33444,
     "raw": "\"WATER type. Which one is it?$\"",
     "source": "WATER type. Which one is it?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドノ ポケモン?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c8cc0623ec745c53",
@@ -484015,9 +484863,15 @@
     "end": 33525,
     "raw": "\"MECHADOLL 1 QUIZ.\\p\"",
     "source": "MECHADOLL 1 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ1ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9904ef4fa75b9efb",
@@ -484027,9 +484881,15 @@
     "end": 33572,
     "raw": "\"One of these POKéMON does not use\\n\"",
     "source": "One of these POKéMON does not use\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きゅうけつヲ ツカワナイノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "da2674fbf2c32b4f",
@@ -484039,9 +484899,15 @@
     "end": 33613,
     "raw": "\"LEECH LIFE. Which one is it?$\"",
     "source": "LEECH LIFE. Which one is it?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドノ ポケモン?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "71ff8b4b35cd5809",
@@ -484051,9 +484917,15 @@
     "end": 33711,
     "raw": "\"CONGRATULATIONS. CORRECT YOU ARE.\\n\"",
     "source": "CONGRATULATIONS. CORRECT YOU ARE.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}オメデトウ。セイカイ ダ アナタハ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "213025f298c7b2a4",
@@ -484063,9 +484935,15 @@
     "end": 33743,
     "raw": "\"GO THROUGH. PLEASE.$\"",
     "source": "GO THROUGH. PLEASE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "サキヘ ドウゾ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "df1e31b7503a6351",
@@ -484075,9 +484953,15 @@
     "end": 33833,
     "raw": "\"BZZZT. DISAPPOINTMENT.\\n\"",
     "source": "BZZZT. DISAPPOINTMENT.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ブーッ。ザンネン。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9e08e2afe8f0d2be",
@@ -484087,9 +484971,15 @@
     "end": 33852,
     "raw": "\"ERROR.$\"",
     "source": "ERROR.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "マチガイ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0a6ef356d4c98ba3",
@@ -484099,9 +484989,13 @@
     "end": 33934,
     "raw": "\"WAHAHAHAHA! WAHAHAHAHA!\\n\"",
     "source": "WAHAHAHAHA! WAHAHAHAHA!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ワハハハハ! ワハハハハ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "725c203d4d1c7981",
@@ -484111,9 +485005,13 @@
     "end": 33962,
     "raw": "\"CLICKETY-CLACK!$\"",
     "source": "CLICKETY-CLACK!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カタカタ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "454ef5e0fd71017b",
@@ -484123,9 +485021,15 @@
     "end": 34062,
     "raw": "\"YOUR NEXT CHALLENGE WE WAIT FOR.$\"",
     "source": "YOUR NEXT CHALLENGE WE WAIT FOR.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ツギノ チョウセンヲ オマチスル。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1ec8e5ddf882d2c2",
@@ -484135,9 +485039,13 @@
     "end": 34141,
     "raw": "\"CLICKETY-CLACK…\\n\"",
     "source": "CLICKETY-CLACK…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カタカタ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2bc0f86f4e9f8216",
@@ -484147,9 +485055,13 @@
     "end": 34172,
     "raw": "\"MECHADOLL 2 AM I!\\p\"",
     "source": "MECHADOLL 2 AM I!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ワタシハ カラクリニンギョウ2ゴウ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c2c1671136b769b",
@@ -484159,9 +485071,13 @@
     "end": 34221,
     "raw": "\"MECHADOLL 1'S QUIZ DIFFICULTY LEVEL\\n\"",
     "source": "MECHADOLL 1'S QUIZ DIFFICULTY LEVEL\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1ゴウノ クイズノ ナンイドハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "768e9fbb80c622cf",
@@ -484171,9 +485087,13 @@
     "end": 34249,
     "raw": "\"IS SET TOO LOW.$\"",
     "source": "IS SET TOO LOW.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ヒクスギル セッテイダ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0f5bb319e0be347c",
@@ -484183,9 +485103,15 @@
     "end": 34330,
     "raw": "\"MECHADOLL 2 QUIZ.\\p\"",
     "source": "MECHADOLL 2 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ2ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a152eaf0a4b2d022",
@@ -484195,9 +485121,15 @@
     "end": 34376,
     "raw": "\"Which of these POKéMON did WALLY\\n\"",
     "source": "Which of these POKéMON did WALLY\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルガ アナタノ オトウサンカラ カリタノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c9dcc4771d9216d6",
@@ -484207,9 +485139,15 @@
     "end": 34413,
     "raw": "\"borrow from your father?$\"",
     "source": "borrow from your father?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドノ ポケモン?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7b239e49217d585b",
@@ -484219,9 +485157,15 @@
     "end": 34494,
     "raw": "\"MECHADOLL 2 QUIZ.\\p\"",
     "source": "MECHADOLL 2 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ2ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b9c6d0bbc697df9c",
@@ -484231,9 +485175,15 @@
     "end": 34542,
     "raw": "\"Which of these POKéMON was chasing\\n\"",
     "source": "Which of these POKéMON was chasing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "オダマキハカセヲ オイカケテイタノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0b8f004798d4e5c5",
@@ -484243,9 +485193,15 @@
     "end": 34567,
     "raw": "\"PROF. BIRCH?$\"",
     "source": "PROF. BIRCH?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドノ ポケモン?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6fcb2dc95799c5b9",
@@ -484255,9 +485211,15 @@
     "end": 34648,
     "raw": "\"MECHADOLL 2 QUIZ.\\p\"",
     "source": "MECHADOLL 2 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ2ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "53efea86276cdeea",
@@ -484267,9 +485229,15 @@
     "end": 34698,
     "raw": "\"Which of these POKéMON did TEAM AQUA\\n\"",
     "source": "Which of these POKéMON did TEAM AQUA\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トウカノモリデ アクアダンガ ツカッタノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fcbac2b7fe0080e2",
@@ -484279,9 +485247,15 @@
     "end": 34735,
     "raw": "\"use in PETALBURG FOREST?$\"",
     "source": "use in PETALBURG FOREST?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドノ ポケモン?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a0b2f00af818cbbe",
@@ -484291,9 +485265,13 @@
     "end": 34814,
     "raw": "\"CLICKETY-CLACK…\\n\"",
     "source": "CLICKETY-CLACK…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カタカタ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "15a8c436bda258f3",
@@ -484303,9 +485281,13 @@
     "end": 34845,
     "raw": "\"MECHADOLL 3 AM I!\\p\"",
     "source": "MECHADOLL 3 AM I!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ワタシハ カラクリニンギョウ3ゴウ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "59d419114c212c6e",
@@ -484315,9 +485297,13 @@
     "end": 34893,
     "raw": "\"MATTERS OF MONEY ARE MY SOLE FOCUS.$\"",
     "source": "MATTERS OF MONEY ARE MY SOLE FOCUS.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "オカネノ コトダケニ シュウチュウ スル。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e70060942e80d8f",
@@ -484327,9 +485313,13 @@
     "end": 34974,
     "raw": "\"MECHADOLL 3 QUIZ.\\p\"",
     "source": "MECHADOLL 3 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ3ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "76a774525b3ce2ab",
@@ -484339,9 +485329,13 @@
     "end": 35005,
     "raw": "\"Which costs more?\\n\"",
     "source": "Which costs more?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ドチラガ タカイ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69b0ee23fc564180",
@@ -484351,9 +485345,13 @@
     "end": 35054,
     "raw": "\"Three HARBOR MAILS or one BURN HEAL?$\"",
     "source": "Three HARBOR MAILS or one BURN HEAL?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ハーバーメール3マイ ト やけどなおし1コ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "197ddc39dc269016",
@@ -484363,9 +485361,15 @@
     "end": 35135,
     "raw": "\"MECHADOLL 3 QUIZ.\\p\"",
     "source": "MECHADOLL 3 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ3ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "991f3811d30b553d",
@@ -484375,9 +485379,15 @@
     "end": 35176,
     "raw": "\"Sell one GREAT BALL and buy\\n\"",
     "source": "Sell one GREAT BALL and buy\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "スーパーボール1コヲ ウッテ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "06bfa51899feea00",
@@ -484387,9 +485397,15 @@
     "end": 35224,
     "raw": "\"one POTION. How much money remains?$\"",
     "source": "one POTION. How much money remains?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "キズぐすり1コヲ カウト イクラ ノコル?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7eaa4a6017a0a87e",
@@ -484399,9 +485415,15 @@
     "end": 35305,
     "raw": "\"MECHADOLL 3 QUIZ.\\p\"",
     "source": "MECHADOLL 3 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ3ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ae8e91687538bb91",
@@ -484411,9 +485433,15 @@
     "end": 35349,
     "raw": "\"Do one REPEL and SODA POP cost\\n\"",
     "source": "Do one REPEL and SODA POP cost\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むしよけスプレー ト サイコソーダヲ 1コズツ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b240d10069c7ede8",
@@ -484423,9 +485451,15 @@
     "end": 35389,
     "raw": "\"more than one SUPER POTION?$\"",
     "source": "more than one SUPER POTION?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カウト いいキズぐすり1コ ヨリ タカイ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fea615402549fccf",
@@ -484435,9 +485469,13 @@
     "end": 35468,
     "raw": "\"CLICKETY-CLACK…\\n\"",
     "source": "CLICKETY-CLACK…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カタカタ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "084562d328d74c1a",
@@ -484447,9 +485485,13 @@
     "end": 35505,
     "raw": "\"MECHADOLL 4 THAT IS ME!\\p\"",
     "source": "MECHADOLL 4 THAT IS ME!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カラクリニンギョウ4ゴウ ワタシダ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "92ed971a3379044d",
@@ -484459,9 +485501,13 @@
     "end": 35549,
     "raw": "\"MY QUIZ IS AN OBJECT OF BEAUTY.$\"",
     "source": "MY QUIZ IS AN OBJECT OF BEAUTY.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ワタシノ クイズハ ウツクシイ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "82fae36f3287a32b",
@@ -484471,9 +485517,15 @@
     "end": 35630,
     "raw": "\"MECHADOLL 4 QUIZ.\\p\"",
     "source": "MECHADOLL 4 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ4ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bda395162f002415",
@@ -484483,9 +485535,15 @@
     "end": 35682,
     "raw": "\"In SEASHORE HOUSE, were there more men\\n\"",
     "source": "In SEASHORE HOUSE, were there more men\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ウミノイエデ オオカッタノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "02e4e8cd558f38ac",
@@ -484495,9 +485553,15 @@
     "end": 35704,
     "raw": "\"or women?$\"",
     "source": "or women?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "オトコノヒト ト オンナノヒト ドチラ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "04193f8d3097a9b4",
@@ -484507,9 +485571,15 @@
     "end": 35785,
     "raw": "\"MECHADOLL 4 QUIZ.\\p\"",
     "source": "MECHADOLL 4 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ4ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "edcac8e7a068f9f2",
@@ -484519,9 +485589,15 @@
     "end": 35833,
     "raw": "\"In LAVARIDGE TOWN, were there more\\n\"",
     "source": "In LAVARIDGE TOWN, were there more\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "フエンタウンデ オオカッタノハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "170649f1935ad31d",
@@ -484531,9 +485607,15 @@
     "end": 35875,
     "raw": "\"elderly men or elderly women?$\"",
     "source": "elderly men or elderly women?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "オジイサン ト オバアサン ドチラ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d8c17f8c1590ff64",
@@ -484543,9 +485625,15 @@
     "end": 35956,
     "raw": "\"MECHADOLL 4 QUIZ.\\p\"",
     "source": "MECHADOLL 4 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ4ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e08635d924e92b66",
@@ -484555,9 +485643,15 @@
     "end": 36003,
     "raw": "\"In the TRAINER'S SCHOOL, how many\\n\"",
     "source": "In the TRAINER'S SCHOOL, how many\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トレーナーズスクールニ オンナノコノ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "54bee6c93715a4ac",
@@ -484567,9 +485661,15 @@
     "end": 36041,
     "raw": "\"girl students were there?$\"",
     "source": "girl students were there?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "セイトハ ナンニン イタ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a3d7014762ea0cbe",
@@ -484579,9 +485679,13 @@
     "end": 36120,
     "raw": "\"CLICKETY-CLACK…\\n\"",
     "source": "CLICKETY-CLACK…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カタカタ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "261e5be2db88df74",
@@ -484591,9 +485695,13 @@
     "end": 36151,
     "raw": "\"MECHADOLL 5 AM I!\\p\"",
     "source": "MECHADOLL 5 AM I!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ワタシハ カラクリニンギョウ5ゴウ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "10cf29cf8e1b6b3c",
@@ -484603,9 +485711,13 @@
     "end": 36195,
     "raw": "\"THE MASTER'S BEST AND PROUDEST\\n\"",
     "source": "THE MASTER'S BEST AND PROUDEST\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ダイオウノ サイコウケッサクデ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b437f3f8adaaa9ae",
@@ -484615,9 +485727,13 @@
     "end": 36225,
     "raw": "\"ACHIEVEMENT AM I.$\"",
     "source": "ACHIEVEMENT AM I.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "イチバンノ ジマンガ ワタシダ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0490b6bcc33e2cdd",
@@ -484627,9 +485743,15 @@
     "end": 36306,
     "raw": "\"MECHADOLL 5 QUIZ.\\p\"",
     "source": "MECHADOLL 5 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ5ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e23bd3651d3c7acc",
@@ -484639,9 +485761,15 @@
     "end": 36352,
     "raw": "\"In SLATEPORT's POKéMON FAN CLUB,\\n\"",
     "source": "In SLATEPORT's POKéMON FAN CLUB,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カイナノ ポケモンだいすきクラブニ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fc6b8598a015d099",
@@ -484651,9 +485779,15 @@
     "end": 36393,
     "raw": "\"how many POKéMON were there?$\"",
     "source": "how many POKéMON were there?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンハ ナンビキ イタ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "11b30890981759f8",
@@ -484663,9 +485797,15 @@
     "end": 36474,
     "raw": "\"MECHADOLL 5 QUIZ.\\p\"",
     "source": "MECHADOLL 5 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ5ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "27046e3310916cd1",
@@ -484675,9 +485815,15 @@
     "end": 36513,
     "raw": "\"In FORTREE CITY, how many\\n\"",
     "source": "In FORTREE CITY, how many\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ヒワマキシティノ ツリーハウスハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2039d31037d209a7",
@@ -484687,9 +485833,15 @@
     "end": 36549,
     "raw": "\"tree houses were there?$\"",
     "source": "tree houses were there?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "イクツ アッタ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "01cff82187478eab",
@@ -484699,9 +485851,15 @@
     "end": 36630,
     "raw": "\"MECHADOLL 5 QUIZ.\\p\"",
     "source": "MECHADOLL 5 QUIZ.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリニンギョウ5ゴウノ クイズ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4c1f976d79a0d089",
@@ -484711,9 +485869,15 @@
     "end": 36673,
     "raw": "\"On the CYCLING ROAD, how many\\n\"",
     "source": "On the CYCLING ROAD, how many\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "サイクリングロードニ トライアスリートハ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "54c3e3799b431073",
@@ -484723,9 +485887,15 @@
     "end": 36709,
     "raw": "\"TRIATHLETES were there?$\"",
     "source": "TRIATHLETES were there?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ナンニン イタ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "35f0f3a493251a16",
@@ -484735,9 +485905,13 @@
     "end": 1862,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4d55658f4f7b3788",
@@ -484747,9 +485921,13 @@
     "end": 1888,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78c8431968247889",
@@ -484759,9 +485937,13 @@
     "end": 1928,
     "raw": "\"“TRICK MASTER is my life.”\\n\"",
     "source": "“TRICK MASTER is my life.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうが いのち」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "62d97190d8f1c825",
@@ -484771,9 +485953,13 @@
     "end": 1957,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3d777306b1d7b40a",
@@ -484783,9 +485969,13 @@
     "end": 1992,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d3ba8eeac378ad3a",
@@ -484795,9 +485985,15 @@
     "end": 2084,
     "raw": "\"When I heard there was a strange\\n\"",
     "source": "When I heard there was a strange\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へんな やしきが あると きいたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "dde5044064932341",
@@ -484807,9 +486003,15 @@
     "end": 2126,
     "raw": "\"house, I had to check it out.$\"",
     "source": "house, I had to check it out.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たしかめずには いられなかったの。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5de9624891df798a",
@@ -484819,9 +486021,15 @@
     "end": 2218,
     "raw": "\"I've discovered a tough TRAINER!$\"",
     "source": "I've discovered a tough TRAINER!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}つよい トレーナーを はっけん!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a76bd039f79191fc",
@@ -484831,9 +486039,13 @@
     "end": 2319,
     "raw": "\"I'm sure having a good time checking\\n\"",
     "source": "I'm sure having a good time checking\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここを しらべるのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a38d6dc97fb1d39a",
@@ -484843,9 +486055,13 @@
     "end": 2348,
     "raw": "\"this place out.\\p\"",
     "source": "this place out.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに たのしいわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "32e9ce557fc6025e",
@@ -484855,9 +486071,13 @@
     "end": 2395,
     "raw": "\"It's a challenge I've found worth\\n\"",
     "source": "It's a challenge I've found worth\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くりかえし ちょうせんする かちが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "40bc684053ead858",
@@ -484867,9 +486087,13 @@
     "end": 2418,
     "raw": "\"repeating!$\"",
     "source": "repeating!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あるって わかったの!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cbf6705945cec521",
@@ -484879,9 +486103,15 @@
     "end": 2510,
     "raw": "\"Maybe I could get my BIRD POKéMON\\n\"",
     "source": "Maybe I could get my BIRD POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とりポケモンに かべを とびこえさせれば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "55d2dbb101914861",
@@ -484891,9 +486121,15 @@
     "end": 2544,
     "raw": "\"to fly over the wall…$\"",
     "source": "to fly over the wall…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いけるかも しれないな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9735925ca8ade1c9",
@@ -484903,9 +486139,15 @@
     "end": 2621,
     "raw": "\"Gwaaah! I blew it!$\"",
     "source": "Gwaaah! I blew it!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わわっ しまった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ac8629e0a993f4e2",
@@ -484915,9 +486157,15 @@
     "end": 2716,
     "raw": "\"Ehehehe… I guess I lost because\\n\"",
     "source": "Ehehehe… I guess I lost because\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てへへ… ズルしようと したから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a962be46e7ec7cf6",
@@ -484927,9 +486175,15 @@
     "end": 2751,
     "raw": "\"I was trying to cheat.$\"",
     "source": "I was trying to cheat.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まけちゃったの かな……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "397320dad299a6ca",
@@ -484939,9 +486193,15 @@
     "end": 2851,
     "raw": "\"I'm getting dizzy from these rotating\\n\"",
     "source": "I'm getting dizzy from these rotating\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かいてん する とびらで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c6114ceb170687a4",
@@ -484951,9 +486211,15 @@
     "end": 2870,
     "raw": "\"doors…$\"",
     "source": "doors…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "めが まわってきた……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "88b40c42102a3174",
@@ -484963,9 +486229,15 @@
     "end": 2966,
     "raw": "\"Everything's spinning around and\\n\"",
     "source": "Everything's spinning around and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くーるくる くーるくる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5710e26604b30286",
@@ -484975,9 +486247,15 @@
     "end": 3013,
     "raw": "\"around. I can't take this anymore…$\"",
     "source": "around. I can't take this anymore…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれは もう ダメだ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cb1f1befcee50293",
@@ -484987,9 +486265,15 @@
     "end": 3118,
     "raw": "\"You don't seem to be affected at all.\\n\"",
     "source": "You don't seem to be affected at all.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}キミは ぜんぜん へいき みたいだね\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "76e74eebe142268b",
@@ -484999,9 +486283,15 @@
     "end": 3165,
     "raw": "\"Or do you have your poker face on?$\"",
     "source": "Or do you have your poker face on?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それとも ポーカーフェイス なの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3d9c526557a28892",
@@ -485011,9 +486301,13 @@
     "end": 11822,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5165af05a748b41f",
@@ -485023,9 +486317,13 @@
     "end": 11848,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8b6e99d329567406",
@@ -485035,9 +486333,13 @@
     "end": 11889,
     "raw": "\"“TRICK MASTER is huggable.”\\n\"",
     "source": "“TRICK MASTER is huggable.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうは だきしめたくなる」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ee04c8cffd32602b",
@@ -485047,9 +486349,13 @@
     "end": 11918,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a649bf2f6d79cba",
@@ -485059,9 +486365,13 @@
     "end": 11953,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "25f81c015ace9340",
@@ -485071,9 +486381,15 @@
     "end": 12045,
     "raw": "\"The TRICK MASTER always vanishes\\n\"",
     "source": "The TRICK MASTER always vanishes\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリだいおうは けむりみたいに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3dfcdfeb7fa424af",
@@ -485083,9 +486399,15 @@
     "end": 12088,
     "raw": "\"like smoke. How does he do it?$\"",
     "source": "like smoke. How does he do it?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつも きえるけど どうやるんだろう?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e04540bfaa37df89",
@@ -485095,9 +486417,15 @@
     "end": 12181,
     "raw": "\"Aiyeeeh! You're much too strong!\\n\"",
     "source": "Aiyeeeh! You're much too strong!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ひええ! つよすぎるよ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "040b1a3eb152a806",
@@ -485107,9 +486435,15 @@
     "end": 12211,
     "raw": "\"How do you do it?$\"",
     "source": "How do you do it?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうやってるの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "acdf14b9e7558480",
@@ -485119,9 +486453,15 @@
     "end": 12314,
     "raw": "\"I wish I could appear and disappear as\\n\"",
     "source": "I wish I could appear and disappear as\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぼくも けむりのように\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7280ee5e169fa6ca",
@@ -485131,9 +486471,15 @@
     "end": 12348,
     "raw": "\"if I were smoke, too.$\"",
     "source": "if I were smoke, too.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きえたり あらわれたり してみたいな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8400e551fbb123d0",
@@ -485143,9 +486489,15 @@
     "end": 12437,
     "raw": "\"Going around the same spot…\\n\"",
     "source": "Going around the same spot…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おなじところを つづけて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d39e24dcd04d77d7",
@@ -485155,9 +486507,15 @@
     "end": 12472,
     "raw": "\"It begets ill fortune…$\"",
     "source": "It begets ill fortune…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんども まわると ふきつなのよ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "76152b98ba0f9843",
@@ -485167,9 +486525,15 @@
     "end": 12544,
     "raw": "\"Defeated!\\n\"",
     "source": "Defeated!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まけた……!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "302aba52d8180b4e",
@@ -485179,9 +486543,15 @@
     "end": 12573,
     "raw": "\"It's a bad sign…$\"",
     "source": "It's a bad sign…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えんぎが わるいわ……!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b1b8702e90936394",
@@ -485191,9 +486561,15 @@
     "end": 12675,
     "raw": "\"I've circled the same spot over ten\\n\"",
     "source": "I've circled the same spot over ten\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もう 10かいを こえて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3e727f568b57209f",
@@ -485203,9 +486579,15 @@
     "end": 12716,
     "raw": "\"times now… It's ill fortune…$\"",
     "source": "times now… It's ill fortune…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おなじ ばしょを まわった… ふきつだわ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "be3da9c48d74b624",
@@ -485215,9 +486597,15 @@
     "end": 12810,
     "raw": "\"Whoever wins will get through here\\n\"",
     "source": "Whoever wins will get through here\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かった ほうが さきに このしかけを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d0b8dbdbafb7718e",
@@ -485227,9 +486615,15 @@
     "end": 12855,
     "raw": "\"first. That's the feeling I get.$\"",
     "source": "first. That's the feeling I get.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぬけられる よかんが するわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e6bb1b6796cd685c",
@@ -485239,9 +486633,15 @@
     "end": 12919,
     "raw": "\"Oh!\\n\"",
     "source": "Oh!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f8679c3acf41adf2",
@@ -485251,9 +486651,15 @@
     "end": 12953,
     "raw": "\"Well, go ahead, then!$\"",
     "source": "Well, go ahead, then!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃあ おさきに どうぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "260b4bc480f18461",
@@ -485263,9 +486669,15 @@
     "end": 13055,
     "raw": "\"You're solving all the puzzles in the\\n\"",
     "source": "You're solving all the puzzles in the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カラクリやしきの しかけを ぜんぶ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "50466cb36c5809fc",
@@ -485275,9 +486687,15 @@
     "end": 13106,
     "raw": "\"TRICK HOUSE. That's the feeling I get.$\"",
     "source": "TRICK HOUSE. That's the feeling I get.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "といていそうな かんじが するわ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "171aa12580825e9d",
@@ -485287,9 +486705,15 @@
     "end": 13190,
     "raw": "\"Nufufufu, here at last!\\n\"",
     "source": "Nufufufu, here at last!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}んっふっふっふ きたわねっ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "86cd960f6ed07182",
@@ -485299,9 +486723,15 @@
     "end": 13227,
     "raw": "\"Let's get right with it!$\"",
     "source": "Let's get right with it!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さあ しょうぶよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f5be6242053a2917",
@@ -485311,9 +486741,15 @@
     "end": 13319,
     "raw": "\"You're so casual about winning!$\"",
     "source": "You're so casual about winning!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あっさり かってくれちゃって!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d010c7b481e1bcc2",
@@ -485323,9 +486759,15 @@
     "end": 13406,
     "raw": "\"Humph! I'm not upset!\\n\"",
     "source": "Humph! I'm not upset!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふん べつに くやしく ないから!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c5b0f8ca03d0cc47",
@@ -485335,9 +486777,15 @@
     "end": 13426,
     "raw": "\"Not me!$\"",
     "source": "Not me!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたし!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "594954160c83545b",
@@ -485347,9 +486795,13 @@
     "end": 13522,
     "raw": "\"I ever so closely watched you coming!$\"",
     "source": "I ever so closely watched you coming!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみが くるのを じっくり みていたぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bf76cdeca917c185",
@@ -485359,9 +486811,13 @@
     "end": 13615,
     "raw": "\"This outcome I didn't see coming…$\"",
     "source": "This outcome I didn't see coming…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この けっかは みえて いなかった…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6a18d035675c5030",
@@ -485371,9 +486827,13 @@
     "end": 13716,
     "raw": "\"Well, anyway, we both picked a weird\\n\"",
     "source": "Well, anyway, we both picked a weird\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まあ とにかく おたがい へんな ばしょで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2207a95510412709",
@@ -485383,9 +486843,13 @@
     "end": 13754,
     "raw": "\"place to get acquainted.\\p\"",
     "source": "place to get acquainted.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しりあった ものだね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5298924300ac9217",
@@ -485395,9 +486859,13 @@
     "end": 13793,
     "raw": "\"As one weirdo to another,\\n\"",
     "source": "As one weirdo to another,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "へんじん どうし\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "af1a9296e215aabc",
@@ -485407,9 +486875,13 @@
     "end": 13824,
     "raw": "\"let's do our best!$\"",
     "source": "let's do our best!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がんばって いこうじゃないか!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a9d35fe460166ad4",
@@ -485419,9 +486891,13 @@
     "end": 13913,
     "raw": "\"It's awfully cramped in here…$\"",
     "source": "It's awfully cramped in here…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは ずいぶん きゅうくつだな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "798f7b5358444008",
@@ -485431,9 +486907,15 @@
     "end": 13998,
     "raw": "\"Oh, yes, strong you are.$\"",
     "source": "Oh, yes, strong you are.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお つよいつよい。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ffd011ff95ded3db",
@@ -485443,9 +486925,15 @@
     "end": 14102,
     "raw": "\"I was hoping to switch places with you\\n\"",
     "source": "I was hoping to switch places with you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もし かったら いれかわって やれと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f6befc76c299eaab",
@@ -485455,9 +486943,15 @@
     "end": 14136,
     "raw": "\"when I beat you, but…$\"",
     "source": "when I beat you, but…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもって いたんだけどね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9d15b5985fc7cb30",
@@ -485467,9 +486961,13 @@
     "end": 1302,
     "raw": "\"{PLAYER} wrote down the secret code\\n\"",
     "source": "{PLAYER} wrote down the secret code\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6124ed4f823c42c7",
@@ -485479,9 +486977,13 @@
     "end": 1328,
     "raw": "\"on the door.\\p\"",
     "source": "on the door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらに かきつけた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5e232634e6936d97",
@@ -485491,9 +486993,13 @@
     "end": 1364,
     "raw": "\"“TRICK MASTER I love.”\\n\"",
     "source": "“TRICK MASTER I love.”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カラクリだいおうが だいすき」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "355a1ccfed725354",
@@ -485503,9 +487009,13 @@
     "end": 1393,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3c3a547bebd54987",
@@ -485515,9 +487025,13 @@
     "end": 1428,
     "raw": "\"The lock clicked open!$\"",
     "source": "The lock clicked open!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カチッと カギが あいた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "73ca6088e788dde0",
@@ -485527,9 +487041,15 @@
     "end": 1519,
     "raw": "\"Not many TRAINERS have made it\\n\"",
     "source": "Not many TRAINERS have made it\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここまで こられる トレーナーは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0c14992339583f3f",
@@ -485539,9 +487059,15 @@
     "end": 1541,
     "raw": "\"this far.$\"",
     "source": "this far.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうは いないよな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "861e1635096efe89",
@@ -485551,9 +487077,13 @@
     "end": 1635,
     "raw": "\"That must mean you're tough, too…$\"",
     "source": "That must mean you're tough, too…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみも つよいって ことだろうな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "56e955bffbfbcad9",
@@ -485563,9 +487093,15 @@
     "end": 1733,
     "raw": "\"You've beaten the POKéMON LEAGUE\\n\"",
     "source": "You've beaten the POKéMON LEAGUE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えっ ポケモンリーグの チャンピオンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "262821fccdaa1d35",
@@ -485575,9 +487111,15 @@
     "end": 1772,
     "raw": "\"CHAMPION? That's too much!$\"",
     "source": "CHAMPION? That's too much!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かったって? す すごい……!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9fefe6cf3aba504c",
@@ -485587,9 +487129,15 @@
     "end": 1860,
     "raw": "\"Consider yourself lucky to be\\n\"",
     "source": "Consider yourself lucky to be\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしと しょうぶ できるなんて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8e15b6b181c83882",
@@ -485599,9 +487147,15 @@
     "end": 1885,
     "raw": "\"battling me!$\"",
     "source": "battling me!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなた しあわせよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "97e523bf04940b03",
@@ -485611,9 +487165,15 @@
     "end": 1962,
     "raw": "\"This isn't right!\\n\"",
     "source": "This isn't right!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そんな わたしが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "377caf8b8bc81c3f",
@@ -485623,9 +487183,15 @@
     "end": 1988,
     "raw": "\"I can't lose!$\"",
     "source": "I can't lose!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まけるなんて……!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d1b1a4b3c059fe54",
@@ -485635,9 +487201,15 @@
     "end": 2084,
     "raw": "\"It's a miracle that you beat me.\\n\"",
     "source": "It's a miracle that you beat me.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしに かつなんて きせきよ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5fd184bd80c99d4c",
@@ -485647,9 +487219,15 @@
     "end": 2119,
     "raw": "\"You can brag about it.$\"",
     "source": "You can brag about it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じまん できる ことだわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9db84db87637da12",
@@ -485659,9 +487237,15 @@
     "end": 2216,
     "raw": "\"You've been slugging through the TRICK\\n\"",
     "source": "You've been slugging through the TRICK\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなたも カラクリやしきに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0f846aaa06cced49",
@@ -485671,9 +487255,15 @@
     "end": 2250,
     "raw": "\"HOUSE challenge, too.$\"",
     "source": "HOUSE challenge, too.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうせん しつづけて いるんですね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0d517a62aab2a524",
@@ -485683,9 +487273,15 @@
     "end": 2316,
     "raw": "\"I see…\\n\"",
     "source": "I see…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なるほど……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bee17ca445bf38bb",
@@ -485695,9 +487291,15 @@
     "end": 2364,
     "raw": "\"You possess an extraordinary style.$\"",
     "source": "You possess an extraordinary style.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとなみはずれた スタイルですね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "55df47f7a3b5505c",
@@ -485707,9 +487309,15 @@
     "end": 2465,
     "raw": "\"Seeing someone like you should please\\n\"",
     "source": "Seeing someone like you should please\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなた みたいな ひとが きてくれて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d60199a73263a386",
@@ -485719,9 +487327,15 @@
     "end": 2495,
     "raw": "\"the TRICK MASTER.$\"",
     "source": "the TRICK MASTER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カラクリだいおうも まんぞく でしょうね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d282fe64a90511b1",

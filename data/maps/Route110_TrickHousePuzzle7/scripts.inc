@@ -315,78 +315,78 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\n"
+	.string "とびらに かきつけた。\p"
+	.string "「カラクリだいおうは だきしめたくなる」\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "カチッと カギが あいた!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "{JPN}カラクリだいおうは けむりみたいに\n"
+	.string "いつも きえるけど どうやるんだろう?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "{JPN}ひええ! つよすぎるよ!\n"
+	.string "どうやってるの?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "{JPN}ぼくも けむりのように\n"
+	.string "きえたり あらわれたり してみたいな。$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "{JPN}おなじところを つづけて\n"
+	.string "なんども まわると ふきつなのよ……$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "{JPN}まけた……!\n"
+	.string "えんぎが わるいわ……!$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "{JPN}もう 10かいを こえて\n"
+	.string "おなじ ばしょを まわった… ふきつだわ…$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "{JPN}かった ほうが さきに このしかけを\n"
+	.string "ぬけられる よかんが するわ!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
-	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "{JPN}あら!\n"
+	.string "じゃあ おさきに どうぞ!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.string "{JPN}カラクリやしきの しかけを ぜんぶ\n"
+	.string "といていそうな かんじが するわ。$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "{JPN}んっふっふっふ きたわねっ\n"
+	.string "さあ しょうぶよ!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "{JPN}あっさり かってくれちゃって!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "{JPN}ふん べつに くやしく ないから!\n"
+	.string "わたし!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "{JPN}きみが くるのを じっくり みていたぞ!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "{JPN}この けっかは みえて いなかった…$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "{JPN}まあ とにかく おたがい へんな ばしょで\n"
+	.string "しりあった ものだね。\p"
+	.string "へんじん どうし\n"
+	.string "がんばって いこうじゃないか!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "{JPN}ここは ずいぶん きゅうくつだな…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "{JPN}おお つよいつよい。$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "{JPN}もし かったら いれかわって やれと\n"
+	.string "おもって いたんだけどね。$"
 

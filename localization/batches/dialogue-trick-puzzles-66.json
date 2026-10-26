@@ -1,0 +1,2872 @@
+[
+  {
+    "id": "0d91ac4a2c2555d8",
+    "translation": "{JPN}あっ!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8ee2363c15e24d62",
+    "translation": "あんた ここまで こられたのか!\\l",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0b243690c019101a",
+    "translation": "うーむ…… できる!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "fc954d05b93549fe",
+    "translation": "{JPN}あの きを ぜんぶ うえるのに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "48b0fd542912b663",
+    "translation": "ひとばん かかったのに…\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "362f920800ac04ed",
+    "translation": "きみの すごさは わがはいの つぎの\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b1e3eb0bde3001ed",
+    "translation": "つぎの つぎの つぎの つぎの つぎだ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a1e8132139cace08",
+    "translation": "{JPN}てつやで めいろを つくったのに……\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5a23ec0de6444128",
+    "translation": "わがはいの つぎの つぎの つぎの つぎの\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "aff029ba1bf0efa8",
+    "translation": "つぎ くらいに すごい!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "881306d4433dc706",
+    "translation": "{JPN}かべの パネルを じゅんびするのに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5c86c6fd67d80bf8",
+    "translation": "ひとばん かかったのに…\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "010a8ed9bb588ec8",
+    "translation": "きみの すごさは わがはいの つぎの\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "892f47b449570251",
+    "translation": "つぎの つぎの つぎだ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cf703e30e3178b20",
+    "translation": "{JPN}あの いわを おしこむのに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f0a7fe591d935562",
+    "translation": "ひとばん かかったのに…\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cd2459bcfd258067",
+    "translation": "きみの すごさは わがはいの つぎの\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "209e82910df0e5f7",
+    "translation": "つぎの つぎだ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7acea023471762d1",
+    "translation": "{JPN}てつやで にんぎょう つくって\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d089dbfc0cebbe70",
+    "translation": "てつやで クイズも かんがえたのに……\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9370414c09ed8e80",
+    "translation": "わがはいの つぎの つぎ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "79001a42a07f6a61",
+    "translation": "くらいに すごい!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c5a87ccf38231ed2",
+    "translation": "{JPN}とびらを とりつけるのに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e535d8bfa1e58a38",
+    "translation": "ひとばん かかったのに…\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8e46b175c1d303bb",
+    "translation": "きみも ほとんど わがはいほどに すごいぞ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e0a4f704ec9a957a",
+    "translation": "{JPN}てつやで やじるしを ならべたのに……\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "44f555c71f7c38c2",
+    "translation": "わがはいと おなじ くらい すごい!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "08fccb06c34d6ab8",
+    "translation": "{JPN}ひとばんじゅう ゆかを みがいたのに…\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a7a3b1724667dfa9",
+    "translation": "きみは わがはいより すごい!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "77911ec15c263f4e",
+    "translation": "かも しれない…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e90590ef73f6812c",
+    "translation": "{JPN}ど どうすれば いいのだ?\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "08783fb63c805dcc",
+    "translation": "しかけの アイデアの いずみが\\l",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e1594de0af415185",
+    "translation": "かれて しまった…\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8f55b815fac64dcb",
+    "translation": "あたらしい しかけを かんがえるために\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "73ce174c629ef0eb",
+    "translation": "ぜんこくを たびする ときなのかも しれん…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2e11f40f0d304be6",
+    "translation": "{JPN}まけは みとめたくないが\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2b3448bb8391fc39",
+    "translation": "きみには まけた!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ef0dc7fc031c1bc3",
+    "translation": "それでも なんども なんども くるのは\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a16fd6ba09b200d6",
+    "translation": "わがはいの カリスマに ひかれたから\\l",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "95f109a2f39726c5",
+    "translation": "なのだろう。うむ そうに ちがいない!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "67ba37057467225e",
+    "translation": "だが それと わがはいが まけたことは\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a75c7dc70a50d574",
+    "translation": "なんの かんけいも ないぞ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4c74fbecdc0f1065",
+    "translation": "ねっしんな きみと てんさいの わがはい。\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d9174f94c3c1cbf1",
+    "translation": "ふたりの ゆうじょうの しるしとして\\l",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2e669444c17df002",
+    "translation": "この きねんの しなを\\l",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e50665dd069a7e52",
+    "translation": "ぜひとも うけとるのだ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "32f0f44b6c1d34ca",
+    "translation": "じつは ふたつ あってな。\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0700e266994806dc",
+    "translation": "あかいテントと あおいテントだ。\\l",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3bf0688ae01903eb",
+    "translation": "どちらが おこのみかな?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a8b2a474ec978bef",
+    "translation": "{JPN}なに パソコンに はいりきらない?\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6c3a134b212ea4d4",
+    "translation": "いったい どう うけとめれば いいのだ?\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "13470e316ff41817",
+    "translation": "…と いいたいが わがはいは やさしすぎて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "31428e52517c9c14",
+    "translation": "おもいやりも あるので あとで くるがいい!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5e04c8d5d65b2ba0",
+    "translation": "{JPN}… … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c68344f4734a9231",
+    "translation": "わがはいは はっけんの たびに でる。\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "741619dd66f9c5c6",
+    "translation": "あたらしい しかけを さがす たびにな。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9d7ad192c3c5968b",
+    "translation": "いつか また あいにきて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a44d2e208da736f1",
+    "translation": "わがはいを たのしませて ほしい。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ab2944c0ff77b78c",
+    "translation": "それでは さらばだ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6b05dfeff8ceadc3",
+    "translation": "{JPN}よし!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c019275e1469a270",
+    "translation": "きみは この ごほうびに ふさわしい!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1fc5f3b028a30271",
+    "translation": "{JPN}なに? これが はいらないのか?\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c65a0cde8cf3a1b1",
+    "translation": "いったい どんな どうぐを もっているんだ?\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "45d4522b3683db9e",
+    "translation": "まあ いい。ここまで きたのだから\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "44278891be858303",
+    "translation": "ごほうびは あとまで あずかっておこう。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f5bb70e428d6a187",
+    "translation": "{JPN}その とくいげな ニヤニヤを やめるのだ!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1735e08961183093",
+    "translation": "かったと おもうのは まだまだ はやいぞ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0372221817fe511b",
+    "translation": "きみを こまらせる しかけを また つくるぞ。\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "25dfc58007688dad",
+    "translation": "わがはいを わらうのは といてからに しろ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c9f607c42311145f",
+    "translation": "つぎの ワクワクする しかけにも\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b01ad51abde4a045",
+    "translation": "また ちょうせん しにくるが いい!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f410c798d3ff6512",
+    "translation": "{JPN}おい おい! わがはいを むしするのか?\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0c03168d8eda0161",
+    "translation": "それは むねが はりさけるほど かなしいぞ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5248142209aa7483",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4d4351d119f80379",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9ab7347e4f629807",
+    "translation": "「カラクリだいおうは すばらしい」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3a08f048ed4c366f",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cadcb7d38e6192cf",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c21b3e7676a69112",
+    "translation": "{JPN}おぼえたての いあいぎりで\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3ffaeaf286b57fb7",
+    "translation": "きって きって かちすすむわ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e998953199a02d29",
+    "translation": "{JPN}どうして そんなに ほんきなの?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3f437749701ecc65",
+    "translation": "{JPN}きって きって きりまくっても\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "14985577caa558ce",
+    "translation": "ちっとも あきないわ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "524ae85401648c15",
+    "translation": "{JPN}へんな やしきに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b5bdd2ba3f589a5f",
+    "translation": "まよいこんじゃった……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "60305fea2ffd27c3",
+    "translation": "{JPN}おまけに まけちゃった……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3f5f4ed8fc4184c9",
+    "translation": "{JPN}みちに まよって しょうぶにも まけて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2cda537e9e03f381",
+    "translation": "さらに まよった… でられない…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9ef10a61a5828229",
+    "translation": "{JPN}カラクリだいおうって いったい なにもの?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "47c1075bd053c8f8",
+    "translation": "{JPN}かんがえごとを していたら まけちゃった!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6f634cd6e0baa80c",
+    "translation": "{JPN}つよいわ!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "69126b6bcea909a2",
+    "translation": "あなたも なにもの なの?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "acedd93daee6369b",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "21ebf4307b84e982",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "791dc56c83ec5b2e",
+    "translation": "「カラクリだいおうは かしこい」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a01128625ce3ab48",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4ed250e4a7bbe52b",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "54d24aa6d8cfca25",
+    "translation": "{JPN}どの スイッチが どの あなを ふさぐんだ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "54a07228d0666c15",
+    "translation": "{JPN}しょうぶ してたら\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1f3edef14294072b",
+    "translation": "よけい わかんなくなった!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ce8445a38da479ec",
+    "translation": "{JPN}きみ ぼくの かわりに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3fa67fd7201afe4d",
+    "translation": "スイッチ ぜんぶ おしてきてよ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5ecf2a693e9d4bcf",
+    "translation": "{JPN}おっ! カラクリやしき\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ed7d8e8559cf6e13",
+    "translation": "2どめの チャレンジだね!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "fa72283ac156c465",
+    "translation": "{JPN}しょうぶも とくいなの?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "792915f7dcf05d72",
+    "translation": "{JPN}カラクリだいおうが ひとりで\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d084c8db29cec804",
+    "translation": "この いえの しかけを ぜんぶ つくったんだ。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "86d4e9eeaedb65e7",
+    "translation": "{JPN}いつか わたしの ジムを つくりたくて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e10e3f3446ef3a9c",
+    "translation": "しかけを けんきゅうしてるの!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "24183de5384ed183",
+    "translation": "{JPN}しょうぶの べんきょうが たりなかった!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cdacf678e65dffad",
+    "translation": "{JPN}あなた つよいのね…\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "277dd5fee413c614",
+    "translation": "ジムリーダーに なれるんじゃない?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cbf27e0b2c6cbef7",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9b1f77131e215e22",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3c4fd9a4b851c8d0",
+    "translation": "「カラクリだいおうは あこがれの まと」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5321126f397e551a",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fc1fcf8f541e4472",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d14d57fe4ba97e6a",
+    "translation": "{JPN}なんども おなじ ばしょに もどってくる!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fc597e8399c18d64",
+    "translation": "{JPN}ぼくが こまってるのに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d1af0d51704b6c83",
+    "translation": "ダメおしで かつなんて ひどいよー!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ee135e04ab1656a5",
+    "translation": "{JPN}とびら だらけで\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b0511802975e1ae6",
+    "translation": "せまくて くらいよー! たすけて!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a913744b9c87850b",
+    "translation": "{JPN}なにが なんだか わからなくて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6e79d8c7bb32718e",
+    "translation": "かなしく なってきたわ……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "690a8dca4a64c13a",
+    "translation": "{JPN}ひっ ひどいわ……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e676a79b39bd6861",
+    "translation": "{JPN}どうせ あたしは よわいし\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6bc34ae710e40414",
+    "translation": "ほうこうおんちよー!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0ed0a296c1d30d56",
+    "translation": "{JPN}わからん。こんな へんな やしきが\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "02b91230904de347",
+    "translation": "なんの やくに たつというんだ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a7933cab388c3618",
+    "translation": "{JPN}わからん。\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f9e59e36c4c36b24",
+    "translation": "どうして まけたんだ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "79b34d5f2ab4a245",
+    "translation": "{JPN}わからん。この やしきには\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7726f8e99557ecb4",
+    "translation": "しかけが いくつ あるんだろう?\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3c4270bb7ea7ab20",
+    "translation": "きみなら わかるかもな。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "49c7330df770f301",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ecc27ed7622368a5",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "718d1dcd0c815791",
+    "translation": "「カラクリだいおうは かっこいい」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "14e9a8b99bd966ed",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3afe1f0558b9e5e2",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f99925b337a51a7a",
+    "translation": "{JPN}こういうの かんがえるのって めんどう!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "27607184b8af2ce9",
+    "translation": "わたしは しょうぶだけ したいのにー!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "95490a5258c0f879",
+    "translation": "{JPN}まけちゃった けど やっぱり\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e69567306755145c",
+    "translation": "しょうぶが いちばん たのしい!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b005e0dca255761b",
+    "translation": "{JPN}トレーナーが いそうな ところは\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b0895bc137dd9fcd",
+    "translation": "どこにでも いきたく なるわよね!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ea26fe80ceeb26db",
+    "translation": "{JPN}ふん! こんな いわくらい\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "112c07ec6d073933",
+    "translation": "ゆび1ぽんで おしのけられるぜ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7d62534ce7f80e93",
+    "translation": "{JPN}いわが おせても\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f4c03d91535d9e14",
+    "translation": "パズルが とけない……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a4bac6cbc054de44",
+    "translation": "{JPN}ちからが つよいだけじゃ ダメだね……\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "84b5953236f636e9",
+    "translation": "アタマ つかわないと。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "33342dbd0b2e0e5e",
+    "translation": "{JPN}カラクリやしきも だんだん\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "946985d38fae2865",
+    "translation": "むずかしく なってきたわね!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4ed50b10504f35c3",
+    "translation": "{JPN}ああっ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f582df1c703008cc",
+    "translation": "{JPN}さいごまで いけた ひとは いるのかな?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "caa80bed0e80675d",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b65efa246fa13917",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "901f55112dd78e6d",
+    "translation": "「カラクリだいおうは てんさい」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "71e6a3484ed0a34d",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d6fa8fa4efa237a5",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e40cdf3e2ac74d88",
+    "translation": "{JPN}カタカタ…\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a1e56567fb9389c3",
+    "translation": "ワタシハ カラクリニンギョウ1ゴウ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d0139b261746346a",
+    "translation": "クイズニ セイカイ スルト\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e2063728c38b545d",
+    "translation": "カラクリニンギョウ5ゴウノ トコロヘ イケル。\\l",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a6aca6c5ffd4effb",
+    "translation": "ソシテ アイコトバガ テニ ハイル。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c9ff2ed79f259ac5",
+    "translation": "{JPN}カラクリニンギョウ1ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "590058f303a83316",
+    "translation": "110バンドウロニ ミツカラナイノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6a9c709cdeb898b1",
+    "translation": "ドノ ポケモン?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b5d9bd3708fb3cd1",
+    "translation": "{JPN}カラクリニンギョウ1ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0d682b332978a6cb",
+    "translation": "みずタイプデハ ナイノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "057f6f0e60f13d5e",
+    "translation": "ドノ ポケモン?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c8cc0623ec745c53",
+    "translation": "{JPN}カラクリニンギョウ1ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9904ef4fa75b9efb",
+    "translation": "きゅうけつヲ ツカワナイノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "da2674fbf2c32b4f",
+    "translation": "ドノ ポケモン?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "71ff8b4b35cd5809",
+    "translation": "{JPN}オメデトウ。セイカイ ダ アナタハ。\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "213025f298c7b2a4",
+    "translation": "サキヘ ドウゾ。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "df1e31b7503a6351",
+    "translation": "{JPN}ブーッ。ザンネン。\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9e08e2afe8f0d2be",
+    "translation": "マチガイ。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0a6ef356d4c98ba3",
+    "translation": "{JPN}ワハハハハ! ワハハハハ!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "725c203d4d1c7981",
+    "translation": "カタカタ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "454ef5e0fd71017b",
+    "translation": "{JPN}ツギノ チョウセンヲ オマチスル。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1ec8e5ddf882d2c2",
+    "translation": "{JPN}カタカタ…\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2bc0f86f4e9f8216",
+    "translation": "ワタシハ カラクリニンギョウ2ゴウ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7c2c1671136b769b",
+    "translation": "1ゴウノ クイズノ ナンイドハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "768e9fbb80c622cf",
+    "translation": "ヒクスギル セッテイダ。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0f5bb319e0be347c",
+    "translation": "{JPN}カラクリニンギョウ2ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a152eaf0a4b2d022",
+    "translation": "ミツルガ アナタノ オトウサンカラ カリタノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c9dcc4771d9216d6",
+    "translation": "ドノ ポケモン?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7b239e49217d585b",
+    "translation": "{JPN}カラクリニンギョウ2ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b9c6d0bbc697df9c",
+    "translation": "オダマキハカセヲ オイカケテイタノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0b8f004798d4e5c5",
+    "translation": "ドノ ポケモン?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6fcb2dc95799c5b9",
+    "translation": "{JPN}カラクリニンギョウ2ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "53efea86276cdeea",
+    "translation": "トウカノモリデ アクアダンガ ツカッタノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "fcbac2b7fe0080e2",
+    "translation": "ドノ ポケモン?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a0b2f00af818cbbe",
+    "translation": "{JPN}カタカタ…\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "15a8c436bda258f3",
+    "translation": "ワタシハ カラクリニンギョウ3ゴウ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "59d419114c212c6e",
+    "translation": "オカネノ コトダケニ シュウチュウ スル。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7e70060942e80d8f",
+    "translation": "{JPN}カラクリニンギョウ3ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "76a774525b3ce2ab",
+    "translation": "ドチラガ タカイ?\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "69b0ee23fc564180",
+    "translation": "ハーバーメール3マイ ト やけどなおし1コ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "197ddc39dc269016",
+    "translation": "{JPN}カラクリニンギョウ3ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "991f3811d30b553d",
+    "translation": "スーパーボール1コヲ ウッテ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "06bfa51899feea00",
+    "translation": "キズぐすり1コヲ カウト イクラ ノコル?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7eaa4a6017a0a87e",
+    "translation": "{JPN}カラクリニンギョウ3ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ae8e91687538bb91",
+    "translation": "むしよけスプレー ト サイコソーダヲ 1コズツ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b240d10069c7ede8",
+    "translation": "カウト いいキズぐすり1コ ヨリ タカイ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "fea615402549fccf",
+    "translation": "{JPN}カタカタ…\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "084562d328d74c1a",
+    "translation": "カラクリニンギョウ4ゴウ ワタシダ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "92ed971a3379044d",
+    "translation": "ワタシノ クイズハ ウツクシイ。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "82fae36f3287a32b",
+    "translation": "{JPN}カラクリニンギョウ4ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bda395162f002415",
+    "translation": "ウミノイエデ オオカッタノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "02e4e8cd558f38ac",
+    "translation": "オトコノヒト ト オンナノヒト ドチラ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "04193f8d3097a9b4",
+    "translation": "{JPN}カラクリニンギョウ4ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "edcac8e7a068f9f2",
+    "translation": "フエンタウンデ オオカッタノハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "170649f1935ad31d",
+    "translation": "オジイサン ト オバアサン ドチラ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d8c17f8c1590ff64",
+    "translation": "{JPN}カラクリニンギョウ4ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e08635d924e92b66",
+    "translation": "トレーナーズスクールニ オンナノコノ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "54bee6c93715a4ac",
+    "translation": "セイトハ ナンニン イタ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a3d7014762ea0cbe",
+    "translation": "{JPN}カタカタ…\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "261e5be2db88df74",
+    "translation": "ワタシハ カラクリニンギョウ5ゴウ!\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "10cf29cf8e1b6b3c",
+    "translation": "ダイオウノ サイコウケッサクデ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b437f3f8adaaa9ae",
+    "translation": "イチバンノ ジマンガ ワタシダ。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0490b6bcc33e2cdd",
+    "translation": "{JPN}カラクリニンギョウ5ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e23bd3651d3c7acc",
+    "translation": "カイナノ ポケモンだいすきクラブニ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "fc6b8598a015d099",
+    "translation": "ポケモンハ ナンビキ イタ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "11b30890981759f8",
+    "translation": "{JPN}カラクリニンギョウ5ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "27046e3310916cd1",
+    "translation": "ヒワマキシティノ ツリーハウスハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2039d31037d209a7",
+    "translation": "イクツ アッタ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "01cff82187478eab",
+    "translation": "{JPN}カラクリニンギョウ5ゴウノ クイズ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4c1f976d79a0d089",
+    "translation": "サイクリングロードニ トライアスリートハ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "54c3e3799b431073",
+    "translation": "ナンニン イタ?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "35f0f3a493251a16",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4d55658f4f7b3788",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "78c8431968247889",
+    "translation": "「カラクリだいおうが いのち」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "62d97190d8f1c825",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3d777306b1d7b40a",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d3ba8eeac378ad3a",
+    "translation": "{JPN}へんな やしきが あると きいたら\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "dde5044064932341",
+    "translation": "たしかめずには いられなかったの。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5de9624891df798a",
+    "translation": "{JPN}つよい トレーナーを はっけん!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a76bd039f79191fc",
+    "translation": "{JPN}ここを しらべるのは\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a38d6dc97fb1d39a",
+    "translation": "ほんとうに たのしいわ。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "32e9ce557fc6025e",
+    "translation": "くりかえし ちょうせんする かちが\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "40bc684053ead858",
+    "translation": "あるって わかったの!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cbf6705945cec521",
+    "translation": "{JPN}とりポケモンに かべを とびこえさせれば\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "55d2dbb101914861",
+    "translation": "いけるかも しれないな…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9735925ca8ade1c9",
+    "translation": "{JPN}わわっ しまった!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ac8629e0a993f4e2",
+    "translation": "{JPN}てへへ… ズルしようと したから\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a962be46e7ec7cf6",
+    "translation": "まけちゃったの かな……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "397320dad299a6ca",
+    "translation": "{JPN}かいてん する とびらで\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c6114ceb170687a4",
+    "translation": "めが まわってきた……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "88b40c42102a3174",
+    "translation": "{JPN}くーるくる くーるくる\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5710e26604b30286",
+    "translation": "おれは もう ダメだ……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cb1f1befcee50293",
+    "translation": "{JPN}キミは ぜんぜん へいき みたいだね\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "76e74eebe142268b",
+    "translation": "それとも ポーカーフェイス なの?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3d9c526557a28892",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5165af05a748b41f",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8b6e99d329567406",
+    "translation": "「カラクリだいおうは だきしめたくなる」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ee04c8cffd32602b",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9a649bf2f6d79cba",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "25f81c015ace9340",
+    "translation": "{JPN}カラクリだいおうは けむりみたいに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3dfcdfeb7fa424af",
+    "translation": "いつも きえるけど どうやるんだろう?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e04540bfaa37df89",
+    "translation": "{JPN}ひええ! つよすぎるよ!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "040b1a3eb152a806",
+    "translation": "どうやってるの?$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "acdf14b9e7558480",
+    "translation": "{JPN}ぼくも けむりのように\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7280ee5e169fa6ca",
+    "translation": "きえたり あらわれたり してみたいな。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8400e551fbb123d0",
+    "translation": "{JPN}おなじところを つづけて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d39e24dcd04d77d7",
+    "translation": "なんども まわると ふきつなのよ……$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "76152b98ba0f9843",
+    "translation": "{JPN}まけた……!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "302aba52d8180b4e",
+    "translation": "えんぎが わるいわ……!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b1b8702e90936394",
+    "translation": "{JPN}もう 10かいを こえて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3e727f568b57209f",
+    "translation": "おなじ ばしょを まわった… ふきつだわ…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "be3da9c48d74b624",
+    "translation": "{JPN}かった ほうが さきに このしかけを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d0b8dbdbafb7718e",
+    "translation": "ぬけられる よかんが するわ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e6bb1b6796cd685c",
+    "translation": "{JPN}あら!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f8679c3acf41adf2",
+    "translation": "じゃあ おさきに どうぞ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "260b4bc480f18461",
+    "translation": "{JPN}カラクリやしきの しかけを ぜんぶ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "50466cb36c5809fc",
+    "translation": "といていそうな かんじが するわ。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "171aa12580825e9d",
+    "translation": "{JPN}んっふっふっふ きたわねっ\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "86cd960f6ed07182",
+    "translation": "さあ しょうぶよ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f5be6242053a2917",
+    "translation": "{JPN}あっさり かってくれちゃって!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d010c7b481e1bcc2",
+    "translation": "{JPN}ふん べつに くやしく ないから!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c5b0f8ca03d0cc47",
+    "translation": "わたし!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "594954160c83545b",
+    "translation": "{JPN}きみが くるのを じっくり みていたぞ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bf76cdeca917c185",
+    "translation": "{JPN}この けっかは みえて いなかった…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6a18d035675c5030",
+    "translation": "{JPN}まあ とにかく おたがい へんな ばしょで\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2207a95510412709",
+    "translation": "しりあった ものだね。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5298924300ac9217",
+    "translation": "へんじん どうし\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "af1a9296e215aabc",
+    "translation": "がんばって いこうじゃないか!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a9d35fe460166ad4",
+    "translation": "{JPN}ここは ずいぶん きゅうくつだな…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "798f7b5358444008",
+    "translation": "{JPN}おお つよいつよい。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ffd011ff95ded3db",
+    "translation": "{JPN}もし かったら いれかわって やれと\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f6befc76c299eaab",
+    "translation": "おもって いたんだけどね。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9d15b5985fc7cb30",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6124ed4f823c42c7",
+    "translation": "とびらに かきつけた。\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5e232634e6936d97",
+    "translation": "「カラクリだいおうが だいすき」\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "355a1ccfed725354",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3c3a547bebd54987",
+    "translation": "カチッと カギが あいた!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "73ca6088e788dde0",
+    "translation": "{JPN}ここまで こられる トレーナーは\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0c14992339583f3f",
+    "translation": "そうは いないよな!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "861e1635096efe89",
+    "translation": "{JPN}きみも つよいって ことだろうな…$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "56e955bffbfbcad9",
+    "translation": "{JPN}えっ ポケモンリーグの チャンピオンに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "262821fccdaa1d35",
+    "translation": "かったって? す すごい……!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9fefe6cf3aba504c",
+    "translation": "{JPN}わたしと しょうぶ できるなんて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8e15b6b181c83882",
+    "translation": "あなた しあわせよ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "97e523bf04940b03",
+    "translation": "{JPN}そんな わたしが\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "377caf8b8bc81c3f",
+    "translation": "まけるなんて……!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d1b1a4b3c059fe54",
+    "translation": "{JPN}わたしに かつなんて きせきよ!\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5fd184bd80c99d4c",
+    "translation": "じまん できる ことだわ!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9db84db87637da12",
+    "translation": "{JPN}あなたも カラクリやしきに\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0f846aaa06cced49",
+    "translation": "ちょうせん しつづけて いるんですね!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0d517a62aab2a524",
+    "translation": "{JPN}なるほど……\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bee17ca445bf38bb",
+    "translation": "ひとなみはずれた スタイルですね。$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "55df47f7a3b5505c",
+    "translation": "{JPN}あなた みたいな ひとが きてくれて\\n",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d60199a73263a386",
+    "translation": "カラクリだいおうも まんぞく でしょうね!$",
+    "provenance": {
+      "batch": "dialogue-trick-puzzles-66",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  }
+]

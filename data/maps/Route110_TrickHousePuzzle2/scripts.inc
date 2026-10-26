@@ -100,42 +100,42 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 	end
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is smart.”\n"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は あいことばを\n"
+	.string "とびらに かきつけた。\p"
+	.string "「カラクリだいおうは かしこい」\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "カチッと カギが あいた!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+	.string "{JPN}どの スイッチが どの あなを ふさぐんだ?$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+	.string "{JPN}しょうぶ してたら\n"
+	.string "よけい わかんなくなった!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+	.string "{JPN}きみ ぼくの かわりに\n"
+	.string "スイッチ ぜんぶ おしてきてよ!$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second TRICK HOUSE\n"
-	.string "challenge!$"
+	.string "{JPN}おっ! カラクリやしき\n"
+	.string "2どめの チャレンジだね!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+	.string "{JPN}しょうぶも とくいなの?$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
+	.string "{JPN}カラクリだいおうが ひとりで\n"
+	.string "この いえの しかけを ぜんぶ つくったんだ。$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own GYM one day.\n"
-	.string "So, I'm studying how to set traps.$"
+	.string "{JPN}いつか わたしの ジムを つくりたくて\n"
+	.string "しかけを けんきゅうしてるの!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "{JPN}しょうぶの べんきょうが たりなかった!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a GYM LEADER!$"
+	.string "{JPN}あなた つよいのね…\n"
+	.string "ジムリーダーに なれるんじゃない?$"
 

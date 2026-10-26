@@ -1,0 +1,5170 @@
+{
+  "start": "MunenVillage",
+  "method": "BFS of map connections/warps and literal map-local warp commands",
+  "limitations": [
+    "Flags, tile access and map-script control flow are not evaluated: this over-approximates reachability.",
+    "Common/C-script warps, dynamic warps, fly/teleport and script-label cross references are not fully followed.",
+    "Only existing catalog map rows are counted; this is not an extraction or full story-completion test."
+  ],
+  "maps": [
+    {
+      "map": "MunenVillage",
+      "depth": 0,
+      "via": null,
+      "pending": 0,
+      "translated": 38,
+      "outgoing": [
+        "LittlerootTown_BrendansHouse_1F",
+        "LittlerootTown_MaysHouse_1F",
+        "LittlerootTown_ProfessorBirchsLab",
+        "MeltingMile",
+        "MunenVillage"
+      ]
+    },
+    {
+      "map": "LittlerootTown_BrendansHouse_1F",
+      "depth": 1,
+      "via": "MunenVillage",
+      "pending": 0,
+      "translated": 98,
+      "outgoing": [
+        "LittlerootTown_BrendansHouse_2F",
+        "MunenVillage"
+      ]
+    },
+    {
+      "map": "LittlerootTown_MaysHouse_1F",
+      "depth": 1,
+      "via": "MunenVillage",
+      "pending": 0,
+      "translated": 72,
+      "outgoing": [
+        "LittlerootTown_MaysHouse_2F",
+        "MunenVillage"
+      ]
+    },
+    {
+      "map": "LittlerootTown_ProfessorBirchsLab",
+      "depth": 1,
+      "via": "MunenVillage",
+      "pending": 219,
+      "translated": 7,
+      "outgoing": [
+        "MunenVillage"
+      ]
+    },
+    {
+      "map": "MeltingMile",
+      "depth": 1,
+      "via": "MunenVillage",
+      "pending": 0,
+      "translated": 21,
+      "outgoing": [
+        "MunenLake",
+        "MunenVillage",
+        "WALNUT_WOODS"
+      ]
+    },
+    {
+      "map": "LittlerootTown_BrendansHouse_2F",
+      "depth": 2,
+      "via": "LittlerootTown_BrendansHouse_1F",
+      "pending": 0,
+      "translated": 40,
+      "outgoing": [
+        "LittlerootTown_BrendansHouse_1F"
+      ]
+    },
+    {
+      "map": "LittlerootTown_MaysHouse_2F",
+      "depth": 2,
+      "via": "LittlerootTown_MaysHouse_1F",
+      "pending": 0,
+      "translated": 70,
+      "outgoing": [
+        "LittlerootTown_MaysHouse_1F"
+      ]
+    },
+    {
+      "map": "MunenLake",
+      "depth": 2,
+      "via": "MeltingMile",
+      "pending": 0,
+      "translated": 17,
+      "outgoing": [
+        "FrostwoodTown",
+        "MeltingMile",
+        "SeafloorCavern_Entrance"
+      ]
+    },
+    {
+      "map": "WALNUT_WOODS",
+      "depth": 2,
+      "via": "MeltingMile",
+      "pending": 0,
+      "translated": 28,
+      "outgoing": [
+        "FrostwoodTown",
+        "MeltingMile",
+        "Route_2_2"
+      ]
+    },
+    {
+      "map": "FrostwoodTown",
+      "depth": 3,
+      "via": "MunenLake",
+      "pending": 0,
+      "translated": 47,
+      "outgoing": [
+        "MunenLake",
+        "OldaleTown_House2",
+        "OldaleTown_Mart",
+        "OldaleTown_PokemonCenter_1F",
+        "Route112_CableCarStation",
+        "RustboroCity_Gym",
+        "WALNUT_WOODS"
+      ]
+    },
+    {
+      "map": "Route_2_2",
+      "depth": 3,
+      "via": "WALNUT_WOODS",
+      "pending": 0,
+      "translated": 150,
+      "outgoing": [
+        "NewMap",
+        "SennenVillage",
+        "WALNUT_WOODS"
+      ]
+    },
+    {
+      "map": "SeafloorCavern_Entrance",
+      "depth": 3,
+      "via": "MunenLake",
+      "pending": 24,
+      "translated": 0,
+      "outgoing": [
+        "MunenLake"
+      ]
+    },
+    {
+      "map": "NewMap",
+      "depth": 4,
+      "via": "Route_2_2",
+      "pending": 0,
+      "translated": 95,
+      "outgoing": [
+        "MunenTunnel",
+        "NewMapApprenticeHouse",
+        "NewMapInn",
+        "NewMapMaskMaker",
+        "NewMapShop",
+        "Route_2_2",
+        "Torii"
+      ]
+    },
+    {
+      "map": "OldaleTown_House2",
+      "depth": 4,
+      "via": "FrostwoodTown",
+      "pending": 21,
+      "translated": 0,
+      "outgoing": [
+        "FrostwoodTown"
+      ]
+    },
+    {
+      "map": "OldaleTown_Mart",
+      "depth": 4,
+      "via": "FrostwoodTown",
+      "pending": 26,
+      "translated": 0,
+      "outgoing": [
+        "FrostwoodTown"
+      ]
+    },
+    {
+      "map": "OldaleTown_PokemonCenter_1F",
+      "depth": 4,
+      "via": "FrostwoodTown",
+      "pending": 13,
+      "translated": 0,
+      "outgoing": [
+        "FrostwoodTown"
+      ]
+    },
+    {
+      "map": "Route112_CableCarStation",
+      "depth": 4,
+      "via": "FrostwoodTown",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "FrostwoodTown",
+        "Route_2"
+      ]
+    },
+    {
+      "map": "RustboroCity_Gym",
+      "depth": 4,
+      "via": "FrostwoodTown",
+      "pending": 103,
+      "translated": 0,
+      "outgoing": [
+        "FrostwoodTown"
+      ]
+    },
+    {
+      "map": "SennenVillage",
+      "depth": 4,
+      "via": "Route_2_2",
+      "pending": 0,
+      "translated": 4,
+      "outgoing": [
+        "Route_2",
+        "Route_2_2",
+        "ShinkansenInterior"
+      ]
+    },
+    {
+      "map": "MunenTunnel",
+      "depth": 5,
+      "via": "NewMap",
+      "pending": 0,
+      "translated": 114,
+      "outgoing": [
+        "MunenTunnel",
+        "NewMap",
+        "NorthwindCavern"
+      ]
+    },
+    {
+      "map": "NewMapApprenticeHouse",
+      "depth": 5,
+      "via": "NewMap",
+      "pending": 0,
+      "translated": 29,
+      "outgoing": [
+        "NewMap"
+      ]
+    },
+    {
+      "map": "NewMapInn",
+      "depth": 5,
+      "via": "NewMap",
+      "pending": 0,
+      "translated": 15,
+      "outgoing": [
+        "NewMap"
+      ]
+    },
+    {
+      "map": "NewMapMaskMaker",
+      "depth": 5,
+      "via": "NewMap",
+      "pending": 0,
+      "translated": 54,
+      "outgoing": [
+        "NewMap"
+      ]
+    },
+    {
+      "map": "NewMapShop",
+      "depth": 5,
+      "via": "NewMap",
+      "pending": 0,
+      "translated": 7,
+      "outgoing": [
+        "NewMap"
+      ]
+    },
+    {
+      "map": "Route_2",
+      "depth": 5,
+      "via": "Route112_CableCarStation",
+      "pending": 0,
+      "translated": 119,
+      "outgoing": [
+        "LifeguardShack",
+        "Route112_CableCarStation",
+        "SennenVillage",
+        "YachtInterior"
+      ]
+    },
+    {
+      "map": "ShinkansenInterior",
+      "depth": 5,
+      "via": "SennenVillage",
+      "pending": 0,
+      "translated": 57,
+      "outgoing": [
+        "SennenVillage",
+        "ShinTokyoStation"
+      ]
+    },
+    {
+      "map": "Torii",
+      "depth": 5,
+      "via": "NewMap",
+      "pending": 0,
+      "translated": 46,
+      "outgoing": [
+        "MunenVillage",
+        "NewMap",
+        "StarSummit_2",
+        "Torii"
+      ]
+    },
+    {
+      "map": "LifeguardShack",
+      "depth": 6,
+      "via": "Route_2",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route_2"
+      ]
+    },
+    {
+      "map": "NorthwindCavern",
+      "depth": 6,
+      "via": "MunenTunnel",
+      "pending": 0,
+      "translated": 8,
+      "outgoing": [
+        "MunenTunnel"
+      ]
+    },
+    {
+      "map": "ShinTokyoStation",
+      "depth": 6,
+      "via": "ShinkansenInterior",
+      "pending": 0,
+      "translated": 13,
+      "outgoing": [
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "StarSummit_2",
+      "depth": 6,
+      "via": "Torii",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Torii"
+      ]
+    },
+    {
+      "map": "YachtInterior",
+      "depth": 6,
+      "via": "Route_2",
+      "pending": 0,
+      "translated": 51,
+      "outgoing": [
+        "Route_2"
+      ]
+    },
+    {
+      "map": "ShinTokyo",
+      "depth": 7,
+      "via": "ShinTokyoStation",
+      "pending": 0,
+      "translated": 258,
+      "outgoing": [
+        "BattleFrontier_OutsideWest",
+        "MauvilleCity_GameCorner",
+        "MewtwoPostGame",
+        "RebelHideout",
+        "Route129",
+        "ShinTokyoJail",
+        "ShinTokyoStation",
+        "TowerStreet",
+        "Tradewind_PC",
+        "UndergroundArena"
+      ]
+    },
+    {
+      "map": "BattleFrontier_OutsideWest",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 143,
+      "translated": 0,
+      "outgoing": [
+        "ArtisanCave_B1F",
+        "BattleFrontier_BattleDomeLobby",
+        "BattleFrontier_BattleFactoryLobby",
+        "BattleFrontier_BattlePikeLobby",
+        "BattleFrontier_Lounge2",
+        "BattleFrontier_Lounge4",
+        "BattleFrontier_Lounge7",
+        "BattleFrontier_Mart",
+        "BattleFrontier_OutsideEast",
+        "BattleFrontier_ReceptionGate",
+        "BattleFrontier_ScottsHouse",
+        "LilycoveCity_Harbor",
+        "SlateportCity_Harbor"
+      ]
+    },
+    {
+      "map": "MauvilleCity_GameCorner",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 113,
+      "translated": 0,
+      "outgoing": [
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "MewtwoPostGame",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 0,
+      "translated": 29,
+      "outgoing": [
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "RebelHideout",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 0,
+      "translated": 177,
+      "outgoing": [
+        "HotelZ",
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "Route129",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "CelebiIsland",
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "ShinTokyoJail",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 0,
+      "translated": 89,
+      "outgoing": [
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "TowerStreet",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 0,
+      "translated": 16,
+      "outgoing": [
+        "ShinTokyo",
+        "TowerMid"
+      ]
+    },
+    {
+      "map": "Tradewind_PC",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "UndergroundArena",
+      "depth": 8,
+      "via": "ShinTokyo",
+      "pending": 0,
+      "translated": 102,
+      "outgoing": [
+        "ShinTokyo"
+      ]
+    },
+    {
+      "map": "ArtisanCave_B1F",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "ArtisanCave_1F",
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleDomeLobby",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 160,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleDomeCorridor",
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleFactoryLobby",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 149,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleFactoryPreBattleRoom",
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePikeLobby",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 105,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePikeCorridor",
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge2",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 184,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge4",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge7",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 127,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Mart",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 13,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_OutsideEast",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 141,
+      "translated": 0,
+      "outgoing": [
+        "ArtisanCave_1F",
+        "BattleFrontier_BattleArenaLobby",
+        "BattleFrontier_BattlePalaceLobby",
+        "BattleFrontier_BattlePyramidLobby",
+        "BattleFrontier_BattleTowerLobby",
+        "BattleFrontier_ExchangeServiceCorner",
+        "BattleFrontier_Lounge1",
+        "BattleFrontier_Lounge3",
+        "BattleFrontier_Lounge5",
+        "BattleFrontier_Lounge6",
+        "BattleFrontier_Lounge8",
+        "BattleFrontier_Lounge9",
+        "BattleFrontier_OutsideWest",
+        "BattleFrontier_PokemonCenter_1F",
+        "BattleFrontier_RankingHall"
+      ]
+    },
+    {
+      "map": "BattleFrontier_ReceptionGate",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 146,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_ScottsHouse",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 102,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "CelebiIsland",
+      "depth": 9,
+      "via": "Route129",
+      "pending": 0,
+      "translated": 114,
+      "outgoing": [
+        "PrototypeIsland",
+        "Route129"
+      ]
+    },
+    {
+      "map": "HotelZ",
+      "depth": 9,
+      "via": "RebelHideout",
+      "pending": 0,
+      "translated": 62,
+      "outgoing": []
+    },
+    {
+      "map": "LilycoveCity_Harbor",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 28,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest",
+        "BirthIsland_Harbor",
+        "FarawayIsland_Entrance",
+        "LilycoveCity",
+        "NavelRock_Harbor",
+        "SSTidalCorridor",
+        "SouthernIsland_Exterior"
+      ]
+    },
+    {
+      "map": "SlateportCity_Harbor",
+      "depth": 9,
+      "via": "BattleFrontier_OutsideWest",
+      "pending": 107,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideWest",
+        "SSTidalCorridor",
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "TowerMid",
+      "depth": 9,
+      "via": "TowerStreet",
+      "pending": 0,
+      "translated": 16,
+      "outgoing": [
+        "TowerCommand",
+        "TowerStreet"
+      ]
+    },
+    {
+      "map": "ArtisanCave_1F",
+      "depth": 10,
+      "via": "ArtisanCave_B1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "ArtisanCave_B1F",
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleArenaLobby",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 154,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleArenaCorridor",
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleDomeCorridor",
+      "depth": 10,
+      "via": "BattleFrontier_BattleDomeLobby",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleDomePreBattleRoom",
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleFactoryPreBattleRoom",
+      "depth": 10,
+      "via": "BattleFrontier_BattleFactoryLobby",
+      "pending": 103,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleFactoryBattleRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePalaceLobby",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 198,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePalaceCorridor",
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePikeCorridor",
+      "depth": 10,
+      "via": "BattleFrontier_BattlePikeLobby",
+      "pending": 2,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePikeThreePathRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePyramidLobby",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 242,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePyramidFloor",
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleTowerLobby",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 315,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleTowerBattleRoom",
+        "BattleFrontier_BattleTowerElevator",
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_ExchangeServiceCorner",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 93,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge1",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 63,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge3",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 188,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge5",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 52,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge6",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 21,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge8",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 24,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_Lounge9",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BattleFrontier_PokemonCenter_1F",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast",
+        "BattleFrontier_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "BattleFrontier_RankingHall",
+      "depth": 10,
+      "via": "BattleFrontier_OutsideEast",
+      "pending": 18,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_OutsideEast"
+      ]
+    },
+    {
+      "map": "BirthIsland_Harbor",
+      "depth": 10,
+      "via": "LilycoveCity_Harbor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BirthIsland_Exterior",
+        "LilycoveCity_Harbor"
+      ]
+    },
+    {
+      "map": "FarawayIsland_Entrance",
+      "depth": 10,
+      "via": "LilycoveCity_Harbor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "FarawayIsland_Interior",
+        "LilycoveCity_Harbor"
+      ]
+    },
+    {
+      "map": "LilycoveCity",
+      "depth": 10,
+      "via": "LilycoveCity_Harbor",
+      "pending": 239,
+      "translated": 0,
+      "outgoing": [
+        "AquaHideout_1F",
+        "LilycoveCity_ContestLobby",
+        "LilycoveCity_CoveLilyMotel_1F",
+        "LilycoveCity_DepartmentStore_1F",
+        "LilycoveCity_Harbor",
+        "LilycoveCity_House1",
+        "LilycoveCity_House2",
+        "LilycoveCity_House3",
+        "LilycoveCity_House4",
+        "LilycoveCity_LilycoveMuseum_1F",
+        "LilycoveCity_MoveDeletersHouse",
+        "LilycoveCity_PokemonCenter_1F",
+        "LilycoveCity_PokemonTrainerFanClub",
+        "Route121",
+        "Route124"
+      ]
+    },
+    {
+      "map": "NavelRock_Harbor",
+      "depth": 10,
+      "via": "LilycoveCity_Harbor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_Harbor",
+        "NavelRock_Exterior"
+      ]
+    },
+    {
+      "map": "PrototypeIsland",
+      "depth": 10,
+      "via": "CelebiIsland",
+      "pending": 0,
+      "translated": 21,
+      "outgoing": [
+        "CelebiIsland",
+        "PrototypeLab",
+        "Route130"
+      ]
+    },
+    {
+      "map": "SSTidalCorridor",
+      "depth": 10,
+      "via": "LilycoveCity_Harbor",
+      "pending": 54,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_Harbor",
+        "SSTidalLowerDeck",
+        "SSTidalRooms",
+        "SlateportCity_Harbor"
+      ]
+    },
+    {
+      "map": "SlateportCity",
+      "depth": 10,
+      "via": "SlateportCity_Harbor",
+      "pending": 278,
+      "translated": 0,
+      "outgoing": [
+        "Route109",
+        "Route110",
+        "Route134",
+        "SlateportCity_BattleTentLobby",
+        "SlateportCity_Harbor",
+        "SlateportCity_House",
+        "SlateportCity_Mart",
+        "SlateportCity_NameRatersHouse",
+        "SlateportCity_OceanicMuseum_1F",
+        "SlateportCity_PokemonCenter_1F",
+        "SlateportCity_PokemonFanClub",
+        "SlateportCity_SternsShipyard_1F"
+      ]
+    },
+    {
+      "map": "SouthernIsland_Exterior",
+      "depth": 10,
+      "via": "LilycoveCity_Harbor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_Harbor",
+        "SouthernIsland_Interior"
+      ]
+    },
+    {
+      "map": "TowerCommand",
+      "depth": 10,
+      "via": "TowerMid",
+      "pending": 0,
+      "translated": 48,
+      "outgoing": [
+        "TowerMid",
+        "TowerTop"
+      ]
+    },
+    {
+      "map": "AquaHideout_1F",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 49,
+      "translated": 0,
+      "outgoing": [
+        "AquaHideout_B1F",
+        "LilycoveCity"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleArenaCorridor",
+      "depth": 11,
+      "via": "BattleFrontier_BattleArenaLobby",
+      "pending": 2,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleArenaBattleRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleDomePreBattleRoom",
+      "depth": 11,
+      "via": "BattleFrontier_BattleDomeCorridor",
+      "pending": 63,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleDomeBattleRoom",
+        "BattleFrontier_OutsideWest"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleFactoryBattleRoom",
+      "depth": 11,
+      "via": "BattleFrontier_BattleFactoryPreBattleRoom",
+      "pending": 47,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleFactoryLobby",
+        "BattleFrontier_BattleFactoryPreBattleRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePalaceCorridor",
+      "depth": 11,
+      "via": "BattleFrontier_BattlePalaceLobby",
+      "pending": 18,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePalaceBattleRoom",
+        "BattleFrontier_BattlePalaceLobby"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePikeThreePathRoom",
+      "depth": 11,
+      "via": "BattleFrontier_BattlePikeCorridor",
+      "pending": 55,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePikeLobby"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePyramidFloor",
+      "depth": 11,
+      "via": "BattleFrontier_BattlePyramidLobby",
+      "pending": 347,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePyramidFloor",
+        "BattleFrontier_BattlePyramidLobby",
+        "BattleFrontier_BattlePyramidTop"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleTowerBattleRoom",
+      "depth": 11,
+      "via": "BattleFrontier_BattleTowerLobby",
+      "pending": 75,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleTowerLobby"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleTowerElevator",
+      "depth": 11,
+      "via": "BattleFrontier_BattleTowerLobby",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleTowerCorridor",
+        "BattleFrontier_BattleTowerMultiCorridor",
+        "BattleFrontier_BattleTowerMultiPartnerRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_PokemonCenter_2F",
+      "depth": 11,
+      "via": "BattleFrontier_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "BirthIsland_Exterior",
+      "depth": 11,
+      "via": "BirthIsland_Harbor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BirthIsland_Harbor"
+      ]
+    },
+    {
+      "map": "FarawayIsland_Interior",
+      "depth": 11,
+      "via": "FarawayIsland_Entrance",
+      "pending": 1,
+      "translated": 0,
+      "outgoing": [
+        "FarawayIsland_Entrance"
+      ]
+    },
+    {
+      "map": "LilycoveCity_ContestLobby",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 68,
+      "translated": 0,
+      "outgoing": [
+        "ContestHallBeauty",
+        "ContestHallCool",
+        "ContestHallCute",
+        "ContestHallSmart",
+        "ContestHallTough",
+        "LilycoveCity",
+        "LilycoveCity_ContestHall"
+      ]
+    },
+    {
+      "map": "LilycoveCity_CoveLilyMotel_1F",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 40,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity",
+        "LilycoveCity_CoveLilyMotel_2F"
+      ]
+    },
+    {
+      "map": "LilycoveCity_DepartmentStore_1F",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 25,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_DepartmentStoreElevator",
+        "LilycoveCity_DepartmentStore_2F",
+        "TradewindTown"
+      ]
+    },
+    {
+      "map": "LilycoveCity_House1",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 5,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity"
+      ]
+    },
+    {
+      "map": "LilycoveCity_House2",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity"
+      ]
+    },
+    {
+      "map": "LilycoveCity_House3",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 53,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity"
+      ]
+    },
+    {
+      "map": "LilycoveCity_House4",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity"
+      ]
+    },
+    {
+      "map": "LilycoveCity_LilycoveMuseum_1F",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 83,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity",
+        "LilycoveCity_LilycoveMuseum_2F"
+      ]
+    },
+    {
+      "map": "LilycoveCity_MoveDeletersHouse",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 20,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity"
+      ]
+    },
+    {
+      "map": "LilycoveCity_PokemonCenter_1F",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity",
+        "LilycoveCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "LilycoveCity_PokemonTrainerFanClub",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 176,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity"
+      ]
+    },
+    {
+      "map": "NavelRock_Exterior",
+      "depth": 11,
+      "via": "NavelRock_Harbor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Entrance",
+        "NavelRock_Harbor"
+      ]
+    },
+    {
+      "map": "PrototypeLab",
+      "depth": 11,
+      "via": "PrototypeIsland",
+      "pending": 0,
+      "translated": 47,
+      "outgoing": [
+        "PrototypeIsland"
+      ]
+    },
+    {
+      "map": "Route109",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 55,
+      "translated": 0,
+      "outgoing": [
+        "Route108",
+        "Route109_SeashoreHouse",
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "Route110",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 163,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity",
+        "NewMauville_Entrance",
+        "Route103",
+        "Route110_SeasideCyclingRoadNorthEntrance",
+        "Route110_SeasideCyclingRoadSouthEntrance",
+        "Route110_TrickHouseEntrance",
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "Route121",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity",
+        "Route120",
+        "Route121_SafariZoneEntrance",
+        "Route122"
+      ]
+    },
+    {
+      "map": "Route124",
+      "depth": 11,
+      "via": "LilycoveCity",
+      "pending": 1,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity",
+        "MossdeepCity",
+        "Route124_DivingTreasureHuntersHouse",
+        "Route125",
+        "Route126",
+        "Underwater_Route124"
+      ]
+    },
+    {
+      "map": "Route130",
+      "depth": 11,
+      "via": "PrototypeIsland",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "DragonKeeper",
+        "PrototypeIsland"
+      ]
+    },
+    {
+      "map": "Route134",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route133",
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "SSTidalLowerDeck",
+      "depth": 11,
+      "via": "SSTidalCorridor",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "SSTidalCorridor"
+      ]
+    },
+    {
+      "map": "SSTidalRooms",
+      "depth": 11,
+      "via": "SSTidalCorridor",
+      "pending": 59,
+      "translated": 0,
+      "outgoing": [
+        "SSTidalCorridor"
+      ]
+    },
+    {
+      "map": "SlateportCity_BattleTentLobby",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 23,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity",
+        "SlateportCity_BattleTentCorridor"
+      ]
+    },
+    {
+      "map": "SlateportCity_House",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 8,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "SlateportCity_Mart",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 8,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "SlateportCity_NameRatersHouse",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 30,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "SlateportCity_OceanicMuseum_1F",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 102,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity",
+        "SlateportCity_OceanicMuseum_2F"
+      ]
+    },
+    {
+      "map": "SlateportCity_PokemonCenter_1F",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity",
+        "SlateportCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "SlateportCity_PokemonFanClub",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 102,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity"
+      ]
+    },
+    {
+      "map": "SlateportCity_SternsShipyard_1F",
+      "depth": 11,
+      "via": "SlateportCity",
+      "pending": 59,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity",
+        "SlateportCity_SternsShipyard_2F"
+      ]
+    },
+    {
+      "map": "SouthernIsland_Interior",
+      "depth": 11,
+      "via": "SouthernIsland_Exterior",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SouthernIsland_Exterior"
+      ]
+    },
+    {
+      "map": "TowerTop",
+      "depth": 11,
+      "via": "TowerCommand",
+      "pending": 0,
+      "translated": 60,
+      "outgoing": [
+        "TowerCommand"
+      ]
+    },
+    {
+      "map": "AquaHideout_B1F",
+      "depth": 12,
+      "via": "AquaHideout_1F",
+      "pending": 29,
+      "translated": 0,
+      "outgoing": [
+        "AquaHideout_1F",
+        "AquaHideout_B1F",
+        "AquaHideout_B2F"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleArenaBattleRoom",
+      "depth": 12,
+      "via": "BattleFrontier_BattleArenaCorridor",
+      "pending": 79,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleArenaLobby"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleDomeBattleRoom",
+      "depth": 12,
+      "via": "BattleFrontier_BattleDomePreBattleRoom",
+      "pending": 160,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleDomeLobby",
+        "BattleFrontier_BattleDomePreBattleRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePalaceBattleRoom",
+      "depth": 12,
+      "via": "BattleFrontier_BattlePalaceCorridor",
+      "pending": 81,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePalaceCorridor",
+        "BattleFrontier_BattlePalaceLobby"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattlePyramidTop",
+      "depth": 12,
+      "via": "BattleFrontier_BattlePyramidFloor",
+      "pending": 82,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattlePyramidLobby"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleTowerCorridor",
+      "depth": 12,
+      "via": "BattleFrontier_BattleTowerElevator",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleTowerBattleRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleTowerMultiCorridor",
+      "depth": 12,
+      "via": "BattleFrontier_BattleTowerElevator",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleTowerBattleRoom",
+        "BattleFrontier_BattleTowerMultiBattleRoom"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleTowerMultiPartnerRoom",
+      "depth": 12,
+      "via": "BattleFrontier_BattleTowerElevator",
+      "pending": 840,
+      "translated": 0,
+      "outgoing": [
+        "BattleFrontier_BattleTowerElevator",
+        "BattleFrontier_BattleTowerMultiPartnerRoom"
+      ]
+    },
+    {
+      "map": "ContestHallBeauty",
+      "depth": 12,
+      "via": "LilycoveCity_ContestLobby",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "ContestHallCool",
+      "depth": 12,
+      "via": "LilycoveCity_ContestLobby",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "ContestHallCute",
+      "depth": 12,
+      "via": "LilycoveCity_ContestLobby",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "ContestHallSmart",
+      "depth": 12,
+      "via": "LilycoveCity_ContestLobby",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "ContestHallTough",
+      "depth": 12,
+      "via": "LilycoveCity_ContestLobby",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "DragonKeeper",
+      "depth": 12,
+      "via": "Route130",
+      "pending": 0,
+      "translated": 34,
+      "outgoing": [
+        "Route130"
+      ]
+    },
+    {
+      "map": "LilycoveCity_ContestHall",
+      "depth": 12,
+      "via": "LilycoveCity_ContestLobby",
+      "pending": 129,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_ContestLobby"
+      ]
+    },
+    {
+      "map": "LilycoveCity_CoveLilyMotel_2F",
+      "depth": 12,
+      "via": "LilycoveCity_CoveLilyMotel_1F",
+      "pending": 50,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_CoveLilyMotel_1F"
+      ]
+    },
+    {
+      "map": "LilycoveCity_DepartmentStoreElevator",
+      "depth": 12,
+      "via": "LilycoveCity_DepartmentStore_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "LilycoveCity_DepartmentStore_2F",
+      "depth": 12,
+      "via": "LilycoveCity_DepartmentStore_1F",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_DepartmentStoreElevator",
+        "LilycoveCity_DepartmentStore_1F",
+        "LilycoveCity_DepartmentStore_3F"
+      ]
+    },
+    {
+      "map": "LilycoveCity_LilycoveMuseum_2F",
+      "depth": 12,
+      "via": "LilycoveCity_LilycoveMuseum_1F",
+      "pending": 74,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_LilycoveMuseum_1F"
+      ]
+    },
+    {
+      "map": "LilycoveCity_PokemonCenter_2F",
+      "depth": 12,
+      "via": "LilycoveCity_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "MauvilleCity",
+      "depth": 12,
+      "via": "Route110",
+      "pending": 141,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity_BikeShop",
+        "MauvilleCity_GameCorner",
+        "MauvilleCity_Gym",
+        "MauvilleCity_House1",
+        "MauvilleCity_House2",
+        "MauvilleCity_Mart",
+        "MauvilleCity_PokemonCenter_1F",
+        "Route110",
+        "Route111",
+        "Route117",
+        "Route118"
+      ]
+    },
+    {
+      "map": "MossdeepCity",
+      "depth": 12,
+      "via": "Route124",
+      "pending": 85,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity_GameCorner_1F",
+        "MossdeepCity_Gym",
+        "MossdeepCity_House1",
+        "MossdeepCity_House2",
+        "MossdeepCity_House3",
+        "MossdeepCity_House4",
+        "MossdeepCity_Mart",
+        "MossdeepCity_PokemonCenter_1F",
+        "MossdeepCity_SpaceCenter_1F",
+        "MossdeepCity_StevensHouse",
+        "Route124",
+        "Route125",
+        "Route127"
+      ]
+    },
+    {
+      "map": "NavelRock_Entrance",
+      "depth": 12,
+      "via": "NavelRock_Exterior",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_B1F",
+        "NavelRock_Exterior"
+      ]
+    },
+    {
+      "map": "NewMauville_Entrance",
+      "depth": 12,
+      "via": "Route110",
+      "pending": 4,
+      "translated": 0,
+      "outgoing": [
+        "NewMauville_Inside",
+        "Route110"
+      ]
+    },
+    {
+      "map": "Route103",
+      "depth": 12,
+      "via": "Route110",
+      "pending": 43,
+      "translated": 0,
+      "outgoing": [
+        "AlteringCave",
+        "OldaleTown",
+        "Route110"
+      ]
+    },
+    {
+      "map": "Route108",
+      "depth": 12,
+      "via": "Route109",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Deck",
+        "Route107",
+        "Route109"
+      ]
+    },
+    {
+      "map": "Route109_SeashoreHouse",
+      "depth": 12,
+      "via": "Route109",
+      "pending": 45,
+      "translated": 0,
+      "outgoing": [
+        "Route109"
+      ]
+    },
+    {
+      "map": "Route110_SeasideCyclingRoadNorthEntrance",
+      "depth": 12,
+      "via": "Route110",
+      "pending": 7,
+      "translated": 0,
+      "outgoing": [
+        "Route110"
+      ]
+    },
+    {
+      "map": "Route110_SeasideCyclingRoadSouthEntrance",
+      "depth": 12,
+      "via": "Route110",
+      "pending": 7,
+      "translated": 0,
+      "outgoing": [
+        "Route110"
+      ]
+    },
+    {
+      "map": "Route110_TrickHouseEntrance",
+      "depth": 12,
+      "via": "Route110",
+      "pending": 79,
+      "translated": 0,
+      "outgoing": [
+        "Route110",
+        "Route110_TrickHouseEntrance",
+        "Route110_TrickHousePuzzle1",
+        "Route110_TrickHousePuzzle2",
+        "Route110_TrickHousePuzzle3",
+        "Route110_TrickHousePuzzle4",
+        "Route110_TrickHousePuzzle5",
+        "Route110_TrickHousePuzzle6",
+        "Route110_TrickHousePuzzle7",
+        "Route110_TrickHousePuzzle8"
+      ]
+    },
+    {
+      "map": "Route120",
+      "depth": 12,
+      "via": "Route121",
+      "pending": 45,
+      "translated": 0,
+      "outgoing": [
+        "AncientTomb",
+        "FortreeCity",
+        "Route121",
+        "ScorchedSlab"
+      ]
+    },
+    {
+      "map": "Route121_SafariZoneEntrance",
+      "depth": 12,
+      "via": "Route121",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route121",
+        "SafariZone_South"
+      ]
+    },
+    {
+      "map": "Route122",
+      "depth": 12,
+      "via": "Route121",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_1F",
+        "Route121",
+        "Route123"
+      ]
+    },
+    {
+      "map": "Route124_DivingTreasureHuntersHouse",
+      "depth": 12,
+      "via": "Route124",
+      "pending": 32,
+      "translated": 0,
+      "outgoing": [
+        "Route124"
+      ]
+    },
+    {
+      "map": "Route125",
+      "depth": 12,
+      "via": "Route124",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity",
+        "Route124",
+        "ShoalCave_LowTideEntranceRoom",
+        "Underwater_Route125"
+      ]
+    },
+    {
+      "map": "Route126",
+      "depth": 12,
+      "via": "Route124",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route124",
+        "Route127",
+        "Underwater_Route126"
+      ]
+    },
+    {
+      "map": "Route133",
+      "depth": 12,
+      "via": "Route134",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route132",
+        "Route134"
+      ]
+    },
+    {
+      "map": "SlateportCity_BattleTentCorridor",
+      "depth": 12,
+      "via": "SlateportCity_BattleTentLobby",
+      "pending": 76,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity_BattleTentBattleRoom"
+      ]
+    },
+    {
+      "map": "SlateportCity_OceanicMuseum_2F",
+      "depth": 12,
+      "via": "SlateportCity_OceanicMuseum_1F",
+      "pending": 114,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity_OceanicMuseum_1F"
+      ]
+    },
+    {
+      "map": "SlateportCity_PokemonCenter_2F",
+      "depth": 12,
+      "via": "SlateportCity_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "SlateportCity_SternsShipyard_2F",
+      "depth": 12,
+      "via": "SlateportCity_SternsShipyard_1F",
+      "pending": 7,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity_SternsShipyard_1F"
+      ]
+    },
+    {
+      "map": "TradeCenter",
+      "depth": 12,
+      "via": "BattleFrontier_PokemonCenter_2F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "TradewindTown",
+      "depth": 12,
+      "via": "LilycoveCity_DepartmentStore_1F",
+      "pending": 0,
+      "translated": 180,
+      "outgoing": [
+        "Ashlands_2",
+        "HotelZ",
+        "LilycoveCity_DepartmentStore_1F",
+        "NationalParkAct2",
+        "TradewindApartment",
+        "TradewindApartment_2",
+        "TradewindGym",
+        "TradewindHouse"
+      ]
+    },
+    {
+      "map": "Underwater_Route124",
+      "depth": 12,
+      "via": "Route124",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route124",
+        "Underwater_Route126"
+      ]
+    },
+    {
+      "map": "UnionRoom",
+      "depth": 12,
+      "via": "BattleFrontier_PokemonCenter_2F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "AbandonedShip_Deck",
+      "depth": 13,
+      "via": "Route108",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_CaptainsOffice",
+        "AbandonedShip_Corridors_1F",
+        "Route108"
+      ]
+    },
+    {
+      "map": "AlteringCave",
+      "depth": 13,
+      "via": "Route103",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route103"
+      ]
+    },
+    {
+      "map": "AncientTomb",
+      "depth": 13,
+      "via": "Route120",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "AncientTomb",
+        "Route120"
+      ]
+    },
+    {
+      "map": "AquaHideout_B2F",
+      "depth": 13,
+      "via": "AquaHideout_B1F",
+      "pending": 46,
+      "translated": 0,
+      "outgoing": [
+        "AquaHideout_B1F",
+        "AquaHideout_B2F"
+      ]
+    },
+    {
+      "map": "Ashlands_2",
+      "depth": 13,
+      "via": "TradewindTown",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Ashlands_Desert",
+        "TradewindTown"
+      ]
+    },
+    {
+      "map": "BattleFrontier_BattleTowerMultiBattleRoom",
+      "depth": 13,
+      "via": "BattleFrontier_BattleTowerMultiCorridor",
+      "pending": 28,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "FortreeCity",
+      "depth": 13,
+      "via": "Route120",
+      "pending": 43,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity_DecorationShop",
+        "FortreeCity_Gym",
+        "FortreeCity_House1",
+        "FortreeCity_House2",
+        "FortreeCity_House3",
+        "FortreeCity_House4",
+        "FortreeCity_House5",
+        "FortreeCity_Mart",
+        "FortreeCity_PokemonCenter_1F",
+        "Route119",
+        "Route120"
+      ]
+    },
+    {
+      "map": "LilycoveCity_DepartmentStore_3F",
+      "depth": 13,
+      "via": "LilycoveCity_DepartmentStore_2F",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_DepartmentStoreElevator",
+        "LilycoveCity_DepartmentStore_2F",
+        "LilycoveCity_DepartmentStore_4F"
+      ]
+    },
+    {
+      "map": "MauvilleCity_BikeShop",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 100,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity"
+      ]
+    },
+    {
+      "map": "MauvilleCity_Gym",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 101,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity"
+      ]
+    },
+    {
+      "map": "MauvilleCity_House1",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 20,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity"
+      ]
+    },
+    {
+      "map": "MauvilleCity_House2",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 13,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity"
+      ]
+    },
+    {
+      "map": "MauvilleCity_Mart",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity"
+      ]
+    },
+    {
+      "map": "MauvilleCity_PokemonCenter_1F",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 13,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity",
+        "MauvilleCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "MossdeepCity_GameCorner_1F",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 28,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity",
+        "MossdeepCity_GameCorner_B1F"
+      ]
+    },
+    {
+      "map": "MossdeepCity_Gym",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 179,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity",
+        "MossdeepCity_Gym"
+      ]
+    },
+    {
+      "map": "MossdeepCity_House1",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity"
+      ]
+    },
+    {
+      "map": "MossdeepCity_House2",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity"
+      ]
+    },
+    {
+      "map": "MossdeepCity_House3",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity"
+      ]
+    },
+    {
+      "map": "MossdeepCity_House4",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity"
+      ]
+    },
+    {
+      "map": "MossdeepCity_Mart",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity"
+      ]
+    },
+    {
+      "map": "MossdeepCity_PokemonCenter_1F",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 7,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity",
+        "MossdeepCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "MossdeepCity_SpaceCenter_1F",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 92,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity",
+        "MossdeepCity_SpaceCenter_2F"
+      ]
+    },
+    {
+      "map": "MossdeepCity_StevensHouse",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 46,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity"
+      ]
+    },
+    {
+      "map": "MtPyre_1F",
+      "depth": 13,
+      "via": "Route122",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_2F",
+        "MtPyre_Exterior",
+        "Route122"
+      ]
+    },
+    {
+      "map": "NationalParkAct2",
+      "depth": 13,
+      "via": "TradewindTown",
+      "pending": 0,
+      "translated": 82,
+      "outgoing": [
+        "DistortionWorld",
+        "NewMap",
+        "SennenVillage",
+        "TradewindTown"
+      ]
+    },
+    {
+      "map": "NavelRock_B1F",
+      "depth": 13,
+      "via": "NavelRock_Entrance",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Entrance",
+        "NavelRock_Fork"
+      ]
+    },
+    {
+      "map": "NewMauville_Inside",
+      "depth": 13,
+      "via": "NewMauville_Entrance",
+      "pending": 11,
+      "translated": 0,
+      "outgoing": [
+        "NewMauville_Entrance"
+      ]
+    },
+    {
+      "map": "OldaleTown",
+      "depth": 13,
+      "via": "Route103",
+      "pending": 36,
+      "translated": 0,
+      "outgoing": [
+        "OldaleTown_House1",
+        "OldaleTown_House2",
+        "OldaleTown_Mart",
+        "OldaleTown_PokemonCenter_1F",
+        "Route101",
+        "Route102",
+        "Route103",
+        "Torii"
+      ]
+    },
+    {
+      "map": "Route107",
+      "depth": 13,
+      "via": "Route108",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown",
+        "Route108"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle1",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 19,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle2",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 20,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle3",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 22,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle4",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 21,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle5",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 76,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance",
+        "Route110_TrickHousePuzzle5"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle6",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 23,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle7",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 38,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance",
+        "Route110_TrickHousePuzzle7"
+      ]
+    },
+    {
+      "map": "Route110_TrickHousePuzzle8",
+      "depth": 13,
+      "via": "Route110_TrickHouseEntrance",
+      "pending": 22,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance"
+      ]
+    },
+    {
+      "map": "Route111",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 94,
+      "translated": 0,
+      "outgoing": [
+        "DesertRuins",
+        "MauvilleCity",
+        "MirageTower_1F",
+        "Route111_OldLadysRestStop",
+        "Route111_WinstrateFamilysHouse",
+        "Route112",
+        "Route113",
+        "TrainerHill_Entrance"
+      ]
+    },
+    {
+      "map": "Route117",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity",
+        "Route117_PokemonDayCare",
+        "VerdanturfTown"
+      ]
+    },
+    {
+      "map": "Route118",
+      "depth": 13,
+      "via": "MauvilleCity",
+      "pending": 37,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity",
+        "Route119",
+        "Route123",
+        "TerraCave_Entrance"
+      ]
+    },
+    {
+      "map": "Route123",
+      "depth": 13,
+      "via": "Route122",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "Route118",
+        "Route122",
+        "Route123_BerryMastersHouse"
+      ]
+    },
+    {
+      "map": "Route127",
+      "depth": 13,
+      "via": "MossdeepCity",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity",
+        "Route126",
+        "Route128",
+        "Underwater_Route127"
+      ]
+    },
+    {
+      "map": "Route132",
+      "depth": 13,
+      "via": "Route133",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown",
+        "Route133"
+      ]
+    },
+    {
+      "map": "SafariZone_South",
+      "depth": 13,
+      "via": "Route121_SafariZoneEntrance",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route121_SafariZoneEntrance",
+        "SafariZone_North",
+        "SafariZone_Southeast",
+        "SafariZone_Southwest"
+      ]
+    },
+    {
+      "map": "ScorchedSlab",
+      "depth": 13,
+      "via": "Route120",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route120"
+      ]
+    },
+    {
+      "map": "ShoalCave_LowTideEntranceRoom",
+      "depth": 13,
+      "via": "Route125",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route125",
+        "ShoalCave_LowTideInnerRoom"
+      ]
+    },
+    {
+      "map": "SlateportCity_BattleTentBattleRoom",
+      "depth": 13,
+      "via": "SlateportCity_BattleTentCorridor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SlateportCity_BattleTentCorridor",
+        "SlateportCity_BattleTentLobby"
+      ]
+    },
+    {
+      "map": "TradewindApartment",
+      "depth": 13,
+      "via": "TradewindTown",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TradewindTown"
+      ]
+    },
+    {
+      "map": "TradewindApartment_2",
+      "depth": 13,
+      "via": "TradewindTown",
+      "pending": 0,
+      "translated": 8,
+      "outgoing": [
+        "TradewindApartment_2",
+        "TradewindLab",
+        "TradewindTown"
+      ]
+    },
+    {
+      "map": "TradewindGym",
+      "depth": 13,
+      "via": "TradewindTown",
+      "pending": 0,
+      "translated": 16,
+      "outgoing": [
+        "TradewindTown"
+      ]
+    },
+    {
+      "map": "TradewindHouse",
+      "depth": 13,
+      "via": "TradewindTown",
+      "pending": 0,
+      "translated": 7,
+      "outgoing": [
+        "TradewindTown"
+      ]
+    },
+    {
+      "map": "Underwater_Route125",
+      "depth": 13,
+      "via": "Route125",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route125",
+        "Underwater_MarineCave"
+      ]
+    },
+    {
+      "map": "Underwater_Route126",
+      "depth": 13,
+      "via": "Route126",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route126",
+        "Underwater_Route124",
+        "Underwater_Route127",
+        "Underwater_SootopolisCity"
+      ]
+    },
+    {
+      "map": "AbandonedShip_CaptainsOffice",
+      "depth": 14,
+      "via": "AbandonedShip_Deck",
+      "pending": 11,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Deck"
+      ]
+    },
+    {
+      "map": "AbandonedShip_Corridors_1F",
+      "depth": 14,
+      "via": "AbandonedShip_Deck",
+      "pending": 7,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Corridors_B1F",
+        "AbandonedShip_Deck",
+        "AbandonedShip_Rooms2_1F",
+        "AbandonedShip_Rooms_1F"
+      ]
+    },
+    {
+      "map": "Ashlands_Desert",
+      "depth": 14,
+      "via": "Ashlands_2",
+      "pending": 0,
+      "translated": 3,
+      "outgoing": [
+        "Ashlands",
+        "Ashlands_2"
+      ]
+    },
+    {
+      "map": "DesertRuins",
+      "depth": 14,
+      "via": "Route111",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "DesertRuins",
+        "Route111"
+      ]
+    },
+    {
+      "map": "DewfordTown",
+      "depth": 14,
+      "via": "Route107",
+      "pending": 111,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown_Gym",
+        "DewfordTown_Hall",
+        "DewfordTown_House1",
+        "DewfordTown_House2",
+        "DewfordTown_PokemonCenter_1F",
+        "Route104_MrBrineysHouse",
+        "Route106",
+        "Route107"
+      ]
+    },
+    {
+      "map": "DistortionWorld",
+      "depth": 14,
+      "via": "NationalParkAct2",
+      "pending": 0,
+      "translated": 69,
+      "outgoing": [
+        "DistortionWorld",
+        "NationalParkAct2"
+      ]
+    },
+    {
+      "map": "FortreeCity_DecorationShop",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_Gym",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 118,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_House1",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 22,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_House2",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 24,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_House3",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_House4",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 19,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_House5",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 8,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_Mart",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity"
+      ]
+    },
+    {
+      "map": "FortreeCity_PokemonCenter_1F",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 20,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity",
+        "FortreeCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "LilycoveCity_DepartmentStore_4F",
+      "depth": 14,
+      "via": "LilycoveCity_DepartmentStore_3F",
+      "pending": 20,
+      "translated": 0,
+      "outgoing": [
+        "LilycoveCity_DepartmentStoreElevator",
+        "LilycoveCity_DepartmentStore_3F"
+      ]
+    },
+    {
+      "map": "MauvilleCity_PokemonCenter_2F",
+      "depth": 14,
+      "via": "MauvilleCity_PokemonCenter_1F",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "MauvilleCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "MirageTower_1F",
+      "depth": 14,
+      "via": "Route111",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MirageTower_2F",
+        "Route111"
+      ]
+    },
+    {
+      "map": "MossdeepCity_GameCorner_B1F",
+      "depth": 14,
+      "via": "MossdeepCity_GameCorner_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity_GameCorner_1F"
+      ]
+    },
+    {
+      "map": "MossdeepCity_PokemonCenter_2F",
+      "depth": 14,
+      "via": "MossdeepCity_PokemonCenter_1F",
+      "pending": 3,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "MossdeepCity_SpaceCenter_2F",
+      "depth": 14,
+      "via": "MossdeepCity_SpaceCenter_1F",
+      "pending": 94,
+      "translated": 0,
+      "outgoing": [
+        "MossdeepCity_SpaceCenter_1F"
+      ]
+    },
+    {
+      "map": "MtPyre_2F",
+      "depth": 14,
+      "via": "MtPyre_1F",
+      "pending": 53,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_1F",
+        "MtPyre_3F"
+      ]
+    },
+    {
+      "map": "MtPyre_Exterior",
+      "depth": 14,
+      "via": "MtPyre_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_1F",
+        "MtPyre_Summit"
+      ]
+    },
+    {
+      "map": "NavelRock_Fork",
+      "depth": 14,
+      "via": "NavelRock_B1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_B1F",
+        "NavelRock_Down01",
+        "NavelRock_Up1"
+      ]
+    },
+    {
+      "map": "OldaleTown_House1",
+      "depth": 14,
+      "via": "OldaleTown",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "OldaleTown"
+      ]
+    },
+    {
+      "map": "PacifidlogTown",
+      "depth": 14,
+      "via": "Route132",
+      "pending": 17,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown_House1",
+        "PacifidlogTown_House2",
+        "PacifidlogTown_House3",
+        "PacifidlogTown_House4",
+        "PacifidlogTown_House5",
+        "PacifidlogTown_PokemonCenter_1F",
+        "Route131",
+        "Route132"
+      ]
+    },
+    {
+      "map": "Route101",
+      "depth": 14,
+      "via": "OldaleTown",
+      "pending": 26,
+      "translated": 0,
+      "outgoing": [
+        "LittlerootTown",
+        "LittlerootTown_ProfessorBirchsLab",
+        "OldaleTown"
+      ]
+    },
+    {
+      "map": "Route102",
+      "depth": 14,
+      "via": "OldaleTown",
+      "pending": 21,
+      "translated": 0,
+      "outgoing": [
+        "OldaleTown",
+        "PetalburgCity"
+      ]
+    },
+    {
+      "map": "Route110_TrickHouseEnd",
+      "depth": 14,
+      "via": "Route110_TrickHousePuzzle1",
+      "pending": 73,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseCorridor",
+        "Route110_TrickHousePuzzle1"
+      ]
+    },
+    {
+      "map": "Route111_OldLadysRestStop",
+      "depth": 14,
+      "via": "Route111",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "Route111"
+      ]
+    },
+    {
+      "map": "Route111_WinstrateFamilysHouse",
+      "depth": 14,
+      "via": "Route111",
+      "pending": 32,
+      "translated": 0,
+      "outgoing": [
+        "Route111"
+      ]
+    },
+    {
+      "map": "Route112",
+      "depth": 14,
+      "via": "Route111",
+      "pending": 18,
+      "translated": 0,
+      "outgoing": [
+        "FieryPath",
+        "JaggedPass",
+        "LavaridgeTown",
+        "Route111",
+        "Route112_CableCarStation",
+        "Route113"
+      ]
+    },
+    {
+      "map": "Route113",
+      "depth": 14,
+      "via": "Route111",
+      "pending": 19,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown",
+        "Route111",
+        "Route112",
+        "Route113_GlassWorkshop",
+        "TerraCave_Entrance"
+      ]
+    },
+    {
+      "map": "Route117_PokemonDayCare",
+      "depth": 14,
+      "via": "Route117",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route117"
+      ]
+    },
+    {
+      "map": "Route119",
+      "depth": 14,
+      "via": "FortreeCity",
+      "pending": 97,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity",
+        "Route118",
+        "Route119_House",
+        "Route119_WeatherInstitute_1F"
+      ]
+    },
+    {
+      "map": "Route123_BerryMastersHouse",
+      "depth": 14,
+      "via": "Route123",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route123"
+      ]
+    },
+    {
+      "map": "Route128",
+      "depth": 14,
+      "via": "Route127",
+      "pending": 43,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity",
+        "Route127",
+        "Route129",
+        "Underwater_Route128"
+      ]
+    },
+    {
+      "map": "SafariZone_North",
+      "depth": 14,
+      "via": "SafariZone_South",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SafariZone_Northeast",
+        "SafariZone_Northwest",
+        "SafariZone_South"
+      ]
+    },
+    {
+      "map": "SafariZone_Southeast",
+      "depth": 14,
+      "via": "SafariZone_South",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SafariZone_Northeast",
+        "SafariZone_South"
+      ]
+    },
+    {
+      "map": "SafariZone_Southwest",
+      "depth": 14,
+      "via": "SafariZone_South",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SafariZone_Northwest",
+        "SafariZone_RestHouse",
+        "SafariZone_South"
+      ]
+    },
+    {
+      "map": "ShoalCave_LowTideInnerRoom",
+      "depth": 14,
+      "via": "ShoalCave_LowTideEntranceRoom",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "ShoalCave_LowTideEntranceRoom",
+        "ShoalCave_LowTideLowerRoom",
+        "ShoalCave_LowTideStairsRoom"
+      ]
+    },
+    {
+      "map": "TerraCave_Entrance",
+      "depth": 14,
+      "via": "Route118",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TerraCave_End"
+      ]
+    },
+    {
+      "map": "TradewindLab",
+      "depth": 14,
+      "via": "TradewindApartment_2",
+      "pending": 0,
+      "translated": 21,
+      "outgoing": [
+        "TradewindApartment_2"
+      ]
+    },
+    {
+      "map": "TrainerHill_Entrance",
+      "depth": 14,
+      "via": "Route111",
+      "pending": 107,
+      "translated": 0,
+      "outgoing": [
+        "Route111",
+        "TrainerHill_1F"
+      ]
+    },
+    {
+      "map": "Underwater_MarineCave",
+      "depth": 14,
+      "via": "Underwater_Route125",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": []
+    },
+    {
+      "map": "Underwater_Route127",
+      "depth": 14,
+      "via": "Route127",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route127",
+        "Underwater_MarineCave",
+        "Underwater_Route126",
+        "Underwater_Route128"
+      ]
+    },
+    {
+      "map": "Underwater_SootopolisCity",
+      "depth": 14,
+      "via": "Underwater_Route126",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Underwater_Route126"
+      ]
+    },
+    {
+      "map": "VerdanturfTown",
+      "depth": 14,
+      "via": "Route117",
+      "pending": 42,
+      "translated": 0,
+      "outgoing": [
+        "Route116",
+        "Route117",
+        "RusturfTunnel",
+        "VerdanturfTown_BattleTentLobby",
+        "VerdanturfTown_FriendshipRatersHouse",
+        "VerdanturfTown_House",
+        "VerdanturfTown_Mart",
+        "VerdanturfTown_PokemonCenter_1F",
+        "VerdanturfTown_WandasHouse"
+      ]
+    },
+    {
+      "map": "AbandonedShip_Corridors_B1F",
+      "depth": 15,
+      "via": "AbandonedShip_Corridors_1F",
+      "pending": 17,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Corridors_1F",
+        "AbandonedShip_Room_B1F",
+        "AbandonedShip_Rooms2_B1F",
+        "AbandonedShip_Rooms_B1F"
+      ]
+    },
+    {
+      "map": "AbandonedShip_Rooms2_1F",
+      "depth": 15,
+      "via": "AbandonedShip_Corridors_1F",
+      "pending": 53,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Corridors_1F"
+      ]
+    },
+    {
+      "map": "AbandonedShip_Rooms_1F",
+      "depth": 15,
+      "via": "AbandonedShip_Corridors_1F",
+      "pending": 22,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Corridors_1F"
+      ]
+    },
+    {
+      "map": "Ashlands",
+      "depth": 15,
+      "via": "Ashlands_Desert",
+      "pending": 0,
+      "translated": 63,
+      "outgoing": [
+        "AshlandsOldMansHouse",
+        "Ashlands_2",
+        "Ashlands_Desert",
+        "HotSpring"
+      ]
+    },
+    {
+      "map": "DewfordTown_Gym",
+      "depth": 15,
+      "via": "DewfordTown",
+      "pending": 110,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown"
+      ]
+    },
+    {
+      "map": "DewfordTown_Hall",
+      "depth": 15,
+      "via": "DewfordTown",
+      "pending": 132,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown"
+      ]
+    },
+    {
+      "map": "DewfordTown_House1",
+      "depth": 15,
+      "via": "DewfordTown",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown"
+      ]
+    },
+    {
+      "map": "DewfordTown_House2",
+      "depth": 15,
+      "via": "DewfordTown",
+      "pending": 21,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown"
+      ]
+    },
+    {
+      "map": "DewfordTown_PokemonCenter_1F",
+      "depth": 15,
+      "via": "DewfordTown",
+      "pending": 7,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown",
+        "DewfordTown_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "EverGrandeCity",
+      "depth": 15,
+      "via": "Route128",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_PokemonCenter_1F",
+        "EverGrandeCity_PokemonLeague_1F",
+        "Route128",
+        "VictoryRoad_1F"
+      ]
+    },
+    {
+      "map": "FallarborTown",
+      "depth": 15,
+      "via": "Route113",
+      "pending": 26,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown_BattleTentLobby",
+        "FallarborTown_CozmosHouse",
+        "FallarborTown_Mart",
+        "FallarborTown_MoveRelearnersHouse",
+        "FallarborTown_PokemonCenter_1F",
+        "Route113",
+        "Route114"
+      ]
+    },
+    {
+      "map": "FieryPath",
+      "depth": 15,
+      "via": "Route112",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route112"
+      ]
+    },
+    {
+      "map": "FortreeCity_PokemonCenter_2F",
+      "depth": 15,
+      "via": "FortreeCity_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "FortreeCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "JaggedPass",
+      "depth": 15,
+      "via": "Route112",
+      "pending": 63,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_1F",
+        "MtChimney",
+        "Route112"
+      ]
+    },
+    {
+      "map": "LavaridgeTown",
+      "depth": 15,
+      "via": "Route112",
+      "pending": 93,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown_Gym_1F",
+        "LavaridgeTown_HerbShop",
+        "LavaridgeTown_House",
+        "LavaridgeTown_Mart",
+        "LavaridgeTown_PokemonCenter_1F",
+        "Route112"
+      ]
+    },
+    {
+      "map": "LittlerootTown",
+      "depth": 15,
+      "via": "Route101",
+      "pending": 74,
+      "translated": 0,
+      "outgoing": [
+        "LittlerootTown_BrendansHouse_1F",
+        "LittlerootTown_MaysHouse_1F",
+        "LittlerootTown_ProfessorBirchsLab",
+        "Route101"
+      ]
+    },
+    {
+      "map": "MirageTower_2F",
+      "depth": 15,
+      "via": "MirageTower_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MirageTower_1F",
+        "MirageTower_3F"
+      ]
+    },
+    {
+      "map": "MtPyre_3F",
+      "depth": 15,
+      "via": "MtPyre_2F",
+      "pending": 39,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_2F",
+        "MtPyre_4F"
+      ]
+    },
+    {
+      "map": "MtPyre_Summit",
+      "depth": 15,
+      "via": "MtPyre_Exterior",
+      "pending": 146,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_Exterior"
+      ]
+    },
+    {
+      "map": "NavelRock_Down01",
+      "depth": 15,
+      "via": "NavelRock_Fork",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down02",
+        "NavelRock_Fork"
+      ]
+    },
+    {
+      "map": "NavelRock_Up1",
+      "depth": 15,
+      "via": "NavelRock_Fork",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Fork",
+        "NavelRock_Up2"
+      ]
+    },
+    {
+      "map": "PacifidlogTown_House1",
+      "depth": 15,
+      "via": "PacifidlogTown",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown"
+      ]
+    },
+    {
+      "map": "PacifidlogTown_House2",
+      "depth": 15,
+      "via": "PacifidlogTown",
+      "pending": 33,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown"
+      ]
+    },
+    {
+      "map": "PacifidlogTown_House3",
+      "depth": 15,
+      "via": "PacifidlogTown",
+      "pending": 25,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown"
+      ]
+    },
+    {
+      "map": "PacifidlogTown_House4",
+      "depth": 15,
+      "via": "PacifidlogTown",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown"
+      ]
+    },
+    {
+      "map": "PacifidlogTown_House5",
+      "depth": 15,
+      "via": "PacifidlogTown",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown"
+      ]
+    },
+    {
+      "map": "PacifidlogTown_PokemonCenter_1F",
+      "depth": 15,
+      "via": "PacifidlogTown",
+      "pending": 13,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown",
+        "PacifidlogTown_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "PetalburgCity",
+      "depth": 15,
+      "via": "Route102",
+      "pending": 38,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity_Gym",
+        "PetalburgCity_House1",
+        "PetalburgCity_House2",
+        "PetalburgCity_Mart",
+        "PetalburgCity_PokemonCenter_1F",
+        "PetalburgCity_WallysHouse",
+        "Route102",
+        "Route104"
+      ]
+    },
+    {
+      "map": "Route104_MrBrineysHouse",
+      "depth": 15,
+      "via": "DewfordTown",
+      "pending": 44,
+      "translated": 0,
+      "outgoing": [
+        "Route104"
+      ]
+    },
+    {
+      "map": "Route106",
+      "depth": 15,
+      "via": "DewfordTown",
+      "pending": 3,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown",
+        "GraniteCave_1F",
+        "Route105"
+      ]
+    },
+    {
+      "map": "Route110_TrickHouseCorridor",
+      "depth": 15,
+      "via": "Route110_TrickHouseEnd",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route110_TrickHouseEnd",
+        "Route110_TrickHouseEntrance"
+      ]
+    },
+    {
+      "map": "Route113_GlassWorkshop",
+      "depth": 15,
+      "via": "Route113",
+      "pending": 57,
+      "translated": 0,
+      "outgoing": [
+        "Route113"
+      ]
+    },
+    {
+      "map": "Route116",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 84,
+      "translated": 0,
+      "outgoing": [
+        "Route116_TunnelersRestHouse",
+        "RustboroCity",
+        "RusturfTunnel",
+        "TerraCave_Entrance",
+        "VerdanturfTown"
+      ]
+    },
+    {
+      "map": "Route119_House",
+      "depth": 15,
+      "via": "Route119",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "Route119"
+      ]
+    },
+    {
+      "map": "Route119_WeatherInstitute_1F",
+      "depth": 15,
+      "via": "Route119",
+      "pending": 39,
+      "translated": 0,
+      "outgoing": [
+        "Route119",
+        "Route119_WeatherInstitute_2F"
+      ]
+    },
+    {
+      "map": "Route131",
+      "depth": 15,
+      "via": "PacifidlogTown",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown",
+        "SkyPillar_Entrance"
+      ]
+    },
+    {
+      "map": "RusturfTunnel",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 75,
+      "translated": 0,
+      "outgoing": [
+        "Route116",
+        "VerdanturfTown"
+      ]
+    },
+    {
+      "map": "SafariZone_Northeast",
+      "depth": 15,
+      "via": "SafariZone_North",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SafariZone_North",
+        "SafariZone_Southeast"
+      ]
+    },
+    {
+      "map": "SafariZone_Northwest",
+      "depth": 15,
+      "via": "SafariZone_North",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SafariZone_North",
+        "SafariZone_Southwest"
+      ]
+    },
+    {
+      "map": "SafariZone_RestHouse",
+      "depth": 15,
+      "via": "SafariZone_Southwest",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SafariZone_Southwest"
+      ]
+    },
+    {
+      "map": "ShoalCave_LowTideLowerRoom",
+      "depth": 15,
+      "via": "ShoalCave_LowTideInnerRoom",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "ShoalCave_LowTideIceRoom",
+        "ShoalCave_LowTideInnerRoom"
+      ]
+    },
+    {
+      "map": "ShoalCave_LowTideStairsRoom",
+      "depth": 15,
+      "via": "ShoalCave_LowTideInnerRoom",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "ShoalCave_LowTideInnerRoom"
+      ]
+    },
+    {
+      "map": "TerraCave_End",
+      "depth": 15,
+      "via": "TerraCave_Entrance",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TerraCave_Entrance"
+      ]
+    },
+    {
+      "map": "TrainerHill_1F",
+      "depth": 15,
+      "via": "TrainerHill_Entrance",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TrainerHill_2F",
+        "TrainerHill_Entrance"
+      ]
+    },
+    {
+      "map": "Underwater_Route128",
+      "depth": 15,
+      "via": "Route128",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route128",
+        "Underwater_Route127",
+        "Underwater_SeafloorCavern"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_BattleTentLobby",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 41,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown",
+        "VerdanturfTown_BattleTentCorridor"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_FriendshipRatersHouse",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 22,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_House",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_Mart",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_PokemonCenter_1F",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown",
+        "VerdanturfTown_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_WandasHouse",
+      "depth": 15,
+      "via": "VerdanturfTown",
+      "pending": 60,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown"
+      ]
+    },
+    {
+      "map": "AbandonedShip_Room_B1F",
+      "depth": 16,
+      "via": "AbandonedShip_Corridors_B1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Corridors_B1F"
+      ]
+    },
+    {
+      "map": "AbandonedShip_Rooms2_B1F",
+      "depth": 16,
+      "via": "AbandonedShip_Corridors_B1F",
+      "pending": 4,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Corridors_B1F"
+      ]
+    },
+    {
+      "map": "AbandonedShip_Rooms_B1F",
+      "depth": 16,
+      "via": "AbandonedShip_Corridors_B1F",
+      "pending": 4,
+      "translated": 0,
+      "outgoing": [
+        "AbandonedShip_Corridors_B1F"
+      ]
+    },
+    {
+      "map": "AshlandsOldMansHouse",
+      "depth": 16,
+      "via": "Ashlands",
+      "pending": 0,
+      "translated": 25,
+      "outgoing": [
+        "Ashlands"
+      ]
+    },
+    {
+      "map": "DewfordTown_PokemonCenter_2F",
+      "depth": 16,
+      "via": "DewfordTown_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "DewfordTown_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_PokemonCenter_1F",
+      "depth": 16,
+      "via": "EverGrandeCity",
+      "pending": 18,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity",
+        "EverGrandeCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_PokemonLeague_1F",
+      "depth": 16,
+      "via": "EverGrandeCity",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity",
+        "EverGrandeCity_Hall5",
+        "EverGrandeCity_PokemonLeague_2F"
+      ]
+    },
+    {
+      "map": "FallarborTown_BattleTentLobby",
+      "depth": 16,
+      "via": "FallarborTown",
+      "pending": 34,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown",
+        "FallarborTown_BattleTentCorridor"
+      ]
+    },
+    {
+      "map": "FallarborTown_CozmosHouse",
+      "depth": 16,
+      "via": "FallarborTown",
+      "pending": 34,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown"
+      ]
+    },
+    {
+      "map": "FallarborTown_Mart",
+      "depth": 16,
+      "via": "FallarborTown",
+      "pending": 11,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown"
+      ]
+    },
+    {
+      "map": "FallarborTown_MoveRelearnersHouse",
+      "depth": 16,
+      "via": "FallarborTown",
+      "pending": 23,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown"
+      ]
+    },
+    {
+      "map": "FallarborTown_PokemonCenter_1F",
+      "depth": 16,
+      "via": "FallarborTown",
+      "pending": 22,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown",
+        "FallarborTown_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "GraniteCave_1F",
+      "depth": 16,
+      "via": "Route106",
+      "pending": 16,
+      "translated": 0,
+      "outgoing": [
+        "GraniteCave_B1F",
+        "GraniteCave_StevensRoom",
+        "Route106"
+      ]
+    },
+    {
+      "map": "HotSpring",
+      "depth": 16,
+      "via": "Ashlands",
+      "pending": 0,
+      "translated": 17,
+      "outgoing": [
+        "Ashlands"
+      ]
+    },
+    {
+      "map": "LavaridgeTown_Gym_1F",
+      "depth": 16,
+      "via": "LavaridgeTown",
+      "pending": 140,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown",
+        "LavaridgeTown_Gym_B1F"
+      ]
+    },
+    {
+      "map": "LavaridgeTown_HerbShop",
+      "depth": 16,
+      "via": "LavaridgeTown",
+      "pending": 15,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown"
+      ]
+    },
+    {
+      "map": "LavaridgeTown_House",
+      "depth": 16,
+      "via": "LavaridgeTown",
+      "pending": 5,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown"
+      ]
+    },
+    {
+      "map": "LavaridgeTown_Mart",
+      "depth": 16,
+      "via": "LavaridgeTown",
+      "pending": 7,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown"
+      ]
+    },
+    {
+      "map": "LavaridgeTown_PokemonCenter_1F",
+      "depth": 16,
+      "via": "LavaridgeTown",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown",
+        "LavaridgeTown_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "MagmaHideout_1F",
+      "depth": 16,
+      "via": "JaggedPass",
+      "pending": 23,
+      "translated": 0,
+      "outgoing": [
+        "JaggedPass",
+        "MagmaHideout_2F_1R",
+        "MagmaHideout_2F_2R",
+        "MagmaHideout_2F_3R"
+      ]
+    },
+    {
+      "map": "MirageTower_3F",
+      "depth": 16,
+      "via": "MirageTower_2F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MirageTower_2F",
+        "MirageTower_4F"
+      ]
+    },
+    {
+      "map": "MtChimney",
+      "depth": 16,
+      "via": "JaggedPass",
+      "pending": 191,
+      "translated": 0,
+      "outgoing": [
+        "JaggedPass",
+        "MtChimney_CableCarStation"
+      ]
+    },
+    {
+      "map": "MtPyre_4F",
+      "depth": 16,
+      "via": "MtPyre_3F",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_3F",
+        "MtPyre_5F"
+      ]
+    },
+    {
+      "map": "NavelRock_Down02",
+      "depth": 16,
+      "via": "NavelRock_Down01",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down01",
+        "NavelRock_Down03"
+      ]
+    },
+    {
+      "map": "NavelRock_Up2",
+      "depth": 16,
+      "via": "NavelRock_Up1",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Up1",
+        "NavelRock_Up3"
+      ]
+    },
+    {
+      "map": "PacifidlogTown_PokemonCenter_2F",
+      "depth": 16,
+      "via": "PacifidlogTown_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "PacifidlogTown_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "PetalburgCity_Gym",
+      "depth": 16,
+      "via": "PetalburgCity",
+      "pending": 307,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity",
+        "PetalburgCity_Gym"
+      ]
+    },
+    {
+      "map": "PetalburgCity_House1",
+      "depth": 16,
+      "via": "PetalburgCity",
+      "pending": 13,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity"
+      ]
+    },
+    {
+      "map": "PetalburgCity_House2",
+      "depth": 16,
+      "via": "PetalburgCity",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity"
+      ]
+    },
+    {
+      "map": "PetalburgCity_Mart",
+      "depth": 16,
+      "via": "PetalburgCity",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity"
+      ]
+    },
+    {
+      "map": "PetalburgCity_PokemonCenter_1F",
+      "depth": 16,
+      "via": "PetalburgCity",
+      "pending": 28,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity",
+        "PetalburgCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "PetalburgCity_WallysHouse",
+      "depth": 16,
+      "via": "PetalburgCity",
+      "pending": 52,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity"
+      ]
+    },
+    {
+      "map": "Route104",
+      "depth": 16,
+      "via": "Route104_MrBrineysHouse",
+      "pending": 109,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity",
+        "PetalburgWoods",
+        "Route104_MrBrineysHouse",
+        "Route104_PrettyPetalFlowerShop",
+        "Route105",
+        "RustboroCity"
+      ]
+    },
+    {
+      "map": "Route105",
+      "depth": 16,
+      "via": "Route106",
+      "pending": 16,
+      "translated": 0,
+      "outgoing": [
+        "IslandCave",
+        "Route104",
+        "Route106",
+        "Underwater_Route105"
+      ]
+    },
+    {
+      "map": "Route114",
+      "depth": 16,
+      "via": "FallarborTown",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown",
+        "MeteorFalls_1F_1R",
+        "Route114_FossilManiacsHouse",
+        "Route114_LanettesHouse",
+        "Route115",
+        "TerraCave_Entrance"
+      ]
+    },
+    {
+      "map": "Route116_TunnelersRestHouse",
+      "depth": 16,
+      "via": "Route116",
+      "pending": 25,
+      "translated": 0,
+      "outgoing": [
+        "Route116"
+      ]
+    },
+    {
+      "map": "Route119_WeatherInstitute_2F",
+      "depth": 16,
+      "via": "Route119_WeatherInstitute_1F",
+      "pending": 76,
+      "translated": 0,
+      "outgoing": [
+        "Route119_WeatherInstitute_1F"
+      ]
+    },
+    {
+      "map": "RustboroCity",
+      "depth": 16,
+      "via": "Route116",
+      "pending": 181,
+      "translated": 0,
+      "outgoing": [
+        "Route104",
+        "Route115",
+        "Route116",
+        "RustboroCity_CuttersHouse",
+        "RustboroCity_DevonCorp_1F",
+        "RustboroCity_DevonCorp_3F",
+        "RustboroCity_Flat1_1F",
+        "RustboroCity_Flat2_1F",
+        "RustboroCity_Gym",
+        "RustboroCity_House1",
+        "RustboroCity_House2",
+        "RustboroCity_House3",
+        "RustboroCity_Mart",
+        "RustboroCity_PokemonCenter_1F",
+        "RustboroCity_PokemonSchool"
+      ]
+    },
+    {
+      "map": "ShoalCave_LowTideIceRoom",
+      "depth": 16,
+      "via": "ShoalCave_LowTideLowerRoom",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "ShoalCave_LowTideLowerRoom"
+      ]
+    },
+    {
+      "map": "SkyPillar_Entrance",
+      "depth": 16,
+      "via": "Route131",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route131",
+        "SkyPillar_Outside"
+      ]
+    },
+    {
+      "map": "TrainerHill_2F",
+      "depth": 16,
+      "via": "TrainerHill_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TrainerHill_1F",
+        "TrainerHill_3F"
+      ]
+    },
+    {
+      "map": "Underwater_SeafloorCavern",
+      "depth": 16,
+      "via": "Underwater_Route128",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "Underwater_Route128"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_BattleTentCorridor",
+      "depth": 16,
+      "via": "VerdanturfTown_BattleTentLobby",
+      "pending": 19,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown_BattleTentBattleRoom"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_PokemonCenter_2F",
+      "depth": 16,
+      "via": "VerdanturfTown_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TradeCenter",
+        "UnionRoom",
+        "VerdanturfTown_PokemonCenter_1F"
+      ]
+    },
+    {
+      "map": "VictoryRoad_1F",
+      "depth": 16,
+      "via": "EverGrandeCity",
+      "pending": 57,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity",
+        "VictoryRoad_B1F"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_Hall5",
+      "depth": 17,
+      "via": "EverGrandeCity_PokemonLeague_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_PokemonLeague_1F",
+        "EverGrandeCity_SidneysRoom"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_PokemonCenter_2F",
+      "depth": 17,
+      "via": "EverGrandeCity_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_PokemonLeague_2F",
+      "depth": 17,
+      "via": "EverGrandeCity_PokemonLeague_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_PokemonLeague_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "FallarborTown_BattleTentCorridor",
+      "depth": 17,
+      "via": "FallarborTown_BattleTentLobby",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown_BattleTentBattleRoom"
+      ]
+    },
+    {
+      "map": "FallarborTown_PokemonCenter_2F",
+      "depth": 17,
+      "via": "FallarborTown_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "GraniteCave_B1F",
+      "depth": 17,
+      "via": "GraniteCave_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "GraniteCave_1F",
+        "GraniteCave_B2F"
+      ]
+    },
+    {
+      "map": "GraniteCave_StevensRoom",
+      "depth": 17,
+      "via": "GraniteCave_1F",
+      "pending": 26,
+      "translated": 0,
+      "outgoing": [
+        "GraniteCave_1F"
+      ]
+    },
+    {
+      "map": "IslandCave",
+      "depth": 17,
+      "via": "Route105",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "IslandCave",
+        "Route105"
+      ]
+    },
+    {
+      "map": "LavaridgeTown_Gym_B1F",
+      "depth": 17,
+      "via": "LavaridgeTown_Gym_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown_Gym_1F"
+      ]
+    },
+    {
+      "map": "LavaridgeTown_PokemonCenter_2F",
+      "depth": 17,
+      "via": "LavaridgeTown_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "LavaridgeTown_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "MagmaHideout_2F_1R",
+      "depth": 17,
+      "via": "MagmaHideout_1F",
+      "pending": 28,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_1F",
+        "MagmaHideout_2F_2R",
+        "MagmaHideout_3F_1R"
+      ]
+    },
+    {
+      "map": "MagmaHideout_2F_2R",
+      "depth": 17,
+      "via": "MagmaHideout_1F",
+      "pending": 31,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_1F",
+        "MagmaHideout_2F_1R"
+      ]
+    },
+    {
+      "map": "MagmaHideout_2F_3R",
+      "depth": 17,
+      "via": "MagmaHideout_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_1F",
+        "MagmaHideout_3F_3R"
+      ]
+    },
+    {
+      "map": "MeteorFalls_1F_1R",
+      "depth": 17,
+      "via": "Route114",
+      "pending": 57,
+      "translated": 0,
+      "outgoing": [
+        "MeteorFalls_1F_2R",
+        "MeteorFalls_B1F_1R",
+        "MeteorFalls_StevensCave",
+        "Route114",
+        "Route115"
+      ]
+    },
+    {
+      "map": "MirageTower_4F",
+      "depth": 17,
+      "via": "MirageTower_3F",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "MirageTower_3F",
+        "Route111"
+      ]
+    },
+    {
+      "map": "MtChimney_CableCarStation",
+      "depth": 17,
+      "via": "MtChimney",
+      "pending": 4,
+      "translated": 0,
+      "outgoing": [
+        "MtChimney"
+      ]
+    },
+    {
+      "map": "MtPyre_5F",
+      "depth": 17,
+      "via": "MtPyre_4F",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_4F",
+        "MtPyre_6F"
+      ]
+    },
+    {
+      "map": "NavelRock_Down03",
+      "depth": 17,
+      "via": "NavelRock_Down02",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down02",
+        "NavelRock_Down04"
+      ]
+    },
+    {
+      "map": "NavelRock_Up3",
+      "depth": 17,
+      "via": "NavelRock_Up2",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Up2",
+        "NavelRock_Up4"
+      ]
+    },
+    {
+      "map": "PetalburgCity_PokemonCenter_2F",
+      "depth": 17,
+      "via": "PetalburgCity_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "PetalburgCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "PetalburgWoods",
+      "depth": 17,
+      "via": "Route104",
+      "pending": 98,
+      "translated": 0,
+      "outgoing": [
+        "Route104"
+      ]
+    },
+    {
+      "map": "Route104_PrettyPetalFlowerShop",
+      "depth": 17,
+      "via": "Route104",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route104"
+      ]
+    },
+    {
+      "map": "Route114_FossilManiacsHouse",
+      "depth": 17,
+      "via": "Route114",
+      "pending": 14,
+      "translated": 0,
+      "outgoing": [
+        "Route114",
+        "Route114_FossilManiacsTunnel"
+      ]
+    },
+    {
+      "map": "Route114_LanettesHouse",
+      "depth": 17,
+      "via": "Route114",
+      "pending": 43,
+      "translated": 0,
+      "outgoing": [
+        "Route114"
+      ]
+    },
+    {
+      "map": "Route115",
+      "depth": 17,
+      "via": "Route114",
+      "pending": 8,
+      "translated": 0,
+      "outgoing": [
+        "MeteorFalls_1F_1R",
+        "Route114",
+        "RustboroCity",
+        "TerraCave_Entrance"
+      ]
+    },
+    {
+      "map": "RustboroCity_CuttersHouse",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 23,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity"
+      ]
+    },
+    {
+      "map": "RustboroCity_DevonCorp_1F",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 44,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity",
+        "RustboroCity_DevonCorp_2F"
+      ]
+    },
+    {
+      "map": "RustboroCity_DevonCorp_3F",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 79,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity_DevonCorp_2F"
+      ]
+    },
+    {
+      "map": "RustboroCity_Flat1_1F",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 3,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity",
+        "RustboroCity_Flat1_2F"
+      ]
+    },
+    {
+      "map": "RustboroCity_Flat2_1F",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 3,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity",
+        "RustboroCity_Flat2_2F"
+      ]
+    },
+    {
+      "map": "RustboroCity_House1",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 18,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity"
+      ]
+    },
+    {
+      "map": "RustboroCity_House2",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 6,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity"
+      ]
+    },
+    {
+      "map": "RustboroCity_House3",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 9,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity"
+      ]
+    },
+    {
+      "map": "RustboroCity_Mart",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity"
+      ]
+    },
+    {
+      "map": "RustboroCity_PokemonCenter_1F",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 11,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity",
+        "RustboroCity_PokemonCenter_2F"
+      ]
+    },
+    {
+      "map": "RustboroCity_PokemonSchool",
+      "depth": 17,
+      "via": "RustboroCity",
+      "pending": 112,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity"
+      ]
+    },
+    {
+      "map": "SkyPillar_Outside",
+      "depth": 17,
+      "via": "SkyPillar_Entrance",
+      "pending": 22,
+      "translated": 0,
+      "outgoing": [
+        "SkyPillar_1F",
+        "SkyPillar_Entrance"
+      ]
+    },
+    {
+      "map": "TrainerHill_3F",
+      "depth": 17,
+      "via": "TrainerHill_2F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TrainerHill_2F",
+        "TrainerHill_4F"
+      ]
+    },
+    {
+      "map": "Underwater_Route105",
+      "depth": 17,
+      "via": "Route105",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "Route105",
+        "Underwater_MarineCave"
+      ]
+    },
+    {
+      "map": "VerdanturfTown_BattleTentBattleRoom",
+      "depth": 17,
+      "via": "VerdanturfTown_BattleTentCorridor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "VerdanturfTown_BattleTentLobby"
+      ]
+    },
+    {
+      "map": "VictoryRoad_B1F",
+      "depth": 17,
+      "via": "VictoryRoad_1F",
+      "pending": 33,
+      "translated": 0,
+      "outgoing": [
+        "VictoryRoad_1F",
+        "VictoryRoad_B2F"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_SidneysRoom",
+      "depth": 18,
+      "via": "EverGrandeCity_Hall5",
+      "pending": 15,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_Hall1",
+        "EverGrandeCity_Hall5"
+      ]
+    },
+    {
+      "map": "FallarborTown_BattleTentBattleRoom",
+      "depth": 18,
+      "via": "FallarborTown_BattleTentCorridor",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "FallarborTown_BattleTentLobby"
+      ]
+    },
+    {
+      "map": "GraniteCave_B2F",
+      "depth": 18,
+      "via": "GraniteCave_B1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "GraniteCave_B1F"
+      ]
+    },
+    {
+      "map": "MagmaHideout_3F_1R",
+      "depth": 18,
+      "via": "MagmaHideout_2F_1R",
+      "pending": 18,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_2F_1R",
+        "MagmaHideout_3F_2R",
+        "MagmaHideout_4F"
+      ]
+    },
+    {
+      "map": "MagmaHideout_3F_3R",
+      "depth": 18,
+      "via": "MagmaHideout_2F_3R",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_2F_3R",
+        "MagmaHideout_4F"
+      ]
+    },
+    {
+      "map": "MeteorFalls_1F_2R",
+      "depth": 18,
+      "via": "MeteorFalls_1F_1R",
+      "pending": 73,
+      "translated": 0,
+      "outgoing": [
+        "MeteorFalls_1F_1R",
+        "MeteorFalls_B1F_1R"
+      ]
+    },
+    {
+      "map": "MeteorFalls_B1F_1R",
+      "depth": 18,
+      "via": "MeteorFalls_1F_1R",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MeteorFalls_1F_1R",
+        "MeteorFalls_1F_2R",
+        "MeteorFalls_B1F_2R"
+      ]
+    },
+    {
+      "map": "MeteorFalls_StevensCave",
+      "depth": 18,
+      "via": "MeteorFalls_1F_1R",
+      "pending": 23,
+      "translated": 0,
+      "outgoing": [
+        "MeteorFalls_1F_1R"
+      ]
+    },
+    {
+      "map": "MtPyre_6F",
+      "depth": 18,
+      "via": "MtPyre_5F",
+      "pending": 20,
+      "translated": 0,
+      "outgoing": [
+        "MtPyre_5F"
+      ]
+    },
+    {
+      "map": "NavelRock_Down04",
+      "depth": 18,
+      "via": "NavelRock_Down03",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down03",
+        "NavelRock_Down05"
+      ]
+    },
+    {
+      "map": "NavelRock_Up4",
+      "depth": 18,
+      "via": "NavelRock_Up3",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Top",
+        "NavelRock_Up3"
+      ]
+    },
+    {
+      "map": "Route114_FossilManiacsTunnel",
+      "depth": 18,
+      "via": "Route114_FossilManiacsHouse",
+      "pending": 28,
+      "translated": 0,
+      "outgoing": [
+        "DesertUnderpass",
+        "Route114_FossilManiacsHouse"
+      ]
+    },
+    {
+      "map": "RustboroCity_DevonCorp_2F",
+      "depth": 18,
+      "via": "RustboroCity_DevonCorp_1F",
+      "pending": 77,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity_DevonCorp_1F",
+        "RustboroCity_DevonCorp_3F"
+      ]
+    },
+    {
+      "map": "RustboroCity_Flat1_2F",
+      "depth": 18,
+      "via": "RustboroCity_Flat1_1F",
+      "pending": 70,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity_Flat1_1F"
+      ]
+    },
+    {
+      "map": "RustboroCity_Flat2_2F",
+      "depth": 18,
+      "via": "RustboroCity_Flat2_1F",
+      "pending": 8,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity_Flat2_1F",
+        "RustboroCity_Flat2_3F"
+      ]
+    },
+    {
+      "map": "RustboroCity_PokemonCenter_2F",
+      "depth": 18,
+      "via": "RustboroCity_PokemonCenter_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity_PokemonCenter_1F",
+        "TradeCenter",
+        "UnionRoom"
+      ]
+    },
+    {
+      "map": "SkyPillar_1F",
+      "depth": 18,
+      "via": "SkyPillar_Outside",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SkyPillar_2F",
+        "SkyPillar_Outside"
+      ]
+    },
+    {
+      "map": "TrainerHill_4F",
+      "depth": 18,
+      "via": "TrainerHill_3F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TrainerHill_3F",
+        "TrainerHill_Roof"
+      ]
+    },
+    {
+      "map": "VictoryRoad_B2F",
+      "depth": 18,
+      "via": "VictoryRoad_B1F",
+      "pending": 39,
+      "translated": 0,
+      "outgoing": [
+        "VictoryRoad_B1F"
+      ]
+    },
+    {
+      "map": "DesertUnderpass",
+      "depth": 19,
+      "via": "Route114_FossilManiacsTunnel",
+      "pending": 2,
+      "translated": 0,
+      "outgoing": [
+        "Route114_FossilManiacsTunnel"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_Hall1",
+      "depth": 19,
+      "via": "EverGrandeCity_SidneysRoom",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_PhoebesRoom",
+        "EverGrandeCity_SidneysRoom"
+      ]
+    },
+    {
+      "map": "MagmaHideout_3F_2R",
+      "depth": 19,
+      "via": "MagmaHideout_3F_1R",
+      "pending": 12,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_3F_1R"
+      ]
+    },
+    {
+      "map": "MagmaHideout_4F",
+      "depth": 19,
+      "via": "MagmaHideout_3F_1R",
+      "pending": 64,
+      "translated": 0,
+      "outgoing": [
+        "MagmaHideout_3F_1R",
+        "MagmaHideout_3F_3R"
+      ]
+    },
+    {
+      "map": "MeteorFalls_B1F_2R",
+      "depth": 19,
+      "via": "MeteorFalls_B1F_1R",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "MeteorFalls_B1F_1R"
+      ]
+    },
+    {
+      "map": "NavelRock_Down05",
+      "depth": 19,
+      "via": "NavelRock_Down04",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down04",
+        "NavelRock_Down06"
+      ]
+    },
+    {
+      "map": "NavelRock_Top",
+      "depth": 19,
+      "via": "NavelRock_Up4",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Up4"
+      ]
+    },
+    {
+      "map": "RustboroCity_Flat2_3F",
+      "depth": 19,
+      "via": "RustboroCity_Flat2_2F",
+      "pending": 4,
+      "translated": 0,
+      "outgoing": [
+        "RustboroCity_Flat2_2F"
+      ]
+    },
+    {
+      "map": "SkyPillar_2F",
+      "depth": 19,
+      "via": "SkyPillar_1F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SkyPillar_1F",
+        "SkyPillar_3F"
+      ]
+    },
+    {
+      "map": "TrainerHill_Roof",
+      "depth": 19,
+      "via": "TrainerHill_4F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TrainerHill_4F",
+        "TrainerHill_Elevator"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_PhoebesRoom",
+      "depth": 20,
+      "via": "EverGrandeCity_Hall1",
+      "pending": 18,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_Hall1",
+        "EverGrandeCity_Hall2"
+      ]
+    },
+    {
+      "map": "NavelRock_Down06",
+      "depth": 20,
+      "via": "NavelRock_Down05",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down05",
+        "NavelRock_Down07"
+      ]
+    },
+    {
+      "map": "SkyPillar_3F",
+      "depth": 20,
+      "via": "SkyPillar_2F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SkyPillar_2F",
+        "SkyPillar_4F"
+      ]
+    },
+    {
+      "map": "TrainerHill_Elevator",
+      "depth": 20,
+      "via": "TrainerHill_Roof",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "TrainerHill_Entrance",
+        "TrainerHill_Roof"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_Hall2",
+      "depth": 21,
+      "via": "EverGrandeCity_PhoebesRoom",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_GlaciasRoom",
+        "EverGrandeCity_PhoebesRoom"
+      ]
+    },
+    {
+      "map": "NavelRock_Down07",
+      "depth": 21,
+      "via": "NavelRock_Down06",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down06",
+        "NavelRock_Down08"
+      ]
+    },
+    {
+      "map": "SkyPillar_4F",
+      "depth": 21,
+      "via": "SkyPillar_3F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SkyPillar_3F",
+        "SkyPillar_5F"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_GlaciasRoom",
+      "depth": 22,
+      "via": "EverGrandeCity_Hall2",
+      "pending": 17,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_Hall2",
+        "EverGrandeCity_Hall3"
+      ]
+    },
+    {
+      "map": "NavelRock_Down08",
+      "depth": 22,
+      "via": "NavelRock_Down07",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down07",
+        "NavelRock_Down09"
+      ]
+    },
+    {
+      "map": "SkyPillar_5F",
+      "depth": 22,
+      "via": "SkyPillar_4F",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "SkyPillar_4F",
+        "SkyPillar_Top"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_Hall3",
+      "depth": 23,
+      "via": "EverGrandeCity_GlaciasRoom",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_DrakesRoom",
+        "EverGrandeCity_GlaciasRoom"
+      ]
+    },
+    {
+      "map": "NavelRock_Down09",
+      "depth": 23,
+      "via": "NavelRock_Down08",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down08",
+        "NavelRock_Down10"
+      ]
+    },
+    {
+      "map": "SkyPillar_Top",
+      "depth": 23,
+      "via": "SkyPillar_5F",
+      "pending": 1,
+      "translated": 0,
+      "outgoing": [
+        "SkyPillar_5F"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_DrakesRoom",
+      "depth": 24,
+      "via": "EverGrandeCity_Hall3",
+      "pending": 23,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_Hall3",
+        "EverGrandeCity_Hall4"
+      ]
+    },
+    {
+      "map": "NavelRock_Down10",
+      "depth": 24,
+      "via": "NavelRock_Down09",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down09",
+        "NavelRock_Down11"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_Hall4",
+      "depth": 25,
+      "via": "EverGrandeCity_DrakesRoom",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_ChampionsRoom",
+        "EverGrandeCity_DrakesRoom"
+      ]
+    },
+    {
+      "map": "NavelRock_Down11",
+      "depth": 25,
+      "via": "NavelRock_Down10",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Bottom",
+        "NavelRock_Down10"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_ChampionsRoom",
+      "depth": 26,
+      "via": "EverGrandeCity_Hall4",
+      "pending": 93,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_Hall4",
+        "EverGrandeCity_HallOfFame"
+      ]
+    },
+    {
+      "map": "NavelRock_Bottom",
+      "depth": 26,
+      "via": "NavelRock_Down11",
+      "pending": 0,
+      "translated": 0,
+      "outgoing": [
+        "NavelRock_Down11"
+      ]
+    },
+    {
+      "map": "EverGrandeCity_HallOfFame",
+      "depth": 27,
+      "via": "EverGrandeCity_ChampionsRoom",
+      "pending": 10,
+      "translated": 0,
+      "outgoing": [
+        "EverGrandeCity_ChampionsRoom"
+      ]
+    }
+  ],
+  "reachable_map_count": 460,
+  "pending_map_rows": 14591,
+  "translated_map_rows": 2764
+}

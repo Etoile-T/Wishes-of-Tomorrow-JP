@@ -1,0 +1,1170 @@
+[
+ {
+  "id": "17c61c1a5fb682c8",
+  "translation": "{JPN}わしは そだてやじいさんじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffce5d34ddb0b385",
+  "translation": "トレーナーの だいじな\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99d9efb517d6b186",
+  "translation": "ポケモンを あずかって おる。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1d392a694b828b8",
+  "translation": "ポケモンを そだてて ほしいなら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3911a250a6012f1b",
+  "translation": "ばあさんに はなしておくれ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8814936688c1f369",
+  "translation": "{JPN}おお きみか!\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53c8c5612b4d0d1c",
+  "translation": "きみの ポケモンを そだてていたら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54ee2c5ed2f7a50d",
+  "translation": "いやあ びっくり したよ!\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a502312a5572bb98",
+  "translation": "ポケモンが タマゴを もっておった!\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "148eeaea00f82e2b",
+  "translation": "どこから きたのか わからんが\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8488977ef3325ec",
+  "translation": "きみの ポケモンが もっておったんじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "506de49146f242d3",
+  "translation": "ほしいじゃろう？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b142cfb6ad140ff5",
+  "translation": "{JPN}おお きみか! よく きたのう。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16b3b14cf0be81c0",
+  "translation": "きみの {ENG}{STR_VAR_1}{JPN}は げんきじゃよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e5f46c0a3f40d3e",
+  "translation": "{JPN}それじゃ わしが もらうよ。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6cbf0abd5f3adc37",
+  "translation": "ありがとうな!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a96e70c2669a37a",
+  "translation": "{JPN}もてる ポケモンが いっぱいじゃな…\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5d2a6c03a88f058",
+  "translation": "あきを つくってから また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2e366e68aa8991b",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は そだてやの\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfa333ee363dfa59",
+  "translation": "おじいさんから タマゴを うけとった!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c87cc55b0b245a9",
+  "translation": "{JPN}だいじに そだてて おくれよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "281e549c3ced0b3d",
+  "translation": "{JPN}そうそう きみの {ENG}{STR_VAR_1}{JPN}だが\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7cc2ff190d15cd0",
+  "translation": "なかよく していたようじゃよ。\\l",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb232e0a837fa1c9",
+  "translation": "{ENG}{STR_VAR_2}{JPN}の {ENG}{STR_VAR_3}{JPN}と。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d550397c38058d26",
+  "translation": "メールを うけとっていたのも\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de2b282693fe9244",
+  "translation": "みかけた きがするんじゃ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "525156c7ee8f0d97",
+  "translation": "{JPN}ポケモンを ひきとりたいなら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "967c0d04f2dcd02f",
+  "translation": "ばあさんに はなしておくれ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f76cdc5c5499a803",
+  "translation": "{JPN}おお きみか! {ENG}{STR_VAR_1}{JPN}も\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b579624413d9b0b2",
+  "translation": "{ENG}{STR_VAR_2}{JPN}も げんきじゃよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78e90f24ccd86511",
+  "translation": "{JPN}ほんとうに わしが もらってしまうぞ。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34264d8bdca51de0",
+  "translation": "ほしいんじゃろう？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57009b4e81129224",
+  "translation": "{JPN}わたしは そだてやばあさん。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46bd3bff469bc001",
+  "translation": "あなたの ポケモンを そだてますよ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cac5580e2d16d1d9",
+  "translation": "1ぴき あずけてみるかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0bcf71ca4da7039",
+  "translation": "{JPN}どの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3dbe1adcac4261f",
+  "translation": "そだてようかね？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6aeb53379b89d60",
+  "translation": "{JPN}それじゃ {ENG}{STR_VAR_1}{JPN}を\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f75fc097313ff70",
+  "translation": "しばらく あずかるよ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb0749ee7b3d4e32",
+  "translation": "あとで むかえに おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad46252f499fa479",
+  "translation": "{JPN}ポケモンは 2ひきまで あずかれるよ。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b27c416aa0eda26",
+  "translation": "もう1ぴき あずけてみるかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57029621e8715d52",
+  "translation": "{JPN}うちの じいさんが さがしていたよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d27cd415345c3ec8",
+  "translation": "{JPN}ああ そうかい。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f4014d9dc8bd3e7",
+  "translation": "また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c2561750c01480d",
+  "translation": "{JPN}おかねが たりないようだね…$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bc4523a8a3f83b2",
+  "translation": "{JPN}もう1ぴきも\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9094113b73bdc28f",
+  "translation": "ひきとっていくかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "486d20a57d483137",
+  "translation": "{JPN}それじゃあ。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21fe41099b7c66ea",
+  "translation": "また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "797b23f84f1ad2f9",
+  "translation": "{JPN}おや あなたかい! よく きたね。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "695dd754009ff54e",
+  "translation": "ポケモンは げんき いっぱいの はずさ!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "605aebbb56dbfaf8",
+  "translation": "{JPN}きみの {ENG}{STR_VAR_1}{JPN}は\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5d9517f38790812",
+  "translation": "レベルが {ENG}{STR_VAR_2}{JPN} あがったよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21d9fac48d4a7711",
+  "translation": "{JPN}てもちの ポケモンが いっぱいだね。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb072a28954abca9",
+  "translation": "あきを つくってから また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d9d2d92f6763c1f",
+  "translation": "{JPN}どちらの ポケモンを ひきとるかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01bc32b3c3343054",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を ひきとるなら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0cfc51de5b725d25",
+  "translation": "{ENG}{STR_VAR_2}{JPN}円 かかるよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e6db4fb6ccfb493",
+  "translation": "{JPN}はい たしかに!\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a337e1726062d727",
+  "translation": "あなたの ポケモンだよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54a8a5b2439d50a7",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3524c166a8071ce8",
+  "translation": "そだてやばあさんから ひきとった!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3971d3fc5f09ffb1",
+  "translation": "{JPN}おや？ あなたは\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f530393709187bc7",
+  "translation": "ポケモンが 1ぴきしか いないじゃないか。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a8daffe2a89d929",
+  "translation": "また こんど おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e773deeca7ee0ae8",
+  "translation": "{JPN}ポケモンを ひきとっていくかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f77a45d9c0f217dd",
+  "translation": "{JPN}その ポケモンを あずけてしまったら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce6dc1b3bb5b3f87",
+  "translation": "なにで たたかう つもりだい？\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e971aad46854d18f",
+  "translation": "また こんど おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9352fd57d0c99cd8",
+  "translation": "{JPN}おや？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a13716dac9e1987f",
+  "translation": "{JPN}おや？\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e9360a311af7325",
+  "translation": "ちょっと おまちなさい。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1668d3351ce072d4",
+  "translation": "その ポケモンを あずけてしまったら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce0a9be1cdfc63ed",
+  "translation": "てもちが 1ぴきだけに なってしまうよ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d8b91524b7028e0",
+  "translation": "もうすこし ポケモンを つかまえたほうが\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69ec6840a1c381b5",
+  "translation": "いいと おもうけどね。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcf38e8e160b4473",
+  "translation": "{JPN}わしは そだてやじいさんじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7075a683ae71755d",
+  "translation": "トレーナーの だいじな\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f563c77cfcc2e45a",
+  "translation": "ポケモンを あずかって おる。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9773636131bd37f7",
+  "translation": "ポケモンを そだてて ほしいなら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17d634f3669def00",
+  "translation": "ばあさんに はなしておくれ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "932eadf9933cf628",
+  "translation": "{JPN}おお きみか!\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22707bab24dd2a44",
+  "translation": "きみの ポケモンを そだてていたら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66094d715df76c4e",
+  "translation": "いやあ びっくり したよ!\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8bc497ff26f43132",
+  "translation": "ポケモンが タマゴを もっておった!\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c09f2321ce541fe",
+  "translation": "どこから きたのか わからんが\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f57e1d58814c6da4",
+  "translation": "きみの ポケモンが もっておったんじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7a0cef029916505",
+  "translation": "ほしいじゃろう？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30344f9c444ff56e",
+  "translation": "{JPN}おお きみか! よく きたのう。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa8ec22a3215ed9f",
+  "translation": "きみの {ENG}{STR_VAR_1}{JPN}は げんきじゃよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66cfb14b8f8f58bd",
+  "translation": "{JPN}それじゃ わしが もらうよ。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "117cdf92edcfe58f",
+  "translation": "ありがとうな!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "760fd94a42b06806",
+  "translation": "{JPN}もてる ポケモンが いっぱいじゃな…\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "995153e93faebb2a",
+  "translation": "あきを つくってから また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c07411a7df6e3ee3",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は そだてやの\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc2d6a333741b935",
+  "translation": "おじいさんから タマゴを うけとった!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84f1f31556c52128",
+  "translation": "{JPN}だいじに そだてて おくれよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6efd96584a37405d",
+  "translation": "{JPN}ポケモンを ひきとりたいなら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "742640d93f99515c",
+  "translation": "ばあさんに はなしておくれ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12f5059a413f367a",
+  "translation": "{JPN}おお きみか! {ENG}{STR_VAR_1}{JPN}も\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d5bcbd2f36100ad",
+  "translation": "{ENG}{STR_VAR_2}{JPN}も げんきじゃよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1730b3fff7d966bd",
+  "translation": "{JPN}ほんとうに わしが もらってしまうぞ。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64c80832eda8a352",
+  "translation": "ほしいんじゃろう？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad30d0218ea4257c",
+  "translation": "{JPN}わたしは そだてやばあさん。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86161e1d9a0e872c",
+  "translation": "あなたの ポケモンを そだてますよ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0648dd10c0e99f5",
+  "translation": "1ぴき あずけてみるかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07703a29efab8a81",
+  "translation": "{JPN}どの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f17475069c7ad1b7",
+  "translation": "そだてようかね？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc40872063c01b21",
+  "translation": "{JPN}それじゃ {ENG}{STR_VAR_1}{JPN}を\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4abb545942f80a2",
+  "translation": "しばらく あずかるよ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "264cdd6513f048f9",
+  "translation": "あとで むかえに おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f05280d52e72b09",
+  "translation": "{JPN}ポケモンは 2ひきまで あずかれるよ。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb39b9846c9ea4ad",
+  "translation": "もう1ぴき\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18ac51bb549824e7",
+  "translation": "あずけてみるかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87a5fc8d337e527b",
+  "translation": "{JPN}うちの じいさんが さがしていたよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14d8afa0f3c50d2c",
+  "translation": "{JPN}ああ そうかい。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff4e5aefcb6b2776",
+  "translation": "また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73d21da88287ce8f",
+  "translation": "{JPN}おかねが たりないようだね…$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e69664cea7759e7e",
+  "translation": "{JPN}もう1ぴきも\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "948d7cb9a58f369e",
+  "translation": "ひきとっていくかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f2463fbbaecf395",
+  "translation": "{JPN}それじゃあ。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfeeb7d75eb033a7",
+  "translation": "また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d0f8ced0075b756",
+  "translation": "{JPN}おや あなたかい!\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae237de797178b44",
+  "translation": "よく きたね。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebaee9fc8a28873b",
+  "translation": "ポケモンは げんき\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7f4302a2dcc935b",
+  "translation": "いっぱいの はずさ!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46bbb6c59ada72d6",
+  "translation": "{JPN}きみの {ENG}{STR_VAR_1}{JPN}は\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff6a79cb55aee683",
+  "translation": "レベルが {ENG}{STR_VAR_2}{JPN} あがったよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d25ac9b54cf3d41",
+  "translation": "{JPN}てもちの ポケモンが いっぱいだね。\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd9dce6b098d7992",
+  "translation": "あきを つくってから また おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74d9ed1829917520",
+  "translation": "{JPN}どちらの ポケモンを ひきとるかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f2f87e7cf84940a",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を ひきとるなら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4828895955ef14a",
+  "translation": "{ENG}{STR_VAR_2}{JPN}円 かかるよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c7065c748191831",
+  "translation": "{JPN}はい たしかに!\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81a4f51ccba9e92a",
+  "translation": "あなたの ポケモンだよ。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29660975ddcc17c9",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2c41bd9257bde54",
+  "translation": "そだてやばあさんから ひきとった!$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a3ae35d02b7ec65",
+  "translation": "{JPN}おや？ あなたは\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9eedc04b41f02379",
+  "translation": "ポケモンが 1ぴきしか いないじゃないか。\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03c0d17cdfa146c3",
+  "translation": "また こんど おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e003178740d6f542",
+  "translation": "{JPN}ポケモンを ひきとっていくかい？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae47a1b374098b9c",
+  "translation": "{JPN}その ポケモンを あずけてしまったら\\n",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "856d2a9f5ab1b54d",
+  "translation": "なにで たたかう つもりだい？\\p",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f11b8271907ab56f",
+  "translation": "また こんど おいで。$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0b6b58287f08393",
+  "translation": "{JPN}おや？$",
+  "provenance": {
+   "batch": "dialogue-daycare-48",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

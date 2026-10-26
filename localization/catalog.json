@@ -219614,9 +219614,13 @@
     "end": 6562,
     "raw": "\"son\"",
     "source": "son",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}むすこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b9657c6f1a29a2ea",
@@ -219626,9 +219630,13 @@
     "end": 6612,
     "raw": "\"daughter\"",
     "source": "daughter",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}むすめ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b88174442d87988b",
@@ -389896,9 +389904,13 @@
     "end": 10295,
     "raw": "\"Oh, hello. And you are?\\p\"",
     "source": "Oh, hello. And you are?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら こんにちは。 あなたは？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "902674b35f06f943",
@@ -389908,9 +389920,13 @@
     "end": 10326,
     "raw": "\"… … … … … … … … …\\n\"",
     "source": "… … … … … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "997d4e79402fddb7",
@@ -389920,9 +389936,13 @@
     "end": 10357,
     "raw": "\"… … … … … … … … …\\p\"",
     "source": "… … … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db72f54778d07aca",
@@ -389932,9 +389952,13 @@
     "end": 10414,
     "raw": "\"Oh, you're {PLAYER}{KUN}, our new next-door\\n\"",
     "source": "Oh, you're {PLAYER}{KUN}, our new next-door\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あら {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}! おとなりに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "261924ff4679ae7c",
@@ -389944,9 +389968,13 @@
     "end": 10441,
     "raw": "\"neighbor! Hi!\\p\"",
     "source": "neighbor! Hi!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こしてきた かたね。 こんにちは!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f9e92cfb7b10ee02",
@@ -389956,9 +389984,13 @@
     "end": 10491,
     "raw": "\"We have a {STR_VAR_1} about the same\\n\"",
     "source": "We have a {STR_VAR_1} about the same\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちにも {ENG}{STR_VAR_1}{JPN}が いるの。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bfda4cfbccd26d3d",
@@ -389968,9 +390000,13 @@
     "end": 10516,
     "raw": "\"age as you.\\p\"",
     "source": "age as you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたと おなじくらいの としよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "812fd4072cfea9d1",
@@ -389980,9 +390016,13 @@
     "end": 10570,
     "raw": "\"Our {STR_VAR_1} was excited about making\\n\"",
     "source": "Our {STR_VAR_1} was excited about making\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの {ENG}{STR_VAR_1}{JPN}は あたらしい\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "48940a455315424d",
@@ -389992,9 +390032,13 @@
     "end": 10597,
     "raw": "\"a new friend.\\p\"",
     "source": "a new friend.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ともだちが できるって よろこんでたわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c0d1587d5b21551d",
@@ -390004,9 +390048,13 @@
     "end": 10647,
     "raw": "\"Our {STR_VAR_1} is upstairs, I think.$\"",
     "source": "Our {STR_VAR_1} is upstairs, I think.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}は 2かいに いると おもうわ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a37523b48688661",
@@ -390016,9 +390064,13 @@
     "end": 10727,
     "raw": "\"Like child, like father.\\p\"",
     "source": "Like child, like father.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おやも こも よく にているわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd7b4d58475c1d55",
@@ -390028,9 +390080,13 @@
     "end": 10776,
     "raw": "\"My husband is as wild about POKéMON\\n\"",
     "source": "My husband is as wild about POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの ひとは あのこと おなじくらい\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f872635ed55ce16b",
@@ -390040,9 +390096,13 @@
     "end": 10803,
     "raw": "\"as our child.\\p\"",
     "source": "as our child.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンに むちゅうなの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ee1a6cf451682d5",
@@ -390052,9 +390112,13 @@
     "end": 10852,
     "raw": "\"If he's not at his LAB, he's likely\\n\"",
     "source": "If he's not at his LAB, he's likely\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けんきゅうじょに いないときは きっと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1180d29061b18653",
@@ -390064,9 +390128,13 @@
     "end": 10899,
     "raw": "\"scrabbling about in grassy places.$\"",
     "source": "scrabbling about in grassy places.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くさむらを かけまわっているわ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b693353d81d33030",
@@ -390076,9 +390144,13 @@
     "end": 10969,
     "raw": "\"That {RIVAL}!\\p\"",
     "source": "That {RIVAL}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もう {ENG}{RIVAL}{JPN}ったら!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3192acc80cafb898",
@@ -390088,9 +390160,13 @@
     "end": 11017,
     "raw": "\"I guess our child is too busy with\\n\"",
     "source": "I guess our child is too busy with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あのこ ポケモンに むちゅうで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0ee6092513ced9b9",
@@ -390100,9 +390176,13 @@
     "end": 11062,
     "raw": "\"POKéMON to notice that you came\\l\"",
     "source": "POKéMON to notice that you came\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あそびに きてくれたのにも\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2466519ea74fe2e4",
@@ -390112,9 +390192,13 @@
     "end": 11099,
     "raw": "\"to visit, {PLAYER}{KUN}.$\"",
     "source": "to visit, {PLAYER}{KUN}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きづいてないのかしら {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "49c112ab506d313e",
@@ -390124,9 +390208,13 @@
     "end": 11186,
     "raw": "\"Oh, {RIVAL} went out to ROUTE 103\\n\"",
     "source": "Oh, {RIVAL} went out to ROUTE 103\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{RIVAL}{JPN}なら さっき\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2699476a16a3ef8a",
@@ -390136,9 +390224,13 @@
     "end": 11224,
     "raw": "\"just a little while ago.\\p\"",
     "source": "just a little while ago.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "103ばんどうろに でかけたわよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0f226cb847da27a0",
@@ -390148,9 +390240,13 @@
     "end": 11262,
     "raw": "\"Like father, like child.\\n\"",
     "source": "Like father, like child.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おやこって にるものね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "167dc2f2f8cfbcbe",
@@ -390160,9 +390256,13 @@
     "end": 11310,
     "raw": "\"{RIVAL} can't stay quietly at home.$\"",
     "source": "{RIVAL} can't stay quietly at home.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{RIVAL}{JPN}も うちで じっと してられないの。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f1ecd3ec3cba6381",
@@ -390172,9 +390272,13 @@
     "end": 11407,
     "raw": "\"I think it's wonderful for people to\\n\"",
     "source": "I think it's wonderful for people to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンと いっしょに たびを するのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54039a1123be0663",
@@ -390184,9 +390288,13 @@
     "end": 11441,
     "raw": "\"travel with POKéMON.\\p\"",
     "source": "travel with POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とっても すてきなことだと おもうわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "037467bcf196da70",
@@ -390196,9 +390304,13 @@
     "end": 11492,
     "raw": "\"But you should go home every so often\\n\"",
     "source": "But you should go home every so often\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも ときどきは うちに かえって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "113d220df9f095e0",
@@ -390208,9 +390320,13 @@
     "end": 11542,
     "raw": "\"to let your mother know you're okay.\\p\"",
     "source": "to let your mother know you're okay.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかあさんに げんきな かおを みせてね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f6d90b161081f04",
@@ -390220,9 +390336,13 @@
     "end": 11594,
     "raw": "\"She might not say it, but I'm sure she\\n\"",
     "source": "She might not say it, but I'm sure she\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くちには ださなくても きっと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "26f03be82a38db42",
@@ -390232,9 +390352,13 @@
     "end": 11640,
     "raw": "\"worries about you, {PLAYER}{KUN}.$\"",
     "source": "worries about you, {PLAYER}{KUN}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しんぱい しているわよ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "00bb77de1198e149",
@@ -390244,9 +390368,13 @@
     "end": 11693,
     "raw": "\"Huh?\\n\"",
     "source": "Huh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えっ？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8cf69ee1c9d3ce84",
@@ -390256,9 +390384,13 @@
     "end": 11724,
     "raw": "\"Who… Who are you?\\p\"",
     "source": "Who… Who are you?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だ… だれ？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b8a4ec4a6ad10a5",
@@ -390268,9 +390400,13 @@
     "end": 11753,
     "raw": "\"… … … … … … … …\\n\"",
     "source": "… … … … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dbf497ff54fa6163",
@@ -390280,9 +390416,13 @@
     "end": 11782,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44a60724de635fe7",
@@ -390292,9 +390432,13 @@
     "end": 11821,
     "raw": "\"Oh, you're {PLAYER}{KUN}.\\n\"",
     "source": "Oh, you're {PLAYER}{KUN}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}ね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54edb3ec9782f3d2",
@@ -390304,9 +390448,13 @@
     "end": 11858,
     "raw": "\"So your move was today.\\p\"",
     "source": "So your move was today.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おひっこしは きょう だったんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1f24e24600bd6437",
@@ -390316,9 +390464,13 @@
     "end": 11884,
     "raw": "\"Um… I'm MAY.\\n\"",
     "source": "Um… I'm MAY.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ええと… わたしは ハルカ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "46cbc7fad550bf77",
@@ -390328,9 +390480,13 @@
     "end": 11915,
     "raw": "\"Glad to meet you!\\p\"",
     "source": "Glad to meet you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よろしくね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e3c9dd42971ffd8f",
@@ -390340,9 +390496,13 @@
     "end": 11931,
     "raw": "\"I…\\n\"",
     "source": "I…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたし…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e50d34e3858d3c0",
@@ -390352,9 +390512,13 @@
     "end": 11982,
     "raw": "\"I have this dream of becoming friends\\l\"",
     "source": "I have this dream of becoming friends\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せかいじゅうの ポケモンと ともだちに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f9f1205c830fe6ff",
@@ -390364,9 +390528,13 @@
     "end": 12028,
     "raw": "\"with POKéMON all over the world.\\p\"",
     "source": "with POKéMON all over the world.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なるのが ゆめ なんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24236d5c33a4fede",
@@ -390376,9 +390544,13 @@
     "end": 12083,
     "raw": "\"I… I heard about you, {PLAYER}{KUN}, from\\n\"",
     "source": "I… I heard about you, {PLAYER}{KUN}, from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}のことは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "53ef9c14decc131f",
@@ -390388,9 +390560,13 @@
     "end": 12117,
     "raw": "\"my dad, PROF. BIRCH.\\p\"",
     "source": "my dad, PROF. BIRCH.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パパの オダマキはかせから きいてたの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13e435b55ed4dd75",
@@ -390400,9 +390576,13 @@
     "end": 12167,
     "raw": "\"I was hoping that you would be nice,\\n\"",
     "source": "I was hoping that you would be nice,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やさしい ひとだと いいなって。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "89f96c4fd87b5b6a",
@@ -390412,9 +390592,13 @@
     "end": 12225,
     "raw": "\"{PLAYER}{KUN}, and that we could be friends.\\p\"",
     "source": "{PLAYER}{KUN}, and that we could be friends.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}と ともだちに なれたらって。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1df368228c3b8786",
@@ -390424,9 +390608,13 @@
     "end": 12267,
     "raw": "\"Oh, this is silly, isn't it?\\n\"",
     "source": "Oh, this is silly, isn't it?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あっ おかしいよね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8fe0160e26a9a6a7",
@@ -390436,9 +390624,13 @@
     "end": 12317,
     "raw": "\"I… I've just met you, {PLAYER}{KUN}.\\p\"",
     "source": "I… I've just met you, {PLAYER}{KUN}.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}とは はじめて あったのに。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c92995ed103936af",
@@ -390448,9 +390640,13 @@
     "end": 12338,
     "raw": "\"Eheheh…\\p\"",
     "source": "Eheheh…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えへへ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d7d57a6f0fb5c7f",
@@ -390460,9 +390656,13 @@
     "end": 12369,
     "raw": "\"Oh, no! I forgot!\\p\"",
     "source": "Oh, no! I forgot!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あっ いけない! わすれてた!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "82e0efc94d9d69d0",
@@ -390472,9 +390672,13 @@
     "end": 12418,
     "raw": "\"I was supposed to go help Dad catch\\n\"",
     "source": "I was supposed to go help Dad catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やせいの ポケモンを つかまえる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77f2ca0df74c61ea",
@@ -390484,9 +390688,13 @@
     "end": 12450,
     "raw": "\"some wild POKéMON!\\p\"",
     "source": "some wild POKéMON!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パパの おてつだいを するんだった!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8f02de16f5d5dbc9",
@@ -390496,9 +390704,13 @@
     "end": 12499,
     "raw": "\"{PLAYER}{KUN}, I'll catch you later!$\"",
     "source": "{PLAYER}{KUN}, I'll catch you later!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} また あとでね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "02c428be65982e0f",
@@ -390508,9 +390720,13 @@
     "end": 12556,
     "raw": "\"Hey!\\n\"",
     "source": "Hey!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おっ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "006ec839c2bc1e77",
@@ -390520,9 +390736,13 @@
     "end": 12574,
     "raw": "\"You…\\p\"",
     "source": "You…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b9a43dd2b2b71b3f",
@@ -390532,9 +390752,13 @@
     "end": 12600,
     "raw": "\"Who are you?\\p\"",
     "source": "Who are you?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれ？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c384080950cd50ad",
@@ -390544,9 +390768,13 @@
     "end": 12646,
     "raw": "\"Oh, you're {PLAYER}, aren't you?\\n\"",
     "source": "Oh, you're {PLAYER}, aren't you?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ {ENG}{PLAYER}{JPN}だろ？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c0e433f69ac4e753",
@@ -390556,9 +390784,13 @@
     "end": 12686,
     "raw": "\"Moved in next door, right?\\p\"",
     "source": "Moved in next door, right?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "となりに こしてきたんだよな？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "75ae0489be6d79c5",
@@ -390568,9 +390800,13 @@
     "end": 12733,
     "raw": "\"I didn't know that you're a girl.\\p\"",
     "source": "I didn't know that you're a girl.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おんなのこ だったなんて しらなかったよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e9f171035b90109",
@@ -390580,9 +390816,13 @@
     "end": 12782,
     "raw": "\"Dad, PROF. BIRCH, said that our new\\n\"",
     "source": "Dad, PROF. BIRCH, said that our new\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "オダマキはかせの とうさんから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "541cdfd0848295ca",
@@ -390592,9 +390832,13 @@
     "end": 12832,
     "raw": "\"next-door neighbor is a GYM LEADER's\\l\"",
     "source": "next-door neighbor is a GYM LEADER's\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おとなりに こしてくるのは ジムリーダーの\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3ee0595954ad8a21",
@@ -390604,9 +390848,13 @@
     "end": 12879,
     "raw": "\"kid, so I assumed you'd be a guy.\\p\"",
     "source": "kid, so I assumed you'd be a guy.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こだって きいて おとこのこだと おもってた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fda1a729aa86529b",
@@ -390616,9 +390864,13 @@
     "end": 12911,
     "raw": "\"My name's BRENDAN.\\n\"",
     "source": "My name's BRENDAN.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくは ユウキ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8fea4a2da594abb3",
@@ -390628,9 +390880,13 @@
     "end": 12942,
     "raw": "\"So, hi, neighbor!\\p\"",
     "source": "So, hi, neighbor!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よろしくな おとなりさん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f433c6c0ad4f99f5",
@@ -390640,9 +390896,13 @@
     "end": 12990,
     "raw": "\"Huh? Hey, {PLAYER}, don't you have\\n\"",
     "source": "Huh? Hey, {PLAYER}, don't you have\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あれ？ {ENG}{PLAYER}{JPN} ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4540edd9c896843a",
@@ -390652,9 +390912,13 @@
     "end": 13014,
     "raw": "\"a POKéMON?\\p\"",
     "source": "a POKéMON?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もっていないのかい？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db83627759c686b8",
@@ -390664,9 +390928,13 @@
     "end": 13063,
     "raw": "\"Do you want me to go catch you one?\\p\"",
     "source": "Do you want me to go catch you one?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくが つかまえて きてあげようか？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e3d93244f5d0fb73",
@@ -390676,9 +390944,13 @@
     "end": 13096,
     "raw": "\"Aw, darn, I forgot…\\p\"",
     "source": "Aw, darn, I forgot…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ しまった わすれてた…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4cbb7a35c98ba9d6",
@@ -390688,9 +390960,13 @@
     "end": 13146,
     "raw": "\"I'm supposed to go help my dad catch\\n\"",
     "source": "I'm supposed to go help my dad catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やせいの ポケモンを つかまえる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3313cf7e5cd64e12",
@@ -390700,9 +390976,13 @@
     "end": 13178,
     "raw": "\"some wild POKéMON.\\p\"",
     "source": "some wild POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とうさんの てつだいを するんだった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8ac51e9730a8a80f",
@@ -390712,9 +390992,13 @@
     "end": 13213,
     "raw": "\"Some other time, okay?$\"",
     "source": "Some other time, okay?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また こんどな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c760651a56eede6",
@@ -390724,9 +391008,13 @@
     "end": 13279,
     "raw": "\"Hi, neighbor!\\p\"",
     "source": "Hi, neighbor!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やあ おとなりさん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d05102027ae44169",
@@ -390736,9 +391024,13 @@
     "end": 13317,
     "raw": "\"Do you already have your\\n\"",
     "source": "Do you already have your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もう じぶんの ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5780c30e8de4a7d9",
@@ -390748,9 +391040,13 @@
     "end": 13342,
     "raw": "\"own POKéMON?$\"",
     "source": "own POKéMON?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もっているのかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4829664c9e22b358",
@@ -390760,9 +391056,13 @@
     "end": 7878,
     "raw": "\"Huh?\\n\"",
     "source": "Huh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えっ？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bcc010135b3b9529",
@@ -390772,9 +391072,13 @@
     "end": 7909,
     "raw": "\"Who… Who are you?\\p\"",
     "source": "Who… Who are you?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だ… だれ？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "eb1a500d43216e53",
@@ -390784,9 +391088,13 @@
     "end": 7938,
     "raw": "\"… … … … … … … …\\n\"",
     "source": "… … … … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3408e9639967695d",
@@ -390796,9 +391104,13 @@
     "end": 7967,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d638c44d6d2d87cd",
@@ -390808,9 +391120,13 @@
     "end": 8006,
     "raw": "\"Oh, you're {PLAYER}{KUN}.\\n\"",
     "source": "Oh, you're {PLAYER}{KUN}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}ね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b767b3b50a9e6f76",
@@ -390820,9 +391136,13 @@
     "end": 8043,
     "raw": "\"So your move was today.\\p\"",
     "source": "So your move was today.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おひっこしは きょう だったんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9e4880c948401cea",
@@ -390832,9 +391152,13 @@
     "end": 8069,
     "raw": "\"Um… I'm MAY.\\n\"",
     "source": "Um… I'm MAY.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ええと… わたしは ハルカ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3c50c2b8a4b9af0d",
@@ -390844,9 +391168,13 @@
     "end": 8100,
     "raw": "\"Glad to meet you!\\p\"",
     "source": "Glad to meet you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よろしくね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "94d4de4376562d55",
@@ -390856,9 +391184,13 @@
     "end": 8116,
     "raw": "\"I…\\n\"",
     "source": "I…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたし…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a4dc338c202e266c",
@@ -390868,9 +391200,13 @@
     "end": 8167,
     "raw": "\"I have this dream of becoming friends\\l\"",
     "source": "I have this dream of becoming friends\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せかいじゅうの ポケモンと ともだちに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5cf5eac30be1c42e",
@@ -390880,9 +391216,13 @@
     "end": 8213,
     "raw": "\"with POKéMON all over the world.\\p\"",
     "source": "with POKéMON all over the world.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なるのが ゆめ なんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b081d19c401acc59",
@@ -390892,9 +391232,13 @@
     "end": 8268,
     "raw": "\"I… I heard about you, {PLAYER}{KUN}, from\\n\"",
     "source": "I… I heard about you, {PLAYER}{KUN}, from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}のことは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0e2688a13da0469c",
@@ -390904,9 +391248,13 @@
     "end": 8302,
     "raw": "\"my dad, PROF. BIRCH.\\p\"",
     "source": "my dad, PROF. BIRCH.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パパの オダマキはかせから きいてたの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bce89b0ae6cf7045",
@@ -390916,9 +391264,13 @@
     "end": 8352,
     "raw": "\"I was hoping that you would be nice,\\n\"",
     "source": "I was hoping that you would be nice,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やさしい ひとだと いいなって。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "39c7b18a98faec5e",
@@ -390928,9 +391280,13 @@
     "end": 8410,
     "raw": "\"{PLAYER}{KUN}, and that we could be friends.\\p\"",
     "source": "{PLAYER}{KUN}, and that we could be friends.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}と ともだちに なれたらって。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd5e13380e6550ff",
@@ -390940,9 +391296,13 @@
     "end": 8452,
     "raw": "\"Oh, this is silly, isn't it?\\n\"",
     "source": "Oh, this is silly, isn't it?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あっ おかしいよね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7583e4518d29c3aa",
@@ -390952,9 +391312,13 @@
     "end": 8502,
     "raw": "\"I… I've just met you, {PLAYER}{KUN}.\\p\"",
     "source": "I… I've just met you, {PLAYER}{KUN}.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}とは はじめて あったのに。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "acfa057459aa436c",
@@ -390964,9 +391328,13 @@
     "end": 8523,
     "raw": "\"Eheheh…\\p\"",
     "source": "Eheheh…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えへへ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f7d0f6aa1cc54792",
@@ -390976,9 +391344,13 @@
     "end": 8554,
     "raw": "\"Oh, no! I forgot!\\p\"",
     "source": "Oh, no! I forgot!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あっ いけない! わすれてた!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "18544f4a639294a8",
@@ -390988,9 +391360,13 @@
     "end": 8603,
     "raw": "\"I was supposed to go help Dad catch\\n\"",
     "source": "I was supposed to go help Dad catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やせいの ポケモンを つかまえる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "082a4e1cabd8d2b7",
@@ -391000,9 +391376,13 @@
     "end": 8635,
     "raw": "\"some wild POKéMON!\\p\"",
     "source": "some wild POKéMON!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パパの おてつだいを するんだった!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1adaf488c53cd0c7",
@@ -391012,9 +391392,13 @@
     "end": 8684,
     "raw": "\"{PLAYER}{KUN}, I'll catch you later!$\"",
     "source": "{PLAYER}{KUN}, I'll catch you later!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} また あとでね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "652facd70c66959f",
@@ -391024,9 +391408,13 @@
     "end": 8759,
     "raw": "\"POKéMON fully restored!\\n\"",
     "source": "POKéMON fully restored!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンは げんき いっぱい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "421f2123ba2fc1a7",
@@ -391036,9 +391424,13 @@
     "end": 8789,
     "raw": "\"Items ready, and…$\"",
     "source": "Items ready, and…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぐも じゅんび できたし…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33ba43882e36954f",
@@ -391048,9 +391440,13 @@
     "end": 8846,
     "raw": "\"Hey!\\n\"",
     "source": "Hey!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おっ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "391d0ab843eca0a6",
@@ -391060,9 +391456,13 @@
     "end": 8864,
     "raw": "\"You…\\p\"",
     "source": "You…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0172f889ade8b751",
@@ -391072,9 +391472,13 @@
     "end": 8890,
     "raw": "\"Who are you?\\p\"",
     "source": "Who are you?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれ？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14c3f229ab3ca299",
@@ -391084,9 +391488,13 @@
     "end": 8936,
     "raw": "\"Oh, you're {PLAYER}, aren't you?\\n\"",
     "source": "Oh, you're {PLAYER}, aren't you?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ {ENG}{PLAYER}{JPN}だろ？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1fa2307f50a7e447",
@@ -391096,9 +391504,13 @@
     "end": 8976,
     "raw": "\"Moved in next door, right?\\p\"",
     "source": "Moved in next door, right?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "となりに こしてきたんだよな？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e3691545b1250b4f",
@@ -391108,9 +391520,13 @@
     "end": 9023,
     "raw": "\"I didn't know that you're a girl.\\p\"",
     "source": "I didn't know that you're a girl.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おんなのこ だったなんて しらなかったよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f4436cb0d04643ed",
@@ -391120,9 +391536,13 @@
     "end": 9072,
     "raw": "\"Dad, PROF. BIRCH, said that our new\\n\"",
     "source": "Dad, PROF. BIRCH, said that our new\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "オダマキはかせの とうさんから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e02be9a975a62c98",
@@ -391132,9 +391552,13 @@
     "end": 9122,
     "raw": "\"next-door neighbor is a GYM LEADER's\\l\"",
     "source": "next-door neighbor is a GYM LEADER's\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おとなりに こしてくるのは ジムリーダーの\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a2f560db9e51a74d",
@@ -391144,9 +391568,13 @@
     "end": 9169,
     "raw": "\"kid, so I assumed you'd be a guy.\\p\"",
     "source": "kid, so I assumed you'd be a guy.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こだって きいて おとこのこだと おもってた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bfdf71e1dfdf8012",
@@ -391156,9 +391584,13 @@
     "end": 9201,
     "raw": "\"My name's BRENDAN.\\n\"",
     "source": "My name's BRENDAN.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくは ユウキ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d1a53d4d9648a20",
@@ -391168,9 +391600,13 @@
     "end": 9232,
     "raw": "\"So, hi, neighbor!\\p\"",
     "source": "So, hi, neighbor!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よろしくな おとなりさん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff5c7d1e2575cdc6",
@@ -391180,9 +391616,13 @@
     "end": 9280,
     "raw": "\"Huh? Hey, {PLAYER}, don't you have\\n\"",
     "source": "Huh? Hey, {PLAYER}, don't you have\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あれ？ {ENG}{PLAYER}{JPN} ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "898937e59bb04b18",
@@ -391192,9 +391632,13 @@
     "end": 9304,
     "raw": "\"a POKéMON?\\p\"",
     "source": "a POKéMON?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もっていないのかい？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7d1f0dbae3d27cff",
@@ -391204,9 +391648,13 @@
     "end": 9353,
     "raw": "\"Do you want me to go catch you one?\\p\"",
     "source": "Do you want me to go catch you one?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくが つかまえて きてあげようか？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "50f674095482fb70",
@@ -391216,9 +391664,13 @@
     "end": 9386,
     "raw": "\"Aw, darn, I forgot…\\p\"",
     "source": "Aw, darn, I forgot…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ しまった わすれてた…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c733230af3d024f",
@@ -391228,9 +391680,13 @@
     "end": 9436,
     "raw": "\"I'm supposed to go help my dad catch\\n\"",
     "source": "I'm supposed to go help my dad catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やせいの ポケモンを つかまえる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a1f572b4ed133062",
@@ -391240,9 +391696,13 @@
     "end": 9468,
     "raw": "\"some wild POKéMON.\\p\"",
     "source": "some wild POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とうさんの てつだいを するんだった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "116c50f81f065ae9",
@@ -391252,9 +391712,13 @@
     "end": 9503,
     "raw": "\"Some other time, okay?$\"",
     "source": "Some other time, okay?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また こんどな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c20247d02188a6c",
@@ -391264,9 +391728,13 @@
     "end": 9582,
     "raw": "\"POKéMON fully restored…\\n\"",
     "source": "POKéMON fully restored…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンは げんき いっぱい…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9e9c9dbed697fe79",
@@ -391276,9 +391744,13 @@
     "end": 9617,
     "raw": "\"Items all packed, and…$\"",
     "source": "Items all packed, and…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぐも つめこんだし…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fb03c763af7b6cb2",
@@ -391288,9 +391760,13 @@
     "end": 9696,
     "raw": "\"It's {RIVAL}'s POKé BALL!\\p\"",
     "source": "It's {RIVAL}'s POKé BALL!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{RIVAL}{JPN}の モンスターボールだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "89ac46433c4266f6",
@@ -391300,9 +391776,13 @@
     "end": 9743,
     "raw": "\"Better leave it right where it is.$\"",
     "source": "Better leave it right where it is.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そのままに しておこう。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0dd18b34a4498a4b",
@@ -391312,9 +391792,13 @@
     "end": 9823,
     "raw": "\"MAY: {PLAYER}{KUN}!\\p\"",
     "source": "MAY: {PLAYER}{KUN}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ハルカ: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8282e1619d4a2d8d",
@@ -391324,9 +391808,13 @@
     "end": 9868,
     "raw": "\"I was just checking my POKéDEX.\\p\"",
     "source": "I was just checking my POKéDEX.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いま ポケモンずかんを みていたの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "11ad49bc6d41fb1b",
@@ -391336,9 +391824,13 @@
     "end": 9917,
     "raw": "\"There's still a lot of POKéMON that\\n\"",
     "source": "There's still a lot of POKéMON that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みたことは あっても まだ つかまえていない\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5a3e6ced1e2863cf",
@@ -391348,9 +391840,13 @@
     "end": 9960,
     "raw": "\"I've seen but haven't caught.\\p\"",
     "source": "I've seen but haven't caught.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが たくさん いるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "03560282860d3faa",
@@ -391360,9 +391856,13 @@
     "end": 10004,
     "raw": "\"And there are many others that\\n\"",
     "source": "And there are many others that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しんかしそうな ポケモンも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c0a7d467037d9e2",
@@ -391372,9 +391872,13 @@
     "end": 10038,
     "raw": "\"I think will evolve.\\p\"",
     "source": "I think will evolve.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たくさん いるしね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "21ef3dc6abbe8e4c",
@@ -391384,9 +391888,13 @@
     "end": 10084,
     "raw": "\"I wonder where I should go catch\\n\"",
     "source": "I wonder where I should go catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎは どこへ ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "85c1d93d858fc5e3",
@@ -391396,9 +391904,13 @@
     "end": 10115,
     "raw": "\"some POKéMON next?$\"",
     "source": "some POKéMON next?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかまえに いこうかな？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "029890368c88c090",
@@ -391408,9 +391920,13 @@
     "end": 10210,
     "raw": "\"MAY: I wonder where I should go catch\\n\"",
     "source": "MAY: I wonder where I should go catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ハルカ: つぎは どこへ ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bc1acc3d508a84c9",
@@ -391420,9 +391936,13 @@
     "end": 10242,
     "raw": "\"some POKéMON next?\\p\"",
     "source": "some POKéMON next?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかまえに いこうかな？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5a0426f073f9775a",
@@ -391432,9 +391952,13 @@
     "end": 10296,
     "raw": "\"Wouldn't it be funny if we ran into each\\n\"",
     "source": "Wouldn't it be funny if we ran into each\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ばったり あったら おもしろいと おもわない？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "797ba5e91029e854",
@@ -391444,9 +391968,13 @@
     "end": 10330,
     "raw": "\"other, {PLAYER}{KUN}?$\"",
     "source": "other, {PLAYER}{KUN}?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "31d637ea7449e16e",
@@ -391456,9 +391984,13 @@
     "end": 10423,
     "raw": "\"BRENDAN: Hey, it's {PLAYER}.\\p\"",
     "source": "BRENDAN: Hey, it's {PLAYER}.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ユウキ: やあ {ENG}{PLAYER}{JPN}。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ed43673608de764",
@@ -391468,9 +392000,13 @@
     "end": 10472,
     "raw": "\"I was just checking out my POKéDEX.\\p\"",
     "source": "I was just checking out my POKéDEX.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いま ポケモンずかんを みていたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ef34288fa8d0114",
@@ -391480,9 +392016,13 @@
     "end": 10519,
     "raw": "\"There are still many POKéMON that\\n\"",
     "source": "There are still many POKéMON that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ つかまえなきゃ いけない\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d4335a921e5e15cd",
@@ -391492,9 +392032,13 @@
     "end": 10566,
     "raw": "\"I need to catch, I know, but this\\l\"",
     "source": "I need to catch, I know, but this\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンは たくさん いるけど\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9cb4d6dd82447170",
@@ -391504,9 +392048,13 @@
     "end": 10603,
     "raw": "\"is looking pretty good.\\p\"",
     "source": "is looking pretty good.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかなか いい かんじだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0f1248f470dab025",
@@ -391516,9 +392064,13 @@
     "end": 10651,
     "raw": "\"Checking this POKéDEX out gives me\\n\"",
     "source": "Checking this POKéDEX out gives me\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずかんを みていると\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "49e99beda10455dd",
@@ -391528,9 +392080,13 @@
     "end": 10695,
     "raw": "\"the urge to hit the road again.$\"",
     "source": "the urge to hit the road again.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また たびに でたくなってくるね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f19ac4e11aa9c1f",
@@ -391540,9 +392096,13 @@
     "end": 10797,
     "raw": "\"BRENDAN: I'm having a hard time deciding\\n\"",
     "source": "BRENDAN: I'm having a hard time deciding\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ユウキ: つぎは どこで ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5ea7bcfdfbca8d55",
@@ -391552,9 +392112,13 @@
     "end": 10845,
     "raw": "\"where I should catch POKéMON next.\\p\"",
     "source": "where I should catch POKéMON next.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかまえようか まよってるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "921488a479268f33",
@@ -391564,9 +392128,13 @@
     "end": 10900,
     "raw": "\"Hey, {PLAYER}, if I see you while I'm out\\n\"",
     "source": "Hey, {PLAYER}, if I see you while I'm out\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN} ポケモンを つかまえに いって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6ed7a03e9acb9e27",
@@ -391576,9 +392144,13 @@
     "end": 10949,
     "raw": "\"catching POKéMON, I can pitch you a\\l\"",
     "source": "catching POKéMON, I can pitch you a\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もし きみに あったら よかったら\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0acf0a91cd5207ea",
@@ -391588,9 +392160,13 @@
     "end": 10983,
     "raw": "\"battle if you'd like.$\"",
     "source": "battle if you'd like.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンしょうぶを しかけるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-munen-linked-house-49",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "51dd82f4f7bd6eb0",
@@ -613817,9 +614393,13 @@
     "end": 9489,
     "raw": "\"I'm the DAY-CARE MAN.\\p\"",
     "source": "I'm the DAY-CARE MAN.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わしは そだてやじいさんじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ffce5d34ddb0b385",
@@ -613829,9 +614409,13 @@
     "end": 9535,
     "raw": "\"I help take care of the precious\\n\"",
     "source": "I help take care of the precious\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トレーナーの だいじな\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "99d9efb517d6b186",
@@ -613841,9 +614425,13 @@
     "end": 9569,
     "raw": "\"POKéMON of TRAINERS.\\p\"",
     "source": "POKéMON of TRAINERS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを あずかって おる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f1d392a694b828b8",
@@ -613853,9 +614441,13 @@
     "end": 9622,
     "raw": "\"If you'd like me to raise your POKéMON,\\n\"",
     "source": "If you'd like me to raise your POKéMON,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを そだてて ほしいなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3911a250a6012f1b",
@@ -613865,9 +614457,13 @@
     "end": 9660,
     "raw": "\"have a word with my wife.$\"",
     "source": "have a word with my wife.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ばあさんに はなしておくれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8814936688c1f369",
@@ -613877,9 +614473,13 @@
     "end": 9716,
     "raw": "\"Ah, it's you!\\p\"",
     "source": "Ah, it's you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "53c8c5612b4d0d1c",
@@ -613889,9 +614489,13 @@
     "end": 9759,
     "raw": "\"We were raising your POKéMON,\\n\"",
     "source": "We were raising your POKéMON,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの ポケモンを そだてていたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54ee2c5ed2f7a50d",
@@ -613901,9 +614505,13 @@
     "end": 9808,
     "raw": "\"and my goodness, were we surprised!\\p\"",
     "source": "and my goodness, were we surprised!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いやあ びっくり したよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a502312a5572bb98",
@@ -613913,9 +614521,13 @@
     "end": 9846,
     "raw": "\"Your POKéMON had an EGG!\\p\"",
     "source": "Your POKéMON had an EGG!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが タマゴを もっておった!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "148eeaea00f82e2b",
@@ -613925,9 +614537,13 @@
     "end": 9891,
     "raw": "\"We don't know how it got there,\\n\"",
     "source": "We don't know how it got there,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どこから きたのか わからんが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b8488977ef3325ec",
@@ -613937,9 +614553,13 @@
     "end": 9929,
     "raw": "\"but your POKéMON had it.\\p\"",
     "source": "but your POKéMON had it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの ポケモンが もっておったんじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "506de49146f242d3",
@@ -613949,9 +614569,13 @@
     "end": 9962,
     "raw": "\"You do want it, yes?$\"",
     "source": "You do want it, yes?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほしいじゃろう？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b142cfb6ad140ff5",
@@ -613961,9 +614585,13 @@
     "end": 10041,
     "raw": "\"Ah, it's you! Good to see you.\\n\"",
     "source": "Ah, it's you! Good to see you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみか! よく きたのう。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "16b3b14cf0be81c0",
@@ -613973,9 +614601,13 @@
     "end": 10084,
     "raw": "\"Your {STR_VAR_1}'s doing fine.$\"",
     "source": "Your {STR_VAR_1}'s doing fine.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの {ENG}{STR_VAR_1}{JPN}は げんきじゃよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e5f46c0a3f40d3e",
@@ -613985,9 +614617,13 @@
     "end": 10148,
     "raw": "\"Well then, I'll keep it.\\n\"",
     "source": "Well then, I'll keep it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それじゃ わしが もらうよ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6cbf0abd5f3adc37",
@@ -613997,9 +614633,13 @@
     "end": 10168,
     "raw": "\"Thanks!$\"",
     "source": "Thanks!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ありがとうな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3a96e70c2669a37a",
@@ -614009,9 +614649,13 @@
     "end": 10241,
     "raw": "\"You have no room for it…\\n\"",
     "source": "You have no room for it…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もてる ポケモンが いっぱいじゃな…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e5d2a6c03a88f058",
@@ -614021,9 +614665,13 @@
     "end": 10286,
     "raw": "\"Come back when you've made room.$\"",
     "source": "Come back when you've made room.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきを つくってから また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a2e366e68aa8991b",
@@ -614033,9 +614681,13 @@
     "end": 10358,
     "raw": "\"{PLAYER} received the EGG from\\n\"",
     "source": "{PLAYER} received the EGG from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は そだてやの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cfa333ee363dfa59",
@@ -614045,9 +614697,13 @@
     "end": 10388,
     "raw": "\"the DAY-CARE MAN.$\"",
     "source": "the DAY-CARE MAN.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おじいさんから タマゴを うけとった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5c87cc55b0b245a9",
@@ -614057,9 +614713,13 @@
     "end": 10455,
     "raw": "\"Take good care of it.$\"",
     "source": "Take good care of it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}だいじに そだてて おくれよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "281e549c3ced0b3d",
@@ -614069,9 +614729,13 @@
     "end": 10549,
     "raw": "\"By the way, about your {STR_VAR_1},\\n\"",
     "source": "By the way, about your {STR_VAR_1},\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そうそう きみの {ENG}{STR_VAR_1}{JPN}だが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a7cc2ff190d15cd0",
@@ -614081,9 +614745,13 @@
     "end": 10592,
     "raw": "\"it seemed to be friendly with\\l\"",
     "source": "it seemed to be friendly with\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかよく していたようじゃよ。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bb232e0a837fa1c9",
@@ -614093,9 +614761,13 @@
     "end": 10632,
     "raw": "\"{STR_VAR_2}'s {STR_VAR_3}.\\p\"",
     "source": "{STR_VAR_2}'s {STR_VAR_3}.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_2}{JPN}の {ENG}{STR_VAR_3}{JPN}と。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d550397c38058d26",
@@ -614105,9 +614777,13 @@
     "end": 10679,
     "raw": "\"I may even have seen it receiving\\n\"",
     "source": "I may even have seen it receiving\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "メールを うけとっていたのも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "de2b282693fe9244",
@@ -614117,9 +614793,13 @@
     "end": 10708,
     "raw": "\"a piece of MAIL.$\"",
     "source": "a piece of MAIL.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みかけた きがするんじゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "525156c7ee8f0d97",
@@ -614129,9 +614809,13 @@
     "end": 10811,
     "raw": "\"If you want to pick up your POKéMON,\\n\"",
     "source": "If you want to pick up your POKéMON,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを ひきとりたいなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "967c0d04f2dcd02f",
@@ -614141,9 +614825,13 @@
     "end": 10849,
     "raw": "\"have a word with my wife.$\"",
     "source": "have a word with my wife.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ばあさんに はなしておくれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f76cdc5c5499a803",
@@ -614153,9 +614841,13 @@
     "end": 10934,
     "raw": "\"Ah, it's you! Your {STR_VAR_1} and\\n\"",
     "source": "Ah, it's you! Your {STR_VAR_1} and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみか! {ENG}{STR_VAR_1}{JPN}も\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b579624413d9b0b2",
@@ -614165,9 +614857,13 @@
     "end": 10974,
     "raw": "\"{STR_VAR_2} are doing fine.$\"",
     "source": "{STR_VAR_2} are doing fine.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_2}{JPN}も げんきじゃよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78e90f24ccd86511",
@@ -614177,9 +614873,13 @@
     "end": 11047,
     "raw": "\"I really will keep it.\\n\"",
     "source": "I really will keep it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほんとうに わしが もらってしまうぞ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "34264d8bdca51de0",
@@ -614189,9 +614889,13 @@
     "end": 11082,
     "raw": "\"You do want this, yes?$\"",
     "source": "You do want this, yes?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほしいんじゃろう？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57009b4e81129224",
@@ -614201,9 +614905,13 @@
     "end": 11175,
     "raw": "\"I'm the DAY-CARE LADY.\\p\"",
     "source": "I'm the DAY-CARE LADY.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしは そだてやばあさん。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "46bd3bff469bc001",
@@ -614213,9 +614921,13 @@
     "end": 11218,
     "raw": "\"We can raise POKéMON for you.\\p\"",
     "source": "We can raise POKéMON for you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモンを そだてますよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cac5580e2d16d1d9",
@@ -614225,9 +614937,13 @@
     "end": 11262,
     "raw": "\"Would you like us to raise one?$\"",
     "source": "Would you like us to raise one?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1ぴき あずけてみるかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e0bcf71ca4da7039",
@@ -614237,9 +614953,13 @@
     "end": 11362,
     "raw": "\"Which POKéMON should we raise for\\n\"",
     "source": "Which POKéMON should we raise for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どの ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a3dbe1adcac4261f",
@@ -614249,9 +614969,13 @@
     "end": 11379,
     "raw": "\"you?$\"",
     "source": "you?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そだてようかね？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f6aeb53379b89d60",
@@ -614261,9 +614985,13 @@
     "end": 11475,
     "raw": "\"Fine, we'll raise your {STR_VAR_1}\\n\"",
     "source": "Fine, we'll raise your {STR_VAR_1}\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それじゃ {ENG}{STR_VAR_1}{JPN}を\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f75fc097313ff70",
@@ -614273,9 +615001,13 @@
     "end": 11501,
     "raw": "\"for a while.\\p\"",
     "source": "for a while.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しばらく あずかるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fb0749ee7b3d4e32",
@@ -614285,9 +615017,13 @@
     "end": 11537,
     "raw": "\"Come back for it later.$\"",
     "source": "Come back for it later.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あとで むかえに おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ad46252f499fa479",
@@ -614297,9 +615033,13 @@
     "end": 11633,
     "raw": "\"We can raise two of your POKéMON.\\n\"",
     "source": "We can raise two of your POKéMON.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンは 2ひきまで あずかれるよ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2b27c416aa0eda26",
@@ -614309,9 +615049,13 @@
     "end": 11682,
     "raw": "\"Would you like us to raise one more?$\"",
     "source": "Would you like us to raise one more?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もう1ぴき あずけてみるかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57029621e8715d52",
@@ -614321,9 +615065,13 @@
     "end": 11781,
     "raw": "\"My husband was looking for you.$\"",
     "source": "My husband was looking for you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うちの じいさんが さがしていたよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d27cd415345c3ec8",
@@ -614333,9 +615081,13 @@
     "end": 11859,
     "raw": "\"Oh, fine, then.\\n\"",
     "source": "Oh, fine, then.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ そうかい。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5f4014d9dc8bd3e7",
@@ -614345,9 +615097,13 @@
     "end": 11883,
     "raw": "\"Come again.$\"",
     "source": "Come again.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c2561750c01480d",
@@ -614357,9 +615113,13 @@
     "end": 11970,
     "raw": "\"You don't have enough money…$\"",
     "source": "You don't have enough money…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おかねが たりないようだね…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9bc4523a8a3f83b2",
@@ -614369,9 +615129,13 @@
     "end": 12068,
     "raw": "\"Will you take back the other one,\\n\"",
     "source": "Will you take back the other one,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もう1ぴきも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9094113b73bdc28f",
@@ -614381,9 +615145,13 @@
     "end": 12085,
     "raw": "\"too?$\"",
     "source": "too?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひきとっていくかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "486d20a57d483137",
@@ -614393,9 +615161,13 @@
     "end": 12145,
     "raw": "\"Fine.\\n\"",
     "source": "Fine.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それじゃあ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "21fe41099b7c66ea",
@@ -614405,9 +615177,13 @@
     "end": 12169,
     "raw": "\"Come again.$\"",
     "source": "Come again.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "797b23f84f1ad2f9",
@@ -614417,9 +615193,13 @@
     "end": 12257,
     "raw": "\"Ah, it's you! Good to see you.\\n\"",
     "source": "Ah, it's you! Good to see you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや あなたかい! よく きたね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "695dd754009ff54e",
@@ -614429,9 +615209,13 @@
     "end": 12306,
     "raw": "\"Your POKéMON can only be doing good!$\"",
     "source": "Your POKéMON can only be doing good!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンは げんき いっぱいの はずさ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "605aebbb56dbfaf8",
@@ -614441,9 +615225,13 @@
     "end": 12404,
     "raw": "\"By level, your {STR_VAR_1} has\\n\"",
     "source": "By level, your {STR_VAR_1} has\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみの {ENG}{STR_VAR_1}{JPN}は\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a5d9517f38790812",
@@ -614453,9 +615241,13 @@
     "end": 12438,
     "raw": "\"grown by {STR_VAR_2}.$\"",
     "source": "grown by {STR_VAR_2}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "レベルが {ENG}{STR_VAR_2}{JPN} あがったよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "21d9fac48d4a7711",
@@ -614465,9 +615257,13 @@
     "end": 12524,
     "raw": "\"Your POKéMON team is full.\\n\"",
     "source": "Your POKéMON team is full.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てもちの ポケモンが いっぱいだね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cb072a28954abca9",
@@ -614477,9 +615273,13 @@
     "end": 12565,
     "raw": "\"Make room, then come see me.$\"",
     "source": "Make room, then come see me.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきを つくってから また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2d9d2d92f6763c1f",
@@ -614489,9 +615289,13 @@
     "end": 12668,
     "raw": "\"Which POKéMON will you take back?$\"",
     "source": "Which POKéMON will you take back?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どちらの ポケモンを ひきとるかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "01bc32b3c3343054",
@@ -614501,9 +615305,13 @@
     "end": 12759,
     "raw": "\"If you want your {STR_VAR_1} back,\\n\"",
     "source": "If you want your {STR_VAR_1} back,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を ひきとるなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0cfc51de5b725d25",
@@ -614513,9 +615321,13 @@
     "end": 12798,
     "raw": "\"it will cost ¥{STR_VAR_2}.$\"",
     "source": "it will cost ¥{STR_VAR_2}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_2}{JPN}円 かかるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8e6db4fb6ccfb493",
@@ -614525,9 +615337,13 @@
     "end": 12864,
     "raw": "\"Perfect!\\n\"",
     "source": "Perfect!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はい たしかに!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a337e1726062d727",
@@ -614537,9 +615353,13 @@
     "end": 12897,
     "raw": "\"Here's your POKéMON.$\"",
     "source": "Here's your POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモンだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54a8a5b2439d50a7",
@@ -614549,9 +615369,13 @@
     "end": 12989,
     "raw": "\"{PLAYER} took back {STR_VAR_1} from\\n\"",
     "source": "{PLAYER} took back {STR_VAR_1} from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3524c166a8071ce8",
@@ -614561,9 +615385,13 @@
     "end": 13020,
     "raw": "\"the DAY-CARE LADY.$\"",
     "source": "the DAY-CARE LADY.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そだてやばあさんから ひきとった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3971d3fc5f09ffb1",
@@ -614573,9 +615401,13 @@
     "end": 13108,
     "raw": "\"Oh? But you have just one\\n\"",
     "source": "Oh? But you have just one\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや？ あなたは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f530393709187bc7",
@@ -614585,9 +615417,13 @@
     "end": 13130,
     "raw": "\"POKéMON.\\p\"",
     "source": "POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが 1ぴきしか いないじゃないか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6a8daffe2a89d929",
@@ -614597,9 +615433,13 @@
     "end": 13166,
     "raw": "\"Come back another time.$\"",
     "source": "Come back another time.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また こんど おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e773deeca7ee0ae8",
@@ -614609,9 +615449,13 @@
     "end": 13258,
     "raw": "\"Will you take your POKéMON back?$\"",
     "source": "Will you take your POKéMON back?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを ひきとっていくかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f77a45d9c0f217dd",
@@ -614621,9 +615465,13 @@
     "end": 13354,
     "raw": "\"If you leave me that POKéMON,\\n\"",
     "source": "If you leave me that POKéMON,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その ポケモンを あずけてしまったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ce6dc1b3bb5b3f87",
@@ -614633,9 +615481,13 @@
     "end": 13394,
     "raw": "\"what will you battle with?\\p\"",
     "source": "what will you battle with?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにで たたかう つもりだい？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e971aad46854d18f",
@@ -614645,9 +615497,13 @@
     "end": 13430,
     "raw": "\"Come back another time.$\"",
     "source": "Come back another time.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また こんど おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9352fd57d0c99cd8",
@@ -614657,9 +615513,13 @@
     "end": 13466,
     "raw": "\"Huh?$\"",
     "source": "Huh?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a13716dac9e1987f",
@@ -614669,9 +615529,13 @@
     "end": 13538,
     "raw": "\"Huh?\\n\"",
     "source": "Huh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや？\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5e9360a311af7325",
@@ -614681,9 +615545,13 @@
     "end": 13561,
     "raw": "\"Now, now.\\p\"",
     "source": "Now, now.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょっと おまちなさい。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1668d3351ce072d4",
@@ -614693,9 +615561,13 @@
     "end": 13605,
     "raw": "\"If you leave that POKéMON with\\n\"",
     "source": "If you leave that POKéMON with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その ポケモンを あずけてしまったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ce0a9be1cdfc63ed",
@@ -614705,9 +615577,13 @@
     "end": 13652,
     "raw": "\"me, you'll be left with just one.\\p\"",
     "source": "me, you'll be left with just one.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てもちが 1ぴきだけに なってしまうよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d8b91524b7028e0",
@@ -614717,9 +615593,13 @@
     "end": 13701,
     "raw": "\"You will be better off if you catch\\n\"",
     "source": "You will be better off if you catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もうすこし ポケモンを つかまえたほうが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69ec6840a1c381b5",
@@ -614729,9 +615609,13 @@
     "end": 13736,
     "raw": "\"some more, I dare say.$\"",
     "source": "some more, I dare say.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいと おもうけどね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95b1299ad21975ed",
@@ -668745,9 +669629,13 @@
     "end": 177,
     "raw": "\"I'm the DAY-CARE MAN.\\p\"",
     "source": "I'm the DAY-CARE MAN.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わしは そだてやじいさんじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7075a683ae71755d",
@@ -668757,9 +669645,13 @@
     "end": 223,
     "raw": "\"I help take care of the precious\\n\"",
     "source": "I help take care of the precious\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トレーナーの だいじな\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f563c77cfcc2e45a",
@@ -668769,9 +669661,13 @@
     "end": 257,
     "raw": "\"POKéMON of TRAINERS.\\p\"",
     "source": "POKéMON of TRAINERS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを あずかって おる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9773636131bd37f7",
@@ -668781,9 +669677,13 @@
     "end": 301,
     "raw": "\"If you'd like me to raise your\\n\"",
     "source": "If you'd like me to raise your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを そだてて ほしいなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "17d634f3669def00",
@@ -668793,9 +669693,13 @@
     "end": 348,
     "raw": "\"POKéMON, have a word with my wife.$\"",
     "source": "POKéMON, have a word with my wife.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ばあさんに はなしておくれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "932eadf9933cf628",
@@ -668805,9 +669709,13 @@
     "end": 404,
     "raw": "\"Ah, it's you!\\p\"",
     "source": "Ah, it's you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "22707bab24dd2a44",
@@ -668817,9 +669725,13 @@
     "end": 451,
     "raw": "\"We were raising your POKéMON, and\\n\"",
     "source": "We were raising your POKéMON, and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの ポケモンを そだてていたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "66094d715df76c4e",
@@ -668829,9 +669741,13 @@
     "end": 496,
     "raw": "\"my goodness, were we surprised!\\p\"",
     "source": "my goodness, were we surprised!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いやあ びっくり したよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8bc497ff26f43132",
@@ -668841,9 +669757,13 @@
     "end": 534,
     "raw": "\"Your POKéMON had an EGG!\\p\"",
     "source": "Your POKéMON had an EGG!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが タマゴを もっておった!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3c09f2321ce541fe",
@@ -668853,9 +669773,13 @@
     "end": 579,
     "raw": "\"We don't know how it got there,\\n\"",
     "source": "We don't know how it got there,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どこから きたのか わからんが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f57e1d58814c6da4",
@@ -668865,9 +669789,13 @@
     "end": 617,
     "raw": "\"but your POKéMON had it.\\p\"",
     "source": "but your POKéMON had it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの ポケモンが もっておったんじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f7a0cef029916505",
@@ -668877,9 +669805,13 @@
     "end": 650,
     "raw": "\"You do want it, yes?$\"",
     "source": "You do want it, yes?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほしいじゃろう？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "30344f9c444ff56e",
@@ -668889,9 +669821,13 @@
     "end": 729,
     "raw": "\"Ah, it's you! Good to see you.\\n\"",
     "source": "Ah, it's you! Good to see you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみか! よく きたのう。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aa8ec22a3215ed9f",
@@ -668901,9 +669837,13 @@
     "end": 772,
     "raw": "\"Your {STR_VAR_1}'s doing fine.$\"",
     "source": "Your {STR_VAR_1}'s doing fine.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの {ENG}{STR_VAR_1}{JPN}は げんきじゃよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "66cfb14b8f8f58bd",
@@ -668913,9 +669853,13 @@
     "end": 836,
     "raw": "\"Well then, I'll keep it.\\n\"",
     "source": "Well then, I'll keep it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それじゃ わしが もらうよ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "117cdf92edcfe58f",
@@ -668925,9 +669869,13 @@
     "end": 856,
     "raw": "\"Thanks!$\"",
     "source": "Thanks!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ありがとうな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "760fd94a42b06806",
@@ -668937,9 +669885,13 @@
     "end": 929,
     "raw": "\"You have no room for it…\\n\"",
     "source": "You have no room for it…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もてる ポケモンが いっぱいじゃな…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "995153e93faebb2a",
@@ -668949,9 +669901,13 @@
     "end": 974,
     "raw": "\"Come back when you've made room.$\"",
     "source": "Come back when you've made room.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきを つくってから また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c07411a7df6e3ee3",
@@ -668961,9 +669917,13 @@
     "end": 1046,
     "raw": "\"{PLAYER} received the EGG from\\n\"",
     "source": "{PLAYER} received the EGG from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は そだてやの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc2d6a333741b935",
@@ -668973,9 +669933,13 @@
     "end": 1076,
     "raw": "\"the DAY-CARE MAN.$\"",
     "source": "the DAY-CARE MAN.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おじいさんから タマゴを うけとった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "84f1f31556c52128",
@@ -668985,9 +669949,13 @@
     "end": 1143,
     "raw": "\"Take good care of it.$\"",
     "source": "Take good care of it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}だいじに そだてて おくれよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6efd96584a37405d",
@@ -668997,9 +669965,13 @@
     "end": 1217,
     "raw": "\"ポケモンを　ひきとりたい　ときは\\n\"",
     "source": "ポケモンを　ひきとりたい　ときは\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを ひきとりたいなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "742640d93f99515c",
@@ -669009,9 +669981,13 @@
     "end": 1242,
     "raw": "\"ばさんに　いって　おくれ$\"",
     "source": "ばさんに　いって　おくれ$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ばあさんに はなしておくれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "12f5059a413f367a",
@@ -669021,9 +669997,13 @@
     "end": 1327,
     "raw": "\"Ah, it's you! Your {STR_VAR_1} and\\n\"",
     "source": "Ah, it's you! Your {STR_VAR_1} and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみか! {ENG}{STR_VAR_1}{JPN}も\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5d5bcbd2f36100ad",
@@ -669033,9 +670013,13 @@
     "end": 1367,
     "raw": "\"{STR_VAR_2} are doing fine.$\"",
     "source": "{STR_VAR_2} are doing fine.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_2}{JPN}も げんきじゃよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1730b3fff7d966bd",
@@ -669045,9 +670029,13 @@
     "end": 1440,
     "raw": "\"I really will keep it.\\n\"",
     "source": "I really will keep it.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほんとうに わしが もらってしまうぞ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "64c80832eda8a352",
@@ -669057,9 +670045,13 @@
     "end": 1475,
     "raw": "\"You do want this, yes?$\"",
     "source": "You do want this, yes?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほしいんじゃろう？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ad30d0218ea4257c",
@@ -669069,9 +670061,13 @@
     "end": 1552,
     "raw": "\"I'm the DAY-CARE LADY.\\p\"",
     "source": "I'm the DAY-CARE LADY.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしは そだてやばあさん。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "86161e1d9a0e872c",
@@ -669081,9 +670077,13 @@
     "end": 1595,
     "raw": "\"We can raise POKéMON for you.\\p\"",
     "source": "We can raise POKéMON for you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモンを そだてますよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f0648dd10c0e99f5",
@@ -669093,9 +670093,13 @@
     "end": 1639,
     "raw": "\"Would you like us to raise one?$\"",
     "source": "Would you like us to raise one?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1ぴき あずけてみるかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "07703a29efab8a81",
@@ -669105,9 +670109,13 @@
     "end": 1724,
     "raw": "\"Which POKéMON should we raise for\\n\"",
     "source": "Which POKéMON should we raise for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どの ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f17475069c7ad1b7",
@@ -669117,9 +670125,13 @@
     "end": 1741,
     "raw": "\"you?$\"",
     "source": "you?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そだてようかね？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc40872063c01b21",
@@ -669129,9 +670141,13 @@
     "end": 1822,
     "raw": "\"Fine, we'll raise your {STR_VAR_1}\\n\"",
     "source": "Fine, we'll raise your {STR_VAR_1}\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それじゃ {ENG}{STR_VAR_1}{JPN}を\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a4abb545942f80a2",
@@ -669141,9 +670157,13 @@
     "end": 1848,
     "raw": "\"for a while.\\p\"",
     "source": "for a while.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しばらく あずかるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "264cdd6513f048f9",
@@ -669153,9 +670173,13 @@
     "end": 1884,
     "raw": "\"Come back for it later.$\"",
     "source": "Come back for it later.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あとで むかえに おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1f05280d52e72b09",
@@ -669165,9 +670189,13 @@
     "end": 1965,
     "raw": "\"We can raise two of your POKéMON.\\p\"",
     "source": "We can raise two of your POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンは 2ひきまで あずかれるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cb39b9846c9ea4ad",
@@ -669177,9 +670205,13 @@
     "end": 2009,
     "raw": "\"Would you like us to raise one\\n\"",
     "source": "Would you like us to raise one\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もう1ぴき\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "18ac51bb549824e7",
@@ -669189,9 +670221,13 @@
     "end": 2043,
     "raw": "\"more POKéMON for you?$\"",
     "source": "more POKéMON for you?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あずけてみるかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "87a5fc8d337e527b",
@@ -669201,9 +670237,13 @@
     "end": 2127,
     "raw": "\"My husband was looking for you.$\"",
     "source": "My husband was looking for you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うちの じいさんが さがしていたよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14d8afa0f3c50d2c",
@@ -669213,9 +670253,13 @@
     "end": 2190,
     "raw": "\"Oh, fine, then.\\n\"",
     "source": "Oh, fine, then.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ そうかい。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff4e5aefcb6b2776",
@@ -669225,9 +670269,13 @@
     "end": 2214,
     "raw": "\"Come again.$\"",
     "source": "Come again.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "73d21da88287ce8f",
@@ -669237,9 +670285,13 @@
     "end": 2286,
     "raw": "\"You don't have enough money…$\"",
     "source": "You don't have enough money…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おかねが たりないようだね…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e69664cea7759e7e",
@@ -669249,9 +670301,13 @@
     "end": 2369,
     "raw": "\"Will you take back the other one,\\n\"",
     "source": "Will you take back the other one,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もう1ぴきも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "948d7cb9a58f369e",
@@ -669261,9 +670317,13 @@
     "end": 2386,
     "raw": "\"too?$\"",
     "source": "too?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひきとっていくかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f2463fbbaecf395",
@@ -669273,9 +670333,13 @@
     "end": 2431,
     "raw": "\"Fine.\\n\"",
     "source": "Fine.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}それじゃあ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cfeeb7d75eb033a7",
@@ -669285,9 +670349,13 @@
     "end": 2455,
     "raw": "\"Come again.$\"",
     "source": "Come again.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1d0f8ced0075b756",
@@ -669297,9 +670365,13 @@
     "end": 2511,
     "raw": "\"Ah, it's you!\\n\"",
     "source": "Ah, it's you!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや あなたかい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ae237de797178b44",
@@ -669309,9 +670381,13 @@
     "end": 2541,
     "raw": "\"Good to see you.\\p\"",
     "source": "Good to see you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よく きたね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ebaee9fc8a28873b",
@@ -669321,9 +670397,13 @@
     "end": 2585,
     "raw": "\"Your POKéMON can only be doing\\n\"",
     "source": "Your POKéMON can only be doing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンは げんき\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f7f4302a2dcc935b",
@@ -669333,9 +670413,13 @@
     "end": 2603,
     "raw": "\"good!$\"",
     "source": "good!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっぱいの はずさ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "46bbb6c59ada72d6",
@@ -669345,9 +670429,13 @@
     "end": 2686,
     "raw": "\"By level, your {STR_VAR_1} has\\n\"",
     "source": "By level, your {STR_VAR_1} has\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみの {ENG}{STR_VAR_1}{JPN}は\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff6a79cb55aee683",
@@ -669357,9 +670445,13 @@
     "end": 2720,
     "raw": "\"grown by {STR_VAR_2}.$\"",
     "source": "grown by {STR_VAR_2}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "レベルが {ENG}{STR_VAR_2}{JPN} あがったよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d25ac9b54cf3d41",
@@ -669369,9 +670461,13 @@
     "end": 2793,
     "raw": "\"Your POKéMON party is full.\\n\"",
     "source": "Your POKéMON party is full.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てもちの ポケモンが いっぱいだね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd9dce6b098d7992",
@@ -669381,9 +670477,13 @@
     "end": 2834,
     "raw": "\"Make room, then come see me.$\"",
     "source": "Make room, then come see me.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきを つくってから また おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74d9ed1829917520",
@@ -669393,9 +670493,13 @@
     "end": 2898,
     "raw": "\"どっちの　ポケモンを　ひきとるかい？$\"",
     "source": "どっちの　ポケモンを　ひきとるかい？$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どちらの ポケモンを ひきとるかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2f2f87e7cf84940a",
@@ -669405,9 +670509,13 @@
     "end": 2974,
     "raw": "\"If you want your {STR_VAR_1} back,\\n\"",
     "source": "If you want your {STR_VAR_1} back,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を ひきとるなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f4828895955ef14a",
@@ -669417,9 +670525,13 @@
     "end": 3013,
     "raw": "\"it will cost ¥{STR_VAR_2}.$\"",
     "source": "it will cost ¥{STR_VAR_2}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_2}{JPN}円 かかるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8c7065c748191831",
@@ -669429,9 +670541,13 @@
     "end": 3064,
     "raw": "\"Perfect!\\n\"",
     "source": "Perfect!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はい たしかに!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "81a4f51ccba9e92a",
@@ -669441,9 +670557,13 @@
     "end": 3097,
     "raw": "\"Here's your POKéMON.$\"",
     "source": "Here's your POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモンだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29660975ddcc17c9",
@@ -669453,9 +670573,13 @@
     "end": 3174,
     "raw": "\"{PLAYER} took back {STR_VAR_1} from\\n\"",
     "source": "{PLAYER} took back {STR_VAR_1} from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f2c41bd9257bde54",
@@ -669465,9 +670589,13 @@
     "end": 3205,
     "raw": "\"the DAY-CARE LADY.$\"",
     "source": "the DAY-CARE LADY.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そだてやばあさんから ひきとった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2a3ae35d02b7ec65",
@@ -669477,9 +670605,13 @@
     "end": 3278,
     "raw": "\"Oh? But you have just one\\n\"",
     "source": "Oh? But you have just one\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや？ あなたは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9eedc04b41f02379",
@@ -669489,9 +670621,13 @@
     "end": 3300,
     "raw": "\"POKéMON.\\p\"",
     "source": "POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが 1ぴきしか いないじゃないか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "03c0d17cdfa146c3",
@@ -669501,9 +670637,13 @@
     "end": 3336,
     "raw": "\"Come back another time.$\"",
     "source": "Come back another time.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また こんど おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e003178740d6f542",
@@ -669513,9 +670653,13 @@
     "end": 3413,
     "raw": "\"Will you take your POKéMON back?$\"",
     "source": "Will you take your POKéMON back?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを ひきとっていくかい？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ae47a1b374098b9c",
@@ -669525,9 +670669,13 @@
     "end": 3494,
     "raw": "\"If you leave me that POKéMON,\\n\"",
     "source": "If you leave me that POKéMON,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その ポケモンを あずけてしまったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "856d2a9f5ab1b54d",
@@ -669537,9 +670685,13 @@
     "end": 3534,
     "raw": "\"what will you battle with?\\p\"",
     "source": "what will you battle with?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにで たたかう つもりだい？\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f11b8271907ab56f",
@@ -669549,9 +670701,13 @@
     "end": 3570,
     "raw": "\"Come back another time.$\"",
     "source": "Come back another time.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また こんど おいで。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f0b6b58287f08393",
@@ -669561,9 +670717,13 @@
     "end": 3607,
     "raw": "\"Huh?$\"",
     "source": "Huh?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや？$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-daycare-48",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "397dbeeb2dda320d",

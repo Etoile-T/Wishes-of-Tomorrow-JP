@@ -9,16 +9,28 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `41bb85ab7ce5dcce65b94925991a1e8ab13cef52`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,938、pending 50,784（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `0a926a6abb24c5c62126f49eddfdeec5b6d406a2`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 11,228、pending 50,494（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で59件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg10938.gba`（ROM 29,864,200B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10938-57fd012b.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10938-57fd012b-patch.zip`、追跡用 `localization/patch-manifest-ui10938.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-10938/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-10938.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-dlg11228.gba`（ROM 29,862,344B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-11228-5e8294d0.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui11228-5e8294d0-patch.zip`、追跡用 `localization/patch-manifest-ui11228.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-types-11228/Wishes_種類別翻訳一覧.xlsx`（Git内コピー `localization/exports/types-11228.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+最新会話48/49とユーザー指定の中断: ユーザーは「育て屋終了後、ストーリー全訳まで継続。トークンが切れそうならpushして中断」と指定。作業履歴が長くなったこの区切りをpushして中断する。**ストーリー全訳は未完了。次の再開では研究所219行を訳し、その後もストーリー全訳の目標を維持する。** 図鑑全件は保留のまま。
+
+今回290件: ホウエン／カントーの育て屋62メッセージ146行（3行は既存日本語の言語指定・表記対応）、ムネン村につながるLittlerootTown_MaysHouse_1F/2Fの17メッセージ142行、src/field_specials.cのson/daughter2件。変数・金額・改ページ・スクロール・終端は保持。ハルカ・ユウキ・オダマキはかせを辞書追加し94語。スクリプトの非.string行とfield_specials.cの文字列以外は不変。セーブ構造・フラグ・ゲームロジックは変更なし。
+
+開始時HEADe5240a966f、クリーン、status/stats61722/10938/50784一致。今回は61722/11228/50494。チェックbad0・26マス超0・yomiyasu lint0/meaning_risk0・59テスト・audit超過0・catalog validate成功。GBA wishes-jp-11228-5e8294d0.gba、ROM29,862,344B/EWRAM230,024/IWRAM28,600。新規OBJ_DIR build/emerald-jp-dlg11228-clean、ログ../artifacts/build-dlg11228.log。SHA256 081853be950d488f331f325bab69229da0ef3b04cd52462d1838e058c1925711。BPS再適用バイト一致。種類別Excel11228版は14シート・全62,429件を保存後11列・ID・生文字列・状態・メモ・辞書94語・集計で照合。適用済み11,935（カタログ11,228＋名称707）、未翻訳50,494。実画面・イベント・タマゴ・保存再読み込みは未検証。
+
+**次に必ず行うこと**: まずAGENTS.md・この文書・status/stats/git状態を照合。data/maps/LittlerootTown_ProfessorBirchsLab/scripts.incにpending219、translated7（50メッセージ、既訳と未訳の混在メッセージなし）を確認して翻訳。script_batch→check/width→レビュー→dry-run/applyを守る。
+
+**ストーリー調査の重要な修正**: 「参考JPにない独自フォルダでpending0」だけでは完了ではない。MunenVillageの実map.jsonは元の名前の家・研究所へワープしている。story_inventory.pyとstory-map-inventory.jsonを追加し、出入口・接続・マップ内の静的warpのBFSを記録した。460候補マップでmap内pending14,591行。これはフラグ・通れる地形を未評価の過大推定で、共通/C/動的ワープ・飛行・未抽出文字列等も未網羅。全訳完了の証拠に使わない。元フォルダを流用したストーリー会話を追い、変数用C文字列も見逃さない。今回の詳細はreviews/dialogue-daycare-48.review.md、dialogue-munen-linked-house-49.review.md、story-inventory.review.md。
+
+以下は以前の記録。
 
 最新会話47: ユーザーが全ポケモン・図鑑より「まずセリフ」を優先するよう変更したため、図鑑全件対応は調査だけで停止し、新しいポケモンデータ訳は適用していない。次の優先は会話。data/text/move_tutors.incの全41メッセージ・156カタログ行を訳した。いばる等10種類の教える前／辞退／選択／習得後と共通確認。元ホウエン側の参照スクリプトは存在するが、Wishesの実プレイ上の到達性は未確認。ストーリーが全訳済みという意味ではない。次は育て屋等の共通NPC・未抽出や流用マップの独自セリフを調べて進める。
 

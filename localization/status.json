@@ -3,18 +3,18 @@
   "baseline_commit": "efb1c880d0b486c1948763051b6c1bb8990a7353",
   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
   "total_candidates": 61722,
-  "translated": 10938,
-  "pending": 50784,
+  "translated": 11228,
+  "pending": 50494,
   "baseline_build": "passed",
   "jp_build": "passed",
   "tests_passed": 59,
-  "bps_roundtrip": "passed: 10938 dialogue build, SHA256/CRC and byte comparison",
+  "bps_roundtrip": "passed: 11228 story/daycare build, SHA256/CRC and byte comparison",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "kana3: keyboard board/entry/background drawn (one printer per row; per-glyph printers overflowed DMA queue), けす/おわり buttons, cursor aligned; verified by mgba_probe VRAM render, GUI play unverified",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29864200,
+  "jp_rom_used_bytes": 29862344,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -22,8 +22,8 @@
     "move": 923,
     "species": 1321
   },
-  "work_state": "in_progress_dialogue",
-  "pause_scope": "User reprioritized dialogue; all-species/Pokedex pass deferred before further data translations",
+  "work_state": "story_checkpoint_user_requested_stop",
+  "pause_scope": "User requested continuing all story translations and pushing/stopping when context becomes long; current checkpoint is saved, story goal unfinished",
   "translation_review": "Types/pockets and seven resale-description corrections reviewed with yomiyasu; remaining new ability/item batches still need full semantic review",
   "verification_policy": "Static validation and builds first. GUI gameplay verification deferred per user.",
   "type_names_and_pockets": 53,
@@ -31,7 +31,7 @@
   "ui_added": 1220,
   "ui_inventory_files": 59,
   "ui_pending_language_candidates": 2344,
-  "excel_translated_rows": 11645,
+  "excel_translated_rows": 11935,
   "reported_graphics_issue": "Closed at user request: user identified emulator bug; stop investigating and resume translation",
   "graphics_diagnostic_build": {
     "status": "passed",
@@ -40,35 +40,35 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-bbfebb993b2489fa.gba",
-  "latest_patch_manifest": "patch-manifest-ui10938.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-081853be950d488f.gba",
+  "latest_patch_manifest": "patch-manifest-ui11228.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-10938-57fd012b.gba",
+  "user_output_rom": "../outputs/gba/wishes-jp-11228-5e8294d0.gba",
   "dialogue_progress": "Applied: DragonKeeper and MewtwoPostGame, plus previously listed custom maps. No pending catalog rows in map folders absent from local JP reference except *_Frlg. This heuristic excludes custom dialogue in reused Emerald maps and unextracted text. Applied move tutor common NPC dialogue: 41 messages / 156 rows, no pending catalog rows in data/text/move_tutors.inc. Core game-wide dialogue still incomplete.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/types-10938.xlsx",
-  "user_review_workbook": "../outputs/translation-types-10938/Wishes_種類別翻訳一覧.xlsx",
+  "review_workbook": "exports/types-11228.xlsx",
+  "user_review_workbook": "../outputs/translation-types-11228/Wishes_種類別翻訳一覧.xlsx",
   "last_dialogue_batch": {
-    "entries": 156,
-    "messages": 41,
-    "files": [
-      "data/text/move_tutors.inc"
-    ],
+    "entries": 290,
+    "script_rows": 288,
+    "variable_fragments": 2,
+    "messages": 79,
     "batches": [
-      "dialogue-move-tutors-47"
+      "dialogue-daycare-48",
+      "dialogue-munen-linked-house-49"
     ],
-    "translation_commit": "41bb85ab7ce5dcce65b94925991a1e8ab13cef52",
-    "source_logic": "all non-string script lines unchanged",
-    "width": "control check bad0; >26 cells0; page/scroll/terminator preserved per original row",
-    "runtime": "not run; tutor interaction/teaching and Wishes map reachability unverified"
+    "translation_commit": "0a926a6abb24c5c62126f49eddfdeec5b6d406a2",
+    "source_logic": "four scripts: non-string lines identical; field_specials C code unchanged",
+    "width": "check bad0, >26cells0, original per-row variables/pages/scroll/end preserved",
+    "runtime": "not run; egg/deposit/withdraw/house events/save progression unverified"
   },
   "excel_total_rows": 62429,
   "excel_catalog_rows": 61722,
-  "excel_pending_rows": 50784,
+  "excel_pending_rows": 50494,
   "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings",
   "name_input_limits": {
     "player_rival": 5,
@@ -78,7 +78,7 @@
     "save_layout": "unchanged",
     "runtime": "see kana3 review; new dialogue not played"
   },
-  "build_directory": "build/emerald-jp-dlg10938-clean",
+  "build_directory": "build/emerald-jp-dlg11228-clean",
   "last_species_name_batch": {
     "entries": 42,
     "batches": [
@@ -133,10 +133,18 @@
     "rows": 62429,
     "catalog_entries": 61722,
     "external_names": 707,
-    "applied": 11645,
-    "pending": 50784,
+    "applied": 11935,
+    "pending": 50494,
     "memo_key": "row ID; glossary English+Japanese",
-    "scope": "Category sheets retained; 156 move-tutor NPC dialogue rows updated",
+    "scope": "Category sheets retained; 290 daycare/house/variable rows updated; glossary94",
     "verification": "all rows/IDs/raw text/status, summary formula values and previews; native Excel GUI not tested"
+  },
+  "story_inventory": {
+    "file": "story-map-inventory.json",
+    "candidate_maps": 460,
+    "pending_map_rows": 14591,
+    "scope": "Over-approximate map graph only; conditions/dynamic/C/common-script warps and unextracted text not complete",
+    "next": "LittlerootTown_ProfessorBirchsLab:219 pending, 7 translated, 50 messages, no mixed-status message groups",
+    "complete": false
   }
 }

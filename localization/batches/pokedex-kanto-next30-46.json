@@ -1,0 +1,662 @@
+[
+  {
+    "id": "4fe8b4b867ba27ec",
+    "translation": "{JPN}ドリル{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDOKING.categoryName[0]"
+  },
+  {
+    "id": "6c0d0ea9616e77c8",
+    "translation": "{JPN}ふとい しっぽの ひとふりは てつの\\nそうでんとうも たおすほどの はかいりょく。\\nいちど あばれだすと てが つけられない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDOKING.description[0]"
+  },
+  {
+    "id": "105871db4498166a",
+    "translation": "{JPN}ほしがた{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFFA.categoryName[0]"
+  },
+  {
+    "id": "cc91acc4826cef82",
+    "translation": "{JPN}ながれぼしの おおい よるは わに なって\\nおどる ピィの すがたを みることが できる。\\nひのでまで おどり あさつゆで\\nのどを うるおす。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFFA.description[0]"
+  },
+  {
+    "id": "b45fb8298562fa31",
+    "translation": "{JPN}ようせい{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFAIRY.categoryName[0]"
+  },
+  {
+    "id": "7528982fc1b7328f",
+    "translation": "{JPN}まんげつの よるは げんき いっぱいに あそぶ。\\nあけがた つかれた ピッピたちは しずかな\\nやまおくで なかまたちと よりそって ねむる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFAIRY.description[0]"
+  },
+  {
+    "id": "5bf60ba36be83fad",
+    "translation": "{JPN}ようせい{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFABLE.categoryName[0]"
+  },
+  {
+    "id": "d6c467e9d2687b8a",
+    "translation": "{JPN}つばさを つかって とぶように スキップ。\\nすいめんを あるく ことだって できるのだ。\\nしずかな つきよに みずうみを あるく。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFABLE.description[0]"
+  },
+  {
+    "id": "792381b6832ff5c3",
+    "translation": "{JPN}きつね{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VULPIX.categoryName[0]"
+  },
+  {
+    "id": "bde432c529ff8225",
+    "translation": "{JPN}ほのおを あやつり ひとだまの ように とばす。\\nしんかする ちょくぜんに なると 6ぽんの\\nしっぽが もえたように ねつを おびる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VULPIX.description[0]"
+  },
+  {
+    "id": "8b8f68969b982fc7",
+    "translation": "{JPN}きつね{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NINETALES.categoryName[0]"
+  },
+  {
+    "id": "e062632cb74f106c",
+    "translation": "{JPN}9ほんの しっぽには それぞれ ふしぎな\\nちからが やどっていると いいつたえられる。\\nながいきの キュウコンは たいもうが きんいろ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NINETALES.description[0]"
+  },
+  {
+    "id": "a307505db00a1894",
+    "translation": "{JPN}ふうせん{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_IGGLYBUFF.categoryName[0]"
+  },
+  {
+    "id": "27be2ddb1d98e0ec",
+    "translation": "{JPN}やわらかい からだは とても よく はずむ。\\nいっしょうけんめい うたいつづけると\\nぜんしんが こい ピンクいろに そまっていく。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_IGGLYBUFF.description[0]"
+  },
+  {
+    "id": "dc0d9375549d536d",
+    "translation": "{JPN}ふうせん{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_JIGGLYPUFF.categoryName[0]"
+  },
+  {
+    "id": "1d10a0ba3e24c9ff",
+    "translation": "{JPN}プリンの うたで ねむらない ものは いない。\\nうたごえの おとの なみは じゅくすいしている\\nときの のうはと おなじ かたちを している。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_JIGGLYPUFF.description[0]"
+  },
+  {
+    "id": "d2d7e733658bbdd4",
+    "translation": "{JPN}ふうせん{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WIGGLYTUFF.categoryName[0]"
+  },
+  {
+    "id": "23349f0e4c341fb7",
+    "translation": "{JPN}ごくじょうの けなみを もつ ポケモン。\\nプクリンと そいねすると さいこうの ねごこち。\\nいきを すうと からだが どんどん ふくらむ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WIGGLYTUFF.description[0]"
+  },
+  {
+    "id": "c70654073a93f544",
+    "translation": "{JPN}こうもり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ZUBAT.categoryName[0]"
+  },
+  {
+    "id": "5274fed4a773be4f",
+    "translation": "{JPN}まっくらな どうくつで せいかつしている うちに\\nりょうめが ふさがり みえなくなってしまった。\\nちょうおんぱで しょうがいぶつを たんちする。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ZUBAT.description[0]"
+  },
+  {
+    "id": "7b5cd750d06bc71d",
+    "translation": "{JPN}こうもり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLBAT.categoryName[0]"
+  },
+  {
+    "id": "7d395fdeba90878b",
+    "translation": "{JPN}かたい ひふでも らくらく つらぬく キバ。\\nひとや ポケモンの けつえきが だいこうぶつ。\\nくらやみを とびまわり はいごから おそう。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLBAT.description[0]"
+  },
+  {
+    "id": "d1d26b7518af95c8",
+    "translation": "{JPN}こうもり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CROBAT.categoryName[0]"
+  },
+  {
+    "id": "ad97278bfe604f33",
+    "translation": "{JPN}しんかで うしろあしが ハネに かわった。\\nまえと うしろの ハネを こうごに やすめ\\nとまらずに 1にちじゅう とべる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CROBAT.description[0]"
+  },
+  {
+    "id": "7ee32edca480e3fc",
+    "translation": "{JPN}ざっそう{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ODDISH.categoryName[0]"
+  },
+  {
+    "id": "0dc2b083281f3048",
+    "translation": "{JPN}つきあかりを あびて せいちょうする ポケモン。\\nひるまは はっぱだけを だして じめんに\\nうまっているので てきから みつかりにくいのだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ODDISH.description[0]"
+  },
+  {
+    "id": "71123f4ac6dc70b2",
+    "translation": "{JPN}ざっそう{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GLOOM.categoryName[0]"
+  },
+  {
+    "id": "fba0093d1e3fcf5e",
+    "translation": "{JPN}くちから たれる ひどく くさい みつは\\nひとかぎで きおくを うばうことが ある。\\nだが この においを このむ マニアも\\nいると いわれている。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GLOOM.description[0]"
+  },
+  {
+    "id": "1435c3bfd19462d8",
+    "translation": "{JPN}フラワー{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VILEPLUME.categoryName[0]"
+  },
+  {
+    "id": "37248b8b01a5f70c",
+    "translation": "{JPN}かふんの ふえる きせつは ラフレシアが\\nあるくと まわりの くうきが きいろく なる。\\nかふんは からだを しびれさせる もうどく。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VILEPLUME.description[0]"
+  },
+  {
+    "id": "25f3447b4e940014",
+    "translation": "{JPN}フラワー{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BELLOSSOM.categoryName[0]"
+  },
+  {
+    "id": "6b472e4df0fdf171",
+    "translation": "{JPN}たいようを あびて はなびらが いろづく。\\nくもりが つづいた ときに おどる ダンスは\\nたいようを よぶ ぎしきと かんがえられている。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BELLOSSOM.description[0]"
+  },
+  {
+    "id": "3c8410fe98bd1b39",
+    "translation": "{JPN}きのこ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARAS.categoryName[0]"
+  },
+  {
+    "id": "d77b7bee2a077b4b",
+    "translation": "{JPN}パラスから ようぶんを すいとって おおきくなる\\nキノコは とうちゅうかそう と よばれている。\\nちょうじゅの くすりになる きちょうな キノコ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARAS.description[0]"
+  },
+  {
+    "id": "938ec2a9c250bdb7",
+    "translation": "{JPN}きのこ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARASECT.categoryName[0]"
+  },
+  {
+    "id": "8af491e96803e247",
+    "translation": "{JPN}パラセクトは しゅうだんで たいぼくの ねもとに\\nくっついて えいようを すいとってしまう。\\nかれると いっせいに べつの きに いどうする。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARASECT.description[0]"
+  },
+  {
+    "id": "4387d1d4e0ef70a3",
+    "translation": "{JPN}こんちゅう{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENONAT.categoryName[0]"
+  },
+  {
+    "id": "65d72f18fd3c17bd",
+    "translation": "{JPN}みを まもるために ほそく かたい たいもうが\\nぜんしんを おおうように なったと いわれる。\\nちいさな えものも みのがさない めを もつ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENONAT.description[0]"
+  },
+  {
+    "id": "67b19baee9bdabe7",
+    "translation": "{JPN}どくが{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENOMOTH.categoryName[0]"
+  },
+  {
+    "id": "92543e4a52dc423f",
+    "translation": "{JPN}やこうせいで よるに かつどうを はじめる。\\nがいとうの あかりに さそわれ あつまった\\nちいさな むしを このんで たべる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENOMOTH.description[0]"
+  },
+  {
+    "id": "d51ead007c75dcd1",
+    "translation": "{JPN}もぐら{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DIGLETT.categoryName[0]"
+  },
+  {
+    "id": "ba29aa877715fca8",
+    "translation": "{JPN}ほとんどの のうかは ディグダを そだてている。\\nディグダが あなを ほった とちは ほどよく\\nたがやされ おいしい やさいが つくれるからだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DIGLETT.description[0]"
+  },
+  {
+    "id": "0ca9bf0598b473dc",
+    "translation": "{JPN}もぐら{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DUGTRIO.categoryName[0]"
+  },
+  {
+    "id": "4ea42a398fa9f18e",
+    "translation": "{JPN}もともと ひとつの からだから 3つごに\\nなったので みんな かんがえることは おなじ。\\nちからを あわせ どこまでも ほりすすむ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DUGTRIO.description[0]"
+  },
+  {
+    "id": "db9f82d5ebef35c0",
+    "translation": "{JPN}ばけねこ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MEOWTH.categoryName[0]"
+  },
+  {
+    "id": "9e2bf2307f06f072",
+    "translation": "{JPN}するどい ツメを ひっこめて ぬきあし さしあし\\nあしおとを たてずに あるくことが できる。\\nキラキラ ひかる コインが なぜか だいすきだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MEOWTH.description[0]"
+  },
+  {
+    "id": "7a1e78c14c73d079",
+    "translation": "{JPN}シャムネコ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERSIAN.categoryName[0]"
+  },
+  {
+    "id": "ba141bf800f0e1a5",
+    "translation": "{JPN}たくましい 6ぽんの ヒゲは くうきの うごきで\\nまわりの ようすを キャッチする やくわり。\\nヒゲを つかまれると おとなしくなって しまう。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERSIAN.description[0]"
+  },
+  {
+    "id": "46abbaf8c513045b",
+    "translation": "{JPN}バイキング{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERRSERKER.categoryName[0]"
+  },
+  {
+    "id": "3f76bc4c065a4206",
+    "translation": "{JPN}てつの ヘルメットに みえる ものは\\nじつは かたまった けだ。\\nたたかいの スリルに いきる ポケモン。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERRSERKER.description[0]"
+  },
+  {
+    "id": "77d79c3fd302b79b",
+    "translation": "{JPN}あひる{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PSYDUCK.categoryName[0]"
+  },
+  {
+    "id": "1f643dbece8402a3",
+    "translation": "{JPN}ずつうが はげしくなると ふしぎな ちからを\\nつかいだすが そのときの きおくは のこらない。\\nおもいだせないので くびを かしげているのだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PSYDUCK.description[0]"
+  },
+  {
+    "id": "1af285e006b77b15",
+    "translation": "{JPN}あひる{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLDUCK.categoryName[0]"
+  },
+  {
+    "id": "4660ff575bf2bbb2",
+    "translation": "{JPN}およぎが とくいな ゴルダックは すいえい\\nせんしゅの とっくんに つきあう ことも ある。\\nひたいが かがやくとき じんつうりきを つかう。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLDUCK.description[0]"
+  },
+  {
+    "id": "714aaa09e42956ef",
+    "translation": "{JPN}ぶたざる{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MANKEY.categoryName[0]"
+  },
+  {
+    "id": "2095cbf552cf4c27",
+    "translation": "{JPN}からだが ふるえ はないきが あらくなれば\\nおこりだす まえぶれ なのだが あっというまに\\nはげしく おこるので にげだす ひまは ない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MANKEY.description[0]"
+  },
+  {
+    "id": "be4e6834661412e4",
+    "translation": "{JPN}ぶたざる{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PRIMEAPE.categoryName[0]"
+  },
+  {
+    "id": "6a44c3dee4be1de8",
+    "translation": "{JPN}はげしく おこる ことで けっこうが よくなり\\nきんにくの ちからを つよくするのだ。\\nただし あたまの かいてんは おそくなるぞ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PRIMEAPE.description[0]"
+  },
+  {
+    "id": "3e0905f0f3bd32f5",
+    "translation": "{JPN}ふんどざる{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ANNIHILAPE.categoryName[0]"
+  },
+  {
+    "id": "8e4b877b52d1bfa9",
+    "translation": "{JPN}いかりのボルテージが りんかいてんを こえたとき\\nにくたいという わくに しばられない\\nパワーを てにいれた。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ANNIHILAPE.description[0]"
+  },
+  {
+    "id": "0d588dd05e71587c",
+    "translation": "{JPN}ねずみ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIKACHU.categoryName[0]"
+  },
+  {
+    "id": "e28767b8352f486e",
+    "translation": "{JPN}どくばり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_F.categoryName[0]"
+  },
+  {
+    "id": "a1bd471d7a917ffc",
+    "translation": "{JPN}ちいさい からだを まもるため きょうりょくな\\nどくばりが はったつしたと かんがえられている。\\nおこると ツノの さきから もうどくを だす。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_F.description[0]"
+  },
+  {
+    "id": "1836b32bb51ca5b8",
+    "translation": "{JPN}どくばり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_M.categoryName[0]"
+  },
+  {
+    "id": "2815dbd4e13c07b9",
+    "translation": "{JPN}みみを うごかす きんにくが はったつしていて\\nどんな むきにも じざいに みみを うごかせる。\\nかすかな ものおとも ききもらさない ポケモン。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_M.description[0]"
+  },
+  {
+    "id": "084ad3d547a3c92e",
+    "translation": "{JPN}ほっぺたの でんきぶくろに でんきを ためる。\\nおもいっきり ほうでんすると かみなりに\\nひってきする でんきを はなつ ことが できる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "gPikachuPokedexText.description[0]"
+  }
+]

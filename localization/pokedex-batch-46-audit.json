@@ -1,0 +1,597 @@
+[
+  {
+    "id": "4fe8b4b867ba27ec",
+    "species": "SPECIES_NIDOKING",
+    "field": "categoryName",
+    "source": "Drill",
+    "translation": "{JPN}ドリル{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "6c0d0ea9616e77c8",
+    "species": "SPECIES_NIDOKING",
+    "field": "description",
+    "source": "A Nidoking's thick tail packs enormously\\ndestructive power capable of toppling\\na metal transmission tower. Once it goes\\non a rampage, there is no stopping it.",
+    "translation": "{JPN}ふとい しっぽの ひとふりは てつの\\nそうでんとうも たおすほどの はかいりょく。\\nいちど あばれだすと てが つけられない。{ENG}",
+    "lines": 3,
+    "max_8px_width": 176
+  },
+  {
+    "id": "105871db4498166a",
+    "species": "SPECIES_CLEFFA",
+    "field": "categoryName",
+    "source": "Star Shape",
+    "translation": "{JPN}ほしがた{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "cc91acc4826cef82",
+    "species": "SPECIES_CLEFFA",
+    "field": "description",
+    "source": "On nights with many shooting stars,\\nCleffa can be seen dancing in a ring.\\nThey dance until daybreak, when they\\nquench their thirst with the morning dew.",
+    "translation": "{JPN}ながれぼしの おおい よるは わに なって\\nおどる ピィの すがたを みることが できる。\\nひのでまで おどり あさつゆで\\nのどを うるおす。{ENG}",
+    "lines": 4,
+    "max_8px_width": 184
+  },
+  {
+    "id": "b45fb8298562fa31",
+    "species": "SPECIES_CLEFAIRY",
+    "field": "categoryName",
+    "source": "Fairy",
+    "translation": "{JPN}ようせい{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "7528982fc1b7328f",
+    "species": "SPECIES_CLEFAIRY",
+    "field": "description",
+    "source": "On every night of a full moon, they come\\nout to play. When dawn arrives, the tired\\nClefairy go to sleep nestled up against\\neach other in deep and quiet mountains.",
+    "translation": "{JPN}まんげつの よるは げんき いっぱいに あそぶ。\\nあけがた つかれた ピッピたちは しずかな\\nやまおくで なかまたちと よりそって ねむる。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "5bf60ba36be83fad",
+    "species": "SPECIES_CLEFABLE",
+    "field": "categoryName",
+    "source": "Fairy",
+    "translation": "{JPN}ようせい{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "d6c467e9d2687b8a",
+    "species": "SPECIES_CLEFABLE",
+    "field": "description",
+    "source": "A Clefable uses its wings to skip lightly \\nas if it were flying. Its bouncy step\\nlets it even walk on water. On quiet,\\nmoonlit nights, it strolls on lakes.",
+    "translation": "{JPN}つばさを つかって とぶように スキップ。\\nすいめんを あるく ことだって できるのだ。\\nしずかな つきよに みずうみを あるく。{ENG}",
+    "lines": 3,
+    "max_8px_width": 176
+  },
+  {
+    "id": "792381b6832ff5c3",
+    "species": "SPECIES_VULPIX",
+    "field": "categoryName",
+    "source": "Fox",
+    "translation": "{JPN}きつね{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "bde432c529ff8225",
+    "species": "SPECIES_VULPIX",
+    "field": "description",
+    "source": "It can freely control fire, making fiery\\norbs fly like will-o'-the-wisps. Just\\nbefore evolution, its six tails grow hot \\nas if on fire.",
+    "translation": "{JPN}ほのおを あやつり ひとだまの ように とばす。\\nしんかする ちょくぜんに なると 6ぽんの\\nしっぽが もえたように ねつを おびる。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "8b8f68969b982fc7",
+    "species": "SPECIES_NINETALES",
+    "field": "categoryName",
+    "source": "Fox",
+    "translation": "{JPN}きつね{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "e062632cb74f106c",
+    "species": "SPECIES_NINETALES",
+    "field": "description",
+    "source": "It has long been said that each of the\\nnine tails embody an enchanted power.\\nA long-lived Ninetales will have fur that\\nshines like gold.",
+    "translation": "{JPN}9ほんの しっぽには それぞれ ふしぎな\\nちからが やどっていると いいつたえられる。\\nながいきの キュウコンは たいもうが きんいろ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "a307505db00a1894",
+    "species": "SPECIES_IGGLYBUFF",
+    "field": "categoryName",
+    "source": "Balloon",
+    "translation": "{JPN}ふうせん{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "27be2ddb1d98e0ec",
+    "species": "SPECIES_IGGLYBUFF",
+    "field": "description",
+    "source": "Its soft and pliable body is very bouncy.\\nWhen it sings continuously with all its\\nmight, its body steadily turns a deepening\\npink color.",
+    "translation": "{JPN}やわらかい からだは とても よく はずむ。\\nいっしょうけんめい うたいつづけると\\nぜんしんが こい ピンクいろに そまっていく。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "dc0d9375549d536d",
+    "species": "SPECIES_JIGGLYPUFF",
+    "field": "categoryName",
+    "source": "Balloon",
+    "translation": "{JPN}ふうせん{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "1d10a0ba3e24c9ff",
+    "species": "SPECIES_JIGGLYPUFF",
+    "field": "description",
+    "source": "Nothing can avoid falling asleep hearing a\\nJigglypuff's song. The sound waves of its\\nsinging voice match the brain waves of\\nsomeone in a deep sleep.",
+    "translation": "{JPN}プリンの うたで ねむらない ものは いない。\\nうたごえの おとの なみは じゅくすいしている\\nときの のうはと おなじ かたちを している。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "d2d7e733658bbdd4",
+    "species": "SPECIES_WIGGLYTUFF",
+    "field": "categoryName",
+    "source": "Balloon",
+    "translation": "{JPN}ふうせん{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "23349f0e4c341fb7",
+    "species": "SPECIES_WIGGLYTUFF",
+    "field": "description",
+    "source": "Its fur is the ultimate in luxuriousness.\\nSleeping alongside a Wigglytuff is simply\\ndivine. Its body expands seemingly without\\nend when it inhales.",
+    "translation": "{JPN}ごくじょうの けなみを もつ ポケモン。\\nプクリンと そいねすると さいこうの ねごこち。\\nいきを すうと からだが どんどん ふくらむ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "c70654073a93f544",
+    "species": "SPECIES_ZUBAT",
+    "field": "categoryName",
+    "source": "Bat",
+    "translation": "{JPN}こうもり{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "5274fed4a773be4f",
+    "species": "SPECIES_ZUBAT",
+    "field": "description",
+    "source": "While living in pitch-black caverns, their\\neyes gradually grew shut and deprived\\nthem of vision. They use ultrasonic waves\\nto detect obstacles.",
+    "translation": "{JPN}まっくらな どうくつで せいかつしている うちに\\nりょうめが ふさがり みえなくなってしまった。\\nちょうおんぱで しょうがいぶつを たんちする。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "7b5cd750d06bc71d",
+    "species": "SPECIES_GOLBAT",
+    "field": "categoryName",
+    "source": "Bat",
+    "translation": "{JPN}こうもり{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "7d395fdeba90878b",
+    "species": "SPECIES_GOLBAT",
+    "field": "description",
+    "source": "Its fangs easily puncture even thick\\nanimal hide. It loves to feast on the blood\\nof people and Pokémon. It flits about in\\ndarkness and strikes from behind.",
+    "translation": "{JPN}かたい ひふでも らくらく つらぬく キバ。\\nひとや ポケモンの けつえきが だいこうぶつ。\\nくらやみを とびまわり はいごから おそう。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "d1d26b7518af95c8",
+    "species": "SPECIES_CROBAT",
+    "field": "categoryName",
+    "source": "Bat",
+    "translation": "{JPN}こうもり{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "ad97278bfe604f33",
+    "species": "SPECIES_CROBAT",
+    "field": "description",
+    "source": "Over the course of evolution, its hind legs\\nturned into wings. By alternately resting\\nits front and rear wings, it can fly all day\\nwithout having to stop.",
+    "translation": "{JPN}しんかで うしろあしが ハネに かわった。\\nまえと うしろの ハネを こうごに やすめ\\nとまらずに 1にちじゅう とべる。{ENG}",
+    "lines": 3,
+    "max_8px_width": 168
+  },
+  {
+    "id": "7ee32edca480e3fc",
+    "species": "SPECIES_ODDISH",
+    "field": "categoryName",
+    "source": "Weed",
+    "translation": "{JPN}ざっそう{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "0dc2b083281f3048",
+    "species": "SPECIES_ODDISH",
+    "field": "description",
+    "source": "This Pokémon grows by absorbing moonlight.\\nDuring the daytime, it buries itself in the\\nground, leaving only its leaves exposed to\\navoid detection by its enemies.",
+    "translation": "{JPN}つきあかりを あびて せいちょうする ポケモン。\\nひるまは はっぱだけを だして じめんに\\nうまっているので てきから みつかりにくいのだ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "71123f4ac6dc70b2",
+    "species": "SPECIES_GLOOM",
+    "field": "categoryName",
+    "source": "Weed",
+    "translation": "{JPN}ざっそう{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "fba0093d1e3fcf5e",
+    "species": "SPECIES_GLOOM",
+    "field": "description",
+    "source": "A horribly noxious honey drools from its\\nmouth. One whiff of the honey can result\\nin memory loss. Some fans are said to\\nenjoy this overwhelming stink, however.",
+    "translation": "{JPN}くちから たれる ひどく くさい みつは\\nひとかぎで きおくを うばうことが ある。\\nだが この においを このむ マニアも\\nいると いわれている。{ENG}",
+    "lines": 4,
+    "max_8px_width": 168
+  },
+  {
+    "id": "1435c3bfd19462d8",
+    "species": "SPECIES_VILEPLUME",
+    "field": "categoryName",
+    "source": "Flower",
+    "translation": "{JPN}フラワー{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "37248b8b01a5f70c",
+    "species": "SPECIES_VILEPLUME",
+    "field": "description",
+    "source": "In seasons when it produces more pollen,\\nthe air around a Vileplume turns yellow\\nwith the powder as it walks. The pollen is\\nhighly toxic and causes paralysis.",
+    "translation": "{JPN}かふんの ふえる きせつは ラフレシアが\\nあるくと まわりの くうきが きいろく なる。\\nかふんは からだを しびれさせる もうどく。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "25f3447b4e940014",
+    "species": "SPECIES_BELLOSSOM",
+    "field": "categoryName",
+    "source": "Flower",
+    "translation": "{JPN}フラワー{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "6b472e4df0fdf171",
+    "species": "SPECIES_BELLOSSOM",
+    "field": "description",
+    "source": "Its flower petals deepen in color through\\nexposure to sunlight. When cloudy weather\\npersists, it does a dance that is thought\\nto be a ritual for summoning the sun.",
+    "translation": "{JPN}たいようを あびて はなびらが いろづく。\\nくもりが つづいた ときに おどる ダンスは\\nたいようを よぶ ぎしきと かんがえられている。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "3c8410fe98bd1b39",
+    "species": "SPECIES_PARAS",
+    "field": "categoryName",
+    "source": "Mushroom",
+    "translation": "{JPN}きのこ{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "d77b7bee2a077b4b",
+    "species": "SPECIES_PARAS",
+    "field": "description",
+    "source": "A Paras has parasitic tochukaso\\nmushrooms growing on its back. They grow\\nby drawing nutrients from the host. They\\nare valued as a medicine for long life.",
+    "translation": "{JPN}パラスから ようぶんを すいとって おおきくなる\\nキノコは とうちゅうかそう と よばれている。\\nちょうじゅの くすりになる きちょうな キノコ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "938ec2a9c250bdb7",
+    "species": "SPECIES_PARASECT",
+    "field": "categoryName",
+    "source": "Mushroom",
+    "translation": "{JPN}きのこ{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "8af491e96803e247",
+    "species": "SPECIES_PARASECT",
+    "field": "description",
+    "source": "Parasect are known to infest the roots of\\nlarge trees en masse and drain nutrients.\\nWhen an infested tree dies, they move\\nonto another tree all at once.",
+    "translation": "{JPN}パラセクトは しゅうだんで たいぼくの ねもとに\\nくっついて えいようを すいとってしまう。\\nかれると いっせいに べつの きに いどうする。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "4387d1d4e0ef70a3",
+    "species": "SPECIES_VENONAT",
+    "field": "categoryName",
+    "source": "Insect",
+    "translation": "{JPN}こんちゅう{ENG}",
+    "lines": 1,
+    "max_8px_width": 40
+  },
+  {
+    "id": "65d72f18fd3c17bd",
+    "species": "SPECIES_VENONAT",
+    "field": "description",
+    "source": "Its coat of thin, stiff hair that covers\\nits entire body is said to have evolved\\nfor protection. Its large eyes never fail\\nto spot even miniscule prey.",
+    "translation": "{JPN}みを まもるために ほそく かたい たいもうが\\nぜんしんを おおうように なったと いわれる。\\nちいさな えものも みのがさない めを もつ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "67b19baee9bdabe7",
+    "species": "SPECIES_VENOMOTH",
+    "field": "categoryName",
+    "source": "Poison Moth",
+    "translation": "{JPN}どくが{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "92543e4a52dc423f",
+    "species": "SPECIES_VENOMOTH",
+    "field": "description",
+    "source": "Venomoth are nocturnal--they are only\\nactive at night. Their favorite prey are\\ninsects that gather around streetlights,\\nattracted by the light in the darkness.",
+    "translation": "{JPN}やこうせいで よるに かつどうを はじめる。\\nがいとうの あかりに さそわれ あつまった\\nちいさな むしを このんで たべる。{ENG}",
+    "lines": 3,
+    "max_8px_width": 176
+  },
+  {
+    "id": "d51ead007c75dcd1",
+    "species": "SPECIES_DIGLETT",
+    "field": "categoryName",
+    "source": "Mole",
+    "translation": "{JPN}もぐら{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "ba29aa877715fca8",
+    "species": "SPECIES_DIGLETT",
+    "field": "description",
+    "source": "Diglett are raised in most farms.\\nThe reason is simple--wherever they\\nburrow, the soil is left perfectly tilled\\nfor growing delicious crops.",
+    "translation": "{JPN}ほとんどの のうかは ディグダを そだてている。\\nディグダが あなを ほった とちは ほどよく\\nたがやされ おいしい やさいが つくれるからだ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "0ca9bf0598b473dc",
+    "species": "SPECIES_DUGTRIO",
+    "field": "categoryName",
+    "source": "Mole",
+    "translation": "{JPN}もぐら{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "4ea42a398fa9f18e",
+    "species": "SPECIES_DUGTRIO",
+    "field": "description",
+    "source": "Because the triplets originally split from\\none body, they think exactly alike.\\nThey work cooperatively to burrow\\nendlessly through the ground.",
+    "translation": "{JPN}もともと ひとつの からだから 3つごに\\nなったので みんな かんがえることは おなじ。\\nちからを あわせ どこまでも ほりすすむ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "db9f82d5ebef35c0",
+    "species": "SPECIES_MEOWTH",
+    "field": "categoryName",
+    "source": "Scratch Cat",
+    "translation": "{JPN}ばけねこ{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "9e2bf2307f06f072",
+    "species": "SPECIES_MEOWTH",
+    "field": "description",
+    "source": "Meowth withdraw their sharp claws into\\ntheir paws to silently sneak about.\\nFor some reason, this Pokémon loves\\nshiny coins that glitter with light.",
+    "translation": "{JPN}するどい ツメを ひっこめて ぬきあし さしあし\\nあしおとを たてずに あるくことが できる。\\nキラキラ ひかる コインが なぜか だいすきだ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "7a1e78c14c73d079",
+    "species": "SPECIES_PERSIAN",
+    "field": "categoryName",
+    "source": "Classy Cat",
+    "translation": "{JPN}シャムネコ{ENG}",
+    "lines": 1,
+    "max_8px_width": 40
+  },
+  {
+    "id": "ba141bf800f0e1a5",
+    "species": "SPECIES_PERSIAN",
+    "field": "description",
+    "source": "A Persian's six bold whiskers sense air\\nmovements to determine what is in its\\nvicinity. It becomes docile if grabbed\\nby the whiskers.",
+    "translation": "{JPN}たくましい 6ぽんの ヒゲは くうきの うごきで\\nまわりの ようすを キャッチする やくわり。\\nヒゲを つかまれると おとなしくなって しまう。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "46abbaf8c513045b",
+    "species": "SPECIES_PERRSERKER",
+    "field": "categoryName",
+    "source": "Viking",
+    "translation": "{JPN}バイキング{ENG}",
+    "lines": 1,
+    "max_8px_width": 40
+  },
+  {
+    "id": "3f76bc4c065a4206",
+    "species": "SPECIES_PERRSERKER",
+    "field": "description",
+    "source": "What appears to be an iron helmet is\\nactually hardened hair. This Pokémon\\nlives for the thrill of battle.",
+    "translation": "{JPN}てつの ヘルメットに みえる ものは\\nじつは かたまった けだ。\\nたたかいの スリルに いきる ポケモン。{ENG}",
+    "lines": 3,
+    "max_8px_width": 160
+  },
+  {
+    "id": "77d79c3fd302b79b",
+    "species": "SPECIES_PSYDUCK",
+    "field": "categoryName",
+    "source": "Duck",
+    "translation": "{JPN}あひる{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "1f643dbece8402a3",
+    "species": "SPECIES_PSYDUCK",
+    "field": "description",
+    "source": "When its headache intensifies, it starts\\nusing strange powers. However, it has no\\nrecollection of its powers, so it always\\nlooks befuddled and bewildered.",
+    "translation": "{JPN}ずつうが はげしくなると ふしぎな ちからを\\nつかいだすが そのときの きおくは のこらない。\\nおもいだせないので くびを かしげているのだ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "1af285e006b77b15",
+    "species": "SPECIES_GOLDUCK",
+    "field": "categoryName",
+    "source": "Duck",
+    "translation": "{JPN}あひる{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "4660ff575bf2bbb2",
+    "species": "SPECIES_GOLDUCK",
+    "field": "description",
+    "source": "A Golduck is an adept swimmer.\\nIt sometimes joins competitive swimmers\\nin training. It uses psychic powers when\\nits forehead shimmers with light.",
+    "translation": "{JPN}およぎが とくいな ゴルダックは すいえい\\nせんしゅの とっくんに つきあう ことも ある。\\nひたいが かがやくとき じんつうりきを つかう。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "714aaa09e42956ef",
+    "species": "SPECIES_MANKEY",
+    "field": "categoryName",
+    "source": "Pig Monkey",
+    "translation": "{JPN}ぶたざる{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "2095cbf552cf4c27",
+    "species": "SPECIES_MANKEY",
+    "field": "description",
+    "source": "When it starts shaking and its nasal\\nbreathing turns rough, it's a sure sign\\nof anger. However, since this happens\\ninstantly, there is no time to flee.",
+    "translation": "{JPN}からだが ふるえ はないきが あらくなれば\\nおこりだす まえぶれ なのだが あっというまに\\nはげしく おこるので にげだす ひまは ない。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "be4e6834661412e4",
+    "species": "SPECIES_PRIMEAPE",
+    "field": "categoryName",
+    "source": "Pig Monkey",
+    "translation": "{JPN}ぶたざる{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "6a44c3dee4be1de8",
+    "species": "SPECIES_PRIMEAPE",
+    "field": "description",
+    "source": "When it becomes furious, its blood\\ncirculation becomes more robust, and\\nits muscles are made stronger. But it\\nalso becomes much less intelligent.",
+    "translation": "{JPN}はげしく おこる ことで けっこうが よくなり\\nきんにくの ちからを つよくするのだ。\\nただし あたまの かいてんは おそくなるぞ。{ENG}",
+    "lines": 3,
+    "max_8px_width": 184
+  },
+  {
+    "id": "3e0905f0f3bd32f5",
+    "species": "SPECIES_ANNIHILAPE",
+    "field": "categoryName",
+    "source": "Rage Monkey",
+    "translation": "{JPN}ふんどざる{ENG}",
+    "lines": 1,
+    "max_8px_width": 40
+  },
+  {
+    "id": "8e4b877b52d1bfa9",
+    "species": "SPECIES_ANNIHILAPE",
+    "field": "description",
+    "source": "When its anger rose beyond a\\ncritical point, this Pokémon gained power\\nthat is unfettered by the limits of\\nits physical body.",
+    "translation": "{JPN}いかりのボルテージが りんかいてんを こえたとき\\nにくたいという わくに しばられない\\nパワーを てにいれた。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "0d588dd05e71587c",
+    "species": "SPECIES_PIKACHU",
+    "field": "categoryName",
+    "source": "Mouse",
+    "translation": "{JPN}ねずみ{ENG}",
+    "lines": 1,
+    "max_8px_width": 24
+  },
+  {
+    "id": "e28767b8352f486e",
+    "species": "SPECIES_NIDORAN_F",
+    "field": "categoryName",
+    "source": "Poison Pin",
+    "translation": "{JPN}どくばり{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "a1bd471d7a917ffc",
+    "species": "SPECIES_NIDORAN_F",
+    "field": "description",
+    "source": "Its highly toxic barbs are thought to have\\ndeveloped as protection for this small-\\nbodied Pokémon. When enraged, it releases\\na horrible toxin from its horn.",
+    "translation": "{JPN}ちいさい からだを まもるため きょうりょくな\\nどくばりが はったつしたと かんがえられている。\\nおこると ツノの さきから もうどくを だす。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "1836b32bb51ca5b8",
+    "species": "SPECIES_NIDORAN_M",
+    "field": "categoryName",
+    "source": "Poison Pin",
+    "translation": "{JPN}どくばり{ENG}",
+    "lines": 1,
+    "max_8px_width": 32
+  },
+  {
+    "id": "2815dbd4e13c07b9",
+    "species": "SPECIES_NIDORAN_M",
+    "field": "description",
+    "source": "The male Nidoran has developed muscles\\nthat freely move its ears in any direction.\\nEven the slightest sound does not escape\\nthis Pokémon's notice.",
+    "translation": "{JPN}みみを うごかす きんにくが はったつしていて\\nどんな むきにも じざいに みみを うごかせる。\\nかすかな ものおとも ききもらさない ポケモン。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192
+  },
+  {
+    "id": "084ad3d547a3c92e",
+    "species": "SPECIES_PIKACHU",
+    "field": "description",
+    "source": "It stores electricity in the electric sacs\\non its cheeks. When it releases pent-up\\nenergy in a burst, the electric power is\\nequal to a lightning bolt.",
+    "translation": "{JPN}ほっぺたの でんきぶくろに でんきを ためる。\\nおもいっきり ほうでんすると かみなりに\\nひってきする でんきを はなつ ことが できる。{ENG}",
+    "lines": 3,
+    "max_8px_width": 192,
+    "shared_symbol": "gPikachuPokedexText"
+  }
+]

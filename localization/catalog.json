@@ -119162,9 +119162,15 @@
     "end": 110230,
     "raw": "\"Mouse\"",
     "source": "Mouse",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ねずみ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIKACHU.categoryName[0]"
   },
   {
     "id": "d30191bff884307c",
@@ -120252,9 +120258,15 @@
     "end": 168911,
     "raw": "\"Poison Pin\"",
     "source": "Poison Pin",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どくばり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_F.categoryName[0]"
   },
   {
     "id": "a1bd471d7a917ffc",
@@ -120264,9 +120276,15 @@
     "end": 169215,
     "raw": "\"Its highly toxic barbs are thought to have\\n\"\n            \"developed as protection for this small-\\n\"\n            \"bodied Pokémon. When enraged, it releases\\n\"\n            \"a horrible toxin from its horn.\"",
     "source": "Its highly toxic barbs are thought to have\\ndeveloped as protection for this small-\\nbodied Pokémon. When enraged, it releases\\na horrible toxin from its horn.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ちいさい からだを まもるため きょうりょくな\\nどくばりが はったつしたと かんがえられている。\\nおこると ツノの さきから もうどくを だす。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_F.description[0]"
   },
   {
     "id": "b68b740623d7f444",
@@ -120414,9 +120432,15 @@
     "end": 177630,
     "raw": "\"Poison Pin\"",
     "source": "Poison Pin",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どくばり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_M.categoryName[0]"
   },
   {
     "id": "2815dbd4e13c07b9",
@@ -120426,9 +120450,15 @@
     "end": 177924,
     "raw": "\"The male Nidoran has developed muscles\\n\"\n            \"that freely move its ears in any direction.\\n\"\n            \"Even the slightest sound does not escape\\n\"\n            \"this Pokémon's notice.\"",
     "source": "The male Nidoran has developed muscles\\nthat freely move its ears in any direction.\\nEven the slightest sound does not escape\\nthis Pokémon's notice.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}みみを うごかす きんにくが はったつしていて\\nどんな むきにも じざいに みみを うごかせる。\\nかすかな ものおとも ききもらさない ポケモン。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORAN_M.description[0]"
   },
   {
     "id": "f79fb44a88660a48",
@@ -120518,9 +120548,15 @@
     "end": 183444,
     "raw": "\"Drill\"",
     "source": "Drill",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ドリル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDOKING.categoryName[0]"
   },
   {
     "id": "6c0d0ea9616e77c8",
@@ -120530,9 +120566,15 @@
     "end": 183752,
     "raw": "\"A Nidoking's thick tail packs enormously\\n\"\n            \"destructive power capable of toppling\\n\"\n            \"a metal transmission tower. Once it goes\\n\"\n            \"on a rampage, there is no stopping it.\"",
     "source": "A Nidoking's thick tail packs enormously\\ndestructive power capable of toppling\\na metal transmission tower. Once it goes\\non a rampage, there is no stopping it.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふとい しっぽの ひとふりは てつの\\nそうでんとうも たおすほどの はかいりょく。\\nいちど あばれだすと てが つけられない。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDOKING.description[0]"
   },
   {
     "id": "283e4b9f66126be6",
@@ -120564,9 +120606,15 @@
     "end": 186384,
     "raw": "\"Star Shape\"",
     "source": "Star Shape",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ほしがた{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFFA.categoryName[0]"
   },
   {
     "id": "cc91acc4826cef82",
@@ -120576,9 +120624,15 @@
     "end": 186684,
     "raw": "\"On nights with many shooting stars,\\n\"\n            \"Cleffa can be seen dancing in a ring.\\n\"\n            \"They dance until daybreak, when they\\n\"\n            \"quench their thirst with the morning dew.\"",
     "source": "On nights with many shooting stars,\\nCleffa can be seen dancing in a ring.\\nThey dance until daybreak, when they\\nquench their thirst with the morning dew.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ながれぼしの おおい よるは わに なって\\nおどる ピィの すがたを みることが できる。\\nひのでまで おどり あさつゆで\\nのどを うるおす。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFFA.description[0]"
   },
   {
     "id": "94fcc13b29451dd8",
@@ -120610,9 +120664,15 @@
     "end": 189263,
     "raw": "\"Fairy\"",
     "source": "Fairy",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ようせい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFAIRY.categoryName[0]"
   },
   {
     "id": "7528982fc1b7328f",
@@ -120622,9 +120682,15 @@
     "end": 189573,
     "raw": "\"On every night of a full moon, they come\\n\"\n            \"out to play. When dawn arrives, the tired\\n\"\n            \"Clefairy go to sleep nestled up against\\n\"\n            \"each other in deep and quiet mountains.\"",
     "source": "On every night of a full moon, they come\\nout to play. When dawn arrives, the tired\\nClefairy go to sleep nestled up against\\neach other in deep and quiet mountains.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まんげつの よるは げんき いっぱいに あそぶ。\\nあけがた つかれた ピッピたちは しずかな\\nやまおくで なかまたちと よりそって ねむる。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFAIRY.description[0]"
   },
   {
     "id": "480642fc80b6cae5",
@@ -120656,9 +120722,15 @@
     "end": 192268,
     "raw": "\"Fairy\"",
     "source": "Fairy",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ようせい{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFABLE.categoryName[0]"
   },
   {
     "id": "d6c467e9d2687b8a",
@@ -120668,9 +120740,15 @@
     "end": 192573,
     "raw": "\"A Clefable uses its wings to skip lightly \\n\"\n            \"as if it were flying. Its bouncy step\\n\"\n            \"lets it even walk on water. On quiet,\\n\"\n            \"moonlit nights, it strolls on lakes.\"",
     "source": "A Clefable uses its wings to skip lightly \\nas if it were flying. Its bouncy step\\nlets it even walk on water. On quiet,\\nmoonlit nights, it strolls on lakes.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}つばさを つかって とぶように スキップ。\\nすいめんを あるく ことだって できるのだ。\\nしずかな つきよに みずうみを あるく。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CLEFABLE.description[0]"
   },
   {
     "id": "188dd03405c7c875",
@@ -120748,9 +120826,15 @@
     "end": 197296,
     "raw": "\"Fox\"",
     "source": "Fox",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きつね{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VULPIX.categoryName[0]"
   },
   {
     "id": "bde432c529ff8225",
@@ -120760,9 +120844,15 @@
     "end": 197579,
     "raw": "\"It can freely control fire, making fiery\\n\"\n            \"orbs fly like will-o'-the-wisps. Just\\n\"\n            \"before evolution, its six tails grow hot \\n\"\n            \"as if on fire.\"",
     "source": "It can freely control fire, making fiery\\norbs fly like will-o'-the-wisps. Just\\nbefore evolution, its six tails grow hot \\nas if on fire.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ほのおを あやつり ひとだまの ように とばす。\\nしんかする ちょくぜんに なると 6ぽんの\\nしっぽが もえたように ねつを おびる。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VULPIX.description[0]"
   },
   {
     "id": "bd100960e9daf8fa",
@@ -120794,9 +120884,15 @@
     "end": 200165,
     "raw": "\"Fox\"",
     "source": "Fox",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きつね{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NINETALES.categoryName[0]"
   },
   {
     "id": "e062632cb74f106c",
@@ -120806,9 +120902,15 @@
     "end": 200451,
     "raw": "\"It has long been said that each of the\\n\"\n            \"nine tails embody an enchanted power.\\n\"\n            \"A long-lived Ninetales will have fur that\\n\"\n            \"shines like gold.\"",
     "source": "It has long been said that each of the\\nnine tails embody an enchanted power.\\nA long-lived Ninetales will have fur that\\nshines like gold.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}9ほんの しっぽには それぞれ ふしぎな\\nちからが やどっていると いいつたえられる。\\nながいきの キュウコンは たいもうが きんいろ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NINETALES.description[0]"
   },
   {
     "id": "db7bd348d6ceca47",
@@ -120932,9 +121034,15 @@
     "end": 208295,
     "raw": "\"Balloon\"",
     "source": "Balloon",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふうせん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_IGGLYBUFF.categoryName[0]"
   },
   {
     "id": "27be2ddb1d98e0ec",
@@ -120944,9 +121052,15 @@
     "end": 208579,
     "raw": "\"Its soft and pliable body is very bouncy.\\n\"\n            \"When it sings continuously with all its\\n\"\n            \"might, its body steadily turns a deepening\\n\"\n            \"pink color.\"",
     "source": "Its soft and pliable body is very bouncy.\\nWhen it sings continuously with all its\\nmight, its body steadily turns a deepening\\npink color.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やわらかい からだは とても よく はずむ。\\nいっしょうけんめい うたいつづけると\\nぜんしんが こい ピンクいろに そまっていく。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_IGGLYBUFF.description[0]"
   },
   {
     "id": "4aa1f899067380dd",
@@ -120978,9 +121092,15 @@
     "end": 211313,
     "raw": "\"Balloon\"",
     "source": "Balloon",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふうせん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_JIGGLYPUFF.categoryName[0]"
   },
   {
     "id": "1d10a0ba3e24c9ff",
@@ -120990,9 +121110,15 @@
     "end": 211609,
     "raw": "\"Nothing can avoid falling asleep hearing a\\n\"\n            \"Jigglypuff's song. The sound waves of its\\n\"\n            \"singing voice match the brain waves of\\n\"\n            \"someone in a deep sleep.\"",
     "source": "Nothing can avoid falling asleep hearing a\\nJigglypuff's song. The sound waves of its\\nsinging voice match the brain waves of\\nsomeone in a deep sleep.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}プリンの うたで ねむらない ものは いない。\\nうたごえの おとの なみは じゅくすいしている\\nときの のうはと おなじ かたちを している。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_JIGGLYPUFF.description[0]"
   },
   {
     "id": "606c7eae9436f3ea",
@@ -121024,9 +121150,15 @@
     "end": 214611,
     "raw": "\"Balloon\"",
     "source": "Balloon",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふうせん{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WIGGLYTUFF.categoryName[0]"
   },
   {
     "id": "23349f0e4c341fb7",
@@ -121036,9 +121168,15 @@
     "end": 214908,
     "raw": "\"Its fur is the ultimate in luxuriousness.\\n\"\n            \"Sleeping alongside a Wigglytuff is simply\\n\"\n            \"divine. Its body expands seemingly without\\n\"\n            \"end when it inhales.\"",
     "source": "Its fur is the ultimate in luxuriousness.\\nSleeping alongside a Wigglytuff is simply\\ndivine. Its body expands seemingly without\\nend when it inhales.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ごくじょうの けなみを もつ ポケモン。\\nプクリンと そいねすると さいこうの ねごこち。\\nいきを すうと からだが どんどん ふくらむ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WIGGLYTUFF.description[0]"
   },
   {
     "id": "549ca0a8a9bb8371",
@@ -121070,9 +121208,15 @@
     "end": 217311,
     "raw": "\"Bat\"",
     "source": "Bat",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうもり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ZUBAT.categoryName[0]"
   },
   {
     "id": "5274fed4a773be4f",
@@ -121082,9 +121226,15 @@
     "end": 217602,
     "raw": "\"While living in pitch-black caverns, their\\n\"\n            \"eyes gradually grew shut and deprived\\n\"\n            \"them of vision. They use ultrasonic waves\\n\"\n            \"to detect obstacles.\"",
     "source": "While living in pitch-black caverns, their\\neyes gradually grew shut and deprived\\nthem of vision. They use ultrasonic waves\\nto detect obstacles.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}まっくらな どうくつで せいかつしている うちに\\nりょうめが ふさがり みえなくなってしまった。\\nちょうおんぱで しょうがいぶつを たんちする。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ZUBAT.description[0]"
   },
   {
     "id": "ee113550f512ba11",
@@ -121116,9 +121266,15 @@
     "end": 220860,
     "raw": "\"Bat\"",
     "source": "Bat",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうもり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLBAT.categoryName[0]"
   },
   {
     "id": "7d395fdeba90878b",
@@ -121128,9 +121284,15 @@
     "end": 221165,
     "raw": "\"Its fangs easily puncture even thick\\n\"\n            \"animal hide. It loves to feast on the blood\\n\"\n            \"of people and Pokémon. It flits about in\\n\"\n            \"darkness and strikes from behind.\"",
     "source": "Its fangs easily puncture even thick\\nanimal hide. It loves to feast on the blood\\nof people and Pokémon. It flits about in\\ndarkness and strikes from behind.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かたい ひふでも らくらく つらぬく キバ。\\nひとや ポケモンの けつえきが だいこうぶつ。\\nくらやみを とびまわり はいごから おそう。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLBAT.description[0]"
   },
   {
     "id": "7f2418ceea2be15d",
@@ -121162,9 +121324,15 @@
     "end": 224764,
     "raw": "\"Bat\"",
     "source": "Bat",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こうもり{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CROBAT.categoryName[0]"
   },
   {
     "id": "ad97278bfe604f33",
@@ -121174,9 +121342,15 @@
     "end": 225068,
     "raw": "\"Over the course of evolution, its hind legs\\n\"\n            \"turned into wings. By alternately resting\\n\"\n            \"its front and rear wings, it can fly all day\\n\"\n            \"without having to stop.\"",
     "source": "Over the course of evolution, its hind legs\\nturned into wings. By alternately resting\\nits front and rear wings, it can fly all day\\nwithout having to stop.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}しんかで うしろあしが ハネに かわった。\\nまえと うしろの ハネを こうごに やすめ\\nとまらずに 1にちじゅう とべる。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CROBAT.description[0]"
   },
   {
     "id": "795c8bf6f6ce2ace",
@@ -121208,9 +121382,15 @@
     "end": 227964,
     "raw": "\"Weed\"",
     "source": "Weed",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ざっそう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ODDISH.categoryName[0]"
   },
   {
     "id": "0dc2b083281f3048",
@@ -121220,9 +121400,15 @@
     "end": 228273,
     "raw": "\"This Pokémon grows by absorbing moonlight.\\n\"\n            \"During the daytime, it buries itself in the\\n\"\n            \"ground, leaving only its leaves exposed to\\n\"\n            \"avoid detection by its enemies.\"",
     "source": "This Pokémon grows by absorbing moonlight.\\nDuring the daytime, it buries itself in the\\nground, leaving only its leaves exposed to\\navoid detection by its enemies.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}つきあかりを あびて せいちょうする ポケモン。\\nひるまは はっぱだけを だして じめんに\\nうまっているので てきから みつかりにくいのだ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ODDISH.description[0]"
   },
   {
     "id": "cead459c9926fc6a",
@@ -121254,9 +121440,15 @@
     "end": 230895,
     "raw": "\"Weed\"",
     "source": "Weed",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ざっそう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GLOOM.categoryName[0]"
   },
   {
     "id": "fba0093d1e3fcf5e",
@@ -121266,9 +121458,15 @@
     "end": 231202,
     "raw": "\"A horribly noxious honey drools from its\\n\"\n            \"mouth. One whiff of the honey can result\\n\"\n            \"in memory loss. Some fans are said to\\n\"\n            \"enjoy this overwhelming stink, however.\"",
     "source": "A horribly noxious honey drools from its\\nmouth. One whiff of the honey can result\\nin memory loss. Some fans are said to\\nenjoy this overwhelming stink, however.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}くちから たれる ひどく くさい みつは\\nひとかぎで きおくを うばうことが ある。\\nだが この においを このむ マニアも\\nいると いわれている。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GLOOM.description[0]"
   },
   {
     "id": "337ac347c6495334",
@@ -121300,9 +121498,15 @@
     "end": 234520,
     "raw": "\"Flower\"",
     "source": "Flower",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}フラワー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VILEPLUME.categoryName[0]"
   },
   {
     "id": "37248b8b01a5f70c",
@@ -121312,9 +121516,15 @@
     "end": 234828,
     "raw": "\"In seasons when it produces more pollen,\\n\"\n            \"the air around a Vileplume turns yellow\\n\"\n            \"with the powder as it walks. The pollen is\\n\"\n            \"highly toxic and causes paralysis.\"",
     "source": "In seasons when it produces more pollen,\\nthe air around a Vileplume turns yellow\\nwith the powder as it walks. The pollen is\\nhighly toxic and causes paralysis.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}かふんの ふえる きせつは ラフレシアが\\nあるくと まわりの くうきが きいろく なる。\\nかふんは からだを しびれさせる もうどく。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VILEPLUME.description[0]"
   },
   {
     "id": "0ed331f4d52c48d7",
@@ -121346,9 +121556,15 @@
     "end": 237795,
     "raw": "\"Flower\"",
     "source": "Flower",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}フラワー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BELLOSSOM.categoryName[0]"
   },
   {
     "id": "6b472e4df0fdf171",
@@ -121358,9 +121574,15 @@
     "end": 238106,
     "raw": "\"Its flower petals deepen in color through\\n\"\n            \"exposure to sunlight. When cloudy weather\\n\"\n            \"persists, it does a dance that is thought\\n\"\n            \"to be a ritual for summoning the sun.\"",
     "source": "Its flower petals deepen in color through\\nexposure to sunlight. When cloudy weather\\npersists, it does a dance that is thought\\nto be a ritual for summoning the sun.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たいようを あびて はなびらが いろづく。\\nくもりが つづいた ときに おどる ダンスは\\nたいようを よぶ ぎしきと かんがえられている。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BELLOSSOM.description[0]"
   },
   {
     "id": "edcfb9ca6e2a4c4b",
@@ -121392,9 +121614,15 @@
     "end": 241041,
     "raw": "\"Mushroom\"",
     "source": "Mushroom",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きのこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARAS.categoryName[0]"
   },
   {
     "id": "d77b7bee2a077b4b",
@@ -121404,9 +121632,15 @@
     "end": 241342,
     "raw": "\"A Paras has parasitic tochukaso\\n\"\n            \"mushrooms growing on its back. They grow\\n\"\n            \"by drawing nutrients from the host. They\\n\"\n            \"are valued as a medicine for long life.\"",
     "source": "A Paras has parasitic tochukaso\\nmushrooms growing on its back. They grow\\nby drawing nutrients from the host. They\\nare valued as a medicine for long life.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}パラスから ようぶんを すいとって おおきくなる\\nキノコは とうちゅうかそう と よばれている。\\nちょうじゅの くすりになる きちょうな キノコ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARAS.description[0]"
   },
   {
     "id": "5d3e796035baa745",
@@ -121438,9 +121672,15 @@
     "end": 244400,
     "raw": "\"Mushroom\"",
     "source": "Mushroom",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}きのこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARASECT.categoryName[0]"
   },
   {
     "id": "8af491e96803e247",
@@ -121450,9 +121690,15 @@
     "end": 244702,
     "raw": "\"Parasect are known to infest the roots of\\n\"\n            \"large trees en masse and drain nutrients.\\n\"\n            \"When an infested tree dies, they move\\n\"\n            \"onto another tree all at once.\"",
     "source": "Parasect are known to infest the roots of\\nlarge trees en masse and drain nutrients.\\nWhen an infested tree dies, they move\\nonto another tree all at once.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}パラセクトは しゅうだんで たいぼくの ねもとに\\nくっついて えいようを すいとってしまう。\\nかれると いっせいに べつの きに いどうする。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PARASECT.description[0]"
   },
   {
     "id": "1caafe66cf878a1f",
@@ -121484,9 +121730,15 @@
     "end": 247298,
     "raw": "\"Insect\"",
     "source": "Insect",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}こんちゅう{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENONAT.categoryName[0]"
   },
   {
     "id": "65d72f18fd3c17bd",
@@ -121496,9 +121748,15 @@
     "end": 247599,
     "raw": "\"Its coat of thin, stiff hair that covers\\n\"\n            \"its entire body is said to have evolved\\n\"\n            \"for protection. Its large eyes never fail\\n\"\n            \"to spot even miniscule prey.\"",
     "source": "Its coat of thin, stiff hair that covers\\nits entire body is said to have evolved\\nfor protection. Its large eyes never fail\\nto spot even miniscule prey.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}みを まもるために ほそく かたい たいもうが\\nぜんしんを おおうように なったと いわれる。\\nちいさな えものも みのがさない めを もつ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENONAT.description[0]"
   },
   {
     "id": "d549d48f3886161b",
@@ -121530,9 +121788,15 @@
     "end": 250352,
     "raw": "\"Poison Moth\"",
     "source": "Poison Moth",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}どくが{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENOMOTH.categoryName[0]"
   },
   {
     "id": "92543e4a52dc423f",
@@ -121542,9 +121806,15 @@
     "end": 250661,
     "raw": "\"Venomoth are nocturnal--they are only\\n\"\n            \"active at night. Their favorite prey are\\n\"\n            \"insects that gather around streetlights,\\n\"\n            \"attracted by the light in the darkness.\"",
     "source": "Venomoth are nocturnal--they are only\\nactive at night. Their favorite prey are\\ninsects that gather around streetlights,\\nattracted by the light in the darkness.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}やこうせいで よるに かつどうを はじめる。\\nがいとうの あかりに さそわれ あつまった\\nちいさな むしを このんで たべる。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENOMOTH.description[0]"
   },
   {
     "id": "fd34575b4a2a3c96",
@@ -121576,9 +121846,15 @@
     "end": 253682,
     "raw": "\"Mole\"",
     "source": "Mole",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もぐら{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DIGLETT.categoryName[0]"
   },
   {
     "id": "ba29aa877715fca8",
@@ -121588,9 +121864,15 @@
     "end": 253969,
     "raw": "\"Diglett are raised in most farms.\\n\"\n            \"The reason is simple--wherever they\\n\"\n            \"burrow, the soil is left perfectly tilled\\n\"\n            \"for growing delicious crops.\"",
     "source": "Diglett are raised in most farms.\\nThe reason is simple--wherever they\\nburrow, the soil is left perfectly tilled\\nfor growing delicious crops.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ほとんどの のうかは ディグダを そだてている。\\nディグダが あなを ほった とちは ほどよく\\nたがやされ おいしい やさいが つくれるからだ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DIGLETT.description[0]"
   },
   {
     "id": "51e2be479f487d86",
@@ -121622,9 +121904,15 @@
     "end": 256594,
     "raw": "\"Mole\"",
     "source": "Mole",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もぐら{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DUGTRIO.categoryName[0]"
   },
   {
     "id": "4ea42a398fa9f18e",
@@ -121634,9 +121922,15 @@
     "end": 256885,
     "raw": "\"Because the triplets originally split from\\n\"\n            \"one body, they think exactly alike.\\n\"\n            \"They work cooperatively to burrow\\n\"\n            \"endlessly through the ground.\"",
     "source": "Because the triplets originally split from\\none body, they think exactly alike.\\nThey work cooperatively to burrow\\nendlessly through the ground.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}もともと ひとつの からだから 3つごに\\nなったので みんな かんがえることは おなじ。\\nちからを あわせ どこまでも ほりすすむ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_DUGTRIO.description[0]"
   },
   {
     "id": "97b305ce45956188",
@@ -121760,9 +122054,15 @@
     "end": 264754,
     "raw": "\"Scratch Cat\"",
     "source": "Scratch Cat",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ばけねこ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MEOWTH.categoryName[0]"
   },
   {
     "id": "9e2bf2307f06f072",
@@ -121772,9 +122072,15 @@
     "end": 265049,
     "raw": "\"Meowth withdraw their sharp claws into\\n\"\n            \"their paws to silently sneak about.\\n\"\n            \"For some reason, this Pokémon loves\\n\"\n            \"shiny coins that glitter with light.\"",
     "source": "Meowth withdraw their sharp claws into\\ntheir paws to silently sneak about.\\nFor some reason, this Pokémon loves\\nshiny coins that glitter with light.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}するどい ツメを ひっこめて ぬきあし さしあし\\nあしおとを たてずに あるくことが できる。\\nキラキラ ひかる コインが なぜか だいすきだ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MEOWTH.description[0]"
   },
   {
     "id": "5320ed45395fcb3d",
@@ -121806,9 +122112,15 @@
     "end": 267805,
     "raw": "\"Classy Cat\"",
     "source": "Classy Cat",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}シャムネコ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERSIAN.categoryName[0]"
   },
   {
     "id": "ba141bf800f0e1a5",
@@ -121818,9 +122130,15 @@
     "end": 268088,
     "raw": "\"A Persian's six bold whiskers sense air\\n\"\n            \"movements to determine what is in its\\n\"\n            \"vicinity. It becomes docile if grabbed\\n\"\n            \"by the whiskers.\"",
     "source": "A Persian's six bold whiskers sense air\\nmovements to determine what is in its\\nvicinity. It becomes docile if grabbed\\nby the whiskers.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}たくましい 6ぽんの ヒゲは くうきの うごきで\\nまわりの ようすを キャッチする やくわり。\\nヒゲを つかまれると おとなしくなって しまう。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERSIAN.description[0]"
   },
   {
     "id": "b472b02ba091662e",
@@ -121990,9 +122308,15 @@
     "end": 277883,
     "raw": "\"Viking\"",
     "source": "Viking",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バイキング{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERRSERKER.categoryName[0]"
   },
   {
     "id": "3f76bc4c065a4206",
@@ -122002,9 +122326,15 @@
     "end": 278121,
     "raw": "\"What appears to be an iron helmet is\\n\"\n            \"actually hardened hair. This Pokémon\\n\"\n            \"lives for the thrill of battle.\"",
     "source": "What appears to be an iron helmet is\\nactually hardened hair. This Pokémon\\nlives for the thrill of battle.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}てつの ヘルメットに みえる ものは\\nじつは かたまった けだ。\\nたたかいの スリルに いきる ポケモン。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PERRSERKER.description[0]"
   },
   {
     "id": "bf40e31f12047c20",
@@ -122082,9 +122412,15 @@
     "end": 282513,
     "raw": "\"Duck\"",
     "source": "Duck",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あひる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PSYDUCK.categoryName[0]"
   },
   {
     "id": "1f643dbece8402a3",
@@ -122094,9 +122430,15 @@
     "end": 282816,
     "raw": "\"When its headache intensifies, it starts\\n\"\n            \"using strange powers. However, it has no\\n\"\n            \"recollection of its powers, so it always\\n\"\n            \"looks befuddled and bewildered.\"",
     "source": "When its headache intensifies, it starts\\nusing strange powers. However, it has no\\nrecollection of its powers, so it always\\nlooks befuddled and bewildered.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ずつうが はげしくなると ふしぎな ちからを\\nつかいだすが そのときの きおくは のこらない。\\nおもいだせないので くびを かしげているのだ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PSYDUCK.description[0]"
   },
   {
     "id": "fa1833d1026ac2b0",
@@ -122128,9 +122470,15 @@
     "end": 285229,
     "raw": "\"Duck\"",
     "source": "Duck",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}あひる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLDUCK.categoryName[0]"
   },
   {
     "id": "4660ff575bf2bbb2",
@@ -122140,9 +122488,15 @@
     "end": 285524,
     "raw": "\"A Golduck is an adept swimmer.\\n\"\n            \"It sometimes joins competitive swimmers\\n\"\n            \"in training. It uses psychic powers when\\n\"\n            \"its forehead shimmers with light.\"",
     "source": "A Golduck is an adept swimmer.\\nIt sometimes joins competitive swimmers\\nin training. It uses psychic powers when\\nits forehead shimmers with light.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}およぎが とくいな ゴルダックは すいえい\\nせんしゅの とっくんに つきあう ことも ある。\\nひたいが かがやくとき じんつうりきを つかう。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_GOLDUCK.description[0]"
   },
   {
     "id": "8cebeaae7c1543e2",
@@ -122174,9 +122528,15 @@
     "end": 288081,
     "raw": "\"Pig Monkey\"",
     "source": "Pig Monkey",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ぶたざる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MANKEY.categoryName[0]"
   },
   {
     "id": "2095cbf552cf4c27",
@@ -122186,9 +122546,15 @@
     "end": 288381,
     "raw": "\"When it starts shaking and its nasal\\n\"\n            \"breathing turns rough, it's a sure sign\\n\"\n            \"of anger. However, since this happens\\n\"\n            \"instantly, there is no time to flee.\"",
     "source": "When it starts shaking and its nasal\\nbreathing turns rough, it's a sure sign\\nof anger. However, since this happens\\ninstantly, there is no time to flee.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}からだが ふるえ はないきが あらくなれば\\nおこりだす まえぶれ なのだが あっというまに\\nはげしく おこるので にげだす ひまは ない。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_MANKEY.description[0]"
   },
   {
     "id": "40e8ba8932c3867a",
@@ -122220,9 +122586,15 @@
     "end": 291070,
     "raw": "\"Pig Monkey\"",
     "source": "Pig Monkey",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ぶたざる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PRIMEAPE.categoryName[0]"
   },
   {
     "id": "6a44c3dee4be1de8",
@@ -122232,9 +122604,15 @@
     "end": 291365,
     "raw": "\"When it becomes furious, its blood\\n\"\n            \"circulation becomes more robust, and\\n\"\n            \"its muscles are made stronger. But it\\n\"\n            \"also becomes much less intelligent.\"",
     "source": "When it becomes furious, its blood\\ncirculation becomes more robust, and\\nits muscles are made stronger. But it\\nalso becomes much less intelligent.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}はげしく おこる ことで けっこうが よくなり\\nきんにくの ちからを つよくするのだ。\\nただし あたまの かいてんは おそくなるぞ。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PRIMEAPE.description[0]"
   },
   {
     "id": "f642db924f911f4a",
@@ -122266,9 +122644,15 @@
     "end": 294027,
     "raw": "\"Rage Monkey\"",
     "source": "Rage Monkey",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ふんどざる{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ANNIHILAPE.categoryName[0]"
   },
   {
     "id": "8e4b877b52d1bfa9",
@@ -122278,9 +122662,15 @@
     "end": 294302,
     "raw": "\"When its anger rose beyond a\\n\"\n            \"critical point, this Pokémon gained power\\n\"\n            \"that is unfettered by the limits of\\n\"\n            \"its physical body.\"",
     "source": "When its anger rose beyond a\\ncritical point, this Pokémon gained power\\nthat is unfettered by the limits of\\nits physical body.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}いかりのボルテージが りんかいてんを こえたとき\\nにくたいという わくに しばられない\\nパワーを てにいれた。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ANNIHILAPE.description[0]"
   },
   {
     "id": "86e75779825985a5",
@@ -178931,9 +179321,15 @@
     "end": 862,
     "raw": "\"It stores electricity in the electric sacs\\n\"\n    \"on its cheeks. When it releases pent-up\\n\"\n    \"energy in a burst, the electric power is\\n\"\n    \"equal to a lightning bolt.\"",
     "source": "It stores electricity in the electric sacs\\non its cheeks. When it releases pent-up\\nenergy in a burst, the electric power is\\nequal to a lightning bolt.",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ほっぺたの でんきぶくろに でんきを ためる。\\nおもいっきり ほうでんすると かみなりに\\nひってきする でんきを はなつ ことが できる。{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "provenance": {
+      "batch": "pokedex-kanto-next30-46",
+      "method": "Reference Japanese, English-compared; corrected semantic differences and preserved uncertainty",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "gPikachuPokedexText.description[0]"
   },
   {
     "id": "ab791ec791e76c9c",

@@ -4,7 +4,17 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話65（2026-10-27）
+## 最新の会話66（2026-10-27）
+
+開始時HEAD198c1f03b3・クリーン、status/stats61,722/14,355/47,367一致。カラクリPuzzle1〜8/End計314行121メッセージ追加し61,722/14,669/47,053。9ファイルpending0。参考179行は英語全文に照合して編集、残り135行は新訳。レビューreviews/dialogue-trick-puzzles-66.review.md。合言葉8種類、各8個の沈黙、順位6/5/4/3/2/ほぼ同等/同等/超えたかも、人物の反復・煙の比喩・10回超などを保持。辞書137語。
+
+yomiyasu script lint0/meaning_risk6を英語に照合して維持。check bad0/26マス超0、audit0、78テスト成功。9ファイル非.string行とsrc/data/script_menu.h全体は開始時と完全一致。クイズ15問の既訳選択肢・固定正解番号をquiz-audit.jsonに記録。3_Q3は現在価格400+300=700（いいキズぐすり700）なのに固定正解「やすくなる」という既存不整合がある。英語の問題/正解判定を勝手に直していない。価格/生息地/過去イベント/町の人数の全整合性は未検証。ゲームロジック/フラグ/セーブ構造不変。
+
+GBA ../outputs/gba/wishes-jp-14669-4c03e995.gba、SHA256 386e84da3d7960ea12a85a754e381878516a7b28f595cd0cc079c30209114885。source commit 1d9d35dd14815dd4bfec0b3f47620f7954e9bf95。build/emerald-jp-dlg14669-cleanでビルドexit0、ROM29,825,480B/EWRAM230,024/IWRAM28,600。BPS再適用SHA/CRC・全バイト一致、../artifacts/wishes-jp-ui14669-4c03e995-patch.zip。Excel14シート・62,429行11列・137語・全原文/訳文/ID/状態/メモと目次62,429/15,376/47,053を保存後照合。旧メモ0件維持。Git内exports/types-14669.xlsx、ユーザー版 ../outputs/translation-types-14669/Wishes_種類別翻訳一覧.xlsx。実Excelアプリ・ゲーム実画面/進行/保存は未検証。旧ROM・セーブ保持。
+
+管理画面は14669/47053へ再読込済み。次は **MauvilleCity_BikeShop100・Gym101・House1/2計33・Mart10・PokemonCenter1F/2F計19・VerdanturfTown42、計305行**。参考候補1,863メッセージ/4,985行は未レビュー/未適用。mapグラフ460候補・pending11,178。全ストーリー未完了、C/共通/動的移動/未抽出を含めた完成証明はまだない。トークンが戻ったらこの続きから再開。
+
+## 以前の会話65（2026-10-27）
 
 開始時HEAD8d75392931・クリーン、status/stats61,722/14,121/47,601一致。キンセツ141行/サイクリング入口各7行/カラクリ入口79行、計234行60メッセージ追加し61,722/14,355/47,367。4ファイルのカタログpending0。参考111行を全英語と照合して編集、残り123行は新訳。レビューreviews/dialogue-mauville-trick-65.review.md。ミツルのcanの能力とtoughの難しさ、叔父の励まし/家族関係、テッセンの発電装置停止依頼、電話/テレビ、8か所の隠れ場所と人形のロボット口調・報酬分岐を保持。人形の後を追えない主体は曖昧なので、日本語も主語を省略し断定しない。辞書137語。
 
@@ -143,14 +153,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `641831f09c308878430a632e3b6d3db947e1c75f`（この後にdocsコミットあり） |
-| カタログ | 61,722候補のうち翻訳済み14,355、pending47,367（完成率ではない） |
+| 最新の翻訳コミット | `1d9d35dd14815dd4bfec0b3f47620f7954e9bf95`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み14,669、pending47,053（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で78件成功 |
-| 最新ビルド | pokeemerald-jp-dlg14355.gba（ROM29,828,680B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-14355-f64d32bf.gba（旧ROM・セーブ保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui14355-f64d32bf-patch.zip / localization/patch-manifest-ui14355.json |
-| Excel | ../outputs/translation-types-14355/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-14355.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg14669.gba（ROM29,825,480B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-14669-4c03e995.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui14669-4c03e995-patch.zip / localization/patch-manifest-ui14669.json |
+| Excel | ../outputs/translation-types-14669/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-14669.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -262,7 +272,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
-1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はカラクリ各パズル/出口等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はキンセツ施設/シダケ等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

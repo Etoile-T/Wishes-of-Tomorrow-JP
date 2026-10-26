@@ -2293,8 +2293,8 @@
       "map": "Route110_TrickHousePuzzle1",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 19,
-      "translated": 0,
+      "pending": 0,
+      "translated": 19,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance"
@@ -2304,8 +2304,8 @@
       "map": "Route110_TrickHousePuzzle2",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 20,
-      "translated": 0,
+      "pending": 0,
+      "translated": 20,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance"
@@ -2315,8 +2315,8 @@
       "map": "Route110_TrickHousePuzzle3",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 22,
-      "translated": 0,
+      "pending": 0,
+      "translated": 22,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance"
@@ -2326,8 +2326,8 @@
       "map": "Route110_TrickHousePuzzle4",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 21,
-      "translated": 0,
+      "pending": 0,
+      "translated": 21,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance"
@@ -2337,8 +2337,8 @@
       "map": "Route110_TrickHousePuzzle5",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 76,
-      "translated": 0,
+      "pending": 0,
+      "translated": 76,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance",
@@ -2349,8 +2349,8 @@
       "map": "Route110_TrickHousePuzzle6",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 23,
-      "translated": 0,
+      "pending": 0,
+      "translated": 23,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance"
@@ -2360,8 +2360,8 @@
       "map": "Route110_TrickHousePuzzle7",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 38,
-      "translated": 0,
+      "pending": 0,
+      "translated": 38,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance",
@@ -2372,8 +2372,8 @@
       "map": "Route110_TrickHousePuzzle8",
       "depth": 13,
       "via": "Route110_TrickHouseEntrance",
-      "pending": 22,
-      "translated": 0,
+      "pending": 0,
+      "translated": 22,
       "outgoing": [
         "Route110_TrickHouseEnd",
         "Route110_TrickHouseEntrance"
@@ -2886,8 +2886,8 @@
       "map": "Route110_TrickHouseEnd",
       "depth": 14,
       "via": "Route110_TrickHousePuzzle1",
-      "pending": 73,
-      "translated": 0,
+      "pending": 0,
+      "translated": 73,
       "outgoing": [
         "Route110_TrickHouseCorridor",
         "Route110_TrickHousePuzzle1"
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 11492,
-  "translated_map_rows": 5863
+  "pending_map_rows": 11178,
+  "translated_map_rows": 6177
 }

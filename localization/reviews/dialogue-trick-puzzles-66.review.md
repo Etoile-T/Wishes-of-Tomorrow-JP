@@ -11,3 +11,5 @@
 yomiyasu-check: executed via=verify run=20261026T222103Z-c8d66979 attempt=2 final=sha256:d287448b8ae9 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=6 replay=skipped
 
 script_batch→check bad0/26マス超0→update_catalog dry-run/apply→catalog validate・audit超過0・78テスト成功。9ファイルの非.string行とsrc/data/script_menu.h全体は開始時と完全一致。変数/改ページ/スクロール/終端を元行に維持。ロジック/フラグ/セーブ構造不変。実画面・解錠/クイズ/戦闘/報酬/進行/保存は未検証。ビルドと成果物は別途記録。
+
+成果物: GBA ../outputs/gba/wishes-jp-14669-4c03e995.gba、SHA256 386e84da3d7960ea12a85a754e381878516a7b28f595cd0cc079c30209114885。source commit 1d9d35dd14815dd4bfec0b3f47620f7954e9bf95。build/emerald-jp-dlg14669-cleanでビルドexit0、ROM29,825,480B/EWRAM230,024/IWRAM28,600。BPS再適用SHA/CRC・全バイト一致、../artifacts/wishes-jp-ui14669-4c03e995-patch.zip。Excel14シート・62,429行11列・137語・全原文/訳文/ID/状態/メモと目次62,429/15,376/47,053を保存後照合。旧メモ0件維持。Git内exports/types-14669.xlsx、ユーザー版 ../outputs/translation-types-14669/Wishes_種類別翻訳一覧.xlsx。実Excelアプリ・ゲーム実画面/進行/保存は未検証。旧ROM・セーブ保持。

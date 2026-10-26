@@ -4,7 +4,19 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話62（2026-10-27）
+## 最新の会話63（2026-10-27）
+
+開始時HEAD1e2d9487cf・クリーン、status/stats61,722/13,528/48,194一致。カイナ造船所1F59行/2F7行、港107行、ファンクラブ102行、計275行59メッセージ追加し61,722/13,803/47,919。4ファイルのカタログpending0。参考107行は英語全文と照合して編集、残り168行は新訳。レビューreviews/dialogue-slateport-facilities-63.review.md。技術の進歩と造船の芸術、ハギの決定/能力/確信、船旅の勧め、Most peopleの範囲、道具交換/バンダナを持たせる指示、会長の反復と感情、なつき度・タウリンを与えた過去の体験を保持。ツガ/ハギろうじん/てんきけんきゅうじょを追加し辞書127語。
+
+yomiyasu script lint0、meaning_risk3は原文も受付の疑問（文種2候補）と「つくれるはずじゃ」の能力/確信を確認して維持。硬化/勢い候補なし。check bad0/26マス超0、audit0、78テスト成功。4ファイルの非.string行は開始時と完全一致。ロジック/フラグ/セーブ構造不変。
+
+GBA ../outputs/gba/wishes-jp-13803-ac863b7a.gba、SHA256 470d0691502940322023f7f551d2135069b57147d841377e6cdfea256199ccb1。source commit ba05c63bff3cd5601c92290bc629134803c48b34。build/emerald-jp-dlg13803-clean、ROM29,834,568B/EWRAM230,024/IWRAM28,600。BPS再適用バイト一致、../artifacts/wishes-jp-ui13803-ac863b7a-patch.zip。実画面・引渡し/乗船/潜水艇/交換/コンテスト/なつき度/進行/保存は未検証。旧ROM・セーブ保持。
+
+Excel14シート・62,429行11列、127語、全原文/訳文/ID/状態/メモと目次62,429/14,510/47,919を保存後照合し一致。旧メモ0件維持。Git内exports/types-13803.xlsx、ユーザー版 ../outputs/translation-types-13803/Wishes_種類別翻訳一覧.xlsx。Excel実アプリ未確認。管理画面は13803/47919へ再読込済み。
+
+次は **カイナの残り155行（BattleTentCorridor76/Lobby23・House8・Mart8・NameRatersHouse30・PokemonCenter1F10）→Route110の163行、合計318行**。参考候補は2,026メッセージ/5,406行（未レビュー/未適用）。mapグラフ460候補・map内pending12,044。全ストーリー未完了。新ラベル/本文差分0を完成根拠にせず、C/共通/動的移動/未抽出も継続調査する。トークンが戻ったらこの続きから再開。
+
+## 以前の会話62（2026-10-27）
 
 開始時HEAD1a00e8a997・クリーン、status/stats61,722/13,312/48,410一致。海の科学博物館1F102行・2F114行、計216行52メッセージ追加し61,722/13,528/48,194。2ファイルのカタログpending0。参考89行は全英語に照合して編集し残り127行は新訳。レビューreviews/dialogue-slateport-museum-62.review.md。滝の実験を「たきのぼり」に変えない。生命は海に依存というアオギリの主張、出航の義務、50円/約70%/2倍超/小面積に数万トン、液体/塩分濃度/地層/雨などの説明を保持。原文の科学説明は勝手に改稿しない。名称4件追加し124語。
 
@@ -105,14 +117,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `9255a74a5c10b20c962ed55b19b13db3fd3ce5e1`（この後にdocsコミットあり） |
-| カタログ | 61,722候補のうち翻訳済み13,528、pending48,194（完成率ではない） |
+| 最新の翻訳コミット | `ba05c63bff3cd5601c92290bc629134803c48b34`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み13,803、pending47,919（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で78件成功 |
-| 最新ビルド | pokeemerald-jp-dlg13528.gba（ROM29,837,544B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-13528-e052d444.gba（旧ROM・セーブ保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui13528-e052d444-patch.zip / localization/patch-manifest-ui13528.json |
-| Excel | ../outputs/translation-types-13528/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-13528.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg13803.gba（ROM29,834,568B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-13803-ac863b7a.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui13803-ac863b7a-patch.zip / localization/patch-manifest-ui13803.json |
+| Excel | ../outputs/translation-types-13803/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-13803.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -224,7 +236,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
-1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はカイナ造船所/港/ファンクラブ等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はカイナの残り/110番道路等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

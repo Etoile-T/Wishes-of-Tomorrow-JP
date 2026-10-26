@@ -656,8 +656,8 @@
       "map": "SlateportCity_Harbor",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 107,
-      "translated": 0,
+      "pending": 0,
+      "translated": 107,
       "outgoing": [
         "BattleFrontier_OutsideWest",
         "SSTidalCorridor",
@@ -1415,8 +1415,8 @@
       "map": "SlateportCity_PokemonFanClub",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 102,
-      "translated": 0,
+      "pending": 0,
+      "translated": 102,
       "outgoing": [
         "SlateportCity"
       ]
@@ -1425,8 +1425,8 @@
       "map": "SlateportCity_SternsShipyard_1F",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 59,
-      "translated": 0,
+      "pending": 0,
+      "translated": 59,
       "outgoing": [
         "SlateportCity",
         "SlateportCity_SternsShipyard_2F"
@@ -1905,8 +1905,8 @@
       "map": "SlateportCity_SternsShipyard_2F",
       "depth": 12,
       "via": "SlateportCity_SternsShipyard_1F",
-      "pending": 7,
-      "translated": 0,
+      "pending": 0,
+      "translated": 7,
       "outgoing": [
         "SlateportCity_SternsShipyard_1F"
       ]
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 12319,
-  "translated_map_rows": 5036
+  "pending_map_rows": 12044,
+  "translated_map_rows": 5311
 }

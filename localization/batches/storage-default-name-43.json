@@ -1,0 +1,10 @@
+[
+  {
+    "id": "d6cf5724f5eba1ea",
+    "translation": "{JPN_NAME_4}ボックス",
+    "provenance": {
+      "method": "Bounded four-kana prefix: 6 bytes + up to 2 digits fits BOX_NAME_LENGTH=8",
+      "batch": "storage-default-name-43"
+    }
+  }
+]

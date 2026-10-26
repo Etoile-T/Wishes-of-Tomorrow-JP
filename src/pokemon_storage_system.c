@@ -1,4 +1,5 @@
 #include "global.h"
+#include "storage_name_localization.h"
 #include "malloc.h"
 #include "bg.h"
 #include "data.h"
@@ -861,7 +862,7 @@ void UpdateSpeciesSpritePSS(struct BoxPokemon *boxmon);
 
 static const u8 gText_JustOnePkmn[] = _("{JPN}てもちが1ぴきしかいません。{ENG}");
 static const u8 gText_PartyFull[] = _("{JPN}てもちがいっぱいです！{ENG}");
-static const u8 gText_Box[] = _("{JPN}ボックス{ENG}");
+static const u8 gText_Box[] = _("{JPN_NAME_4}ボックス");
 
 struct {
     const u8 *text;
@@ -9623,7 +9624,10 @@ struct BoxPokemon *GetBoxedMonPtr(u8 boxId, u8 boxPosition)
 u8 *GetBoxNamePtr(u8 boxId)
 {
     if (boxId < TOTAL_BOXES_COUNT)
+    {
+        NormalizeStorageBoxName(gPokemonStoragePtr->boxNames[boxId], boxId);
         return gPokemonStoragePtr->boxNames[boxId];
+    }
     else
         return NULL;
 }
@@ -9631,7 +9635,13 @@ u8 *GetBoxNamePtr(u8 boxId)
 static u8 GetBoxWallpaper(u8 boxId)
 {
     if (boxId < TOTAL_BOXES_COUNT)
-        return gPokemonStoragePtr->boxWallpapers[boxId];
+    {
+        u8 wallpaper = gPokemonStoragePtr->boxWallpapers[boxId];
+        // Old overlong default names could overwrite the first wallpaper IDs.
+        if (wallpaper < WALLPAPER_COUNT)
+            return wallpaper;
+        return boxId % (MAX_DEFAULT_WALLPAPER + 1);
+    }
     else
         return 0;
 }

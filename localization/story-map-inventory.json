@@ -2400,8 +2400,8 @@
       "map": "Route117",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "MauvilleCity",
         "Route117_PokemonDayCare",
@@ -3528,8 +3528,8 @@
       "map": "RusturfTunnel",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 75,
-      "translated": 0,
+      "pending": 0,
+      "translated": 75,
       "outgoing": [
         "Route116",
         "VerdanturfTown"
@@ -3625,8 +3625,8 @@
       "map": "VerdanturfTown_BattleTentLobby",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 41,
-      "translated": 0,
+      "pending": 0,
+      "translated": 41,
       "outgoing": [
         "VerdanturfTown",
         "VerdanturfTown_BattleTentCorridor"
@@ -3636,8 +3636,8 @@
       "map": "VerdanturfTown_FriendshipRatersHouse",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 22,
-      "translated": 0,
+      "pending": 0,
+      "translated": 22,
       "outgoing": [
         "VerdanturfTown"
       ]
@@ -3646,8 +3646,8 @@
       "map": "VerdanturfTown_House",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "VerdanturfTown"
       ]
@@ -3656,8 +3656,8 @@
       "map": "VerdanturfTown_Mart",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "VerdanturfTown"
       ]
@@ -3666,8 +3666,8 @@
       "map": "VerdanturfTown_PokemonCenter_1F",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "VerdanturfTown",
         "VerdanturfTown_PokemonCenter_2F"
@@ -3677,8 +3677,8 @@
       "map": "VerdanturfTown_WandasHouse",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 60,
-      "translated": 0,
+      "pending": 0,
+      "translated": 60,
       "outgoing": [
         "VerdanturfTown"
       ]
@@ -4159,8 +4159,8 @@
       "map": "VerdanturfTown_BattleTentCorridor",
       "depth": 16,
       "via": "VerdanturfTown_BattleTentLobby",
-      "pending": 19,
-      "translated": 0,
+      "pending": 0,
+      "translated": 19,
       "outgoing": [
         "VerdanturfTown_BattleTentBattleRoom"
       ]
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 10873,
-  "translated_map_rows": 6482
+  "pending_map_rows": 10608,
+  "translated_map_rows": 6747
 }

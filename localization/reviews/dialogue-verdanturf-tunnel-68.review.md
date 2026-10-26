@@ -13,3 +13,5 @@ yomiyasu script最終lint0、meaning_risk3を英語で確認。Aren't these flow
 yomiyasu-check: executed via=verify run=20261026T223634Z-dfaa838b attempt=2 final=sha256:9f2fa9d9bf86 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=3 replay=skipped
 
 check bad0、26マス超0、catalog validate成功、audit推定超過0、78テスト成功。9スクリプトの非.string行は開始HEADと一致。ロジック/イベントフラグ/セーブ構造は不変。実ゲームの画面/対戦/救出/引渡し/開通/受領/育て屋/通信/進行/保存は未検証。旧ROM・セーブは触らない。
+
+成果物: GBA ../outputs/gba/wishes-jp-15239-256d909c.gba、SHA256 bb850ea9aa5ea181d5ee4cfeab67b17790d4ba2d44f4d63ff4af04939d4846be。source commit a92092b64baf4bd037634b6f47c9b1c3af14e20f。build/emerald-jp-dlg15239-cleanでビルドexit0、ROM29,819,240B/EWRAM230,024/IWRAM28,600。BPS再適用SHA/CRC・全バイト一致、../artifacts/wishes-jp-ui15239-256d909c-patch.zip。Excel14シート・62,429行11列・139語・全原文/訳文/ID/状態/メモと目次62,429/15,946/46,483を保存後照合。旧メモ0件維持。Git内exports/types-15239.xlsx、ユーザー版 ../outputs/translation-types-15239/Wishes_種類別翻訳一覧.xlsx。実Excelアプリ・ゲーム実画面/進行/保存は未検証。旧ROM・セーブ保持。

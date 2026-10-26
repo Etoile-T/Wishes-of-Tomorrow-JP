@@ -17,3 +17,5 @@ yomiyasu-check: executed via=verify run=20261026T200446Z-7b66bbce attempt=2 fina
 yomiyasu-check: executed via=verify run=20261026T200446Z-71cf478d attempt=1 final=sha256:9a4fbb2166e7 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=0 replay=skipped
 
 script_batch→check bad0/width26マス超0→update_catalog dry-run/apply→catalog validate、audit推定超過0、75テスト成功。12スクリプトの.string以外の行は開始時と完全一致。改ページ・スクロール・終端・変数を元行に保持。ゲームロジック・イベントフラグ・セーブ構造は変更していない。実画面・店/船/AM/PAW/技忘れ/図鑑報酬/進行/保存再読み込みは未検証。
+
+成果物: ../outputs/gba/wishes-jp-12212-b632ef42.gba（SHA256 db0bb183feb169ff3ae6793b184a9a5b02ea0f8456a42ebbe952aac92cbf4c66）。新規OBJ_DIR build/emerald-jp-dlg12212-cleanでビルド成功。ROM29,852,136B/EWRAM230,024B/IWRAM28,600B。BPS再適用後のSHA/CRCとバイト列が一致。Excel14シート・62,429行11列の原文/訳文/ID/状態/メモ、110用語、目次62,429/12,919/49,510を保存後照合し一致。検査ログ ../artifacts/logs/excel-types-12212-verify.log。旧保存メモ0件も維持。Excel実アプリとゲーム実画面は未確認。

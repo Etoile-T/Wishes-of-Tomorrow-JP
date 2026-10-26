@@ -4,7 +4,19 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話52/53（2026-10-27・ユーザー指定の区切り）
+## 最新の会話54〜56（2026-10-27）
+
+ユーザーが「トークンが戻ってきたら再開」を追記。全ストーリー目標を維持し、331aa609ea・クリーン、status/stats61,722/11,984/49,738一致から再開。百貨店3F10行、百貨店案内/屋上/港/技忘れ/センター/民家128行、宿90行の計228行を追加。今回は61,722/12,212/49,510。12ファイルのカタログpending0。レビューreviews/dialogue-lilycove-54-56.review.md。辞書110語。
+
+PAWの補正上限は実装のPAW_MOD_CAP=12、正負clampを確認。原文BOONは恩恵だが実装は別能力低下も伴う。原文を勝手に「のろい」へ変えず「おんけい」と訳し、相違をレビューへ記録。wtfの苛立ちも保持。わすれオヤジの2変数は各10マスを見積もり、「か」だけ省いて26マス、感嘆符を維持。確度・否定対比・エニシダ/タイドリップごう等既訳を保持。yomiyasu script lint0/meaning_risk0（保証ではない）、check bad0/width超0、audit0、75テスト成功。非.string行は12スクリプトすべて開始時と完全一致。イベント・フラグ・セーブ構造は不変。
+
+GBA ../outputs/gba/wishes-jp-12212-b632ef42.gba、SHA256 db0bb183feb169ff3ae6793b184a9a5b02ea0f8456a42ebbe952aac92cbf4c66。source commit 7851df5ad8a1a4637858192f08afd4e07a22494c。build/emerald-jp-dlg12212-clean、ROM29,852,136B/EWRAM230,024/IWRAM28,600。BPS再適用バイト一致、../artifacts/wishes-jp-ui12212-b632ef42-patch.zip。実画面・船・技忘れ・PAW・図鑑報酬・進行・保存は未検証。旧ROM・セーブ保持。
+
+Excelは14シート・全62,429行11列、原文・訳文・ID・状態・メモ、110語、目次62,429/12,919/49,510を保存後照合し一致。旧保存メモ0件も維持。Git内 localization/exports/types-12212.xlsx。管理画面カタログも再読み込みし12,212/49,510を確認。Excel実アプリは未確認。
+
+次は **LilycoveCity_LilycoveMuseum_1F/2F（83+74=157行）とLilycoveCity_House3（53行）** を候補に、残る流用マップ・共通会話を続ける。新ラベル/Expansion本文差分候補は両方0だが、元の本文をそのまま使う未訳も対象。mapグラフは460候補・map内pending13,635。深さを実プレイ順と誤認しない。最も浅いpendingのBattleFrontier_OutsideWest（143行）はShinTokyoからの船だが、ShinTokyo/scripts.incに「post-game only」と明記されるので、メイン進行より先に行ける証拠ではない。C/共通/動的移動/未抽出を含めた全ストーリー完了の証拠はまだない。
+
+## 以前の会話52/53（2026-10-27・ユーザー指定の区切り）
 
 ストーリー全訳目標を維持して338行追加し、61,722 / 11,984 / 49,738。百貨店2F/4Fとえんとつやま225行、ゲームコーナー113行。4ファイルのカタログpending0。旧ラベルの独自会話、AMの不可逆な説明、WASTER BALLとMASTER BALLの取り違え・ルージュラの成人向け冗談、隕石分岐、NPCと景品28件を訳した。非.string行は開始時HEAD1f63741fc1と完全一致。制御・変数・価格・番号を保持。意味レビュー記録はreviews/dialogue-stores-gamecorner-52-53.review.md。yomiyasu lint0/meaning_risk0、check bad0/26マス超0、audit0、75テスト成功。用語107件。
 
@@ -33,14 +45,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `ba882ed501f2076a23faa5a23e471af4e368cd45`（この後にdocsコミットがある。git logで確認） |
-| カタログ | 61,722候補のうち翻訳済み11,984、pending49,738（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `7851df5ad8a1a4637858192f08afd4e07a22494c`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み12,212、pending49,510（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で75件成功 |
-| 最新ビルド | pokeemerald-jp-dlg11984.gba（ROM29,854,568B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-11984-a22b978a.gba（旧ROM・セーブは保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui11984-a22b978a-patch.zip / localization/patch-manifest-ui11984.json |
-| Excel | ../outputs/translation-types-11984/Wishes_種類別翻訳一覧.xlsx（Git内 exports/types-11984.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg12212.gba（ROM29,852,136B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-12212-b632ef42.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui12212-b632ef42-patch.zip / localization/patch-manifest-ui12212.json |
+| Excel | ../outputs/translation-types-12212/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-12212.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 

@@ -640,8 +640,8 @@
       "map": "LilycoveCity_Harbor",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 28,
-      "translated": 0,
+      "pending": 0,
+      "translated": 28,
       "outgoing": [
         "BattleFrontier_OutsideWest",
         "BirthIsland_Harbor",
@@ -1128,8 +1128,8 @@
       "map": "LilycoveCity_CoveLilyMotel_1F",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 40,
-      "translated": 0,
+      "pending": 0,
+      "translated": 40,
       "outgoing": [
         "LilycoveCity",
         "LilycoveCity_CoveLilyMotel_2F"
@@ -1139,8 +1139,8 @@
       "map": "LilycoveCity_DepartmentStore_1F",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 25,
-      "translated": 0,
+      "pending": 0,
+      "translated": 25,
       "outgoing": [
         "LilycoveCity_DepartmentStoreElevator",
         "LilycoveCity_DepartmentStore_2F",
@@ -1151,8 +1151,8 @@
       "map": "LilycoveCity_House1",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 5,
-      "translated": 0,
+      "pending": 0,
+      "translated": 5,
       "outgoing": [
         "LilycoveCity"
       ]
@@ -1161,8 +1161,8 @@
       "map": "LilycoveCity_House2",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "LilycoveCity"
       ]
@@ -1181,8 +1181,8 @@
       "map": "LilycoveCity_House4",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "LilycoveCity"
       ]
@@ -1202,8 +1202,8 @@
       "map": "LilycoveCity_MoveDeletersHouse",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 20,
-      "translated": 0,
+      "pending": 0,
+      "translated": 20,
       "outgoing": [
         "LilycoveCity"
       ]
@@ -1212,8 +1212,8 @@
       "map": "LilycoveCity_PokemonCenter_1F",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "LilycoveCity",
         "LilycoveCity_PokemonCenter_2F"
@@ -1602,8 +1602,8 @@
       "map": "LilycoveCity_CoveLilyMotel_2F",
       "depth": 12,
       "via": "LilycoveCity_CoveLilyMotel_1F",
-      "pending": 50,
-      "translated": 0,
+      "pending": 0,
+      "translated": 50,
       "outgoing": [
         "LilycoveCity_CoveLilyMotel_1F"
       ]
@@ -2042,8 +2042,8 @@
       "map": "LilycoveCity_DepartmentStore_3F",
       "depth": 13,
       "via": "LilycoveCity_DepartmentStore_2F",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "LilycoveCity_DepartmentStoreElevator",
         "LilycoveCity_DepartmentStore_2F",
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 13835,
-  "translated_map_rows": 3520
+  "pending_map_rows": 13635,
+  "translated_map_rows": 3720
 }

@@ -223104,7 +223104,8 @@
     "provenance": {
       "batch": "ui-common-01",
       "method": "Exact English UI vocabulary, reviewed in source context"
-    }
+    },
+    "code_offset": 87
   },
   {
     "id": "d101ebce5c3cbbdd",
@@ -223116,7 +223117,8 @@
     "source": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!",
     "translation": "",
     "status": "pending",
-    "kind": "encoded_c"
+    "kind": "encoded_c",
+    "code_offset": 87
   },
   {
     "id": "2d1784458552083c",
@@ -223132,7 +223134,8 @@
     "provenance": {
       "batch": "ui-common-01",
       "method": "Exact English UI vocabulary, reviewed in source context"
-    }
+    },
+    "code_offset": 87
   },
   {
     "id": "d7de3eb38641827e",
@@ -223149,7 +223152,7 @@
       "batch": "ui-common-01",
       "method": "Exact English UI vocabulary, reviewed in source context"
     },
-    "code_offset": 98
+    "code_offset": 4958
   },
   {
     "id": "3cf25f98c1e44d97",
@@ -223166,7 +223169,7 @@
       "batch": "ui-common-01",
       "method": "Exact English UI vocabulary, reviewed in source context"
     },
-    "code_offset": 98
+    "code_offset": 4958
   },
   {
     "id": "9e89fd6a7be4e0fc",
@@ -223183,7 +223186,7 @@
       "batch": "ui-common-01",
       "method": "Exact English UI vocabulary, reviewed in source context"
     },
-    "code_offset": 98
+    "code_offset": 4958
   },
   {
     "id": "4f7d72c9e85281ee",
@@ -223200,7 +223203,7 @@
       "batch": "ui-common-01",
       "method": "Exact English UI vocabulary, reviewed in source context"
     },
-    "code_offset": 98
+    "code_offset": 4958
   },
   {
     "id": "9910149fb95c8833",
@@ -223217,7 +223220,7 @@
       "batch": "ui-common-01",
       "method": "Exact English UI vocabulary, reviewed in source context"
     },
-    "code_offset": 98
+    "code_offset": 4958
   },
   {
     "id": "a4f1a1761e5eebf3",

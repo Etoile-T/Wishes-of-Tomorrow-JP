@@ -6,7 +6,7 @@ usage: make_release.py TRANSLATION_COMMIT TRANSLATED_COUNT PLAY_ROM
 Refuses to overwrite an existing patch folder or zip. Verify afterwards with
 apply_verified_patch.py and compare the output ROM byte for byte.
 """
-import hashlib, json, pathlib, subprocess, sys, zipfile, zlib
+import hashlib, json, pathlib, re, subprocess, sys, zipfile, zlib
 
 REPO = pathlib.Path(__file__).resolve().parents[2]
 ARTIFACTS = REPO.parent / 'artifacts'
@@ -19,16 +19,20 @@ def info(path):
     return hashlib.sha256(data).hexdigest(), '%08x' % zlib.crc32(data), len(data)
 
 def main():
-    if len(sys.argv) != 4:
+    if len(sys.argv) not in (4, 5):
         sys.exit(__doc__)
     commit, count, rom = sys.argv[1], int(sys.argv[2]), pathlib.Path(sys.argv[3]).resolve()
+    variant = sys.argv[4] if len(sys.argv) == 5 else ''
+    if variant and not re.fullmatch(r'[a-z0-9-]+', variant):
+        sys.exit('invalid variant')
+    suffix = '-' + variant if variant else ''
     source_sha, source_crc, source_size = info(SOURCE_ROM)
     if source_sha != SOURCE_SHA256:
         sys.exit('unexpected English baseline ROM')
     target_sha, target_crc, target_size = info(rom)
-    folder = ARTIFACTS / 'patches' / f'ui-{count}-{target_crc}'
+    folder = ARTIFACTS / 'patches' / f'ui-{count}{suffix}-{target_crc}'
     folder.mkdir(parents=True, exist_ok=False)
-    patch_name = f'wishes-jp-ui{count}_from-{source_crc}_to-{target_crc}.bps'
+    patch_name = f'wishes-jp-ui{count}{suffix}_from-{source_crc}_to-{target_crc}.bps'
     subprocess.run([sys.executable, str(REPO / 'tools/localization/bps.py'), str(SOURCE_ROM), str(rom), str(folder / patch_name)], check=True)
     patch_sha, patch_crc, patch_size = info(folder / patch_name)
     manifest = dict(format='BPS1', game_source_commit=GAME_SOURCE_COMMIT, translation_commit=commit,
@@ -48,13 +52,13 @@ def main():
 完全日本語版ではない。ゲーム画面・全進行は未検証。
 ソース: https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/tree/{commit}
 """)
-    archive = ARTIFACTS / f'wishes-jp-ui{count}-{target_crc}-patch.zip'
+    archive = ARTIFACTS / f'wishes-jp-ui{count}{suffix}-{target_crc}-patch.zip'
     if archive.exists():
         sys.exit('zip already exists: ' + str(archive))
     with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as out:
         for name in (patch_name, 'manifest.json', 'README.ja.txt'):
             out.write(folder / name, name)
-    (REPO / f'localization/patch-manifest-ui{count}.json').write_text(json.dumps(manifest, indent=2) + '\n')
+    (REPO / f'localization/patch-manifest-ui{count}{suffix}.json').write_text(json.dumps(manifest, indent=2) + '\n')
     latest = dict(rom=str(rom.relative_to(ARTIFACTS)), patch_directory=str(folder.relative_to(ARTIFACTS)), **manifest)
     (ARTIFACTS / 'LATEST-JP.json').write_text(json.dumps(latest, indent=2) + '\n')
     print(json.dumps(manifest, indent=1))

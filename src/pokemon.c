@@ -2537,7 +2537,8 @@ u32 GetBoxMonData3(struct BoxPokemon *boxMon, s32 field, u8 *data)
                 StringCopy(data, gText_EggNickname);
                 retVal = StringLength(data);
             }
-            else if (boxMon->language == LANGUAGE_JAPANESE)
+            else if (boxMon->language == LANGUAGE_JAPANESE
+                  && !(boxMon->nickname[0] == EXT_CTRL_CODE_BEGIN && boxMon->nickname[1] == EXT_CTRL_CODE_JPN))
             {
                 data[0] = EXT_CTRL_CODE_BEGIN;
                 data[1] = EXT_CTRL_CODE_JPN;

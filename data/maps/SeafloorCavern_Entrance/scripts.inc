@@ -208,35 +208,35 @@ SeafloorCavern_Entrance_Movement_CameraToPlayer:
 @ Text
 @ ===========================================================================
 SeafloorCavern_Entrance_Text_RitualMumble:
-	.string "Fisherman: …O great gods of the deep…\n"
-	.string "…hear my humble plea…\p"
-	.string "Grant unto me the ULTIMATE CATCH,\n"
-	.string "the crimson serpent of legend…\p"
-	.string "…by tide and scale, I beg of thee…$"
+	.string "{JPN}つりびと: …いだいなる しんえんの かみがみよ…\n"
+	.string "…ちっぽけな わたしの ねがいを…\p"
+	.string "どうか きゅうきょくの えものを\n"
+	.string "でんせつの くれないの だいじゃを…\p"
+	.string "…しおと うろこに かけて こいねがう…$"
 
 SeafloorCavern_Entrance_Text_FishermanGasp:
-	.string "Fisherman: Wha-?!\p"
-	.string "I-It… it WORKED?!\n"
-	.string "The waters… they're churning red!\p"
-	.string "The crimson serpent… it's REAL!$"
+	.string "{JPN}つりびと: な なにいっ？!\p"
+	.string "ほ… ほんとうに かなったのか？!\n"
+	.string "みずが… あかく うずまいている!\p"
+	.string "くれないの だいじゃ… じつざいしたのか!$"
 
 SeafloorCavern_Entrance_Text_FishermanChickensOut:
-	.string "Fisherman: You see it too, right?!\n"
-	.string "That… that's a RED GYARADOS!\p"
-	.string "I prayed for it my whole life, but…\n"
-	.string "now that it's here, I- I can't!\p"
-	.string "Those eyes! That roar! I'd be lucky\n"
-	.string "to keep my arms, let alone catch it!\p"
-	.string "You- you take these. Please.\n"
-	.string "I can't bear to look at it!$"
+	.string "{JPN}つりびと: きみにも みえるだろ？!\n"
+	.string "あれは… あかい ギャラドスだ!\p"
+	.string "いっしょう いのりつづけてきたのに…\n"
+	.string "ほんとうに あらわれたら もう… むりだ!\p"
+	.string "あの め! あの ほうこう! つかまえるどころか\n"
+	.string "うでが のこるだけでも さいわいだよ!\p"
+	.string "き きみに これを あげる。 たのむ。\n"
+	.string "もう みていられないよ!$"
 
 SeafloorCavern_Entrance_Text_FishermanGoodLuck:
-	.string "Fisherman: ULTRA BALLS. Five of 'em.\n"
-	.string "Saved 'em for this very moment…\p"
-	.string "and I'm too chicken to throw a one.\p"
-	.string "Go on. Land the catch I never could.$"
+	.string "{JPN}つりびと: ハイパーボール 5こだ。\n"
+	.string "この ときのために とっておいたんだ…\p"
+	.string "なのに こわくて ひとつも なげられない。\p"
+	.string "さあ わたしに できなかった おおものつりを。$"
 
 SeafloorCavern_Entrance_Text_FishermanAfter:
-	.string "Fisherman: That thing still gives me\n"
-	.string "the shivers…\p"
-	.string "Show it who's boss for me, would you?$"
+	.string "{JPN}つりびと: あいつを みると まだ\n"
+	.string "ぞっとするよ…\p"
+	.string "わたしの かわりに ちからを みせてやってくれ。$"

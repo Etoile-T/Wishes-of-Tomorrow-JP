@@ -37,30 +37,30 @@ OldaleTown_House2_EventScript_DadReminder::
 	end
 
 OldaleTown_House2_Text_MomProud:
-	.string "That's my boy running the GYM here in\n"
-	.string "FROSTWOOD -- a real GYM LEADER!\p"
-	.string "I always knew he had it in him. His\n"
-	.string "little sisters worship him, you know.\p"
-	.string "They're out on the trail every day,\n"
-	.string "training their AZURILL, dreaming of\l"
-	.string "being just as strong someday.$"
+	.string "{JPN}この フロストウッドの ジムを やっているのは\n"
+	.string "うちの むすこ! りっぱな ジムリーダーよ!\p"
+	.string "あのこなら やれるって おもっていたわ。\n"
+	.string "いもうとたちも すっかり あこがれていてね。\p"
+	.string "まいにち やまみちで\n"
+	.string "ルリリを きたえているの。 いつか\l"
+	.string "おにいちゃんみたいに つよくなるんだって。$"
 
 OldaleTown_House2_Text_DadAsk:
-	.string "Oh! A visitor. Perfect timing -- maybe\n"
-	.string "you can help an old man out.\p"
-	.string "My two girls are up the trail toward the\n"
-	.string "lake AGAIN, drilling that SPLASH over\l"
-	.string "and over. Supper's nearly stone cold.\p"
-	.string "Here -- take them this HOT COCOA.\n"
-	.string "Those two will never come in from the\l"
-	.string "snow without it.$"
+	.string "{JPN}おや! おきゃくさんか。 ちょうど よかった。\n"
+	.string "この としよりを てつだってくれないかね。\p"
+	.string "うちの むすめたちが また ふたりで\n"
+	.string "みずうみへの みちで はねるを れんしゅうして\l"
+	.string "ばんごはんも すっかり さめそうだよ。\p"
+	.string "ほら この ホットココアを とどけておくれ。\n"
+	.string "これが なければ あの ふたりは\l"
+	.string "ゆきの なかから かえってこないんだ。$"
 
 OldaleTown_House2_Text_DadAfterGive:
-	.string "Tell them their father says it's time\n"
-	.string "to come home and eat. They'll grumble,\l"
-	.string "but the cocoa always wins.$"
+	.string "{JPN}おとうさんが かえって ごはんを たべなさいって\n"
+	.string "いってたと つたえておくれ。 ぶつぶつ いうが\l"
+	.string "いつも ココアには かなわんのさ。$"
 
 OldaleTown_House2_Text_DadReminder:
-	.string "Still freezing out there, those two.\p"
-	.string "Bring them that HOT COCOA -- they'll\n"
-	.string "follow you home, you'll see.$"
+	.string "{JPN}あの ふたり まだ そとで こごえているよ。\p"
+	.string "ホットココアを とどけておくれ。\n"
+	.string "きっと きみに ついて かえってくるさ。$"

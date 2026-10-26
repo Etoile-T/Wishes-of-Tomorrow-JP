@@ -92,21 +92,21 @@ Route112_CableCarStation_Movement_AttendantBackToPost:
 	step_end
 
 Route112_CableCarStation_Text_GondolaReady:
-	.string "The GONDOLA is ready to go up to\n"
-	.string "FROSTWOOD TOWN.\p"
-	.string "Would you like to ride it?$"
+	.string "{JPN}フロストウッドタウンへ のぼる\n"
+	.string "ゴンドラが しゅっぱつします。\p"
+	.string "おのりに なりますか？$"
 
 Route112_CableCarStation_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "{JPN}こちらへ どうぞ。$"
 
 Route112_CableCarStation_Text_RideAnotherTime:
-	.string "Please ride with us another time.$"
+	.string "{JPN}またの ごりようを おまちしています。$"
 
 Route112_CableCarStation_Text_BoardGuy:
-	.string "Snowboard… surfboard… snowboard…\p"
-	.string "Fresh powder up in FROSTWOOD…\n"
-	.string "Huge waves down in SENNEN…\p"
-	.string "I've been standing here since the\n"
-	.string "first GONDOLA this morning.\p"
-	.string "Why won't anyone make a board that\n"
-	.string "does both?!$"
+	.string "{JPN}スノーボード… サーフボード… スノーボード…\p"
+	.string "フロストウッドには ふかふかの こなゆき…\n"
+	.string "センネンには おおきな なみ…\p"
+	.string "あさ いちばんの ゴンドラが でてから\n"
+	.string "ずっと ここに たっているんだ。\p"
+	.string "どうして だれも りょうほう できる\n"
+	.string "ボードを つくってくれないんだ？!$"

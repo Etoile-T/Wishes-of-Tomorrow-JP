@@ -72,44 +72,44 @@ OldaleTown_Mart_EventScript_Draco::
 	end
 
 OldaleTown_Mart_Text_Draco:
-	.string "{PLAYER}? Of course you found this\n"
-	.string "place.\p"
-	.string "Don't get comfortable. I'm just\n"
-	.string "thawing out before I take that\l"
-	.string "GYM BADGE.\p"
-	.string "…And no, I'm not buying you\n"
-	.string "a drink.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}か。 ここを みつけるとは\n"
+	.string "やっぱり おまえらしいな。\p"
+	.string "いいきに なるなよ。 ジムバッジを\n"
+	.string "うばうまえに こごえた からだを\l"
+	.string "あたためているだけだ。\p"
+	.string "…それと おまえに のみものを\n"
+	.string "おごるつもりは ないからな。$"
 
 OldaleTown_Mart_Text_TwigsSkier:
-	.string "I was riding pipe when I caught an\n"
-	.string "edge on some nasty moguls…\p"
-	.string "…and landed a switch 540 in pow\n"
-	.string "deeper than the Swiss Alps.\p"
-	.string "Craziest thing I ever did on a\n"
-	.string "pair of twigs.$"
+	.string "{JPN}パイプを すべっていたら\n"
+	.string "えぐい コブに エッジを とられてさ…\p"
+	.string "スイスアルプスより ふかい パウダーに\n"
+	.string "スイッチ540で ちゃくち したんだ。\p"
+	.string "2ほんの ぼっきれで やったなかで\n"
+	.string "いちばん むちゃな わざだったよ。$"
 
 OldaleTown_Mart_Text_ApresGirl:
-	.string "I'm just here for the après.$"
+	.string "{JPN}アフタースキーだけが おめあてなの。$"
 
 OldaleTown_Mart_Text_NervousGuy:
-	.string "I'm way too nervous to talk to her…\p"
-	.string "I'll just DM her on Instagram.$"
+	.string "{JPN}きんちょうして あのこに はなしかけられない…\p"
+	.string "Instagramで DMを おくろうっと。$"
 
 OldaleTown_Mart_Text_BoardOrSki:
-	.string "Board or ski?\p"
-	.string "There's only one right answer.$"
+	.string "{JPN}ボードか スキーか？\p"
+	.string "ただしい こたえは ひとつだけだ。$"
 
 OldaleTown_Mart_Text_PokeBallsAreSoldOut:
-	.string "The clerk says they're all sold out.\n"
-	.string "I can't buy any POKé BALLS.$"
+	.string "{JPN}おみせの ひとが うりきれだって。\n"
+	.string "モンスターボールが かえないよ。$"
 
 OldaleTown_Mart_Text_ImGoingToBuyPokeBalls:
-	.string "I'm going to buy a bunch of POKé BALLS\n"
-	.string "and catch a bunch of POKéMON!$"
+	.string "{JPN}モンスターボールを たくさん かって\n"
+	.string "ポケモンを たくさん つかまえるんだ!$"
 
 OldaleTown_Mart_Text_RestoreHPWithPotion:
-	.string "If a POKéMON gets hurt and loses its HP\n"
-	.string "and faints, it won't be able to battle.\p"
-	.string "To prevent your POKéMON from fainting,\n"
-	.string "restore its HP with a POTION.$"
+	.string "{JPN}ポケモンが きずついて HPを うしない\n"
+	.string "ひんしに なると たたかえなくなる。\p"
+	.string "ひんしに ならないよう\n"
+	.string "キズぐすりで HPを かいふくしてね。$"
 

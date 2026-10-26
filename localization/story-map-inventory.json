@@ -47,8 +47,8 @@
       "map": "LittlerootTown_ProfessorBirchsLab",
       "depth": 1,
       "via": "MunenVillage",
-      "pending": 219,
-      "translated": 7,
+      "pending": 0,
+      "translated": 226,
       "outgoing": [
         "MunenVillage"
       ]
@@ -141,8 +141,8 @@
       "map": "SeafloorCavern_Entrance",
       "depth": 3,
       "via": "MunenLake",
-      "pending": 24,
-      "translated": 0,
+      "pending": 0,
+      "translated": 24,
       "outgoing": [
         "MunenLake"
       ]
@@ -167,8 +167,8 @@
       "map": "OldaleTown_House2",
       "depth": 4,
       "via": "FrostwoodTown",
-      "pending": 21,
-      "translated": 0,
+      "pending": 0,
+      "translated": 21,
       "outgoing": [
         "FrostwoodTown"
       ]
@@ -177,8 +177,8 @@
       "map": "OldaleTown_Mart",
       "depth": 4,
       "via": "FrostwoodTown",
-      "pending": 26,
-      "translated": 0,
+      "pending": 0,
+      "translated": 26,
       "outgoing": [
         "FrostwoodTown"
       ]
@@ -187,8 +187,8 @@
       "map": "OldaleTown_PokemonCenter_1F",
       "depth": 4,
       "via": "FrostwoodTown",
-      "pending": 13,
-      "translated": 0,
+      "pending": 0,
+      "translated": 13,
       "outgoing": [
         "FrostwoodTown"
       ]
@@ -197,8 +197,8 @@
       "map": "Route112_CableCarStation",
       "depth": 4,
       "via": "FrostwoodTown",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "FrostwoodTown",
         "Route_2"
@@ -208,8 +208,8 @@
       "map": "RustboroCity_Gym",
       "depth": 4,
       "via": "FrostwoodTown",
-      "pending": 103,
-      "translated": 0,
+      "pending": 0,
+      "translated": 103,
       "outgoing": [
         "FrostwoodTown"
       ]
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 14591,
-  "translated_map_rows": 2764
+  "pending_map_rows": 14173,
+  "translated_map_rows": 3182
 }

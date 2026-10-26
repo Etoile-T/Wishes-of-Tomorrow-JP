@@ -37,22 +37,22 @@ OldaleTown_PokemonCenter_1F_EventScript_Girl::
 	end
 
 OldaleTown_PokemonCenter_1F_Text_GoonMuk:
-	.string "GTFO my face.\n"
-	.string "You smell like MUK.$"
+	.string "{JPN}めのまえから とっとと うせろ クソが。\n"
+	.string "ベトベトンくせえんだよ。$"
 
 OldaleTown_PokemonCenter_1F_Text_GoonBud:
-	.string "Don't you have anything better\n"
-	.string "to do, bud?$"
+	.string "{JPN}おい ほかに やることは\n"
+	.string "ないのかよ？$"
 
 OldaleTown_PokemonCenter_1F_Text_GondolaToSennen:
-	.string "If you ride the GONDOLA down the\n"
-	.string "mountain, you'll end up in SENNEN.\p"
-	.string "It's way warmer down there on\n"
-	.string "the beachfront!$"
+	.string "{JPN}ゴンドラで やまを くだれば\n"
+	.string "センネンに つくよ。\p"
+	.string "あそこの うみべは\n"
+	.string "ずっと あたたかいんだ!$"
 
 OldaleTown_PokemonCenter_1F_Text_SickOfTheSnow:
-	.string "Sick of the snow? The GONDOLA\n"
-	.string "station is up in the northeast\l"
-	.string "corner of town.\p"
-	.string "Ride it down to SENNEN and you'll\n"
-	.string "be on the beach in no time!$"
+	.string "{JPN}ゆきには うんざり？ ゴンドラの\n"
+	.string "えきは まちの ほくとうの\l"
+	.string "すみに あるよ。\p"
+	.string "センネンまで くだれば\n"
+	.string "あっというまに ビーチだよ!$"

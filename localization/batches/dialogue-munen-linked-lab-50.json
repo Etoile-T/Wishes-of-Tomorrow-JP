@@ -1,0 +1,1754 @@
+[
+ {
+  "id": "ea610f25c0fd3c3c",
+  "translation": "{JPN}オダマキはかせは ポケモンの すむばしょや\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16e8978fb0b39f21",
+  "translation": "ぶんぷを しらべているんです。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c98c4fe0be178f43",
+  "translation": "{ENG}{RIVAL}{JPN}さんの てつだいも うれしそうで\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ee76e6a6de7169d",
+  "translation": "おやこの あいじょうを かんじますね。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b997c3ae98d45e1",
+  "translation": "{JPN}オダマキ: さて {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "838c34f28d85a07c",
+  "translation": "きみのことは おとうさんから\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "123fcaba0de0bd8e",
+  "translation": "いろいろ きいているよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93c405f0175afa47",
+  "translation": "まだ じぶんの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22208069fbf5154c",
+  "translation": "もっていないそうだね。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e95d1839ce5130f",
+  "translation": "でも さっきの たたかいは\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80e872f878bfd98b",
+  "translation": "みごとな おちつきぶり だったよ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "435a8f7b5ebfe53f",
+  "translation": "やっぱり おとうさんの ちを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc8d693761ca4d53",
+  "translation": "ひいているんだね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31e32cd3343b6e82",
+  "translation": "そうそう! たすけてくれた おれいに\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "737167bd033bdfbf",
+  "translation": "さっき つかっていた ポケモンを\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfbd49de861cc12e",
+  "translation": "きみに あげようと おもうんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3a2d7d4f7db6029",
+  "translation": "{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を もらった!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d21edbbca341819c",
+  "translation": "{JPN}オダマキ: せっかくだから\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42079121088f9af4",
+  "translation": "その {ENG}{STR_VAR_1}{JPN}に なまえを つけるかい？$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3944d1848842087",
+  "translation": "{JPN}オダマキ: ポケモンと がんばって\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ac706ba2e9eed27",
+  "translation": "けいけんを つめば きっと\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93b820dc36985618",
+  "translation": "すばらしい トレーナーに なれるよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b826edb2593155b",
+  "translation": "うちのこ {ENG}{RIVAL}{JPN}も わたしを てつだって\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4d879931e26951c",
+  "translation": "ポケモンの べんきょうを しているんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62a0571ee18a4654",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} どうだろう。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b93c6dc2de999cf",
+  "translation": "{ENG}{RIVAL}{JPN}に あってみるのは？$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0c009580035f457",
+  "translation": "{JPN}オダマキ: そうか!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d501f245cafcb0a8",
+  "translation": "{ENG}{RIVAL}{JPN}も よろこぶと おもうよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c26e893e8e3d6ea",
+  "translation": "{ENG}{RIVAL}{JPN}から トレーナーの ことを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d27aea815378fa05",
+  "translation": "おしえてもらうと いいよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "508590718d5f6a3c",
+  "translation": "{JPN}オダマキ: まあ そう いわずに。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "631784c8abe2d5ff",
+  "translation": "うちのこに あってみると いいよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b1cc6fec2e99263",
+  "translation": "{JPN}オダマキ: {ENG}{RIVAL}{JPN}かい？\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4dc9b2bce3d34879",
+  "translation": "うちに かえったと おもうよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79c480d9079ce4f0",
+  "translation": "それとも また どこかの くさむらを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c910f71576514dad",
+  "translation": "かけまわっているのかな…\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff9f6ac0c4689454",
+  "translation": "きみも ポケモンも つかれたら\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9a277154b76ee3f",
+  "translation": "うちで ゆっくり やすむと いいよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f41a9e8032f97e64",
+  "translation": "{JPN}オダマキ: やあ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fdc882e1d3621d7d",
+  "translation": "はじめての しょうぶで {ENG}{RIVAL}{JPN}に\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d796195464054aa",
+  "translation": "かったんだって？ すばらしいね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5973ee171bc56c7",
+  "translation": "{ENG}{RIVAL}{JPN}は ずいぶん まえから\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37d50cfb1e165a73",
+  "translation": "わたしの けんきゅうを てつだっている。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9354855084f3d3d1",
+  "translation": "{ENG}{RIVAL}{JPN}は もう トレーナーとしても\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a57b9c1db029fcf7",
+  "translation": "ながい けいけんを つんでいるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75d95d98cafe3520",
+  "translation": "さて {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}。 けんきゅうのために\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8281c789325c348",
+  "translation": "とりよせたもの だけど きみに\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19dc81c8f56dee34",
+  "translation": "この ポケモンずかんを あげよう。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86e9245e71773eeb",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ポケモンずかんを もらった!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3f372715ce46c05",
+  "translation": "{JPN}オダマキ: ポケモンずかんは\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "888f42fe1c8ff0c6",
+  "translation": "であったり つかまえたりした ポケモンを\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a0b447ad315b75d",
+  "translation": "じどうで きろくする ハイテクな どうぐさ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa0701fbb664a7e4",
+  "translation": "うちのこ {ENG}{RIVAL}{JPN}も いつも\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82e16efb01b4ba0d",
+  "translation": "もって あるいているよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "555866cee99a038b",
+  "translation": "めずらしい ポケモンを つかまえて\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa9d471f6d983ca4",
+  "translation": "ずかんに きろくすると\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2369319c7067986b",
+  "translation": "{ENG}{RIVAL}{JPN}は そとで ちょうさする わたしを\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27c3103a974ba0f6",
+  "translation": "さがして みせに きてくれるんだ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c548acf7eed3040",
+  "translation": "{JPN}オダマキ: かぞえきれない ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "857be653bfdc7485",
+  "translation": "きみを まっているよ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c30e4b25db41a74a",
+  "translation": "ああ また フィールドワークに\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7939b8c89e9e4a6",
+  "translation": "でかけたく なってきたなあ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bf3ca9a8d514dfe",
+  "translation": "{JPN}ハルカ: わあ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48f19649d3d912b2",
+  "translation": "ポケモンずかんを もらったんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9d80a588e87ef08",
+  "translation": "よかったね! わたしと おそろいだ!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a1559e20e4b4dac",
+  "translation": "わたしからも あげたいものが あるの!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "987f74c7db83aeea",
+  "translation": "{JPN}ハルカ: ポケモンを たくさん\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6dee8463c9c4d3cb",
+  "translation": "つかまえられると たのしいよね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dce0292b251e6189",
+  "translation": "いろんな ポケモンが ほしいから\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "854f8baa4f3215e3",
+  "translation": "あちこち さがしてみるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fc180ad442492a2",
+  "translation": "かわいい ポケモンを みつけたら\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d3ea43a18db2b30",
+  "translation": "モンスターボールで つかまえるの!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e546b9124f276274",
+  "translation": "{JPN}あら？ バッグが いっぱいだね。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90631225e4e14d56",
+  "translation": "{JPN}ハルカ: つぎは どこへ ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f74c33f28250af6",
+  "translation": "さがしに いこうかな？$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49188cc8b586c934",
+  "translation": "{JPN}ユウキ: へえ…\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff4abdef6812e0bb",
+  "translation": "きみも ポケモンずかんを もらったんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35974db143d506fa",
+  "translation": "それなら ほら。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77e3055000f194fd",
+  "translation": "これを あげるよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "970da120cccb556a",
+  "translation": "{JPN}ユウキ: ポケモンは たくさん\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56bea6471b9fd763",
+  "translation": "もっているほうが たのしいよね。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a234a020f22680f",
+  "translation": "いろんな ポケモンを さがして\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a530c62579a3afa",
+  "translation": "あちこち たんけん するつもりさ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96e1f51c135d2817",
+  "translation": "かっこいい ポケモンを みつけたら\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "111e52ccd74121d6",
+  "translation": "モンスターボールで つかまえてみるよ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "757f670196909b14",
+  "translation": "{JPN}おいおい バッグが いっぱいだよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e68ca6c2a7ce33f",
+  "translation": "{JPN}ユウキ: つぎは どこで ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a752b1a6e7bb31b4",
+  "translation": "さがそうかな…$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60af9b9f8f54b7f7",
+  "translation": "{JPN}たいそうな きかいだ。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b31d6bc3a78cc64",
+  "translation": "きっと はかせが けんきゅうに つかうのだろう。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5e29b254fc035b6",
+  "translation": "{JPN}けんきゅうに つかう パソコンだ。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e638afad0d5e58b",
+  "translation": "いじらないほうが よさそうだ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca759833fd8daf37",
+  "translation": "{JPN}ポケモンの ほんが ぎっしり つまっている。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "023808537380e9fa",
+  "translation": "{JPN}むずかしくて よめない ほんだ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a541bc754701ca04",
+  "translation": "{JPN}オダマキ: さて…\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dfe7dd799cb5e135",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}と {ENG}{RIVAL}{JPN}には\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93a07e6569d84eae",
+  "translation": "ポケモンの ちょうさを てつだってもらったね。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cbc73684946c1b1",
+  "translation": "おかげで あたらしいことが\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c918001b88628b8f",
+  "translation": "いろいろ わかってきたよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddec18219b2f075a",
+  "translation": "ホウエンには どうやら\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2c362109f4aa091",
+  "translation": "ほかの ちほうの ポケモンも\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86b038376a44a756",
+  "translation": "すんでいるよう なんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ca159bfe5ea943a",
+  "translation": "それだけ ホウエンの しぜんが\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "650861b4f5720e56",
+  "translation": "ゆたかで さまざまな かんきょうに\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4b258af4a65ebb1",
+  "translation": "めぐまれている しょうこだね。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06dcd54de36fe78a",
+  "translation": "だから きみたちの ずかんも\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62c1983bae6cffbc",
+  "translation": "ぜんこくモードに かきかえる\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52d67bec8ebee351",
+  "translation": "ひつようが あると おもうんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dfc2d75056d773c3",
+  "translation": "さあ ふたりの ずかんを みせておくれ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e61ff92a3a8a3cb7",
+  "translation": "{JPN}ハルカ: えへへ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b59431573326df90",
+  "translation": "わたしの ずかんまで\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53192d901f13c51c",
+  "translation": "あたらしく なっちゃうなんて すごいね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "220d94468b040b7a",
+  "translation": "ポケモンを たくさん つかまえてくれた\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54c57c74c787e4c4",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}の おかげだよ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a98da9f3669e3f4",
+  "translation": "{JPN}ユウキ: ぼくが ホウエンじゅうを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0114118c0c5958ad",
+  "translation": "あるいて ポケモンを しらべたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "228b9919cbcd36da",
+  "translation": "ずかんが ぜんこくモードに なったのは\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40b37abbcd76d46f",
+  "translation": "ぼくの おかげだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "325a27aa0c195889",
+  "translation": "ほんと {ENG}{PLAYER}{JPN}は うんが いいね!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "031e96c801edbede",
+  "translation": "{JPN}オダマキ: よし できたよ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66689fa8e5aee464",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}の ポケモンずかんが\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfd388db9b8143b5",
+  "translation": "ぜんこくモードに パワーアップした!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e02c1152abe80e7",
+  "translation": "{JPN}オダマキ: でも いいかい。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91cb0c70927658ec",
+  "translation": "チャンピオンに なったからといって\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d15de366daa8391",
+  "translation": "ポケモンの たびが おわるわけじゃない。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b974e9105bbdc7e",
+  "translation": "ポケモンと あるく みちに\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37e2ad89b839a5d1",
+  "translation": "おわりは ないんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "680beaba7c803cfb",
+  "translation": "どこかに きみを まっている\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0b8b1f32b250860",
+  "translation": "くさむらが あるんだよ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbdc8dfcd19ad4ba",
+  "translation": "{JPN}ハルカ: しばらく フィールドワークを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd90807c889b7559",
+  "translation": "おやすみ しようかな。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e204069bc23f1cee",
+  "translation": "ここで はかせの おてつだいを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c94323e97ec2151",
+  "translation": "していようと おもうんだ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "048dabd9aab3674a",
+  "translation": "{JPN}ユウキ: しばらくは\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2d9a2f671c2f972",
+  "translation": "フィールドワークを おやすみするよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10d6d6064585c21f",
+  "translation": "ここで はかせを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b69f9f480faba8e3",
+  "translation": "てつだうことに するつもりさ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "662b9fd346503c71",
+  "translation": "{JPN}オダマキ: おや {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e090d6c3c7da2677",
+  "translation": "ずかんを みせてもらおうかな。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa75460f4505466e",
+  "translation": "… … … … … …\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bb687ac2aecd0ff",
+  "translation": "… … … … … …\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6292bdd63adf5c21",
+  "translation": "うん まちがいないね。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f2e00da4f083687",
+  "translation": "ほんとうに ホウエンちほうの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e6061078464d607",
+  "translation": "ポケモンずかんを かんせいさせたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df7fb4303e7436ca",
+  "translation": "すごいなんて ことばじゃ たりないよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6fd475745fdc9c95",
+  "translation": "きみに おくりものが あるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9c1c3fe4519d161",
+  "translation": "すばらしい せいかを あげてくれた\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a36f763fb027fe0",
+  "translation": "きみへの おれいと おもってほしい。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "798ad21180a1c62d",
+  "translation": "ほかの ちほうでしか みつからない\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9680a53e9415847",
+  "translation": "めずらしい ポケモンだよ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87ed59a3dc1ff00d",
+  "translation": "この 3びきの なかから すきな\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a90876f53502c6e",
+  "translation": "1ぴきを えらんで いいんだよ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3bd1c6ed331b555",
+  "translation": "{JPN}オダマキ: ほかの ちほうでしか\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c2101aa71ea14d3",
+  "translation": "みつからない めずらしい ポケモンだよ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95262e0c22ae025f",
+  "translation": "この 3びきの なかから すきな\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f9cfbb51d9d4d3a",
+  "translation": "1ぴきを えらんで いいんだよ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74d65c66367689eb",
+  "translation": "{JPN}オダマキ: ほのおポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1d6795f65e03d4a",
+  "translation": "ヒノアラシに めが とまったんだね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c864cc9f4c6d8718",
+  "translation": "やっぱり おめが たかいね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5194622aa8bffd15",
+  "translation": "それじゃ ヒノアラシに するかい？$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dff515755e2bc441",
+  "translation": "{JPN}オダマキ: みずポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3287468c0ea4682e",
+  "translation": "ワニノコを えらんだんだね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88bafd9e06201909",
+  "translation": "いい ポケモンを えらぶね。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "129b417372075b59",
+  "translation": "それじゃ ワニノコに するかい？$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a447da395d8ae5a3",
+  "translation": "{JPN}オダマキ: くさポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "506bf1276f777233",
+  "translation": "チコリータを えらんだんだね!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1317327cf643d628",
+  "translation": "よく わかっているじゃないか。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44aedd7da0e893e8",
+  "translation": "それじゃ チコリータに するかい？$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7deea7907d3a6c43",
+  "translation": "{JPN}オダマキ: えらぶまえに\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88eddea724e89a40",
+  "translation": "ゆっくり かんがえると いいよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20064742bb0683f5",
+  "translation": "どれも かけがえのない ポケモンだからね。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d20d0d390140db0b",
+  "translation": "{JPN}オダマキ: なるほど!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72833e5303b389f4",
+  "translation": "いい ポケモンを えらんだね!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd03603ea24995a4",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f083c79c82d269c3",
+  "translation": "オダマキはかせから もらった!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37cf9122c8869ab0",
+  "translation": "{JPN}もらった\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b47d6895125af7dc",
+  "translation": "{ENG}{STR_VAR_1}{JPN}に なまえを つけますか？$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c16fe596db8a349",
+  "translation": "{JPN}オダマキ: いいかい {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a100f10fe3b5be21",
+  "translation": "ホウエンずかんを かんせいさせたからといって\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49929a6dd1b5a6f3",
+  "translation": "ポケモンの たびが おわるわけじゃない。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b17009cb7ebddeba",
+  "translation": "ポケモンと あるく みちに\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2f9499d3f56b5c7",
+  "translation": "おわりは ないんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "730aadbe39fef14a",
+  "translation": "どこかに きみを まっている\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddab87b44d941376",
+  "translation": "くさむらが あるんだよ!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ce3e6717aeabf8e",
+  "translation": "{JPN}やくそくの ポケモンは もらった。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00647146a4808bbb",
+  "translation": "ほかの ポケモンは そのままに しておこう。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e88cd48dc62a69fb",
+  "translation": "{JPN}おや この ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a4563145b0c6741",
+  "translation": "うけとる あきが ないようだね。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1928ee8b28448d08",
+  "translation": "{JPN}ハルカ: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} このあとは…\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5984584f5be31977",
+  "translation": "どうする つもり？\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4e422d1f45c11c0",
+  "translation": "たたかい つづけて\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15ba191c9f1b57ed",
+  "translation": "うでを みがくのかな？\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed23a595bdc123f1",
+  "translation": "それとも ぜんこくずかんの\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64a95e6350db24a2",
+  "translation": "かんせいを めざすのかな？\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8737f9e3e27c81a4",
+  "translation": "わたしは ここで はかせを てつだうよ。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d6d87d499b66792",
+  "translation": "{JPN}ユウキ: ポケモンを あつめるよりも\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a77aea1b597d49a",
+  "translation": "ぼくは じぶんの えらんだ ポケモンを\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee26911f4ba073a7",
+  "translation": "じっくり ゆっくり そだてるほうが すきだな。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4218a42c9ecfa34d",
+  "translation": "{JPN}ハルカ: やあ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0722ebb83df08a00",
+  "translation": "あの ばしょに いってみた？\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bd126b81464f738",
+  "translation": "バトルフロンティアに。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3beebed784e4d558",
+  "translation": "{JPN}ユウキ: よう {ENG}{PLAYER}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d66ca84db500fec",
+  "translation": "あの ばしょに いってみたかい？\\l",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61fb8e6e1ab18ff8",
+  "translation": "バトルフロンティアに。$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "542f4f0f90ce2be6",
+  "translation": "{JPN}… … … … … …\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4653a0e63da8ef26",
+  "translation": "… … … … … ピッ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2914fa7208e0bd64",
+  "translation": "エニシダ: やあやあ {ENG}{PLAYER}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae16470afb339622",
+  "translation": "わたしだよ エニシダだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56dd2d6ba8b57e95",
+  "translation": "いま タイドリップごうに のっているんだ。\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ac1b98a74a5705f",
+  "translation": "うみの うえは きもちが いいねえ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b35f7aa3fe43721",
+  "translation": "ところで…\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6fd1d96850551d6",
+  "translation": "きみを しょうたいしたい ばしょが\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc8e0bd47f7cd8e0",
+  "translation": "あるんだけど どうかな？\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "512238989cc29323",
+  "translation": "きょうみが あるなら ふねに\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c29e6db98951f02",
+  "translation": "のっておくれ。 カイナか ミナモからね。\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b6509c03f6ed71c",
+  "translation": "くわしい はなしは\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b43739146fb070a",
+  "translation": "あったときに するよ。 まっているぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f2671312a392f23",
+  "translation": "… … … … … …\\n",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b541fa545ac6bae5",
+  "translation": "… … … … … ツー!$",
+  "provenance": {
+   "batch": "dialogue-munen-linked-lab-50",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

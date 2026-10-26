@@ -4,7 +4,17 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話66（2026-10-27）
+## 最新の会話67（2026-10-27）
+
+開始HEAD6e77e4f4e3、status/stats61,722/14,669/47,053一致。未追跡の参考TSV1件は前回の準備稿で継続利用。キンセツ自転車店100/ジム101/民家33/ショップ10/センター19とシダケタウン42、計305行77メッセージを追加し61,722/14,974/46,748。8ファイルpending0。参考139行はWishes英語全文に照合し編集、残り166行は新訳。レビューreviews/dialogue-mauville-verdanturf-67.review.md。自転車の操作条件/交換、電気とロックの比喩、いわくだきの呼び名、バッジ/技34、コインケース、通信データ/勝敗記録、シダケの工事と連勝を保持。参考の出生前→トレーナー以前、所有→運転能力、事実→伝聞のずれを原文へ戻した。ミチル/ダイナモバッジ追加で辞書139語。
+
+yomiyasu script lint0/meaning_risk4を英語に照合して維持。check bad0/26マス超0、audit0、78テスト成功。8ファイルの非.string行は開始HEADと完全一致。ロジック/フラグ/セーブ構造不変。バッジの既存仕様や旧施設の到達性まで検証したものではない。
+
+GBA ../outputs/gba/wishes-jp-14974-6ffe83ab.gba、SHA256 ca4d7f0da794b08fd045951cba2803c315509a410b5c9630e42f0c1b617ee040。source commit ebc5dfa87c93e46a21fc98222a8ca5f83f1a543f。build/emerald-jp-dlg14974-cleanでビルドexit0、ROM29,822,152B/EWRAM230,024/IWRAM28,600。BPS再適用SHA/CRC・全バイト一致、../artifacts/wishes-jp-ui14974-6ffe83ab-patch.zip。Excel14シート・62,429行11列・139語・全原文/訳文/ID/状態/メモと目次62,429/15,681/46,748を保存後照合。旧メモ0件維持。Git内exports/types-14974.xlsx、ユーザー版 ../outputs/translation-types-14974/Wishes_種類別翻訳一覧.xlsx。実Excelアプリ・ゲーム実画面/進行/保存は未検証。旧ROM・セーブ保持。
+
+管理画面は14974/46748へ再読込済み。次は **VerdanturfTown_WandasHouse60/FriendshipRatersHouse22/House10/Mart12/PokemonCenter_1F12/BattleTentLobby41/BattleTentCorridor19（計176）→RusturfTunnel75→Route11714、計265行**。参考候補1,817メッセージ/4,846行は未レビュー/未適用。mapグラフ460候補・pending10,873。全ストーリー未完了、C/共通/動的移動/未抽出を含む完成証明はない。トークンが戻ったらこの続きから再開。
+
+## 以前の会話66（2026-10-27）
 
 開始時HEAD198c1f03b3・クリーン、status/stats61,722/14,355/47,367一致。カラクリPuzzle1〜8/End計314行121メッセージ追加し61,722/14,669/47,053。9ファイルpending0。参考179行は英語全文に照合して編集、残り135行は新訳。レビューreviews/dialogue-trick-puzzles-66.review.md。合言葉8種類、各8個の沈黙、順位6/5/4/3/2/ほぼ同等/同等/超えたかも、人物の反復・煙の比喩・10回超などを保持。辞書137語。
 
@@ -153,14 +163,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `1d9d35dd14815dd4bfec0b3f47620f7954e9bf95`（この後にdocsコミットあり） |
-| カタログ | 61,722候補のうち翻訳済み14,669、pending47,053（完成率ではない） |
+| 最新の翻訳コミット | `ebc5dfa87c93e46a21fc98222a8ca5f83f1a543f`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み14,974、pending46,748（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で78件成功 |
-| 最新ビルド | pokeemerald-jp-dlg14669.gba（ROM29,825,480B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-14669-4c03e995.gba（旧ROM・セーブ保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui14669-4c03e995-patch.zip / localization/patch-manifest-ui14669.json |
-| Excel | ../outputs/translation-types-14669/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-14669.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg14974.gba（ROM29,822,152B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-14974-6ffe83ab.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui14974-6ffe83ab-patch.zip / localization/patch-manifest-ui14974.json |
+| Excel | ../outputs/translation-types-14974/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-14974.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -272,7 +282,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
-1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はキンセツ施設/シダケ等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はシダケ施設/カナシダトンネル/117番道路等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

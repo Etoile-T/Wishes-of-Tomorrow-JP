@@ -6,15 +6,15 @@
   "translated": 14974,
   "pending": 46748,
   "baseline_build": "passed",
-  "jp_build": "pending",
+  "jp_build": "passed",
   "tests_passed": 78,
-  "bps_roundtrip": "passed: 14669 TrickHouse puzzles/end build, SHA256/CRC and byte comparison",
+  "bps_roundtrip": "passed: 14974 Mauville facilities/Verdanturf build, SHA256/CRC and byte comparison",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "kana3: keyboard board/entry/background drawn (one printer per row; per-glyph printers overflowed DMA queue), けす/おわり buttons, cursor aligned; verified by mgba_probe VRAM render, GUI play unverified",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29825480,
+  "jp_rom_used_bytes": 29822152,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -31,7 +31,7 @@
   "ui_added": 1220,
   "ui_inventory_files": 59,
   "ui_pending_language_candidates": 2344,
-  "excel_translated_rows": 15376,
+  "excel_translated_rows": 15681,
   "reported_graphics_issue": "Closed at user request: user identified emulator bug; stop investigating and resume translation",
   "graphics_diagnostic_build": {
     "status": "passed",
@@ -40,35 +40,34 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-386e84da3d7960ea.gba",
-  "latest_patch_manifest": "patch-manifest-ui14669.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-ca4d7f0da794b08f.gba",
+  "latest_patch_manifest": "patch-manifest-ui14974.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-14669-4c03e995.gba",
+  "user_output_rom": "../outputs/gba/wishes-jp-14974-6ffe83ab.gba",
   "dialogue_progress": "Applied: DragonKeeper and MewtwoPostGame, plus previously listed custom maps. No pending catalog rows in map folders absent from local JP reference except *_Frlg. This heuristic excludes custom dialogue in reused Emerald maps and unextracted text. Applied move tutor common NPC dialogue: 41 messages / 156 rows, no pending catalog rows in data/text/move_tutors.inc. Core game-wide dialogue still incomplete.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/types-14669.xlsx",
-  "user_review_workbook": "../outputs/translation-types-14669/Wishes_種類別翻訳一覧.xlsx",
+  "review_workbook": "exports/types-14974.xlsx",
+  "user_review_workbook": "../outputs/translation-types-14974/Wishes_種類別翻訳一覧.xlsx",
   "last_dialogue_batch": {
-    "entries": 314,
-    "script_rows": 314,
-    "messages": 121,
+    "entries": 305,
+    "script_rows": 305,
+    "messages": 77,
     "batches": [
-      "dialogue-trick-puzzles-66"
+      "dialogue-mauville-verdanturf-67"
     ],
-    "translation_commit": "1d9d35dd14815dd4bfec0b3f47620f7954e9bf95",
-    "reference_rows_reviewed": 179,
-    "source_logic": "non-string lines identical in 9 scripts; entire script_menu.h unchanged; 15 choices/answer indices audited",
+    "translation_commit": "ebc5dfa87c93e46a21fc98222a8ca5f83f1a543f",
+    "reference_rows_reviewed": 139,
+    "source_logic": "non-string lines identical in 8 scripts",
     "width": "bad0; >26cells0; variables/pages/scroll/end preserved per original row",
-    "quiz_issue": "3_Q3 fixed cheaper answer differs from current Gen9 equal prices; original logic preserved; quiz-audit.json records details",
-    "runtime": "not run; locks, quizzes, trainer battles, rewards, progression and saves unverified"
+    "runtime": "not run; bike controls, gym doors, battles, rewards, trades, communication, progression and saves unverified"
   },
   "excel_total_rows": 62429,
   "excel_catalog_rows": 61722,
-  "excel_pending_rows": 47053,
+  "excel_pending_rows": 46748,
   "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings",
   "name_input_limits": {
     "player_rival": 5,
@@ -78,7 +77,7 @@
     "save_layout": "unchanged",
     "runtime": "see kana3 review; new dialogue not played"
   },
-  "build_directory": "build/emerald-jp-dlg14669-clean",
+  "build_directory": "build/emerald-jp-dlg14974-clean",
   "last_species_name_batch": {
     "entries": 42,
     "batches": [
@@ -133,18 +132,18 @@
     "rows": 62429,
     "catalog_entries": 61722,
     "external_names": 707,
-    "applied": 15376,
-    "pending": 47053,
+    "applied": 15681,
+    "pending": 46748,
     "memo_key": "row ID; glossary English+Japanese",
-    "scope": "Category sheets retained; 314 TrickHouse puzzle/end rows updated; glossary137",
+    "scope": "Category sheets retained; 305 Mauville facilities/Verdanturf rows updated; glossary139",
     "verification": "all rows/IDs/raw text/status, summary formula values and previews; native Excel GUI not tested"
   },
   "story_inventory": {
     "file": "story-map-inventory.json",
     "candidate_maps": 460,
-    "pending_map_rows": 11178,
+    "pending_map_rows": 10873,
     "scope": "Over-approximate map graph only; conditions/dynamic/C/common-script warps and unextracted text not complete",
-    "next": "MauvilleCity facilities263 + VerdanturfTown42 =305 rows; then Verdanturf facilities/nearby story",
+    "next": "Verdanturf facilities176 + RusturfTunnel75 + Route11714 =265 rows",
     "complete": false,
     "new_label_file": "story-new-label-candidates.json",
     "new_label_rows": 0,
@@ -154,8 +153,8 @@
     "content_difference_labels": 0,
     "content_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741",
     "reference_draft_file": "reference-dialogue-candidates.json",
-    "reference_draft_messages": 1863,
-    "reference_draft_rows": 4985,
+    "reference_draft_messages": 1817,
+    "reference_draft_rows": 4846,
     "reference_draft_status": "unreviewed; no source apply for remaining candidates"
   }
 }

@@ -2054,8 +2054,8 @@
       "map": "MauvilleCity_BikeShop",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 100,
-      "translated": 0,
+      "pending": 0,
+      "translated": 100,
       "outgoing": [
         "MauvilleCity"
       ]
@@ -2064,8 +2064,8 @@
       "map": "MauvilleCity_Gym",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 101,
-      "translated": 0,
+      "pending": 0,
+      "translated": 101,
       "outgoing": [
         "MauvilleCity"
       ]
@@ -2074,8 +2074,8 @@
       "map": "MauvilleCity_House1",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 20,
-      "translated": 0,
+      "pending": 0,
+      "translated": 20,
       "outgoing": [
         "MauvilleCity"
       ]
@@ -2084,8 +2084,8 @@
       "map": "MauvilleCity_House2",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 13,
-      "translated": 0,
+      "pending": 0,
+      "translated": 13,
       "outgoing": [
         "MauvilleCity"
       ]
@@ -2094,8 +2094,8 @@
       "map": "MauvilleCity_Mart",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "MauvilleCity"
       ]
@@ -2104,8 +2104,8 @@
       "map": "MauvilleCity_PokemonCenter_1F",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 13,
-      "translated": 0,
+      "pending": 0,
+      "translated": 13,
       "outgoing": [
         "MauvilleCity",
         "MauvilleCity_PokemonCenter_2F"
@@ -2747,8 +2747,8 @@
       "map": "MauvilleCity_PokemonCenter_2F",
       "depth": 14,
       "via": "MauvilleCity_PokemonCenter_1F",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "MauvilleCity_PokemonCenter_1F",
         "TradeCenter",
@@ -3101,8 +3101,8 @@
       "map": "VerdanturfTown",
       "depth": 14,
       "via": "Route117",
-      "pending": 42,
-      "translated": 0,
+      "pending": 0,
+      "translated": 42,
       "outgoing": [
         "Route116",
         "Route117",
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 11178,
-  "translated_map_rows": 6177
+  "pending_map_rows": 10873,
+  "translated_map_rows": 6482
 }

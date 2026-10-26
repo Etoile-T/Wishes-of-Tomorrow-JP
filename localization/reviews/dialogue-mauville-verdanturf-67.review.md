@@ -11,3 +11,5 @@ yomiyasuの最終稿lint0、meaning_risk4を全て英語で照合。Isn't it fun
 yomiyasu-check: executed via=verify run=20261026T223029Z-34adc34c attempt=1 final=sha256:e50c27d4b555 mode=rewrite doc_type=script checks=lint,diff,materials meaning_risk=4 replay=skipped
 
 check bad0、26マス超0、catalog validate成功、auditはみ出し0、78テスト成功。8スクリプトの非.string行は開始HEADと一致。ロジック/イベントフラグ/セーブ構造の変更なし。実ゲーム画面/操作/通信/戦闘/受領/進行/保存は未検証。旧ROM・セーブは触らない。
+
+成果物: GBA ../outputs/gba/wishes-jp-14974-6ffe83ab.gba、SHA256 ca4d7f0da794b08fd045951cba2803c315509a410b5c9630e42f0c1b617ee040。source commit ebc5dfa87c93e46a21fc98222a8ca5f83f1a543f。build/emerald-jp-dlg14974-cleanでビルドexit0、ROM29,822,152B/EWRAM230,024/IWRAM28,600。BPS再適用SHA/CRC・全バイト一致、../artifacts/wishes-jp-ui14974-6ffe83ab-patch.zip。Excel14シート・62,429行11列・139語・全原文/訳文/ID/状態/メモと目次62,429/15,681/46,748を保存後照合。旧メモ0件維持。Git内exports/types-14974.xlsx、ユーザー版 ../outputs/translation-types-14974/Wishes_種類別翻訳一覧.xlsx。実Excelアプリ・ゲーム実画面/進行/保存は未検証。旧ROM・セーブ保持。

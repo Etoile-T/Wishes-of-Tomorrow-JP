@@ -1,0 +1,2720 @@
+[
+  {
+    "id": "8b9173cc5eb8aded",
+    "translation": "{JPN}おやおや? これは また\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b51e15de58b43831",
+    "translation": "ずいぶん げんきな おきゃくさんだ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5a914e94a96089d2",
+    "translation": "わたし? ミスターカゼノと よんでくれ。\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bd3ffa981b614d16",
+    "translation": "この サイクルショップの オーナーさ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "78bc2c14f8d46200",
+    "translation": "{JPN}カゼノ: きみの ランニングシューズ…\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e617b38dcf3a37c4",
+    "translation": "ずいぶん よごれているね。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "29997d7c8b68461d",
+    "translation": "とおくから やってきたのかい?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1ebca7c1e715b875",
+    "translation": "{JPN}カゼノ: そうなのかい?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5343a1409fdcd9ce",
+    "translation": "それなら うちの じてんしゃは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c7e3afb6fa82a567",
+    "translation": "ひつよう なさそうだね。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "04fa3b849d4170f2",
+    "translation": "{JPN}カゼノ: ふむ ふむ… … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b080d070a0761e8d",
+    "translation": "ミシロから はるばる\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d0331bc1fbb43a84",
+    "translation": "ここまで きたというのかい?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8a8186123620a8c5",
+    "translation": "なんと!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ab127fb8300eac4a",
+    "translation": "とんでもなく とおいじゃないか!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "50a6490f2093d632",
+    "translation": "うちの じてんしゃが あれば\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bba20866835511c1",
+    "translation": "やさしく なでる かぜを かんじながら\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7d288c4230daa689",
+    "translation": "どこへでも らくに いけるよ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "404af0e71d41298a",
+    "translation": "よし こうしよう!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "02674a83c7f7f7d5",
+    "translation": "きみに じてんしゃを あげよう!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1d5d96ac8209ea29",
+    "translation": "おっと ちょっと まった!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bd038a1e8b093caf",
+    "translation": "じてんしゃは 2しゅるい あると\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "89c863eedda69b70",
+    "translation": "いいわすれて いたね!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3cba7fe9bdab490a",
+    "translation": "マッハじてんしゃと\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6bc743414915331c",
+    "translation": "ダートじてんしゃ だよ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a8f5c4fc7df32aeb",
+    "translation": "マッハじてんしゃは からだいっぱいに\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "352e85edf9e50f88",
+    "translation": "かぜを かんじたい ひと むき!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7f94ccfe30b6f1df",
+    "translation": "そして ダートじてんしゃは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bf4c9702005edcd8",
+    "translation": "テクニックを たのしみたい ひと むき!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "179bfe588e28e25d",
+    "translation": "わたしは とっても やさしいから\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3caa44753c04fde2",
+    "translation": "すきな ほうを あげるよ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2aba2db692ac85f6",
+    "translation": "どっちに するかい?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ed1fbfa8a3d1db9a",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\nマッハじてんしゃを えらんだ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f21140f9fe63882b",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\nダートじてんしゃを えらんだ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "67b535aadc78c421",
+    "translation": "{JPN}カゼノ: じてんしゃを かえたく なったら\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3c42fd5faa872b1c",
+    "translation": "わたしに あいに きてくれ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9a4246ebb690f8a5",
+    "translation": "{JPN}カゼノ: おや? ちがう タイプの\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7ee72abfa56e28c5",
+    "translation": "じてんしゃに のりかえたく なったのかな?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "87f1c9b5088a8add",
+    "translation": "{JPN}カゼノ: よし おやすい ごようだ!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "75a1eb70b61b94e3",
+    "translation": "じてんしゃを こうかん してあげよう!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "da6b91fed7e583de",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は マッハじてんしゃを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "685ceb1c2d83fb83",
+    "translation": "ダートじてんしゃに かえてもらった!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9e98cd5993c0dea8",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は ダートじてんしゃを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "07e8b672e2a9d5b1",
+    "translation": "マッハじてんしゃに かえてもらった!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c36a67b83aa3a8d8",
+    "translation": "{JPN}カゼノ: そうか そうか!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2de6124e4c3fcaee",
+    "translation": "きにいってくれて うれしいぞ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0e73459b725e447d",
+    "translation": "{JPN}……おや?\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "065dff1e8e0fb9a5",
+    "translation": "きみに あげた じてんしゃ どうした?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0bcd2eec722c7437",
+    "translation": "そうか パソコンに あずけてあるのか\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "87581c45778fcc1a",
+    "translation": "パソコンから とりだして もってきたら\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9c573ccd2144507d",
+    "translation": "こうかんして あげる からな!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "45b03a675ad37de5",
+    "translation": "きみの ぼうけんに……\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0364ea0e5440187c",
+    "translation": "おいかぜが ふくことを いのってるよ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bd2e2e0535fc0f3b",
+    "translation": "{JPN}ここで はたらきながら\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fe6f93b62d3ecddd",
+    "translation": "じてんしゃの べんきょうを してるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "42e2031030813f98",
+    "translation": "じてんしゃの のりかたを しりたかったら\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "559180124ccb9539",
+    "translation": "おくに せつめいしょが\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b8b52fbd622d4586",
+    "translation": "2さつ あるよ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "102c6b090053456a",
+    "translation": "{JPN}マッハじてんしゃの せつめいしょだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cabc4e3fd5b1cdff",
+    "translation": "どの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "75216c1f871f9cbe",
+    "translation": "{JPN}じてんしゃは じゅうじキーを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "025bfbfe1786f29c",
+    "translation": "おした ほうこうに すすみます。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0eec5a9c9779f75e",
+    "translation": "はしりだすと スピードが あがります。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3b16a4bfc75a763f",
+    "translation": "とまるには じゅうじキーを はなします。\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d1e7c7a7316907fa",
+    "translation": "スピードが おちて とまります。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "85252461d753f2e2",
+    "translation": "べつの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "437e2d3359d6afa1",
+    "translation": "{JPN}マッハじてんしゃは はやいですが\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c6737459075af925",
+    "translation": "すぐには とまれません。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c931b28f34b2c6e3",
+    "translation": "そのため カーブを まがるには\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0cafd54021663c44",
+    "translation": "すこし コツが いります。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f2204ccab9c2d636",
+    "translation": "カーブの すこし てまえで\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c5d36ea7310ac9cd",
+    "translation": "じゅうじキーを はなし げんそくします。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ac6fedd53d0c27bb",
+    "translation": "べつの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "29549eae88a81491",
+    "translation": "{JPN}ホウエンちほうには ところどころに\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ca616b023358ed4e",
+    "translation": "ちいさな すなのさかが あります!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "261880cbafd17317",
+    "translation": "そこは すなが くずれやすい ために\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8446a9af687b8406",
+    "translation": "ふつうは のぼることが できませんが\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1b38a6529c9ce199",
+    "translation": "マッハじてんしゃに のっていれば\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f12059934f19a694",
+    "translation": "のぼることが できるのです!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4de7d40cba4f8f84",
+    "translation": "……べつの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6393836ab11600a3",
+    "translation": "{JPN}ダートじてんしゃの せつめいしょだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "eaa92ec7149630d1",
+    "translation": "どの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "839e671f4d75605c",
+    "translation": "{JPN}はしりながら Bボタンを おすと\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "00de1a82b5ce284f",
+    "translation": "まえの タイヤが もちあがります。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d1cfc736d2dc9999",
+    "translation": "じゅうじキーを つかえば そのまま\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "305a0534b68570fc",
+    "translation": "タイヤを あげて はしれます。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2034c2a4613fc428",
+    "translation": "この わざを ウィリーと いいます。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f8d31b93a45d19e5",
+    "translation": "べつの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5e7f73df5f38b76a",
+    "translation": "{JPN}Bボタンを おしつづけると\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "137e77e0f302233d",
+    "translation": "そのばで ホッピングが できます。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2f853b2cbce7167c",
+    "translation": "この わざを バニーホップと いいます。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2424a8ec5d2cfb50",
+    "translation": "ホッピングしながら すすむことも できます。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "519a1f301ef86f0d",
+    "translation": "べつの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e81e13e19bd73528",
+    "translation": "{JPN}Bボタンと じゅうじキーを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9ce1e4bc8028ca6b",
+    "translation": "どうじに おすと ジャンプします。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9a688eab36fa8dfb",
+    "translation": "じゅうじキーを よこに おせば\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4a5e79dc0db92c7f",
+    "translation": "よこに ジャンプします。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "532b3fddc63f3b94",
+    "translation": "うしろに おすと ジャンプしながら\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e4ebd90d65d9215c",
+    "translation": "じてんしゃの むきを かえられます。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "51e006e9dc3f49a0",
+    "translation": "べつの ページを よみますか?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a8eff4f9e20b3963",
+    "translation": "{JPN}よう! ちょうしは どうだい?\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "dcaef3843160e5ec",
+    "translation": "みらいの チャンピオン {ENG}{PLAYER}{JPN}!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cb582fb4648d7180",
+    "translation": "キンセツジムの リーダー テッセンは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4c151b6aae90fe28",
+    "translation": "でんきタイプの ポケモンを つかう。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f4988f0f682f9155",
+    "translation": "みずタイプの ポケモンで いどむと\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2faf663dec3fa0e6",
+    "translation": "しびれさせられるぞ! ビリビリッ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5a19ef95b9d503f7",
+    "translation": "おまけに ジムじゅう スイッチで うごく\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7eefbc5b3488d88f",
+    "translation": "とびらだらけ! かわった ひとだぜ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "89893d0772e28fdc",
+    "translation": "さあ がんばれよ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "16e269dde64396a4",
+    "translation": "{JPN}うおっ きみには しびれたぜ!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f7adc25e55b3fb56",
+    "translation": "その パワーで とびらも ひらいたな!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a04d37d757b093b0",
+    "translation": "{JPN}しびれる オレの たましいで\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2f5bcfd675aa3dc3",
+    "translation": "ゆめごと くだいてやるぜ! イェーイ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6b92a55cb8a07056",
+    "translation": "{JPN}プラグを さして アンプ ぜんかい!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "47708beb33735c67",
+    "translation": "ひずむほど しびれる しょうぶだったぜ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fd4e6a060778b121",
+    "translation": "{JPN}ポケモンも ロックも ハートが すべて\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "145710322c621841",
+    "translation": "いぇーい!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "46d6e3840f33b13a",
+    "translation": "{JPN}テッセンさんに きたえられた この オレが\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3312123b43ea5ddf",
+    "translation": "そう かんたんに まける はずがねえ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cc97d4464ea8dcac",
+    "translation": "{JPN}プラグも ぬけて でんげんオフ…$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "02812ee3b11ce8fc",
+    "translation": "{JPN}うちの ジムリーダーの テッセンさんは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4018c507fbb1019a",
+    "translation": "ずっと ずっと むかしから いるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ba8abdc7c0731893",
+    "translation": "きみの パパが うまれる まえから\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ba7e0d94f257158b",
+    "translation": "たたかってる タフな じいさんさ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6f80c8d0b0c3281f",
+    "translation": "{JPN}この ジムには しかけが あるんだ!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9e18b6ce67ed4bab",
+    "translation": "たのしいだろ?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5d6225aa381f00c0",
+    "translation": "{JPN}まけると たのしくないよ…$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c1cfe20d51ae3020",
+    "translation": "{JPN}テッセンさんは スイッチを つかった\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "73d54578d3932deb",
+    "translation": "ちいさな しかけづくりが すきだって。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bea4284dd7d8576f",
+    "translation": "{JPN}あたしの みりょくと\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "00f0842b572e486d",
+    "translation": "ポケモンの わざで しびれさせちゃう!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "681a753839991f81",
+    "translation": "{JPN}あなたの つよさに しびれたわ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6b114dc831bf17bf",
+    "translation": "{JPN}この キンセツシティは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6bd635ac4d3818c4",
+    "translation": "テッセンさんが つくったって はなし\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1ae674f21c8ad94d",
+    "translation": "わたしたちが トレーナーに なる\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b52e3381293c9153",
+    "translation": "ずっと まえから トレーナーだもの。\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c9a0925a461dc72c",
+    "translation": "きっと いろんなことを しってるわ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "db03ddbea6d3db43",
+    "translation": "{JPN}ぼく ひかるもの だーいすき なんだ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "806053f838295f4c",
+    "translation": "{JPN}ああ…\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1745a03b2919669e",
+    "translation": "めのまえが チカ チカ$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "201f0d0a3dc54145",
+    "translation": "{JPN}キンセツジムの テッセンさんの おデコは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c9d7d784b52919bd",
+    "translation": "ピカピカ ひかってて うれしいな!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9c265ed481e701c9",
+    "translation": "{JPN}まちを かいぞうする けいかくは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "de628f9eeda25a15",
+    "translation": "もう あきらめたんじゃ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ef1053f2d75d780f",
+    "translation": "それで ジムの とびらの しかけづくりに\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "80b6b62abc243803",
+    "translation": "じかんを つかって おるんじゃよ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f47d5821d18aee04",
+    "translation": "おや? おぬし ここで なにを?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3b0986ef92307496",
+    "translation": "なんじゃと? わしの とびらの しかけを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "96e7c7a22bc88de9",
+    "translation": "ぜんぶ ぬけてきたと いうのか?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8fbd7c764343aab3",
+    "translation": "わっはははは!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "55337d23a7c3620d",
+    "translation": "そりゃ おもしろい!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d59db01a696aeb46",
+    "translation": "では キンセツジムの リーダー\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "43bbbb0e1850d643",
+    "translation": "この テッセンが しびれさせて やろう!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "95e21d2c8d73c891",
+    "translation": "{JPN}わっはははは!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "967a32b6928ea67a",
+    "translation": "よし わしの まけじゃ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7dc31ec059178a40",
+    "translation": "こっちが しびれさせられて しもうたな!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "10d533368a8bb613",
+    "translation": "この バッジを うけとれい!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "41b211061adaf85c",
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は テッセンから\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ed89906a50ad55a4",
+    "translation": "ダイナモバッジを もらった!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "04e82a4bc3b0ae67",
+    "translation": "{JPN}ダイナモバッジが あれば ポケモンは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "92e56019cfd4486e",
+    "translation": "たたかいの そとで いわくだきが つかえる。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "17040f8f5d0dce5c",
+    "translation": "それに ポケモンの すばやさも\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9dfc4c9560e935a1",
+    "translation": "すこし あがるんじゃ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "58b4a2c2303d51d8",
+    "translation": "ふむ…\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "75864298c82b9afd",
+    "translation": "これも うけとると いい!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b3265c3e93efce10",
+    "translation": "{JPN}その わざマシン34は でんげきは じゃ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5fb2840b783efb6a",
+    "translation": "けっして はずれない たのもしい わざ!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e71f139d2bf53b74",
+    "translation": "たよりに なるぞ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ac76485f7c850552",
+    "translation": "… … … … … …$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ba0ae009e6f79de2",
+    "translation": "{JPN}ジムリーダー テッセンを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f6420d57f5256778",
+    "translation": "ポケナビに とうろく した!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c49e5cafcca3ad27",
+    "translation": "{JPN}おぬしのような みどころある わかものを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a34c1ebcb4cb66b1",
+    "translation": "みると みらいに きぼうが わいてくるわい!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7cab7a07c729f748",
+    "translation": "{JPN}わっはははは!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "19d49b9c61f31980",
+    "translation": "わかものよ すすんで はげむんじゃ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9c2371c785dd2191",
+    "translation": "{JPN}キンセツシティ ポケモンジム$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "07780c080cea9e79",
+    "translation": "{JPN}キンセツシティ ポケモンジム\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2215b5661ce0124b",
+    "translation": "テッセン にんてい トレーナー!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e6178403944b9e89",
+    "translation": "{ENG}{PLAYER}{JPN}$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8066ac60b56aa651",
+    "translation": "{JPN}テッセン: おーっと あらわれたな!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "96429c20b90977c7",
+    "translation": "わかっとる! わしと ポケモンの\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "205503e73ecab8cb",
+    "translation": "しょうぶを したいんじゃろう!?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "65b0f3af21c4a1a4",
+    "translation": "わっはははは!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "76b7f8f378112319",
+    "translation": "ひばな バチバチ いわせて やるから\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ce146cc07f494ff0",
+    "translation": "かくご するんじゃぞ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "aaf90460462f2fcf",
+    "translation": "{JPN}ううっ…\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f158ad4e99c58554",
+    "translation": "わしらの でんちが きれたか…$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b7c0f0ec5457bbfc",
+    "translation": "{JPN}テッセン: また でんちを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e5ba63fcdb1aa8ab",
+    "translation": "じゅうでん せねば ならんな。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c5c7bdbaec6b274c",
+    "translation": "まんたんに じゅうでん できたら\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "886940845857a8c8",
+    "translation": "よろこんで ちょうせんを うけるぞ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b573027339dbeba8",
+    "translation": "だから また いつか\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d0c984150a99d284",
+    "translation": "きてくれるじゃろう?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a9f309dd4888cee9",
+    "translation": "{JPN}テッセン: おーっと あらわれたな!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "386e3ce5daa28d9b",
+    "translation": "わかっとる! わしと ポケモンの\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c6b959aec8fcae3f",
+    "translation": "しょうぶを したいんじゃろう!?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "494e6efeede3402b",
+    "translation": "わっはははは!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0c14dee0b93eb302",
+    "translation": "おっと まつんじゃ! ポケモンを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d8da6535db7df21b",
+    "translation": "1ひきしか つれておらんな!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "df68499fedd38256",
+    "translation": "2ひき いじょうの ポケモンを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2b7acf725ca2693d",
+    "translation": "つれて あいに きておくれ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2bbccb0f76bae450",
+    "translation": "{JPN}うっほー!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "60cc2015a7084020",
+    "translation": "いわくだきの やつって よばれるんだが\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "90a08c0c1431be17",
+    "translation": "それじゃ ちょっと みくだされてるよな。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a5f03783d30e96f4",
+    "translation": "もうすこし うやまわれても いいと おもう。\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e5aac258d0a9d29d",
+    "translation": "いわくだきの アニキ とかさ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "90b5e437ce312db7",
+    "translation": "うっほー!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5a2cb72ddf4f9c66",
+    "translation": "それは そうと きみの ポケモン\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "83fff4f63453e81f",
+    "translation": "なかなか つよそうだね。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bffc82da8bf74791",
+    "translation": "きにいった!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a842b9bb340d258f",
+    "translation": "ほら この ひでんマシンを あげよう!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2b180dfe7174a337",
+    "translation": "{JPN}それは ひでんマシン「いわくだき」!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c8a177e2ec9e24e1",
+    "translation": "きみの いくてを ふさぐ\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ecefdbbf1cf2023b",
+    "translation": "じゃまな おおいわが あっても\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7d7333ba9a764088",
+    "translation": "その ひでんを つかうことで\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3cd454e8ebd3c791",
+    "translation": "くだいて しまえるのだ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "361963ce7ef8d6ca",
+    "translation": "そうとも! いわなんて くだいてしまえ!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "eab3f8905ebcf47d",
+    "translation": "うっほー!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a88e1af674fd7587",
+    "translation": "{JPN}そうそう いわを くだくと かくれていた\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c77159ef0d1a6e58",
+    "translation": "ポケモンが とびだすことが あるよ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4727977b200545c2",
+    "translation": "うっほー!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ad767f4609f8d2e9",
+    "translation": "{JPN}じてんしゃが あれば カイナまで\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c99fe0e969c7939b",
+    "translation": "かいものに いくのも らくなのに。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "899105f80563f91a",
+    "translation": "そして カイナの フレンドリィショップで\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b58c5c2716f6331b",
+    "translation": "ハーバーメールを かえるのに……$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "90e6bf5b2778e85a",
+    "translation": "{JPN}それ! ハーバーメールでしょ!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "57c6a27b281f76b7",
+    "translation": "コインケースと こうかん してくれない?$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8d3caca7708e5e4d",
+    "translation": "{JPN}うれしい!\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f2f06b28a856be33",
+    "translation": "じゃ コインケースと こうかんね!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ff9c0f8de53d0d00",
+    "translation": "{JPN}その コインケースは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e51c58bbaa9863fa",
+    "translation": "ゲームコーナーで つかえるわ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7b2ad2bf1895152c",
+    "translation": "{JPN}あら ざんねんだわ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "066e818671ee4bb8",
+    "translation": "ゲームコーナーには\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "501577dddce582df",
+    "translation": "コインケースが ひつようなのよ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "580762add2308e6f",
+    "translation": "{JPN}ポケモンの のうりょくを いちじてきに\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ac5853a7d5200129",
+    "translation": "あげる どうぐが あるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ed12809538fbe4a9",
+    "translation": "たたかいで つかうものなら しってるよ。\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7da799a52494967a",
+    "translation": "プラスパワーと ディフェンダー…\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "767420bccbb44c6f",
+    "translation": "ほかにも おなじような どうぐが\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "47190ac8faa1250d",
+    "translation": "あったと おもうよ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4a7e90f4824915fe",
+    "translation": "{JPN}わざを くりだすのか\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6e62f51554143f1c",
+    "translation": "それとも どうぐを つかうのか……\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "76b5c4b2cddbd8af",
+    "translation": "トレーナーの はんだんで\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "50e8ce7a6c7360ed",
+    "translation": "しょうぶが きまると おもうんだ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bbbc0fecd2823ae3",
+    "translation": "{JPN}あそこに いる オヤジ\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8ca3f83a128fcfb4",
+    "translation": "へんなこと いったり するの!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e21f52b1966d5339",
+    "translation": "なんだか おもしろくって\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1802b42b63df0b38",
+    "translation": "わすれられない そんざい だわ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bd5ea9bac0775d7b",
+    "translation": "{JPN}レコードコーナーで つうしんしたら\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "24c620b473991410",
+    "translation": "ムロで はやってるものの データが\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e7c1e3aa026c1800",
+    "translation": "こうしん されたんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6805570e053e02ce",
+    "translation": "その データは いま\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "96e9cc8e08cb0def",
+    "translation": "ともだちと おなじに なってるよ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fec3f79d0cdc4cea",
+    "translation": "{JPN}ポケモンセンターの 2かいに\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "85c1135c6fa497cf",
+    "translation": "レコードコーナーが できたんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2e1dfe945eb35e2a",
+    "translation": "よく わからないけど おもしろそうだな。\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "502ce13463c06905",
+    "translation": "いって たしかめて みるよ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "89024c9f6c432032",
+    "translation": "{JPN}ここの コロシアムで つうしんたいせんが\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c766744d284aa3d6",
+    "translation": "できるって しってた?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bac4bf766dc6b058",
+    "translation": "せいせきが かべに はられて\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ddaaa85ed363609c",
+    "translation": "みんなに みられちゃうんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c8d9270dd062327a",
+    "translation": "かった かずより まけた かずが おおいと\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1bc37828a4a86e56",
+    "translation": "はずかしいよね…$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bfe43670cffcf72f",
+    "translation": "{JPN}パパに きいたんだけどね。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8642d2891cf728b1",
+    "translation": "この トンネルには おくびょうな\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "590284233277566e",
+    "translation": "ポケモンが たくさん いるんだって。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "39ccd7783a2e3ae7",
+    "translation": "おおきな おとで びっくりして\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3a0b9ee0455e771b",
+    "translation": "おおさわぎに なっちゃうんだって。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "716141082d964c2c",
+    "translation": "だから おおきな トンネルの こうじは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8e791bcbd871f02a",
+    "translation": "やめなきゃ いけなかったんだって。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bf859813d75da18b",
+    "translation": "でも ひとりだけ じぶんで トンネルを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "beef7a22e062103b",
+    "translation": "ほろうと している おとこのひとが いるの!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8aa3b0d95a53cb7b",
+    "translation": "{JPN}すきな おんなのひとの ために\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1cfa9ab05555184c",
+    "translation": "トンネルを ほった ひとが いたの。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1ee832de97ca5233",
+    "translation": "よく わからないけど すごいね!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e7b22f176333e925",
+    "translation": "{JPN}かざむきの かんけいで このまち には\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "74a1a215879edbdb",
+    "translation": "かざんばいが とんでくることは ない!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ba897fd06c2c0491",
+    "translation": "ここの くうきは きれいで おいしい。\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "fc567e891c4a3447",
+    "translation": "ここで くらせば からだの よわいひとも\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a76156bf78cdbb69",
+    "translation": "びょうきがちなひとも げんきに なれそうさ。$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "228e82ccf307088d",
+    "translation": "{JPN}ぼくと ぼくの ポケモンは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "817ddc0697ee02ed",
+    "translation": "さいきん れんしょう つづきでね。\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "881acd959d226b3f",
+    "translation": "この まちの バトルテントで\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bba2ad4b47a1305f",
+    "translation": "デビューすることに きめたんだ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9ff37ed43ef9cba0",
+    "translation": "{JPN}フレンドリィ ショップの となりに\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "93eab6d49ab36af3",
+    "translation": "どうくつが あるだろ?\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "541223dd7d97f6ee",
+    "translation": "なかを ふさいでいる いわを こわし\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e7820c6d83f59b2a",
+    "translation": "とおれるように しようと がんばっている\\l",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a3b8673a1f4ab4c8",
+    "translation": "やつが いるんだ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d153dc6faf94f854",
+    "translation": "とおれるように なると いいのに……\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1bb6dbf4393840db",
+    "translation": "カナズミにも いきやすく なるから!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ffaf6be554bf9b70",
+    "translation": "{JPN}フレンドリィ ショップの となりの\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "526db2e0f6d2a8c7",
+    "translation": "どうくつが とおれるように なっただろ!\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e0dcb9aa81ea5eba",
+    "translation": "カナズミまで デボンの しんせいひんを\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "80e034964e7afbf2",
+    "translation": "かいに いきやすくなって うれしいよ!$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6c9466f614262fa6",
+    "translation": "{JPN}シダケタウン\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3b4313c735b13293",
+    "translation": "「かぜの ふく こうげんに\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "eb97ac05d5c2966f",
+    "translation": "くさが あまく かおる まち」$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a59fb8abdbd5f273",
+    "translation": "{JPN}「ミチルの いえ」$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4a51b258d27fadbc",
+    "translation": "{JPN}バトルテント シダケタウン かいじょう\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ff2461ba7d072c68",
+    "translation": "みまもれ! ポケモンバトル$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "074afa50c070e972",
+    "translation": "{JPN}カナシダトンネル\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "53af2841b186fbdc",
+    "translation": "「カナズミと シダケを つなぐ」\\p",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3fc87c687c243295",
+    "translation": "「トンネルの こうじは\\n",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "480571c3c909c0e7",
+    "translation": "ちゅうしに なりました」$",
+    "provenance": {
+      "batch": "dialogue-mauville-verdanturf-67",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  }
+]

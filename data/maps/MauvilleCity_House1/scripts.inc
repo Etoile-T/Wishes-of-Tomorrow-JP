@@ -19,28 +19,28 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 	end
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
-	.string "Woohoo!\p"
-	.string "I hear people call me the ROCK SMASH\n"
-	.string "GUY, but I find that sort of degrading.\p"
-	.string "I think I deserve a bit more respect,\n"
-	.string "like maybe the ROCK SMASH DUDE.\p"
-	.string "Woohoo!\p"
-	.string "Anyways, your POKéMON look pretty\n"
-	.string "strong.\p"
-	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "{JPN}うっほー!\p"
+	.string "いわくだきの やつって よばれるんだが\n"
+	.string "それじゃ ちょっと みくだされてるよな。\p"
+	.string "もうすこし うやまわれても いいと おもう。\n"
+	.string "いわくだきの アニキ とかさ。\p"
+	.string "うっほー!\p"
+	.string "それは そうと きみの ポケモン\n"
+	.string "なかなか つよそうだね。\p"
+	.string "きにいった!\n"
+	.string "ほら この ひでんマシンを あげよう!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
-	.string "If you come across large boulders\n"
-	.string "that block your path…\p"
-	.string "Well, use that HM move and smash\n"
-	.string "them right out of your way!\p"
-	.string "Yes, sir! Smash rocks aside, I say!\n"
-	.string "Woohoo!$"
+	.string "{JPN}それは ひでんマシン「いわくだき」!\p"
+	.string "きみの いくてを ふさぐ\n"
+	.string "じゃまな おおいわが あっても\p"
+	.string "その ひでんを つかうことで\n"
+	.string "くだいて しまえるのだ!\p"
+	.string "そうとも! いわなんて くだいてしまえ!\n"
+	.string "うっほー!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
-	.string "could come flying out of hiding.\p"
-	.string "Woohoo!$"
+	.string "{JPN}そうそう いわを くだくと かくれていた\n"
+	.string "ポケモンが とびだすことが あるよ。\p"
+	.string "うっほー!$"
 

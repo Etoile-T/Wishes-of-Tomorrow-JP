@@ -311,203 +311,203 @@ LilycoveCity_ContestHall_EventScript_SmartStageSign::
 	end
 
 LilycoveCity_ContestHall_Text_TodayWonSmartnessContest:
-	.string "This POKéMON won the BEAUTY CONTEST\n"
-	.string "here before.\p"
-	.string "Well, guess what? Today, I made it\n"
-	.string "win a SMARTNESS CONTEST!\p"
-	.string "My abilities scare even me…$"
+	.string "{JPN}この ポケモンは まえに ここで\n"
+	.string "うつくしさコンテストで かったの。\p"
+	.string "ところが きょうは なんと\n"
+	.string "かしこさコンテストで かたせちゃった!\p"
+	.string "じぶんの さいのうが こわいわ…$"
 
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests:
-	.string "I've entered a bunch of CONTESTS,\n"
-	.string "so I'm seeing how things work.\p"
-	.string "If you're in a COOLNESS CONTEST,\n"
-	.string "cool moves go over as appeals.\p"
-	.string "But smart moves and cute moves\n"
-	.string "don't go over well, for instance.$"
+	.string "{JPN}なんども コンテストに でて\n"
+	.string "しくみが わかってきたよ。\p"
+	.string "かっこよさコンテストなら\n"
+	.string "かっこいい わざの アピールが うける。\p"
+	.string "でも かしこい わざや かわいい わざは\n"
+	.string "うけが よくないんだ。たとえばね。$"
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks:
-	.string "That young man who won earlier had\n"
-	.string "a whole bunch of different {POKEBLOCK}S.\p"
-	.string "Can you win if you had that many\n"
-	.string "of those things?$"
+	.string "{JPN}さっき かった わかい おとこのひとは\n"
+	.string "いろんな ポロックを たくさん もってたね。\p"
+	.string "ああいうのを たくさん もっていれば\n"
+	.string "かてるのかねえ?$"
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
-	.string "Whoa, isn't this place humongous!\p"
-	.string "The tension in the air… It's not\n"
-	.string "like a CONTEST hall in the sticks.$"
+	.string "{JPN}うわあ なんて ひろいんだ!\p"
+	.string "この きんちょうかん… いなかの\n"
+	.string "コンテストかいじょうとは ちがうね。$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
-	.string "MC: Okay, SMART POKéMON and their\n"
-	.string "TRAINERS, are you ready?!\p"
-	.string "Give it your best showing!\n"
-	.string "Let's appeal!$"
+	.string "{JPN}しかい: かしこい ポケモンと トレーナーの\n"
+	.string "みなさん じゅんびは いいですか?!\p"
+	.string "さいこうの すがたを みせてください!\n"
+	.string "さあ アピールしましょう!$"
 
 LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest:
-	.string "JUDGE: Are you enjoying this CONTEST?\p"
-	.string "Come back with three friends, and\n"
-	.string "all of you may enter a CONTEST!$"
+	.string "{JPN}しんさいん: コンテスト たのしんでますか?\p"
+	.string "おともだちを 3にん つれてくれば\n"
+	.string "4にん いっしょに さんか できますよ！$"
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest:
-	.string "Ayayayay…\n"
-	.string "I entered the wrong CONTEST.\p"
-	.string "I entered this tough POKéMON in\n"
-	.string "the SMARTNESS CONTEST…\p"
-	.string "Come on, wow them with a smart-looking\n"
-	.string "ROCK SMASH.$"
+	.string "{JPN}あわわわ……\n"
+	.string "でる コンテスト まちがえた……\p"
+	.string "たくましい ポケモンを\n"
+	.string "かしこさ コンテストに……\p"
+	.string "よ よしっ\n"
+	.string "かしこそうな いわくだき たのむぞ！$"
 
 LilycoveCity_ContestHall_Text_RaisedMonToBeSmart:
-	.string "I've spent many a year, and all my\n"
-	.string "wisdom besides, raising this POKéMON\l"
-	.string "to be smart.\p"
-	.string "It won't be easily bested by some\n"
-	.string "young pup's POKéMON.\p"
-	.string "My dear wife, are you seeing this?$"
+	.string "{JPN}わしが ながねん\n"
+	.string "ちしきの すべてを かけて\l"
+	.string "かしこく そだてた ポケモン！\p"
+	.string "わかい やつらの ポケモン なんぞに\n"
+	.string "そう やすやすと まけたりは せんぞ！\p"
+	.string "ばあさん みとるかー！?$"
 
 LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext:
-	.string "There it is!\p"
-	.string "If my POKéMON pulls a smart move next,\n"
-	.string "the audience's excitement will peak!$"
+	.string "{JPN}それだ!\p"
+	.string "つぎに かしこい わざを だせば\n"
+	.string "かんきゃくの もりあがりは さいこうだ!$"
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife:
-	.string "Oh, dear, no!\p"
-	.string "My darling ZUBAT's LEECH LIFE is so\n"
-	.string "cute I kept using it over and over!\p"
-	.string "But these mean people don't appreciate\n"
-	.string "it at all!$"
+	.string "{JPN}ああ そんな!\p"
+	.string "かわいい ズバットの きゅうけつが\n"
+	.string "あんまり かわいくて なんども つかったの!\p"
+	.string "なのに この いじわるな ひとたちは\n"
+	.string "ちっとも よさを わかってくれないの!$"
 
 LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa:
-	.string "Kiyaaah! You're beautiful, Grandpa!$"
+	.string "{JPN}キャー！ おじいさん すてきー！$"
 
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves:
-	.string "Even when TRAINERS enter the same\n"
-	.string "kind of POKéMON, they all seem to use\l"
-	.string "different moves for appeals.\p"
-	.string "It's just like the way people have\n"
-	.string "different styles for battling.$"
+	.string "{JPN}おなじ しゅるいの ポケモンでも\n"
+	.string "トレーナーごとに アピールの わざが\l"
+	.string "ちがうみたいだね。\p"
+	.string "ひとによって バトルの しかたが\n"
+	.string "ちがうのと おなじだね。$"
 
 LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers:
-	.string "I think the POKéMON look smarter\n"
-	.string "than their TRAINERS. By a lot.$"
+	.string "{JPN}トレーナーより ポケモンの ほうが\n"
+	.string "ずっと あたまが よさそうに みえるなあ。$"
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests:
-	.string "When all's said and done, I still love\n"
-	.string "SMARTNESS CONTESTS.\p"
-	.string "That intellectual green color…\n"
-	.string "It's so… So… Cool.$"
+	.string "{JPN}なんだかんだ いっても やっぱり\n"
+	.string "かしこさコンテストが すきだな。\p"
+	.string "あの ちてきな みどりいろ…\n"
+	.string "とても… とても… すてきだ。$"
 
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest:
-	.string "MC: Are you entering the BEAUTY\n"
-	.string "CONTEST, too? Good luck!$"
+	.string "{JPN}しかい: あなたも うつくしさコンテストに\n"
+	.string "でるんですか? がんばってくださいね!$"
 
 LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty:
-	.string "JUDGE: Ah, every POKéMON here is\n"
-	.string "a model of pristine beauty!\p"
-	.string "Why, I almost forgot to score them!$"
+	.string "{JPN}しんさいん: ああ どの ポケモンも\n"
+	.string "けがれない うつくしさの おてほんだ!\p"
+	.string "おもわず さいてんを わすれますよ！$"
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty:
-	.string "A POKéMON this beautiful…\n"
-	.string "There isn't another one like it.\p"
-	.string "Everyone's eyes will be glued to\n"
-	.string "my beauty.$"
+	.string "{JPN}こんなに うつくしい ポケモン…\n"
+	.string "ほかには いないわ。\p"
+	.string "みんな この うつくしい ポケモンに\n"
+	.string "めが くぎづけに なるはずよ。$"
 
 LilycoveCity_ContestHall_Text_OverdidGrooming:
-	.string "Waaaah!\p"
-	.string "I brushed and groomed my POKéMON\n"
-	.string "carefully for this CONTEST…\p"
-	.string "But I overdid it…\n"
-	.string "My POKéMON's coat turned all scraggly…\p"
-	.string "What should I do?$"
+	.string "{JPN}うわーん！\p"
+	.string "この コンテストの ために\n"
+	.string "いっしょけんめい けづくろい したら\p"
+	.string "やりすぎて あたしの ポケモン\n"
+	.string "ボサボサに なっちゃった！\p"
+	.string "どうしよう……$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
-	.string "This AURORA BEAM is so dazzling,\n"
-	.string "the JUDGE won't be able to see it.\p"
-	.string "Uh, wait a second…\n"
-	.string "That'll be meaningless, then!$"
+	.string "{JPN}この まぶしすぎる オーロラビームに\n"
+	.string "しんさいんも めを あけられない！\p"
+	.string "……あれ?\n"
+	.string "それじゃ いみが ないのか?$"
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
-	.string "This pretty POKéMON looks just like\n"
-	.string "me when I was younger.\p"
-	.string "Right when I said that, my husband\n"
-	.string "spewed the coffee he was drinking.\p"
-	.string "Did I say something funny?$"
+	.string "{JPN}この きれいな ポケモン\n"
+	.string "あたしの わかい ころに そっくり！\p"
+	.string "って いったら…… とうちゃんが\n"
+	.string "のんでた コーヒーを ふきだしたよ\p"
+	.string "あたし なんか へんなこと いったかね?$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:
-	.string "You know, if I win at a BEAUTY\n"
-	.string "CONTEST, sure it makes me\l"
-	.string "happy. More than usual, anyway.$"
+	.string "{JPN}うつくしさコンテストで かつと\n"
+	.string "やっぱり うれしいよね。\l"
+	.string "いつも いじょうに うれしいんだ。$"
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon:
-	.string "Wahahahah!\p"
-	.string "Will you take a gander at all those\n"
-	.string "pretty POKéMON!\l"
-	.string "I just love this sort of glitz!$"
+	.string "{JPN}うわっはっは！\p"
+	.string "べっぴんな ポケモンちゃん が\n"
+	.string "いっぱいだ……\l"
+	.string "こりゃ はなやかで ええのう！$"
 
 LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone:
-	.string "You can't always win on just beauty\n"
-	.string "alone.\p"
-	.string "You have to groom your POKéMON so\n"
-	.string "it's nice and glossy like mine.$"
+	.string "{JPN}ただ うつくしい だけでは\n"
+	.string "いつも かてるとは かぎらないわよ!\p"
+	.string "あたしの ポケモンみたいに\n"
+	.string "おていれして ツヤツヤ じゃなきゃ！$"
 
 LilycoveCity_ContestHall_Text_InTheMiddleOfContest:
-	.string "MC: Uh-oh! Hello!\n"
-	.string "We're in the middle of a CONTEST!\p"
-	.string "Please enter at our registration\n"
-	.string "counter and come out, okay?$"
+	.string "{JPN}しかい: あら あらー！\n"
+	.string "いまは コンテスト ちゅう ですよー！\p"
+	.string "うけつけで エントリー してから\n"
+	.string "でて くださーい！ ねっ！$"
 
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals:
-	.string "JUDGE: Oh, such charming and cute\n"
-	.string "appeals!\p"
-	.string "Oh, my goodness! What a perfectly\n"
-	.string "adorable WATER SPORT appeal!$"
+	.string "{JPN}しんさいん: おお\n"
+	.string "みんな かわいい アピールだなあ！\p"
+	.string "おおっ なんて かわいい\n"
+	.string "みずあそびの アピールなんだろう！$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted:
-	.string "Oh, no… My sweet AZURILL was\n"
-	.string "distracted by another POKéMON.$"
+	.string "{JPN}ああ かわいい ルリリちゃんが\n"
+	.string "ほかの ポケモンに きを とられちゃった！$"
 
 LilycoveCity_ContestHall_Text_NeverWonBattleButContest:
-	.string "My POKéMON has never won in a battle,\n"
-	.string "but put it in a CONTEST and look out!$"
+	.string "{JPN}この ポケモンは バトルで かったことが\n"
+	.string "ないけど コンテストなら すごいんだよ!$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel:
-	.string "My POKéMON's PETAL DANCE is a marvel\n"
-	.string "of elegance.\p"
-	.string "I won't let anyone disturb its\n"
-	.string "performance.$"
+	.string "{JPN}この ポケモンの はなびらのまいは\n"
+	.string "うっとりするほど ゆうがなの。\p"
+	.string "だれにも アピールの じゃまは\n"
+	.string "させないわ。$"
 
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter:
-	.string "Everyone's POKéMON are very cute.\p"
-	.string "However, if my POKéMON were to make\n"
-	.string "a cute appeal…\p"
-	.string "I'm sure that it would be so much \n"
-	.string "cuter than the others.$"
+	.string "{JPN}みんなの ポケモンは とても かわいいね。\p"
+	.string "でも この ポケモンが\n"
+	.string "かわいい アピールを すれば…\p"
+	.string "きっと ほかの ポケモンよりも\n"
+	.string "ずっと かわいいはずさ。$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest:
-	.string "My child is in this CONTEST.$"
+	.string "{JPN}うちのこが コンテストに でてるんですよ。$"
 
 LilycoveCity_ContestHall_Text_ComeOnDear:
-	.string "Come on, dear. Go for it!\n"
-	.string "Your POKéMON is the best!$"
+	.string "{JPN}ほらっ がんばって！\n"
+	.string "あなたの ポケモンが いちばんよっ！$"
 
 LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest:
-	.string "I think that girl over there is\n"
-	.string "the cutest of the lot.\p"
-	.string "What's that? They're judging\n"
-	.string "POKéMON by their looks?$"
+	.string "{JPN}ワシは あの おんなのこが\n"
+	.string "いちばん かわいいと おもうな……\p"
+	.string "えっ? ポケモンの みためを\n"
+	.string "くらべてるんか！?$"
 
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn:
-	.string "Ohh, seeing all these cute POKéMON,\n"
-	.string "they make we want to get my own!\p"
-	.string "I'm going to go catch some!$"
+	.string "{JPN}ああ こんなに かわいい ポケモンを みると\n"
+	.string "じぶんの ポケモンが ほしくなるよ!\p"
+	.string "つかまえに いってこよう!$"
 
 LilycoveCity_ContestHall_Text_BeautyContestStage:
-	.string "BEAUTY CONTEST STAGE\n"
-	.string "BE ALLURED BY BEAUTIFUL POKéMON!$"
+	.string "{JPN}うつくしさコンテスト ステージ\n"
+	.string "うつくしい ポケモンに うっとり!$"
 
 LilycoveCity_ContestHall_Text_CuteContestStage:
-	.string "CUTENESS CONTEST STAGE\n"
-	.string "BE CHARMED BY CUTE POKéMON!$"
+	.string "{JPN}かわいさコンテスト ステージ\n"
+	.string "かわいい ポケモンに むちゅう!$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage:
-	.string "SMARTNESS CONTEST STAGE\n"
-	.string "BE IMPRESSED BY SMART POKéMON!$"
+	.string "{JPN}かしこさコンテスト ステージ\n"
+	.string "かしこい ポケモンに かんしん!$"
 

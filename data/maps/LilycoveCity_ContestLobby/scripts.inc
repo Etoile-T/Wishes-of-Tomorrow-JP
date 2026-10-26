@@ -972,104 +972,104 @@ LilycoveCity_ContestLobby_EventScript_LittleGirlHaveCase::
 	end
 
 LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
-	.string "Yippee!\p"
-	.string "The lady at the reception counter\n"
-	.string "gave me a case for {POKEBLOCK}S!$"
+	.string "{JPN}やったあ!\p"
+	.string "うけつけの おねえさんが\n"
+	.string "ポロックを いれる ケースを くれたの!$"
 
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
-	.string "Make {POKEBLOCK}S and put them in there.\p"
-	.string "When you make a {POKEBLOCK}, everyone\n"
-	.string "has to put in a different BERRY.$"
+	.string "{JPN}ポロックを つくって なかに いれるんだよ。\p"
+	.string "ポロックを つくるときは みんな\n"
+	.string "ちがう きのみを いれるんだ。$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
-	.string "Congratulations!\p"
-	.string "I did a painting of your POKéMON to\n"
-	.string "commemorate its victory…\p"
-	.string "Well, your POKéMON's appeals were\n"
-	.string "so fantastic, it spurred me into\l"
-	.string "painting better than I usually do.\l"
-	.string "Look, see?$"
+	.string "{JPN}おめでとう!\p"
+	.string "ゆうしょうの きねんに きみの ポケモンを\n"
+	.string "えに かいてみたんだ…\p"
+	.string "いや きみの ポケモンの アピールが\n"
+	.string "あんまり すばらしかったから\l"
+	.string "いつもより うまく かけたんだよ。\l"
+	.string "ほら みてごらん?$"
 
 LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum:
-	.string "What do you think? I'm confident in\n"
-	.string "what I've done, but do you like it?\p"
-	.string "A work of this caliber, it wouldn't look\n"
-	.string "out of place in an art museum.\p"
-	.string "Huh? An art museum really is looking\n"
-	.string "for paintings?\p"
-	.string "Do you think I should take this there?$"
+	.string "{JPN}どうかな? じしんは あるんだけど\n"
+	.string "きにいって くれたかい?\p"
+	.string "これだけの えなら びじゅつかんに\n"
+	.string "かざっても おかしく ないだろう。\p"
+	.string "え? ほんとうに びじゅつかんが\n"
+	.string "えを さがしてるって?\p"
+	.string "これを もっていった ほうが いいかな?$"
 
 LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
-	.string "What, really? Then, sure, I will take\n"
-	.string "this painting there right now.\p"
-	.string "I'll give it a proper title, too.\p"
-	.string "I hope they'll like it and consider\n"
-	.string "exhibiting this.\p"
-	.string "Please check if they did accept this.\n"
-	.string "Thank you!$"
+	.string "{JPN}ほんとうかい? それなら さっそく\n"
+	.string "この えを もっていくよ。\p"
+	.string "ちゃんと だいめいも つけよう。\p"
+	.string "きにいってもらえて てんじを\n"
+	.string "かんがえて くれると いいなあ。\p"
+	.string "うけとって もらえたか みにいってね。\n"
+	.string "ありがとう!$"
 
 LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
-	.string "Oh, that's right!\p"
-	.string "As a memento of me painting your\n"
-	.string "POKéMON, please take this.$"
+	.string "{JPN}おっと そうだ!\p"
+	.string "きみの ポケモンを えに かいた\n"
+	.string "きねんに これを うけとってよ。$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon:
-	.string "{PLAYER} received a RIBBON.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は リボンを もらった。$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon:
-	.string "{PLAYER} put the RIBBON on\n"
-	.string "{STR_VAR_1}.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は リボンを\n"
+	.string "{ENG}{STR_VAR_1}{JPN}に つけた。$"
 
 LilycoveCity_ContestLobby_Text_OkaySeeYou:
-	.string "Okay, see you!$"
+	.string "{JPN}それじゃ またね!$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
-	.string "Oh… Then, I guess I'll just take\n"
-	.string "this home with me…\p"
-	.string "But, you know, I would like to take\n"
-	.string "this to the art museum… Okay?$"
+	.string "{JPN}ああ… それじゃ この えは\n"
+	.string "もちかえることに しようかな…\p"
+	.string "でも びじゅつかんに\n"
+	.string "もっていきたいんだよ… いいかい?$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
-	.string "Oh, fine, that's the way it is.\n"
-	.string "I will hang this in my own house.\p"
-	.string "I'll just have to try harder next time.\n"
-	.string "Well, be seeing you.$"
+	.string "{JPN}まあ いいさ。しかたないね。\n"
+	.string "じぶんの いえに かざることに するよ。\p"
+	.string "つぎは もっと がんばらなくちゃ。\n"
+	.string "それじゃ またね。$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome:
-	.string "Hoo, boy… Master Rank CONTESTS,\n"
-	.string "here I come.\p"
-	.string "The world will know that my dearest\n"
-	.string "POKéMON is the cutest being in all\l"
-	.string "existence. The time has come!\l"
-	.string "Uheheheh.$"
+	.string "{JPN}ふう… いよいよ マスターランクの\n"
+	.string "コンテストに ちょうせんだ。\p"
+	.string "この だいすきな ポケモンが\n"
+	.string "せかいで いちばん かわいいと\l"
+	.string "みんなに しらせる ときが きた!\l"
+	.string "うへへへ。$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
-	.string "You can see a whole variety of\n"
-	.string "POKéMON here.\p"
-	.string "That's why I make this place a regular\n"
-	.string "part of my daily stroll.$"
+	.string "{JPN}ここでは いろんな しゅるいの\n"
+	.string "ポケモンを みられるんだ。\p"
+	.string "だから まいにちの さんぽで\n"
+	.string "ここに よることに しているよ。$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "Wow, coming out to a CONTEST is\n"
-	.string "a feast for these eyes!\p"
-	.string "Would you look at all the POKéMON\n"
-	.string "that just scream to be painted?$"
+	.string "{JPN}いやあ コンテストは\n"
+	.string "めの ほように なるねえ!\p"
+	.string "えに かきたくて たまらない ポケモンが\n"
+	.string "こんなに たくさん いるんだもの!$"
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
-	.string "The TOUGHNESS CONTEST is like\n"
-	.string "extreme, man!\p"
-	.string "Those muscular appeals…\n"
-	.string "Cascading sweat… I swoon!$"
+	.string "{JPN}たくましさコンテストは\n"
+	.string "きょうれつだねえ!\p"
+	.string "あの きんにくの アピール…\n"
+	.string "ほとばしる あせ… めまいが するよ!$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
-	.string "Day in and day out, I lavished my care\n"
-	.string "on this POKéMON.\p"
-	.string "Its condition is peaking.\n"
-	.string "Today, victory is mine!$"
+	.string "{JPN}くるひも くるひも この ポケモンを\n"
+	.string "たいせつに せわしてきた。\p"
+	.string "コンディションは さいこうだ。\n"
+	.string "きょうの しょうりは いただきだよ!$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
-	.string "Big Sister. They turned out great!\p"
-	.string "I bet you can make smoother, better\n"
-	.string "{POKEBLOCK}S if you have more people.$"
+	.string "{JPN}ママと パパと おねえちゃんと\n"
+	.string "ポロックを つくったら うまく できたの!\p"
+	.string "もっと おおぜいで つくれば もっと\n"
+	.string "なめらかで いい ポロックに なるのかな。$"
 

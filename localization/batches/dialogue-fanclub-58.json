@@ -1,0 +1,1542 @@
+[
+ {
+  "id": "fea1bff664b7477f",
+  "translation": "{JPN}あ!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7510fc5b2bbe67aa",
+  "translation": "{ENG}{PLAYER}{JPN}だ!!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "b78308f7623ce422",
+  "translation": "{JPN}うわさは きいたよ!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8d09a390dce37bd",
+  "translation": "きみ ほんとうに つよいんだってね?\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46f787cb09f49823",
+  "translation": "ここでは いつも だれが いちばん\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1664b01cd0fa809",
+  "translation": "つよい トレーナーか いいあってるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf23779abd785d84",
+  "translation": "それで きみの うわさを きいて\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75d670787d501a26",
+  "translation": "ファンに なろうって きめたんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06c3b756aa79ac7e",
+  "translation": "これからも ほかの つよい トレーナーと\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05a1e8f5162edd60",
+  "translation": "どんどん しょうぶして ほしいな。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40aa430cb6da83ea",
+  "translation": "そうすれば きみの あつい あつい バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a14591f8d035f97",
+  "translation": "もっと たくさん みられるからね。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58ba90c89441c9dd",
+  "translation": "そうしたら ここの みんなにも\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bbd31e5578bcda9",
+  "translation": "きみの すごさが はっきり わかるはずさ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "399c0d6f623a760a",
+  "translation": "おうえん してるのを わすれないでね\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05c1c6313ea26a0c",
+  "translation": "{ENG}{PLAYER}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28a61f9fcf2d174a",
+  "translation": "{JPN}おう {ENG}{PLAYER}{JPN}！！\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "1e82c83c2209f970",
+  "translation": "きみの しょうりを ねがってるぞ!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "f0f5ada26c227163",
+  "translation": "{JPN}あいつらは しらないんだ\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9c43f2714784930d",
+  "translation": "きみが いちばん すごいって ことをさ！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "03558bd386943710",
+  "translation": "そうだろ {ENG}{PLAYER}{JPN}！\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "67992c60e9565f00",
+  "translation": "こんじょう みせてくれ！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "ad9b0c806974f360",
+  "translation": "{JPN}きみには わるいけど いま いちばん\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c6a625062fda60a4",
+  "translation": "ちゅうもくの トレーナーは\\l",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "715af4f91028772d",
+  "translation": "まちがいなく {ENG}{STR_VAR_1}{JPN} だね！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "de56602845337e73",
+  "translation": "あの つよさは\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "d9b5ede90e964a58",
+  "translation": "ただものじゃ ないよ。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "dca6d2a022e793b3",
+  "translation": "{JPN}くそっ… みんなに いってるのに\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "942d557ee79a043c",
+  "translation": "いまは {ENG}{STR_VAR_1}{JPN}が いちばんだって…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c6f24e45a72ee3e",
+  "translation": "だれも きいて くれないんだ…$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0be211b03bfa6f7",
+  "translation": "{JPN}つよい あたらしい トレーナーの\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eabb3e1fd6d32e77",
+  "translation": "うわさを きくの。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c681316cf8f06067",
+  "translation": "ジムリーダーにまで\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a721445e2f8b500",
+  "translation": "かってるらしいわよ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d5ef605feb31a8e",
+  "translation": "その あたらしい トレーナーのこと\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3dabb010ab1e952",
+  "translation": "なにか しってる?$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05d6d9ad22ef66de",
+  "translation": "{JPN}あ！\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7b06f6a433dbd5b0",
+  "translation": "{ENG}{PLAYER}{JPN}！！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "3ad4ea40907fee4e",
+  "translation": "がんばってね\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "732d0d8f9ff5c0ad",
+  "translation": "おうえん してるから！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "e45b49fb4d1b769c",
+  "translation": "{JPN}はあ…\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8774208472b8b820",
+  "translation": "トウキさま…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1d829b1487f3743",
+  "translation": "あっ ちがうの! まって!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f5f8043ed64c34d",
+  "translation": "そうじゃなくて! ちがう ちがう ちがう!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e329ea008cb84e1d",
+  "translation": "わたしは ずっと あなたの ファンよ!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff7ac5d4fc37059d",
+  "translation": "ほこりに おもわせてね!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddcefc576bff1b6e",
+  "translation": "がんばって!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90d841df7dff1d80",
+  "translation": "{JPN}やっぱり わたしは トウキさま しか\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "ce08705941879d21",
+  "translation": "すきに なれないのよねー。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9ab47c83d05ac621",
+  "translation": "{JPN}だれも トウキさまの\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "d571aeed6a0f1111",
+  "translation": "みりょくを わかって くれないの……\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "3b8634ea92540267",
+  "translation": "いいわ！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c8f68152c688f9e4",
+  "translation": "わたし ひとりでも トウキさまの ことを\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "40d564fee91cecee",
+  "translation": "おうえん しつづけるから！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "53df14685852be26",
+  "translation": "{JPN}だれが なんと いっても すきなのは\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa59266c2760b37f",
+  "translation": "ムロの ジムリーダー\\l",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "871e434b00dfedf5",
+  "translation": "トウキさまよ!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57ee635941e1fad3",
+  "translation": "{JPN}きみは あらゆる めんで\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "088dc27f3935f187",
+  "translation": "きみの おとうさんを こえたな！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7c98aeefb0f78e47",
+  "translation": "この わしが いって いるんだから\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "8ab6ade273215874",
+  "translation": "まちがいない！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "e11d3579c263c9bd",
+  "translation": "{JPN}どんなに くるしい ときでも\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fe83e9945e1f9a8",
+  "translation": "きみの ちちは あきらめなかった。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "068bdee48519a4c9",
+  "translation": "それは よく しっている。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "585fdbad8cf27636",
+  "translation": "きみも まけたって あきらめるな!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae68569c5c027f33",
+  "translation": "しょうぶを つづけるんだ!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a70602e3e231614",
+  "translation": "{JPN}センリさんの バトルは ちからも みりょくも\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a728c2b95903ed3",
+  "translation": "みせかたも きみより すぐれていたよ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78973d8a14ffe416",
+  "translation": "つよいと いわれている\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31e3803636bb3f5c",
+  "translation": "きみだって…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "277b0e0e64e6665b",
+  "translation": "おとうさんに くらべたら\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43ab2b7c718dd3d2",
+  "translation": "まだまだ さきは ながいよ。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36c1303db5f957b2",
+  "translation": "{JPN}きみも センリさんと おなじ ふんいき\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "221efc957a5268b6",
+  "translation": "というか はくりょくが でてきたね\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "5aeba17a29c19098",
+  "translation": "しかし センリさん とは けっていてきに\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "304cc3d98d9cfb64",
+  "translation": "ちがう ものが ある！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "2151ee23df6007c4",
+  "translation": "……それは わたしからは いえない\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "57ff915247e3de23",
+  "translation": "じぶんで さがして みるんだな。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a088b63f2b246745",
+  "translation": "{JPN}ここにいる みんなは\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "3f1d152b6816ca05",
+  "translation": "ポケモンしょうぶが だいすきでね\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c965d1ec334e43b5",
+  "translation": "だれが いちばん つよい トレーナーか\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c5f43f826c51d1ff",
+  "translation": "はなしを して いるんだ！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "b2d6af0cc2e70975",
+  "translation": "きみも ゆうめいに なれば\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "d6aa1293eefc2e2b",
+  "translation": "みんな ファンに なるかもな！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "b9e33e449c5af65b",
+  "translation": "{JPN}うわあ! {ENG}{PLAYER}{JPN}だ!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf437058243f55d7",
+  "translation": "ほんものだあ!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "461a4746e58ddec1",
+  "translation": "おねがい あくしゅ あくしゅ して!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7feee7fa02d1454",
+  "translation": "{JPN}ずっと おうえんしてるよ {ENG}{PLAYER}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5306c9e583c847c7",
+  "translation": "ずっと ずっとね!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b663de732282c94c",
+  "translation": "まけるところなんて みたくないよ\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18112a3666f458fc",
+  "translation": "{ENG}{PLAYER}{JPN}。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6aeab0904685d68",
+  "translation": "だって ほんとうに ほんとうに つよいって\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2742b99f4a398355",
+  "translation": "しってるもん {ENG}{PLAYER}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d6b4d4ca4e540c6",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}って ほんと かっこいい…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0183643061d4801b",
+  "translation": "みんなも そう おもうよね? ね?$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca455abfd154c34e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}さん って ほんとうに\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "78b797cd48512eea",
+  "translation": "かっこいい よねぇ……\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "b27341eeeb3c7280",
+  "translation": "わたし ひとりに なっても\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "8055509a6fc6fd24",
+  "translation": "ずうっと おうえん するんだー！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "1c48001d350536ce",
+  "translation": "{JPN}すきな トレーナーはね…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32310570c6ba77c3",
+  "translation": "かっこよくて…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a1ee7edb0f5ff77",
+  "translation": "つよくて…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d24071429a412cb7",
+  "translation": "とっても やさしい ひと…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12f23612f2e2c270",
+  "translation": "そんな トレーナーが いたらなあ…$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1454accc8607f83a",
+  "translation": "{JPN}あ！ {ENG}{PLAYER}{JPN}だー！\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "1dc09c21587f742c",
+  "translation": "すげー！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "dd855a9210f32ad3",
+  "translation": "ぼくも おおきく なったら\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "5fd6efc1cb0737af",
+  "translation": "{ENG}{PLAYER}{JPN} みたいに つよく なりたいよ！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "6243f4da10ae2f1e",
+  "translation": "{JPN}たとえ ひとりに なっても…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b299d1f31b33c69f",
+  "translation": "おうえんするのは ずっと\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c68cada93d427667",
+  "translation": "{ENG}{PLAYER}{JPN}だけだからね!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "355d343c8b065a05",
+  "translation": "{ENG}{PLAYER}{JPN}を しんじてるから!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5caac99909524aa7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}って かっこいいよねー\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9bee05ccc109353a",
+  "translation": "ぼく あくしゅ してほしいなー。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "acf769a6dea1e6e9",
+  "translation": "{JPN}たとえ ひとりに なっても…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96adf05c008bf3ad",
+  "translation": "ぜったい ファンを やめないよ\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9294d99b298e4c0e",
+  "translation": "{ENG}{STR_VAR_1}{JPN}のね!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cce459a71a6c85cb",
+  "translation": "だって {ENG}{STR_VAR_1}{JPN}は\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5e921d230a1a959",
+  "translation": "ぜったいに まけないって きいたもん!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d37297ab9241ff7",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bda08dbada4805ab",
+  "translation": "やっぱり すごいね!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f486fead235fa178",
+  "translation": "はじめて みたときから\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b53e9568fe4426e9",
+  "translation": "すごいひとだって わかってたよ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c2d8360bb5f724c",
+  "translation": "めに くるいは なかったみたいね。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a2857fec25f48a2",
+  "translation": "{JPN}ほかの ひとなんて どうでも いいよ。\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "040c1094136049e7",
+  "translation": "きみの みかただからね!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1318f10820483337",
+  "translation": "しんぱいは いらない。いつもどおり\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abfe2f6bbd7fcd4f",
+  "translation": "しょうぶして おいで。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1d79768f0d3a181",
+  "translation": "{JPN}きみも なかなか\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c30cc9c1802b7646",
+  "translation": "いい トレーナーだと おもうけど\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "2c18d10d4e4f1423",
+  "translation": "いまは やっぱり {ENG}{STR_VAR_1}{JPN}が\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "eab86cc1d39f7904",
+  "translation": "いちばんだと おもうんだ\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "f8d324fcc145fe60",
+  "translation": "まあ ぼくが おもっている だけだから\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "2de6fbadf0623ab6",
+  "translation": "あまり きにしなくて いいよ。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "5787b91da43a4655",
+  "translation": "{JPN}ほんとうに つよいんだね。\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59b5b01986e447d3",
+  "translation": "{ENG}{STR_VAR_1}{JPN}より つよいのかも。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18dd754eecedb262",
+  "translation": "でも {ENG}{STR_VAR_1}{JPN}には わたしが ひつよう。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75c5cccbf870b8f0",
+  "translation": "わたしが {ENG}{STR_VAR_1}{JPN}を おうえんしなきゃ\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3715357596468dfb",
+  "translation": "だれが おうえんするの?$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8d31749180f448c",
+  "translation": "{JPN}みなおしたわ！\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "4086d6f33a12a418",
+  "translation": "あなたって ほんとうに つよいのね！\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "0322dbdf6efd397e",
+  "translation": "どうしたら そんなに つよく なれるのか\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "65ae4a4fc943f775",
+  "translation": "おしえて もらいたいわ。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "0b4c4eac79f80685",
+  "translation": "{JPN}くるしい ときほど\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e72c5b3981ae6c39",
+  "translation": "すてきな バトルを するんだね。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b95af070709e1bc",
+  "translation": "つぎの バトルが まちきれないよ!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b7d3a43ec4f2140",
+  "translation": "{JPN}さいきん わだいの トレーナーの なかでも\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b3efe486efa39b3",
+  "translation": "{ENG}{STR_VAR_1}{JPN}は とびぬけてるね。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b739a8778d9d96f",
+  "translation": "あの つよさは ふつうじゃないよ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6109d7e764f0f6ff",
+  "translation": "きみも がんばってるけど\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd903e98ce0d8ac8",
+  "translation": "{ENG}{STR_VAR_1}{JPN}とは かくが ちがうね。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b5ed1eee77abf23",
+  "translation": "{JPN}きみは ほんとうに にんきが あるね…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bebca7b148e8ee06",
+  "translation": "つよくて ポケモンにも やさしい。\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "033f0b8fb4f46cc1",
+  "translation": "だれも もんくを いえないよ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf946eda6023066d",
+  "translation": "でも {ENG}{STR_VAR_1}{JPN}を しんじてるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf0155485e91f054",
+  "translation": "{ENG}{STR_VAR_1}{JPN}の ほうが ぜったい つよい!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6902901409f95b64",
+  "translation": "まちがいないよ!$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c710f9e14e4e2874",
+  "translation": "{JPN}おぬし……\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "4e0047fca437ac00",
+  "translation": "やるな！$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "ae10307cb5f1dd33",
+  "translation": "{JPN}おぬしの しんの ちからは\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "69756535eb8228ef",
+  "translation": "この わしだけが しっていれば よいのじゃ\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "e2c3251a8cbc4569",
+  "translation": "みなには その ひめられた ちから\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "3d862b6dc35af991",
+  "translation": "わかるまい……$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "cb938f6e524bc791",
+  "translation": "{JPN}うむ。ひとみに つよさが みえる。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db0474a77d68f063",
+  "translation": "だが!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "683c28adcb1ae7ea",
+  "translation": "おぬしは まだ ひめられた ちからを\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1edd6013826f3aa3",
+  "translation": "だしきって おらぬ。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d1864e118d033b8",
+  "translation": "{JPN}おぬしが とほうもなく つよいのは\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3056fe421c18126",
+  "translation": "たしかだ。\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "040d6174217eecbd",
+  "translation": "だが!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b52feb32bd1d6a81",
+  "translation": "わしには わかる…\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1004c79f093da862",
+  "translation": "その つよさは まだ\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cb00bb8c9ad1e4c",
+  "translation": "しんの つよさとは いえぬ!\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "712288dc68859cd5",
+  "translation": "しんの つよさ とは…!\\n",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11bd560046b5b2f0",
+  "translation": "… …\\p",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42a6b257f66f5a98",
+  "translation": "じつは わしにも わからぬ。$",
+  "provenance": {
+   "batch": "dialogue-fanclub-58",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

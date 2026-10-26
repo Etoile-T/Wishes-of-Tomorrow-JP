@@ -382648,9 +382648,13 @@
     "end": 3058,
     "raw": "\"Oh, my, my! Are you traveling alone?\\n\"",
     "source": "Oh, my, my! Are you traveling alone?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あらあら! ひとりで たびを してるの?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "715a1eba52cd4750",
@@ -382660,9 +382664,13 @@
     "end": 3106,
     "raw": "\"But you're so young! Good for you!\\p\"",
     "source": "But you're so young! Good for you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ わかいのに! えらいわねえ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b15b43d30a8402be",
@@ -382672,9 +382680,13 @@
     "end": 3156,
     "raw": "\"I'm sure my kids could learn a thing\\n\"",
     "source": "I'm sure my kids could learn a thing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの こたちも あなたを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "52ceb383d3bb1355",
@@ -382684,9 +382696,13 @@
     "end": 3186,
     "raw": "\"or two from you!\\p\"",
     "source": "or two from you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すこしは みならって ほしいわ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f46f3f7fcab27b4",
@@ -382696,9 +382712,13 @@
     "end": 3233,
     "raw": "\"Me? I'm a master of {POKEBLOCK}S.\\p\"",
     "source": "Me? I'm a master of {POKEBLOCK}S.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたし? ポロックめいじんなの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "15cb209633746c82",
@@ -382708,9 +382728,13 @@
     "end": 3283,
     "raw": "\"If I get serious just a little, why,\\n\"",
     "source": "If I get serious just a little, why,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょっと ほんきを だせば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9961d8d24a065dc9",
@@ -382720,9 +382744,13 @@
     "end": 3330,
     "raw": "\"I can concoct great {POKEBLOCK}S.\\p\"",
     "source": "I can concoct great {POKEBLOCK}S.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すごい ポロックを つくれるのよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "38dc9372844fef8a",
@@ -382732,9 +382760,13 @@
     "end": 3376,
     "raw": "\"Would you like to learn from me,\\n\"",
     "source": "Would you like to learn from me,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポロックめいじんの わたしに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5f04cd6acef5d900",
@@ -382744,9 +382776,13 @@
     "end": 3414,
     "raw": "\"a master of {POKEBLOCK}S?$\"",
     "source": "a master of {POKEBLOCK}S?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おしえて もらいたい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "655164236997678b",
@@ -382756,9 +382792,13 @@
     "end": 3485,
     "raw": "\"Oh? Are you sure?\\p\"",
     "source": "Oh? Are you sure?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら? ほんとうに いいの?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ce180adfa0cc70a6",
@@ -382768,9 +382808,13 @@
     "end": 3529,
     "raw": "\"You shouldn't always try to do\\n\"",
     "source": "You shouldn't always try to do\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんでも じぶんだけで やろうと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "910e5371f59b6d9d",
@@ -382780,9 +382824,13 @@
     "end": 3571,
     "raw": "\"everything by yourself, dear!$\"",
     "source": "everything by yourself, dear!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しちゃ いけないわよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "68c506f05edce171",
@@ -382792,9 +382840,13 @@
     "end": 3660,
     "raw": "\"Oh, good! You're a smart soul!\\n\"",
     "source": "Oh, good! You're a smart soul!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら いいこね! かしこいわ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8273fcf3f23bca49",
@@ -382804,9 +382856,13 @@
     "end": 3707,
     "raw": "\"This is a bit long, so listen up!\\p\"",
     "source": "This is a bit long, so listen up!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すこし ながくなるから よく きいてね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1510ea320977f6ad",
@@ -382816,9 +382872,13 @@
     "end": 3735,
     "raw": "\"Are you ready?\\p\"",
     "source": "Are you ready?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいかしら?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d5cfe3660ff79cec",
@@ -382828,9 +382888,13 @@
     "end": 3792,
     "raw": "\"If you look at {POKEBLOCK}S, you should see\\n\"",
     "source": "If you look at {POKEBLOCK}S, you should see\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポロックを みると\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "007725131a5f9fa8",
@@ -382840,9 +382904,13 @@
     "end": 3843,
     "raw": "\"that they are rated on how they feel.\\p\"",
     "source": "that they are rated on how they feel.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なめらかさが かいてあるでしょう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d3d3613f3fa6bde1",
@@ -382852,9 +382920,13 @@
     "end": 3883,
     "raw": "\"The lower the feel rating,\\n\"",
     "source": "The lower the feel rating,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なめらかさの すうじは ひくいほど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "50241e1363394070",
@@ -382864,9 +382936,13 @@
     "end": 3933,
     "raw": "\"the better it is. Don't forget this!\\p\"",
     "source": "the better it is. Don't forget this!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいのよ。わすれないでね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6769cdfb27035252",
@@ -382876,9 +382952,13 @@
     "end": 3980,
     "raw": "\"A good {POKEBLOCK} has a low feel\\n\"",
     "source": "A good {POKEBLOCK} has a low feel\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いい ポロックは なめらかさが ひくくて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e2df1f5564c2c446",
@@ -382888,9 +382968,13 @@
     "end": 4018,
     "raw": "\"rating and a high level.\\p\"",
     "source": "rating and a high level.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "レベルが たかいものなの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "703160bcf60f3012",
@@ -382900,9 +382984,13 @@
     "end": 4059,
     "raw": "\"A POKéMON can eat more good\\n\"",
     "source": "A POKéMON can eat more good\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンは いい ポロックなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "84bfed534784f7e2",
@@ -382912,9 +383000,13 @@
     "end": 4110,
     "raw": "\"{POKEBLOCK}S than ordinary ones, too.\\p\"",
     "source": "{POKEBLOCK}S than ordinary ones, too.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふつうのより たくさん たべられるのよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2653fed160bf9a17",
@@ -382924,9 +383016,13 @@
     "end": 4146,
     "raw": "\"And this is important.\\p\"",
     "source": "And this is important.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それから ここが だいじ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8b5951e7c15bbefb",
@@ -382936,9 +383032,13 @@
     "end": 4200,
     "raw": "\"If you want to make smooth {POKEBLOCK}S,\\n\"",
     "source": "If you want to make smooth {POKEBLOCK}S,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なめらかな ポロックを つくりたければ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b6ee64cdae062e33",
@@ -382948,9 +383048,13 @@
     "end": 4245,
     "raw": "\"use different kinds of BERRIES.\\p\"",
     "source": "use different kinds of BERRIES.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちがう しゅるいの きのみを つかうのよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8598496c79e17776",
@@ -382960,9 +383064,13 @@
     "end": 4296,
     "raw": "\"Don't be stingy--the kinds of BERRIES\\n\"",
     "source": "Don't be stingy--the kinds of BERRIES\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "けちっちゃ だめ。きのみの しゅるいで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cccd70a8efea9509",
@@ -382972,9 +383080,13 @@
     "end": 4348,
     "raw": "\"affect the smoothness of {POKEBLOCK}S.\\p\"",
     "source": "affect the smoothness of {POKEBLOCK}S.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポロックの なめらかさが かわるんだから。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "83797b0612dc1dc4",
@@ -382984,9 +383096,13 @@
     "end": 4380,
     "raw": "\"And another thing.\\p\"",
     "source": "And another thing.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それに もうひとつ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ea3dd55387495101",
@@ -382996,9 +383112,13 @@
     "end": 4427,
     "raw": "\"The more people blending BERRIES,\\n\"",
     "source": "The more people blending BERRIES,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たくさんの ひとで きのみを まぜるほど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f84bdf8a80db625f",
@@ -383008,9 +383128,13 @@
     "end": 4471,
     "raw": "\"the smoother the {POKEBLOCK}S.\\p\"",
     "source": "the smoother the {POKEBLOCK}S.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポロックは なめらかに なるの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4d696c245f69fc07",
@@ -383020,9 +383144,13 @@
     "end": 4520,
     "raw": "\"That's why you should talk to other\\n\"",
     "source": "That's why you should talk to other\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから ほかの ひとに こえを かけて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6e499b1089f1485e",
@@ -383032,9 +383160,13 @@
     "end": 4572,
     "raw": "\"people and make {POKEBLOCK}S together.\\p\"",
     "source": "people and make {POKEBLOCK}S together.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっしょに ポロックを つくると いいわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "38b19c524adb8347",
@@ -383044,9 +383176,13 @@
     "end": 4622,
     "raw": "\"That's about all you need to know to\\n\"",
     "source": "That's about all you need to know to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いい ポロックを つくるには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4acc1ef515a873cc",
@@ -383056,9 +383192,13 @@
     "end": 4659,
     "raw": "\"make good {POKEBLOCK}S.\\p\"",
     "source": "make good {POKEBLOCK}S.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいたい これで じゅうぶんよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fde6e117adf2e7cc",
@@ -383068,9 +383208,13 @@
     "end": 4707,
     "raw": "\"If everyone had POKéMON they love,\\n\"",
     "source": "If everyone had POKéMON they love,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんなに だいすきな ポケモンと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4e8a4db85eb048f",
@@ -383080,9 +383224,13 @@
     "end": 4762,
     "raw": "\"smooth {POKEBLOCK}S, and a loving family,\\l\"",
     "source": "smooth {POKEBLOCK}S, and a loving family,\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なめらかな ポロックと やさしい かぞくが\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05ab32108dcc31b5",
@@ -383092,9 +383240,13 @@
     "end": 4811,
     "raw": "\"the world would be a happier place.\\p\"",
     "source": "the world would be a happier place.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いれば せかいは もっと しあわせなのにね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fed44dc6ec41615a",
@@ -383104,9 +383256,13 @@
     "end": 4844,
     "raw": "\"Don't give up, dear!$\"",
     "source": "Don't give up, dear!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきらめずに がんばってね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c0b109739278025",
@@ -383116,9 +383272,13 @@
     "end": 4947,
     "raw": "\"When my wife gave birth to quadruplets,\\n\"",
     "source": "When my wife gave birth to quadruplets,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}つまが よつごを うんだときは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c1f492799e85edba",
@@ -383128,9 +383288,13 @@
     "end": 4983,
     "raw": "\"you bet I was shocked.\\p\"",
     "source": "you bet I was shocked.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そりゃあ びっくりしたよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "076a902058344363",
@@ -383140,9 +383304,13 @@
     "end": 5033,
     "raw": "\"But, now, seeing them play together,\\n\"",
     "source": "But, now, seeing them play together,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも いまは いっしょに あそぶのを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4c2895aabfc3931f",
@@ -383152,9 +383320,13 @@
     "end": 5064,
     "raw": "\"it makes me happy.$\"",
     "source": "it makes me happy.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みていると しあわせに なるんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78fc7795d78c438f",
@@ -383164,9 +383336,13 @@
     "end": 5166,
     "raw": "\"We're having MULTI BATTLES, but I know\\n\"",
     "source": "We're having MULTI BATTLES, but I know\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}マルチバトルを してるんだけど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b717197481736254",
@@ -383176,9 +383352,13 @@
     "end": 5196,
     "raw": "\"I'm going to win.$\"",
     "source": "I'm going to win.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜったい かつよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78e23a1c68f9a0c1",
@@ -383188,9 +383368,13 @@
     "end": 5285,
     "raw": "\"We like mixing stuff at\\n\"",
     "source": "We like mixing stuff at\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}レコードコーナーで まぜるのが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e179915b05a393ea",
@@ -383200,9 +383384,13 @@
     "end": 5317,
     "raw": "\"the RECORD CORNER.\\p\"",
     "source": "the RECORD CORNER.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すきなんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d54538d739b19003",
@@ -383212,9 +383400,13 @@
     "end": 5353,
     "raw": "\"But what gets mixed up?$\"",
     "source": "But what gets mixed up?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも なにを まぜてるの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cb022635fe98a6da",
@@ -383224,9 +383416,13 @@
     "end": 5463,
     "raw": "\"We're going to make super {POKEBLOCK}S\\n\"",
     "source": "We're going to make super {POKEBLOCK}S\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きのみブレンダーで すごい ポロックを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2662780519a1232e",
@@ -383236,9 +383432,13 @@
     "end": 5497,
     "raw": "\"with a BERRY BLENDER!$\"",
     "source": "with a BERRY BLENDER!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つくるんだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8b7a951f41b31a85",
@@ -383248,9 +383448,13 @@
     "end": 5591,
     "raw": "\"I want to brag about how tough my\\n\"",
     "source": "I want to brag about how tough my\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンの たくましさを じまんしたいから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5270e6cdd659287c",
@@ -383260,9 +383464,13 @@
     "end": 5640,
     "raw": "\"POKéMON is, so we're going to enter\\l\"",
     "source": "POKéMON is, so we're going to enter\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっしょに コンテストに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aedf61705290d64a",
@@ -383272,9 +383480,13 @@
     "end": 5672,
     "raw": "\"a CONTEST together.$\"",
     "source": "a CONTEST together.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でるんだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bedb09f11538dcf8",
@@ -383380,9 +383592,13 @@
     "end": 5604,
     "raw": "\"Welcome to LILYCOVE MUSEUM.\\p\"",
     "source": "Welcome to LILYCOVE MUSEUM.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミナモびじゅつかんへ ようこそ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "01e41782d678f277",
@@ -383392,9 +383608,13 @@
     "end": 5651,
     "raw": "\"Please take the time to enjoy our\\n\"",
     "source": "Please take the time to enjoy our\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを だいざいにした\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d6015d15aa0a36f5",
@@ -383404,9 +383624,13 @@
     "end": 5696,
     "raw": "\"collection of fantastic artwork\\l\"",
     "source": "collection of fantastic artwork\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すばらしい びじゅつひんの かずかずを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "06bd143f411f0249",
@@ -383416,9 +383640,13 @@
     "end": 5727,
     "raw": "\"featuring POKéMON.$\"",
     "source": "featuring POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぞ ごゆっくり おたのしみください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c4bfe3e8db75dea",
@@ -383428,9 +383656,13 @@
     "end": 5847,
     "raw": "\"I'm the CURATOR of this MUSEUM of\\n\"",
     "source": "I'm the CURATOR of this MUSEUM of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしは この びじゅつかんの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "eaef4f679d8e5039",
@@ -383440,9 +383672,13 @@
     "end": 5871,
     "raw": "\"fine arts.\\p\"",
     "source": "fine arts.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんちょうです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "82a448a733a311cd",
@@ -383452,9 +383688,13 @@
     "end": 5918,
     "raw": "\"It's heartening to see someone so\\n\"",
     "source": "It's heartening to see someone so\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたのような わかいかたが きてくださり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "472c46516e1becf3",
@@ -383464,9 +383704,13 @@
     "end": 5959,
     "raw": "\"young as you in our MUSEUM.\\p\"",
     "source": "young as you in our MUSEUM.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うれしく おもいます。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "feca2987424eb1bb",
@@ -383476,9 +383720,13 @@
     "end": 6006,
     "raw": "\"Have you viewed our collection of\\n\"",
     "source": "Have you viewed our collection of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てんじしている えは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d9a8b07265a9ae93",
@@ -383488,9 +383736,13 @@
     "end": 6037,
     "raw": "\"paintings already?$\"",
     "source": "paintings already?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もう ごらんに なりましたか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "59fc67be3e97ff5c",
@@ -383500,9 +383752,13 @@
     "end": 6147,
     "raw": "\"Ah, then let me not disturb you.\\n\"",
     "source": "Ah, then let me not disturb you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ それでは おじゃまは しません。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5cf8cd74eb17fb9a",
@@ -383512,9 +383768,13 @@
     "end": 6186,
     "raw": "\"Please, do take your time.$\"",
     "source": "Please, do take your time.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぞ ごゆっくり。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "93897c97240e2b08",
@@ -383524,9 +383784,13 @@
     "end": 6300,
     "raw": "\"Oh? I do believe that you seem to\\n\"",
     "source": "Oh? I do believe that you seem to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや? あなたは どうやら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe062c4a86bdd10a",
@@ -383536,9 +383800,13 @@
     "end": 6335,
     "raw": "\"be a POKéMON TRAINER.\\p\"",
     "source": "be a POKéMON TRAINER.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモントレーナーの ようですね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b352ba8436ad2929",
@@ -383548,9 +383816,13 @@
     "end": 6383,
     "raw": "\"Have you an interest in paintings,\\n\"",
     "source": "Have you an interest in paintings,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えにも きょうみを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cd7d9fb5f258d33f",
@@ -383560,9 +383832,13 @@
     "end": 6400,
     "raw": "\"too?$\"",
     "source": "too?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもちなのですか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf464396ebbc37da",
@@ -383572,9 +383848,13 @@
     "end": 6488,
     "raw": "\"I see…\\p\"",
     "source": "I see…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そうですか…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78f5a53f28081ac4",
@@ -383584,9 +383864,13 @@
     "end": 6534,
     "raw": "\"I'm honored that you would visit\\n\"",
     "source": "I'm honored that you would visit\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでも きてくださるとは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "be5cf0f566e12d91",
@@ -383596,9 +383880,13 @@
     "end": 6567,
     "raw": "\"us in spite of that.$\"",
     "source": "us in spite of that.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こうえいです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ea5ff9ac7fcb16f",
@@ -383608,9 +383896,13 @@
     "end": 6659,
     "raw": "\"Ah, excellent!\\n\"",
     "source": "Ah, excellent!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ すばらしい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e147894c515d69e",
@@ -383620,9 +383912,13 @@
     "end": 6695,
     "raw": "\"You do like paintings!\\p\"",
     "source": "You do like paintings!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えが おすきなのですね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05eacb188a29851e",
@@ -383632,9 +383928,13 @@
     "end": 6744,
     "raw": "\"Then, may I ask you to come with me?$\"",
     "source": "Then, may I ask you to come with me?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それでは ついてきて いただけますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60278d4b8c08da78",
@@ -383644,9 +383944,13 @@
     "end": 6837,
     "raw": "\"It's a very old painting.\\n\"",
     "source": "It's a very old painting.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とても ふるい えだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8459c7ec68eb5744",
@@ -383656,9 +383960,13 @@
     "end": 6886,
     "raw": "\"The paint is peeling here and there.$\"",
     "source": "The paint is peeling here and there.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ところどころ えのぐが はがれている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0cfe50c54757a8a6",
@@ -383668,9 +383976,13 @@
     "end": 7001,
     "raw": "\"It's an odd landscape with bizarre\\n\"",
     "source": "It's an odd landscape with bizarre\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみょうで げんそうてきな けしきが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33ad942a79afee73",
@@ -383680,9 +383992,13 @@
     "end": 7036,
     "raw": "\"and fantastic scenery.$\"",
     "source": "and fantastic scenery.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えがかれた ふしぎな ふうけいがだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "76284ece51c1b1c4",
@@ -383692,9 +384008,13 @@
     "end": 7152,
     "raw": "\"It's a painting of a beautiful, smiling\\n\"",
     "source": "It's a painting of a beautiful, smiling\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ひざに ポケモンを のせて ほほえむ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b352c3ee76c1faaf",
@@ -383704,9 +384024,13 @@
     "end": 7197,
     "raw": "\"woman with a POKéMON on her lap.$\"",
     "source": "woman with a POKéMON on her lap.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うつくしい おんなのひとの えだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec2c30e4d5bbe44e",
@@ -383716,9 +384040,13 @@
     "end": 7314,
     "raw": "\"It's a painting of a legendary POKéMON\\n\"",
     "source": "It's a painting of a legendary POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}むかしの でんせつの ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2a347693574c4b26",
@@ -383728,9 +384056,13 @@
     "end": 7342,
     "raw": "\"from long ago.\\p\"",
     "source": "from long ago.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えがいた えだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "be40d3f5888c44a9",
@@ -383740,9 +384072,13 @@
     "end": 7384,
     "raw": "\"The artist painted this from\\n\"",
     "source": "The artist painted this from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がかが そうぞうして\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "615667808feb9687",
@@ -383752,9 +384088,13 @@
     "end": 7409,
     "raw": "\"imagination.$\"",
     "source": "imagination.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かいたものだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b902e5cf16d089e3",
@@ -383764,9 +384104,13 @@
     "end": 7516,
     "raw": "\"It's a painting of GRASS POKéMON\\n\"",
     "source": "It's a painting of GRASS POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そよかぜに ゆれる くさポケモンの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f7a1ed66875ea26e",
@@ -383776,9 +384120,13 @@
     "end": 7550,
     "raw": "\"swaying in a breeze.\\p\"",
     "source": "swaying in a breeze.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3eb7b8fec94e0e5a",
@@ -383788,9 +384136,13 @@
     "end": 7601,
     "raw": "\"They appear to be enjoying the wind's\\n\"",
     "source": "They appear to be enjoying the wind's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やさしく なでるような かぜを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "498a0fb50ecbe63e",
@@ -383800,9 +384152,13 @@
     "end": 7628,
     "raw": "\"gentle caress.$\"",
     "source": "gentle caress.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たのしんでいるように みえる。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0dc9b8d5132cb1d9",
@@ -383812,9 +384168,13 @@
     "end": 7731,
     "raw": "\"It's a delicious-looking painting\\n\"",
     "source": "It's a delicious-looking painting\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おいしそうな きのみを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d5fd8fec04f1bbc5",
@@ -383824,9 +384184,13 @@
     "end": 7756,
     "raw": "\"of BERRIES.\\p\"",
     "source": "of BERRIES.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えがいた えだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "238fdd5d4911d026",
@@ -383836,9 +384200,13 @@
     "end": 7805,
     "raw": "\"This painting could make you hungry!$\"",
     "source": "This painting could make you hungry!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みていると おなかが すいてきそう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e9f4ee9f0f00bf9e",
@@ -383848,9 +384216,13 @@
     "end": 7919,
     "raw": "\"It's a replica of a famous sculpture.\\p\"",
     "source": "It's a replica of a famous sculpture.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ゆうめいな ちょうこくの レプリカだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef5b84272ee61fdb",
@@ -383860,9 +384232,13 @@
     "end": 7967,
     "raw": "\"It depicts an ancient BIRD POKéMON.$\"",
     "source": "It depicts an ancient BIRD POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こだいの とりポケモンを かたどっている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c5df4ab3d1231c0b",
@@ -383872,9 +384248,13 @@
     "end": 8078,
     "raw": "\"It's a big POKé BALL carved from\\n\"",
     "source": "It's a big POKé BALL carved from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くろい いしを ほって つくった\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a8938ed6fb431edf",
@@ -383884,9 +384264,13 @@
     "end": 8106,
     "raw": "\"a black stone.\\p\"",
     "source": "a black stone.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おおきな モンスターボールだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "25d2ddbc686c5d08",
@@ -383896,9 +384280,13 @@
     "end": 8155,
     "raw": "\"It was apparently used in festivals\\n\"",
     "source": "It was apparently used in festivals\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むかしの おまつりで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6f3b8cc76bbbd8b5",
@@ -383908,9 +384296,13 @@
     "end": 8186,
     "raw": "\"in the olden days.$\"",
     "source": "in the olden days.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかわれていたらしい。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6b5555181aaeb807",
@@ -383920,9 +384312,13 @@
     "end": 8299,
     "raw": "\"It's a huge stone tablet inscribed\\n\"",
     "source": "It's a huge stone tablet inscribed\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おおきな せきばんに ポケモンと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cba2c02433dce96a",
@@ -383932,9 +384328,13 @@
     "end": 8347,
     "raw": "\"with POKéMON and dense text in the\\l\"",
     "source": "with POKéMON and dense text in the\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちいさな もじが びっしりと\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "48ef8e14381b9ba7",
@@ -383944,9 +384344,13 @@
     "end": 8392,
     "raw": "\"small characters of an ancient,\\l\"",
     "source": "small characters of an ancient,\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほられている。むかしの ことばで\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab0f8b29424fc010",
@@ -383956,9 +384360,13 @@
     "end": 8425,
     "raw": "\"unreadable language.$\"",
     "source": "unreadable language.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにが かいてあるのか よめない。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6fdfceb7509f8373",
@@ -383968,9 +384376,13 @@
     "end": 8502,
     "raw": "\"Hmmm…\\n\"",
     "source": "Hmmm…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うーむ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1df77f8c163b565a",
@@ -383980,9 +384392,13 @@
     "end": 8548,
     "raw": "\"What works of great magnificence…$\"",
     "source": "What works of great magnificence…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんとも すばらしい さくひんたちだ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b32f8c9569ff02ba",
@@ -383992,9 +384408,13 @@
     "end": 8657,
     "raw": "\"Battling with POKéMON is fun,\\n\"",
     "source": "Battling with POKéMON is fun,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}たしかに ポケモンで たたかうのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "47f28606796ab73e",
@@ -384004,9 +384424,13 @@
     "end": 8691,
     "raw": "\"I'll grant you that.\\p\"",
     "source": "I'll grant you that.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たのしいでしょう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b1463b63291670b",
@@ -384016,9 +384440,13 @@
     "end": 8740,
     "raw": "\"But one mustn't forget our love for\\n\"",
     "source": "But one mustn't forget our love for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも びじゅつを あいする こころも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c4b2d3fd3f457fc",
@@ -384028,9 +384456,13 @@
     "end": 8767,
     "raw": "\"the fine arts.$\"",
     "source": "the fine arts.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わすれては いけませんよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "efe20423709574cb",
@@ -384040,9 +384472,13 @@
     "end": 8875,
     "raw": "\"This ART MUSEUM… Well, you could\\n\"",
     "source": "This ART MUSEUM… Well, you could\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この びじゅつかんでは… そうだね\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db3dd555746ee295",
@@ -384052,9 +384488,13 @@
     "end": 8918,
     "raw": "\"see many fantastic paintings.\\p\"",
     "source": "see many fantastic paintings.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すばらしい えを たくさん みられる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6fcad1cdb25760f1",
@@ -384064,9 +384504,13 @@
     "end": 8970,
     "raw": "\"And the CURATOR is a wonderful person.\\p\"",
     "source": "And the CURATOR is a wonderful person.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それに かんちょうも すてきな ひとだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "674d297088e4ad7d",
@@ -384076,9 +384520,13 @@
     "end": 9022,
     "raw": "\"Among artists like myself, this MUSEUM\\n\"",
     "source": "Among artists like myself, this MUSEUM\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしのような げいじゅつかにとって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1b28de7d22d85722",
@@ -384088,9 +384536,13 @@
     "end": 9053,
     "raw": "\"is an inspiration.$\"",
     "source": "is an inspiration.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この びじゅつかんは しげきに なるんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b59de6b5673399c",
@@ -384100,9 +384552,13 @@
     "end": 9142,
     "raw": "\"This lady is pretty!\\n\"",
     "source": "This lady is pretty!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この おんなのひと きれい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4fb205a013fc2bdb",
@@ -384112,9 +384568,13 @@
     "end": 9172,
     "raw": "\"She's like Mommy!$\"",
     "source": "She's like Mommy!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ママみたい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c98c8061ed1fdadc",
@@ -384124,9 +384584,13 @@
     "end": 9271,
     "raw": "\"This POKéMON is adorable!\\n\"",
     "source": "This POKéMON is adorable!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この ポケモン かわいいわね!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "df3cbf8a8f48b5c5",
@@ -384136,9 +384600,13 @@
     "end": 9309,
     "raw": "\"Just like our little boy!$\"",
     "source": "Just like our little boy!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの ぼうや みたい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f01b5285c06e562",
@@ -384148,9 +384616,13 @@
     "end": 9422,
     "raw": "\"I'd heard that this ART MUSEUM got\\n\"",
     "source": "I'd heard that this ART MUSEUM got\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この びじゅつかんに あたらしい えが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8c0f265807ecc820",
@@ -384160,9 +384632,13 @@
     "end": 9458,
     "raw": "\"in some new paintings.\\p\"",
     "source": "in some new paintings.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいったと きいたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f3fbb9d5c02adc0c",
@@ -384172,9 +384648,13 @@
     "end": 9501,
     "raw": "\"So, naturally I hurried over.\\p\"",
     "source": "So, naturally I hurried over.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それで さっそく かけつけたのさ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bf5c75b8d6001145",
@@ -384184,9 +384664,13 @@
     "end": 9542,
     "raw": "\"Are the new paintings up on\\n\"",
     "source": "Are the new paintings up on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたらしい えは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "749555e2bc782385",
@@ -384196,9 +384680,13 @@
     "end": 9572,
     "raw": "\"the second floor?$\"",
     "source": "the second floor?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2かいに あるのかな?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "55f7e52cf1bc50c8",
@@ -384208,9 +384696,13 @@
     "end": 9675,
     "raw": "\"Lately, the CURATOR has been\\n\"",
     "source": "Lately, the CURATOR has been\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}さいきん かんちょうは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "566eb3a19cbd8d4f",
@@ -384220,9 +384712,13 @@
     "end": 9708,
     "raw": "\"unusually cheerful.\\p\"",
     "source": "unusually cheerful.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やけに ごきげんだね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f2e237d765d7cba6",
@@ -384232,9 +384728,13 @@
     "end": 9760,
     "raw": "\"I bet something good happened for him.\\n\"",
     "source": "I bet something good happened for him.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きっと なにか いいことが あったんだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2bd24df277ab3e5d",
@@ -384244,9 +384744,13 @@
     "end": 9784,
     "raw": "\"Definitely.$\"",
     "source": "Definitely.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まちがいないね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d671115ef59dcc16",
@@ -384256,9 +384760,13 @@
     "end": 9892,
     "raw": "\"I aim to see many great paintings\\n\"",
     "source": "I aim to see many great paintings\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここで すばらしい えを たくさん みて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b530c9395d367ff",
@@ -384268,9 +384776,13 @@
     "end": 9931,
     "raw": "\"here and learn from them.\\p\"",
     "source": "here and learn from them.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まなぼうと おもってるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9395b5286b774891",
@@ -384280,9 +384792,13 @@
     "end": 9980,
     "raw": "\"I have this dream of one day having\\n\"",
     "source": "I have this dream of one day having\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつか じぶんの さくひんを ここに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc20269f66872e3c",
@@ -384292,9 +384808,13 @@
     "end": 10019,
     "raw": "\"my artwork exhibited here.$\"",
     "source": "my artwork exhibited here.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざってもらうのが ゆめなんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "84f5d97c9c09316b",
@@ -384304,9 +384824,13 @@
     "end": 10132,
     "raw": "\"The ART MUSEUM has become a favorite\\n\"",
     "source": "The ART MUSEUM has become a favorite\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この びじゅつかんは かんこうきゃくに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33ccf24a19cb6c3a",
@@ -384316,9 +384840,13 @@
     "end": 10166,
     "raw": "\"tourist destination.\\p\"",
     "source": "tourist destination.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "にんきの ばしょに なった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e5e3dadfd7b52a9f",
@@ -384328,9 +384856,13 @@
     "end": 10204,
     "raw": "\"It's great for LILYCOVE…\\n\"",
     "source": "It's great for LILYCOVE…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミナモに とって すばらしいことだ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0be7ea3076b8aeb5",
@@ -384340,9 +384872,13 @@
     "end": 10249,
     "raw": "\"No, great for the HOENN region!\\p\"",
     "source": "No, great for the HOENN region!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いや ホウエンに とってだね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3827831743c671b8",
@@ -384352,9 +384888,13 @@
     "end": 10302,
     "raw": "\"This is what I've heard--a lone TRAINER\\n\"",
     "source": "This is what I've heard--a lone TRAINER\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きいた はなしでは ひとりの トレーナーが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8cfdc4b9bfe9875c",
@@ -384364,9 +384904,13 @@
     "end": 10351,
     "raw": "\"procured all the paintings upstairs.$\"",
     "source": "procured all the paintings upstairs.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2かいの えを ぜんぶ そろえたそうだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7d47385ae2e38da0",
@@ -384376,9 +384920,13 @@
     "end": 8937,
     "raw": "\"This is our special exhibit hall.$\"",
     "source": "This is our special exhibit hall.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは とくべつてんじしつです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a60cb0fb30734664",
@@ -384388,9 +384936,13 @@
     "end": 9044,
     "raw": "\"As you can plainly see, there is not\\n\"",
     "source": "As you can plainly see, there is not\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ごらんのとおり ここには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c676107fe7fe5991",
@@ -384400,9 +384952,13 @@
     "end": 9087,
     "raw": "\"a single painting on exhibit.\\p\"",
     "source": "a single painting on exhibit.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えが いちまいも かざられていません。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cbc12815095e4e3e",
@@ -384412,9 +384968,13 @@
     "end": 9139,
     "raw": "\"Here, I don't wish to exhibit works of\\n\"",
     "source": "Here, I don't wish to exhibit works of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここには いわゆる こてんびじゅつを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c827e5de4c9b6963",
@@ -384424,9 +384984,13 @@
     "end": 9177,
     "raw": "\"so-called classical art.\\p\"",
     "source": "so-called classical art.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てんじする つもりは ありません。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "02b924d56477192f",
@@ -384436,9 +385000,13 @@
     "end": 9226,
     "raw": "\"Such classical works you can see on\\n\"",
     "source": "Such classical works you can see on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうした こてんさくひんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "736e6431efed9719",
@@ -384448,9 +385016,13 @@
     "end": 9257,
     "raw": "\"our ground floor.\\p\"",
     "source": "our ground floor.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1かいで ごらんに なれます。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "20d51933727d6a6c",
@@ -384460,9 +385032,13 @@
     "end": 9305,
     "raw": "\"I wish to exhibit work that is far\\n\"",
     "source": "I wish to exhibit work that is far\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここでは こてんとは まったく ちがう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5824c2a3b9c09fff",
@@ -384472,9 +385048,13 @@
     "end": 9347,
     "raw": "\"different from the classics.\\p\"",
     "source": "different from the classics.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さくひんを てんじしたいのです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2175e95f5220f853",
@@ -384484,9 +385064,13 @@
     "end": 9402,
     "raw": "\"Art, after all, is not restricted to old,\\n\"",
     "source": "Art, after all, is not restricted to old,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げいじゅつは ふるく ゆうめいな\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a774f94dec1fe7c4",
@@ -384496,9 +385080,13 @@
     "end": 9429,
     "raw": "\"famous works!\\p\"",
     "source": "famous works!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さくひんだけでは ありませんからね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b269722414309b6f",
@@ -384508,9 +385096,13 @@
     "end": 9485,
     "raw": "\"This exhibit hall, I wish to fill it with…\\p\"",
     "source": "This exhibit hall, I wish to fill it with…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この てんじしつを うめたいのです…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef3aec94008092f9",
@@ -384520,9 +385112,13 @@
     "end": 9529,
     "raw": "\"Modern and vibrant artworks of\\n\"",
     "source": "Modern and vibrant artworks of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを えがいた げんだいの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54d904e2e52936a0",
@@ -384532,9 +385128,13 @@
     "end": 9576,
     "raw": "\"POKéMON seemingly ready to spring\\l\"",
     "source": "POKéMON seemingly ready to spring\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いまにも とびだしてきそうな\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d43929a682253532",
@@ -384544,9 +385144,13 @@
     "end": 9614,
     "raw": "\"forth into glorious life!$\"",
     "source": "forth into glorious life!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いきいきとした さくひんで!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a93fdf3047dbe0f",
@@ -384556,9 +385160,13 @@
     "end": 9732,
     "raw": "\"I beg your pardon. I didn't intend\\n\"",
     "source": "I beg your pardon. I didn't intend\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しつれいしました。ひとりで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "73c68973a35267fa",
@@ -384568,9 +385176,13 @@
     "end": 9777,
     "raw": "\"to monopolize the conversation.\\p\"",
     "source": "to monopolize the conversation.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しゃべりつづける つもりは なかったのです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "06ef449e7fda4050",
@@ -384580,9 +385192,13 @@
     "end": 9821,
     "raw": "\"Now, as you are young, and yet\\n\"",
     "source": "Now, as you are young, and yet\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さて あなたは わかいのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d9089ac227d93211",
@@ -384592,9 +385208,13 @@
     "end": 9859,
     "raw": "\"obviously well traveled…\\p\"",
     "source": "obviously well traveled…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずいぶん たびを しているようですね…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bc520070f4f9f63a",
@@ -384604,9 +385224,13 @@
     "end": 9906,
     "raw": "\"You must encounter lively POKéMON\\n\"",
     "source": "You must encounter lively POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きっと いきいきとした ポケモンや\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4ed928f2fcb9c3d6",
@@ -384616,9 +385240,13 @@
     "end": 9952,
     "raw": "\"and works of art depicting them.\\p\"",
     "source": "and works of art depicting them.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それを えがいた えにも であうでしょう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "333aff7cc2a6080e",
@@ -384628,9 +385256,13 @@
     "end": 9997,
     "raw": "\"If you were to come across such\\n\"",
     "source": "If you were to come across such\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そんな えを みつけたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e89c9bcccb7e7145",
@@ -384640,9 +385272,13 @@
     "end": 10047,
     "raw": "\"a painting, may we ask you to obtain\\l\"",
     "source": "a painting, may we ask you to obtain\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここで てんじしても いいか\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "be5774ce189694dc",
@@ -384652,9 +385288,13 @@
     "end": 10095,
     "raw": "\"the artist's permission to exhibit\\l\"",
     "source": "the artist's permission to exhibit\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がかの きょかを とって\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "931b566262b95e11",
@@ -384664,9 +385304,13 @@
     "end": 10116,
     "raw": "\"it here?$\"",
     "source": "it here?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いただけませんか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "09201365e078fae5",
@@ -384676,9 +385320,13 @@
     "end": 10223,
     "raw": "\"I wish to fill this exhibit hall with\\n\"",
     "source": "I wish to fill this exhibit hall with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この てんじしつを ポケモンの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf305ed88265944f",
@@ -384688,9 +385336,13 @@
     "end": 10268,
     "raw": "\"modern and vibrant paintings of\\l\"",
     "source": "modern and vibrant paintings of\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたらしく いきいきとした えで\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24c313c24ff30dfa",
@@ -384700,9 +385352,13 @@
     "end": 10289,
     "raw": "\"POKéMON.$\"",
     "source": "POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっぱいに したいのです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5938e6d3046d65ba",
@@ -384712,9 +385368,13 @@
     "end": 10396,
     "raw": "\"Thanks to you, we've added a new\\n\"",
     "source": "Thanks to you, we've added a new\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなたの おかげで あたらしい えを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "118ae92fec3b3c8c",
@@ -384724,9 +385384,13 @@
     "end": 10437,
     "raw": "\"painting to our collection!\\p\"",
     "source": "painting to our collection!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざることが できました!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd6da8abcd68f2bf",
@@ -384736,9 +385400,13 @@
     "end": 10486,
     "raw": "\"I've heard it depicts your POKéMON.\\n\"",
     "source": "I've heard it depicts your POKéMON.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモンを えがいたそうですね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cbb48944cb805452",
@@ -384748,9 +385416,13 @@
     "end": 10518,
     "raw": "\"Truly magnificent!\\p\"",
     "source": "Truly magnificent!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに すばらしい!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a38e7831ff013d86",
@@ -384760,9 +385432,13 @@
     "end": 10560,
     "raw": "\"Thank you so very, very much!$\"",
     "source": "Thank you so very, very much!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに ほんとうに ありがとう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db617667ff660c25",
@@ -384772,9 +385448,13 @@
     "end": 10638,
     "raw": "\"Ah! It's you!\\n\"",
     "source": "Ah! It's you!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ! あなたですか!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "41dfc1455de00b60",
@@ -384784,9 +385464,13 @@
     "end": 10660,
     "raw": "\"{PLAYER}!$\"",
     "source": "{PLAYER}!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c1eddb0ac4852aac",
@@ -384796,9 +385480,13 @@
     "end": 10762,
     "raw": "\"Isn't this marvelous?\\n\"",
     "source": "Isn't this marvelous?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}すばらしいでしょう?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a8fc514aab8f701",
@@ -384808,9 +385496,13 @@
     "end": 10805,
     "raw": "\"This collection of paintings!\\p\"",
     "source": "This collection of paintings!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この えの コレクション!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "949a5983f8a568f9",
@@ -384820,9 +385512,13 @@
     "end": 10845,
     "raw": "\"Each one of them flawless!\\n\"",
     "source": "Each one of them flawless!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どれも かんぺきです!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "318b09b7ea3b431a",
@@ -384832,9 +385528,13 @@
     "end": 10884,
     "raw": "\"None better than another!\\p\"",
     "source": "None better than another!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どれが うえとも いえません!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fa7fcc9ff0f8944e",
@@ -384844,9 +385544,13 @@
     "end": 10928,
     "raw": "\"These paintings have attracted\\n\"",
     "source": "These paintings have attracted\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この えの おかげで びじゅつかんに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13a76085802ed47b",
@@ -384856,9 +385560,13 @@
     "end": 10972,
     "raw": "\"more guests to our ART MUSEUM.\\p\"",
     "source": "more guests to our ART MUSEUM.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くる おきゃくが ふえました。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f07cfa3c848f2797",
@@ -384868,9 +385576,13 @@
     "end": 11019,
     "raw": "\"Sincerely, I thank you, {PLAYER}.\\n\"",
     "source": "Sincerely, I thank you, {PLAYER}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こころから ありがとう {ENG}{PLAYER}{JPN}。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "93c4976748bcb389",
@@ -384880,9 +385592,13 @@
     "end": 11059,
     "raw": "\"This is my dream come true!$\"",
     "source": "This is my dream come true!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしの ゆめが かなったのです!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db0c2ba01959d0bc",
@@ -384892,9 +385608,13 @@
     "end": 11166,
     "raw": "\"This is merely a token of my gratitude.$\"",
     "source": "This is merely a token of my gratitude.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほんの おれいの しるしです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a82f6ad8b46f9f99",
@@ -384904,9 +385624,13 @@
     "end": 11266,
     "raw": "\"I will keep this for you until we\\n\"",
     "source": "I will keep this for you until we\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}また おあいする ときまで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f5add2605f3d6422",
@@ -384916,9 +385640,13 @@
     "end": 11290,
     "raw": "\"meet again.$\"",
     "source": "meet again.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これは あずかって おきます。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f9ea8e666cef5931",
@@ -384928,9 +385656,13 @@
     "end": 11395,
     "raw": "\"Ah, so good to see you, {PLAYER}!\\p\"",
     "source": "Ah, so good to see you, {PLAYER}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ よく きてくれました {ENG}{PLAYER}{JPN}!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd72d05317ee99c9",
@@ -384940,9 +385672,13 @@
     "end": 11443,
     "raw": "\"It's an honor to have you visit us\\n\"",
     "source": "It's an honor to have you visit us\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いそがしい たびの あいまに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "07b02dc5eaa6c7dd",
@@ -384952,9 +385688,13 @@
     "end": 11479,
     "raw": "\"on your busy journeys.\\p\"",
     "source": "on your busy journeys.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おこしいただき こうえいです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "467b3543f932a414",
@@ -384964,9 +385704,13 @@
     "end": 11524,
     "raw": "\"Please, relax and do enjoy your\\n\"",
     "source": "Please, relax and do enjoy your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぞ おくつろぎに なって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13bea8b3aabc1db2",
@@ -384976,9 +385720,13 @@
     "end": 11551,
     "raw": "\"visit with us.$\"",
     "source": "visit with us.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たのしんで いってください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d169d2781dbb6943",
@@ -384988,9 +385736,13 @@
     "end": 11661,
     "raw": "\"It's a picture frame with pink-colored\\n\"",
     "source": "It's a picture frame with pink-colored\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ピンクいろの かざりが ついた\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4cabecd1ffca8230",
@@ -385000,9 +385752,13 @@
     "end": 11685,
     "raw": "\"adornments.$\"",
     "source": "adornments.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がくぶちだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe0b08b30a0bfa54",
@@ -385012,9 +385768,13 @@
     "end": 11784,
     "raw": "\"It's a picture frame with\\n\"",
     "source": "It's a picture frame with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きいろい かざりが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "be05118416018e61",
@@ -385024,9 +385784,13 @@
     "end": 11823,
     "raw": "\"yellow-colored adornments.$\"",
     "source": "yellow-colored adornments.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ついた がくぶちだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e8cb4bf1e3b3fe56",
@@ -385036,9 +385800,13 @@
     "end": 11920,
     "raw": "\"It's a picture frame with\\n\"",
     "source": "It's a picture frame with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あおい かざりが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "70890077bb2a10f2",
@@ -385048,9 +385816,13 @@
     "end": 11957,
     "raw": "\"blue-colored adornments.$\"",
     "source": "blue-colored adornments.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ついた がくぶちだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "04c14e08bdfa9f99",
@@ -385060,9 +385832,13 @@
     "end": 12053,
     "raw": "\"It's a picture frame with\\n\"",
     "source": "It's a picture frame with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あかい かざりが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e844d238932d7987",
@@ -385072,9 +385848,13 @@
     "end": 12089,
     "raw": "\"red-colored adornments.$\"",
     "source": "red-colored adornments.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ついた がくぶちだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "545d3898a3196a48",
@@ -385084,9 +385864,13 @@
     "end": 12187,
     "raw": "\"It's a picture frame with\\n\"",
     "source": "It's a picture frame with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みどりいろの かざりが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1382c848ff575f02",
@@ -385096,9 +385880,13 @@
     "end": 12225,
     "raw": "\"green-colored adornments.$\"",
     "source": "green-colored adornments.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ついた がくぶちだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "81cd3b0c0725fff9",
@@ -385108,9 +385896,13 @@
     "end": 12324,
     "raw": "\"It's a painting of POKéMON.$\"",
     "source": "It's a painting of POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンの えだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "92d65c88b7815736",
@@ -385120,9 +385912,13 @@
     "end": 12433,
     "raw": "\"I've been away awhile, so the new\\n\"",
     "source": "I've been away awhile, so the new\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しばらく こないうちに あたらしい えが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f485ebdaeeab950c",
@@ -385132,9 +385928,13 @@
     "end": 12478,
     "raw": "\"paintings up here surprised me.\\p\"",
     "source": "paintings up here surprised me.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざられていて びっくりしたよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "846930505e490786",
@@ -385144,9 +385944,13 @@
     "end": 12529,
     "raw": "\"I wish someone would paint my POKéMON\\n\"",
     "source": "I wish someone would paint my POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの ポケモンも こんなに きれいに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ebc118d3704a0d5e",
@@ -385156,9 +385960,13 @@
     "end": 12554,
     "raw": "\"this pretty.$\"",
     "source": "this pretty.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかに かいてもらいたいな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c8ed1e072fddabd",
@@ -385168,9 +385976,13 @@
     "end": 12664,
     "raw": "\"Well… So this is where they show\\n\"",
     "source": "Well… So this is where they show\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほう… わだいの ポケモンの えは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "92a21288a92bda38",
@@ -385180,9 +385992,13 @@
     "end": 12708,
     "raw": "\"the topical POKéMON paintings.\\p\"",
     "source": "the topical POKéMON paintings.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここで てんじしているのか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8b58bcc262a0e155",
@@ -385192,9 +386008,13 @@
     "end": 12759,
     "raw": "\"I see, these new paintings are indeed\\n\"",
     "source": "I see, these new paintings are indeed\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なるほど この あたらしい えは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74b5d93c20b81e5a",
@@ -385204,9 +386024,13 @@
     "end": 12787,
     "raw": "\"rather amusing.$\"",
     "source": "rather amusing.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たしかに なかなか おもしろい。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1be62e60f0d398ea",
@@ -385216,9 +386040,13 @@
     "end": 12886,
     "raw": "\"Wow, is that right?\\n\"",
     "source": "Wow, is that right?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へえ そうなの?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a29b20e92cc90c50",
@@ -385228,9 +386056,13 @@
     "end": 12936,
     "raw": "\"These paintings are of your POKéMON.\\p\"",
     "source": "These paintings are of your POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この えは あなたの ポケモンなんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "301ad8cd4283ad2b",
@@ -385240,9 +386072,13 @@
     "end": 12986,
     "raw": "\"Isn't that just the ultimate joy for\\n\"",
     "source": "Isn't that just the ultimate joy for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トレーナーに とって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a58020732c7bceb8",
@@ -385252,9 +386088,13 @@
     "end": 13009,
     "raw": "\"a TRAINER?$\"",
     "source": "a TRAINER?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これほど うれしいことは ないよね?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-museum-house-57",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db1a037cd8c76236",

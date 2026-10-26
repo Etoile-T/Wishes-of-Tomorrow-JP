@@ -159,133 +159,133 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_FatMan::
 	end
 
 LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
-	.string "Welcome to LILYCOVE MUSEUM.\p"
-	.string "Please take the time to enjoy our\n"
-	.string "collection of fantastic artwork\l"
-	.string "featuring POKéMON.$"
+	.string "{JPN}ミナモびじゅつかんへ ようこそ。\p"
+	.string "ポケモンを だいざいにした\n"
+	.string "すばらしい びじゅつひんの かずかずを\l"
+	.string "どうぞ ごゆっくり おたのしみください。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
-	.string "I'm the CURATOR of this MUSEUM of\n"
-	.string "fine arts.\p"
-	.string "It's heartening to see someone so\n"
-	.string "young as you in our MUSEUM.\p"
-	.string "Have you viewed our collection of\n"
-	.string "paintings already?$"
+	.string "{JPN}わたしは この びじゅつかんの\n"
+	.string "かんちょうです。\p"
+	.string "あなたのような わかいかたが きてくださり\n"
+	.string "うれしく おもいます。\p"
+	.string "てんじしている えは\n"
+	.string "もう ごらんに なりましたか?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
-	.string "Ah, then let me not disturb you.\n"
-	.string "Please, do take your time.$"
+	.string "{JPN}ああ それでは おじゃまは しません。\n"
+	.string "どうぞ ごゆっくり。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
-	.string "Oh? I do believe that you seem to\n"
-	.string "be a POKéMON TRAINER.\p"
-	.string "Have you an interest in paintings,\n"
-	.string "too?$"
+	.string "{JPN}おや? あなたは どうやら\n"
+	.string "ポケモントレーナーの ようですね。\p"
+	.string "えにも きょうみを\n"
+	.string "おもちなのですか?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HonoredYoudVisitInSpiteOfThat:
-	.string "I see…\p"
-	.string "I'm honored that you would visit\n"
-	.string "us in spite of that.$"
+	.string "{JPN}そうですか…\p"
+	.string "それでも きてくださるとは\n"
+	.string "こうえいです。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ExcellentCanYouComeWithMe:
-	.string "Ah, excellent!\n"
-	.string "You do like paintings!\p"
-	.string "Then, may I ask you to come with me?$"
+	.string "{JPN}ああ すばらしい!\n"
+	.string "えが おすきなのですね!\p"
+	.string "それでは ついてきて いただけますか?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_VeryOldPainting:
-	.string "It's a very old painting.\n"
-	.string "The paint is peeling here and there.$"
+	.string "{JPN}とても ふるい えだ。\n"
+	.string "ところどころ えのぐが はがれている。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery:
-	.string "It's an odd landscape with bizarre\n"
-	.string "and fantastic scenery.$"
+	.string "{JPN}きみょうで げんそうてきな けしきが\n"
+	.string "えがかれた ふしぎな ふうけいがだ。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
-	.string "It's a painting of a beautiful, smiling\n"
-	.string "woman with a POKéMON on her lap.$"
+	.string "{JPN}ひざに ポケモンを のせて ほほえむ\n"
+	.string "うつくしい おんなのひとの えだ。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "It's a painting of a legendary POKéMON\n"
-	.string "from long ago.\p"
-	.string "The artist painted this from\n"
-	.string "imagination.$"
+	.string "{JPN}むかしの でんせつの ポケモンを\n"
+	.string "えがいた えだ。\p"
+	.string "がかが そうぞうして\n"
+	.string "かいたものだ。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "It's a painting of GRASS POKéMON\n"
-	.string "swaying in a breeze.\p"
-	.string "They appear to be enjoying the wind's\n"
-	.string "gentle caress.$"
+	.string "{JPN}そよかぜに ゆれる くさポケモンの\n"
+	.string "えだ。\p"
+	.string "やさしく なでるような かぜを\n"
+	.string "たのしんでいるように みえる。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "It's a delicious-looking painting\n"
-	.string "of BERRIES.\p"
-	.string "This painting could make you hungry!$"
+	.string "{JPN}おいしそうな きのみを\n"
+	.string "えがいた えだ。\p"
+	.string "みていると おなかが すいてきそう!$"
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
-	.string "It's a replica of a famous sculpture.\p"
-	.string "It depicts an ancient BIRD POKéMON.$"
+	.string "{JPN}ゆうめいな ちょうこくの レプリカだ。\p"
+	.string "こだいの とりポケモンを かたどっている。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "It's a big POKé BALL carved from\n"
-	.string "a black stone.\p"
-	.string "It was apparently used in festivals\n"
-	.string "in the olden days.$"
+	.string "{JPN}くろい いしを ほって つくった\n"
+	.string "おおきな モンスターボールだ。\p"
+	.string "むかしの おまつりで\n"
+	.string "つかわれていたらしい。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
-	.string "It's a huge stone tablet inscribed\n"
-	.string "with POKéMON and dense text in the\l"
-	.string "small characters of an ancient,\l"
-	.string "unreadable language.$"
+	.string "{JPN}おおきな せきばんに ポケモンと\n"
+	.string "ちいさな もじが びっしりと\l"
+	.string "ほられている。むかしの ことばで\l"
+	.string "なにが かいてあるのか よめない。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence:
-	.string "Hmmm…\n"
-	.string "What works of great magnificence…$"
+	.string "{JPN}うーむ…\n"
+	.string "なんとも すばらしい さくひんたちだ…$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts:
-	.string "Battling with POKéMON is fun,\n"
-	.string "I'll grant you that.\p"
-	.string "But one mustn't forget our love for\n"
-	.string "the fine arts.$"
+	.string "{JPN}たしかに ポケモンで たたかうのは\n"
+	.string "たのしいでしょう。\p"
+	.string "でも びじゅつを あいする こころも\n"
+	.string "わすれては いけませんよ。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration:
-	.string "This ART MUSEUM… Well, you could\n"
-	.string "see many fantastic paintings.\p"
-	.string "And the CURATOR is a wonderful person.\p"
-	.string "Among artists like myself, this MUSEUM\n"
-	.string "is an inspiration.$"
+	.string "{JPN}この びじゅつかんでは… そうだね\n"
+	.string "すばらしい えを たくさん みられる。\p"
+	.string "それに かんちょうも すてきな ひとだ。\p"
+	.string "わたしのような げいじゅつかにとって\n"
+	.string "この びじゅつかんは しげきに なるんだ。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty:
-	.string "This lady is pretty!\n"
-	.string "She's like Mommy!$"
+	.string "{JPN}この おんなのひと きれい!\n"
+	.string "ママみたい!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable:
-	.string "This POKéMON is adorable!\n"
-	.string "Just like our little boy!$"
+	.string "{JPN}この ポケモン かわいいわね!\n"
+	.string "うちの ぼうや みたい!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
-	.string "I'd heard that this ART MUSEUM got\n"
-	.string "in some new paintings.\p"
-	.string "So, naturally I hurried over.\p"
-	.string "Are the new paintings up on\n"
-	.string "the second floor?$"
+	.string "{JPN}この びじゅつかんに あたらしい えが\n"
+	.string "はいったと きいたんだ。\p"
+	.string "それで さっそく かけつけたのさ。\p"
+	.string "あたらしい えは\n"
+	.string "2かいに あるのかな?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
-	.string "Lately, the CURATOR has been\n"
-	.string "unusually cheerful.\p"
-	.string "I bet something good happened for him.\n"
-	.string "Definitely.$"
+	.string "{JPN}さいきん かんちょうは\n"
+	.string "やけに ごきげんだね。\p"
+	.string "きっと なにか いいことが あったんだ。\n"
+	.string "まちがいないね。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
-	.string "I aim to see many great paintings\n"
-	.string "here and learn from them.\p"
-	.string "I have this dream of one day having\n"
-	.string "my artwork exhibited here.$"
+	.string "{JPN}ここで すばらしい えを たくさん みて\n"
+	.string "まなぼうと おもってるんだ。\p"
+	.string "いつか じぶんの さくひんを ここに\n"
+	.string "かざってもらうのが ゆめなんだ。$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
-	.string "The ART MUSEUM has become a favorite\n"
-	.string "tourist destination.\p"
-	.string "It's great for LILYCOVE…\n"
-	.string "No, great for the HOENN region!\p"
-	.string "This is what I've heard--a lone TRAINER\n"
-	.string "procured all the paintings upstairs.$"
+	.string "{JPN}この びじゅつかんは かんこうきゃくに\n"
+	.string "にんきの ばしょに なった。\p"
+	.string "ミナモに とって すばらしいことだ…\n"
+	.string "いや ホウエンに とってだね!\p"
+	.string "きいた はなしでは ひとりの トレーナーが\n"
+	.string "2かいの えを ぜんぶ そろえたそうだよ。$"
 

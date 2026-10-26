@@ -1654,8 +1654,8 @@
       "map": "MauvilleCity",
       "depth": 12,
       "via": "Route110",
-      "pending": 141,
-      "translated": 0,
+      "pending": 0,
+      "translated": 141,
       "outgoing": [
         "MauvilleCity_BikeShop",
         "MauvilleCity_GameCorner",
@@ -1752,8 +1752,8 @@
       "map": "Route110_SeasideCyclingRoadNorthEntrance",
       "depth": 12,
       "via": "Route110",
-      "pending": 7,
-      "translated": 0,
+      "pending": 0,
+      "translated": 7,
       "outgoing": [
         "Route110"
       ]
@@ -1762,8 +1762,8 @@
       "map": "Route110_SeasideCyclingRoadSouthEntrance",
       "depth": 12,
       "via": "Route110",
-      "pending": 7,
-      "translated": 0,
+      "pending": 0,
+      "translated": 7,
       "outgoing": [
         "Route110"
       ]
@@ -1772,8 +1772,8 @@
       "map": "Route110_TrickHouseEntrance",
       "depth": 12,
       "via": "Route110",
-      "pending": 79,
-      "translated": 0,
+      "pending": 0,
+      "translated": 79,
       "outgoing": [
         "Route110",
         "Route110_TrickHouseEntrance",
@@ -5165,6 +5165,6 @@
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 11726,
-  "translated_map_rows": 5629
+  "pending_map_rows": 11492,
+  "translated_map_rows": 5863
 }

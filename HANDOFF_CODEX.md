@@ -4,7 +4,19 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話64（2026-10-27）
+## 最新の会話65（2026-10-27）
+
+開始時HEAD8d75392931・クリーン、status/stats61,722/14,121/47,601一致。キンセツ141行/サイクリング入口各7行/カラクリ入口79行、計234行60メッセージ追加し61,722/14,355/47,367。4ファイルのカタログpending0。参考111行を全英語と照合して編集、残り123行は新訳。レビューreviews/dialogue-mauville-trick-65.review.md。ミツルのcanの能力とtoughの難しさ、叔父の励まし/家族関係、テッセンの発電装置停止依頼、電話/テレビ、8か所の隠れ場所と人形のロボット口調・報酬分岐を保持。人形の後を追えない主体は曖昧なので、日本語も主語を省略し断定しない。辞書137語。
+
+yomiyasu script lint0、meaning_risk5は叔父の原文も疑問、It pleases meの喜び、赤/青テントの保持2件、ミツルのcanの断言を確認。宛名3件は「おじさん:」を宛名とした誤検出で話者は不変。勢い1は原文句点/疑問に対応。check bad0/26マス超0、audit0、78テスト成功。4ファイルの非.string行は開始時と完全一致。ロジック/フラグ/セーブ構造不変。
+
+GBA ../outputs/gba/wishes-jp-14355-f64d32bf.gba、SHA256 7d5958c1ba5c1dd05b42b7edaba2c138ee29e9e5bd97bbaa34cb3ca4a458d9ca。source commit 641831f09c308878430a632e3b6d3db947e1c75f。build/emerald-jp-dlg14355-clean、ROM29,828,680B/EWRAM230,024/IWRAM28,600。BPS再適用全バイト一致、../artifacts/wishes-jp-ui14355-f64d32bf-patch.zip。実画面・対戦/電話/依頼/受領/隠れ場所/進行/保存は未検証。旧ROM・セーブ保持。
+
+Excel14シート・62,429行11列、137語、全原文/訳文/ID/状態/メモと目次62,429/15,062/47,367を保存後照合し一致。旧メモ0件維持。Git内exports/types-14355.xlsx、ユーザー版 ../outputs/translation-types-14355/Wishes_種類別翻訳一覧.xlsx。Excel実アプリ未確認。管理画面は14355/47367へ再読込済み。
+
+次は **Route110_TrickHousePuzzle1〜8計241行→TrickHouseEnd73行、計314行**。参考候補は1,945メッセージ/5,164行（未レビュー/未適用）。mapグラフ460候補・map内pending11,492。全ストーリー未完了。新ラベル/本文差分0でもC/共通/動的移動/未抽出を含む完成証明ではない。トークンが戻ったらこの続きから再開。
+
+## 以前の会話64（2026-10-27）
 
 開始時HEAD8327209c42・クリーン、status/stats61,722/13,803/47,919一致。カイナ残り155行＋Route110の163行、計318行78メッセージ追加し61,722/14,121/47,601。7ファイルとSlateportCity*の全スクリプトでカタログpending0。未抽出/実画面/到達性の網羅ではない。参考131行は全英語と照合して編集、残り187行は新訳。レビューreviews/dialogue-slateport-route110-64.review.md。
 
@@ -131,14 +143,14 @@ Excelは14シート・全62,429行11列、用語107件、メモ、目次62,429/1
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `08826ced1dd18dcb01985b00f76185eb74c22d0c`（この後にdocsコミットあり） |
-| カタログ | 61,722候補のうち翻訳済み14,121、pending47,601（完成率ではない） |
+| 最新の翻訳コミット | `641831f09c308878430a632e3b6d3db947e1c75f`（この後にdocsコミットあり） |
+| カタログ | 61,722候補のうち翻訳済み14,355、pending47,367（完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | python3 -m unittest discover -s tools/localization -p 'test_*.py' で78件成功 |
-| 最新ビルド | pokeemerald-jp-dlg14121.gba（ROM29,831,048B / EWRAM230,024B / IWRAM28,600B） |
-| ユーザー向けGBA | ../outputs/gba/wishes-jp-14121-ecf33154.gba（旧ROM・セーブ保持） |
-| 配布パッチ | ../artifacts/wishes-jp-ui14121-ecf33154-patch.zip / localization/patch-manifest-ui14121.json |
-| Excel | ../outputs/translation-types-14121/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-14121.xlsx、全62,429行） |
+| 最新ビルド | pokeemerald-jp-dlg14355.gba（ROM29,828,680B / EWRAM230,024B / IWRAM28,600B） |
+| ユーザー向けGBA | ../outputs/gba/wishes-jp-14355-f64d32bf.gba（旧ROM・セーブ保持） |
+| 配布パッチ | ../artifacts/wishes-jp-ui14355-f64d32bf-patch.zip / localization/patch-manifest-ui14355.json |
+| Excel | ../outputs/translation-types-14355/Wishes_種類別翻訳一覧.xlsx（Git内exports/types-14355.xlsx、全62,429行） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
@@ -250,7 +262,7 @@ Excelの最新更新: ユーザーの指示で同じブック内の種類別シ�
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。現在はユーザーの最新指示で**セリフを優先**する。ポケモン・図鑑の全件対応は保留。既知独自マップから始め、共通NPC会話も進めている。
 
-1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はキンセツ/110番道路の施設等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。ミナモ関連のカタログ会話は適用済み。次はカラクリ各パズル/出口等、流用マップのストーリー／NPC会話。図鑑はユーザー指定で保留。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "8c27ff664c0ba4b8",
+    "species": "SPECIES_AMOONGUSS_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Mushroom",
+    "translation": "{JPN}きのこ{ENG}"
+  },
+  {
+    "id": "e71b36d8be9566a7",
+    "species": "SPECIES_AMOONGUSS_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 160,
+    "source": "Mega Evolution swells its cap into a\\nspiked dome. When struck, it sheds\\npoison spikes that litter the ground\\naround its foes.",
+    "translation": "{JPN}メガシンカで かさが とげだらけの\\nドームに ふくらむ。 こうげきを\\nうけると どくの とげが こぼれおち\\nあいての まわりの じめんに ちらばる。{ENG}"
+  },
+  {
+    "id": "b0bab668b3e226f1",
+    "species": "SPECIES_AZUMARILL_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 40,
+    "source": "Aqua Rabbit",
+    "translation": "{JPN}みずうさぎ{ENG}"
+  },
+  {
+    "id": "df564bc80c4cb7be",
+    "species": "SPECIES_AZUMARILL_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 168,
+    "source": "Its body holds so much water that it\\nfloats like a balloon. A coat of\\nbubbles shields it from flames and\\ndoubles the force of its water moves.",
+    "translation": "{JPN}からだに たくさんの みずを ためこみ\\nふうせんのように うかぶ。 あわの\\nころもが ほのおから みを まもり\\nみずの わざの いりょくを 2ばいにする。{ENG}"
+  },
+  {
+    "id": "9e700a14b8ca6fa7",
+    "species": "SPECIES_BUTTERFREE_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 40,
+    "source": "Butterfly",
+    "translation": "{JPN}ちょうちょ{ENG}"
+  },
+  {
+    "id": "bbc588e3be95f802",
+    "species": "SPECIES_BUTTERFREE_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 160,
+    "source": "Its wings turn to stained glass that\\nbends light into psychic waves. The\\nair around it hums, and its foes\\ncan no longer strike first.",
+    "translation": "{JPN}はねが ステンドグラスに かわり\\nひかりを まげて サイコパワーの\\nなみにする。 まわりの くうきが うなり\\nあいては せんせいこうげきが できない。{ENG}"
+  },
+  {
+    "id": "85f3863506dc891a",
+    "species": "SPECIES_CONKELDURR_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Muscular",
+    "translation": "{JPN}きんこつ{ENG}"
+  },
+  {
+    "id": "3933aec883410c51",
+    "species": "SPECIES_CONKELDURR_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 152,
+    "source": "It swings a whole tower of stone as\\nlightly as a stick. Any rock it\\nthrows strikes with the weight of\\na falling building.",
+    "translation": "{JPN}いしの とうを まるごと ぼうのように\\nかるがると ふりまわす。 なげた\\nいわは どれも たおれる ビルほどの\\nおもさで あいてに ぶつかる。{ENG}"
+  },
+  {
+    "id": "88536f72277399dd",
+    "species": "SPECIES_DUGTRIO_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Mole",
+    "translation": "{JPN}もぐら{ENG}"
+  },
+  {
+    "id": "9cf8fb40d4d47c48",
+    "species": "SPECIES_DUGTRIO_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 160,
+    "source": "Mega Evolution raises its three heads\\non a brawler's body of packed earth.\\nIt feeds on the soil, so Ground-type\\nattacks only heal it.",
+    "translation": "{JPN}メガシンカで かためた つちの\\nかくとうかの からだに 3つの あたまが\\nのる。 つちを たべるため じめんの\\nこうげきを うけると かいふくする。{ENG}"
+  },
+  {
+    "id": "6dbce6e7f18e932d",
+    "species": "SPECIES_ELECTIVIRE_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Thunderbolt",
+    "translation": "{JPN}らいでん{ENG}"
+  },
+  {
+    "id": "0048966ba969b300",
+    "species": "SPECIES_ELECTIVIRE_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 160,
+    "source": "The coils on its back hum with so\\nmuch current that the ground around\\nit crackles. Nothing can fall asleep\\nwhile it is near.",
+    "translation": "{JPN}せなかの コイルに おびただしい\\nでんりゅうが ながれ うなりを あげる。\\nまわりの じめんには ひばなが はしり\\nそばに いると だれも ねむれない。{ENG}"
+  },
+  {
+    "id": "7058101888a8262d",
+    "species": "SPECIES_FLYGON_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Mystic",
+    "translation": "{JPN}せいれい{ENG}"
+  },
+  {
+    "id": "fa31c2bf69e9eb18",
+    "species": "SPECIES_FLYGON_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 144,
+    "source": "Each beat of its wings whips up a\\nsandstorm that hides it from sight.\\nThe song of its wings is the only\\nsound that carries through the storm.",
+    "translation": "{JPN}はばたくたびに すなあらしを おこし\\nすがたを かくす。 あらしの なかを\\nとおって きこえるのは はねが\\nかなでる うたごえ だけだ。{ENG}"
+  },
+  {
+    "id": "c45793c6f31cd9f2",
+    "species": "SPECIES_GOLEM_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Megaton",
+    "translation": "{JPN}メガトン{ENG}"
+  },
+  {
+    "id": "cf570015b71a0554",
+    "species": "SPECIES_GOLEM_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 160,
+    "source": "Crystals as hard as diamond cover its\\nbody. Even attacks it is weak to\\nbarely scratch it. It sheds its old\\ncrystals once a year.",
+    "translation": "{JPN}ダイヤモンドほど かたい けっしょうが\\nからだを おおう。 にがてな こうげきも\\nかすりきずにしか ならない。 としに\\nいちど ふるい けっしょうが はがれる。{ENG}"
+  },
+  {
+    "id": "ebdc759a64665ce2",
+    "species": "SPECIES_JUMPLUFF_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Cottonweed",
+    "translation": "{JPN}わたくさ{ENG}"
+  },
+  {
+    "id": "e3024ce1ff7cf999",
+    "species": "SPECIES_JUMPLUFF_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 152,
+    "source": "Its cotton swells into a huge ball\\nthat rides the wind. Anything that\\nstrikes it is wrapped in cotton\\nthat slows it down.",
+    "translation": "{JPN}わたが おおきな たまに ふくらみ\\nかぜに のって ただよう。 ぶつかって\\nきたものは わたに つつまれて\\nうごきが おそくなる。{ENG}"
+  },
+  {
+    "id": "79f9cb64535ceb9f",
+    "species": "SPECIES_KABUTOPS_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Shellfish",
+    "translation": "{JPN}こうら{ENG}"
+  },
+  {
+    "id": "2af51fcc6a516131",
+    "species": "SPECIES_KABUTOPS_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 136,
+    "source": "Its scythes have been honed to an\\nedge that cuts through steel. It\\nslashes its prey in a flash, then\\ndrags it under the water.",
+    "translation": "{JPN}カマは はがねをも きりさくほどに\\nとぎすまされた。 えものを\\nいっしゅんで きりつけてから\\nみずの なかへ ひきずりこむ。{ENG}"
+  },
+  {
+    "id": "52dbca03eccfd7c1",
+    "species": "SPECIES_MAGMORTAR_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Blast",
+    "translation": "{JPN}ばくえん{ENG}"
+  },
+  {
+    "id": "939b4cde740de091",
+    "species": "SPECIES_MAGMORTAR_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 160,
+    "source": "Its arm cannon now fires shells of\\nmagma hot enough to melt rock. It\\npours all its power into each blast\\nand holds nothing back.",
+    "translation": "{JPN}うでの たいほうから いわを とかす\\nほど あつい マグマの たまを はなつ。\\nいっぱつ ごとに ちからを すべて\\nそそぎこみ だしおしみを しない。{ENG}"
+  },
+  {
+    "id": "2b5a714ca69e7621",
+    "species": "SPECIES_MILOTIC_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 40,
+    "source": "Tender",
+    "translation": "{JPN}いつくしみ{ENG}"
+  },
+  {
+    "id": "8e4c1bbdeee6b621",
+    "species": "SPECIES_MILOTIC_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 136,
+    "source": "A shimmering mist rises from its\\nscales. Pokémon standing in the mist\\ncannot be poisoned, burned or put\\nto sleep.",
+    "translation": "{JPN}うろこから きらめく きりが\\nたちのぼる。 きりの なかに いる\\nポケモンは どくにも やけどにも\\nねむりにも ならない。{ENG}"
+  },
+  {
+    "id": "329df2dbfda905ed",
+    "species": "SPECIES_OMASTAR_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Spiral",
+    "translation": "{JPN}うずまき{ENG}"
+  },
+  {
+    "id": "c0faab8ead8d2e6e",
+    "species": "SPECIES_OMASTAR_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 176,
+    "source": "Its shell has grown into a towering\\ndrill. It fires the spikes on its\\nshell in volleys, and every volley\\nhits five times.",
+    "translation": "{JPN}からが そびえたつ ドリルに\\nそだった。 からの とげを\\nつぎつぎに はっしゃする。\\nどの れんしゃも かならず 5かい あたる。{ENG}"
+  },
+  {
+    "id": "34cec07918c165aa",
+    "species": "SPECIES_POLIWRATH_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Tadpole",
+    "translation": "{JPN}おたま{ENG}"
+  },
+  {
+    "id": "605aa99c25446625",
+    "species": "SPECIES_POLIWRATH_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 144,
+    "source": "Its fists harden into heavy\\ngauntlets. One punch can stop a\\ncharging Pokémon cold. The swirl on\\nits belly spins faster as it fights.",
+    "translation": "{JPN}こぶしが かたまり おもい こてに\\nなる。 とっしんする ポケモンも\\nいちげきで とめる。 たたかうほどに\\nおなかの うずが はやく まわる。{ENG}"
+  },
+  {
+    "id": "6eb0d28830e23881",
+    "species": "SPECIES_SHIFTRY_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Wicked",
+    "translation": "{JPN}よこしま{ENG}"
+  },
+  {
+    "id": "8d7b3923e9ee8152",
+    "species": "SPECIES_SHIFTRY_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 128,
+    "source": "It fans its blazing autumn leaves to\\nwhip up gales. With the wind at its\\nback, it grows stronger and moves\\nfaster than the eye can follow.",
+    "translation": "{JPN}もえる こうようを あおいで\\nぼうふうを おこす。 おいかぜを\\nうけると ちからが まし めで\\nおえないほど はやく うごく。{ENG}"
+  },
+  {
+    "id": "86359d8ee0356a19",
+    "species": "SPECIES_SNORLAX_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Sleeping",
+    "translation": "{JPN}いねむり{ENG}"
+  },
+  {
+    "id": "4cf249499a346fba",
+    "species": "SPECIES_SNORLAX_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 152,
+    "source": "Mega Evolution covers it in a thick,\\nshaggy coat. Blows sink into the fur\\nand lose their force, but the coat\\ncatches fire easily.",
+    "translation": "{JPN}メガシンカで ぶあつく けぶかい\\nけがわに おおわれる。 こうげきは\\nけに うもれて いきおいを うしなうが\\nけがわには ひが つきやすい。{ENG}"
+  },
+  {
+    "id": "8c61b4bf33784460",
+    "species": "SPECIES_TORKOAL_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Coal",
+    "translation": "{JPN}せきたん{ENG}"
+  },
+  {
+    "id": "0b7ab8865b2685f4",
+    "species": "SPECIES_TORKOAL_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 128,
+    "source": "Its shell becomes an iron furnace\\nwith a cannon on its back. The heat\\nit gives off turns the sunlight\\nharsh the moment it appears.",
+    "translation": "{JPN}こうらが てつの ろに なり\\nせなかに たいほうが つく。\\nあらわれた しゅんかん はっする\\nねつで ひざしが つよくなる。{ENG}"
+  },
+  {
+    "id": "41529d9c638db59c",
+    "species": "SPECIES_TYPHLOSION_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Volcano",
+    "translation": "{JPN}かざん{ENG}"
+  },
+  {
+    "id": "c05b019aee5c2a83",
+    "species": "SPECIES_TYPHLOSION_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 152,
+    "source": "Its back erupts like a volcano,\\nraining fire and molten rock. It has\\nmastered its own flames so well that\\nits fire burns hotter than ever.",
+    "translation": "{JPN}せなかが かざんのように ふんかし\\nほのおと とけた いわが ふりそそぐ。\\nほのおを じざいに あやつり\\nいままでよりも あつく もやす。{ENG}"
+  },
+  {
+    "id": "541e2799fe1b3eb5",
+    "species": "SPECIES_WHIMSICOTT_MEGA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 40,
+    "source": "Windveiled",
+    "translation": "{JPN}かぜかくれ{ENG}"
+  },
+  {
+    "id": "403d6c44782cb87b",
+    "species": "SPECIES_WHIMSICOTT_MEGA",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 128,
+    "source": "Its cotton grows into a cloud\\ncrowned with antlers. It loves\\nmischief more than ever, and its\\npranks come too fast to see coming.",
+    "translation": "{JPN}わたが くものように そだち\\nえだのような つのが はえる。\\nますます いたずらずきに なり\\nいたずらは めにも とまらない。{ENG}"
+  },
+  {
+    "id": "2de13d805909448b",
+    "species": "SPECIES_MEWTWO_ARMORED",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Genetic",
+    "translation": "{JPN}いでんし{ENG}"
+  },
+  {
+    "id": "d6344b0eb1b66650",
+    "species": "SPECIES_MEWTWO_ARMORED",
+    "field": "description",
+    "lines": 4,
+    "max_8px_width": 144,
+    "source": "Restraining armor bolted over a body\\nmade by science. The suit dampens its\\npsychic power -- and hides how little\\nof its heart was ever tamed.",
+    "translation": "{JPN}かがくで つくられた からだを\\nこうそくする よろいで おおう。\\nサイコパワーを おさえると ともに\\nてなずけきれない こころを かくす。{ENG}"
+  },
+  {
+    "id": "f405cda674d7bd1c",
+    "species": "SPECIES_BULBASAUR",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 16,
+    "source": "Seed",
+    "translation": "{JPN}たね{ENG}"
+  },
+  {
+    "id": "eaaae209948cc3c5",
+    "species": "SPECIES_BULBASAUR",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 184,
+    "source": "Bulbasaur can be seen napping in bright\\nsunlight. There is a seed on its back.\\nBy soaking up the sun's rays, the seed\\ngrows progressively larger.",
+    "translation": "{JPN}ひなたで ひるねを する すがたを みかける。\\nたいようの ひかりを いっぱい あびることで\\nせなかの タネが おおきく そだつのだ。{ENG}"
+  },
+  {
+    "id": "9bb3eb4fa10e9ac5",
+    "species": "SPECIES_IVYSAUR",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 16,
+    "source": "Seed",
+    "translation": "{JPN}たね{ENG}"
+  },
+  {
+    "id": "9f5b4497906b02e9",
+    "species": "SPECIES_IVYSAUR",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "To support its bulb, Ivysaur's legs\\ngrow sturdy. If it spends more time lying in\\nthe sunlight, the bud will soon bloom into\\na large flower.",
+    "translation": "{JPN}つぼみを ささえるため あしこしが つよくなる。\\nひなたで じっとする じかんが ながくなれば\\nいよいよ たいりんの はなが さくころだ。{ENG}"
+  },
+  {
+    "id": "924da095a74da268",
+    "species": "SPECIES_VENUSAUR",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 16,
+    "source": "Seed",
+    "translation": "{JPN}たね{ENG}"
+  },
+  {
+    "id": "39ffc908e2b059a7",
+    "species": "SPECIES_VENUSAUR",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 184,
+    "source": "Venusaur's flower is said to take on vivid\\ncolors if it gets plenty of nutrition and\\nsunlight. The flower's aroma soothes the\\nemotions of people.",
+    "translation": "{JPN}じゅうぶんな えいようと たいようの ひかりが\\nはなの いろを あざやかに すると いわれる。\\nはなの かおりは ひとの こころを いやす。{ENG}"
+  },
+  {
+    "id": "b65fa9be4b4c8fd9",
+    "species": "SPECIES_CHARMANDER",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Lizard",
+    "translation": "{JPN}とかげ{ENG}"
+  },
+  {
+    "id": "ff80cdaaacff7533",
+    "species": "SPECIES_CHARMANDER",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "The flame that burns at the tip of its\\ntail is an indication of its emotions.\\nThe flame wavers when Charmander is\\nhappy, and blazes when it is enraged.",
+    "translation": "{JPN}しっぽの ほのおは きぶんを ひょうげん。\\nたのしい ときには ゆらゆら ほのおが ゆれて\\nおこった ときには めらめら さかんに もえる。{ENG}"
+  },
+  {
+    "id": "450b4cd97c0cdf83",
+    "species": "SPECIES_CHARMELEON",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Flame",
+    "translation": "{JPN}かえん{ENG}"
+  },
+  {
+    "id": "840b60eae25c80e2",
+    "species": "SPECIES_CHARMELEON",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 184,
+    "source": "Without pity, its sharp claws destroy foes.\\nIf it encounters a strong enemy, it\\nbecomes agitated, and the flame on its\\ntail flares with a bluish white color.",
+    "translation": "{JPN}するどい ツメで ようしゃなく たたきのめす。\\nきょうてきと むかいあうと きぶんが たかぶり\\nしっぽの ほのおが あおじろく もえあがる。{ENG}"
+  },
+  {
+    "id": "6f8613940b0ff0cb",
+    "species": "SPECIES_CHARIZARD",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Flame",
+    "translation": "{JPN}かえん{ENG}"
+  },
+  {
+    "id": "2ef75c60dc1de2b1",
+    "species": "SPECIES_CHARIZARD",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "A Charizard flies about in search of\\nstrong opponents. It breathes intense\\nflames that can melt any material. However,\\nit will never torch a weaker foe.",
+    "translation": "{JPN}つよい あいてを もとめて そらを とびまわる。\\nなんでも とかして しまう こうねつの ほのおを\\nじぶんより よわいものに むけることは しない。{ENG}"
+  },
+  {
+    "id": "d07fcce9e5f370c8",
+    "species": "SPECIES_SQUIRTLE",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Tiny Turtle",
+    "translation": "{JPN}かめのこ{ENG}"
+  },
+  {
+    "id": "16e10f58b78554ee",
+    "species": "SPECIES_SQUIRTLE",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "Its shell is not just for protection.\\nIts rounded shape and the grooves on its\\nsurface minimize resistance in water,\\nenabling Squirtle to swim at high speeds.",
+    "translation": "{JPN}こうらの やくめは みを まもる だけではない。\\nまるい かたちと ひょうめんの みぞが みずの\\nていこうを へらすので はやく およげるのだ。{ENG}"
+  },
+  {
+    "id": "0be189e92ae2308c",
+    "species": "SPECIES_WARTORTLE",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 16,
+    "source": "Turtle",
+    "translation": "{JPN}かめ{ENG}"
+  },
+  {
+    "id": "9507144f6e4786d9",
+    "species": "SPECIES_WARTORTLE",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "Its large tail is covered with rich, thick\\nfur that deepens in color with age.\\nThe scratches on its shell are evidence\\nof this Pokémon's toughness in battle.",
+    "translation": "{JPN}ふさふさの けで おおわれた おおきな しっぽは\\nながいき するほど ふかい いろあいに かわる。\\nこうらの キズは つわものの あかし。{ENG}"
+  },
+  {
+    "id": "2803296e2b371a58",
+    "species": "SPECIES_BLASTOISE",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Shellfish",
+    "translation": "{JPN}こうら{ENG}"
+  },
+  {
+    "id": "b584fb824ded01dd",
+    "species": "SPECIES_BLASTOISE",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "The waterspouts that protrude from its\\nshell are highly accurate. Their bullets of\\nwater can precisely nail tin cans from\\na distance of over 160 feet.",
+    "translation": "{JPN}こうらの ふんしゃこうの ねらいは せいかく。\\nみずの だんがんを 50メートル はなれた\\nあきかんに めいちゅうさせる ことが できるぞ。{ENG}"
+  },
+  {
+    "id": "7b4d07b6ad8584dd",
+    "species": "SPECIES_CATERPIE",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Worm",
+    "translation": "{JPN}いもむし{ENG}"
+  },
+  {
+    "id": "e0e49bf49e65d5cd",
+    "species": "SPECIES_CATERPIE",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "Its voracious appetite compels it to\\ndevour leaves bigger than itself without\\nhesitation. It releases a terribly strong\\nodor from its antennae.",
+    "translation": "{JPN}からだ よりも おおきな はっぱを みるみる\\nたべつくして しまうほどの しょくよくを もつ。\\nしょっかくから きょうれつな においを だすぞ。{ENG}"
+  },
+  {
+    "id": "fe072d1b821e8be4",
+    "species": "SPECIES_METAPOD",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Cocoon",
+    "translation": "{JPN}さなぎ{ENG}"
+  },
+  {
+    "id": "71350cac6a0dd364",
+    "species": "SPECIES_METAPOD",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "Its shell is as hard as an iron slab.\\nA Metapod does not move very much\\nbecause it is preparing its soft innards\\nfor evolution inside the shell.",
+    "translation": "{JPN}からだの カラは てっぱんの ように かたい。\\nあまり うごかないのは カラのなかで やわらかい\\nなかみが しんかの じゅんびを しているからだ。{ENG}"
+  },
+  {
+    "id": "95cae056a46c636b",
+    "species": "SPECIES_BUTTERFREE",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 40,
+    "source": "Butterfly",
+    "translation": "{JPN}ちょうちょ{ENG}"
+  },
+  {
+    "id": "f5b2ecafcedd57bb",
+    "species": "SPECIES_BUTTERFREE",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "It has a superior ability to search for\\ndelicious honey from flowers. It can seek,\\nextract, and carry honey from flowers\\nblooming over six miles away.",
+    "translation": "{JPN}おいしい はなの ミツを さがす のうりょくに\\nすぐれ すみかから 10キロはなれた ばしょに\\nさく はなから ミツを あつめて はこんでいる。{ENG}"
+  },
+  {
+    "id": "6c5f22f6f76a3224",
+    "species": "SPECIES_WEEDLE",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Hairy Bug",
+    "translation": "{JPN}けむし{ENG}"
+  },
+  {
+    "id": "5c271b91b70e9b36",
+    "species": "SPECIES_WEEDLE",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 176,
+    "source": "A Weedle has an extremely acute sense\\nof smell. It distinguishes its favorite\\nkinds of leaves from those it dislikes by\\nsniffing with its big red nose.",
+    "translation": "{JPN}とても するどい きゅうかくを もっている。\\nこうぶつの はっぱか きらいな はっぱか\\nおおきな あかい はなで かぎわける。{ENG}"
+  },
+  {
+    "id": "470d2c53e3a58271",
+    "species": "SPECIES_KAKUNA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Cocoon",
+    "translation": "{JPN}さなぎ{ENG}"
+  },
+  {
+    "id": "c3315e64053c9432",
+    "species": "SPECIES_KAKUNA",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "It remains virtually immobile while it\\nclings to a tree. However, on the inside,\\nit busily prepares for evolution. This is\\nevident from how hot its shell becomes.",
+    "translation": "{JPN}ほとんど うごかず きに つかまっているが\\nなかでは しんかの じゅんびで おおいそがし。\\nその しょうこに からだが あつくなっているぞ。{ENG}"
+  },
+  {
+    "id": "59bbfef1b0b88b9c",
+    "species": "SPECIES_BEEDRILL",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Poison Bee",
+    "translation": "{JPN}どくばち{ENG}"
+  },
+  {
+    "id": "e3045053dca05533",
+    "species": "SPECIES_BEEDRILL",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "A Beedrill is extremely territorial.\\nFor safety reasons, no one should ever\\napproach its nest. If angered, they will\\nattack in a swarm.",
+    "translation": "{JPN}なわばりいしきが とても つよいので スピアーの\\nすみかには ちかづかない ほうが みの ためだ。\\nおこると しゅうだんで おそって くるぞ。{ENG}"
+  },
+  {
+    "id": "9a914cfb387d0ff6",
+    "species": "SPECIES_PIDGEY",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Tiny Bird",
+    "translation": "{JPN}ことり{ENG}"
+  },
+  {
+    "id": "6bb996e82e5d6f31",
+    "species": "SPECIES_PIDGEY",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 184,
+    "source": "It has an extremely sharp sense of\\ndirection. It can unerringly return home to\\nits nest, however far it may be removed\\nfrom its familiar surroundings.",
+    "translation": "{JPN}ほうこう かんかくに とても すぐれているので\\nどんなに はなれた ばしょからでも まよわずに\\nじぶんの す まで かえる ことが できる。{ENG}"
+  },
+  {
+    "id": "90d618914355aba1",
+    "species": "SPECIES_PIDGEOTTO",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 16,
+    "source": "Bird",
+    "translation": "{JPN}とり{ENG}"
+  },
+  {
+    "id": "4494dff86487cdcc",
+    "species": "SPECIES_PIDGEOTTO",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "This Pokémon flies around, patrolling its\\nlarge territory. If its living space is\\nviolated, it shows no mercy in thoroughly\\npunishing the foe with its sharp claws.",
+    "translation": "{JPN}ひろい なわばりを とんで みまわりを する。\\nなわばりを あらす あいては ようしゃ しない。\\nするどい ツメで てっていてきに こらしめるぞ。{ENG}"
+  },
+  {
+    "id": "3f9b365d8f211d57",
+    "species": "SPECIES_PIDGEOT",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 16,
+    "source": "Bird",
+    "translation": "{JPN}とり{ENG}"
+  },
+  {
+    "id": "d9e9efb4fc672e63",
+    "species": "SPECIES_PIDGEOT",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "This Pokémon has gorgeous, glossy\\nfeathers. Many Trainers are so captivated\\nby the beautiful feathers on its head that\\nthey choose Pidgeot as their Pokémon.",
+    "translation": "{JPN}うつくしい こうたくの はねを もつ ポケモン。\\nあたまの はねの うつくしさに こころ うばわれ\\nピジョットを そだてる トレーナーも おおい。{ENG}"
+  },
+  {
+    "id": "9485ebdd91b28bcd",
+    "species": "SPECIES_RATTATA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Mouse",
+    "translation": "{JPN}ねずみ{ENG}"
+  },
+  {
+    "id": "102a727c71bb30a0",
+    "species": "SPECIES_RATTATA",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "A Rattata is cautious in the extreme.\\nEven while it is asleep, it constantly\\nmoves its ears and listens for danger.\\nIt will make its nest anywhere.",
+    "translation": "{JPN}けいかいしんが とても つよく ねている ときも\\nみみを うごかし まわりの おとを きいている。\\nどこにでも すみつき す を つくる。{ENG}"
+  },
+  {
+    "id": "db33c28bb6935643",
+    "species": "SPECIES_RATICATE",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Mouse",
+    "translation": "{JPN}ねずみ{ENG}"
+  },
+  {
+    "id": "1a5dc74e9b23feb3",
+    "species": "SPECIES_RATICATE",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 176,
+    "source": "A Raticate's sturdy fangs grow steadily.\\nTo keep them ground down, it gnaws on\\nrocks and logs. It may even chew on the\\nwalls of houses.",
+    "translation": "{JPN}じょうぶな キバは どんどん のびるので\\nいわや たいぼくを かじって けずっている。\\nいえの カベを かじられる ことも あるよ。{ENG}"
+  },
+  {
+    "id": "4a4e59ef18eba686",
+    "species": "SPECIES_SPEAROW",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Tiny Bird",
+    "translation": "{JPN}ことり{ENG}"
+  },
+  {
+    "id": "a48eaee8b3a2a0d0",
+    "species": "SPECIES_SPEAROW",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "Its loud cry can be heard over half a mile\\naway. If its high, keening cry is heard\\nechoing all around, it is a sign that they\\nare warning each other of danger.",
+    "translation": "{JPN}おおきな なきごえは 1キロ さきまで とどく。\\nあちこちで カンだかい こえが きこえる ときは\\nなかまたちに きけんを しらせている あいずだ。{ENG}"
+  },
+  {
+    "id": "c8e8525f370ad52c",
+    "species": "SPECIES_FEAROW",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Beak",
+    "translation": "{JPN}くちばし{ENG}"
+  },
+  {
+    "id": "0b5f6ae0153b2f8c",
+    "species": "SPECIES_FEAROW",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 184,
+    "source": "Its long neck and elongated beak are\\nideal for catching prey in soil or water.\\nIt deftly moves this extended and skinny\\nbeak to pluck prey.",
+    "translation": "{JPN}ながい くびと くちばしは つちや みずの\\nなかに いる エサを つかまえるのに べんり。\\nほそながい くちばしで きように つまむぞ。{ENG}"
+  },
+  {
+    "id": "f5f0e7484e3940ea",
+    "species": "SPECIES_EKANS",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 16,
+    "source": "Snake",
+    "translation": "{JPN}へび{ENG}"
+  },
+  {
+    "id": "729ee120ef7ed67b",
+    "species": "SPECIES_EKANS",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "An Ekans curls itself up in a spiral while\\nit rests. This position allows it to quickly\\nrespond to an enemy from any direction\\nwith a threat from its upraised head.",
+    "translation": "{JPN}ぐるぐる からだを まいて やすんでいるのは\\nどの ほうこうから てきが おそってきても\\nとっさに あたまを むけて いかくできるからだ。{ENG}"
+  },
+  {
+    "id": "665493595a0094ab",
+    "species": "SPECIES_ARBOK",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Cobra",
+    "translation": "{JPN}コブラ{ENG}"
+  },
+  {
+    "id": "775c83516638e5c9",
+    "species": "SPECIES_ARBOK",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 184,
+    "source": "This Pokémon has a terrifically strong\\nconstricting power. It can even flatten\\nsteel oil drums. Once it wraps its body\\naround its foe, escaping is impossible.",
+    "translation": "{JPN}しめつける ちからは とても きょうりょく。\\nドラムかんも ぺしゃんこに してしまうぞ。\\nまきつかれたら にげだす ことは ふかのうだ。{ENG}"
+  },
+  {
+    "id": "6e2e54a0cac12805",
+    "species": "SPECIES_RAICHU",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Mouse",
+    "translation": "{JPN}ねずみ{ENG}"
+  },
+  {
+    "id": "0dcd7d71ec2577ad",
+    "species": "SPECIES_RAICHU",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 176,
+    "source": "If it stores too much electricity, its\\nbehavior turns aggressive. To avoid this,\\nit occasionally discharges excess energy\\nand calms itself down.",
+    "translation": "{JPN}でんきが たまりすぎると こうげきてきな\\nせいかくに かわるため たまに ほうでんして\\nきもちを おちつける こうどうを とる。{ENG}"
+  },
+  {
+    "id": "f0e073364404530b",
+    "species": "SPECIES_SANDSHREW",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Mouse",
+    "translation": "{JPN}ねずみ{ENG}"
+  },
+  {
+    "id": "d67e0b4097779545",
+    "species": "SPECIES_SANDSHREW",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "When it curls up in a ball, it can make any\\nattack bounce off harmlessly. Its hide has\\nturned tough and solid as a result of\\nliving in the desert.",
+    "translation": "{JPN}まるくなると どんな こうげきでも はねかえす。\\nさばくで せいかつしている うちに からだの\\nひょうめんが カチカチに かたく へんかした。{ENG}"
+  },
+  {
+    "id": "7c28e4d871d40d31",
+    "species": "SPECIES_SANDSLASH",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Mouse",
+    "translation": "{JPN}ねずみ{ENG}"
+  },
+  {
+    "id": "0ff8712578c465f5",
+    "species": "SPECIES_SANDSLASH",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 184,
+    "source": "It curls up in a ball to protect itself from\\nenemy attacks. It also curls up to prevent\\nheatstroke during the daytime when\\ntemperatures rise sharply.",
+    "translation": "{JPN}てきの こうげきを ふせぐときだけでなく\\nきおんが きゅうじょうしょうする にっちゅうは\\nにっしゃびょうを ふせぐために まるくなる。{ENG}"
+  },
+  {
+    "id": "cee7c2641c63534a",
+    "species": "SPECIES_NIDORINA",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Poison Pin",
+    "translation": "{JPN}どくばり{ENG}"
+  },
+  {
+    "id": "32c6ac3e8f653882",
+    "species": "SPECIES_NIDORINA",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "When it is with its friends or\\nfamily, its barbs are tucked away to\\nprevent injury. It appears to become\\nnervous if separated from the others.",
+    "translation": "{JPN}なかまや かぞくと いっしょの ときは おたがい\\nきずつかないように トゲが ひっこんでいる。\\nなかまから はなれると ふあんに なるらしい。{ENG}"
+  },
+  {
+    "id": "3a957719ec46bde2",
+    "species": "SPECIES_NIDOQUEEN",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 24,
+    "source": "Drill",
+    "translation": "{JPN}ドリル{ENG}"
+  },
+  {
+    "id": "dcdb015ee574e00d",
+    "species": "SPECIES_NIDOQUEEN",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "It is adept at sending foes flying with\\nharsh tackles using its tough, scaly body.\\nThis Pokémon is at its strongest when\\nit is defending its young.",
+    "translation": "{JPN}かたい ウロコで おおわれた からだを ぶつけて\\nあいてを はじきとばす こうげきが とくいだ。\\nこどもを まもる ときが いちばん つよい。{ENG}"
+  },
+  {
+    "id": "eb52707576de9f79",
+    "species": "SPECIES_NIDORINO",
+    "field": "categoryName",
+    "lines": 1,
+    "max_8px_width": 32,
+    "source": "Poison Pin",
+    "translation": "{JPN}どくばり{ENG}"
+  },
+  {
+    "id": "6e7db64d045535e6",
+    "species": "SPECIES_NIDORINO",
+    "field": "description",
+    "lines": 3,
+    "max_8px_width": 192,
+    "source": "Its horn is harder than a diamond.\\nIf it senses a hostile presence, all the\\nbarbs on its back bristle up at once, and it\\nchallenges the foe with all its might.",
+    "translation": "{JPN}ダイヤモンドよりも かたい ツノを もつ。\\nてきの けはいを かんじると せなかの トゲが\\nいっせいに さかだち ぜんりょくで たちむかう。{ENG}"
+  }
+]

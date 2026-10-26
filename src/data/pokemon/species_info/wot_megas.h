@@ -28,14 +28,11 @@
         .speciesName = _("{JPN}モロバレル{ENG}"),
         .cryId = CRY_AMOONGUSS,
         .natDexNum = NATIONAL_DEX_AMOONGUSS,
-        .categoryName = _("Mushroom"),
+        .categoryName = _("{JPN}きのこ{ENG}"),
         .height = 13,
         .weight = 520,
         .description = COMPOUND_STRING(
-            "Mega Evolution swells its cap into a\n"
-            "spiked dome. When struck, it sheds\n"
-            "poison spikes that litter the ground\n"
-            "around its foes."),
+            "{JPN}メガシンカで かさが とげだらけの\nドームに ふくらむ。 こうげきを\nうけると どくの とげが こぼれおち\nあいての まわりの じめんに ちらばる。{ENG}"),
         .pokemonScale = 422,
         .pokemonOffset = 13,
         .trainerScale = 256,
@@ -98,14 +95,11 @@
         .speciesName = _("{JPN}マリルリ{ENG}"),
         .cryId = CRY_AZUMARILL,
         .natDexNum = NATIONAL_DEX_AZUMARILL,
-        .categoryName = _("Aqua Rabbit"),
+        .categoryName = _("{JPN}みずうさぎ{ENG}"),
         .height = 12,
         .weight = 610,
         .description = COMPOUND_STRING(
-            "Its body holds so much water that it\n"
-            "floats like a balloon. A coat of\n"
-            "bubbles shields it from flames and\n"
-            "doubles the force of its water moves."),
+            "{JPN}からだに たくさんの みずを ためこみ\nふうせんのように うかぶ。 あわの\nころもが ほのおから みを まもり\nみずの わざの いりょくを 2ばいにする。{ENG}"),
         .pokemonScale = 448,
         .pokemonOffset = 16,
         .trainerScale = 256,
@@ -169,14 +163,11 @@
         .speciesName = _("{JPN}バタフリー{ENG}"),
         .cryId = CRY_BUTTERFREE,
         .natDexNum = NATIONAL_DEX_BUTTERFREE,
-        .categoryName = _("Butterfly"),
+        .categoryName = _("{JPN}ちょうちょ{ENG}"),
         .height = 15,
         .weight = 385,
         .description = COMPOUND_STRING(
-            "Its wings turn to stained glass that\n"
-            "bends light into psychic waves. The\n"
-            "air around it hums, and its foes\n"
-            "can no longer strike first."),
+            "{JPN}はねが ステンドグラスに かわり\nひかりを まげて サイコパワーの\nなみにする。 まわりの くうきが うなり\nあいては せんせいこうげきが できない。{ENG}"),
         .pokemonScale = 312,
         .pokemonOffset = 2,
         .trainerScale = 256,
@@ -240,14 +231,11 @@
         .speciesName = _("{JPN}ローブシン{ENG}"),
         .cryId = CRY_CONKELDURR,
         .natDexNum = NATIONAL_DEX_CONKELDURR,
-        .categoryName = _("Muscular"),
+        .categoryName = _("{JPN}きんこつ{ENG}"),
         .height = 16,
         .weight = 1290,
         .description = COMPOUND_STRING(
-            "It swings a whole tower of stone as\n"
-            "lightly as a stick. Any rock it\n"
-            "throws strikes with the weight of\n"
-            "a falling building."),
+            "{JPN}いしの とうを まるごと ぼうのように\nかるがると ふりまわす。 なげた\nいわは どれも たおれる ビルほどの\nおもさで あいてに ぶつかる。{ENG}"),
         .pokemonScale = 265,
         .pokemonOffset = 3,
         .trainerScale = 262,
@@ -310,14 +298,11 @@
         .speciesName = _("{JPN}ダグトリオ{ENG}"),
         .cryId = CRY_DUGTRIO,
         .natDexNum = NATIONAL_DEX_DUGTRIO,
-        .categoryName = _("Mole"),
+        .categoryName = _("{JPN}もぐら{ENG}"),
         .height = 16,
         .weight = 1800,
         .description = COMPOUND_STRING(
-            "Mega Evolution raises its three heads\n"
-            "on a brawler's body of packed earth.\n"
-            "It feeds on the soil, so Ground-type\n"
-            "attacks only heal it."),
+            "{JPN}メガシンカで かためた つちの\nかくとうかの からだに 3つの あたまが\nのる。 つちを たべるため じめんの\nこうげきを うけると かいふくする。{ENG}"),
         .pokemonScale = 406,
         .pokemonOffset = 18,
         .trainerScale = 256,
@@ -380,14 +365,11 @@
         .speciesName = _("{JPN}エレキブル{ENG}"),
         .cryId = CRY_ELECTIVIRE,
         .natDexNum = NATIONAL_DEX_ELECTIVIRE,
-        .categoryName = _("Thunderbolt"),
+        .categoryName = _("{JPN}らいでん{ENG}"),
         .height = 20,
         .weight = 1650,
         .description = COMPOUND_STRING(
-            "The coils on its back hum with so\n"
-            "much current that the ground around\n"
-            "it crackles. Nothing can fall asleep\n"
-            "while it is near."),
+            "{JPN}せなかの コイルに おびただしい\nでんりゅうが ながれ うなりを あげる。\nまわりの じめんには ひばなが はしり\nそばに いると だれも ねむれない。{ENG}"),
         .pokemonScale = 267,
         .pokemonOffset = 2,
         .trainerScale = 286,
@@ -451,14 +433,11 @@
         .speciesName = _("{JPN}フライゴン{ENG}"),
         .cryId = CRY_FLYGON,
         .natDexNum = NATIONAL_DEX_FLYGON,
-        .categoryName = _("Mystic"),
+        .categoryName = _("{JPN}せいれい{ENG}"),
         .height = 23,
         .weight = 950,
         .description = COMPOUND_STRING(
-            "Each beat of its wings whips up a\n"
-            "sandstorm that hides it from sight.\n"
-            "The song of its wings is the only\n"
-            "sound that carries through the storm."),
+            "{JPN}はばたくたびに すなあらしを おこし\nすがたを かくす。 あらしの なかを\nとおって きこえるのは はねが\nかなでる うたごえ だけだ。{ENG}"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 268,
@@ -522,14 +501,11 @@
         .speciesName = _("{JPN}ゴローニャ{ENG}"),
         .cryId = CRY_GOLEM,
         .natDexNum = NATIONAL_DEX_GOLEM,
-        .categoryName = _("Megaton"),
+        .categoryName = _("{JPN}メガトン{ENG}"),
         .height = 16,
         .weight = 3800,
         .description = COMPOUND_STRING(
-            "Crystals as hard as diamond cover its\n"
-            "body. Even attacks it is weak to\n"
-            "barely scratch it. It sheds its old\n"
-            "crystals once a year."),
+            "{JPN}ダイヤモンドほど かたい けっしょうが\nからだを おおう。 にがてな こうげきも\nかすりきずにしか ならない。 としに\nいちど ふるい けっしょうが はがれる。{ENG}"),
         .pokemonScale = 256,
         .pokemonOffset = 3,
         .trainerScale = 296,
@@ -592,14 +568,11 @@
         .speciesName = _("{JPN}ワタッコ{ENG}"),
         .cryId = CRY_JUMPLUFF,
         .natDexNum = NATIONAL_DEX_JUMPLUFF,
-        .categoryName = _("Cottonweed"),
+        .categoryName = _("{JPN}わたくさ{ENG}"),
         .height = 14,
         .weight = 40,
         .description = COMPOUND_STRING(
-            "Its cotton swells into a huge ball\n"
-            "that rides the wind. Anything that\n"
-            "strikes it is wrapped in cotton\n"
-            "that slows it down."),
+            "{JPN}わたが おおきな たまに ふくらみ\nかぜに のって ただよう。 ぶつかって\nきたものは わたに つつまれて\nうごきが おそくなる。{ENG}"),
         .pokemonScale = 418,
         .pokemonOffset = -4,
         .trainerScale = 256,
@@ -663,14 +636,11 @@
         .speciesName = _("{JPN}カブトプス{ENG}"),
         .cryId = CRY_KABUTOPS,
         .natDexNum = NATIONAL_DEX_KABUTOPS,
-        .categoryName = _("Shellfish"),
+        .categoryName = _("{JPN}こうら{ENG}"),
         .height = 16,
         .weight = 580,
         .description = COMPOUND_STRING(
-            "Its scythes have been honed to an\n"
-            "edge that cuts through steel. It\n"
-            "slashes its prey in a flash, then\n"
-            "drags it under the water."),
+            "{JPN}カマは はがねをも きりさくほどに\nとぎすまされた。 えものを\nいっしゅんで きりつけてから\nみずの なかへ ひきずりこむ。{ENG}"),
         .pokemonScale = 271,
         .pokemonOffset = 3,
         .trainerScale = 256,
@@ -733,14 +703,11 @@
         .speciesName = _("{JPN}ブーバーン{ENG}"),
         .cryId = CRY_MAGMORTAR,
         .natDexNum = NATIONAL_DEX_MAGMORTAR,
-        .categoryName = _("Blast"),
+        .categoryName = _("{JPN}ばくえん{ENG}"),
         .height = 18,
         .weight = 980,
         .description = COMPOUND_STRING(
-            "Its arm cannon now fires shells of\n"
-            "magma hot enough to melt rock. It\n"
-            "pours all its power into each blast\n"
-            "and holds nothing back."),
+            "{JPN}うでの たいほうから いわを とかす\nほど あつい マグマの たまを はなつ。\nいっぱつ ごとに ちからを すべて\nそそぎこみ だしおしみを しない。{ENG}"),
         .pokemonScale = 259,
         .pokemonOffset = 1,
         .trainerScale = 296,
@@ -803,14 +770,11 @@
         .speciesName = _("{JPN}ミロカロス{ENG}"),
         .cryId = CRY_MILOTIC,
         .natDexNum = NATIONAL_DEX_MILOTIC,
-        .categoryName = _("Tender"),
+        .categoryName = _("{JPN}いつくしみ{ENG}"),
         .height = 70,
         .weight = 2100,
         .description = COMPOUND_STRING(
-            "A shimmering mist rises from its\n"
-            "scales. Pokémon standing in the mist\n"
-            "cannot be poisoned, burned or put\n"
-            "to sleep."),
+            "{JPN}うろこから きらめく きりが\nたちのぼる。 きりの なかに いる\nポケモンは どくにも やけどにも\nねむりにも ならない。{ENG}"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 360,
@@ -873,14 +837,11 @@
         .speciesName = _("{JPN}オムスター{ENG}"),
         .cryId = CRY_OMASTAR,
         .natDexNum = NATIONAL_DEX_OMASTAR,
-        .categoryName = _("Spiral"),
+        .categoryName = _("{JPN}うずまき{ENG}"),
         .height = 19,
         .weight = 720,
         .description = COMPOUND_STRING(
-            "Its shell has grown into a towering\n"
-            "drill. It fires the spikes on its\n"
-            "shell in volleys, and every volley\n"
-            "hits five times."),
+            "{JPN}からが そびえたつ ドリルに\nそだった。 からの とげを\nつぎつぎに はっしゃする。\nどの れんしゃも かならず 5かい あたる。{ENG}"),
         .pokemonScale = 307,
         .pokemonOffset = 7,
         .trainerScale = 256,
@@ -943,14 +904,11 @@
         .speciesName = _("{JPN}ニョロボン{ENG}"),
         .cryId = CRY_POLIWRATH,
         .natDexNum = NATIONAL_DEX_POLIWRATH,
-        .categoryName = _("Tadpole"),
+        .categoryName = _("{JPN}おたま{ENG}"),
         .height = 15,
         .weight = 820,
         .description = COMPOUND_STRING(
-            "Its fists harden into heavy\n"
-            "gauntlets. One punch can stop a\n"
-            "charging Pokémon cold. The swirl on\n"
-            "its belly spins faster as it fights."),
+            "{JPN}こぶしが かたまり おもい こてに\nなる。 とっしんする ポケモンも\nいちげきで とめる。 たたかうほどに\nおなかの うずが はやく まわる。{ENG}"),
         .pokemonScale = 256,
         .pokemonOffset = 6,
         .trainerScale = 256,
@@ -1013,14 +971,11 @@
         .speciesName = _("{JPN}ダーテング{ENG}"),
         .cryId = CRY_SHIFTRY,
         .natDexNum = NATIONAL_DEX_SHIFTRY,
-        .categoryName = _("Wicked"),
+        .categoryName = _("{JPN}よこしま{ENG}"),
         .height = 17,
         .weight = 740,
         .description = COMPOUND_STRING(
-            "It fans its blazing autumn leaves to\n"
-            "whip up gales. With the wind at its\n"
-            "back, it grows stronger and moves\n"
-            "faster than the eye can follow."),
+            "{JPN}もえる こうようを あおいで\nぼうふうを おこす。 おいかぜを\nうけると ちからが まし めで\nおえないほど はやく うごく。{ENG}"),
         .pokemonScale = 290,
         .pokemonOffset = 4,
         .trainerScale = 256,
@@ -1083,14 +1038,11 @@
         .speciesName = _("{JPN}カビゴン{ENG}"),
         .cryId = CRY_SNORLAX,
         .natDexNum = NATIONAL_DEX_SNORLAX,
-        .categoryName = _("Sleeping"),
+        .categoryName = _("{JPN}いねむり{ENG}"),
         .height = 25,
         .weight = 5200,
         .description = COMPOUND_STRING(
-            "Mega Evolution covers it in a thick,\n"
-            "shaggy coat. Blows sink into the fur\n"
-            "and lose their force, but the coat\n"
-            "catches fire easily."),
+            "{JPN}メガシンカで ぶあつく けぶかい\nけがわに おおわれる。 こうげきは\nけに うもれて いきおいを うしなうが\nけがわには ひが つきやすい。{ENG}"),
         .pokemonScale = 256,
         .pokemonOffset = 4,
         .trainerScale = 423,
@@ -1154,14 +1106,11 @@
         .speciesName = _("{JPN}コータス{ENG}"),
         .cryId = CRY_TORKOAL,
         .natDexNum = NATIONAL_DEX_TORKOAL,
-        .categoryName = _("Coal"),
+        .categoryName = _("{JPN}せきたん{ENG}"),
         .height = 9,
         .weight = 1320,
         .description = COMPOUND_STRING(
-            "Its shell becomes an iron furnace\n"
-            "with a cannon on its back. The heat\n"
-            "it gives off turns the sunlight\n"
-            "harsh the moment it appears."),
+            "{JPN}こうらが てつの ろに なり\nせなかに たいほうが つく。\nあらわれた しゅんかん はっする\nねつで ひざしが つよくなる。{ENG}"),
         .pokemonScale = 390,
         .pokemonOffset = 9,
         .trainerScale = 256,
@@ -1225,14 +1174,11 @@
         .speciesName = _("{JPN}バクフーン{ENG}"),
         .cryId = CRY_TYPHLOSION,
         .natDexNum = NATIONAL_DEX_TYPHLOSION,
-        .categoryName = _("Volcano"),
+        .categoryName = _("{JPN}かざん{ENG}"),
         .height = 19,
         .weight = 920,
         .description = COMPOUND_STRING(
-            "Its back erupts like a volcano,\n"
-            "raining fire and molten rock. It has\n"
-            "mastered its own flames so well that\n"
-            "its fire burns hotter than ever."),
+            "{JPN}せなかが かざんのように ふんかし\nほのおと とけた いわが ふりそそぐ。\nほのおを じざいに あやつり\nいままでよりも あつく もやす。{ENG}"),
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 268,
@@ -1295,14 +1241,11 @@
         .speciesName = _("{JPN}エルフーン{ENG}"),
         .cryId = CRY_WHIMSICOTT,
         .natDexNum = NATIONAL_DEX_WHIMSICOTT,
-        .categoryName = _("Windveiled"),
+        .categoryName = _("{JPN}かぜかくれ{ENG}"),
         .height = 11,
         .weight = 95,
         .description = COMPOUND_STRING(
-            "Its cotton grows into a cloud\n"
-            "crowned with antlers. It loves\n"
-            "mischief more than ever, and its\n"
-            "pranks come too fast to see coming."),
+            "{JPN}わたが くものように そだち\nえだのような つのが はえる。\nますます いたずらずきに なり\nいたずらは めにも とまらない。{ENG}"),
         .pokemonScale = 365,
         .pokemonOffset = 12,
         .trainerScale = 256,

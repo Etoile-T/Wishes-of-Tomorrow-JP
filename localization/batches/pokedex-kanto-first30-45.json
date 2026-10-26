@@ -1,0 +1,602 @@
+[
+  {
+    "id": "f405cda674d7bd1c",
+    "translation": "{JPN}たね{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BULBASAUR.categoryName[0]"
+  },
+  {
+    "id": "eaaae209948cc3c5",
+    "translation": "{JPN}ひなたで ひるねを する すがたを みかける。\\nたいようの ひかりを いっぱい あびることで\\nせなかの タネが おおきく そだつのだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BULBASAUR.description[0]"
+  },
+  {
+    "id": "9bb3eb4fa10e9ac5",
+    "translation": "{JPN}たね{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_IVYSAUR.categoryName[0]"
+  },
+  {
+    "id": "9f5b4497906b02e9",
+    "translation": "{JPN}つぼみを ささえるため あしこしが つよくなる。\\nひなたで じっとする じかんが ながくなれば\\nいよいよ たいりんの はなが さくころだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_IVYSAUR.description[0]"
+  },
+  {
+    "id": "924da095a74da268",
+    "translation": "{JPN}たね{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENUSAUR.categoryName[0]"
+  },
+  {
+    "id": "39ffc908e2b059a7",
+    "translation": "{JPN}じゅうぶんな えいようと たいようの ひかりが\\nはなの いろを あざやかに すると いわれる。\\nはなの かおりは ひとの こころを いやす。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_VENUSAUR.description[0]"
+  },
+  {
+    "id": "b65fa9be4b4c8fd9",
+    "translation": "{JPN}とかげ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CHARMANDER.categoryName[0]"
+  },
+  {
+    "id": "ff80cdaaacff7533",
+    "translation": "{JPN}しっぽの ほのおは きぶんを ひょうげん。\\nたのしい ときには ゆらゆら ほのおが ゆれて\\nおこった ときには めらめら さかんに もえる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CHARMANDER.description[0]"
+  },
+  {
+    "id": "450b4cd97c0cdf83",
+    "translation": "{JPN}かえん{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CHARMELEON.categoryName[0]"
+  },
+  {
+    "id": "840b60eae25c80e2",
+    "translation": "{JPN}するどい ツメで ようしゃなく たたきのめす。\\nきょうてきと むかいあうと きぶんが たかぶり\\nしっぽの ほのおが あおじろく もえあがる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CHARMELEON.description[0]"
+  },
+  {
+    "id": "6f8613940b0ff0cb",
+    "translation": "{JPN}かえん{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CHARIZARD.categoryName[0]"
+  },
+  {
+    "id": "2ef75c60dc1de2b1",
+    "translation": "{JPN}つよい あいてを もとめて そらを とびまわる。\\nなんでも とかして しまう こうねつの ほのおを\\nじぶんより よわいものに むけることは しない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CHARIZARD.description[0]"
+  },
+  {
+    "id": "d07fcce9e5f370c8",
+    "translation": "{JPN}かめのこ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SQUIRTLE.categoryName[0]"
+  },
+  {
+    "id": "16e10f58b78554ee",
+    "translation": "{JPN}こうらの やくめは みを まもる だけではない。\\nまるい かたちと ひょうめんの みぞが みずの\\nていこうを へらすので はやく およげるのだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SQUIRTLE.description[0]"
+  },
+  {
+    "id": "0be189e92ae2308c",
+    "translation": "{JPN}かめ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WARTORTLE.categoryName[0]"
+  },
+  {
+    "id": "9507144f6e4786d9",
+    "translation": "{JPN}ふさふさの けで おおわれた おおきな しっぽは\\nながいき するほど ふかい いろあいに かわる。\\nこうらの キズは つわものの あかし。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WARTORTLE.description[0]"
+  },
+  {
+    "id": "2803296e2b371a58",
+    "translation": "{JPN}こうら{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BLASTOISE.categoryName[0]"
+  },
+  {
+    "id": "b584fb824ded01dd",
+    "translation": "{JPN}こうらの ふんしゃこうの ねらいは せいかく。\\nみずの だんがんを 50メートル はなれた\\nあきかんに めいちゅうさせる ことが できるぞ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BLASTOISE.description[0]"
+  },
+  {
+    "id": "7b4d07b6ad8584dd",
+    "translation": "{JPN}いもむし{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CATERPIE.categoryName[0]"
+  },
+  {
+    "id": "e0e49bf49e65d5cd",
+    "translation": "{JPN}からだ よりも おおきな はっぱを みるみる\\nたべつくして しまうほどの しょくよくを もつ。\\nしょっかくから きょうれつな においを だすぞ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_CATERPIE.description[0]"
+  },
+  {
+    "id": "fe072d1b821e8be4",
+    "translation": "{JPN}さなぎ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_METAPOD.categoryName[0]"
+  },
+  {
+    "id": "71350cac6a0dd364",
+    "translation": "{JPN}からだの カラは てっぱんの ように かたい。\\nあまり うごかないのは カラのなかで やわらかい\\nなかみが しんかの じゅんびを しているからだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_METAPOD.description[0]"
+  },
+  {
+    "id": "95cae056a46c636b",
+    "translation": "{JPN}ちょうちょ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BUTTERFREE.categoryName[0]"
+  },
+  {
+    "id": "f5b2ecafcedd57bb",
+    "translation": "{JPN}おいしい はなの ミツを さがす のうりょくに\\nすぐれ すみかから 10キロはなれた ばしょに\\nさく はなから ミツを あつめて はこんでいる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BUTTERFREE.description[0]"
+  },
+  {
+    "id": "6c5f22f6f76a3224",
+    "translation": "{JPN}けむし{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WEEDLE.categoryName[0]"
+  },
+  {
+    "id": "5c271b91b70e9b36",
+    "translation": "{JPN}とても するどい きゅうかくを もっている。\\nこうぶつの はっぱか きらいな はっぱか\\nおおきな あかい はなで かぎわける。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_WEEDLE.description[0]"
+  },
+  {
+    "id": "470d2c53e3a58271",
+    "translation": "{JPN}さなぎ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_KAKUNA.categoryName[0]"
+  },
+  {
+    "id": "c3315e64053c9432",
+    "translation": "{JPN}ほとんど うごかず きに つかまっているが\\nなかでは しんかの じゅんびで おおいそがし。\\nその しょうこに からだが あつくなっているぞ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_KAKUNA.description[0]"
+  },
+  {
+    "id": "59bbfef1b0b88b9c",
+    "translation": "{JPN}どくばち{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BEEDRILL.categoryName[0]"
+  },
+  {
+    "id": "e3045053dca05533",
+    "translation": "{JPN}なわばりいしきが とても つよいので スピアーの\\nすみかには ちかづかない ほうが みの ためだ。\\nおこると しゅうだんで おそって くるぞ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_BEEDRILL.description[0]"
+  },
+  {
+    "id": "9a914cfb387d0ff6",
+    "translation": "{JPN}ことり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIDGEY.categoryName[0]"
+  },
+  {
+    "id": "6bb996e82e5d6f31",
+    "translation": "{JPN}ほうこう かんかくに とても すぐれているので\\nどんなに はなれた ばしょからでも まよわずに\\nじぶんの す まで かえる ことが できる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIDGEY.description[0]"
+  },
+  {
+    "id": "90d618914355aba1",
+    "translation": "{JPN}とり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIDGEOTTO.categoryName[0]"
+  },
+  {
+    "id": "4494dff86487cdcc",
+    "translation": "{JPN}ひろい なわばりを とんで みまわりを する。\\nなわばりを あらす あいては ようしゃ しない。\\nするどい ツメで てっていてきに こらしめるぞ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIDGEOTTO.description[0]"
+  },
+  {
+    "id": "3f9b365d8f211d57",
+    "translation": "{JPN}とり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIDGEOT.categoryName[0]"
+  },
+  {
+    "id": "d9e9efb4fc672e63",
+    "translation": "{JPN}うつくしい こうたくの はねを もつ ポケモン。\\nあたまの はねの うつくしさに こころ うばわれ\\nピジョットを そだてる トレーナーも おおい。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_PIDGEOT.description[0]"
+  },
+  {
+    "id": "9485ebdd91b28bcd",
+    "translation": "{JPN}ねずみ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_RATTATA.categoryName[0]"
+  },
+  {
+    "id": "102a727c71bb30a0",
+    "translation": "{JPN}けいかいしんが とても つよく ねている ときも\\nみみを うごかし まわりの おとを きいている。\\nどこにでも すみつき す を つくる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_RATTATA.description[0]"
+  },
+  {
+    "id": "db33c28bb6935643",
+    "translation": "{JPN}ねずみ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_RATICATE.categoryName[0]"
+  },
+  {
+    "id": "1a5dc74e9b23feb3",
+    "translation": "{JPN}じょうぶな キバは どんどん のびるので\\nいわや たいぼくを かじって けずっている。\\nいえの カベを かじられる ことも あるよ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_RATICATE.description[0]"
+  },
+  {
+    "id": "4a4e59ef18eba686",
+    "translation": "{JPN}ことり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SPEAROW.categoryName[0]"
+  },
+  {
+    "id": "a48eaee8b3a2a0d0",
+    "translation": "{JPN}おおきな なきごえは 1キロ さきまで とどく。\\nあちこちで カンだかい こえが きこえる ときは\\nなかまたちに きけんを しらせている あいずだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SPEAROW.description[0]"
+  },
+  {
+    "id": "c8e8525f370ad52c",
+    "translation": "{JPN}くちばし{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_FEAROW.categoryName[0]"
+  },
+  {
+    "id": "0b5f6ae0153b2f8c",
+    "translation": "{JPN}ながい くびと くちばしは つちや みずの\\nなかに いる エサを つかまえるのに べんり。\\nほそながい くちばしで きように つまむぞ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_FEAROW.description[0]"
+  },
+  {
+    "id": "f5f0e7484e3940ea",
+    "translation": "{JPN}へび{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_EKANS.categoryName[0]"
+  },
+  {
+    "id": "729ee120ef7ed67b",
+    "translation": "{JPN}ぐるぐる からだを まいて やすんでいるのは\\nどの ほうこうから てきが おそってきても\\nとっさに あたまを むけて いかくできるからだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_EKANS.description[0]"
+  },
+  {
+    "id": "665493595a0094ab",
+    "translation": "{JPN}コブラ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ARBOK.categoryName[0]"
+  },
+  {
+    "id": "775c83516638e5c9",
+    "translation": "{JPN}しめつける ちからは とても きょうりょく。\\nドラムかんも ぺしゃんこに してしまうぞ。\\nまきつかれたら にげだす ことは ふかのうだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_ARBOK.description[0]"
+  },
+  {
+    "id": "6e2e54a0cac12805",
+    "translation": "{JPN}ねずみ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_RAICHU.categoryName[0]"
+  },
+  {
+    "id": "0dcd7d71ec2577ad",
+    "translation": "{JPN}でんきが たまりすぎると こうげきてきな\\nせいかくに かわるため たまに ほうでんして\\nきもちを おちつける こうどうを とる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_RAICHU.description[0]"
+  },
+  {
+    "id": "f0e073364404530b",
+    "translation": "{JPN}ねずみ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SANDSHREW.categoryName[0]"
+  },
+  {
+    "id": "d67e0b4097779545",
+    "translation": "{JPN}まるくなると どんな こうげきでも はねかえす。\\nさばくで せいかつしている うちに からだの\\nひょうめんが カチカチに かたく へんかした。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SANDSHREW.description[0]"
+  },
+  {
+    "id": "7c28e4d871d40d31",
+    "translation": "{JPN}ねずみ{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SANDSLASH.categoryName[0]"
+  },
+  {
+    "id": "0ff8712578c465f5",
+    "translation": "{JPN}てきの こうげきを ふせぐときだけでなく\\nきおんが きゅうじょうしょうする にっちゅうは\\nにっしゃびょうを ふせぐために まるくなる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_SANDSLASH.description[0]"
+  },
+  {
+    "id": "cee7c2641c63534a",
+    "translation": "{JPN}どくばり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORINA.categoryName[0]"
+  },
+  {
+    "id": "32c6ac3e8f653882",
+    "translation": "{JPN}なかまや かぞくと いっしょの ときは おたがい\\nきずつかないように トゲが ひっこんでいる。\\nなかまから はなれると ふあんに なるらしい。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORINA.description[0]"
+  },
+  {
+    "id": "3a957719ec46bde2",
+    "translation": "{JPN}ドリル{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDOQUEEN.categoryName[0]"
+  },
+  {
+    "id": "dcdb015ee574e00d",
+    "translation": "{JPN}かたい ウロコで おおわれた からだを ぶつけて\\nあいてを はじきとばす こうげきが とくいだ。\\nこどもを まもる ときが いちばん つよい。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDOQUEEN.description[0]"
+  },
+  {
+    "id": "eb52707576de9f79",
+    "translation": "{JPN}どくばり{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORINO.categoryName[0]"
+  },
+  {
+    "id": "6e7db64d045535e6",
+    "translation": "{JPN}ダイヤモンドよりも かたい ツノを もつ。\\nてきの けはいを かんじると せなかの トゲが\\nいっせいに さかだち ぜんりょくで たちむかう。{ENG}",
+    "provenance": {
+      "batch": "pokedex-kanto-first30-45",
+      "method": "Japanese reference by exact species/field, read against English; no gameplay tables copied",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef"
+    },
+    "target": "SPECIES_NIDORINO.description[0]"
+  }
+]

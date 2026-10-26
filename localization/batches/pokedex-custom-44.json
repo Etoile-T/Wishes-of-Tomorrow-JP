@@ -1,0 +1,362 @@
+[
+  {
+    "id": "8c27ff664c0ba4b8",
+    "translation": "{JPN}きのこ{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_AMOONGUSS_MEGA.categoryName[0]"
+  },
+  {
+    "id": "e71b36d8be9566a7",
+    "translation": "{JPN}メガシンカで かさが とげだらけの\\nドームに ふくらむ。 こうげきを\\nうけると どくの とげが こぼれおち\\nあいての まわりの じめんに ちらばる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_AMOONGUSS_MEGA.description[0]"
+  },
+  {
+    "id": "b0bab668b3e226f1",
+    "translation": "{JPN}みずうさぎ{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_AZUMARILL_MEGA.categoryName[0]"
+  },
+  {
+    "id": "df564bc80c4cb7be",
+    "translation": "{JPN}からだに たくさんの みずを ためこみ\\nふうせんのように うかぶ。 あわの\\nころもが ほのおから みを まもり\\nみずの わざの いりょくを 2ばいにする。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_AZUMARILL_MEGA.description[0]"
+  },
+  {
+    "id": "9e700a14b8ca6fa7",
+    "translation": "{JPN}ちょうちょ{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_BUTTERFREE_MEGA.categoryName[0]"
+  },
+  {
+    "id": "bbc588e3be95f802",
+    "translation": "{JPN}はねが ステンドグラスに かわり\\nひかりを まげて サイコパワーの\\nなみにする。 まわりの くうきが うなり\\nあいては せんせいこうげきが できない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_BUTTERFREE_MEGA.description[0]"
+  },
+  {
+    "id": "85f3863506dc891a",
+    "translation": "{JPN}きんこつ{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_CONKELDURR_MEGA.categoryName[0]"
+  },
+  {
+    "id": "3933aec883410c51",
+    "translation": "{JPN}いしの とうを まるごと ぼうのように\\nかるがると ふりまわす。 なげた\\nいわは どれも たおれる ビルほどの\\nおもさで あいてに ぶつかる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_CONKELDURR_MEGA.description[0]"
+  },
+  {
+    "id": "88536f72277399dd",
+    "translation": "{JPN}もぐら{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_DUGTRIO_MEGA.categoryName[0]"
+  },
+  {
+    "id": "9cf8fb40d4d47c48",
+    "translation": "{JPN}メガシンカで かためた つちの\\nかくとうかの からだに 3つの あたまが\\nのる。 つちを たべるため じめんの\\nこうげきを うけると かいふくする。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_DUGTRIO_MEGA.description[0]"
+  },
+  {
+    "id": "6dbce6e7f18e932d",
+    "translation": "{JPN}らいでん{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_ELECTIVIRE_MEGA.categoryName[0]"
+  },
+  {
+    "id": "0048966ba969b300",
+    "translation": "{JPN}せなかの コイルに おびただしい\\nでんりゅうが ながれ うなりを あげる。\\nまわりの じめんには ひばなが はしり\\nそばに いると だれも ねむれない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_ELECTIVIRE_MEGA.description[0]"
+  },
+  {
+    "id": "7058101888a8262d",
+    "translation": "{JPN}せいれい{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_FLYGON_MEGA.categoryName[0]"
+  },
+  {
+    "id": "fa31c2bf69e9eb18",
+    "translation": "{JPN}はばたくたびに すなあらしを おこし\\nすがたを かくす。 あらしの なかを\\nとおって きこえるのは はねが\\nかなでる うたごえ だけだ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_FLYGON_MEGA.description[0]"
+  },
+  {
+    "id": "c45793c6f31cd9f2",
+    "translation": "{JPN}メガトン{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_GOLEM_MEGA.categoryName[0]"
+  },
+  {
+    "id": "cf570015b71a0554",
+    "translation": "{JPN}ダイヤモンドほど かたい けっしょうが\\nからだを おおう。 にがてな こうげきも\\nかすりきずにしか ならない。 としに\\nいちど ふるい けっしょうが はがれる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_GOLEM_MEGA.description[0]"
+  },
+  {
+    "id": "ebdc759a64665ce2",
+    "translation": "{JPN}わたくさ{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_JUMPLUFF_MEGA.categoryName[0]"
+  },
+  {
+    "id": "e3024ce1ff7cf999",
+    "translation": "{JPN}わたが おおきな たまに ふくらみ\\nかぜに のって ただよう。 ぶつかって\\nきたものは わたに つつまれて\\nうごきが おそくなる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_JUMPLUFF_MEGA.description[0]"
+  },
+  {
+    "id": "79f9cb64535ceb9f",
+    "translation": "{JPN}こうら{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_KABUTOPS_MEGA.categoryName[0]"
+  },
+  {
+    "id": "2af51fcc6a516131",
+    "translation": "{JPN}カマは はがねをも きりさくほどに\\nとぎすまされた。 えものを\\nいっしゅんで きりつけてから\\nみずの なかへ ひきずりこむ。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_KABUTOPS_MEGA.description[0]"
+  },
+  {
+    "id": "52dbca03eccfd7c1",
+    "translation": "{JPN}ばくえん{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_MAGMORTAR_MEGA.categoryName[0]"
+  },
+  {
+    "id": "939b4cde740de091",
+    "translation": "{JPN}うでの たいほうから いわを とかす\\nほど あつい マグマの たまを はなつ。\\nいっぱつ ごとに ちからを すべて\\nそそぎこみ だしおしみを しない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_MAGMORTAR_MEGA.description[0]"
+  },
+  {
+    "id": "2b5a714ca69e7621",
+    "translation": "{JPN}いつくしみ{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_MILOTIC_MEGA.categoryName[0]"
+  },
+  {
+    "id": "8e4c1bbdeee6b621",
+    "translation": "{JPN}うろこから きらめく きりが\\nたちのぼる。 きりの なかに いる\\nポケモンは どくにも やけどにも\\nねむりにも ならない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_MILOTIC_MEGA.description[0]"
+  },
+  {
+    "id": "329df2dbfda905ed",
+    "translation": "{JPN}うずまき{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_OMASTAR_MEGA.categoryName[0]"
+  },
+  {
+    "id": "c0faab8ead8d2e6e",
+    "translation": "{JPN}からが そびえたつ ドリルに\\nそだった。 からの とげを\\nつぎつぎに はっしゃする。\\nどの れんしゃも かならず 5かい あたる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_OMASTAR_MEGA.description[0]"
+  },
+  {
+    "id": "34cec07918c165aa",
+    "translation": "{JPN}おたま{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_POLIWRATH_MEGA.categoryName[0]"
+  },
+  {
+    "id": "605aa99c25446625",
+    "translation": "{JPN}こぶしが かたまり おもい こてに\\nなる。 とっしんする ポケモンも\\nいちげきで とめる。 たたかうほどに\\nおなかの うずが はやく まわる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_POLIWRATH_MEGA.description[0]"
+  },
+  {
+    "id": "6eb0d28830e23881",
+    "translation": "{JPN}よこしま{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_SHIFTRY_MEGA.categoryName[0]"
+  },
+  {
+    "id": "8d7b3923e9ee8152",
+    "translation": "{JPN}もえる こうようを あおいで\\nぼうふうを おこす。 おいかぜを\\nうけると ちからが まし めで\\nおえないほど はやく うごく。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_SHIFTRY_MEGA.description[0]"
+  },
+  {
+    "id": "86359d8ee0356a19",
+    "translation": "{JPN}いねむり{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_SNORLAX_MEGA.categoryName[0]"
+  },
+  {
+    "id": "4cf249499a346fba",
+    "translation": "{JPN}メガシンカで ぶあつく けぶかい\\nけがわに おおわれる。 こうげきは\\nけに うもれて いきおいを うしなうが\\nけがわには ひが つきやすい。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_SNORLAX_MEGA.description[0]"
+  },
+  {
+    "id": "8c61b4bf33784460",
+    "translation": "{JPN}せきたん{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_TORKOAL_MEGA.categoryName[0]"
+  },
+  {
+    "id": "0b7ab8865b2685f4",
+    "translation": "{JPN}こうらが てつの ろに なり\\nせなかに たいほうが つく。\\nあらわれた しゅんかん はっする\\nねつで ひざしが つよくなる。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_TORKOAL_MEGA.description[0]"
+  },
+  {
+    "id": "41529d9c638db59c",
+    "translation": "{JPN}かざん{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_TYPHLOSION_MEGA.categoryName[0]"
+  },
+  {
+    "id": "c05b019aee5c2a83",
+    "translation": "{JPN}せなかが かざんのように ふんかし\\nほのおと とけた いわが ふりそそぐ。\\nほのおを じざいに あやつり\\nいままでよりも あつく もやす。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_TYPHLOSION_MEGA.description[0]"
+  },
+  {
+    "id": "541e2799fe1b3eb5",
+    "translation": "{JPN}かぜかくれ{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_WHIMSICOTT_MEGA.categoryName[0]"
+  },
+  {
+    "id": "403d6c44782cb87b",
+    "translation": "{JPN}わたが くものように そだち\\nえだのような つのが はえる。\\nますます いたずらずきに なり\\nいたずらは めにも とまらない。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_WHIMSICOTT_MEGA.description[0]"
+  },
+  {
+    "id": "2de13d805909448b",
+    "translation": "{JPN}いでんし{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_MEWTWO_ARMORED.categoryName[0]"
+  },
+  {
+    "id": "d6344b0eb1b66650",
+    "translation": "{JPN}かがくで つくられた からだを\\nこうそくする よろいで おおう。\\nサイコパワーを おさえると ともに\\nてなずけきれない こころを かくす。{ENG}",
+    "provenance": {
+      "batch": "pokedex-custom-44",
+      "method": "Hand-translated Wishes description/classification"
+    },
+    "target": "SPECIES_MEWTWO_ARMORED.description[0]"
+  }
+]

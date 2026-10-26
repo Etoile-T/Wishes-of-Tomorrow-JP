@@ -1817,13 +1817,18 @@ static void DrawNormalTextEntryBox(void)
 static void DrawMonTextEntryBox(void)
 {
     u8 buffer[64];
+    u32 font = FONT_NORMAL;
+    u8 window = sNamingScreen->windows[WIN_TEXT_ENTRY_BOX];
+    u32 width = GetWindowAttribute(window, WINDOW_WIDTH) * 8 - 8;
 
     // The localized title owns the word order and the species placeholder.
     // Expanding it also avoids truncating a language command at byte 15.
     StringCopy(gStringVar1, GetSpeciesName(sNamingScreen->monSpecies));
     StringExpandPlaceholders(buffer, sNamingScreen->template->title);
+    if (GetStringWidth(font, buffer, 0) > width)
+        font = GetFontIdToFit(buffer, FONT_SMALL, 0, width);
     FillWindowPixelBuffer(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX], PIXEL_FILL(1));
-    AddTextPrinterParameterized(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX], FONT_NORMAL, buffer, 8, 1, 0, 0);
+    AddTextPrinterParameterized(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX], font, buffer, 8, 1, 0, 0);
     PutWindowTilemap(sNamingScreen->windows[WIN_TEXT_ENTRY_BOX]);
 }
 

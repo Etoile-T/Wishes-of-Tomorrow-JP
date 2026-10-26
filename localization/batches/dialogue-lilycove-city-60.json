@@ -1,0 +1,2062 @@
+[
+ {
+  "id": "dd8200aeac8e73ba",
+  "translation": "{JPN}ハルカ: あら?\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e01395094d7fc144",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}も おかいもの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76217ca2f2081fc0",
+  "translation": "あたしは ぬいぐるみや ポスターを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44b4e9578c62c7c5",
+  "translation": "いっぱい かっちゃった。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec04e26f9acb1fdb",
+  "translation": "もちろん ポケモンも たくさん\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4552d4e5061bd6b8",
+  "translation": "つかまえて ちゃんと\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8af4f0b6dd574c73",
+  "translation": "そだててるわよ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d60d0c8b6f56b614",
+  "translation": "むしろ ちゃんと そだててるか\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5de83f2d00e53d0",
+  "translation": "しんぱいなのは {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}の ほうよ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "005018ddbe45050d",
+  "translation": "しょうぶして ポケモンを みせてよ\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7dc074cf4dbcb48b",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b136aafcb0d6e7d",
+  "translation": "{JPN}ハルカ: どうして? {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}は\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38d7fccd4c53a27c",
+  "translation": "ポケモンを そだてて ないの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f73978eac3ec8cf",
+  "translation": "トレーナーとして それじゃ\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85965ca48b881129",
+  "translation": "あんまり かっこよく ないわね…$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca08a14ecf85f84d",
+  "translation": "{JPN}ハルカ: ねえ しょうぶして\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a45ed3cc6fe5156",
+  "translation": "あなたの ポケモンを みせてよ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c707d7a818efd18",
+  "translation": "{JPN}ハルカ: あたしが そだてた ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4dc778f60bd7e41",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}の ポケモンには まけないわ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28e240e1c12ed09c",
+  "translation": "{JPN}… … … … … … … …\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e18d63621a899616",
+  "translation": "あなたと しょうぶしたこと おぼえてるよ。\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72b8f1cfbe93ee0a",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}と 103ばんどうろでね。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ad1e6ad2c8cf5a3",
+  "translation": "あの しょうぶが あったから\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89bd59f420bda057",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}は こんなに つよく なれたのね?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d18b6d8944033325",
+  "translation": "{JPN}ハルカ: あたし そろそろ\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "fa09403249cdbcd2",
+  "translation": "ミシロタウンに かえる つもりなの\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "fbec38f9e6cbf442",
+  "translation": "いろいろ ポケモン つかまえて\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "073722f019010206",
+  "translation": "ずかんも けっこう できてきたから\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9bcb188852fe4e49",
+  "translation": "おとうさんに みせるんだ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a82c4f94c77b4081",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}は これから どうするの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6f8efa91c643687",
+  "translation": "ジムバッジを ぜんぶ あつめて\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "836debdabbeb7a9e",
+  "translation": "ポケモンリーグに ちょうせんするの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61a908670344d3bc",
+  "translation": "バッジを あつめている あいだに\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28d767f5b4ae45ac",
+  "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}より さきに\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f882ba4f168f820e",
+  "translation": "あたしは ずかんを かんせいさせるわ!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44023b22893501ed",
+  "translation": "それじゃ またね!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd0ad34829b9f721",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}は これから どうするの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4df0be6d57ea637",
+  "translation": "ポケモンリーグに\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c38dd6e1c5a69c4d",
+  "translation": "ちょうせんするの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3514e05a9872460f",
+  "translation": "それとも ポケモンずかんを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52360bd4b191efb1",
+  "translation": "かんせいさせるの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76ecded8f3d524f2",
+  "translation": "しょうぶでは まけちゃったけど\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97e4f0d8b1a43d9c",
+  "translation": "ずかんは あたしが さきに かんせいよ!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8620b999ae11b08",
+  "translation": "それじゃ またね!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8107df716040190",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}は これから どうするの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45aa7e824db7bf3c",
+  "translation": "バトルフロンティアに\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "142c8ec9d77308df",
+  "translation": "ちょうせんするの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cb23208b0208341",
+  "translation": "それとも ポケモンずかんを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd16109d391c3a96",
+  "translation": "かんせいさせるの?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "add9170181000516",
+  "translation": "しょうぶでは まけちゃったけど\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27a9426b3c9c0c1e",
+  "translation": "ずかんは あたしが さきに かんせいよ!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b94c939de70360d1",
+  "translation": "それじゃ またね!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3bfe93939795146",
+  "translation": "{JPN}ユウキ: おっ {ENG}{PLAYER}{JPN}か。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb8c01d4faf72d2a",
+  "translation": "とうさんの おつかいで きたんだよ。\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ace2553d02adf74f",
+  "translation": "あ ぬいぐるみを かうんじゃ ないからな。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "407f6da1a84815ee",
+  "translation": "それは そうと ひさしぶりだな。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71f7dee78eaada8a",
+  "translation": "どっちが ポケモンを よく そだてたか\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63784e0864ec52af",
+  "translation": "しょうぶして たしかめようぜ?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f77353c27718d96a",
+  "translation": "{JPN}ユウキ: なんだよ\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "6b54d35bfa8267c9",
+  "translation": "じしんが ないのかよ。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "61d3946d2426a1ef",
+  "translation": "{JPN}ユウキ: どっちが ポケモンを よく\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c7ebb3dbe5521bb",
+  "translation": "そだてたか しょうぶで たしかめようぜ?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3807375ca844c78f",
+  "translation": "{JPN}ユウキ: まあ オレが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "6dca2c4ba53c9801",
+  "translation": "{ENG}{PLAYER}{JPN}に まけるわけ ないんだけど。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "f97330bd74004143",
+  "translation": "{JPN}ふん…\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd1f3e553464767a",
+  "translation": "ずいぶん そだてたんだな。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c4a128d91b86e63",
+  "translation": "ちょっと くやしいな。オレのほうが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5460c181088c516e",
+  "translation": "トレーナーとして さきに はじめたのに…$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1ecb4b4c4a6f897",
+  "translation": "{JPN}ユウキ: オレ……\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9032653e285b96fd",
+  "translation": "ミシロタウンに もどるつもり なんだ\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7eb00d34e28e58f2",
+  "translation": "とうさんの てつだいで つくっている\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "589a826ecbffb8a9",
+  "translation": "ポケモンずかんも けっこう できてきたし\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "6132bd309c40a2d6",
+  "translation": "いちど とうさんに みせておかないと。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "95a3f1af982dba3d",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は これから どうするんだ?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf830cb473694d78",
+  "translation": "ジムバッジを ぜんぶ あつめて\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b9e611be8350da6",
+  "translation": "ポケモンリーグに ちょうせんするのか?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f212bf78f64bc5d",
+  "translation": "オレも そうしようかな…\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0d04e15b6a23def",
+  "translation": "まあ とにかく がんばれよ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3486c6ee61563d06",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は これから どうするんだ?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04d558b1625bd95a",
+  "translation": "それだけ つよいなら\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26ed7c383673f22e",
+  "translation": "ポケモンリーグに ちょうせんするのか?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9685916b32aac427",
+  "translation": "へっ オレだって もうすこし\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "916dc166bc060e27",
+  "translation": "ポケモンを きたえれば おまえより\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22c34879d879b3b5",
+  "translation": "つよく なれるはずだぜ {ENG}{PLAYER}{JPN}。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36b2ebbdf827704f",
+  "translation": "まあ とにかく がんばれよ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e949dee5f1d29c2b",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は これから どうするんだ?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f67b121ad1910ce",
+  "translation": "バトルフロンティアに\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b2362bc49e49783",
+  "translation": "ちょうせんするのか?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f21f71b2c21dce5f",
+  "translation": "それとも ポケモンずかんを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2fc5b0f85331eaf4",
+  "translation": "かんせいさせるのか?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6faa73333150d7b9",
+  "translation": "それだけ つよいなら\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5857e3e420f39ff0",
+  "translation": "バトルフロンティアも かんがえてみなよ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe0d4ec86bcca3d1",
+  "translation": "へっ オレも もうすこし きたえれば\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ee55f866ac50dc3",
+  "translation": "おまえより つよくなるぜ {ENG}{PLAYER}{JPN}。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d9e84b2634c0b8d",
+  "translation": "オレも バトルフロンティアに\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc832ca7f210268f",
+  "translation": "いってみようかな。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b69b4b36fc3eb1d2",
+  "translation": "まあ とにかく がんばれよ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f2bf2f8340a9e19",
+  "translation": "{JPN}ふふふ……\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "bff7233e00f12926",
+  "translation": "きょうも うばった ブツを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c05f04c5894a0053",
+  "translation": "アジトに はこびこんだぞ……\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "8f21123790bf731b",
+  "translation": "なっ なんだ おまえ!\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "52334a2ba0ade71a",
+  "translation": "いっ いまのは ひとりごと だぞ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "75978139e5a9cf8e",
+  "translation": "{JPN}リーダーが なに かんがえてるのか\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "144ff64ef4e3c68f",
+  "translation": "したっぱの オレには わからんが\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "41687392394da847",
+  "translation": "アクアだんに いると\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9a22e32e75256b71",
+  "translation": "おおきなことを やる チャンスが くる!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c7e92539671e876e",
+  "translation": "なっ なんだ おまえ!\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "5e1b666433dc88dd",
+  "translation": "いっ いまのは ひとりごと だぞ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "eceafd748bbf5425",
+  "translation": "{JPN}おい おまえ!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a063ca01ae922d6",
+  "translation": "いりえの どうくつには ちかづくな!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26a194c8ec0054e7",
+  "translation": "なぜだって? りゆうなんて いらん!\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bda40d597638a52",
+  "translation": "おとなの いうことを おとなしく きけ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b01e38cb2f16a87",
+  "translation": "{JPN}この ひろい せかい すべてが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "707034a3351cadf9",
+  "translation": "おれら アクアだんの ものに なったら\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "3ea521b24e998d29",
+  "translation": "ポケモンも もっと しあわせに なれる!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7fcd089c086980e7",
+  "translation": "{JPN}それっ! ホエルコ!\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "44762c59bd494653",
+  "translation": "そこで すいめんから ジャンプするのだ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "b1595809496829c7",
+  "translation": "{JPN}……ん? なんだ おまえは?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "893036358a8fcec3",
+  "translation": "トレーニングの じゃまに なるから\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "df5ee14b9e352a68",
+  "translation": "あっちに いっててくれ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "bba016435e737812",
+  "translation": "{JPN}この まちに ポケモンコンテストの\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "b3560c9df3bec8a3",
+  "translation": "かいじょうが あるんだな!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "edb66e8ccc34c42e",
+  "translation": "ぜんこくから よく そだった ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "58a17991e9de3d56",
+  "translation": "ここに あつまってくるんだな!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7e34d50840733b13",
+  "translation": "わしの ハートは わくわく なんだな!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "f8d8f85235d40c22",
+  "translation": "{JPN}まちの はずれの いりえに\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "844c68b093bc70a8",
+  "translation": "おかしな どうくつが あるの みた?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "37583a358d5c7c5c",
+  "translation": "{JPN}コンテストに でるために\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cfadd370e6662cf",
+  "translation": "ポケモンに あたらしい わざを おしえるの。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6cf73670e2df854",
+  "translation": "だから わすれオヤジの ところで\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea22802417a6d6eb",
+  "translation": "ひでんわざを わすれさせてくるわ。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d94c045c28f5c55",
+  "translation": "{JPN}カントーから きました!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "d5c97854c5db68d4",
+  "translation": "ホウエン ちほうは みずと みどりに\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "24904d8986364609",
+  "translation": "あふれた うつくしい ところ ですね!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "80db03fbc38ba831",
+  "translation": "……ん? ということは?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "2a2e52ee0ab751b2",
+  "translation": "この とち だけに せいそくする\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "3d17a504285a1c7f",
+  "translation": "めずらしい ポケモンが いるのかも?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "34c2b28b63b47b98",
+  "translation": "{JPN}アクアだんが いりえで\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "adcfd9f31e342c77",
+  "translation": "ホエルコを くんれんしているんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8c1d32d0d21ff45",
+  "translation": "あいつらが じゃまで われわれ ふなのりは\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1adc4bd2f26d51d",
+  "translation": "ふねを うみに だせないんだよ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22d6ac1bd830deac",
+  "translation": "{JPN}あんた しってるかい?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "007a4d3e08b715f0",
+  "translation": "だれかが アクアだんを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "ef27751d1e5a0de1",
+  "translation": "けちらして くれたんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "adf47ee44583fa36",
+  "translation": "おかげで ホエルコ いなくなって\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7c42a89bdc8782b8",
+  "translation": "うみに でられるように なったよ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "c50fd7519be77e03",
+  "translation": "{JPN}うみべの やどで なみの おとを きいて\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ceedf1217db50b85",
+  "translation": "のんびり いねむりしてたら…\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7212b1252924d963",
+  "translation": "だれかに ポケモンを ぬすまれたの!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d406ab8aae0b77af",
+  "translation": "だれが さらったの?\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9baff17860916e38",
+  "translation": "アクアだん? アクアだんなの?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b474669f8899860",
+  "translation": "{JPN}いなくなってた わたしの ポケモン\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a706308d052acf66",
+  "translation": "いつのまにか かえってきたの!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "904cd9361c717b58",
+  "translation": "{JPN}わたしは がしょうです。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d31751139dbf456d",
+  "translation": "びじゅつひん とくに えを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c7651b7cf137d32",
+  "translation": "かったり うったり しています。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ddbf03da0ef51d9",
+  "translation": "この びじゅつかんには すばらしい さくひんが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d3876635f263009",
+  "translation": "てんじして あると ききました…$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0526c293b8611be",
+  "translation": "{JPN}わしらが しわくちゃに なっても\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "f7f10a31d26af9e6",
+  "translation": "このうみは いつまでも わかわかしく\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a59123ef1e0bc52d",
+  "translation": "いのちの かがやきに あふれとる\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "81c60ea394789ab7",
+  "translation": "ふほほ ふほほほほ……$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "fe2b1595476350f3",
+  "translation": "{JPN}60ねんまえ ここで おじいしゃんが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "0484afa1a7ef5cc7",
+  "translation": "わしに プロポーズ してくれた ときから\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "cd54d578cf1c18d1",
+  "translation": "このうみは うつくしいまま ですのじゃ\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7f4475475312c8fd",
+  "translation": "むふふ むふふふふ……$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "ab317caff630871c",
+  "translation": "{JPN}あの いりえの かわった どうくつを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06af11acf66b5b78",
+  "translation": "しっているかね?\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b476dc1986b6eea3",
+  "translation": "もともと しぜんに できたものだが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e4aa1ba2ca8bbd6",
+  "translation": "アクアだんの やつらが やってきて\\l",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a815b7198ba7445e",
+  "translation": "かいぞうして しまったんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9935df6df4653f3",
+  "translation": "「しぜんを あいする アクアだん」と\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebc0d929763c231b",
+  "translation": "なのっている くせにね!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fe75e8c0d82d961",
+  "translation": "やることと いうことが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c48ecc175d7090e",
+  "translation": "まるで ちがっているじゃないか!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7683cfec7ff21090",
+  "translation": "{JPN}いりえの あの どうくつ…\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f5e022d7b7a97ea",
+  "translation": "すぐには きづかなかったが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a74e7ee0a8fb3e2f",
+  "translation": "いまでは もぬけの からだ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47fd3bba2c3b1c09",
+  "translation": "アクアだんの やつらも\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ce936970e3f0fd5",
+  "translation": "もう かえってこない つもりなんだろう。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53d3180a5eab9a74",
+  "translation": "{JPN}ミナモシティ\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d673edd2b745280a",
+  "translation": "りくが おわり\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b5540b8f312dda5",
+  "translation": "うみが はじまる ところ。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e743626943014e2",
+  "translation": "{JPN}ポケモンコンテスト かいじょう\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a6039f0f45f142b5",
+  "translation": "あつまれ! ポケモン トレーナー。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "d027af938817b6ff",
+  "translation": "{JPN}みんしゅく モナミ\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e94f5f2b03c368e",
+  "translation": "ミナモの モナミと\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86d00b0165d7d5ac",
+  "translation": "おぼえてください。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7dc1e2624c52093c",
+  "translation": "{JPN}ミナモびじゅつかん\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0755b43db5c1a86",
+  "translation": "ポケモンの めいさく コレクションを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "514615481a5a08d8",
+  "translation": "てんじちゅう!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d556686257f8c21",
+  "translation": "{JPN}「ミナモ びじゅつかん」\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a2a82527668481c8",
+  "translation": "{ENG}{PLAYER}{JPN}の ポケモン コレクション\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a95f7aa28120b6a1",
+  "translation": "かいさい ちゅう!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "ae10f823586eee5f",
+  "translation": "{JPN}ミナモシティ ふねのりば\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51b70dac82fbfbac",
+  "translation": "れんらくせん タイドリップごうは\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e16943fb68ee8c8",
+  "translation": "カイナシティで けんぞうちゅうです。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17489dc4a34ad41f",
+  "translation": "まもなく うんこうを はじめる\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "034bb44190e9b286",
+  "translation": "よていです。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0529dced9069177",
+  "translation": "{JPN}「ミナモ シティ ふねのりば」\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "f5d347f6a9d11b29",
+  "translation": "れんらくせん タイドリップごうで\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "bd5cc3a18ae0f232",
+  "translation": "ふねの たびを おたのしみ ください!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "1358d9b51d59c57a",
+  "translation": "{JPN}「ポケモン トレーナー ファンクラブ」\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9f232fd8bac71c4e",
+  "translation": "かんばんに いろんな トレーナーの\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "9385ac87d3b5722f",
+  "translation": "なまえが らくがき されている……$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a8eb566de56f9a13",
+  "translation": "{JPN}ミナモデパート\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f85a67cf7583a0c",
+  "translation": "すてきな しなものと わくわくが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02f101d3f5d0fe71",
+  "translation": "あふれています!\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "235a8f7c6b4c46f8",
+  "translation": "あなたの ほしいものが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39b52a4abe50bc2b",
+  "translation": "みつかる おみせです!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1103e2caa71f512",
+  "translation": "{JPN}わすれオヤジの いえ\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af15fe0a72259459",
+  "translation": "いらない ポケモンの わざ わすれさせます。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5537e76d582078f4",
+  "translation": "{JPN}きのみブレンダー っていう\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "7f66f72a4288af52",
+  "translation": "マシンを しってるかい?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+   "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+  }
+ },
+ {
+  "id": "a606fc1f0ffa221c",
+  "translation": "{JPN}みんなで ちからを あわせると\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60fa9f4bbceed10d",
+  "translation": "はやく まわせるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ccf4cc123164f6d",
+  "translation": "はやく まわせるほど いい ポロックが\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "887694d47db75c8d",
+  "translation": "できるって きいたよ。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62c45014fde6e5bc",
+  "translation": "{JPN}ポロックっていう おかしを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8aa9cb2675b962bb",
+  "translation": "つくるための ものだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b96344099556ce6e",
+  "translation": "いい ポロックを ポケモンに あげると\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6494b5870465cd4b",
+  "translation": "コンディションが ぐんと よくなるんだ。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9271853801ba002",
+  "translation": "{JPN}どこかの すいどうに とうが あるって\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5654b5977ad9082",
+  "translation": "きいたの。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e48316c324f42d3d",
+  "translation": "そらのはしら っていうらしいわ。$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a541a83251da4ac",
+  "translation": "{JPN}131ばんすいどうの あたりで\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae64ee5d38d728cf",
+  "translation": "たかい とうを みたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff75575e392d9c65",
+  "translation": "もしかして あれが…?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2081a3286a0c7a79",
+  "translation": "{JPN}しんこんりょこうで\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40cadf739dce8329",
+  "translation": "ついた ばかりなんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "053b0374abc1bcba",
+  "translation": "たまたま そらの たかい ところを とぶ\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbc266d354a63643",
+  "translation": "ドラゴンタイプの ポケモンを みたよ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80b1bc7636049b87",
+  "translation": "ホウエンには あんな かっこいい\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18349685f120619c",
+  "translation": "ポケモンが すんでるのかい?$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e74c383b23b3f3b8",
+  "translation": "{JPN}しんこんりょこうでは めずらしい ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "addd8505ea097079",
+  "translation": "できるだけ たくさん みようと ちかったの。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2b7a6e8ce8f9a7c",
+  "translation": "だから ついて すぐに めずらしい\\n",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7908e7aa7f59db2b",
+  "translation": "ポケモンを みられて うれしかったわ。\\p",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05d5d4f8a095ffed",
+  "translation": "もう ほんとうに しあわせ!$",
+  "provenance": {
+   "batch": "dialogue-lilycove-city-60",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

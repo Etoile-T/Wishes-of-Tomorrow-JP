@@ -9,24 +9,26 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `2ca12614e5df818187ce199b7369c905739e5420`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
-| カタログ | 61,722候補のうち翻訳済み 10,511、pending 51,211（未使用・重複・記号を含む。完成率ではない） |
+| 最新の翻訳コミット | `4e6a5d940325db928598920cfbe7c84a68d7ddf8`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| カタログ | 61,722候補のうち翻訳済み 10,574、pending 51,148（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で51件成功 |
-| 最新ビルド | `pokeemerald-jp-kana4.gba`（ROM 29,871,560B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10511-kana3-57279866.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10511-kana3-57279866-patch.zip`、追跡用 `localization/patch-manifest-ui10511-kana3.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10511/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10511.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-dlg10574-clean.gba`（ROM 29,871,208B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10574-74ea4c79.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10574-74ea4c79-patch.zip`、追跡用 `localization/patch-manifest-ui10574.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10574/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10574.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
 
-今回の開始時: statusとcatalog statsは61,722 / 10,312 / 51,410で一致。Gitはmain、最新4ceb3831ac、作業ツリーはクリーン。直前の全件Excel2ファイルの保存済みメモは0件。旧ファイルを上書きせず新版を別名出力。未保存の編集は読み取っていない。
+今回の開始時: statusとcatalog statsは61,722 / 10,511 / 51,211で一致。mainの最新34301241c8、作業ツリーはクリーン。Claude Codeのkana3実装を確認して維持。旧全件Excel2ファイルの保存済みメモは0件。既存ROM・セーブ・Excelは変更していない。
 
-今回の追加: DistortionWorld系5マップ131件、PrototypeIsland / PrototypeLab 68件、計199件。対象7ファイルのpendingは0。会話以外のスクリプト内容は翻訳前と同一。レビューは `localization/reviews/dialogue-distortion-prototype-36-37.review.md`。博士の元の長いページは、変更可能な改行だけを調整して日本語2行へ組み直し、メッセージ連結後も検査した。ツジの敗北時原文の違和感は以前のレビューに記録したまま未解決。
+今回の追加: DragonKeeper 34、MewtwoPostGame 29、計63件。両マップのpendingは0、会話以外のスクリプトは翻訳前と同一。レビューは `localization/reviews/dialogue-dragon-mewtwo-38.review.md`。残りタマゴの説明に加えていた推量と、鎧の説明に加えていた命令を原文どおりへ修正。yomiyasuのmeaning_risk=1は推量除去の指摘で、原文を照合して判断を記録した。
 
-検証: dialogue_tools check両バッチbad 0、個別・連結後の幅は26マス超0、スクロール前のページは2行超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `e8d1fc025dcc6c1fbd20d91fb28d39decf374965eb4020c32b2f93ef022efcf7`。ログは `../artifacts/build-dlg10511.log`、`../artifacts/logs/dialogue-36-37-tests.log`、`verify-10511.log`。実機・画面・進行は未検証。
+検証: check bad 0、width26マス超0、catalog validate成功、audit推定超過0、51テスト成功。**既存build/emeraldからのビルドはメモリ使用量が従来と異なったため不採用。新しいOBJ_DIR=build/emerald-jp10574-cleanで全再ビルドした版を採用した。次回も新しいOBJ_DIRで作ること。** ログは `../artifacts/build-dlg10574-clean.log`。ROM29,871,208B / EWRAM230,024B / IWRAM28,600B。SHA256 `544ab4a7efd3613035a8247ea3c32ed9cb4f994e6e98fc5aee1138f2fd88062c`。BPSをSHA/CRC検査付きで再適用しバイト一致。ログは `../artifacts/logs/verify-10574-clean.log`。一度作った既存キャッシュ由来の暫定BPS（CRC44ed807f）は不採用、ユーザー向けROMには出していない。
 
-全件Excel: K列が翻訳状態、D列が読みやすい訳、I/J列が制御コード付き訳／原文、F列がID。未翻訳51,211件、適用済み10,511件、別管理名称707件。全62,429行と用語辞書89件を収録。画像・未抽出文字列の網羅を意味しない。Excelへの記入は自動でゲームに反映されない。保存後に全62,429行のID・順番・原文・訳文・状態と89用語を照合し一致、フィルター・7行固定を確認、プレビュー目視済み。ログは `../artifacts/logs/excel-all-10511-verify.log`。Excel実アプリは未実行。
+全件Excel: 62,429行（全61,722候補＋別管理名称707）。適用済み10,574、未翻訳51,148。K列が状態、F列がID、I/J列が制御付き訳／原文。全行のID・順番・原文・訳文・状態と91用語を保存後に照合し一致、プレビュー確認済み。`../artifacts/logs/excel-all-10574-verify.log`。実アプリExcelや新しい会話・進行の実機確認は未実施。
+
+マップ棚卸し: `localization/custom-map-audit.json`。ローカルreference-jpにないフォルダ347件を比較するヒューリスティック。残る8,941候補はすべて*_Frlgマップ。非FRLGの比較対象フォルダではpending 0。ただし参照元の版差・元Emeraldフォルダ流用の独自会話・カタログ外・到達性は判定していない。独自テキストの完全網羅や完成の証拠にはしない。
 
 名前入力（kana3、表示修正）: コミット `be9aa0de55f34af6c726f55c2ab8da3fd96207c3`。kana2ではキーボード盤面・入力欄・背景が出なかった（1文字ずつの描画命令でDMA待ち行列があふれ、BG配置データの転送が捨てられていた）。1行1回の描画に直し、BACK/OKの画像を「けす」「おわり」に描き直し（`tools/localization/naming_buttons.py`）、カーソル位置を `x*8+28` に修正。レビューは `localization/reviews/naming-kana-03.review.md`。**画面確認は `tools/localization/mgba_probe.py`**（headless mGBAのデバッガでキー入力を再現し、VRAMから画面を再構成する。試験用ROMの作り方は同ファイルの説明を参照。試験用の仕掛けはコミットしない）。
 
@@ -50,7 +52,7 @@
 
 ユーザーは「セリフ系」→「戦闘メッセージ」→「トレーナー名・マップ名」→「ストーリーの続き」の順に依頼してきた。今は**ストーリーの会話を、プレイ順に独自マップから**進めている。
 
-1. 独自マップの残り（把握済み63行）: 次はDragonKeeper 34、MewtwoPostGame 29。DistortionWorld系とPrototypeIsland/Labまで適用済み。その後、独自マップに未抽出・未翻訳の会話が残っていないか棚卸しする。件数・プレイ順・前後の会話はソースと `dialogue_tools.py dump` で再確認する。
+1. 把握済みの独自イベントはDragonKeeper / MewtwoPostGameまで適用済み。次はsrc/strings.cなど残りUI、または図鑑・技説明。並行して、元Emeraldフォルダを流用した独自会話と未抽出テキストを調べる。簡易棚卸しの限界は上記を参照。
 2. 勝敗時のトレーナーの台詞は、各マップの `scripts.inc` にある（独自マップ分は訳済み）。
 3. `src/strings.c` の残り（約500件）: easy_chat 70、frontier_util 46、mystery_gift_menu 44、図鑑 33+、frontier_pass 31 など。外部参照のない約80件は未使用の可能性が高い。
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。
@@ -110,13 +112,13 @@ python3 tools/localization/catalog.py validate
 
 - 戦闘文の自動改行 `BreakStringAutomatic`（`src/line_break.c`）は、JPN/ENG を考慮して幅を測るように直してある。日本語の戦闘文は**空白で文節を区切る**こと（区切りがないと改行できない）。
 - 道具の複数形: `src/item.c` は名前が `{JPN}` で始まれば英語の「s」を付けない。
-- Cコードを編集してカタログ項目の位置がずれる場合は `code_offset` が必要（現在 naming_screen.c に +98）。項目より後ろに挿入しないよう注意する。
+- Cコードを編集してカタログ項目の位置がずれる場合は `code_offset` が必要（現在値はcatalog.jsonを参照。naming_screen.cはkana実装による複数の値がある）。項目より後ろに挿入しないよう注意する。
 
 ## 7. 区切りごとの成果物（毎回の手順）
 
 ```sh
 python3 -m unittest discover -s tools/localization -p 'test_*.py'
-make -j8 FILE_NAME=pokeemerald-jp-dlgNNNN TOOLCHAIN=/opt/devkitpro/devkitARM > ../artifacts/build-dlgNNNN.log 2>&1
+make -j8 FILE_NAME=pokeemerald-jp-dlgNNNN OBJ_DIR=build/emerald-jpNNNN-clean TOOLCHAIN=/opt/devkitpro/devkitARM > ../artifacts/build-dlgNNNN.log 2>&1
 # yomiyasu（会話は --doc-type script、UIは manual）。資料・下書き・最終稿を localization/reviews/ に保存し、
 # lint → run → verify。verify の出力行と判断を NAME.review.md に書く（既存のレビューを手本に）。
 git add ... && git commit -m "feat: ..."         # 翻訳コミット（コミットメッセージは英語の conventional commits）

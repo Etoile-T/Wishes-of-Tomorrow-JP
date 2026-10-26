@@ -1,4 +1,4 @@
-> 最新の状況（2026-10-26）: 翻訳適用10,511件＋かな名前入力の試験版。GBAは../outputs/gba/wishes-jp-10511-kana1-9cffe126.gba。L/Rでひらがな・カタカナ・英字、SELECTでページ切替。日本語名は主人公3・ポケモン6・ボックス4文字。47テストとビルド成功、画面・保存後表示・進行は未検証。
+> 最新の状況（2026-10-26）: 翻訳適用10,574件。DragonKeeper・MewtwoPostGameに63件を追加、名前入力kana3を維持。GBAは../outputs/gba/wishes-jp-10574-74ea4c79.gba。51テスト、独立ディレクトリでの全再ビルド、BPS照合成功。今回の会話・進行は実機未検証。
 
 # Wishes of Tomorrow 日本語化・途中成果
 
@@ -184,4 +184,4 @@ python3 tools/localization/apply_verified_patch.py ENGLISH.gba JAPANESE.bps loca
 
 ## 全テキストExcel
 
-未翻訳を含む[全件Excel](exports/all-texts-10511.xlsx)に61,722候補＋別管理名称707件を収録。K列の翻訳状態で絞り込み可能。未翻訳の日本語訳欄は空欄。元のID・原文・既存訳は保持している。候補には重複・未使用・制御だけの行も含み、画像内文字などの未抽出対象は別途調査が必要。生成はexport_review.mjsの末尾に `--all` を追加する。Excelへの記入は自動でゲームへ反映されない。
+未翻訳を含む[全件Excel](exports/all-texts-10574.xlsx)に61,722候補＋別管理名称707件を収録。K列の翻訳状態で絞り込み可能。未翻訳の日本語訳欄は空欄。元のID・原文・既存訳は保持している。候補には重複・未使用・制御だけの行も含み、画像内文字などの未抽出対象は別途調査が必要。生成はexport_review.mjsの末尾に `--all` を追加する。Excelへの記入は自動でゲームへ反映されない。

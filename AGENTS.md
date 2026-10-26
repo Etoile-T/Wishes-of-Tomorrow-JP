@@ -42,7 +42,7 @@ python3 tools/localization/update_catalog.py localization/batches/BATCH.json --a
 python3 tools/localization/catalog.py validate
 python3 tools/localization/audit.py
 python3 -m unittest discover -s tools/localization -p 'test_*.py' -v
-make -j8 TOOLCHAIN=/opt/devkitpro/devkitARM
+make -j8 FILE_NAME=pokeemerald-jp-VERSION OBJ_DIR=build/emerald-jp-VERSION-clean TOOLCHAIN=/opt/devkitpro/devkitARM
 ```
 
 The default update command is a dry run. Validate all slices before writing.
@@ -65,3 +65,10 @@ artifacts/wishes-jp-wip.gba as build/legacy outputs only. Export playable builds
 with tools/localization/export_play_rom.py to artifacts/play; its hash-named
 outputs are immutable. Do not copy or overwrite save RAM or emulator states.
 A new ROM needs a cold load; a state from another build is not regression proof.
+
+## Fresh build objects
+
+Use a new OBJ_DIR as well as a new FILE_NAME for each release. On 2026-10-26,
+the existing build/emerald cache and a fresh build produced different RAM/ROM
+usage from the same source; the fresh build matched the expected layout. Do not
+release the existing cache result. Keep old ROMs and saves untouched.

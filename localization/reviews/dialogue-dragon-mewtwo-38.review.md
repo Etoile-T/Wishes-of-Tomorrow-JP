@@ -18,3 +18,5 @@ script / essayの指針で原文資料と読み比べ、lint → run → verify�
 ## 検査
 
 dialogue_tools check: bad 0、width:26マス超0。catalog validate成功、audit推定幅超過0、51テスト成功。対象2マップのpendingは0、会話以外のスクリプト内容は翻訳前と一致。Claude Codeの名前入力（kana3）には変更を加えていない。ビルド・パッチ・全件Excelの最新結果はstatus.jsonとHANDOFF_CODEX.mdに記録。今回の会話・進行は実機未検証。
+
+全再ビルド: `OBJ_DIR=build/emerald-jp10574-clean` で成功、ROM29,871,208B / EWRAM230,024B / IWRAM28,600B。通常の既存中間ファイルからの結果はROM29,842,740B / EWRAM230,040B / IWRAM28,592Bと異なったため不採用。中間ファイルの混在が疑われる。今回の成果物は全再ビルド版のみ。BPS再適用結果はバイト一致。次回も新しいOBJ_DIRを指定する。

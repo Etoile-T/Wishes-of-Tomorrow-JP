@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Create the BPS patch folder, manifest, zip and LATEST-JP.json for an exported play ROM.
 
-usage: make_release.py TRANSLATION_COMMIT TRANSLATED_COUNT PLAY_ROM
+usage: make_release.py TRANSLATION_COMMIT TRANSLATED_COUNT PLAY_ROM [VARIANT]
   PLAY_ROM is the hash-named file printed by export_play_rom.py (under ../artifacts/play).
 Refuses to overwrite an existing patch folder or zip. Verify afterwards with
 apply_verified_patch.py and compare the output ROM byte for byte.
+VARIANT keeps feature builds at the same translation count in separate files.
 """
 import hashlib, json, pathlib, re, subprocess, sys, zipfile, zlib
 
@@ -22,6 +23,7 @@ def main():
     if len(sys.argv) not in (4, 5):
         sys.exit(__doc__)
     commit, count, rom = sys.argv[1], int(sys.argv[2]), pathlib.Path(sys.argv[3]).resolve()
+    commit = subprocess.check_output(['git', 'rev-parse', '--verify', commit + '^{commit}'], cwd=REPO, text=True).strip()
     variant = sys.argv[4] if len(sys.argv) == 5 else ''
     if variant and not re.fullmatch(r'[a-z0-9-]+', variant):
         sys.exit('invalid variant')

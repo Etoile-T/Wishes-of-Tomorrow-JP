@@ -7,14 +7,14 @@
   "pending": 51211,
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": 41,
-  "bps_roundtrip": "passed: 10511 build; apply_verified_patch with SHA256/CRC checks produced byte-identical target ROM",
+  "tests_passed": 47,
+  "bps_roundtrip": "passed: kana1 exact target bytes, SHA256/CRC checked",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
-  "name_input": "not implemented",
+  "name_input": "kana keyboard implemented for player/rival/box/mon: L/R family, SELECT page; runtime not verified",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29867816,
+  "jp_rom_used_bytes": 29870056,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -40,10 +40,10 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-e8d1fc025dcc6c1f.gba",
-  "latest_patch_manifest": "patch-manifest-ui10511.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-00efa2f43505cf37.gba",
+  "latest_patch_manifest": "patch-manifest-ui10511-kana1.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-10511-b892cefe.gba",
+  "user_output_rom": "../outputs/gba/wishes-jp-10511-kana1-9cffe126.gba",
   "dialogue_progress": "Applied: shared, Acts I-III to Ashlands, RebelHideout, TradewindTown/Lab/Gym/House/Apartment_2, CelebiIsland, UndergroundArena, DistortionWorld/2/3/4/5, PrototypeIsland/Lab. Next: DragonKeeper, MewtwoPostGame; audit remaining custom maps afterwards.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
@@ -66,5 +66,13 @@
   "excel_total_rows": 62429,
   "excel_catalog_rows": 61722,
   "excel_pending_rows": 51211,
-  "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings"
+  "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings",
+  "name_input_limits": {
+    "player_rival": 3,
+    "pokemon": 6,
+    "box": 4,
+    "english_only": "unchanged",
+    "save_layout": "unchanged",
+    "runtime": "not run"
+  }
 }

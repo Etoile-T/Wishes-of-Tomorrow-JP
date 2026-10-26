@@ -12,10 +12,10 @@
 | 最新の翻訳コミット | `2ca12614e5df818187ce199b7369c905739e5420`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
 | カタログ | 61,722候補のうち翻訳済み 10,511、pending 51,211（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
-| テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で41件成功 |
-| 最新ビルド | `pokeemerald-jp-dlg10511.gba`（ROM 29,867,816B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10511-b892cefe.gba`（README.txt 更新済み） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10511-b892cefe-patch.zip`、追跡用 `localization/patch-manifest-ui10511.json` |
+| テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で47件成功 |
+| 最新ビルド | `pokeemerald-jp-kana1b.gba`（ROM 29,870,056B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10511-kana1-9cffe126.gba`（README.txt 更新済み） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10511-kana1-9cffe126-patch.zip`、追跡用 `localization/patch-manifest-ui10511-kana1.json` |
 | Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10511/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10511.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
@@ -27,6 +27,8 @@
 検証: dialogue_tools check両バッチbad 0、個別・連結後の幅は26マス超0、スクロール前のページは2行超0、catalog validate成功、auditの推定幅超過0、41テスト成功、ビルド終了0。BPSをSHA検査付きで英語基準ROMへ適用し、出力GBAはビルドGBAとバイト一致。SHA256 `e8d1fc025dcc6c1fbd20d91fb28d39decf374965eb4020c32b2f93ef022efcf7`。ログは `../artifacts/build-dlg10511.log`、`../artifacts/logs/dialogue-36-37-tests.log`、`verify-10511.log`。実機・画面・進行は未検証。
 
 全件Excel: K列が翻訳状態、D列が読みやすい訳、I/J列が制御コード付き訳／原文、F列がID。未翻訳51,211件、適用済み10,511件、別管理名称707件。全62,429行と用語辞書89件を収録。画像・未抽出文字列の網羅を意味しない。Excelへの記入は自動でゲームに反映されない。保存後に全62,429行のID・順番・原文・訳文・状態と89用語を照合し一致、フィルター・7行固定を確認、プレビュー目視済み。ログは `../artifacts/logs/excel-all-10511-verify.log`。Excel実アプリは未実行。
+
+名前入力の追加: 実装コミット `2c0a68d5a6729604e342045c9cbd0beb884bb3fd`。L/Rでひらがな・カタカナ・英字、SELECTで各3ページ。日本語を含む名前は主人公／ライバル3、ポケモン6、ボックス4文字（既存保存領域からJPN/ENGの4バイトを差し引く）。英字のみは従来の長さ。コード／ことば入力は英字維持。47テスト成功、ARMビルド成功、BPS完全一致。実際のキー操作・保存後表示・通信等は未検証。レビューは `localization/reviews/naming-kana-01.review.md`。名前入力の追加UI文言3件はカタログ外。既存の対訳は変えていないため全件Excelは10511版を継続使用。naming_screen.c / pokemon.cの既存項目の位置は、元IDを保ったまま一致区間の位置差をcode_offsetへ反映した。従来の+98だけへ戻さない。
 
 ## 2. ユーザーの指示（守ること）
 
@@ -50,7 +52,7 @@
 4. 図鑑本文（species_info の description）、技の説明、残りの名称。
 5. 元のホウエン／カントーの会話（`data/maps/` の元マップ、`data/text/*.inc`）。Wishes から到達する範囲は不明確で、量が多い（数万行）。
 6. 道具・特性の説明の意味レビュー（参考フォークからの取り込みで、全件の意味確認は未了）。
-7. 漢字、名前入力キーボード、画像内の文字、通しプレイ。
+7. 漢字、名前入力の実動作・文字数拡張の設計、画像内の文字、通しプレイ。
 
 ## 4. 会話を訳す手順（いつもの流れ）
 

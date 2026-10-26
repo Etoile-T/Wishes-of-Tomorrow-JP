@@ -16,3 +16,9 @@
 画面の目視、実エミュレータでのキー操作、セーブ・ロード・通信・各画面での名前表示は未検証。今回のビルドは動作確認用であり、正常動作の保証ではない。名前の切替コードが既存の通信・名前比較・固定幅UIでどう扱われるかは追加検証が必要。
 
 上部の追加文言は「L/R:ひらがな SELECT:つぎ」「L/R:カタカナ SELECT:つぎ」「L/R:ABC SELECT:つぎ」。短い操作ラベルとして見直し、意味や条件の補足は入れていない。
+
+UIラベルのyomiyasu検査: lint候補0。短い操作ラベルとして維持。
+
+`yomiyasu-check: executed via=verify run=20261026T004429Z-385f9cdc attempt=1 final=sha256:ef5778319f44 mode=rewrite doc_type=manual checks=lint,diff,materials meaning_risk=0 replay=skipped`
+
+BPSの適用元・パッチ・出力のSHA256/CRCを照合し、適用結果がビルドROMと完全一致。初回生成時のソースコミット欄の誤記は公開前に修正し、ZIPと各manifestを再照合した。make_release.pyは今後、存在するGitコミットだけを受け付ける。

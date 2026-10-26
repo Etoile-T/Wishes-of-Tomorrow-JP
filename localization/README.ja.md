@@ -1,4 +1,4 @@
-> 最新の状況（2026-10-26）: 61,722候補中10,511件を翻訳適用。DistortionWorld系とPrototypeIsland/Labに199件を追加。最新はHANDOFF_CODEX.md、status.jsonを参照。GBAは../outputs/gba/wishes-jp-10511-b892cefe.gba。画面・進行・実機は未検証。
+> 最新の状況（2026-10-26）: 翻訳適用10,511件＋かな名前入力の試験版。GBAは../outputs/gba/wishes-jp-10511-kana1-9cffe126.gba。L/Rでひらがな・カタカナ・英字、SELECTでページ切替。日本語名は主人公3・ポケモン6・ボックス4文字。47テストとビルド成功、画面・保存後表示・進行は未検証。
 
 # Wishes of Tomorrow 日本語化・途中成果
 

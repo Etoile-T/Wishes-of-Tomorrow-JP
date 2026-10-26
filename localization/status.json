@@ -8,13 +8,13 @@
   "baseline_build": "passed",
   "jp_build": "passed",
   "tests_passed": 57,
-  "bps_roundtrip": "passed: 10616 clean objects build, exact target bytes, SHA256/CRC checked",
+  "bps_roundtrip": "passed: AR abbreviation build, SHA256/CRC and byte comparison",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "kana3: keyboard board/entry/background drawn (one printer per row; per-glyph printers overflowed DMA queue), けす/おわり buttons, cursor aligned; verified by mgba_probe VRAM render, GUI play unverified",
   "ewram_bytes": 230024,
   "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29871720,
+  "jp_rom_used_bytes": 29871752,
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -40,18 +40,18 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-baf29ca44ceeeed0.gba",
-  "latest_patch_manifest": "patch-manifest-ui10616.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-a342d35a6670e064.gba",
+  "latest_patch_manifest": "patch-manifest-ui10616-ar.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-10616-68a7f93e.gba",
+  "user_output_rom": "../outputs/gba/wishes-jp-10616-ar-b4237eaf.gba",
   "dialogue_progress": "Applied: DragonKeeper and MewtwoPostGame, plus previously listed custom maps. No pending catalog rows in map folders absent from local JP reference except *_Frlg. This heuristic excludes custom dialogue in reused Emerald maps and unextracted text.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/all-texts-10616.xlsx",
-  "user_review_workbook": "../outputs/translation-all-10616/Wishes_全テキスト翻訳一覧.xlsx",
+  "review_workbook": "exports/all-texts-10616-ar.xlsx",
+  "user_review_workbook": "../outputs/translation-all-10616-ar/Wishes_全テキスト翻訳一覧.xlsx",
   "last_dialogue_batch": {
     "entries": 63,
     "batches": [
@@ -74,7 +74,7 @@
     "save_layout": "unchanged",
     "runtime": "see kana3 review; new dialogue not played"
   },
-  "build_directory": "build/emerald-jp10616-clean",
+  "build_directory": "build/emerald-jp-ar10616-clean",
   "last_species_name_batch": {
     "entries": 42,
     "batches": [
@@ -86,9 +86,12 @@
       "bfdc0ef026"
     ],
     "pending_literal_species_names_in_catalog": 0,
-    "armored_display": "アーマードミュウツー",
+    "armored_display": "ARミュウツー",
     "name_span_max_glyphs": 10,
     "save_layout": "unchanged; existing 12-byte nickname support",
-    "runtime": "not run; 5px small-font readability, battle, communication and saves unverified"
+    "runtime": "User reported previous compressed glyphs unreadable; corrected build not played",
+    "readability_fix": "Removed lossy 5px Japanese glyph compression; Latin AR + normal 8px kana = 48px",
+    "correction_commit": "42e1b84b70",
+    "previous_default_names": "English and full Japanese defaults converted in display buffer only"
   }
 }

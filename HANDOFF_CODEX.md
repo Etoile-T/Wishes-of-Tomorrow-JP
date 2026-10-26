@@ -9,16 +9,20 @@
 | 項目 | 値 |
 | --- | --- |
 | 作業場所 | `/Users/owner/Desktop/Wish/Wishes-Game`（git、ブランチ main、origin=Etoile-T/Wishes-of-Tomorrow-JP） |
-| 最新の翻訳コミット | `bfdc0ef0261335888a31a8c9e9e4c83827009842`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
+| 最新の翻訳コミット | `42e1b84b70a70325b5fcbf0cd0de232e3cc87dd0`（この後に docs のコミットがある。`git log -5 --oneline` で確認） |
 | カタログ | 61,722候補のうち翻訳済み 10,616、pending 51,106（未使用・重複・記号を含む。完成率ではない） |
 | カタログ外 | トレーナー名（`src/data/trainers.party`、約500種）とマップ名（`region_map_sections.json`、229件）は翻訳済み |
 | テスト | `python3 -m unittest discover -s tools/localization -p 'test_*.py'` で57件成功 |
-| 最新ビルド | `pokeemerald-jp-names10616-final.gba`（ROM 29,871,720B / EWRAM 230,024B / IWRAM 28,600B） |
-| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10616-68a7f93e.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
-| 配布パッチ | `../artifacts/wishes-jp-ui10616-68a7f93e-patch.zip`、追跡用 `localization/patch-manifest-ui10616.json` |
-| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10616/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10616.xlsx`、62,429行：全61,722候補＋名称707件） |
+| 最新ビルド | `pokeemerald-jp-ar10616.gba`（ROM 29,871,752B / EWRAM 230,024B / IWRAM 28,600B） |
+| ユーザー向けGBA | `/Users/owner/Desktop/Wish/outputs/gba/wishes-jp-10616-ar-b4237eaf.gba`（README.txt 更新済み。ユーザーはkana1版・10511版の.savを持っている） |
+| 配布パッチ | `../artifacts/wishes-jp-ui10616-ar-b4237eaf-patch.zip`、追跡用 `localization/patch-manifest-ui10616-ar.json` |
+| Excel | `/Users/owner/Desktop/Wish/outputs/translation-all-10616-ar/Wishes_全テキスト翻訳一覧.xlsx`（Git内コピー `localization/exports/all-texts-10616-ar.xlsx`、62,429行：全61,722候補＋名称707件） |
 
 ゲーム画面での表示・進行の確認は、ほぼ未実施。ビルド成功を「正常に遊べる」とは報告しない。
+
+最新の修正41: ユーザーの画面報告で5px圧縮の文字欠落を確認。「ARミュウツー」へ短縮し、日本語FONT_SMALL_NARROWERを元の8px幅に戻した。英字AR＋かな5字は48pxで55px欄に収まる。会話は正式名のまま。旧英語・前版の日本語フル名は種族と全バイトが一致するデフォルト名だけ表示時変換。セーブは書き換えない。57テスト、audit、ビルド、BPS照合成功。実画面・通信・保存は未検証。レビュー species-armored-readable-41.review.md。最新GBAは wishes-jp-10616-ar-b4237eaf.gba。ROM29,871,752B。今回開始時 status/stats一致、HEAD e68ca7fae7・作業ツリークリーン。
+
+以下は前版の履歴。5px圧縮を再導入しない。
 
 今回（種族名42件）の開始時: statusとcatalog statsは61,722 / 10,574 / 51,148で一致。mainの最新da1c0eeb55、作業ツリーはクリーン。
 

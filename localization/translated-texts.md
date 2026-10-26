@@ -2,7 +2,7 @@
 
 翻訳適用済み 10616件。表示確認・通しプレイは未完了です。
 
-[Excel版](exports/all-texts-10616.xlsx)では区分の絞り込みとメモの記入ができます。
+[Excel版](exports/all-texts-10616-ar.xlsx)では区分の絞り込みとメモの記入ができます。
 
 出典: [同じ版の翻訳カタログ](catalog.json)。
 言語切替コードと終端記号は非表示にし、改ページとスクロールは明示しています。
@@ -3661,7 +3661,7 @@
 | 3650 | Dragonite | カイリュー | `030313104f142ac5`<br>[src/data/pokemon/species_info/gen_1_families.h:20316](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20316) |
 | 3651 | Dragonite | カイリュー | `a5ad982634434d99`<br>[src/data/pokemon/species_info/gen_1_families.h:20388](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20388) |
 | 3652 | Mewtwo | ミュウツー | `23985e9f5c9718c5`<br>[src/data/pokemon/species_info/gen_1_families.h:20455](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20455) |
-| 3653 | Armor Mewtwo | アーマードミュウツー | `5be624ae67fa591c`<br>[src/data/pokemon/species_info/gen_1_families.h:20535](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20535) |
+| 3653 | Armor Mewtwo | ARミュウツー | `5be624ae67fa591c`<br>[src/data/pokemon/species_info/gen_1_families.h:20535](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20535) |
 | 3654 | Mewtwo | ミュウツー | `85fe053ecb1eef44`<br>[src/data/pokemon/species_info/gen_1_families.h:20603](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20603) |
 | 3655 | Mewtwo | ミュウツー | `6005f6c5cc08825e`<br>[src/data/pokemon/species_info/gen_1_families.h:20678](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20678) |
 | 3656 | Mew | ミュウ | `d0e9d6961a574531`<br>[src/data/pokemon/species_info/gen_1_families.h:20765](https://github.com/Etoile-T/Wishes-of-Tomorrow-JP/blob/23be896714/src/data/pokemon/species_info/gen_1_families.h#L20765) |

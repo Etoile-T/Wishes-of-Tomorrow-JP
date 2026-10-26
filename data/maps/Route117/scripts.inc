@@ -216,27 +216,27 @@ Route117_EventScript_Aisha::
 	end
 
 Route117_Text_DayCarePokemonHadNewMove:
-	.string "I left my POKéMON at the DAY CARE.\p"
-	.string "When I got it back, it had a new move\n"
-	.string "that I didn't teach it.\l"
-	.string "I was really, really surprised.$"
+	.string "{JPN}そだてやに ポケモン あずけていたの\p"
+	.string "ひきとったら あたしが おしえていない\n"
+	.string "あたらしい わざを おぼえていて\l"
+	.string "ほんとうに びっくり しちゃった!$"
 
 Route117_Text_ArentTheseFlowersPretty:
-	.string "What do you think?\n"
-	.string "Aren't these flowers pretty?\p"
-	.string "I planted them all!$"
+	.string "{JPN}どう?\n"
+	.string "この はな きれいでしょ?\p"
+	.string "ぜーんぶ わたしが うえたのよ!$"
 
 Route117_Text_AirIsTastyHere:
-	.string "The air is tasty here!$"
+	.string "{JPN}くうきが うまーい!$"
 
 Route117_Text_RouteSignVerdanturf:
-	.string "ROUTE 117\n"
-	.string "{LEFT_ARROW} VERDANTURF TOWN$"
+	.string "{JPN}ここは 117ばん どうろ\n"
+	.string "{LEFT_ARROW} シダケタウン$"
 
 Route117_Text_RouteSignMauville:
-	.string "ROUTE 117\n"
-	.string "{RIGHT_ARROW} MAUVILLE CITY$"
+	.string "{JPN}ここは 117ばん どうろ\n"
+	.string "{RIGHT_ARROW} キンセツシティ$"
 
 Route117_Text_DayCareSign:
-	.string "POKéMON DAY CARE\n"
-	.string "“Let us raise your POKéMON.”$"
+	.string "{JPN}「ポケモン そだてや」\n"
+	.string "あなたの ポケモン そだてます$"

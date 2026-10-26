@@ -494167,9 +494167,15 @@
     "end": 7861,
     "raw": "\"I left my POKéMON at the DAY CARE.\\p\"",
     "source": "I left my POKéMON at the DAY CARE.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そだてやに ポケモン あずけていたの\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "993fce2f1f510b6b",
@@ -494179,9 +494185,15 @@
     "end": 7912,
     "raw": "\"When I got it back, it had a new move\\n\"",
     "source": "When I got it back, it had a new move\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひきとったら あたしが おしえていない\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "42b818000f8d488a",
@@ -494191,9 +494203,15 @@
     "end": 7949,
     "raw": "\"that I didn't teach it.\\l\"",
     "source": "that I didn't teach it.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたらしい わざを おぼえていて\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5e04670f83ecf7a0",
@@ -494203,9 +494221,15 @@
     "end": 7993,
     "raw": "\"I was really, really surprised.$\"",
     "source": "I was really, really surprised.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに びっくり しちゃった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cddcda6535eddd84",
@@ -494215,9 +494239,15 @@
     "end": 8065,
     "raw": "\"What do you think?\\n\"",
     "source": "What do you think?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どう?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "490b94d9bba3e4cc",
@@ -494227,9 +494257,15 @@
     "end": 8107,
     "raw": "\"Aren't these flowers pretty?\\p\"",
     "source": "Aren't these flowers pretty?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この はな きれいでしょ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9a05e40bfaa5d3f2",
@@ -494239,9 +494275,15 @@
     "end": 8139,
     "raw": "\"I planted them all!$\"",
     "source": "I planted them all!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜーんぶ わたしが うえたのよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b36608d9291479f5",
@@ -494251,9 +494293,15 @@
     "end": 8205,
     "raw": "\"The air is tasty here!$\"",
     "source": "The air is tasty here!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くうきが うまーい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0e75bc68c8c88030",
@@ -494263,9 +494311,15 @@
     "end": 8264,
     "raw": "\"ROUTE 117\\n\"",
     "source": "ROUTE 117\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 117ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c98f7dd0c6bb78b3",
@@ -494275,9 +494329,15 @@
     "end": 8305,
     "raw": "\"{LEFT_ARROW} VERDANTURF TOWN$\"",
     "source": "{LEFT_ARROW} VERDANTURF TOWN$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{LEFT_ARROW} シダケタウン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "65c04fec8a1cc015",
@@ -494287,9 +494347,15 @@
     "end": 8362,
     "raw": "\"ROUTE 117\\n\"",
     "source": "ROUTE 117\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 117ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8d6cb2e5cb276bc2",
@@ -494299,9 +494365,15 @@
     "end": 8402,
     "raw": "\"{RIGHT_ARROW} MAUVILLE CITY$\"",
     "source": "{RIGHT_ARROW} MAUVILLE CITY$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{RIGHT_ARROW} キンセツシティ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2641a24177043796",
@@ -494311,9 +494383,15 @@
     "end": 8460,
     "raw": "\"POKéMON DAY CARE\\n\"",
     "source": "POKéMON DAY CARE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「ポケモン そだてや」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "dc62aaab8af822c1",
@@ -494323,9 +494401,15 @@
     "end": 8501,
     "raw": "\"“Let us raise your POKéMON.”$\"",
     "source": "“Let us raise your POKéMON.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモン そだてます$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "219aa0d52b602e77",
@@ -532467,9 +532551,15 @@
     "end": 11112,
     "raw": "\"What, are you coming?\\n\"",
     "source": "What, are you coming?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くるのか?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "dac4db95eeec5764",
@@ -532479,9 +532569,15 @@
     "end": 11149,
     "raw": "\"Come and get some, then!$\"",
     "source": "Come and get some, then!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くるなら こいよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e7eee6374d4fb6ef",
@@ -532491,9 +532587,15 @@
     "end": 11207,
     "raw": "\"PEEKO: Pii pihyoh!$\"",
     "source": "PEEKO: Pii pihyoh!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ピーコちゃん: ピ ピひょー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4b8c3ef730f027f6",
@@ -532503,9 +532605,15 @@
     "end": 11275,
     "raw": "\"Grah, keelhaul it all!\\p\"",
     "source": "Grah, keelhaul it all!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くそっ なにもかも ふなぞこびきだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a67827d591404754",
@@ -532515,9 +532623,15 @@
     "end": 11323,
     "raw": "\"That hostage POKéMON turned out to\\n\"",
     "source": "That hostage POKéMON turned out to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとじちに した ポケモンは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a28dd60ede06fbed",
@@ -532527,9 +532641,15 @@
     "end": 11350,
     "raw": "\"be worthless!\\p\"",
     "source": "be worthless!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんの やくにも たたねえし!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c2153c20a79cd02c",
@@ -532539,9 +532659,15 @@
     "end": 11394,
     "raw": "\"And to think I made a getaway…\\n\"",
     "source": "And to think I made a getaway…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せっかく にげて きたってのに…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f965c49e9959aced",
@@ -532551,9 +532677,15 @@
     "end": 11434,
     "raw": "\"In this tunnel to nowhere!\\p\"",
     "source": "In this tunnel to nowhere!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんな いきどまりの トンネルかよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "86b3a1f7d5390840",
@@ -532563,9 +532695,15 @@
     "end": 11457,
     "raw": "\"Hey! You!\\n\"",
     "source": "Hey! You!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やい! おまえ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "40357776bbe4e6de",
@@ -532575,9 +532713,15 @@
     "end": 11495,
     "raw": "\"So you want to battle me?$\"",
     "source": "So you want to battle me?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれと しょうぶ するんだな!?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7d09dea3851bc7a6",
@@ -532587,9 +532731,15 @@
     "end": 11578,
     "raw": "\"Urrrggh! My career in crime comes to\\n\"",
     "source": "Urrrggh! My career in crime comes to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}む むぐぐー!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "566a9251f7ffc9ce",
@@ -532599,9 +532749,15 @@
     "end": 11602,
     "raw": "\"a dead end!$\"",
     "source": "a dead end!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれの あくじも いきどまりかっ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8a3ea6259b803681",
@@ -532611,9 +532767,13 @@
     "end": 11678,
     "raw": "\"This is plain not right…\\p\"",
     "source": "This is plain not right…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こんなの はなしが ちがうぜ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1394fd23936dc132",
@@ -532623,9 +532783,13 @@
     "end": 11724,
     "raw": "\"The BOSS told me this would be a\\n\"",
     "source": "The BOSS told me this would be a\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ボスは かんたんに うまくいく\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "865aa18f1a1c09bf",
@@ -532635,9 +532799,13 @@
     "end": 11765,
     "raw": "\"slick-and-easy job to pull.\\p\"",
     "source": "slick-and-easy job to pull.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しごとだって いってたのによ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a5f7bf4f5b07cde6",
@@ -532647,9 +532815,13 @@
     "end": 11817,
     "raw": "\"All I had to do was steal some package\\n\"",
     "source": "All I had to do was steal some package\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "デボンから にもつを ぬすむだけで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1b1f70f97747f626",
@@ -532659,9 +532831,13 @@
     "end": 11842,
     "raw": "\"from DEVON.\\p\"",
     "source": "from DEVON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よかった はずなのに。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db95e4a322bc0244",
@@ -532671,9 +532847,13 @@
     "end": 11860,
     "raw": "\"Tch!\\n\"",
     "source": "Tch!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チッ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c53c464eead7ae7b",
@@ -532683,9 +532863,13 @@
     "end": 11910,
     "raw": "\"You want it back that badly, take it!$\"",
     "source": "You want it back that badly, take it!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そんなに かえして ほしけりゃ もってけ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec6f553fc6dc72d9",
@@ -532695,9 +532879,13 @@
     "end": 11973,
     "raw": "\"PEEKO!\\n\"",
     "source": "PEEKO!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ピーコちゃん!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8184c1696a3f220d",
@@ -532707,9 +532895,13 @@
     "end": 12015,
     "raw": "\"Am I glad to see you're safe!$\"",
     "source": "Am I glad to see you're safe!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぶじで よかったのう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ae800580425a40b1",
@@ -532719,9 +532911,13 @@
     "end": 12101,
     "raw": "\"PEEKO owes her life to you!\\p\"",
     "source": "PEEKO owes her life to you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おぬしは ピーコちゃんの いのちの おんじん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fb4f3c9b0e1745f3",
@@ -532731,9 +532927,13 @@
     "end": 12139,
     "raw": "\"They call me MR. BRINEY.\\n\"",
     "source": "They call me MR. BRINEY.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしは ハギろうじんと よばれておる。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7066125a0b2da883",
@@ -532743,9 +532943,13 @@
     "end": 12166,
     "raw": "\"And, you are?\\p\"",
     "source": "And, you are?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おぬしは?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "895f0b5f823dbe24",
@@ -532755,9 +532959,13 @@
     "end": 12195,
     "raw": "\"… … … … … … … …\\n\"",
     "source": "… … … … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cdf3591f12f2084c",
@@ -532767,9 +532975,13 @@
     "end": 12224,
     "raw": "\"… … … … … … … …\\p\"",
     "source": "… … … … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "73bb050869a1d311",
@@ -532779,9 +532991,13 @@
     "end": 12267,
     "raw": "\"Ah, so you are {PLAYER}{KUN}!\\n\"",
     "source": "Ah, so you are {PLAYER}{KUN}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほう {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}というのか!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f4b1b0261be76e0a",
@@ -532791,9 +533007,13 @@
     "end": 12303,
     "raw": "\"I sincerely thank you!\\p\"",
     "source": "I sincerely thank you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに ありがとうよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4793bc8973a8dfd5",
@@ -532803,9 +533023,13 @@
     "end": 12355,
     "raw": "\"Now, if there's anything that troubles\\n\"",
     "source": "Now, if there's anything that troubles\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにか こまったことが あったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f013fa17d1768154",
@@ -532815,9 +533039,13 @@
     "end": 12400,
     "raw": "\"you, don't hesitate to tell me!\\p\"",
     "source": "you, don't hesitate to tell me!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えんりょなく いって おくれ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1d3176fc84007e7",
@@ -532827,9 +533055,13 @@
     "end": 12451,
     "raw": "\"You can usually find me in my cottage\\n\"",
     "source": "You can usually find me in my cottage\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふだんは トウカのもりの ちかくの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0987c006efc052e8",
@@ -532839,9 +533071,13 @@
     "end": 12497,
     "raw": "\"by the sea near PETALBURG WOODS.\\p\"",
     "source": "by the sea near PETALBURG WOODS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみべの こやに おるからな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7fbd437cfb213b5d",
@@ -532851,9 +533087,13 @@
     "end": 12546,
     "raw": "\"Come, PEEKO, we should make our way\\n\"",
     "source": "Come, PEEKO, we should make our way\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さあ ピーコちゃん\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0e010a9af8acc067",
@@ -532863,9 +533103,13 @@
     "end": 12565,
     "raw": "\"home.\\p\"",
     "source": "home.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしらも いえへ かえろうかの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4eccce75d6d8d64a",
@@ -532875,9 +533119,13 @@
     "end": 12592,
     "raw": "\"PEEKO: Pihyoh!$\"",
     "source": "PEEKO: Pihyoh!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ピーコちゃん: ピひょー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4564affead7d466d",
@@ -532887,9 +533135,13 @@
     "end": 12653,
     "raw": "\"… …\\p\"",
     "source": "… …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}… …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7689317749f18274",
@@ -532899,9 +533151,13 @@
     "end": 12695,
     "raw": "\"Why can't they keep digging?\\n\"",
     "source": "Why can't they keep digging?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうして ほりつづけられないんだ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ad5987c560c314f5",
@@ -532911,9 +533167,13 @@
     "end": 12733,
     "raw": "\"Is the bedrock too hard?\\p\"",
     "source": "Is the bedrock too hard?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がんばんが かたすぎるのか?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c59266c636a80930",
@@ -532923,9 +533183,13 @@
     "end": 12781,
     "raw": "\"My beloved awaits me in VERDANTURF\\n\"",
     "source": "My beloved awaits me in VERDANTURF\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この すぐ むこうの シダケタウンで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "013ed0328b6fe4b0",
@@ -532935,9 +533199,13 @@
     "end": 12817,
     "raw": "\"TOWN just beyond here…\\p\"",
     "source": "TOWN just beyond here…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こいびとが まっているのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a5dde8cd33690cd1",
@@ -532947,9 +533215,13 @@
     "end": 12862,
     "raw": "\"If RUSTBORO and VERDANTURF were\\n\"",
     "source": "If RUSTBORO and VERDANTURF were\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カナズミと シダケが この トンネルで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "18c07a0fc9565685",
@@ -532959,9 +533231,13 @@
     "end": 12912,
     "raw": "\"joined by this tunnel, I could visit\\l\"",
     "source": "joined by this tunnel, I could visit\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つながれば まいにちでも\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f5346a636e1df725",
@@ -532971,9 +533247,13 @@
     "end": 12940,
     "raw": "\"her every day…\\p\"",
     "source": "her every day…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かのじょに あいに いけるのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e9760b76e806e4df",
@@ -532983,9 +533263,13 @@
     "end": 12963,
     "raw": "\"But this…\\n\"",
     "source": "But this…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それなのに…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "985bb84cba76cc19",
@@ -532995,9 +533279,13 @@
     "end": 12992,
     "raw": "\"What am I to do?$\"",
     "source": "What am I to do?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いったい どうすれば いいんだ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2d9d8a2560ea010e",
@@ -533007,9 +533295,15 @@
     "end": 13080,
     "raw": "\"To get from RUSTBORO to VERDANTURF,\\n\"",
     "source": "To get from RUSTBORO to VERDANTURF,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カナズミから シダケに いこうと すると\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ebe60c2380a8bb29",
@@ -533019,9 +533313,15 @@
     "end": 13130,
     "raw": "\"you need to go to DEWFORD, then pass\\l\"",
     "source": "you need to go to DEWFORD, then pass\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ムロから カイナと キンセツを とおって\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9d250d6f601a2904",
@@ -533031,9 +533331,15 @@
     "end": 13174,
     "raw": "\"through SLATEPORT and MAUVILLE…$\"",
     "source": "through SLATEPORT and MAUVILLE…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いかなきゃ ならないんだ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e48be311bea6f74d",
@@ -533043,9 +533349,15 @@
     "end": 13266,
     "raw": "\"Wow! You shattered that boulder\\n\"",
     "source": "Wow! You shattered that boulder\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんと! きみが この いわを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "53ed5615b65045af",
@@ -533055,9 +533367,15 @@
     "end": 13297,
     "raw": "\"blocking the way.\\p\"",
     "source": "blocking the way.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とおせんぼの いわを くだいたのか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ca8b472875abb94a",
@@ -533067,9 +533385,15 @@
     "end": 13348,
     "raw": "\"To show you how much I appreciate it,\\n\"",
     "source": "To show you how much I appreciate it,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんしゃの しるし として\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5d757c987af9f65e",
@@ -533079,9 +533403,15 @@
     "end": 13390,
     "raw": "\"I'd like you to have this HM.$\"",
     "source": "I'd like you to have this HM.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この ひでんマシンを うけとってくれ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "34162b7a28f21b16",
@@ -533091,9 +533421,13 @@
     "end": 13467,
     "raw": "\"That HM contains STRENGTH.\\p\"",
     "source": "That HM contains STRENGTH.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その ひでんマシンは かいりき だよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "057f1e5db70c1ae0",
@@ -533103,9 +533437,13 @@
     "end": 13516,
     "raw": "\"If a muscular POKéMON were to learn\\n\"",
     "source": "If a muscular POKéMON were to learn\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きんにく もりもりの ポケモンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2494448b7be7fd16",
@@ -533115,9 +533453,13 @@
     "end": 13565,
     "raw": "\"that, it would be able to move even\\l\"",
     "source": "that, it would be able to move even\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それを おぼえれば おおきな いわでも\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c861a63e6cad4c54",
@@ -533127,9 +533469,13 @@
     "end": 13593,
     "raw": "\"large boulders.$\"",
     "source": "large boulders.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うごかせるように なるんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b9f1d4b56a4e3213",
@@ -533139,9 +533485,13 @@
     "end": 13647,
     "raw": "\"WANDA!\\n\"",
     "source": "WANDA!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミチル!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0daddaeac1277c53",
@@ -533151,9 +533501,13 @@
     "end": 13687,
     "raw": "\"Now I can see you anytime!\\p\"",
     "source": "Now I can see you anytime!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これで いつでも きみに あえるよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f0809e24511cb10a",
@@ -533163,9 +533517,13 @@
     "end": 13725,
     "raw": "\"WANDA: That's…wonderful.\\p\"",
     "source": "WANDA: That's…wonderful.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミチル: …よかった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fabfb8e5260278b2",
@@ -533175,9 +533533,13 @@
     "end": 13772,
     "raw": "\"Please, take some rest at my home.$\"",
     "source": "Please, take some rest at my home.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぞ わたしの いえで やすんでいって。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "348527af81f11ade",
@@ -533187,9 +533549,15 @@
     "end": 13865,
     "raw": "\"On the other side of this rock…\\n\"",
     "source": "On the other side of this rock…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この いわの むこうに……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c4e6489454c905ec",
@@ -533199,9 +533567,15 @@
     "end": 13901,
     "raw": "\"My boyfriend is there.\\p\"",
     "source": "My boyfriend is there.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしの かれが いるの\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a3c7c6a577e0d34e",
@@ -533211,9 +533585,15 @@
     "end": 13951,
     "raw": "\"He… He's not just digging the tunnel\\n\"",
     "source": "He… He's not just digging the tunnel\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かれ…… わたしに あうため だけに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8ee66f6be7fa7260",
@@ -533223,9 +533603,15 @@
     "end": 13980,
     "raw": "\"to come see me.\\p\"",
     "source": "to come see me.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "トンネルを ほってるわけ じゃないわ\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "432232f9f4f55574",
@@ -533235,9 +533621,15 @@
     "end": 14026,
     "raw": "\"He works his hands raw and rough\\n\"",
     "source": "He works his hands raw and rough\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんなの ために\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "24aba51dd0328ba5",
@@ -533247,9 +533639,15 @@
     "end": 14067,
     "raw": "\"for the benefit of everyone.$\"",
     "source": "for the benefit of everyone.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てを きずつけながらも がんばってるの$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8d9fe639e72fbad3",
@@ -533259,9 +533657,13 @@
     "end": 14149,
     "raw": "\"What do you call a wild man up in the\\n\"",
     "source": "What do you call a wild man up in the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やまに いる あらっぽい おとこは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f76fdc93b2393de1",
@@ -533271,9 +533673,13 @@
     "end": 14196,
     "raw": "\"mountains? A mountain man, right?\\p\"",
     "source": "mountains? A mountain man, right?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やまおとこって いうだろ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "06a8ad740734ec29",
@@ -533283,9 +533689,13 @@
     "end": 14245,
     "raw": "\"So why don't they call a POKéMON in\\n\"",
     "source": "So why don't they call a POKéMON in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それじゃ やまの ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1f534ba5d3d0284",
@@ -533295,9 +533705,13 @@
     "end": 14291,
     "raw": "\"the mountains a mountain POKéMON?$\"",
     "source": "the mountains a mountain POKéMON?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やまポケモンって よばないのは なぜだ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57700ec59cc5148f",
@@ -533307,9 +533721,15 @@
     "end": 14348,
     "raw": "\"My POKéMON…\\n\"",
     "source": "My POKéMON…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモン……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5bede4d1042a62f2",
@@ -533319,9 +533739,15 @@
     "end": 14378,
     "raw": "\"Ran out of power…$\"",
     "source": "Ran out of power…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちから つきた……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3e5d928edb0bb9dd",
@@ -533331,9 +533757,15 @@
     "end": 14459,
     "raw": "\"They halted development here to\\n\"",
     "source": "They halted development here to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここって ポケモンを まもるため\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4e27a3c66a466a31",
@@ -533343,9 +533775,15 @@
     "end": 14496,
     "raw": "\"protect POKéMON, right?\\l\"",
     "source": "protect POKéMON, right?\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かいはつ こうじを やめたんだろ?\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "df5da7060f3accd3",
@@ -533355,9 +533793,15 @@
     "end": 14535,
     "raw": "\"There's a feel-good story!$\"",
     "source": "There's a feel-good story!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それって いい はなし だよな$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bc30273184094ec3",
@@ -607945,9 +608389,13 @@
     "end": 1418,
     "raw": "\"Which CONTEST are you entering?\\n\"",
     "source": "Which CONTEST are you entering?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どの コンテストに でるんだい?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "19f2cdca1867c56f",
@@ -607957,9 +608405,13 @@
     "end": 1455,
     "raw": "\"Want a piece of advice?\\p\"",
     "source": "Want a piece of advice?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとつ アドバイスを きくかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "df73991594476bb0",
@@ -607969,9 +608421,13 @@
     "end": 1504,
     "raw": "\"In any CONTEST, for example, a CUTE\\n\"",
     "source": "In any CONTEST, for example, a CUTE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たとえば かわいさの コンテストでも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d3fff4d43a2d0ff",
@@ -607981,9 +608437,13 @@
     "end": 1555,
     "raw": "\"CONTEST, I don't think they judge you\\l\"",
     "source": "CONTEST, I don't think they judge you\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちじしんさは かわいさだけで\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8ea617b2ad8174f5",
@@ -607993,9 +608453,13 @@
     "end": 1605,
     "raw": "\"only on cuteness in the first round.\\p\"",
     "source": "only on cuteness in the first round.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きめては いないと おもうんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "28ccfb0afb614afd",
@@ -608005,9 +608469,13 @@
     "end": 1656,
     "raw": "\"You need to work out ways for raising\\n\"",
     "source": "You need to work out ways for raising\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの コンテストでも もっと うまく\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7161fe28712d1646",
@@ -608017,9 +608485,13 @@
     "end": 1684,
     "raw": "\"POKéMON better.$\"",
     "source": "POKéMON better.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを そだてる くふうが いるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f5589a0f01830cee",
@@ -608029,9 +608501,13 @@
     "end": 1790,
     "raw": "\"I raised my POKéMON to be cute.\\p\"",
     "source": "I raised my POKéMON to be cute.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを かわいく そだてたの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d2cb051906c4aa3a",
@@ -608041,9 +608517,13 @@
     "end": 1838,
     "raw": "\"I found out you can put POKéMON in\\n\"",
     "source": "I found out you can put POKéMON in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かわいさを くらべる コンテストに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e7ef11b6196f1a9",
@@ -608053,9 +608533,13 @@
     "end": 1875,
     "raw": "\"a CONTEST for cuteness!\\p\"",
     "source": "a CONTEST for cuteness!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを だせるって わかったの!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a23037afa7f1ebe7",
@@ -608065,9 +608549,13 @@
     "end": 1925,
     "raw": "\"I'm so glad I raised my POKéMON with\\n\"",
     "source": "I'm so glad I raised my POKéMON with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいじょう たっぷりに そだててきて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "56e94b043012e54c",
@@ -608077,9 +608565,13 @@
     "end": 1950,
     "raw": "\"loving care…$\"",
     "source": "loving care…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに よかったわ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c694b42a80b7816e",
@@ -608089,9 +608581,13 @@
     "end": 2035,
     "raw": "\"My POKéMON rules!\\p\"",
     "source": "My POKéMON rules!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うちの ポケモンは さいこうさ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8fc821333928199b",
@@ -608101,9 +608597,13 @@
     "end": 2086,
     "raw": "\"It's cool, tough yet beautiful, cute,\\n\"",
     "source": "It's cool, tough yet beautiful, cute,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かっこよく たくましく うつくしく\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f9c37c4f3044fcdc",
@@ -608113,9 +608613,13 @@
     "end": 2125,
     "raw": "\"and smart. It's complete!\\p\"",
     "source": "and smart. It's complete!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かわいく かしこい。かんぺきさ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a0f1ad8efe906d72",
@@ -608125,9 +608629,13 @@
     "end": 2173,
     "raw": "\"I may as well go for wins in every\\n\"",
     "source": "I may as well go for wins in every\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっそ すべての コンテストで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db51af0b3305f6b7",
@@ -608137,9 +608645,13 @@
     "end": 2201,
     "raw": "\"single CONTEST.$\"",
     "source": "single CONTEST.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆうしょうを ねらってみようかな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "477a69fb9aa1ea02",
@@ -608149,9 +608661,15 @@
     "end": 2290,
     "raw": "\"POKéMON CONTESTS\\n\"",
     "source": "POKéMON CONTESTS\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモン コンテスト\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6f9e61cb9c3b9f9d",
@@ -608161,9 +608679,15 @@
     "end": 2321,
     "raw": "\"NORMAL RANK STAGE!$\"",
     "source": "NORMAL RANK STAGE!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ノーマルランク ステージ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "acbb10d8b05ceb97",
@@ -608173,9 +608697,13 @@
     "end": 12738,
     "raw": "\"If it doesn't like a certain move,\\n\"",
     "source": "If it doesn't like a certain move,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンは きらいな わざを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "980551911751bf9f",
@@ -608185,9 +608713,13 @@
     "end": 12790,
     "raw": "\"a POKéMON will be reluctant to use it.\\p\"",
     "source": "a POKéMON will be reluctant to use it.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかいたがらない ものなんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57c48b548382ef12",
@@ -608197,9 +608729,13 @@
     "end": 12839,
     "raw": "\"It doesn't matter how strong it is,\\n\"",
     "source": "It doesn't matter how strong it is,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どんなに つよくても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a4595f34874679c",
@@ -608209,9 +608745,13 @@
     "end": 12860,
     "raw": "\"either.\\p\"",
     "source": "either.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それは おなじ ことなんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e5b51351c0bc5ab4",
@@ -608221,9 +608761,13 @@
     "end": 12910,
     "raw": "\"For example, a POKéMON with a GENTLE\\n\"",
     "source": "For example, a POKéMON with a GENTLE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たとえば おとなしい せいかくなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "076578467d71a217",
@@ -608233,9 +608777,13 @@
     "end": 12959,
     "raw": "\"nature probably won't enjoy hurting\\l\"",
     "source": "nature probably won't enjoy hurting\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいてを きずつけるのを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "816ebe877e3b5bfa",
@@ -608245,9 +608793,13 @@
     "end": 12987,
     "raw": "\"its opponents.\\p\"",
     "source": "its opponents.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たのしめないんじゃ ないかな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "56cb51d8be5b0265",
@@ -608257,9 +608809,13 @@
     "end": 13035,
     "raw": "\"If it can't seem to live up to its\\n\"",
     "source": "If it can't seem to live up to its\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じつりょくを だせて いないようなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a31007ea9fd6918",
@@ -608269,9 +608825,13 @@
     "end": 13084,
     "raw": "\"potential, it's probably failing at\\l\"",
     "source": "potential, it's probably failing at\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きらいな わざを むりに つかおうとして\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a76aba105434f7a0",
@@ -608281,9 +608841,13 @@
     "end": 13136,
     "raw": "\"using a disliked move against its will.$\"",
     "source": "using a disliked move against its will.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しっぱい しているのかも しれないね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b7f1937819161962",
@@ -608293,9 +608857,15 @@
     "end": 13243,
     "raw": "\"My big sister is gentle usually.\\n\"",
     "source": "My big sister is gentle usually.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぼくの おねえちゃん ふだんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f7b49923edc6b20d",
@@ -608305,9 +608875,15 @@
     "end": 13281,
     "raw": "\"But when she gets angry,\\l\"",
     "source": "But when she gets angry,\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おとなしい けど おこると\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2f2a94175cba23ed",
@@ -608317,9 +608893,15 @@
     "end": 13322,
     "raw": "\"she's really, really scary!\\p\"",
     "source": "she's really, really scary!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すっごく すっごく こわいんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "074c344a173e2258",
@@ -608329,9 +608911,15 @@
     "end": 13372,
     "raw": "\"I bet a gentle POKéMON will be scary\\n\"",
     "source": "I bet a gentle POKéMON will be scary\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから おとなしい ポケモン だって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d6c2e72b45d033dd",
@@ -608341,9 +608929,15 @@
     "end": 13402,
     "raw": "\"if it gets angry!$\"",
     "source": "if it gets angry!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おこったら きっと こわーーーいよ!!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d2dce79fad450054",
@@ -608353,9 +608947,13 @@
     "end": 13503,
     "raw": "\"My feelings toward my POKéMON…\\n\"",
     "source": "My feelings toward my POKéMON…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンへの あたしの きもち…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a51ddfc85a8fd002",
@@ -608365,9 +608963,13 @@
     "end": 13542,
     "raw": "\"The attraction runs deep…\\p\"",
     "source": "The attraction runs deep…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふかく ふかく メロメロなの…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9aea3c292967b673",
@@ -608377,9 +608979,13 @@
     "end": 13593,
     "raw": "\"Oh, hi, you didn't see that, did you?\\n\"",
     "source": "Oh, hi, you didn't see that, did you?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あら こんにちは。いまの みてないわよね?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b17778fcabdc1452",
@@ -608389,9 +608995,13 @@
     "end": 13631,
     "raw": "\"Well, it doesn't matter.\\p\"",
     "source": "Well, it doesn't matter.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まあ いいわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5fd794e3b6328546",
@@ -608401,9 +609011,13 @@
     "end": 13675,
     "raw": "\"How would you like this TM for\\n\"",
     "source": "How would you like this TM for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "99b0eea2f5c70277",
@@ -608413,9 +609027,13 @@
     "end": 13701,
     "raw": "\"your POKéMON?$\"",
     "source": "your POKéMON?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この わざマシンは いかが?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0573b957c7117ff",
@@ -608425,9 +609043,15 @@
     "end": 13800,
     "raw": "\"My feelings toward my POKéMON…\\n\"",
     "source": "My feelings toward my POKéMON…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンへの あたしの きもち…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d9d52fbacd1bc453",
@@ -608437,9 +609061,15 @@
     "end": 13848,
     "raw": "\"I'm sure the attraction is mutual!\\p\"",
     "source": "I'm sure the attraction is mutual!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きっと おたがいに メロメロなのね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e55052d7cc223712",
@@ -608449,9 +609079,15 @@
     "end": 13896,
     "raw": "\"They battle exactly the way I want\\n\"",
     "source": "They battle exactly the way I want\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だって あたしの おもう とおりに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "966c0d667a80121d",
@@ -608461,9 +609097,15 @@
     "end": 13917,
     "raw": "\"them to!$\"",
     "source": "them to!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たたかって くれるもの!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cfb3d3cb8b97bb3b",
@@ -608473,9 +609115,15 @@
     "end": 14026,
     "raw": "\"What kind of moves have you taught\\n\"",
     "source": "What kind of moves have you taught\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみの ポケモンには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fb07d34549093bf4",
@@ -608485,9 +609133,15 @@
     "end": 14053,
     "raw": "\"your POKéMON?\\p\"",
     "source": "your POKéMON?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どんなわざを もたせて いるんだい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3b66f883fc4a9a96",
@@ -608497,9 +609151,15 @@
     "end": 14098,
     "raw": "\"I think you would give yourself\\n\"",
     "source": "I think you would give yourself\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんを かいふくしたり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "dff5c0ecf0161357",
@@ -608509,9 +609169,15 @@
     "end": 14144,
     "raw": "\"an advantage if they knew how to\\l\"",
     "source": "an advantage if they knew how to\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まもったり できる わざが あれば\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a864a75bd8eed801",
@@ -608521,9 +609187,15 @@
     "end": 14184,
     "raw": "\"heal or protect themselves.$\"",
     "source": "heal or protect themselves.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆうりに なると おもうんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "042c7aceddba2b67",
@@ -608533,9 +609205,13 @@
     "end": 14294,
     "raw": "\"SCOTT: Hey there, {PLAYER}{KUN}!\\n\"",
     "source": "SCOTT: Hey there, {PLAYER}{KUN}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: やあ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0f56a85693f10896",
@@ -608545,9 +609221,13 @@
     "end": 14339,
     "raw": "\"I thought I might see you here.\\p\"",
     "source": "I thought I might see you here.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここで あえるかもと おもってたよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "024db80a537c5cd4",
@@ -608557,9 +609237,13 @@
     "end": 14382,
     "raw": "\"A BATTLE TENT's a place where\\n\"",
     "source": "A BATTLE TENT's a place where\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バトルテントは つよい トレーナーに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5fdc2d034a95a398",
@@ -608569,9 +609253,13 @@
     "end": 14424,
     "raw": "\"you can meet tough TRAINERS.\\p\"",
     "source": "you can meet tough TRAINERS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あえる ばしょなんだよね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "97e90b0b505ebd09",
@@ -608581,9 +609269,13 @@
     "end": 14475,
     "raw": "\"It doesn't matter what the rules are,\\n\"",
     "source": "It doesn't matter what the rules are,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どんな ルールでも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d1d9bbf852ff291d",
@@ -608593,9 +609285,13 @@
     "end": 14522,
     "raw": "\"or how battles are waged, either.\\p\"",
     "source": "or how battles are waged, either.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どんな たたかいかたでも かんけいない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7720ff51b38b2111",
@@ -608605,9 +609301,13 @@
     "end": 14569,
     "raw": "\"{PLAYER}{KUN}, I expect you to do\\n\"",
     "source": "{PLAYER}{KUN}, I expect you to do\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} きみにも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe3b47a9a82a802a",
@@ -608617,9 +609317,13 @@
     "end": 14599,
     "raw": "\"the best you can!$\"",
     "source": "the best you can!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せいいっぱい がんばって ほしいな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd03d639b2fd6610",
@@ -608629,9 +609333,15 @@
     "end": 14709,
     "raw": "\"SCOTT: I visit here regularly in hopes\\n\"",
     "source": "SCOTT: I visit here regularly in hopes\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: どんな じょうきょうでも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c6d3408c5576f20e",
@@ -608641,9 +609351,15 @@
     "end": 14757,
     "raw": "\"of seeing tough TRAINERS in action\\l\"",
     "source": "of seeing tough TRAINERS in action\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つよい トレーナーの たたかいが みたくて\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1ef5f1a594702d6b",
@@ -608653,9 +609369,15 @@
     "end": 14796,
     "raw": "\"in whatever the situation.$\"",
     "source": "in whatever the situation.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここに ちょくちょく きてるんだよね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "83d6cba6e13a3ef1",
@@ -608665,9 +609387,15 @@
     "end": 2374,
     "raw": "\"Let me see your POKéMON.\\n\"",
     "source": "Let me see your POKéMON.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなたの ポケモンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1317756c98939f02",
@@ -608677,9 +609405,15 @@
     "end": 2428,
     "raw": "\"I'll check to see how much it likes you.\\p\"",
     "source": "I'll check to see how much it likes you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どれくらい なついているか みてあげる\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1c1b122d4ef34265",
@@ -608689,9 +609423,15 @@
     "end": 2445,
     "raw": "\"Oh.\\n\"",
     "source": "Oh.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あら……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "47e2086444c7dffd",
@@ -608701,9 +609441,15 @@
     "end": 2471,
     "raw": "\"Your POKéMON…$\"",
     "source": "Your POKéMON…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたの ポケモン…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "08f7a0fe7ea84ca7",
@@ -608713,9 +609459,15 @@
     "end": 2553,
     "raw": "\"It adores you.\\n\"",
     "source": "It adores you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなたのことが だいすきなのね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "40bf5ba1f1b1e950",
@@ -608725,9 +609477,15 @@
     "end": 2603,
     "raw": "\"It can't possibly love you any more.\\l\"",
     "source": "It can't possibly love you any more.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これいじょうは ないほど なついてるわ。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "af4844ec78504a57",
@@ -608737,9 +609495,15 @@
     "end": 2644,
     "raw": "\"I even feel happy seeing it.$\"",
     "source": "I even feel happy seeing it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みている こっちも しあわせに なるわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a5fb21dc0b3aa8ad",
@@ -608749,9 +609513,15 @@
     "end": 2738,
     "raw": "\"It seems to be very happy.\\n\"",
     "source": "It seems to be very happy.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とても しあわせそう。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "18125546b89bf4d4",
@@ -608761,9 +609531,15 @@
     "end": 2786,
     "raw": "\"It obviously likes you a whole lot.$\"",
     "source": "It obviously likes you a whole lot.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すごく あなたに なついているわね$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b1e6f2274f496fe5",
@@ -608773,9 +609549,15 @@
     "end": 2887,
     "raw": "\"It likes you quite a lot.\\n\"",
     "source": "It likes you quite a lot.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かなり なついているわね\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c8f153b9244a3f9d",
@@ -608785,9 +609567,15 @@
     "end": 2939,
     "raw": "\"It seems to want to be babied a little.$\"",
     "source": "It seems to want to be babied a little.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたに あまえたそうに しているわよ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "acbc5f15bb594cd6",
@@ -608797,9 +609585,15 @@
     "end": 3039,
     "raw": "\"It's getting used to you.\\n\"",
     "source": "It's getting used to you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなたに なれて きているわね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3dd0942e9a0723d4",
@@ -608809,9 +609603,15 @@
     "end": 3079,
     "raw": "\"It seems to believe in you.$\"",
     "source": "It seems to believe in you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたのこと しんじている みたい$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4c0fa0f00e5949fb",
@@ -608821,9 +609621,15 @@
     "end": 3180,
     "raw": "\"It's not very used to you yet.\\n\"",
     "source": "It's not very used to you yet.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まだ あなたに あまり なれていないわね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ea1629442c79003b",
@@ -608833,9 +609639,15 @@
     "end": 3224,
     "raw": "\"It neither loves nor hates you.$\"",
     "source": "It neither loves nor hates you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すきでも きらいでも ないわ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6ea1135c600247bd",
@@ -608845,9 +609657,15 @@
     "end": 3306,
     "raw": "\"It's very wary.\\n\"",
     "source": "It's very wary.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とても けいかい しているわ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cacb44c04ef19e30",
@@ -608857,9 +609675,15 @@
     "end": 3357,
     "raw": "\"It has scary viciousness in its eyes.\\l\"",
     "source": "It has scary viciousness in its eyes.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "めつきも こわいほど とげとげしいし。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d4165947950aa8f3",
@@ -608869,9 +609693,15 @@
     "end": 3402,
     "raw": "\"It doesn't like you much at all.$\"",
     "source": "It doesn't like you much at all.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜんぜん あなたに なついていないわ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "92f3da4bf35770a7",
@@ -608881,9 +609711,15 @@
     "end": 3507,
     "raw": "\"This is a little hard for me to say…\\p\"",
     "source": "This is a little hard for me to say…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…… ちょっと いいづらいんだけど\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d5b1d21b18a69f30",
@@ -608893,9 +609729,15 @@
     "end": 3553,
     "raw": "\"Your POKéMON simply detests you.\\n\"",
     "source": "Your POKéMON simply detests you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンに ひどく きらわれているわ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5034ad559b7d1152",
@@ -608905,9 +609747,15 @@
     "end": 3602,
     "raw": "\"Doesn't that make you uncomfortable?$\"",
     "source": "Doesn't that make you uncomfortable?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それじゃ つらくないかしら?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6d4d5ffbc65ed60c",
@@ -608917,9 +609765,15 @@
     "end": 3686,
     "raw": "\"PIKACHU: Pika pika!$\"",
     "source": "PIKACHU: Pika pika!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ピカチュウ: ピカピカッ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e6bb8711969df40f",
@@ -608929,9 +609783,13 @@
     "end": 389,
     "raw": "\"Far away, deep in EVER GRANDE CITY,\\n\"",
     "source": "Far away, deep in EVER GRANDE CITY,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はるか とおく サイユウシティの おくに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ac558405ed1df7f0",
@@ -608941,9 +609799,13 @@
     "end": 425,
     "raw": "\"is the POKéMON LEAGUE.\\p\"",
     "source": "is the POKéMON LEAGUE.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンリーグが あるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "182769f09dbd02c7",
@@ -608953,9 +609815,13 @@
     "end": 472,
     "raw": "\"The TRAINERS who gather there are\\n\"",
     "source": "The TRAINERS who gather there are\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そこに あつまる トレーナーは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "72643a611d00163f",
@@ -608965,9 +609831,13 @@
     "end": 516,
     "raw": "\"all frighteningly well skilled.$\"",
     "source": "all frighteningly well skilled.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんな おそろしいほどの うでまえさ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "12d9ba9b60b91f81",
@@ -608977,9 +609847,13 @@
     "end": 614,
     "raw": "\"In the POKéMON LEAGUE, I think the\\n\"",
     "source": "In the POKéMON LEAGUE, I think the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンリーグでは してんのうと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e2327747a84436b7",
@@ -608989,9 +609863,13 @@
     "end": 665,
     "raw": "\"rules say that you have to battle the\\l\"",
     "source": "rules say that you have to battle the\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんぞくで たたかわないと いけない\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2bedaa287993b71e",
@@ -609001,9 +609879,13 @@
     "end": 703,
     "raw": "\"ELITE FOUR all in a row.\\p\"",
     "source": "ELITE FOUR all in a row.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ルールだったと おもうよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "881f974a4f22290c",
@@ -609013,9 +609895,13 @@
     "end": 753,
     "raw": "\"If you lose to any of them, you have\\n\"",
     "source": "If you lose to any of them, you have\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれか ひとりにでも まけたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9329f25f80109f49",
@@ -609025,9 +609911,13 @@
     "end": 805,
     "raw": "\"to begin your challenge again from the\\l\"",
     "source": "to begin your challenge again from the\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さいしょの ひとから\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1551d38854a6c248",
@@ -609037,9 +609927,13 @@
     "end": 828,
     "raw": "\"first one.$\"",
     "source": "first one.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうせん しなおしなんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d42cbd27eca633a1",
@@ -609049,9 +609943,15 @@
     "end": 994,
     "raw": "\"For any POKéMON match, X SPECIAL\\n\"",
     "source": "For any POKéMON match, X SPECIAL\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモン しょうぶに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d31bdd8db542cbcd",
@@ -609061,9 +609961,15 @@
     "end": 1019,
     "raw": "\"is crucial.\\p\"",
     "source": "is crucial.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "スペシャルアップは かかせない!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "abde10f46da87bd0",
@@ -609073,9 +609979,15 @@
     "end": 1068,
     "raw": "\"It jacks up the power of some moves\\n\"",
     "source": "It jacks up the power of some moves\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1かいの たたかいの あいだだけでも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ad3ad46517ff7d8c",
@@ -609085,9 +609997,15 @@
     "end": 1118,
     "raw": "\"even though it's only for one battle.$\"",
     "source": "even though it's only for one battle.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちぶの わざの いりょくが あがるからな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1b0acbfc7817fa63",
@@ -609097,9 +610015,13 @@
     "end": 1224,
     "raw": "\"They don't seem to sell any winning\\n\"",
     "source": "They don't seem to sell any winning\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}バトルテントの ひっしょう こうりゃくぼんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e448eadae59124ff",
@@ -609109,9 +610031,13 @@
     "end": 1274,
     "raw": "\"strategy guides for the BATTLE TENT…\\p\"",
     "source": "strategy guides for the BATTLE TENT…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うっていない ようだな…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95d7933f753cab0d",
@@ -609121,9 +610047,13 @@
     "end": 1319,
     "raw": "\"It seems one must rely on one's\\n\"",
     "source": "It seems one must rely on one's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やっぱり じぶんの ちえに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a6640ce70e2e428e",
@@ -609133,9 +610063,13 @@
     "end": 1351,
     "raw": "\"own wits after all…$\"",
     "source": "own wits after all…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たよるしか なさそうだな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a71b226db3ae0c3a",
@@ -609145,9 +610079,13 @@
     "end": 1447,
     "raw": "\"The NEST BALL works better on\\n\"",
     "source": "The NEST BALL works better on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ネストボールは よわった ポケモンほど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6026eebd21df65cb",
@@ -609157,9 +610095,13 @@
     "end": 1478,
     "raw": "\"weakened POKéMON.\\p\"",
     "source": "weakened POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかまえやすいんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bc9a082b1209579b",
@@ -609169,9 +610111,13 @@
     "end": 1528,
     "raw": "\"VERDANTURF is the only place you can\\n\"",
     "source": "VERDANTURF is the only place you can\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これを かえるのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a7163ea6f5386a66",
@@ -609181,9 +610127,13 @@
     "end": 1548,
     "raw": "\"buy it.$\"",
     "source": "buy it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "シダケタウンだけ なんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b6745a1ed070b08f",
@@ -609193,9 +610143,13 @@
     "end": 892,
     "raw": "\"You can't consider yourself a real\\n\"",
     "source": "You can't consider yourself a real\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンを しんじられなければ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44ee17640ca08594",
@@ -609205,9 +610159,13 @@
     "end": 937,
     "raw": "\"TRAINER if you don't have faith\\l\"",
     "source": "TRAINER if you don't have faith\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんものの トレーナーとは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5956644a673ce2e2",
@@ -609217,9 +610175,13 @@
     "end": 967,
     "raw": "\"in your POKéMON.\\p\"",
     "source": "in your POKéMON.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いえないよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2777c6ccde389784",
@@ -609229,9 +610191,13 @@
     "end": 1014,
     "raw": "\"Only those people who can believe\\n\"",
     "source": "Only those people who can believe\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たたかう ポケモンを しんじられる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "abbfd3412c3f3c30",
@@ -609241,9 +610207,13 @@
     "end": 1061,
     "raw": "\"in their battling POKéMON can win\\l\"",
     "source": "in their battling POKéMON can win\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとだけが さいごまで\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0bf1d7cc1ef4f69f",
@@ -609253,9 +610223,13 @@
     "end": 1098,
     "raw": "\"through to the very end.$\"",
     "source": "through to the very end.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かちぬけるんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f46c419a0710568e",
@@ -609265,9 +610239,13 @@
     "end": 1203,
     "raw": "\"The reason why anyone would visit\\n\"",
     "source": "The reason why anyone would visit\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}シダケタウンに ひとが くる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e2b2189dc8d5a78",
@@ -609277,9 +610255,13 @@
     "end": 1228,
     "raw": "\"VERDANTURF…\\p\"",
     "source": "VERDANTURF…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "りゆうと いえば…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "79bcfa2553411d85",
@@ -609289,9 +610271,13 @@
     "end": 1279,
     "raw": "\"It's the BATTLE TENT. It goes without\\n\"",
     "source": "It's the BATTLE TENT. It goes without\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もちろん バトルテントさ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1409b69f74a03e56",
@@ -609301,9 +610287,13 @@
     "end": 1300,
     "raw": "\"saying.\\p\"",
     "source": "saying.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いうまでも ないだろう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e1cd990fe4b9aaa",
@@ -609313,9 +610303,13 @@
     "end": 1348,
     "raw": "\"Or is there somebody here that you\\n\"",
     "source": "Or is there somebody here that you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それとも ここに だれか\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "812ad0add7f46bbf",
@@ -609325,9 +610319,13 @@
     "end": 1373,
     "raw": "\"came to see?$\"",
     "source": "came to see?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいたい ひとが いるのかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c5918f599f0df11",
@@ -609337,9 +610335,13 @@
     "end": 2960,
     "raw": "\"WALLY: I lost to you, {PLAYER}, but I'm\\n\"",
     "source": "WALLY: I lost to you, {PLAYER}, but I'm\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: {ENG}{PLAYER}{JPN}に まけたけど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3506772596b52af8",
@@ -609349,9 +610351,13 @@
     "end": 2999,
     "raw": "\"not feeling down anymore.\\p\"",
     "source": "not feeling down anymore.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼくは もう おちこんで いないよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "adc8a67a295e2624",
@@ -609361,9 +610367,13 @@
     "end": 3050,
     "raw": "\"Because I have a new purpose in life.\\n\"",
     "source": "Because I have a new purpose in life.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いきる もくひょうが できたんだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a4487cb061266bfa",
@@ -609373,9 +610383,13 @@
     "end": 3097,
     "raw": "\"Together with my RALTS, I'm going\\l\"",
     "source": "Together with my RALTS, I'm going\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ラルトスと いっしょに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "82506b2fcb952680",
@@ -609385,9 +610399,13 @@
     "end": 3147,
     "raw": "\"to challenge POKéMON GYMS and become\\l\"",
     "source": "to challenge POKéMON GYMS and become\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンジムに ちょうせんして\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6b83a6b79cb4da81",
@@ -609397,9 +610415,13 @@
     "end": 3177,
     "raw": "\"a great TRAINER.\\p\"",
     "source": "a great TRAINER.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すごい トレーナーに なるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "32f779c5114b011d",
@@ -609409,9 +610431,13 @@
     "end": 3217,
     "raw": "\"Please watch me, {PLAYER}.\\n\"",
     "source": "Please watch me, {PLAYER}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN} みててね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "22548d6f80b5061c",
@@ -609421,9 +610447,13 @@
     "end": 3265,
     "raw": "\"I'm going to be stronger than you.\\p\"",
     "source": "I'm going to be stronger than you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼく きみより つよくなるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d8540f7d2730053",
@@ -609433,9 +610463,13 @@
     "end": 3316,
     "raw": "\"When I do, I'm going to challenge you\\n\"",
     "source": "When I do, I'm going to challenge you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうしたら また きみに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2dd30862c66043e3",
@@ -609445,9 +610479,13 @@
     "end": 3347,
     "raw": "\"to another battle.$\"",
     "source": "to another battle.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しょうぶを もうしこむからね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c932ffa303d09b2a",
@@ -609457,9 +610495,13 @@
     "end": 3448,
     "raw": "\"WALLY: Please watch me, {PLAYER}.\\n\"",
     "source": "WALLY: Please watch me, {PLAYER}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツル: {ENG}{PLAYER}{JPN} みててね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d9bf8d3c510b73fc",
@@ -609469,9 +610511,13 @@
     "end": 3497,
     "raw": "\"I'm going to get stronger than you.\\p\"",
     "source": "I'm going to get stronger than you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼく きみより つよくなるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5f6d19cf3cc01929",
@@ -609481,9 +610527,13 @@
     "end": 3548,
     "raw": "\"When I do, I'm going to challenge you\\n\"",
     "source": "When I do, I'm going to challenge you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうしたら また きみに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95be0ef9d549f8f5",
@@ -609493,9 +610543,13 @@
     "end": 3579,
     "raw": "\"to another battle.$\"",
     "source": "to another battle.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しょうぶを もうしこむからね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7a7b3d875661266e",
@@ -609505,9 +610559,13 @@
     "end": 3667,
     "raw": "\"UNCLE: Oh! {PLAYER}{KUN}!\\n\"",
     "source": "UNCLE: Oh! {PLAYER}{KUN}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おじさん: おお {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b39423aa66a19543",
@@ -609517,9 +610575,13 @@
     "end": 3699,
     "raw": "\"WALLY's next door.\\p\"",
     "source": "WALLY's next door.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルなら となりの へやだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9654152a002dd795",
@@ -609529,9 +610591,13 @@
     "end": 3750,
     "raw": "\"But, boy, there's something I have to\\n\"",
     "source": "But, boy, there's something I have to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ところで きみに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ee182f672bf3dcc5",
@@ -609541,9 +610607,13 @@
     "end": 3773,
     "raw": "\"tell you.\\p\"",
     "source": "tell you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つたえたい ことが あるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "089de3808421e02c",
@@ -609553,9 +610623,13 @@
     "end": 3820,
     "raw": "\"This natural environment is doing\\n\"",
     "source": "This natural environment is doing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここの しぜんの おかげで ミツルが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "087d49bf8781a3c1",
@@ -609565,9 +610639,13 @@
     "end": 3861,
     "raw": "\"wonders for WALLY's health.\\p\"",
     "source": "wonders for WALLY's health.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずいぶん げんきに なってね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bfbf55d516ebb196",
@@ -609577,9 +610655,13 @@
     "end": 3911,
     "raw": "\"Maybe it's not just the environment.\\n\"",
     "source": "Maybe it's not just the environment.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも しぜんだけじゃ ないのかもね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f48e01b2a1032181",
@@ -609589,9 +610671,13 @@
     "end": 3960,
     "raw": "\"It could be POKéMON that are giving\\l\"",
     "source": "It could be POKéMON that are giving\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが ミツルに きぼうを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bf548b84b66935db",
@@ -609601,9 +610687,13 @@
     "end": 3986,
     "raw": "\"the boy hope.$\"",
     "source": "the boy hope.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたえて くれているのかも しれない。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3b3bf303eb7ab561",
@@ -609613,9 +610703,15 @@
     "end": 4068,
     "raw": "\"WALLY's gone away…\\n\"",
     "source": "WALLY's gone away…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツルくんが でていっちゃった…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2e2378eb269c5180",
@@ -609625,9 +610721,15 @@
     "end": 4107,
     "raw": "\"He slipped off on his own…$\"",
     "source": "He slipped off on his own…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとりで こっそり…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e89711c9abf054f7",
@@ -609637,9 +610739,13 @@
     "end": 4193,
     "raw": "\"UNCLE: Is that right?\\n\"",
     "source": "UNCLE: Is that right?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おじさん: そうかい?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a58016d710bad0e4",
@@ -609649,9 +610755,13 @@
     "end": 4240,
     "raw": "\"WALLY's gone away that far all by\\l\"",
     "source": "WALLY's gone away that far all by\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルは そんな とおくまで\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4151a3e8c8c2d713",
@@ -609661,9 +610771,13 @@
     "end": 4262,
     "raw": "\"himself…\\p\"",
     "source": "himself…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとりで いったのか…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e6aee0e84e461940",
@@ -609673,9 +610787,13 @@
     "end": 4314,
     "raw": "\"Well, I have to give him credit--he is\\n\"",
     "source": "Well, I have to give him credit--he is\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たいした ものだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f06572fdf7f8d960",
@@ -609685,9 +610803,13 @@
     "end": 4351,
     "raw": "\"my little brother's son.$\"",
     "source": "my little brother's son.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さすが わたしの おとうとの むすこだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c8067016408a26be",
@@ -609697,9 +610819,13 @@
     "end": 4424,
     "raw": "\"WANDA: You are?\\n\"",
     "source": "WANDA: You are?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミチル: あなたは?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e7b6398bc8e6079d",
@@ -609709,9 +610835,13 @@
     "end": 4458,
     "raw": "\"Oh, right, I get it!\\p\"",
     "source": "Oh, right, I get it!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ああ そうなの! わかったわ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e97db50bd219600",
@@ -609721,9 +610851,13 @@
     "end": 4505,
     "raw": "\"You're the {PLAYER} who WALLY was\\n\"",
     "source": "You're the {PLAYER} who WALLY was\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたが {ENG}{PLAYER}{JPN}さんね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ca792818ffd9e64c",
@@ -609733,9 +610867,13 @@
     "end": 4536,
     "raw": "\"telling me about.\\p\"",
     "source": "telling me about.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルくんから はなしを きいてるわ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ae481ec7d9528668",
@@ -609745,9 +610883,13 @@
     "end": 4569,
     "raw": "\"I'm WALLY's cousin.\\n\"",
     "source": "I'm WALLY's cousin.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは ミツルくんの いとこなの。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1a364e90090ebb14",
@@ -609757,9 +610899,13 @@
     "end": 4600,
     "raw": "\"Glad to meet you!\\p\"",
     "source": "Glad to meet you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よろしくね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3a9aefed635f67ab",
@@ -609769,9 +610915,13 @@
     "end": 4654,
     "raw": "\"I think WALLY's become a lot more lively\\n\"",
     "source": "I think WALLY's become a lot more lively\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミツルくんは ここに きてから ずっと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "88df82bd8e403307",
@@ -609781,9 +610931,13 @@
     "end": 4698,
     "raw": "\"and healthy since he came here.$\"",
     "source": "and healthy since he came here.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げんきで あかるく なったと おもうわ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "01a0d82fb141c683",
@@ -609793,9 +610947,15 @@
     "end": 4797,
     "raw": "\"WANDA: Don't worry about WALLY.\\n\"",
     "source": "WANDA: Don't worry about WALLY.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミチル: ミツルくんの ことなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c8d24c5837b9af3a",
@@ -609805,9 +610965,15 @@
     "end": 4830,
     "raw": "\"He'll be just fine.\\p\"",
     "source": "He'll be just fine.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいじょうぶ! しんぱい ないわよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "68e28dc2452d4268",
@@ -609817,9 +610983,15 @@
     "end": 4879,
     "raw": "\"I know my little cousin, and he has\\n\"",
     "source": "I know my little cousin, and he has\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いとこの あのこなら よく しってるし\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "182a8c673e93948f",
@@ -609829,9 +611001,15 @@
     "end": 4914,
     "raw": "\"POKéMON with him, too.$\"",
     "source": "POKéMON with him, too.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンも いっしょ ですもの。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "76a19a1c45be2554",
@@ -609841,9 +611019,15 @@
     "end": 5025,
     "raw": "\"Thanks to you, I can see my girlfriend\\n\"",
     "source": "Thanks to you, I can see my girlfriend\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみの おかげで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9bc80c4814ce9927",
@@ -609853,9 +611037,15 @@
     "end": 5049,
     "raw": "\"every day.\\l\"",
     "source": "every day.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まいにち かのじょに あえて\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bb320377d9820844",
@@ -609865,9 +611055,15 @@
     "end": 5082,
     "raw": "\"Happy? You bet I am!$\"",
     "source": "Happy? You bet I am!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ハッピーかって? もちろんさ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3a1996af6b0f58df",
@@ -609877,9 +611073,15 @@
     "end": 5188,
     "raw": "\"My daughter's boyfriend is a very\\n\"",
     "source": "My daughter's boyfriend is a very\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うちの むすめの こいびとは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3c9ec79e4e8d4ab9",
@@ -609889,9 +611091,15 @@
     "end": 5239,
     "raw": "\"driven and passionate sort of person.\\p\"",
     "source": "driven and passionate sort of person.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちずで じょうねつてきな ひとでね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "85698548d771f9f9",
@@ -609901,9 +611109,15 @@
     "end": 5287,
     "raw": "\"He's been digging a tunnel nonstop\\n\"",
     "source": "He's been digging a tunnel nonstop\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むすめに あうため だけに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "aaa3f1f44e50bae6",
@@ -609913,9 +611127,15 @@
     "end": 5332,
     "raw": "\"just so he can see my daughter.\\p\"",
     "source": "just so he can see my daughter.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やすまず トンネルを ほっているんだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "519f82c53b0a73f4",
@@ -609925,9 +611145,15 @@
     "end": 5379,
     "raw": "\"My daughter's a little concerned,\\n\"",
     "source": "My daughter's a little concerned,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むすめも すこし しんぱい していて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8f1162cf05a73115",
@@ -609937,9 +611163,15 @@
     "end": 5428,
     "raw": "\"so she goes out to the tunnel a lot.$\"",
     "source": "so she goes out to the tunnel a lot.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よく トンネルへ いくんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8eb6884f9cf3ff71",
@@ -609949,9 +611181,15 @@
     "end": 5542,
     "raw": "\"It's amazing. My daughter's boyfriend\\n\"",
     "source": "It's amazing. My daughter's boyfriend\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんと! むすめの こいびと ときたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5dd4eab078f65dfb",
@@ -609961,9 +611199,15 @@
     "end": 5587,
     "raw": "\"was digging the tunnel by hand!\\p\"",
     "source": "was digging the tunnel by hand!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てで トンネルを ほっていたんだよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "509b906dd9db514a",
@@ -609973,9 +611217,15 @@
     "end": 5619,
     "raw": "\"It's so incredible!$\"",
     "source": "It's so incredible!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そりゃあ たまげた もんだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "26904de20d1e875d",
@@ -609985,9 +611235,15 @@
     "end": 5729,
     "raw": "\"If anything were to happen to WALLY,\\n\"",
     "source": "If anything were to happen to WALLY,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツルくんに もしものことが あったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "76817654f92da1b3",
@@ -609997,9 +611253,15 @@
     "end": 5776,
     "raw": "\"I would never be able to look his\\l\"",
     "source": "I would never be able to look his\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたしゃ トウカにいる ごりょうしんに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "150e86a35715e74e",
@@ -610009,9 +611271,15 @@
     "end": 5821,
     "raw": "\"parents in PETALBURG in the eye…$\"",
     "source": "parents in PETALBURG in the eye…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あわせる かおが ないよ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7d0cee2f35ad4b41",
@@ -610021,9 +611289,15 @@
     "end": 5915,
     "raw": "\"WALLY was in EVER GRANDE?\\p\"",
     "source": "WALLY was in EVER GRANDE?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ミツルくんが サイユウに いたって!?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "296d6f5433c9c8cb",
@@ -610033,9 +611307,15 @@
     "end": 5962,
     "raw": "\"His parents in PETALBURG would be\\n\"",
     "source": "His parents in PETALBURG would be\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そりゃ トウカの ごりょうしんも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "265e73c70ab46c43",
@@ -610045,9 +611325,15 @@
     "end": 5999,
     "raw": "\"astonished to hear that!$\"",
     "source": "astonished to hear that!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "びっくり するだろうねぇ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7af1e0fadd757391",

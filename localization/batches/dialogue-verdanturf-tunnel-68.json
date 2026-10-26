@@ -1,0 +1,2348 @@
+[
+  {
+    "id": "d69792b3f5f5210b",
+    "translation": "{JPN}そだてやに ポケモン あずけていたの\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "993fce2f1f510b6b",
+    "translation": "ひきとったら あたしが おしえていない\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "42b818000f8d488a",
+    "translation": "あたらしい わざを おぼえていて\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5e04670f83ecf7a0",
+    "translation": "ほんとうに びっくり しちゃった!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cddcda6535eddd84",
+    "translation": "{JPN}どう?\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "490b94d9bba3e4cc",
+    "translation": "この はな きれいでしょ?\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9a05e40bfaa5d3f2",
+    "translation": "ぜーんぶ わたしが うえたのよ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b36608d9291479f5",
+    "translation": "{JPN}くうきが うまーい!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "0e75bc68c8c88030",
+    "translation": "{JPN}ここは 117ばん どうろ\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c98f7dd0c6bb78b3",
+    "translation": "{LEFT_ARROW} シダケタウン$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "65c04fec8a1cc015",
+    "translation": "{JPN}ここは 117ばん どうろ\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8d6cb2e5cb276bc2",
+    "translation": "{RIGHT_ARROW} キンセツシティ$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2641a24177043796",
+    "translation": "{JPN}「ポケモン そだてや」\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "dc62aaab8af822c1",
+    "translation": "あなたの ポケモン そだてます$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "21ecc8c5e4d21254",
+    "translation": "{JPN}くるのか?\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "dac4db95eeec5764",
+    "translation": "くるなら こいよ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e7eee6374d4fb6ef",
+    "translation": "{JPN}ピーコちゃん: ピ ピひょー!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4b8c3ef730f027f6",
+    "translation": "{JPN}くそっ なにもかも ふなぞこびきだ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a67827d591404754",
+    "translation": "ひとじちに した ポケモンは\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a28dd60ede06fbed",
+    "translation": "なんの やくにも たたねえし!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c2153c20a79cd02c",
+    "translation": "せっかく にげて きたってのに…\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f965c49e9959aced",
+    "translation": "こんな いきどまりの トンネルかよ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "86b3a1f7d5390840",
+    "translation": "やい! おまえ!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "40357776bbe4e6de",
+    "translation": "おれと しょうぶ するんだな!?$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7d09dea3851bc7a6",
+    "translation": "{JPN}む むぐぐー!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "566a9251f7ffc9ce",
+    "translation": "おれの あくじも いきどまりかっ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8a3ea6259b803681",
+    "translation": "{JPN}こんなの はなしが ちがうぜ…\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1394fd23936dc132",
+    "translation": "ボスは かんたんに うまくいく\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "865aa18f1a1c09bf",
+    "translation": "しごとだって いってたのによ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a5f7bf4f5b07cde6",
+    "translation": "デボンから にもつを ぬすむだけで\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1b1f70f97747f626",
+    "translation": "よかった はずなのに。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "db95e4a322bc0244",
+    "translation": "チッ!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c53c464eead7ae7b",
+    "translation": "そんなに かえして ほしけりゃ もってけ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ec6f553fc6dc72d9",
+    "translation": "{JPN}ピーコちゃん!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8184c1696a3f220d",
+    "translation": "ぶじで よかったのう!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ae800580425a40b1",
+    "translation": "{JPN}おぬしは ピーコちゃんの いのちの おんじん!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fb4f3c9b0e1745f3",
+    "translation": "わしは ハギろうじんと よばれておる。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7066125a0b2da883",
+    "translation": "おぬしは?\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "895f0b5f823dbe24",
+    "translation": "… … … … … … … …\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "cdf3591f12f2084c",
+    "translation": "… … … … … … … …\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "73bb050869a1d311",
+    "translation": "ほう {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}というのか!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f4b1b0261be76e0a",
+    "translation": "ほんとうに ありがとうよ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4793bc8973a8dfd5",
+    "translation": "なにか こまったことが あったら\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f013fa17d1768154",
+    "translation": "えんりょなく いって おくれ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e1d3176fc84007e7",
+    "translation": "ふだんは トウカのもりの ちかくの\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0987c006efc052e8",
+    "translation": "うみべの こやに おるからな。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7fbd437cfb213b5d",
+    "translation": "さあ ピーコちゃん\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0e010a9af8acc067",
+    "translation": "わしらも いえへ かえろうかの。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4eccce75d6d8d64a",
+    "translation": "ピーコちゃん: ピひょー!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4564affead7d466d",
+    "translation": "{JPN}… …\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7689317749f18274",
+    "translation": "どうして ほりつづけられないんだ?\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ad5987c560c314f5",
+    "translation": "がんばんが かたすぎるのか?\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c59266c636a80930",
+    "translation": "この すぐ むこうの シダケタウンで\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "013ed0328b6fe4b0",
+    "translation": "こいびとが まっているのに…\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a5dde8cd33690cd1",
+    "translation": "カナズミと シダケが この トンネルで\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "18c07a0fc9565685",
+    "translation": "つながれば まいにちでも\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f5346a636e1df725",
+    "translation": "かのじょに あいに いけるのに…\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e9760b76e806e4df",
+    "translation": "それなのに…\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "985bb84cba76cc19",
+    "translation": "いったい どうすれば いいんだ?$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2d9d8a2560ea010e",
+    "translation": "{JPN}カナズミから シダケに いこうと すると\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ebe60c2380a8bb29",
+    "translation": "ムロから カイナと キンセツを とおって\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9d250d6f601a2904",
+    "translation": "いかなきゃ ならないんだ……$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e48be311bea6f74d",
+    "translation": "{JPN}なんと! きみが この いわを\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "53ed5615b65045af",
+    "translation": "とおせんぼの いわを くだいたのか!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ca8b472875abb94a",
+    "translation": "かんしゃの しるし として\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5d757c987af9f65e",
+    "translation": "この ひでんマシンを うけとってくれ$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "34162b7a28f21b16",
+    "translation": "{JPN}その ひでんマシンは かいりき だよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "057f1e5db70c1ae0",
+    "translation": "きんにく もりもりの ポケモンが\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2494448b7be7fd16",
+    "translation": "それを おぼえれば おおきな いわでも\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c861a63e6cad4c54",
+    "translation": "うごかせるように なるんだ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b9f1d4b56a4e3213",
+    "translation": "{JPN}ミチル!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0daddaeac1277c53",
+    "translation": "これで いつでも きみに あえるよ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f0809e24511cb10a",
+    "translation": "ミチル: …よかった。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fabfb8e5260278b2",
+    "translation": "どうぞ わたしの いえで やすんでいって。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "348527af81f11ade",
+    "translation": "{JPN}この いわの むこうに……\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c4e6489454c905ec",
+    "translation": "わたしの かれが いるの\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a3c7c6a577e0d34e",
+    "translation": "かれ…… わたしに あうため だけに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8ee66f6be7fa7260",
+    "translation": "トンネルを ほってるわけ じゃないわ\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "432232f9f4f55574",
+    "translation": "みんなの ために\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "24aba51dd0328ba5",
+    "translation": "てを きずつけながらも がんばってるの$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8d9fe639e72fbad3",
+    "translation": "{JPN}やまに いる あらっぽい おとこは\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f76fdc93b2393de1",
+    "translation": "やまおとこって いうだろ?\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "06a8ad740734ec29",
+    "translation": "それじゃ やまの ポケモンを\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e1f534ba5d3d0284",
+    "translation": "やまポケモンって よばないのは なぜだ?$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "57700ec59cc5148f",
+    "translation": "{JPN}ポケモン……\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5bede4d1042a62f2",
+    "translation": "ちから つきた……$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3e5d928edb0bb9dd",
+    "translation": "{JPN}ここって ポケモンを まもるため\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4e27a3c66a466a31",
+    "translation": "かいはつ こうじを やめたんだろ?\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "df5da7060f3accd3",
+    "translation": "それって いい はなし だよな$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "94db44f4686cdba7",
+    "translation": "{JPN}どの コンテストに でるんだい?\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "19f2cdca1867c56f",
+    "translation": "ひとつ アドバイスを きくかい?\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "df73991594476bb0",
+    "translation": "たとえば かわいさの コンテストでも\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0d3fff4d43a2d0ff",
+    "translation": "いちじしんさは かわいさだけで\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8ea617b2ad8174f5",
+    "translation": "きめては いないと おもうんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "28ccfb0afb614afd",
+    "translation": "どの コンテストでも もっと うまく\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7161fe28712d1646",
+    "translation": "ポケモンを そだてる くふうが いるよ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f5589a0f01830cee",
+    "translation": "{JPN}ポケモンを かわいく そだてたの。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d2cb051906c4aa3a",
+    "translation": "かわいさを くらべる コンテストに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7e7ef11b6196f1a9",
+    "translation": "ポケモンを だせるって わかったの!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a23037afa7f1ebe7",
+    "translation": "あいじょう たっぷりに そだててきて\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "56e94b043012e54c",
+    "translation": "ほんとうに よかったわ…$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c694b42a80b7816e",
+    "translation": "{JPN}うちの ポケモンは さいこうさ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8fc821333928199b",
+    "translation": "かっこよく たくましく うつくしく\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f9c37c4f3044fcdc",
+    "translation": "かわいく かしこい。かんぺきさ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a0f1ad8efe906d72",
+    "translation": "いっそ すべての コンテストで\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "db51af0b3305f6b7",
+    "translation": "ゆうしょうを ねらってみようかな。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "477a69fb9aa1ea02",
+    "translation": "{JPN}ポケモン コンテスト\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6f9e61cb9c3b9f9d",
+    "translation": "ノーマルランク ステージ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "acbb10d8b05ceb97",
+    "translation": "{JPN}ポケモンは きらいな わざを\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "980551911751bf9f",
+    "translation": "つかいたがらない ものなんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "57c48b548382ef12",
+    "translation": "どんなに つよくても\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9a4595f34874679c",
+    "translation": "それは おなじ ことなんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e5b51351c0bc5ab4",
+    "translation": "たとえば おとなしい せいかくなら\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "076578467d71a217",
+    "translation": "あいてを きずつけるのを\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "816ebe877e3b5bfa",
+    "translation": "たのしめないんじゃ ないかな。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "56cb51d8be5b0265",
+    "translation": "じつりょくを だせて いないようなら\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4a31007ea9fd6918",
+    "translation": "きらいな わざを むりに つかおうとして\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a76aba105434f7a0",
+    "translation": "しっぱい しているのかも しれないね。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b7f1937819161962",
+    "translation": "{JPN}ぼくの おねえちゃん ふだんは\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "f7b49923edc6b20d",
+    "translation": "おとなしい けど おこると\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2f2a94175cba23ed",
+    "translation": "すっごく すっごく こわいんだ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "074c344a173e2258",
+    "translation": "だから おとなしい ポケモン だって\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d6c2e72b45d033dd",
+    "translation": "おこったら きっと こわーーーいよ!!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d2dce79fad450054",
+    "translation": "{JPN}ポケモンへの あたしの きもち…\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a51ddfc85a8fd002",
+    "translation": "ふかく ふかく メロメロなの…\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9aea3c292967b673",
+    "translation": "あら こんにちは。いまの みてないわよね?\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b17778fcabdc1452",
+    "translation": "まあ いいわ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5fd794e3b6328546",
+    "translation": "あなたの ポケモンに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "99b0eea2f5c70277",
+    "translation": "この わざマシンは いかが?$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b0573b957c7117ff",
+    "translation": "{JPN}ポケモンへの あたしの きもち…\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d9d52fbacd1bc453",
+    "translation": "きっと おたがいに メロメロなのね!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e55052d7cc223712",
+    "translation": "だって あたしの おもう とおりに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "966c0d667a80121d",
+    "translation": "たたかって くれるもの!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cfb3d3cb8b97bb3b",
+    "translation": "{JPN}きみの ポケモンには\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "fb07d34549093bf4",
+    "translation": "どんなわざを もたせて いるんだい?\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3b66f883fc4a9a96",
+    "translation": "じぶんを かいふくしたり\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "dff5c0ecf0161357",
+    "translation": "まもったり できる わざが あれば\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a864a75bd8eed801",
+    "translation": "ゆうりに なると おもうんだ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "042c7aceddba2b67",
+    "translation": "{JPN}エニシダ: やあ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0f56a85693f10896",
+    "translation": "ここで あえるかもと おもってたよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "024db80a537c5cd4",
+    "translation": "バトルテントは つよい トレーナーに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5fdc2d034a95a398",
+    "translation": "あえる ばしょなんだよね。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "97e90b0b505ebd09",
+    "translation": "どんな ルールでも\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d1d9bbf852ff291d",
+    "translation": "どんな たたかいかたでも かんけいない。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7720ff51b38b2111",
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} きみにも\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "fe3b47a9a82a802a",
+    "translation": "せいいっぱい がんばって ほしいな!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bd03d639b2fd6610",
+    "translation": "{JPN}エニシダ: どんな じょうきょうでも\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c6d3408c5576f20e",
+    "translation": "つよい トレーナーの たたかいが みたくて\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1ef5f1a594702d6b",
+    "translation": "ここに ちょくちょく きてるんだよね。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "83d6cba6e13a3ef1",
+    "translation": "{JPN}あなたの ポケモンが\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1317756c98939f02",
+    "translation": "どれくらい なついているか みてあげる\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1c1b122d4ef34265",
+    "translation": "あら……\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "47e2086444c7dffd",
+    "translation": "あなたの ポケモン…$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "08f7a0fe7ea84ca7",
+    "translation": "{JPN}あなたのことが だいすきなのね。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "40bf5ba1f1b1e950",
+    "translation": "これいじょうは ないほど なついてるわ。\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "af4844ec78504a57",
+    "translation": "みている こっちも しあわせに なるわ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "a5fb21dc0b3aa8ad",
+    "translation": "{JPN}とても しあわせそう。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "18125546b89bf4d4",
+    "translation": "すごく あなたに なついているわね$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "b1e6f2274f496fe5",
+    "translation": "{JPN}かなり なついているわね\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c8f153b9244a3f9d",
+    "translation": "あなたに あまえたそうに しているわよ$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "acbc5f15bb594cd6",
+    "translation": "{JPN}あなたに なれて きているわね。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3dd0942e9a0723d4",
+    "translation": "あなたのこと しんじている みたい$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "4c0fa0f00e5949fb",
+    "translation": "{JPN}まだ あなたに あまり なれていないわね。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ea1629442c79003b",
+    "translation": "すきでも きらいでも ないわ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6ea1135c600247bd",
+    "translation": "{JPN}とても けいかい しているわ。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "cacb44c04ef19e30",
+    "translation": "めつきも こわいほど とげとげしいし。\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d4165947950aa8f3",
+    "translation": "ぜんぜん あなたに なついていないわ$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "92f3da4bf35770a7",
+    "translation": "{JPN}…… ちょっと いいづらいんだけど\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d5b1d21b18a69f30",
+    "translation": "ポケモンに ひどく きらわれているわ。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5034ad559b7d1152",
+    "translation": "それじゃ つらくないかしら?$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "6d4d5ffbc65ed60c",
+    "translation": "{JPN}ピカチュウ: ピカピカッ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e6bb8711969df40f",
+    "translation": "{JPN}はるか とおく サイユウシティの おくに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ac558405ed1df7f0",
+    "translation": "ポケモンリーグが あるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "182769f09dbd02c7",
+    "translation": "そこに あつまる トレーナーは\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "72643a611d00163f",
+    "translation": "みんな おそろしいほどの うでまえさ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "12d9ba9b60b91f81",
+    "translation": "{JPN}ポケモンリーグでは してんのうと\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e2327747a84436b7",
+    "translation": "れんぞくで たたかわないと いけない\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2bedaa287993b71e",
+    "translation": "ルールだったと おもうよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "881f974a4f22290c",
+    "translation": "だれか ひとりにでも まけたら\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9329f25f80109f49",
+    "translation": "さいしょの ひとから\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1551d38854a6c248",
+    "translation": "ちょうせん しなおしなんだ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d42cbd27eca633a1",
+    "translation": "{JPN}ポケモン しょうぶに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "d31bdd8db542cbcd",
+    "translation": "スペシャルアップは かかせない!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "abde10f46da87bd0",
+    "translation": "1かいの たたかいの あいだだけでも\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "ad3ad46517ff7d8c",
+    "translation": "いちぶの わざの いりょくが あがるからな!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "1b0acbfc7817fa63",
+    "translation": "{JPN}バトルテントの ひっしょう こうりゃくぼんは\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e448eadae59124ff",
+    "translation": "うっていない ようだな…\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "95d7933f753cab0d",
+    "translation": "やっぱり じぶんの ちえに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a6640ce70e2e428e",
+    "translation": "たよるしか なさそうだな…$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a71b226db3ae0c3a",
+    "translation": "{JPN}ネストボールは よわった ポケモンほど\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6026eebd21df65cb",
+    "translation": "つかまえやすいんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bc9a082b1209579b",
+    "translation": "これを かえるのは\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a7163ea6f5386a66",
+    "translation": "シダケタウンだけ なんだよ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b6745a1ed070b08f",
+    "translation": "{JPN}ポケモンを しんじられなければ\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "44ee17640ca08594",
+    "translation": "ほんものの トレーナーとは\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5956644a673ce2e2",
+    "translation": "いえないよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2777c6ccde389784",
+    "translation": "たたかう ポケモンを しんじられる\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "abbfd3412c3f3c30",
+    "translation": "ひとだけが さいごまで\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "0bf1d7cc1ef4f69f",
+    "translation": "かちぬけるんだ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f46c419a0710568e",
+    "translation": "{JPN}シダケタウンに ひとが くる\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3e2b2189dc8d5a78",
+    "translation": "りゆうと いえば…\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "79bcfa2553411d85",
+    "translation": "もちろん バトルテントさ。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1409b69f74a03e56",
+    "translation": "いうまでも ないだろう。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2e1cd990fe4b9aaa",
+    "translation": "それとも ここに だれか\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "812ad0add7f46bbf",
+    "translation": "あいたい ひとが いるのかい?$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6c5918f599f0df11",
+    "translation": "{JPN}ミツル: {ENG}{PLAYER}{JPN}に まけたけど\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3506772596b52af8",
+    "translation": "ぼくは もう おちこんで いないよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "adc8a67a295e2624",
+    "translation": "いきる もくひょうが できたんだ。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a4487cb061266bfa",
+    "translation": "ラルトスと いっしょに\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "82506b2fcb952680",
+    "translation": "ポケモンジムに ちょうせんして\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "6b83a6b79cb4da81",
+    "translation": "すごい トレーナーに なるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "32f779c5114b011d",
+    "translation": "{ENG}{PLAYER}{JPN} みててね。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "22548d6f80b5061c",
+    "translation": "ぼく きみより つよくなるよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "8d8540f7d2730053",
+    "translation": "そうしたら また きみに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2dd30862c66043e3",
+    "translation": "しょうぶを もうしこむからね。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c932ffa303d09b2a",
+    "translation": "{JPN}ミツル: {ENG}{PLAYER}{JPN} みててね。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "d9bf8d3c510b73fc",
+    "translation": "ぼく きみより つよくなるよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "5f6d19cf3cc01929",
+    "translation": "そうしたら また きみに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "95be0ef9d549f8f5",
+    "translation": "しょうぶを もうしこむからね。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "7a7b3d875661266e",
+    "translation": "{JPN}おじさん: おお {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "b39423aa66a19543",
+    "translation": "ミツルなら となりの へやだよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "9654152a002dd795",
+    "translation": "ところで きみに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ee182f672bf3dcc5",
+    "translation": "つたえたい ことが あるんだ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "089de3808421e02c",
+    "translation": "ここの しぜんの おかげで ミツルが\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "087d49bf8781a3c1",
+    "translation": "ずいぶん げんきに なってね。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bfbf55d516ebb196",
+    "translation": "でも しぜんだけじゃ ないのかもね。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f48e01b2a1032181",
+    "translation": "ポケモンが ミツルに きぼうを\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "bf548b84b66935db",
+    "translation": "あたえて くれているのかも しれない。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3b3bf303eb7ab561",
+    "translation": "{JPN}ミツルくんが でていっちゃった…\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "2e2378eb269c5180",
+    "translation": "ひとりで こっそり…$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "e89711c9abf054f7",
+    "translation": "{JPN}おじさん: そうかい?\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "a58016d710bad0e4",
+    "translation": "ミツルは そんな とおくまで\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "4151a3e8c8c2d713",
+    "translation": "ひとりで いったのか…\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e6aee0e84e461940",
+    "translation": "たいした ものだ。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "f06572fdf7f8d960",
+    "translation": "さすが わたしの おとうとの むすこだよ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "c8067016408a26be",
+    "translation": "{JPN}ミチル: あなたは?\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "e7b6398bc8e6079d",
+    "translation": "ああ そうなの! わかったわ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "2e97db50bd219600",
+    "translation": "あなたが {ENG}{PLAYER}{JPN}さんね。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ca792818ffd9e64c",
+    "translation": "ミツルくんから はなしを きいてるわ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "ae481ec7d9528668",
+    "translation": "わたしは ミツルくんの いとこなの。\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "1a364e90090ebb14",
+    "translation": "よろしくね!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "3a9aefed635f67ab",
+    "translation": "ミツルくんは ここに きてから ずっと\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "88df82bd8e403307",
+    "translation": "げんきで あかるく なったと おもうわ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
+  },
+  {
+    "id": "01a0d82fb141c683",
+    "translation": "{JPN}ミチル: ミツルくんの ことなら\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "c8d24c5837b9af3a",
+    "translation": "だいじょうぶ! しんぱい ないわよ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "68e28dc2452d4268",
+    "translation": "いとこの あのこなら よく しってるし\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "182a8c673e93948f",
+    "translation": "ポケモンも いっしょ ですもの。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "76a19a1c45be2554",
+    "translation": "{JPN}きみの おかげで\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "9bc80c4814ce9927",
+    "translation": "まいにち かのじょに あえて\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "bb320377d9820844",
+    "translation": "ハッピーかって? もちろんさ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3a1996af6b0f58df",
+    "translation": "{JPN}うちの むすめの こいびとは\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "3c9ec79e4e8d4ab9",
+    "translation": "いちずで じょうねつてきな ひとでね。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "85698548d771f9f9",
+    "translation": "むすめに あうため だけに\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "aaa3f1f44e50bae6",
+    "translation": "やすまず トンネルを ほっているんだよ。\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "519f82c53b0a73f4",
+    "translation": "むすめも すこし しんぱい していて\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8f1162cf05a73115",
+    "translation": "よく トンネルへ いくんだよ。$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "8eb6884f9cf3ff71",
+    "translation": "{JPN}なんと! むすめの こいびと ときたら\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "5dd4eab078f65dfb",
+    "translation": "てで トンネルを ほっていたんだよ!\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "509b906dd9db514a",
+    "translation": "そりゃあ たまげた もんだ!$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "26904de20d1e875d",
+    "translation": "{JPN}ミツルくんに もしものことが あったら\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "76817654f92da1b3",
+    "translation": "あたしゃ トウカにいる ごりょうしんに\\l",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "150e86a35715e74e",
+    "translation": "あわせる かおが ないよ……$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "7d0cee2f35ad4b41",
+    "translation": "{JPN}ミツルくんが サイユウに いたって!?\\p",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "296d6f5433c9c8cb",
+    "translation": "そりゃ トウカの ごりょうしんも\\n",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  },
+  {
+    "id": "265e73c70ab46c43",
+    "translation": "びっくり するだろうねぇ$",
+    "provenance": {
+      "batch": "dialogue-verdanturf-tunnel-68",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
+  }
+]

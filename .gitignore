@@ -73,3 +73,6 @@ __pycache__
 # is the right default. The .ridge marker IS committed: it records content, not
 # timestamps.
 data/tilesets/**/.generated
+
+# Browser source for the local translation workbench
+!tools/localization/admin_ui/app.js

@@ -562879,9 +562879,15 @@
     "end": 26372,
     "raw": "\"I'm the ENERGY GURU! I'll go for it and\\n\"",
     "source": "I'm the ENERGY GURU! I'll go for it and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わし がんばりや!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "19d589de1f8b05fb",
@@ -562891,9 +562897,15 @@
     "end": 26408,
     "raw": "\"sell you what you need!$\"",
     "source": "sell you what you need!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がんばって ひつようなものを うりますよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f350a42e1bd356d1",
@@ -562903,9 +562915,15 @@
     "end": 26460,
     "raw": "\"Oh?\\n\"",
     "source": "Oh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "36be63d44e84c5a4",
@@ -562915,9 +562933,15 @@
     "end": 26490,
     "raw": "\"Your {STR_VAR_1}…$\"",
     "source": "Your {STR_VAR_1}…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの {ENG}{STR_VAR_1}{JPN}……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "87f39bc339a0a7f3",
@@ -562927,9 +562951,15 @@
     "end": 26579,
     "raw": "\"Went for it stupendously!\\p\"",
     "source": "Went for it stupendously!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ものすごく がんばったのね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a020aee68b168456",
@@ -562939,9 +562969,15 @@
     "end": 26627,
     "raw": "\"As its reward, please give it this\\n\"",
     "source": "As its reward, please give it this\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ごほうびと して\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "545878bfe9063254",
@@ -562951,9 +562987,15 @@
     "end": 26654,
     "raw": "\"EFFORT RIBBON.$\"",
     "source": "EFFORT RIBBON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この がんばリボンを つけてあげて!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "be77693a3568f607",
@@ -562963,9 +563005,15 @@
     "end": 26745,
     "raw": "\"{PLAYER} received the EFFORT RIBBON.$\"",
     "source": "{PLAYER} received the EFFORT RIBBON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は がんばリボンを もらった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "62808640c9fd7af1",
@@ -562975,9 +563023,15 @@
     "end": 26831,
     "raw": "\"{PLAYER} put the EFFORT RIBBON\\n\"",
     "source": "{PLAYER} put the EFFORT RIBBON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は がんばリボンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a84eb91305e14ee8",
@@ -562987,9 +563041,15 @@
     "end": 26859,
     "raw": "\"on {STR_VAR_1}.$\"",
     "source": "on {STR_VAR_1}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}に つけて あげた!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7ab5f88e15e81d44",
@@ -562999,9 +563059,15 @@
     "end": 26952,
     "raw": "\"You have to go for it a little harder.\\p\"",
     "source": "You have to go for it a little harder.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あと すこし がんばってみて!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2bb46cd1781a655f",
@@ -563011,9 +563077,15 @@
     "end": 26999,
     "raw": "\"If you do, I'll give your POKéMON\\n\"",
     "source": "If you do, I'll give your POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がんばれば わたしが ポケモンに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6f466a264b5ffd3e",
@@ -563023,9 +563095,15 @@
     "end": 27027,
     "raw": "\"something nice.$\"",
     "source": "something nice.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいもの あげるから!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1669a34c90ece869",
@@ -563035,9 +563113,15 @@
     "end": 27121,
     "raw": "\"Oh! Your {STR_VAR_1}, that EFFORT\\n\"",
     "source": "Oh! Your {STR_VAR_1}, that EFFORT\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あっ! きみの {ENG}{STR_VAR_1}{JPN}\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "301e460477dbd96e",
@@ -563047,9 +563131,15 @@
     "end": 27158,
     "raw": "\"RIBBON looks good on it!$\"",
     "source": "RIBBON looks good on it!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がんばリボン にあってるよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f16225210659e310",
@@ -563059,9 +563149,15 @@
     "end": 27262,
     "raw": "\"The light of the lighthouse reaches\\n\"",
     "source": "The light of the lighthouse reaches\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}とうだいの あかりは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ea635567731ab8da",
@@ -563071,9 +563167,15 @@
     "end": 27297,
     "raw": "\"dozens of miles away.\\p\"",
     "source": "dozens of miles away.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すうじゅうマイル さきまで とどくんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "343f7912c64968b5",
@@ -563083,9 +563185,15 @@
     "end": 27349,
     "raw": "\"I wonder if it doesn't startle POKéMON\\n\"",
     "source": "I wonder if it doesn't startle POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみの なかの ポケモン\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "db7737583c495d76",
@@ -563095,9 +563203,15 @@
     "end": 27373,
     "raw": "\"in the sea.$\"",
     "source": "in the sea.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まぶしくて おどろいて いないかな?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "db69f7670b8237e6",
@@ -563107,9 +563221,13 @@
     "end": 27444,
     "raw": "\"Ooh, look at this!\\p\"",
     "source": "Ooh, look at this!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお これを みてごらん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "72dd485a0b692099",
@@ -563119,9 +563237,13 @@
     "end": 27494,
     "raw": "\"The seaweed you can get around these\\n\"",
     "source": "The seaweed you can get around these\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この あたりで とれる かいそうは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f11a639c7fbc05e9",
@@ -563131,9 +563253,13 @@
     "end": 27540,
     "raw": "\"parts is fresh and full of life.\\p\"",
     "source": "parts is fresh and full of life.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しんせんで いきが いいねえ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f86e5283aaaf23cf",
@@ -563143,9 +563269,13 @@
     "end": 27592,
     "raw": "\"Why, it looks like it can even rear up\\n\"",
     "source": "Why, it looks like it can even rear up\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おきあがって おそってきても\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c8de7e958ac2f49",
@@ -563155,9 +563285,13 @@
     "end": 27616,
     "raw": "\"and attack!$\"",
     "source": "and attack!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかしく ないくらいだよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bb466da44f395114",
@@ -563167,9 +563301,15 @@
     "end": 27709,
     "raw": "\"Where the water is clean, the fruits\\n\"",
     "source": "Where the water is clean, the fruits\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みずの きれいな ところに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a9bb0d0bbc272627",
@@ -563179,9 +563319,15 @@
     "end": 27751,
     "raw": "\"of bountiful harvest gather.\\p\"",
     "source": "of bountiful harvest gather.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たくさんの みのりが あつまり\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7e69719ae1714ce8",
@@ -563191,9 +563337,15 @@
     "end": 27798,
     "raw": "\"And where people gather, a market\\n\"",
     "source": "And where people gather, a market\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとびとが やってくる ところに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "aef0a6cb49134dcc",
@@ -563203,9 +563355,15 @@
     "end": 27824,
     "raw": "\"soon starts.\\p\"",
     "source": "soon starts.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いちばが できる……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fe4e2f7cb2d76aa8",
@@ -563215,9 +563373,15 @@
     "end": 27874,
     "raw": "\"That is how a town is born and grows.$\"",
     "source": "That is how a town is born and grows.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こうして まちは うまれ そだつのさ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "de3ea2a106cc6ee9",
@@ -563227,9 +563391,15 @@
     "end": 27967,
     "raw": "\"Shopping where you can breathe the\\n\"",
     "source": "Shopping where you can breathe the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うみの かおりが する ばしょで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7a53cb76ef8370ac",
@@ -563239,9 +563409,15 @@
     "end": 28000,
     "raw": "\"scent of the ocean…\\p\"",
     "source": "scent of the ocean…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かいものが できるなんて……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3e5eacecc6997e06",
@@ -563251,9 +563427,15 @@
     "end": 28049,
     "raw": "\"SLATEPORT is such a wonderful place!$\"",
     "source": "SLATEPORT is such a wonderful place!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カイナって すてきな ところ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "02615b4f525f2a6c",
@@ -563263,9 +563445,15 @@
     "end": 28144,
     "raw": "\"If you put DOLLS or CUSHIONS on\\n\"",
     "source": "If you put DOLLS or CUSHIONS on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぬいぐるみや クッションって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "40dc1e1a85816dba",
@@ -563275,9 +563463,15 @@
     "end": 28187,
     "raw": "\"the floor, they'll get dirty.\\p\"",
     "source": "the floor, they'll get dirty.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆかに おくと よごれちゃうでしょ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1e61c78218b5b0cb",
@@ -563287,9 +563481,15 @@
     "end": 28235,
     "raw": "\"I'm going to buy some BRICKS so my\\n\"",
     "source": "I'm going to buy some BRICKS so my\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから きれいなまま かざれるように\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4fe9fa887da5a76b",
@@ -563299,9 +563499,15 @@
     "end": 28283,
     "raw": "\"DOLLS and CUSHIONS won't get dirty\\l\"",
     "source": "DOLLS and CUSHIONS won't get dirty\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぬいぐるみや クッションを おくための\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a32b81d11e777a93",
@@ -563311,9 +563517,15 @@
     "end": 28318,
     "raw": "\"when I leave them out.$\"",
     "source": "when I leave them out.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "レンガを かいに きたの!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "274eba14edb1ef65",
@@ -563323,9 +563535,15 @@
     "end": 28412,
     "raw": "\"Wroooar! I'm going to compete in\\n\"",
     "source": "Wroooar! I'm going to compete in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うぉー! バトルテントに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a840604ac35d95ae",
@@ -563335,9 +563553,15 @@
     "end": 28447,
     "raw": "\"the BATTLE TENT, too!\\p\"",
     "source": "the BATTLE TENT, too!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こっちも しゅつじょう するぞおー!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "22ea8f3df475eb01",
@@ -563347,9 +563571,15 @@
     "end": 28493,
     "raw": "\"But before that, I need to catch\\n\"",
     "source": "But before that, I need to catch\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "と そのまえに!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "930467f2c5416d02",
@@ -563359,9 +563589,15 @@
     "end": 28519,
     "raw": "\"some POKéMON!$\"",
     "source": "some POKéMON!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモン つかまえて こなくちゃ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "613d12c7ed84dd23",
@@ -563371,9 +563607,13 @@
     "end": 28601,
     "raw": "\"Whew… I'm just bushed…\\p\"",
     "source": "Whew… I'm just bushed…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふう… くたくただよ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8afafcc06e545b6a",
@@ -563383,9 +563623,13 @@
     "end": 28647,
     "raw": "\"I hiked over from MAUVILLE CITY.\\n\"",
     "source": "I hiked over from MAUVILLE CITY.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "キンセツシティから あるいてきたんだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "edf6447579a15aa6",
@@ -563395,9 +563639,13 @@
     "end": 28688,
     "raw": "\"But, boy, this city's huge.\\p\"",
     "source": "But, boy, this city's huge.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それにしても この まちは ひろいねえ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8232778981f9d138",
@@ -563407,9 +563655,13 @@
     "end": 28738,
     "raw": "\"If I'd known this, I would've ridden\\n\"",
     "source": "If I'd known this, I would've ridden\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんなことなら じてんしゃで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9aa0578e8f32dada",
@@ -563419,9 +563671,13 @@
     "end": 28764,
     "raw": "\"my BIKE here.$\"",
     "source": "my BIKE here.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くれば よかったよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "27f3e10b5d3be271",
@@ -563431,9 +563687,13 @@
     "end": 28856,
     "raw": "\"STERN, the fellow who built the\\n\"",
     "source": "STERN, the fellow who built the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はくぶつかんを つくった クスノキさんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e62163d5af6c3a34",
@@ -563443,9 +563703,13 @@
     "end": 28907,
     "raw": "\"MUSEUM, also happens to be the leader\\l\"",
     "source": "MUSEUM, also happens to be the leader\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かいてい たんさチームの\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7530ac8b173ff4d1",
@@ -563455,9 +563719,13 @@
     "end": 28953,
     "raw": "\"of an undersea exploration team.\\p\"",
     "source": "of an undersea exploration team.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リーダーでも あるんだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3e859aa38408cff0",
@@ -563467,9 +563735,13 @@
     "end": 29001,
     "raw": "\"So, everyone calls him CAPT. STERN.$\"",
     "source": "So, everyone calls him CAPT. STERN.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから みんな クスノキかんちょうってね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "761c5f6b22f0f1bf",
@@ -563479,9 +563751,15 @@
     "end": 29083,
     "raw": "\"What is that over there?\\n\"",
     "source": "What is that over there?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんなのかしら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6c777c2ac5c07153",
@@ -563491,9 +563769,15 @@
     "end": 29111,
     "raw": "\"That long line…$\"",
     "source": "That long line…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あの ぎょうれつ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2739e3e83ce06b84",
@@ -563503,9 +563787,15 @@
     "end": 29194,
     "raw": "\"When I was a child, I visited\\n\"",
     "source": "When I was a child, I visited\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この はくぶつかん には\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d24ab340927f7c8f",
@@ -563515,9 +563805,15 @@
     "end": 29225,
     "raw": "\"the MUSEUM often.\\p\"",
     "source": "the MUSEUM often.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こどもの ころ わたしも よく きました\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2812174b0997c5cb",
@@ -563527,9 +563823,15 @@
     "end": 29277,
     "raw": "\"I used to dream about the mysteries of\\n\"",
     "source": "I used to dream about the mysteries of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんないの てんじひんを みて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3f30f01ac3c2c1e3",
@@ -563539,9 +563841,15 @@
     "end": 29324,
     "raw": "\"the sea after seeing the exhibits.$\"",
     "source": "the sea after seeing the exhibits.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみの しんぴに あこがれた ものです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ff27827233801288",
@@ -563551,9 +563859,15 @@
     "end": 29396,
     "raw": "\"Hey, there! Quit pushing!\\n\"",
     "source": "Hey, there! Quit pushing!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ちょっと あんた! おさないでよ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "25ffe7fac4c05ae5",
@@ -563563,9 +563877,15 @@
     "end": 29441,
     "raw": "\"This is the line, can't you see?$\"",
     "source": "This is the line, can't you see?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゅんばん なんだから!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "caddbb328100d8bd",
@@ -563575,9 +563895,15 @@
     "end": 29515,
     "raw": "\"TEAM AQUA has a policy of\\n\"",
     "source": "TEAM AQUA has a policy of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おれたち アクアだんの ポリシーは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d31c504f36675493",
@@ -563587,9 +563913,15 @@
     "end": 29557,
     "raw": "\"assembling and dispersing at\\l\"",
     "source": "assembling and dispersing at\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「げんち しゅうごう」 そして\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "45ad8738ddce0a1f",
@@ -563599,9 +563931,15 @@
     "end": 29589,
     "raw": "\"the operation site.$\"",
     "source": "the operation site.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「げんち かいさん」 なんだぜ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "687dde73498a7499",
@@ -563611,9 +563949,13 @@
     "end": 29662,
     "raw": "\"Our BOSS is brilliant.\\p\"",
     "source": "Our BOSS is brilliant.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うちの ボスは あたまが いいんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0160524c22e0381",
@@ -563623,9 +563965,13 @@
     "end": 29705,
     "raw": "\"What would he want to do with\\n\"",
     "source": "What would he want to do with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんどは はくぶつかんで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "be18339d9650e811",
@@ -563635,9 +563981,13 @@
     "end": 29731,
     "raw": "\"a MUSEUM now?$\"",
     "source": "a MUSEUM now?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにを したいんだろうな?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "105167b26529db2e",
@@ -563647,9 +563997,15 @@
     "end": 29820,
     "raw": "\"What's the new scheme, I wonder?\\p\"",
     "source": "What's the new scheme, I wonder?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こんどの さくせんは なんだろう?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9ec4903fc4d727ae",
@@ -563659,9 +564015,15 @@
     "end": 29869,
     "raw": "\"Our BOSS is scary when he's mad, so\\n\"",
     "source": "Our BOSS is scary when he's mad, so\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リーダーを おこらせると こわいから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2f08ecc9fff9ec6b",
@@ -563671,9 +564033,15 @@
     "end": 29913,
     "raw": "\"I'd better not screw things up…$\"",
     "source": "I'd better not screw things up…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しっぱい したくないぜ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3fd1cafcda716045",
@@ -563683,9 +564051,15 @@
     "end": 29995,
     "raw": "\"If there's something we need in\\n\"",
     "source": "If there's something we need in\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はくぶつかんに ほしいもの あるなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c9e04fd56f3684ba",
@@ -563695,9 +564069,15 @@
     "end": 30042,
     "raw": "\"the MUSEUM, we should take it all!$\"",
     "source": "the MUSEUM, we should take it all!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まるごと うばっちゃえば いいのに……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7236b7e95ad650a5",
@@ -563707,9 +564087,15 @@
     "end": 30103,
     "raw": "\"Hey, you there!\\n\"",
     "source": "Hey, you there!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おい こら!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0ac62b9713b89305",
@@ -563719,9 +564105,15 @@
     "end": 30130,
     "raw": "\"Don't butt in!$\"",
     "source": "Don't butt in!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゅんばん ぬかすなよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "254ca6ad6cc9f837",
@@ -563731,9 +564123,13 @@
     "end": 30210,
     "raw": "\"A long line, huh?\\p\"",
     "source": "A long line, huh?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ながい ぎょうれつだな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "91b3c15d58e5776a",
@@ -563743,9 +564139,13 @@
     "end": 30264,
     "raw": "\"It reminds me of the times I lined up to\\n\"",
     "source": "It reminds me of the times I lined up to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいにんきの ゲームを かうために\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "36ef100ccbe29bec",
@@ -563755,9 +564155,13 @@
     "end": 30297,
     "raw": "\"buy smash-hit games…$\"",
     "source": "buy smash-hit games…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ならんだ ときを おもいだすぜ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "958c6a9b0443dff6",
@@ -563767,9 +564171,15 @@
     "end": 30386,
     "raw": "\"Why are we even lining up and paying?\\n\"",
     "source": "Why are we even lining up and paying?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なぜ ならんで おかねを はらうんだ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1d63ef2a029477b2",
@@ -563779,9 +564189,15 @@
     "end": 30423,
     "raw": "\"We should just march in!$\"",
     "source": "We should just march in!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そのまま おしかければ いいじゃないか!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "952474e4ce5ea33c",
@@ -563791,9 +564207,13 @@
     "end": 30477,
     "raw": "\"What?\\n\"",
     "source": "What?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんだ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c09ed1e9e9103a6d",
@@ -563803,9 +564223,13 @@
     "end": 30507,
     "raw": "\"What do you want?$\"",
     "source": "What do you want?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんの ようだ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c23aa93852898c6",
@@ -563815,9 +564239,15 @@
     "end": 30587,
     "raw": "\"You want to read this sign?\\n\"",
     "source": "You want to read this sign?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おまえ このカンバンが よみたいのか?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "fc7f5a336f9edf76",
@@ -563827,9 +564257,15 @@
     "end": 30621,
     "raw": "\"I'll read it for you!$\"",
     "source": "I'll read it for you!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なら オレが かわりに よんでやらぁ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "58ca97cba5fe7111",
@@ -563839,9 +564275,13 @@
     "end": 30696,
     "raw": "\"Let's see…\\p\"",
     "source": "Let's see…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ええと…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54794b6f4a4151e3",
@@ -563851,9 +564291,13 @@
     "end": 30744,
     "raw": "\"Um… I think it says something like\\n\"",
     "source": "Um… I think it says something like\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たしか こんなことが かいてあるぞ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d7dd98b28eda2f90",
@@ -563863,9 +564307,13 @@
     "end": 30791,
     "raw": "\"“the life in the sea is endless.”\\p\"",
     "source": "“the life in the sea is endless.”\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「うみの いのちは はてしない」ってな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78f54991e3bf1cc4",
@@ -563875,9 +564323,13 @@
     "end": 30837,
     "raw": "\"Yup, I'm pretty sure that's what\\n\"",
     "source": "Yup, I'm pretty sure that's what\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うん きっと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf2ec84a9e00f343",
@@ -563887,9 +564339,13 @@
     "end": 30858,
     "raw": "\"it says.$\"",
     "source": "it says.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そう かいてあるはずだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5ec47efcfc98abfe",
@@ -563899,9 +564355,15 @@
     "end": 30926,
     "raw": "\"Grumble…\\p\"",
     "source": "Grumble…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぶつぶつぶつ……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "53b2f8d4db3d50d2",
@@ -563911,9 +564373,15 @@
     "end": 30971,
     "raw": "\"I should've brought my Game Boy\\n\"",
     "source": "I should've brought my Game Boy\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゲームボーイアドバンスを もってくれば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d1ccc3110d951c56",
@@ -563923,9 +564391,15 @@
     "end": 31025,
     "raw": "\"Advance so I wouldn't get bored in line…\\p\"",
     "source": "Advance so I wouldn't get bored in line…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ならんでいても たいくつ しなかったのに…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "dce2f31aad061e4c",
@@ -563935,9 +564409,15 @@
     "end": 31046,
     "raw": "\"Grumble…$\"",
     "source": "Grumble…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぶつぶつぶつ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f954acf23da3ac1d",
@@ -563947,9 +564427,15 @@
     "end": 31143,
     "raw": "\"When this operation's over, I'll take\\n\"",
     "source": "When this operation's over, I'll take\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この さくせんが おわったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "acdf80f54c538e22",
@@ -563959,9 +564445,15 @@
     "end": 31181,
     "raw": "\"you to a hot spring spa!\\p\"",
     "source": "you to a hot spring spa!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おんせんに つれていって やる!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4200a7ec04369179",
@@ -563971,9 +564463,15 @@
     "end": 31223,
     "raw": "\"That's what our leader said.\\n\"",
     "source": "That's what our leader said.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "って リーダーが いってたんだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9d2dfbb46e238679",
@@ -563983,9 +564481,15 @@
     "end": 31249,
     "raw": "\"I can't wait!$\"",
     "source": "I can't wait!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まちきれないなあ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "753441e148a15d98",
@@ -563995,9 +564499,13 @@
     "end": 31319,
     "raw": "\"The sea is just so vast…\\p\"",
     "source": "The sea is just so vast…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うみは なんて ひろいんだろう…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "082f1bf9c35796cd",
@@ -564007,9 +564515,13 @@
     "end": 31364,
     "raw": "\"Could the sea have been made by\\n\"",
     "source": "Could the sea have been made by\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの ながした なみだが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "291ec77d6ceb1a04",
@@ -564019,9 +564531,13 @@
     "end": 31403,
     "raw": "\"the tears shed by POKéMON?$\"",
     "source": "the tears shed by POKéMON?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみを つくったのだろうか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "48bb4fcfc1b3ab33",
@@ -564031,9 +564547,15 @@
     "end": 31484,
     "raw": "\"Do you know what they do with old\\n\"",
     "source": "Do you know what they do with old\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふるく なって のれない ふねは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bdd9e5410839817c",
@@ -564043,9 +564565,15 @@
     "end": 31535,
     "raw": "\"ships that become too creaky to sail?\\p\"",
     "source": "ships that become too creaky to sail?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうするか しって いるかね?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8e4ec9990dcb495f",
@@ -564055,9 +564583,15 @@
     "end": 31582,
     "raw": "\"They sink them in the sea so they\\n\"",
     "source": "They sink them in the sea so they\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみの そこに しずめて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "afc89cce58e2ac73",
@@ -564067,9 +564601,15 @@
     "end": 31623,
     "raw": "\"become habitats for POKéMON.$\"",
     "source": "become habitats for POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの すみかに してやるのだよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "f47fc7ff92374935",
@@ -564079,9 +564619,15 @@
     "end": 31705,
     "raw": "\"Whenever I visit here, I get carried\\n\"",
     "source": "Whenever I visit here, I get carried\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここに くると うれしくて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "11590a4b868f54e6",
@@ -564091,9 +564637,15 @@
     "end": 31740,
     "raw": "\"away and buy too much.$\"",
     "source": "away and buy too much.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つい たくさん かいもの しちゃう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3e72483889dcdc2a",
@@ -564103,9 +564655,13 @@
     "end": 31833,
     "raw": "\"If you want to change your POKéMON's\\n\"",
     "source": "If you want to change your POKéMON's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポケモンの ニックネームを かえたければ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "de7d1dbef43319c6",
@@ -564115,9 +564671,13 @@
     "end": 31884,
     "raw": "\"nickname, you'll have to get the NAME\\l\"",
     "source": "nickname, you'll have to get the NAME\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せいめいはんだんしに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4badc5b9c5ea7cff",
@@ -564127,9 +564687,13 @@
     "end": 31915,
     "raw": "\"RATER to help you.$\"",
     "source": "RATER to help you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てつだって もらうんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "39c9841ce4ca73df",
@@ -564139,9 +564703,15 @@
     "end": 32004,
     "raw": "\"Any POKéMON you get in a trade,\\n\"",
     "source": "Any POKéMON you get in a trade,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ひとと こうかんした ポケモンは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7157cb25b2a5fdcf",
@@ -564151,9 +564721,15 @@
     "end": 32048,
     "raw": "\"you can't change its nickname.\\p\"",
     "source": "you can't change its nickname.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ニックネームを かえられないわよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e33b706f5c62dd3a",
@@ -564163,9 +564739,15 @@
     "end": 32098,
     "raw": "\"The original TRAINER's love for that\\n\"",
     "source": "The original TRAINER's love for that\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もとの トレーナーの あいじょうが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5e7aa1ab6717edbf",
@@ -564175,9 +564757,15 @@
     "end": 32138,
     "raw": "\"POKéMON is in the nickname.$\"",
     "source": "POKéMON is in the nickname.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その ニックネームに こもってるのよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "c70afb435df9d50e",
@@ -564187,9 +564775,13 @@
     "end": 32230,
     "raw": "\"Recently, a BATTLE TENT was built\\n\"",
     "source": "Recently, a BATTLE TENT was built\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}さいきん カイナに バトルテントが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a4f129c9018661d1",
@@ -564199,9 +564791,13 @@
     "end": 32257,
     "raw": "\"in SLATEPORT.\\p\"",
     "source": "in SLATEPORT.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "できたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1ed3ecd15740398a",
@@ -564211,9 +564807,13 @@
     "end": 32306,
     "raw": "\"GYMS are fun, but the BATTLE TENT's\\n\"",
     "source": "GYMS are fun, but the BATTLE TENT's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ジムも たのしいけど バトルテントも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4dc0d60ef35ab2e3",
@@ -564223,9 +564823,13 @@
     "end": 32343,
     "raw": "\"awesome in its own way.\\p\"",
     "source": "awesome in its own way.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また べつの おもしろさが あるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f93de81b7079f85a",
@@ -564235,9 +564839,13 @@
     "end": 32389,
     "raw": "\"You should go find tough POKéMON\\n\"",
     "source": "You should go find tough POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バトルテントに むけて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cd3cf43da7824069",
@@ -564247,9 +564855,13 @@
     "end": 32422,
     "raw": "\"for the BATTLE TENT!$\"",
     "source": "for the BATTLE TENT!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つよい ポケモンを さがしておいで!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a925a1a11121782c",
@@ -564259,9 +564871,15 @@
     "end": 32521,
     "raw": "\"I was hoping that it was a famous star\\n\"",
     "source": "I was hoping that it was a famous star\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ゆうめいな スターが きていたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "aa4239ff358fc71d",
@@ -564271,9 +564889,15 @@
     "end": 32563,
     "raw": "\"so I could get an autograph.\\p\"",
     "source": "so I could get an autograph.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "サインを もらうつもり だったのに\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9dc99694ea248c11",
@@ -564283,9 +564907,15 @@
     "end": 32610,
     "raw": "\"But who's that being interviewed?\\n\"",
     "source": "But who's that being interviewed?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "インタビュー されてるのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3e44317f5f583ffc",
@@ -564295,9 +564925,15 @@
     "end": 32646,
     "raw": "\"Isn't that CAPT. STERN?$\"",
     "source": "Isn't that CAPT. STERN?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あれ…… クスノキさん でないかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9e0a21ce3ffee6ae",
@@ -564307,9 +564943,15 @@
     "end": 32731,
     "raw": "\"That lady interviewer is so cool\\n\"",
     "source": "That lady interviewer is so cool\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あの インタビュアーの おねえさん\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "754e4aae1439c4e8",
@@ -564319,9 +564961,15 @@
     "end": 32756,
     "raw": "\"and pretty.\\p\"",
     "source": "and pretty.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かっこよくて びじん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "76e7ee042ff2081a",
@@ -564331,9 +564979,15 @@
     "end": 32801,
     "raw": "\"When I grow up, I'm going to be\\n\"",
     "source": "When I grow up, I'm going to be\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたしも おおきく なったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cbf48c8f2c8a4896",
@@ -564343,9 +564997,15 @@
     "end": 32842,
     "raw": "\"an international journalist!$\"",
     "source": "an international journalist!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こくさい ジャーナリストに なるわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2ebd483d7382697c",
@@ -564355,9 +565015,13 @@
     "end": 32938,
     "raw": "\"CAPT. STERN says they discovered\\n\"",
     "source": "CAPT. STERN says they discovered\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}クスノキかんちょうが うみの そこで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f703013ce728a4e5",
@@ -564367,9 +565031,13 @@
     "end": 32987,
     "raw": "\"something at the bottom of the sea.\\p\"",
     "source": "something at the bottom of the sea.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにかを みつけたって。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "118f0a10989b2791",
@@ -564379,9 +565047,13 @@
     "end": 33021,
     "raw": "\"I wonder what it is?\\n\"",
     "source": "I wonder what it is?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんだろうね?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c8fad08e81098ec",
@@ -564391,9 +565063,13 @@
     "end": 33051,
     "raw": "\"What could it be?$\"",
     "source": "What could it be?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いったい なんなのかな?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "71038c72a0bca310",
@@ -564403,9 +565079,15 @@
     "end": 33134,
     "raw": "\"What's going on here?\\p\"",
     "source": "What's going on here?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんだ なんだ!?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "95ec9bd276a0eb86",
@@ -564415,9 +565097,15 @@
     "end": 33183,
     "raw": "\"Did the good CAPTAIN come back with\\n\"",
     "source": "Did the good CAPTAIN come back with\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんちょうは うみの そこから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "84598f369d6d2486",
@@ -564427,9 +565115,15 @@
     "end": 33228,
     "raw": "\"a big fish from the ocean floor?$\"",
     "source": "a big fish from the ocean floor?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おおもの でも つりあげたのか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "7e7476dfb0571257",
@@ -564439,9 +565133,15 @@
     "end": 33293,
     "raw": "\"Hey! Are you watching?\\n\"",
     "source": "Hey! Are you watching?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みんなー! みてるかー!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "54abc10e76fe0de5",
@@ -564451,9 +565151,15 @@
     "end": 33317,
     "raw": "\"Am I on TV?$\"",
     "source": "Am I on TV?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれも テレビに うつってるかー?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "be60244ebfb409d3",
@@ -564463,9 +565169,15 @@
     "end": 33392,
     "raw": "\"A TV interview! Here!\\n\"",
     "source": "A TV interview! Here!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}テレビが しゅざいに くる なんて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "826bb68808c1ad42",
@@ -564475,9 +565187,15 @@
     "end": 33431,
     "raw": "\"The CAPTAIN's a celebrity!$\"",
     "source": "The CAPTAIN's a celebrity!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんちょうも ゆうめいじん ですなあ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3adefd186b80a416",
@@ -564487,9 +565205,15 @@
     "end": 33518,
     "raw": "\"TY: Okay, CAPT. STERN, a big smile\\n\"",
     "source": "TY: Okay, CAPT. STERN, a big smile\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ダイ: はい クスノキさん\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4e138bfd17d6df0a",
@@ -564499,9 +565223,15 @@
     "end": 33546,
     "raw": "\"for the camera!$\"",
     "source": "for the camera!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カメラに とびきりの えがおを!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d1371198d760a567",
@@ -564511,9 +565241,15 @@
     "end": 33644,
     "raw": "\"GABBY: I see, I see. You've had a most\\n\"",
     "source": "GABBY: I see, I see. You've had a most\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}マリ: なるほど なるほど それは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "a9794ff485ee31e2",
@@ -564523,9 +565259,15 @@
     "end": 33679,
     "raw": "\"invaluable experience…$\"",
     "source": "invaluable experience…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きちょうな たいけんを なさいましたね……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b894b21c9d93ff78",
@@ -564535,9 +565277,15 @@
     "end": 33782,
     "raw": "\"CAPT. STERN: Yes, indeed. We intend to\\n\"",
     "source": "CAPT. STERN: Yes, indeed. We intend to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}クスノキ: ええ これからも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "350cd89c4745e935",
@@ -564547,9 +565295,15 @@
     "end": 33827,
     "raw": "\"move ahead with our exploration.$\"",
     "source": "move ahead with our exploration.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうさは つづけて いきますよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "dafd0904977899c6",
@@ -564559,9 +565313,15 @@
     "end": 33932,
     "raw": "\"GABBY: That's wonderful, CAPT. STERN!\\n\"",
     "source": "GABBY: That's wonderful, CAPT. STERN!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}マリ: そうですか いやあ クスノキさん!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "013fc5aeb967e589",
@@ -564571,9 +565331,15 @@
     "end": 33980,
     "raw": "\"Thank you for taking the time from\\l\"",
     "source": "Thank you for taking the time from\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きょうは おいそがしい ところ\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "d81810b55c99788c",
@@ -564583,9 +565349,15 @@
     "end": 34027,
     "raw": "\"your busy schedule to talk to us.\\p\"",
     "source": "your busy schedule to talk to us.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうも ありがとう ございました!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e677437ac296aeaa",
@@ -564595,9 +565367,15 @@
     "end": 34075,
     "raw": "\"We hope we can interview you again\\n\"",
     "source": "We hope we can interview you again\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また なにか はっけんが ありましたら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ab5acc7a2ba192e9",
@@ -564607,9 +565385,15 @@
     "end": 34118,
     "raw": "\"with news of more discoveries!$\"",
     "source": "with news of more discoveries!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜひ しゅざい させて くださいね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "74b97805b5b87570",
@@ -564619,9 +565403,15 @@
     "end": 34195,
     "raw": "\"CAPT. STERN: Whew…\\p\"",
     "source": "CAPT. STERN: Whew…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}クスノキ: ふう……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9d7477c388c8bf29",
@@ -564631,9 +565421,15 @@
     "end": 34248,
     "raw": "\"That was my first time to be filmed for\\n\"",
     "source": "That was my first time to be filmed for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "テレビカメラに うつされる なんて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "679d37c653c08f3d",
@@ -564643,9 +565439,15 @@
     "end": 34289,
     "raw": "\"TV. That was nerve-wracking.$\"",
     "source": "TV. That was nerve-wracking.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はじめて だったから きんちょう したよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "289319726b8b5401",
@@ -564655,9 +565457,13 @@
     "end": 34366,
     "raw": "\"Oh! {PLAYER}{KUN}!\\n\"",
     "source": "Oh! {PLAYER}{KUN}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やあ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6f07535dccdf7bfa",
@@ -564667,9 +565473,13 @@
     "end": 34401,
     "raw": "\"You're looking great!\\p\"",
     "source": "You're looking great!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げんきそうだね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a63d1ecac7dca224",
@@ -564679,9 +565489,13 @@
     "end": 34451,
     "raw": "\"We made a huge discovery on our last\\n\"",
     "source": "We made a huge discovery on our last\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "このまえの かいてい たんさで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "743c041102d6e56b",
@@ -564691,9 +565505,13 @@
     "end": 34486,
     "raw": "\"seafloor exploration.\\p\"",
     "source": "seafloor exploration.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいはっけんを したんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b8b6ce8b12eaf363",
@@ -564703,9 +565521,13 @@
     "end": 34532,
     "raw": "\"We found an underwater cavern on\\n\"",
     "source": "We found an underwater cavern on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "128ばんすいどうで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "159183f057ed9aae",
@@ -564715,9 +565537,13 @@
     "end": 34556,
     "raw": "\"ROUTE 128.\\p\"",
     "source": "ROUTE 128.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かいていの どうくつを みつけたんだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ce564b013af1a4c",
@@ -564727,9 +565553,13 @@
     "end": 34608,
     "raw": "\"We think it's the habitat of a POKéMON\\n\"",
     "source": "We think it's the habitat of a POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずっと むかしに ほろんだと いわれている\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "18cd867682a497e2",
@@ -564739,9 +565569,13 @@
     "end": 34659,
     "raw": "\"that's said to have been long extinct.$\"",
     "source": "that's said to have been long extinct.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの すみかでは ないかと おもう。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ede50322bfb5ee67",
@@ -564751,9 +565585,15 @@
     "end": 34734,
     "raw": "\"Fufufu…\\n\"",
     "source": "Fufufu…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}フフフ……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "8b0a8f4210de64ba",
@@ -564763,9 +565603,15 @@
     "end": 34771,
     "raw": "\"CAPT. STERN, I presume.\\p\"",
     "source": "CAPT. STERN, I presume.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "クスノキかんちょう とやら\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0f1d7782e1169f5b",
@@ -564775,9 +565621,15 @@
     "end": 34812,
     "raw": "\"We of TEAM AQUA will assume\\n\"",
     "source": "We of TEAM AQUA will assume\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみの せんすいていは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1de5dc5d21c1d195",
@@ -564787,9 +565639,15 @@
     "end": 34852,
     "raw": "\"control of your submarine!\\p\"",
     "source": "control of your submarine!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれ アクアだんが いただく!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e9c0f945909375fc",
@@ -564799,9 +565657,15 @@
     "end": 34898,
     "raw": "\"Your objections are meaningless!\\n\"",
     "source": "Your objections are meaningless!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はんろんなど むだだ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "1a3b2c25ea381106",
@@ -564811,9 +565675,15 @@
     "end": 34945,
     "raw": "\"We expect your total cooperation!\\p\"",
     "source": "We expect your total cooperation!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぜんめんてきに きょうりょく したまえ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "abda5e44ed53026a",
@@ -564823,9 +565693,15 @@
     "end": 34966,
     "raw": "\"Fufufu…\\n\"",
     "source": "Fufufu…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "フフフ……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "58f833bfb0c058e1",
@@ -564835,9 +565711,15 @@
     "end": 35010,
     "raw": "\"Just watch and learn what TEAM\\l\"",
     "source": "Just watch and learn what TEAM\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アクアだんの けいかくを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "af70c89e0dd616a5",
@@ -564847,9 +565729,15 @@
     "end": 35040,
     "raw": "\"AQUA has planned!$\"",
     "source": "AQUA has planned!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よく みて まなぶが いい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0f63a9cfcfd021ce",
@@ -564859,9 +565747,13 @@
     "end": 35132,
     "raw": "\"CAPT. STERN: What was that all about?\\p\"",
     "source": "CAPT. STERN: What was that all about?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}クスノキ: いまのは いったい なんだ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d947ff66bdb47e0b",
@@ -564871,9 +565763,13 @@
     "end": 35175,
     "raw": "\"It sounded like someone using\\n\"",
     "source": "It sounded like someone using\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかが メガホンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c1a127eae0dcdb2",
@@ -564883,9 +565779,13 @@
     "end": 35201,
     "raw": "\"a megaphone…\\p\"",
     "source": "a megaphone…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかっているようだったが…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "985daba433ecc6ce",
@@ -564895,9 +565795,13 @@
     "end": 35237,
     "raw": "\"Where did it come from?$\"",
     "source": "Where did it come from?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どこから きこえたんだろう?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fdc9be77f9101aac",
@@ -564907,9 +565811,13 @@
     "end": 35319,
     "raw": "\"It's from the HARBOR!\\p\"",
     "source": "It's from the HARBOR!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふねのりばからだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1009a48f71bc4d1b",
@@ -564919,9 +565827,13 @@
     "end": 35347,
     "raw": "\"The submarine!\\n\"",
     "source": "The submarine!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せんすいていが!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8ff6e464bd090285",
@@ -564931,9 +565843,13 @@
     "end": 35386,
     "raw": "\"They're trying to take it!$\"",
     "source": "They're trying to take it!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うばわれようと している!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c49b839babb861b",
@@ -564943,9 +565859,15 @@
     "end": 35452,
     "raw": "\"{PLAYER}{KUN}!\\n\"",
     "source": "{PLAYER}{KUN}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b5cd67c5d360b439",
@@ -564955,9 +565877,15 @@
     "end": 35486,
     "raw": "\"Please, come with me!$\"",
     "source": "Please, come with me!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっしょに きてくれ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "39ea67707ce441dd",
@@ -564967,9 +565895,15 @@
     "end": 35562,
     "raw": "\"BATTLE TENT SLATEPORT SITE\\n\"",
     "source": "BATTLE TENT SLATEPORT SITE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}バトルテント カイナシティ かいじょう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "079ffb8105c23d0a",
@@ -564979,9 +565913,15 @@
     "end": 35607,
     "raw": "\"“Find it! The ultimate POKéMON!”$\"",
     "source": "“Find it! The ultimate POKéMON!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さがせ! さいきょう ポケモン!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "2482ba6d07475ce9",
@@ -564991,9 +565931,15 @@
     "end": 35683,
     "raw": "\"STERN'S SHIPYARD\\p\"",
     "source": "STERN'S SHIPYARD\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「クスノキ ぞうせんじょ」\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0598b32b248e8136",
@@ -565003,9 +565949,15 @@
     "end": 35733,
     "raw": "\"“Wanted: A sailor capable of sailing\\n\"",
     "source": "“Wanted: A sailor capable of sailing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どんな ながれも のりこなす ふなのり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5235f48a992aa41d",
@@ -565015,9 +565967,15 @@
     "end": 35763,
     "raw": "\"in all currents.”$\"",
     "source": "in all currents.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼしゅうちゅう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "58443c1b2f47a89d",
@@ -565027,9 +565985,15 @@
     "end": 35844,
     "raw": "\"STERN'S SHIPYARD\\p\"",
     "source": "STERN'S SHIPYARD\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「クスノキ ぞうせんじょ」\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5812054ebd3e299d",
@@ -565039,9 +566003,15 @@
     "end": 35885,
     "raw": "\"“The ferry S.S. TIDAL nears\\n\"",
     "source": "“The ferry S.S. TIDAL nears\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カイナと ミナモを むすぶ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "6f26d1379951700f",
@@ -565051,9 +566021,15 @@
     "end": 35934,
     "raw": "\"completion for serving the ports of\\l\"",
     "source": "completion for serving the ports of\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんらくせん タイドリップごうは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ed2ab97d79bf8a55",
@@ -565063,9 +566039,15 @@
     "end": 35971,
     "raw": "\"SLATEPORT and LILYCOVE.”$\"",
     "source": "SLATEPORT and LILYCOVE.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かんせい まで あと わずか!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "10efd821a3e898bf",
@@ -565075,9 +566057,15 @@
     "end": 36050,
     "raw": "\"STERN'S SHIPYARD\\p\"",
     "source": "STERN'S SHIPYARD\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「クスノキ ぞうせんじょ」\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9d81562fb5a79db7",
@@ -565087,9 +566075,15 @@
     "end": 36099,
     "raw": "\"“Boarding of the SLATEPORT-LILYCOVE\\n\"",
     "source": "“Boarding of the SLATEPORT-LILYCOVE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カイナと ミナモを むすぶ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b128da11da45ffc8",
@@ -565099,9 +566093,15 @@
     "end": 36147,
     "raw": "\"ferry S.S. TIDAL is handled at the\\l\"",
     "source": "ferry S.S. TIDAL is handled at the\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんらくせん タイドリップごうの じょうせんは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "24c6e14f81bee2eb",
@@ -565111,9 +566111,15 @@
     "end": 36168,
     "raw": "\"HARBOR.”$\"",
     "source": "HARBOR.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふねのりばで うけつけて います。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e4bd02d20a0c7c9e",
@@ -565123,9 +566129,15 @@
     "end": 36238,
     "raw": "\"POKéMON FAN CLUB\\n\"",
     "source": "POKéMON FAN CLUB\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「ポケモン だいすきクラブ」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "5e331c03b4f190b5",
@@ -565135,9 +566147,15 @@
     "end": 36281,
     "raw": "\"“Calling all fans of POKéMON!”$\"",
     "source": "“Calling all fans of POKéMON!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが すきなひと みんな あつまれ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "50aa2b506932e86b",
@@ -565147,9 +566165,15 @@
     "end": 36359,
     "raw": "\"“The endless sea sustains\\n\"",
     "source": "“The endless sea sustains\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はてしない うみは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "0dc495e34073960d",
@@ -565159,9 +566183,15 @@
     "end": 36383,
     "raw": "\"all life.”\\p\"",
     "source": "all life.”\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すべての いのちを ささえている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e0657ec38519cc0d",
@@ -565171,9 +566201,15 @@
     "end": 36410,
     "raw": "\"OCEANIC MUSEUM$\"",
     "source": "OCEANIC MUSEUM$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「うみの かがく はくぶつかん」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "52347c7f9e6fb5e4",
@@ -565183,9 +566219,13 @@
     "end": 36468,
     "raw": "\"SLATEPORT CITY\\p\"",
     "source": "SLATEPORT CITY\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カイナシティ\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4a99b5b5451ab94",
@@ -565195,9 +566235,13 @@
     "end": 36516,
     "raw": "\"“The port where people and POKéMON\\n\"",
     "source": "“The port where people and POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとと ポケモンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74bb867fbb79f937",
@@ -565207,9 +566251,13 @@
     "end": 36542,
     "raw": "\"cross paths.”$\"",
     "source": "cross paths.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いきかう みなと。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c92d2d5411da97c",
@@ -565219,9 +566267,15 @@
     "end": 36604,
     "raw": "\"SLATEPORT MARKET\\n\"",
     "source": "SLATEPORT MARKET\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「カイナ いちば」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "ded41fa38c350485",
@@ -565231,9 +566285,15 @@
     "end": 36651,
     "raw": "\"“Unique items found nowhere else!”$\"",
     "source": "“Unique items found nowhere else!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここでしか かえない もの たくさん!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "eae194ca5bd5e268",
@@ -565243,9 +566303,13 @@
     "end": 36731,
     "raw": "\"SLATEPORT HARBOR\\p\"",
     "source": "SLATEPORT HARBOR\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カイナの ふねのりば\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "318c74a293900421",
@@ -565255,9 +566319,13 @@
     "end": 36775,
     "raw": "\"“The ferry S.S. TIDAL is under\\n\"",
     "source": "“The ferry S.S. TIDAL is under\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんらくせん タイドリップごうは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "12876cfaca8dec5d",
@@ -565267,9 +566335,13 @@
     "end": 36818,
     "raw": "\"construction in the SHIPYARD.\\p\"",
     "source": "construction in the SHIPYARD.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぞうせんじょで けんぞうちゅうです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "65189a71ab47fb96",
@@ -565279,9 +566351,13 @@
     "end": 36862,
     "raw": "\"“Service is scheduled to begin\\n\"",
     "source": "“Service is scheduled to begin\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まもなく うんこうを はじめる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "310aed7505c664b7",
@@ -565291,9 +566367,13 @@
     "end": 36884,
     "raw": "\"shortly.”$\"",
     "source": "shortly.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よていです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "faf3d42d165378dc",
@@ -565303,9 +566383,15 @@
     "end": 36946,
     "raw": "\"SLATEPORT HARBOR\\p\"",
     "source": "SLATEPORT HARBOR\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「カイナ シティ ふねのりば」\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "bed4e4babcb24136",
@@ -565315,9 +566401,15 @@
     "end": 36989,
     "raw": "\"“Enjoy a delightful cruise on\\n\"",
     "source": "“Enjoy a delightful cruise on\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんらくせん タイドリップごうで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "26c603a970587737",
@@ -565327,9 +566419,15 @@
     "end": 37024,
     "raw": "\"the ferry S.S. TIDAL.”$\"",
     "source": "the ferry S.S. TIDAL.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふねの たびを おたのしみ ください!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "16cc6032da1e25c6",
@@ -565339,9 +566437,15 @@
     "end": 37097,
     "raw": "\"NAME RATER'S HOUSE\\n\"",
     "source": "NAME RATER'S HOUSE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「せいめい はんだんし の いえ」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "384b5af7056b6e3a",
@@ -565351,9 +566455,15 @@
     "end": 37136,
     "raw": "\"“POKéMON nicknames rated.”$\"",
     "source": "“POKéMON nicknames rated.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの ニックネームを みたてます。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "3356a2119510d164",
@@ -565363,9 +566473,13 @@
     "end": 37223,
     "raw": "\"If a wild POKéMON gets hurt, it heals\\n\"",
     "source": "If a wild POKéMON gets hurt, it heals\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やせいの ポケモンは きずつくと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db64130afd7981ca",
@@ -565375,9 +566489,13 @@
     "end": 37266,
     "raw": "\"itself by chewing on BERRIES.\\p\"",
     "source": "itself by chewing on BERRIES.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きのみを かじって じぶんで なおすんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fa12009edfc27424",
@@ -565387,9 +566505,13 @@
     "end": 37298,
     "raw": "\"Did you know that?\\p\"",
     "source": "Did you know that?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しってたかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd49bcf5251cbdcc",
@@ -565399,9 +566521,13 @@
     "end": 37346,
     "raw": "\"Somebody saw that and got the idea\\n\"",
     "source": "Somebody saw that and got the idea\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それを みた だれかが きのみから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec4ca176c8d4ed16",
@@ -565411,9 +566537,13 @@
     "end": 37392,
     "raw": "\"of making medicine from BERRIES.\\p\"",
     "source": "of making medicine from BERRIES.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くすりを つくることを おもいついた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "637e2f095c7f908f",
@@ -565423,9 +566553,13 @@
     "end": 37424,
     "raw": "\"Did you know that?\\p\"",
     "source": "Did you know that?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しってたかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f5099e9221af2098",
@@ -565435,9 +566569,13 @@
     "end": 37468,
     "raw": "\"To turn BERRIES into medicine,\\n\"",
     "source": "To turn BERRIES into medicine,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きのみを くすりに するには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "62b6e132a59de5ec",
@@ -565447,9 +566585,13 @@
     "end": 37515,
     "raw": "\"they must be crushed into powder.\\p\"",
     "source": "they must be crushed into powder.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こなに つぶさなくちゃ いけない。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2d863409579c7131",
@@ -565459,9 +566601,13 @@
     "end": 37547,
     "raw": "\"Did you know that?\\p\"",
     "source": "Did you know that?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しってたかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fbc08f3a22e97435",
@@ -565471,9 +566617,13 @@
     "end": 37589,
     "raw": "\"You seem to have an interest\\n\"",
     "source": "You seem to have an interest\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみは どうやら きのみに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "68969195fdb7f8b3",
@@ -565483,9 +566633,13 @@
     "end": 37614,
     "raw": "\"in BERRIES!\\p\"",
     "source": "in BERRIES!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きょうみが あるようだね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "de746d1a9afd2f3b",
@@ -565495,9 +566649,13 @@
     "end": 37663,
     "raw": "\"I've got something good for someone\\n\"",
     "source": "I've got something good for someone\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そんな きみに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a662feae90cebadb",
@@ -565507,9 +566665,13 @@
     "end": 37685,
     "raw": "\"like you.$\"",
     "source": "like you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いいものが あるんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "42bac8ba8c2eb067",
@@ -565519,9 +566681,13 @@
     "end": 37775,
     "raw": "\"I recently had machines installed at\\n\"",
     "source": "I recently had machines installed at\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}さいきん ポケモンセンターに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2186aeb834d6773a",
@@ -565531,9 +566697,13 @@
     "end": 37826,
     "raw": "\"POKéMON CENTERS for crushing BERRIES.\\p\"",
     "source": "POKéMON CENTERS for crushing BERRIES.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きのみを つぶす きかいを せっちしたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2d78176f964a2707",
@@ -565543,9 +566713,13 @@
     "end": 37871,
     "raw": "\"The BERRY CRUSH machines are at\\n\"",
     "source": "The BERRY CRUSH machines are at\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きのみクラッシュの きかいは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd63e3533ceb00ff",
@@ -565555,9 +566729,13 @@
     "end": 37912,
     "raw": "\"the DIRECT CORNER upstairs.\\p\"",
     "source": "the DIRECT CORNER upstairs.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2かいの ダイレクトコーナーに あるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "594a192e456db425",
@@ -565567,9 +566745,13 @@
     "end": 37939,
     "raw": "\"Did you know?\\p\"",
     "source": "Did you know?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しってたかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a92e4ec8db37ef2b",
@@ -565579,9 +566761,13 @@
     "end": 37984,
     "raw": "\"Could you make BERRY POWDER for\\n\"",
     "source": "Could you make BERRY POWDER for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "その きかいを つかって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7bbb466f87ebbdd4",
@@ -565591,9 +566777,13 @@
     "end": 38022,
     "raw": "\"me using those machines?\\p\"",
     "source": "me using those machines?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きのみのこなを つくって くれないかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7e1d7e17ca3afd35",
@@ -565603,9 +566793,13 @@
     "end": 38072,
     "raw": "\"I can make you all sorts of medicine\\n\"",
     "source": "I can make you all sorts of medicine\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きのみのこなを たくさん もってくれば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4393620ea4ba701",
@@ -565615,9 +566809,13 @@
     "end": 38122,
     "raw": "\"if you bring me lots of BERRY POWDER.$\"",
     "source": "if you bring me lots of BERRY POWDER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いろんな くすりを つくって あげるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1023dc4ff166b8a5",
@@ -565627,9 +566825,13 @@
     "end": 38206,
     "raw": "\"Have you brought me some\\n\"",
     "source": "Have you brought me some\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きのみのこなを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77978cf00803e3fb",
@@ -565639,9 +566841,13 @@
     "end": 38232,
     "raw": "\"BERRY POWDER?$\"",
     "source": "BERRY POWDER?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もってきて くれたかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "197aea161cfbbc8f",
@@ -565651,9 +566857,13 @@
     "end": 38317,
     "raw": "\"What would you like to exchange\\n\"",
     "source": "What would you like to exchange\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なにと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "867f1d2fcc372767",
@@ -565663,9 +566873,13 @@
     "end": 38338,
     "raw": "\"it with?$\"",
     "source": "it with?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こうかん したいんだい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aa3a4c58b10914d2",
@@ -565675,9 +566889,13 @@
     "end": 38431,
     "raw": "\"Okay, you want to exchange your\\n\"",
     "source": "Okay, you want to exchange your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きのみのこなと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ce5004dbaeb91021",
@@ -565687,9 +566905,13 @@
     "end": 38477,
     "raw": "\"BERRY POWDER for one {STR_VAR_1}?$\"",
     "source": "BERRY POWDER for one {STR_VAR_1}?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}を 1つ こうかんだね?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8f91362e80e503ba",
@@ -565699,9 +566921,15 @@
     "end": 38569,
     "raw": "\"Oh, dear. You don't have enough\\n\"",
     "source": "Oh, dear. You don't have enough\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あれま!?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "723601b551e92c9a",
@@ -565711,9 +566939,15 @@
     "end": 38595,
     "raw": "\"BERRY POWDER.$\"",
     "source": "BERRY POWDER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こなが たりない じゃないの!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "293a9957de88c526",
@@ -565723,9 +566957,13 @@
     "end": 38690,
     "raw": "\"This is fine BERRY POWDER.\\n\"",
     "source": "This is fine BERRY POWDER.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いい きのみのこなだね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "133041a451ba2e3e",
@@ -565735,9 +566973,13 @@
     "end": 38736,
     "raw": "\"It will make excellent medicine.\\p\"",
     "source": "It will make excellent medicine.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すばらしい くすりが できるよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e667ffd4119fc7e7",
@@ -565747,9 +566989,13 @@
     "end": 38786,
     "raw": "\"Would you like to trade more of your\\n\"",
     "source": "Would you like to trade more of your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もっと きのみのこなを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f0f02cb3262d90c8",
@@ -565759,9 +567005,13 @@
     "end": 38831,
     "raw": "\"BERRY POWDER for something else?$\"",
     "source": "BERRY POWDER for something else?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "べつのものと こうかんするかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ab5f7fd141fb7f90",
@@ -565771,9 +567021,15 @@
     "end": 38920,
     "raw": "\"Okay! When you get some more\\n\"",
     "source": "Okay! When you get some more\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わかった!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "90417ec86bbffbe1",
@@ -565783,9 +567039,15 @@
     "end": 38970,
     "raw": "\"BERRY POWDER, bring it to me, please!$\"",
     "source": "BERRY POWDER, bring it to me, please!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また きのみのこなが できたら もってきてね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "da3d2da90bdd2470",
@@ -565795,9 +567057,13 @@
     "end": 39069,
     "raw": "\"Come back if you'd like to trade your\\n\"",
     "source": "Come back if you'd like to trade your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きのみのこなを くすりと こうかんするなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc23a6c74d661c31",
@@ -565807,9 +567073,13 @@
     "end": 39114,
     "raw": "\"BERRY POWDER for some medicine.\\p\"",
     "source": "BERRY POWDER for some medicine.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また おいで。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe8e86c089c61723",
@@ -565819,9 +567089,13 @@
     "end": 39161,
     "raw": "\"I'm always running a bazaar here.\\p\"",
     "source": "I'm always running a bazaar here.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつも ここで バザーを ひらいているよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ae735f0179f2fb51",
@@ -565831,9 +567105,13 @@
     "end": 39187,
     "raw": "\"Did you know?$\"",
     "source": "Did you know?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しってたかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f3e96c5e6e546e95",
@@ -565843,9 +567121,13 @@
     "end": 39254,
     "raw": "\"SCOTT: Huh?\\n\"",
     "source": "SCOTT: Huh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: おや?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f173cc28dd3743bc",
@@ -565855,9 +567137,13 @@
     "end": 39304,
     "raw": "\"I'm sure I met you somewhere before.\\p\"",
     "source": "I'm sure I met you somewhere before.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たしか どこかで あったね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fd5c346f6ed1d598",
@@ -565867,9 +567153,13 @@
     "end": 39350,
     "raw": "\"Have I introduced myself to you?\\n\"",
     "source": "Have I introduced myself to you?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じこしょうかいは したかな?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1829331ab79b738f",
@@ -565879,9 +567169,13 @@
     "end": 39388,
     "raw": "\"If not, my name's SCOTT.\\p\"",
     "source": "If not, my name's SCOTT.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだなら わたしは エニシダ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ca98f1ad93aace45",
@@ -565891,9 +567185,13 @@
     "end": 39436,
     "raw": "\"I just saw TEAM AQUA run away from\\n\"",
     "source": "I just saw TEAM AQUA run away from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さっき アクアだんが なにかに さされたように\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c4a8f2f76460523",
@@ -565903,9 +567201,13 @@
     "end": 39476,
     "raw": "\"here like they were stung.\\p\"",
     "source": "here like they were stung.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あわてて にげていくのを みたよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69ceac137bc2e460",
@@ -565915,9 +567217,13 @@
     "end": 39523,
     "raw": "\"Let me guess--you drove them away?$\"",
     "source": "Let me guess--you drove them away?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひょっとして きみが おいはらったのかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5d9f28c53302dfb8",
@@ -565927,9 +567233,15 @@
     "end": 39586,
     "raw": "\"SCOTT: Hmm…\\n\"",
     "source": "SCOTT: Hmm…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: うーむ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "b006aaf3d31f5b0b",
@@ -565939,9 +567251,15 @@
     "end": 39631,
     "raw": "\"Maybe, just maybe, this TRAINER…$\"",
     "source": "Maybe, just maybe, this TRAINER…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひょっとして ひょっとすると この トレーナー…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "9292206e9d870765",
@@ -565951,9 +567269,13 @@
     "end": 39726,
     "raw": "\"SCOTT: All right! I think you're going\\n\"",
     "source": "SCOTT: All right! I think you're going\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: よし! きみとは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54616e171efb0ded",
@@ -565963,9 +567285,13 @@
     "end": 39764,
     "raw": "\"to become a good friend.\\p\"",
     "source": "to become a good friend.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いい ともだちに なれそうだね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c2069d99afe9e9df",
@@ -565975,9 +567301,13 @@
     "end": 39814,
     "raw": "\"So, let's register each other in our\\n\"",
     "source": "So, let's register each other in our\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それじゃ おたがいの ポケナビに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b1797c27f42a111",
@@ -565987,9 +567317,13 @@
     "end": 39837,
     "raw": "\"POKéNAVS.\\p\"",
     "source": "POKéNAVS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とうろくしよう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f087ef55f151a1cf",
@@ -565999,9 +567333,13 @@
     "end": 39861,
     "raw": "\"… … … … … …$\"",
     "source": "… … … … … …$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … …$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6e0c489c189313ac",
@@ -566011,9 +567349,15 @@
     "end": 39940,
     "raw": "\"Registered this SCOTT person\\n\"",
     "source": "Registered this SCOTT person\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ という ひとを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "cac879d3640c7422",
@@ -566023,9 +567367,15 @@
     "end": 39968,
     "raw": "\"in the POKéNAV.$\"",
     "source": "in the POKéNAV.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケナビに とうろく した!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "df6b0e6e7a86fc77",
@@ -566035,9 +567385,15 @@
     "end": 40071,
     "raw": "\"SCOTT: What I'd like to do is tag along\\n\"",
     "source": "SCOTT: What I'd like to do is tag along\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: ホントは きみに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e31a555a9f2d3353",
@@ -566047,9 +567403,15 @@
     "end": 40123,
     "raw": "\"with you, but I do want to keep an eye\\l\"",
     "source": "with you, but I do want to keep an eye\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くっついて いきたい ところ だけど\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "4da67bc4adccab9a",
@@ -566059,9 +567421,15 @@
     "end": 40173,
     "raw": "\"on the talents of other people, too.\\p\"",
     "source": "on the talents of other people, too.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほかのひとの さいのうも きになるし\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "dd113fb5cb3190c7",
@@ -566071,9 +567439,15 @@
     "end": 40222,
     "raw": "\"So, I'll be off to roam other towns\\n\"",
     "source": "So, I'll be off to roam other towns\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もうすこし いろんな まちを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "e11fb725c66d8e13",
@@ -566083,9 +567457,15 @@
     "end": 40247,
     "raw": "\"a bit more.\\p\"",
     "source": "a bit more.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たずね あるいて みるよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "784ccaf1922b0660",
@@ -566095,9 +567475,15 @@
     "end": 40289,
     "raw": "\"Be seeing you, {PLAYER}{KUN}!$\"",
     "source": "Be seeing you, {PLAYER}{KUN}!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃあね {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Reference Japanese draft reviewed and edited against Wishes English; whole message, variables scoped ENG/JPN",
+      "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
+      "english_reference_commit": "b669d9ccf9c148070b99eba11cd65f6071be0741"
+    }
   },
   {
     "id": "70c1510eb821fa5c",
@@ -566107,9 +567493,13 @@
     "end": 40365,
     "raw": "\"SCOTT: Oh, hey!\\n\"",
     "source": "SCOTT: Oh, hey!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エニシダ: やあ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "091d4bb3fc047e49",
@@ -566119,9 +567509,13 @@
     "end": 40405,
     "raw": "\"If it isn't {PLAYER}{KUN}!\\p\"",
     "source": "If it isn't {PLAYER}{KUN}!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}じゃないか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cd6c172b0dc82260",
@@ -566131,9 +567525,13 @@
     "end": 40460,
     "raw": "\"{PLAYER}{KUN}, let me guess--you're going\\n\"",
     "source": "{PLAYER}{KUN}, let me guess--you're going\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} ひょっとして\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5ea1977303d75948",
@@ -566143,9 +567541,13 @@
     "end": 40508,
     "raw": "\"to take the BATTLE TENT challenge?\\p\"",
     "source": "to take the BATTLE TENT challenge?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バトルテントに ちょうせんするのかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9224f9ad45ad9674",
@@ -566155,9 +567557,13 @@
     "end": 40547,
     "raw": "\"Yeah! That's a good idea!\\n\"",
     "source": "Yeah! That's a good idea!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うん! いい かんがえだ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f857a06b8adc330",
@@ -566167,9 +567573,13 @@
     "end": 40588,
     "raw": "\"That's a really great idea!\\p\"",
     "source": "That's a really great idea!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに すばらしい かんがえだよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ebac1341d9af122",
@@ -566179,9 +567589,13 @@
     "end": 40631,
     "raw": "\"After all, a tough TRAINER is\\n\"",
     "source": "After all, a tough TRAINER is\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つよい トレーナーに こそ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d95f016542bc8977",
@@ -566191,9 +567605,13 @@
     "end": 40681,
     "raw": "\"the perfect fit for the BATTLE TENT!\\p\"",
     "source": "the perfect fit for the BATTLE TENT!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バトルテントは ぴったりだからね!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "58b28645bf72130a",
@@ -566203,9 +567621,13 @@
     "end": 40719,
     "raw": "\"Give it your best effort!$\"",
     "source": "Give it your best effort!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せいいっぱい がんばってくれ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-slateport-city-61",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3589ed0a46d51b54",

@@ -176,64 +176,64 @@ DragonKeeper_EventScript_MonBagon::
 
 @ --- Text (all PLACEHOLDER (Joe)) -------------------------------------------
 DragonKeeper_Text_WardenChallenge::
-	.string "You reach for the eggs…\p"
-	.string "TWO shadows fall across you.\p"
-	.string "“Outsider. Those clutches carry\n"
-	.string "the old blood.\p"
-	.string "“Prove your worth to the wardens\n"
-	.string "of Ryuden, or leave empty.”$"
+	.string "{JPN}タマゴに てを のばすと…\p"
+	.string "2つの かげが あなたを おおった。\p"
+	.string "「よそものよ。 あの タマゴたちは\n"
+	.string "いにしえの ちを ひいている。\p"
+	.string "「りゅうでんの ばんにんに ねうちを しめせ。\n"
+	.string "さもなくば なにも もたずに たちされ。」$"
 
 DragonKeeper_Text_WardenALose::
-	.string "The old blood... accepts you.$"
+	.string "{JPN}いにしえの ちが… そなたを みとめた。$"
 
 DragonKeeper_Text_WardenBLose::
-	.string "Even the sky-serpent bows...$"
+	.string "{JPN}そらの へびさえも こうべを たれるとは…$"
 
 DragonKeeper_Text_WardenYield::
-	.string "“It is decided.\p"
-	.string "“ONE egg. Choose with your\n"
-	.string "heart, the shell already\l"
-	.string "knows what sleeps inside.”$"
+	.string "{JPN}「きまったな。\p"
+	.string "「タマゴは 1つだけ。 こころで えらべ。\n"
+	.string "からは もう しっている。\l"
+	.string "なかで なにが ねむっているのかを。」$"
 
 DragonKeeper_Text_WardenAPost::
-	.string "Raise it under open sky.\p"
-	.string "Dragons remember the roof\n"
-	.string "they hatched beneath.$"
+	.string "{JPN}ひらけた そらの したで そだてよ。\p"
+	.string "りゅうは うまれたときの\n"
+	.string "やねを おぼえているものだ。$"
 
 DragonKeeper_Text_WardenBPost::
-	.string "The eggs choose their moment.\n"
-	.string "Yours chose you.$"
+	.string "{JPN}タマゴは じぶんで その ときを えらぶ。\n"
+	.string "そなたの タマゴは そなたを えらんだ。$"
 
 DragonKeeper_Text_TakeEgg::
-	.string "Three eggs rest in the warm\n"
-	.string "ash of the incubator.\p"
-	.string "Take one?$"
+	.string "{JPN}ふかそうちの あたたかい はいの なかに\n"
+	.string "3つの タマゴが ある。\p"
+	.string "1つ もっていきますか?$"
 
 DragonKeeper_Text_EggTaken::
-	.string "{PLAYER} received a DRAGON EGG!\p"
-	.string "It is warm... and something\n"
-	.string "enormous turns inside.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ドラゴンのタマゴを もらった!\p"
+	.string "あたたかい… そして なかで\n"
+	.string "とてつもなく おおきな なにかが うごいた。$"
 
 DragonKeeper_Text_EggNo::
-	.string "The eggs settle back into\n"
-	.string "the ash.$"
+	.string "{JPN}タマゴたちは ふたたび\n"
+	.string "はいの なかで しずまった。$"
 
 DragonKeeper_Text_EggGuarded::
-	.string "Three great eggs rest in the\n"
-	.string "warm ash.\p"
-	.string "You feel watched.$"
+	.string "{JPN}あたたかい はいの なかに\n"
+	.string "3つの おおきな タマゴが ある。\p"
+	.string "みられている きがする。$"
 
 DragonKeeper_Text_EggGone::
-	.string "Two eggs remain, promised\n"
-	.string "to other hands.$"
+	.string "{JPN}のこる 2つの タマゴは\n"
+	.string "ほかの だれかに たくされるものだ。$"
 
 DragonKeeper_Text_MonFlygon::
-	.string "FLYGON hums a low note.\p"
-	.string "The eggs hum back.$"
+	.string "{JPN}フライゴンが ひくい こえを ひびかせた。\p"
+	.string "タマゴたちが こたえるように ひびいた。$"
 
 DragonKeeper_Text_MonBagon::
-	.string "BAGON headbutts the incubator\n"
-	.string "wall, dreaming of the sky.$"
+	.string "{JPN}タツベイが そらを ゆめみながら\n"
+	.string "ふかそうちの かべに ずつきを している。$"
 
 @ Surfing off the south shore crosses to Route 130 (and on to Prototype
 @ Island / Celebi Island beyond it).

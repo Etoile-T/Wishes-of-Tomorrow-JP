@@ -344843,9 +344843,13 @@
     "end": 5226,
     "raw": "\"You reach for the eggs…\\p\"",
     "source": "You reach for the eggs…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}タマゴに てを のばすと…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "696ea480cfb4b2d7",
@@ -344855,9 +344859,13 @@
     "end": 5268,
     "raw": "\"TWO shadows fall across you.\\p\"",
     "source": "TWO shadows fall across you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2つの かげが あなたを おおった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0316bfdcf857b660",
@@ -344867,9 +344875,13 @@
     "end": 5313,
     "raw": "\"“Outsider. Those clutches carry\\n\"",
     "source": "“Outsider. Those clutches carry\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「よそものよ。 あの タマゴたちは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e053719454bae818",
@@ -344879,9 +344891,13 @@
     "end": 5341,
     "raw": "\"the old blood.\\p\"",
     "source": "the old blood.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いにしえの ちを ひいている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "311f72904714262f",
@@ -344891,9 +344907,13 @@
     "end": 5387,
     "raw": "\"“Prove your worth to the wardens\\n\"",
     "source": "“Prove your worth to the wardens\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「りゅうでんの ばんにんに ねうちを しめせ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a2fdf0812c6b3db0",
@@ -344903,9 +344923,13 @@
     "end": 5427,
     "raw": "\"of Ryuden, or leave empty.”$\"",
     "source": "of Ryuden, or leave empty.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さもなくば なにも もたずに たちされ。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54e1cf62b1116463",
@@ -344915,9 +344939,13 @@
     "end": 5502,
     "raw": "\"The old blood... accepts you.$\"",
     "source": "The old blood... accepts you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いにしえの ちが… そなたを みとめた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5a47bc01e882b9f5",
@@ -344927,9 +344955,13 @@
     "end": 5576,
     "raw": "\"Even the sky-serpent bows...$\"",
     "source": "Even the sky-serpent bows...$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そらの へびさえも こうべを たれるとは…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e05aa53d758e426e",
@@ -344939,9 +344971,13 @@
     "end": 5638,
     "raw": "\"“It is decided.\\p\"",
     "source": "“It is decided.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「きまったな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ccdbc48a9cf64905",
@@ -344951,9 +344987,13 @@
     "end": 5678,
     "raw": "\"“ONE egg. Choose with your\\n\"",
     "source": "“ONE egg. Choose with your\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「タマゴは 1つだけ。 こころで えらべ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "08833d3bc16b2bf1",
@@ -344963,9 +345003,13 @@
     "end": 5716,
     "raw": "\"heart, the shell already\\l\"",
     "source": "heart, the shell already\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "からは もう しっている。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f8cef2b032f8dc43",
@@ -344975,9 +345019,13 @@
     "end": 5755,
     "raw": "\"knows what sleeps inside.”$\"",
     "source": "knows what sleeps inside.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかで なにが ねむっているのかを。」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74f2f53d957d70af",
@@ -344987,9 +345035,13 @@
     "end": 5826,
     "raw": "\"Raise it under open sky.\\p\"",
     "source": "Raise it under open sky.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ひらけた そらの したで そだてよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ca4b3256c92f88d",
@@ -344999,9 +345051,13 @@
     "end": 5865,
     "raw": "\"Dragons remember the roof\\n\"",
     "source": "Dragons remember the roof\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "りゅうは うまれたときの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4ad833dd2d7cb5fb",
@@ -345011,9 +345067,13 @@
     "end": 5899,
     "raw": "\"they hatched beneath.$\"",
     "source": "they hatched beneath.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やねを おぼえているものだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "225adba4cd1c2b50",
@@ -345023,9 +345083,13 @@
     "end": 5975,
     "raw": "\"The eggs choose their moment.\\n\"",
     "source": "The eggs choose their moment.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}タマゴは じぶんで その ときを えらぶ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a8848e13975b7979",
@@ -345035,9 +345099,13 @@
     "end": 6004,
     "raw": "\"Yours chose you.$\"",
     "source": "Yours chose you.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そなたの タマゴは そなたを えらんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aec8447055be45e6",
@@ -345047,9 +345115,13 @@
     "end": 6074,
     "raw": "\"Three eggs rest in the warm\\n\"",
     "source": "Three eggs rest in the warm\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふかそうちの あたたかい はいの なかに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d26e4141ac04b14",
@@ -345059,9 +345131,13 @@
     "end": 6109,
     "raw": "\"ash of the incubator.\\p\"",
     "source": "ash of the incubator.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3つの タマゴが ある。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d48c04da3475e3c9",
@@ -345071,9 +345147,13 @@
     "end": 6131,
     "raw": "\"Take one?$\"",
     "source": "Take one?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "1つ もっていきますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b4226c6b07f2ef29",
@@ -345083,9 +345163,13 @@
     "end": 6206,
     "raw": "\"{PLAYER} received a DRAGON EGG!\\p\"",
     "source": "{PLAYER} received a DRAGON EGG!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は ドラゴンのタマゴを もらった!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a11c6a1351e1a03a",
@@ -345095,9 +345179,13 @@
     "end": 6247,
     "raw": "\"It is warm... and something\\n\"",
     "source": "It is warm... and something\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたたかい… そして なかで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3536e43642555338",
@@ -345107,9 +345195,13 @@
     "end": 6282,
     "raw": "\"enormous turns inside.$\"",
     "source": "enormous turns inside.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とてつもなく おおきな なにかが うごいた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14e65552d1fe39ab",
@@ -345119,9 +345211,13 @@
     "end": 6348,
     "raw": "\"The eggs settle back into\\n\"",
     "source": "The eggs settle back into\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}タマゴたちは ふたたび\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "704ba225f84c4dfb",
@@ -345131,9 +345227,13 @@
     "end": 6369,
     "raw": "\"the ash.$\"",
     "source": "the ash.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいの なかで しずまった。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "90c160fa1f390902",
@@ -345143,9 +345243,13 @@
     "end": 6443,
     "raw": "\"Three great eggs rest in the\\n\"",
     "source": "Three great eggs rest in the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あたたかい はいの なかに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cfe164f2576406e3",
@@ -345155,9 +345259,13 @@
     "end": 6466,
     "raw": "\"warm ash.\\p\"",
     "source": "warm ash.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3つの おおきな タマゴが ある。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0ccb46ddd39a992e",
@@ -345167,9 +345275,13 @@
     "end": 6496,
     "raw": "\"You feel watched.$\"",
     "source": "You feel watched.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みられている きがする。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "17b81e68e4ed45ec",
@@ -345179,9 +345291,13 @@
     "end": 6564,
     "raw": "\"Two eggs remain, promised\\n\"",
     "source": "Two eggs remain, promised\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}のこる 2つの タマゴは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c176cc5441707bb",
@@ -345191,9 +345307,13 @@
     "end": 6592,
     "raw": "\"to other hands.$\"",
     "source": "to other hands.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほかの だれかに たくされるものだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "565e6f0868f1b792",
@@ -345203,9 +345323,13 @@
     "end": 6660,
     "raw": "\"FLYGON hums a low note.\\p\"",
     "source": "FLYGON hums a low note.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}フライゴンが ひくい こえを ひびかせた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3a5ef06efa92f62b",
@@ -345215,9 +345339,13 @@
     "end": 6691,
     "raw": "\"The eggs hum back.$\"",
     "source": "The eggs hum back.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "タマゴたちが こたえるように ひびいた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a13ed6a1f7eca1a3",
@@ -345227,9 +345355,13 @@
     "end": 6764,
     "raw": "\"BAGON headbutts the incubator\\n\"",
     "source": "BAGON headbutts the incubator\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}タツベイが そらを ゆめみながら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f2883085db16cec3",
@@ -345239,9 +345371,13 @@
     "end": 6803,
     "raw": "\"wall, dreaming of the sky.$\"",
     "source": "wall, dreaming of the sky.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふかそうちの かべに ずつきを している。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f87645e76969b718",
@@ -403335,9 +403471,13 @@
     "end": 2241,
     "raw": "\"The dockhouse is sealed from\\n\"",
     "source": "The dockhouse is sealed from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふなごやは うちがわから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "78959156bb70f514",
@@ -403347,9 +403487,13 @@
     "end": 2265,
     "raw": "\"the inside.$\"",
     "source": "the inside.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かたく とざされている。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "55d9514934b312a9",
@@ -403359,9 +403503,13 @@
     "end": 2328,
     "raw": "\"You came. Good.\\p\"",
     "source": "You came. Good.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きたか。 よし。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d4ae31e57e4c8bc9",
@@ -403371,9 +403519,13 @@
     "end": 2371,
     "raw": "\"MUTRID's labs had one project\\n\"",
     "source": "MUTRID's labs had one project\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミュートリッドの けんきゅうじょには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4370db52cdb2e7dc",
@@ -403383,9 +403535,13 @@
     "end": 2405,
     "raw": "\"even THE ONI feared.\\p\"",
     "source": "even THE ONI feared.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "オニさえ おそれた けいかくが あった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c1f994998d2ac21",
@@ -403395,9 +403551,13 @@
     "end": 2450,
     "raw": "\"A living weapon. Older than the\\n\"",
     "source": "A living weapon. Older than the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いきた へいき。 きかいよりも ふるく\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e3e7a5522c59d95",
@@ -403407,9 +403567,13 @@
     "end": 2494,
     "raw": "\"machine. Angrier than the sea.\\p\"",
     "source": "machine. Angrier than the sea.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うみよりも はげしい いかりを もつ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6237b1ec270244b2",
@@ -403419,9 +403583,13 @@
     "end": 2531,
     "raw": "\"The primitive lifeform…\\n\"",
     "source": "The primitive lifeform…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げんしの せいめいたい…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0314419a48da1bde",
@@ -403431,9 +403599,13 @@
     "end": 2560,
     "raw": "\"ARMORED MEWTWO.\\p\"",
     "source": "ARMORED MEWTWO.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アーマードミュウツー。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3b71c3fc0b2b9c02",
@@ -403443,9 +403615,13 @@
     "end": 2602,
     "raw": "\"Show me true power unleashed!$\"",
     "source": "Show me true power unleashed!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ときはなたれた しんの ちからを みせろ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5ea2775e65d0bb8b",
@@ -403455,9 +403631,13 @@
     "end": 2679,
     "raw": "\"…It lowered its head to you.\\p\"",
     "source": "…It lowered its head to you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}…おまえに あたまを さげた。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "651368c1dc4aa836",
@@ -403467,9 +403647,13 @@
     "end": 2717,
     "raw": "\"It never did that for me.$\"",
     "source": "It never did that for me.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれには いちども しなかったのに。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7535b7b2a74fe429",
@@ -403479,9 +403663,13 @@
     "end": 2784,
     "raw": "\"A deal's a deal.\\p\"",
     "source": "A deal's a deal.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やくそくは やくそくだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9aca495735ade10f",
@@ -403491,9 +403679,13 @@
     "end": 2826,
     "raw": "\"The armor stays on, it keeps\\n\"",
     "source": "The armor stays on, it keeps\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よろいは そのままだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9677ee738135c4e0",
@@ -403503,9 +403695,13 @@
     "end": 2853,
     "raw": "\"the anger in.\\p\"",
     "source": "the anger in.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あれが いかりを おさえている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "76fd3c94124ceba5",
@@ -403515,9 +403711,13 @@
     "end": 2874,
     "raw": "\"Take it.$\"",
     "source": "Take it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つれていけ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "661bf5fa45d6ae8f",
@@ -403527,9 +403727,13 @@
     "end": 2943,
     "raw": "\"{PLAYER} received\\n\"",
     "source": "{PLAYER} received\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ea5f8ccd52f9db45",
@@ -403539,9 +403743,13 @@
     "end": 2971,
     "raw": "\"ARMORED MEWTWO!$\"",
     "source": "ARMORED MEWTWO!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アーマードミュウツーを もらった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f37564f4cf8814ef",
@@ -403551,9 +403759,13 @@
     "end": 3044,
     "raw": "\"Your party and boxes are\\n\"",
     "source": "Your party and boxes are\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}てもちも ボックスも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d5f36c9bea2c6e86",
@@ -403563,9 +403775,13 @@
     "end": 3066,
     "raw": "\"stuffed.\\p\"",
     "source": "stuffed.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっぱいじゃないか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c5dc0aef84c99fae",
@@ -403575,9 +403791,13 @@
     "end": 3106,
     "raw": "\"Make room. This thing does\\n\"",
     "source": "Make room. This thing does\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あきを つくれ。 こいつは ほかの やつと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "affe4e92ab9345e6",
@@ -403587,9 +403807,13 @@
     "end": 3136,
     "raw": "\"not share a cage.$\"",
     "source": "not share a cage.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おなじ おりには はいらない。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c6a64f10f45792ef",
@@ -403599,9 +403823,13 @@
     "end": 3214,
     "raw": "\"Treat it like a partner, not\\n\"",
     "source": "Treat it like a partner, not\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へいきではなく\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec2057d4817fb039",
@@ -403611,9 +403839,13 @@
     "end": 3237,
     "raw": "\"a weapon.\\p\"",
     "source": "a weapon.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パートナーとして あつかってくれ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b8f4d0053c52ed13",
@@ -403623,9 +403855,13 @@
     "end": 3276,
     "raw": "\"That was MUTRID's mistake.$\"",
     "source": "That was MUTRID's mistake.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ミュートリッドは そこを まちがえた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a3f73e11fc484415",
@@ -403635,9 +403871,13 @@
     "end": 3353,
     "raw": "\"It never obeyed me. Not once.\\p\"",
     "source": "It never obeyed me. Not once.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おれには いちども したがわなかった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3702968e58f1b4c2",
@@ -403647,9 +403887,13 @@
     "end": 3386,
     "raw": "\"But it follows you.\\p\"",
     "source": "But it follows you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だが おまえには ついていく。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8cd566993cc407f3",
@@ -403659,9 +403903,13 @@
     "end": 3429,
     "raw": "\"…Maybe that's what true power\\n\"",
     "source": "…Maybe that's what true power\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "…それが しんの ちからを ときはなつと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "861f9052225e6b85",
@@ -403671,9 +403919,13 @@
     "end": 3464,
     "raw": "\"unleashed actually is.$\"",
     "source": "unleashed actually is.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いうことなのかも しれないな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-dragon-mewtwo-38",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "edf4c724be5c18e5",

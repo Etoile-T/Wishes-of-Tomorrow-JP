@@ -1,0 +1,2958 @@
+{
+  "method": "Map folder absent from local reference-jp (heuristic only)",
+  "limitations": [
+    "Reference expansion version differs; false positives possible.",
+    "Custom dialogue in reused Emerald map folders is not identified by this test.",
+    "Bare strings/images/structured text outside catalog not covered; reachability unverified."
+  ],
+  "maps": [
+    {
+      "map": "Ashlands",
+      "translated": 63,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "AshlandsOldMansHouse",
+      "translated": 25,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "Ashlands_Desert",
+      "translated": 3,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "CeladonCity_Condominiums_1F_Frlg",
+      "translated": 0,
+      "pending": 21,
+      "samples": [
+        "MEOWTH: Meow!$",
+        "You shouldn't spend all your money\\n"
+      ]
+    },
+    {
+      "map": "CeladonCity_Condominiums_2F_Frlg",
+      "translated": 0,
+      "pending": 1,
+      "samples": [
+        "GAME FREAK Meeting Room$"
+      ]
+    },
+    {
+      "map": "CeladonCity_Condominiums_3F_Frlg",
+      "translated": 0,
+      "pending": 24,
+      "samples": [
+        "Me?\\n",
+        "I'm the programmer!$"
+      ]
+    },
+    {
+      "map": "CeladonCity_Condominiums_RoofRoom_Frlg",
+      "translated": 0,
+      "pending": 34,
+      "samples": [
+        "There is nothing that I don't know,\\n",
+        "like I wrote on the blackboard.\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_Condominiums_Roof_Frlg",
+      "translated": 0,
+      "pending": 1,
+      "samples": [
+        "I KNOW EVERYTHING!$"
+      ]
+    },
+    {
+      "map": "CeladonCity_DepartmentStore_1F_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "Hello!\\n",
+        "Welcome to CELADON DEPT. STORE.\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_DepartmentStore_2F_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "SUPER REPEL keeps weak POKéMON at\\n",
+        "bay…\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_DepartmentStore_3F_Frlg",
+      "translated": 0,
+      "pending": 41,
+      "samples": [
+        "Captured POKéMON are registered\\n",
+        "with an ID No. and the OT.\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_DepartmentStore_4F_Frlg",
+      "translated": 0,
+      "pending": 13,
+      "samples": [
+        "I'm getting a present for my\\n",
+        "girlfriend.\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_DepartmentStore_5F_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "POKéMON stat enhancers can be\\n",
+        "bought only here.\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_DepartmentStore_Roof_Frlg",
+      "translated": 0,
+      "pending": 44,
+      "samples": [
+        "I'm thirsty!\\n",
+        "I want something to drink!\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_Frlg",
+      "translated": 0,
+      "pending": 70,
+      "samples": [
+        "I got my KOFFING in CINNABAR.\\p",
+        "It's usually nice, but it breathes\\n"
+      ]
+    },
+    {
+      "map": "CeladonCity_GameCorner_Frlg",
+      "translated": 0,
+      "pending": 78,
+      "samples": [
+        "Welcome!\\p",
+        "You can exchange your COINS for\\n"
+      ]
+    },
+    {
+      "map": "CeladonCity_GameCorner_PrizeRoom_Frlg",
+      "translated": 0,
+      "pending": 15,
+      "samples": [
+        "I sure do fancy that PORYGON!\\n",
+        "But, it's hard to win at slots!$"
+      ]
+    },
+    {
+      "map": "CeladonCity_Gym_Frlg",
+      "translated": 0,
+      "pending": 92,
+      "samples": [
+        "Hello…\\n",
+        "Lovely weather, isn't it?\\l"
+      ]
+    },
+    {
+      "map": "CeladonCity_Hotel_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "POKéMON?\\n",
+        "No, this is a hotel for people.\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_House1_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "Hehehe!\\p",
+        "The slots just reel in the dough,\\n"
+      ]
+    },
+    {
+      "map": "CeladonCity_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 9,
+      "samples": [
+        "A POKé FLUTE awakens sleeping\\n",
+        "POKéMON. You know that.\\p"
+      ]
+    },
+    {
+      "map": "CeladonCity_Restaurant_Frlg",
+      "translated": 0,
+      "pending": 21,
+      "samples": [
+        "Hi!\\p",
+        "Sorry, but we're taking a break\\n"
+      ]
+    },
+    {
+      "map": "CelebiIsland",
+      "translated": 114,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "CeruleanCave_B1F_Frlg",
+      "translated": 0,
+      "pending": 1,
+      "samples": [
+        "Mew!$"
+      ]
+    },
+    {
+      "map": "CeruleanCity_BikeShop_Frlg",
+      "translated": 0,
+      "pending": 32,
+      "samples": [
+        "Hi!\\n",
+        "Welcome to our BIKE SHOP.\\p"
+      ]
+    },
+    {
+      "map": "CeruleanCity_Frlg",
+      "translated": 0,
+      "pending": 113,
+      "samples": [
+        "{RIVAL}: Yo! {PLAYER}!\\p",
+        "You're still struggling along back\\n"
+      ]
+    },
+    {
+      "map": "CeruleanCity_Gym_Frlg",
+      "translated": 0,
+      "pending": 60,
+      "samples": [
+        "Hi, you're a new face!\\p",
+        "Only those TRAINERS who have a\\n"
+      ]
+    },
+    {
+      "map": "CeruleanCity_House1_Frlg",
+      "translated": 0,
+      "pending": 50,
+      "samples": [
+        "Only skilled TRAINERS can collect\\n",
+        "POKéMON BADGES.\\p"
+      ]
+    },
+    {
+      "map": "CeruleanCity_House2_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "Those miserable ROCKETS!\\p",
+        "Look what they've done to my\\n"
+      ]
+    },
+    {
+      "map": "CeruleanCity_House3_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "My husband likes trading POKéMON.\\p",
+        "You're collecting POKéMON for your\\n"
+      ]
+    },
+    {
+      "map": "CeruleanCity_House4_Frlg",
+      "translated": 0,
+      "pending": 46,
+      "samples": [
+        "Sigh…\\n",
+        "Too much time, too little to do…\\p"
+      ]
+    },
+    {
+      "map": "CeruleanCity_House5_Frlg",
+      "translated": 0,
+      "pending": 46,
+      "samples": [
+        "I concoct a variety of medicine\\n",
+        "from BERRY POWDER.\\p"
+      ]
+    },
+    {
+      "map": "CeruleanCity_Mart_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "REPEL not only keeps bugs away,\\n",
+        "it also works on weak POKéMON.\\p"
+      ]
+    },
+    {
+      "map": "CeruleanCity_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 19,
+      "samples": [
+        "That BILL!\\p",
+        "I heard that he'll do whatever it\\n"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_Frlg",
+      "translated": 0,
+      "pending": 51,
+      "samples": [
+        "The door is locked…$",
+        "CINNABAR GYM's BLAINE is quite the\\n"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_Gym_Frlg",
+      "translated": 0,
+      "pending": 108,
+      "samples": [
+        "Hah!\\p",
+        "I am BLAINE, the red-hot LEADER\\n"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_Mart_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "Don't they have X ATTACK?\\p",
+        "I like it because it raises the\\n"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 26,
+      "samples": [
+        "I came to visit the CINNABAR GYM,\\n",
+        "but the door is locked tight.\\p"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_PokemonLab_Entrance_Frlg",
+      "translated": 0,
+      "pending": 16,
+      "samples": [
+        "It's a photo of BLAINE and\\n",
+        "MR. FUJI.\\p"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_PokemonLab_ExperimentRoom_Frlg",
+      "translated": 0,
+      "pending": 46,
+      "samples": [
+        "Tch-tch-tch!\\n",
+        "I'll teach you a nifty move.\\p"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_PokemonLab_Lounge_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "I found this most remarkable fossil\\n",
+        "inside MT. MOON.\\p"
+      ]
+    },
+    {
+      "map": "CinnabarIsland_PokemonLab_ResearchRoom_Frlg",
+      "translated": 0,
+      "pending": 13,
+      "samples": [
+        "EEVEE can evolve into one of three\\n",
+        "kinds of POKéMON.$"
+      ]
+    },
+    {
+      "map": "DiglettsCave_NorthEntrance_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "I went inside ROCK TUNNEL, but it's\\n",
+        "pitch-black and scary in there.\\p"
+      ]
+    },
+    {
+      "map": "DiglettsCave_SouthEntrance_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "Well, isn't this a surprise!\\n",
+        "DIGLETT dug this long tunnel!\\p"
+      ]
+    },
+    {
+      "map": "DistortionWorld",
+      "translated": 69,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "DistortionWorld_2",
+      "translated": 23,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "DistortionWorld_3",
+      "translated": 9,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "DistortionWorld_4",
+      "translated": 9,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "DistortionWorld_5",
+      "translated": 21,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "Dojo",
+      "translated": 103,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "DragonKeeper",
+      "translated": 34,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "FiveIsland_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "FIVE ISLAND\\n",
+        "Chrono Island: Where Time Goes$"
+      ]
+    },
+    {
+      "map": "FiveIsland_House1_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "Don't worry about buying anything\\n",
+        "for dinner tonight!\\p"
+      ]
+    },
+    {
+      "map": "FiveIsland_House2_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "That MEADOW has belonged to our\\n",
+        "family for generations.\\p"
+      ]
+    },
+    {
+      "map": "FiveIsland_LostCave_Room10_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "W-what do you intend to do with\\n",
+        "me?$"
+      ]
+    },
+    {
+      "map": "FiveIsland_LostCave_Room1_Frlg",
+      "translated": 0,
+      "pending": 9,
+      "samples": [
+        "Aiyeeeeeh!\\p",
+        "I thought this was an ancient ruin.\\n"
+      ]
+    },
+    {
+      "map": "FiveIsland_LostCave_Room4_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "I think there is a mysterious power\\n",
+        "at work in this cave.$"
+      ]
+    },
+    {
+      "map": "FiveIsland_Meadow_Frlg",
+      "translated": 0,
+      "pending": 32,
+      "samples": [
+        "とびらを　あけるには\\n",
+        "パスワードが　2つ　いるようだ$"
+      ]
+    },
+    {
+      "map": "FiveIsland_MemorialPillar_Frlg",
+      "translated": 0,
+      "pending": 57,
+      "samples": [
+        "I'm the eldest of the BIRD\\n",
+        "BROTHERS.\\p"
+      ]
+    },
+    {
+      "map": "FiveIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "I'm on my way to prepare a meal\\n",
+        "for a certain high-society person.$"
+      ]
+    },
+    {
+      "map": "FiveIsland_ResortGorgeous_Frlg",
+      "translated": 0,
+      "pending": 47,
+      "samples": [
+        "With these hands, I will create\\n",
+        "my victory!$"
+      ]
+    },
+    {
+      "map": "FiveIsland_ResortGorgeous_House_Frlg",
+      "translated": 0,
+      "pending": 44,
+      "samples": [
+        "SELPHY: Oh?\\n",
+        "Do I know you from somewhere?\\p"
+      ]
+    },
+    {
+      "map": "FiveIsland_RocketWarehouse_Frlg",
+      "translated": 0,
+      "pending": 89,
+      "samples": [
+        "There are many POKéMON locked\\n",
+        "away in the pen…$"
+      ]
+    },
+    {
+      "map": "FiveIsland_WaterLabyrinth_Frlg",
+      "translated": 0,
+      "pending": 39,
+      "samples": [
+        "You travel all over the place,\\n",
+        "don't you?\\p"
+      ]
+    },
+    {
+      "map": "FourIsland_Frlg",
+      "translated": 0,
+      "pending": 42,
+      "samples": [
+        "FOUR ISLAND\\n",
+        "The Warm, Blue, Floe Island$"
+      ]
+    },
+    {
+      "map": "FourIsland_House1_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "There! Boing!\\n",
+        "You're awfully heavy!$"
+      ]
+    },
+    {
+      "map": "FourIsland_IcefallCave_Back_Frlg",
+      "translated": 0,
+      "pending": 53,
+      "samples": [
+        "LORELEI: Keep your filthy hands\\n",
+        "off the POKéMON in the cave!\\p"
+      ]
+    },
+    {
+      "map": "FourIsland_LoreleisHouse_Frlg",
+      "translated": 0,
+      "pending": 21,
+      "samples": [
+        "LORELEI: There's something weighing\\n",
+        "heavily on my mind.\\p"
+      ]
+    },
+    {
+      "map": "FourIsland_Mart_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "We've had a great and powerful\\n",
+        "TRAINER grow up on this island.\\p"
+      ]
+    },
+    {
+      "map": "FourIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 28,
+      "samples": [
+        "Ready?\\n",
+        "Boing!\\p"
+      ]
+    },
+    {
+      "map": "FrostwoodTown",
+      "translated": 47,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "Frostwood_House2",
+      "translated": 21,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "FuchsiaCity_Frlg",
+      "translated": 0,
+      "pending": 65,
+      "samples": [
+        "Did you try the SAFARI GAME?\\p",
+        "There are some rare POKéMON that\\n"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_Gym_Frlg",
+      "translated": 0,
+      "pending": 98,
+      "samples": [
+        "KOGA: Fwahahaha!\\p",
+        "A mere child like you dares to\\n"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_House1_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "The SAFARI ZONE's WARDEN is old, \\n",
+        "but he's still very much active.\\p"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_House2_Frlg",
+      "translated": 0,
+      "pending": 23,
+      "samples": [
+        "I'm the FISHING GURU's older\\n",
+        "brother.\\p"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_House3_Frlg",
+      "translated": 0,
+      "pending": 19,
+      "samples": [
+        "Uh…\\n",
+        "Oh, yes, I'm the MOVE DELETER.\\p"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_Mart_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "Don't they have any pennants\\n",
+        "promoting the SAFARI ZONE?\\p"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "You can't become a good TRAINER\\n",
+        "with just one strong POKéMON.\\p"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_SafariZone_Entrance_Frlg",
+      "translated": 0,
+      "pending": 45,
+      "samples": [
+        "Welcome to the SAFARI ZONE!$",
+        "For just ¥500, you can play the\\n"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_SafariZone_Office_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "We nicknamed the WARDEN\\n",
+        "“SLOWPOKE.”\\p"
+      ]
+    },
+    {
+      "map": "FuchsiaCity_WardensHouse_Frlg",
+      "translated": 0,
+      "pending": 40,
+      "samples": [
+        "WARDEN: Hif fuff hefifoo!\\p",
+        "Ha lof ha feef ee hafahi ho.\\n"
+      ]
+    },
+    {
+      "map": "HotSpring",
+      "translated": 17,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "HotelZ",
+      "translated": 62,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "IndigoPlateau_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 33,
+      "samples": [
+        "Yo!\\n",
+        "Champ in the making!\\p"
+      ]
+    },
+    {
+      "map": "LavenderTown_Frlg",
+      "translated": 0,
+      "pending": 22,
+      "samples": [
+        "Do you believe in ghosts?$",
+        "Really?\\n"
+      ]
+    },
+    {
+      "map": "LavenderTown_House1_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "CUBONE: Kyarugoo!$",
+        "Those horrible ROCKETS!\\n"
+      ]
+    },
+    {
+      "map": "LavenderTown_House2_Frlg",
+      "translated": 0,
+      "pending": 29,
+      "samples": [
+        "Hello, hello!\\n",
+        "I am the official NAME RATER!\\p"
+      ]
+    },
+    {
+      "map": "LavenderTown_Mart_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "I'm searching for items that raise\\n",
+        "the stats of POKéMON.\\p"
+      ]
+    },
+    {
+      "map": "LavenderTown_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "TEAM ROCKET will do anything for\\n",
+        "the sake of money!\\p"
+      ]
+    },
+    {
+      "map": "LavenderTown_VolunteerPokemonHouse_Frlg",
+      "translated": 0,
+      "pending": 39,
+      "samples": [
+        "I recently moved to this town.\\p",
+        "I hear that MR. FUJI's not from\\n"
+      ]
+    },
+    {
+      "map": "MeltingMile",
+      "translated": 21,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "MewtwoPostGame",
+      "translated": 29,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "MtEmber_Exterior_Frlg",
+      "translated": 0,
+      "pending": 71,
+      "samples": [
+        "Can you imagine?\\n",
+        "If this volcano were to erupt?\\p"
+      ]
+    },
+    {
+      "map": "MtEmber_RubyPath_B3F_Frlg",
+      "translated": 0,
+      "pending": 1,
+      "samples": [
+        "{PLAYER} found a RUBY!$"
+      ]
+    },
+    {
+      "map": "MtMoon_1F_Frlg",
+      "translated": 0,
+      "pending": 47,
+      "samples": [
+        "WHOA!\\n",
+        "You shocked me!\\l"
+      ]
+    },
+    {
+      "map": "MtMoon_B2F_Frlg",
+      "translated": 0,
+      "pending": 42,
+      "samples": [
+        "Hey, stop!\\p",
+        "I found these fossils!\\n"
+      ]
+    },
+    {
+      "map": "MunenHomeAct2",
+      "translated": 43,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "MunenLabAct2",
+      "translated": 114,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "MunenLake",
+      "translated": 17,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "MunenTunnel",
+      "translated": 114,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "MunenVillage",
+      "translated": 38,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "MunenVillageAct2",
+      "translated": 24,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "NationalParkAct2",
+      "translated": 82,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "NewMap",
+      "translated": 95,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "NewMapApprenticeHouse",
+      "translated": 29,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "NewMapInn",
+      "translated": 15,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "NewMapMaskMaker",
+      "translated": 54,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "NewMapShop",
+      "translated": 7,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "NorthwindCavern",
+      "translated": 8,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "OneIsland_Frlg",
+      "translated": 0,
+      "pending": 43,
+      "samples": [
+        "BILL: Here we are!\\n",
+        "This is ONE ISLAND.\\p"
+      ]
+    },
+    {
+      "map": "OneIsland_House1_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "On sunny days, I step out and gaze\\n",
+        "upon the volcano.\\p"
+      ]
+    },
+    {
+      "map": "OneIsland_House2_Frlg",
+      "translated": 0,
+      "pending": 3,
+      "samples": [
+        "Young people all want to go off to\\n",
+        "big cities.\\p"
+      ]
+    },
+    {
+      "map": "OneIsland_KindleRoad_EmberSpa_Frlg",
+      "translated": 0,
+      "pending": 38,
+      "samples": [
+        "Hm!\\n",
+        "Haaaaaaaaaaah!\\p"
+      ]
+    },
+    {
+      "map": "OneIsland_KindleRoad_Frlg",
+      "translated": 0,
+      "pending": 78,
+      "samples": [
+        "The weather's gorgeous!\\n",
+        "Perfect for a battle!$"
+      ]
+    },
+    {
+      "map": "OneIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 239,
+      "samples": [
+        "BILL: Hey, there!\\n",
+        "CELIO!$"
+      ]
+    },
+    {
+      "map": "OneIsland_TreasureBeach_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "Lying back, rocked by the waves…\\n",
+        "It's exquisite.$"
+      ]
+    },
+    {
+      "map": "PalletTown_Frlg",
+      "translated": 0,
+      "pending": 56,
+      "samples": [
+        "OAK: Hey! Wait!\\n",
+        "Don't go out!$"
+      ]
+    },
+    {
+      "map": "PalletTown_PlayersHouse_1F_Frlg",
+      "translated": 0,
+      "pending": 24,
+      "samples": [
+        "MOM: …Right.\\n",
+        "All boys leave home someday.\\l"
+      ]
+    },
+    {
+      "map": "PalletTown_PlayersHouse_2F_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "{PLAYER} played with the NES.\\p",
+        "…Okay!\\n"
+      ]
+    },
+    {
+      "map": "PalletTown_ProfessorOaksLab_Frlg",
+      "translated": 0,
+      "pending": 236,
+      "samples": [
+        "{RIVAL}: What, it's only {PLAYER}?\\n",
+        "Gramps isn't around.$"
+      ]
+    },
+    {
+      "map": "PalletTown_RivalsHouse_Frlg",
+      "translated": 0,
+      "pending": 75,
+      "samples": [
+        "DAISY: Hi, {PLAYER}!\\p",
+        "My brother, {RIVAL}, is out at\\n"
+      ]
+    },
+    {
+      "map": "PewterCity_Frlg",
+      "translated": 0,
+      "pending": 78,
+      "samples": [
+        "Yawn!\\n",
+        "I must have dozed off in the sun.\\p"
+      ]
+    },
+    {
+      "map": "PewterCity_Gym_Frlg",
+      "translated": 0,
+      "pending": 85,
+      "samples": [
+        "So, you're here. I'm BROCK.\\n",
+        "I'm PEWTER's GYM LEADER.\\p"
+      ]
+    },
+    {
+      "map": "PewterCity_House1_Frlg",
+      "translated": 0,
+      "pending": 9,
+      "samples": [
+        "NIDORAN♂: Bowbow!$",
+        "NIDORAN, sit!$"
+      ]
+    },
+    {
+      "map": "PewterCity_House2_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "POKéMON learn new techniques as\\n",
+        "they grow.\\p"
+      ]
+    },
+    {
+      "map": "PewterCity_Mart_Frlg",
+      "translated": 0,
+      "pending": 7,
+      "samples": [
+        "A shady old guy sucked me into\\n",
+        "buying this weird fish POKéMON!\\p"
+      ]
+    },
+    {
+      "map": "PewterCity_Museum_1F_Frlg",
+      "translated": 0,
+      "pending": 50,
+      "samples": [
+        "Yes, yes.\\n",
+        "It's ¥50 for a child's ticket.\\p"
+      ]
+    },
+    {
+      "map": "PewterCity_Museum_2F_Frlg",
+      "translated": 0,
+      "pending": 32,
+      "samples": [
+        "The secrets of space…\\n",
+        "The mysteries of earth…\\p"
+      ]
+    },
+    {
+      "map": "PewterCity_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "What!?\\p",
+        "TEAM ROCKET is at MT. MOON?\\n"
+      ]
+    },
+    {
+      "map": "PokemonLeague_AgathasRoom_Frlg",
+      "translated": 0,
+      "pending": 33,
+      "samples": [
+        "I am AGATHA of the ELITE FOUR.\\p",
+        "I hear OAK's taken a lot of\\n"
+      ]
+    },
+    {
+      "map": "PokemonLeague_BrunosRoom_Frlg",
+      "translated": 0,
+      "pending": 26,
+      "samples": [
+        "I am BRUNO of the ELITE FOUR!\\p",
+        "Through rigorous training, people\\n"
+      ]
+    },
+    {
+      "map": "PokemonLeague_ChampionsRoom_Frlg",
+      "translated": 0,
+      "pending": 83,
+      "samples": [
+        "{RIVAL}: Hey, {PLAYER}!\\p",
+        "I was looking forward to seeing\\n"
+      ]
+    },
+    {
+      "map": "PokemonLeague_HallOfFame_Frlg",
+      "translated": 0,
+      "pending": 13,
+      "samples": [
+        "OAK: Er-hem!\\n",
+        "Congratulations, {PLAYER}!\\p"
+      ]
+    },
+    {
+      "map": "PokemonLeague_LancesRoom_Frlg",
+      "translated": 0,
+      "pending": 44,
+      "samples": [
+        "Ah! I've heard about you,\\n",
+        "{PLAYER}!\\p"
+      ]
+    },
+    {
+      "map": "PokemonLeague_LoreleisRoom_Frlg",
+      "translated": 0,
+      "pending": 25,
+      "samples": [
+        "Welcome to the POKéMON LEAGUE.\\p",
+        "I am LORELEI of the ELITE FOUR.\\p"
+      ]
+    },
+    {
+      "map": "PokemonMansion_1F_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "Who are you?\\n",
+        "There shouldn't be anyone here.$"
+      ]
+    },
+    {
+      "map": "PokemonMansion_2F_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "A secret switch!\\p",
+        "Press it?$"
+      ]
+    },
+    {
+      "map": "PokemonMansion_3F_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "This place is, like, huge!$",
+        "Ayah!$"
+      ]
+    },
+    {
+      "map": "PokemonMansion_B1F_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "Uh-oh…\\n",
+        "Where am I now?$"
+      ]
+    },
+    {
+      "map": "PokemonTower_1F_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "POKéMON TOWER was erected in the\\n",
+        "memory of POKéMON that died.$"
+      ]
+    },
+    {
+      "map": "PokemonTower_2F_Frlg",
+      "translated": 0,
+      "pending": 22,
+      "samples": [
+        "{RIVAL}: Hey, {PLAYER}!\\n",
+        "What brings you here?\\l"
+      ]
+    },
+    {
+      "map": "PokemonTower_3F_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "Urrg… Awaa…\\n",
+        "Huhu… Graa…$"
+      ]
+    },
+    {
+      "map": "PokemonTower_4F_Frlg",
+      "translated": 0,
+      "pending": 15,
+      "samples": [
+        "Ghost! No!\\n",
+        "Kwaaah!$"
+      ]
+    },
+    {
+      "map": "PokemonTower_5F_Frlg",
+      "translated": 0,
+      "pending": 23,
+      "samples": [
+        "Come, child!\\n",
+        "I have purified this space.\\l"
+      ]
+    },
+    {
+      "map": "PokemonTower_6F_Frlg",
+      "translated": 0,
+      "pending": 19,
+      "samples": [
+        "Give…me…\\n",
+        "blood…$"
+      ]
+    },
+    {
+      "map": "PokemonTower_7F_Frlg",
+      "translated": 0,
+      "pending": 30,
+      "samples": [
+        "What do you want?\\n",
+        "Why are you here?$"
+      ]
+    },
+    {
+      "map": "PrototypeIsland",
+      "translated": 21,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "PrototypeLab",
+      "translated": 47,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "RebelHideout",
+      "translated": 177,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "RockTunnel_1F_Frlg",
+      "translated": 0,
+      "pending": 39,
+      "samples": [
+        "This tunnel goes a long way, kid!$",
+        "Doh!\\n"
+      ]
+    },
+    {
+      "map": "RockTunnel_B1F_Frlg",
+      "translated": 0,
+      "pending": 47,
+      "samples": [
+        "Do you know how you can avoid\\n",
+        "getting lost in the mountains?\\p"
+      ]
+    },
+    {
+      "map": "RocketHideout_B1F_Frlg",
+      "translated": 0,
+      "pending": 23,
+      "samples": [
+        "Who are you?\\n",
+        "How did you get here?$"
+      ]
+    },
+    {
+      "map": "RocketHideout_B2F_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "BOSS said you can see ghosts with\\n",
+        "the SILPH SCOPE.$"
+      ]
+    },
+    {
+      "map": "RocketHideout_B3F_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "Stop meddling in TEAM ROCKET's\\n",
+        "affairs or else!$"
+      ]
+    },
+    {
+      "map": "RocketHideout_B4F_Frlg",
+      "translated": 0,
+      "pending": 32,
+      "samples": [
+        "So! I must say, I am impressed you\\n",
+        "got here.\\p"
+      ]
+    },
+    {
+      "map": "RocketHideout_Elevator_Frlg",
+      "translated": 0,
+      "pending": 1,
+      "samples": [
+        "It appears to need a key.$"
+      ]
+    },
+    {
+      "map": "Route10_Frlg",
+      "translated": 0,
+      "pending": 44,
+      "samples": [
+        "Wow, you came all the way here?\\n",
+        "Maybe you're a POKéMANIAC, too?\\l"
+      ]
+    },
+    {
+      "map": "Route10_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 34,
+      "samples": [
+        "The types of POKéMON match up\\n",
+        "differently with each other.\\p"
+      ]
+    },
+    {
+      "map": "Route11_EastEntrance_1F_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "{PLAYER}{KUN}の　バッグ\\n",
+        "いっぱい　みたい　だね$"
+      ]
+    },
+    {
+      "map": "Route11_EastEntrance_2F_Frlg",
+      "translated": 0,
+      "pending": 38,
+      "samples": [
+        "Hi! Remember me?\\n",
+        "I'm one of PROF. OAK's AIDES.\\p"
+      ]
+    },
+    {
+      "map": "Route11_Frlg",
+      "translated": 0,
+      "pending": 51,
+      "samples": [
+        "Win, lose, or draw!$",
+        "Atcha!\\n"
+      ]
+    },
+    {
+      "map": "Route12_FishingHouse_Frlg",
+      "translated": 0,
+      "pending": 59,
+      "samples": [
+        "I'm the FISHING GURU's younger\\n",
+        "brother.\\p"
+      ]
+    },
+    {
+      "map": "Route12_Frlg",
+      "translated": 0,
+      "pending": 73,
+      "samples": [
+        "A POKéMON is sprawled out in\\n",
+        "a deep and comfortable slumber.$"
+      ]
+    },
+    {
+      "map": "Route12_NorthEntrance_1F_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "There's a lookout spot upstairs.\\n",
+        "The view is magnificent.$"
+      ]
+    },
+    {
+      "map": "Route12_NorthEntrance_2F_Frlg",
+      "translated": 0,
+      "pending": 21,
+      "samples": [
+        "My POKéMON's ashes are stored in\\n",
+        "POKéMON TOWER.\\p"
+      ]
+    },
+    {
+      "map": "Route13_Frlg",
+      "translated": 0,
+      "pending": 62,
+      "samples": [
+        "My bird POKéMON want to battle\\n",
+        "with you!$"
+      ]
+    },
+    {
+      "map": "Route14_Frlg",
+      "translated": 0,
+      "pending": 79,
+      "samples": [
+        "You need to use TMs to teach good\\n",
+        "moves to POKéMON.$"
+      ]
+    },
+    {
+      "map": "Route15_Frlg",
+      "translated": 0,
+      "pending": 77,
+      "samples": [
+        "I just got some POKéMON in trades.\\n",
+        "Can I try them out on you?$"
+      ]
+    },
+    {
+      "map": "Route15_WestEntrance_1F_Frlg",
+      "translated": 0,
+      "pending": 3,
+      "samples": [
+        "Are you the kid who's working on\\n",
+        "a POKéDEX?\\p"
+      ]
+    },
+    {
+      "map": "Route15_WestEntrance_2F_Frlg",
+      "translated": 0,
+      "pending": 29,
+      "samples": [
+        "Hi! Remember me?\\n",
+        "I'm one of PROF. OAK's AIDES.\\p"
+      ]
+    },
+    {
+      "map": "Route16_Frlg",
+      "translated": 0,
+      "pending": 56,
+      "samples": [
+        "What do you want?$",
+        "Don't you dare laugh!$"
+      ]
+    },
+    {
+      "map": "Route16_House_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "Oh, dear.\\n",
+        "You've found my secret retreat.\\p"
+      ]
+    },
+    {
+      "map": "Route16_NorthEntrance_1F_Frlg",
+      "translated": 0,
+      "pending": 8,
+      "samples": [
+        "No pedestrians are allowed on\\n",
+        "CYCLING ROAD!$"
+      ]
+    },
+    {
+      "map": "Route16_NorthEntrance_2F_Frlg",
+      "translated": 0,
+      "pending": 31,
+      "samples": [
+        "I'm on a relaxing ride on my new\\n",
+        "bike with my girlfriend.$"
+      ]
+    },
+    {
+      "map": "Route17_Frlg",
+      "translated": 0,
+      "pending": 59,
+      "samples": [
+        "There's no getting rich quick in\\n",
+        "battling kids.$"
+      ]
+    },
+    {
+      "map": "Route18_EastEntrance_1F_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "You need a BICYCLE to go out on\\n",
+        "CYCLING ROAD!$"
+      ]
+    },
+    {
+      "map": "Route18_EastEntrance_2F_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "Let's see what the binoculars have\\n",
+        "to show…\\p"
+      ]
+    },
+    {
+      "map": "Route18_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "I always check every grassy area\\n",
+        "for new POKéMON.$"
+      ]
+    },
+    {
+      "map": "Route19_Frlg",
+      "translated": 0,
+      "pending": 77,
+      "samples": [
+        "I have to exercise and warm up\\n",
+        "before going out for a swim.$"
+      ]
+    },
+    {
+      "map": "Route1_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "Hi!\\n",
+        "I work at a POKéMON MART.\\p"
+      ]
+    },
+    {
+      "map": "Route20_Frlg",
+      "translated": 0,
+      "pending": 57,
+      "samples": [
+        "The water is shallow here.\\n",
+        "There are many people swimming.$"
+      ]
+    },
+    {
+      "map": "Route21_North_Frlg",
+      "translated": 0,
+      "pending": 19,
+      "samples": [
+        "You want to know if the fish are\\n",
+        "biting?$"
+      ]
+    },
+    {
+      "map": "Route21_South_Frlg",
+      "translated": 0,
+      "pending": 42,
+      "samples": [
+        "I caught my POKéMON at sea.$",
+        "Diver!!\\n"
+      ]
+    },
+    {
+      "map": "Route22_Frlg",
+      "translated": 0,
+      "pending": 46,
+      "samples": [
+        "{RIVAL}: Hey! {PLAYER}!\\p",
+        "You're off to the POKéMON LEAGUE?\\n"
+      ]
+    },
+    {
+      "map": "Route23_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "VICTORY ROAD GATE -\\n",
+        "POKéMON LEAGUE$"
+      ]
+    },
+    {
+      "map": "Route24_Frlg",
+      "translated": 0,
+      "pending": 53,
+      "samples": [
+        "Congratulations! You beat our\\n",
+        "five contest TRAINERS!\\p"
+      ]
+    },
+    {
+      "map": "Route25_Frlg",
+      "translated": 0,
+      "pending": 59,
+      "samples": [
+        "Local TRAINERS come here to\\n",
+        "practice.$"
+      ]
+    },
+    {
+      "map": "Route25_SeaCottage_Frlg",
+      "translated": 0,
+      "pending": 78,
+      "samples": [
+        "Hiya! I'm a POKéMON…\\n",
+        "…No I'm not!\\p"
+      ]
+    },
+    {
+      "map": "Route2LifeguardShack",
+      "translated": 8,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "Route2_EastBuilding_Frlg",
+      "translated": 0,
+      "pending": 22,
+      "samples": [
+        "Hi! Remember me?\\n",
+        "I'm one of PROF. OAK's AIDES.\\p"
+      ]
+    },
+    {
+      "map": "Route2_Frlg",
+      "translated": 0,
+      "pending": 3,
+      "samples": [
+        "ROUTE 2\\n",
+        "VIRIDIAN CITY - PEWTER CITY$"
+      ]
+    },
+    {
+      "map": "Route2_House_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "A fainted POKéMON just has no\\n",
+        "energy left to battle.\\p"
+      ]
+    },
+    {
+      "map": "Route2_ViridianForest_NorthEntrance_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "Many POKéMON live only in forests \\n",
+        "and caves.\\p"
+      ]
+    },
+    {
+      "map": "Route2_ViridianForest_SouthEntrance_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "Are you going to VIRIDIAN FOREST?\\n",
+        "It's a natural maze in there.\\l"
+      ]
+    },
+    {
+      "map": "Route3_Frlg",
+      "translated": 0,
+      "pending": 52,
+      "samples": [
+        "Whew… I better take a rest…\\n",
+        "Groan…\\p"
+      ]
+    },
+    {
+      "map": "Route4_Frlg",
+      "translated": 0,
+      "pending": 50,
+      "samples": [
+        "Ouch! I tripped over a rocky\\n",
+        "POKéMON, GEODUDE!$"
+      ]
+    },
+    {
+      "map": "Route4_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 32,
+      "samples": [
+        "Okay, set six POKé BALLS in my\\n",
+        "belt…\\p"
+      ]
+    },
+    {
+      "map": "Route5_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "UNDERGROUND PATH\\n",
+        "CERULEAN CITY - VERMILION CITY$"
+      ]
+    },
+    {
+      "map": "Route5_PokemonDayCare_Frlg",
+      "translated": 0,
+      "pending": 35,
+      "samples": [
+        "I run the DAY-CARE service.\\p",
+        "Would you like me to raise one of\\n"
+      ]
+    },
+    {
+      "map": "Route5_SouthEntrance_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "I'm on guard duty.\\n",
+        "Gee, I'm thirsty, though!\\p"
+      ]
+    },
+    {
+      "map": "Route6_Frlg",
+      "translated": 0,
+      "pending": 35,
+      "samples": [
+        "Who's there?\\n",
+        "Quit listening in on us!$"
+      ]
+    },
+    {
+      "map": "Route6_NorthEntrance_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "I'm on guard duty.\\n",
+        "Gee, I'm thirsty, though!\\p"
+      ]
+    },
+    {
+      "map": "Route7_EastEntrance_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "I'm on guard duty.\\n",
+        "Gee, I'm thirsty, though!\\p"
+      ]
+    },
+    {
+      "map": "Route7_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "UNDERGROUND PATH\\n",
+        "CELADON CITY - LAVENDER TOWN$"
+      ]
+    },
+    {
+      "map": "Route8_Frlg",
+      "translated": 0,
+      "pending": 79,
+      "samples": [
+        "You look good at POKéMON, but how\\n",
+        "is your chemistry grade?$"
+      ]
+    },
+    {
+      "map": "Route8_WestEntrance_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "I'm on guard duty.\\n",
+        "Gee, I'm thirsty, though!\\p"
+      ]
+    },
+    {
+      "map": "Route9_Frlg",
+      "translated": 0,
+      "pending": 50,
+      "samples": [
+        "You have POKéMON with you!\\n",
+        "You're mine!$"
+      ]
+    },
+    {
+      "map": "Route_2",
+      "translated": 119,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "Route_2_2",
+      "translated": 150,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "SSAnne_1F_Corridor_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "Bonjour!\\n",
+        "I am le waiter on this ship!\\p"
+      ]
+    },
+    {
+      "map": "SSAnne_1F_Room1_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "Ssh…!\\n",
+        "I'm a GLOBAL POLICE agent.\\p"
+      ]
+    },
+    {
+      "map": "SSAnne_1F_Room2_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "I love POKéMON!\\n",
+        "Do you?$"
+      ]
+    },
+    {
+      "map": "SSAnne_1F_Room3_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "A world cruise is so elegant yet\\n",
+        "cozy!$"
+      ]
+    },
+    {
+      "map": "SSAnne_1F_Room4_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "Waiter, I would like a cherry pie,\\n",
+        "please!$"
+      ]
+    },
+    {
+      "map": "SSAnne_1F_Room5_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "You insolent pup!\\n",
+        "How dare you barge in!$"
+      ]
+    },
+    {
+      "map": "SSAnne_1F_Room6_Frlg",
+      "translated": 0,
+      "pending": 8,
+      "samples": [
+        "You look tired. Would you like to\\n",
+        "take a short rest?$"
+      ]
+    },
+    {
+      "map": "SSAnne_1F_Room7_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "I am but a solitary traveler…\\p",
+        "My sole companions and friends are\\n"
+      ]
+    },
+    {
+      "map": "SSAnne_2F_Corridor_Frlg",
+      "translated": 0,
+      "pending": 27,
+      "samples": [
+        "This ship, she is a luxury liner for\\n",
+        "TRAINERS of the world!\\p"
+      ]
+    },
+    {
+      "map": "SSAnne_2F_Room1_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "I've journeyed far and wide, but in\\n",
+        "all my travels I've never seen\\l"
+      ]
+    },
+    {
+      "map": "SSAnne_2F_Room2_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "Competing against the young keeps\\n",
+        "me youthful.$"
+      ]
+    },
+    {
+      "map": "SSAnne_2F_Room3_Frlg",
+      "translated": 0,
+      "pending": 8,
+      "samples": [
+        "Ah, yes, I have seen some POKéMON\\n",
+        "ferry people across the water!$"
+      ]
+    },
+    {
+      "map": "SSAnne_2F_Room4_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "Which do you find more worthy,\\n",
+        "a strong or a rare POKéMON?$"
+      ]
+    },
+    {
+      "map": "SSAnne_2F_Room5_Frlg",
+      "translated": 0,
+      "pending": 7,
+      "samples": [
+        "Have you gone to the SAFARI ZONE\\n",
+        "in FUCHSIA CITY?\\p"
+      ]
+    },
+    {
+      "map": "SSAnne_2F_Room6_Frlg",
+      "translated": 0,
+      "pending": 3,
+      "samples": [
+        "The CAPTAIN said he's awfully sick.\\n",
+        "He was all pale.$"
+      ]
+    },
+    {
+      "map": "SSAnne_3F_Corridor_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "Our CAPTAIN is a sword master.\\n",
+        "He's awesome at using CUT.\\p"
+      ]
+    },
+    {
+      "map": "SSAnne_B1F_Room1_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "Matey, you're walking the plank if\\n",
+        "you lose!$"
+      ]
+    },
+    {
+      "map": "SSAnne_B1F_Room2_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "Even us sailors have POKéMON, too!$",
+        "Okay, you're not bad.$"
+      ]
+    },
+    {
+      "map": "SSAnne_B1F_Room3_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "I like feisty kids like you!$",
+        "Argh!\\n"
+      ]
+    },
+    {
+      "map": "SSAnne_B1F_Room4_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "You know what they say about\\n",
+        "sailors and battling!$"
+      ]
+    },
+    {
+      "map": "SSAnne_B1F_Room5_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "My buddy MACHOKE is super strong!\\p",
+        "He has enough STRENGTH to move\\n"
+      ]
+    },
+    {
+      "map": "SSAnne_CaptainsOffice_Frlg",
+      "translated": 0,
+      "pending": 35,
+      "samples": [
+        "CAPTAIN: Ooargh…\\n",
+        "I feel hideous…\\l"
+      ]
+    },
+    {
+      "map": "SSAnne_Deck_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "The party's over.\\n",
+        "The ship will be departing soon.$"
+      ]
+    },
+    {
+      "map": "SSAnne_Kitchen_Frlg",
+      "translated": 0,
+      "pending": 28,
+      "samples": [
+        "You, mon petit!\\n",
+        "We're busy here!\\l"
+      ]
+    },
+    {
+      "map": "SafariZone_Center_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "REST HOUSE$",
+        "TRAINER TIPS\\p"
+      ]
+    },
+    {
+      "map": "SafariZone_Center_RestHouse_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "SARA: Where did my boyfriend,\\n",
+        "ERIK, go?$"
+      ]
+    },
+    {
+      "map": "SafariZone_East_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "REST HOUSE$",
+        "TRAINER TIPS\\p"
+      ]
+    },
+    {
+      "map": "SafariZone_East_RestHouse_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "How many did you catch?\\n",
+        "I'm bushed from the effort!$"
+      ]
+    },
+    {
+      "map": "SafariZone_North_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "REST HOUSE$",
+        "TRAINER TIPS\\p"
+      ]
+    },
+    {
+      "map": "SafariZone_North_RestHouse_Frlg",
+      "translated": 0,
+      "pending": 9,
+      "samples": [
+        "You can keep any item you find in\\n",
+        "the SAFARI ZONE.\\p"
+      ]
+    },
+    {
+      "map": "SafariZone_SecretHouse_Frlg",
+      "translated": 0,
+      "pending": 20,
+      "samples": [
+        "Ah! Finally!\\p",
+        "You're the first person to reach\\n"
+      ]
+    },
+    {
+      "map": "SafariZone_West_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "REST HOUSE$",
+        "REQUEST NOTICE\\p"
+      ]
+    },
+    {
+      "map": "SafariZone_West_RestHouse_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "The SAFARI ZONE's huge, wouldn't\\n",
+        "you say?\\p"
+      ]
+    },
+    {
+      "map": "SaffronCity_CopycatsHouse_1F_Frlg",
+      "translated": 0,
+      "pending": 7,
+      "samples": [
+        "My daughter is so self-centered.\\n",
+        "She has but a few friends.$"
+      ]
+    },
+    {
+      "map": "SaffronCity_CopycatsHouse_2F_Frlg",
+      "translated": 0,
+      "pending": 51,
+      "samples": [
+        "{PLAYER}: Hi!\\n",
+        "Do you like POKéMON?\\p"
+      ]
+    },
+    {
+      "map": "SaffronCity_Dojo_Frlg",
+      "translated": 0,
+      "pending": 54,
+      "samples": [
+        "Grunt!\\p",
+        "I am the KARATE MASTER!\\n"
+      ]
+    },
+    {
+      "map": "SaffronCity_Frlg",
+      "translated": 0,
+      "pending": 65,
+      "samples": [
+        "What do you want?\\n",
+        "Get lost!$"
+      ]
+    },
+    {
+      "map": "SaffronCity_Gym_Frlg",
+      "translated": 0,
+      "pending": 96,
+      "samples": [
+        "I had a vision of your arrival.\\p",
+        "I have had psychic powers since\\n"
+      ]
+    },
+    {
+      "map": "SaffronCity_House_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "…Thank you for writing.\\n",
+        "I hope to see you soon!\\p"
+      ]
+    },
+    {
+      "map": "SaffronCity_Mart_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "MAX REPEL keeps weaker POKéMON\\n",
+        "from appearing.\\p"
+      ]
+    },
+    {
+      "map": "SaffronCity_MrPsychicsHouse_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "…Wait! Don't say a word!\\p",
+        "You wanted this!$"
+      ]
+    },
+    {
+      "map": "SaffronCity_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "POKéMON growth rates differ from\\n",
+        "species to species.$"
+      ]
+    },
+    {
+      "map": "SaffronCity_PokemonTrainerFanClub_Frlg",
+      "translated": 0,
+      "pending": 214,
+      "samples": [
+        "Huh?\\n",
+        "You…$"
+      ]
+    },
+    {
+      "map": "SeafoamIslands_B4F_Frlg",
+      "translated": 0,
+      "pending": 17,
+      "samples": [
+        "When you're up on a rocky mountain\\n",
+        "like this, rockslides are a threat.\\p"
+      ]
+    },
+    {
+      "map": "SennenAct2",
+      "translated": 74,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "SennenVillage",
+      "translated": 4,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "SevenIsland_Frlg",
+      "translated": 0,
+      "pending": 24,
+      "samples": [
+        "Not many people come out here.\\p",
+        "If I train here, I'm convinced that\\n"
+      ]
+    },
+    {
+      "map": "SevenIsland_House_Room1_Frlg",
+      "translated": 0,
+      "pending": 64,
+      "samples": [
+        "I may not look like much now,\\n",
+        "but when I was younger…\\p"
+      ]
+    },
+    {
+      "map": "SevenIsland_Mart_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "POKéMON have personalities of their\\n",
+        "own, just like people.\\p"
+      ]
+    },
+    {
+      "map": "SevenIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 13,
+      "samples": [
+        "On this island, different events\\n",
+        "occur depending on connections.\\p"
+      ]
+    },
+    {
+      "map": "SevenIsland_SevaultCanyon_Entrance_Frlg",
+      "translated": 0,
+      "pending": 51,
+      "samples": [
+        "Kyahaha!\\n",
+        "I'll flick you away effortlessly!$"
+      ]
+    },
+    {
+      "map": "SevenIsland_SevaultCanyon_Frlg",
+      "translated": 0,
+      "pending": 75,
+      "samples": [
+        "My conditioning's in top form!$",
+        "Huh?\\n"
+      ]
+    },
+    {
+      "map": "SevenIsland_SevaultCanyon_House_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "Dance, dance!\\n",
+        "CHANSEY Dance!\\p"
+      ]
+    },
+    {
+      "map": "SevenIsland_SevaultCanyon_TanobyKey_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "A mysterious rumble echoed\\n",
+        "somewhere far away.$"
+      ]
+    },
+    {
+      "map": "SevenIsland_TanobyRuins_Frlg",
+      "translated": 0,
+      "pending": 29,
+      "samples": [
+        "Do you know anything about this\\n",
+        "stone chamber?$"
+      ]
+    },
+    {
+      "map": "SevenIsland_TrainerTower_Frlg",
+      "translated": 0,
+      "pending": 16,
+      "samples": [
+        "I sensed your approach.$",
+        "Give up…$"
+      ]
+    },
+    {
+      "map": "ShinTokyo",
+      "translated": 258,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "ShinTokyoJail",
+      "translated": 89,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "ShinTokyoStation",
+      "translated": 13,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "ShinkansenInterior",
+      "translated": 57,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "ShinkansenInterior_Act2",
+      "translated": 5,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "SilphCo_10F_Frlg",
+      "translated": 0,
+      "pending": 15,
+      "samples": [
+        "Welcome to 10F!\\n",
+        "So good of you to join me!$"
+      ]
+    },
+    {
+      "map": "SilphCo_11F_Frlg",
+      "translated": 0,
+      "pending": 60,
+      "samples": [
+        "PRESIDENT: Oh, dear boy!\\n",
+        "Thank you for saving SILPH.\\p"
+      ]
+    },
+    {
+      "map": "SilphCo_1F_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "Welcome.\\p",
+        "The PRESIDENT is in the boardroom\\n"
+      ]
+    },
+    {
+      "map": "SilphCo_2F_Frlg",
+      "translated": 0,
+      "pending": 40,
+      "samples": [
+        "Help!\\n",
+        "I'm a SILPH employee.$"
+      ]
+    },
+    {
+      "map": "SilphCo_3F_Frlg",
+      "translated": 0,
+      "pending": 16,
+      "samples": [
+        "I work for SILPH CO.\\n",
+        "What am I to do?$"
+      ]
+    },
+    {
+      "map": "SilphCo_4F_Frlg",
+      "translated": 0,
+      "pending": 21,
+      "samples": [
+        "Sssh!\\n",
+        "Can't you see I'm hiding?$"
+      ]
+    },
+    {
+      "map": "SilphCo_5F_Frlg",
+      "translated": 0,
+      "pending": 44,
+      "samples": [
+        "TEAM ROCKET is in an uproar over\\n",
+        "some intruder.\\p"
+      ]
+    },
+    {
+      "map": "SilphCo_6F_Frlg",
+      "translated": 0,
+      "pending": 38,
+      "samples": [
+        "The ROCKETS came and took over\\n",
+        "the building!$"
+      ]
+    },
+    {
+      "map": "SilphCo_7F_Frlg",
+      "translated": 0,
+      "pending": 80,
+      "samples": [
+        "Oh! Hi! You're not a ROCKET!\\n",
+        "You came to save us?\\l"
+      ]
+    },
+    {
+      "map": "SilphCo_8F_Frlg",
+      "translated": 0,
+      "pending": 24,
+      "samples": [
+        "I wonder if SILPH is finished…$",
+        "Thanks for saving us!$"
+      ]
+    },
+    {
+      "map": "SilphCo_9F_Frlg",
+      "translated": 0,
+      "pending": 21,
+      "samples": [
+        "You look tired.\\n",
+        "You should take a quick nap.$"
+      ]
+    },
+    {
+      "map": "SixIsland_DottedHole_SapphireRoom_Frlg",
+      "translated": 0,
+      "pending": 18,
+      "samples": [
+        "{PLAYER} found a SAPPHIRE!$",
+        "Fufu… Fufufufu…\\n"
+      ]
+    },
+    {
+      "map": "SixIsland_Frlg",
+      "translated": 0,
+      "pending": 8,
+      "samples": [
+        "SIX ISLAND\\n",
+        "Fortune Island of Aged Wisdom$"
+      ]
+    },
+    {
+      "map": "SixIsland_GreenPath_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "…Huh?\\p",
+        "I was envisioning my house, but\\n"
+      ]
+    },
+    {
+      "map": "SixIsland_House_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "There's nothing that young people'd\\n",
+        "find exciting here on this island.\\p"
+      ]
+    },
+    {
+      "map": "SixIsland_Mart_Frlg",
+      "translated": 0,
+      "pending": 8,
+      "samples": [
+        "Play with POKéMON lots and live\\n",
+        "a long life!\\p"
+      ]
+    },
+    {
+      "map": "SixIsland_OutcastIsland_Frlg",
+      "translated": 0,
+      "pending": 46,
+      "samples": [
+        "There're no rare POKéMON around\\n",
+        "these parts! Not a one!\\p"
+      ]
+    },
+    {
+      "map": "SixIsland_PatternBush_Frlg",
+      "translated": 0,
+      "pending": 84,
+      "samples": [
+        "I'm curious, how do you raise your\\n",
+        "POKéMON?$"
+      ]
+    },
+    {
+      "map": "SixIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 30,
+      "samples": [
+        "For ten years, I've searched for\\n",
+        "RUINS.\\p"
+      ]
+    },
+    {
+      "map": "SixIsland_RuinValley_Frlg",
+      "translated": 0,
+      "pending": 46,
+      "samples": [
+        "I can't figure out how I'm supposed\\n",
+        "to get inside.$"
+      ]
+    },
+    {
+      "map": "SixIsland_WaterPath_Frlg",
+      "translated": 0,
+      "pending": 52,
+      "samples": [
+        "I let a pleasant breeze lead me\\n",
+        "all the way here.$"
+      ]
+    },
+    {
+      "map": "SixIsland_WaterPath_House1_Frlg",
+      "translated": 0,
+      "pending": 31,
+      "samples": [
+        "Hera, hera, HERACROSS!\\n",
+        "Big and shiny, it's the bug boss!\\l"
+      ]
+    },
+    {
+      "map": "SixIsland_WaterPath_House2_Frlg",
+      "translated": 0,
+      "pending": 4,
+      "samples": [
+        "My height is 67.0 inches on the\\n",
+        "button.\\p"
+      ]
+    },
+    {
+      "map": "StarSummit",
+      "translated": 20,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "ThreeIsland_BerryForest_Frlg",
+      "translated": 0,
+      "pending": 29,
+      "samples": [
+        "LOSTELLE: Whimper… Sniff…\\n",
+        "Oh! Please, help!\\p"
+      ]
+    },
+    {
+      "map": "ThreeIsland_BondBridge_Frlg",
+      "translated": 0,
+      "pending": 51,
+      "samples": [
+        "The salty tang of the sea…\\n",
+        "It tickles my heart.$"
+      ]
+    },
+    {
+      "map": "ThreeIsland_DunsparceTunnel_Frlg",
+      "translated": 0,
+      "pending": 19,
+      "samples": [
+        "Hey, there!\\n",
+        "How's it going?\\p"
+      ]
+    },
+    {
+      "map": "ThreeIsland_Frlg",
+      "translated": 0,
+      "pending": 101,
+      "samples": [
+        "THREE ISLAND\\n",
+        "Kin Island of Family Bonding$"
+      ]
+    },
+    {
+      "map": "ThreeIsland_House1_Frlg",
+      "translated": 0,
+      "pending": 5,
+      "samples": [
+        "LOSTELLE: Hi, {PLAYER}!\\n",
+        "You're always so cool!\\p"
+      ]
+    },
+    {
+      "map": "ThreeIsland_House2_Frlg",
+      "translated": 0,
+      "pending": 13,
+      "samples": [
+        "Urrrrrrrrgggghhhh…\\n",
+        "Kwaaaaah!\\p"
+      ]
+    },
+    {
+      "map": "ThreeIsland_House3_Frlg",
+      "translated": 0,
+      "pending": 3,
+      "samples": [
+        "I bought this house because I\\n",
+        "wanted to live somewhere quiet.\\p"
+      ]
+    },
+    {
+      "map": "ThreeIsland_House4_Frlg",
+      "translated": 0,
+      "pending": 6,
+      "samples": [
+        "You must never, ever go out to\\n",
+        "the BERRY FOREST alone.\\p"
+      ]
+    },
+    {
+      "map": "ThreeIsland_House5_Frlg",
+      "translated": 0,
+      "pending": 8,
+      "samples": [
+        "Me?\\n",
+        "I'm not LOSTELLE.\\p"
+      ]
+    },
+    {
+      "map": "ThreeIsland_Mart_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "Is it true?\\p",
+        "CELADON DEPT. STORE is several\\n"
+      ]
+    },
+    {
+      "map": "ThreeIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 13,
+      "samples": [
+        "Hey, did you hear the news?\\p",
+        "The PC network here can now link\\n"
+      ]
+    },
+    {
+      "map": "ThreeIsland_Port_Frlg",
+      "translated": 0,
+      "pending": 16,
+      "samples": [
+        "We're the KANTO RIDER FEDERATION!\\n",
+        "Vroom! Vavavavooom! Vroom!\\p"
+      ]
+    },
+    {
+      "map": "Torii",
+      "translated": 46,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TowerCommand",
+      "translated": 48,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TowerMid",
+      "translated": 16,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TowerStreet",
+      "translated": 16,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TowerTop",
+      "translated": 60,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TradewindApartment_2",
+      "translated": 8,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TradewindGym",
+      "translated": 16,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TradewindHouse",
+      "translated": 7,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TradewindLab",
+      "translated": 21,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TradewindTown",
+      "translated": 180,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "TrainerTower_Lobby_Frlg",
+      "translated": 0,
+      "pending": 76,
+      "samples": [
+        "Hello!\\p",
+        "Welcome to TRAINER TOWER where\\n"
+      ]
+    },
+    {
+      "map": "TwoIsland_CapeBrink_House_Frlg",
+      "translated": 0,
+      "pending": 36,
+      "samples": [
+        "I perfected the ultimate move of\\n",
+        "its type…\\p"
+      ]
+    },
+    {
+      "map": "TwoIsland_Frlg",
+      "translated": 0,
+      "pending": 60,
+      "samples": [
+        "TWO ISLAND\\n",
+        "Boon Island for Two$"
+      ]
+    },
+    {
+      "map": "TwoIsland_House_Frlg",
+      "translated": 0,
+      "pending": 27,
+      "samples": [
+        "I'm the POKéMON MOVE MANIAC.\\p",
+        "I know every single move that\\n"
+      ]
+    },
+    {
+      "map": "TwoIsland_JoyfulGameCorner_Frlg",
+      "translated": 0,
+      "pending": 77,
+      "samples": [
+        "Now, where's LOSTELLE gotten to\\n",
+        "today?\\p"
+      ]
+    },
+    {
+      "map": "TwoIsland_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "Have you visited the GAME CORNER\\n",
+        "already?\\p"
+      ]
+    },
+    {
+      "map": "UndergroundArena",
+      "translated": 102,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "UndergroundPath_EastEntrance_Frlg",
+      "translated": 0,
+      "pending": 3,
+      "samples": [
+        "The DEPARTMENT STORE in CELADON\\n",
+        "has a great selection.\\p"
+      ]
+    },
+    {
+      "map": "UndergroundPath_SouthEntrance_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "People often lose things in the\\n",
+        "darkness of the UNDERGROUND PATH.$"
+      ]
+    },
+    {
+      "map": "UndergroundPath_WestEntrance_Frlg",
+      "translated": 0,
+      "pending": 2,
+      "samples": [
+        "I heard a sleepy POKéMON appeared\\n",
+        "out near CELADON CITY, too.$"
+      ]
+    },
+    {
+      "map": "VermilionCity_Frlg",
+      "translated": 0,
+      "pending": 79,
+      "samples": [
+        "We're careful about pollution here.\\p",
+        "We've heard GRIMER multiplies in\\n"
+      ]
+    },
+    {
+      "map": "VermilionCity_Gym_Frlg",
+      "translated": 0,
+      "pending": 86,
+      "samples": [
+        "Hey, kid! What do you think you're\\n",
+        "doing here?\\p"
+      ]
+    },
+    {
+      "map": "VermilionCity_House1_Frlg",
+      "translated": 0,
+      "pending": 20,
+      "samples": [
+        "I'm the FISHING GURU!\\p",
+        "I simply looove fishing!\\n"
+      ]
+    },
+    {
+      "map": "VermilionCity_House2_Frlg",
+      "translated": 0,
+      "pending": 11,
+      "samples": [
+        "Hi!\\n",
+        "Do you have a {STR_VAR_1}?\\p"
+      ]
+    },
+    {
+      "map": "VermilionCity_House3_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "I'm getting my PIDGEY to fly a\\n",
+        "letter to SAFFRON in the north.$"
+      ]
+    },
+    {
+      "map": "VermilionCity_Mart_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "There are wicked people who will\\n",
+        "use POKéMON for criminal acts.\\p"
+      ]
+    },
+    {
+      "map": "VermilionCity_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 33,
+      "samples": [
+        "Even if they are the same level,\\n",
+        "POKéMON can have very different\\l"
+      ]
+    },
+    {
+      "map": "VermilionCity_PokemonFanClub_Frlg",
+      "translated": 0,
+      "pending": 63,
+      "samples": [
+        "Won't you admire my PIKACHU's\\n",
+        "adorable tail?$"
+      ]
+    },
+    {
+      "map": "VictoryRoad_1F_Frlg",
+      "translated": 0,
+      "pending": 10,
+      "samples": [
+        "I wonder if you are good enough\\n",
+        "for me?$"
+      ]
+    },
+    {
+      "map": "VictoryRoad_2F_Frlg",
+      "translated": 0,
+      "pending": 25,
+      "samples": [
+        "If you can get through here,\\n",
+        "you can go meet the ELITE FOUR.$"
+      ]
+    },
+    {
+      "map": "VictoryRoad_3F_Frlg",
+      "translated": 0,
+      "pending": 52,
+      "samples": [
+        "You should be proud of yourself,\\n",
+        "having battled your way through\\l"
+      ]
+    },
+    {
+      "map": "ViridianCity_Frlg",
+      "translated": 0,
+      "pending": 83,
+      "samples": [
+        "Those POKé BALLS at your waist!\\n",
+        "You have POKéMON, don't you?\\p"
+      ]
+    },
+    {
+      "map": "ViridianCity_Gym_Frlg",
+      "translated": 0,
+      "pending": 101,
+      "samples": [
+        "Fwahahaha!\\n",
+        "Welcome to my hideout!\\p"
+      ]
+    },
+    {
+      "map": "ViridianCity_House_Frlg",
+      "translated": 0,
+      "pending": 8,
+      "samples": [
+        "Coming up with nicknames is fun,\\n",
+        "but it's not so easy to do.\\p"
+      ]
+    },
+    {
+      "map": "ViridianCity_Mart_Frlg",
+      "translated": 0,
+      "pending": 14,
+      "samples": [
+        "Hey!\\n",
+        "You came from PALLET TOWN?$"
+      ]
+    },
+    {
+      "map": "ViridianCity_PokemonCenter_1F_Frlg",
+      "translated": 0,
+      "pending": 12,
+      "samples": [
+        "Please feel free to use that PC in\\n",
+        "the corner.\\p"
+      ]
+    },
+    {
+      "map": "ViridianCity_School_Frlg",
+      "translated": 0,
+      "pending": 63,
+      "samples": [
+        "Whew! I'm trying to memorize all my\\n",
+        "notes.$"
+      ]
+    },
+    {
+      "map": "ViridianForest_Frlg",
+      "translated": 0,
+      "pending": 59,
+      "samples": [
+        "I came here with some friends to\\n",
+        "catch us some BUG POKéMON!\\p"
+      ]
+    },
+    {
+      "map": "WALNUT_WOODS",
+      "translated": 28,
+      "pending": 0,
+      "samples": []
+    },
+    {
+      "map": "YachtInterior",
+      "translated": 51,
+      "pending": 0,
+      "samples": []
+    }
+  ],
+  "pending_candidates": 8941
+}

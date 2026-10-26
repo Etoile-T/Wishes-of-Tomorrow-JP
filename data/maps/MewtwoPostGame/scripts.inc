@@ -67,46 +67,46 @@ MewtwoPostGame_EventScript_DracoAfter::
 	end
 
 MewtwoPostGame_Text_Locked::
-	.string "The dockhouse is sealed from\n"
-	.string "the inside.$"
+	.string "{JPN}ふなごやは うちがわから\n"
+	.string "かたく とざされている。$"
 
 MewtwoPostGame_Text_DracoIntro::
-	.string "You came. Good.\p"
-	.string "MUTRID's labs had one project\n"
-	.string "even THE ONI feared.\p"
-	.string "A living weapon. Older than the\n"
-	.string "machine. Angrier than the sea.\p"
-	.string "The primitive lifeform…\n"
-	.string "ARMORED MEWTWO.\p"
-	.string "Show me true power unleashed!$"
+	.string "{JPN}きたか。 よし。\p"
+	.string "ミュートリッドの けんきゅうじょには\n"
+	.string "オニさえ おそれた けいかくが あった。\p"
+	.string "いきた へいき。 きかいよりも ふるく\n"
+	.string "うみよりも はげしい いかりを もつ。\p"
+	.string "げんしの せいめいたい…\n"
+	.string "アーマードミュウツー。\p"
+	.string "ときはなたれた しんの ちからを みせろ!$"
 
 MewtwoPostGame_Text_DracoDefeat::
-	.string "…It lowered its head to you.\p"
-	.string "It never did that for me.$"
+	.string "{JPN}…おまえに あたまを さげた。\p"
+	.string "おれには いちども しなかったのに。$"
 
 MewtwoPostGame_Text_DracoHandOver::
-	.string "A deal's a deal.\p"
-	.string "The armor stays on, it keeps\n"
-	.string "the anger in.\p"
-	.string "Take it.$"
+	.string "{JPN}やくそくは やくそくだ。\p"
+	.string "よろいは そのままだ。\n"
+	.string "あれが いかりを おさえている。\p"
+	.string "つれていけ。$"
 
 MewtwoPostGame_Text_ReceivedMewtwo::
-	.string "{PLAYER} received\n"
-	.string "ARMORED MEWTWO!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は\n"
+	.string "アーマードミュウツーを もらった!$"
 
 MewtwoPostGame_Text_DracoNoRoom::
-	.string "Your party and boxes are\n"
-	.string "stuffed.\p"
-	.string "Make room. This thing does\n"
-	.string "not share a cage.$"
+	.string "{JPN}てもちも ボックスも\n"
+	.string "いっぱいじゃないか。\p"
+	.string "あきを つくれ。 こいつは ほかの やつと\n"
+	.string "おなじ おりには はいらない。$"
 
 MewtwoPostGame_Text_DracoParting::
-	.string "Treat it like a partner, not\n"
-	.string "a weapon.\p"
-	.string "That was MUTRID's mistake.$"
+	.string "{JPN}へいきではなく\n"
+	.string "パートナーとして あつかってくれ。\p"
+	.string "ミュートリッドは そこを まちがえた。$"
 
 MewtwoPostGame_Text_DracoAfter::
-	.string "It never obeyed me. Not once.\p"
-	.string "But it follows you.\p"
-	.string "…Maybe that's what true power\n"
-	.string "unleashed actually is.$"
+	.string "{JPN}おれには いちども したがわなかった。\p"
+	.string "だが おまえには ついていく。\p"
+	.string "…それが しんの ちからを ときはなつと\n"
+	.string "いうことなのかも しれないな。$"

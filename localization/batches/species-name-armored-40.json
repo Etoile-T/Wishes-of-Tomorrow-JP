@@ -1,0 +1,13 @@
+[
+  {
+    "id": "5be624ae67fa591c",
+    "translation": "{JPN_NAME_10}アーマードミュウツー",
+    "target": "SPECIES_MEWTWO_ARMORED.speciesName[0]",
+    "provenance": {
+      "batch": "species-name-armored-40",
+      "method": "Full Japanese species name; bounded 10-glyph scope; existing 12-byte nickname extension",
+      "encoded_bytes": 12,
+      "byte_budget": 12
+    }
+  }
+]

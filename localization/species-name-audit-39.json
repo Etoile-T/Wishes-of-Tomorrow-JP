@@ -1,0 +1,342 @@
+{
+  "names": [
+    {
+      "id": "3c82e9bb51ee92de",
+      "file": "src/data/pokemon/species_info/gen_2_families.h",
+      "line": 4075,
+      "source": "Unown",
+      "translation": "アンノーン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "204691e5e3b6afc0",
+      "file": "src/data/pokemon/species_info/gen_4_families.h",
+      "line": 2305,
+      "source": "Mothim",
+      "translation": "ガーメイル",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "edbfd8fd6b1f80d0",
+      "file": "src/data/pokemon/species_info/gen_4_families.h",
+      "line": 7855,
+      "source": "Arceus",
+      "translation": "アルセウス",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "d599bb7cfe6477ac",
+      "file": "src/data/pokemon/species_info/gen_5_families.h",
+      "line": 13989,
+      "source": "Genesect",
+      "translation": "ゲノセクト",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "cf82a024ee8f58f9",
+      "file": "src/data/pokemon/species_info/gen_6_families.h",
+      "line": 1321,
+      "source": "Scatterbug",
+      "translation": "コフキムシ",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "a9c0f62ac3647717",
+      "file": "src/data/pokemon/species_info/gen_6_families.h",
+      "line": 1405,
+      "source": "Spewpa",
+      "translation": "コフーライ",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "a5b34b0e2091f2bb",
+      "file": "src/data/pokemon/species_info/gen_6_families.h",
+      "line": 1489,
+      "source": "Vivillon",
+      "translation": "ビビヨン",
+      "encoded_bytes": 8
+    },
+    {
+      "id": "bec88d43162e9d55",
+      "file": "src/data/pokemon/species_info/gen_6_families.h",
+      "line": 1962,
+      "source": "Flabébé",
+      "translation": "フラベベ",
+      "encoded_bytes": 8
+    },
+    {
+      "id": "eedbab536c65267d",
+      "file": "src/data/pokemon/species_info/gen_6_families.h",
+      "line": 2064,
+      "source": "Floette",
+      "translation": "フラエッテ",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "04daab3f669ed849",
+      "file": "src/data/pokemon/species_info/gen_6_families.h",
+      "line": 2213,
+      "source": "Florges",
+      "translation": "フラージェス",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "d7458923573d4796",
+      "file": "src/data/pokemon/species_info/gen_6_families.h",
+      "line": 2665,
+      "source": "Furfrou",
+      "translation": "トリミアン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "209556ac333ceb33",
+      "file": "src/data/pokemon/species_info/gen_7_families.h",
+      "line": 4514,
+      "source": "Silvally",
+      "translation": "シルヴァディ",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "2aa297d58ffed348",
+      "file": "src/data/pokemon/species_info/gen_7_families.h",
+      "line": 4595,
+      "source": "Minior",
+      "translation": "メテノ",
+      "encoded_bytes": 7
+    },
+    {
+      "id": "1937901afc1b9776",
+      "file": "src/data/pokemon/species_info/gen_7_families.h",
+      "line": 5758,
+      "source": "Tapu Koko",
+      "translation": "カプ・コケコ",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "d3b5a87e9719f0c0",
+      "file": "src/data/pokemon/species_info/gen_7_families.h",
+      "line": 5834,
+      "source": "Tapu Lele",
+      "translation": "カプ・テテフ",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "fb4e1a46614a0929",
+      "file": "src/data/pokemon/species_info/gen_7_families.h",
+      "line": 5906,
+      "source": "Tapu Bulu",
+      "translation": "カプ・ブルル",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "fc6aed91633d2fcd",
+      "file": "src/data/pokemon/species_info/gen_7_families.h",
+      "line": 5980,
+      "source": "Tapu Fini",
+      "translation": "カプ・レヒレ",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "3648303cc589065e",
+      "file": "src/data/pokemon/species_info/gen_8_families.h",
+      "line": 5034,
+      "source": "Alcremie",
+      "translation": "マホイップ",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "7118c308ab252dd2",
+      "file": "src/data/pokemon/species_info/gen_9_families.h",
+      "line": 1712,
+      "source": "Arboliva",
+      "translation": "オリーヴァ",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "e20d5279079e1dbc",
+      "file": "src/data/pokemon/species_info/gen_9_families.h",
+      "line": 3343,
+      "source": "Scovillain",
+      "translation": "スコヴィラン",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "f9e6c51d071a2b94",
+      "file": "src/data/pokemon/species_info/gen_9_families.h",
+      "line": 3409,
+      "source": "Scovillain",
+      "translation": "スコヴィラン",
+      "encoded_bytes": 10
+    },
+    {
+      "id": "03b1be7cd6988a48",
+      "file": "src/data/pokemon/species_info/gen_9_families.h",
+      "line": 7991,
+      "source": "Ogerpon",
+      "translation": "オーガポン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "ddc2b70fe7635752",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 28,
+      "source": "Amoonguss",
+      "translation": "モロバレル",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "aa8273603d62cde6",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 98,
+      "source": "Azumarill",
+      "translation": "マリルリ",
+      "encoded_bytes": 8
+    },
+    {
+      "id": "f220318994cffc04",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 169,
+      "source": "Butterfree",
+      "translation": "バタフリー",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "d237a4e8b46f7691",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 240,
+      "source": "Conkeldurr",
+      "translation": "ローブシン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "f1184746161c1327",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 310,
+      "source": "Dugtrio",
+      "translation": "ダグトリオ",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "319c6888dee29f0c",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 380,
+      "source": "Electivire",
+      "translation": "エレキブル",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "b61c5d5264476709",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 451,
+      "source": "Flygon",
+      "translation": "フライゴン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "73640169e9ee4c26",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 522,
+      "source": "Golem",
+      "translation": "ゴローニャ",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "9017d9512e1a6e4d",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 592,
+      "source": "Jumpluff",
+      "translation": "ワタッコ",
+      "encoded_bytes": 8
+    },
+    {
+      "id": "cf7a59b7b13f743c",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 663,
+      "source": "Kabutops",
+      "translation": "カブトプス",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "02dcf7eeeebabb6d",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 733,
+      "source": "Magmortar",
+      "translation": "ブーバーン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "80586841234c9841",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 803,
+      "source": "Milotic",
+      "translation": "ミロカロス",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "3c11e15afc5d9586",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 873,
+      "source": "Omastar",
+      "translation": "オムスター",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "b209daae3fb384d3",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 943,
+      "source": "Poliwrath",
+      "translation": "ニョロボン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "99f8650883ee185c",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 1013,
+      "source": "Shiftry",
+      "translation": "ダーテング",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "80c655dcd4636a0b",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 1083,
+      "source": "Snorlax",
+      "translation": "カビゴン",
+      "encoded_bytes": 8
+    },
+    {
+      "id": "cccf85e86cb21f50",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 1154,
+      "source": "Torkoal",
+      "translation": "コータス",
+      "encoded_bytes": 8
+    },
+    {
+      "id": "87862e6c1ffba674",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 1225,
+      "source": "Typhlosion",
+      "translation": "バクフーン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "b5c15d268484aaee",
+      "file": "src/data/pokemon/species_info/wot_megas.h",
+      "line": 1295,
+      "source": "Whimsicott",
+      "translation": "エルフーン",
+      "encoded_bytes": 9
+    },
+    {
+      "id": "5be624ae67fa591c",
+      "file": "src/data/pokemon/species_info/gen_1_families.h",
+      "source": "Armor Mewtwo",
+      "translation": "アーマードミュウツー",
+      "encoded_bytes": 12,
+      "scope": "bounded 10-glyph Japanese name; existing 12-byte nickname extension"
+    }
+  ],
+  "coverage": "All pending literal .speciesName fields in existing catalog, including shared macros. Does not infer the preceding species constant for macros; runtime UI not covered.",
+  "pending_literal_species_names": 0
+}

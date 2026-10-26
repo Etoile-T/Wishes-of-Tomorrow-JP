@@ -7,6 +7,16 @@ c = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(c)
 
 class CatalogTests(unittest.TestCase):
+    def test_bounded_name_span_and_restored_punctuation_mode(self):
+        c.validate(dict(id='name', source='Armor Mewtwo', translation='{JPN_NAME_10}アーマードミュウツー'), set('アーマードミュウツー'))
+        self.assertEqual(c.japanese_mode_text('{JPN_NAME_2}あい,ABC'), 'あい')
+        self.assertEqual(c.japanese_mode_text('{JPN}{JPN_NAME_2}あいう'), 'あいう')
+
+    def test_incomplete_name_span_refused(self):
+        for text in ['{JPN_NAME_10}あい', '{JPN_NAME_2}あ{ENG}']:
+            with self.assertRaisesRegex(ValueError, 'incomplete Japanese name span'):
+                c.validate(dict(id='name', source='Name', translation=text), set('あい'))
+
     def test_comments_and_adjacent_literals(self):
         text = '// _("comment")\n_("Hello "\n"world\\n") /* _("hidden") */'
         matches = list(c.MACRO.finditer(c.masked(text)))

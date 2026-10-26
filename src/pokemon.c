@@ -36,6 +36,8 @@
 #include "pokedex.h"
 #include "pokeblock.h"
 #include "pokemon.h"
+#include "naming_input.h"
+#include "pokemon_name_localization.h"
 #include "pokemon_animation.h"
 #include "pokemon_icon.h"
 #include "pokemon_summary_screen.h"
@@ -2539,7 +2541,7 @@ u32 GetBoxMonData3(struct BoxPokemon *boxMon, s32 field, u8 *data)
             }
             else if (boxMon->language == LANGUAGE_JAPANESE
                   && !(boxMon->nickname[0] == EXT_CTRL_CODE_BEGIN && (boxMon->nickname[1] == EXT_CTRL_CODE_JPN
-                       || (boxMon->nickname[1] >= EXT_CTRL_CODE_JPN_NAME_1 && boxMon->nickname[1] <= EXT_CTRL_CODE_JPN_NAME_5))))
+                       || (boxMon->nickname[1] >= EXT_CTRL_CODE_JPN_NAME_1 && boxMon->nickname[1] <= EXT_CTRL_CODE_JPN_NAME_10))))
             {
                 data[0] = EXT_CTRL_CODE_BEGIN;
                 data[1] = EXT_CTRL_CODE_JPN;
@@ -2591,7 +2593,13 @@ u32 GetBoxMonData3(struct BoxPokemon *boxMon, s32 field, u8 *data)
                     }
                 }
 
+                // Localize the original default for existing gifts in memory.
+                // Explicit nicknames and all save bytes remain unchanged.
+                if (substruct0->species == SPECIES_MEWTWO_ARMORED
+                 && IsLegacyArmoredMewtwoName(boxMon->nickname, substruct0->nickname11, substruct0->nickname12))
+                    StringCopyN(data, GetSpeciesName(SPECIES_MEWTWO_ARMORED), retVal);
                 data[retVal] = EOS;
+                NamingInputFitSpan(data, retVal);
             }
             break;
         }

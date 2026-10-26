@@ -243,6 +243,11 @@
 #define EXT_CTRL_CODE_JPN_NAME_3             0x1F
 #define EXT_CTRL_CODE_JPN_NAME_4             0x20
 #define EXT_CTRL_CODE_JPN_NAME_5             0x21
+#define EXT_CTRL_CODE_JPN_NAME_6             0x22
+#define EXT_CTRL_CODE_JPN_NAME_7             0x23
+#define EXT_CTRL_CODE_JPN_NAME_8             0x24
+#define EXT_CTRL_CODE_JPN_NAME_9             0x25
+#define EXT_CTRL_CODE_JPN_NAME_10            0x26
 
 #define TEXT_COLOR_TRANSPARENT  0x0
 #define TEXT_COLOR_WHITE        0x1

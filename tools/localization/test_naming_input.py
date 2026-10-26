@@ -19,7 +19,10 @@ class NamingInputTests(unittest.TestCase):
                           '#define TRUE 1\n#define FALSE 0\n#include "naming_input.h"\n'
                           'int encode(u8 *d, u8 c, const u8 *g, u8 n) { return NamingInputEncode(d,c,g,n); }\n'
                           'void decode(u8 *d, u8 c, const u8 *s) { NamingInputDecode(d,c,s); }\n'
-                          'int limit(u8 c) { return NamingInputKanaLimit(c); }\n')
+                          'int limit(u8 c) { return NamingInputKanaLimit(c); }\n'
+                          'void fit(u8 *d,u8 n) { NamingInputFitSpan(d,n); }\n'
+                          '#include "pokemon_name_localization.h"\n'
+                          'int legacy(const u8 *d,u8 a,u8 b){return IsLegacyArmoredMewtwoName(d,a,b); }\n')
         text = (ROOT / 'src/text.c').read_text()
         width = text.split('s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)\n{', 1)[1].split('s32 GetStringLineWidth(', 1)[0]
         with source.open('a') as out:
@@ -35,6 +38,11 @@ class NamingInputTests(unittest.TestCase):
                       's32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)\n{' + width + '\n'
                       'int width(const u8 *s){return GetStringWidth(0,s,0);}\n'
                       'int widthvar(const u8 *s){const u8 t[]={PLACEHOLDER_BEGIN,PLACEHOLDER_ID_STRING_VAR_1,CHAR_A,EOS};gStringVar1=s;return width(t);}\n')
+        compress = text.split('static void CompressJapaneseSmallGlyph(void)\n{', 1)[1].split('static void DecompressGlyph_SmallNarrower(', 1)[0]
+        with source.open('a') as out:
+            out.write('struct {u32 gfxBufferTop[16],gfxBufferBottom[16];u8 width,height;} gCurGlyph;\n'
+                      'static void CompressJapaneseSmallGlyph(void)\n{' + compress + '\n'
+                      'u32 compress(u32 row){gCurGlyph.gfxBufferTop[0]=row;CompressJapaneseSmallGlyph();return gCurGlyph.gfxBufferTop[0];}\n')
         library = folder / 'encoder.so'
         subprocess.run(['cc', '-shared', '-fPIC', '-I', str(ROOT / 'include'), str(source), '-o', str(library)], check=True)
         cls.library = ctypes.CDLL(str(library))
@@ -112,7 +120,7 @@ class NamingInputTests(unittest.TestCase):
         width = self.library.width
         width.argtypes = [ctypes.POINTER(ctypes.c_ubyte)]
         width.restype = ctypes.c_int
-        for count in range(1, 6):
+        for count in range(1, 11):
             encoded = [0xFC, 0x1C + count] + [1] * count
             english = (ctypes.c_ubyte * (len(encoded) + 3))(*(encoded + [0xBB, 0xBC, 0xFF]))
             self.assertEqual(width(english), count * 8 + 12)
@@ -125,6 +133,37 @@ class NamingInputTests(unittest.TestCase):
         width.restype = ctypes.c_int
         name = (ctypes.c_ubyte * 8)(0xFC, 0x21, 1, 2, 3, 4, 5, 0xFF)
         self.assertEqual(width(name), 5 * 8 + 6)
+
+    def test_long_species_name_decode_and_legacy_span(self):
+        full = [0xFC, 0x26] + list(range(1, 11)) + [0xFF]
+        self.assertEqual(self.decode(full, 13)[:11], bytes(list(range(1, 11)) + [0xFF]))
+        fit = self.library.fit
+        fit.argtypes = [ctypes.POINTER(ctypes.c_ubyte), ctypes.c_ubyte]
+        legacy = (ctypes.c_ubyte * 11)(*(full[:10] + [0xFF]))
+        fit(legacy, 10)
+        self.assertEqual(bytes(legacy), bytes([0xFC, 0x24] + list(range(1, 9)) + [0xFF]))
+        full_buffer = (ctypes.c_ubyte * 13)(*full)
+        fit(full_buffer, 12)
+        self.assertEqual(bytes(full_buffer), bytes(full))
+
+    def test_legacy_armored_default_match_is_exact(self):
+        legacy = self.library.legacy
+        legacy.argtypes = [ctypes.POINTER(ctypes.c_ubyte), ctypes.c_ubyte, ctypes.c_ubyte]
+        old = [0xBB, 0xE6, 0xE1, 0xE3, 0xE6, 0, 0xC7, 0xD9, 0xEB, 0xE8]
+        name = (ctypes.c_ubyte * 10)(*old)
+        self.assertTrue(legacy(name, 0xEB, 0xE3))
+        self.assertFalse(legacy(name, 0xEB, 0xBB))
+        name[0] = 0xBC
+        self.assertFalse(legacy(name, 0xEB, 0xE3))
+
+    def test_healthbox_glyph_compression(self):
+        compress = self.library.compress
+        compress.argtypes = [ctypes.c_uint32]
+        compress.restype = ctypes.c_uint32
+        self.assertEqual(compress(0x76543210), 0x75420)
+        self.assertEqual(compress(0xFFFFFFFF), 0xFFFFF)
+        self.assertEqual(compress(0), 0)
+        self.assertLessEqual(10 * 5, 55)
 
     def test_keyboard_coverage_and_glyphs(self):
         source = (ROOT / 'src/naming_screen.c').read_text()

@@ -387,6 +387,11 @@ u8 *StringExpandPlaceholders(u8 *dest, const u8 *src)
             case EXT_CTRL_CODE_JPN_NAME_3:
             case EXT_CTRL_CODE_JPN_NAME_4:
             case EXT_CTRL_CODE_JPN_NAME_5:
+            case EXT_CTRL_CODE_JPN_NAME_6:
+            case EXT_CTRL_CODE_JPN_NAME_7:
+            case EXT_CTRL_CODE_JPN_NAME_8:
+            case EXT_CTRL_CODE_JPN_NAME_9:
+            case EXT_CTRL_CODE_JPN_NAME_10:
             case EXT_CTRL_CODE_PAUSE_MUSIC:
             case EXT_CTRL_CODE_RESUME_MUSIC:
                 break;
@@ -743,6 +748,11 @@ u8 GetExtCtrlCodeLength(u8 code)
         [EXT_CTRL_CODE_JPN_NAME_3]             = 1,
         [EXT_CTRL_CODE_JPN_NAME_4]             = 1,
         [EXT_CTRL_CODE_JPN_NAME_5]             = 1,
+        [EXT_CTRL_CODE_JPN_NAME_6]             = 1,
+        [EXT_CTRL_CODE_JPN_NAME_7]             = 1,
+        [EXT_CTRL_CODE_JPN_NAME_8]             = 1,
+        [EXT_CTRL_CODE_JPN_NAME_9]             = 1,
+        [EXT_CTRL_CODE_JPN_NAME_10]             = 1,
     };
 
     u8 length = 0;

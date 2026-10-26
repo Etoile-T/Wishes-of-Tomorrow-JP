@@ -36,7 +36,7 @@ static inline void NamingInputDecode(u8 *dest, u8 capacity, const u8 *src)
     {
         if (src[0] == EXT_CTRL_CODE_BEGIN
          && (src[1] == EXT_CTRL_CODE_JPN || src[1] == EXT_CTRL_CODE_ENG
-          || (src[1] >= EXT_CTRL_CODE_JPN_NAME_1 && src[1] <= EXT_CTRL_CODE_JPN_NAME_5)))
+          || (src[1] >= EXT_CTRL_CODE_JPN_NAME_1 && src[1] <= EXT_CTRL_CODE_JPN_NAME_10)))
         {
             src += 2;
             continue;
@@ -64,5 +64,17 @@ static inline bool8 NamingInputEncode(u8 *dest, u8 capacity, const u8 *glyphs, u
         dest[pos++] = glyphs[i];
     dest[pos] = EOS;
     return TRUE;
+}
+// Legacy ten-byte nickname consumers must not leave a longer span active after
+// truncating its final glyphs. The extended twelve-byte save field is unchanged.
+static inline void NamingInputFitSpan(u8 *name, u8 bytes)
+{
+    u8 count;
+    if (bytes < 3 || name[0] != EXT_CTRL_CODE_BEGIN
+     || name[1] < EXT_CTRL_CODE_JPN_NAME_1 || name[1] > EXT_CTRL_CODE_JPN_NAME_10)
+        return;
+    count = bytes - 2;
+    if (name[1] - EXT_CTRL_CODE_JPN_NAME_1 + 1 > count)
+        name[1] = EXT_CTRL_CODE_JPN_NAME_1 + count - 1;
 }
 #endif

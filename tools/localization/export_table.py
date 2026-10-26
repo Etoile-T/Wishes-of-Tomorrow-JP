@@ -9,7 +9,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
 
 
 def readable(text):
-    text = re.sub(r'\{(?:JPN|ENG)\}', '', text)
+    text = re.sub(r'\{(?:JPN|ENG|JPN_NAME_(?:[1-9]|10))\}', '', text)
     text = re.sub(r'\{(?:COLOR|SHADOW|BACKGROUND|TEXT_COLORS) [^}]*\}', '', text)
     text = re.sub(r'\$$', '', text)
     return text.replace(r'\n', '\n').replace(r'\p', '\n［改ページ］\n').replace(r'\l', '\n［スクロール］\n')

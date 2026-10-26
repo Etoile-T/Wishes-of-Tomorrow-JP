@@ -129610,9 +129610,16 @@
     "end": 771197,
     "raw": "\"Armor Mewtwo\"",
     "source": "Armor Mewtwo",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN_NAME_10}アーマードミュウツー",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "SPECIES_MEWTWO_ARMORED.speciesName[0]",
+    "provenance": {
+      "batch": "species-name-armored-40",
+      "method": "Full Japanese species name; bounded 10-glyph scope; existing 12-byte nickname extension",
+      "encoded_bytes": 12,
+      "byte_budget": 12
+    }
   },
   {
     "id": "2de13d805909448b",
@@ -132222,9 +132229,16 @@
     "end": 153530,
     "raw": "\"Unown\"",
     "source": "Unown",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アンノーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "ca3c3f1d041a2ac1",
@@ -144482,9 +144496,16 @@
     "end": 83065,
     "raw": "\"Mothim\"",
     "source": "Mothim",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ガーメイル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "e1fa2e0dd382e7a1",
@@ -147772,9 +147793,16 @@
     "end": 282487,
     "raw": "\"Arceus\"",
     "source": "Arceus",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}アルセウス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "faa78f60cf069470",
@@ -156720,9 +156748,16 @@
     "end": 500864,
     "raw": "\"Genesect\"",
     "source": "Genesect",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ゲノセクト{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "ef4b897a29096d91",
@@ -157582,9 +157617,16 @@
     "end": 48452,
     "raw": "\"Scatterbug\"",
     "source": "Scatterbug",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コフキムシ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "5c57bc9509acbade",
@@ -157606,9 +157648,16 @@
     "end": 55508,
     "raw": "\"Spewpa\"",
     "source": "Spewpa",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コフーライ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "95a1ef6ddace5ccb",
@@ -157630,9 +157679,16 @@
     "end": 62057,
     "raw": "\"Vivillon\"",
     "source": "Vivillon",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ビビヨン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
   },
   {
     "id": "d9bc5d3f867e099e",
@@ -158032,9 +158088,16 @@
     "end": 82178,
     "raw": "\"Flabébé\"",
     "source": "Flabébé",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}フラベベ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
   },
   {
     "id": "e7d87bf61776db2d",
@@ -158116,9 +158179,16 @@
     "end": 87970,
     "raw": "\"Floette\"",
     "source": "Floette",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}フラエッテ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "8d0e70d5375cb888",
@@ -158212,9 +158282,16 @@
     "end": 96479,
     "raw": "\"Florges\"",
     "source": "Florges",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}フラージェス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "df8f08f1ed2203fa",
@@ -158526,9 +158603,16 @@
     "end": 115742,
     "raw": "\"Furfrou\"",
     "source": "Furfrou",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}トリミアン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "29283718247574b4",
@@ -164566,9 +164650,16 @@
     "end": 163907,
     "raw": "\"Silvally\"",
     "source": "Silvally",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}シルヴァディ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "2a7868fd70ed22c0",
@@ -164590,9 +164681,16 @@
     "end": 170265,
     "raw": "\"Minior\"",
     "source": "Minior",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}メテノ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 7,
+      "byte_budget": 10
+    }
   },
   {
     "id": "52c2760c15ace70e",
@@ -165254,9 +165352,16 @@
     "end": 215227,
     "raw": "\"Tapu Koko\"",
     "source": "Tapu Koko",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カプ・コケコ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "d0f9a0dd18330643",
@@ -165290,9 +165395,16 @@
     "end": 217937,
     "raw": "\"Tapu Lele\"",
     "source": "Tapu Lele",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カプ・テテフ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "b6ae78d23515a327",
@@ -165326,9 +165438,16 @@
     "end": 220509,
     "raw": "\"Tapu Bulu\"",
     "source": "Tapu Bulu",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カプ・ブルル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "7a6a56d486b81678",
@@ -165362,9 +165481,16 @@
     "end": 223146,
     "raw": "\"Tapu Fini\"",
     "source": "Tapu Fini",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カプ・レヒレ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "732e15b5d42a03f0",
@@ -170158,9 +170284,16 @@
     "end": 193016,
     "raw": "\"Alcremie\"",
     "source": "Alcremie",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マホイップ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "41a8579aa1457dd3",
@@ -173586,9 +173719,16 @@
     "end": 61583,
     "raw": "\"Arboliva\"",
     "source": "Arboliva",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オリーヴァ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "2b89e73156dc81f6",
@@ -174726,9 +174866,16 @@
     "end": 120856,
     "raw": "\"Scovillain\"",
     "source": "Scovillain",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}スコヴィラン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "35466ec4b5628d54",
@@ -174762,9 +174909,16 @@
     "end": 123301,
     "raw": "\"Scovillain\"",
     "source": "Scovillain",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}スコヴィラン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
   },
   {
     "id": "f6e7be32b5272e71",
@@ -177972,9 +178126,16 @@
     "end": 290703,
     "raw": "\"Ogerpon\"",
     "source": "Ogerpon",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オーガポン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "87d5df3697ffb3a2",
@@ -179252,9 +179413,16 @@
     "end": 1204,
     "raw": "\"Amoonguss\"",
     "source": "Amoonguss",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}モロバレル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "8c27ff664c0ba4b8",
@@ -179288,9 +179456,16 @@
     "end": 3795,
     "raw": "\"Azumarill\"",
     "source": "Azumarill",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}マリルリ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
   },
   {
     "id": "b0bab668b3e226f1",
@@ -179324,9 +179499,16 @@
     "end": 6537,
     "raw": "\"Butterfree\"",
     "source": "Butterfree",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バタフリー{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "9e700a14b8ca6fa7",
@@ -179360,9 +179542,16 @@
     "end": 9246,
     "raw": "\"Conkeldurr\"",
     "source": "Conkeldurr",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ローブシン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "85f3863506dc891a",
@@ -179396,9 +179585,16 @@
     "end": 11842,
     "raw": "\"Dugtrio\"",
     "source": "Dugtrio",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ダグトリオ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "88536f72277399dd",
@@ -179432,9 +179628,16 @@
     "end": 14407,
     "raw": "\"Electivire\"",
     "source": "Electivire",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}エレキブル{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "6dbce6e7f18e932d",
@@ -179468,9 +179671,16 @@
     "end": 17035,
     "raw": "\"Flygon\"",
     "source": "Flygon",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}フライゴン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "7058101888a8262d",
@@ -179504,9 +179714,16 @@
     "end": 19608,
     "raw": "\"Golem\"",
     "source": "Golem",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ゴローニャ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "c45793c6f31cd9f2",
@@ -179540,9 +179757,16 @@
     "end": 22182,
     "raw": "\"Jumpluff\"",
     "source": "Jumpluff",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ワタッコ{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
   },
   {
     "id": "ebdc759a64665ce2",
@@ -179576,9 +179800,16 @@
     "end": 24803,
     "raw": "\"Kabutops\"",
     "source": "Kabutops",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カブトプス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "79f9cb64535ceb9f",
@@ -179612,9 +179843,16 @@
     "end": 27354,
     "raw": "\"Magmortar\"",
     "source": "Magmortar",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ブーバーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "52dbca03eccfd7c1",
@@ -179648,9 +179886,16 @@
     "end": 29947,
     "raw": "\"Milotic\"",
     "source": "Milotic",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ミロカロス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "2b5a714ca69e7621",
@@ -179684,9 +179929,16 @@
     "end": 32603,
     "raw": "\"Omastar\"",
     "source": "Omastar",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}オムスター{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "329df2dbfda905ed",
@@ -179720,9 +179972,16 @@
     "end": 35162,
     "raw": "\"Poliwrath\"",
     "source": "Poliwrath",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ニョロボン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "34cec07918c165aa",
@@ -179756,9 +180015,16 @@
     "end": 37755,
     "raw": "\"Shiftry\"",
     "source": "Shiftry",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}ダーテング{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "6eb0d28830e23881",
@@ -179792,9 +180058,16 @@
     "end": 40329,
     "raw": "\"Snorlax\"",
     "source": "Snorlax",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}カビゴン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
   },
   {
     "id": "86359d8ee0356a19",
@@ -179828,9 +180101,16 @@
     "end": 42999,
     "raw": "\"Torkoal\"",
     "source": "Torkoal",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}コータス{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
   },
   {
     "id": "8c61b4bf33784460",
@@ -179864,9 +180144,16 @@
     "end": 45646,
     "raw": "\"Typhlosion\"",
     "source": "Typhlosion",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}バクフーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "41529d9c638db59c",
@@ -179900,9 +180187,16 @@
     "end": 48311,
     "raw": "\"Whimsicott\"",
     "source": "Whimsicott",
-    "translation": "",
-    "status": "pending",
-    "kind": "encoded_c"
+    "translation": "{JPN}エルフーン{ENG}",
+    "status": "translated",
+    "kind": "encoded_c",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
   },
   {
     "id": "541e2799fe1b3eb5",
@@ -227000,7 +227294,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "23cd8ac068c2ba5e",
@@ -227016,7 +227311,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "2b630a2ed2fbf485",
@@ -227032,7 +227328,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "d79a0b05b7827ccd",
@@ -227048,7 +227345,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "596c6867dbe15d35",
@@ -227064,7 +227362,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "cff3045ecfcfd58f",
@@ -227080,7 +227379,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "caee085cda077a16",
@@ -227096,7 +227396,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "bb5ffec19fb92091",
@@ -227112,7 +227413,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "b504ab79c6fc81ea",
@@ -227128,7 +227430,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "e844041756d05384",
@@ -227144,7 +227447,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "ec5f26785a4cf1a4",
@@ -227160,7 +227464,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "ce91521ca5502b09",
@@ -227176,7 +227481,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "21e6866142aec039",
@@ -227192,7 +227498,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "6873ef2093673165",
@@ -227208,7 +227515,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "33f61dd55041af53",
@@ -227224,7 +227532,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "7246802945665b9f",
@@ -227240,7 +227549,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "dd95a8c88bce1290",
@@ -227256,7 +227566,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "f34cd8f77faf2908",
@@ -227272,7 +227583,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "39f3682c49a3caac",
@@ -227288,7 +227600,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "8e2d28a44b9ea28a",
@@ -227304,7 +227617,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "9cdf6256ae1b5d7d",
@@ -227320,7 +227634,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "2fb61449711dcbfe",
@@ -227336,7 +227651,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "cafe36551cfbd4eb",
@@ -227352,7 +227668,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "5444b4a5517d6da1",
@@ -227368,7 +227685,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "67d504aa796e466c",
@@ -227384,7 +227702,8 @@
     "provenance": {
       "batch": "ui-strings-common-07",
       "method": "Caller/usage reviewed (refs outside strings.c); buffers and placeholder order checked; item/species names from translated catalog"
-    }
+    },
+    "code_offset": 65
   },
   {
     "id": "187bd1aa406edac0",

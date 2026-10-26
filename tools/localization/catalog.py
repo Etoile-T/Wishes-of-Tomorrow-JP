@@ -36,7 +36,7 @@ def extract():
 
 def protected(text):
     # {PKMN}/{POKEBLOCK} are Latin logo glyphs, so a translation may spell them out.
-    return collections.Counter(t for t in TOKENS.findall(text) if t not in ('{JPN}', '{ENG}', r'\n', '{PKMN}', '{POKEBLOCK}'))
+    return collections.Counter(t for t in TOKENS.findall(text) if t not in ('{JPN}', '{ENG}', r'\n', '{PKMN}', '{POKEBLOCK}') and not re.fullmatch(r'\{JPN_NAME_(?:[1-9]|10)\}', t))
 
 def validate(row, cmap):
     source, target = row['source'], row['translation']
@@ -44,6 +44,10 @@ def validate(row, cmap):
         raise ValueError(f"{row['id']}: control/placeholder mismatch")
     if '"' in target.replace('\\"', '') or '\n' in target or '\r' in target:
         raise ValueError(f"{row['id']}: use escaped quotes/newlines")
+    for span in re.finditer(r'\{JPN_NAME_([1-9]|10)\}', target):
+        glyphs = target[span.end():span.end() + int(span[1])]
+        if len(glyphs) != int(span[1]) or any(c in '{}\\$' for c in glyphs):
+            raise ValueError(f"{row['id']}: incomplete Japanese name span")
     plain = TOKENS.sub('', target)
     plain = re.sub(r'\\.', '', plain)
     missing = sorted(set(plain) - cmap)
@@ -58,11 +62,20 @@ JAPANESE_MODE_MISRENDERED = frozenset('¥,“”‘’\'')
 
 def japanese_mode_text(text):
     japanese, parts = False, []
+    remaining, previous = 0, False
     for token in re.findall(r'\{[^{}]*\}|\\.|.', text, re.S):
         if token in ('{JPN}', '{ENG}'):
             japanese = token == '{JPN}'
-        elif japanese and len(token) == 1:
-            parts.append(token)
+        elif re.fullmatch(r'\{JPN_NAME_(?:[1-9]|10)\}', token):
+            previous, japanese = japanese, True
+            remaining = int(token[10:-1])
+        elif len(token) == 1:
+            if japanese:
+                parts.append(token)
+            if remaining:
+                remaining -= 1
+                if remaining == 0:
+                    japanese = previous
     return ''.join(parts)
 
 def main():

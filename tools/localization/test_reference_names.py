@@ -27,6 +27,10 @@ class ReferenceNameTests(unittest.TestCase):
         self.assertEqual(r.encoded_length(name, set('ピカチュウ')), 9)
         self.assertEqual(r.scoped_name(name), name)
 
+    def test_long_bounded_species_name_budget(self):
+        name = '{JPN_NAME_10}アーマードミュウツー'
+        self.assertEqual(r.encoded_length(name, set('アーマードミュウツー')), 12)
+
     def test_unknown_control_and_glyph_refused(self):
         for text in ('{JPN}漢字{ENG}', '{PLAYER}'):
             with self.assertRaises(ValueError):

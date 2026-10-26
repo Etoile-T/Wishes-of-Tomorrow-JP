@@ -57,7 +57,7 @@ function category(row){
   return '共通UI';
 }
 function readable(text){
-  return text.replace(/\{(?:JPN|ENG)\}/g,'').replace(/\{(?:COLOR|SHADOW|BACKGROUND|TEXT_COLORS) [^}]*\}/g,'').replace(/\$$/,'')
+  return text.replace(/\{(?:JPN|ENG|JPN_NAME_(?:[1-9]|10))\}/g,'').replace(/\{(?:COLOR|SHADOW|BACKGROUND|TEXT_COLORS) [^}]*\}/g,'').replace(/\$$/,'')
     .replace(/\\n/g,'\n').replace(/\\p/g,'\n［改ページ］\n').replace(/\\l/g,'\n［スクロール］\n');
 }
 const statusLabel=s=>({translated:'翻訳適用済み',pending:'未翻訳',draft:'訳稿',needs_review:'要確認'}[s]??s);

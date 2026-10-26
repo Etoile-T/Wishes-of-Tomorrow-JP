@@ -1,0 +1,453 @@
+[
+  {
+    "id": "3c82e9bb51ee92de",
+    "translation": "{JPN}アンノーン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "204691e5e3b6afc0",
+    "translation": "{JPN}ガーメイル{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "edbfd8fd6b1f80d0",
+    "translation": "{JPN}アルセウス{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "d599bb7cfe6477ac",
+    "translation": "{JPN}ゲノセクト{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "cf82a024ee8f58f9",
+    "translation": "{JPN}コフキムシ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "a9c0f62ac3647717",
+    "translation": "{JPN}コフーライ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "a5b34b0e2091f2bb",
+    "translation": "{JPN}ビビヨン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "bec88d43162e9d55",
+    "translation": "{JPN}フラベベ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "eedbab536c65267d",
+    "translation": "{JPN}フラエッテ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "04daab3f669ed849",
+    "translation": "{JPN}フラージェス{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "d7458923573d4796",
+    "translation": "{JPN}トリミアン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "209556ac333ceb33",
+    "translation": "{JPN}シルヴァディ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "2aa297d58ffed348",
+    "translation": "{JPN}メテノ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 7,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "1937901afc1b9776",
+    "translation": "{JPN}カプ・コケコ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "d3b5a87e9719f0c0",
+    "translation": "{JPN}カプ・テテフ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "fb4e1a46614a0929",
+    "translation": "{JPN}カプ・ブルル{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "fc6aed91633d2fcd",
+    "translation": "{JPN}カプ・レヒレ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "3648303cc589065e",
+    "translation": "{JPN}マホイップ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "7118c308ab252dd2",
+    "translation": "{JPN}オリーヴァ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "e20d5279079e1dbc",
+    "translation": "{JPN}スコヴィラン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "f9e6c51d071a2b94",
+    "translation": "{JPN}スコヴィラン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 10,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "03b1be7cd6988a48",
+    "translation": "{JPN}オーガポン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "ddc2b70fe7635752",
+    "translation": "{JPN}モロバレル{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "aa8273603d62cde6",
+    "translation": "{JPN}マリルリ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "f220318994cffc04",
+    "translation": "{JPN}バタフリー{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "d237a4e8b46f7691",
+    "translation": "{JPN}ローブシン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "f1184746161c1327",
+    "translation": "{JPN}ダグトリオ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "319c6888dee29f0c",
+    "translation": "{JPN}エレキブル{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "b61c5d5264476709",
+    "translation": "{JPN}フライゴン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "73640169e9ee4c26",
+    "translation": "{JPN}ゴローニャ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "9017d9512e1a6e4d",
+    "translation": "{JPN}ワタッコ{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "cf7a59b7b13f743c",
+    "translation": "{JPN}カブトプス{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "02dcf7eeeebabb6d",
+    "translation": "{JPN}ブーバーン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "80586841234c9841",
+    "translation": "{JPN}ミロカロス{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "3c11e15afc5d9586",
+    "translation": "{JPN}オムスター{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "b209daae3fb384d3",
+    "translation": "{JPN}ニョロボン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "99f8650883ee185c",
+    "translation": "{JPN}ダーテング{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "80c655dcd4636a0b",
+    "translation": "{JPN}カビゴン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "cccf85e86cb21f50",
+    "translation": "{JPN}コータス{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 8,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "87862e6c1ffba674",
+    "translation": "{JPN}バクフーン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  },
+  {
+    "id": "b5c15d268484aaee",
+    "translation": "{JPN}エルフーン{ENG}",
+    "target": "speciesName.literal",
+    "provenance": {
+      "batch": "species-names-remaining-39",
+      "method": "Hand-mapped literal speciesName; preserve shared macros and all gameplay fields",
+      "encoded_bytes": 9,
+      "byte_budget": 10
+    }
+  }
+]

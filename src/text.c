@@ -1548,6 +1548,11 @@ static u16 RenderText(struct TextPrinter *textPrinter)
             case EXT_CTRL_CODE_JPN_NAME_3:
             case EXT_CTRL_CODE_JPN_NAME_4:
             case EXT_CTRL_CODE_JPN_NAME_5:
+            case EXT_CTRL_CODE_JPN_NAME_6:
+            case EXT_CTRL_CODE_JPN_NAME_7:
+            case EXT_CTRL_CODE_JPN_NAME_8:
+            case EXT_CTRL_CODE_JPN_NAME_9:
+            case EXT_CTRL_CODE_JPN_NAME_10:
                 textPrinter->japaneseNameRemaining = textPrinter->printerTemplate.currentChar[-1] - EXT_CTRL_CODE_JPN_NAME_1 + 1;
                 textPrinter->japaneseNameReturn = textPrinter->japanese;
                 textPrinter->japanese = TRUE;
@@ -1905,7 +1910,7 @@ s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
                 if (*bufferPointer == EXT_CTRL_CODE_BEGIN)
                 {
                     u8 code = *++bufferPointer;
-                    if (code >= EXT_CTRL_CODE_JPN_NAME_1 && code <= EXT_CTRL_CODE_JPN_NAME_5)
+                    if (code >= EXT_CTRL_CODE_JPN_NAME_1 && code <= EXT_CTRL_CODE_JPN_NAME_10)
                     {
                         nameRemaining = code - EXT_CTRL_CODE_JPN_NAME_1 + 1;
                         nameReturn = isJapanese;
@@ -1984,6 +1989,11 @@ s32 GetStringWidth(u8 fontId, const u8 *str, s16 letterSpacing)
             case EXT_CTRL_CODE_JPN_NAME_3:
             case EXT_CTRL_CODE_JPN_NAME_4:
             case EXT_CTRL_CODE_JPN_NAME_5:
+            case EXT_CTRL_CODE_JPN_NAME_6:
+            case EXT_CTRL_CODE_JPN_NAME_7:
+            case EXT_CTRL_CODE_JPN_NAME_8:
+            case EXT_CTRL_CODE_JPN_NAME_9:
+            case EXT_CTRL_CODE_JPN_NAME_10:
                 nameRemaining = *str - EXT_CTRL_CODE_JPN_NAME_1 + 1;
                 nameReturn = isJapanese;
                 isJapanese = TRUE;
@@ -2570,21 +2580,46 @@ static u32 GetGlyphWidth_Narrower(u16 glyphId, bool32 isJapanese)
         return gFontNarrowerLatinGlyphWidths[glyphId];
 }
 
+// The healthbox fits names in 55 pixels. Ten-kana species names need the
+// existing narrowest small-font fallback to have actual narrow Japanese glyphs.
+static void CompressJapaneseSmallGlyph(void)
+{
+    static const u8 columns[5] = {0, 2, 4, 5, 7};
+    u8 row, x;
+    for (row = 0; row < 8; row++)
+    {
+        u32 top = gCurGlyph.gfxBufferTop[row];
+        u32 bottom = gCurGlyph.gfxBufferBottom[row];
+        u32 outTop = 0, outBottom = 0;
+        for (x = 0; x < 5; x++)
+        {
+            outTop |= ((top >> (columns[x] * 4)) & 15) << (x * 4);
+            outBottom |= ((bottom >> (columns[x] * 4)) & 15) << (x * 4);
+        }
+        gCurGlyph.gfxBufferTop[row] = outTop;
+        gCurGlyph.gfxBufferBottom[row] = outBottom;
+    }
+    gCurGlyph.width = 5;
+    gCurGlyph.height = 12;
+}
+
 static void DecompressGlyph_SmallNarrower(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     const u16 *glyphs;
 
     if (TryDecompressJapaneseVu(glyphId, isJapanese, 0))
+    {
+        CompressJapaneseSmallGlyph();
         return;
+    }
 
     if (isJapanese == TRUE)
     {
         glyphs = gFontSmallJapaneseGlyphs + (0x100 * (glyphId >> 0x4)) + (0x8 * (glyphId % 0x10));
         DecompressGlyphTile(glyphs, gCurGlyph.gfxBufferTop);
         DecompressGlyphTile(glyphs + 0x80, gCurGlyph.gfxBufferBottom);
-        gCurGlyph.width = 8;
-        gCurGlyph.height = 15;
+        CompressJapaneseSmallGlyph();
     }
     else
     {
@@ -2612,7 +2647,7 @@ static u32 GetGlyphWidth_SmallNarrower(u16 glyphId, bool32 isJapanese)
 {
     isJapanese = ShouldUseJapaneseGlyph(glyphId, isJapanese);
     if (isJapanese == TRUE)
-        return 8;
+        return 5;
     else
         return gFontSmallNarrowerLatinGlyphWidths[glyphId];
 }

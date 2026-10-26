@@ -62,7 +62,7 @@ def encoded_length(text, charmap):
     size = 0
     pos = 0
     while pos < len(text):
-        token = re.match(r'\{(?:JPN|ENG)\}', text[pos:])
+        token = re.match(r'\{(?:JPN|ENG|JPN_NAME_(?:[1-9]|10))\}', text[pos:])
         if token:
             size += 2
             pos += len(token[0])

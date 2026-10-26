@@ -1,0 +1,906 @@
+[
+ {
+  "id": "3fa9f06d33b0cc87",
+  "translation": "{JPN}コレクレー{CLEAR_TO 0x48}{FONT_SMALL}999コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9de00e76642a323",
+  "translation": "{JPN}カルボウ{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc0cbd0e75b61958",
+  "translation": "{JPN}ヒトツキ{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e62b1845fd92c54a",
+  "translation": "{JPN}エレズン{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a8f87d61de79272",
+  "translation": "{JPN}ヌメラ{CLEAR_TO 0x48}{FONT_SMALL}2500コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f78e126c2e88b08b",
+  "translation": "{JPN}ジャラコ{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87f8e8de87af87ea",
+  "translation": "{JPN}ボチ{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a42a366d9c7ff22a",
+  "translation": "{JPN}ジュラルドン{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d14be7591520147",
+  "translation": "{JPN}ドラメシヤ{CLEAR_TO 0x48}{FONT_SMALL}4000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d602901ed8b63c7",
+  "translation": "{JPN}セビエ{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74e114141c3dee4a",
+  "translation": "{JPN}フカマル{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f67732a23cfd4cd",
+  "translation": "{JPN}キバゴ{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b282d85562e7d7c",
+  "translation": "{JPN}ロトム{CLEAR_TO 0x48}{FONT_SMALL}6500コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "738e69c1fa35950f",
+  "translation": "{JPN}タイプ:ヌル{CLEAR_TO 0x48}{FONT_SMALL}8000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96a2a58c860006c5",
+  "translation": "{JPN}ポリゴン{CLEAR_TO 0x48}{FONT_SMALL}9999コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0accdf8caa23ad4",
+  "translation": "{JPN}TM54 じゃれつく{CLEAR_TO 0x70}{FONT_SMALL}3000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45c44f7d128d2ec8",
+  "translation": "{JPN}TM53 スケイルショット{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "402b59250180de25",
+  "translation": "{JPN}TM59 はたきおとす{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd2a32098cdfc406",
+  "translation": "{JPN}かしらのしるし{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33f21d12084ad895",
+  "translation": "{JPN}TM57 ねっさのだいち{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6382a519e011608",
+  "translation": "{JPN}TM58 だいちのちから{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b31b1493e9311eb",
+  "translation": "{JPN}ふくごうきんぞく{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ba950a6e3053632",
+  "translation": "{JPN}イワイノヨロイ{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57b8e7c62572751c",
+  "translation": "{JPN}ノロイノヨロイ{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b7d62c5bd4ba0bc",
+  "translation": "{JPN}TM55 つるぎのまい{CLEAR_TO 0x70}{FONT_SMALL}6000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6323e00a41583cbe",
+  "translation": "{JPN}TM56 わるだくみ{CLEAR_TO 0x70}{FONT_SMALL}6000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3d3fe1029e2f98b",
+  "translation": "{JPN}TM51 りゅうせいぐん{CLEAR_TO 0x70}{FONT_SMALL}8000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "320bed7d756322a6",
+  "translation": "{JPN}TM52 インファイト{CLEAR_TO 0x70}{FONT_SMALL}8000コイン$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c784eece9ad430f7",
+  "translation": "{JPN}やめる$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5a31055306dbcea",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}で よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "116b578cdf963cf3",
+  "translation": "{JPN}ここは キンセツ ゲームコーナーです。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0f6d94a23af2eb5",
+  "translation": "{JPN}ゲームで あそぶための コインを\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fdff39ddb7d08aa",
+  "translation": "おもとめですか?\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b36f649afcea202",
+  "translation": "でも コインを いれるための\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e359dd70e44c17d",
+  "translation": "コインケースを おもちで ないですね。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c74e1148c727a1aa",
+  "translation": "{JPN}コインを おもとめですか?\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2254ef3b406c013b",
+  "translation": "50まいで 1000円に なります。\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2e5fc3adc6875b7",
+  "translation": "いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8bf6d1b3c3386535",
+  "translation": "{JPN}ありがとうございます!\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d41ae1a5f3442028",
+  "translation": "こちらが コインです!$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae2640f726f29b88",
+  "translation": "{JPN}あの… おかねが\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db27487513dee137",
+  "translation": "たりないようですが…$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3761910ea32ed24d",
+  "translation": "{JPN}おや?\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14201a05b086b32b",
+  "translation": "コインケースが いっぱいですよ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9972e6899545f09f",
+  "translation": "{JPN}あら… コインは いらないのですか?\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26c75d3f8a130b36",
+  "translation": "ぼうけん がんばってくださいね!$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71a0de71a17c05f5",
+  "translation": "{JPN}いらっしゃいませ。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a94c037e87a3f5b",
+  "translation": "こちらでは コインを けいひんと\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "862b09f4df68b564",
+  "translation": "こうかん できます。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b12f9cb0f073c7b1",
+  "translation": "{JPN}どの けいひんに なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cac800e46a53d94e",
+  "translation": "{JPN}では こちらの\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "464d436525f9b8fd",
+  "translation": "{ENG}{STR_VAR_1}{JPN} {ENG}{STR_VAR_2}{JPN}ですね?$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f60ba014ac3ea0b",
+  "translation": "{JPN}ありがとうございます!\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3c1d83931ec6f77",
+  "translation": "ごじたくの パソコンに おおくりします。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e603e56f36140c9",
+  "translation": "{JPN}コインが たりません。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15bbd535dee83eef",
+  "translation": "{JPN}もう おける ばしょが ありません。\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b45b1eaf97eb89f0",
+  "translation": "{ENG}{STR_VAR_1}{JPN}は おけません。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d4681e20d5eb837",
+  "translation": "{JPN}そうですか。\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f567a5331cfb5a4b",
+  "translation": "コインを ためてから\\l",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c16f21017c7484c5",
+  "translation": "また おこしください。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98d394c16f321d58",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}で よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59618364333a2dcb",
+  "translation": "{JPN}どうぞ おうけとりください!$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c23f02cdce436111",
+  "translation": "{JPN}おや これいじょう もてませんよ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "389e26bcf576e7bb",
+  "translation": "{JPN}まちがえて おなじ ぬいぐるみを\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "462ae2da2ebe6d40",
+  "translation": "2つ もらっちゃったの。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc36dd895f33827c",
+  "translation": "ひとつ いらない?$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9306d7afde0a6b47",
+  "translation": "{JPN}はい どうぞ!$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb275918702402d3",
+  "translation": "{JPN}あれ?\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f495768d5bcd698b",
+  "translation": "ほしいけど いまは いらないの?$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c243f94d75f2a8f6",
+  "translation": "{JPN}そんな えんりょ しないで!\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d6e58e76df1e42d8",
+  "translation": "これ あげるわ!$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aae4fdb2bf50e709",
+  "translation": "{JPN}ほしい けいひんが あるのに\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f16ca4c507771ca",
+  "translation": "おおあたりが でないんだ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02c2902141f774d0",
+  "translation": "{JPN}やあ ここで あそびたいなら\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1765be4b34ee8080",
+  "translation": "コインケースが いるぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b63d1fe0f86a94a",
+  "translation": "ゴミばこを あさってみなよ。\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c242ace125ade6b",
+  "translation": "だれかが すてたのが あるかもな。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f934034d9a648a2",
+  "translation": "きっと ツキが なかったんだろうな。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b009bd9bfb65213",
+  "translation": "{JPN}この ツキも いつまでもは つづかないよ。\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0cfe3d009546d9d8",
+  "translation": "こんなに あっても つかいきれない。\\l",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f04316011c07dbc",
+  "translation": "ほら コインを わけてあげる!$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "358bd6a3a1ba4523",
+  "translation": "{JPN}キンセツには だれでも たのしめる\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bd85139e49cb9dd",
+  "translation": "なにかが あるの。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b8a173ce80206a4",
+  "translation": "わたしには ゲームコーナーね。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9f05c841e7998d6",
+  "translation": "{JPN}ルーレットは だいによって\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d4aec27f7d0c641",
+  "translation": "かける まいすうが ちがうんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07f99401bd7c0b41",
+  "translation": "だいを えらぶなら じぶんの コインを\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65538e6af95ba553",
+  "translation": "たしかめて おくといいよ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e98ecb44b86d3470",
+  "translation": "{JPN}ここに いると つい じかんを わすれるね。\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "657a4baa675af4f4",
+  "translation": "しごとに もどらなくちゃ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de3c74896bcdac77",
+  "translation": "{JPN}この ゲームコーナーで あそぶには\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3786605eaa2e1294",
+  "translation": "コインが ひつようだよ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c443f677d8b18b72",
+  "translation": "{JPN}この ルーレットって…\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e3d7dfbbd1445c7",
+  "translation": "なかなか むずかしいね。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37bfe8baa2a76f63",
+  "translation": "かつも まけるも うん しだいだよ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d7f9419bc819e41",
+  "translation": "{JPN}スロットでは コインを\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0764a96bb2ae7d59",
+  "translation": "3まいまで かけられるよ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f35010ea451fd14",
+  "translation": "{JPN}ぴったり「7」で とめるのって\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fac7521ace4c6d0",
+  "translation": "すごく むずかしいの。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a7ec3d62469f833",
+  "translation": "リールタイムの ボーナスゲームで\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ce26b443a859a6e",
+  "translation": "「7」に とまると コインが ふえるのよ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e2a200c3c52a335",
+  "translation": "{JPN}スロットの ことを\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3ae9542b570d33f",
+  "translation": "すこし おしえてあげよう。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54e2d7313ff0e395",
+  "translation": "カミナリマークを ためるほど\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0386756312ba2b8e",
+  "translation": "リールタイムの チャンスが ふえるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b279efebfa95a574",
+  "translation": "リールタイムの チャンスが\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c5e25a6f8100bb6",
+  "translation": "さいだいの 5かい ある ゲームなら…\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40671f1367da513b",
+  "translation": "レギュラーボーナスが 4かいの あとに\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2cc9ca59c1eeffc",
+  "translation": "ビッグボーナスが でることも ある。\\p",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11f1ad085cd69495",
+  "translation": "あわせて コイン 660まいだが\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8a89c06ffa44924",
+  "translation": "ねらうのは とても むずかしいぞ。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5b5ba9bede6d7c9",
+  "translation": "{JPN}コインケースが ないと\\n",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "274942f640ebbdea",
+  "translation": "あそべません。$",
+  "provenance": {
+   "batch": "dialogue-gamecorner-53",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

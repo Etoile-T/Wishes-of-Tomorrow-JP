@@ -56,16 +56,16 @@ LilycoveCity_DepartmentStore_2F_Pokemart2:
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly:
-	.string "Learn to use items properly.\n"
-	.string "That's basic, really.$"
+	.string "{JPN}どうぐを ただしく つかうこと。\n"
+	.string "それが きほんなんだよ。$"
 
 LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband:
-	.string "My husband is waiting at home.\n"
-	.string "What would make a good gift for him?$"
+	.string "{JPN}だんなが いえで まってるの。\n"
+	.string "おみやげは なにが いいかしら?$"
 
 LilycoveCity_DepartmentStore_2F_Text_StockUpOnItems:
-	.string "I'm leaving on a long journey soon.\n"
-	.string "I need to stock up on items.$"
+	.string "{JPN}もうすぐ ながい たびに でるの。\n"
+	.string "どうぐを かいこんで おかなくちゃ。$"
 
 @ Wishes of Tomorrow: the Waster Ball couple (by the ball counter).
 LilycoveCity_DepartmentStore_2F_EventScript_WasterHusband::
@@ -83,14 +83,14 @@ LilycoveCity_DepartmentStore_2F_EventScript_WasterWife::
 	end
 
 LilycoveCity_DepartmentStore_2F_Text_WasterHusband::
-	.string "Honey, did you see? They're selling\n"
-	.string "MASTER BALLS here!\p"
-	.string "I can finally catch you that JYNX\n"
-	.string "you always wanted!$"
+	.string "{JPN}なあ みたかい? ここでは\n"
+	.string "マスターボールを うってるぞ!\p"
+	.string "これで やっと きみの ほしがってた\n"
+	.string "ルージュラを つかまえて あげられる!$"
 
 LilycoveCity_DepartmentStore_2F_Text_WasterWife::
-	.string "You're the one who wants to freak\n"
-	.string "it with JYNX!\p"
-	.string "And that says “WASTER BALL,”\n"
-	.string "you dunce.$"
+	.string "{JPN}ルージュラと エッチしたいのは\n"
+	.string "あんたの ほうでしょ!\p"
+	.string "それに「ウェイスターボール」って\n"
+	.string "かいてあるわよ。おばかさん。$"
 

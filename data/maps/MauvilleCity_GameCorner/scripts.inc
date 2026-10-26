@@ -461,66 +461,66 @@ MauvilleCity_GameCorner_EventScript_CancelGoodsSelect::
 @ ---- Prize list rows ---------------------------------------------------------
 
 WotText_PrizeGimmighoul:
-	.string "Gimmighoul{CLEAR_TO 0x48}{FONT_SMALL}  999 COINS$"
+	.string "{JPN}コレクレー{CLEAR_TO 0x48}{FONT_SMALL}999コイン$"
 WotText_PrizeCharcadet:
-	.string "Charcadet{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$"
+	.string "{JPN}カルボウ{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$"
 WotText_PrizeHonedge:
-	.string "Honedge{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$"
+	.string "{JPN}ヒトツキ{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$"
 WotText_PrizeToxel:
-	.string "Toxel{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$"
+	.string "{JPN}エレズン{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$"
 WotText_PrizeGoomy:
-	.string "Goomy{CLEAR_TO 0x48}{FONT_SMALL}2,500 COINS$"
+	.string "{JPN}ヌメラ{CLEAR_TO 0x48}{FONT_SMALL}2500コイン$"
 WotText_PrizeJangmoO:
-	.string "Jangmo-o{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$"
+	.string "{JPN}ジャラコ{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$"
 WotText_PrizeGreavard:
-	.string "Greavard{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$"
+	.string "{JPN}ボチ{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$"
 WotText_PrizeDuraludon:
-	.string "Duraludon{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$"
+	.string "{JPN}ジュラルドン{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$"
 WotText_PrizeDreepy:
-	.string "Dreepy{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS$"
+	.string "{JPN}ドラメシヤ{CLEAR_TO 0x48}{FONT_SMALL}4000コイン$"
 WotText_PrizeFrigibax:
-	.string "Frigibax{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$"
+	.string "{JPN}セビエ{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$"
 WotText_PrizeGible:
-	.string "Gible{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$"
+	.string "{JPN}フカマル{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$"
 WotText_PrizeAxew:
-	.string "Axew{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$"
+	.string "{JPN}キバゴ{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$"
 WotText_PrizeRotom:
-	.string "Rotom{CLEAR_TO 0x48}{FONT_SMALL}6,500 COINS$"
+	.string "{JPN}ロトム{CLEAR_TO 0x48}{FONT_SMALL}6500コイン$"
 WotText_PrizeTypeNull:
-	.string "Type: Null{CLEAR_TO 0x48}{FONT_SMALL}8,000 COINS$"
+	.string "{JPN}タイプ:ヌル{CLEAR_TO 0x48}{FONT_SMALL}8000コイン$"
 WotText_PrizePorygon:
-	.string "Porygon{CLEAR_TO 0x48}{FONT_SMALL}9,999 COINS$"
+	.string "{JPN}ポリゴン{CLEAR_TO 0x48}{FONT_SMALL}9999コイン$"
 WotText_PrizePlayRough:
-	.string "TM54 Play Rough{CLEAR_TO 0x70}{FONT_SMALL}3,000 COINS$"
+	.string "{JPN}TM54 じゃれつく{CLEAR_TO 0x70}{FONT_SMALL}3000コイン$"
 WotText_PrizeScaleShot:
-	.string "TM53 Scale Shot{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$"
+	.string "{JPN}TM53 スケイルショット{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$"
 WotText_PrizeKnockOff:
-	.string "TM59 Knock Off{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$"
+	.string "{JPN}TM59 はたきおとす{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$"
 WotText_PrizeLeadersCrest:
-	.string "Leader's Crest{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$"
+	.string "{JPN}かしらのしるし{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$"
 WotText_PrizeScorchingSands:
-	.string "TM57 Scorching Sands{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$"
+	.string "{JPN}TM57 ねっさのだいち{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$"
 WotText_PrizeEarthPower:
-	.string "TM58 Earth Power{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$"
+	.string "{JPN}TM58 だいちのちから{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$"
 WotText_PrizeMetalAlloy:
-	.string "Metal Alloy{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$"
+	.string "{JPN}ふくごうきんぞく{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$"
 WotText_PrizeAuspiciousArmor:
-	.string "Auspicious Armor{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$"
+	.string "{JPN}イワイノヨロイ{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$"
 WotText_PrizeMaliciousArmor:
-	.string "Malicious Armor{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$"
+	.string "{JPN}ノロイノヨロイ{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$"
 WotText_PrizeSwordsDance:
-	.string "TM55 Swords Dance{CLEAR_TO 0x70}{FONT_SMALL}6,000 COINS$"
+	.string "{JPN}TM55 つるぎのまい{CLEAR_TO 0x70}{FONT_SMALL}6000コイン$"
 WotText_PrizeNastyPlot:
-	.string "TM56 Nasty Plot{CLEAR_TO 0x70}{FONT_SMALL}6,000 COINS$"
+	.string "{JPN}TM56 わるだくみ{CLEAR_TO 0x70}{FONT_SMALL}6000コイン$"
 WotText_PrizeDracoMeteor:
-	.string "TM51 Draco Meteor{CLEAR_TO 0x70}{FONT_SMALL}8,000 COINS$"
+	.string "{JPN}TM51 りゅうせいぐん{CLEAR_TO 0x70}{FONT_SMALL}8000コイン$"
 WotText_PrizeCloseCombat:
-	.string "TM52 Close Combat{CLEAR_TO 0x70}{FONT_SMALL}8,000 COINS$"
+	.string "{JPN}TM52 インファイト{CLEAR_TO 0x70}{FONT_SMALL}8000コイン$"
 WotText_PrizeNoThanks:
-	.string "No thanks$"
+	.string "{JPN}やめる$"
 
 WotText_GameCornerConfirmPrize:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}で よろしいですか?$"
 
 MauvilleCity_GameCorner_EventScript_Woman2::
 	msgbox MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay, MSGBOX_NPC
@@ -781,153 +781,153 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
+	.string "{JPN}ここは キンセツ ゲームコーナーです。$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "{JPN}ゲームで あそぶための コインを\n"
+	.string "おもとめですか?\p"
+	.string "でも コインを いれるための\n"
+	.string "コインケースを おもちで ないですね。$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "{JPN}コインを おもとめですか?\p"
+	.string "50まいで 1000円に なります。\n"
+	.string "いかがですか?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "{JPN}ありがとうございます!\n"
+	.string "こちらが コインです!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money…$"
+	.string "{JPN}あの… おかねが\n"
+	.string "たりないようですが…$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
-	.string "Oh?\n"
-	.string "Your COIN CASE is full.$"
+	.string "{JPN}おや?\n"
+	.string "コインケースが いっぱいですよ。$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "{JPN}あら… コインは いらないのですか?\n"
+	.string "ぼうけん がんばってくださいね!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "{JPN}いらっしゃいませ。\p"
+	.string "こちらでは コインを けいひんと\n"
+	.string "こうかん できます。$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "{JPN}どの けいひんに なさいますか?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "{JPN}では こちらの\n"
+	.string "{ENG}{STR_VAR_1}{JPN} {ENG}{STR_VAR_2}{JPN}ですね?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "{JPN}ありがとうございます!\n"
+	.string "ごじたくの パソコンに おおくりします。$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "{JPN}コインが たりません。$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "{JPN}もう おける ばしょが ありません。\n"
+	.string "{ENG}{STR_VAR_1}{JPN}は おけません。$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "{JPN}そうですか。\n"
+	.string "コインを ためてから\l"
+	.string "また おこしください。$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}で よろしいですか?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "{JPN}どうぞ おうけとりください!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "{JPN}おや これいじょう もてませんよ。$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "{JPN}まちがえて おなじ ぬいぐるみを\n"
+	.string "2つ もらっちゃったの。\p"
+	.string "ひとつ いらない?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "{JPN}はい どうぞ!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "{JPN}あれ?\n"
+	.string "ほしいけど いまは いらないの?$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "{JPN}そんな えんりょ しないで!\n"
+	.string "これ あげるわ!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "{JPN}ほしい けいひんが あるのに\n"
+	.string "おおあたりが でないんだ。$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "Try digging through the garbage can.\n"
-	.string "Someone probably tossed one in there.\p"
-	.string "Must've been down on their luck.$"
+	.string "{JPN}やあ ここで あそびたいなら\n"
+	.string "コインケースが いるぞ。\p"
+	.string "ゴミばこを あさってみなよ。\n"
+	.string "だれかが すてたのが あるかもな。\p"
+	.string "きっと ツキが なかったんだろうな。$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "{JPN}この ツキも いつまでもは つづかないよ。\n"
+	.string "こんなに あっても つかいきれない。\l"
+	.string "ほら コインを わけてあげる!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "{JPN}キンセツには だれでも たのしめる\n"
+	.string "なにかが あるの。\p"
+	.string "わたしには ゲームコーナーね。$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "{JPN}ルーレットは だいによって\n"
+	.string "かける まいすうが ちがうんだ。\p"
+	.string "だいを えらぶなら じぶんの コインを\n"
+	.string "たしかめて おくといいよ。$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "{JPN}ここに いると つい じかんを わすれるね。\n"
+	.string "しごとに もどらなくちゃ。$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "{JPN}この ゲームコーナーで あそぶには\n"
+	.string "コインが ひつようだよ。$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "{JPN}この ルーレットって…\n"
+	.string "なかなか むずかしいね。\p"
+	.string "かつも まけるも うん しだいだよ。$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "{JPN}スロットでは コインを\n"
+	.string "3まいまで かけられるよ。$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "{JPN}ぴったり「7」で とめるのって\n"
+	.string "すごく むずかしいの。\p"
+	.string "リールタイムの ボーナスゲームで\n"
+	.string "「7」に とまると コインが ふえるのよ。$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "{JPN}スロットの ことを\n"
+	.string "すこし おしえてあげよう。\p"
+	.string "カミナリマークを ためるほど\n"
+	.string "リールタイムの チャンスが ふえるんだ。\p"
+	.string "リールタイムの チャンスが\n"
+	.string "さいだいの 5かい ある ゲームなら…\p"
+	.string "レギュラーボーナスが 4かいの あとに\n"
+	.string "ビッグボーナスが でることも ある。\p"
+	.string "あわせて コイン 660まいだが\n"
+	.string "ねらうのは とても むずかしいぞ。$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+	.string "{JPN}コインケースが ないと\n"
+	.string "あそべません。$"
 

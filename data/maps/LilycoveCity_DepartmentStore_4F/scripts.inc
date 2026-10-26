@@ -72,21 +72,21 @@ LilycoveCity_DepartmentStore_4F_Pokemart_DefenseTMs:
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM:
-	.string "Hmm…\p"
-	.string "An attacking move…\n"
-	.string "Or a defensive move…\p"
-	.string "It's no easy matter to decide which TM\n"
-	.string "moves should be taught to POKéMON…$"
+	.string "{JPN}うーん…\p"
+	.string "こうげきの わざか…\n"
+	.string "それとも まもりの わざか…\p"
+	.string "ポケモンに どの わざマシンの わざを\n"
+	.string "おぼえさせるか きめるのは むずかしい…$"
 
 LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs:
-	.string "There are so many different kinds of\n"
-	.string "TM moves.\p"
-	.string "A catalog I read said there are fifty\n"
-	.string "different kinds.$"
+	.string "{JPN}わざマシンの わざって\n"
+	.string "いろいろ あるのね。\p"
+	.string "カタログで よんだんだけど\n"
+	.string "50しゅるいも あるんですって。$"
 
 LilycoveCity_DepartmentStore_4F_Text_PokemonOnlyHaveFourMoves:
-	.string "I'd like to get all the different TMs,\n"
-	.string "but a POKéMON learns only four moves.$"
+	.string "{JPN}わざマシンを ぜんぶ そろえたいけど\n"
+	.string "ポケモンが おぼえる わざは 4つだけ。$"
 
 @ Wishes of Tomorrow: a shopper explains the new ABILITY MACHINE discs.
 LilycoveCity_DepartmentStore_4F_EventScript_AMExplainer::
@@ -97,13 +97,13 @@ LilycoveCity_DepartmentStore_4F_EventScript_AMExplainer::
 	end
 
 LilycoveCity_DepartmentStore_4F_Text_AMExplainer:
-	.string "See those AM discs? ABILITY\n"
-	.string "MACHINES, the clerks call them.\p"
-	.string "Use one on a POKéMON and its\n"
-	.string "Ability is rewritten to whatever\l"
-	.string "the disc holds.\p"
-	.string "For keeps, mind you. No swapping\n"
-	.string "back to what it was born with.\p"
-	.string "Choose the mon to match, and\n"
-	.string "it's like a whole new POKéMON.$"
+	.string "{JPN}あの AMの ディスクを みたかい?\n"
+	.string "てんいんは とくせいマシンと よんでる。\p"
+	.string "ポケモンに つかうと その とくせいが\n"
+	.string "ディスクに はいっている とくせいに\l"
+	.string "かきかえられるんだ。\p"
+	.string "ずっと そのままだよ。うまれつきの\n"
+	.string "とくせいには もどせないんだ。\p"
+	.string "あう ポケモンを えらんで つかえば\n"
+	.string "まるで べつの ポケモンに なるよ。$"
 

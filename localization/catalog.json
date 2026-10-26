@@ -380628,9 +380628,13 @@
     "end": 1494,
     "raw": "\"Learn to use items properly.\\n\"",
     "source": "Learn to use items properly.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どうぐを ただしく つかうこと。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77e8e8b9a6403f53",
@@ -380640,9 +380644,13 @@
     "end": 1528,
     "raw": "\"That's basic, really.$\"",
     "source": "That's basic, really.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それが きほんなんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c49bcb371454839d",
@@ -380652,9 +380660,13 @@
     "end": 1630,
     "raw": "\"My husband is waiting at home.\\n\"",
     "source": "My husband is waiting at home.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}だんなが いえで まってるの。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d276a90e4ff76f2",
@@ -380664,9 +380676,13 @@
     "end": 1679,
     "raw": "\"What would make a good gift for him?$\"",
     "source": "What would make a good gift for him?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おみやげは なにが いいかしら?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "610e23851ed055ac",
@@ -380676,9 +380692,13 @@
     "end": 1782,
     "raw": "\"I'm leaving on a long journey soon.\\n\"",
     "source": "I'm leaving on a long journey soon.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もうすぐ ながい たびに でるの。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4611fb69aff5a6b6",
@@ -380688,9 +380708,13 @@
     "end": 1823,
     "raw": "\"I need to stock up on items.$\"",
     "source": "I need to stock up on items.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぐを かいこんで おかなくちゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "029d9cc07ad6c7bd",
@@ -380700,9 +380724,13 @@
     "end": 2324,
     "raw": "\"Honey, did you see? They're selling\\n\"",
     "source": "Honey, did you see? They're selling\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なあ みたかい? ここでは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0317cd1a1a3b7c6a",
@@ -380712,9 +380740,13 @@
     "end": 2356,
     "raw": "\"MASTER BALLS here!\\p\"",
     "source": "MASTER BALLS here!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "マスターボールを うってるぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e52a7919c809f40d",
@@ -380724,9 +380756,13 @@
     "end": 2403,
     "raw": "\"I can finally catch you that JYNX\\n\"",
     "source": "I can finally catch you that JYNX\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これで やっと きみの ほしがってた\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "88f8e110e87c6fde",
@@ -380736,9 +380772,13 @@
     "end": 2434,
     "raw": "\"you always wanted!$\"",
     "source": "you always wanted!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ルージュラを つかまえて あげられる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2359e2f9d4980e05",
@@ -380748,9 +380788,13 @@
     "end": 2532,
     "raw": "\"You're the one who wants to freak\\n\"",
     "source": "You're the one who wants to freak\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ルージュラと エッチしたいのは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e7bd0d07b6432b83",
@@ -380760,9 +380804,13 @@
     "end": 2559,
     "raw": "\"it with JYNX!\\p\"",
     "source": "it with JYNX!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あんたの ほうでしょ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c0b16e7460702a26",
@@ -380772,9 +380820,13 @@
     "end": 2601,
     "raw": "\"And that says “WASTER BALL,”\\n\"",
     "source": "And that says “WASTER BALL,”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それに「ウェイスターボール」って\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "531f537f5625c771",
@@ -380784,9 +380836,13 @@
     "end": 2624,
     "raw": "\"you dunce.$\"",
     "source": "you dunce.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かいてあるわよ。おばかさん。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3dde9ea712875fbe",
@@ -380916,9 +380972,13 @@
     "end": 1975,
     "raw": "\"Hmm…\\p\"",
     "source": "Hmm…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うーん…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f763a925c2fb754f",
@@ -380928,9 +380988,13 @@
     "end": 2007,
     "raw": "\"An attacking move…\\n\"",
     "source": "An attacking move…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こうげきの わざか…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "812e379e8e4b3f3d",
@@ -380940,9 +381004,13 @@
     "end": 2041,
     "raw": "\"Or a defensive move…\\p\"",
     "source": "Or a defensive move…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それとも まもりの わざか…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "825b449a779d53b2",
@@ -380952,9 +381020,13 @@
     "end": 2093,
     "raw": "\"It's no easy matter to decide which TM\\n\"",
     "source": "It's no easy matter to decide which TM\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンに どの わざマシンの わざを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b243340b2af97f3",
@@ -380964,9 +381036,13 @@
     "end": 2140,
     "raw": "\"moves should be taught to POKéMON…$\"",
     "source": "moves should be taught to POKéMON…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おぼえさせるか きめるのは むずかしい…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b414570761a83151",
@@ -380976,9 +381052,13 @@
     "end": 2247,
     "raw": "\"There are so many different kinds of\\n\"",
     "source": "There are so many different kinds of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わざマシンの わざって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1be8cdd3acaf3d30",
@@ -380988,9 +381068,13 @@
     "end": 2270,
     "raw": "\"TM moves.\\p\"",
     "source": "TM moves.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いろいろ あるのね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aff73928fc2f60d0",
@@ -381000,9 +381084,13 @@
     "end": 2321,
     "raw": "\"A catalog I read said there are fifty\\n\"",
     "source": "A catalog I read said there are fifty\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カタログで よんだんだけど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3c72d2c1e8275982",
@@ -381012,9 +381100,13 @@
     "end": 2350,
     "raw": "\"different kinds.$\"",
     "source": "different kinds.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "50しゅるいも あるんですって。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "47a646dcc10b531f",
@@ -381024,9 +381116,13 @@
     "end": 2466,
     "raw": "\"I'd like to get all the different TMs,\\n\"",
     "source": "I'd like to get all the different TMs,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わざマシンを ぜんぶ そろえたいけど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "569a43835aa6eb4b",
@@ -381036,9 +381132,13 @@
     "end": 2516,
     "raw": "\"but a POKéMON learns only four moves.$\"",
     "source": "but a POKéMON learns only four moves.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが おぼえる わざは 4つだけ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3b0f3112ae01259c",
@@ -381048,9 +381148,13 @@
     "end": 2844,
     "raw": "\"See those AM discs? ABILITY\\n\"",
     "source": "See those AM discs? ABILITY\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あの AMの ディスクを みたかい?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f1dee04ed2e006ad",
@@ -381060,9 +381164,13 @@
     "end": 2889,
     "raw": "\"MACHINES, the clerks call them.\\p\"",
     "source": "MACHINES, the clerks call them.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てんいんは とくせいマシンと よんでる。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1c3b80a94d47601",
@@ -381072,9 +381180,13 @@
     "end": 2931,
     "raw": "\"Use one on a POKéMON and its\\n\"",
     "source": "Use one on a POKéMON and its\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンに つかうと その とくせいが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "46fffa9de8f2d937",
@@ -381084,9 +381196,13 @@
     "end": 2977,
     "raw": "\"Ability is rewritten to whatever\\l\"",
     "source": "Ability is rewritten to whatever\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ディスクに はいっている とくせいに\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f7d68c942729b59c",
@@ -381096,9 +381212,13 @@
     "end": 3006,
     "raw": "\"the disc holds.\\p\"",
     "source": "the disc holds.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かきかえられるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ade56c305e69686f",
@@ -381108,9 +381228,13 @@
     "end": 3052,
     "raw": "\"For keeps, mind you. No swapping\\n\"",
     "source": "For keeps, mind you. No swapping\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ずっと そのままだよ。うまれつきの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6634456ca0765496",
@@ -381120,9 +381244,13 @@
     "end": 3096,
     "raw": "\"back to what it was born with.\\p\"",
     "source": "back to what it was born with.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とくせいには もどせないんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c35dcdd20d157ef",
@@ -381132,9 +381260,13 @@
     "end": 3138,
     "raw": "\"Choose the mon to match, and\\n\"",
     "source": "Choose the mon to match, and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あう ポケモンを えらんで つかえば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "611434c46fb44070",
@@ -381144,9 +381276,13 @@
     "end": 3181,
     "raw": "\"it's like a whole new POKéMON.$\"",
     "source": "it's like a whole new POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まるで べつの ポケモンに なるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d11ad745d1286cd3",
@@ -400796,9 +400932,13 @@
     "end": 16904,
     "raw": "\"Gimmighoul{CLEAR_TO 0x48}{FONT_SMALL}  999 COINS$\"",
     "source": "Gimmighoul{CLEAR_TO 0x48}{FONT_SMALL}  999 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}コレクレー{CLEAR_TO 0x48}{FONT_SMALL}999コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b9de00e76642a323",
@@ -400808,9 +400948,13 @@
     "end": 16988,
     "raw": "\"Charcadet{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$\"",
     "source": "Charcadet{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カルボウ{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc0cbd0e75b61958",
@@ -400820,9 +400964,13 @@
     "end": 17068,
     "raw": "\"Honedge{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$\"",
     "source": "Honedge{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ヒトツキ{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e62b1845fd92c54a",
@@ -400832,9 +400980,13 @@
     "end": 17144,
     "raw": "\"Toxel{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$\"",
     "source": "Toxel{CLEAR_TO 0x48}{FONT_SMALL}2,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}エレズン{CLEAR_TO 0x48}{FONT_SMALL}2000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0a8f87d61de79272",
@@ -400844,9 +400996,13 @@
     "end": 17220,
     "raw": "\"Goomy{CLEAR_TO 0x48}{FONT_SMALL}2,500 COINS$\"",
     "source": "Goomy{CLEAR_TO 0x48}{FONT_SMALL}2,500 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ヌメラ{CLEAR_TO 0x48}{FONT_SMALL}2500コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f78e126c2e88b08b",
@@ -400856,9 +401012,13 @@
     "end": 17301,
     "raw": "\"Jangmo-o{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$\"",
     "source": "Jangmo-o{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ジャラコ{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "87f8e8de87af87ea",
@@ -400868,9 +401028,13 @@
     "end": 17383,
     "raw": "\"Greavard{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$\"",
     "source": "Greavard{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ボチ{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a42a366d9c7ff22a",
@@ -400880,9 +401044,13 @@
     "end": 17467,
     "raw": "\"Duraludon{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$\"",
     "source": "Duraludon{CLEAR_TO 0x48}{FONT_SMALL}3,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ジュラルドン{CLEAR_TO 0x48}{FONT_SMALL}3000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8d14be7591520147",
@@ -400892,9 +401060,13 @@
     "end": 17545,
     "raw": "\"Dreepy{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS$\"",
     "source": "Dreepy{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ドラメシヤ{CLEAR_TO 0x48}{FONT_SMALL}4000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1d602901ed8b63c7",
@@ -400904,9 +401076,13 @@
     "end": 17627,
     "raw": "\"Frigibax{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$\"",
     "source": "Frigibax{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}セビエ{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74e114141c3dee4a",
@@ -400916,9 +401092,13 @@
     "end": 17703,
     "raw": "\"Gible{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$\"",
     "source": "Gible{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}フカマル{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f67732a23cfd4cd",
@@ -400928,9 +401108,13 @@
     "end": 17777,
     "raw": "\"Axew{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$\"",
     "source": "Axew{CLEAR_TO 0x48}{FONT_SMALL}5,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}キバゴ{CLEAR_TO 0x48}{FONT_SMALL}5000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6b282d85562e7d7c",
@@ -400940,9 +401124,13 @@
     "end": 17853,
     "raw": "\"Rotom{CLEAR_TO 0x48}{FONT_SMALL}6,500 COINS$\"",
     "source": "Rotom{CLEAR_TO 0x48}{FONT_SMALL}6,500 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ロトム{CLEAR_TO 0x48}{FONT_SMALL}6500コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "738e69c1fa35950f",
@@ -400952,9 +401140,13 @@
     "end": 17937,
     "raw": "\"Type: Null{CLEAR_TO 0x48}{FONT_SMALL}8,000 COINS$\"",
     "source": "Type: Null{CLEAR_TO 0x48}{FONT_SMALL}8,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}タイプ:ヌル{CLEAR_TO 0x48}{FONT_SMALL}8000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "96a2a58c860006c5",
@@ -400964,9 +401156,13 @@
     "end": 18017,
     "raw": "\"Porygon{CLEAR_TO 0x48}{FONT_SMALL}9,999 COINS$\"",
     "source": "Porygon{CLEAR_TO 0x48}{FONT_SMALL}9,999 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ポリゴン{CLEAR_TO 0x48}{FONT_SMALL}9999コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d0accdf8caa23ad4",
@@ -400976,9 +401172,13 @@
     "end": 18107,
     "raw": "\"TM54 Play Rough{CLEAR_TO 0x70}{FONT_SMALL}3,000 COINS$\"",
     "source": "TM54 Play Rough{CLEAR_TO 0x70}{FONT_SMALL}3,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM54 じゃれつく{CLEAR_TO 0x70}{FONT_SMALL}3000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "45c44f7d128d2ec8",
@@ -400988,9 +401188,13 @@
     "end": 18197,
     "raw": "\"TM53 Scale Shot{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$\"",
     "source": "TM53 Scale Shot{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM53 スケイルショット{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "402b59250180de25",
@@ -401000,9 +401204,13 @@
     "end": 18285,
     "raw": "\"TM59 Knock Off{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$\"",
     "source": "TM59 Knock Off{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM59 はたきおとす{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dd2a32098cdfc406",
@@ -401012,9 +401220,13 @@
     "end": 18377,
     "raw": "\"Leader's Crest{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$\"",
     "source": "Leader's Crest{CLEAR_TO 0x70}{FONT_SMALL}3,500 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かしらのしるし{CLEAR_TO 0x70}{FONT_SMALL}3500コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33f21d12084ad895",
@@ -401024,9 +401236,13 @@
     "end": 18477,
     "raw": "\"TM57 Scorching Sands{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$\"",
     "source": "TM57 Scorching Sands{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM57 ねっさのだいち{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a6382a519e011608",
@@ -401036,9 +401252,13 @@
     "end": 18569,
     "raw": "\"TM58 Earth Power{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$\"",
     "source": "TM58 Earth Power{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM58 だいちのちから{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2b31b1493e9311eb",
@@ -401048,9 +401268,13 @@
     "end": 18656,
     "raw": "\"Metal Alloy{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$\"",
     "source": "Metal Alloy{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふくごうきんぞく{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1ba950a6e3053632",
@@ -401060,9 +401284,13 @@
     "end": 18753,
     "raw": "\"Auspicious Armor{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$\"",
     "source": "Auspicious Armor{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}イワイノヨロイ{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57b8e7c62572751c",
@@ -401072,9 +401300,13 @@
     "end": 18848,
     "raw": "\"Malicious Armor{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$\"",
     "source": "Malicious Armor{CLEAR_TO 0x70}{FONT_SMALL}4,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ノロイノヨロイ{CLEAR_TO 0x70}{FONT_SMALL}4000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b7d62c5bd4ba0bc",
@@ -401084,9 +401316,13 @@
     "end": 18942,
     "raw": "\"TM55 Swords Dance{CLEAR_TO 0x70}{FONT_SMALL}6,000 COINS$\"",
     "source": "TM55 Swords Dance{CLEAR_TO 0x70}{FONT_SMALL}6,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM55 つるぎのまい{CLEAR_TO 0x70}{FONT_SMALL}6000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6323e00a41583cbe",
@@ -401096,9 +401332,13 @@
     "end": 19032,
     "raw": "\"TM56 Nasty Plot{CLEAR_TO 0x70}{FONT_SMALL}6,000 COINS$\"",
     "source": "TM56 Nasty Plot{CLEAR_TO 0x70}{FONT_SMALL}6,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM56 わるだくみ{CLEAR_TO 0x70}{FONT_SMALL}6000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c3d3fe1029e2f98b",
@@ -401108,9 +401348,13 @@
     "end": 19126,
     "raw": "\"TM51 Draco Meteor{CLEAR_TO 0x70}{FONT_SMALL}8,000 COINS$\"",
     "source": "TM51 Draco Meteor{CLEAR_TO 0x70}{FONT_SMALL}8,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM51 りゅうせいぐん{CLEAR_TO 0x70}{FONT_SMALL}8000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "320bed7d756322a6",
@@ -401120,9 +401364,13 @@
     "end": 19220,
     "raw": "\"TM52 Close Combat{CLEAR_TO 0x70}{FONT_SMALL}8,000 COINS$\"",
     "source": "TM52 Close Combat{CLEAR_TO 0x70}{FONT_SMALL}8,000 COINS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}TM52 インファイト{CLEAR_TO 0x70}{FONT_SMALL}8000コイン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c784eece9ad430f7",
@@ -401132,9 +401380,13 @@
     "end": 19265,
     "raw": "\"No thanks$\"",
     "source": "No thanks$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やめる$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a5a31055306dbcea",
@@ -401144,9 +401396,13 @@
     "end": 19341,
     "raw": "\"So your choice is {STR_VAR_1}?$\"",
     "source": "So your choice is {STR_VAR_1}?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}で よろしいですか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "116b578cdf963cf3",
@@ -401156,9 +401412,13 @@
     "end": 27575,
     "raw": "\"This is MAUVILLE GAME CORNER.$\"",
     "source": "This is MAUVILLE GAME CORNER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは キンセツ ゲームコーナーです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a0f6d94a23af2eb5",
@@ -401168,9 +401428,13 @@
     "end": 27672,
     "raw": "\"Okay, you wanted some COINS for\\n\"",
     "source": "Okay, you wanted some COINS for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ゲームで あそぶための コインを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8fdff39ddb7d08aa",
@@ -401180,9 +401444,13 @@
     "end": 27696,
     "raw": "\"the games?\\p\"",
     "source": "the games?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもとめですか?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b36f649afcea202",
@@ -401192,9 +401460,13 @@
     "end": 27744,
     "raw": "\"But you don't have a COIN CASE for\\n\"",
     "source": "But you don't have a COIN CASE for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも コインを いれるための\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8e359dd70e44c17d",
@@ -401204,9 +401476,13 @@
     "end": 27775,
     "raw": "\"stowing the COINS.$\"",
     "source": "stowing the COINS.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "コインケースを おもちで ないですね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c74e1148c727a1aa",
@@ -401216,9 +401492,13 @@
     "end": 27870,
     "raw": "\"Were you looking for COINS?\\p\"",
     "source": "Were you looking for COINS?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}コインを おもとめですか?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2254ef3b406c013b",
@@ -401228,9 +401508,13 @@
     "end": 27908,
     "raw": "\"It's ¥1000 for 50 COINS.\\n\"",
     "source": "It's ¥1000 for 50 COINS.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "50まいで 1000円に なります。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c2e5fc3adc6875b7",
@@ -401240,9 +401524,13 @@
     "end": 27941,
     "raw": "\"Would you like some?$\"",
     "source": "Would you like some?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いかがですか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8bf6d1b3c3386535",
@@ -401252,9 +401540,13 @@
     "end": 28031,
     "raw": "\"Thank you very much!\\n\"",
     "source": "Thank you very much!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ありがとうございます!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d41ae1a5f3442028",
@@ -401264,9 +401556,13 @@
     "end": 28064,
     "raw": "\"Here are your COINS!$\"",
     "source": "Here are your COINS!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こちらが コインです!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ae2640f726f29b88",
@@ -401276,9 +401572,13 @@
     "end": 28157,
     "raw": "\"Um… You don't appear to have\\n\"",
     "source": "Um… You don't appear to have\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あの… おかねが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db27487513dee137",
@@ -401288,9 +401588,13 @@
     "end": 28183,
     "raw": "\"enough money…$\"",
     "source": "enough money…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たりないようですが…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3761910ea32ed24d",
@@ -401300,9 +401604,13 @@
     "end": 28246,
     "raw": "\"Oh?\\n\"",
     "source": "Oh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14201a05b086b32b",
@@ -401312,9 +401620,13 @@
     "end": 28282,
     "raw": "\"Your COIN CASE is full.$\"",
     "source": "Your COIN CASE is full.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "コインケースが いっぱいですよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9972e6899545f09f",
@@ -401324,9 +401636,13 @@
     "end": 28376,
     "raw": "\"Oh… You don't need COINS, then?\\n\"",
     "source": "Oh… You don't need COINS, then?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら… コインは いらないのですか?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "26c75d3f8a130b36",
@@ -401336,9 +401652,13 @@
     "end": 28417,
     "raw": "\"Good luck on your adventure!$\"",
     "source": "Good luck on your adventure!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ぼうけん がんばってくださいね!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "71a0de71a17c05f5",
@@ -401348,9 +401668,13 @@
     "end": 28493,
     "raw": "\"Welcome.\\p\"",
     "source": "Welcome.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いらっしゃいませ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0a94c037e87a3f5b",
@@ -401360,9 +401684,13 @@
     "end": 28538,
     "raw": "\"You can exchange your COINS for\\n\"",
     "source": "You can exchange your COINS for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こちらでは コインを けいひんと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "862b09f4df68b564",
@@ -401372,9 +401700,13 @@
     "end": 28563,
     "raw": "\"prizes here.$\"",
     "source": "prizes here.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こうかん できます。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b12f9cb0f073c7b1",
@@ -401384,9 +401716,13 @@
     "end": 28645,
     "raw": "\"Which prize would you like?$\"",
     "source": "Which prize would you like?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どの けいひんに なさいますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cac800e46a53d94e",
@@ -401396,9 +401732,13 @@
     "end": 28728,
     "raw": "\"So your choice is\\n\"",
     "source": "So your choice is\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}では こちらの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "464d436525f9b8fd",
@@ -401408,9 +401748,13 @@
     "end": 28769,
     "raw": "\"the {STR_VAR_1} {STR_VAR_2}?$\"",
     "source": "the {STR_VAR_1} {STR_VAR_2}?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN} {ENG}{STR_VAR_2}{JPN}ですね?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7f60ba014ac3ea0b",
@@ -401420,9 +401764,13 @@
     "end": 28841,
     "raw": "\"Thank you!\\n\"",
     "source": "Thank you!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ありがとうございます!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a3c1d83931ec6f77",
@@ -401432,9 +401780,13 @@
     "end": 28887,
     "raw": "\"We'll send it to your PC at home.$\"",
     "source": "We'll send it to your PC at home.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ごじたくの パソコンに おおくりします。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0e603e56f36140c9",
@@ -401444,9 +401796,13 @@
     "end": 28974,
     "raw": "\"You don't have enough COINS.$\"",
     "source": "You don't have enough COINS.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}コインが たりません。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "15bbd535dee83eef",
@@ -401456,9 +401812,13 @@
     "end": 29084,
     "raw": "\"There isn't any room available for\\n\"",
     "source": "There isn't any room available for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もう おける ばしょが ありません。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b45b1eaf97eb89f0",
@@ -401468,9 +401828,13 @@
     "end": 29117,
     "raw": "\"placing {STR_VAR_1}.$\"",
     "source": "placing {STR_VAR_1}.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{STR_VAR_1}{JPN}は おけません。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0d4681e20d5eb837",
@@ -401480,9 +401844,13 @@
     "end": 29189,
     "raw": "\"Oh, is that so? \\n\"",
     "source": "Oh, is that so? \\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そうですか。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f567a5331cfb5a4b",
@@ -401492,9 +401860,13 @@
     "end": 29237,
     "raw": "\"You need to save some COINS before\\l\"",
     "source": "You need to save some COINS before\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "コインを ためてから\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c16f21017c7484c5",
@@ -401504,9 +401876,13 @@
     "end": 29267,
     "raw": "\"coming back here.$\"",
     "source": "coming back here.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また おこしください。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "98d394c16f321d58",
@@ -401516,9 +401892,13 @@
     "end": 29357,
     "raw": "\"So your choice is {STR_VAR_1}?$\"",
     "source": "So your choice is {STR_VAR_1}?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}で よろしいですか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "59618364333a2dcb",
@@ -401528,9 +401908,13 @@
     "end": 29423,
     "raw": "\"Here you go!$\"",
     "source": "Here you go!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どうぞ おうけとりください!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c23f02cdce436111",
@@ -401540,9 +401924,13 @@
     "end": 29532,
     "raw": "\"Oh, you can't carry any more than that.$\"",
     "source": "Oh, you can't carry any more than that.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おや これいじょう もてませんよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "389e26bcf576e7bb",
@@ -401552,9 +401940,13 @@
     "end": 29632,
     "raw": "\"I made a mistake and got two of\\n\"",
     "source": "I made a mistake and got two of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まちがえて おなじ ぬいぐるみを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "462ae2da2ebe6d40",
@@ -401564,9 +401956,13 @@
     "end": 29661,
     "raw": "\"the same DOLLS.\\p\"",
     "source": "the same DOLLS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "2つ もらっちゃったの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc36dd895f33827c",
@@ -401576,9 +401972,13 @@
     "end": 29701,
     "raw": "\"Would you like one of them?$\"",
     "source": "Would you like one of them?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとつ いらない?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9306d7afde0a6b47",
@@ -401588,9 +401988,13 @@
     "end": 29768,
     "raw": "\"Here you go!$\"",
     "source": "Here you go!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}はい どうぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bb275918702402d3",
@@ -401600,9 +402004,13 @@
     "end": 29836,
     "raw": "\"Huh?\\n\"",
     "source": "Huh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あれ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f495768d5bcd698b",
@@ -401612,9 +402020,13 @@
     "end": 29880,
     "raw": "\"You want it, but not right now?$\"",
     "source": "You want it, but not right now?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほしいけど いまは いらないの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c243f94d75f2a8f6",
@@ -401624,9 +402036,13 @@
     "end": 29965,
     "raw": "\"Oh, don't be so negative!\\n\"",
     "source": "Oh, don't be so negative!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そんな えんりょ しないで!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d6e58e76df1e42d8",
@@ -401636,9 +402052,13 @@
     "end": 29996,
     "raw": "\"You can have this!$\"",
     "source": "You can have this!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これ あげるわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aae4fdb2bf50e709",
@@ -401648,9 +402068,13 @@
     "end": 30095,
     "raw": "\"There's a prize I want, but I can't win\\n\"",
     "source": "There's a prize I want, but I can't win\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほしい けいひんが あるのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f16ca4c507771ca",
@@ -401660,9 +402084,13 @@
     "end": 30120,
     "raw": "\"the jackpot.$\"",
     "source": "the jackpot.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おおあたりが でないんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "02c2902141f774d0",
@@ -401672,9 +402100,13 @@
     "end": 30223,
     "raw": "\"Hey, kid, if you want to play here,\\n\"",
     "source": "Hey, kid, if you want to play here,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やあ ここで あそびたいなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1765be4b34ee8080",
@@ -401684,9 +402116,13 @@
     "end": 30258,
     "raw": "\"you need a COIN CASE.\\p\"",
     "source": "you need a COIN CASE.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "コインケースが いるぞ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3b63d1fe0f86a94a",
@@ -401696,9 +402132,13 @@
     "end": 30308,
     "raw": "\"Try digging through the garbage can.\\n\"",
     "source": "Try digging through the garbage can.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゴミばこを あさってみなよ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1c242ace125ade6b",
@@ -401708,9 +402148,13 @@
     "end": 30359,
     "raw": "\"Someone probably tossed one in there.\\p\"",
     "source": "Someone probably tossed one in there.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれかが すてたのが あるかもな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f934034d9a648a2",
@@ -401720,9 +402164,13 @@
     "end": 30404,
     "raw": "\"Must've been down on their luck.$\"",
     "source": "Must've been down on their luck.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きっと ツキが なかったんだろうな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3b009bd9bfb65213",
@@ -401732,9 +402180,13 @@
     "end": 30507,
     "raw": "\"My luck can only last so long.\\n\"",
     "source": "My luck can only last so long.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この ツキも いつまでもは つづかないよ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0cfe3d009546d9d8",
@@ -401744,9 +402196,13 @@
     "end": 30545,
     "raw": "\"This is too much for me.\\l\"",
     "source": "This is too much for me.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんなに あっても つかいきれない。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1f04316011c07dbc",
@@ -401756,9 +402212,13 @@
     "end": 30580,
     "raw": "\"Here, take some COINS!$\"",
     "source": "Here, take some COINS!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほら コインを わけてあげる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "358bd6a3a1ba4523",
@@ -401768,9 +402228,13 @@
     "end": 30680,
     "raw": "\"MAUVILLE has something for\\n\"",
     "source": "MAUVILLE has something for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}キンセツには だれでも たのしめる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0bd85139e49cb9dd",
@@ -401780,9 +402244,13 @@
     "end": 30703,
     "raw": "\"everyone.\\p\"",
     "source": "everyone.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにかが あるの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b8a173ce80206a4",
@@ -401792,9 +402260,13 @@
     "end": 30745,
     "raw": "\"For me, it's the GAME CORNER.$\"",
     "source": "For me, it's the GAME CORNER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしには ゲームコーナーね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e9f05c841e7998d6",
@@ -401804,9 +402276,13 @@
     "end": 30853,
     "raw": "\"The ROULETTE tables have different\\n\"",
     "source": "The ROULETTE tables have different\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ルーレットは だいによって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2d4aec27f7d0c641",
@@ -401816,9 +402292,13 @@
     "end": 30873,
     "raw": "\"rates.\\p\"",
     "source": "rates.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かける まいすうが ちがうんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "07f99401bd7c0b41",
@@ -401828,9 +402308,13 @@
     "end": 30922,
     "raw": "\"Check your COINS if you're going to\\n\"",
     "source": "Check your COINS if you're going to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だいを えらぶなら じぶんの コインを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "65538e6af95ba553",
@@ -401840,9 +402324,13 @@
     "end": 30948,
     "raw": "\"pick a table.$\"",
     "source": "pick a table.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たしかめて おくといいよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e98ecb44b86d3470",
@@ -401852,9 +402340,13 @@
     "end": 31056,
     "raw": "\"It's easy to lose track of time in here. \\n\"",
     "source": "It's easy to lose track of time in here. \\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここに いると つい じかんを わすれるね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "657a4baa675af4f4",
@@ -401864,9 +402356,13 @@
     "end": 31095,
     "raw": "\"I should get back to work.$\"",
     "source": "I should get back to work.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しごとに もどらなくちゃ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "de3c74896bcdac77",
@@ -401876,9 +402372,13 @@
     "end": 31190,
     "raw": "\"COINS are needed to play here\\n\"",
     "source": "COINS are needed to play here\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この ゲームコーナーで あそぶには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3786605eaa2e1294",
@@ -401888,9 +402388,13 @@
     "end": 31222,
     "raw": "\"in the GAME CORNER.$\"",
     "source": "in the GAME CORNER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "コインが ひつようだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c443f677d8b18b72",
@@ -401900,9 +402404,13 @@
     "end": 31304,
     "raw": "\"This ROULETTE thing…\\n\"",
     "source": "This ROULETTE thing…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この ルーレットって…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4e3d7dfbbd1445c7",
@@ -401912,9 +402420,13 @@
     "end": 31340,
     "raw": "\"It's rather demanding.\\p\"",
     "source": "It's rather demanding.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかなか むずかしいね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "37bfe8baa2a76f63",
@@ -401924,9 +402436,13 @@
     "end": 31384,
     "raw": "\"Win or lose, it's only by luck.$\"",
     "source": "Win or lose, it's only by luck.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かつも まけるも うん しだいだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1d7f9419bc819e41",
@@ -401936,9 +402452,13 @@
     "end": 31486,
     "raw": "\"Up to three COINS can be used to play\\n\"",
     "source": "Up to three COINS can be used to play\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}スロットでは コインを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0764a96bb2ae7d59",
@@ -401948,9 +402468,13 @@
     "end": 31509,
     "raw": "\"the SLOTS.$\"",
     "source": "the SLOTS.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3まいまで かけられるよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f35010ea451fd14",
@@ -401960,9 +402484,13 @@
     "end": 31608,
     "raw": "\"It's very difficult to make it stop\\n\"",
     "source": "It's very difficult to make it stop\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぴったり「7」で とめるのって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5fac7521ace4c6d0",
@@ -401972,9 +402500,13 @@
     "end": 31635,
     "raw": "\"right on “7.”\\p\"",
     "source": "right on “7.”\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すごく むずかしいの。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9a7ec3d62469f833",
@@ -401984,9 +402516,13 @@
     "end": 31688,
     "raw": "\"If it stops on “7” during the REEL TIME\\n\"",
     "source": "If it stops on “7” during the REEL TIME\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リールタイムの ボーナスゲームで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0ce26b443a859a6e",
@@ -401996,9 +402532,13 @@
     "end": 31740,
     "raw": "\"bonus game, you'll receive extra COINS.$\"",
     "source": "bonus game, you'll receive extra COINS.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「7」に とまると コインが ふえるのよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2e2a200c3c52a335",
@@ -402008,9 +402548,13 @@
     "end": 31835,
     "raw": "\"Here's some information for you\\n\"",
     "source": "Here's some information for you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}スロットの ことを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e3ae9542b570d33f",
@@ -402020,9 +402564,13 @@
     "end": 31865,
     "raw": "\"about the SLOTS.\\p\"",
     "source": "about the SLOTS.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すこし おしえてあげよう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54e2d7313ff0e395",
@@ -402032,9 +402580,13 @@
     "end": 31914,
     "raw": "\"The more lightning bolts you stock,\\n\"",
     "source": "The more lightning bolts you stock,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "カミナリマークを ためるほど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0386756312ba2b8e",
@@ -402044,9 +402596,13 @@
     "end": 31963,
     "raw": "\"the more REEL TIME chances you get.\\p\"",
     "source": "the more REEL TIME chances you get.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リールタイムの チャンスが ふえるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b279efebfa95a574",
@@ -402056,9 +402612,13 @@
     "end": 32008,
     "raw": "\"In a game with the maximum five\\n\"",
     "source": "In a game with the maximum five\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "リールタイムの チャンスが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9c5e25a6f8100bb6",
@@ -402068,9 +402628,13 @@
     "end": 32040,
     "raw": "\"REEL TIME chances…\\p\"",
     "source": "REEL TIME chances…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さいだいの 5かい ある ゲームなら…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "40671f1367da513b",
@@ -402080,9 +402644,13 @@
     "end": 32092,
     "raw": "\"It is possible to receive four regular\\n\"",
     "source": "It is possible to receive four regular\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "レギュラーボーナスが 4かいの あとに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c2cc9ca59c1eeffc",
@@ -402092,9 +402660,13 @@
     "end": 32132,
     "raw": "\"bonuses, then a big bonus.\\p\"",
     "source": "bonuses, then a big bonus.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ビッグボーナスが でることも ある。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "11f1ad085cd69495",
@@ -402104,9 +402676,13 @@
     "end": 32182,
     "raw": "\"That would total 660 COINS, but it's\\n\"",
     "source": "That would total 660 COINS, but it's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あわせて コイン 660まいだが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b8a89c06ffa44924",
@@ -402116,9 +402692,13 @@
     "end": 32217,
     "raw": "\"very difficult to get.$\"",
     "source": "very difficult to get.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ねらうのは とても むずかしいぞ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a5b5ba9bede6d7c9",
@@ -402128,9 +402708,13 @@
     "end": 32317,
     "raw": "\"You can't play if you don't have\\n\"",
     "source": "You can't play if you don't have\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}コインケースが ないと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "274942f640ebbdea",
@@ -402140,9 +402724,13 @@
     "end": 32342,
     "raw": "\"a COIN CASE.$\"",
     "source": "a COIN CASE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あそべません。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-gamecorner-53",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a8eff4f9e20b3963",
@@ -413956,9 +414544,13 @@
     "end": 12405,
     "raw": "\"The power contained in the METEORITE…\\p\"",
     "source": "The power contained in the METEORITE…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いんせきに ひめられた ちから…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4ed06ac058b8d1e9",
@@ -413968,9 +414560,13 @@
     "end": 12452,
     "raw": "\"By amplifying its power with this\\n\"",
     "source": "By amplifying its power with this\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この そうちで その ちからを ふやせば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "79f2b9a05da2d6e6",
@@ -413980,9 +414576,13 @@
     "end": 12497,
     "raw": "\"machine, MT. CHIMNEY's volcanic\\l\"",
     "source": "machine, MT. CHIMNEY's volcanic\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えんとつやまの かざんかつどうは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd5bf32ac7b9e8ce",
@@ -413992,9 +414592,13 @@
     "end": 12545,
     "raw": "\"activity will instantly intensify…\\p\"",
     "source": "activity will instantly intensify…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たちまち はげしくなる…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fb9d609f89925bcf",
@@ -414004,9 +414608,13 @@
     "end": 12591,
     "raw": "\"Its energy will grow deep inside\\n\"",
     "source": "Its energy will grow deep inside\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かこうの おくふかくで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3ef8b3ea6c8b5eab",
@@ -414016,9 +414624,13 @@
     "end": 12620,
     "raw": "\"the crater and…\\l\"",
     "source": "the crater and…\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "エネルギーが ふくれあがり…\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "75ebcadfcdb568ee",
@@ -414028,9 +414640,13 @@
     "end": 12640,
     "raw": "\"Fufufu…$\"",
     "source": "Fufufu…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふふふ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "739506af73518a86",
@@ -414040,9 +414656,13 @@
     "end": 12692,
     "raw": "\"MAXIE: Hm?\\n\"",
     "source": "MAXIE: Hm?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}マツブサ: ん?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "be8e631b66f69f6f",
@@ -414052,9 +414672,13 @@
     "end": 12718,
     "raw": "\"Who are you?\\p\"",
     "source": "Who are you?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おまえは だれだ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3fb16179aeb64a28",
@@ -414064,9 +414688,13 @@
     "end": 12743,
     "raw": "\"… … … … … …\\n\"",
     "source": "… … … … … …\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … …\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9c57dc0a8269938c",
@@ -414076,9 +414704,13 @@
     "end": 12768,
     "raw": "\"… … … … … …\\p\"",
     "source": "… … … … … …\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "… … … … … …\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6c3aaad909410cf9",
@@ -414088,9 +414720,13 @@
     "end": 12816,
     "raw": "\"I'd heard ARCHIE bemoaning a child\\n\"",
     "source": "I'd heard ARCHIE bemoaning a child\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アオギリが ぼやいていたな。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "51eab4dcae4a730d",
@@ -414100,9 +414736,13 @@
     "end": 12864,
     "raw": "\"who's been meddling in TEAM AQUA's\\l\"",
     "source": "who's been meddling in TEAM AQUA's\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アクアだんの しごとを じゃまする\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "17af8febdb4b6557",
@@ -414112,9 +414752,13 @@
     "end": 12886,
     "raw": "\"affairs.\\p\"",
     "source": "affairs.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こどもが いると。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fa78f350c6a2bfa0",
@@ -414124,9 +414768,13 @@
     "end": 12924,
     "raw": "\"It must be you he meant.\\p\"",
     "source": "It must be you he meant.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それが おまえか。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0374d935ecd2c9ef",
@@ -414136,9 +414784,13 @@
     "end": 12966,
     "raw": "\"Humph! So you're thinking of\\n\"",
     "source": "Humph! So you're thinking of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふん! われわれ マグマだんの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8ed60256d82b0910",
@@ -414148,9 +414800,13 @@
     "end": 13012,
     "raw": "\"interfering with us, TEAM MAGMA?\\p\"",
     "source": "interfering with us, TEAM MAGMA?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃまも しようというのか?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a86047f6fa0e40f2",
@@ -414160,9 +414816,13 @@
     "end": 13041,
     "raw": "\"Now you listen.\\n\"",
     "source": "Now you listen.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よく きくがいい。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "116ef53ef6884f47",
@@ -414172,9 +414832,13 @@
     "end": 13087,
     "raw": "\"Long ago, living things used the\\l\"",
     "source": "Long ago, living things used the\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むかしから いきものは りくちの うえで\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a05f8c7c9aa6cd4",
@@ -414184,9 +414848,13 @@
     "end": 13123,
     "raw": "\"land to live and grow.\\p\"",
     "source": "land to live and grow.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くらし そだってきたのだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e91797be64f32454",
@@ -414196,9 +414864,13 @@
     "end": 13171,
     "raw": "\"That is why land is all important!\\n\"",
     "source": "That is why land is all important!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だからこそ りくちは なにより たいせつ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2940068a58e5551d",
@@ -414208,9 +414880,13 @@
     "end": 13209,
     "raw": "\"It is the cradle of all!\\p\"",
     "source": "It is the cradle of all!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すべてを はぐくむ ゆりかごなのだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9499f3e8c7dde2cb",
@@ -414220,9 +414896,13 @@
     "end": 13258,
     "raw": "\"That is why TEAM MAGMA is dedicated\\n\"",
     "source": "That is why TEAM MAGMA is dedicated\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから われわれ マグマだんは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "06f1b5965f89543c",
@@ -414232,9 +414912,13 @@
     "end": 13306,
     "raw": "\"to the expansion of the land mass.\\p\"",
     "source": "to the expansion of the land mass.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "りくちを ひろげるために はたらいている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db82a919aa736177",
@@ -414244,9 +414928,13 @@
     "end": 13352,
     "raw": "\"It is for further advancement of\\n\"",
     "source": "It is for further advancement of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "にんげんと ポケモンの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a5ea86da9c4b7849",
@@ -414256,9 +414944,13 @@
     "end": 13388,
     "raw": "\"humankind and POKéMON!\\p\"",
     "source": "humankind and POKéMON!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さらなる はってんの ためにな!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0104527af2587659",
@@ -414268,9 +414960,13 @@
     "end": 13436,
     "raw": "\"And for that, we need the power of\\n\"",
     "source": "And for that, we need the power of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そのためには この やまに ねむる\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "93e22a9ef2da064c",
@@ -414280,9 +414976,13 @@
     "end": 13483,
     "raw": "\"what sleeps within this mountain…\\p\"",
     "source": "what sleeps within this mountain…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいつの ちからが ひつようなのだ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f8edcc1dfca8656",
@@ -414292,9 +414992,13 @@
     "end": 13529,
     "raw": "\"Oh! There was no need for you to\\n\"",
     "source": "Oh! There was no need for you to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おっと! おまえに そこまで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "17cd1218ea7e58e6",
@@ -414304,9 +415008,13 @@
     "end": 13559,
     "raw": "\"learn that much.\\p\"",
     "source": "learn that much.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おしえる ひつようは なかったな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "db1326686de2086a",
@@ -414316,9 +415024,13 @@
     "end": 13588,
     "raw": "\"But, no matter!\\n\"",
     "source": "But, no matter!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まあ いい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5e626a87e857ac31",
@@ -414328,9 +415040,13 @@
     "end": 13636,
     "raw": "\"I'll teach you the consequences of\\l\"",
     "source": "I'll teach you the consequences of\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれの いだいな けいかくを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24a86b9ac295572b",
@@ -414340,9 +415056,13 @@
     "end": 13678,
     "raw": "\"meddling in our grand design!$\"",
     "source": "meddling in our grand design!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃました むくいを おしえてやろう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f77ef4f252884e3e",
@@ -414352,9 +415072,13 @@
     "end": 13727,
     "raw": "\"What?!\\p\"",
     "source": "What?!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なんだと?!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5cc5b4ac995d3ff4",
@@ -414364,9 +415088,13 @@
     "end": 13772,
     "raw": "\"I, MAXIE, was caught off guard?!$\"",
     "source": "I, MAXIE, was caught off guard?!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この マツブサが ふいを つかれたのか?!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "44d1bf6ea9f27d58",
@@ -414376,9 +415104,13 @@
     "end": 13852,
     "raw": "\"MAXIE: But, enough.\\n\"",
     "source": "MAXIE: But, enough.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}マツブサ: まあ よい。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f6c0ab9ea71b32ac",
@@ -414388,9 +415120,13 @@
     "end": 13892,
     "raw": "\"I will back off this time.\\p\"",
     "source": "I will back off this time.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんかいは ひきさがってやろう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "623a41089f909eca",
@@ -414400,9 +415136,13 @@
     "end": 13943,
     "raw": "\"But don't think that this is the last\\n\"",
     "source": "But don't think that this is the last\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だが マグマだんが これで おわりだとは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c1f28ac9e61fb40e",
@@ -414412,9 +415152,13 @@
     "end": 13983,
     "raw": "\"you've seen of TEAM MAGMA.\\p\"",
     "source": "you've seen of TEAM MAGMA.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもわない ことだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1457b975acbdae20",
@@ -414424,9 +415168,13 @@
     "end": 14004,
     "raw": "\"Fufufu…\\p\"",
     "source": "Fufufu…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふふふ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3bdd24b7bf5e3ebc",
@@ -414436,9 +415184,13 @@
     "end": 14051,
     "raw": "\"Even without the METEORITE, if we\\n\"",
     "source": "Even without the METEORITE, if we\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきが なくとも あの たまさえ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6cbcac2ac8531765",
@@ -414448,9 +415200,13 @@
     "end": 14088,
     "raw": "\"obtain that ORB… Fufufu…$\"",
     "source": "obtain that ORB… Fufufu…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "てに はいれば… ふふふ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "093b92fce86ccb99",
@@ -414460,9 +415216,13 @@
     "end": 14139,
     "raw": "\"Hehehe!\\p\"",
     "source": "Hehehe!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へへへ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b81ae969e7fbf070",
@@ -414472,9 +415232,13 @@
     "end": 14185,
     "raw": "\"So you've come all the way here!\\p\"",
     "source": "So you've come all the way here!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんな ところまで きたのか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "704106dd599a1b98",
@@ -414484,9 +415248,13 @@
     "end": 14219,
     "raw": "\"But you're too late!\\n\"",
     "source": "But you're too late!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だが もう おそい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6e807768cc1475a7",
@@ -414496,9 +415264,13 @@
     "end": 14269,
     "raw": "\"I've already delivered the METEORITE\\l\"",
     "source": "I've already delivered the METEORITE\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "りゅうせいのたきの いんせきは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "67b8400bb89d39c5",
@@ -414508,9 +415280,13 @@
     "end": 14312,
     "raw": "\"from METEOR FALLS to the BOSS!$\"",
     "source": "from METEOR FALLS to the BOSS!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すでに ボスに とどけたぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4699b93b176568ff",
@@ -414520,9 +415296,13 @@
     "end": 14364,
     "raw": "\"Hehehe…\\p\"",
     "source": "Hehehe…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へへへ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4b6167ec91e748fc",
@@ -414532,9 +415312,13 @@
     "end": 14414,
     "raw": "\"Even though I've lost, if our leader\\n\"",
     "source": "Even though I've lost, if our leader\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれが まけたって ボスが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e99c51dda4d9e8fc",
@@ -414544,9 +415328,13 @@
     "end": 14446,
     "raw": "\"awakens that thing…$\"",
     "source": "awakens that thing…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいつを めざめさせれば…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9e91b8d61f95dd80",
@@ -414556,9 +415344,13 @@
     "end": 14507,
     "raw": "\"BOSS, hurry!\\n\"",
     "source": "BOSS, hurry!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ボス! はやく!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c96dbd1c6aacc21",
@@ -414568,9 +415360,13 @@
     "end": 14552,
     "raw": "\"Give it the METEORITE's energy!\\p\"",
     "source": "Give it the METEORITE's energy!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきの エネルギーを あいつに!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1ec1877c49332082",
@@ -414580,9 +415376,13 @@
     "end": 14572,
     "raw": "\"Hehehe…$\"",
     "source": "Hehehe…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "へへへ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b5c2ca3de2a05efd",
@@ -414592,9 +415392,13 @@
     "end": 14652,
     "raw": "\"We of TEAM MAGMA are working hard for\\n\"",
     "source": "We of TEAM MAGMA are working hard for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}われわれ マグマだんは みんなの ために\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4d0bad2a66a61baa",
@@ -414604,9 +415408,13 @@
     "end": 14682,
     "raw": "\"everyone's sake.\\p\"",
     "source": "everyone's sake.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いっしょうけんめい はたらいている。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0a53482b935adc5b",
@@ -414616,9 +415424,13 @@
     "end": 14733,
     "raw": "\"Like, if that thing's power made more\\n\"",
     "source": "Like, if that thing's power made more\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいつの ちからで りくちが ふえれば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "55e22f325a9d5580",
@@ -414628,9 +415440,13 @@
     "end": 14784,
     "raw": "\"land, there'd be more places to live.\\p\"",
     "source": "land, there'd be more places to live.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すむ ばしょだって ふえるだろ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ba9886382f4b00a5",
@@ -414640,9 +415456,13 @@
     "end": 14817,
     "raw": "\"Everyone'd be happy!$\"",
     "source": "Everyone'd be happy!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんな しあわせに なれるんだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "552619e4fcc5263c",
@@ -414652,9 +415472,13 @@
     "end": 14866,
     "raw": "\"Hunh?\\n\"",
     "source": "Hunh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}へ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4bee466c20bc7397",
@@ -414664,9 +415488,13 @@
     "end": 14903,
     "raw": "\"What do you mean I lost?$\"",
     "source": "What do you mean I lost?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれが まけたって?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "83caad861a046409",
@@ -414676,9 +415504,13 @@
     "end": 14988,
     "raw": "\"Our BOSS says, “It will make everyone\\n\"",
     "source": "Our BOSS says, “It will make everyone\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ボスは「みんな しあわせに なれる」って\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff2efe604675d7a7",
@@ -414688,9 +415520,13 @@
     "end": 15009,
     "raw": "\"happy.”\\p\"",
     "source": "happy.”\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いってるんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cb506b1072b45393",
@@ -414700,9 +415536,13 @@
     "end": 15057,
     "raw": "\"But why does everyone keep getting\\n\"",
     "source": "But why does everyone keep getting\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なのに どうして みんな\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "95bd64dd26628b2f",
@@ -414712,9 +415552,13 @@
     "end": 15081,
     "raw": "\"in our way?$\"",
     "source": "in our way?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おれたちの じゃまを するんだ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c5f5fff926e0b67d",
@@ -414724,9 +415568,13 @@
     "end": 15160,
     "raw": "\"If there were more land, I'd be able\\n\"",
     "source": "If there were more land, I'd be able\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}りくちが ふえれば おれだって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ff2d72016ac927ff",
@@ -414736,9 +415584,13 @@
     "end": 15203,
     "raw": "\"to get a big house of my own!\\p\"",
     "source": "to get a big house of my own!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じぶんの おおきな いえが もてるんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e55d363b80920555",
@@ -414748,9 +415600,13 @@
     "end": 15255,
     "raw": "\"I'm going to build it on hardened lava!$\"",
     "source": "I'm going to build it on hardened lava!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かたまった ようがんの うえに たてるぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "80822c16acb2e9cf",
@@ -414760,9 +415616,13 @@
     "end": 15322,
     "raw": "\"My dream of a big house…$\"",
     "source": "My dream of a big house…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おれの おおきな いえの ゆめが…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "08183b556a14bda0",
@@ -414772,9 +415632,13 @@
     "end": 15401,
     "raw": "\"A kid like you, you ought to be\\n\"",
     "source": "A kid like you, you ought to be\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おまえみたいな こどもは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2da1c545e29e005b",
@@ -414784,9 +415648,13 @@
     "end": 15443,
     "raw": "\"splashing about in the waves!$\"",
     "source": "splashing about in the waves!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なみうちぎわで みずあそびでも してろ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4097978e6eeab40",
@@ -414796,9 +415664,13 @@
     "end": 15529,
     "raw": "\"That annoying TEAM AQUA…\\n\"",
     "source": "That annoying TEAM AQUA…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いまいましい アクアだんめ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4dd4c0f30846433e",
@@ -414808,9 +415680,13 @@
     "end": 15574,
     "raw": "\"They always mess with our plans!$\"",
     "source": "They always mess with our plans!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつも けいかくを じゃましやがって!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b5f1fac3aa7a27e7",
@@ -414820,9 +415696,13 @@
     "end": 15661,
     "raw": "\"METEORITES pack amazing power!$\"",
     "source": "METEORITES pack amazing power!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いんせきには すごい ちからが あるんだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "63549bf5e4de2c6f",
@@ -414832,9 +415712,13 @@
     "end": 15745,
     "raw": "\"You'd better not mess with us!\\p\"",
     "source": "You'd better not mess with us!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じゃまを するんじゃない!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "40bf35e5479c81db",
@@ -414844,9 +415728,13 @@
     "end": 15792,
     "raw": "\"We're trying to awaken that thing\\n\"",
     "source": "We're trying to awaken that thing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みんなの ために あいつを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "84bbb95df09f5837",
@@ -414856,9 +415744,13 @@
     "end": 15833,
     "raw": "\"for the benefit of everyone!$\"",
     "source": "for the benefit of everyone!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "めざめさせようと しているんだぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0f0b469369669925",
@@ -414868,9 +415760,13 @@
     "end": 15898,
     "raw": "\"We're TEAM MAGMA!\\p\"",
     "source": "We're TEAM MAGMA!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}われわれは マグマだん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "40b7f0b10d8e7071",
@@ -414880,9 +415776,13 @@
     "end": 15930,
     "raw": "\"They're TEAM AQUA!\\p\"",
     "source": "They're TEAM AQUA!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいつらは アクアだん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a94d732c85ca4771",
@@ -414892,9 +415792,13 @@
     "end": 15976,
     "raw": "\"It totally annoys me that they'd\\n\"",
     "source": "It totally annoys me that they'd\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "にた なまえを つけやがって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a55c5d2fbe434746",
@@ -414904,9 +415808,13 @@
     "end": 16010,
     "raw": "\"use a name like ours!$\"",
     "source": "use a name like ours!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに むかつくぜ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54ffbfbe8c9e98dd",
@@ -414916,9 +415824,13 @@
     "end": 16062,
     "raw": "\"Yeah!\\n\"",
     "source": "Yeah!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そうだ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "999f971efbf3c006",
@@ -414928,9 +415840,13 @@
     "end": 16094,
     "raw": "\"Douse them in fire!$\"",
     "source": "Douse them in fire!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほのおを あびせてやれ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9f6cba45f1b098a7",
@@ -414940,9 +415856,13 @@
     "end": 16180,
     "raw": "\"We're going to keep making more land!$\"",
     "source": "We're going to keep making more land!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どんどん りくちを ふやしてやる!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1bae9cba0ffac289",
@@ -414952,9 +415872,13 @@
     "end": 16222,
     "raw": "\"Bufoh!$\"",
     "source": "Bufoh!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぶふぉっ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33ae0ac979fff628",
@@ -414964,9 +415888,13 @@
     "end": 16297,
     "raw": "\"ARCHIE: Grr, {PLAYER}!\\n\"",
     "source": "ARCHIE: Grr, {PLAYER}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}アオギリ: ぐうっ {ENG}{PLAYER}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ef9029982d38ad1d",
@@ -414976,9 +415904,13 @@
     "end": 16345,
     "raw": "\"I should've guessed you'd show up!\\p\"",
     "source": "I should've guessed you'd show up!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やはり あらわれたか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cc6ae669bea244b5",
@@ -414988,9 +415920,13 @@
     "end": 16393,
     "raw": "\"See for yourself what the fanatics\\n\"",
     "source": "See for yourself what the fanatics\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あの マグマだんの きょうしんてきな\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "daf444317ff8a45c",
@@ -415000,9 +415936,13 @@
     "end": 16431,
     "raw": "\"of TEAM MAGMA are up to!\\p\"",
     "source": "of TEAM MAGMA are up to!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やつらが なにを しているか みてみろ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9d338f71772279de",
@@ -415012,9 +415952,13 @@
     "end": 16480,
     "raw": "\"They're trying to inject the stolen\\n\"",
     "source": "They're trying to inject the stolen\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うばった いんせきの ちからを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c6895ebbfa364dd2",
@@ -415024,9 +415968,13 @@
     "end": 16529,
     "raw": "\"METEORITE's power into the volcano!\\p\"",
     "source": "METEORITE's power into the volcano!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざんに そそぎこむ つもりだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8880fcd76ef78afb",
@@ -415036,9 +415984,13 @@
     "end": 16579,
     "raw": "\"Doing something like that will cause\\n\"",
     "source": "Doing something like that will cause\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そんなことを したら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a3f09792deece271",
@@ -415048,9 +416000,13 @@
     "end": 16615,
     "raw": "\"the volcano's eruption!$\"",
     "source": "the volcano's eruption!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざんが ふんかしてしまうぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "03bf2a90b0c91dd3",
@@ -415060,9 +416016,13 @@
     "end": 16682,
     "raw": "\"ARCHIE: Grrr…\\p\"",
     "source": "ARCHIE: Grrr…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}アオギリ: ぐうう…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "656a77700606a726",
@@ -415072,9 +416032,13 @@
     "end": 16722,
     "raw": "\"I want to stop that MAXIE,\\n\"",
     "source": "I want to stop that MAXIE,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あの マツブサを とめたいが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a6f9e551d85c9b36",
@@ -415084,9 +416048,13 @@
     "end": 16748,
     "raw": "\"but I can't!\\p\"",
     "source": "but I can't!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうも いかん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "300fcb08579bf798",
@@ -415096,9 +416064,13 @@
     "end": 16800,
     "raw": "\"Not when I have my hands full battling\\n\"",
     "source": "Not when I have my hands full battling\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "3にんを いちどに あいてに するので\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e68925da7b199240",
@@ -415108,9 +416080,13 @@
     "end": 16837,
     "raw": "\"three opponents at once!$\"",
     "source": "three opponents at once!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ていっぱいなのだ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5124aa0debb61a1e",
@@ -415120,9 +416096,13 @@
     "end": 16900,
     "raw": "\"ARCHIE: {PLAYER}!\\n\"",
     "source": "ARCHIE: {PLAYER}!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}アオギリ: {ENG}{PLAYER}{JPN}!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "330f839cda3dfe40",
@@ -415132,9 +416112,13 @@
     "end": 16924,
     "raw": "\"Thank you!\\p\"",
     "source": "Thank you!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れいを いうぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "efaa1ca2dd85743e",
@@ -415144,9 +416128,13 @@
     "end": 16970,
     "raw": "\"With your help, we thwarted TEAM\\n\"",
     "source": "With your help, we thwarted TEAM\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おまえの おかげで マグマだんの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a0bd55b330492a13",
@@ -415156,9 +416144,13 @@
     "end": 17009,
     "raw": "\"MAGMA's destructive plan!\\p\"",
     "source": "MAGMA's destructive plan!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はかいの けいかくを くいとめられた!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "180e4bb992a9394e",
@@ -415168,9 +416160,13 @@
     "end": 17032,
     "raw": "\"But… You…\\n\"",
     "source": "But… You…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だが… おまえは…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "931933918e5edb81",
@@ -415180,9 +416176,13 @@
     "end": 17068,
     "raw": "\"Whose side are you on?\\p\"",
     "source": "Whose side are you on?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どちらの みかたなのだ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "92e7181dbe05e7df",
@@ -415192,9 +416192,13 @@
     "end": 17104,
     "raw": "\"Ah, it doesn't matter.\\p\"",
     "source": "Ah, it doesn't matter.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まあ いい。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b5d88628706315a",
@@ -415204,9 +416208,13 @@
     "end": 17153,
     "raw": "\"We will remain vigilant and keep up\\n\"",
     "source": "We will remain vigilant and keep up\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われわれは けいかいを ゆるめず\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d58d92d819a9236b",
@@ -415216,9 +416224,13 @@
     "end": 17193,
     "raw": "\"our pursuit of TEAM MAGMA.\\p\"",
     "source": "our pursuit of TEAM MAGMA.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "マグマだんを おいつづける。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6bff4c7698af1e2c",
@@ -415228,9 +416240,13 @@
     "end": 17236,
     "raw": "\"{PLAYER}, we shall meet again!$\"",
     "source": "{PLAYER}, we shall meet again!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{ENG}{PLAYER}{JPN} また あおう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a8e5da079c2ff4e7",
@@ -415240,9 +416256,13 @@
     "end": 17316,
     "raw": "\"Darn… TEAM MAGMA outnumbers us!\\n\"",
     "source": "Darn… TEAM MAGMA outnumbers us!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くそ… マグマだんの ほうが かずが おおい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69ae124e6d597149",
@@ -415252,9 +416272,13 @@
     "end": 17356,
     "raw": "\"We can't keep up with them!$\"",
     "source": "We can't keep up with them!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これじゃ おいつかない!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a54dc211d11d3fa3",
@@ -415264,9 +416288,13 @@
     "end": 17450,
     "raw": "\"If they expand the land, there'll be\\n\"",
     "source": "If they expand the land, there'll be\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}りくちが ひろがれば みずポケモンの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bee2ee841e43c128",
@@ -415276,9 +416304,13 @@
     "end": 17495,
     "raw": "\"less habitats for WATER POKéMON!$\"",
     "source": "less habitats for WATER POKéMON!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すみかが へってしまう!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "98ee9c17e297e0da",
@@ -415288,9 +416320,13 @@
     "end": 17560,
     "raw": "\"We're TEAM AQUA!\\p\"",
     "source": "We're TEAM AQUA!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おれたちは アクアだん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "925ddfbf6b8e58a4",
@@ -415300,9 +416336,13 @@
     "end": 17593,
     "raw": "\"They're TEAM MAGMA!\\p\"",
     "source": "They're TEAM MAGMA!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいつらは マグマだん!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7957635a99bc3252",
@@ -415312,9 +416352,13 @@
     "end": 17642,
     "raw": "\"It burns me up that they'd use such\\n\"",
     "source": "It burns me up that they'd use such\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まぎらわしい なまえを つけやがって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2ebbd96ee1a826f1",
@@ -415324,9 +416368,13 @@
     "end": 17672,
     "raw": "\"a confusing name!$\"",
     "source": "a confusing name!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はらが たつぜ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b015dcc7c680fd4",
@@ -415336,9 +416384,13 @@
     "end": 17716,
     "raw": "\"Bushaa!$\"",
     "source": "Bushaa!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ぶしゃー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c24d35f4ba7ee22",
@@ -415348,9 +416400,13 @@
     "end": 17802,
     "raw": "\"LAVA COOKIES are MT. CHIMNEY's local\\n\"",
     "source": "LAVA COOKIES are MT. CHIMNEY's local\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}フエンせんべいは えんとつやまの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c395c7d0d6b2875b",
@@ -415360,9 +416416,13 @@
     "end": 17826,
     "raw": "\"specialty.\\p\"",
     "source": "specialty.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "めいぶつだよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a37261d92dbdf44",
@@ -415372,9 +416432,13 @@
     "end": 17863,
     "raw": "\"Try one. It's just ¥200.$\"",
     "source": "Try one. It's just ¥200.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おひとつ どうだい? たったの 200円さ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f43a929e453b8767",
@@ -415384,9 +416448,13 @@
     "end": 17922,
     "raw": "\"Thank you, dear!$\"",
     "source": "Thank you, dear!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ありがとさん!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5340197c8b3f2a87",
@@ -415396,9 +416464,13 @@
     "end": 18007,
     "raw": "\"Oh, dear. You can't buy a thing if\\n\"",
     "source": "Oh, dear. You can't buy a thing if\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あらまあ。おかねが なくっちゃ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c2c970893598c70",
@@ -415408,9 +416480,13 @@
     "end": 18045,
     "raw": "\"you've not got the money.$\"",
     "source": "you've not got the money.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにも かえないよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a1ee258e96b4d34a",
@@ -415420,9 +416496,13 @@
     "end": 18100,
     "raw": "\"Oh, fine then.$\"",
     "source": "Oh, fine then.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ そうかい。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "27a309e43df6bf0c",
@@ -415432,9 +416512,13 @@
     "end": 18192,
     "raw": "\"A METEORITE is fitted on a mysterious\\n\"",
     "source": "A METEORITE is fitted on a mysterious\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふしぎな そうちに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dcbe3c91ff6ef408",
@@ -415444,9 +416528,13 @@
     "end": 18214,
     "raw": "\"machine…\\p\"",
     "source": "machine…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきが はめこまれている…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b76e5de9ec89efd6",
@@ -415456,9 +416544,13 @@
     "end": 18259,
     "raw": "\"The machine seems to be storing\\n\"",
     "source": "The machine seems to be storing\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうちは いんせきの なかに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ee9933d74b702457",
@@ -415468,9 +416560,13 @@
     "end": 18296,
     "raw": "\"energy in the METEORITE.$\"",
     "source": "energy in the METEORITE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "エネルギーを ためているようだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "49f01ad135a330e0",
@@ -415480,9 +416576,13 @@
     "end": 18383,
     "raw": "\"A METEORITE is fitted on a mysterious\\n\"",
     "source": "A METEORITE is fitted on a mysterious\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふしぎな そうちに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d25cad42e8a9d8aa",
@@ -415492,9 +416592,13 @@
     "end": 18405,
     "raw": "\"machine…\\p\"",
     "source": "machine…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきが はめこまれている…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "86a9ab59608576a5",
@@ -415504,9 +416608,13 @@
     "end": 18454,
     "raw": "\"Do you want to remove the METEORITE?$\"",
     "source": "Do you want to remove the METEORITE?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきを とりはずしますか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c2aa0ca99f1836ea",
@@ -415516,9 +416624,13 @@
     "end": 18543,
     "raw": "\"{PLAYER} removed the METEORITE from\\n\"",
     "source": "{PLAYER} removed the METEORITE from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は ふしぎな そうちから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b3c42bbc7147d736",
@@ -415528,9 +416640,13 @@
     "end": 18579,
     "raw": "\"the mysterious machine.$\"",
     "source": "the mysterious machine.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきを とりはずした。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "407974aa0b83306d",
@@ -415540,9 +416656,13 @@
     "end": 18663,
     "raw": "\"{PLAYER} left the METEORITE where\\n\"",
     "source": "{PLAYER} left the METEORITE where\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{PLAYER}{JPN}は いんせきを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dc2bf19a9eb92a33",
@@ -415552,9 +416672,13 @@
     "end": 18683,
     "raw": "\"it was.$\"",
     "source": "it was.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そのままに しておいた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "368b3968af0f36f6",
@@ -415564,9 +416688,13 @@
     "end": 18761,
     "raw": "\"This mysterious machine…\\n\"",
     "source": "This mysterious machine…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この ふしぎな そうちは…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "93c8552c88d318c1",
@@ -415576,9 +416704,13 @@
     "end": 18806,
     "raw": "\"It makes no response whatsoever.$\"",
     "source": "It makes no response whatsoever.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まったく はんのうが ない。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69d5658c158d5feb",
@@ -415588,9 +416720,13 @@
     "end": 18871,
     "raw": "\"{DOWN_ARROW} JAGGED PATH\\n\"",
     "source": "{DOWN_ARROW} JAGGED PATH\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{DOWN_ARROW} デコボコさんどう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b7c0eb06c6896ce0",
@@ -415600,9 +416736,13 @@
     "end": 18904,
     "raw": "\"LAVARIDGE TOWN AHEAD$\"",
     "source": "LAVARIDGE TOWN AHEAD$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "このさき フエンタウン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f90c54a588fcda4c",
@@ -415612,9 +416752,13 @@
     "end": 18979,
     "raw": "\"I've been to the hot springs and\\n\"",
     "source": "I've been to the hot springs and\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おんせんに つかって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cb2fa2408ddf8a70",
@@ -415624,9 +416768,13 @@
     "end": 19018,
     "raw": "\"refreshed my tired bones.\\l\"",
     "source": "refreshed my tired bones.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかれた からだを いやしてきたよ。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ea6b9dbeca2fe146",
@@ -415636,9 +416784,13 @@
     "end": 19060,
     "raw": "\"Right now I'm feeling strong!$\"",
     "source": "Right now I'm feeling strong!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いまは ちからが みなぎってるよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "015eb9636739794d",
@@ -415648,9 +416800,13 @@
     "end": 19120,
     "raw": "\"Oh, my goodness.\\n\"",
     "source": "Oh, my goodness.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あらまあ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0a61cfaceb074867",
@@ -415660,9 +416816,13 @@
     "end": 19159,
     "raw": "\"Now, aren't you something!$\"",
     "source": "Now, aren't you something!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たいした ものだねえ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "acaf23df376c4e69",
@@ -415672,9 +416832,13 @@
     "end": 19242,
     "raw": "\"Well, well, I've lost. I can't call\\n\"",
     "source": "Well, well, I've lost. I can't call\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やれやれ まけちまった。これじゃ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bdba4fc27bb697b7",
@@ -415684,9 +416848,13 @@
     "end": 19283,
     "raw": "\"myself an EXPERT now, can I?$\"",
     "source": "myself an EXPERT now, can I?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たつじんとは なのれないねえ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "62e5a0b91896b5c6",
@@ -415696,9 +416864,13 @@
     "end": 19364,
     "raw": "\"Thank you, child. It was fun, as if\\n\"",
     "source": "Thank you, child. It was fun, as if\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ありがとうね。じぶんの まごと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ca56b0d18ec15e9e",
@@ -415708,9 +416880,13 @@
     "end": 19412,
     "raw": "\"I were battling my own grandchild.\\p\"",
     "source": "I were battling my own grandchild.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たたかってるようで たのしかったよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "85f1f64232dca010",
@@ -415720,9 +416896,13 @@
     "end": 19455,
     "raw": "\"Please, come see me again for\\n\"",
     "source": "Please, come see me again for\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "また あいに きておくれ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd1e4f17cd5763cc",
@@ -415732,9 +416912,13 @@
     "end": 19478,
     "raw": "\"a rematch.$\"",
     "source": "a rematch.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もういちど しょうぶしようね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "39d1d38e8496bf8f",
@@ -415744,9 +416928,13 @@
     "end": 19565,
     "raw": "\"If you can mesh your heart with those\\n\"",
     "source": "If you can mesh your heart with those\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おまえさんが ポケモンたちと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5570ab89b0bba4f2",
@@ -415756,9 +416944,13 @@
     "end": 19614,
     "raw": "\"of your POKéMON, why, you should be\\l\"",
     "source": "of your POKéMON, why, you should be\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こころを かよわせることが できれば\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6629341de58c0ebf",
@@ -415768,9 +416960,13 @@
     "end": 19656,
     "raw": "\"able to achieve great things.$\"",
     "source": "able to achieve great things.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きっと すごいことが できるはずだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b7c731766bd90d39",
@@ -415780,9 +416976,13 @@
     "end": 19723,
     "raw": "\"Oh, my goodness.\\n\"",
     "source": "Oh, my goodness.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あらまあ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05c983b446cf85f7",
@@ -415792,9 +416992,13 @@
     "end": 19762,
     "raw": "\"Now, aren't you something!$\"",
     "source": "Now, aren't you something!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たいした ものだねえ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ba1eb0d21d88fe76",
@@ -415804,9 +417008,13 @@
     "end": 19844,
     "raw": "\"Perhaps your heart has become one\\n\"",
     "source": "Perhaps your heart has become one\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おまえさんと ポケモンたちの こころは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "862a9c8e593983d4",
@@ -415816,9 +417024,13 @@
     "end": 19889,
     "raw": "\"with the hearts of your POKéMON.$\"",
     "source": "with the hearts of your POKéMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとつに なったのかも しれないね。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "335c3ab6904235f2",
@@ -415828,9 +417040,13 @@
     "end": 19963,
     "raw": "\"I've got the fire in me, baby.\\n\"",
     "source": "I've got the fire in me, baby.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あたしの なかで ほのおが もえてるの!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b1f524baedb429a9",
@@ -415840,9 +417056,13 @@
     "end": 20011,
     "raw": "\"I can't stand it! I have to battle!$\"",
     "source": "I can't stand it! I have to battle!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "がまん できない! しょうぶ しなきゃ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fa32f044663191ae",
@@ -415852,9 +417072,13 @@
     "end": 20091,
     "raw": "\"Ooh, that was a scorching-hot match!$\"",
     "source": "Ooh, that was a scorching-hot match!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ もえるように あつい しょうぶだった!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1bf2e583fa789185",
@@ -415864,9 +417088,13 @@
     "end": 20169,
     "raw": "\"The heat of MT. CHIMNEY warms\\n\"",
     "source": "The heat of MT. CHIMNEY warms\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えんとつやまの ねつが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60c919ef62161b5c",
@@ -415876,9 +417104,13 @@
     "end": 20194,
     "raw": "\"me up, baby!$\"",
     "source": "me up, baby!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたしを あつく してくれるの!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "50e06a02b2252f02",
@@ -415888,9 +417120,13 @@
     "end": 20273,
     "raw": "\"I've finally made it to MT. CHIMNEY.\\n\"",
     "source": "I've finally made it to MT. CHIMNEY.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}やっと えんとつやまに ついたの。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "503c58572985edf5",
@@ -415900,9 +417136,13 @@
     "end": 20319,
     "raw": "\"I want to make my POKéMON battle!$\"",
     "source": "I want to make my POKéMON battle!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを たたかわせたいな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9ba30c307e751169",
@@ -415912,9 +417152,13 @@
     "end": 20382,
     "raw": "\"The way you battle…\\n\"",
     "source": "The way you battle…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あなたの たたかいかた…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bd6126d7add4cdae",
@@ -415924,9 +417168,13 @@
     "end": 20428,
     "raw": "\"It's like a MT. CHIMNEY eruption!$\"",
     "source": "It's like a MT. CHIMNEY eruption!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えんとつやまの ふんかみたい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d2ae4cf5f7348af9",
@@ -415936,9 +417184,13 @@
     "end": 20512,
     "raw": "\"Like I said, I've finally made it to\\n\"",
     "source": "Like I said, I've finally made it to\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いったでしょ? やっと えんとつやまに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "513c689a8fb0d5ac",
@@ -415948,9 +417200,13 @@
     "end": 20561,
     "raw": "\"MT. CHIMNEY. It would be a shame if\\l\"",
     "source": "MT. CHIMNEY. It would be a shame if\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きたんだもの。ちょっと かんこうして\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "083db06eb2b6d8d8",
@@ -415960,9 +417216,13 @@
     "end": 20606,
     "raw": "\"I only do a little sightseeing…\\p\"",
     "source": "I only do a little sightseeing…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かえるだけじゃ もったいないわ…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5e824f429019b31a",
@@ -415972,9 +417232,13 @@
     "end": 20657,
     "raw": "\"I want to get in some battles and buy\\n\"",
     "source": "I want to get in some battles and buy\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しょうぶも して おみやげに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f9cfe82e772d0602",
@@ -415984,9 +417248,13 @@
     "end": 20691,
     "raw": "\"COOKIES as souvenirs.$\"",
     "source": "COOKIES as souvenirs.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せんべいも かいたいの。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "566f86eb333f2a61",
@@ -415996,9 +417264,13 @@
     "end": 20769,
     "raw": "\"Since I bathed in the hot springs,\\n\"",
     "source": "Since I bathed in the hot springs,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おんせんに はいってから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c1eb387b8dfa3808",
@@ -416008,9 +417280,13 @@
     "end": 20807,
     "raw": "\"I've been feeling great!\\l\"",
     "source": "I've been feeling great!\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すごく ちょうしが いいの!\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f7689a3228f3647d",
@@ -416020,9 +417296,13 @@
     "end": 20846,
     "raw": "\"I'm sure I'm going to win!$\"",
     "source": "I'm sure I'm going to win!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きっと かつわ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "cf6e04ac96682504",
@@ -416032,9 +417312,13 @@
     "end": 20897,
     "raw": "\"Yowch!\\n\"",
     "source": "Yowch!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いたたっ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ba95619fce69102f",
@@ -416044,9 +417328,13 @@
     "end": 20947,
     "raw": "\"I'm getting a chill out of the water.$\"",
     "source": "I'm getting a chill out of the water.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おゆから でたら からだが ひえてきたわ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "89543dd196e59f88",
@@ -416056,9 +417344,13 @@
     "end": 21032,
     "raw": "\"I'll have to take another dip in the\\n\"",
     "source": "I'll have to take another dip in the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もういちど おんせんに はいらなきゃ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "14f62a73fa9f2cd2",
@@ -416068,9 +417360,13 @@
     "end": 21075,
     "raw": "\"hot springs. Want to join me?\\p\"",
     "source": "hot springs. Want to join me?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたも いっしょに どう?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c9ed86c41e20cb79",
@@ -416080,9 +417376,13 @@
     "end": 21100,
     "raw": "\"Just joking!$\"",
     "source": "Just joking!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんて じょうだんよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5c3a528f44f133b6",
@@ -416092,9 +417392,13 @@
     "end": 21179,
     "raw": "\"This is one fine mountain! Plenty of\\n\"",
     "source": "This is one fine mountain! Plenty of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いい やまだねえ! あつい やつらが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bbf6c4fc6b2a8537",
@@ -416104,9 +417408,13 @@
     "end": 21222,
     "raw": "\"hot people around for company!$\"",
     "source": "hot people around for company!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おおぜい いるから さびしくないよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0c2e2e24bb967e79",
@@ -416116,9 +417424,13 @@
     "end": 21298,
     "raw": "\"Oh, you're a real firebrand, too!$\"",
     "source": "Oh, you're a real firebrand, too!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお きみも なかなか あついねえ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a5c31ab6c2e18f0b",
@@ -416128,9 +417440,13 @@
     "end": 21379,
     "raw": "\"I think I need a dip in LAVARIDGE\\n\"",
     "source": "I think I need a dip in LAVARIDGE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}フエンの おんせんで じもとの ひとと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "bba48ccaa9825e5b",
@@ -416140,9 +417456,13 @@
     "end": 21419,
     "raw": "\"HOT SPRING with the locals!$\"",
     "source": "HOT SPRING with the locals!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとふろ あびたく なってきたよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05cb2e55cb39a830",
@@ -416152,9 +417472,13 @@
     "end": 21498,
     "raw": "\"I like little fireballs like you.\\n\"",
     "source": "I like little fireballs like you.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみみたいな あつい こは すきだねえ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "51d7736eca9bf14b",
@@ -416164,9 +417488,13 @@
     "end": 21545,
     "raw": "\"Let me register you in my POKéNAV.$\"",
     "source": "Let me register you in my POKéNAV.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケナビに とうろく させてくれよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6847be01ee5ba765",
@@ -416176,9 +417504,13 @@
     "end": 21631,
     "raw": "\"I'm happily surrounded by hot people\\n\"",
     "source": "I'm happily surrounded by hot people\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この あたりは あつい やつらばかりで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0e04a7a5f6b70f8c",
@@ -416188,9 +417520,13 @@
     "end": 21677,
     "raw": "\"around these parts. I won't lose!$\"",
     "source": "around these parts. I won't lose!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うれしいねえ。まけないぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3a77e158c17755fc",
@@ -416200,9 +417536,13 @@
     "end": 21755,
     "raw": "\"Gosh, you're still the same\\n\"",
     "source": "Gosh, you're still the same\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いやあ まえと かわらず\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "10ea433089f20ec3",
@@ -416212,9 +417552,13 @@
     "end": 21788,
     "raw": "\"firebrand as before!$\"",
     "source": "firebrand as before!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あつい こだねえ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9be00061ed3f4428",
@@ -416224,9 +417568,13 @@
     "end": 21869,
     "raw": "\"Actually, it really is hot here.\\n\"",
     "source": "Actually, it really is hot here.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じつは ここ ほんとうに あついんだ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "115c637aaadc9019",
@@ -416236,9 +417584,13 @@
     "end": 21914,
     "raw": "\"I'm overdressed for these parts.$\"",
     "source": "I'm overdressed for these parts.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんな ばしょには あつぎ すぎたよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-stores-volcano-52",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a7724dcfa9253476",

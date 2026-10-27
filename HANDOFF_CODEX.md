@@ -14,7 +14,8 @@ Codexの会話69（111〜113番道路ほか258行、抽出済み・未適用だ�
 追記（会話111〜122）: エントリーコールのプロフィール（15マス/項目）、連れ歩き、strings.c、フロンティア/ドーム/field_specials等の進行文、エンディングのクレジット（人名は英字のまま）、カントーのトレーナー名（trainers_frlg.party）、フロンティア/テント/ヒル/タワー/弟子の名前（JPN_NAME）を翻訳。生成ファイル trainers.h・trainers_frlg.h・region_map_entries.h のカタログ行は再生成結果と照合して記録。EGGS{STR_VAR_1}はgText_FrontierFacilityAreInelegible「は さんか できません」に接続済み。最新 ../outputs/gba/wishes-jp-54527-822c4a5e.gba（source eb3544cb94）、Excel ../outputs/translation-types-54527/。54,527/7,195。レビュー reviews/c-dialogue-and-names-111-117.review.md、c-story-messages-118-122.review.md。
 **注意**: C文字列の固定長配列（例 gText_123Dot[][3]）に{JPN}/{ENG}を入れるとビルドエラーになる。C側を訳すときは宣言のサイズを確認する。
 
-残り（7,195件、ストーリー外のUI/データ）: 図鑑・種族データ2,679、かんたん会話の単語1,129、技958、デバッグ768、ユニオンルーム227、コンテスト相手208、きのみ204、もようがえ241 ほか。弟子の台詞の一人称の揺れ、テレビの秘密基地グッズ名（decoration未訳）の統一、実機での表示確認も未了。
+追記（会話123〜142）: **カタログ61,722件すべて翻訳済み（pending0）**。図鑑の分類・説明、技の説明（2行×19マス）、かんたん会話の単語（7マス）、デバッグ、ユニオンルーム、コンテスト相手（公式名）、きのみ、もようがえ、交換、地名表示ほか。参考フォーク照合は tools/localization/reference_text.py、固定長フィールド用は tools/localization/direct_batch.py。レビュー reviews/ui-data-123-142.review.md。最新 ../outputs/gba/wishes-jp-61722-660ae8bf.gba（source 396f17e4e1）、Excel ../outputs/translation-types-61722/（全シート未翻訳0）。
+残り: 実機での表示確認（図鑑・ステータス・かんたん会話・PokéNav・点字窓・クレジット等）、漢字、画像内の文字、戦闘画面の所有格部品（"'" "s"）のコード側対応、弟子の台詞の一人称の揺れとテレビの秘密基地グッズ名の統一確認、Z技など長い技名の短縮の確認。
 
 ## 以前の会話68（2026-10-27）
 

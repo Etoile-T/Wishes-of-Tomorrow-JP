@@ -16,33 +16,33 @@ SSAnne_1F_Room2_EventScript_Tyler::
 	end
 
 SSAnne_1F_Room2_Text_TylerIntro::
-	.string "I love POKéMON!\n"
-	.string "Do you?$"
+	.string "{JPN}ポケモン だいすき!\n"
+	.string "きみは?$"
 
 SSAnne_1F_Room2_Text_TylerDefeat::
-	.string "Wow! \n"
-	.string "You're great!$"
+	.string "{JPN}わあ! \n"
+	.string "すごいや!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-	.string "Listen, listen!\n"
-	.string "Let me be your friend, okay?\p"
-	.string "Then we can trade POKéMON and\n"
-	.string "do stuff.$"
+	.string "{JPN}ねえ ねえ!\n"
+	.string "ともだちに なってよ いいでしょ?\p"
+	.string "そしたら ポケモンを こうかん したり\n"
+	.string "いろいろ できるよ。$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
-	.string "I collected these POKéMON\n"
-	.string "from all around the world!$"
+	.string "{JPN}この ポケモンたちは\n"
+	.string "せかいじゅうで あつめたのよ!$"
 
 SSAnne_1F_Room2_Text_AnnDefeat::
-	.string "Oh, no!\n"
-	.string "I went around the world for these!$"
+	.string "{JPN}そんな!\n"
+	.string "せかいじゅう まわって あつめたのに!$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
-	.string "You hurt my poor POKéMON!\p"
-	.string "I demand that you heal them at a\n"
-	.string "POKéMON CENTER!$"
+	.string "{JPN}わたしの ポケモンを きずつけたわね!\p"
+	.string "ポケモンセンターで ちゃんと\n"
+	.string "かいふく させて ちょうだい!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-	.string "We are cruising around the world,\n"
-	.string "my children and I.$"
+	.string "{JPN}わたしと こどもたちで\n"
+	.string "せかいいっしゅう している のです。$"
 

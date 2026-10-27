@@ -6,156 +6,156 @@ Route19_EventScript_RouteSign::
 	end
 
 Route19_Text_RichardIntro::
-	.string "I have to exercise and warm up\n"
-	.string "before going out for a swim.$"
+	.string "{JPN}およぐ まえには たいそうして\n"
+	.string "からだを あたためないとね。$"
 
 Route19_Text_RichardDefeat::
-	.string "All warmed up!$"
+	.string "{JPN}からだが あったまった!$"
 
 Route19_Text_RichardPostBattle::
-	.string "Thanks, kid!\n"
-	.string "I'm ready for a swim.$"
+	.string "{JPN}ありがとよ!\n"
+	.string "これで およぐ じゅんびは ばっちりだ。$"
 
 Route19_Text_ReeceIntro::
-	.string "Wait! Slow down!\n"
-	.string "You'll have a heart attack!$"
+	.string "{JPN}まて! スピードを おとせ!\n"
+	.string "しんぞうが とまっちまうぞ!$"
 
 Route19_Text_ReeceDefeat::
-	.string "Ooh!\n"
-	.string "That's chilly!$"
+	.string "{JPN}うう!\n"
+	.string "つめてえ!$"
 
 Route19_Text_ReecePostBattle::
-	.string "Watch out for TENTACOOL.\n"
-	.string "They sting so painfully.$"
+	.string "{JPN}メノクラゲには きをつけろ。\n"
+	.string "さされると すごく いたいんだ。$"
 
 Route19_Text_MatthewIntro::
-	.string "I love swimming!\n"
-	.string "What about you?$"
+	.string "{JPN}およぐのが だいすき!\n"
+	.string "きみは どう?$"
 
 Route19_Text_MatthewDefeat::
-	.string "Belly flop!$"
+	.string "{JPN}はらうち しちゃった!$"
 
 Route19_Text_MatthewPostBattle::
-	.string "I can beat even marine POKéMON\n"
-	.string "at swimming.$"
+	.string "{JPN}およぎなら うみの ポケモンにだって\n"
+	.string "まけないよ。$"
 
 Route19_Text_DouglasIntro::
-	.string "What's beyond the horizon?$"
+	.string "{JPN}すいへいせんの むこうには なにが?$"
 
 Route19_Text_DouglasDefeat::
-	.string "Glub!$"
+	.string "{JPN}ガボッ!$"
 
 Route19_Text_DouglasPostBattle::
-	.string "I see a couple of islands over\n"
-	.string "yonder!$"
+	.string "{JPN}むこうに しまが いくつか\n"
+	.string "みえるぞ!$"
 
 Route19_Text_DavidIntro::
-	.string "I tried diving for POKéMON, but it\n"
-	.string "was a no-go.$"
+	.string "{JPN}もぐって ポケモンを さがしたけど\n"
+	.string "だめだったよ。$"
 
 Route19_Text_DavidDefeat::
-	.string "Help!$"
+	.string "{JPN}たすけて!$"
 
 Route19_Text_DavidPostBattle::
-	.string "I guess you have to fish for sea\n"
-	.string "POKéMON.$"
+	.string "{JPN}うみの ポケモンは つりで\n"
+	.string "つかまえるしか ないみたいだ。$"
 
 Route19_Text_TonyIntro::
-	.string "I look at the sea to forget all\n"
-	.string "the bad things that happened.$"
+	.string "{JPN}いやな できごとを ぜんぶ わすれる\n"
+	.string "ために うみを ながめてるんだ。$"
 
 Route19_Text_TonyDefeat::
-	.string "Ooh!\n"
-	.string "Traumatic!$"
+	.string "{JPN}うう!\n"
+	.string "トラウマだ!$"
 
 Route19_Text_TonyPostBattle::
-	.string "I'm looking at the sea to forget\n"
-	.string "the bad thing that happened!$"
+	.string "{JPN}いやな できごとを わすれるために\n"
+	.string "うみを ながめてるんだってば!$"
 
 Route19_Text_AnyaIntro::
-	.string "Oh, I just love your ride!\n"
-	.string "Can I have it if I win?$"
+	.string "{JPN}あら その のりもの すてきね!\n"
+	.string "わたしが かったら ちょうだい?$"
 
 Route19_Text_AnyaDefeat::
-	.string "Oh! I lost!$"
+	.string "{JPN}あっ! まけちゃった!$"
 
 Route19_Text_AnyaPostBattle::
-	.string "It's still a long way to go to\n"
-	.string "SEAFOAM ISLANDS…\p"
-	.string "I want to go back to FUCHSIA…$"
+	.string "{JPN}ふたごじままでは まだ\n"
+	.string "ずっと とおいのね……\p"
+	.string "セキチクに かえりたいわ……$"
 
 Route19_Text_AliceIntro::
-	.string "Swimming's great!\n"
-	.string "Sunburns aren't!$"
+	.string "{JPN}すいえいは さいこう!\n"
+	.string "ひやけは さいあく!$"
 
 Route19_Text_AliceDefeat::
-	.string "Shocker!$"
+	.string "{JPN}ショック!$"
 
 Route19_Text_AlicePostBattle::
-	.string "My boyfriend wanted to swim to\n"
-	.string "SEAFOAM ISLANDS.$"
+	.string "{JPN}かれしが ふたごじままで\n"
+	.string "およぎたいって いったの。$"
 
 Route19_Text_AxleIntro::
-	.string "Ahoy, there!\n"
-	.string "These waters are treacherous!$"
+	.string "{JPN}おーい そこの!\n"
+	.string "この うみは きけんだぞ!$"
 
 Route19_Text_AxleDefeat::
-	.string "Ooh!\n"
-	.string "Dangerous!$"
+	.string "{JPN}うおっ!\n"
+	.string "あぶねえ!$"
 
 Route19_Text_AxlePostBattle::
-	.string "M-my legs! They cramped up!\n"
-	.string "Glub, glub…$"
+	.string "{JPN}あ あしが! あしが つった!\n"
+	.string "ガボ ガボ……$"
 
 Route19_Text_ConnieIntro::
-	.string "I swam here with my friends…\n"
-	.string "I'm tired…$"
+	.string "{JPN}ともだちと ここまで およいできたの……\n"
+	.string "つかれた……$"
 
 Route19_Text_ConnieDefeat::
-	.string "I'm exhausted…$"
+	.string "{JPN}もう くたくた……$"
 
 Route19_Text_ConniePostBattle::
-	.string "If I were to ride a POKéMON on\n"
-	.string "the sea, I'd like a LAPRAS.\p"
-	.string "LAPRAS is so big, I bet it\n"
-	.string "would keep me dry on water.$"
+	.string "{JPN}うみで ポケモンに のるなら\n"
+	.string "ラプラスが いいな。\p"
+	.string "ラプラスは おおきいから きっと\n"
+	.string "みずに ぬれずに すむと おもうの。$"
 
 Route19_Text_RouteSign::
-	.string "SEA ROUTE 19\n"
-	.string "FUCHSIA CITY - SEAFOAM ISLANDS$"
+	.string "{JPN}ここは 19ばんすいどう\n"
+	.string "セキチクシティ - ふたごじま$"
 
 Route19_Text_LiaIntro::
-	.string "LIA: I'm looking after my brother.\n"
-	.string "He just became a TRAINER.$"
+	.string "{JPN}リア: おとうとの めんどうを みてるの。\n"
+	.string "トレーナーに なった ばかりなのよ。$"
 
 Route19_Text_LiaDefeat::
-	.string "LIA: That's no way to treat my\n"
-	.string "little brother!$"
+	.string "{JPN}リア: わたしの おとうとに\n"
+	.string "なんてことを するの!$"
 
 Route19_Text_LiaPostBattle::
-	.string "LIA: Do you have a younger\n"
-	.string "brother?\p"
-	.string "I hope you're teaching him all\n"
-	.string "sorts of things.$"
+	.string "{JPN}リア: あなたには おとうとって\n"
+	.string "いる?\p"
+	.string "いたら いろんなことを\n"
+	.string "おしえてあげてね。$"
 
 Route19_Text_LiaNotEnoughMons::
-	.string "LIA: I want to battle together\n"
-	.string "with my little brother.\p"
-	.string "Don't you have two POKéMON?$"
+	.string "{JPN}リア: おとうとと いっしょに\n"
+	.string "しょうぶしたいの。\p"
+	.string "ポケモンを 2ひき もってない?$"
 
 Route19_Text_LucIntro::
-	.string "LUC: My big sis taught me how\n"
-	.string "to swim and train POKéMON.$"
+	.string "{JPN}ルック: およぎかたも ポケモンの\n"
+	.string "そだてかたも ねえちゃんに ならったんだ。$"
 
 Route19_Text_LucDefeat::
-	.string "LUC: Oh, wow!\n"
-	.string "Someone tougher than my big sis!$"
+	.string "{JPN}ルック: うわあ!\n"
+	.string "ねえちゃんより つよい ひとが いる!$"
 
 Route19_Text_LucPostBattle::
-	.string "LUC: My big sis is strong and nice.\n"
-	.string "I think she's awesome!$"
+	.string "{JPN}ルック: ねえちゃんは つよくて やさしい。\n"
+	.string "すごい ひとだと おもうんだ!$"
 
 Route19_Text_LucNotEnoughMons::
-	.string "LUC: I don't want to if I can't\n"
-	.string "battle you with my big sis.\p"
-	.string "Don't you have two POKéMON?$"
+	.string "{JPN}ルック: ねえちゃんと いっしょに\n"
+	.string "しょうぶできないなら いやだ。\p"
+	.string "ポケモンを 2ひき もってないの?$"

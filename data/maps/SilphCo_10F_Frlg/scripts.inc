@@ -34,35 +34,35 @@ SilphCo_10F_EventScript_Grunt::
 	end
 
 SilphCo_10F_Text_GruntIntro::
-	.string "Welcome to 10F!\n"
-	.string "So good of you to join me!$"
+	.string "{JPN}10かいへ ようこそ!\n"
+	.string "よく きてくれたな!$"
 
 SilphCo_10F_Text_GruntDefeat::
-	.string "I'm stunned!$"
+	.string "{JPN}あぜん…!$"
 
 SilphCo_10F_Text_GruntPostBattle::
-	.string "Nice try, but the boardroom is up\n"
-	.string "one more floor.$"
+	.string "{JPN}おしかったな! じゅうやくしつは\n"
+	.string "もう ひとつ うえの かいだ。$"
 
 SilphCo_10F_Text_TravisIntro::
-	.string "Enough of your silly games!$"
+	.string "{JPN}おあそびは そこまでだ!$"
 
 SilphCo_10F_Text_TravisDefeat::
-	.string "No continues left!$"
+	.string "{JPN}コンティニューは もう ない!$"
 
 SilphCo_10F_Text_TravisPostBattle::
-	.string "Are you satisfied with beating me?\n"
-	.string "Then go on home!$"
+	.string "{JPN}わたしを たおして まんぞくか?\n"
+	.string "なら さっさと かえれ!$"
 
 SilphCo_10F_Text_WaaaImScared::
-	.string "Waaaaa!\n"
-	.string "I'm scared!$"
+	.string "{JPN}うえーん!\n"
+	.string "こわいよう!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-	.string "About me crying…\n"
-	.string "Please keep it a secret.$"
+	.string "{JPN}ないてた ことは…\n"
+	.string "ないしょに してね。$"
 
 SilphCo_10F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "10F$"
+	.string "{JPN}シルフカンパニー ほんしゃ\n"
+	.string "10かい$"
 

@@ -139,114 +139,114 @@ FuchsiaCity_EventScript_OmanyteSign::
 	end
 
 FuchsiaCity_Text_DidYouTrySafariGame::
-	.string "Did you try the SAFARI GAME?\p"
-	.string "There are some rare POKéMON that\n"
-	.string "can only be caught there.$"
+	.string "{JPN}サファリゲームは やってみた?\p"
+	.string "あそこでしか つかまえられない\n"
+	.string "めずらしい ポケモンも いるんだよ。$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
-	.string "The SAFARI ZONE has a zoo in front\n"
-	.string "of the entrance.\p"
-	.string "Out back is the SAFARI GAME for\n"
-	.string "catching POKéMON.$"
+	.string "{JPN}サファリゾーンの いりぐちの まえには\n"
+	.string "どうぶつえんが あるんだ。\p"
+	.string "おくには ポケモンを つかまえる\n"
+	.string "サファリゲームが あるよ。$"
 
 FuchsiaCity_Text_WheresSara::
-	.string "ERIK: Where's SARA?\n"
-	.string "I said I'd meet her here.$"
+	.string "{JPN}エリック: サラは どこだ?\n"
+	.string "ここで まちあわせ したのに。$"
 
 FuchsiaCity_Text_ItemBallInThere::
-	.string "That item ball in there…\n"
-	.string "Were you wanting that?\p"
-	.string "Me, too!\n"
-	.string "…Huh? That's a POKéMON?$"
+	.string "{JPN}あそこの アイテムボール……\n"
+	.string "きみも ほしかったの?\p"
+	.string "ぼくも!\n"
+	.string "……あれ? あれって ポケモン?$"
 
 FuchsiaCity_Text_CitySign::
-	.string "FUCHSIA CITY\n"
-	.string "Behold! It's Passion Pink!$"
+	.string "{JPN}セキチクシティ\n"
+	.string "みよ! これぞ パッション ピンク!$"
 
 FuchsiaCity_Text_SafariZoneSign::
-	.string "POKéMON PARADISE\n"
-	.string "SAFARI ZONE$"
+	.string "{JPN}ポケモンの らくえん\n"
+	.string "サファリゾーン$"
 
 FuchsiaCity_Text_SafariGameSign::
-	.string "SAFARI GAME\n"
-	.string "POKéMON-U-CATCH!$"
+	.string "{JPN}サファリゲーム\n"
+	.string "ポケモン つかまえほうだい!$"
 
 FuchsiaCity_Text_WardensHomeSign::
-	.string "SAFARI ZONE\n"
-	.string "WARDEN'S HOME$"
+	.string "{JPN}サファリゾーン\n"
+	.string "えんちょうの いえ$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign::
-	.string "POKéMON PARADISE!\n"
-	.string "Welcome to the SAFARI ZONE!\l"
-	.string "SAFARI ZONE OFFICE$"
+	.string "{JPN}ポケモンの らくえん!\n"
+	.string "サファリゾーンへ ようこそ!\l"
+	.string "サファリゾーン じむしょ$"
 
 FuchsiaCity_Text_GymSign::
-	.string "FUCHSIA CITY POKéMON GYM\n"
-	.string "LEADER: KOGA\l"
-	.string "The Poisonous Ninja Master$"
+	.string "{JPN}セキチクシティ ポケモンジム\n"
+	.string "ジムリーダー キョウ\l"
+	.string "どくの にんじゃ マスター$"
 
 FuchsiaCity_Text_ChanseySign::
-	.string "Name: CHANSEY\n"
-	.string "Catching one is all up to chance.$"
+	.string "{JPN}なまえ: ラッキー\n"
+	.string "つかまえられるかは うんしだい。$"
 
 FuchsiaCity_Text_VoltorbSign::
-	.string "Name: VOLTORB\n"
-	.string "The very image of a POKé BALL.$"
+	.string "{JPN}なまえ: ビリリダマ\n"
+	.string "モンスターボール そっくりの すがた。$"
 
 FuchsiaCity_Text_KangaskhanSign::
-	.string "Name: KANGASKHAN\p"
-	.string "A maternal POKéMON that raises its\n"
-	.string "young in a pouch on its belly.$"
+	.string "{JPN}なまえ: ガルーラ\p"
+	.string "おなかの ふくろで こどもを\n"
+	.string "そだてる ははおやの ポケモン。$"
 
 FuchsiaCity_Text_SlowpokeSign::
-	.string "Name: SLOWPOKE\n"
-	.string "Friendly and very slow moving.$"
+	.string "{JPN}なまえ: ヤドン\n"
+	.string "ひとなつっこく うごきは とても のろい。$"
 
 FuchsiaCity_Text_LaprasSign::
-	.string "Name: LAPRAS\n"
-	.string "AKA the king of the seas.$"
+	.string "{JPN}なまえ: ラプラス\n"
+	.string "またの なを うみの おうさま。$"
 
 FuchsiaCity_Text_OmanyteSign::
-	.string "Name: OMANYTE\n"
-	.string "An extremely rare POKéMON that was\l"
-	.string "regenerated from a fossil.$"
+	.string "{JPN}なまえ: オムナイト\n"
+	.string "かせきから よみがえった\l"
+	.string "とても めずらしい ポケモン。$"
 
 FuchsiaCity_Text_KabutoSign::
-	.string "Name: KABUTO\n"
-	.string "An extremely rare POKéMON that was\l"
-	.string "regenerated from a fossil.$"
+	.string "{JPN}なまえ: カブト\n"
+	.string "かせきから よみがえった\l"
+	.string "とても めずらしい ポケモン。$"
 
 @ Unused. May have been meant to be the placeholder text for the zoo mons, similar to RB's "!" text
 FuchsiaCity_Text_Ellipsis::
-	.string "……$"
+	.string "{JPN}……$"
 
 Text_SubstituteTeach::
-	.string "Aww, I wish I was a KANGASKHAN\n"
-	.string "baby.\p"
-	.string "I'd love to be a substitute for the\n"
-	.string "baby…\p"
-	.string "And snuggle in the mother\n"
-	.string "KANGASKHAN's belly pouch.\p"
-	.string "But only POKéMON can use the\n"
-	.string "technique SUBSTITUTE…\p"
-	.string "Want me to teach SUBSTITUTE to\n"
-	.string "one of your POKéMON?$"
+	.string "{JPN}あーあ ガルーラの あかちゃんに\n"
+	.string "なりたいなあ。\p"
+	.string "あかちゃんの みがわりに\n"
+	.string "なりたいよ……\p"
+	.string "そして おかあさん ガルーラの\n"
+	.string "おなかの ふくろで ぬくぬく するの。\p"
+	.string "でも みがわりの わざは\n"
+	.string "ポケモンしか つかえないし……\p"
+	.string "きみの ポケモンに みがわりを\n"
+	.string "おしえて あげようか?$"
 
 Text_SubstituteDeclined::
-	.string "Oh, really?\n"
-	.string "SUBSTITUTE seems so fun…$"
+	.string "{JPN}え ほんとに?\n"
+	.string "みがわり たのしそう なのに……$"
 
 Text_SubstituteWhichMon::
-	.string "Which POKéMON wants to learn\n"
-	.string "SUBSTITUTE?$"
+	.string "{JPN}どの ポケモンに\n"
+	.string "みがわりを おぼえさせる?$"
 
 Text_SubstituteTaught::
-	.string "Boy, what I'd give to crawl inside\n"
-	.string "a KANGASKHAN belly pouch…$"
+	.string "{JPN}ああ ガルーラの ふくろに\n"
+	.string "もぐりこめたら なあ……$"
 
 FuchsiaCity_Text_MyFatherIsGymLeader::
-	.string "My father is the GYM LEADER of\n"
-	.string "this town.\p"
-	.string "I'm training to use POISON POKéMON\n"
-	.string "as well as my father.$"
+	.string "{JPN}わたしの ちちは この まちの\n"
+	.string "ジムリーダー なの。\p"
+	.string "わたしも ちちのように どくポケモンを\n"
+	.string "つかえるよう しゅぎょう してるの。$"
 

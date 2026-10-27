@@ -45,49 +45,49 @@ SilphCo_9F_EventScript_Grunt2::
 	end
 
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-	.string "You look tired.\n"
-	.string "You should take a quick nap.$"
+	.string "{JPN}つかれてるみたいだね\n"
+	.string "すこし ひとやすみ したら?$"
 
 SilphCo_9F_Text_DontGiveUp::
-	.string "Don't give up!$"
+	.string "{JPN}あきらめないで!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-	.string "Thank you so much.$"
+	.string "{JPN}ほんとうに ありがとう$"
 
 SilphCo_9F_Text_Grunt1Intro::
-	.string "Your POKéMON seem to adore you,\n"
-	.string "kid!$"
+	.string "{JPN}おまえの ポケモン ずいぶん\n"
+	.string "なついてるな ぼうず!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
-	.string "Ghaaah!$"
+	.string "{JPN}ぐはあっ!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
-	.string "If I had started as a TRAINER at\n"
-	.string "your age…$"
+	.string "{JPN}おれも おまえぐらいの としで\n"
+	.string "トレーナーに なってたら…$"
 
 SilphCo_9F_Text_EdIntro::
-	.string "Your POKéMON have weak points!\n"
-	.string "I can nail them!$"
+	.string "{JPN}おまえの ポケモンには じゃくてんが\n"
+	.string "ある! そこを つくぜ!$"
 
 SilphCo_9F_Text_EdDefeat::
-	.string "You hammered me!$"
+	.string "{JPN}こてんぱんに やられた!$"
 
 SilphCo_9F_Text_EdPostBattle::
-	.string "Exploiting weak spots does work.\n"
-	.string "Think about type advantages.$"
+	.string "{JPN}じゃくてんを つくのは ききめが ある\n"
+	.string "タイプの あいしょうを かんがえな$"
 
 SilphCo_9F_Text_Grunt2Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+	.string "{JPN}おれは ロケットだん\n"
+	.string "4きょうだいの ひとり!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
-	.string "Warg!\n"
-	.string "Brothers, I lost!$"
+	.string "{JPN}ぐおっ!\n"
+	.string "きょうだいたち まけちまった!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-	.string "My brothers will avenge me!$"
+	.string "{JPN}きょうだいたちが かたきを うつぜ!$"
 
 SilphCo_9F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
+	.string "{JPN}シルフカンパニー ほんしゃ\n"
 	.string "9F$"
 

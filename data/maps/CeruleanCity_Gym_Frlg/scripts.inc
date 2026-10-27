@@ -70,94 +70,94 @@ CeruleanCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeruleanCity_Gym_Text_MistyIntro::
-	.string "Hi, you're a new face!\p"
-	.string "Only those TRAINERS who have a\n"
-	.string "policy about POKéMON can turn pro.\p"
-	.string "What is your approach when you\n"
-	.string "catch and train POKéMON?\p"
-	.string "My policy is an all-out offensive\n"
-	.string "with WATER-type POKéMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "{JPN}あら みない かおね!\p"
+	.string "ポケモンに たいして ポリシーを もつ\n"
+	.string "トレーナーだけが プロに なれるの。\p"
+	.string "あなたは どんな かんがえで\n"
+	.string "ポケモンを つかまえて そだててる?\p"
+	.string "わたしの ポリシーは みずタイプで\n"
+	.string "ぜんりょく こうげき よ!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-	.string "TM03 teaches WATER PULSE.\p"
-	.string "Use it on an aquatic POKéMON!$"
+	.string "{JPN}わざマシン03は みずのはどう。\p"
+	.string "みずの ポケモンに つかってね!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-	.string "The CASCADEBADGE makes all\n"
-	.string "POKéMON up to Lv. 30 obey.\p"
-	.string "That includes even outsiders you\n"
-	.string "got in trades.\p"
-	.string "There's more. You can now use CUT\n"
-	.string "anytime, even out of battle.\p"
-	.string "You can CUT down small trees to\n"
-	.string "open new pathways.\p"
-	.string "You can also have my favorite TM.$"
+	.string "{JPN}ブルーバッジが あれば レベル30\n"
+	.string "までの ポケモンが いうことを きくわ。\p"
+	.string "こうかんで もらった\n"
+	.string "ポケモンでもね。\p"
+	.string "それだけじゃ ないわ。 いあいぎりを\n"
+	.string "せんとう いがいでも つかえるの。\p"
+	.string "ちいさな きを いあいぎりで きって\n"
+	.string "あたらしい みちを ひらけるわ。\p"
+	.string "わたしの おきにいりの わざマシンも あげる。$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
-	.string "{PLAYER} received TM03\n"
-	.string "from MISTY.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は カスミから\n"
+	.string "わざマシン03を もらった!$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
-	.string "You better make room for this!$"
+	.string "{JPN}これを もつ よゆうを つくりなさいよ!$"
 
 CeruleanCity_Gym_Text_MistyDefeat::
-	.string "Wow!\n"
-	.string "You're too much!\p"
-	.string "All right!\p"
-	.string "You can have the CASCADEBADGE to\n"
-	.string "show you beat me.$"
+	.string "{JPN}うそ!\n"
+	.string "あなた つよすぎ!\p"
+	.string "わかったわ!\p"
+	.string "わたしに かった しるしに\n"
+	.string "ブルーバッジを あげる。$"
 
 CeruleanCity_Gym_Text_DianaIntro::
-	.string "What? You?\n"
-	.string "I'm more than good enough for you!\p"
-	.string "MISTY won't have to be bothered.$"
+	.string "{JPN}なに? あなたが?\n"
+	.string "あなたの あいては わたしで じゅうぶん!\p"
+	.string "カスミさんの てを わずらわせる までも ないわ。$"
 
 CeruleanCity_Gym_Text_DianaDefeat::
-	.string "You overwhelmed me!$"
+	.string "{JPN}あっとうされたわ!$"
 
 CeruleanCity_Gym_Text_DianaPostBattle::
-	.string "You have to face other TRAINERS\n"
-	.string "to see how good you really are.$"
+	.string "{JPN}じぶんの ほんとうの じつりょくは\n"
+	.string "ほかの トレーナーと たたかって わかるのよ。$"
 
 CeruleanCity_Gym_Text_LuisIntro::
-	.string "Splash!\p"
-	.string "I'm first up!\n"
-	.string "Let's do it!$"
+	.string "{JPN}バシャッ!\p"
+	.string "おれが いちばんてだ!\n"
+	.string "いくぞ!$"
 
 CeruleanCity_Gym_Text_LuisDefeat::
-	.string "That can't be!$"
+	.string "{JPN}そんな ばかな!$"
 
 CeruleanCity_Gym_Text_LuisPostBattle::
-	.string "MISTY is a TRAINER who's going to\n"
-	.string "keep improving.\p"
-	.string "She won't lose to someone like you!$"
+	.string "{JPN}カスミさんは これからも\n"
+	.string "つよく なっていく トレーナーさ。\p"
+	.string "きみなんかには まけないよ!$"
 
 CeruleanCity_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
-	.string "Champ in the making!\p"
-	.string "Let me give you some advice!\p"
-	.string "The LEADER, MISTY, is a pro who\n"
-	.string "uses WATER-type POKéMON.\p"
-	.string "You can drain all their water with\n"
-	.string "GRASS-type POKéMON.\p"
-	.string "Or, you might use ELECTRIC-type\n"
-	.string "POKéMON and zap them!$"
+	.string "{JPN}よう!\n"
+	.string "みらいの チャンピオン!\p"
+	.string "アドバイスを してやろう!\p"
+	.string "リーダーの カスミは みずタイプの\n"
+	.string "ポケモンを つかう プロだ。\p"
+	.string "くさタイプの ポケモンなら\n"
+	.string "みずを すいつくして やれるぞ。\p"
+	.string "それか でんきタイプの ポケモンで\n"
+	.string "しびれさせて やるんだ!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
-	.string "You beat MISTY!\n"
-	.string "See, what'd I tell ya?\p"
-	.string "You and me, kid, we make a pretty\n"
-	.string "darn-good team!$"
+	.string "{JPN}カスミに かったな!\n"
+	.string "ほら いった とおりだろ?\p"
+	.string "おれたち なかなか いい\n"
+	.string "コンビじゃないか!$"
 
 CeruleanCity_Gym_Text_GymStatue::
-	.string "CERULEAN POKéMON GYM\n"
-	.string "LEADER: MISTY\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}$"
+	.string "{JPN}ハナダ ポケモンジム\n"
+	.string "リーダー: カスミ\p"
+	.string "しょうりした トレーナー:\n"
+	.string "{ENG}{RIVAL}{JPN}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-	.string "CERULEAN POKéMON GYM\n"
-	.string "LEADER: MISTY\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+	.string "{JPN}ハナダ ポケモンジム\n"
+	.string "リーダー: カスミ\p"
+	.string "しょうりした トレーナー:\n"
+	.string "{ENG}{RIVAL}{JPN}・{ENG}{PLAYER}{JPN}$"
 

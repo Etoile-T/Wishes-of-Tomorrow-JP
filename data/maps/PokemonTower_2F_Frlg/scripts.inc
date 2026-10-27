@@ -101,32 +101,32 @@ PokemonTower_2F_Movement_RivalExitDown::
 	step_end
 
 PokemonTower_2F_Text_RivalIntro::
-	.string "{RIVAL}: Hey, {PLAYER}!\n"
-	.string "What brings you here?\l"
-	.string "Is your POKéMON dead?\p"
-	.string "Hey! It's alive!\p"
-	.string "I can at least make them faint!\n"
-	.string "Let's go!$"
+	.string "{JPN}{ENG}{RIVAL}{JPN}: よう {ENG}{PLAYER}{JPN}!\n"
+	.string "なんで ここに いるんだ?\l"
+	.string "おまえの ポケモン しんだのか?\p"
+	.string "なんだ! いきてるじゃん!\p"
+	.string "せめて ひんしに して やるぜ!\n"
+	.string "いくぞ!$"
 
 PokemonTower_2F_Text_RivalDefeat::
-	.string "What?\n"
-	.string "You stinker!\p"
-	.string "I took it easy on you, too!$"
+	.string "{JPN}なにっ?\n"
+	.string "この やろう!\p"
+	.string "てかげん して やったのに!$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-	.string "How's your POKéDEX coming?\n"
-	.string "I just caught a CUBONE!\p"
-	.string "I can't find the bigger MAROWAK.\n"
-	.string "Where could they be?\p"
-	.string "I bet there aren't any left!\p"
-	.string "Well, I better get going.\n"
-	.string "I've got a lot to accomplish,\l"
-	.string "unlike you.\p"
-	.string "Smell ya later!$"
+	.string "{JPN}ずかんの ほうは どうだ?\n"
+	.string "おれは カラカラを つかまえたぜ!\p"
+	.string "でかい ガラガラが みつからない。\n"
+	.string "どこに いるんだろうな?\p"
+	.string "もう いないに ちがいないぜ!\p"
+	.string "さて そろそろ いくか。\n"
+	.string "おれは やることが いっぱい\l"
+	.string "あるんだ。 おまえと ちがってな。\p"
+	.string "あばよ!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
-	.string "Even we could not identify the\n"
-	.string "wayward ghosts.\p"
-	.string "A SILPH SCOPE might be able to\n"
-	.string "unmask them.$"
+	.string "{JPN}わたしたち でも さまよう\n"
+	.string "ゆうれいの しょうたいは わからない。\p"
+	.string "シルフスコープ なら しょうたいを\n"
+	.string "みやぶれる かもしれない。$"
 

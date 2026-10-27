@@ -2,54 +2,54 @@ SevenIsland_TanobyRuins_Frlg_MapScripts::
 	.byte 0
 
 SevenIsland_TanobyRuins_Text_BrandonIntro::
-	.string "Do you know anything about this\n"
-	.string "stone chamber?$"
+	.string "{JPN}この いしの へやに ついて\n"
+	.string "なにか しってる?$"
 
 SevenIsland_TanobyRuins_Text_BrandonDefeat::
-	.string "That was uncalled for.\n"
-	.string "You didn't have to be so rough.$"
+	.string "{JPN}ひどいな。\n"
+	.string "そんなに らんぼうに しなくても。$"
 
 SevenIsland_TanobyRuins_Text_BrandonPostBattle::
-	.string "The TANOBY RUINS date back at\n"
-	.string "least 1,500 years.\p"
-	.string "But it's a baffling mystery as to\n"
-	.string "why it was built in the first place.$"
+	.string "{JPN}アスカナいせきは すくなくとも\n"
+	.string "1500ねん まえの ものだ。\p"
+	.string "でも なんの ために つくられたのかは\n"
+	.string "まったくの なぞ なんだ。$"
 
 SevenIsland_TanobyRuins_Text_BenjaminIntro::
-	.string "A mystic POKéMON is said to sleep\n"
-	.string "inside here.$"
+	.string "{JPN}ここには しんぴの ポケモンが\n"
+	.string "ねむって いると いわれている。$"
 
 SevenIsland_TanobyRuins_Text_BenjaminDefeat::
-	.string "I'm not much good in battle.$"
+	.string "{JPN}バトルは あまり とくいじゃ なくて。$"
 
 SevenIsland_TanobyRuins_Text_BenjaminPostBattle::
-	.string "I hear there are other ruins like\n"
-	.string "the one here.\p"
-	.string "Might they be the resting places\n"
-	.string "of other mystic POKéMON?$"
+	.string "{JPN}ここと にた いせきが\n"
+	.string "ほかにも あるらしい。\p"
+	.string "そこには ほかの しんぴの\n"
+	.string "ポケモンが ねむって いるのかな?$"
 
 SevenIsland_TanobyRuins_Text_EdnaIntro::
-	.string "CLIFFORD is teaching me how to\n"
-	.string "paint.$"
+	.string "{JPN}クリフォードさんに\n"
+	.string "えを ならってるの。$"
 
 SevenIsland_TanobyRuins_Text_EdnaDefeat::
-	.string "We might get in trouble for being\n"
-	.string "noisy here.$"
+	.string "{JPN}ここで さわいだら\n"
+	.string "おこられちゃう かも。$"
 
 SevenIsland_TanobyRuins_Text_EdnaPostBattle::
-	.string "I said that I wanted to paint an\n"
-	.string "old building.\p"
-	.string "So CLIFFORD brought me here.$"
+	.string "{JPN}ふるい たてものの えを\n"
+	.string "かきたいって いったの。\p"
+	.string "それで クリフォードさんが つれてきてくれたの。$"
 
 SevenIsland_TanobyRuins_Text_CliffordIntro::
-	.string "Today, in addition to our lesson,\n"
-	.string "we came to see the chamber.$"
+	.string "{JPN}きょうは レッスンの ついでに\n"
+	.string "いしの へやを みに きたのです。$"
 
 SevenIsland_TanobyRuins_Text_CliffordDefeat::
-	.string "My, how extraordinary.$"
+	.string "{JPN}おや なんと すばらしい。$"
 
 SevenIsland_TanobyRuins_Text_CliffordPostBattle::
-	.string "Ah, so you are studying POKéMON\n"
-	.string "on your own…\p"
-	.string "Yes, you certainly are quite the\n"
-	.string "extraordinary person, indeed.$"
+	.string "{JPN}ほう ひとりで ポケモンの\n"
+	.string "けんきゅうを しているのですか…\p"
+	.string "ええ あなたは じつに\n"
+	.string "すばらしい かた ですね。$"

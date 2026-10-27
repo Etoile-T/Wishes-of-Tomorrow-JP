@@ -10,16 +10,16 @@ SSAnne_1F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_1F_Corridor_Text_LeStrongSilentType::
-	.string "Bonjour!\n"
-	.string "I am le waiter on this ship!\p"
-	.string "I will be happy to serve you\n"
-	.string "anything you please!\p"
+	.string "{JPN}ボンジュール!\n"
+	.string "ワタクシ この ふねの ウェイターです!\p"
+	.string "ごようが あれば なんなりと\n"
+	.string "おもうしつけ ください!\p"
 	.string "… … …\n"
-	.string "Ah! Le strong silent type!$"
+	.string "おお! むくちな かたですね!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
-	.string "The passengers are restless from\n"
-	.string "this long voyage.\p"
-	.string "You might be challenged by the\n"
-	.string "more bored ones!$"
+	.string "{JPN}ながい こうかいで おきゃくさまが\n"
+	.string "そわそわ して おります。\p"
+	.string "たいくつ している かたに\n"
+	.string "しょうぶを いどまれる かも しれません!$"
 

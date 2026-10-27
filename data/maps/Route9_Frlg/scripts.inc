@@ -6,108 +6,108 @@ Route9_EventScript_RouteSign::
 	end
 
 Route9_Text_AliciaIntro::
-	.string "You have POKéMON with you!\n"
-	.string "You're mine!$"
+	.string "{JPN}ポケモンを もってるのね!\n"
+	.string "かくご しなさい!$"
 
 Route9_Text_AliciaDefeat::
-	.string "You deceived me…$"
+	.string "{JPN}だまされたわ…$"
 
 Route9_Text_AliciaPostBattle::
-	.string "The tunnel coming up is pitch-black\n"
-	.string "inside.\p"
-	.string "You'll need FLASH to get through\n"
-	.string "there.$"
+	.string "{JPN}この さきの トンネルの なかは\n"
+	.string "まっくら なのよ。\p"
+	.string "とおりぬけるには フラッシュが\n"
+	.string "ひつようね。$"
 
 Route9_Text_ChrisIntro::
-	.string "Who's that walking there with those\n"
-	.string "good-looking POKéMON?$"
+	.string "{JPN}かっこいい ポケモンを つれて\n"
+	.string "あるいてるのは だれだ?$"
 
 Route9_Text_ChrisDefeat::
-	.string "Out like a light!$"
+	.string "{JPN}あっさり やられた!$"
 
 Route9_Text_ChrisPostBattle::
-	.string "Keep walking!$"
+	.string "{JPN}さっさと いけよ!$"
 
 Route9_Text_DrewIntro::
-	.string "I'm taking the ROCK TUNNEL to\n"
-	.string "go to LAVENDER…$"
+	.string "{JPN}イワヤマトンネルを とおって\n"
+	.string "シオンに いくんだ…$"
 
 Route9_Text_DrewDefeat::
-	.string "Can't measure up…$"
+	.string "{JPN}かなわないな…$"
 
 Route9_Text_DrewPostBattle::
-	.string "Are you off to ROCK TUNNEL, too?$"
+	.string "{JPN}きみも イワヤマトンネルに いくのかい?$"
 
 Route9_Text_CaitlinIntro::
-	.string "Don't you dare patronize me!$"
+	.string "{JPN}わたしを みくびらないで!$"
 
 Route9_Text_CaitlinDefeat::
-	.string "No!\n"
-	.string "You're too much.$"
+	.string "{JPN}うそ!\n"
+	.string "つよすぎるわ。$"
 
 Route9_Text_CaitlinPostBattle::
-	.string "You're obviously talented.\n"
-	.string "Good luck to you!$"
+	.string "{JPN}あなた あきらかに さいのう あるわ。\n"
+	.string "がんばってね!$"
 
 Route9_Text_JeremyIntro::
-	.string "Bwahaha!\n"
-	.string "Great! I was bored, eh!$"
+	.string "{JPN}ブワッハッハ!\n"
+	.string "いいね! たいくつ してたんだよ なあ!$"
 
 Route9_Text_JeremyDefeat::
-	.string "Keep it coming, eh!\p"
-	.string "Oh wait.\n"
-	.string "I'm out of POKéMON!$"
+	.string "{JPN}どんどん こいよ なあ!\p"
+	.string "おっと まてよ。\n"
+	.string "もう ポケモンが いないや!$"
 
 Route9_Text_JeremyPostBattle::
-	.string "You sure had guts standing up to\n"
-	.string "me there, eh?$"
+	.string "{JPN}おれに たちむかうとは\n"
+	.string "なかなか ガッツが あるな なあ?$"
 
 Route9_Text_BriceIntro::
-	.string "Hahaha!\n"
-	.string "Aren't you a little toughie!$"
+	.string "{JPN}ハッハッハ!\n"
+	.string "なかなか てごわそうな やつだな!$"
 
 Route9_Text_BriceDefeat::
-	.string "What's that?$"
+	.string "{JPN}なんだと?$"
 
 Route9_Text_BricePostBattle::
-	.string "Hahaha!\n"
-	.string "Kids should be tough!$"
+	.string "{JPN}ハッハッハ!\n"
+	.string "こどもは たくましく なくちゃな!$"
 
 Route9_Text_BrentIntro::
-	.string "I got up early every day to raise\n"
-	.string "my POKéMON from cocoons!$"
+	.string "{JPN}まいにち はやおきして ポケモンを\n"
+	.string "さなぎから そだてたんだ!$"
 
 Route9_Text_BrentDefeat::
-	.string "WHAT?\p"
-	.string "What a total waste of time!$"
+	.string "{JPN}なにー?\p"
+	.string "ぜんぶ じかんの むだ だった!$"
 
 Route9_Text_BrentPostBattle::
-	.string "I have to collect more than bugs\n"
-	.string "to get stronger…$"
+	.string "{JPN}つよく なるには むしいがいも\n"
+	.string "あつめないと だめか…$"
 
 Route9_Text_AlanIntro::
-	.string "Hahahaha!\n"
-	.string "Bring it on!$"
+	.string "{JPN}ガッハッハッハ!\n"
+	.string "かかって こい!$"
 
 Route9_Text_AlanDefeat::
-	.string "Hahahaha!\n"
-	.string "You beat me fair!$"
+	.string "{JPN}ガッハッハッハ!\n"
+	.string "せいせいどうどう まけたぜ!$"
 
 Route9_Text_AlanPostBattle::
-	.string "Hahahaha!\n"
-	.string "Us hearty guys always laugh!$"
+	.string "{JPN}ガッハッハッハ!\n"
+	.string "おれたち やまおとこは いつも わらうのさ!$"
 
 Route9_Text_ConnerIntro::
-	.string "Go, my super BUG POKéMON!$"
+	.string "{JPN}いけ! ぼくの スーパー むしポケモン!$"
 
 Route9_Text_ConnerDefeat::
-	.string "My bugs…$"
+	.string "{JPN}ぼくの むしたちが…$"
 
 Route9_Text_ConnerPostBattle::
-	.string "If you don't like BUG POKéMON,\n"
-	.string "you bug me!$"
+	.string "{JPN}むしポケモンが きらいなら\n"
+	.string "きみなんか むしだ! むし!$"
 
 Route9_Text_RouteSign::
-	.string "ROUTE 9\n"
-	.string "CERULEAN CITY - ROCK TUNNEL$"
+	.string "{JPN}9ばんどうろ\n"
+	.string "ハナダシティ - イワヤマトンネル$"
 

@@ -73,74 +73,74 @@ CeruleanCity_House1_EventScript_StopDescribingBadges::
 	end
 
 CeruleanCity_House1_Text_BadgesHaveAmazingSecrets::
-	.string "Only skilled TRAINERS can collect\n"
-	.string "POKéMON BADGES.\p"
-	.string "I see you have at least one.\p"
-	.string "Those BADGES have amazing secrets,\n"
-	.string "did you know?$"
+	.string "{JPN}ポケモンバッジを あつめられるのは\n"
+	.string "うでの いい トレーナーだけじゃ。\p"
+	.string "おまえさんは ひとつは もっとるようじゃな。\p"
+	.string "バッジには すごい ひみつが あるんじゃ\n"
+	.string "しっとったかね?$"
 
 CeruleanCity_House1_Text_DescribeWhichBadge::
-	.string "Now then…\p"
-	.string "Which of the eight BADGES should\n"
-	.string "I describe?$"
+	.string "{JPN}さてと…\p"
+	.string "8つの バッジの うち どれを\n"
+	.string "せつめい しようかの?$"
 
 CeruleanCity_House1_Text_ComeVisitAnytime::
-	.string "Come visit me anytime you wish.$"
+	.string "{JPN}いつでも あそびに おいで。$"
 
 CeruleanCity_House1_Text_AttackStatFlash::
-	.string "The ATTACK stat of all your\n"
-	.string "POKéMON increases a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "FLASH outside of battle.$"
+	.string "{JPN}てもちの ポケモン ぜんいんの\n"
+	.string "こうげきが すこし あがる。\p"
+	.string "それに せんとう いがいで\n"
+	.string "フラッシュが つかえるように なる。$"
 
 CeruleanCity_House1_Text_ObeyLv30Cut::
-	.string "POKéMON up to Lv. 30 will obey\n"
-	.string "you.\p"
-	.string "That includes even outsiders you\n"
-	.string "obtain in trades.\p"
-	.string "POKéMON of higher levels will\n"
-	.string "be unruly in battle, however.\p"
-	.string "It also lets you use the move\n"
-	.string "CUT outside of battle.$"
+	.string "{JPN}レベル30 までの ポケモンが\n"
+	.string "いうことを きく。\p"
+	.string "こうかんで てに いれた\n"
+	.string "ポケモンでも じゃ。\p"
+	.string "ただし それより レベルが たかいと\n"
+	.string "せんとうで いうことを きかんぞ。\p"
+	.string "それに せんとう いがいで\n"
+	.string "いあいぎりが つかえるように なる。$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
-	.string "The SPEED stat of all your\n"
-	.string "POKéMON increases a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "FLY outside of battle.$"
+	.string "{JPN}てもちの ポケモン ぜんいんの\n"
+	.string "すばやさが すこし あがる。\p"
+	.string "それに せんとう いがいで\n"
+	.string "そらをとぶが つかえるように なる。$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
-	.string "POKéMON up to Lv. 50 will obey\n"
-	.string "you.\p"
-	.string "That includes even outsiders you\n"
-	.string "obtain in trades.\p"
-	.string "POKéMON of higher levels will\n"
-	.string "be unruly in battle, however.\p"
-	.string "It also lets you use the move\n"
-	.string "STRENGTH outside of battle.$"
+	.string "{JPN}レベル50 までの ポケモンが\n"
+	.string "いうことを きく。\p"
+	.string "こうかんで てに いれた\n"
+	.string "ポケモンでも じゃ。\p"
+	.string "ただし それより レベルが たかいと\n"
+	.string "せんとうで いうことを きかんぞ。\p"
+	.string "それに せんとう いがいで\n"
+	.string "かいりきが つかえるように なる。$"
 
 CeruleanCity_House1_Text_DefenseStatSurf::
-	.string "The DEFENSE stat of all your\n"
-	.string "POKéMON increases a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "SURF outside of battle.$"
+	.string "{JPN}てもちの ポケモン ぜんいんの\n"
+	.string "ぼうぎょが すこし あがる。\p"
+	.string "それに せんとう いがいで\n"
+	.string "なみのりが つかえるように なる。$"
 
 CeruleanCity_House1_Text_ObeyLv70RockSmash::
-	.string "POKéMON up to Lv. 70 will obey\n"
-	.string "you.\p"
-	.string "That includes even outsiders you\n"
-	.string "obtain in trades.\p"
-	.string "POKéMON of higher levels will\n"
-	.string "be unruly in battle, however.\p"
-	.string "It also lets you use the move\n"
-	.string "ROCK SMASH outside of battle.$"
+	.string "{JPN}レベル70 までの ポケモンが\n"
+	.string "いうことを きく。\p"
+	.string "こうかんで てに いれた\n"
+	.string "ポケモンでも じゃ。\p"
+	.string "ただし それより レベルが たかいと\n"
+	.string "せんとうで いうことを きかんぞ。\p"
+	.string "それに せんとう いがいで\n"
+	.string "いわくだきが つかえるように なる。$"
 
 CeruleanCity_House1_Text_SpStatsWaterfall::
-	.string "The SP. ATK and SP. DEF stats of\n"
-	.string "all your POKéMON rise a little bit.\p"
-	.string "It also lets you use the move\n"
-	.string "WATERFALL outside of battle.$"
+	.string "{JPN}てもちの ポケモン ぜんいんの\n"
+	.string "とくこうと とくぼうが すこし あがる。\p"
+	.string "それに せんとう いがいで\n"
+	.string "たきのぼりが つかえるように なる。$"
 
 CeruleanCity_House1_Text_AllMonsWillObeyYou::
-	.string "All POKéMON will obey you!$"
+	.string "{JPN}すべての ポケモンが いうことを きく!$"
 

@@ -78,36 +78,36 @@ OniMask_EventScript_GoonNodMasked::
 @  Text
 @ ============================================================================
 OniMask_Text_PutOn::
-	.string "{PLAYER} slipped on the Carved Mask.\p"
-	.string "Its snarling oni face swallows your\n"
-	.string "own features whole.\p"
-	.string "To the masked ones, you just might\n"
-	.string "pass for one of their own now.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ほりもののめんを つけた。\p"
+	.string "うなる おにの かおが\n"
+	.string "じぶんの かおを すっぽり おおいかくす。\p"
+	.string "いまなら めんの ものたちに\n"
+	.string "なかまだと おもわれるかも しれない。$"
 
 OniMask_Text_TakeOff::
-	.string "{PLAYER} took off the Carved Mask.\p"
-	.string "The cold air bites at your bare\n"
-	.string "face again.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ほりもののめんを はずした。\p"
+	.string "つめたい くうきが ふたたび\n"
+	.string "すがおを さす。$"
 
 OniMask_Text_Useless::
-	.string "{PLAYER} turned the Carved Mask\n"
-	.string "over in the neon light.\p"
-	.string "They know your face now.\n"
-	.string "It's just wood.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ほりもののめんを\n"
+	.string "ネオンの ひかりに かざして まわした。\p"
+	.string "もう かおは しられている。\n"
+	.string "これは ただの きの めんだ。$"
 
 OniMask_Text_GoonMasked::
-	.string "The masked figure snaps upright the\n"
-	.string "instant it sees your carved face.\p"
-	.string "“S-sir! Forgive me, I didn't see\n"
-	.string "you coming!\p"
-	.string "“Everything's locked down tight, just\n"
-	.string "as you ordered. Not a soul in or out.\p"
-	.string "“Right this way, sir -- the others\n"
-	.string "are expecting you up ahead.”$"
+	.string "{JPN}めんの ものは ほりものの かおを\n"
+	.string "みた とたん しゃきっと しせいを ただした。\p"
+	.string "「は はい! しつれいしました!\n"
+	.string "おいでに きづきませんで!\p"
+	.string "「ごめいれい どおり すべて げんじゅうに\n"
+	.string "ふうさ しております。 だれも とおしません。\p"
+	.string "「どうぞ こちらへ。 ほかの ものたちが\n"
+	.string "この さきで おまちしております。」$"
 
 OniMask_Text_GoonSuspicious::
-	.string "...\p"
-	.string "Eyes glitter behind the mask's\n"
-	.string "carved sockets, tracking you.\p"
-	.string "“Bare faces don't belong here.\n"
-	.string "Turn around.”$"
+	.string "{JPN}…\p"
+	.string "めんの ほりこまれた めのあなの おくで\n"
+	.string "ひとみが ひかり こちらを おっている。\p"
+	.string "「すがおの ものが くる ところでは ない。\n"
+	.string "ひきかえせ。」$"

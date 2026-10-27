@@ -166,128 +166,128 @@ PalletTown_RivalsHouse_EventScript_Picture::
 	end
 
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-	.string "DAISY: Hi, {PLAYER}!\p"
-	.string "My brother, {RIVAL}, is out at\n"
-	.string "Grandpa's LAB.$"
+	.string "{JPN}ナナミ: あら {ENG}{PLAYER}{JPN}!\p"
+	.string "おとうとの {ENG}{RIVAL}{JPN}なら\n"
+	.string "おじいちゃんの けんきゅうじょよ。$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
-	.string "DAISY: {PLAYER}, I heard you had\n"
-	.string "a battle against {RIVAL}.\p"
-	.string "I wish I'd seen that!$"
+	.string "{JPN}ナナミ: {ENG}{PLAYER}{JPN} あなた\n"
+	.string "{ENG}{RIVAL}{JPN}と バトル したんですって?\p"
+	.string "わたしも みたかったわ!$"
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
-	.string "Grandpa asked you to run an\n"
-	.string "errand?\p"
-	.string "Gee, that's lazy of him.\n"
-	.string "Here, this will help you.$"
+	.string "{JPN}おじいちゃんに おつかいを\n"
+	.string "たのまれたの?\p"
+	.string "まあ ものぐさ なんだから。\n"
+	.string "はい これが あると べんりよ。$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
-	.string "{PLAYER} received a TOWN MAP\n"
-	.string "from DAISY.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ナナミから\n"
+	.string "タウンマップを もらった。$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this in\n"
-	.string "your BAG.$"
+	.string "{JPN}バッグに これを いれる\n"
+	.string "すきまが ないわね。$"
 
 PalletTown_RivalsHouse_Text_ExplainTownMap::
-	.string "You can use the TOWN MAP to find\n"
-	.string "out where you are, or check the\l"
-	.string "names of places.$"
+	.string "{JPN}タウンマップを つかえば いまいる\n"
+	.string "ばしょを しらべたり ちめいを\l"
+	.string "たしかめたり できるのよ。$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-	.string "DAISY: Just like people, POKéMON\n"
-	.string "are living things.\p"
-	.string "When they get tired, please give\n"
-	.string "them a rest.$"
+	.string "{JPN}ナナミ: ポケモンも ひとと おなじ\n"
+	.string "いきもの なのよ。\p"
+	.string "つかれたら やすませて\n"
+	.string "あげてね。$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
-	.string "It's a big map of the KANTO region.\n"
-	.string "Now this would be useful!$"
+	.string "{JPN}カントーちほうの おおきな ちずだ。\n"
+	.string "これは べんりそう!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
-	.string "The shelves are crammed full of\n"
-	.string "books on POKéMON.$"
+	.string "{JPN}ほんだなには ポケモンの ほんが\n"
+	.string "ぎっしり つまっている。$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
-	.string "DAISY: Hi, {PLAYER}!\n"
-	.string "Good timing.\p"
-	.string "I'm about to have some tea.\n"
-	.string "Would you like to join me?\p"
-	.string "Oh, but look.\n"
-	.string "Your POKéMON are a little dirty.\p"
-	.string "Would you like me to groom one?$"
+	.string "{JPN}ナナミ: あら {ENG}{PLAYER}{JPN}!\n"
+	.string "ちょうど よかった。\p"
+	.string "いま おちゃに するところなの。\n"
+	.string "いっしょに どう?\p"
+	.string "あら でも みて。\n"
+	.string "あなたの ポケモン ちょっと よごれてるわ。\p"
+	.string "けづくろい してあげましょうか?$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
-	.string "You don't need any grooming done?\n"
-	.string "Okay, we'll just have tea.$"
+	.string "{JPN}けづくろいは いらないの?\n"
+	.string "じゃあ おちゃだけ にしましょ。$"
 
 PalletTown_RivalsHouse_Text_GroomWhichOne::
-	.string "Which one should I groom?$"
+	.string "{JPN}どの こを けづくろい する?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-	.string "DAISY: Okay, I'll get it looking\n"
-	.string "nice in no time.$"
+	.string "{JPN}ナナミ: じゃあ すぐに\n"
+	.string "きれいに してあげるわね。$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
-	.string "{COLOR DARK_GRAY}{STR_VAR_1} looks dreamily content…\p"
-	.string "{COLOR RED}DAISY: There you go! All done.\n"
+	.string "{JPN}{COLOR DARK_GRAY}{ENG}{STR_VAR_1}{JPN}は うっとり している……\p"
+	.string "{COLOR RED}ナナミ: はい できあがり!\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
-	.string "{FONT_NORMAL}{STR_VAR_1} looks dreamily content…\p"
-	.string "{FONT_FEMALE}DAISY: There you go! All done.\n"
+	.string "{JPN}{FONT_NORMAL}{ENG}{STR_VAR_1}{JPN}は うっとり している……\p"
+	.string "{FONT_FEMALE}ナナミ: はい できあがり!\n"
 #endif
-	.string "See? Doesn't it look nice?\p"
-	.string "Giggle…\n"
-	.string "It's such a cute POKéMON.$"
+	.string "{JPN}ほら きれいに なったでしょ?\p"
+	.string "うふふ……\n"
+	.string "ほんとに かわいい ポケモンね。$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
-	.string "Oh, sorry. I honestly can't\n"
-	.string "groom an EGG.$"
+	.string "{JPN}あら ごめんなさい。 タマゴは\n"
+	.string "さすがに けづくろい できないわ。$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-	.string "DAISY: Your POKéMON grow to love\n"
-	.string "you if you raise them with love.\p"
-	.string "For example, {PLAYER}, may I see\n"
-	.string "your first POKéMON?$"
+	.string "{JPN}ナナミ: あいじょうを こめて そだてれば\n"
+	.string "ポケモンも あなたを すきに なるわ。\p"
+	.string "たとえば {ENG}{PLAYER}{JPN} あなたの\n"
+	.string "さいしょの ポケモンを みせて?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
-	.string "It couldn't possibly love you\n"
-	.string "any more than it does now.\p"
-	.string "Your POKéMON is happy beyond\n"
-	.string "words.$"
+	.string "{JPN}これいじょう ないくらい\n"
+	.string "あなたに なついてるわ。\p"
+	.string "あなたの ポケモン ことばに\n"
+	.string "できないくらい しあわせそう。$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
-	.string "It looks very happy.\p"
-	.string "I wish {RIVAL} could see this and\n"
-	.string "learn something from it.$"
+	.string "{JPN}とても しあわせそうね。\p"
+	.string "{ENG}{RIVAL}{JPN}にも これを みて\n"
+	.string "すこしは みならって ほしいわ。$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
-	.string "It's quite friendly with you.\n"
-	.string "Keep being good to it!$"
+	.string "{JPN}あなたに とても なついてるわ。\n"
+	.string "これからも だいじに してね!$"
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
-	.string "It's warming up to you.\n"
-	.string "Trust must be growing between you.$"
+	.string "{JPN}あなたに なついて きてるわね。\n"
+	.string "しんらいが そだってるのね。$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
-	.string "It's not quite familiar with you\n"
-	.string "yet.\p"
-	.string "POKéMON are all quite wary when\n"
-	.string "you first get them.$"
+	.string "{JPN}まだ あなたに あまり\n"
+	.string "なれて いないみたい。\p"
+	.string "ポケモンは みんな さいしょは\n"
+	.string "けいかい してるものなのよ。$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-	.string "{PLAYER}, I don't like the way it\n"
-	.string "glares at you.\p"
-	.string "Could you try being a little nicer\n"
-	.string "to it?$"
+	.string "{JPN}{ENG}{PLAYER}{JPN} その こ あなたを\n"
+	.string "にらんでる みたいで いやだわ。\p"
+	.string "もうすこし やさしく してあげて\n"
+	.string "くれない?$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-	.string "…Um, it's not easy for me to say\n"
-	.string "this, but…\p"
-	.string "Is there some reason why your\n"
-	.string "POKéMON would hate you so much?$"
+	.string "{JPN}……あの とても いいにくいん\n"
+	.string "だけど……\p"
+	.string "あなたの ポケモンが そんなに あなたを\n"
+	.string "きらう りゆうでも あるの?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
-	.string "“The lovely and sweet\n"
-	.string "CLEFAIRY”$"
+	.string "{JPN}「かわいくて やさしい\n"
+	.string "ピッピ」$"
 

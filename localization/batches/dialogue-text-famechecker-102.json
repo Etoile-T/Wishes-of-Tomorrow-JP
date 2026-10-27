@@ -1,0 +1,6554 @@
+[
+ {
+  "id": "e438d53605f010bf",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a15449bf97e47de0",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}オーキド ポケモン けんきゅうじょ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d94e685248cab73c",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a98261f9c1b0c27f",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}せかいじゅうの ポケモンを のせた\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4da2248755660f88",
+  "translation": "かんぜんな ずかんを つくる…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0b5ad5ade45e40d",
+  "translation": "それが わしの ゆめ じゃった!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddf2e9ac7146e9cd",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1afbf71dd3ddbabe",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}オーキドはかせは そうは みえないけど\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92b6b4ebe9b7e8f8",
+  "translation": "ポケモンの けんい なのよ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1a8b2a7b35fc8b2",
+  "translation": "おおくの ポケモントレーナーが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03443974f1f78bb9",
+  "translation": "はかせを そんけい しているわ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45e002f29606407e",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cec8e55036f2b00e",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}オーキドはかせは まごの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bda677f434653f8c",
+  "translation": "ナナミと {ENG}{RIVAL}{JPN}と くらしているらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dae0e6c1799b8fc",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c674b988a5838744",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}オーキドは おまえさんに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1312d447516baf8",
+  "translation": "ずいぶん きを かけているようだね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb71d2f552ebf2bc",
+  "translation": "あの じいさんも むかしは つよくて\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c52ab0a260575638",
+  "translation": "いいおとこ だったんだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c9f1294609df5b1",
+  "translation": "だけど それも なんじゅうねんも まえの はなし。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9adcda3b7e41b0ed",
+  "translation": "いまじゃ みるかげも ないね。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c92b2d18d3f89be",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0e6c149ed75b5f8",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}オーキドはかせが もうすぐ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c32bf8807184a303",
+  "translation": "じぶんの ラジオばんぐみを もつんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94dfa91688ec35b5",
+  "translation": "ばんぐみの なまえは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f77558b131e77dc",
+  "translation": "『オーキドはかせの ポケモンこうざ』!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b7669e71d7d1861",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b473a93b1962286",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ナナミさんに ポケモンを みせると\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7c43e79bd496d50",
+  "translation": "どれだけ なついているか わかるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce93762b27e7d907",
+  "translation": "ときどき ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c58d5954a0a801c1",
+  "translation": "けづくろいも してくれるよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0236990bb1bb07f6",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a10a4db8e4a75c2e",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}でも ポケモンに いちばん すかれてるのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "064d19b743d13431",
+  "translation": "ナナミさん だと おもうわ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "433c1103e5255357",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b14382d9ba42fcbc",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}やさしく ポケモンの けづくろいを してた…\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88d4e4862e7c1fe4",
+  "translation": "まるで ちいさな てんし だった。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f5f1805f9b6070f",
+  "translation": "あの おんなのこの なまえは…\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2427f544239d3c30",
+  "translation": "たしか ナナミ だったかな。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3057b111613dfcd5",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9335490fca5235fc",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}オーキドはかせは まごの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7fff87e8b6a3ada",
+  "translation": "ナナミと {ENG}{RIVAL}{JPN}と くらしているらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a824f12271a1f73",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e28d0938f969af6",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}マサラタウンの ナナミさんは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a19f2d29b11bb82",
+  "translation": "まいにち こうちゃを たのしんでるの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7c41d1903aa9040",
+  "translation": "タマムシデパートまで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5c453d373700192",
+  "translation": "こうちゃを かいに いくのよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "166ae160bd2afe66",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b73a146e2817675c",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}はるの ポケモンコンテストの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa43259e406971d3",
+  "translation": "グランドチャンピオンは マサラタウンの\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20fe4ac4e487c2a3",
+  "translation": "オーキド ナナミさん!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c686513d49857844",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ca30cb01b007b5f",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ニビシティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81d629867eb9576e",
+  "translation": "ジムリーダー タケシ\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b887155997fffdc2",
+  "translation": "つよくて かたい いしの おとこ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e15ae87cd577dc78",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "926bbf0d02bc3484",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おれの いわのように かたい いしは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85641aa859f1ea6d",
+  "translation": "おれの ポケモンにも あらわれている。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc8839341a09e0e7",
+  "translation": "おれの ポケモンは みんな いわのように かたく\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73e70c2fde8cea9c",
+  "translation": "ほんものの こんじょうを もっている。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8d7ce6f9a9262b8",
+  "translation": "そう… おれの ポケモンは みんな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8a98b1382225bf8",
+  "translation": "いわタイプ なんだ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46b03a7b90edbf90",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38526668131505cb",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ここには ほんきの ポケモントレーナーは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a8b87f812433364",
+  "translation": "あまり いないんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "237039ff43f70d0d",
+  "translation": "みんな むしとりしょうねん みたいな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1fc0ac91ca1b1e77",
+  "translation": "しゅみで やってる ひとばかり。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "253625f0c143eecb",
+  "translation": "でも ニビジムの タケシは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fba8c8b5a3c0752",
+  "translation": "まったく ちがうんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89d4e6372a1a805c",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "232d4cece52b0829",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}タケシは かっこいい。 つよいだけじゃない。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a52aa390f1c8b96",
+  "translation": "みんなに すかれて そんけい されてる。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "639f01d5943651c6",
+  "translation": "タケシみたいな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c326edd6650961f4",
+  "translation": "ジムリーダーに なりたいな。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "934e42c176532fd7",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22b7d53ef6567be7",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}やあ! ここ おつきみやまで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c02140c65310df50",
+  "translation": "かせきを ほりだしているんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "375cf169ff078cfe",
+  "translation": "ときどき ニビジムの タケシが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9136b1aa497a0327",
+  "translation": "てつだって くれるんだよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbdf54341bfc5f47",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af7310aedcf30563",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}タケシは めったに わらわないが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73e0ed20bb0ec3e3",
+  "translation": "わらいだすと とまらないらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8faa29f471a77df",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3ee557cef17d8de",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ハナダシティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "341ebb85f2d10787",
+  "translation": "ジムリーダー カスミ\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "695e041afd82433e",
+  "translation": "おてんば にんぎょ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4424a97e70f4df4e",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d768882cfdb09c32",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしの ポリシーはね\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab9f0f3f848d7a21",
+  "translation": "みずタイプで ガンガン せめまくることよ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa76c0cb29f09427",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c22f0a684d09abf2",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}カスミは これからも どんどん\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9cb80e0e149b0ccc",
+  "translation": "つよくなる トレーナーさ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a91b2e1312f8cdf",
+  "translation": "きみ なんかには まけないよ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cfb7e0ebdfb98eb",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90b7824a9b5d7512",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}このあたりでは つよい トレーナーや\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68271d3f55a17346",
+  "translation": "みずポケモンが よく みられる。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20f912fba7196ca9",
+  "translation": "ハナダジムの カスミも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb6b7d176d7ad8ef",
+  "translation": "ここで しゅぎょう してるらしいよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e67ea87ca990c3b9",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ff80f91dd8298f8",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}この みさきは ゆうめいな デートスポットなの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e14686105a6d3bb",
+  "translation": "ジムリーダーの カスミも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eeedceff84d0f4d8",
+  "translation": "ここに あこがれて いるのよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1cc93a65e229185b",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9d4945d5f420326",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}カスミは してんのうの カンナを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bff84b47383beb4",
+  "translation": "すうはい しているらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "515fc32d384ddd93",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6fb4ad6185cd68c7",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}クチバシティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f167a1e108f18cfa",
+  "translation": "ジムリーダー マチス\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11f6984c43ef8147",
+  "translation": "イナズマ アメリカン!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a560d7aa1f3d1f66",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0593ddf8402cbf95",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}いいか! でんきポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3a7ad69e3ae779a",
+  "translation": "せんそうで ミーを たすけてくれたのさ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88fc2f589009dec9",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae54e67db090c90c",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ぐんたいに いたころ マチスは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4efa04184d32d82",
+  "translation": "きびしい じょうかん だった。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37547739a7776be4",
+  "translation": "ほんとうに おっかない ひと だったよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fc625b7c3e79829",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c3ef54e2a77987a",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}マチスは ぐんたいでも しんちょうな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d7d1aed725bb56b",
+  "translation": "せいかくで ゆうめい だったんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d931a001a389774",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fdc80bf07d17c57",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ジムの しかけは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b00fbe0da6fc4123",
+  "translation": "マチスが じぶんで つけたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b054370969d364c3",
+  "translation": "どこもかしこも にじゅうロック なんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b949a108d7561ee",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c0e33bdea3f523b",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}マチスは アメリカに いたころ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7da2f7ef517461f1",
+  "translation": "パイロットだった という うわさだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bafa86fa36fb48c",
+  "translation": "ポケモンが つくる でんきで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5088b76fbb89ab72",
+  "translation": "ひこうきを うごかしていたそうだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae0f0897360fdbf4",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a0a646502d405a3",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}タマムシシティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbc0fc850f9317d5",
+  "translation": "ジムリーダー エリカ\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b00ace2fc852152",
+  "translation": "しぜんを あいする おじょうさま!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2744a6fd600a5734",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "664ad21491c4191c",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたくし いけばなを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ccdf8b63c080568",
+  "translation": "たしなんで おりますの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1258f1a14cb6096b",
+  "translation": "わたくしの ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0efea1e73c637f7",
+  "translation": "くさタイプ ばかりですわ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b62f2329bf27bab",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5445fff8e26e2f67",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}うちの リーダー エリカさまは おとなしいけど\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9adb86649415b84",
+  "translation": "このへんでは ゆうめいなのよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05208315eb95f160",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5df6275bfcfd0885",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}うちの ジムでは くさタイプの ポケモンしか\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a5dddd84d5e9dc4",
+  "translation": "つかわないの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36e61598cdb4b69b",
+  "translation": "なぜかって? いけばなにも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e320b02968711b08",
+  "translation": "つかうからよ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8e6a55250547c9b",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53a26deb2c1a4a01",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}うつくしくない ポケモンなんて\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0faa2e03a3cd06e3",
+  "translation": "ぜったいに あつめないわ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1baf3335ef45984d",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb093c940941a052",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}うわさに よると タマムシジムを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c932f41e9bba7535",
+  "translation": "のぞくと よく\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f36f78e53fd9fb8",
+  "translation": "いねむりする エリカが みられるという。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8084a097b48e656",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f65c98f30f76d875",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}セキチクシティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53aa213a6842638e",
+  "translation": "ジムリーダー キョウ\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78beb5ed1dccb616",
+  "translation": "どくの にんじゃ マスター$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31782160658b385a",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee8f3b982f87e4f4",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}どくタイプ ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b95c92806b1f272",
+  "translation": "しのびよる きょうふに ぜつぼう するがいい!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a44358a308b9d3ca",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcf384508bac58f2",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}まけても しゅぎょうは つづけるぞ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1469ae1c3fc28c8e",
+  "translation": "にんじゃの ししょう キョウさまの\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71e9dd8edaab2fa6",
+  "translation": "おしえに したがってな!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93401d7f8121943e",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c83e8f37a7cf83b",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしの ちちうえは この まちの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00dbc6de749c4d8b",
+  "translation": "ジムリーダーです。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04007c8063d004c7",
+  "translation": "わたしも ちちうえのように どくポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "690ac1417e6f1568",
+  "translation": "つかえるよう しゅぎょう ちゅうです。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0fdfe2324972354",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbe7e8d4a473540b",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}キョウは くすりに ついて\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c4123e859e2933d",
+  "translation": "ふかい ちしきを もつという。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d66e4f2779aafb3d",
+  "translation": "ポケモンを かいほう するための\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b57f09809d725f40",
+  "translation": "くすりまで じぶんで ちょうごう するそうだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2046865ecb3f2911",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "119bf99d59879538",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}サファリゾーンって ひろいと\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "899dd01c78b91d79",
+  "translation": "おもわないかい?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61e9b1fb8a18f34d",
+  "translation": "セキチクの ジムリーダー キョウが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "659c63815956866b",
+  "translation": "ときどき みまわりを してるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f04bcdbe09733aa5",
+  "translation": "かれの おかげで ここで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ff01565ac52c140",
+  "translation": "あんしんして あそべるのさ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d15cad2c2d48ffee",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a6e0376b13b1685",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ヤマブキシティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc029bb44140e12c",
+  "translation": "ジムリーダー ナツメ\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f6d0c64d58e9b2a",
+  "translation": "エスパーポケモンの マスター!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d905a7688ec4aa5",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29cfcc654fc7a48f",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ヤマブキシティの おんなの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cc47edc34639c60",
+  "translation": "ジムリーダーを しってるかい?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c464321225bbc1d",
+  "translation": "かのじょは エスパータイプの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "813cff6c2eba949b",
+  "translation": "ポケモンを つかうんだよね?$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7694a7de89b8d743",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97c0eeb551b30095",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしは ちいさい ころから\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26cea24018a49f6b",
+  "translation": "ちょうのうりょくが あったの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb31214b62f80e7d",
+  "translation": "はじまりは なにげなく なげた\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8afed6a73e3d1448",
+  "translation": "スプーンが まがった ことだった。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a0115f0756a9d44",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "636b235d8b7260ec",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}たたかいは すきじゃないけど のぞむなら\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cd43c45df337217",
+  "translation": "わたしの ちからを みせてあげる!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b00c1eee9fba11d5",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4056aee0b832119",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ナツメは バトルちゅう\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd7a79294a4f3f40",
+  "translation": "ことばを つかわずに\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27766782dfedf95a",
+  "translation": "ポケモンと いしそつう できるという。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf3c2f65a2eb6fff",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5b68b8c6edaf002",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ナツメが となりの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a01252fa4588f46c",
+  "translation": "からておうを たおしちゃったんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0faf90fcdc90a0ad",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e58736a77044bdc7",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}グレンじま ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e99914f01a069515",
+  "translation": "ジムリーダー カツラ\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a03444f6adf768f",
+  "translation": "ねっけつ クイズおやじ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60e032f087de19f8",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01ad76cc9e9d08cb",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わしの ほのおポケモンは みな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32615765af848bde",
+  "translation": "はげしい ねつで じゅんび ばんたんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3acc1bd6b32ec36a",
+  "translation": "ちょうせんしゃは みんな やきつくす!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a43d9cb305da1db",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44f0af1f4b617023",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}うちの リーダー カツラさんは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8223edf39fc3d5e4",
+  "translation": "やまで すっかり みちに まよったんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3c4225da0425c55",
+  "translation": "よるに なると ほのおの とりポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b79b9638ce0264a",
+  "translation": "あらわれた。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9edf61ce45adaf2",
+  "translation": "その ひかりの おかげで カツラさんは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "719f20a91ab5a224",
+  "translation": "ぶじに やまを おりられたんだって。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60d0c03b2ddbf105",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a79d29f828da86a",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}グレンジムの カツラさんは かなりの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30144df17411a4ae",
+  "translation": "かわりものよ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4ad92a43379d717",
+  "translation": "けんきゅうじょが できる ずっと まえから\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ac6be3ec7ee0ec4",
+  "translation": "この しまに すんでいるの。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c917fd1b7261672",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "776cce5a2670caae",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}カツラと フジろうじんの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93c46137cffafd70",
+  "translation": "しゃしんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e7a4f22fdbcab3b",
+  "translation": "ふたりで かたを ならべて\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c9c89c61749dd6f",
+  "translation": "にっこり わらっている。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "579fe93ed606eb2a",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "337e0ac47126bc3c",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}カツラが サングラスを はずすのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "129cace6a75f308f",
+  "translation": "あたらしい クイズを\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dba7ba7b7a0a09de",
+  "translation": "かんがえている ときだけ らしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81325db845fd3b7b",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f06a28d4d6ec60d7",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしは してんのうの カンナ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88cae1d7b38d85a6",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f83e4ee126007da",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}こおりポケモンを つかわせたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ebf5738f154b285",
+  "translation": "わたしの みぎに でるものは いないわ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6db6249cf25875e7",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どこで うまれた?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "051a760ef5a03a55",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}この しまからは えらくて つよい\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c657b0dbf478d835",
+  "translation": "トレーナーが そだったんじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a8be713800372e5",
+  "translation": "おまえさんでも しっとるじゃろう。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42cc2965b86e1be2",
+  "translation": "してんのうの カンナじゃよ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12ea60c7fd580267",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4e9efb63d520121",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}りろんてきで けいさんだかく\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c2ae838cb206f67",
+  "translation": "クールな バトルで しられる カンナには\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "091300cf9e37e18a",
+  "translation": "いがいな ひみつが あった!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "744713419d375c32",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d9be46350b5fb75",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ねえ しってる? カンナさんって\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "646871986a720ed0",
+  "translation": "ぬいぐるみを いっぱい もってるの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7924c3ef483862bc",
+  "translation": "4のしまに かえってくる たびに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0e7cdc3773dd0eb",
+  "translation": "コレクションが ふえるんだよ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0d7b87faf4a2415",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8d5cf1fe9880414",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あの こが もっている ラプラスは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c614ad9d3831930a",
+  "translation": "こどもの ころに であった こだと おもうよ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "751ff2c79d684d6a",
+  "translation": "たしか いてだきのどうくつで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a3e0520a1cdc78d",
+  "translation": "つかまえたんだったね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4921974341a28ad",
+  "translation": "その ポケモンは それから ずっと\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c3198efe1d7eec4",
+  "translation": "あの こと いっしょなんだろうね。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fecf8bcf0634eff5",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53f2d4118361c680",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おれは してんのうの シバ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbdebcf9aca111b4",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2fbed95d3895fc0",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おれは かくとうポケモンと ともに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9eaa2ed3678f3aaa",
+  "translation": "いきて きたえてきた!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5dd503a3e5e6245",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e28340a0a6e3d6df",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}シバが してんのうに なったのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45c9c659a12f1ee6",
+  "translation": "さいきょうの トレーナーと たたかいたい\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7dbded60378c7c10",
+  "translation": "という あつい やぼうから らしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e04adc240fefa11",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b2549738f3e926e",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おれの せんぱいの シバさんは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c91403b4bdaa7bf9",
+  "translation": "ときどき おんせんに くるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5be277db80b90fc",
+  "translation": "じぶんと ポケモンの けがを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0053e6c09a8bccd0",
+  "translation": "なおしに くるんだよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec33d8af0ff4f8d4",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e14916e2b5014b02",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}してんのうの ひとりで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b370d81df5c105a6",
+  "translation": "なまえは シバって いうの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84506337de25c579",
+  "translation": "いかりまんじゅうが ぜんぶ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "400ca66a4dc3da65",
+  "translation": "うりきれだって しって\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39b38996e2bf3d21",
+  "translation": "がっかりして かえって いったわ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "995490c2639a7143",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a18887a5156582c",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あの シバさんも…\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8834c9f1ef83376f",
+  "translation": "むかし トウキって なまえの やつと\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "098b517639a9c9c3",
+  "translation": "いっしょに しゅぎょう したんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7230059f2514523",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdc95e155a2bab1f",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あたしは してんのうの キクコ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37d8929e8695b1ab",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c15fc0c74826c36c",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}キクコの ゴーストタイプ ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4523226ff4d0ef48",
+  "translation": "おそろしいほど てごわいんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c822a29d0eb7b3af",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ead965016f5de635",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あの ばあさん すごく\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad62a4b6a4137282",
+  "translation": "きが みじかいんだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c6c3827948c9cba",
+  "translation": "ほんの ちょっとの ことで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b2bfa0f15127788",
+  "translation": "あの こわい ばあさんが どなりだすんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7d94c92bd9cee98",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "399e477c46908953",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わかいころ キクコと オーキド\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb8802f57c78276c",
+  "translation": "はかせは トレーナーとして\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6c185b815b41b3f",
+  "translation": "はけんを あらそう ライバルだった。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a96d6e371633c9aa",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d76683b2e5536f7b",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}オーキドは おまえさんに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4345fff8c4969c3c",
+  "translation": "ずいぶん きを かけているようだね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd93aceb99dbb1dd",
+  "translation": "あの じいさんも むかしは つよくて\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2231050a0efec028",
+  "translation": "いいおとこ だったんだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d808f37fdb584eb",
+  "translation": "だけど それも なんじゅうねんも まえの はなし。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab2534e662d493c7",
+  "translation": "いまじゃ みるかげも ないね。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fffff9c4deb4f67",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac0a2357e4afb299",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}たとえば キクコさん。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37d4af52da43fa5c",
+  "translation": "してんのう しじょう さいこうれいの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11f0caceaba51585",
+  "translation": "きろくを つくったのよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c67f40d29397aec1",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8909f426d19064a",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしは してんのうの リーダー。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0dc1ac436bbb6474",
+  "translation": "ドラゴンつかいの ワタルと\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f026a8a97fe203da",
+  "translation": "よんでくれ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c87d410e7d5a18c",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5b0db7bda186dde",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}しっているだろう? ドラゴンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d451a89a390cbdda",
+  "translation": "しんわに でてくる ポケモンだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a971ae5ddffa66a",
+  "translation": "つかまえるのも そだてるのも むずかしいが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a064792bd69d2e58",
+  "translation": "その ちからは ずばぬけている。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "acefc70a6789a7be",
+  "translation": "ほとんど ふじみと いっていい。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "294adca508adf5bf",
+  "translation": "こざいくは つうじないぞ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8057980418703c05",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "583b3d4a1b7f380e",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}せいぎの みかた!\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba5ce64172dfd081",
+  "translation": "クールで いて あつい!\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "002299b14c4834e3",
+  "translation": "さいこうなの ワタルさま!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd221fd25b587404",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55440b5280519c82",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ワタルさんって おきゃくさんが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8eae6e702662ba2d",
+  "translation": "ときどき くるの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35effd50c0704f4f",
+  "translation": "いつも マントを かっていくのよ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "851f5b7cdd542429",
+  "translation": "もしかして… おうちに おなじ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd5f88cb704b9b21",
+  "translation": "マントが たくさん あるのかしら?$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20b002dae5469cc8",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d31692b56f6bde39",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ワタルの そふは ゆうめいな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "468b938a7e852792",
+  "translation": "ドラゴンつかいの いちぞくの\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62767aa56f39c307",
+  "translation": "ちょうろう だと いわれている。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b99fb90be2753fe",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a57c862d6273411",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}きいた はなしだと ワタルには\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01acbfc627065a3d",
+  "translation": "どこか とおくで ジムリーダーを している\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e443903d21b6687",
+  "translation": "いとこが いるらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d962cecc4154d9b3",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71663291f4218428",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}なにしろ マサキは せかいてきに ゆうめいな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14417c9d9061f25c",
+  "translation": "ポケモンマニア だからな。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfbb73ffdb91b06a",
+  "translation": "パソコンの ポケモン あずかりシステムも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92d32891961448dd",
+  "translation": "あいつが つくったんだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8541c4c2c62ac3c7",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d32edaff517acdd",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}マサキは ポケモンを いっぱい もってるよ!\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c4c015b4bba4824",
+  "translation": "めずらしいのも あつめてるんだ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27e18589f3a0656e",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f7ee30228102629",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あれは わしの まごじゃ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9889c289606191e0",
+  "translation": "こどもの ころから ものを あつめるのが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31048166b60485ef",
+  "translation": "すきだったんじゃよ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38012bb8bb305217",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6db4df37eb37e8b",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}マサキくんは ポケモンマニアだから\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef5dae489dd9478d",
+  "translation": "どんな ポケモンも だいすきなんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "860efa2e0e16dedc",
+  "translation": "さいしょに つかまえたのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "282cefe1e4b4d2d7",
+  "translation": "ケーシィ だったらしいよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65ca13a568938ac7",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61f93e89f2e1f9cc",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}マサキくんの ふるさとは コガネシティで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8e2f18df439f2f3",
+  "translation": "いまも りょうしんが すんでいるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e37bc47af001a4f",
+  "translation": "とても にぎやかで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7d198ac82c73711",
+  "translation": "かっきの ある まちだって きいたよ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ec2e8f9afac1927",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f16549556d3e9330",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}マサキくんは どうも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f7201ea7e7432af",
+  "translation": "ミルクが まったく のめないらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a59814bace9057e",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c6d1c3a8e65501c",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}とっても やさしい ひとなの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33a64c0c7adcd057",
+  "translation": "すてられたり おやを なくした\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2af1d3b195aeed8",
+  "translation": "ポケモンの せわを してるの。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d608aa4bff71054",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bb55a6f3048ce9f",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}この じいさんが おれたちの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9889db72ec4f53f0",
+  "translation": "アジトに のりこんできてな。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52f13d30c3a6c1ea",
+  "translation": "ロケットだんは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f62238997fd8e22",
+  "translation": "ぎゃくたい してるって わめきだすんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00fb07902e2ec487",
+  "translation": "だから おとなどうし\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dbc640e0a5800af",
+  "translation": "はなしあってるってわけさ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ef69d48fe4cd657",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5406d09f662e9f65",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ポケモン ファン マガジン\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4dc77aca7d4bfaf1",
+  "translation": "まいつき だいけんしょう ちゅうせん!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c5b6d0d5d3b4d3e7",
+  "translation": "おうぼようしは…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7cbc7896006e03e",
+  "translation": "ない! きりとられている。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b86a1d9d7fc22f8",
+  "translation": "だれかが もう おうぼ したようだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b34a5d7d12c8a210",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}こんな うわさが…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e77e10344d3e898",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}フジろうじんも もともと\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "226991820e8ce563",
+  "translation": "この あたりの ひとじゃ ないらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a17922997cd47bd4",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f9a9110a0953bd6",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}カツラと フジろうじんの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ac9fe31de5b9885",
+  "translation": "しゃしんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60f0b3bdf4814af1",
+  "translation": "ふたりで かたを ならべて\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b99808f54430994",
+  "translation": "にっこり わらっている。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2a880b170d94f62",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0f743c994f4f46c",
+  "translation": "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}へんしゅうぶ: はずかしがりやの フジろうじんに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43595bef3fa8883f",
+  "translation": "しゅざいを ことわられてしまった。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0492ae741ba21988",
+  "translation": "シオンタウンで したわれ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74efc000f5e6192a",
+  "translation": "そんけい されている やさしい ひとだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b6b9fb901f14314",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06b1a26f4e64c72b",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ロケットだんは せかいじゅうの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f28a32c4fe459cdb",
+  "translation": "ポケモンを つかまえている。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3a87d8140fb05c7",
+  "translation": "われわれの はんざいビジネスを ささえる\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90ea96c235532d8e",
+  "translation": "だいじな どうぐ なのだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f334d588d92fd7c2",
+  "translation": "わたしが ボスの サカキだ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "077208c4d40144fc",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}すきな ポケモンは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2456d6b5fe1482b6",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}うちの ビルを のっとった\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9ed4f76bfc57a21",
+  "translation": "あの ならずものたち…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23bd540074ec0ac9",
+  "translation": "やつらの ボスは つよい ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33126206e86b8a8d",
+  "translation": "さがしていると いっていた。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3181bbdd1d6b827b",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}どんな ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa7c3d485c4716f2",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ロケットだんの ボスは ひどく\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d776ba9940bf2046",
+  "translation": "ざんこくだ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "612e780ea63f4a68",
+  "translation": "やつにとって ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b225c936f5fb8cc1",
+  "translation": "つかう ための どうぐに すぎない。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90dd70794ba1d57f",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c155a16c9ef4ccd3",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしの アジトへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0dde321476a41f8",
+  "translation": "ロケットだんを かつての えいこうに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b363de648748f3ef",
+  "translation": "もどすまで ここは このままだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e739a941c0c20e20",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}なにを している ひと?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a40ad9569c13670",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おどろいた! サカキが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62930e86a093c944",
+  "translation": "トキワの ジムリーダー だったって?$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09d6f5a81005a35f",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}かぞくや ともだちは?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb80482b8fee8868",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おまえ… まさか サカキの こどもじゃ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5567848d88f7312e",
+  "translation": "ないよな?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a358c0bfe9d9d172",
+  "translation": "いや そんな はずはない。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ab65ec6471a7c78",
+  "translation": "サカキの こどもは あかい かみだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c9821d251698987",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}オーキドはかせ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f01ae6d7cf43f25",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}オーキドはかせ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69b430f769a66d34",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6420c349247a565",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ポケモンが なぜ きみの ために\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c2871a557123885",
+  "translation": "いっしょうけんめい たたかうのか?\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fe75148b827df02",
+  "translation": "それは ポケモンたちが きみの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "049d7a9120f1bd02",
+  "translation": "あいじょうと しんらいを\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "945f43d4165b01c5",
+  "translation": "かんじて いるからじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77531d6b7e72a59e",
+  "translation": "それを わすれては いかんぞ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "349ae7346decee03",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}ナナミ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25d30920d7d3049d",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}ナナミ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "953fb744e0e92bf1",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18dc957fcab05e94",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしが のんびり おちゃを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7695136234bb99b5",
+  "translation": "たのしんでいる あいだに\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "410f17b81cbadce3",
+  "translation": "あなたは とても つよく なったのね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f3c88131f614a26",
+  "translation": "これからも おとうとの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8124d10be935a0a1",
+  "translation": "いい ライバルで いてね。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2f690bc535214e6",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}タケシ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7889db90cf351bf",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}タケシ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13fce932a1512205",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da04f313e2d5c309",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}この ひろい せかいには\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f956cc8d1566f7f0",
+  "translation": "つよい トレーナーが たくさん いるはずだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bf4c09b33794c6a",
+  "translation": "おたがい しゅぎょうして\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35d408de96bc715a",
+  "translation": "もっと つよく なろう!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44e3055f45894872",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}カスミ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23654a0697e0d67e",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}カスミ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e5f1e5cf18f2af0",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f69c813577eb69ba",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたし この ジムで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71cc197c78e2b791",
+  "translation": "しゅぎょうを つづけるわ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23d666b3d02dfcf7",
+  "translation": "もっと つよく なったら\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2b992522f0c4404",
+  "translation": "たびに でて みたいな。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91d35bf74195d358",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}マチス$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d28093dfa7c51655",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}マチス より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7733c190cf785b88",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28f10b4c1326b1f1",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}ヘイ ユー!\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f14d266e3276729",
+  "translation": "ユーとの バトルは シビれたぜ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f785abebe1d19688",
+  "translation": "ユーみたいな ガッツのある\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a49ff60e847679f9",
+  "translation": "トレーナーが いるとはな。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11b66b4cc3e8c211",
+  "translation": "ユーの ことを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1725bb129253a92",
+  "translation": "みなおしたぜ!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4250cdc564a6ded",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}エリカ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47d71ccda8792232",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}エリカ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c69b817e17648e87",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dfd05f5536ff0661",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あなたのような つよい\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f2a85b7d7cb801b",
+  "translation": "トレーナーが いて うれしいですわ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afaf87096b0040b1",
+  "translation": "そう おもうだけで わたくしも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7429acc3da0f482",
+  "translation": "もっと がんばろうと おもえますの。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea84b088c5243624",
+  "translation": "また あそびに いらしてね。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21c5844a8ca638aa",
+  "translation": "ぐう ぐう…$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc9feb04387690a2",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}キョウ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "952356b799c3a5e6",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}キョウ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4e32e5648b41562",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "312a44d6842d1dfe",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おぬしも せっしゃも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20eb020424f08835",
+  "translation": "さらに たかみを めざし\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34cae594449a6e9f",
+  "translation": "ちょうせんに いどまねば ならぬ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9ad3654e98dad7e",
+  "translation": "では せっしゃは むすめを きたえに まいる。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1cd064894e71c1c",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}ナツメ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b5b4f19a806e6af",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}ナツメ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "290f86d072cc7c67",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31bc925cb2e2c04d",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あなたが ポケモンに むける\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ceeedb068e784fa4",
+  "translation": "あいじょう…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4bf5b9cd05e2307",
+  "translation": "それは わたしの ちょうのうりょくでも\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d3707110d2adf23",
+  "translation": "かなわない ちからだった。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5998bcf1712670c8",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}カツラ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c55866643f282eca",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}カツラ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e176331db20da800",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f77fd6d771fc3826",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わしの ほのおポケモン!\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f98632088a70442a",
+  "translation": "もっと もっと つよく なるぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abc4d6814b026362",
+  "translation": "では ここで クイズじゃ。\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7551241191b62bfe",
+  "translation": "ほのおタイプの ポケモンは なんしゅるい いる?$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c57f73e32033a4a9",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}カンナ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2502793eea9f7164",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}カンナ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbdb728f7bd7b684",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "917ca814820bae4f",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}あなたには おれいを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f7dc66595c85a2e",
+  "translation": "いわなくちゃね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30255b99740ecdc0",
+  "translation": "でも それと バトルは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14a80bbf40d209f9",
+  "translation": "べつの はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f8ac8c490b89558",
+  "translation": "つぎは かくごして おきなさい!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68f12de62b584ab0",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}シバ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "149e4980e8493333",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}シバ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0df4dd58761f9c8d",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "832778354961522f",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}おまえと ポケモンの すごい ちからは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd2f8095b00bd5c7",
+  "translation": "この みで たしかに あじわった。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bb0ee339c45a2b3",
+  "translation": "つぎは おまえ じしんの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffaa00dbd43ae280",
+  "translation": "きたえかたを おしえて やろうか。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4204547759915974",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}キクコ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c7cbb6cf271a8eb",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}キクコ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd75786847cfed1d",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37b079218fa96221",
+  "translation": "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}としを とっても あの オーキドの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f670c7cae940d3b",
+  "translation": "じじいみたいに なまるんじゃ ないよ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29de42555caca2a6",
+  "translation": "あたしみたいに たたかいつづけな!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ec50e52e75487b1",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}ワタル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7705b2072f2f1e5",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}ワタル より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "991505fb52fbc528",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3123b3c9db4f2ecf",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}わたしは ふるさとに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ddcd21a8ffbcf53",
+  "translation": "かえろうと おもっている。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e81350965f889f7a",
+  "translation": "ドラゴンタイプの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16cb04742bd8da0d",
+  "translation": "きたえなおして つよく したいのだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e91eeb6c443235e9",
+  "translation": "いつか きみを わたしの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd9f29cf15df8582",
+  "translation": "ふるさとに まねきたい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9981bfab1fc492ea",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}マサキ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0518ebf49a158cb3",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}マサキ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d63b7490cc0fed88",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b4c5e2971944a35",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}やあ! ニシキが きみのこと\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e089463ae724bf32",
+  "translation": "ほめてばっかり やったで。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba397e444438e4e4",
+  "translation": "それ きいて ワイも うれしいわ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a0b3f952e4a290f",
+  "translation": "めずらしい ポケモン つかまえたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f0eb5a27311edbb",
+  "translation": "みせに きてや! やくそくやで!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0460ffe49ca0000",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}フジろうじん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "788af7826f0c7625",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}フジろうじん より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1403562c416cbe8",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9169cc9d35816146",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}じぶんの ポケモンだけの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c94c1041065a994",
+  "translation": "しあわせを ねがうのではなく…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7731c0661ec3d789",
+  "translation": "…すべての ポケモンの しあわせを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4af70815eb630359",
+  "translation": "ねがって もらえないかね?$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "035620c4e46609a7",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}サカキ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13b304fe53822ed2",
+  "translation": "{JPN}{COLOR BLUE}{SHADOW LIGHT_BLUE}サカキ より\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ed77f4ac1823bd0",
+  "translation": "{ENG}{PLAYER}{JPN}へ\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bda7a38fc7c95c1",
+  "translation": "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}きみに いうべき ことは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be6b18bf24744f89",
+  "translation": "なにもない。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a1e25ba4a956487",
+  "translation": "わたしは ただ じぶんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7b0faf785c2b9d9",
+  "translation": "みがくことに しゅうちゅうする。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "647e819a36ef35b0",
+  "translation": "{JPN}マサラタウン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3447ac507b6081a7",
+  "translation": "{JPN}けんきゅうじょ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "760c26cd79f1c9ef",
+  "translation": "{JPN}けんきゅうじょ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0ab3f02a69ddf2c",
+  "translation": "{JPN}トキワシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dabb92d7adcf69e5",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b81834e7601eb95",
+  "translation": "{JPN}けんきゅうじょ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff72523400faf3ab",
+  "translation": "{JPN}けんきゅうじょ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f3bcc3fb8e38efc",
+  "translation": "{JPN}クチバシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f87eaefc6afdce2e",
+  "translation": "{JPN}みずのめいろ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76ef7180cf057fb7",
+  "translation": "{JPN}トキワシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f4fc919fc889267",
+  "translation": "{JPN}タマムシマンション$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a76d2167375a2f89",
+  "translation": "{JPN}4のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa74193cd5692941",
+  "translation": "{JPN}ニビシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc61b80bc0dabea9",
+  "translation": "{JPN}ニビジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9589c9dbc6512d5a",
+  "translation": "{JPN}ニビシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0bc1dd7b5368a2d",
+  "translation": "{JPN}4ばんどうろ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06765f4c18cb294a",
+  "translation": "{JPN}おつきみやま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ecc3a5cd5dee1b7",
+  "translation": "{JPN}ニビはくぶつかん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "265d9b212289cc87",
+  "translation": "{JPN}ハナダシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6fe0ab1302f22094",
+  "translation": "{JPN}ハナダジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35c093219f4d03d5",
+  "translation": "{JPN}ハナダジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81d3c614642531b8",
+  "translation": "{JPN}ふたごじま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16a36cf00307006f",
+  "translation": "{JPN}ハナダのみさき$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4022f38d97ae95c",
+  "translation": "{JPN}ハナダシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "749ebe1eccaebd5b",
+  "translation": "{JPN}クチバシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8477547d4843286d",
+  "translation": "{JPN}クチバジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a08336288ab64523",
+  "translation": "{JPN}クチバジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b127e36da01d8697",
+  "translation": "{JPN}クチバジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24e3de9d0cf9d5e2",
+  "translation": "{JPN}クチバジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d45d197cbcdf4e22",
+  "translation": "{JPN}クチバシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "acdb5a864cb04ab2",
+  "translation": "{JPN}タマムシシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8c1e68c6a103f8f",
+  "translation": "{JPN}タマムシジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94717312017e3463",
+  "translation": "{JPN}タマムシジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a798633ab51552ad",
+  "translation": "{JPN}タマムシジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "648acb8f94c73faf",
+  "translation": "{JPN}タマムシジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "961af0c534405f63",
+  "translation": "{JPN}タマムシマンション$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aedc1a6977f06b4d",
+  "translation": "{JPN}セキチクシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1f67af1be2f872d",
+  "translation": "{JPN}セキチクジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4664647fba906269",
+  "translation": "{JPN}セキチクジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e48b9306f2ccfdbe",
+  "translation": "{JPN}セキチクシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ac6393e4332088f",
+  "translation": "{JPN}セキチクシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16c0f12f3b806351",
+  "translation": "{JPN}サファリゾーン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86c102180f3d396a",
+  "translation": "{JPN}ヤマブキシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7af4efdb9d82562b",
+  "translation": "{JPN}3のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f4498becf5d0140",
+  "translation": "{JPN}ヤマブキジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b99bdd7d5db1949c",
+  "translation": "{JPN}ヤマブキジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22f9261670982feb",
+  "translation": "{JPN}ヤマブキシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05f5c437092610d0",
+  "translation": "{JPN}ヤマブキジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95f7f4e4e483202a",
+  "translation": "{JPN}グレンじま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43436e2acd9d1be2",
+  "translation": "{JPN}グレンジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19b0c1cb226aa70a",
+  "translation": "{JPN}グレンジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f6539d831d17c7d",
+  "translation": "{JPN}グレンじま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb0456e416d5e00d",
+  "translation": "{JPN}グレンジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1cccaf373917161",
+  "translation": "{JPN}ゴージャスリゾート$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa104991941ed82a",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b7adad065f4359d",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fe268fd2116c4e3",
+  "translation": "{JPN}4のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2fea62d8a4debe29",
+  "translation": "{JPN}5のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ccdd512d620d985",
+  "translation": "{JPN}4のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3707427254b1bad3",
+  "translation": "{JPN}4のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66578ca83ff269ad",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ef92d1dabcb3566",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84fa0bb5c9d85686",
+  "translation": "{JPN}ヤマブキシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a63c2cabeb3f6845",
+  "translation": "{JPN}ともしびおんせん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab75751089fe2b7d",
+  "translation": "{JPN}2のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53a6627c09ec7ed0",
+  "translation": "{JPN}トレーナーズけいこく$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "145af2b3d94410f2",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bed0b4c5b07b77c9",
+  "translation": "{JPN}セキエイこうげん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e6e1d154d124bbb",
+  "translation": "{JPN}セキエイこうげん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca7c742fbb3d78d1",
+  "translation": "{JPN}7のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e268ab01aa6c85a6",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbf16b2638dfe763",
+  "translation": "{JPN}6のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1dcf34c53d940a25",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e99b04f19462f2d0",
+  "translation": "{JPN}ポケモンリーグ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50c3b8588163450f",
+  "translation": "{JPN}ヤマブキシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1d2911e1a0ac6a1",
+  "translation": "{JPN}タマムシデパート$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0c3fea222ae118c",
+  "translation": "{JPN}セキエイこうげん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00e37d978c586e5a",
+  "translation": "{JPN}セキエイこうげん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f935e9c109f242f1",
+  "translation": "{JPN}ハナダシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fb6b8384ebd8f3f",
+  "translation": "{JPN}ハナダシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "886dd79ed2ec6e50",
+  "translation": "{JPN}セキチクシティ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b5eeaa11ac560b4",
+  "translation": "{JPN}1のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8e5cac8f1756a53",
+  "translation": "{JPN}1のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "360f3100ebddab97",
+  "translation": "{JPN}1のしま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "824a6d5afdbf03f3",
+  "translation": "{JPN}シオンタウン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "374edf90cab2f8ba",
+  "translation": "{JPN}ポケモンタワー$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c73078a27678aaa",
+  "translation": "{JPN}シオンタウン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e4f68309a2b80a6",
+  "translation": "{JPN}シオンタウン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9995ed3cc74a825b",
+  "translation": "{JPN}グレンジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b81136c2422e1c77",
+  "translation": "{JPN}グレンじま$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aab3507b2ddb9de5",
+  "translation": "{JPN}ロケットだんアジト$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a371395c04ecbd1",
+  "translation": "{JPN}シルフカンパニー$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60ddd42872366551",
+  "translation": "{JPN}シルフカンパニー$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f235a22e66891a57",
+  "translation": "{JPN}トキワジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9be5ed14ededf229",
+  "translation": "{JPN}トキワジム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f31b5a2433a2cf1d",
+  "translation": "{JPN}ロケットだんそうこ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fab8c66773b40d6b",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56f29de9e99772dd",
+  "translation": "{JPN}オーキドはかせ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b52f57324fd2b426",
+  "translation": "{JPN}じょしゅ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c246f0c2d2b922e7",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b85d493879bb99d",
+  "translation": "{JPN}キクコ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc4fe133b9c0e007",
+  "translation": "{JPN}じょしゅ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e59258d41161164",
+  "translation": "{JPN}じょしゅ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43a211a2c101afa8",
+  "translation": "{JPN}おねえさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d421a44acb1bc76",
+  "translation": "{JPN}おじさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "446a8846ecf0c733",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0e89ebb87e60db3",
+  "translation": "{JPN}おばあさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cde28c6fcb0d7f2",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae30a74197d9d218",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "efed690511a28d38",
+  "translation": "{JPN}タケシ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a2a01f7d3dc8291",
+  "translation": "{JPN}おにいさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d59827434bf89861",
+  "translation": "{JPN}しょうねん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a62979594ca4374",
+  "translation": "{JPN}おじさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c53c571e65d40786",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9448ba8b4f624e40",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e67254967daf3e3",
+  "translation": "{JPN}カスミ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c70231a2999f5a20",
+  "translation": "{JPN}ルイス$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6269cd9861f13ace",
+  "translation": "{JPN}おにいさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "147dfbbf41f3d997",
+  "translation": "{JPN}マダム$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67aa16ab9eaebf13",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "840c768db61b5080",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6973838fbc0c9799",
+  "translation": "{JPN}マチス$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2fac577edeaea19e",
+  "translation": "{JPN}タッカー$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d7c3ed8b2119b9b",
+  "translation": "{JPN}タッカー$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4243b27c84ddf4c",
+  "translation": "{JPN}ドウェイン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ac973b1dce9ce49",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93d2e158bdc70f02",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a2b7a9eb1470169",
+  "translation": "{JPN}エリカ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fcdb842b5ac989d",
+  "translation": "{JPN}ローラ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28ec330ee9f62eef",
+  "translation": "{JPN}タミア$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffc2635b624324fc",
+  "translation": "{JPN}エリカ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a692c53bbdd0cb1",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f08abcd7a6f8be1a",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "682efba7143a9fef",
+  "translation": "{JPN}キョウ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "249e18668ffaa992",
+  "translation": "{JPN}カーク$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8604e0350e4b52c8",
+  "translation": "{JPN}シャリーン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c26e4566207d4c4",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ac51d5c2a852492",
+  "translation": "{JPN}おじさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb4a6602046a5a52",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6eff42855b9efbe7",
+  "translation": "{JPN}おにいさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55109365b52d8b52",
+  "translation": "{JPN}ナツメ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05ec9ecae0de0e5f",
+  "translation": "{JPN}ナツメ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aea700dc48793be0",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09e9f774c24a2d27",
+  "translation": "{JPN}タイロン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01934f8f6428b3c3",
+  "translation": "{JPN}かんばん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff2cc094c81b7aba",
+  "translation": "{JPN}カツラ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "091f5d650fee08b9",
+  "translation": "{JPN}デレク$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63d2edba05296012",
+  "translation": "{JPN}おねえさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "435fd6d9ca7ed32e",
+  "translation": "{JPN}しゃしん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e9836d8027aebfe",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8745509ebedff3aa",
+  "translation": "{JPN}カンナ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1872d9c91f57b9fd",
+  "translation": "{JPN}カンナ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7942649ba7e1b448",
+  "translation": "{JPN}おじいさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f4479feab1acf39",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8176cf960227125c",
+  "translation": "{JPN}おんなのこ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf5d4e3fb30f1e6f",
+  "translation": "{JPN}おばあさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16d5ff319417d018",
+  "translation": "{JPN}シバ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b35c533d5cb0888",
+  "translation": "{JPN}シバ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de99f71b2e3d9538",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1eb5caf999393bf6",
+  "translation": "{JPN}からておう$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e16a9a92aa82ee3",
+  "translation": "{JPN}おねえさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5c8f077fd8fd48c",
+  "translation": "{JPN}からておう$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e320c7a2487604f0",
+  "translation": "{JPN}キクコ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8469ec15278ec455",
+  "translation": "{JPN}からておう$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70d77a6475c3434d",
+  "translation": "{JPN}からておう$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfc3a7288846018e",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b158b728736d603",
+  "translation": "{JPN}キクコ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69762d3af5fbe39f",
+  "translation": "{JPN}おばあさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92f45da8f4cfa71d",
+  "translation": "{JPN}ワタル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab11a41dcfd61ada",
+  "translation": "{JPN}ワタル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "134e958d9f2f5240",
+  "translation": "{JPN}おねえさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3d4dee0b6f749c0",
+  "translation": "{JPN}おんなのこ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f51563621297903",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e78b08eaf09735ea",
+  "translation": "{JPN}おにいさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6391e88d16238563",
+  "translation": "{JPN}{ENG}{RIVAL}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83bd192526f10585",
+  "translation": "{JPN}おとこのこ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0ff0763a9b70848",
+  "translation": "{JPN}おじいさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7e7495b20f1508b",
+  "translation": "{JPN}ニシキ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "516bb3b65dfa9d2d",
+  "translation": "{JPN}ニシキ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff8c427f624808f7",
+  "translation": "{JPN}ニシキ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4775757b7b0647d8",
+  "translation": "{JPN}おんなのこ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fad97307aceceb62",
+  "translation": "{JPN}ロケットだん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29371953587e0c68",
+  "translation": "{JPN}ざっし$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa11ed28624046c7",
+  "translation": "{JPN}おじさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6beab679c861fa72",
+  "translation": "{JPN}しゃしん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a215248fba684d0",
+  "translation": "{JPN}ポケモンジャーナル$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48f731f293825dfe",
+  "translation": "{JPN}サカキ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddf30e53ad14b650",
+  "translation": "{JPN}けんきゅういん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc7fcdbd7c68d53b",
+  "translation": "{JPN}けんきゅういん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3186242b53cd3085",
+  "translation": "{JPN}サカキ$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb9b4e25697b2d09",
+  "translation": "{JPN}おじさん$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "063d326a957ab84e",
+  "translation": "{JPN}ギデオン$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18b77febeb5f5ba6",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54350f2483d2c1f5",
+  "translation": "とくしゅう: ニビジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4725b568a8ea7c6b",
+  "translation": "ジムリーダー タケシ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a29e126f3725004e",
+  "translation": "タケシは めったに わらわないが\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f906a179a823256e",
+  "translation": "わらいだすと とまらないらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2002c6f0d48062bd",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8baba660d4c522cd",
+  "translation": "とくしゅう: ハナダジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c8881926d2898e7",
+  "translation": "ジムリーダー カスミ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05efd7871d6d167c",
+  "translation": "カスミは してんのうの カンナを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d58e3896638c48e6",
+  "translation": "すうはい しているらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2760f0392e5fd0b6",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9bde43c54287118",
+  "translation": "とくしゅう: クチバジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee1fbfc78fc88c6c",
+  "translation": "ジムリーダー マチス!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e44a573867dee54",
+  "translation": "マチスは アメリカに いたころ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b04cc74672ea9e71",
+  "translation": "パイロットだった という うわさだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0b8575662f3a302",
+  "translation": "ポケモンが つくる でんきで\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41650efc581aa3ff",
+  "translation": "ひこうきを うごかしていたそうだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b1ab23b3f6e6915",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "444c46ad2e354e96",
+  "translation": "とくしゅう: タマムシジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c347923ad8ef5c9e",
+  "translation": "ジムリーダー エリカ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "363d049f40a29229",
+  "translation": "うわさに よると タマムシジムを\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9c5544066e22c93",
+  "translation": "のぞくと よく\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b348e8549d3f33d",
+  "translation": "いねむりする エリカが みられるという。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dfb0b1bd45abf6c1",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbb36b270ed0e535",
+  "translation": "とくしゅう: セキチクジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "629df2a07ef3494a",
+  "translation": "ジムリーダー キョウ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce13f3ace80ae65b",
+  "translation": "キョウは くすりに ついて\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8d0e71d962c96a2",
+  "translation": "ふかい ちしきを もつという。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af8d8defc1a8b4b4",
+  "translation": "ポケモンを かいほう するための\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "208ac0e84929413f",
+  "translation": "くすりまで じぶんで ちょうごう するそうだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cc6ddce918e50a8",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7251fff1961ee521",
+  "translation": "とくしゅう: ヤマブキジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "904417a0fcfbf675",
+  "translation": "ジムリーダー ナツメ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18c7d65065eaa9de",
+  "translation": "ナツメは バトルちゅう\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34f35e2817f4985a",
+  "translation": "ことばを つかわずに\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dce81f25ae0b7705",
+  "translation": "ポケモンと いしそつう できるという。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d84314ab8150d34d",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1719421fce36b9d8",
+  "translation": "とくしゅう: グレンジム\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d6627eab99f1289",
+  "translation": "ジムリーダー カツラ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc00d37933d1cd0d",
+  "translation": "カツラが サングラスを はずすのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ef251b7cbff27b2",
+  "translation": "あたらしい クイズを\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdca864e5f7ad43d",
+  "translation": "かんがえている ときだけ らしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22b78934db3139b3",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bcbaf008e6e097b",
+  "translation": "とくしゅう:\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d0deb8edb20afe5",
+  "translation": "してんのうの カンナ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a0207439921d8e0",
+  "translation": "りろんてきで けいさんだかく\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3442ed9b640c8706",
+  "translation": "クールな バトルで しられる カンナには\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f427ab822859e3f0",
+  "translation": "いがいな ひみつが あった!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7043d953b5bf431",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b7a0158c664b04a",
+  "translation": "とくしゅう:\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93455f9e49fd0534",
+  "translation": "してんのうの シバ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e860666123986a8",
+  "translation": "シバが してんのうに なったのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "425797b24da900a7",
+  "translation": "さいきょうの トレーナーと たたかいたい\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b6e572f3fd4a178",
+  "translation": "という あつい やぼうから らしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74e1a89997ad547d",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4facd3f6ea2b1a02",
+  "translation": "とくしゅう:\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1554db330bea5f7",
+  "translation": "してんのうの キクコ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f1199f7599f6f47",
+  "translation": "わかいころ キクコと オーキド\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "689a9ce004e0a7b6",
+  "translation": "はかせは トレーナーとして\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30fab82439738aba",
+  "translation": "はけんを あらそう ライバルだった。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "846e933fd408aa17",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da55bfe723c798b6",
+  "translation": "とくしゅう:\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc05d51480f7a7f3",
+  "translation": "してんのうの ワタル!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87945a7782c0c9ba",
+  "translation": "ワタルの そふは ゆうめいな\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b85ff9abd30f90a8",
+  "translation": "ドラゴンつかいの いちぞくの\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d842b14beff0548e",
+  "translation": "ちょうろう だと いわれている。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "334b9b0091461e2d",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d2503a2c5de04d0",
+  "translation": "とくしゅう: オーキドはかせ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a84d56753dd4a57c",
+  "translation": "ポケモンの けんきゅうしゃ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95a4a6987dbb0fde",
+  "translation": "オーキドはかせは まごの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b53aa1a481f4c5f",
+  "translation": "ナナミと {ENG}{RIVAL}{JPN}と くらしているらしい。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07a757ca23cd81d5",
+  "translation": "{JPN}なんねんも まえの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37e891e746b0523e",
+  "translation": "ポケモンジャーナルだ…\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec2f8488a1ddce7a",
+  "translation": "ポケモンジャーナル\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cbe71eecbbb44e2",
+  "translation": "コンテスト とくしゅう!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ecb0ff88a6e8479",
+  "translation": "はるの ポケモンコンテストの\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d353639c6d01e8c",
+  "translation": "グランドチャンピオンは マサラタウンの\\l",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53e6c1f798316aac",
+  "translation": "オーキド ナナミさん!$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e730ea0e67fa60e7",
+  "translation": "{JPN}ポケモンジャーナル\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fc2202eab5b2180",
+  "translation": "とくしゅう:\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32b4458fc38d38fc",
+  "translation": "ポケモンハウスの フジろうじん!\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f27a00ab479bd1e",
+  "translation": "へんしゅうぶ: はずかしがりやの フジろうじんに\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cd8fce32ed7d26d",
+  "translation": "しゅざいを ことわられてしまった。\\p",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40a877f069abc6db",
+  "translation": "シオンタウンで したわれ\\n",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3decd9e836f5ba4e",
+  "translation": "そんけい されている やさしい ひとだ。$",
+  "provenance": {
+   "batch": "dialogue-text-famechecker-102",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

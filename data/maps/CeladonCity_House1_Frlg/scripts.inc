@@ -14,18 +14,18 @@ CeladonCity_House1_EventScript_Rocket2::
 	end
 
 CeladonCity_House1_Text_SlotsReelInTheDough::
-	.string "Hehehe!\p"
-	.string "The slots just reel in the dough,\n"
-	.string "big-time!$"
+	.string "{JPN}へっへっへ!\p"
+	.string "スロットは がっぽり かねが\n"
+	.string "はいってくるぜ!$"
 
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
-	.string "CHIEF!\p"
-	.string "We just shipped two thousand\n"
-	.string "more POKéMON as slot prizes\l"
-	.string "again today!$"
+	.string "{JPN}ボス!\p"
+	.string "きょうも また スロットの けいひんとして\n"
+	.string "ポケモンを 2000ひき\l"
+	.string "しゅっか しました!$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::
-	.string "Don't touch the poster at the GAME\n"
-	.string "CORNER!\p"
-	.string "There's no secret switch behind it!$"
+	.string "{JPN}ゲームコーナーの ポスターには\n"
+	.string "さわるなよ!\p"
+	.string "うらに ひみつの スイッチなんて ないぞ!$"
 

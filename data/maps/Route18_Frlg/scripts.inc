@@ -28,42 +28,42 @@ Route18_EventScript_CyclingRoadSign::
 	end
 
 Route18_Text_WiltonIntro::
-	.string "I always check every grassy area\n"
-	.string "for new POKéMON.$"
+	.string "{JPN}あたらしい ポケモンを もとめて\n"
+	.string "くさむらは ぜんぶ チェックしてるんだ!$"
 
 Route18_Text_WiltonDefeat::
-	.string "Tch!$"
+	.string "{JPN}ちぇっ!$"
 
 Route18_Text_WiltonPostBattle::
-	.string "I wish I had a BIKE!$"
+	.string "{JPN}じてんしゃが あったらなあ!$"
 
 Route18_Text_RamiroIntro::
-	.string "Kurukkoo!\n"
-	.string "How do you like my birdcall?$"
+	.string "{JPN}クルックー!\n"
+	.string "ぼくの とりの なきまね どうだい?$"
 
 Route18_Text_RamiroDefeat::
-	.string "I had to bug you!$"
+	.string "{JPN}ちょっと からかいたかったんだ!$"
 
 Route18_Text_RamiroPostBattle::
-	.string "I collect sea POKéMON on weekends\n"
-	.string "because the sea is so close.$"
+	.string "{JPN}うみが ちかいから しゅうまつは\n"
+	.string "うみの ポケモンを あつめてるんだ。$"
 
 Route18_Text_JacobIntro::
-	.string "This is my turf!\n"
-	.string "Get out of here!$"
+	.string "{JPN}ここは おれの なわばりだ!\n"
+	.string "とっとと でていけ!$"
 
 Route18_Text_JacobDefeat::
-	.string "Darn!$"
+	.string "{JPN}くそっ!$"
 
 Route18_Text_JacobPostBattle::
-	.string "This is my fave area for catching\n"
-	.string "POKéMON.$"
+	.string "{JPN}ここは ポケモンを つかまえるのに\n"
+	.string "おきにいりの ばしょなんだ。$"
 
 Route18_Text_RouteSign::
-	.string "ROUTE 18\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "{JPN}ここは 18ばんどうろ\n"
+	.string "タマムシシティ - セキチクシティ$"
 
 Route18_Text_CyclingRoadSign::
-	.string "CYCLING ROAD\n"
-	.string "No pedestrians permitted!$"
+	.string "{JPN}サイクリングロード\n"
+	.string "ほこうしゃの つうこうは きんし!$"
 

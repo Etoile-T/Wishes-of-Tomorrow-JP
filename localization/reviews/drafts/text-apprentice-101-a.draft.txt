@@ -1,0 +1,765 @@
+##### data/text/apprentice.inc
+## gText_ApprenticeChallenge0::
+bec94e645ba042d6	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+f58b4e2c18c81369	です… ぐすん きんちょう しちゃう…$
+## gText_ApprenticeChallenge1::
+e33033ca46aecb0e	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+90d734e3be3bad68	です! いきますよー!$
+## gText_ApprenticeChallenge2::
+44fd998d08484198	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+b5fb666e6b38c1eb	だ! しょうぶを うけて もらおう!$
+## gText_ApprenticeChallenge3::
+c0f22747e48569d6	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+60be655c727e8682	です… わたしなんかが かてるかな?$
+## gText_ApprenticeChallenge4::
+ee17dc69ceaf3502	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+9e03b8b31c72a7c9	よ! ちょうせん させて あげるわ!$
+## gText_ApprenticeChallenge5::
+f1f9ce95b37079e9	すごく いそがしいけど じつは わたし\n
+c340a1123cc8b8f3	{STR_VAR_1}の {STR_VAR_2}ばんでし$
+## gText_ApprenticeChallenge6::
+e4e9bd4588428395	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+7653fab634bab297	です! よろしくね!$
+## gText_ApprenticeChallenge7::
+40c5f4727c7de4f7	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+5245697658ecd7c0	です。 はじめて よろしいですか?$
+## gText_ApprenticeChallenge8::
+75f508c026c695a4	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+2bf44873476d1574	です! きゃー! がんばります!$
+## gText_ApprenticeChallenge9::
+6b535d07e9c69696	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+d4ca83f05a5f993b	だ! イーハー! かかってこい!$
+## gText_ApprenticeChallenge10::
+b0fdb54a55e02890	{STR_VAR_1}の 1000ばんめの でし!\n
+9f65e856777bfbdc	ほんとは {STR_VAR_2}ばん! いくよ!$
+## gText_ApprenticeChallenge11::
+5ccf2d07593c106f	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+412604a717417f41	だぜ イエイ! ロックンロール!$
+## gText_ApprenticeChallenge12::
+aa1874f1f4f7a413	ヤッホー! なにを かくそう わたしは!\n
+6fde2f3cb83a4a22	{STR_VAR_1}の {STR_VAR_2}ばんでし$
+## gText_ApprenticeChallenge13::
+3204361c98afd640	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+6715d85444860809	です ゴホッ! よろしく! ゴホッ!$
+## gText_ApprenticeChallenge14::
+fb930e7e8796c3fb	きんちょう しますね… わたしは\n
+5596c933e1c34fe7	{STR_VAR_1}の {STR_VAR_2}ばんでし$
+## gText_ApprenticeChallenge15::
+b4485d858a512f5b	{STR_VAR_1}の {STR_VAR_2}ばんでし\n
+b3e3f82a10725443	うそでは ありません。$
+## gText_ApprenticePleaseTeach0::
+8e227324d747792f	あなたは… {PLAYER}さん?\n
+1b541027a0d447e3	あっ! ぐすっ…ひっく…\p
+455effad9441aac0	あっ! ご ごめんなさい…\n
+5047a3b92ecd8ece	きんちょうして なみだが でちゃって…\p
+049ea3c3ea0957b2	わたし {STR_VAR_1}って いいます\n
+708dcd6c355ddc64	{PLAYER}さんに あこがれてて…\p
+1a51d7bcfcb19eb0	いつか あなたに あって ポケモンの\n
+380ea8b8228f370e	ことを きいてみたいって ゆめみてて…\p
+0546aedd2eb76c9e	おねがい {PLAYER}さん!\n
+0d278fb4cb61a999	ポケモンのこと おしえてください!$
+## gText_ApprenticeRejectTeaching0::
+1065926f6cbe6674	えっ… で でも…\n
+f8ec18a5c6f64cba	ぐすっ… うわあああああん!\p
+2302222501b2ce48	おねがいです!\n
+fadf4854f4f080e6	このとおり おねがいします!$
+## gText_ApprenticeWhichLevelMode0::
+baf317d1521cfe51	えっ ほんとに? いいんですか?\n
+fad1d0c36474db29	すごい! さいこう! わおーん!\p
+b0d780c6f425a6ef	あっ… ごめんなさい…\n
+56c66e3bb71a0311	うれしくて なみだが…\p
+3ffb1f173370d6d6	えっと… じゃあ おしえてください!\n
+8cbfd00d1f93db73	バトルタワーの ことなんです\p
+18fb845dd62ddc71	わたしに あってるのは レベル50と\n
+4aa084d370d9c227	オープンレベルの どっちでしょう?$
+## gText_ApprenticeLevelModeThanks0::
+fc457e93b58d5ffe	{STR_VAR_1}…?\n
+a1d0db9319610be6	うわああああん!\p
+914c48cf457ea737	あっ! ごめんなさい!\n
+7709fedc00899fd4	わたしの ために えらんでくれたのが\l
+22bf01453ca5a50c	うれしくて なみだが でちゃって…\p
+08e4699719e05191	ぐすっ…\n
+46ea7b2969f9c19c	ほんとうに ありがとう!\l
+ecd51612f414c8fc	また おはなし してくださいね!$
+## gText_ApprenticePleaseTeach1::
+181958cb49da0ae2	わあ! {PLAYER}さん だよね?\n
+a9eee55ac8b2c6fb	すっごく つよいんでしょ?\p
+cfa2aba25257d224	ぼく {STR_VAR_1}!\n
+7647f5cdb5df6ab4	トレーナーに なったばかりなんだ!\p
+ef737839d1f1f80b	おねがい {PLAYER}さん!\n
+b74b19e6211034e8	ぼくの せんせいに なって トレーナー\l
+587fe70406686ddf	のこと いっぱい おしえてよ!$
+## gText_ApprenticeRejectTeaching1::
+565bbacfb1433495	えー なんでー?\n
+7841a40b481ee805	ねえ おねがい! おねがいだから!\l
+c849fe31c11ad1c2	せんせいに なってよー!$
+## gText_ApprenticeWhichLevelMode1::
+fb9bb1cd229050e7	やったー! わーい!\p
+24bcbc899b8d1db3	まず さいしょに ききたいのは\n
+b006ab4e7d6d0374	バトルタワーの ことなんだ!\p
+6d54f8ea1a5b7204	レベル50と オープンレベルの へや…\n
+27001ee8d7382f8e	ぼくに ぴったりなのは どっち?$
+## gText_ApprenticeLevelModeThanks1::
+ef52ff41da442553	{STR_VAR_1}かあ! そうだね!\n
+8fc18144cb69e90e	そこで がんばってみるよ!\p
+7159029363b9f9af	また ここで あったら べつのことも\n
+2904c71815eed12b	おしえてね せんせい!$
+## gText_ApprenticePleaseTeach2::
+d007ebb34cab350f	あの… {PLAYER}さん ですか?\n
+f4acdba96b103b63	わたし {STR_VAR_1}と いいます\p
+d9219c805dea5a91	ポケモントレーナーに なりたいけど\n
+a089cbc6260b77a4	どうしたら いいか わからなくて…\p
+addd2180a02906b0	それで ゆうめいな あなたに\n
+6b0b98204970a12c	そうだん できたらと おもって…\p
+e5b41b0a90e77355	{PLAYER}さん アドバイスを くれませんか?$
+## gText_ApprenticeRejectTeaching2::
+dd2e14313f9da2e8	そんな…\p
+0c16759763793557	わたし ほんきで ポケモントレーナーに\n
+5aa2cd782eb42124	なりたいんです!\p
+2776532a3678fdd9	しつもんに こたえて もらえませんか?$
+## gText_ApprenticeWhichLevelMode2::
+5256974a9edd043d	ありがとうございます!\n
+cfe44e46fd748c30	さっそく ひとつめの しつもんです!\p
+82aba31186234356	バトルタワーには レベル50と\n
+723397c098531d43	オープンレベルの 2つが ありますよね?\p
+c58c0aaecbda2bea	わたしには どっちの レベルが\n
+4d0c16928bbaa608	むいてると おもいますか?$
+## gText_ApprenticeLevelModeThanks2::
+f66052bbf383a895	{STR_VAR_1}に ちょうせんですね?\n
+85ac04c4dfd3ea1a	わかりました!\p
+774512761e85e107	また しつもんが できたら ここに\n
+ade9f3fbea6062ed	そうだんしに きますね!$
+## gText_ApprenticePleaseTeach3::
+324a7dcf53c9cac5	えっ? あれ? あなたは…\n
+2233c3b828232cb0	いや そんなはず ないよね\p
+a377dab4f86eb76c	わたしみたいな ひとが\n
+c12c057c76275f71	{PLAYER}さんに あえるわけ ない…\p
+38f579dc9058ff40	…ほんとに {PLAYER}さん なの?\n
+5655b199d3f84bf9	あなたと はなしてるなんて しんじられない!\p
+90a760110752d1b6	こんなに いいことが あったら\n
+4ff3951c74242816	このあと わるいことばっかり おきるに\l
+2fa3be3aa3eed6b5	きまってる… ぜったい そう…\p
+a92d9203cc09941f	…ごめんなさい…\n
+925f2ef37f65fda8	わたし… {STR_VAR_1}です…\p
+63ed88d17188e807	じまんできる ところなんて\n
+830a300ac49edaec	なにひとつ ないんです…\p
+02e84709cee1f333	じぶんのことを はなしても どうせ\n
+1326a05a312fa0f8	わすれられちゃうし…\p
+5cb06be1836429d5	もしも いつか あなたに あえたら\n
+4cada82dbb9bd982	{PLAYER}さんに トレーナーとして\l
+507fb3a121008cc9	アドバイスを もらえるかもって ゆめみてた\p
+98f8521042c52545	でも ひきうけては もらえないですよね\n
+45f362a5277e4d4b	きっと…\p
+a627acef38614198	…それとも アドバイスを くださる\n
+501dc50c1762ad5a	なんて ことは…?$
+## gText_ApprenticeRejectTeaching3::
+412a5bda79595f8a	やっぱり…\p
+e6d1b37b15bbbcdc	わたしなんて ほんとに つまらない\n
+b6da622a7a405ae6	ちっぽけな そんざい だから…\p
+a1d09ef37b0f5834	でも もしかしたらって…\n
+631a7cb589b77483	かんがえなおして くれませんよね?\p
+c8fdaaf02b8a1083	でも このまま あきらめられない\n
+248497bf432b09ef	ツイてる うちに おねがいしなきゃ!\p
+904880f90a83408e	おねがいです どうか アドバイスを\n
+9e231d569a6f0815	くださいませんか?$
+## gText_ApprenticeWhichLevelMode3::
+ac96a59f50f5997b	ほんとに? しんじられない!\n
+afe88823438ef67f	アドバイス してくれるなんて!\l
+a1c3ecb0ab8af43f	う… うれしい…\p
+dfd3f51b049b8541	ききたいのは ほんとに ささいな\n
+71929ce7963d5b36	ことなんですけど きめられなくて…\p
+066cdb22950a2db7	バトルタワーでは レベル50か\n
+eabdb7616bd2f6d0	オープンレベルを えらべますよね\p
+5cad694f6526dfe9	わたしでも かてるかもしれないのは\n
+b4e2003eea86b87c	どっちの コースだと おもいますか?$
+## gText_ApprenticeLevelModeThanks3::
+4cba9c4e6ad46fdf	{STR_VAR_1}? わかりました!\n
+1448011ea6fe3e02	でも わたしみたいな ひとに ほんとに\l
+9b2686b79d3b6690	かちめが あると おもいます?\p
+b5ed694963eccab8	うまく いかないとは おもいますけど\n
+365661fb2968331f	がんばってみます\p
+8fbbf5788e762b4a	わたしなんかの ために じかんを\n
+f19e347ee3cbfa95	さいてくれて ありがとうございました$
+## gText_ApprenticePleaseTeach4::
+461e6f0c171c5dfa	あら! {PLAYER}{KUN}じゃない?\p
+d5adc44a3e049a10	ポケモンが つよいって うわさ\n
+f189da57ecb5d44e	きいてるわよ!\p
+3215c6f792afb207	わたし {STR_VAR_1}!\n
+0081ea93e4ee0df9	おともだちに なってあげる!\p
+0ad1b857823fcca9	しってる?\p
+a40fb6d9f8f3c809	トレーナーズスクールで ならうこと\n
+e83c71be5aad9198	だけしか しらないようじゃ\l
+5bddb17687339835	バトルフロンティアでは かてないのよ\p
+bc56dd95a3c1acdf	あなたの アドバイス きいてあげるわ\n
+504beffed0606acb	もちろん いいわよね?$
+## gText_ApprenticeRejectTeaching4::
+e042c977526c0545	えっ? どうして ことわるの?\n
+78fc802177d70eec	この わたしが たのんでるのよ!\l
+da4d76a03b7a1565	かんがえなおしなさい!$
+## gText_ApprenticeWhichLevelMode4::
+06cfc84224578f6c	それじゃ ちょっと あることを\n
+648dbf397e970029	あなたに きめて ほしいの\p
+695e9d4ab6d2f6f9	バトルタワーに レベル50と オープン\n
+c79fd7efc3e08bb0	レベルの へやが あるのは しってる?\p
+fa7ecee6fad2eeac	わたしには どっちが いいと おもう?\n
+bdf3535f4c0da6a0	{PLAYER}{KUN}?$
+## gText_ApprenticeLevelModeThanks4::
+995ae391cbfd4a29	ふーん {STR_VAR_1}が いいのね?\n
+5eb4ab4d48b41376	ありがと!\p
+1b664a9eef6ef2ad	あなたが きめたこと なら\n
+ae6e5e9b607e7e87	{PLAYER}{KUN}の せいに できるから\l
+1883dec24201f968	まけても へいきね\p
+9b1b4a903845f7a8	じゃあ また アドバイス たのむわね\n
+fd0d286f0f0733f0	バイバイ!$
+## gText_ApprenticePleaseTeach5::
+41f3725b383726ca	よう こんにちは! {PLAYER}{KUN}!\n
+83a5829cc506dea9	ゆうめいだから しってるよ!\l
+325c4abe41a9afce	{STR_VAR_1}って よんでくれ! よろしく!\p
+bb4beff1f07d6837	おれ トライアスリートでさ ポケモンを\n
+d7b5d09c6499afe7	そだてながら からだも きたえてるんだ\p
+fced4a1f98dd48d5	ほかにも しごとに ひるねに\n
+4b25fbc099d6923f	しゃこうダンスに… いろいろ やってる\p
+16e776b1de9201ba	こう いそがしいと いっぱしの\n
+2ec75b132b65f773	トレーナーに なるのも たいへんでさ\p
+3392a947e84ba165	そこで ひとつ ていあんだ!\p
+099d6865bdc805e4	ここで あったのも なにかの えんだ\n
+217db09fe029e842	{PLAYER}{KUN} ときどき おれに\l
+7cbc25c7bea93c31	ちえを かしてくれないか?$
+## gText_ApprenticeRejectTeaching5::
+a29f467e32a40daf	そう いわずに たのむよ!\n
+1d475f20f94c5efc	おれみたいな やつには きみみたいな\l
+8484ae857cf3c9a1	ひとが ひつようなんだ {PLAYER}{KUN}!\p
+53b331a43a8f5be9	ほんとに アドバイスが ほしいんだ!$
+## gText_ApprenticeWhichLevelMode5::
+3c2150a4666b59cc	ありがとう! そうこなくっちゃ!\n
+73b0ebe697741776	じゃあ かんたんなのから いこう!\p
+c44d878f5b658aec	バトルタワーの 2つの コースは\n
+1bed968b1fabe2e0	しってるよな?\l
+b2ba2109851cd62f	ほら レベル50と オープンレベル\p
+63c18b6f3e1c8029	いそがしい おれは どっちに むけて\n
+af075926dbf3815e	じゅんびしたら いい?$
+## gText_ApprenticeLevelModeThanks5::
+2e967ca7c2271ca7	{STR_VAR_1}か! よし わかった\n
+b166bd4a38302830	なんとか じかんを つくって やるぞ!\p
+372ba275105836f1	…おっと しごとに いかなきゃ!\n
+3f7f25592f8cafa3	ありがとな! またな!$
+## gText_ApprenticePleaseTeach6::
+40b8b7d0488963f9	うそ! うそうそ!\n
+216f36957549da0e	もしかして ほんものの {PLAYER}?\p
+e0dcdd9c1d903bcf	アハッ! すごい! わたし {STR_VAR_1}\n
+05baf058e0ead9d3	あえて すっごく うれしい!\p
+01d1eec9686da461	{PLAYER}って すごく つよいん\n
+c07560f677c5fc9c	でしょ?\p
+9ad6f895ef1d5fad	みんな うわさしてるよ!\p
+a658a18f988a44b4	あっ! いいこと おもいついた!\n
+b26b70224f6b4ce0	{PLAYER}に アドバイス もらおう!\l
+78b6c3e74866bd7d	ぜったい つよく なれるはず!\p
+cb7e0ab7b354e4cf	ナイスアイデアでしょ?\n
+4849cae9f7d97752	おねがい アドバイス ちょうだい!$
+## gText_ApprenticeRejectTeaching6::
+567cb5ca3bd6a19a	アハハ いじわるな ふり したって\n
+4afe7bfadbb0795d	わたしは だまされないよ!\l
+5f64c66cc0484545	ほんとは オッケー なんでしょ?$
+## gText_ApprenticeWhichLevelMode6::
+132889f26c27f86c	やったー! こころが ひろいと おもってた\n
+87c284a2f55568c4	{PLAYER}!\p
+ee56e3d7749b3682	さいしょに なにを きこうかな?\n
+2fa75e15138bc6e1	…あっ おもいついた!\p
+6b69e29bc74b493e	ドラムロール おねがい!\n
+8503d306200e3bea	しつもんは…\p
+a2b617c5e7c4a155	もし バトルタワーに ちょうせん\n
+ea6e5f61971115d9	するなら どっちで いくべき?\p
+71c22f6c789b1466	レベル50か オープンレベルか?\n
+d16dc000eb9bd6fa	わたしに あってるのは どっち?$
+## gText_ApprenticeLevelModeThanks6::
+b8dcbcee55a0b4f2	おおーっ!\n
+92c9f917fb6d54cc	{STR_VAR_1}って いうのね!\l
+21cbfb89fd6bf560	サイコーな こたえ ありがとう!\p
+e372800f31e403c6	きょう ききたかったのは\n
+75804638aa799f2b	これくらい かな\p
+f4143589c546395b	また ここで あおうね?\n
+1739dcf524972090	ありがと!$
+## gText_ApprenticePleaseTeach7::
+b315bea99673152c	しつれいですが…\n
+4ecbed10370f814f	{PLAYER}さま でしょうか?\p
+d3c18f3597c5ba14	わたくし {STR_VAR_1}と もうします\n
+36311fe98452a56d	おめにかかれて こうえいです\p
+e58986278066a71c	まえまえから あなたさまに\n
+313ea681772be414	あこがれて おりまして…\p
+68a260bce6ec204c	… … … … … …\p
+52f9904fca207889	あの… ごめいわくで なければ\n
+9a0a7fa0351104ec	よいのですが…\p
+b4bd309ed7729f9b	あなたさまの でしに していただけ\n
+cae7543c5ad3e954	ませんか {PLAYER}さま?$
+## gText_ApprenticeRejectTeaching7::
+f6f1a21043fcc04d	まあ…!\p
+72ca9121da653426	… … … … … …\n
+8f3c8be059b5f7ec	… … … … … …\p
+40be2fe8ef57e5a0	…ショックで きを うしなって いました\n
+bb5df5c7266745c1	ききまちがい ですよね ごめんなさい\p
+440ff86eda2d005c	おねがいです! でしにすると\n
+160d5eb45ac64a22	おっしゃって ください!$
+## gText_ApprenticeWhichLevelMode7::
+ae90dfae5abda673	まあ… うれしいです!\p
+825da7eaecce8f5a	おじかんを とらせたくないので\n
+146c1078729248e1	このことに ついて おしえてください\p
+80b03fb6faecd42f	ちかいうちに バトルタワーに\n
+059dd48ee42e2c22	ちょうせん するつもりです\p
+98b22430af7585d7	でも レベルが 2つ あって…\p
+7f2366e28777cf28	わたくしに ふさわしいのは どちら?\n
+c640a541b50dad7f	レベル50か オープンレベルか…$
+## gText_ApprenticeLevelModeThanks7::
+7f17c421d873b3e7	{STR_VAR_1}を えらばれるのですね!\n
+b3bf5870ec7f0e34	わかりました。 がんばります!\p
+a6a905aee7c19b7e	ありがとうございます {PLAYER}さま\n
+f6c1f0b037707a52	また たよらせて くださいね\l
+53af7e384e2c77d5	どうか おげんきで!$
+## gText_ApprenticePleaseTeach8::
+71da2d56594da3d8	きゃっ! きゃっ! {PLAYER}さん!\n
+a7f5387cca040b95	はなしかけて くれた!\l
+5c0af1f169e2e8e0	う… うれしすぎる!\p
+6f18828ac6d1d4e1	わたし! {STR_VAR_1}って いいます!\n
+af6a05c05f9123ee	トレーナーに なったばかりです!\p
+dfa3fbbf1c40f06d	あえて うれしい {PLAYER}さん\n
+46531ff27be2035c	ポケモンかいの ゆうめいじんに!\p
+2f9a355039514ffa	あっ あっ そうだ!\n
+565819f9aa6ffdd2	{PLAYER}さん だいじな おねがいが!\p
+e59c09ccb7a80fcd	わたしを でしに してください!\n
+fff66e514a57c96a	あなたから まなびたいんです!$
+## gText_ApprenticeRejectTeaching8::
+74c9e241fa326f36	うわあああん!\n
+f9ff89706b08af0f	{PLAYER}さんに ことわられた…\l
+8a163ebec026dea7	こ… これも きちょうな けいけん!\p
+1c11b18bf4381f34	{PLAYER}さん おねがい! こんどは\n
+0fab3043e71e33f4	いい おへんじが ききたいです!\p
+9beebcb28e25babe	どうか ごしどう ください!$
+## gText_ApprenticeWhichLevelMode8::
+bb6cc3dcb413c03d	ひえええっ! {PLAYER}さんが いいって!\n
+0921db06539df260	{PLAYER}さんが いいって!\p
+68b1618e8844fd6c	こんや ねむれそうに ないです…\n
+1ad043e44c43369b	ほんとうに ありがとうございます!\p
+3eb57a4a6b8a9a3a	では しつもんです!\p
+17aa8e3dc64992ab	バトルタワーで わたしに あうのは\n
+f149fce91d71ca2d	レベル50と オープンレベル どっち?$
+## gText_ApprenticeLevelModeThanks8::
+2479c662853d6aac	{STR_VAR_1}! かんぺきに りかい!\n
+1fd6721aa02946e1	かんぺきに わかりました!\l
+e6be4357ff83d6c0	うれしくて どうにかなりそう!\p
+8b4d2c51a3709cbd	また こんど もっと おしえて\n
+78a47e0c0a2fbd26	いただけると うれしいです$
+## gText_ApprenticePleaseTeach9::
+8ee1438dbd94396a	おおっ! もしや…\n
+31362338890ac0a9	もしかして {PLAYER}{KUN}?!\l
+f2ecbe96fb7bb62b	あの つよくて ゆうめいな トレーナー?\l
+3796a23c745e04be	いやあ どうも! なんて ツイてるんだ!\p
+cea241f11d2fc980	どうも {STR_VAR_1}って いいます!\p
+e76d5bafa85eb588	ちょうど ポケモンの せんせいを\n
+d6d40951c0535131	さがしてた ところでして\p
+10aba2cdb98c5dcc	そこへ ばっちりの タイミングで\n
+a364134b1209b0e1	あらわれたのが {PLAYER}{KUN}!\p
+c92e05fee7a62ba8	と いうわけで {PLAYER}{KUN}!\n
+2819311074c51a1a	でしに してください!$
+## gText_ApprenticeRejectTeaching9::
+ff32702e85d87281	ぐはあっ!\n
+ec0a354947a22055	なかなか クールで てごわい…\p
+72a3770698e97767	そう いわずに たのみますよ\n
+91528a4b25351751	この とおり!$
+## gText_ApprenticeWhichLevelMode9::
+ccfb785c1b9ab17f	おっ いいねえ! しっかりした へんじ!\n
+0778e0bc0827d6f1	すばらしい と いっておこう!\p
+41b3c793bc2ed402	では まず バトルタワーに ついて\n
+5745136a483e9c14	ひとつ アドバイスを いただこう\p
+9e76f042e4a4a90d	もし いくとしたら どっちが いい?\n
+b3ef215dc60ef4f6	レベル50か オープンレベルか?$
+## gText_ApprenticeLevelModeThanks9::
+9f37208bc0977637	うんうん {STR_VAR_1}で きまり!\n
+2960d39028b67a4f	オッケー ばっちり オッケー!\l
+b33f171ac1147251	うでまえ みせてくるよ ノリノリで!\p
+e9855458caa27703	よし これからは ししょうと よぼう!\n
+4e25738feba3a82e	アディオス!$
+## gText_ApprenticePleaseTeach10::
+b1015133b38f0a34	あっ ねえ {PLAYER}{KUN} だよね?\n
+2679bd463fc87cfd	けいさつが きみを さがしてたよ!\p
+e4ed6d75a92c0ce0	… … …\n
+86615908dfecc441	もちろん うそだよ!\p
+b415496704a17d87	ぼく {STR_VAR_1}。 こうみえて\n
+5b18a5e59c75ed3b	ポケモンチャンピオンなんだ!\l
+922760bee935c55d	…これも うそだけどね!\p
+d3e5da44da3c7184	でも これは うそじゃないよ\n
+30ad7fb2b6b7045d	ぼく バトルが あんまり とくいじゃない\p
+ed57304a3a5eca8d	だから ポケモンの こと ぜんぶの\n
+8129305a31750bf5	ししょうに なってくれないかな?$
+## gText_ApprenticeRejectTeaching10::
+fbea93fd3c3f7b5d	そんなに つめたく するなら\n
+1371bdf8ec9038b8	こっちにも かんがえが あるぞ!\p
+3e9721c095e78714	えーん! えーん! えーん!\n
+c94d615a736caf6c	ひっく!\p
+0d4e02df84b6dad5	アハハ いまのは うそなき でした!\p
+208654c7f32ead11	ねえ おねがいだから ぼくの\n
+1b03d683924a38fd	ポケモンの ししょうに なってよ$
+## gText_ApprenticeWhichLevelMode10::
+af73d13854c56c4b	やったー!\n
+fd66573c32e3ff17	おれいに ふねを かってあげる!\p
+f614d5354c66cd0f	もちろん また うそだよ!\n
+32acd6af30bb9954	でも… ありがとう ししょう!\p
+c56a46111c932d1f	バトルタワーには レベル50と\n
+3cd70c43beec9ea8	オープンレベルが あるでしょ?\p
+80ce9d9bd1e6bf20	どっちの レベルに ちょうせんするか\n
+9a4132f52b70ca43	まよってるんだ…\p
+26b9f6068c6e282a	きめてくれる? ししょう$
+## gText_ApprenticeLevelModeThanks10::
+6e70d1ce267b522d	そっか {STR_VAR_1}の ほうが いいのか!\n
+8bf8b2a068b8f15e	じゃあ もう かたほうに いくね!\p
+40f85aaa6262e4c1	じょうだんだよ!\n
+1541b2fd4d0716ab	ししょうの おしえに したがうよ!\p
+3f2d2643f26ed95a	ありがとう ししょう!\n
+86454e08fe735286	これからも おしえてね!$
+## gText_ApprenticePleaseTeach11::
+66d1299f49a1a14b	ア・ホ・イ!\n
+7f8c3bcdb8bf001b	つなげて アホイ いみは やあ!\p
+7048cd523e481ef1	おれは {STR_VAR_1} ラップする\n
+37c306485e7f662a	ふなのり さ!\p
+2e712144e0ef0bee	こんどは きみの ばん じぶんのこと\n
+fc21ce4eb08efe4f	ちょっと はなして ごらんよ!\p
+0ab90b90c09a7595	ふむふむ ふむふむ!\n
+fa2768be08a9626f	なまえは {PLAYER}{KUN}\l
+200f68afc6b43e39	ポケモン ひとすじ イエー!\p
+43cddaa5418aa4aa	そして きみは びみょうな としごろ\n
+ad80df9f905c9841	せかいが ぶたいの おとしごろ!\p
+11ff8e7102389cd0	とにかく いいたいのは\n
+987c93e6f0c3805f	きみが きょう はなした\l
+2cdb4570a4c0b7ea	10にんめの トレーナー ってこと!\p
+4ec61a9ea223a2d2	せっかくだから おいわい しよう!\n
+f9e23e87135ad272	きねんに ししょうに なって もらおう!$
+## gText_ApprenticeRejectTeaching11::
+c9f8af63bfc3c7d6	でも!\n
+f3cf58bf1786c4aa	おれと くまなきゃ だめさ!\p
+0ca22f434aa6d24c	じらすのは よしてくれ!\n
+d31d9f6819ccbc4f	ししょうに なってくれ たのむぜ!$
+## gText_ApprenticeWhichLevelMode11::
+3cc5a1ffbd949cda	それだ!\n
+297c0cd8f285af85	{PLAYER} その いきだ!\p
+5fbe8894c32d5dcc	それじゃ さいしょの しつもん\n
+4e7ce39833d5491e	きみの いけんを ききたいもん!\p
+1bfd3308788c20b0	バトルタワーの ことなんだ\n
+1de4465d2a8f24ad	おれの ちからが ためされるんだ!\p
+78a03849707b627a	レベル50に オープンレベル\n
+dbd668e0e5ff67d2	おれに いいのは どっちの レベル?$
+## gText_ApprenticeLevelModeThanks11::
+cbbc15cbf6557236	よし {STR_VAR_1}だと きみは いう!\n
+1394eb9c0ec1d84d	さっそく ちょうせん しに いこう!\p
+9b320029bc31d1f9	アドバイスが ひつような ときは\n
+3cdc35cd6b12c59c	{PLAYER}の ことばを いつでも きくよ!$
+## gText_ApprenticePleaseTeach12::
+3e51777c3aa273a2	ヘイ ねえ きみ {PLAYER}じゃない?\n
+f7bd35af2d5f1844	どうしよう? はなしかけちゃう?\l
+9f12ad3e3eebee8c	いいじゃん! もう はなしかけてるし!\p
+0aacdc3bb6e22856	{PLAYER} おどろいた かな?\n
+e7efa0ed67152eca	おれが だれだか おしえて あげような!\p
+a8db15ab33da2f2e	おれのことは {STR_VAR_1}と よびな\n
+beb905fb095aa5b4	ギターかいで いちばん かがやく\l
+5cdef3834cf3d10b	スター それが おれ!\p
+ae298a6907f5c79a	ちゃんと とどいてる?\n
+6be46b6c837b255a	ちゃんと とどいてる!\p
+fc22420635293ab7	うんきは いま さいこうちょう\n
+869baa626961f0f5	ひとつ たのみを きいてちょう!\p
+45f6b7bd0ccefb2c	{PLAYER} おれを でしに して!\n
+5ede4e17c363bae4	なにもかも おしえて ほしいんだ!$
+## gText_ApprenticeRejectTeaching12::
+c5ab7e1544504e1c	ことわるって こと かい?\n
+7632c52e3c443edd	だったら もういちど たのむだけさ!\p
+b807bab229f99591	{PLAYER} おれを でしに して!\n
+bfe33b055dd5bb3b	なにもかも おしえて もらいたいんだ!$
+## gText_ApprenticeWhichLevelMode12::
+dbff08ea8e549555	ラッキー イエイ ヒャッホー!\n
+b1023cc1618af9ff	しつもん ひとつ いいかい?\p
+0e75e8fc9adc64c4	バトルタワーが ちかいから\n
+c5166dce80b14b32	タワーの しつもん してみたいから!\p
+366b049fad472e3d	えらべる コースの うち\n
+109b694e628f19ad	おれに あうのは どっちのうち?$
+## gText_ApprenticeLevelModeThanks12::
+06af1162aec17656	{STR_VAR_1}が きみの おすすめなら\n
+db75af92bc8223dc	それが さいこう まちがいないなら!\p
+fd3651cb1354772d	さて {PLAYER} おれは じゆうな たびびと\n
+0c7a9d936371877d	でも わすれないでくれよ このひと!\p
+55eb6217b0765d90	またな かしこい ともだち!$
+## gText_ApprenticePleaseTeach13::
+e15f06c2b81fa21e	おっ やあ! そこの きみ!\n
+2a71b41f71a3ccad	ちょっと かたを もんで くれないか?\p
+18ebe17fbf6bb7be	…そう そこ! そこだ!\n
+9386aab7080ecffc	いてて いてて! おおー きもちいい!\p
+15af82a88bd2f45f	おれの なまえは {STR_VAR_1}\n
+d9f573301622c1e9	からての しゅぎょうを してるけど\l
+2729518ac671a383	からだが ついて いかなくてな…\p
+d5976519c286b8f4	そこで ポケモンバトルで\n
+136d588e6a21b577	じぶんを きたえる ことに したんだ\p
+432b3d0ccc5382f8	きみ {PLAYER}{KUN} だよな?\n
+e5ad40e3b1bebeb9	ポケモンリーグの チャンピオンの?\p
+2f97a37a03c375b8	なあ おれに アドバイスを\n
+85e8ffd95942d31f	くれないか?$
+## gText_ApprenticeRejectTeaching13::
+3e77e1ab02411bf6	えっ なんでだい?\p
+5b63fae21a7077d9	めいわくは かけないって やくそくする!\n
+c58a79c8974b5ea5	たのむよ?$
+## gText_ApprenticeWhichLevelMode13::
+0b1d47c3ce298456	ありがとう! じつに ありがたい!\n
+be026f2604f103b0	…ゴホッ! ゴホッ!\p
+ae4076667f9aaee9	うう はやく きたえないと…\p
+4e41b342ac8d0b76	すぐに バトルタワーに いくけど\n
+8de593fda9c9aa6a	おれには どっちが いいかな?\l
+a720c375bfbfc9c0	レベル50か オープンレベルか?$
+## gText_ApprenticeLevelModeThanks13::
+eba9d74ab1174941	ふむ わかった {STR_VAR_1}だな\n
+1872fbce3dc7bb52	さっそく いってくるよ\p
+a655f74162bd555d	これからも たよらせて もらうよ\n
+45ae661179af5f37	なんたって きみは おれの ししょうだ!$
+## gText_ApprenticePleaseTeach14::
+ee3e109e96f3bfa5	あの… えっと…\n
+ac63e00a241433b4	{PLAYER}{KUN}…?\p
+98bd4571bd232371	そんな めで みないで ください\n
+8e4c4a43a8bf6dd0	なんだか てれちゃいます\p
+a75121477ac5a961	わ… わたし {STR_VAR_1}です\p
+99f235a0e161dbbb	いうのも はずかしいんですが\n
+9fea3079d1268a95	こだいの いせきとかを たんけんしてます\p
+b1f1e743e9e421df	もっと はずかしいんですけど\n
+0cd5e6a3c31604ae	バトルフロンティアに きょうみが あって\p
+25e6890df3641108	{PLAYER}{KUN}は つよい トレーナーだって\n
+a9a8a41b32edce5e	ひょうばん ですよね…\p
+e03851cac6918d36	いいにくいんですけど\n
+0a886ca9e5b4424a	ひとつ おねがいが あるんです\p
+59a696f70971f0e6	わたしの せんせいに なって\n
+6fe593087a2e2c78	アドバイスを くれませんか?$
+## gText_ApprenticeRejectTeaching14::
+fa7a4d5cb6dc49ac	そんなふうに あしらわないで ください!\n
+68a92827e522af41	はずかしくて いきていけません\p
+6172ec56c4e50f0b	せんせいに なってください!\n
+2271b9a4fa8c3ce5	アドバイスが ほしいんです!$
+## gText_ApprenticeWhichLevelMode14::
+432e2da476e8641c	あ… ありがとう ございます…\p
+27e0662851599bc8	でも そんな めで みないでください\n
+b91afb16be7e2022	あわてちゃいます\p
+bcb0922b1a54488e	わたしの めを みないで\n
+b800a9aff7cb58a0	こたえて ください\p
+9aaf382f3d474e81	バトルタワーで…\n
+fa006149683c3597	どの レベルに いどめば いいですか?$
+## gText_ApprenticeLevelModeThanks14::
+33067c52a8f5a1df	あ… わかりました!\n
+139829d4295786e5	それに ちょうせん してみます\p
+8f9365f8160d2a9b	あわてずに どうどうと\n
+12edef0355d77703	ちょうせん できると いいんですが…\p
+50b07d608c0f2098	ありがとう {PLAYER}{KUN}\n
+3028f17219dea16c	また あったら そのときも\l
+eb88265a3fb21664	よろしく おねがいしますね$
+## gText_ApprenticePleaseTeach15::
+93ec7eabf9b19d2a	む? {PLAYER}{KUN}の ようだが…\n
+4c31eb5bb15f20c6	ほんとうに ほんもの かね?\p
+ea4fca3c14f2d70f	わたしは {STR_VAR_1}と よんでくれたまえ\p
+c9572cd5250f1011	つよい トレーナーに でしいり しようか\n
+3a7ce18449b8d4eb	と かんがえて いたところでね\p
+dc168b81d1b958e0	きみが きてくれて じつに ツイている!\n
+0decd5e89435dc64	…ほんとうに {PLAYER}{KUN}だよね?\p
+1d36590217bac09c	いや いや ほんものなら いいんだ\n
+c5c01433fd1ad06b	ただ わたしを でしとして\l
+188d2f6ffe00308b	みとめて ほしいだけなのだよ$
+## gText_ApprenticeRejectTeaching15::
+42e24cace378e91e	おや?\n
+795708061fe05d9f	なぜ ことわるのかね?\p
+2039036077b82433	きみが ほんものか うたがったことは\n
+868d8d9c8cf412d8	あやまろう\p
+e1a806d6dd5d76d3	どうか わびを うけいれて\n
+084c41c2b86dbbb0	わたしを でしに してくれたまえ$
+## gText_ApprenticeWhichLevelMode15::
+7de5bd59cf41994c	ほんとうに うけいれて くれるのかね?\n
+b772be909acff483	ぬかよろこび は したくないのだが\p
+e0df5a195eb30bfb	ほんとうなら しつれいした\n
+d17a31ecba28c604	では さっそく アドバイスを たのむ\p
+d0986712698d91db	もし バトルタワーに ちょうせんするなら\n
+ab6400d1644a2129	わたしに ふさわしいのは どちらかね?\l
+9907a0ab5e19c40d	レベル50か オープンレベルか?$
+## gText_ApprenticeLevelModeThanks15::
+230395660ea5b415	{STR_VAR_1}?\n
+844801e84052bb48	ほんとうに それで いいのかね?\p
+59c277a17f87ad91	そうか。 それなら かまわない\n
+01eda0fb17c5d08d	じかんを さいてくれて かんしゃする\p
+6c10754f309a0000	わずらわしい やつだと おもうが\n
+a63765f90d4e2ae3	でしに してくれて うれしいよ\p
+cad86bc2868db5b5	また あおう!$
+## gText_ApprenticeWhatHeldItem0::
+958f9c94056e3099	はあ… ぐすっ…\n
+b685335a27e0f659	あっ {PLAYER}さん!\p
+569b69cd9900d5aa	どうしても きめられなくて\n
+721625a3bd870b21	こまってるんです\p
+6eb2c70506f5728f	どうしても きめられないんです\n
+a5224f6c428e0535	{STR_VAR_1}に なにを もたせるか\p
+0be74196026df7ab	おしえて ください {PLAYER}さん\n
+0ae929adaeaceb5c	どんな どうぐを もたせれば いい?$
+## gText_ApprenticeHoldNothing0::
+6901e539fd115862	えっ ほんとに? わたしの\n
+8b616f5717740402	{STR_VAR_1}には なにも もたせない?$
+## gText_ApprenticeThanksNoHeldItem0::
+89ca33a1e0f590f1	あっ わかりました! きまって うれしい!\n
+ed69773d60f68454	すごい! さいこう! わおーん!\p
+48c667babd5145cb	ほんとうに ありがとう!$
+## gText_ApprenticeThanksHeldItem0::
+a027cb826ff3c2f3	あっ よかった…\n
+ac7e025934b3bcc3	その {STR_VAR_1} もってると おもう\p
+376218b8d3844549	きまって うれしいです!\n
+5822718724ebdef2	すごい! さいこう! わおーん!\p
+7475b7e78d325fe5	ほんとうに ありがとう!$
+## gText_ApprenticeItemAlreadyRecommended0::
+755d812fee5913c1	うわあああん! いじわる しないで!\p
+1a5d770146747135	その {STR_VAR_1}は まえにも\n
+4f50ec9a25effb09	すすめられたんです ぐすっ…\p
+168a76a7ae568aa7	それとも わたしの ポケモン\n
+25bbdac3cbd847e5	{STR_VAR_2}には なにも もたせないの?$
+## gText_ApprenticeWhatHeldItem1::
+0ecc1f79378acbe8	わーい! {PLAYER}さんだ!\n
+4210f5c40877ab47	よかった! ききたいことが あったんだ!\p
+c9f69c2c6d90a1e3	ポケモンに どうぐ もたせてる?\n
+4ab8e094b0ea6164	ぼくも もたせたいんだけど…\p
+b526750bc9fc63d1	どんな どうぐが いいかな\n
+2c6c299b1be3c15f	{STR_VAR_1}に もたせるのは?\p
+22f68755b9af6944	どう おもう?$
+## gText_ApprenticeHoldNothing1::
+5159ae8c7f992d18	えっ? ぼくの {STR_VAR_1}には\n
+c9b89af8c3d93b92	なにも もたせなくて いいの?$
+## gText_ApprenticeThanksNoHeldItem1::
+ea9c123b2173c175	そっか わかった! そうするよ!\n
+69b2935c28645d91	おしえてくれて ありがとう!$
+## gText_ApprenticeThanksHeldItem1::
+cb138131a4714562	わあ! {STR_VAR_1}を ひとつ だね?\n
+d1e3ec80f4226e96	うん そうするよ!\p
+4cce079b2d3738f4	おしえてくれて ありがとう!$
+## gText_ApprenticeItemAlreadyRecommended1::
+46bc9d8aba89dea1	あっ えっと そうじゃ なくて\n
+216aaea9dee5bd28	もう しってる どうぐとは べつの\l
+565f43485356c37e	どうぐの ことが しりたいんだ\p
+b41fde1ab0f83cc4	それとも こんどは ポケモンに\n
+8eb94a480f5e30ec	なにも もたせなくて いいってこと?$
+## gText_ApprenticeWhatHeldItem2::
+f268c45c4f670e5d	{PLAYER}さん こんにちは!\n
+5982580fe49e835e	わたしの {STR_VAR_1}の ことなんですが…\p
+30081893b7f6324c	いい どうぐを もたせたいんです\n
+0946eb98aa5a958f	なにが いいと おもいますか?$
+## gText_ApprenticeHoldNothing2::
+e0af8a86de66df14	じゃあ わたしの {STR_VAR_1}には\n
+0b62ed5020db0a7d	なにも もたせなくて いいんですか?$
+## gText_ApprenticeThanksNoHeldItem2::
+4a2e2d3143640f69	はい わかりました!\n
+79d577761e71b208	また あいましょう!$
+## gText_ApprenticeThanksHeldItem2::
+d669a8ed3c369e99	あっ {STR_VAR_1}って どうぐですか?\n
+f3c8d41c05a8460d	わかりました!\p
+bf45536c645d008b	がんばって さがしてみます!\n
+4794ed9479d1522f	また あいましょう!$
+## gText_ApprenticeItemAlreadyRecommended2::
+791568608f53e259	その どうぐの ことは もう\n
+88e445add96c9bbc	{STR_VAR_1}って おそわったんです\p
+1f4a63c6e5727cd6	ポケモンには べつの しゅるいの\n
+8fc62a6613e87643	どうぐを もたせたいんです\p
+85c0df0935fa0a89	それとも {STR_VAR_2}には\n
+def7d3bd699e28e2	なにも もたせなくて いいと?$
+## gText_ApprenticeWhatHeldItem3::
+d0d4254a404dbcfe	こんにちは {PLAYER}さん…\n
+1c116a850d974a2a	おじゃまして ごめんなさい でも\l
+cf15efe6a2ae3343	また ききたいことが あって…\p
+5dbda1491516448a	わたしの ちからだけじゃ しあいに\n
+0553fe2831db236c	かてないと おもうので こんどは\l
+9764604981a65d4b	{STR_VAR_1}に どうぐを もたせようかと\p
+afaef1dc718fcb0e	でも なにが いいか わからなくて\p
+b95d836eba1f23f1	{PLAYER}さん おねがい きめて\n
+2f3498dc24a84661	もらえませんか?$
+## gText_ApprenticeHoldNothing3::
+f7de878c18580b15	わたしなんかの ポケモンは どうぐを\n
+a49088fe9d79066a	もたないほうが いいってことですか?$
+## gText_ApprenticeThanksNoHeldItem3::
+848fdd1ab2298689	わかりました…\n
+0582532c5355d542	どうぐに たよるなって ことですね\l
+b8a7773bffb525ee	たよらないように がんばります!\p
+ffdf2f9b8d7b25a3	ありがとうございました!$
+## gText_ApprenticeThanksHeldItem3::
+6dea6bef22aa2a59	{STR_VAR_1}って どうぐ ですね\n
+1fb5515f09db2bfd	てに いれられるか わからないけど…\l
+3f67a50bae38543e	ううん! がんばって てに いれます\p
+476e6aebf742f6ef	ありがとうございました!$
+## gText_ApprenticeItemAlreadyRecommended3::
+01b29cbfab6ecbf3	あの でも…\n
+adfc0b1f83ff208a	それ まえにも きいたような…\p
+f29a5011d22abb9a	わたしが うまく つかいこなせて\n
+2cd3d73db4bdc75f	ないから かな {STR_VAR_1}を?\p
+4d6629dec43b9fef	それとも わたしの ポケモン\n
+b8572c69790a68aa	{STR_VAR_2}には なにも もたせないの?$
+## gText_ApprenticeWhatHeldItem4::
+408a55ddfbeac946	あら {PLAYER}{KUN}\n
+1f2b19cee032a94d	ききたいことが あったのよ\p
+0a22ee4aaba5aade	わたしの つれる ポケモンを\n
+37deb9a1eda512a9	あなたが きめて くれたでしょ?\p
+79f1762873323b08	でも なにを もたせるかは\n
+0753346a7b3fe03e	まだ きいて なかったわ\p
+aaa6dddcbcd6cbd2	もう アドバイス してくれたんだから\n
+2e0c49d468e543d9	さいごまで つきあって くれない?\p
+e1a3b862a1e73f72	なにが いいかしら? わたしの\n
+6c55124980d17e16	{STR_VAR_1}に なにか もたせたいの$
+## gText_ApprenticeHoldNothing4::
+673e1d62589081a5	あら! じゃあ {STR_VAR_1}は\n
+2d3ccbabf0882630	てぶらで がんばれ ってこと?$
+## gText_ApprenticeThanksNoHeldItem4::
+8445e922fd7c912f	それが いちばんなら そうするわ\p
+a487de3d8fc7e4cc	あなたが きめたこと なら\n
+9f1f43c6bd346c2a	{PLAYER}{KUN}の せいに できるから\l
+fed6501a737dd5d0	まけても へいきね\p
+03e145095619d1af	じゃあ また アドバイス たのむわね\n
+59fedaa5723e42b8	バイバイ!$
+## gText_ApprenticeThanksHeldItem4::
+67142ead3787da5b	{STR_VAR_1}って どうぐね?\n
+8381babd603a4e7d	わるくないわ。 つかってみる!\p
+b4cd50bb614c26aa	あなたが きめたこと なら\n
+e411137638b9aafb	{PLAYER}{KUN}の せいに できるから\l
+8220ec9fa32a15dd	まけても へいきね\p
+234070ee8f668bb0	じゃあ また アドバイス たのむわね\n
+db31b202c252a53d	バイバイ!$
+## gText_ApprenticeItemAlreadyRecommended4::
+598e4fb94cb063dd	えっ? なに いってるの?\n
+79e1b1a23ada8bdd	{STR_VAR_1}の ことは\l
+fe7691e33b4a394d	まえにも きいたわよ\p
+7621f517e3bb7e31	それとも {STR_VAR_2}は\n
+0de380b3532fd152	てぶらで がんばれ ってこと?$
+## gText_ApprenticeWhatHeldItem5::
+a25b4d25610fbfba	よう {PLAYER}{KUN}!\p
+7ead709ee9437947	おたがい いそがしいのに なぜか\n
+b12ce098c303c121	よく でくわすよな!\p
+8cb15da2f8021a9f	きょうは さんぽに そうじに\n
+db3925621e1c2c41	ブラッシングを しなきゃ いけない\p
+46ae46079f9a7734	かってやる ひまも なかったんだ\n
+9f71036fd0fea472	だいじな {STR_VAR_1}に なにも\p
+6f32c8c74872cc68	じかんが ないから アドバイス してくれ\n
+787435acf1b5aa6c	なにを もたせたら いいか\l
+93212cd3df47cd17	おれの {STR_VAR_1}にさ?$
+## gText_ApprenticeHoldNothing5::
+0b305504f362562b	じゃあ いそがしい おれの\n
+982cea015fb29ffc	{STR_VAR_1}には なにも いらない?$
+## gText_ApprenticeThanksNoHeldItem5::
+f79bc7231ce366b3	よし わかった\n
+9cde1776b5139cf0	それなら じかんも かからないな\p
+44b73b59d3b9b445	きょうは ありがとな!\n
+f9c42343f076ef55	またな!$
+## gText_ApprenticeThanksHeldItem5::
+2f749e5e3330ccf0	よし わかった\n
+01dea30e23fc73e4	なんとか じかんを つくって\l
+44b86558309fae36	おすすめの {STR_VAR_1}を さがすよ\p
+7413d6a4081639b8	いい ししょうに であえて よかった\n
+65e2fc73d0b2157e	ありがとな! またな!$
+## gText_ApprenticeItemAlreadyRecommended5::
+f27bc4058fe0f7e8	えっ? それなら もう\n
+9d67673d5d8925f6	しってるぞ {STR_VAR_1}は\p
+309b2df14b7e2ed3	あっ そうか わかったぞ\n
+957213e2296b26b5	つまり いそがしい おれだから\l
+c45112c86c72cb13	{STR_VAR_2}には なにも いらないって?$
+## gText_ApprenticeWhatHeldItem6::
+0554ea3595dca149	ハーイ {PLAYER}! わたしよ!\n
+150d2eac6f5922f2	きょうも ちえを かしてほしいの\l
+957da5047d33d536	おねがい アドバイス ちょうだい!\p
+a240b7fd1429d1e5	ドラムロール おねがい!\n
+100bb74877d45345	しつもんは…\p
+3eb5b7b5ad1fbe2d	{STR_VAR_1}に どうぐを もたせるなら\n
+2870e446d6991193	なにが いいと おもう?$

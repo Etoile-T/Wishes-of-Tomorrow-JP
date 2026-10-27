@@ -47,42 +47,42 @@ LavenderTown_EventScript_PokemonTowerSign::
 	end
 
 LavenderTown_Text_DoYouBelieveInGhosts::
-	.string "Do you believe in ghosts?$"
+	.string "{JPN}ゆうれいって しんじる?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-	.string "Really?\n"
-	.string "So there are believers…$"
+	.string "{JPN}ほんと?\n"
+	.string "しんじてる ひとも いるんだ……$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-	.string "Hahaha, I guess not.\p"
-	.string "That white hand on your shoulder…\n"
-	.string "I'm just imagining it.$"
+	.string "{JPN}ははは そうだよね。\p"
+	.string "きみの かたに のってる しろい て……\n"
+	.string "きっと ぼくの きのせいだよね。$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "This town is known as the grave\n"
-	.string "site of POKéMON.\p"
-	.string "Memorial services are held in\n"
-	.string "POKéMON TOWER.$"
+	.string "{JPN}この まちは ポケモンの\n"
+	.string "はかばとして しられてるの。\p"
+	.string "ポケモンタワーで\n"
+	.string "くようが おこなわれて いるのよ。$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-	.string "Ghosts appeared in POKéMON TOWER.\p"
-	.string "I think they're the spirits of\n"
-	.string "POKéMON that the ROCKETS killed.$"
+	.string "{JPN}ポケモンタワーに ゆうれいが でたんだ。\p"
+	.string "ロケットだんに ころされた\n"
+	.string "ポケモンの たましい だと おもう。$"
 
 LavenderTown_Text_TownSign::
-	.string "LAVENDER TOWN\n"
-	.string "The Noble Purple Town$"
+	.string "{JPN}シオンタウン\n"
+	.string "けだかき むらさきの まち$"
 
 LavenderTown_Text_SilphScopeNotice::
-	.string "New SILPH SCOPE!\n"
-	.string "Make the Invisible Plain to See!\p"
-	.string "SILPH CO.$"
+	.string "{JPN}しんがた シルフスコープ!\n"
+	.string "みえない ものが はっきり みえる!\p"
+	.string "シルフカンパニー$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-	.string "LAVENDER VOLUNTEER\n"
-	.string "POKéMON HOUSE$"
+	.string "{JPN}シオン ボランティア\n"
+	.string "ポケモンハウス$"
 
 LavenderTown_Text_PokemonTowerSign::
-	.string "POKéMON TOWER\n"
-	.string "Becalm the Spirits of POKéMON$"
+	.string "{JPN}ポケモンタワー\n"
+	.string "ポケモンの たましいを しずめる ばしょ$"
 

@@ -19,16 +19,16 @@ SixIsland_EventScript_IslandSign::
 	end
 
 SixIsland_Text_IslandSign::
-	.string "SIX ISLAND\n"
-	.string "Fortune Island of Aged Wisdom$"
+	.string "{JPN}6のしま\n"
+	.string "ちえある としよりの しあわせのしま$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-	.string "Keep going this way and you'll get\n"
-	.string "to the WATER PATH.\p"
-	.string "Stay on that and you'll get to\n"
-	.string "the RUIN VALLEY.$"
+	.string "{JPN}こっちへ すすむと\n"
+	.string "みずのさんぽみちに でるよ\p"
+	.string "そのまま すすめば\n"
+	.string "いせきのたにに つくよ$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
-	.string "When you're this far away from the\n"
-	.string "city, the sky at night is fantastic.$"
+	.string "{JPN}これだけ まちから はなれてると\n"
+	.string "よるの そらが すばらしいんだ$"
 

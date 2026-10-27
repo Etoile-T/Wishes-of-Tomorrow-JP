@@ -37,28 +37,28 @@ ThreeIsland_Port_EventScript_Biker2::
 	end
 
 ThreeIsland_Port_Text_WereKantoRiderFederation::
-	.string "We're the KANTO RIDER FEDERATION!\n"
-	.string "Vroom! Vavavavooom! Vroom!\p"
-	.string "My bike's wimpy, so I have to\n"
-	.string "make exhaust noises myself!$"
+	.string "{JPN}おれたちゃ カントー ライダーれんごうだ!\n"
+	.string "ブロロ! バババババーン! ブロロ!\p"
+	.string "おれの バイクは しょぼいから\n"
+	.string "エンジンおとは じぶんで だすんだ!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
-	.string "Hey, hey, lady!\n"
-	.string "Fork over some spending money!$"
+	.string "{JPN}おい おい ねえちゃん!\n"
+	.string "こづかいを よこしな!$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
-	.string "Aiyeeh!\p"
-	.string "Wh-who are you?!\n"
-	.string "I… I'll call the police!$"
+	.string "{JPN}ひいいっ!\p"
+	.string "あ あなた だれ!?\n"
+	.string "け… けいさつを よぶわよ!$"
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
-	.string "Those BIKERS…\n"
-	.string "Are they gone?\p"
-	.string "Oh, thank goodness!\n"
-	.string "They certainly had me terrified!$"
+	.string "{JPN}あの ぼうそうぞく…\n"
+	.string "いなくなったの?\p"
+	.string "ああ よかった!\n"
+	.string "ほんとうに こわかったわ!$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
-	.string "Those BIKERS ran off, and\n"
-	.string "LOSTELLE was found safe.\p"
-	.string "Everything turned out for the best!$"
+	.string "{JPN}ぼうそうぞくは にげだして\n"
+	.string "ロステルも ぶじに みつかった\p"
+	.string "なにもかも まるく おさまったわ!$"
 

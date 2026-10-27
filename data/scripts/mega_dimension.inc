@@ -440,201 +440,201 @@ MegaDim_EventScript_RivalLeaves::
 	goto MegaDim_EventScript_MegaGoneCollapse
 
 MegaDim_Text_RivalHandsStone:
-	.string "Here. A deal's a deal.$"
+	.string "{JPN}ほら。 やくそくは やくそくだ。$"
 
 MegaDim_Text_CanariIntro1:
-	.string "Ha, beat ya to it! Let's go\n"
-	.string "DYN4MO! This Mega's going\p"
-	.string "straight on stream!\n"
-	.string "Canatics, you seeing this?!$"
+	.string "{JPN}へへっ おさきに! いくよ\n"
+	.string "DYN4MO! この メガは\p"
+	.string "このまま はいしん いきっ!\n"
+	.string "ファンの みんな みてる?!$"
 
 MegaDim_Text_CanariDefeat1:
-	.string "Ugh, that's a clip I'm\n"
-	.string "deleting... GG, though.$"
+	.string "{JPN}うわー いまの シーンは\n"
+	.string "カットだね… でも GG!$"
 
 MegaDim_Text_CanariIntro2:
-	.string "Chat called it -- you'd show\n"
-	.string "up thirty seconds too late!\p"
-	.string "Wanna fight for it? Don't be\n"
-	.string "shy, the Canatics love a duel!$"
+	.string "{JPN}コメントの よそうどおり!\n"
+	.string "やっぱり 30びょう おそかった!\p"
+	.string "うばいに くる? えんりょ\n"
+	.string "しないで! ファンは タイマン すき!$"
 
 MegaDim_Text_CanariDefeat2:
-	.string "The Canatics are spamming\n"
-	.string "your name now. Rude.$"
+	.string "{JPN}ファンが きみの なまえで\n"
+	.string "コメント うめつくしてる。 ひどい。$"
 
 MegaDim_Text_CanariIntro3:
-	.string "Oh hey! You're just in time\n"
-	.string "for the encore. Let's go\p"
-	.string "DYN4MO! One battle, live,\n"
-	.string "winner takes the stone!$"
+	.string "{JPN}あっ やっほー! アンコールに\n"
+	.string "ちょうど まにあったね! いくよ\p"
+	.string "DYN4MO! なまで 1しょうぶ!\n"
+	.string "かったほうが いしを もらう!$"
 
 MegaDim_Text_CanariDefeat3:
-	.string "Stream's over, folks!\n"
-	.string "...Okay, you win this one.$"
+	.string "{JPN}はいしん しゅうりょう!\n"
+	.string "…はいはい こんかいは きみの かち。$"
 
 MegaDim_Text_CanariPost:
-	.string "Don't forget to like and\n"
-	.string "subscribe! ...What? Habit.$"
+	.string "{JPN}グッドボタンと チャンネル\n"
+	.string "とうろく よろしく! …なに? くせ。$"
 
 MegaDim_Text_LidaIntro1:
-	.string "Ha, beat ya to it! Team MZ\n"
-	.string "always gets there first.\p"
-	.string "Still want it? Prove it!$"
+	.string "{JPN}へへっ おさきに! チームMZは\n"
+	.string "いつだって いちばんのり。\p"
+	.string "それでも ほしい? なら しょうめいして!$"
 
 MegaDim_Text_LidaDefeat1:
-	.string "Okay, okay, you earned it.$"
+	.string "{JPN}わかった わかった きみの ものだよ。$"
 
 MegaDim_Text_LidaIntro2:
-	.string "You're fast, {PLAYER}... but\n"
-	.string "not Team-MZ fast.\p"
-	.string "This Mega's ours. Unless you\n"
-	.string "can take it off my hands?$"
+	.string "{JPN}はやいね {ENG}{PLAYER}{JPN}… でも\n"
+	.string "チームMZほどじゃ ないかな。\p"
+	.string "この メガは こっちの もの。\n"
+	.string "それとも きみが うばってみる?$"
 
 MegaDim_Text_LidaDefeat2:
-	.string "Wow. Mable's gonna want\n"
-	.string "to hear about this.$"
+	.string "{JPN}すごい。 モミジが きいたら\n"
+	.string "くわしく ききたがるだろうな。$"
 
 MegaDim_Text_LidaIntro3:
-	.string "Ha! Caught it before the rift\n"
-	.string "even finished glowing!\p"
-	.string "Come on, one round. For fun.\n"
-	.string "And the stone.$"
+	.string "{JPN}へへっ! さけめが ひかりおわる\n"
+	.string "まえに つかまえちゃった!\p"
+	.string "ほら 1かいだけ。 おたのしみで。\n"
+	.string "あと いしを かけて。$"
 
 MegaDim_Text_LidaDefeat3:
-	.string "Okay, that was fun AND\n"
-	.string "humiliating. Nice.$"
+	.string "{JPN}うん たのしかったし\n"
+	.string "はずかしかった。 やるね。$"
 
 MegaDim_Text_LidaPost:
-	.string "Team MZ could use someone\n"
-	.string "like you. Just saying!$"
+	.string "{JPN}チームMZに きみみたいな ひと\n"
+	.string "いると いいな。 なんてね!$"
 
 MegaDim_Text_EmmaIntro1:
-	.string "Ha, beat ya to it. I tracked\n"
-	.string "these readings here hours ago.\p"
-	.string "Want the stone? Out-think me.$"
+	.string "{JPN}ふふ おさきに。 この はんのうは\n"
+	.string "なんじかんも まえに おってたの。\p"
+	.string "いしが ほしい? なら わたしを よみきって。$"
 
 MegaDim_Text_EmmaDefeat1:
-	.string "Case closed... in your favor.$"
+	.string "{JPN}じけん かいけつ… あなたの かちで。$"
 
 MegaDim_Text_EmmaIntro2:
-	.string "The trail was obvious, if you\n"
-	.string "know where to look.\p"
-	.string "Shall we settle who solved\n"
-	.string "this one?$"
+	.string "{JPN}てがかりは みえみえ だったわ。\n"
+	.string "みる ばしょさえ わかればね。\p"
+	.string "どちらが この なぞを といたか\n"
+	.string "はっきり させましょうか?$"
 
 MegaDim_Text_EmmaDefeat2:
-	.string "I missed a clue. Somewhere.\n"
-	.string "Well played.$"
+	.string "{JPN}てがかりを みおとした。 どこかで。\n"
+	.string "おみごとね。$"
 
 MegaDim_Text_EmmaIntro3:
-	.string "You followed the same rift\n"
-	.string "I did. Clever.\p"
-	.string "But the culprit's already in\n"
-	.string "custody. Care to appeal?$"
+	.string "{JPN}わたしと おなじ さけめを\n"
+	.string "たどってきたのね。 かしこいわ。\p"
+	.string "でも はんにんは もう\n"
+	.string "たいほ ずみ。 いぎを もうしたてる?$"
 
 MegaDim_Text_EmmaDefeat3:
-	.string "Evidence overturned.\n"
-	.string "The stone's yours.$"
+	.string "{JPN}しょうこは くつがえされたわ。\n"
+	.string "いしは あなたの ものよ。$"
 
 MegaDim_Text_EmmaPost:
-	.string "Every rift leaves a trace.\n"
-	.string "I'll find the next one first.$"
+	.string "{JPN}さけめは かならず あとを のこす。\n"
+	.string "つぎは わたしが さきに みつけるわ。$"
 
 MegaDim_Text_TaunieIntro1:
-	.string "Ha, beat ya to it!\n"
-	.string "Fair's fair, though.\p"
-	.string "Battle me for it!$"
+	.string "{JPN}へへっ おさきに!\n"
+	.string "でも フェアに いこう。\p"
+	.string "しょうぶして とってみて!$"
 
 MegaDim_Text_TaunieDefeat1:
-	.string "Wow, you're good!$"
+	.string "{JPN}うわっ つよいね!$"
 
 MegaDim_Text_TaunieIntro2:
-	.string "Oh! You came for this one too?\n"
-	.string "I got lucky this time.\p"
-	.string "Let's see if luck holds up\n"
-	.string "in a battle!$"
+	.string "{JPN}あっ! きみも これを ねらって きたの?\n"
+	.string "こんかいは ラッキー だったんだ。\p"
+	.string "その うんが バトルでも\n"
+	.string "つづくか ためしてみよう!$"
 
 MegaDim_Text_TaunieDefeat2:
-	.string "Nope! Luck ran out!$"
+	.string "{JPN}だめだ! うんぎれ!$"
 
 MegaDim_Text_TaunieIntro3:
-	.string "I just caught it! Isn't it\n"
-	.string "amazing? ...Wait, you want it?\p"
-	.string "Okay, okay! Winner keeps\n"
-	.string "the stone, deal?$"
+	.string "{JPN}いま つかまえたの! すごく\n"
+	.string "ない? …まって きみも ほしいの?\p"
+	.string "わかった わかった! かったほうが\n"
+	.string "いしを もらう それでいい?$"
 
 MegaDim_Text_TaunieDefeat3:
-	.string "Deal's a deal...\n"
-	.string "I'm still proud of it!$"
+	.string "{JPN}やくそくは やくそく…\n"
+	.string "でも つかまえたのは じまんだよ!$"
 
 MegaDim_Text_TauniePost:
-	.string "Let's race to the next rift!\n"
-	.string "I won't lose twice!$"
+	.string "{JPN}つぎの さけめまで きょうそうね!\n"
+	.string "2かいは まけないから!$"
 
 MegaDim_Text_TulipIntro1:
-	.string "Oh, beat you to it, darling.\n"
-	.string "Shall we see who wears\p"
-	.string "this Mega better?$"
+	.string "{JPN}あら おさきに いただいたわ。\n"
+	.string "どちらが この メガを\p"
+	.string "うつくしく まとえるかしら?$"
 
 MegaDim_Text_TulipDefeat1:
-	.string "Beautifully done.$"
+	.string "{JPN}みごとな できばえね。$"
 
 MegaDim_Text_TulipIntro2:
-	.string "A rogue Mega, such raw beauty.\n"
-	.string "I simply had to have it.\p"
-	.string "But you're welcome to try\n"
-	.string "and take it, darling.$"
+	.string "{JPN}はぐれメガ… あらけずりな びしさ。\n"
+	.string "てに いれずには いられなかったの。\p"
+	.string "でも うばいたければ どうぞ\n"
+	.string "ためしてみて あなた。$"
 
 MegaDim_Text_TulipDefeat2:
-	.string "Flawless. Even I can't\n"
-	.string "fault that technique.$"
+	.string "{JPN}かんぺきね。 わたしでも\n"
+	.string "その わざには けちを つけられない。$"
 
 MegaDim_Text_TulipIntro3:
-	.string "The light in here is all\n"
-	.string "wrong, but the Mega? Perfect.\p"
-	.string "Shall we put on a show for\n"
-	.string "it, darling?$"
+	.string "{JPN}ここの ひかりは まるで\n"
+	.string "だめ。 でも メガは? かんぺきよ。\p"
+	.string "この こに ショーを みせて\n"
+	.string "あげましょうか あなた?$"
 
 MegaDim_Text_TulipDefeat3:
-	.string "Darling, you were radiant.\n"
-	.string "Truly.$"
+	.string "{JPN}あなた かがやいていたわ。\n"
+	.string "ほんとうに。$"
 
 MegaDim_Text_TulipPost:
-	.string "Beauty fades, darling.\n"
-	.string "Strength like that doesn't.$"
+	.string "{JPN}うつくしさは うつろうもの。\n"
+	.string "でも あの つよさは きえないわ。$"
 
 MegaDim_Text_JacintheIntro1:
-	.string "Ha, beat ya to it. A Mega\n"
-	.string "this rare belongs with\p"
-	.string "someone of taste... unless\n"
-	.string "you show me otherwise.$"
+	.string "{JPN}ふふ おさきに。 これほど めずらしい\n"
+	.string "メガは ふさわしいのよ\p"
+	.string "センスの ある ものにこそ…\n"
+	.string "あなたが そうだと しめさないかぎり。$"
 
 MegaDim_Text_JacintheDefeat1:
-	.string "Hmph. Very well.$"
+	.string "{JPN}ふん。 いいでしょう。$"
 
 MegaDim_Text_JacintheIntro2:
-	.string "You're late. How very\n"
-	.string "common of you.\p"
-	.string "Still, I'll allow you one\n"
-	.string "chance. Do try to impress.$"
+	.string "{JPN}おそいわね。 なんて\n"
+	.string "ありきたりな こと。\p"
+	.string "まあ 1どだけ チャンスを\n"
+	.string "あげる。 せいぜい たのしませて。$"
 
 MegaDim_Text_JacintheDefeat2:
-	.string "...Impressive.\n"
-	.string "Don't let it go to your head.$"
+	.string "{JPN}…みごとね。\n"
+	.string "ちょうしに のらないことね。$"
 
 MegaDim_Text_JacintheIntro3:
-	.string "This Mega deserves a\n"
-	.string "proper owner. Me.\p"
-	.string "Unless you'd care to make\n"
-	.string "an argument for yourself?$"
+	.string "{JPN}この メガには ふさわしい\n"
+	.string "もちぬしが ひつよう。 わたしよ。\p"
+	.string "それとも あなた じぶんの ことを\n"
+	.string "べんめい してみる?$"
 
 MegaDim_Text_JacintheDefeat3:
-	.string "A compelling argument.\n"
-	.string "I concede, graciously.$"
+	.string "{JPN}せっとくりょくの ある べんめいね。\n"
+	.string "いさぎよく ゆずるわ。$"
 
 MegaDim_Text_JacinthePost:
-	.string "Next time, I shan't be so\n"
-	.string "generous. Good day.$"
+	.string "{JPN}つぎは こんなに かんだいには\n"
+	.string "ならないわよ。 ごきげんよう。$"
 
 @ --- leaving -------------------------------------------------------------------
 @ The exit portal: home, and the portal there stays open.
@@ -700,91 +700,91 @@ MegaDim_EventScript_RiftOut::
 
 @ --- text ----------------------------------------------------------------------
 MegaDim_Text_PortalPrompt:
-	.string "A rift crackles with strange\n"
-	.string "energy. Beyond it, the world looks\l"
-	.string "drained of all color…\p"
-	.string "Step inside?$"
+	.string "{JPN}さけめが ふしぎな エネルギーで\n"
+	.string "パチパチ いっている。 その さきの\l"
+	.string "せかいは いろが ぬけおちている…\p"
+	.string "なかに はいる?$"
 
 MegaDim_Text_PortalReenterPrompt:
-	.string "The rift is still open, but it's\n"
-	.string "fading: {STR_VAR_1} left inside.\p"
-	.string "Going back in costs 5 seconds.\n"
-	.string "Step inside?$"
+	.string "{JPN}さけめは まだ ひらいているが\n"
+	.string "きえかけている: のこり {ENG}{STR_VAR_1}{JPN}\p"
+	.string "もういちど はいると 5びょう へる。\n"
+	.string "なかに はいる?$"
 
 MegaDim_Text_PortalFizzles:
-	.string "The rift flickers…\n"
-	.string "and fizzles out.$"
+	.string "{JPN}さけめが ゆらめいて…\n"
+	.string "しゅっと きえてしまった。$"
 
 MegaDim_Text_ExitPrompt:
-	.string "The rift home is still open.\n"
-	.string "You can come back while it lasts.\p"
-	.string "Leave the Mega Dimension?$"
+	.string "{JPN}もとの せかいへの さけめは まだ\n"
+	.string "ひらいている。 あいだは もどれる。\p"
+	.string "メガじげんを でる?$"
 
 MegaDim_Text_MegaRadiates:
-	.string "{STR_VAR_1} is radiating\n"
-	.string "Mega energy!$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}から\n"
+	.string "メガの ちからが あふれている!$"
 
 MegaDim_Text_StoneLeftBehind:
-	.string "{STR_VAR_1} faded away…\n"
-	.string "It left something behind!$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は きえていった…\n"
+	.string "なにかを のこしていった!$"
 
 MegaDim_Text_CaughtWithStone:
-	.string "{STR_VAR_1} is holding its\n"
-	.string "{STR_VAR_2}!$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は\n"
+	.string "{ENG}{STR_VAR_2}{JPN}を もっている!$"
 
 MegaDim_Text_MegaFaded:
-	.string "{STR_VAR_1} faded away…$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は きえていった…$"
 
 MegaDim_Text_LegendRadiates:
-	.string "{STR_VAR_1} is giving off\n"
-	.string "an immense power!$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}から\n"
+	.string "とてつもない ちからを かんじる!$"
 
 MegaDim_Text_LegendRetreats:
-	.string "{STR_VAR_1} retreated deeper\n"
-	.string "into the rift…\p"
-	.string "It will surface again somewhere.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は さけめの\n"
+	.string "おくへ にげていった…\p"
+	.string "また どこかに あらわれるだろう。$"
 
 MegaDim_Text_PortalAlert1:
-	.string "{PLAYER}, heads up! A new rift\n"
-	.string "just opened in:\p"
-	.string "{STR_VAR_1}!\p"
-	.string "Two minutes inside. Go, go, go!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN} きいて! あたらしい\n"
+	.string "さけめが ひらいたよ:\p"
+	.string "{ENG}{STR_VAR_1}{JPN}!\p"
+	.string "なかは 2ふん。 いそいで いそいで!$"
 
 MegaDim_Text_PortalAlert2:
-	.string "{PLAYER}, heads up! New rifts\n"
-	.string "just opened in:\p"
-	.string "{STR_VAR_1}\n"
-	.string "and {STR_VAR_2}!\p"
-	.string "Two minutes inside. Go, go, go!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN} きいて! あたらしい\n"
+	.string "さけめが ひらいたよ:\p"
+	.string "{ENG}{STR_VAR_1}{JPN}\n"
+	.string "と {ENG}{STR_VAR_2}{JPN}!\p"
+	.string "なかは 2ふん。 いそいで いそいで!$"
 
 MegaDim_Text_PortalAlert3:
-	.string "{PLAYER}, heads up! New rifts\n"
-	.string "just opened in:\p"
-	.string "{STR_VAR_1},\n"
-	.string "{STR_VAR_2}\l"
-	.string "and {STR_VAR_3}!\p"
-	.string "Two minutes inside. Go, go, go!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN} きいて! あたらしい\n"
+	.string "さけめが ひらいたよ:\p"
+	.string "{ENG}{STR_VAR_1}{JPN}\n"
+	.string "{ENG}{STR_VAR_2}{JPN}\l"
+	.string "と {ENG}{STR_VAR_3}{JPN}!\p"
+	.string "なかは 2ふん。 いそいで いそいで!$"
 
 MegaDim_Text_MablePrimalCall:
-	.string "{PLAYER}, it's Mable. I've run\n"
-	.string "the tests on all 19 stones.\p"
-	.string "And I found something else.\n"
-	.string "Two power signatures in the\l"
-	.string "rifts, off the charts.\p"
-	.string "Primal Pokémon. Groudon and\n"
-	.string "Kyogre, in their ancient forms.\p"
-	.string "They're in the portals now.\n"
-	.string "Catch them both. Carefully.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN} モミジよ。 19この\n"
+	.string "いし すべての けんさが おわったわ。\p"
+	.string "それと べつの ものも みつけたの。\n"
+	.string "さけめの なかに けたはずれの\l"
+	.string "ちからの はんのうが 2つ。\p"
+	.string "ゲンシの ポケモン。 グラードンと\n"
+	.string "カイオーガの いにしえの すがたよ。\p"
+	.string "いま さけめの なかに いるわ。\n"
+	.string "2ひき とも つかまえて。 しんちょうにね。$"
 
 MegaDim_Text_MableRayquazaCall:
-	.string "{PLAYER}! Mable. Both Primals,\n"
-	.string "caught. Remarkable work.\p"
-	.string "But something's chasing their\n"
-	.string "energy through the rifts.\p"
-	.string "A Mega Rayquaza. It's already\n"
-	.string "in a portal.\p"
-	.string "Bring it in before it tears\n"
-	.string "the rifts wide open.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}! モミジよ。 ゲンシを\n"
+	.string "2ひきとも つかまえたのね。 おみごと。\p"
+	.string "でも なにかが その ちからを\n"
+	.string "おって さけめを うごいているの。\p"
+	.string "メガレックウザよ。 もう さけめの\n"
+	.string "なかに いるわ。\p"
+	.string "さけめを こじあけられる まえに\n"
+	.string "つかまえて。$"
 
 MegaDim_Text_Collapsing:
-	.string "The Mega Dimension is collapsing!$"
+	.string "{JPN}メガじげんが くずれはじめた!$"

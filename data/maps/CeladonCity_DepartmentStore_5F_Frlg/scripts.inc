@@ -59,25 +59,25 @@ CeladonCity_DepartmentStore_5F_Vitamins::
 	end
 
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
-	.string "POKéMON stat enhancers can be\n"
-	.string "bought only here.\p"
-	.string "HP UP increases the base HP of a\n"
-	.string "POKéMON.\p"
-	.string "CALCIUM raises the base SP. ATK\n"
-	.string "stat of one POKéMON.\p"
-	.string "ZINC boosts the base SP. DEF stat\n"
-	.string "of one POKéMON.\p"
-	.string "CARBOS enhances the base SPEED\n"
-	.string "stat.$"
+	.string "{JPN}ポケモンの のうりょくを あげる くすりは\n"
+	.string "ここでしか かえないの。\p"
+	.string "マックスアップは ポケモンの\n"
+	.string "HPの きほんちを あげるわ。\p"
+	.string "リゾチウムは ポケモンの とくこうの\n"
+	.string "きほんちを あげるの。\p"
+	.string "キトサンは ポケモンの とくぼうの\n"
+	.string "きほんちを あげるわ。\p"
+	.string "インドメタシンは すばやさの\n"
+	.string "きほんちを あげるの。$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-	.string "I'm here for POKéMON stat\n"
-	.string "enhancers.\p"
-	.string "PROTEIN increases the base ATTACK\n"
-	.string "power.\p"
-	.string "IRON increases the base DEFENSE\n"
-	.string "stat.$"
+	.string "{JPN}ポケモンの のうりょくを あげる\n"
+	.string "くすりを かいに きたんだ。\p"
+	.string "タウリンは こうげきの\n"
+	.string "きほんちを あげる。\p"
+	.string "ブロムヘキシンは ぼうぎょの\n"
+	.string "きほんちを あげるんだ。$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-	.string "5F: DRUGSTORE$"
+	.string "{JPN}5かい: ドラッグストア$"
 

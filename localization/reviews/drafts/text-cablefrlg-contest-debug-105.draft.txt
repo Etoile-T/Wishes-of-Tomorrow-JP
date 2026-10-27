@@ -1,0 +1,981 @@
+##### data/scripts/cable_club_frlg.inc
+## CableClub_Text_WelcomeWhichCableClubService_Frlg::
+5be41cc2abea5f00	ポケモン ケーブルクラブへ\n
+70f4ca9273e1769b	ようこそ!\p
+5754da643829090d	どの サービスを\n
+64397923be2b096e	ごりよう なさいますか?$
+## CableClub_Text_WhichService_Frlg::
+a7313edc04561145	どの サービスを\n
+fab7f0b8faaebd2f	ごりよう なさいますか?$
+## CableClub_Text_TradeMonsUsingLinkCable_Frlg::
+ab82acc9709785b5	つうしんケーブルを つかって\n
+ea023e3efe7caec5	ほかの ひとと ポケモンを こうかんします$
+## CableClub_Text_BattleUsingLinkCable_Frlg::
+f148d942ef5376f8	つうしんケーブルを つかって\n
+357640e1e6defa13	ほかの トレーナーと たいせんします$
+## CableClub_Text_CloseThisMenu_Frlg::
+1edc8416e99cdb34	おわります$
+## CableClub_Text_NeedTwoMonsForDoubleBattle_Frlg::
+ec28c31fbc41507d	ダブルバトルには ポケモンが\n
+d084cce80df3c59d	2ひき いじょう ひつようです$
+## CableClub_Text_NeedTwoMonsToTrade_Frlg::
+6ecb674a6d5e4c2b	こうかんするには ポケモンを\n
+48d9d749a0d1c63e	2ひき いじょう つれている ひつようが あります$
+## CableClub_Text_CantTradeEnigmaBerry_Frlg::
+352d135eb16a055e	{STR_VAR_1}のみを もった ポケモンは\n
+94904a944c27f2c7	こうかん できません$
+## CableClub_Text_PleaseWaitBCancel_Frlg::
+350e4f5b87757a39	しょうしょう おまちください\n
+53cb509011e363c4	… … Bボタン: キャンセル$
+## CableClub_Text_WhenAllPlayersReadyAConfirmBCancel_Frlg::
+dac579de3bf6780f	みんなの じゅんびが できたら…\n
+6ed4109d11a7e362	Aボタン: けってい\l
+514819b553050375	Bボタン: キャンセル$
+## CableClub_Text_StartLinkWithXPlayersAConfirmBCancel_Frlg::
+258e18c0c21b0d1b	{STR_VAR_1}にんで つうしんを はじめます\n
+1559d0a96b311d33	Aボタン: けってい\l
+b3ad3f209d214c00	Bボタン: キャンセル$
+## CableClub_Text_AwaitingLinkupBCancel_Frlg::
+cffa3a50e0a20cf2	つうしん たいきちゅう…\n
+1825c1dcbcabffc0	… … Bボタン: キャンセル$
+## CableClub_Text_OkayToSaveProgress_Frlg::
+7298fc1a0d81459c	はじめる まえに レポートを\n
+61f0d7a0effa44cb	かきますが よろしいですか?$
+## CableClub_Text_PleaseEnter_Frlg::
+545b0a6a19cee813	どうぞ おはいりください$
+## CableClub_Text_DirectYouToYourRoom_Frlg::
+667131769f836713	では おへやへ ごあんない します$
+## CableClub_Text_SomeoneIsNotReadyToLink_Frlg::
+b4ed35024e799fa6	じゅんびが できていない かたが います\p
+525a8466977bcd60	みなさんの じゅんびが できてから\n
+d797cf4ed020c3a4	また おこしください$
+## CableClub_Text_LinkErrorPleaseReset_Frlg::
+9918f8dd2a69e960	つうしんエラーが おきました…\n
+f5e08ea7eaf2f408	リセットして やりなおしてください$
+## CableClub_Text_PlayersMadeDifferentSelections_Frlg::
+bc13773b95c6ff44	つうしん あいてと ちがうものを\n
+c2d06d6fc0d31e8c	えらんだ ようです$
+## CableClub_Text_PleaseVisitAgain_Frlg::
+f0618c8f62b018e7	また おこしください$
+## CableClub_Text_IncorrectNumberOfParticipants_Frlg::
+78d39778d73bb6b3	さんかする にんずうが\n
+4e9d0cad7561b4ff	ただしく ありません$
+## CableClub_Text_CantSingleBattleWithXPlayers_Frlg::
+d84186f6ef7b637c	シングルバトルは\n
+4f237ed7707e3044	{STR_VAR_1}にんでは あそべません$
+## CableClub_Text_CantDoubleBattleWithXPlayers_Frlg::
+35533e909e66384d	ダブルバトルは\n
+d587f3ed07a6de0d	{STR_VAR_1}にんでは あそべません$
+## CableClub_Text_NeedFourPlayers_Frlg::
+b255ba3c1c856f2f	この バトルモードは\n
+d4e4cdd67b7a50d2	4にん そろわないと あそべません$
+## CableClub_Text_PleaseConfirmNumberAndRestart_Frlg::
+eb3d1c8fa5bdf09e	にんずうを たしかめて\n
+66935fd341669640	もういちど はじめてください$
+## Text_TerminateLinkIfYouLeaveRoom_Frlg::
+7bc43866392d8d87	へやを でると つうしんを\n
+363a294e6397d64b	しゅうりょう します よろしいですか?$
+## Text_TerminateLinkConfirmation_Frlg::
+753659c845237045	つうしんを しゅうりょう します…\n
+bad88275236d495b	へやの そとへ ごあんない しますので\l
+77333d719703be3e	しょうしょう おまちください$
+## Text_TrainerTooBusyToNotice_Frlg::
+294675c40f33d3df	この トレーナーは いそがしくて\n
+67e137e0475b6830	きづいて いないようだ…$
+## Text_LookedAtPlayersTrainerCard_Frlg::
+9ea0050516e76a61	やった! {STR_VAR_1}の\n
+effc2ae1f819fc64	トレーナーカードを みせてもらった!$
+## Text_LookedAtPlayersTrainerCardColored_Frlg::
+551badf4ee084360	やった! {STR_VAR_1}の\n
+7c4d1e76e4207a06	トレーナーカードを みせてもらった!\p
+b8e849b217cd6cbf	{STR_VAR_2}の カードだ!$
+## Text_TakeSeatStartBattle_Frlg::
+3937de9ea72f26bf	せきに ついて たいせんを\n
+95f1f1f0c526a844	はじめてください$
+## Text_TakeSeatStartTrade_Frlg::
+5ed67ccf53927c21	せきに ついて こうかんを\n
+71f1379f78a4f480	はじめてください$
+## RecordCorner_Text_ThanksForComing_Frlg::
+eca126be54a9b05a	ごりよう ありがとう ございました$
+## CableClub_Text_TrainerCardDataOverwritten_Frlg::
+2f4a111a78207d56	トレーナーカードの データが\n
+10ab473502c4bfe3	うわがき されます$
+## CableClub_Text_HopeToSeeYouAgain_Frlg::
+559f58695de0aabd	また おこしください!$
+## CableClub_Text_NotSetUpForFarAwayRegion_Frlg::
+6133ca48b81c22e0	たいへん もうしわけ ありません\p
+81d3252e58b467eb	とおく はなれた ちほうの\n
+348515c2d53d52d1	トレーナーとの こうかんは\l
+60923c300c7467c0	まだ じゅんびちゅう なのです…$
+## CableClub_Text_OtherTrainerNotReady_Frlg::
+c4bed98cc575e4a3	あいての トレーナーの じゅんびが まだです$
+## CableClub_Text_YouHaveAMonThatCantBeTaken_Frlg::
+756d3749760c2261	つれていけない ポケモンが\n
+f584bd8a40148fda	すくなくとも 1ぴき います$
+## CableClub_Text_AdapterNotConnected_Frlg::
+164736b18115074c	ワイヤレスアダプタが\n
+fc37609e049eb6af	ただしく せつぞく されていません$
+## CableClub_Text_ParticipantsStepUpToCounter_Frlg::
+b79dd4d68d2cc445	さんかする かたは\n
+9594196b61df4bd4	うけつけまで おこしください$
+## CableClub_Text_Hello_Frlg::
+953b37e89e396904	こんにちは!$
+## CableClub_Text_PleaseWait_Frlg::
+4f01b8fecf5d368c	しょうしょう おまちください$
+## CableClub_Text_YouMayTradeHere_Frlg::
+b95342b6b291fb64	ここでは ほかの トレーナーと\n
+56c5ed4cf709c56a	ポケモンを こうかん できます$
+## CableClub_Text_YouMayBattleHere_Frlg::
+69182b8f3443653b	ここでは ともだちと\n
+9caaf2f5d05278e4	たいせん できます$
+## CableClub_Text_CanMakeBerryPowder_Frlg::
+8cd07860bea17d9c	2から5にんの トレーナーで いっしょに\n
+ee2339235f87e0cf	きのみパウダーを つくれます$
+## CableClub_Text_CanMixRecords_Frlg::
+9f9175052506afc1	ワイヤレス クラブでの\n
+6f0d85939803eca2	あそびかたを せつめいします$
+## CableClub_Text_CancelSelectedItem_Frlg::
+438040da3d73e9c7	えらんだ メニューを とりけします$
+## CableClub_Text_WhichBattleMode_Frlg::
+492bd9cd477e4ba9	どちらの しょうぶに しますか?$
+## CableClub_Text_ReturnsToPreviousStep_Frlg::
+b727de00d496d201	ひとつ まえに もどります$
+## CableClub_Text_NeedBerryForBerryCrush_Frlg::
+d71a77903cad1249	きのみマッシャーを つかうには\n
+9982cf07b557570c	きのみが 1こ いじょう ひつようです$
+## CableClub_Text_NeedTwoMonsForUnionRoom_Frlg::
+8466f863b8773f15	ユニオンルームに はいるには\n
+af79a27738fc596c	ポケモンが 2ひき いじょう ひつようです$
+## CableClub_Text_NoEnigmaBerryInUnionRoom_Frlg::
+8de579a79c64a261	{STR_VAR_1}のみを もった ポケモンは\n
+c06a3a0f3d2108fd	ユニオンルームに はいれません$
+## CableClub_Text_UnionRoomAdapterNotConnected_Frlg::
+76b9ca9d40a34c8a	ここは ポケモン ワイヤレスクラブの\n
+64e29db7b428c148	ユニオンルームです\p
+bbb68912c6152044	ざんねんですが ワイヤレスアダプタが\n
+a43880b2404667b3	ただしく せつぞく されていません\p
+ba118c80163ff12c	また おこしください$
+## Text_PlayerIsPlayingRightNowGoForIt_Frlg::
+059ae6a7142aa521	{STR_VAR_1}は いま\n
+372941a67d61ba5f	あそんでいる ところの ようだ\l
+920ceb876454ac1e	がんばれ!$
+## Text_DescribeWhichGame_Frlg::
+d0f7d4a2e3978387	よければ ゲームの ルールを\n
+68d8ac08e3e27467	せつめい しますよ\p
+3a3efd5ab4f57d7d	どの ゲームを せつめい しましょう?$
+## Text_PokemonJumpInfo_Frlg::
+47fa35c1d7d7b8a7	「ポケモンなわとび」\p
+ce3a98db1b542ecf	Aボタンで ポケモンに\n
+a0d868a5d3eb3559	つるのムチの なわを とばせます\p
+ee9b4ca2541de133	さんか できるのは たかさ 70センチ\n
+0a0f76f0b07e6ecd	いかの ちいさな ポケモン だけです\p
+bef8321e69a30831	およぐ もぐる とぶ しか できない\n
+aeb4396a52f9c3d2	ポケモンは ジャンプが にがてです\p
+9ec8407c56099fea	なので そういう ポケモンは\n
+9bc8fba134e40774	さんか できません\p
+6306c27d30732391	みんなで タイミングを あわせて とぶと\n
+694402d46a286348	いいことが ありますよ$
+## Text_DodrioBerryPickingInfo_Frlg::
+9a2cc7140cff927e	「ドードリオの きのみどり」\p
+0143ad3f5d8ee609	ドードリオの 3つの あたまで\n
+8006916dd3d390d5	おちてくる きのみを キャッチします\p
+131175e59ff75d32	じゅうじキーの みぎ うえ ひだりで\n
+7fe4f3ecd179d103	{PLUS} あたまを うごかします\p
+5bef121d1779f3e5	この ゲームで あそぶには\n
+46dfb9d59d8e3443	ドードリオが ひつようです$
+## Text_TalkToManToPlay_Frlg::
+a6e154d42e4aa541	ゲームで あそびたいなら\n
+8d67750bae3e30b2	となりの おとこのひとに はなしてね$
+## Text_WelcomeCanYouWait_Frlg::
+5652bebaf2b4ead2	やあ いらっしゃい!\n
+a00715b125e4306b	ワイヤレス つうしんシステムで\l
+f268f6adcb0dcc56	ゲームが あそべるよ\p
+2cb907ff035ff033	ちょっとだけ まってて くれるかい?$
+## CableClub_Text_ComeAgain_Frlg::
+492754cf61d8438b	よし また きてくれよな!$
+## Text_AdapterNotConnectedMinigame_Frlg::
+26d8a857bfb815f2	ワイヤレスアダプタが\n
+23062554873e0e5d	つながって ないぞ\p
+710b77226309ef9e	つないでから また きてくれ!$
+## Text_PlayWhichGame_Frlg::
+0ff572fb1bf568e0	よし! どの ゲームで\n
+7d3ad6846d5288ed	あそびたいんだ?$
+## Text_EnterWhichPokemon_Frlg::
+109dd5521d9bfaa8	どの ポケモンで\n
+4dce8b3c432c2695	さんか する?$
+## Text_AllGoodToGo_Frlg::
+37b839c7f7ae427a	よし じゅんび オーケーだ\n
+40adca12ae6209e0	ほかの みんなに まけるなよ!$
+## Text_LeavingDoComeAgain_Frlg::
+51ff3aa63c4ccca8	きょうは けえるのか?\n
+24894a9e385c442b	またこいよ!$
+## EventScript_ExplainPokemonJumpRequirements_Frlg::
+eac40d1bda1c4bed	さんか できる ポケモンを\n
+73308ef09e3c2648	もってない みたいだな…\p
+8cb508bf5617dfa9	どんな ポケモンが さんか できるか\n
+1ce1fe691cd84926	せつめい しようか?$
+## Text_ShortJumpingPokemonAllowed_Frlg::
+c4c55b9331ee3d21	「ポケモンなわとび」に でられるのは\n
+f01b8d1d6d8fa773	70センチ くらいまでの ポケモンだ\p
+3821f72b7fc7b221	でられないのは ジャンプが\n
+80c9dfd4fec89aab	できない ポケモンだな\p
+35d0e98c29e012ab	ほら およぐ もぐる とぶ しか\n
+03c1c28ed9865ab9	できない ポケモン とかさ\p
+2e677f6165fad78e	おぼえておくのは それだけだ$
+## Text_OnlyDodrioAllowed_Frlg::
+52e4f394ef06c23e	「ドードリオの きのみどり」…\n
+98be0fd35f751af8	まあ なまえの とおりさ\p
+3728b52dfe03898f	この ゲームで あそぶには\n
+f062d0ec77a60703	ドードリオが いないと だめだ$
+## Text_RetryFromStartPlease_Frlg::
+8e19afef34ba2d64	もういちど はじめから\n
+c73ccbabedba894c	やりなおして みて くれ$
+## CableClub_Text_WelcomeWhichDirectCornerRoom_Frlg::
+d1da2a7f8ffc034d	ポケモン ワイヤレスクラブ\n
+a0d01fe2595aef94	ダイレクトコーナーへ ようこそ!\p
+6dcf172c9c3ad16d	ここでは ともだちと ちょくせつ\n
+35813bab239cfc41	あそぶことが できます\p
+241532bee651d889	どちらの へやに\n
+a8239fdf9c115517	はいりますか?$
+## CableClub_Text_TradePokemon_Frlg::
+3567b12c4e5f3d82	ポケモンを こうかん しますか?$
+## CableClub_Text_PlayWhichBattleMode_Frlg::
+b4c10cd5a544fc24	どの バトルモードで\n
+24b9fe0e426042bb	あそびますか?$
+## CableClub_Text_UseBerryCrush_Frlg::
+71f0b477d2284b51	きのみマッシャーを\n
+f60777ac73aec2a1	ごりよう なさいますか?$
+## CableClub_Text_ExplainBattleModes_Frlg::
+69557963de0ce84b	バトルモードは 3しゅるい あります\p
+306aa67195c2075e	シングルバトルは ポケモンを\n
+ce694f3b51b14c06	1ぴき いじょう もった 2にんで たたかいます\p
+d8cc7901d54d9a0f	それぞれ 1かいに 1ぴきずつ\n
+0fb6201408860e2e	ポケモンを たたかわせます\p
+8267d6aeccaad1bc	ダブルバトルは ポケモンを\n
+07add5bd3f9129c0	2ひき いじょう もった 2にんで たたかいます\p
+a85ab9b86dafa951	それぞれ 1かいに 2ひきずつ\n
+52ef5247ec13a7bc	ポケモンを くりだします\p
+64c9a70f2589c266	マルチバトルは ポケモンを\n
+d58b407b693947ae	1ぴき いじょう もった 4にんで たたかいます\p
+b08eea4a3312ff3b	それぞれ 1かいに 1ぴきずつ\n
+d4c6d2cf41684f2e	ポケモンを たたかわせます$
+## CableClub_Text_ChooseGroupLeaderOfTwo_Frlg::
+0fafbd50c3666972	2にんの うち どちらが リーダーに\n
+67e5c4f082cb7aa9	なるか きめてください\p
+f7132f76a2c7e577	もう ひとりは そのあと\n
+72514d2a4e165b0a	「グループにはいる」を えらんでください$
+## CableClub_Text_ChooseGroupLeaderOfFour_Frlg::
+bdb4b64f7959c356	4にんの うち だれが リーダーに\n
+386b32eacad53fca	なるか きめてください\p
+473a6c13f206036f	ほかの ひとは そのあと\n
+cd7adc042206e8f4	「グループにはいる」を えらんでください$
+## CableClub_Text_ChooseGroupLeader_Frlg::
+b3cabcac02fa059e	だれが リーダーに なるか\n
+5d96b1ae737ff9b3	きめてください\p
+b5039b9a4192d167	ほかの ひとは そのあと\n
+7f5a2c1538442fc3	「グループにはいる」を えらんでください$
+## CableClub_Text_WelcomeUnionRoomEnter_Frlg::
+87dfa52cafc1ee41	ポケモン ワイヤレスクラブ\n
+83b8bd3999b5fe97	ユニオンルームへ ようこそ!\p
+d272f5fdc3d0d170	ここでは しらない ひとも ふくめ\n
+ea01c679ecc59697	ほかの トレーナーと\l
+3f58165bf87432c9	ちょくせつ あそぶことが できます\p
+29743dcbca079d61	ルームに はいりますか?$
+## CableClub_Text_UnionRoomInfo_Frlg::
+461516eec5c1f8cc	ユニオンルームに いるのは\n
+db3357af189a7ebd	ちかくで おなじく ルームに\l
+9ca703433612985f	はいった プレイヤーです\p
+3242bee05375fa04	ここでは あいさつ など\n
+de31a08962b57f38	いろいろな ことが できます\p
+144899b7219c83a9	レベル30までの ポケモン 2ひきで\n
+4706dd687cc3cbae	1たい1の たいせんが できます\p
+a4d7759b923c6e4e	2から5にんで チャットに\n
+724350ee95b8d6bb	さんか することも できます\p
+96fad7f8e6dd5c7a	また こうかんに だす ポケモンを\n
+de2801210f68571c	とうろく することも できます\p
+c79220d96ca42723	ルームに はいりますか?$
+## CableClub_Text_EnjoyUnionRoom_Frlg::
+6a9b092ee0566a98	ユニオンルームで\n
+2b221aadd936e811	たのしんで くださいね$
+## CableClub_Text_FirstTimeRightThisWay_Frlg::
+51f2cfc90d149af2	こんにちは!\n
+97f42513e209e94a	わたしは テアラと いいます\p
+67e407c546ccae11	ここに いらっしゃるのは\n
+9b67861e06e918f7	はじめて ですね\p
+0e635e58da00e19d	ワイヤレス つうしんシステムの\n
+e238191cb755acda	しくみを ごあんない します\p
+bca613b166ff5855	まずは この ポケモンセンターの\n
+45c93023c0283e33	この フロアを ごあんない しますね\p
+c890079f406bbeb2	こちらへ どうぞ$
+## CableClub_Text_ExplainWirelessClubFirstTime_Frlg::
+9e655303d66af9dd	この いちばん うえの かいには\n
+c6b3d037444a7fe1	へやが ふたつ あります\p
+572cd38d71ac4e5d	まず ひだりの へやは\n
+d29a9de37319cb5f	ユニオンルームです\p
+a4209d0ed20d7390	ちかくで おなじく ユニオンルームに\n
+2900dec7e5d20bff	はいった トレーナーと\l
+c77f607318abd8fe	つうしん できます\p
+9948ac47977a33d5	その ひとたちと チャットや\n
+428aa9841c1054d9	たいせん こうかんが できます\p
+725904399e641efa	つぎに みぎの へやは\n
+df177fe4ca6da3d3	ダイレクトコーナーです\p
+d900309d0f5b07bb	この へやでは ともだちと ポケモンの\n
+bcf7e9c0e9410e5d	こうかんや たいせんが できます\p
+64b55836f6618a4c	ワイヤレスアダプタが つながって\n
+a740aae62b9ff7f4	いなくても つうしんケーブルで\l
+a81c754539ee07ba	つうしん できます\p
+015d7bb24d0964ea	その ばあいは\n
+9cc7493ae38305a9	ダイレクトコーナーへ どうぞ\p
+0a6a9b1d91db2970	ワイヤレス つうしんシステムを\n
+ab303596f5313587	たのしんで くださいね$
+## CableClub_Text_AskAboutLinking_Frlg::
+d6349abf75cc0181	こんにちは {PLAYER}さん!\p
+f094f9f3e20c94df	ポケモンセンター 2かい かかりの\n
+751ef26ed43baf37	テアラです\p
+3c24a6b348d39839	つうしんの ことで なにか\n
+5c59fdc968183076	ききたい ことが ありますか?$
+## CableClub_Text_ExplainWirelessClub_Frlg::
+f60196c88af4ac54	ポケモン ワイヤレスクラブの\n
+8c52a48a49d20424	しくみを せつめい しますね\p
+26964d4a6b2c9432	この いちばん うえの かいには\n
+1c92913bc3a115d6	へやが ふたつ あります\p
+1d428bd24c03e0ff	まず ひだりの へやは\n
+1ce0d02783ca37e6	ユニオンルームです\p
+a848b7eb97c66ef0	ちかくで おなじく ユニオンルームに\n
+084c67533d705e2d	はいった トレーナーと\l
+c3001bb88f5c11d9	つうしん できます\p
+47a956c4d9e6d8ca	その ひとたちと チャットや\n
+b85914abfebecd60	たいせん こうかんが できます\p
+0a46267f2471a400	つぎに みぎの へやは\n
+f0b45c0be6b21d75	ダイレクトコーナーです\p
+9f42a04dfac733d9	この へやでは ともだちと ポケモンの\n
+f142beea51885972	こうかんや たいせんが できます\p
+43132aaab6c22bf6	ユニオンルームや ダイレクトコーナーで\n
+51262f5a92001f7d	ともだちが みつからない\l
+28792a7c87562f8f	ことも あります\p
+11838a0088d97bf3	そのときは ともだちの\n
+032c39c97f3be49a	ちかくに よってください\p
+5a3e3624c8e81979	ワイヤレスアダプタが つながって\n
+208944f13fc85854	いなくても つうしんケーブルで\l
+a81c17ecd4ead46d	つうしん できます\p
+b3eb6590483cab08	その ばあいは\n
+f32fcf2007f088e3	ダイレクトコーナーへ どうぞ\p
+3c91e969854fd959	ワイヤレス つうしんシステムを\n
+9b6f40ab526b8820	たのしんで くださいね$
+## CableClub_Text_HopeYouEnjoyWirelessSystem_Frlg::
+7e839effadac5fe7	ワイヤレス つうしんシステムを\n
+19d6155057b48285	たのしんで くださいね$
+## Text_WirelessClubUndergoingAdjustments::
+b71b6a7fd66490a7	たいへん もうしわけ ありません\n
+59a4c73ff3f738e6	ポケモン ワイヤレスクラブは\l
+889d72b47e19a493	ただいま ちょうせいちゅう です$
+## Text_AppearsToBeUndergoingAdjustments::
+be1934f2f671f90b	ちょうせいちゅうの\n
+d4edf29e1477226b	ようだ…$
+##### data/scripts/contest_hall.inc
+## LilycoveCity_ContestLobby_Text_ReceptionDontHavePokeblockCase:
+2240028a147432eb	こんにちは!\p
+c6c84f26f6fc8d48	こちらは ポケモンコンテストの\n
+360330cdf975c8d1	うけつけ です\p
+62f6cdd746d1e818	あら? まだ {POKEBLOCK}ケースを\n
+dae72a157577e048	おもちでは ない ようですね\p
+33c6cf6ff76abf39	それでは こちらを\n
+7f7a7813f9399f39	さしあげます!$
+## LilycoveCity_ContestLobby_Text_NowThatWeveClearedThatUp:
+490c02d0740ae875	さて それでは あらためまして…\n
+b50b68fba498873e	…\p
+cdfa83f3c775792b	こんにちは!\p
+9fe0593503c08635	こちらは ポケモンコンテストの\n
+7a53e432a6a443b4	うけつけ です$
+## LilycoveCity_ContestLobby_Text_ContestReception:
+7abdcd646c24e17a	こんにちは!\p
+d5650b398492590a	こちらは ポケモンコンテストの\n
+2b91c896906778a6	うけつけ です$
+## LilycoveCity_ContestLobby_Text_CounterOnlyFor4PlayerContests:
+2a8b458261717892	こんにちは!\p
+c3c598bf76a4ac40	こちらは 4にんで あそぶ\n
+0b82bb924ee81b9b	ポケモンコンテスト せんようの うけつけです$
+## LilycoveCity_ContestLobby_Text_EnterContest1:
+e45714deb726bbbf	あなたの ポケモンを コンテストに\n
+f61b62c38354e07d	さんか させますか?$
+## LilycoveCity_ContestLobby_Text_WhichTopic1:
+861064ba46934af6	なにに ついて おききに なりますか?$
+## LilycoveCity_ContestLobby_Text_ExplainContests:
+15a9049521c21fa9	ポケモンコンテストでは 4にんの\n
+bdd3c802de69637f	トレーナーが 1ぴきずつ ポケモンを だし\l
+f5fc6fde773cfa9c	しんさで きそいあいます\p
+4ac3a89371e7c54f	コンテストの しんさは\n
+65e3baccf08f6b59	1じしんさと 2じしんさの 2だんかいです\p
+8a6e655fea2390b4	1じしんさは かんきゃくによる\n
+9abeab091f302975	にんき とうひょう です\p
+ebbd0b5c5477e513	2じしんさでは ポケモンが わざを\n
+eb53154e006220c2	つかって アピールします\p
+f8bea314dcb91d10	よく かんがえて アピールし\n
+cfdcbd267ab330ef	しんさいんの ちゅうもくを あつめ\l
+a181335ceafd2fe2	かんきゃくを もりあげましょう\l
+31511ddc71764732	めだつように がんばってください\p
+9a366a8bb2a11148	1じしんさと 2じしんさの てんすうは\n
+fa5bb3b46b7c4367	さいごに あわせられます\p
+e1860b28c0245e76	いちばん たかい てんすうを とった\n
+78dc225bfe9ca911	ポケモンが ゆうしょう です$
+## LilycoveCity_ContestLobby_Text_ExplainContestTypes:
+e73c38f2c10b19ff	コンテストは 5しゅるい あります\p
+d213f169db833d78	かっこよさ うつくしさ かわいさ\n
+35dc038593a0671f	かしこさ たくましさの 5つです\p
+a7ad368d5367c508	さんか させる ポケモンに あった\n
+e30e14cad5332539	コンテストを えらんでください$
+## LilycoveCity_ContestLobby_Text_ExplainContestRanks:
+6d43fef2ca06ec54	ポケモンコンテストには\n
+c1e11c5fcb88a266	4つの ランクが あります\p
+a90869fab41c62fe	ノーマル スーパー ハイパー マスター\n
+1b28f3108f871ccd	の 4つの ランクです\p
+4a0fd35b7ddbd588	ノーマルランクには どんな ポケモンでも\n
+8ae15d85082e6f4e	さんか できます\p
+2dcda2e16adb4a81	ノーマルランクで ゆうしょうした\n
+2d6218c500303c0b	ポケモンは おなじ ぶもんの\l
+87dee36c10e3ff44	スーパーランクに すすめます\p
+71e97fd7fbaed112	おなじように スーパーランクで かてば\n
+a7f1468a7398ca43	ハイパーランクへ すすめ\l
+885371b7a756c1ad	ハイパーランクで かてば おなじ\l
+484f2b600f371cee	ぶもんの マスターランクへ すすめます\p
+a86f76402f207415	マスターランクで ゆうしょうした\n
+ee9f3cb1e6f4c630	ポケモンは マスターランクに\l
+d6890c59d429464f	なんどでも さんか できます$
+## LilycoveCity_ContestLobby_Text_EnterWhichRank:
+1fbea95ac4366d01	どの ランクに さんか しますか?$
+## LilycoveCity_ContestLobby_Text_EnterWhichContest1:
+9b94bd0cfff869f8	どの コンテストに さんか しますか?$
+## LilycoveCity_ContestLobby_Text_EnterWhichPokemon1:
+1215eb4bebbceb2b	どの ポケモンで さんか しますか?$
+## LilycoveCity_ContestLobby_Text_MonNotQualifiedForRank:
+31e6d64f25c7e822	もうしわけ ありませんが その ポケモンは\n
+6d4da1930b806adf	まだ この ランクに さんかする\l
+e098873deeca7c95	しかくが ありません…$
+## LilycoveCity_ContestLobby_Text_EggCannotTakePart:
+af068ac02e73462a	もうしわけ ありませんが タマゴは\n
+8902f14d0e3f1463	ポケモンコンテストに でられません$
+## LilycoveCity_ContestLobby_Text_MonInNoConditionForContest:
+5175d4d83a1364a2	その ポケモンは コンテストに でられる\n
+4ecb8998ae64efdd	じょうたいでは ない ようです…$
+## LilycoveCity_ContestLobby_Text_AlreadyWonEnterAnyway:
+59371d58d35acab8	あら その リボンは…\p
+205b1f25e1d96736	その ポケモンは まえに この\n
+0150d93395bc1001	コンテストで かったこと ありますよね?\p
+12b2b768237b6971	それでも この コンテストに\n
+0841571f02dc3626	さんか させますか?$
+## LilycoveCity_ContestLobby_Text_ConfirmContestMon:
+89e94aa76644db95	この ポケモンで さんか しますか?$
+## LilycoveCity_ContestLobby_Text_YourMonIsEntryNum4:
+51bca72e761bde68	では あなたの ポケモンを\n
+7dbd1de236e14f19	この コンテストに とうろく します\p
+6f486c19b17b8aa8	あなたの ポケモンは 4ばんです\n
+2aa20089c90916b0	まもなく コンテストが はじまります$
+## LilycoveCity_ContestLobby_Text_ComeThroughHere:
+2dec388aacd41b9e	こちらから おはいりください\n
+d832fec20dcf0626	がんばって くださいね!$
+## LilycoveCity_ContestLobby_Text_PokemonWonWeHavePrize:
+b3c429ac353dc36d	おめでとう ございます! あなたの\n
+597ea0417b0d85c3	ポケモンが ゆうしょう です!\p
+6c7f2143ee8fa25c	しょうひんは こちらに ございます\n
+de07f07aacea18f7	さあ どうぞ こちらへ!$
+## LilycoveCity_ContestLobby_Text_ComeBackForPrizeLater:
+baf6aed441773982	しょうひんは のちほど\n
+d9d0ca502d40f1c5	うけとりに きてください$
+## ContestHall_Text_GettingStartedParticipantsAsFollows:
+101659903768cedd	しかい: こんにちは! これより\n
+d8f678afb96afb53	{STR_VAR_3}ランクの ポケモン\l
+a80b3834e6cd4a3d	{STR_VAR_2}を はじめます!\p
+7f669b4f72285208	さんかする トレーナーと ポケモンを\n
+30b85d20a71a224b	ごしょうかい しましょう!$
+## ContestHall_Text_GettingStartedParticipantsAsFollowsLink:
+c2aced3f5003a242	しかい: こんにちは! これより\n
+509445994f754936	4にん つうしんの ポケモン\l
+02cbdb9ce8851e6c	{STR_VAR_2}を はじめます!\p
+4c3ab5391c6874e1	さんかする トレーナーと ポケモンを\n
+2f333fc5fd608c09	ごしょうかい しましょう!$
+## ContestHall_Text_EntryXTrainersMon:
+2e92e7febf19f519	しかい: エントリーナンバー {STR_VAR_2}!\n
+1bbe836263b2c760	{STR_VAR_1}の {STR_VAR_3}!$
+## ContestHall_Text_SeenContestantsAudienceWillVote:
+9e3c4271c4a0dd30	しかい: 4ひきの ポケモンが\n
+581bb86e4aa958d5	でそろいました!\p
+10ec79bd26d8ead9	それでは 1じしんさです!\p
+3002e51fa0d7f7d4	かんきゃくの みなさんに すきな\n
+ca65a1d20f96bd59	ポケモンに とうひょう してもらいます\p
+a07bc84392bdc642	では さっそく とうひょうを\n
+d635916a4a9d5a30	はじめましょう!$
+## ContestHall_Text_VotingUnderWay:
+08cf2d2413116586	とうひょうちゅう…$
+## ContestHall_Text_VotingCompleteLetsAppeal:
+1e82a8f6b48862fd	とうひょうが おわりました!\p
+8aea1f38560e4f88	しゅうけいの あいだに\n
+5c2b66205b9056fe	2じしんさへ すすみましょう!\p
+fcf2347409faab24	2じしんさは おまちかねの\n
+5e321fd881074514	アピールタイム です!\p
+ab5a71643a7f1d52	すばらしい わざの アピールで\n
+f045ccd37bcd28c0	わたしたちを おどろかせてください!\p
+1a564ba56830bc7e	さあ もりあがって いきましょう!\n
+19800112c671a8fd	アピール かいし!$
+## ContestHall_Text_ThatsItForJudging:
+2ddd664f90ca2179	しかい: しんさは これで おわりです!$
+## ContestHall_Text_ThankYouForAppeals:
+6a0450b4f4811e1d	みなさん すばらしい アピールを\n
+9c93479915373fb1	ありがとう ございました!\p
+612d98d91fdf9a9e	これで すべての しんさが おわりです!\n
+af4dbd860907dc0b	おつかれさまでした!$
+## ContestHall_Text_JudgeLooksReady:
+f06195961b1f01b0	のこるは むねが どきどきする\n
+7fcd8944ee4174e1	ゆうしょうしゃの はっぴょう です\p
+5d1f73fe8eaa791b	しんさいんの じゅんびも\n
+cbfd1f0fa62a9758	ととのった ようです!$
+## ContestHall_Text_WeWillNowDeclareWinner:
+82a77af365c07081	しんさいん: ゆうしょうを はっぴょうします!$
+## ContestHall_Text_CongratsTrainerXandMon:
+49269f54ba244188	しかい: エントリーナンバー {STR_VAR_2}!\p
+6a2cd3afcc56f5f2	{STR_VAR_3}と {STR_VAR_1}\n
+373ee9f59ece8cfb	おめでとう ございます!$
+## ContestHall_Text_CongratsPleaseCompeteAgain:
+8eb113add00d7896	しかい: おめでとう ございます!\n
+cab15df28018b284	また さんか してくださいね!$
+## ContestHall_Text_AcceptYourPrize:
+beeaa8cd04af1136	しかい: さあ どうぞ!\n
+289f2f07fffb620d	しょうひんを おうけとりください!$
+## ContestHall_Text_ConferRibbonAsPrize:
+2692ad08e689858b	しょうひんとして この リボンを\n
+d8107f76d983f4e5	さしあげます!$
+## ContestHall_Text_ReceivedRibbon:
+99bf83ae60c8769d	{PLAYER}は リボンを もらった!$
+## ContestHall_Text_PutRibbonOnMon:
+8d68c4c5b8b367d1	{PLAYER}は リボンを\n
+83bc9c92af734f1a	{STR_VAR_1}に つけた$
+## ContestHall_Text_PickUpPrizeAtCounterLater:
+d8035323b6d41006	しょうひんは のちほど\n
+583c175eb2779bff	うけつけで おうけとりください\l
+6adc09c7b7a6f08d	また さんか してくださいね!$
+## ContestHall_Text_OnlyRegister4Players:
+1085afbe3795d304	こちらでは 4にんで さんかする\n
+7bb98d71014b51cc	ポケモンコンテストを うけつけて います\p
+99d5dc5ce90b341c	ほかの 3にんと つうしんすれば\n
+41f8719d29a650e8	4にんで おなじ コンテストに でられます\p
+e197c96ea7784b64	さんか なさいますか?$
+## LilycoveCity_ContestLobby_Text_ProgressWillBeSaved:
+c85d1089f11ed084	コンテストに さんかする まえに\n
+e0669a277efc7641	レポートを かきます$
+## LilycoveCity_ContestLobby_Text_ParticipateAnotherTime:
+7079bd4f33bbf775	また こんど さんか して\n
+7de55d0d3ee43283	くださいね$
+## LilycoveCity_ContestLobby_Text_EnterContest2:
+6e8c5f6eef6399b4	コンテストに さんか しますか?$
+## LilycoveCity_ContestLobby_Text_Explain4PlayerContest:
+3b21dade457006a4	4にんの じゅんびが できたら\n
+cafc2c19c8f2d75c	つうしんケーブルで つないで\l
+cf3bd464e783011b	わたしに とうろく してください\p
+b150e1681da7131b	ほかの さんかしゃと おなじ\n
+8fd3d20637e52902	コンテストを えらんでくださいね\p
+236aeb67d50bc8b8	みんなが とうろくを すませたら\n
+fbe907685f423374	すぐに コンテストが はじまります\p
+deaddb7cb0d9c9a6	そのあとは いつもの コンテストと\n
+f990140a89945424	おなじ ルールです$
+## LilycoveCity_ContestLobby_Text_EnterWhichContest2:
+3b1181bcf6aebf9b	どの コンテストに さんか しますか?$
+## LilycoveCity_ContestLobby_Text_EnterWhichPokemon2:
+a08ad79b74b3cdbb	どの ポケモンで さんか しますか?$
+## LilycoveCity_ContestLobby_Text_Transmitting:
+1b1b52e09be5b5ae	つうしんちゅう…$
+## LilycoveCity_ContestLobby_Text_TransmissionError:
+2a1caeabd0295753	つうしんエラー…$
+## LilycoveCity_ContestLobby_Text_PlayersChoseDifferentContest:
+2ad583ac8303b142	ほかの プレイヤーと ちがう\n
+c55387c96dc20f9d	コンテストを えらんだ かもしれません$
+## LilycoveCity_ContestLobby_Text_PlayersMadeDifferentChoice:
+f79afdb58de96003	ほかの プレイヤーと ちがうものを\n
+1ee6de131b476d96	えらんだ かもしれません$
+## LilycoveCity_ContestLobby_Text_PleaseWaitBButtonCancel:
+52526da8193330cb	しょうしょう おまちください\n
+a7a5655115dcd0c2	… … Bボタン: キャンセル$
+## LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2:
+d2671560bbfef71a	また こんど さんか して\n
+d0cfc8c4324d6121	くださいね$
+## LilycoveCity_ContestLobby_Text_TransmissionErrorTryAgain:
+11d38fd123fd68c2	つうしんエラーです\n
+012715c5e4826122	もういちど おためしください$
+## LilycoveCity_ContestLobby_Text_YourMonIsEntryNumX:
+822e97261817e496	あなたの ポケモンを\n
+9b3686d4821bf333	コンテストに とうろく します\p
+b119a22fe4d778fb	あなたの ポケモンは {STR_VAR_2}ばんです$
+## LilycoveCity_ContestLobby_Text_ContestBeginShortly:
+c0d0c6927195dc1a	まもなく コンテストが はじまります$
+## LilycoveCity_ContestLobby_Text_LinkContestReception:
+97e720a68be97b45	いらっしゃいませ! こちらは\n
+1c05746f89d435a4	ポケモンコンテストの つうしんうけつけです\p
+5eb1481ac7b8cc14	ともだちと いっしょに\n
+527ff0f3a87213f9	コンテストに さんか できます$
+## LilycoveCity_ContestLobby_Text_WhichTopic2:
+1b72d5224214f2ef	なにに ついて おききに なりますか?$
+## LilycoveCity_ContestLobby_Text_EnterContest3:
+2e0b5935aa3a5bfe	コンテストに さんか しますか?$
+## LilycoveCity_ContestLobby_Text_EnterWhichContest3:
+9b2e162e1f6061f2	どの コンテストに さんか しますか?$
+## LilycoveCity_ContestLobby_Text_MonInNoCondition2:
+e5cf0a244ae30075	その ポケモンは コンテストに でられる\n
+be084c835ed2c35d	じょうたいでは ない ようです…$
+## LilycoveCity_ContestLobby_Text_EggCannotTakePart2:
+a7d9f8b4a86c7d26	もうしわけ ありませんが タマゴは\n
+9077b751d5d75319	ポケモンコンテストに でられません$
+## LilycoveCity_ContestLobby_Text_EnterWhichPokemon3:
+7ec1a930e9ddbb36	どの ポケモンで さんか しますか?$
+## LilycoveCity_ContestLobby_Text_PleaseDecideLinkLeader:
+93816000f7818fd3	だれが リーダーに なるか\n
+b65b1b329fe2c57d	きめてください\p
+690e85db99e44537	ほかの ひとは そのあと\n
+ae471da45b8e8b37	「グループにはいる」を えらんでください$
+## LilycoveCity_ContestLobby_Text_PlayerAt4PCounterUseGMode:
+411ac801f3862c4f	4にんよう うけつけから とうろくした\n
+c3fed062b044deba	プレイヤーが います\p
+a9f46795ad23521a	4にんが つうしんケーブルで\n
+ea12b67bc66d49b9	つながって いる ひつようが あります\p
+35f7b3e7a62f891c	4にんの じゅんびが できたら\n
+881afa6efb9abe95	Gモード (グローバルモード)を えらび\l
+538b07b3f1ed2cbd	もういちど とうろく してください$
+## LilycoveCity_ContestLobby_Text_ExplainLinkContest:
+84db015cb09ad4a8	これは ワイヤレスアダプタか\n
+c2dad6ba775082a4	つうしんケーブルで つないだ\l
+e03adac56d31b84d	2から4にんで あそぶ コンテストです\p
+df2f1e0fe99b818b	さんかしゃには まず さんかする\n
+bddf783b73c44aa6	モードを えらんで いただきます\p
+1852e89286c66231	モードは 2しゅるい あります\p
+50715ca60bf491c5	Eモード (エメラルドモード)は\n
+0530e3746933621c	ポケモン エメラルドを もった\l
+929cff523f6a46ae	2から4にんで あそぶ モードです\p
+203d13b70e1e5d81	Gモード (グローバルモード)は\n
+c66220d8ec4c582d	ポケモン エメラルド ルビー サファイアの\l
+3a78f503d4f231df	どれかを もった 4にん せんようです\p
+73dc3d41a8c5b8eb	どの モードに するか はなしあって\n
+c5c10183037baa24	おなじ モードを えらんでください\p
+5baddaac4fd62ad4	みんなが おなじ モードで\n
+c0a50e429b4c5bc6	おなじ コンテストを えらんだら\l
+bec5281d702c584b	エントリーの とうろく かんりょうです\p
+39044db0e1ac0f37	そのあとは いつもと おなじように\n
+086712eafc6df969	コンテストが はじまります$
+## LilycoveCity_ContestLobby_Text_ExplainEMode:
+2a800d5fa8012dc2	Eモード (エメラルドモード)では\n
+0bdb0bf1a006d278	2から4にんで つうしんコンテストが\l
+dae2ea083ff993cc	できます ひとりずつ ポケモン\l
+8f678820f91d96c7	エメラルドが ひつようです\p
+9e6babaa6ceffe7d	プレイヤーどうしを ワイヤレス\n
+945e223a71252998	アダプタか つうしんケーブルで\l
+b0a91483d99a6c76	つないで ください\p
+a14bde1445fc9618	4にんに たりない ときは\n
+e87d982064f27baa	ホールの トレーナーが くわわって\l
+1022b87ecfe2061e	4にんの コンテストに なります\p
+d5570bcebc09f7c0	Eモードは ポケモン ルビー\n
+13ccc8e581b856b8	サファイアでは つかえませんので ごちゅういください$
+## LilycoveCity_ContestLobby_Text_ExplainGMode:
+72680c48d611cf4f	Gモード (グローバルモード)は\n
+2adbfccdd34129dc	つうしんケーブルで つないだ\l
+05b717d9bab448a2	4にん せんようの モードです\p
+78c9ae180f300e39	ひとりずつ ポケモン エメラルド\n
+f48b1e25d952efa9	ルビー サファイアの どれかが ひつようです\p
+8ebf80a8f2d2bcfd	みんなが Gモード (エメラルド)を\n
+3d822467645a998f	えらぶか 4にんよう うけつけ\l
+ef44da68ddbdc8b0	(ルビー サファイア)から はいると\l
+08033ad4d02209ba	コンテストが はじまります$
+## LilycoveCity_ContestLobby_Text_NoWirelessAdapterInGMode:
+514e549a0dcd42d2	たいへん もうしわけ ありません\p
+52c7eef0789165b0	Gモードは ワイヤレスアダプタでは\n
+f6d043f5c259bb48	つかえません\p
+360387a51feaabcc	Eモードを えらぶか つうしん\n
+f5c01a2d551ad2e8	ケーブルで やりなおしてください$
+## LilycoveCity_ContestLobby_Text_WhichContestMode:
+2915d6c2577ab32d	どの コンテストモードで\n
+ac887729a99e1cda	さんか しますか?$
+## ContestHall_Text_GettingStartedWireless:
+e52d0b4c91a667a4	しかい: こんにちは! これより\n
+4f3bacfb90cd93af	4にん つうしんの ポケモン\l
+d2e3f77c21ae174a	{STR_VAR_2}を はじめます!$
+## ContestHall_Text_ParticipantsAsFollows:
+4a3648a69b24e3b3	さんかする トレーナーと ポケモンを\n
+e584054f496b252e	ごしょうかい しましょう!$
+## ContestHall_Text_WeveSeenContestants:
+dffd90b1bb1c8c2f	しかい: 4ひきの ポケモンが\n
+22240e9e3eec97a4	でそろいました!\p
+5f3ea6e9183a6d88	それでは 1じしんさです!$
+## ContestHall_Text_AudienceWillVote:
+3aac793dc087b71a	かんきゃくの みなさんに すきな\n
+5494c25bae7bea5b	ポケモンに とうひょう してもらいます$
+## ContestHall_Text_LetVotingBegin:
+15b16c7050e2e543	では さっそく\n
+85a4d9c3157a752f	とうひょうを はじめましょう!$
+## ContestHall_Text_VotingComplete:
+a2b9bf26611ee935	とうひょうが おわりました!\p
+5e3a0f43e3ba8118	しゅうけいの あいだに\n
+d81d6f676a3a3172	2じしんさへ すすみましょう!$
+## ContestHall_Text_SecondStageOfJudging:
+adfbbc9a84bcdda2	2じしんさは おまちかねの\n
+c0e60fd9e80fd1b1	アピールタイム です!\p
+ee29f1094f05bbf4	すばらしい わざの アピールで\n
+5fc67634c514bd59	わたしたちを おどろかせてください!$
+## ContestHall_Text_LetsAppeal:
+c022bb34a9e31296	さあ もりあがって いきましょう!\n
+5bd60c2e02e72500	アピール かいし!$
+##### data/scripts/debug.inc
+## Debug_FlagsNotSetOverworldConfigMessage_Text:
+95b1299ad21975ed	この きのうは つかえません!\n
+5b4dc673e2ddb960	つかえる フラグを ていぎしてください:\l
+cd05a01b30ade410	include/config/overworld.h$
+## Debug_FlagsNotSetBattleConfigMessage_Text:
+2b44b49ecc30a452	この きのうは つかえません!\n
+f00298e57e1febee	つかえる フラグを ていぎしてください:\l
+47705b20c19ab99d	include/config/battle.h$
+## Debug_VarsNotSetBattleConfigMessage_Text:
+7779f590131bdff9	この きのうは つかえません!\n
+d8580746a6feb5e5	つかえる へんすうを ていぎしてください:\l
+6d81660c2ec6d512	include/config/battle.h$
+## Debug_BoxFilledMessage_Text:
+979c5cd9e5ebd69b	ボックスを うめました!$
+## Debug_EventScript_Text_OffensiveEVs:
+8c7ac8020acb0a6f	A{STR_VAR_1} C{STR_VAR_2}\nS{STR_VAR_3} (どりょくち)$
+## Debug_EventScript_Text_DefensiveEVs:
+385d1c7adf3dab3b	H{STR_VAR_1} B{STR_VAR_2}\nD{STR_VAR_3} (どりょくち)$
+## Debug_EventScript_Text_OffensiveIVs:
+89c8649378ccc421	A{STR_VAR_1} C{STR_VAR_2}\nS{STR_VAR_3} (こたいち)$
+## Debug_EventScript_Text_DefensiveIVs:
+59276fae578498a7	H{STR_VAR_1} B{STR_VAR_2}\nD{STR_VAR_3} (こたいち)$
+## Debug_Text_NameboxVillain:
+787cbdebca27b0d2	ドラコ ミュートリッドだん:\n
+28e914b246756b74	なまえは あかいろの はず$
+## Debug_Text_NameboxQuest:
+ad7435fa7ade1b8e	ゲンししょう いらいぬし:\n
+0b2cd5e3dd399b25	なまえは みどりいろの はず$
+## Debug_Text_NameboxDefault:
+35de679e576970bc	クラークソンはかせ: しろ\n
+bd1936b47eca4d61	ひろい プレートで$
+## Debug_Text_PortraitLeft:
+2f7f6da2c7abdbfb	クラークソンの かおえ きほんは\n
+2a5ce259c934c000	ひだり プレートに ぴったり$
+## Debug_Text_PortraitRight:
+e32f3a129c2a75d6	かりの かおえを\n
+2e55a18486d80c4a	みぎに いれかえ$
+## Debug_Text_ShadowTestDefeat:
+7b2f2843addef4be	(デバッグ) シャドウ テストバトル しゅうりょう$
+## Debug_SaveBlock1Size::
+82a3c02f68da2c94	SB1 {STR_VAR_1}/{STR_VAR_2}b\n
+02431d78407e47a8	あき: {STR_VAR_3}b$
+## Debug_SaveBlock2Size::
+eaaf880edf44f018	SB2 {STR_VAR_1}/{STR_VAR_2}b\n
+f1ec174cbfc63676	あき: {STR_VAR_3}b$
+## Debug_SaveBlock3Size::
+84eae29f1debb525	SB3 {STR_VAR_1}/{STR_VAR_2}b\n
+8c38847233a4cf5a	あき: {STR_VAR_3}b$
+## Debug_PokemonStorageSize::
+5ec47b77a2ea6e4f	BOX {STR_VAR_1}/{STR_VAR_2}b\n
+488a4380afbea7fd	あき: {STR_VAR_3}b$
+## Debug_ROMSize::
+029e6b539f4eb9c2	ROM: {STR_VAR_1}MB/32MB\n
+bce7fa8f0dea2947	あき: {STR_VAR_2}MB$
+## DebugScript_Text_EmptyParty::
+5a10d453d191d048	ポケモンも タマゴも いません$
+## DebugScript_HatchAnEgg_Text_NotAnEgg::
+fd8d935e9f890120	それは ポケモンの タマゴでは ありません$
+## DebugText_DaycareNoPokemon:
+4cfa52cbf362edd4	あずかりやに ポケモンが いません$
+## DebugText_DaycareOnePokemon:
+37d3162a9a687349	あずかりやに ポケモンが 1ぴきだけです$
+## DebugText_DaycarePokemonNotCompatible:
+87e2ca02d53a5e45	あずかりやの ポケモンどうしでは\nタマゴが できません!$
+## Debug_ExpansionVersion:
+c89f06e50b88268c	pokeemerald-expansion\n{STR_VAR_1}$
+## Debug_Enable_To_Use_Follower_NPCs:
+b5e375c550faee83	つかえません: follower_npc.hの\nFNPC_ENABLE_NPC_FOLLOWERS\lを TRUEに してください$
+## Debug_Follower_NPC_Test_Message:
+6fa081874c6c3cb3	つれあるき NPCの テストです$
+## DebugText_BerryPestsDisabled:
+43dd25f561f014a8	OW_BERRY_PESTSが オフです\n
+64f8e970973b9a08	きのみの きに むしを だせません$
+## DebugText_BerryWeedsDisabled:
+7da472a2dbb999b5	OW_BERRY_WEEDSが オフです\n
+6ad3d72647efb113	きのみの きに ざっそうを だせません$
+## Debug_EventScript_InflictStatus1_Text_Single:
+2432fd0d27bf355d	1ぴき$
+## Debug_EventScript_InflictStatus1_Text_PartyWide:
+2bcde9a61f232244	てもち ぜんいん$
+## Debug_EventScript_InflictStatus1_Text_Close:
+c71328c1db4c968b	とじる$
+## Debug_EventScript_InflictStatus1_Text_Poison:
+c8a04d314c93b50f	どく$
+## Debug_EventScript_InflictStatus1_Text_Paralysis:
+7523644d15ba22ce	まひ$
+## Debug_EventScript_InflictStatus1_Text_Sleep:
+d2b60ac453b36141	ねむり$
+## Debug_EventScript_InflictStatus1_Text_Burn:
+4e0bbe251ac3b1b9	やけど$
+## Debug_EventScript_InflictStatus1_Text_Freeze:
+664eef0a1195fabd	こおり$
+## Debug_EventScript_InflictStatus1_Text_Frostbite:
+7464b2b0dffd9b33	しもやけ$
+## Debug_EventScript_InflictStatus1_Text_KO:
+9979e986b63911aa	ひんし$
+## Debug_EventScript_ChangeNature_Text_Hardy:
+1119d087ed994f2b	がんばりや$
+## Debug_EventScript_ChangeNature_Text_Lonely:
+2d20899d858b12d0	さみしがり$
+## Debug_EventScript_ChangeNature_Text_Brave:
+722608bd298b1c9a	ゆうかん$
+## Debug_EventScript_ChangeNature_Text_Adamant:
+59d76b11d77fe657	いじっぱり$
+## Debug_EventScript_ChangeNature_Text_Naughty:
+767cf39033a90c07	やんちゃ$
+## Debug_EventScript_ChangeNature_Text_Bold:
+9a863c2ccf9ced51	ずぶとい$
+## Debug_EventScript_ChangeNature_Text_Docile:
+8d78a14bda6e2145	すなお$
+## Debug_EventScript_ChangeNature_Text_Relaxed:
+96ad8888670f311b	のんき$
+## Debug_EventScript_ChangeNature_Text_Impish:
+95296e765977147e	わんぱく$
+## Debug_EventScript_ChangeNature_Text_Lax:
+d01e0e20596ee017	のうてんき$
+## Debug_EventScript_ChangeNature_Text_Timid:
+486be04ca60cf37e	おくびょう$
+## Debug_EventScript_ChangeNature_Text_Hasty:
+4a2f9a46c1d68c0f	せっかち$
+## Debug_EventScript_ChangeNature_Text_Serious:
+546e3240b26ecf77	まじめ$
+## Debug_EventScript_ChangeNature_Text_Jolly:
+af001017a39517ea	ようき$
+## Debug_EventScript_ChangeNature_Text_Naive:
+a918644aa4aa8cd5	むじゃき$
+## Debug_EventScript_ChangeNature_Text_Modest:
+c5a1a96baa4a053c	ひかえめ$
+## Debug_EventScript_ChangeNature_Text_Mild:
+474513fbf244da60	おっとり$
+## Debug_EventScript_ChangeNature_Text_Quiet:
+d9ed13151ccebf2b	れいせい$
+## Debug_EventScript_ChangeNature_Text_Bashful:
+3701ba96e2f0a199	てれや$
+## Debug_EventScript_ChangeNature_Text_Rash:
+2acbc2dd171a7986	うっかりや$
+## Debug_EventScript_ChangeNature_Text_Calm:
+3414d962c8e9c34b	おだやか$
+## Debug_EventScript_ChangeNature_Text_Gentle:
+3045dea9aa7e202b	おとなしい$
+## Debug_EventScript_ChangeNature_Text_Sassy:
+8db7eac67bf4e0ac	なまいき$
+## Debug_EventScript_ChangeNature_Text_Careful:
+ada5d1eb36c9c85b	しんちょう$
+## Debug_EventScript_ChangeNature_Text_Quirky:
+f1de2009e12ff670	きまぐれ$
+## Debug_EventScript_EWRAMCounters_Text::
+c93d868316716e69	つれあるき ほすう: {STR_VAR_1}\n
+406a5abf883a041b	つりの れんさ: {STR_VAR_2}$
+## Debug_EventScript_FontTest_Text_1::
+e5323a5b26932154	{FONT_SMALL_NARROWER}
+9368620bd042021b	あいうえお かきくけこ さしすせそ\n
+bc68b52436fd890d	たちつてと なにぬねの はひふへほ\l
+69910e8f2ead153a	まみむめも やゆよ らりるれろ\l
+318e722fe64290f1	わをん がぎぐげご ざじずぜぞ\l
+cb6be5945b203f02	だぢづでど ばびぶべぼ ぱぴぷぺぽ\l
+c7ed7e5fc239d45b	ぁぃぅぇぉ っゃゅょ\l
+81cf40486b124c5e	アイウエオ カキクケコ サシスセソ\l
+00ada2b992280fb2	タチツテト ナニヌネノ ハヒフヘホ\l
+ccdb26dd58fd2dff	マミムメモ ヤユヨ ラリルレロ\l
+27d13c47eb5ce693	ワヲン ガギグゲゴ パピプペポ\l
+d66a40811a2ec352	ァィゥェォ ッャュョ ヴ$
+## Debug_EventScript_FontTest_Text_2::
+037da4f1085a679e	{FONT_SMALL_NARROWER}
+3bb76b9373eff746	いろはにほへと ちりぬるを\n
+a4efd6c1d96aa870	わかよたれそ つねならむ\l
+f4872b0ea9cf35f5	ういのおくやま けふこえて\l
+51d7ff13bd03f290	あさきゆめみし えひもせす\l
+e0766d6db2590437	とりなくこえす ゆめさませ\l
+ea906b0559e0070a	みよあけわたる ひんかしを\l
+7d658149be0c30fe	そらいろはえて おきつへに\l
+4cfaa9e04e799fc7	ほふねむれいぬ もやのうち$
+## Debug_EventScript_FontTest_Text_3::
+b6866feae4500cca	{FONT_SMALL_NARROWER}
+694abda7f95ac26a	あめつち ほし そら やま かは\n
+56a3c6e393966861	みね たに くも きり むろ こけ\l
+17571e21520f67dc	ひと いぬ うへ すえ ゆわ さる\l
+609e809ff9cdc39f	おふせよ えのえを なれいて\l
+67476dedfbbf5ca8	ガラガラ ゴロゴロ ザブザブ\l
+54de5cf8c3b852a6	ズンズン ダダダッ ドドドド\l
+f621eb66f8575860	バリバリ ピカピカ ブルブル\l
+30e5b6af6519fd42	ベタベタ ポカポカ パタパタ\l
+2630596fb1424af2	ヴァ ヴィ ヴ ヴェ ヴォ$
+## Debug_EventScript_FontTest_Text_4::
+212faa4c26dea4ca	{FONT_SMALL_NARROWER}
+968935c77a32f96b	キャ キュ キョ シャ シュ ショ\n
+0b2ed887d02ca710	チャ チュ チョ ニャ ニュ ニョ\l
+2c3edffcb0ba2d7e	ヒャ ヒュ ヒョ ミャ ミュ ミョ\l
+a5d4a0031b48e2ca	リャ リュ リョ ギャ ギュ ギョ\l
+33821de2079e4cb4	ジャ ジュ ジョ ビャ ビュ ビョ\l
+46a97344b47f04fb	ピャ ピュ ピョ ティ ディ トゥ\l
+f92a85f6a664baab	ファ フィ フェ フォ ウィ ウェ\l
+a46789b113d8d2f3	シェ ジェ チェ ツァ ツォ デュ\l
+3fd1580bef1288de	イェ クァ グァ$
+## Debug_EventScript_FontTest_Text_5::
+8ca767aa8b698523	{FONT_SMALL_NARROWER}
+5e5d478ad109fe88	ABCDEFGHIJKLM\n
+033e7439c0acd649	NOPQRSTUVWXYZ\l
+55a01fa727731545	abcdefghijklm\l
+5731b70b0dbc234c	nopqrstuvwxyz\l
+b76859fc9fa05cf7	0123456789\l
+76843de40d4b33eb	! ? … ・ ー 「 」 『 』\l
+8d6d5ff3eb2ce192	( ) : / ~ ♂ ♀ 円\l
+53aa8f06e2f28745	ピカチュウ フシギダネ ヒトカゲ\l
+23c67c356c6f2ae8	ゼニガメ ポッチャマ ナエトル$
+## Debug_EventScript_FontTest_Text_6::
+6d611c251fc83eae	{FONT_SMALL_NARROWER}
+83709ef01b04c98a	きょうは いい てんきですね\n
+6f0030494b6c07bb	あしたも はれると いいな\l
+c256272dada30904	ポケモンセンターで ひとやすみ\l
+c1e141fc5ffc67cf	フレンドリィショップで かいもの\l
+c4e592e15ce96608	くさむらから やせいの ポケモン\l
+81cb2531f22e7524	モンスターボールを なげた!\l
+1e7a4cdf1454afa5	やったー! ポケモンを\l
+a7cec4e90397ec1e	つかまえたぞ!$
+## Debug_EventScript_FontTest_Text_7::
+998f60de31fbb1e2	{FONT_SMALL_NARROWER}
+f5cf45400e7b7de0	すもももももももものうち\n
+e7987dbb2ae0cfb4	なまむぎ なまごめ なまたまご\l
+1adac9ed5de8b99c	となりの きゃくは よく\l
+f0c514ff990b01fd	かきくう きゃくだ\l
+bc464bf26f0ed5a1	あかまきがみ あおまきがみ\l
+04ffcb8d072cb4f5	きまきがみ\l
+beb8238428d1a077	ぼうずが びょうぶに じょうずに\l
+bfd95079b609bab3	ぼうずの えを かいた\l
+ad70130a7fd7c2f8	おしまい$
+## Debug_EventScript_FontTest_Text_8::
+9b2f03aca72f4133	{FONT_SMALL_NARROWER}
+e3f60df84b79e150	とうきょう とっきょ きょかきょく\n
+38bb6dcc2edb08ca	バスガス ばくはつ\l
+6eb1c0deb31d41d7	かえるぴょこぴょこ みぴょこぴょこ\l
+540fb00a4603b1a3	あわせて ぴょこぴょこ むぴょこぴょこ$
+a45364bc9dc5940e	{FONT_SMALL_NARROWER}
+31306f6fcbca730a	42 × 138 = 5796\n
+f9eed39e73a9d9c1	テレビ クイズの はかせ いわく\l
+7cbb454d5849f728	カフェで みた ヤマネコは 2わり へり\l
+87966fa205075613	♂1/♀1 = 1円 10 + 9 - 8 = 11\l
+d3e5853588381389	ゲームボーイアドバンスは\l
+c911b938dfb12fad	ゲームキューブと つながる! と\l
+8a4d72762a965b2d	かれは いうけど めを つぶって\l
+6534161ae18d4992	やったって ほんとかな…?$
+## Debug_EventScript_FakeRTCNotEnabled_Text_0:
+d1f18e85c8391e6f	Fake RTCが ゆうこうに なっていません\ninclude/config/overworld.h\lで ゆうこうに してください$
+## Debug_EventScript_TellTheTime_Text_0:
+44daa9fb450627e8	にちじ: 
+8cfa401db4da0bb9	{STR_VAR_1}\n{STR_VAR_2}:{STR_VAR_3}$
+## DebugEventScript_PrintWeekday_Text_0:
+1476e9efa98c75a3	じかんたい: {STR_VAR_1}$
+## Debug_Text_MegaDimRival:
+c4c9fb1dff3401ac	つぎの ポータル: ライバル {STR_VAR_1}\n
+569dbfa9654e9be2	(1 カナリィ … 6 ジャサント)$
+## Debug_Text_MegaDimShiny:
+80373222f33a2278	つぎの ポータル: さいしょの\n
+52a3d5e3bcba5ddf	やせいの ポケモンが いろちがい$
+## Debug_Text_MegaDimMableNext:
+c32e19a4398494a0	モミジ だんかい{STR_VAR_1} (1テスト\n
+5eae2ae40bf9f2f9	3レックウザ でんわ) あいてると でんわが なる$
+## Debug_Text_MegaDimIntro:
+b06c720559e25eef	メガの しゅうまつ イントロを リセット\n
+8645a14e48df9d4c	トレードウィンドへ おりると さいせい$

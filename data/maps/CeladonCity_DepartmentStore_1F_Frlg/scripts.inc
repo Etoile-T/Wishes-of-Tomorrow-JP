@@ -14,19 +14,19 @@ CeladonCity_DepartmentStore_1F_EventScript_FloorSign::
 	end
 
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
-	.string "Hello!\n"
-	.string "Welcome to CELADON DEPT. STORE.\p"
-	.string "The board on the right describes\n"
-	.string "the store layout.$"
+	.string "{JPN}いらっしゃいませ!\n"
+	.string "タマムシデパートへ ようこそ。\p"
+	.string "みぎの あんないばんで うりばを\n"
+	.string "ごかくにん ください。$"
 
 CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
-	.string "1F: SERVICE COUNTER\p"
-	.string "2F: TRAINER'S MARKET\p"
-	.string "3F: TV GAME SHOP\p"
-	.string "4F: WISE MAN GIFTS\p"
-	.string "5F: DRUGSTORE\p"
-	.string "ROOFTOP SQUARE: VENDING MACHINES$"
+	.string "{JPN}1かい: サービスカウンター\p"
+	.string "2かい: トレーナーズ マーケット\p"
+	.string "3かい: テレビゲーム ショップ\p"
+	.string "4かい: ワイズマン ギフト\p"
+	.string "5かい: ドラッグストア\p"
+	.string "おくじょう: じどうはんばいき$"
 
 CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
-	.string "1F: SERVICE COUNTER$"
+	.string "{JPN}1かい: サービスカウンター$"
 

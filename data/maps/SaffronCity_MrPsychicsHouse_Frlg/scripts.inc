@@ -25,20 +25,20 @@ SaffronCity_MrPsychicsHouse_EventScript_AlreadyGotTM29::
 	end
 
 SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
-	.string "…Wait! Don't say a word!\p"
-	.string "You wanted this!$"
+	.string "{JPN}…まて! なにも いうな!\p"
+	.string "これが ほしかったんだろう!$"
 
 SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
-	.string "{PLAYER} received TM29\n"
-	.string "from MR. PSYCHIC.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は エスパーおやじから\n"
+	.string "わざマシン29を もらった!$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
-	.string "You already know, don't you?\n"
-	.string "TM29 is PSYCHIC.\p"
-	.string "It's an attack that may also lower\n"
-	.string "the target's special stats.$"
+	.string "{JPN}もう わかって いるだろう?\n"
+	.string "わざマシン29は サイコキネシス。\p"
+	.string "あいての とくぼうを さげる\n"
+	.string "ことも ある こうげきだ。$"
 
 SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
-	.string "Where do you plan to put this?\n"
-	.string "You've no room.$"
+	.string "{JPN}どこに しまう つもりだ?\n"
+	.string "もう いっぱいじゃないか。$"
 

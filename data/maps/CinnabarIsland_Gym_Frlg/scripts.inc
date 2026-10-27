@@ -710,192 +710,192 @@ CinnabarIsland_Gym_EventScript_OpenDoor6::
 	return
 
 CinnabarIsland_Gym_Text_BlaineIntro::
-	.string "Hah!\p"
-	.string "I am BLAINE, the red-hot LEADER\n"
-	.string "of CINNABAR GYM!\p"
-	.string "My fiery POKéMON are all rough\n"
-	.string "and ready with intense heat!\p"
-	.string "They incinerate all challengers!\p"
-	.string "Hah!\n"
-	.string "You better have BURN HEAL!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "{JPN}ハッ!\p"
+	.string "わしは グレンジムの もえる\n"
+	.string "ジムリーダー カツラ!\p"
+	.string "わしの ほのおポケモンは みな\n"
+	.string "はげしい ねつで たたかう きまんまんじゃ!\p"
+	.string "ちょうせんしゃは みな やきつくす!\p"
+	.string "ハッ!\n"
+	.string "やけどなおしの ようい は いいか!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
-	.string "I have burned down to nothing!\n"
-	.string "Not even ashes remain!\p"
-	.string "You have earned the VOLCANOBADGE.$"
+	.string "{JPN}わしは もえつきた!\n"
+	.string "はいすら のこっておらん!\p"
+	.string "クリムゾンバッジを わたそう。$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-	.string "FIRE BLAST is the ultimate fire\n"
-	.string "technique.\p"
-	.string "Don't waste it on WATER POKéMON.$"
+	.string "{JPN}だいもんじは ほのおの\n"
+	.string "さいきょうの わざじゃ。\p"
+	.string "みずポケモンに つかっては ならんぞ。$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
-	.string "Hah!\p"
-	.string "The VOLCANOBADGE heightens the\n"
-	.string "SPECIAL stats of your POKéMON.\p"
-	.string "Here, you can have this, too!$"
+	.string "{JPN}ハッ!\p"
+	.string "クリムゾンバッジは ポケモンの\n"
+	.string "とくしゅの のうりょくを あげる。\p"
+	.string "ほれ これも もっていけ!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
-	.string "{PLAYER} received TM38\n"
-	.string "from BLAINE.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は カツラから\n"
+	.string "わざマシン38を もらった!$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-	.string "TM38 contains FIRE BLAST.\n"
-	.string "Teach it to FIRE-type POKéMON.\p"
-	.string "VULPIX or CHARMELEON would be\n"
-	.string "ideal for that move.$"
+	.string "{JPN}わざマシン38は だいもんじじゃ。\n"
+	.string "ほのおタイプの ポケモンに おしえるのじゃ。\p"
+	.string "ロコンや リザードに\n"
+	.string "ぴったりの わざじゃぞ。$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
-	.string "Make space for this, child!$"
+	.string "{JPN}こいつの ばしょを あけておけ こぞう!$"
 
 CinnabarIsland_Gym_Text_ErikIntro::
-	.string "Do you know how hot POKéMON fire\n"
-	.string "breath can get?$"
+	.string "{JPN}ポケモンの ほのおの いきが どれだけ\n"
+	.string "あつくなるか しってるか?$"
 
 CinnabarIsland_Gym_Text_ErikDefeat::
-	.string "Yow!\n"
-	.string "Hot, hot, hot!$"
+	.string "{JPN}うわっ!\n"
+	.string "あつ あつ あつい!$"
 
 CinnabarIsland_Gym_Text_ErikPostBattle::
-	.string "Fire, or to be more precise,\n"
-	.string "combustion…\p"
-	.string "…Oxygen in the air…\n"
-	.string "Blah, blah, blah, blah…$"
+	.string "{JPN}ほのお いや せいかくには\n"
+	.string "ねんしょう とは…\p"
+	.string "…くうきちゅうの さんそが…\n"
+	.string "なんとか かんとか…$"
 
 CinnabarIsland_Gym_Text_QuinnIntro::
-	.string "I was a thief, but I went straight\n"
-	.string "as a TRAINER.$"
+	.string "{JPN}おれは どろぼう だったが あしを あらって\n"
+	.string "トレーナーに なったんだ。$"
 
 CinnabarIsland_Gym_Text_QuinnDefeat::
-	.string "I surrender!$"
+	.string "{JPN}こうさんだ!$"
 
 CinnabarIsland_Gym_Text_QuinnPostBattle::
-	.string "I get this uncontrollable urge to\n"
-	.string "steal other people's POKéMON.$"
+	.string "{JPN}ひとの ポケモンを ぬすみたく なる\n"
+	.string "しょうどうが おさえられないんだ。$"
 
 CinnabarIsland_Gym_Text_AveryIntro::
-	.string "I've studied POKéMON thoroughly.\n"
-	.string "You can't win!$"
+	.string "{JPN}ポケモンは とことん けんきゅうした。\n"
+	.string "きみに かちめは ない!$"
 
 CinnabarIsland_Gym_Text_AveryDefeat::
-	.string "Waah!\n"
-	.string "My studies were insufficient!$"
+	.string "{JPN}うわあ!\n"
+	.string "けんきゅうが たりなかった!$"
 
 CinnabarIsland_Gym_Text_AveryPostBattle::
-	.string "My theories are too complicated\n"
-	.string "for you to understand.$"
+	.string "{JPN}ぼくの りろんは むずかしすぎて\n"
+	.string "きみには わからないよ。$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
-	.string "I like using FIRE-type POKéMON.\n"
-	.string "I just do.$"
+	.string "{JPN}ほのおタイプの ポケモンが すきだ。\n"
+	.string "ただ それだけさ。$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
-	.string "Too hot to handle!$"
+	.string "{JPN}あつすぎて てに おえない!$"
 
 CinnabarIsland_Gym_Text_RamonPostBattle::
-	.string "I wish there were a thief POKéMON.\n"
-	.string "I'd use that!$"
+	.string "{JPN}どろぼうポケモンが いれば いいのに。\n"
+	.string "つかって やるのにな!$"
 
 CinnabarIsland_Gym_Text_DerekIntro::
-	.string "I know why BLAINE became a\n"
-	.string "TRAINER.$"
+	.string "{JPN}カツラさんが トレーナーに なった\n"
+	.string "わけを しってるぞ。$"
 
 CinnabarIsland_Gym_Text_DerekDefeat::
-	.string "Ow!$"
+	.string "{JPN}いてっ!$"
 
 CinnabarIsland_Gym_Text_DerekPostBattle::
-	.string "Our LEADER, BLAINE, became lost\n"
-	.string "in the mountains but good.\p"
-	.string "Night fell when a fiery bird\n"
-	.string "POKéMON appeared.\p"
-	.string "Its light allowed BLAINE to find\n"
-	.string "his way down safely.$"
+	.string "{JPN}われらが リーダー カツラさんは\n"
+	.string "やまで すっかり みちに まよった。\p"
+	.string "よるに なると ほのおの とりポケモンが\n"
+	.string "あらわれたんだ。\p"
+	.string "その ひかりの おかげで カツラさんは\n"
+	.string "ぶじに やまを おりられたのさ。$"
 
 CinnabarIsland_Gym_Text_DustyIntro::
-	.string "I've been to many GYMS, but this\n"
-	.string "one best suits my style.$"
+	.string "{JPN}いろんな ジムに いったけど ここが\n"
+	.string "いちばん おれの スタイルに あう。$"
 
 CinnabarIsland_Gym_Text_DustyDefeat::
-	.string "Yowza!\n"
-	.string "Too hot!$"
+	.string "{JPN}うひゃあ!\n"
+	.string "あつすぎる!$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-	.string "PONYTA, NINETALES…\n"
-	.string "Those are popular FIRE POKéMON.$"
+	.string "{JPN}ポニータ キュウコン…\n"
+	.string "にんきの ほのおポケモンだね。$"
 
 CinnabarIsland_Gym_Text_ZacIntro::
-	.string "Fire is weak against H2O.$"
+	.string "{JPN}ほのおは H2Oに よわい。$"
 
 CinnabarIsland_Gym_Text_ZacDefeat::
-	.string "Oh!\n"
-	.string "Snuffed out!$"
+	.string "{JPN}おっと!\n"
+	.string "きえちまった!$"
 
 CinnabarIsland_Gym_Text_ZacPostBattle::
-	.string "Water beats fire, of course.\p"
-	.string "But fire melts ice, so the FIRE\n"
-	.string "type beats ICE-type POKéMON.$"
+	.string "{JPN}みずは ほのおに つよい とうぜんだ。\p"
+	.string "でも ほのおは こおりを とかすから\n"
+	.string "こおりタイプには ほのおが つよい。$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
-	.string "Yo!\n"
-	.string "Champ in the making!\p"
-	.string "The hotheaded BLAINE is a FIRE\n"
-	.string "POKéMON pro.\p"
-	.string "Douse his spirits with water!\p"
-	.string "You'd better take some\n"
-	.string "BURN HEALS, too.$"
+	.string "{JPN}よう!\n"
+	.string "チャンピオンの たまご!\p"
+	.string "ねっけつ カツラは ほのお\n"
+	.string "ポケモンの プロだ。\p"
+	.string "みずで あいての いきおいを けせ!\p"
+	.string "やけどなおしも\n"
+	.string "もっていった ほうが いいぞ。$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
-	.string "{PLAYER}!\n"
-	.string "You beat that firebrand!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}!\n"
+	.string "あの ねっけつかんに かったな!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}$"
+	.string "{JPN}グレンじま ポケモンジム\n"
+	.string "ジムリーダー カツラ\p"
+	.string "しょうりした トレーナー:\n"
+	.string "{ENG}{RIVAL}{JPN}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
-	.string "CINNABAR POKéMON GYM\n"
-	.string "LEADER: BLAINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "{RIVAL}, {PLAYER}$"
+	.string "{JPN}グレンじま ポケモンジム\n"
+	.string "ジムリーダー カツラ\p"
+	.string "しょうりした トレーナー:\n"
+	.string "{ENG}{RIVAL}{JPN} {ENG}{PLAYER}{JPN}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
-	.string "POKéMON Quiz!\p"
-	.string "Get it right, and the door opens to\n"
-	.string "the next room.\p"
-	.string "Get it wrong, and face a TRAINER!\p"
-	.string "If you want to conserve your\n"
-	.string "POKéMON for the GYM LEADER…\p"
-	.string "Then get it right!\n"
-	.string "Here we go!$"
+	.string "{JPN}ポケモン クイズ!\p"
+	.string "せいかいなら つぎの へやへの\n"
+	.string "ドアが ひらく。\p"
+	.string "まちがえたら トレーナーと しょうぶ!\p"
+	.string "ジムリーダーまで ポケモンを\n"
+	.string "ひんしに したく なければ…\p"
+	.string "せいかい するのじゃ!\n"
+	.string "では いくぞ!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-	.string "CATERPIE evolves into METAPOD?$"
+	.string "{JPN}キャタピーは トランセルに しんか する?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
-	.string "There are nine certified POKéMON\n"
-	.string "LEAGUE BADGES?$"
+	.string "{JPN}ポケモンリーグ こうにんの\n"
+	.string "バッジは 9しゅるい ある?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-	.string "POLIWAG evolves three times?$"
+	.string "{JPN}ニョロモは 3かい しんか する?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
-	.string "Are electric moves effective\n"
-	.string "against GROUND-type POKéMON?$"
+	.string "{JPN}でんきの わざは じめんタイプの\n"
+	.string "ポケモンに こうかが ある?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
-	.string "POKéMON of the same kind and level\n"
-	.string "are not identical?$"
+	.string "{JPN}おなじ しゅるい おなじ レベルの\n"
+	.string "ポケモンでも まったく おなじでは ない?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-	.string "TM28 contains TOMBSTONY?$"
+	.string "{JPN}わざマシン28は はかあなほり?$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
-	.string "You're absolutely correct!\p"
-	.string "Go on through!$"
+	.string "{JPN}だいせいかい!\p"
+	.string "さあ とおるがよい!$"
 
 CinnabarIsland_Gym_Text_SorryBadCall::
-	.string "Sorry!\n"
-	.string "Bad call!$"
+	.string "{JPN}ざんねん!\n"
+	.string "ふせいかい!$"
 

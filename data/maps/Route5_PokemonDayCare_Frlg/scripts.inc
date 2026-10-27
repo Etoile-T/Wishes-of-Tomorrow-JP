@@ -4,70 +4,70 @@ Route5_PokemonDayCare_Frlg_MapScripts::
 	.byte 0
 
 Route5_PokemonDayCare_Text_WantMeToRaiseMon::
-	.string "I run the DAY-CARE service.\p"
-	.string "Would you like me to raise one of\n"
-	.string "your POKéMON?$"
+	.string "{JPN}わしは そだてやを やっておる。\p"
+	.string "おまえさんの ポケモンを 1ぴき\n"
+	.string "そだてて やろうか?$"
 
 Route5_PokemonDayCare_Text_ComeAgain::
-	.string "Come again.$"
+	.string "{JPN}また おいで。$"
 
 Route5_PokemonDayCare_Text_WhichMonShouldIRaise::
-	.string "Which POKéMON should I raise?$"
+	.string "{JPN}どの ポケモンを そだてようか?$"
 
 Route5_PokemonDayCare_Text_ComeAnytimeYouLike::
-	.string "Fine.\n"
-	.string "Come anytime you like.$"
+	.string "{JPN}そうか。\n"
+	.string "いつでも きなさい。$"
 
 Route5_PokemonDayCare_Text_LookAfterMonForAWhile::
-	.string "Fine, I'll look after your\n"
-	.string "{STR_VAR_1} for a while.$"
+	.string "{JPN}よし おまえさんの\n"
+	.string "{ENG}{STR_VAR_1}{JPN}を しばらく あずかろう。$"
 
 Route5_PokemonDayCare_Text_ComeSeeMeInAWhile::
-	.string "Come see me in a while.$"
+	.string "{JPN}しばらく したら またおいで。$"
 
 Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTime::
-	.string "You're back already?\p"
-	.string "Your {STR_VAR_1} needs to spend\n"
-	.string "some more time with me.$"
+	.string "{JPN}もう もどってきたのかい?\p"
+	.string "おまえさんの {ENG}{STR_VAR_1}{JPN}は\n"
+	.string "もう すこし わしと すごさんとな。$"
 
 Route5_PokemonDayCare_Text_OweMeXForMonsReturn::
-	.string "You owe me ¥{STR_VAR_2} for the return\n"
-	.string "of this POKéMON.$"
+	.string "{JPN}ひきとりりょうは {ENG}{STR_VAR_2}{JPN}円\n"
+	.string "いただくよ。$"
 
 Route5_PokemonDayCare_Text_ThankYouHeresMon::
-	.string "Thank you!\n"
-	.string "Here's your POKéMON.$"
+	.string "{JPN}まいど!\n"
+	.string "ほれ おまえさんの ポケモンじゃ。$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
-	.string "{PLAYER} got {STR_VAR_1} back\n"
-	.string "from the DAY-CARE MAN.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を\n"
+	.string "そだてやじいさんから ひきとった。$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
-	.string "Oh? You only have one POKéMON\n"
-	.string "with you.$"
+	.string "{JPN}おや? ポケモンを 1ぴきしか\n"
+	.string "もっておらんのか。$"
 
 Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?$"
+	.string "{JPN}その ポケモンを あずけたら\n"
+	.string "なにで たたかうんじゃ?$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
-	.string "Your {STR_VAR_1} has grown a lot.\n"
-	.string "Yes, quite a lot, I'd say.\p"
-	.string "Let me see…\n"
-	.string "By level, it's grown by {STR_VAR_2}.\p"
-	.string "Aren't I great?$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は ずいぶん そだったぞ。\n"
+	.string "うむ かなり そだったと いえるな。\p"
+	.string "どれどれ……\n"
+	.string "レベルが {ENG}{STR_VAR_2}{JPN} あがっとる。\p"
+	.string "どうじゃ たいしたもんじゃろ?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::
-	.string "You can't take this POKéMON back\n"
-	.string "if you've got no room for it.$"
+	.string "{JPN}てもちが いっぱいでは\n"
+	.string "この ポケモンを ひきとれんぞ。$"
 
 Route5_PokemonDayCare_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "{JPN}おかねが たりんようじゃな。$"
 
 Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours::
-	.string "きみの\n"
-	.string "みてみるかね？$"
+	.string "{JPN}おまえさんのを\n"
+	.string "みてみるかね?$"
 
 Route5_PokemonDayCare_Text_CantAcceptMonWithHM::
-	.string "わるいけど　ひでんのわざを　もった\n"
-	.string "ポケモンは　あずかれないなぁ$"
+	.string "{JPN}わるいけど ひでんのわざを もった\n"
+	.string "ポケモンは あずかれないなぁ$"

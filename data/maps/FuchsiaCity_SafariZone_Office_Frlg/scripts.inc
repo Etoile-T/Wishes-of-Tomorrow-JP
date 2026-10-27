@@ -18,27 +18,27 @@ FuchsiaCity_SafariZone_Office_EventScript_Worker4::
 	end
 
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-	.string "We nicknamed the WARDEN\n"
-	.string "“SLOWPOKE.”\p"
-	.string "You know, he has that vacant look\n"
-	.string "like a SLOWPOKE.$"
+	.string "{JPN}ここの えんちょうは\n"
+	.string "「ヤドン」って あだなでね。\p"
+	.string "ほら ヤドンみたいな\n"
+	.string "ぼんやりした かお してるだろ。$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
-	.string "WARDEN SLOWPOKE is very\n"
-	.string "knowledgeable about POKéMON.\p"
-	.string "He even has some fossils of rare,\n"
-	.string "extinct POKéMON.$"
+	.string "{JPN}ヤドン えんちょうは ポケモンに\n"
+	.string "とても くわしいんだ。\p"
+	.string "めずらしい ぜつめつした ポケモンの\n"
+	.string "かせきまで もってるのよ。$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-	.string "WARDEN SLOWPOKE came in, but\n"
-	.string "I couldn't understand him.\p"
-	.string "I think he's got a speech problem!$"
+	.string "{JPN}ヤドン えんちょうが きたけど\n"
+	.string "なにを いってるか わからなかった。\p"
+	.string "しゃべりかたが へん なんだよ!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
-	.string "WARDEN SLOWPOKE is running a\n"
-	.string "promotion campaign right now.\p"
-	.string "Try to get to the farthest corner\n"
-	.string "of the SAFARI ZONE.\p"
-	.string "If you can make it, you'll win a\n"
-	.string "very convenient prize.$"
+	.string "{JPN}ヤドン えんちょうは いま\n"
+	.string "キャンペーンを やってるんだ。\p"
+	.string "サファリゾーンの いちばん おくまで\n"
+	.string "いってみて。\p"
+	.string "たどりつけたら とても べんりな\n"
+	.string "しょうひんが もらえるよ。$"
 

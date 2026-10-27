@@ -30,14 +30,14 @@ SixIsland_Mart_EventScript_Picnicker::
 	end
 
 SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
-	.string "Play with POKéMON lots and live\n"
-	.string "a long life!\p"
-	.string "Take AGATHA, for example.\p"
-	.string "She set a record for being the\n"
-	.string "oldest-ever ELITE FOUR member.\p"
-	.string "She spurs me to do bigger things.$"
+	.string "{JPN}ポケモンと たくさん あそんで\n"
+	.string "ながいき するんじゃよ!\p"
+	.string "たとえば キクコじゃ\p"
+	.string "あの ひとは してんのう しじょう\n"
+	.string "さいこうれいの きろくを つくった\p"
+	.string "わしも もっと がんばらんとな$"
 
 SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter::
-	.string "I should buy some MAIL and write\n"
-	.string "him a letter…$"
+	.string "{JPN}メールを かって あのひとに\n"
+	.string "てがみを かこうかしら…$"
 

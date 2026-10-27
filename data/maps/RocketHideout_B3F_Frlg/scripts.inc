@@ -12,28 +12,28 @@ RocketHideout_B3F_EventScript_Grunt2::
 	end
 
 RocketHideout_B3F_Text_Grunt1Intro::
-	.string "Stop meddling in TEAM ROCKET's\n"
-	.string "affairs or else!$"
+	.string "{JPN}ロケットだんの じゃまを するな!\n"
+	.string "さもないと…!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
-	.string "Oof!\n"
-	.string "Taken down!$"
+	.string "{JPN}うっ!\n"
+	.string "やられた!$"
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
-	.string "SILPH SCOPE?\n"
-	.string "Oh, that machine the BOSS stole.\p"
-	.string "It's here somewhere.$"
+	.string "{JPN}シルフスコープ?\n"
+	.string "ああ ボスが ぬすんだ きかいか\p"
+	.string "どこかに あるはずだぜ$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
-	.string "We got word from upstairs that you\n"
-	.string "were coming!$"
+	.string "{JPN}おまえが くることは\n"
+	.string "うえから れんらくが あったぞ!$"
 
 RocketHideout_B3F_Text_Grunt2Defeat::
-	.string "What?\n"
-	.string "I lost? No!$"
+	.string "{JPN}なに?\n"
+	.string "まけた? そんな!$"
 
 RocketHideout_B3F_Text_Grunt2PostBattle::
-	.string "Go ahead and go!\p"
-	.string "But you can't run the elevator\n"
-	.string "without the LIFT KEY.$"
+	.string "{JPN}さきへ いけば いいさ!\p"
+	.string "でも エレベータのカギが ないと\n"
+	.string "エレベーターは うごかせないぜ$"
 

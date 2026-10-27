@@ -1,0 +1,760 @@
+##### data/text/apprentice.inc
+## gText_ApprenticeHoldNothing6::
+b78e767452b18755	そうなの? わたしの {STR_VAR_1}は\n
+8c81383ec5aa595b	どうぐを もたなくて いいってこと?$
+## gText_ApprenticeThanksNoHeldItem6::
+77033b02cf245296	オッケー そうするね!\p
+c6aee45dc54e314f	きょう ききたかったのは\n
+4e5641e2bfd30603	だいたい これくらいかな。\p
+67bd203bebcd5c99	また ここで あおうね!\n
+6c49269fea6b41f4	ありがと!$
+## gText_ApprenticeThanksHeldItem6::
+5f6657e56147b6f6	うんうん! {STR_VAR_1} ひとつね!\n
+48f9e27e693ffd9a	イカした チョイス!\l
+4bdee046c26d7d87	ぜったい ためしてみる!\p
+6af580a55d1d362a	きょう ききたかったのは\n
+6de581319df59478	だいたい これくらいかな。\p
+69f912cfe0f94054	また ここで あおうね!\n
+37409d04792d587f	ありがと!$
+## gText_ApprenticeItemAlreadyRecommended6::
+d9670a205d280137	あははっ! へんなの!\n
+2cfc7b805384f97b	まえにも おしえてくれたじゃない\l
+edbbcc6e69856ab5	その {STR_VAR_1}の こと!\p
+042fcf138170a869	だいじょうぶ? {PLAYER}。\p
+08a01e389e676598	あっ まって! わたしの {STR_VAR_2}は\n
+996ceadc606442ff	どうぐを もたなくて いいってこと?$
+## gText_ApprenticeWhatHeldItem7::
+e4e6e8a97b0663da	こんにちは {PLAYER}。 おかわり\n
+e4618a0158551989	ありませんでしたか?\p
+1f78b9192518da16	アドバイスを いただけますか?\p
+0506ab93a4ffb26f	さきほどの たたかいで あいては\n
+ceb2ce223458b31a	ポケモンに どうぐを\l
+56598ceb68240530	もたせていた ようなのです。\p
+7e786b432fe71fa8	その せいで まけてしまいました…\p
+2877c4aa733dabec	おくれを とりたくは ありません。\n
+43955813d873b3d7	わたしの {STR_VAR_1}にも\l
+6226c96f30022033	どうぐを もたせたいのです。\p
+3d4d81d9f36ef3ac	わたしの ポケモンに ふさわしい ものを\n
+b8b88477a256ef35	きめていただけると うれしいです…$
+## gText_ApprenticeHoldNothing7::
+e8838bbaa1526e7a	つまり… わたしの ポケモンは\n
+390ff4013eafe59c	どうぐを もたなくて よいと?$
+## gText_ApprenticeThanksNoHeldItem7::
+483b37b3332660ae	よく わかりました!\n
+6aeebf3d3d4e57b4	この まま がんばってみます。\p
+186ec9932b18bdc3	ありがとうございます {PLAYER}。\n
+d3984b9e9413e7df	また たよらせて くださいね。\l
+62d2b588fd6c02ce	どうか おげんきで!$
+## gText_ApprenticeThanksHeldItem7::
+c9e046859fc7c1ff	{STR_VAR_1} ひとつ ですね!\n
+75e6b912f4537c76	さっそく ちゅうもん します。\p
+252e36bc47364b75	ありがとうございます {PLAYER}。\n
+fab57b4995742ea6	また たよらせて くださいね。\l
+61fa3f3e2c06fff6	どうか おげんきで!$
+## gText_ApprenticeItemAlreadyRecommended7::
+7e9f74e7f1fbb70c	それは まえにも おしえていただき\n
+3160ac1f79cad511	もう もっています。\p
+f78efa67802a1fcd	それとも… わたしの ポケモンは\n
+880d878d365da39b	どうぐを もたなくて よいと?$
+## gText_ApprenticeWhatHeldItem8::
+0995c97ee0b90f36	きゃっ! {PLAYER}!\n
+4eba58a7784baa54	ま… また あえて うれしい!\p
+44fb3127524e0180	あっあっあっ! どうしても ききたい\n
+bec9b60fb1cd6c82	ことが あったの {PLAYER}!\p
+10e59672be240605	わたしの {STR_VAR_1}に もたせる\n
+7e97bb26630fbf4f	どうぐを きめてください!$
+## gText_ApprenticeHoldNothing8::
+27ae87726d7793cb	わあ! そんな こたえ よそうがい!\n
+8910ccac7ab1d541	どうぐは いらないってこと?$
+## gText_ApprenticeThanksNoHeldItem8::
+49e489d21d1fce44	かんぺきに わかりました!\n
+9eaff7021d924c6c	どうぐ なしで がんばります!\p
+11336946f070169a	また こんど いろいろ\n
+159d2c2ab5c58544	おしえて もらえたら うれしいです。$
+## gText_ApprenticeThanksHeldItem8::
+e87a7e703d06c51e	{STR_VAR_1}! それに します!\p
+97ef8b95f27af681	あの… もしかして {PLAYER}も\n
+568d855d63955995	ポケモンに その どうぐを もたせてるの?\p
+32c517168d33531e	ぜったい てに いれます!\n
+c4f3fd2b89398f70	また こんど いろいろ\l
+710bcc3bc63d3dbc	おしえて もらえたら うれしいです。$
+## gText_ApprenticeItemAlreadyRecommended8::
+8c3368aa9554e8cc	あれ? まえにも その\n
+0abe38c7ed1103de	{STR_VAR_1}を すすめてくれたよね。\p
+97c757f125a0d7e9	それが いちばん いいってこと?\n
+b94f8f3712c8fcd0	それとも わたしの {STR_VAR_2}には\l
+db354c52cb61106f	なにも いらないって こと?$
+## gText_ApprenticeWhatHeldItem9::
+ee5e07784ec2cd81	オラ!\n
+402ab9847d6b2cc4	わが マエストロ {PLAYER}{KUN}!\p
+cc5e267aa9095664	ポケモンの どうぐについて\n
+27041a5dbf88b0e9	アドバイスが ほしいんだ。\p
+006440ae2c4f21ab	なにを もたせると いいと おもう?\n
+7bde89bc2a5980a4	うちの {STR_VAR_1}に!\p
+45144de0e8bdf180	えんりょは いらない!\n
+48d2ce0a153b38ca	ズバッと いっちゃって!$
+## gText_ApprenticeHoldNothing9::
+38d77a6359a508cc	ん? つまり うちの {STR_VAR_1}は\n
+f3ad527977780d0e	どうぐ なしでも かてるってこと?$
+## gText_ApprenticeThanksNoHeldItem9::
+4c6339c6f14ddf83	シー ブエノ!\n
+931724cd8f1093b5	ドカンと せいいっぱい やってみる!\p
+31d7b3db3a37bc54	よし いつも ありがとう!\n
+6a505def1e9893fc	アディオス!$
+## gText_ApprenticeThanksHeldItem9::
+e887fbc563d735b4	うんうん {STR_VAR_1} ひとつだね?\n
+16a4b915b23b5ef5	シー ブエノ!\l
+888e0a1d91dce0b7	バーンと さがしてくる!\p
+288c2b3b8931ac47	よし いつも ありがとう!\n
+37b8f043d4dae456	アディオス!$
+## gText_ApprenticeItemAlreadyRecommended9::
+1d5e34374fdab5a3	ノー ノー! それは まえにも きいたよ\n
+41f58c4e905ac305	その {STR_VAR_1}って やつ。\p
+0ab95dea46bdbad0	おっと ちょっと まった…\n
+b6eccd024fd33f4a	つまり うちの {STR_VAR_2}は\l
+f9733c9af7ccbf2b	どうぐ なしでも かてるってこと?$
+## gText_ApprenticeWhatHeldItem10::
+6f31ad52a75a6cb9	{PLAYER}{KUN} しんじられない ことが\n
+39eaf39e49448a24	おきたんです!\p
+c3181ae30ee9a27b	けさ おきたら ポケモンが\n
+1e20bb5c1ed21097	きんのたまを 10こ もってたんです!\p
+bab9ef18f02508eb	もちろん ウソです!\n
+ffc24500517c152a	わはははっ!\p
+00a803648dbf3d15	でも これは ウソじゃ ありません。\n
+2298721e60a1b194	ポケモンに どんな どうぐを\l
+1917129814e195a9	もたせるか かんがえるのが にがてで。\p
+7ce3b5a440431c74	そこで ししょう! わたしの\n
+8658cf95df92a552	{STR_VAR_1}の どうぐを きめてください!$
+## gText_ApprenticeHoldNothing10::
+11f4182de18679c1	どういう いみですか?\n
+5fae1039fc93b2fc	なにも もたせるなって こと?$
+## gText_ApprenticeThanksNoHeldItem10::
+128435eba50e9b68	なるほど なにも もたせないんですね。\n
+7297749e5a2bc76b	じゃあ なにか もたせなくちゃ!\p
+f911a47dc5c46fdf	なーんてね!\n
+d02fc76e53fd434c	ししょうの おしえに したがいます!\p
+acf0d852b89ef3ed	ありがとう ししょう!\n
+a45c11db52af9155	これからも おしえてくださいね!$
+## gText_ApprenticeThanksHeldItem10::
+bf5e53fc91044e52	なるほど {STR_VAR_1} ひとつですね!\n
+ee1da9d28808cf36	それ いがいの ものを もたせます!\p
+00dcbe784932ef6f	なーんてね!\n
+de21c6aee550bbba	ししょうの おしえに したがいます!\p
+dfb71fc729cfaa6e	ありがとう ししょう!\n
+034a971ef0452e37	これからも おしえてくださいね!$
+## gText_ApprenticeItemAlreadyRecommended10::
+3e3ee5490957fbca	あの それ まえにも おしえて\n
+c1ffe2f3c546329f	くれましたよね?\p
+b809295cc14a66ae	ほかに なにか ないんですか?\p
+0b82591220119d21	それとも わたしの\n
+fd0e6311e894a8f1	{STR_VAR_2}に なにも もたせるなと?$
+## gText_ApprenticeWhatHeldItem11::
+421da363dcca73f8	A-H-O-Y!\n
+41a80277971c0c29	つなげて よめば アホイ!\p
+8e251600df250182	ラップ する ふなのり それが オレ!\n
+01ac4ad3ca0e2c14	きみに ささげる この しつもん\l
+45f194747bd248c2	イカしてるって もっぱら ひょうばん!\p
+5f824b5b05c90330	どうぐの ことで しつもんだ\n
+dcc474e12ec7aab8	きみの アイデア ききたいんだ!\p
+11e74d49af5a826e	オレの {STR_VAR_1}に もたせたい\n
+2724a55e66737ee1	なにが いいか おしえて ちょうだい!$
+## gText_ApprenticeHoldNothing11::
+10183ae9c7344d0f	ほんとに そうかい?\n
+ef483a89d0a08c2d	オレの {STR_VAR_1}は\l
+c43d16d78ef78e2c	なんにも もたずに だいじょうぶかい?$
+## gText_ApprenticeThanksNoHeldItem11::
+07eb8105417d02a9	オーケー きいたぜ ばっちりと!\n
+dbaa65817e726ebf	ポケモンも てぶらで しゅつじんと!\p
+ef3ed2283deaef65	アドバイスが ひつようなら\n
+fb14c16d230bc757	{PLAYER}の ことばが いつでも たよりなら!$
+## gText_ApprenticeThanksHeldItem11::
+03a6132a65ead819	オーケー {STR_VAR_1} ひとつ\n
+9c2297fb15f6a6e7	それを つかうぜ ためしつつ\l
+54daf48603ee58a6	きみに きいたら せいかい ずばり!\p
+18b891953c4c517e	アドバイスが ひつようなら\n
+d32b047ac133bce3	{PLAYER}の ことばが いつでも たよりなら!$
+## gText_ApprenticeItemAlreadyRecommended11::
+b7b17dc390fc3d7a	オーケー {STR_VAR_1}だって?\n
+e28a0f3915037ac4	それは このまえ きいたって!\l
+6ccbed8e1be4e5cd	ほしいのは あたらしい アイデアだって!\p
+cc592b538f092506	それとも そうかい?\n
+289ff67492e9cc66	オレの ポケモンは なんにも\l
+a7e676fdec465a8b	もたずに だいじょうぶかい?$
+## gText_ApprenticeWhatHeldItem12::
+3ae4a22f06164d45	ヘイ ヘイ {PLAYER}!\n
+4c71f617721a468d	きょうも また みーつけた!\p
+3d1464e9b828a626	どうしよう? アドバイス もらおうか?\n
+c4f6f7a0188a7500	もちろん! もう はなしかけてるし!\p
+517e71d7b95284d3	{PLAYER} わたしに あきてきた?\n
+b3643fabb8506e99	いやいや そんなわけ ないない。\p
+ccad728880dac977	はなしを きいてくれる?\n
+d07b3a38860e5f77	アドバイスが ほしいの それが\l
+22ba4611c8c372cb	いまの わだいなの。\p
+9b42864684571316	もたせる どうぐの はなしなの\n
+b733e4e8d666b7db	{STR_VAR_1}に いいのは なんなの?\l
+c917fdd13929792a	まよって まよって なやむの!$
+## gText_ApprenticeHoldNothing12::
+e9f372727b7a0606	{STR_VAR_1}には なにも いらない?\n
+41cef3b833139f74	なにも もたなくて いいの?$
+## gText_ApprenticeThanksNoHeldItem12::
+64693f682314e2fc	なにも もたないのが いちばんなら\n
+f63772c72246263d	いうとおりに するから!\p
+500c404951877b4e	さて {PLAYER} わたしは たびに でる\n
+d69dfe3aea549a13	でも わたしを わすれないでね。\p
+7bcc9e30a0c042f1	また あおうね かしこい ともよ!$
+## gText_ApprenticeThanksHeldItem12::
+5f9872eafb92932a	{STR_VAR_1}を もたせるのが\n
+a772255d61c3f025	いちばんなら いうとおりに するから!\p
+84731c44260c9927	さて {PLAYER} わたしは たびに でる\n
+03bfb21ec979d020	でも わたしを わすれないでね。\p
+d550bda29bd8a92a	また あおうね かしこい ともよ!$
+## gText_ApprenticeItemAlreadyRecommended12::
+c4287c5e19c5d01f	その はなし まえにも きかなかった?\n
+a2c9775dce0fe85a	{STR_VAR_1}の こと\l
+283610c6700cb3f0	ぜったい きいた まちがいなし!\p
+3bd3cd9d2a661311	なにか あたらしいのが ほしい!\n
+beb530323ca2f75c	それとも {STR_VAR_2}は なにも なし?\l
+8ebe8a442600b11b	なにも もたなくて いいの?$
+## gText_ApprenticeWhatHeldItem13::
+7026d7f9437947ee	ぐわっ! いてっ! {PLAYER}{KUN} うでが おれた!\n
+c09483cfb417bdbb	さわらないで ください!\p
+61a9254535c03e81	なかまの ポケモンたちに いろんな\n
+f30cc9ebd140f73e	どうぐを ためしてる うちに\l
+7c27e9e61e952bbc	おっちゃったみたいで。\p
+8e2a84448f70d23f	と いうわけで\n
+431bbef6a7a24da4	かわりに きめて ほしいんです。\p
+ef8cf0efa790adb4	{PLAYER}{KUN} なにを もたせたら\n
+b03541f0f34f8d59	{STR_VAR_1}に いいと おもいます?$
+## gText_ApprenticeHoldNothing13::
+833b2d77f0bc37e5	いてて…\p
+76a3b2f1ad724bb0	つまり わたしの {STR_VAR_1}は\n
+2126906ed3751dd7	なにも もたなくて いいと?$
+## gText_ApprenticeThanksNoHeldItem13::
+ffe019f731ae8a09	ふむ わかりました。 いまの わたしには\n
+0e5dee57edb3543c	その ほうが らくで たすかります。\p
+c06db64540893eeb	これからも こうして\n
+eae12f4aca75c1a9	たよらせて くださいね。$
+## gText_ApprenticeThanksHeldItem13::
+30950a38e7595dc5	ふむ わかりました。 {STR_VAR_1}ですね。\n
+12131988ad183ea0	ポケモンの うでは ぶじなので\l
+ad31eaa0cac78bfc	さっそく もたせます。\p
+1d8776b74394ed05	これからも こうして\n
+95a6c14d407cd795	たよらせて くださいね。$
+## gText_ApprenticeItemAlreadyRecommended13::
+e6f9225e07f46933	いやいや それは まえにも きいた\n
+dac10ac5d9c6ec3a	{STR_VAR_1}でしょう? おぼえてます?\p
+1a53c112c55286b0	もっと いいものを\n
+694d1920836c8c06	おしえて くださいよ。\p
+b9a339bb02fcdc0c	あっ ちょっと まって。\n
+f7daa1659ea1748d	つまり わたしの {STR_VAR_2}は\l
+32a1098eaee0b871	なにも もたなくて いいと?$
+## gText_ApprenticeWhatHeldItem14::
+c91a8f39d04a64ba	あの… えっと…\n
+ae0fd32e8f76e001	{PLAYER}{KUN}…\p
+a0b8f88781cbe667	そんな めで みないで ください。\n
+58f9dfa91ad5fc3c	わたしの ポケモン なにも もってないの。\p
+484584669271a8c9	す… すごく はずかしいんだけど\n
+467357fb7496b375	どうしても アドバイスが ほしくて。\p
+057d689e95c53607	どんな どうぐを もたせたら\n
+9d8bfd336e7fe133	{STR_VAR_1}が つよくなるか わからなくて。\p
+dba3d0a3952b7640	{PLAYER}{KUN}は なにが\n
+b090ba05eb9e6fff	いいと おもう?$
+## gText_ApprenticeHoldNothing14::
+d9c4c3f9445ecdee	えっ… じゃあ わたしの\n
+b29a3c95867c5f81	{STR_VAR_1}は もたない ほうが いいの?$
+## gText_ApprenticeThanksNoHeldItem14::
+81bcd165ba3ee6cd	あ… わかった!\n
+be3bf083805203c7	どうぐ なしで いくね。\p
+d6ca3da42b4b3523	でも ドキドキ する。\n
+79e90c5d7e10f7cb	かっこよすぎ じゃないかな?\p
+b389631aaae5c256	ありがとう {PLAYER}{KUN}。\n
+33f7564845edc1ab	また あえたら その ときも\l
+058ebe14452d1ca9	ちからに なってね。$
+## gText_ApprenticeThanksHeldItem14::
+e5edd2f7226ad82c	あ… わかった!\n
+1e18ff64b0f4a264	その {STR_VAR_1}で いくね。\p
+e6cc56da35e957ee	でも ドキドキ する。\n
+631afcb41ac89b5f	かっこよすぎ じゃないかな?\p
+6c1186948ceeea77	ありがとう {PLAYER}{KUN}。\n
+85d8a3c19f9998d3	また あえたら その ときも\l
+3e80a4f5f988314b	ちからに なってね。$
+## gText_ApprenticeItemAlreadyRecommended14::
+b1cff9d7ec38ead5	で… でも それ もう きいたよ。\p
+ad24c72b658a1eda	そんなふうに あしらわないで!\n
+53396c5e1769f81b	はずかしくて たえられない。\p
+c73dae5c68332dfd	あっ… わたしの はやとちり?\n
+837ee7b0912ffdfd	もしかして わたしの\l
+ecd5bca7f79ecae0	{STR_VAR_2}は もたない ほうが いいの?$
+## gText_ApprenticeWhatHeldItem15::
+fde50cb746f09dcc	む? {PLAYER}{KUN}の ようですが…\n
+92b30099aa9ec70c	ほんとうに そうですか?\l
+b7ad782ef7e73718	もしや ふたごの かたでは?\p
+ecc314fb51326db9	いえいえ ごしんぱいなく!\n
+607114ee33235dfc	ほんとうに {PLAYER}なら どうか\l
+be2a9beeb1710fc8	しつれいを おゆるしください。\p
+de834dcbc6975263	また あなたの すばらしい\n
+9d8f175c42c56e56	アドバイスを いただきたいのです。\p
+0ade49b6f1501803	この {STR_VAR_1}に べんりな\n
+b85c6324aae21693	どうぐを もたせたいのです。\p
+1062695e1df1bd8d	なにが ふさわしい でしょうか?$
+## gText_ApprenticeHoldNothing15::
+ff594735c58c3686	なにも もたない ほうが よいと?\n
+b38bbe00aa4612b9	たしかですか?$
+## gText_ApprenticeThanksNoHeldItem15::
+9a0debe28c610e24	なるほど。 そういう ことなら けっこう。\n
+ca48889961ccfbb1	おじかん いただき かんしゃします。\p
+7ef114873541ad11	また おあいしましょう!$
+## gText_ApprenticeThanksHeldItem15::
+9a4aa631da1e7b8b	{STR_VAR_1} ひとつ?\n
+e41f1f38fa53cbc3	たしかですか?\p
+2c6a4f4cee21ce9f	なるほど。 そういう ことなら けっこう。\n
+6c6d1626b67ffea1	おじかん いただき かんしゃします。\p
+2cff4f1ee265a49c	わたしの ポケモンが うまく\n
+25951dbce5eddb25	つかいこなせると よいのですが。\p
+e941c95b2622f092	また おあいしましょう!$
+## gText_ApprenticeItemAlreadyRecommended15::
+133ee14d26cef7ae	いえいえ おまちください。\n
+9954e79a59309576	それは まえにも おそわったはず。\p
+fe58d128f2fe2c83	こんどは ちがうものを\n
+626bbf0cf1e57e4a	すすめて いただきたいのです。\p
+8a23b09b21eceed8	もしや こう おっしゃりたいのでは?\n
+92ab57663061d412	{STR_VAR_2}には なにも もたせるなと…\l
+88e5689b0217fa80	たしかですか?$
+## gText_ApprenticeWhichMonFirst0::
+69e2fb5f1681c494	うわーん {PLAYER}!\n
+8afa262b4c2e5a98	こまってるの ぐすん…\p
+7fcbd4a7f1d3165e	ほかの ひとと たいせん したいけど\n
+8a37a6a006255f72	どうしたら いいか わからないの。\p
+874ffe9f7ede2358	ポケモンを どんな じゅんばんに すれば\n
+e61af5cc4332ff2f	いちばん つよく なれるかな?\p
+3a4942e7ad0b4c17	おしえて {PLAYER}。\n
+6b653ced2c7f0438	もし わたしだったら どの ポケモンを\l
+fdc430d060fa1a4e	さいしょに だす?$
+## gText_ApprenticeMonFirstThanks0::
+378c6e74c505dc11	{STR_VAR_1}を さいしょに?\n
+b2356bbd828525d1	うわぁぁぁん!\p
+77c9741b581c9450	あっ! ごめんなさい!\n
+09beb085efea119c	さいしょの ポケモンを えらんでくれて\l
+d48e009f3239f8d2	うれしくて ないちゃった…\p
+5e8cac668bc8c164	ほんとに ありがとう!$
+## gText_ApprenticeWhichMonFirst1::
+d7a17319dbe27142	わーい! {PLAYER}だ!\n
+6872642422f21207	よかった! ききたい ことが あったの!\p
+5627e62e9f470361	えっと わたしの ポケモンで どれを\n
+aa7bf2321b0d6dce	さいしょに だせば いいと おもう?$
+## gText_ApprenticeMonFirstThanks1::
+941714f43c757d4e	{STR_VAR_1}? たしかに そうだね。\n
+7498976af613e181	うん そうする!\p
+841bef62ac43b7bc	おしえてくれて ありがとう!$
+## gText_ApprenticeWhichMonFirst2::
+7162caa774330916	{PLAYER} こんにちは!\p
+c40b7ad5c075db40	バトルでは どの ポケモンを さいしょに\n
+07fc56f0d78b9761	だすかが とても だいじだと おもうの。\p
+3ca6ae062fd33614	わたしの ポケモンの なかで\n
+968acba1c6d63694	どれを さいしょに だせば いい?$
+## gText_ApprenticeMonFirstThanks2::
+1441d05ac249955d	{STR_VAR_1}が さいしょ?\n
+d1d7288dd0f1e024	うん わかった!\p
+4c03e23d907efedd	またね!$
+## gText_ApprenticeWhichMonFirst3::
+d23c6f6b923f65ad	こんにちは {PLAYER}…\n
+d7ba275cc90ac2ad	また しつもんで じゃまして\l
+6dc3fed9f790c842	ごめんなさい。\p
+c70f4425006ccbaa	じしんが なくて… もう\n
+19b2085e1f3bfc1e	{PLAYER}なしでは どうにも ならないの。\p
+cc59a2cba5091a5a	こんなことで なやむのは\n
+25ebda20db37935f	じかんの むだかも しれないけど\l
+e9e2c1af9689d80a	どうしても きめられなくて…\p
+8f434ea37df87918	バトルで わたしの どの ポケモンを\n
+43d4140a04ab07bb	さいしょに だせば いいの?$
+## gText_ApprenticeMonFirstThanks3::
+99ea437cc3973647	{STR_VAR_1}?\n
+41efb6acb980177d	わかりました!\p
+3065b8b60f1067ec	こんなに なんども しつもんに\n
+9c026ecad472fd97	こたえて くれるなんて!\p
+d7898ce5a97ee4fb	はなしかけて くれるだけでも\n
+2e1cb9e0bf5eabe5	うれしいのに… ありがとう!$
+## gText_ApprenticeWhichMonFirst4::
+1e0a4c5d4c37467d	あっ {PLAYER}{KUN}! わたしだよ!\n
+90eadbe54a798a43	ちょっと こまってたから\l
+4a2fe60f8dbdcd11	あえて ほんとに うれしい。\p
+8e2482670b664032	ポケモンの ならびじゅんが きまらないの。\n
+e489c3cf0995a6ca	かわりに きめて くれない?\p
+e6851c0c5378436d	あっ いま パーティ ぜんぶを\n
+011d6c399cc353d2	きめなくても いいの。\p
+f7e816f69d2e2c31	さいしょの ポケモンだけ\n
+e93cd26c0dc82b58	きめて くれないかな?$
+## gText_ApprenticeMonFirstThanks4::
+425f9746a9cae086	{STR_VAR_1}? いいね!\p
+d574309601bef3ad	きめてくれたのが\n
+f4b71f33e72bf772	{PLAYER}{KUN}なら まけても\l
+0dbeb278b98eaff3	そんなに くやしくないよ。\p
+f031c1fda77eee99	じゃあ また アドバイス してね。\n
+7b2148c2c4a974e6	バイバイ!$
+## gText_ApprenticeWhichMonFirst5::
+9ec44e8aafb917a7	やあ {PLAYER}{KUN} せんせい!\n
+493b2f29acb92901	きょうも いそがしいんだ!\p
+9c3169a1f46dda7b	サイクリングに かいもの\n
+ad7d093a6ade2af2	それに はなうたも しないと。\p
+d80ef311795d74a0	ポケモンの ならびじゅんを きめる\n
+ae9c748329bc9087	ひまさえ ないんだ。\p
+619e70496ccf9994	だから ちょっと チームを みてくれる?\n
+52cb73b9f02aadfd	どれを さいしょに すべきかな?$
+## gText_ApprenticeMonFirstThanks5::
+1bc272e428223468	オッケー りょうかい。\n
+6c8971352305daee	せめて これくらいの ひまは あるよ!\l
+60d7b7cff405f0aa	{STR_VAR_1}を せんとうに!\p
+63a1954bf5ca5422	おっと かのじょが まってるんだ!\n
+0c2540561f2438af	ありがとう! じゃあ またね!$
+## gText_ApprenticeWhichMonFirst6::
+15894224745c9210	やっほー! ハーイ {PLAYER}!\n
+5cb106d3de75ff22	いつも つよそうに あるいてるよね!\p
+1ec75d72b686f56c	ねえ また おねがいが あるの!\n
+03df7a901b52483a	いつもの やつ!\p
+64e46d6cffcd1a78	ドラムロール おねがい!\n
+709ff055d1bd8a75	しつもんは わたしの チームのこと!\p
+2e9457d541c8b83f	バトルで さいしょに だすのは\n
+f6dde4ada7432778	どの ポケモンが いい?$
+## gText_ApprenticeMonFirstThanks6::
+c9b70882bccf253a	ふむふむ!\n
+2bc0843e0ddeba74	{STR_VAR_1}って わけね!\l
+2a7133b3d61f402e	サイコーに イカした こたえ ありがと!\p
+56ec95015dec305f	きょう ききたかったのは\n
+0cebccda80a34f3c	だいたい これくらいかな。\p
+4e6c39f0dcdeb672	また ここで あおうね!\n
+c910d93e1fb9ff28	ありがと!$
+## gText_ApprenticeWhichMonFirst7::
+327063f5fd81a369	あしを とめて おはなし してくださり\n
+e47f098ccb460786	ありがとうございます {PLAYER}。\p
+4e6d0a8a9113cf1c	ごしんせつに あまえて しまいますが\n
+2e49063dc08a8e9e	アドバイスを いただけますか?\p
+3a09d24f747d996a	わたしの ポケモンの じゅんばんを\n
+5bdcc82dce108317	きめて いただきたいのです。\p
+d19a74ce4e33790f	どの ポケモンを さいしょに すべきか\n
+29456c039235541c	きめていただけると うれしいです。$
+## gText_ApprenticeMonFirstThanks7::
+a7ad47b69637f83c	{STR_VAR_1} ですね!\n
+a40f3a10ebd17283	さっそく せんとうに します!\p
+6d72717c9b3fd8e4	ありがとうございます {PLAYER}。\n
+4e4dc5c67b3d6f5c	また たよらせて くださいね。\l
+0ea3e349c6571d99	どうか おげんきで!$
+## gText_ApprenticeWhichMonFirst8::
+ce09bc50df873df1	きゃっ! {PLAYER}!\n
+1d544f3fd1854ec8	ま… また あえて うれしい!\p
+269650abc0d8c6ac	わたしの ポケモン すごく\n
+810d157baa830ef9	つよく なったの!\p
+40525ca535a7debb	でも いつも かてる わけじゃない。\n
+4c9ffc9f5c5ab4ad	さいしょに だす ポケモン しだい みたい。\p
+169ffb9db1f97bb3	{PLAYER} おねがい たすけて!\p
+f8d1ade19833215b	わたしの ポケモンの どれを\n
+bd2b0880b177ddf7	さいしょに だすか きめてください!$
+## gText_ApprenticeMonFirstThanks8::
+412e8571a8f4c69d	はぁ… しあわせで むねが いっぱい…\p
+23f31cad711f2b26	ゆめみたい… わたしの かわりに\n
+241dafa49a6140f7	{PLAYER}が きめてくれるなんて。\p
+099787867ec88231	でも かんぺきに わかりました!\n
+93757cc54e390022	{STR_VAR_1}を さいしょに だします!\p
+1cf77bed21629b3c	また こんど いろいろ\n
+ed9d9179ac787628	おしえて もらえたら うれしいです。$
+## gText_ApprenticeWhichMonFirst9::
+98cffa08c9032e94	オラ! オラ!\n
+20c305fb05ad2708	わが メンター {PLAYER}{KUN}!\l
+43dba869fbfd2d98	きょうも かしこい アドバイス ちょうだい!\p
+e480b845b94f395d	じつは ポケモン 3びきで\n
+82201a717b23d53d	チームを くんだ。 ここまでは じゅんちょう。\p
+5c221ee94ba51bc0	でも たたかう じゅんばんが\n
+75419c0b5e717dd6	まだ きまって ないんだ。\p
+9a55999b366c8b44	そこで きみの でばん {PLAYER}{KUN}!\n
+fe0b26dfc114ea97	せんぽうの ポケモンを きめて!\p
+7f54bd73c3934b7c	えんりょは いらない!\n
+fa0444080bbd240c	ズバッと いっちゃって!$
+## gText_ApprenticeMonFirstThanks9::
+899d2ac8fcc01557	うんうん {STR_VAR_1}が せんぽうだね!\n
+ae7ff95a0dfffdd5	オーケー バッチリ!\l
+a5b45ef070e265a8	バシッと ならべなおす!\p
+48143154c680afd5	よし いつも ありがとう!\n
+81ed263865c32ee1	アディオス!$
+## gText_ApprenticeWhichMonFirst10::
+05feb841791a7392	{PLAYER}{KUN} きいてください!\n
+ea4ce8b2b71b15a6	たいへんなんです!\p
+12147537deeefacc	ポケモンが 3びき いっぺんに\n
+d7856e3c9b986967	バトルに でちゃうんです!\p
+ac73df1a8b0f0adc	もちろん そんなの ありえません!\n
+722a042a09ad76d5	わはははっ!\p
+3e43cb99d79e90b4	でも これは ウソじゃ ありません。\n
+72612fcb8e1e1f9a	ポケモンの ならべかたを\l
+25cf86cb3a73370a	かんがえるのが にがてで。\p
+0ffd2d9caa7cb6b1	そこで ししょう! どの ポケモンを\n
+f74678e4f901faa3	さいしょに するか きめてください!$
+## gText_ApprenticeMonFirstThanks10::
+d5c66427875c9177	なるほど えらんだのは {STR_VAR_1}ですね?\n
+104c525eba21928d	それ いがいを さきに だします!\p
+ec98b1c7f2f2bc63	なーんてね!\n
+1a588604e4ef6a86	ししょうの おしえに したがいます!\p
+ca0310f08ddf601d	ありがとう ししょう!\n
+f71f18c742cee132	これからも おしえてくださいね!$
+## gText_ApprenticeWhichMonFirst11::
+2e77432bae4fd756	A-H-O-Y!\n
+1c82355c9b5b4634	つなげて よめば アホイ!\p
+7ba4dd1d1cca7764	ラップ する ふなのり それが オレ!\n
+f109e2eca15de8c4	きみに ささげる この しつもん\l
+45e9fbd3b5d73776	イカしてるって もっぱら ひょうばん!\p
+4c6536157145fc29	チームの ならびの しつもんだ\n
+a97537079d90e950	きみの アイデア ききたいんだ!\p
+6e6e659808390c86	この なかで まっさきに いくのは\n
+d8272f1e6ad69469	どいつが いいか きめて ちょうだい!$
+## gText_ApprenticeMonFirstThanks11::
+2a60624991fed19b	オーケー きいたぜ ばっちりと!\n
+50147d15a311e743	ならびを かえるぜ きっちりと!\p
+db24c7790f36d9f9	アドバイスが ひつようなら\n
+12574ec9cb746b20	{PLAYER}の ことばが いつでも たよりなら!$
+## gText_ApprenticeWhichMonFirst12::
+5993ebb448f7de2b	ヤッホー {PLAYER}!\n
+377d9515f1987558	ごきげん いかが?\p
+ae9be8ae3810c32b	どうしよう? きいちゃおうか?\n
+428a5b3da3292853	うんうん ききたい ことが あるの!\l
+9a9a047e1d9e5913	きこえてる?\l
+946ac21e33ec9e0a	きこえてるよね!\p
+d8f6daf3df3d94c2	きめてほしいの どの ポケモンが\n
+29b58646c8988ceb	さいしょに のりこむのか!\l
+02b9c80be37ae203	バトルにって いみだよ。$
+## gText_ApprenticeMonFirstThanks12::
+63799b42f1d8557f	{STR_VAR_1}? イエス!\n
+8070b48e5c3b05c0	それで よし しんぱい ナッシング!\p
+b47a8e96b2a5b5de	さて {PLAYER} わたしは たびに でる\n
+b464ed15f72c1926	でも わたしを わすれないでね。\p
+52f586f00726552e	また あおうね かしこい ともよ!$
+## gText_ApprenticeWhichMonFirst13::
+477e2ef51803c11f	…うう…いてて… {PLAYER}{KUN}…\n
+50d8cd174c1850e9	きゅうに おなかが いたく なって…\p
+c1f69df2bc479a50	…だいぶ よく なってきた…\p
+cefc92e489a0ecb5	なかまの ポケモンの ならべかたで\n
+efeaa9c8449e40e2	あたまを なやませすぎて\l
+088b13a0a443903c	ぐあいが わるく なったみたい。\p
+b0463c87037f6e6b	と いうわけで\n
+6e8b2f5a7dda5fe3	かわりに きめて ほしいんです。\p
+36ff8e381a6b9e74	{PLAYER}{KUN} どの ポケモンを\n
+7e243af81b7010cb	さいしょに だせば かてますかね?$
+## gText_ApprenticeMonFirstThanks13::
+21d869c4a29f1131	ふむ わかりました。\n
+fef5f043afb7c6c8	{STR_VAR_1}が さいしょ ですね。\p
+ec49c8cdffe32999	ばんごはんを たべたら\n
+b815b52ae5cb91df	その じゅんばんに ならべなおします。\p
+69f71298abc71b36	これからも こうして\n
+2cd30b5513b98464	たよらせて くださいね。$
+## gText_ApprenticeWhichMonFirst14::
+1416c0ef1bf5bc98	あの… えっと…\n
+f45a7e32c13bd480	{PLAYER}{KUN}?\p
+c6c58f54f49a8cb2	そんな めで みないで ください。\n
+e1dca6fc2178651b	なんだか ドギマギ しちゃう。\p
+8453aa644dd1ea5f	えっと…\n
+e2f2f4af6584249e	どうしても アドバイスが ほしいの。\p
+008240204de212bf	いうのも はずかしいんだけど\n
+62ffbc77b1ba6cc9	3びきの チームは えらんだの。\l
+9b2cd8a80be6c295	でも じゅんばんが きめられなくて。\p
+afede65fe3c936a4	せめて それらしく みえるには\n
+a96e64c21d5ef5da	どの ポケモンを さいしょに だせば いい?$
+## gText_ApprenticeMonFirstThanks14::
+6a0e6f955963f10b	あ… わかった!\n
+8a19828b5bad75f7	{STR_VAR_1}から いくね。\p
+780292aaf582fe22	ドギマギ しないで\n
+ba0b46cc634b0f8c	せいいっぱい がんばれると いいな。\p
+f9917b8e8146c48a	ありがとう {PLAYER}{KUN}。\n
+7f6dfd78cc1c8808	また あえたら その ときも\l
+68f90d3fa2accdb9	ちからに なってね。$
+## gText_ApprenticeWhichMonFirst15::
+48df868f2673788a	む? {PLAYER}{KUN}の ようですが…\n
+c2ded319be1ce497	ほんとうに そうですか?\l
+940f6308420aa2b4	もしや よく にた にせものでは?\p
+71eedc8714d00202	いえいえ ごしんぱいなく!\n
+65aeb0104c90dcf8	ほんとうに {PLAYER}なら どうか\l
+4d711463bc86ac62	しつれいを おゆるしください。\p
+ccff7ed7a486d638	あなたの すばらしい アドバイスを いただきたい。\p
+b6fecd74b7fcc6eb	ここに わたしの ポケモンたちが います。\n
+8bba996d3f0d9ddf	バトルで どれを さいしょに だすべきか\l
+926653796bae3028	おしえて いただきたいのです。$
+## gText_ApprenticeMonFirstThanks15::
+a0854ec34e595c6f	{STR_VAR_1}…\n
+f1121b807a004b7e	からかって いるのでは ないですよね?\p
+c84cc24bf2ec08d2	なるほど。 そういう ことなら けっこう。\n
+c20ce4b2f114acb9	おじかん いただき かんしゃします。\p
+8667e25368651cf3	こんな わたしですが\n
+8fabd50b42c8ec60	ぜんりょくを つくします。\p
+ecec4ab85ff10141	また おあいしましょう!$
+## gText_ApprenticeWhichMon0::
+e9033d307581e771	ぐすん…\n
+6e872f2281fe093f	あっ {PLAYER}!\p
+a6945a3a141225f0	ちょうど よかった!\n
+efb51b340318f99a	どうしても きめられない ことが あるの…\p
+4539cac9947ec227	どの ポケモンを つかえば いいか\n
+a0a3ce8e141f9a1a	きめられないの。\p
+c247b4cbb45152f2	まよってるのは ポケモンの\n
+a2679633f681f6ac	{STR_VAR_1}と {STR_VAR_2}…\p
+28c63c50b7a5e0f2	{PLAYER} どっちなら わたしでも\n
+b35971f710de2f55	かてる チャンスが あると おもう?$
+## gText_ApprenticeMonThanks0::
+45fabfc5520663e8	ぐすん… わ… わかった!\n
+f7f0b28fa8fd5e9a	あっ! ごめんなさい!\l
+2237ef6b32e1f9ba	うれしすぎて なみだが…\p
+61fc7a16916f068c	がんばって つかまえるね!\n
+888446a35683f8d4	{STR_VAR_1}を 1ぴき!\p
+308395971ffa4683	ほんとに ありがとう!$
+## gText_ApprenticeWhichMon1::
+12443addb086d970	わーい! {PLAYER}だ!\n
+b4391a176be485c8	いい ときに きてくれた!\l
+63188c7c819ae17b	また アドバイスが ほしいの!\p
+645a92932af843f2	えっと こんがらがってて… つかうのは\n
+9d5c00383180a660	{STR_VAR_1}か {STR_VAR_2}か…\p
+0784c10e0c862d7e	どっちを そだてたら いいと おもう\n
+54b235f3c87c8728	{PLAYER}?$
+## gText_ApprenticeMonThanks1::
+d03ce7c0b00072e3	そっか {STR_VAR_1}の ほうが いいんだ!\n
+06da9bdd4982f5be	うん そうする!\p
+c45907a808a835b9	おしえてくれて ありがとう!$
+## gText_ApprenticeWhichMon2::
+b95fb1f98e0133ac	{PLAYER} こんにちは!\n
+d163297075127595	ききたい ことが あったの。\p
+e2672a138f16381b	どっちを そだてるか まよってるの\n
+4ac9c02cdbf137dd	{STR_VAR_1}か {STR_VAR_2}か。\p
+65ad014c06c4755b	どっちの ポケモンが\n
+7ae37c3764571bc2	つよく なると おもう?$
+## gText_ApprenticeMonThanks2::
+eb1d646793037f84	{STR_VAR_1}に するのね?\n
+be9f88f5e90d91ae	うん わかった!\p
+5a7b4ad7cc519711	つよい {STR_VAR_1}を\n
+b71a84e022fb6e25	さっそく つかまえに いくね!\p
+3dd78177b3e16a59	またね!$
+## gText_ApprenticeWhichMon3::
+26350446746e1f13	こんにちは {PLAYER}…\p
+a5386faa6abe804c	あの… わたしの ことなんて\n
+567f7975c09ee016	もう わすれちゃってるよね…\p
+68e289b729e3a9b1	…でも アドバイスさえ もらえれば\n
+0c2e67dd235c66c7	それで いいの…\p
+5df7c5ecae47761c	そだてる ポケモンを\n
+460b4d05bb059074	1しゅるい きめられなくて…\p
+1b2b6454d3953aec	ポケモンを しぼりこんで\n
+667bcbf8f163438e	{STR_VAR_1}と {STR_VAR_2}まで\l
+abf0d75ae6cbd838	きたけど そこで いきづまって…\p
+65d71ba4718f6bcc	{PLAYER} めんどうだと おもうけど\n
+d1160b5230d6825d	おねがい かわりに きめて。$
+## gText_ApprenticeMonThanks3::
+19971cbf2c42d492	でも やせいの {STR_VAR_1}が\n
+b3190b6c06a57c39	わたしなんか あいてに してくれるかな?\p
+362788e909a2fd38	やってみる!\p
+cf8143b3f897fc3a	でも ほんとに つかまえられるかな…\n
+0527509c093a03d4	ううん! がんばる!\p
+fc49c0bd30677fea	ありがとう!$
+## gText_ApprenticeWhichMon4::
+45db85087e632046	あっ {PLAYER}{KUN}! あえて うれしい!\n
+153ec790dfadfacd	さがしに いこうと おもってたの!\p
+f52587d914d889a8	どんな ポケモンを つかえば いいか\n
+8438d9cddff83c66	きめて くれない?\p
+49b7abef577a17c8	たとえば…\n
+a08df09cafd15885	ポケモンの {STR_VAR_1}と\l
+3e00b519465e0192	{STR_VAR_2}だったら?\p
+285d3883093d0599	どっちの ほうが\n
+984d61c4717fa0a6	いいと おもう?$
+## gText_ApprenticeMonThanks4::
+f120bee9a33a8776	{STR_VAR_1}? いいね!\p
+9d4d82e4a48b64bd	きめてくれたのが\n
+1408ca3b42f1d1eb	{PLAYER}{KUN}なら まけても\l
+09983550556fdf9c	そんなに くやしくないよ。\p
+80d3331ae7173d1e	じゃあ また アドバイス してね。\n
+74fde9a85dba826a	バイバイ!$
+## gText_ApprenticeWhichMon5::
+e205e3c98e2c92e0	{PLAYER}{KUN} じゃないか! げんき?\n
+a0f2f3993ef870a4	こっちは あいかわらず いそがしいよ!\p
+a92555567db53a18	ポケモンでも がんばりたいんだけど\n
+170dbab540b60b35	どの ポケモンを つかうか\l
+15896cb88ba4f55a	まだ きめられて ないんだ。\p
+dd52561dda787a9a	{STR_VAR_1}って つよそうだろ?\n
+e47eba4f85488dd0	でも {STR_VAR_2}も すてがたい。\p
+32e1a1f8e0a8b27a	{PLAYER}{KUN} いい アドバイスを\n
+6ea1c9d98f1133ad	たのむよ! どっちが いいかな?$
+## gText_ApprenticeMonThanks5::
+2cf30f50ee18bc18	オッケー りょうかい。\n
+76e25059b82d876a	なんとか じかんを つくって\l
+8c5522570c639da0	おすすめの {STR_VAR_1}を つかまえるよ。\p
+38d3d417c4842dae	きみみたいな いい ししょうに あえて よかった。\n
+9383eb036425e96c	ありがとう! じゃあ またね!$
+## gText_ApprenticeWhichMon6::
+7a9f722a6cacafed	あっ!\n
+b7297ca109f2d807	わーい {PLAYER}だ!\p
+26e7d7e83ac57f9e	あなたに あったこと さっそく\n
+672c8e3ebb3490a5	ともだちに じまん しちゃった!\p
+d5668699278b1576	きょうも また ちえを かして!\n
+de9a4799ca42e777	あなたなら かんたんな もんだいよ!\p
+c1c37051c06704a6	ドラムロール おねがい!\n
+e2515cd45f4837f8	しつもんは…\p
+62221558148575ac	もし ポケモンを そだてるとして\n
+738f53c53194ec66	{STR_VAR_1}と\l
+53267e1619adba8d	{STR_VAR_2}なら どっちに すべき?$
+## gText_ApprenticeMonThanks6::
+cefcf405e3ece023	あーっ!\n
+a311047f854a4d61	{STR_VAR_1}って わけね!\l
+853925d0cf5e655c	サイコーに イカした こたえ ありがと!\p
+5059785df7bbd945	きょう ききたかったのは\n
+76872f3b4d898efe	だいたい これくらいかな。\p
+7be22a37cc83df2b	また ここで あおうね!\n
+8f1e129c73b9151e	ありがと!$
+## gText_ApprenticeWhichMon7::
+c1b0fcbff18c5daa	おや {PLAYER} では ありませんか?\n
+858bbd467bce76f9	また おあいできて うれしいです!\p
+dd8e10df6dd906cf	あなたの でしに なってから\n
+6a4af033d7024d64	じしんが どんどん わいてきました。\p
+770f406a056e966c	そろそろ じぶんの ポケモンを\n
+997c7126caff32ec	そだてられそうです!\p
+ebd1b56a6839d57b	{PLAYER} おそれいりますが\n
+57ac548bc9618213	そだてる ポケモンを えらんで くださいますか?\p
+6c61342621d9e652	こうほは ポケモンの\n
+31f631c110c5d0cc	{STR_VAR_1}か {STR_VAR_2}…\l
+c596730c3f798aba	わたしに ふさわしいのは どちらでしょう?$
+## gText_ApprenticeMonThanks7::
+121650e03aee7296	{STR_VAR_1} ですね!\n
+bdbe32d7865c17e7	さっそく さがしてきます!\p
+d6e8bace21696e8d	ありがとうございます {PLAYER}。\n
+e4cd1778256173cf	また たよらせて くださいね。\l
+78a6bf49e0513da6	どうか おげんきで!$
+## gText_ApprenticeWhichMon8::
+56f34283edd505a7	きゃっ! {PLAYER}! また あえた!\n
+ee414eb608e2dc14	う… うれしい!\p
+3a9470f7e43d565a	あっあっあっ そうだ!\n
+ae226fe56653ab4a	この チャンスを のがしちゃ だめ!\p
+b6022b2fc775f21f	すごい おねがい しても いい {PLAYER}?\n
+d27650bf5a3928b9	わたしの ポケモンを えらんでください!\p
+0b360190c73ff046	どっちが いいか きめてください\n
+c6cb7b40476ab71d	{STR_VAR_1}か {STR_VAR_2}か!$
+## gText_ApprenticeMonThanks8::
+bfd447752165b566	わあ! きめてくれた!\n
+9c500d514710ca74	{STR_VAR_1}を せいいっぱい\l
+575574f5b69e87d6	そだてます!\p
+51da4d9793f4785d	また こんど いろいろ\n
+b893f3e5123766d1	おしえて もらえたら うれしいです。$
+## gText_ApprenticeWhichMon9::
+e66d68eeef4d67a3	ヘイ ヘイ!\n
+da5589af472b592d	わが メンター {PLAYER}{KUN}!\p
+c7798f29e460f3ca	やあ また かしこい アドバイスを\n
+775b793f9500080e	もらおうと さがしてたんだ!\p
+ae86f24f2a3110fb	うちに あう ポケモンは どっち?\n
+33efc5b0dd153862	{STR_VAR_1}か {STR_VAR_2}か?\p
+bdd72096f368c08b	えんりょは いらない!\n
+5450fec04b34bfc9	ズバッと いっちゃって!$
+## gText_ApprenticeMonThanks9::
+2891874b605a1b04	うんうん {STR_VAR_1}に けってい!\n
+224aa2cf6fa5314b	オーケー バッチリ!\l
+c9e5a36f2871d645	ボールに ギュッと つめこむ!\p
+bf6f4e2225270deb	よし いつも ありがとう!\n
+b54da9c9e20e2548	アディオス!$
+## gText_ApprenticeWhichMon10::
+22678a1c381f9b5d	{PLAYER}{KUN} きいて! だいニュース!\n
+46ae13bc030ec74b	まぼろしの ポケモンを つかまえたんです!\p
+387c67e3a49b1fa4	もちろん ウソです!\n
+a03605a5da30650e	わはははっ!\p
+bd4f937ade9319ee	でも これは ウソじゃ ありません。\n
+d9a7d8b4ebc8333f	ポケモンを つかまえるのが\l
+b3db28db85b502d1	にがてなんです。\p
+a8b047ffd845a62a	そこで ししょう! どんな\n
+8b65b1458363f1a2	ポケモンを つかまえるべきか\l
+d81f14b2e2d59440	きめてください!\p
+dd57660aa60f59f9	どっちが いいでしょう?\n
+276348cde0cb4205	{STR_VAR_1}か {STR_VAR_2}か?$

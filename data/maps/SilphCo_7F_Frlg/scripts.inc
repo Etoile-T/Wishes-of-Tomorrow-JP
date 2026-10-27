@@ -233,136 +233,136 @@ SilphCo_7F_EventScript_Grunt3::
 	end
 
 SilphCo_7F_Text_HaveMonForSavingUs::
-	.string "Oh! Hi! You're not a ROCKET!\n"
-	.string "You came to save us?\l"
-	.string "Why, thank you!\p"
-	.string "I want you to have this POKéMON\n"
-	.string "for saving us.$"
+	.string "{JPN}あっ! きみは ロケットだんじゃ ないね!\n"
+	.string "たすけに きてくれたの?\l"
+	.string "いやあ ありがとう!\p"
+	.string "たすけてくれた おれいに\n"
+	.string "この ポケモンを あげるよ$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-	.string "{PLAYER} obtained a LAPRAS from\n"
-	.string "the SILPH employee!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は シルフの しゃいんから\n"
+	.string "ラプラスを もらった!$"
 
 SilphCo_7F_Text_ExplainLapras::
-	.string "It's a LAPRAS.\n"
-	.string "It's a very intelligent POKéMON.\p"
-	.string "We kept it in our lab, but it will\n"
-	.string "be much better off with you.\p"
-	.string "I think you will be a good TRAINER\n"
-	.string "for LAPRAS!\p"
-	.string "It's a good swimmer.\n"
-	.string "It'll give you a lift across water!$"
+	.string "{JPN}それは ラプラス\n"
+	.string "とても かしこい ポケモンだよ\p"
+	.string "けんきゅうじょで かってたけど\n"
+	.string "きみと いるほうが しあわせだ\p"
+	.string "きみなら ラプラスの いい\n"
+	.string "トレーナーに なれると おもう!\p"
+	.string "およぎが とくいなんだ\n"
+	.string "みずの うえを はこんでくれるよ!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
-	.string "TEAM ROCKET's BOSS went to the\n"
-	.string "boardroom!\p"
-	.string "Is our PRESIDENT okay?\n"
-	.string "I'm worried.$"
+	.string "{JPN}ロケットだんの ボスが\n"
+	.string "じゅうやくしつに いったぞ!\p"
+	.string "しゃちょうは ぶじだろうか?\n"
+	.string "しんぱいだ$"
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
-	.string "TEAM ROCKET was after the MASTER\n"
-	.string "BALL, which catches any POKéMON.$"
+	.string "{JPN}ロケットだんの ねらいは\n"
+	.string "なんでも つかまる マスターボールだった$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
-	.string "We canceled the MASTER BALL\n"
-	.string "project because of TEAM ROCKET.$"
+	.string "{JPN}ロケットだんの せいで\n"
+	.string "マスターボールの けいかくは ちゅうしだ$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
-	.string "It would be bad if TEAM ROCKET\n"
-	.string "took over SILPH or our POKéMON.$"
+	.string "{JPN}ロケットだんに シルフや ポケモンを\n"
+	.string "のっとられたら たいへんだ$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
-	.string "Wow!\p"
-	.string "You chased off TEAM ROCKET all by\n"
-	.string "yourself?$"
+	.string "{JPN}すごい!\p"
+	.string "ロケットだんを たった ひとりで\n"
+	.string "おいはらったの?$"
 
 SilphCo_7F_Text_ReallyDangerousHere::
-	.string "You!\n"
-	.string "It's really dangerous here!\p"
-	.string "You came to save me?\n"
-	.string "You can't!$"
+	.string "{JPN}きみ!\n"
+	.string "ここは ほんとに あぶないよ!\p"
+	.string "たすけに きてくれたの?\n"
+	.string "むりだよ!$"
 
 SilphCo_7F_Text_ThankYouSoMuch::
-	.string "Thank you so much!$"
+	.string "{JPN}ほんとうに ありがとう!$"
 
 SilphCo_7F_Text_Grunt3Intro::
-	.string "Uh-oh!\n"
-	.string "I smell a little mouse!$"
+	.string "{JPN}おっと!\n"
+	.string "ネズミの においが するぜ!$"
 
 SilphCo_7F_Text_Grunt3Defeat::
-	.string "Lights out!$"
+	.string "{JPN}めのまえが まっくらだ!$"
 
 SilphCo_7F_Text_Grunt3PostBattle::
-	.string "You won't find my BOSS by just\n"
-	.string "scurrying around!$"
+	.string "{JPN}ちょろちょろ うごきまわっても\n"
+	.string "ボスは みつからねえぞ!$"
 
 SilphCo_7F_Text_JoshuaIntro::
-	.string "Heheh!\p"
-	.string "You mistook me for a SILPH worker?$"
+	.string "{JPN}ヘッヘッヘ!\p"
+	.string "シルフの しゃいんと まちがえたか?$"
 
 SilphCo_7F_Text_JoshuaDefeat::
-	.string "I'm done!$"
+	.string "{JPN}まいった!$"
 
 SilphCo_7F_Text_JoshuaPostBattle::
-	.string "Despite your age, you are a\n"
-	.string "skilled TRAINER!$"
+	.string "{JPN}としの わりに\n"
+	.string "うでの たつ トレーナーだな!$"
 
 SilphCo_7F_Text_Grunt1Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+	.string "{JPN}おれは ロケットだん\n"
+	.string "4きょうだいの ひとり!$"
 
 SilphCo_7F_Text_Grunt1Defeat::
-	.string "Aack!\n"
-	.string "Brothers, I lost!$"
+	.string "{JPN}ぐわっ!\n"
+	.string "きょうだいたち まけちまった!$"
 
 SilphCo_7F_Text_Grunt1PostBattle::
-	.string "Doesn't matter.\n"
-	.string "My brothers will repay the favor!$"
+	.string "{JPN}かまわねえ\n"
+	.string "きょうだいたちが しかえし するさ!$"
 
 SilphCo_7F_Text_Grunt2Intro::
-	.string "A child intruder?\n"
-	.string "That must be you!$"
+	.string "{JPN}こどもの しんにゅうしゃ?\n"
+	.string "おまえの ことだな!$"
 
 SilphCo_7F_Text_Grunt2Defeat::
-	.string "Fine!\n"
-	.string "I lost!$"
+	.string "{JPN}ちっ!\n"
+	.string "まけたよ!$"
 
 SilphCo_7F_Text_Grunt2PostBattle::
-	.string "Go on home before my BOSS gets\n"
-	.string "ticked off!$"
+	.string "{JPN}ボスが キレる まえに\n"
+	.string "とっとと かえりな!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-	.string "{RIVAL}: What kept you, {PLAYER}?$"
+	.string "{JPN}{ENG}{RIVAL}{JPN}: おそかったな {ENG}{PLAYER}{JPN}!$"
 
 SilphCo_7F_Text_RivalIntro::
-	.string "{RIVAL}: Hahaha! I thought you'd\n"
-	.string "turn up if I waited here!\p"
-	.string "I guess TEAM ROCKET slowed you\n"
-	.string "down! Not that I care!\p"
-	.string "I saw you in SAFFRON, so I decided\n"
-	.string "to see if you got better!$"
+	.string "{JPN}{ENG}{RIVAL}{JPN}: ハッハッハ! ここで まってりゃ\n"
+	.string "くると おもってたぜ!\p"
+	.string "ロケットだんに てこずったんだろ!\n"
+	.string "ま おれには かんけい ないけどな!\p"
+	.string "ヤマブキで みかけたからさ\n"
+	.string "うでが あがったか みてやるよ!$"
 
 SilphCo_7F_Text_RivalDefeat::
-	.string "Oh, man!\n"
-	.string "So, you are ready for BOSS\l"
-	.string "ROCKET!$"
+	.string "{JPN}ちぇっ!\n"
+	.string "ロケットだんの ボスと やる\l"
+	.string "じゅんびは できてるって わけか!$"
 
 SilphCo_7F_Text_RivalPostBattle::
-	.string "Well, {PLAYER}!\n"
-	.string "I'm moving on up and ahead!\p"
-	.string "By checking my POKéDEX, I'm\n"
-	.string "starting to see what's strong and\l"
-	.string "how they evolve!\p"
-	.string "Am I a genius or what?\p"
-	.string "I'm going to the POKéMON LEAGUE to\n"
-	.string "boot out the ELITE FOUR.\p"
-	.string "I'll become the world's most\n"
-	.string "powerful TRAINER!\p"
-	.string "{PLAYER}, well, good luck to you!\n"
-	.string "Don't sweat it!\l"
-	.string "Smell ya!$"
+	.string "{JPN}じゃあな {ENG}{PLAYER}{JPN}!\n"
+	.string "おれは どんどん さきへ いくぜ!\p"
+	.string "ずかんを みてるとな\n"
+	.string "なにが つよくて どう しんか\l"
+	.string "するのか わかってくるんだ!\p"
+	.string "おれって てんさいじゃ ねえか?\p"
+	.string "おれは ポケモンリーグに いって\n"
+	.string "してんのうを けちらしてやる\p"
+	.string "そして せかいで いちばん\n"
+	.string "つよい トレーナーに なるんだ!\p"
+	.string "{ENG}{PLAYER}{JPN} ま せいぜい がんばれよ!\n"
+	.string "きにすんなって!\l"
+	.string "あばよ!$"
 
 SilphCo_7F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
+	.string "{JPN}シルフカンパニー ほんしゃ\n"
 	.string "7F$"
 

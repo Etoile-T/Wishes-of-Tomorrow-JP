@@ -40,39 +40,39 @@ CeladonCity_Restaurant_EventScript_FatMan::
 	end
 
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-	.string "Hi!\p"
-	.string "Sorry, but we're taking a break\n"
-	.string "right now.$"
+	.string "{JPN}いらっしゃい!\p"
+	.string "ごめんなさい いまは\n"
+	.string "きゅうけいちゅう なんです。$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-	.string "My POKéMON are weak, so I often\n"
-	.string "have to go to the DRUGSTORE.$"
+	.string "{JPN}ぼくの ポケモンは よわいから\n"
+	.string "よく ドラッグストアに いくんだ。$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-	.string "Psst! There's a basement under the\n"
-	.string "GAME CORNER, I hear.$"
+	.string "{JPN}ねえ! ゲームコーナーの したに\n"
+	.string "ちかしつが あるんだって。$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
-	.string "Munch…\p"
-	.string "The man at that table lost it all\n"
-	.string "at the slots.$"
+	.string "{JPN}もぐもぐ…\p"
+	.string "あの テーブルの ひと スロットで\n"
+	.string "ぜんぶ すっちゃったんだって。$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-	.string "Go ahead! Laugh!\n"
-	.string "I'm flat-out busted!\p"
-	.string "No more slots for me!\n"
-	.string "I'm going straight!\p"
-	.string "Here!\n"
-	.string "I won't be needing this anymore!$"
+	.string "{JPN}さあ! わらえよ!\n"
+	.string "すっからかんだ!\p"
+	.string "もう スロットは やめだ!\n"
+	.string "まじめに いきるぞ!\p"
+	.string "ほら!\n"
+	.string "これは もう いらないからな!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-	.string "{PLAYER} received a COIN CASE\n"
-	.string "from the man.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は おとこから\n"
+	.string "コインケースを もらった!$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-	.string "Make room for this!$"
+	.string "{JPN}これを もつ よゆうを つくれよ!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-	.string "I always thought I was going to\n"
-	.string "win it back…$"
+	.string "{JPN}いつかは とりかえせると\n"
+	.string "ずっと おもってたんだ…$"
 

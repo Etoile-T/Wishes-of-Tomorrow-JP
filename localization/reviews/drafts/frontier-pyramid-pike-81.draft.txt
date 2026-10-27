@@ -1,0 +1,1409 @@
+##### data/maps/BattleFrontier_BattlePalaceBattleRoom/scripts.inc
+## BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
+#REF	おみごと……\n
+fcbd0a1a6090ebf1	おみごと……\n
+#REF	ポケモンを かいふくして やろう……$
+635d5e1aafbba881	ポケモンを かいふくして やろう……$
+## BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
+#REF	つぎは 2にんめの あいて だが\n
+513d17844d79fcdd	つぎは 2にんめの あいて だが\n
+#REF	じゅんびは よろしいか?$
+5d0112752f75ee19	じゅんびは よろしいか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
+#REF	つぎは 3にんめの あいて だが\n
+b8c1cbee460e1107	つぎは 3にんめの あいて だが\n
+#REF	じゅんびは よろしいか?$
+f7597a860c3d24a2	じゅんびは よろしいか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
+#REF	つぎは 4にんめの あいて だが\n
+d93caf377af4a791	つぎは 4にんめの あいて だが\n
+#REF	じゅんびは よろしいか?$
+15a778d22dc27ada	じゅんびは よろしいか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
+#REF	つぎは 5にんめの あいて だが\n
+8061b636432e61d2	つぎは 5にんめの あいて だが\n
+#REF	じゅんびは よろしいか?$
+cb9e6feb720c8a4e	じゅんびは よろしいか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
+#REF	つぎは 6にんめの あいて だが\n
+99953d5be2c5922b	つぎは 6にんめの あいて だが\n
+#REF	じゅんびは よろしいか?$
+4f92965e9d2135f5	じゅんびは よろしいか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
+#REF	つぎは 7にんめの あいて だが\n
+04cf51b90c951501	つぎは 7にんめの あいて だが\n
+#REF	じゅんびは よろしいか?$
+0e59b027b775369c	じゅんびは よろしいか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
+2d0eb31402368cca	レポートを かいて\n
+0371ea16f5adee7b	ゲームを おわりに するか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
+#REF	ちょうせんを ちゅうし するのか?$
+dfc30bef40f69c54	ちょうせんを ちゅうし するのか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
+#REF	レポートを かいておる……\n
+3001dba38498d25e	レポートを かいておる……\n
+#REF	しばし またれよ……$
+3cc2e2ed6fd18f3b	しばし またれよ……$
+## BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
+#REF	さきほどの たたかいを\n
+3994df98e30d567b	さきほどの たたかいを\n
+#REF	フロンティアパスに きろく するか?$
+bea53c5ffdad91b4	フロンティアパスに きろく するか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
+#REF	さて……\p
+1b109f6a714605ad	さて……\p
+#REF	ここまで かちぬいた おぬしは\n
+30a9577e8324421e	ここまで かちぬいた おぬしは\n
+#REF	われらが あるじ パレスガーディアンに\l
+8c4d1fc455b0fdbf	われらが あるじ パレスガーディアンに\l
+#REF	ちょうせんする しかくを てにした……$
+fadd6fc3e80b4eed	ちょうせんする しかくを てにした……$
+## BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
+#REF	パレスガーディアンを およびする\n
+ea1fca5ccfdb48f8	パレスガーディアンを およびする\n
+#REF	……かくごは よいか?$
+f92e634393c2832b	……かくごは よいか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
+#REF	パレスガーディアン ウコンさまーーー!\n
+9d7156c054d686e0	パレスガーディアン ウコンさまーーー!\n
+#REF	ごらいでんーーー!!$
+9652832f43bf8ad9	ごらいでんーーー!!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
+11ca97c02b631d72	ウコン: わしの からだは\n
+525dc39df19acec3	いつも ポケモンと ともに ある!\p
+77627dc5dbe0f2e5	わしの こころは いつも\n
+aac1418c699167fe	ポケモンと ひとつに なって おる!\p
+116f298f560d87a2	トレーナーの わかもの よ!\n
+29f51300de4a0058	おぬしは ポケモンを しんじて おるか?\p
+c456d65965845f67	どこまでも\n
+670795e51064de98	しんじ ぬけるか?\p
+69c97f13f553566d	しんらいの きずなが もろければ\n
+ddbbe19aa723b29a	わしの きょうだいには かてぬぞ!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
+#REF	ポケモンとの きずな!!\n
+7635f6d2212c6c7e	ポケモンとの きずな!!\n
+#REF	ここに しめせぇい!!$
+af4cced02774811d	ここに しめせぇい!!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
+f18025b2d921f6dd	ウコン: ぐわはっはっ!\p
+00db9e376882eddc	わしの こけおどしに のらんかったな!\n
+b94f01c8c3283bb8	あんな しばいを うって すまん!\p
+c1ab21cb08eaf56d	おい!\n
+110331a4c78ff8b2	あれを もってこい!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
+a6de60f53e9e183e	まったく いつも あの いげんを\n
+d38a9b744375433d	たもって くだされば よいのだが……\p
+334f54b5042e217c	ええい!\n
+49b0622e3be3d2bb	フロンティアパスを みせなさい!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
+#REF	フロンティアパスに\n
+97ea4ee85c307caa	フロンティアパスに\n
+#REF	スピリットシンボルが きざまれた!$
+37f537f50b0ef4e8	スピリットシンボルが きざまれた!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
+d166d270d3bfc36a	ウコン: おぬしの ポケモンの めは\n
+14775b0a5d1e6b3c	まことに すんで くもりが ない\p
+c1a650743a56546d	また おぬしに あえる ひを\n
+a67ef7beb0b229ca	たのしみに まって おるぞ$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
+80426f8e97fab38b	ウコン: ぐわはっはっ!\n
+8e142e7544487622	また かちあがって きおったか?\p
+6304153622633127	ポケモンとの あいだに よほど\n
+fa75b6b652178ef8	つよい きずなを きずいた ようだな\p
+32ad51fec3ef14ea	よかろう!\p
+99a2eee187a00002	こんどは こけおどしも てかげんも せん\n
+7e456623233c5614	こんどは おふざけ ぬきだ\p
+ddec7fab711b392b	じゅんびは よいか?\n
+236b3ebf5ce50412	まけるのを かくご せい!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
+#REF	…… …… …… かーっ!!!$
+6be6eb9c946df413	…… …… …… かーっ!!!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
+f30910bf3f87680a	ウコン: いやあ みごとな ものだ!\n
+76e633366029eb20	ほんきを だした わしの きょうだい\l
+43df3d075b83d9ed	でも おぬしには かなわなんだ\p
+c0747370b23c2482	おぬしたちの チームワークは あっぱれ!\p
+494857e12e8fa6e1	おい!\n
+5f78e8c06b769b7f	あれを もってきて くれんか?$
+## BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
+#REF	ったく ここの イメージと いうのを\n
+6fcfad08763d2298	ったく ここの イメージと いうのを\n
+#REF	かんがえて くれない おかた だ……\p
+256994b73d6e2622	かんがえて くれない おかた だ……\p
+#REF	ええい! おまえ!!\n
+70251c045a8facf8	ええい! おまえ!!\n
+#REF	さっさと フロンティアパスを かさんか!$
+57514fb47e6e6670	さっさと フロンティアパスを かさんか!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
+#REF	スピリットシンボルが\n
+09e6cd396e401373	スピリットシンボルが\n
+#REF	きんいろに かがやいた!$
+b93698025263dd08	きんいろに かがやいた!$
+## BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
+#REF	ウコン『ぐわはっはっ!\p
+6ef407cf9cfa4a74	ウコン: ぐわはっはっ!\p
+#REF	これからも ときどき あそびに こいよ!\n
+f144d2dfcf1d11ae	これからも ときどき あそびに こいよ!\n
+#REF	わしも きょうだいも まっとる からな!!$
+8b2b679e79c97b89	わしも きょうだいも まっとる からな!!$
+##### data/maps/BattleFrontier_BattlePalaceCorridor/scripts.inc
+## BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
+dbfd1adf1cbcd3bd	ひとも ポケモンも\n
+589dca66dfc960f5	おなじ ことよ……\p
+2d230167981c0935	それぞれの せいかくに よって\n
+dfe1959066102608	とくいな ことも あれば\l
+11c2d572715cbc1d	にがてな ことも ある$
+## BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
+a0a3618f76b8e1fa	ポケモンに いやがる ことを させるより\n
+c0f020c4e8029bdc	すきで とくいな ことを\l
+415e42861bc164c1	させて やるのが よい\p
+19edacf4f57dc9ec	ポケモンの たちばに たって\n
+3c7d613090aef232	どんな わざを つかいたいか かんがえよ$
+## BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
+e11c37810177c022	ポケモンの せいかくとは\n
+cc9ea939fb7da72c	ふしぎな ものよ……\p
+d1ff52378d710b37	おいつめられると まったく ちがう\n
+dc118e2982c4ad89	うごきを する ポケモンも おる$
+## BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
+#REF	…… そろそろ ポケモンの せいかくを\n
+86cf32c9e3be2e6d	…… そろそろ ポケモンの せいかくを\n
+#REF	みきわめられる ように なってきたか?$
+de62d97b9455808c	みきわめられる ように なってきたか?$
+## BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
+#REF	おお…… おぬしと ポケモンの あいだに\n
+f11ff09b40f4eb60	おお…… おぬしと ポケモンの あいだに\n
+#REF	つよい こころの きずなが みえる……$
+2939e13b67aa5b5f	つよい こころの きずなが みえる……$
+##### data/maps/BattleFrontier_BattlePikeCorridor/scripts.inc
+## BattleFrontier_BattlePikeCorridor_Text_YourChallengeHasBegun:
+9df4ab14c7ec1535	バトルゲームの ちょうせんが\n
+cda90956ab6c6f5e	はじまりました……$
+##### data/maps/BattleFrontier_BattlePikeLobby/scripts.inc
+## BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
+e2eafadd5e339041	トレーナーの うんが\n
+7eeedb5c65e55077	ためされる ばしょ……\p
+5212b9a8945d97bf	バトルチューブへ ようこそ……\p
+42b4a3b73e9adbdf	わたくしは バトルチューブの あんないやく です……$
+## BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
+#REF	バトルゲームに\n
+45deb657fece6b4b	バトルゲームに\n
+#REF	ちょうせん されますか……?$
+2827ce7cb6f3a1c6	ちょうせん されますか……?$
+## BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
+31b49ea12a12c19e	ここでは バトルゲームと いう\n
+2d040c3d2db390ac	イベントを おこなって おります\p
+5c53b8eafcc13a02	バトルゲームの ルールは とても\n
+1757bf285911ce27	かんたん です……\p
+39fc9efa05d43c9e	3つの みちから 1つを えらび\n
+7cb97e86593a7cd4	バトルチューブの おくに ある\l
+c8f57dad4b09d3c1	ゴールの へやを めざす だけ です\p
+5834cf6704b03f18	ただし えらんだ みちで なにが\n
+bbfdbf489349d6fc	おこるかは すべて ちょうせんしゃの\l
+8ebbd450e7c35ccf	うんしだい です……\p
+98af51c932e00388	ゴール できれば\n
+d11c849a96e861df	バトルポイントを さしあげます\p
+7f2b64eb67c2e826	ちょうせんを ちゅうだん するときは\n
+c4f4ff42f558256d	とちゅうの おおきな へやにいる\l
+de0cb247a4c02c60	スタッフに おもうしつけ ください\p
+9eb1d353d8f2a290	レポートを かかずに ちゅうだんすると\n
+9dfd2b6f42578176	しっかく と なります$
+## BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
+#REF	では またの きかいを\n
+991d89bccdf5cb97	では またの きかいを\n
+#REF	おまちして おります……$
+b1990f65947cbc13	おまちして おります……$
+## BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
+7363bbf61dba4a5b	レベル50と オープンレベルの\n
+c9ed5f44c9624691	2つの コースが あります\l
+e405b22107cd1cad	どちらに ちょうせん しますか?$
+## BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
+bc169329e9bbb85f	もうしわけ ありませんが……\p
+12598caa9540404a	バトルゲームに さんか できる\n
+a846b6af0a1b4a86	ポケモンが 3ひき いません\p
+360f1d0d6b7dcad0	レベル50いかの ちがう しゅるいの\n
+03f4c0f447c717f0	ポケモンが 3ひき ひつようです\p
+d75dbac4a540d177	また ちがう どうぐを もたせて\n
+90c1880d140eb484	おく ひつようが あります\p
+c70d74a39b9eca4f	タマゴ{STR_VAR_1}は さんか できません$
+## BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsEnd:
+#REF	じゅんびが ととのいましたら\n
+ac45a6259e4d7e40	じゅんびが ととのいましたら\n
+#REF	また おこしください……$
+273e33af98248760	また おこしください……$
+## BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
+671946d30c64b7ab	もうしわけ ありませんが……\p
+70408f23f8a723e1	バトルゲームに さんか できる\n
+202876249023c112	ポケモンが 3ひき いません\p
+4bbdfc0382b65565	ちがう しゅるいの ポケモンが\n
+f3d88c49ba37d583	3ひき ひつようです\p
+c6c42d3fd4ae3526	また ちがう どうぐを もたせて\n
+99b566bc97a23dc0	おく ひつようが あります\p
+7c9f3a04df5b1993	タマゴ{STR_VAR_1}は さんか できません$
+## BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
+#REF	それでは ゲームに ちょうせんする\n
+327eda576a281ebf	それでは ゲームに ちょうせんする\n
+#REF	ポケモンを 3ひき おえらび ください……$
+6a98be9b6ad8a1e3	ポケモンを 3ひき おえらび ください……$
+## BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
+3e4c351b0db8ae99	バトルゲームを はじめる まえに\n
+1359f42500556f57	レポートを かきます\l
+91cdafccb672e75e	よろしい ですか?$
+## BattleFrontier_BattlePikeLobby_Text_StepThisWay:
+#REF	では こちらに どうぞ……$
+27111daa99c300a4	では こちらに どうぞ……$
+## BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
+#REF	ゲーム しゅうりょう ですね……\p
+58bcbaf7d3395720	ゲーム しゅうりょう ですね……\p
+#REF	せいせきを レポートに かきましょう……\n
+88c09a0f31893993	せいせきを レポートに かきましょう……\n
+#REF	しょうしょう おまちください……$
+530c056a367fedc9	しょうしょう おまちください……$
+## BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
+#REF	ゲーム クリア ですね……\p
+ae26f4d332e73c1f	ゲーム クリア ですね……\p
+#REF	おきゃくさま…… なかなかの うんを\n
+2b62317a0fa3c5ea	おきゃくさま…… なかなかの うんを\n
+#REF	おもちの ようですね……$
+0036e193bbb38dc6	おもちの ようですね……$
+## BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
+#REF	せいせきを レポートに かきましょう……\n
+d07bece2e6066033	せいせきを レポートに かきましょう……\n
+#REF	しばらく おまちください……$
+6494e193f0598146	しばらく おまちください……$
+## BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
+e3298c49959427d5	バトルゲーム クリアを きねんして\n
+0d92096319e170c6	バトルポイントを\l
+1ad357c919aa9759	さしあげます……$
+## BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
+d5681737a6efcdf9	バトルポイントが じょうげんに\n
+d19940ef8f433344	たっして いるようです……\p
+e919e4561e312e79	バトルポイントを けいひんと こうかん\n
+e1ff44e8ea8e6546	してから また おこしください……$
+## BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
+#REF	おきゃくさま……\p
+e6ea2a90b9c392d1	おきゃくさま……\p
+#REF	ぜんかい きちんと レポートを かかずに\n
+341e3131e59fd0ec	ぜんかい きちんと レポートを かかずに\n
+#REF	しゅうりょう されましたね……\p
+2f293dd667a7e596	しゅうりょう されましたね……\p
+#REF	もうしわけ ありませんが ちょうせんは\n
+1a434eb03f7728ca	もうしわけ ありませんが ちょうせんは\n
+#REF	むこうと させて いただきます……$
+eb9d18ef08b705fd	むこうと させて いただきます……$
+## BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
+3e97b6ecf9b7a4e6	おめでとう ございます……\p
+3f25db3754e35ed3	チューブクイーンから しょうりを\n
+7742c36b77644326	うばい ゲームを クリア されました……$
+## BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
+#REF	おきゃくさまの つよき うんを たたえ\n
+6007df1bc38c5975	おきゃくさまの つよき うんを たたえ\n
+#REF	バトルポイントを さしあげます……$
+e7d669b939333946	バトルポイントを さしあげます……$
+## BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
+#REF	んんー! ちくしょー!!\n
+7923c1ae79b26350	んんー! ちくしょー!!\n
+#REF	あと 1へやで ゴールだったのによー!\p
+ebcd9fa16a4a2092	あと 1へやで ゴールだったのによー!\p
+#REF	おまえ! ここでは どくや こおりには\n
+948fca1d7d9477bc	おまえ! ここでは どくや こおりには\n
+#REF	ちゅうい したほうが いいぞ!$
+0ba819cc831a8631	ちゅうい したほうが いいぞ!$
+## BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
+#REF	あたし 10かいは クリアしたけど\n
+84dfc4f5e6c64cce	あたし 10かいは クリアしたけど\n
+#REF	いっかいも トレーナーと\l
+c348f89239e4e5e8	いっかいも トレーナーと\l
+#REF	たたかった こと ないんだよぅ!$
+a4d6feb5899538d3	たたかった こと ないんだよぅ!$
+## BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
+43f45deee8c34747	ねえ! ねえ!\p
+b24fbdb15e913ce4	ポケモンの とくせいって\n
+b5d51f1c6638bae3	ここで やくに たつと\l
+ccd6930f869d413b	おもわない?$
+## BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
+8e981597075e2ae4	ここって へんな ところ!\n
+c45ef4fc33315bf8	ぜんぜん わけが わからない!\p
+273e1cbf8322790e	なんども ちょうせん したけど\n
+91dd0cc84acbdc92	どの みちを えらんでも\l
+9b2140a4bd32c763	トレーナーに でくわして ばっかり!$
+## BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
+#REF	バトルゲームの ルールが かかれている!$
+9825794f97a12f62	バトルゲームの ルールが かかれている!$
+## BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
+#REF	どの せつめいを よみますか?$
+eafb559730b19676	どの せつめいを よみますか?$
+## BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
+03238e4b3387e64d	バトルゲームの あいだは\n
+c3de41bb20e87b2a	バッグと ポケナビは つかえません$
+## BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
+#REF	バトルゲームでは\n
+19e173bde9f2c4c7	バトルゲームでは\n
+#REF	ポケモンに もたせた きのみや ハーブは\l
+f004fcf66f6deb37	ポケモンに もたせた きのみや ハーブは\l
+#REF	いちどしか こうかを はっき しません$
+70c2bd7c00bc9715	いちどしか こうかを はっき しません$
+## BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
+9170342b97575afd	バトルゲームの あいだは\n
+4447d26d1e381512	ポケモンの じゅんばんを\l
+74994118ed7b0924	かえることが できません\p
+68b08fa91546902d	じゅんばんは ちょうせんを はじめる\n
+c1afffd728c2f7de	まえに きめて おいて ください$
+##### data/maps/BattleFrontier_BattlePikeRoomFinal/scripts.inc
+## BattleFrontier_BattlePikeRoomFinal_Text_CongratsThisWayPlease:
+886ef64d29a53d28	おめでとう ございます……\n
+8ae915c1d8abde61	では こちらへ どうぞ……$
+##### data/maps/BattleFrontier_BattlePikeRoomNormal/scripts.inc
+## BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth:
+0ff8e54ac779c0ef	ようこそ……\n
+cd736a0c0d0d77cc	あなたの うんの よさは みごとです……\p
+e58d008fbef5416d	ポケモンを\n
+6145c5009ba3c7be	かいふく いたしましょう……$
+## BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge:
+bfdb2ec42dda8a9e	このあとも バトルゲームを\n
+054a8b04d8350a92	おたのしみ ください……$
+## BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon:
+57b3f4279547ba9b	おや うんが いいですね\n
+ce03ce10bb74d357	いまは わりと きげんが いいのです\p
+4bac6318b06734ad	ポケモンを 1ぴき\n
+dbd75fd4b03d7d71	かいふく しましょう$
+## BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell:
+84a816d6d59197b2	ごうんを いのります\n
+1f51d0ca916e1299	では さようなら$
+## BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons:
+775221c2d23328e9	すみません……\p
+a0b2ae4f33002bc7	バトルを しませんか?\n
+8284400e5235371f	かったら ポケモンを かいふく します$
+## BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe:
+351bd07568481281	よろしい……\n
+7fa1eb7dd52fc323	では まいりましょうか?$
+## BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou:
+c3c077a53f2edb7a	そうですか……\n
+c592167cde3f6674	スポーツマン らしく ないですね……$
+## BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised:
+d3b4218d4d0bf188	みごとです……\p
+86ba26ce3a1b6c84	やくそく どおり ポケモンを\n
+83597fe8737f1546	かいふく いたしましょう$
+## BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2:
+5bcaf808501bc14e	ごうんを いのります\n
+9771b377fa8f8e62	では さようなら$
+## BattleFrontier_BattlePikeRoomNormal_Text_WatchOut:
+1af215c518bfb709	おや!\p
+eb73c1d310baa66d	あぶない!$
+## BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop:
+e8e6f87aa7a7adbf	これ これ!\n
+82d9329fb28d3b60	キルリア やめなさい!$
+## BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop:
+b5059707efd0b9f2	これ これ!\n
+9a947edeeef87b98	サマヨール やめなさい!$
+## BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic:
+4e35d5cb66a7051c	キルリアの どくどく!$
+## BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis:
+7e4f8ee42a3876f3	キルリアの さいみんじゅつ!$
+## BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave:
+f7e965d9efa7a18c	キルリアの でんじは!$
+## BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp:
+e195eac8f442ffc0	キルリアの おにび!$
+## BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp:
+00e072b6a801df33	サマヨールの おにび!$
+## BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam:
+32cd1c2dd3ebb372	サマヨールの れいとうビーム!$
+## BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
+aa669e11dea1bad0	これ!\n
+42ff4340bae7fcd8	いいかげんに しなさい!$
+## BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
+a7507c842f9f9ffd	もうしわけ ありません……\p
+15d4e948428521ab	わたしの キルリアは おくびょうな せいかくで……$
+## BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
+f003183d9af5aafc	もうしわけ ありません……\p
+1765362e8e446cf8	わたしの サマヨールは おくびょうな せいかくで……$
+## BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
+941a9efde48c894b	ひとに おどろかされると\n
+b31dc402701d6f02	いきなり こうげき してしまうのです……\p
+a552bc73b6c3c7f4	あなたも ポケモンも だいじょうぶ ですか?$
+## BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
+58c8978ec6a21f2b	たいへん しつれい いたしました……\n
+e5bdddf0172df5b5	ポケモンが ぶじだと よいのですが$
+## BattleFrontier_BattlePikeRoomNormal_Text_Silence:
+68efecfa34460c5b	…… …… …… …… …… ……\n
+7fa90071945f034d	…… …… …… …… …… ……$
+## BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer:
+b016b250c4b81be3	ようこそ……\p
+e3952d2b0c174086	ここでは まあまあ つよい\n
+cd19acc7e0444ce8	トレーナーと たたかって いただきます……$
+## BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth:
+62733db2fdc5c083	すばらしい……\p
+404e21e216b0a1a3	しょうりを たたえて あなたの ポケモンを\n
+d6d068be16965d43	かいふく いたしましょう……$
+## BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:
+fe068b4ddad0002f	このあとも バトルゲームを\n
+e3cd41bb66881726	おたのしみ ください……$
+## BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen:
+8d608486570f8819	わたしは アザミ……\n
+a182f626f7a2021d	ここの おきては わたし……\l
+aebb90c54e818ec8	わたしは チューブクイーン……\p
+52ddf2d94d393d86	わかってる だろうけど さきへ すすむには\n
+8a5ac5b8f069cee6	わたしを たおすしか ない……\p
+dc568a70bc608354	……むだばなしは しない\n
+4a6f5d665a669504	はやく きなさい……$
+## BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck:
+ea6579d51c0746c6	あなたの うん……\n
+e282e86e596d46b7	ここで つかいきって ないと いいけど……$
+## BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass:
+8ea3cfaced2a8a22	アザミ: …… …… …… …… …… ……\n
+7e8d1048ae18db00	フロンティアパス みせて……$
+## BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol:
+d9ef8064f0c2cfc7	フロンティアパスに\n
+2365357cc910abc4	ラックシンボルが きざまれた!$
+## BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear:
+bddec4ed5514de03	……それだけ……\n
+9fdb45426291a49a	さっさと きえて……$
+## BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain:
+3d987cd45fd09c88	アザミ: ……また あなた……\p
+111243366a6a90a7	…… …… …… …… …… ……\p
+e5144e4c0921ffeb	……はなを ふみにじり あらしに たえて\n
+9ecc85ba2e846e66	ここまで きた わたし……\p
+50304f880d6d4452	おなじ あいてに まけつづける\n
+a47aa0716b2f4ab2	つもりは ない……\p
+fbd183c6c00b7e12	…… …… …… …… …… ……\n
+2f7a2e83743a0fbf	いいわ…… やってあげる……$
+## BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn:
+d6106b1bf42d7a2d	さあ!\n
+6155dece20186823	きなさい!$
+## BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass:
+9da696cdf4488fea	アザミ: …… …… …… …… …… ……\p
+783f9a30e5ff66e8	……フロンティアパス……$
+## BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine:
+fb39fd59715df930	ラックシンボルが\n
+ebaf17abd7855064	きんいろに かがやいた!$
+## BattleFrontier_BattlePikeRoomNormal_Text_IWontForget:
+2fd25518f8aa135f	……あなたの こと わすれない……\n
+d41e204f7f72e6a1	……ずっと……$
+## BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal:
+eaf17a8d06fe64e2	ようこそ……\p
+5770769772ffc6ac	うふふ……\n
+cc3a72d175305583	うんに みはなされて いるようね……\p
+cd2e3d8c921faeee	この へやを えらばなければ\n
+882a4cd0f6b8b6ce	ポケモンを かいふく できたのに……$
+## BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne:
+1c0520e40de92aa0	ようこそ……\p
+20624d7c80db0e50	この へやを えらんだ あなたの\n
+4bb1f8a85c783359	ポケモンを 1ぴき かいふく しましょう……$
+## BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo:
+2011ffd0d1ec0c30	ようこそ……\p
+a6f2b5b342a31174	この へやを えらんだ あなたの\n
+f3650a06bc956b2f	ポケモンを 2ひき かいふく しましょう……$
+## BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons:
+cff9c9545ff3c3e1	ようこそ……\p
+25dca75411663f15	うふふ……\n
+c9ca05c0cb4a7f85	あなたは ほんとうに うんが いいわね……\p
+84e84950847f1ed0	この へやを えらんだ あなたの\n
+222c38f581a2ea54	ポケモンは すべて かいふく されます……$
+## BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster:
+8eff0e13d091d6b5	あるじを よんで まいります……$
+## BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons:
+190982256efccc0e	おや うんが いいですね!\n
+f430d917609d13ac	いまは きげんが いいのです\p
+ea8af10d52ba4b72	ポケモンを 2ひき\n
+134ebc794a409afb	かいふく しましょう!$
+##### data/maps/BattleFrontier_BattlePikeThreePathRoom/scripts.inc
+## BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1:
+#REF	げんざい おきゃくさまは\n
+ef7fc176a587f617	げんざい おきゃくさまは\n
+#REF	1へやめに いらっしゃいます……$
+cf1f376c665bd5c5	1へやめに いらっしゃいます……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom3:
+#REF	げんざい おきゃくさまは\n
+b4be5cc2f8fbf3ae	げんざい おきゃくさまは\n
+#REF	3へやめに いらっしゃいます……$
+b76591bb93246f1b	3へやめに いらっしゃいます……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom5:
+#REF	げんざい おきゃくさまは\n
+6d37ef8749eb9b76	げんざい おきゃくさまは\n
+#REF	5へやめに いらっしゃいます……$
+8248902af6d5940c	5へやめに いらっしゃいます……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom7:
+#REF	げんざい おきゃくさまは\n
+0432a8b0a3cd59e3	げんざい おきゃくさまは\n
+#REF	7へやめに いらっしゃいます……$
+33ea8142f440e66e	7へやめに いらっしゃいます……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom9:
+#REF	げんざい おきゃくさまは\n
+ff80bc5b15dc2857	げんざい おきゃくさまは\n
+#REF	9へやめに いらっしゃいます……$
+bbe249eae2d01bd4	9へやめに いらっしゃいます……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom11:
+#REF	げんざい おきゃくさまは\n
+3c1a4bb1f28cd9ea	げんざい おきゃくさまは\n
+#REF	11へやめに いらっしゃいます……$
+d0dada67ca12d6ae	11へやめに いらっしゃいます……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom13:
+#REF	げんざい おきゃくさまは\n
+2b76e81c6c39a14c	げんざい おきゃくさまは\n
+#REF	13へやめに いらっしゃいます……$
+fdeefefc1ec2c764	13へやめに いらっしゃいます……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge:
+4198b7f6a9b0719c	ちょうせんを\n
+05c872a8a26767dc	つづけますか?$
+## BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit:
+#REF	レポートを かいて\n
+4169fb5597daf838	レポートを かいて\n
+#REF	しゅうりょう なさいますか……?$
+8d7803ceff4fab82	しゅうりょう なさいますか……?$
+## BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge:
+#REF	バトルゲームの ちょうせんを\n
+0c04230ed8ef07f1	バトルゲームの ちょうせんを\n
+#REF	ちゅうし なさいますか……?$
+5dfe11d680edc946	ちゅうし なさいますか……?$
+## BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume:
+#REF	おまちして おりました……\p
+4dff4108008a61dc	おまちして おりました……\p
+#REF	バトルゲームを さいかいする まえに\n
+4af2b7ae14fe5e54	バトルゲームを さいかいする まえに\n
+#REF	レポートを かきましょう……$
+87ec5f4f84997465	レポートを かきましょう……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge:
+#REF	それでは ひきつづき\n
+99e986382ecbed62	それでは ひきつづき\n
+#REF	ゲームを おたのしみ ください……$
+24d55b59804e9730	ゲームを おたのしみ ください……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData:
+#REF	レポートを かいています……\n
+1b01e9f7deea0aa2	レポートを かいています……\n
+#REF	しょうしょう おまち ください……$
+d4be3ac2620f2179	しょうしょう おまち ください……$
+## BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack:
+#REF	みちが とざされている!\n
+9fd87ade154186eb	みちが とざされている!\n
+#REF	ひきかえすことは できない……$
+ac10c5c1fa6b366b	ひきかえすことは できない……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose:
+#REF	…… おきゃくさま……\p
+6b9ace6cc5cf2ca6	…… おきゃくさま……\p
+#REF	しつれいですが どのみちに すすむか\n
+d6d0ca63fe9b02f6	しつれいですが どのみちに すすむか\n
+#REF	まよって いらっしゃるの ですか……?$
+f1b4ed28dd43d1da	まよって いらっしゃるの ですか……?$
+## BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
+#REF	さようで ございますか……\n
+3a875e9d44f99ee5	さようで ございますか……\n
+#REF	これは しつれいを しました……$
+3f47986d29886b3d	これは しつれいを しました……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath:
+#REF	そうですね……\n
+fdaff85a80c8430a	そうですね……\n
+#REF	…… わたくしは みぎがわの みちから……$
+1f978b163062f5d4	…… わたくしは みぎがわの みちから……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath:
+#REF	そうですね……\n
+840c7dae388f8d1d	そうですね……\n
+#REF	…… わたくしは まんなかの みちから……$
+17ebe65b39aca70e	…… わたくしは まんなかの みちから……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
+#REF	そうですね……\n
+884b37854334eb77	そうですね……\n
+#REF	…… わたくしは ひだりがわの みちから……$
+14546b49a40ed498	…… わたくしは ひだりがわの みちから……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
+c341f0a6148b2dae	ポケモンの においが\n
+3c57ad8d0b2fe94f	ただよって くるようです……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
+#REF	トレーナー…… でしょうか……?\n
+aebfaa33e42e9688	トレーナー…… でしょうか……?\n
+#REF	ひとの けはいを かんじるの ですが……$
+0fa1e1f46ba66798	ひとの けはいを かんじるの ですが……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:
+#REF	なにかが ささやく ような ものおとが\n
+ee1820e1dc7e35ad	なにかが ささやく ような ものおとが\n
+#REF	きこえたの ですが……$
+f26f121992aa99c2	きこえたの ですが……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga:
+#REF	なぜだか すこし だけ なつかしい\n
+71b60c08711e31dc	なぜだか すこし だけ なつかしい\n
+#REF	ふんいきを かんじるの ですが……$
+1c0f2b7864a39731	ふんいきを かんじるの ですが……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent:
+3e0f40dc6b9a97e1	もうしあげにくい のですが……\p
+2b1511f48431cd7e	おそろしい…… そう とても おそろしい ことが\n
+614586d638206db6	あなたの みに ふりかかろうと しています……\p
+6650f9478b4048c6	じゅうぶん ちゅういして\n
+a6df077f714fdf10	さいあくに そなえて ください……$
+## BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence:
+#REF	…… どの みちの さきからも\n
+bb72c0e42e3c469e	…… どの みちの さきからも\n
+#REF	おそろしい けはいを かんじます……$
+bfb0309706b1cbf3	おそろしい けはいを かんじます……$
+##### data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc
+## BattleFacility_TrainerBattle_PlaceholderText:
+#REF	{JPN}これは テストメッセージです$
+852009f0a7c44bd6	これは テストメッセージです$
+## gText_BattlePyramidConfirmRest::
+#REF	{JPN}バトルピラミッドの できごとを\n
+0a21c9339ac5856c	バトルピラミッドの できごとを\n
+#REF	レポートに かいて ちゅうだん します\l
+87d0b2601e8eb48b	レポートに かいて ちゅうだん します\l
+#REF	よろしいですか?$
+2a2f2f594a24cf4b	よろしいですか?$
+## gText_BattlePyramidConfirmRetire::
+#REF	{JPN}バトルピラミッドの ちょうせんを\n
+54093ace4964f316	バトルピラミッドの ちょうせんを\n
+#REF	やめて ほんとうに よろしいですか?$
+534c2c55853e59f4	やめて ほんとうに よろしいですか?$
+## BattlePyramid_Text_ExitHintUp1::
+#REF	{JPN}この だんの でぐちは\n
+551d5da1f097e322	この だんの でぐちは\n
+#REF	{UP_ARROW}の ほうこうに あるんだよ$
+0309ad08cb620000	{UP_ARROW}の ほうこうに あるんだよ$
+## BattlePyramid_Text_ExitHintLeft1::
+#REF	{JPN}この だんの でぐちは\n
+191ea35cacc33ba3	この だんの でぐちは\n
+#REF	{LEFT_ARROW}の ほうこうに あるんだよ$
+6429a5d5ada08966	{LEFT_ARROW}の ほうこうに あるんだよ$
+## BattlePyramid_Text_ExitHintRight1::
+#REF	{JPN}この だんの でぐちは\n
+ef20e303db1d747a	この だんの でぐちは\n
+#REF	{RIGHT_ARROW}の ほうこうに あるんだよ$
+4161a952a81b152c	{RIGHT_ARROW}の ほうこうに あるんだよ$
+## BattlePyramid_Text_ExitHintDown1::
+#REF	{JPN}この だんの でぐちは\n
+76a7180fae4b122c	この だんの でぐちは\n
+#REF	{DOWN_ARROW}の ほうこうに あるんだよ$
+cb9d8dbc964e8c2d	{DOWN_ARROW}の ほうこうに あるんだよ$
+## BattlePyramid_Text_ExitHintUp2::
+#REF	{JPN}この だんの でぐちは\n
+a434e527a4ef0bad	この だんの でぐちは\n
+#REF	{UP_ARROW}の ほうこうに あるの$
+a92c748074ff2ac8	{UP_ARROW}の ほうこうに あるの$
+## BattlePyramid_Text_ExitHintLeft2::
+#REF	{JPN}この だんの でぐちは\n
+8744fa35e6c7ed87	この だんの でぐちは\n
+#REF	{LEFT_ARROW}の ほうこうに あるの$
+8d8fc4f367da7d9b	{LEFT_ARROW}の ほうこうに あるの$
+## BattlePyramid_Text_ExitHintRight2::
+#REF	{JPN}この だんの でぐちは\n
+fa828c1f25c708d0	この だんの でぐちは\n
+#REF	{RIGHT_ARROW}の ほうこうに あるの$
+667fd73a71290b61	{RIGHT_ARROW}の ほうこうに あるの$
+## BattlePyramid_Text_ExitHintDown2::
+#REF	{JPN}この だんの でぐちは\n
+d9932130c9045983	この だんの でぐちは\n
+#REF	{DOWN_ARROW}の ほうこうに あるの$
+d3041bf7cd7fb46c	{DOWN_ARROW}の ほうこうに あるの$
+## BattlePyramid_Text_ExitHintUp3::
+#REF	{JPN}でぐちは\n
+e0b6effd8ba05f58	でぐちは\n
+#REF	{UP_ARROW}の ほうこうに あるよ$
+dc441fb8a7299738	{UP_ARROW}の ほうこうに あるよ$
+## BattlePyramid_Text_ExitHintLeft3::
+#REF	{JPN}でぐちは\n
+b478cdfbb386e3ad	でぐちは\n
+#REF	{LEFT_ARROW}の ほうこうに あるよ$
+c361af2d19a3113b	{LEFT_ARROW}の ほうこうに あるよ$
+## BattlePyramid_Text_ExitHintRight3::
+#REF	{JPN}でぐちは\n
+1cfb54de515ee0d9	でぐちは\n
+#REF	{RIGHT_ARROW}の ほうこうに あるよ$
+1dd30961ab9b2955	{RIGHT_ARROW}の ほうこうに あるよ$
+## BattlePyramid_Text_ExitHintDown3::
+#REF	{JPN}でぐちは\n
+fad270ef75f68fe7	でぐちは\n
+#REF	{DOWN_ARROW}の ほうこうに あるよ$
+bca4a2fdb593b033	{DOWN_ARROW}の ほうこうに あるよ$
+## BattlePyramid_Text_ExitHintUp4::
+#REF	{JPN}この だんの でぐちは\n
+c34d915633175979	この だんの でぐちは\n
+#REF	{UP_ARROW}の ほうこうの どこかに あるわ$
+fe23dccee92a6561	{UP_ARROW}の ほうこうの どこかに あるわ$
+## BattlePyramid_Text_ExitHintLeft4::
+#REF	{JPN}この だんの でぐちは\n
+1679bc8e53ef61e9	この だんの でぐちは\n
+#REF	{LEFT_ARROW}の ほうこうの どこかに あるわ$
+b29063c03898b6a4	{LEFT_ARROW}の ほうこうの どこかに あるわ$
+## BattlePyramid_Text_ExitHintRight4::
+#REF	{JPN}この だんの でぐちは\n
+54b0d792a71969cf	この だんの でぐちは\n
+#REF	{RIGHT_ARROW}の ほうこうの どこかに あるわ$
+1f70b31348e5edf8	{RIGHT_ARROW}の ほうこうの どこかに あるわ$
+## BattlePyramid_Text_ExitHintDown4::
+#REF	{JPN}この だんの でぐちは\n
+5eae1c072ce6b38d	この だんの でぐちは\n
+#REF	{DOWN_ARROW}の ほうこうの どこかに あるわ$
+9d18054c6e28c688	{DOWN_ARROW}の ほうこうの どこかに あるわ$
+## BattlePyramid_Text_ExitHintUp5::
+#REF	{JPN}でぐちは\n
+72ff5f5e4b8b9836	でぐちは\n
+#REF	{UP_ARROW}の ほうこうに あるぞ$
+71d99d7b7bd38ca2	{UP_ARROW}の ほうこうに あるぞ$
+## BattlePyramid_Text_ExitHintLeft5::
+#REF	{JPN}でぐちは\n
+b0d618340dbd1fd7	でぐちは\n
+#REF	{LEFT_ARROW}の ほうこうに あるぞ$
+d023a5d36a283c72	{LEFT_ARROW}の ほうこうに あるぞ$
+## BattlePyramid_Text_ExitHintRight5::
+#REF	{JPN}でぐちは\n
+ee7e72c42254ca69	でぐちは\n
+#REF	{RIGHT_ARROW}の ほうこうに あるぞ$
+ab2941b1dc70084b	{RIGHT_ARROW}の ほうこうに あるぞ$
+## BattlePyramid_Text_ExitHintDown5::
+#REF	{JPN}でぐちは\n
+bb9d5b5818e07d7a	でぐちは\n
+#REF	{DOWN_ARROW}の ほうこうに あるぞ$
+5e742b55b8cae8f7	{DOWN_ARROW}の ほうこうに あるぞ$
+## BattlePyramid_Text_ExitHintUp6::
+#REF	{JPN}でぐちは\n
+efe999e121d3983a	でぐちは\n
+#REF	{UP_ARROW}の ほうこうに あるわね$
+4bf6130973080431	{UP_ARROW}の ほうこうに あるわね$
+## BattlePyramid_Text_ExitHintLeft6::
+#REF	{JPN}でぐちは\n
+0b2cd09f71e42cb3	でぐちは\n
+#REF	{LEFT_ARROW}の ほうこうに あるわね$
+5bbedf78d2d3db7a	{LEFT_ARROW}の ほうこうに あるわね$
+## BattlePyramid_Text_ExitHintRight6::
+#REF	{JPN}でぐちは\n
+ff02cd11cfa92746	でぐちは\n
+#REF	{RIGHT_ARROW}の ほうこうに あるわね$
+d96560ef8e43299e	{RIGHT_ARROW}の ほうこうに あるわね$
+## BattlePyramid_Text_ExitHintDown6::
+#REF	{JPN}でぐちは\n
+9e0a8bb5f3db7f30	でぐちは\n
+#REF	{DOWN_ARROW}の ほうこうに あるわね$
+abd8aecd5f5a0173	{DOWN_ARROW}の ほうこうに あるわね$
+## BattlePyramid_Text_EightItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+b77e5980c8d15bc6	どうぐを さがしているの?\p
+#REF	どうぐは\n
+d8e48b7a6a761ad0	どうぐは\n
+#REF	あと 8つ おちているんだよ!$
+67c4791a5473ab27	あと 8つ おちているんだよ!$
+## BattlePyramid_Text_SevenItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+ff7537e5c5f81e9b	どうぐを さがしているの?\p
+#REF	どうぐは\n
+a3db01bc30940d0d	どうぐは\n
+#REF	あと 7つ おちているんだよ!$
+3907967b66a43e84	あと 7つ おちているんだよ!$
+## BattlePyramid_Text_SixItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+da4b8e34505ceba2	どうぐを さがしているの?\p
+#REF	どうぐは\n
+1ed9c92c8515971a	どうぐは\n
+#REF	あと 6つ おちているんだよ!$
+7f08c0f35b3c93f8	あと 6つ おちているんだよ!$
+## BattlePyramid_Text_FiveItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+46a50bee0a5bd753	どうぐを さがしているの?\p
+#REF	どうぐは\n
+f54e9f33a8b04c60	どうぐは\n
+#REF	あと 5つ おちているんだよ!$
+677de01ef02b76e4	あと 5つ おちているんだよ!$
+## BattlePyramid_Text_FourItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+997b02297d04389f	どうぐを さがしているの?\p
+#REF	どうぐは\n
+474b2d23371290a0	どうぐは\n
+#REF	あと 4つ おちているんだよ!$
+ed1e721f678f1ef3	あと 4つ おちているんだよ!$
+## BattlePyramid_Text_ThreeItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+ad2d97b05fbcdfda	どうぐを さがしているの?\p
+#REF	どうぐは\n
+70b3e5209e5e9a55	どうぐは\n
+#REF	あと 3つ おちているんだよ!$
+5851326dd0f834b3	あと 3つ おちているんだよ!$
+## BattlePyramid_Text_TwoItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+a553b72fe5109f17	どうぐを さがしているの?\p
+#REF	どうぐは\n
+71b6d3f43ba985aa	どうぐは\n
+#REF	あと 2つ おちているんだよ!$
+69d24d121a93d8bb	あと 2つ おちているんだよ!$
+## BattlePyramid_Text_OneItemRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+96e98329aac12e0d	どうぐを さがしているの?\p
+#REF	どうぐは\n
+81c4522ffbc453e4	どうぐは\n
+#REF	あと 1つ おちているんだよ!$
+9b007634a8638710	あと 1つ おちているんだよ!$
+## BattlePyramid_Text_ZeroItemsRemaining1::
+#REF	{JPN}どうぐを さがしているの?\p
+9e922778df71b354	どうぐを さがしているの?\p
+#REF	どうぐは\n
+1f3efd18a885ec69	どうぐは\n
+#REF	もう おちていないんだよ!$
+520ac95008301807	もう おちていないんだよ!$
+## BattlePyramid_Text_EightItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+230918daf4c5717b	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+9f5f59272a2ddab0	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+96ca9fcf5049d687	ここには どうぐが\n
+#REF	あと 8つ おちているの$
+9cf67cffe43c1953	あと 8つ おちているの$
+## BattlePyramid_Text_SevenItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+d71d90a04a2eba7b	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+2066c0a8b105d11c	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+8f8b839ebb3627a7	ここには どうぐが\n
+#REF	あと 7つ おちているの$
+1f1ffe25846e0b86	あと 7つ おちているの$
+## BattlePyramid_Text_SixItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+478896620e77d943	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+8420250a9fe8a28b	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+1d236bf4f1cc71b5	ここには どうぐが\n
+#REF	あと 6つ おちているの$
+7126dd6da102a913	あと 6つ おちているの$
+## BattlePyramid_Text_FiveItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+d08cb9fed84604f3	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+6adbe4c6ee292f19	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+793b1c6fadc8f342	ここには どうぐが\n
+#REF	あと 5つ おちているの$
+b28d5e4a692cc744	あと 5つ おちているの$
+## BattlePyramid_Text_FourItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+45ca94802ec8ccd0	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+de10c04268ea7d54	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+313ea9cdcb92ca9a	ここには どうぐが\n
+#REF	あと 4つ おちているの$
+0a5e13a1e68c9441	あと 4つ おちているの$
+## BattlePyramid_Text_ThreeItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+38fbff7eb27a8c6e	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+637825c7554d4e8f	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+f1acb5004d82cbd5	ここには どうぐが\n
+#REF	あと 3つ おちているの$
+10efbab0119d025a	あと 3つ おちているの$
+## BattlePyramid_Text_TwoItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+fce7d50437f24960	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+d5b94ceb047eed5b	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+5b6d9d67de87f9db	ここには どうぐが\n
+#REF	あと 2つ おちているの$
+7bca534d69d47336	あと 2つ おちているの$
+## BattlePyramid_Text_OneItemRemaining2::
+#REF	{JPN}かった ごほうびに\n
+02c2fe7cefda216f	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+d262a9e5877d56cc	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+a960777c2ada017e	ここには どうぐが\n
+#REF	あと 1つ おちているの$
+afc3b49500dbd13e	あと 1つ おちているの$
+## BattlePyramid_Text_ZeroItemsRemaining2::
+#REF	{JPN}かった ごほうびに\n
+cdb22584189e73d0	かった ごほうびに\n
+#REF	ヒミツを おしえて あげちゃう!\p
+1f89210c9d072e6a	ヒミツを おしえて あげちゃう!\p
+#REF	ここには どうぐが\n
+2067030e781df383	ここには どうぐが\n
+#REF	もう おちていないの$
+80e01753de4d73e9	もう おちていないの$
+## BattlePyramid_Text_EightItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+f09b0cc72c367a0f	どうぐは たりている?\p
+#REF	この だんには\n
+99d42160921a4aed	この だんには\n
+#REF	どうぐが あと 8つほど あるそうだよ!$
+c07c5ea04c987fec	どうぐが あと 8つほど あるそうだよ!$
+## BattlePyramid_Text_SevenItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+109588a2189f8c94	どうぐは たりている?\p
+#REF	この だんには\n
+67a04f5ecbb2702b	この だんには\n
+#REF	どうぐが あと 7つほど あるそうだよ!$
+68cd6d4845ab0bfd	どうぐが あと 7つほど あるそうだよ!$
+## BattlePyramid_Text_SixItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+b1587c715b9da030	どうぐは たりている?\p
+#REF	この だんには\n
+f1db53c230102a3d	この だんには\n
+#REF	どうぐが あと 6つほど あるそうだよ!$
+74031df490af441e	どうぐが あと 6つほど あるそうだよ!$
+## BattlePyramid_Text_FiveItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+41d4c438d295f5ff	どうぐは たりている?\p
+#REF	この だんには\n
+cdc403be14a71465	この だんには\n
+#REF	どうぐが あと 5つほど あるそうだよ!$
+3fc259645ebce054	どうぐが あと 5つほど あるそうだよ!$
+## BattlePyramid_Text_FourItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+0c34ca846b8a7455	どうぐは たりている?\p
+#REF	この だんには\n
+bfd81db7ffda4c7c	この だんには\n
+#REF	どうぐが あと 4つほど あるそうだよ!$
+2b50e170e571ce8f	どうぐが あと 4つほど あるそうだよ!$
+## BattlePyramid_Text_ThreeItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+000772bf33404bcd	どうぐは たりている?\p
+#REF	この だんには\n
+60b900606cd3b94d	この だんには\n
+#REF	どうぐが あと 3つほど あるそうだよ!$
+2c6188eb0602e900	どうぐが あと 3つほど あるそうだよ!$
+## BattlePyramid_Text_TwoItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+d1ecaec449ef6254	どうぐは たりている?\p
+#REF	この だんには\n
+1f4f6dd7ffdcccb5	この だんには\n
+#REF	どうぐが あと 2つほど あるそうだよ!$
+21e93473ecbc063c	どうぐが あと 2つほど あるそうだよ!$
+## BattlePyramid_Text_OneItemRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+280e6f10e4008a3c	どうぐは たりている?\p
+#REF	この だんには\n
+259744e5ca45aeff	この だんには\n
+#REF	どうぐが あと 1つだけ あるそうだよ!$
+1bb92ad6f595e705	どうぐが あと 1つだけ あるそうだよ!$
+## BattlePyramid_Text_ZeroItemsRemaining3::
+#REF	{JPN}どうぐは たりている?\p
+1ab6c768def97124	どうぐは たりている?\p
+#REF	この だんには\n
+8f57f807f3309adb	この だんには\n
+#REF	もう どうぐが ないらしいから\l
+2a28878ba49b15b2	もう どうぐが ないらしいから\l
+#REF	きを つけてね!$
+11f242322fec215f	きを つけてね!$
+## BattlePyramid_Text_EightItemsRemaining4::
+66b14eb72fc718ee	つよい あなたに\n
+dd7578e430ceebe7	ヒントを あげる!\p
+8f31016574e55b79	どうぐは あと 8つ\n
+e0c71dd96ea2b618	おちている みたいだよ$
+## BattlePyramid_Text_SevenItemsRemaining4::
+b9d852332f0d2bbf	つよい あなたに\n
+d21b2f2601d983f1	ヒントを あげる!\p
+01de27ea0713d6b4	どうぐは あと 7つ\n
+f47195db7da358e4	おちている みたいだよ$
+## BattlePyramid_Text_SixItemsRemaining4::
+8a85303d73038b95	つよい あなたに\n
+a2a00ffeda5b5d3b	ヒントを あげる!\p
+c6ee0fba35ea0114	どうぐは あと 6つ\n
+6c9f74a4acd1f336	おちている みたいだよ$
+## BattlePyramid_Text_FiveItemsRemaining4::
+820cab9dc9a4c0c1	つよい あなたに\n
+7a03de61be90cd79	ヒントを あげる!\p
+6daa935ea127a66a	どうぐは あと 5つ\n
+854917bed4213fb2	おちている みたいだよ$
+## BattlePyramid_Text_FourItemsRemaining4::
+a403542337d1ab6e	つよい あなたに\n
+16850fd20cb4b0a6	ヒントを あげる!\p
+d986c3fc9857e3ef	どうぐは あと 4つ\n
+2ce0b15ff75cfc02	おちている みたいだよ$
+## BattlePyramid_Text_ThreeItemsRemaining4::
+20ae9aae6a23ac81	つよい あなたに\n
+22d715d4abcb654f	ヒントを あげる!\p
+9146dbb7542cf006	どうぐは あと 3つ\n
+e815849f27684459	おちている みたいだよ$
+## BattlePyramid_Text_TwoItemsRemaining4::
+68fec4cd5b3303d4	つよい あなたに\n
+6e047fdcb49ad543	ヒントを あげる!\p
+354a3624a25b4f8e	どうぐは あと 2つ\n
+c1348301f8ea636b	おちている みたいだよ$
+## BattlePyramid_Text_OneItemRemaining4::
+a4ba28ad21281bf1	つよい あなたに\n
+2431327a30ce0f19	ヒントを あげる!\p
+3c12597e5aca59c3	どうぐは あと 1つ\n
+ff03388bca87eb00	おちている みたいだよ$
+## BattlePyramid_Text_ZeroItemsRemaining4::
+ba9e982edc560bf8	つよい あなたに\n
+bd8ea0ae9e6b82f0	ヒントを あげる!\p
+2fc3a07fb2c36afe	どうぐは もう\n
+23ef22d86fa504d0	おちていない みたいだよ$
+## BattlePyramid_Text_EightItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+abcea9193ad433fe	ピラミッドの この だんには\n
+#REF	どうぐが 8つは あるそうだ……$
+ba526be134c7d51f	どうぐが 8つは あるそうだ……$
+## BattlePyramid_Text_SevenItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+28fd16564fa04962	ピラミッドの この だんには\n
+#REF	どうぐが 7つは あるそうだ……$
+5dff23e32a9d6455	どうぐが 7つは あるそうだ……$
+## BattlePyramid_Text_SixItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+5cd9738930f415b9	ピラミッドの この だんには\n
+#REF	どうぐが 6つは あるそうだ……$
+52f8618df99145c7	どうぐが 6つは あるそうだ……$
+## BattlePyramid_Text_FiveItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+a39d55ad6e3b676e	ピラミッドの この だんには\n
+#REF	どうぐが 5つは あるそうだ……$
+1dbed414ccc34b8a	どうぐが 5つは あるそうだ……$
+## BattlePyramid_Text_FourItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+95eb45df6ca3cace	ピラミッドの この だんには\n
+#REF	どうぐが 4つは あるそうだ……$
+77db903b05c68945	どうぐが 4つは あるそうだ……$
+## BattlePyramid_Text_ThreeItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+3c96df8fec830b26	ピラミッドの この だんには\n
+#REF	どうぐが 3つは あるそうだ……$
+f5ffd236c62ed5da	どうぐが 3つは あるそうだ……$
+## BattlePyramid_Text_TwoItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+6e4f20f715664e20	ピラミッドの この だんには\n
+#REF	どうぐが 2つは あるそうだ……$
+703e45d3dd2d4ff6	どうぐが 2つは あるそうだ……$
+## BattlePyramid_Text_OneItemRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+eaa38a8b8db9ff8d	ピラミッドの この だんには\n
+#REF	どうぐが 1つは あるそうだ……$
+92b705f1f886db8e	どうぐが 1つは あるそうだ……$
+## BattlePyramid_Text_ZeroItemsRemaining5::
+#REF	{JPN}ピラミッドの この だんには\n
+ccf2ed40812dc642	ピラミッドの この だんには\n
+#REF	どうぐは ないそうだ……$
+8c39f375b2b72562	どうぐは ないそうだ……$
+## BattlePyramid_Text_EightItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+c3db0e31f9c20320	どうぐは もっているかい?\p
+#REF	この だんには\n
+599da8c06114a7c8	この だんには\n
+#REF	どうぐが あと 8つは あるそうだよ$
+8d05ed6667b58c82	どうぐが あと 8つは あるそうだよ$
+## BattlePyramid_Text_SevenItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+cdb4eccfbb0769a9	どうぐは もっているかい?\p
+#REF	この だんには\n
+699911bd97dad493	この だんには\n
+#REF	どうぐが あと 7つは あるそうだよ$
+41e546e424519b20	どうぐが あと 7つは あるそうだよ$
+## BattlePyramid_Text_SixItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+d519241ebe2f9eff	どうぐは もっているかい?\p
+#REF	この だんには\n
+df3ec56f6a3d4e3c	この だんには\n
+#REF	どうぐが あと 6つは あるそうだよ$
+961b34120c50a0c9	どうぐが あと 6つは あるそうだよ$
+## BattlePyramid_Text_FiveItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+ef14a180bca2835d	どうぐは もっているかい?\p
+#REF	この だんには\n
+81badc43a710ab0f	この だんには\n
+#REF	どうぐが あと 5つは あるそうだよ$
+6790a45f90c750b5	どうぐが あと 5つは あるそうだよ$
+## BattlePyramid_Text_FourItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+4942384f1fe7bb2f	どうぐは もっているかい?\p
+#REF	この だんには\n
+79a620744a6af1b1	この だんには\n
+#REF	どうぐが あと 4つは あるそうだよ$
+8178211c34489e19	どうぐが あと 4つは あるそうだよ$
+## BattlePyramid_Text_ThreeItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+3b119cd13a24ebe7	どうぐは もっているかい?\p
+#REF	この だんには\n
+51d80fea7a42d54d	この だんには\n
+#REF	どうぐが あと 3つは あるそうだよ$
+6adb215456b92a7f	どうぐが あと 3つは あるそうだよ$
+## BattlePyramid_Text_TwoItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+a5b2c94df071e83a	どうぐは もっているかい?\p
+#REF	この だんには\n
+d78c375afd023897	この だんには\n
+#REF	どうぐが あと 2つは あるそうだよ$
+bb223d2a896a9a84	どうぐが あと 2つは あるそうだよ$
+## BattlePyramid_Text_OneItemRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+b7cb5a0b696a9801	どうぐは もっているかい?\p
+#REF	この だんには\n
+bafd778ad49a76b7	この だんには\n
+#REF	どうぐが あと 1つは あるそうだよ$
+8e34799cc6476e40	どうぐが あと 1つは あるそうだよ$
+## BattlePyramid_Text_ZeroItemsRemaining6::
+#REF	{JPN}どうぐは もっているかい?\p
+b1f8877ad369165d	どうぐは もっているかい?\p
+#REF	この だんには\n
+b58e9d6f1fbc8889	この だんには\n
+#REF	どうぐが もう ないそうだよ$
+615afd401d73bea5	どうぐが もう ないそうだよ$
+## BattlePyramid_Text_SevenTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+7ac22687d83cca35	とっても つよかったよー!!\p
+#REF	でも つよい トレーナーは\n
+6b5f0feb89366e90	でも つよい トレーナーは\n
+#REF	まだまだ 7にんも いるからねー!$
+df3fec15edb618e0	まだまだ 7にんも いるからねー!$
+## BattlePyramid_Text_SixTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+0db5e789052b12af	とっても つよかったよー!!\p
+#REF	でも つよい トレーナーは\n
+cb5e7fdb336df89a	でも つよい トレーナーは\n
+#REF	まだまだ 6にんも いるからねー!$
+6dee7d383e6e0833	まだまだ 6にんも いるからねー!$
+## BattlePyramid_Text_FiveTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+0c688c67d1b2e14e	とっても つよかったよー!!\p
+#REF	でも つよい トレーナーは\n
+228ab1f79ca6b37d	でも つよい トレーナーは\n
+#REF	まだまだ 5にんも いるからねー!$
+b2b082f1d277b099	まだまだ 5にんも いるからねー!$
+## BattlePyramid_Text_FourTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+72a6204796a0d87d	とっても つよかったよー!!\p
+#REF	でも つよい トレーナーは\n
+b6ace48b9783ab23	でも つよい トレーナーは\n
+#REF	まだまだ 4にんも いるからねー!$
+0614b5fec7bf130f	まだまだ 4にんも いるからねー!$
+## BattlePyramid_Text_ThreeTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+de3c25a56c3f2d8f	とっても つよかったよー!!\p
+#REF	でも つよい トレーナーは\n
+288b8b677bf742dd	でも つよい トレーナーは\n
+#REF	まだまだ 3にんも いるからねー!$
+3ab5d814cf67a58b	まだまだ 3にんも いるからねー!$
+## BattlePyramid_Text_TwoTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+b6b5086ce208dd16	とっても つよかったよー!!\p
+#REF	でも つよい トレーナーは\n
+6520388e073ebdc8	でも つよい トレーナーは\n
+#REF	まだ 2にん いるからねー!$
+b63bebd43db348b6	まだ 2にん いるからねー!$
+## BattlePyramid_Text_OneTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+43d10ba8d4e861e2	とっても つよかったよー!!\p
+#REF	でも つよい トレーナーは\n
+c2b6d681e16deedc	でも つよい トレーナーは\n
+#REF	まだ 2にん いるからねー!$
+a3c81fc87d552976	まだ 1にん いるからねー!$
+## BattlePyramid_Text_ZeroTrainersRemaining1::
+#REF	{JPN}とっても つよかったよー!!\p
+27d5dda687376dca	とっても つよかったよー!!\p
+#REF	もう だれも\n
+3173f23ab418c597	もう だれも\n
+#REF	かてる ひとは いないよー!!$
+b1206164b12cfcbd	かてる ひとは いないよー!!$
+## BattlePyramid_Text_SevenTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+3dfc747a39d77b76	くやしいー!\p
+#REF	でも あと 7にん いる トレーナーが\n
+f55c7d3baddeff4c	でも あと 7にん いる トレーナーが\n
+#REF	きっと たおしてくれるわ$
+78ac3da3fc996ddd	きっと たおしてくれるわ$
+## BattlePyramid_Text_SixTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+d506e21bf7ffbca4	くやしいー!\p
+#REF	でも あと 6にん いる トレーナーが\n
+cd4632f9bc8d082d	でも あと 6にん いる トレーナーが\n
+#REF	きっと たおしてくれるわ$
+db0ae944f286ca2d	きっと たおしてくれるわ$
+## BattlePyramid_Text_FiveTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+9e4079b1f1c91264	くやしいー!\p
+#REF	でも あと 5にん いる トレーナーが\n
+789799e9a15d875a	でも あと 5にん いる トレーナーが\n
+#REF	きっと たおしてくれるわ$
+7473a0748b0ed711	きっと たおしてくれるわ$
+## BattlePyramid_Text_FourTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+a07395bb4dc4c6b5	くやしいー!\p
+#REF	でも あと 4にん いる トレーナーが\n
+a9703ebd7bf06140	でも あと 4にん いる トレーナーが\n
+#REF	きっと たおしてくれるわ$
+7c4e056fc6058157	きっと たおしてくれるわ$
+## BattlePyramid_Text_ThreeTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+6cbd823703ee9e96	くやしいー!\p
+#REF	でも あと 3にん いる トレーナーが\n
+075178d3e160dad0	でも あと 3にん いる トレーナーが\n
+#REF	きっと たおしてくれるわ$
+5e75773c70d50ec2	きっと たおしてくれるわ$
+## BattlePyramid_Text_TwoTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+852a010577aaf92c	くやしいー!\p
+#REF	でも あと 2にん いる トレーナーが\n
+1185d37089ff9fa5	でも あと 2にん いる トレーナーが\n
+#REF	きっと たおしてくれるわ$
+0fa67c849cbf3e2d	きっと たおしてくれるわ$
+## BattlePyramid_Text_OneTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+2127881288d859ea	くやしいー!\p
+#REF	でも あと 1にん いる トレーナーが\n
+a4fc939004ae3273	でも あと 1にん いる トレーナーが\n
+#REF	きっと たおしてくれるわ$
+5bbed57743281a6b	きっと たおしてくれるわ$
+## BattlePyramid_Text_ZeroTrainersRemaining2::
+#REF	{JPN}くやしいー!\p
+8bfb5ba14a5806cd	くやしいー!\p
+#REF	でも もう たたかえる\n
+7851e4e1843a4676	でも もう たたかえる\n
+#REF	トレーナーが いないのー$
+db8b0bb89c896b40	トレーナーが いないのー$
+## BattlePyramid_Text_SevenTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+cdc61cffcd2efbd0	やるねー!\p
+#REF	でも この だんに あと 7にんも いる\n
+6b75475527d302cf	でも この だんに あと 7にんも いる\n
+#REF	トレーナーを たおせるかな?$
+3aafd51c5850926e	トレーナーを たおせるかな?$
+## BattlePyramid_Text_SixTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+9791acc55c42c0cc	やるねー!\p
+#REF	でも この だんに あと 6にんも いる\n
+2998c026fdf2936c	でも この だんに あと 6にんも いる\n
+#REF	トレーナーを たおせるかな?$
+2d21fa4b033399fe	トレーナーを たおせるかな?$
+## BattlePyramid_Text_FiveTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+eb190e7cf11b34a3	やるねー!\p
+#REF	でも この だんに あと 5にんも いる\n
+d817e756101265e7	でも この だんに あと 5にんも いる\n
+#REF	トレーナーを たおせるかな?$
+681c34bc6628ab05	トレーナーを たおせるかな?$
+## BattlePyramid_Text_FourTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+05b882e2f9736df4	やるねー!\p
+#REF	でも この だんに あと 4にん いる\n
+76d80cf9bea62e44	でも この だんに あと 4にん いる\n
+#REF	トレーナーを たおせるかな?$
+8f97fb5c034ee5e1	トレーナーを たおせるかな?$
+## BattlePyramid_Text_ThreeTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+5cd576348541568e	やるねー!\p
+#REF	でも この だんに あと 3にん いる\n
+ca228a76d29fe224	でも この だんに あと 3にん いる\n
+#REF	トレーナーを たおせるかな?$
+7c2a2cf3146f0465	トレーナーを たおせるかな?$
+## BattlePyramid_Text_TwoTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+680772c07cd7d80b	やるねー!\p
+#REF	でも この だんに あと 2にん いる\n
+cee4b575cda7f9b8	でも この だんに あと 2にん いる\n
+#REF	トレーナーを たおせるかな?$
+9d4eb45a3a7347d8	トレーナーを たおせるかな?$
+## BattlePyramid_Text_OneTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+ff0005fde5ce6584	やるねー!\p
+#REF	でも この だんに あと 1にん いる\n
+e650f9baab4a5eea	でも この だんに あと 1にん いる\n
+#REF	トレーナーを たおせるかな?$
+2a949184a76d2531	トレーナーを たおせるかな?$
+## BattlePyramid_Text_ZeroTrainersRemaining3::
+#REF	{JPN}やるねー!\p
+7fde3332edee0ea0	やるねー!\p
+#REF	この だんには たたかえる トレーナーは\n
+2496dc53c4415852	この だんには たたかえる トレーナーは\n
+#REF	もう だれも いないよ$
+6e47d1a8627dd289	もう だれも いないよ$
+## BattlePyramid_Text_SevenTrainersRemaining4::
+#REF	{JPN}あなたなら まだ たたかっていない\n
+42cae6c4a09cf44f	あなたなら まだ たたかっていない\n
+#REF	7にんの トレーナーを たおせるかも……$
+654a2cc3563bf237	7にんの トレーナーを たおせるかも……$
+## BattlePyramid_Text_SixTrainersRemaining4::
+#REF	{JPN}あなたなら まだ たたかっていない\n
+78e8534deec3892e	あなたなら まだ たたかっていない\n
+#REF	6にんの トレーナーを たおせるかも……$
+e4fff4624fc712e2	6にんの トレーナーを たおせるかも……$
+## BattlePyramid_Text_FiveTrainersRemaining4::
+#REF	{JPN}あなたなら まだ たたかっていない\n
+19ada2d55b19eb0e	あなたなら まだ たたかっていない\n
+#REF	5にんの トレーナーを たおせるかも……$
+0c6bd0b171aa3511	5にんの トレーナーを たおせるかも……$
+## BattlePyramid_Text_FourTrainersRemaining4::
+#REF	{JPN}あなたなら まだ たたかっていない\n
+42f60b848dc5bf2c	あなたなら まだ たたかっていない\n
+#REF	4にんの トレーナーを たおせるかも……$
+aa5e3502182d1921	4にんの トレーナーを たおせるかも……$
+## BattlePyramid_Text_ThreeTrainersRemaining4::
+#REF	{JPN}あなたなら まだ たたかっていない\n
+f873d96f2652cab4	あなたなら まだ たたかっていない\n
+#REF	3にんの トレーナーを たおせるかも……$
+6eed6eac1806a821	3にんの トレーナーを たおせるかも……$
+## BattlePyramid_Text_TwoTrainersRemaining4::
+#REF	{JPN}あなたなら まだ たたかっていない\n
+a0dfb8c812f81419	あなたなら まだ たたかっていない\n
+#REF	2にんの トレーナーを たおせるかも……$
+d62a031b6d3a978b	2にんの トレーナーを たおせるかも……$
+## BattlePyramid_Text_OneTrainersRemaining4::
+#REF	{JPN}あなたなら まだ たたかっていない\n
+96430430dc0dfb44	あなたなら まだ たたかっていない\n
+#REF	1にんの トレーナーを たおせるかも……$
+a9e8f039e231abc3	1にんの トレーナーを たおせるかも……$
+## BattlePyramid_Text_ZeroTrainersRemaining4::
+#REF	{JPN}あなたを たおせる トレーナーは\n
+ff424d4a7d88190a	あなたを たおせる トレーナーは\n
+#REF	もう だれも いないわ……$
+d578fb9bf7d175d0	もう だれも いないわ……$
+## BattlePyramid_Text_SevenTrainersRemaining5::
+08f3163cab6cec7c	あなたなら のこりの 7にんの\n
+c5aa2b44380eb9a6	エキスパート トレーナーにも かてるかも$
+## BattlePyramid_Text_SixTrainersRemaining5::
+884a46d9336eee08	あなたなら のこりの 6にんの\n
+f3fc7eeb9d1cb8f3	エキスパート トレーナーにも かてるかも$
+## BattlePyramid_Text_FiveTrainersRemaining5::
+b46221274c14b2ef	あなたなら のこりの 5にんの\n
+9aaa87e68f42b15a	エキスパート トレーナーにも かてるかも$
+## BattlePyramid_Text_FourTrainersRemaining5::
+b30faaac7b89f321	あなたなら のこりの 4にんの\n
+a8964735ce8f7b73	エキスパート トレーナーにも かてるかも$
+## BattlePyramid_Text_ThreeTrainersRemaining5::
+0172b41f6012c403	あなたなら のこりの 3にんの\n
+f881675e5075bc33	エキスパート トレーナーにも かてるかも$
+## BattlePyramid_Text_TwoTrainersRemaining5::
+11ebda09bc1a9267	あなたなら のこりの 2にんの\n
+3a4c54a9d0522267	エキスパート トレーナーにも かてるかも$
+## BattlePyramid_Text_OneTrainersRemaining5::
+699c8df0a7852be8	あなたなら のこりの 1にんの\n
+b41946efc4f7d81c	エキスパート トレーナーにも かてるかも$
+## BattlePyramid_Text_ZeroTrainersRemaining5::
+#REF	{JPN}きみは ほんとうに つよい\p
+e85ba60bc27e5c88	きみは ほんとうに つよい\p
+#REF	もう ここには どこにも\n
+604bb70d74665a87	もう ここには どこにも\n
+#REF	きみを たおせる トレーナーは おらんよ$
+f04ae8d5ac7c7f52	きみを たおせる トレーナーは おらんよ$
+## BattlePyramid_Text_SevenTrainersRemaining6::
+#REF	{JPN}のこり 7にんの\n
+faa076823112b899	のこり 7にんの\n
+#REF	トレーナーを たおせるかい?$
+a212cde8c73bfaa5	トレーナーを たおせるかい?$
+## BattlePyramid_Text_SixTrainersRemaining6::
+#REF	{JPN}のこり 6にんの\n
+074b078b7886f41b	のこり 6にんの\n
+#REF	トレーナーを たおせるかい?$
+4437d644a363049b	トレーナーを たおせるかい?$
+## BattlePyramid_Text_FiveTrainersRemaining6::
+#REF	{JPN}のこり 5にんの\n
+a40b6208c68c1548	のこり 5にんの\n
+#REF	トレーナーを たおせるかい?$
+b52cadcfc299d808	トレーナーを たおせるかい?$
+## BattlePyramid_Text_FourTrainersRemaining6::
+#REF	{JPN}のこり 4にんの\n
+67b98ebdfbd621c7	のこり 4にんの\n
+#REF	トレーナーを たおせるかい?$
+8829a40229b8a4c0	トレーナーを たおせるかい?$
+## BattlePyramid_Text_ThreeTrainersRemaining6::
+#REF	{JPN}のこり 3にんの\n
+7d9c3884f0464dd5	のこり 3にんの\n
+#REF	トレーナーを たおせるかい?$
+2c6dfcd55eb5516f	トレーナーを たおせるかい?$
+## BattlePyramid_Text_TwoTrainersRemaining6::
+#REF	{JPN}のこり 2にんの\n
+6b6f3ab2fd0d52b6	のこり 2にんの\n
+#REF	トレーナーを たおせるかい?$
+d6904d63787095e0	トレーナーを たおせるかい?$
+## BattlePyramid_Text_OneTrainersRemaining6::
+#REF	{JPN}のこり 1にんの\n
+ac236278b25e811f	のこり 1にんの\n
+#REF	トレーナーを たおせるかい?$
+160b45b3abfca952	トレーナーを たおせるかい?$
+## BattlePyramid_Text_ZeroTrainersRemaining6::
+#REF	{JPN}ここには あんたと たたかえる\n
+f73d987216e77eb4	ここには あんたと たたかえる\n
+#REF	トレーナーは もう いないよ……$
+47e9706fd45a32b1	トレーナーは もう いないよ……$

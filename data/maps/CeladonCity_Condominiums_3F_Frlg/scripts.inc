@@ -52,44 +52,44 @@ CeladonCity_Condominiums_3F_EventScript_Computer3::
 	end
 
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
-	.string "Me?\n"
-	.string "I'm the programmer!$"
+	.string "{JPN}ぼく?\n"
+	.string "ぼくは プログラマー!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
-	.string "I'm the graphic artist!\n"
-	.string "I drew you!$"
+	.string "{JPN}わたしは グラフィック たんとう!\n"
+	.string "あなたを かいたのよ!$"
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
-	.string "I wrote the story!\n"
-	.string "Isn't ERIKA cute?\p"
-	.string "I like MISTY a lot, too!\n"
-	.string "Oh, and SABRINA, I like her!$"
+	.string "{JPN}ぼくは シナリオを かいたんだ!\n"
+	.string "エリカって かわいいだろ?\p"
+	.string "カスミも だいすき!\n"
+	.string "あっ それから ナツメも すきだな!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
-	.string "Is that right?\p"
-	.string "I'm the game designer!\p"
-	.string "Filling up your POKéDEX is tough,\n"
-	.string "but don't quit!\p"
-	.string "When you finish, come tell me!$"
+	.string "{JPN}そうなのか?\p"
+	.string "わたしは ゲームデザイナー!\p"
+	.string "ポケモンずかんを うめるのは\n"
+	.string "たいへんだけど あきらめないで!\p"
+	.string "かんせいしたら おしえに きてね!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
-	.string "Wow! Excellent!\n"
-	.string "You completed your POKéDEX!\l"
-	.string "Congratulations!\l"
+	.string "{JPN}すごい! すばらしい!\n"
+	.string "ポケモンずかんを かんせいさせたね!\l"
+	.string "おめでとう!\l"
 	.string "…$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::
-	.string "It's the game program! Messing with\n"
-	.string "it could bug out the game!$"
+	.string "{JPN}ゲームの プログラムだ! いじると\n"
+	.string "ゲームが バグって しまうかも!$"
 
 CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
-	.string "Someone's playing a game instead of\n"
-	.string "working!$"
+	.string "{JPN}しごとを しないで ゲームを\n"
+	.string "あそんでる ひとが いる!$"
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
-	.string "It's the script!\n"
-	.string "Better not look at the ending!$"
+	.string "{JPN}シナリオだ!\n"
+	.string "エンディングは みないで おこう!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-	.string "GAME FREAK Development Room$"
+	.string "{JPN}ゲームフリーク かいはつしつ$"
 

@@ -35,36 +35,36 @@ SilphCo_3F_EventScript_Grunt::
 	end
 
 SilphCo_3F_Text_WhatAmIToDo::
-	.string "I work for SILPH CO.\n"
-	.string "What am I to do?$"
+	.string "{JPN}わたしは シルフの しゃいん。\n"
+	.string "どうしたら いいんだ?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
-	.string "{PLAYER}!\n"
-	.string "You and your POKéMON saved us!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}!\n"
+	.string "きみと ポケモンが すくってくれた!$"
 
 SilphCo_3F_Text_GruntIntro::
-	.string "Quit messing with us, kid!$"
+	.string "{JPN}じゃまするな ガキ!$"
 
 SilphCo_3F_Text_GruntDefeat::
-	.string "I give up!$"
+	.string "{JPN}まいった!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-	.string "A hint? You can open doors with\n"
-	.string "a CARD KEY!$"
+	.string "{JPN}ヒントか? ドアは\n"
+	.string "カードキーで あけられるぜ!$"
 
 SilphCo_3F_Text_JoseIntro::
-	.string "I support TEAM ROCKET more than\n"
-	.string "I support SILPH CO.!$"
+	.string "{JPN}わたしは シルフより\n"
+	.string "ロケットだんを おうえん してる!$"
 
 SilphCo_3F_Text_JoseDefeat::
-	.string "You really got me!$"
+	.string "{JPN}やられた!$"
 
 SilphCo_3F_Text_JosePostBattle::
-	.string "Humph…\p"
-	.string "TEAM ROCKET said that if I helped\n"
-	.string "them, they'd let me study POKéMON.$"
+	.string "{JPN}ふん…\p"
+	.string "ロケットだんに きょうりょくすれば\n"
+	.string "ポケモンの けんきゅうを させてくれるって。$"
 
 SilphCo_3F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "3F$"
+	.string "{JPN}シルフカンパニー ほんしゃ\n"
+	.string "3かい$"
 

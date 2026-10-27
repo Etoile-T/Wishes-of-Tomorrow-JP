@@ -39,27 +39,27 @@ LavenderTown_Mart_Items::
 	end
 
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
-	.string "I'm searching for items that raise\n"
-	.string "the stats of POKéMON.\p"
-	.string "They're effective over the course\n"
-	.string "of a single battle.\p"
-	.string "X ATTACK, X DEFEND, X SPEED, \n"
-	.string "and X SPECIAL are what I'm after.\p"
-	.string "Do you know where I can get them?$"
+	.string "{JPN}ポケモンの のうりょくを あげる\n"
+	.string "どうぐを さがしてるんだ。\p"
+	.string "1かいの せんとうの あいだ\n"
+	.string "こうかが あるんだよ。\p"
+	.string "プラスパワー ディフェンダー スピーダー\n"
+	.string "スペシャルアップが ほしいんだ。\p"
+	.string "どこで てに はいるか しってる?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
-	.string "Did you buy some REVIVES?\n"
-	.string "They revive any fainted POKéMON!$"
+	.string "{JPN}げんきのかけらは かった?\n"
+	.string "ひんしの ポケモンが げんきに なるよ!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
-	.string "Sometimes, a TRAINER duo will\n"
-	.string "challenge you with two POKéMON\l"
-	.string "at the same time.\p"
-	.string "If that happens, you have to send\n"
-	.string "out two POKéMON to battle, too.$"
+	.string "{JPN}ときどき 2にんぐみの トレーナーが\n"
+	.string "2ひきの ポケモンで\l"
+	.string "しょうぶを しかけてくるの。\p"
+	.string "そのときは こっちも 2ひきの\n"
+	.string "ポケモンを だして たたかうのよ。$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
-	.string "この　あいだ　やまおくで\n"
-	.string "きんのたまを　ひろい　ましてね！\p"
-	.string "つかえない　しなもの　ですが\n"
-	.string "うったら　なんと　5000¥でした$"
+	.string "{JPN}この あいだ やまおくで\n"
+	.string "きんのたまを ひろい ましてね!\p"
+	.string "つかえない しなもの ですが\n"
+	.string "うったら なんと 5000円でした$"

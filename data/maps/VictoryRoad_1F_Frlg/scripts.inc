@@ -44,24 +44,24 @@ VictoryRoad_1F_EventScript_Rolando::
 	end
 
 VictoryRoad_1F_Text_NaomiIntro::
-	.string "I wonder if you are good enough\n"
-	.string "for me?$"
+	.string "{JPN}あなた わたしの あいてに\n"
+	.string "ふさわしいかしら?$"
 
 VictoryRoad_1F_Text_NaomiDefeat::
-	.string "I lost out…$"
+	.string "{JPN}まけちゃった…$"
 
 VictoryRoad_1F_Text_NaomiPostBattle::
-	.string "I never wanted to lose to anybody,\n"
-	.string "especially to a younger kid…$"
+	.string "{JPN}だれにも まけたく なかったのに\n"
+	.string "ましてや としした なんかに…$"
 
 VictoryRoad_1F_Text_RolandoIntro::
-	.string "I can see you're good.\n"
-	.string "Let me see exactly how good!$"
+	.string "{JPN}きみが つよいのは わかる。\n"
+	.string "どれほど つよいか みせて もらおう!$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
-	.string "I had a chance…$"
+	.string "{JPN}かてる チャンスは あったのに…$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
-	.string "Tch!\n"
-	.string "I concede, you are better than I!$"
+	.string "{JPN}ちっ!\n"
+	.string "みとめるよ きみの ほうが うえだ!$"
 

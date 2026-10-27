@@ -133,96 +133,96 @@ SilphCo_11F_EventScript_Grunt2::
 	end
 
 SilphCo_11F_Text_ThanksForSavingMeDearBoy::
-	.string "PRESIDENT: Oh, dear boy!\n"
-	.string "Thank you for saving SILPH.\p"
-	.string "I will never forget you saved us in\n"
-	.string "our moment of peril.\p"
-	.string "I have to thank you in some way.\p"
-	.string "Because I am rich, I can give you\n"
-	.string "anything.\p"
-	.string "Here, maybe this will do.$"
+	.string "{JPN}しゃちょう: おお ぼうや!\n"
+	.string "シルフを すくってくれて ありがとう。\p"
+	.string "ききから すくってくれた ことは\n"
+	.string "けっして わすれない。\p"
+	.string "なにか おれいを しなくては。\p"
+	.string "わたしは かねもち だから\n"
+	.string "なんでも あげられるぞ。\p"
+	.string "そうだ これなんか どうかな。$"
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
-	.string "PRESIDENT: Oh, dear girl!\n"
-	.string "Thank you for saving SILPH.\p"
-	.string "I will never forget you saved us in\n"
-	.string "our moment of peril.\p"
-	.string "I have to thank you in some way.\p"
-	.string "Because I am rich, I can give you\n"
-	.string "anything.\p"
-	.string "Here, maybe this will do.$"
+	.string "{JPN}しゃちょう: おお おじょうちゃん!\n"
+	.string "シルフを すくってくれて ありがとう。\p"
+	.string "ききから すくってくれた ことは\n"
+	.string "けっして わすれない。\p"
+	.string "なにか おれいを しなくては。\p"
+	.string "わたしは かねもち だから\n"
+	.string "なんでも あげられるぞ。\p"
+	.string "そうだ これなんか どうかな。$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-	.string "{PLAYER} obtained a MASTER BALL\n"
-	.string "from the PRESIDENT!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は しゃちょうから\n"
+	.string "マスターボールを もらった!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
-	.string "PRESIDENT: You can't buy that\n"
-	.string "anywhere.\p"
-	.string "It's our secret prototype MASTER\n"
-	.string "BALL.\p"
-	.string "It will catch any POKéMON without\n"
-	.string "fail!\p"
-	.string "You should be quiet about using it,\n"
-	.string "though.$"
+	.string "{JPN}しゃちょう: それは どこにも\n"
+	.string "うっていない。\p"
+	.string "わが しゃの ひみつの しさくひん\n"
+	.string "マスターボールだ。\p"
+	.string "どんな ポケモンでも かならず\n"
+	.string "つかまえられる!\p"
+	.string "でも つかうときは\n"
+	.string "ないしょに してくれよ。$"
 
 SilphCo_11F_Text_YouHaveNoRoomForThis::
-	.string "You have no room for this.$"
+	.string "{JPN}もちものが いっぱいの ようだ。$"
 
 SilphCo_11F_Text_ThanksForRescuingUs::
-	.string "SECRETARY: Thank you for rescuing\n"
-	.string "all of us.\p"
-	.string "We, from the PRESIDENT down,\n"
-	.string "are indebted to you.$"
+	.string "{JPN}ひしょ: みんなを たすけてくれて\n"
+	.string "ありがとう ございます。\p"
+	.string "しゃちょう いか ぜんいん\n"
+	.string "あなたに かんしゃしています。$"
 
 SilphCo_11F_Text_GiovanniIntro::
-	.string "Ah, {PLAYER}!\n"
-	.string "So we meet again!\p"
-	.string "The PRESIDENT and I are discussing\n"
-	.string "a vital business proposition.\p"
-	.string "Keep your nose out of grown-up\n"
-	.string "matters…\p"
-	.string "Or, experience a world of pain!$"
+	.string "{JPN}ほう {ENG}{PLAYER}{JPN}!\n"
+	.string "また あったな!\p"
+	.string "いま しゃちょうと だいじな\n"
+	.string "ビジネスの はなしを している ところだ。\p"
+	.string "こどもは おとなの はなしに\n"
+	.string "くちを だすな…\p"
+	.string "さもなくば いたい めに あうぞ!$"
 
 SilphCo_11F_Text_GiovanniDefeat::
-	.string "Arrgh!!\n"
-	.string "I lost again!?$"
+	.string "{JPN}ぐうっ!!\n"
+	.string "また まけたのか!?$"
 
 SilphCo_11F_Text_GiovanniPostBattle::
-	.string "Blast it all!\n"
-	.string "You ruined our plans for SILPH!\p"
-	.string "But, TEAM ROCKET will never fall!\p"
-	.string "{PLAYER}! Never forget that all\n"
-	.string "POKéMON exist for TEAM ROCKET!\p"
-	.string "I must go, but I shall return!$"
+	.string "{JPN}くそっ!\n"
+	.string "シルフの けいかくが だいなしだ!\p"
+	.string "だが ロケットだんは ほろびぬ!\p"
+	.string "{ENG}{PLAYER}{JPN}! わすれるな\n"
+	.string "ポケモンは ロケットだんの ために いるのだ!\p"
+	.string "ここは ひくが また もどって くるぞ!$"
 
 SilphCo_11F_Text_Grunt2Intro::
-	.string "Stop right there!\n"
-	.string "Don't you move!$"
+	.string "{JPN}そこまでだ!\n"
+	.string "うごくな!$"
 
 SilphCo_11F_Text_Grunt2Defeat::
-	.string "Don't…\n"
-	.string "Please!$"
+	.string "{JPN}や やめて…\n"
+	.string "たのむ!$"
 
 SilphCo_11F_Text_Grunt2PostBattle::
-	.string "So, you want to see my BOSS?$"
+	.string "{JPN}ボスに あいたいって わけか?$"
 
 SilphCo_11F_Text_Grunt1Intro::
-	.string "Halt! Do you have an appointment\n"
-	.string "with my BOSS?$"
+	.string "{JPN}とまれ! ボスと あう やくそくは\n"
+	.string "あるのか?$"
 
 SilphCo_11F_Text_Grunt1Defeat::
-	.string "Gaah!\n"
-	.string "Demolished!$"
+	.string "{JPN}ぐはっ!\n"
+	.string "こてんぱんだ!$"
 
 SilphCo_11F_Text_Grunt1PostBattle::
-	.string "Watch your step…\n"
-	.string "My BOSS likes his POKéMON tough!$"
+	.string "{JPN}きを つけろ…\n"
+	.string "ボスは つよい ポケモンが すきなんだ!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-	.string "The monitor has POKéMON on it!$"
+	.string "{JPN}モニターに ポケモンが うつっている!$"
 
 SilphCo_11F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "11F$"
+	.string "{JPN}シルフカンパニー ほんしゃ\n"
+	.string "11かい$"
 

@@ -149,56 +149,56 @@ Route4_PokemonCenter_1F_EventScript_Newspaper::
 	end
 
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-	.string "Okay, set six POKé BALLS in my\n"
-	.string "belt…\p"
-	.string "Yeah, that'll do it. At most, you\n"
-	.string "can have six POKéMON with you.$"
+	.string "{JPN}よし ベルトに モンスターボールを\n"
+	.string "6こ セットして……\p"
+	.string "うん これで いい。 てもちに できる\n"
+	.string "ポケモンは 6ぴきまで なんだ。$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
-	.string "TEAM ROCKET attacks CERULEAN\n"
-	.string "citizens…\p"
-	.string "Not a day goes by without TEAM\n"
-	.string "ROCKET being in the news.$"
+	.string "{JPN}ロケットだん ハナダの しみんを\n"
+	.string "おそう……\p"
+	.string "ロケットだんの ニュースが\n"
+	.string "ない ひは ないな。$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
-	.string "MAN: Hello there, laddie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+	.string "{JPN}おとこ: やあ ぼうや!\n"
+	.string "きみに とっておきの はなしが あるんだ!\p"
+	.string "ひみつの ポケモン コイキングを\n"
+	.string "たったの 500円で ゆずってあげよう!\p"
+	.string "もちろん かうよね?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
-	.string "MAN: Hello there, sweetie pie!\n"
-	.string "Have I got a deal just for you!\p"
-	.string "I'll let you have a secret POKéMON\n"
-	.string "- a MAGIKARP - for just ¥500!\p"
-	.string "So, you'll buy it, am I right?$"
+	.string "{JPN}おとこ: やあ おじょうちゃん!\n"
+	.string "きみに とっておきの はなしが あるんだ!\p"
+	.string "ひみつの ポケモン コイキングを\n"
+	.string "たったの 500円で ゆずってあげよう!\p"
+	.string "もちろん かうよね?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-	.string "{PLAYER} paid an outrageous ¥500\n"
-	.string "and bought the MAGIKARP…$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は 500円も はらって\n"
+	.string "コイキングを かった……$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-	.string "No? You say no? I'm only doing this\n"
-	.string "as a favor to you!$"
+	.string "{JPN}いらない? いらないって? きみの ために\n"
+	.string "いってあげてるのに!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
-	.string "There's no more room for any more\n"
-	.string "POKéMON, it looks like.$"
+	.string "{JPN}もう ポケモンを もてる よゆうが\n"
+	.string "ないみたいだね。$"
 
 Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
-	.string "You'll need more money than that!$"
+	.string "{JPN}おかねが たりないよ!$"
 
 Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
-	.string "MAN: Well, I don't give refunds.\n"
-	.string "You knew what you were getting!$"
+	.string "{JPN}おとこ: へんぴんは うけつけないよ。\n"
+	.string "わかってて かったんだろ!$"
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
-	.string "Sometimes, you'll have too many\n"
-	.string "POKéMON with you to add any more.\p"
-	.string "In that case, you should just\n"
-	.string "store some using any PC.$"
+	.string "{JPN}てもちの ポケモンが いっぱいで\n"
+	.string "もう ふやせない ことも ある。\p"
+	.string "そういう ときは パソコンで\n"
+	.string "すこし あずけると いいよ。$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
-	.string "It's a newspaper.$"
+	.string "{JPN}しんぶんだ。$"
 

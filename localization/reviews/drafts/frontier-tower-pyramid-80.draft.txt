@@ -1,0 +1,941 @@
+##### data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc
+## BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid:
+ae7cda436c9a9e1c	トレーナーの ゆうきが\n
+55c86b4824a90e4c	ためされる ばしょ!\p
+12d1054d3fddabcc	バトルピラミッドへ ようこそ!\p
+22bc945562ca7f68	わたしは バトルアドベンチャーの\n
+6344ba7bb9b36282	あんないやく ですぞ。$
+## BattleFrontier_BattlePyramidLobby_Text_EmbarkOnChallenge:
+6924e62cc2c91b79	バトルアドベンチャーに いどむ\n
+819a3309a15b591e	ゆうきは おありですかな?$
+## BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge:
+baa406548c5161e7	また ちょうせんを おまちしてますぞ!$
+## BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
+3749e1bbd382fdf1	バトルアドベンチャーとは\n
+b1ac65c158e0d783	ピラミッドを たんけんし\l
+a061d651901a51e6	ちょうじょうを めざす しょうぶです。\p
+2d3a2cbaf99d3742	ピラミッドの なかは 7だんの\n
+2198d3a696823c7b	めいろに なっており うでききの\l
+d7b98a77780c5e0f	トレーナーと やせいの ポケモンが います。\p
+2d83462cb31e40e4	はいるときは ポケモン 3びきを\n
+7a47d64d67778e6a	どうぐを もたせずに つれていきます。\p
+00fa7fe716297b20	のぼっている あいだは どうぐようの\n
+b9bc6c9925632632	バトルバッグを おわたし します。\p
+ad3fb5ff11e535a6	ちょうせんに しっぱいすると\n
+67f1322ad6d6a288	バトルバッグの どうぐは きえます。\p
+e84673b608709b6e	ちょうせんを ちゅうだん するときは\n
+8854e074b1909ae7	「やすむ」を えらんで\l
+38e4bba54b60fd88	レポートを かいて ください。\p
+021c18ebc92966d4	レポートを かかずに ちゅうだんすると\n
+526953a27630d663	しっかく と なりますぞ。$
+## BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode:
+43caccf308fa3b8d	ピラミッドには レベル50と\n
+9208269b48de3385	オープンレベルの 2コースが あります。\l
+20793ce1f6f53058	どちらに はいられますかな?$
+## BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
+59b04b10e1862b19	よろしい。 では つれていく\n
+fbf43a3ef60829d1	ポケモンを 3びき おえらびくだされ!$
+## BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
+9118600ed447a43c	ぼうけんしゃよ すこし もんだいが!\p
+ecdcd34a0631073b	ちょうせんに さんか できる\n
+ac816adc12fa79b8	ポケモンが 3びき いないようですな。\p
+e2be20873b1b9220	ポケモンの どうぐも ぜんぶ\n
+420b5fae226b6a47	はずしておいて くだされ。\p
+534eddbd3ff0c2e0	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
+d32bb36b0ba9a9fb	ぼうけんしゃよ すこし もんだいが!\p
+2b95609d06a0c83d	ちょうせんに さんか できる\n
+e1fb9ba750671038	ポケモンが 3びき いないようですな。\p
+916b56a85dbd5bce	ポケモンは ちがう しゅるいで\n
+6c7b3dde354594cb	レベル50いかの 3びきが ひつようです。\p
+3b17df8a1bcd6698	ポケモンの どうぐも ぜんぶ\n
+ed50411f815cdbd2	はずしておいて くだされ。\p
+c6eaed5e827a5172	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsEnd:
+24924f3ae2d65672	じゅんびが できましたら\n
+a33b43642b2e7c3e	また こえを おかけ くだされ!$
+## BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge:
+d6b3dc12c8701cea	バトルピラミッドへ はいる まえに\n
+66e377e4a2e91f6d	レポートを かきますが よろしいかな?$
+## BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
+3a002eeb0491409a	では バトルピラミッドの なかへ\n
+c249f3e76ed43cd8	おつれいたしますぞ!$
+## BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
+1692029c202c8209	たんけんの あいだ バッグは\n
+c1e3b62f749d6b29	{PLAYER}さまから おあずかりします。$
+## BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
+d7d7b7641e16f9d9	かわりに ぜんかい おつかいになった\n
+da021d43a132b528	この バトルバッグを おもちくだされ!$
+## BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
+1f780e0c8b7bf02c	かわりに こちらの\n
+5bd4c5225029d5ab	バトルバッグを おもちくだされ!$
+## BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
+6d08d476b0574c9a	{PLAYER}は バッグを あずけて\n
+5cb6b47cb94512fd	バトルバッグを うけとった!$
+## BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
+424f1d670be52a25	こちらの ゆかを ふんで いただくと\n
+1ecdcfa6c07ad7ee	ピラミッドの うえの だんへと\l
+3e4663aae6f69905	すすむことが できますぞ!\p
+48af81ed41749604	ぶじ ぼうけんが すすむことを\n
+9b8e3227342d81b3	いのって おりますぞ!$
+## BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
+a27f74ae37d73e27	たんけんしゃよ たいへんな もんだいが!\p
+3b4637c8ac51cfe0	ぜんかい レポートを かかずに\n
+7a38473980abf737	ちょうせんを おえられましたな。\p
+31b261dbc9cd734e	ざんねん ですが そのため\n
+ec05a7ab0d16a499	ちょうせんは しっかく と なりました。\p
+21ebf4e9ea5eca59	おあずかりしていた バッグを\n
+515b27ec7b5c78f2	おかえし しますぞ。\p
+5423b9b01d8b7752	{PLAYER}は バッグを かえしてもらった!$
+## BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
+3b8a5d3a2755abd5	おかえりなさいませ!\p
+55b05f739776d980	みごとに ピラミッドを せいは!\n
+743cd853d0c80fff	すばらしい ですな!$
+## BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
+9afe69b4af030a2d	おっと すこし もんだいが。\p
+94a409151fefcd48	どうぐを もっている ポケモンが\n
+17cbb5251b5603a1	いるようですな。\p
+a56e2374ebe3a9fc	ざんねんながら ピラミッドで えた\n
+c05db193785fc94c	どうぐは もちだせないのです。$
+## BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
+43ce1fb315d832a2	ポケモンが もつ どうぐは ぜんぶ\n
+9db892e46e4b330f	{PLAYER}さまの バトルバッグへ うつします。$
+## BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
+7ef2a008f4feb752	ざんねんながら バトルバッグに\n
+3ec93d90ef253c3b	どうぐが ぜんぶ はいりきりません。\p
+7b6227409a404314	バトルバッグと ポケモンに のこす\n
+dd2f486cc5f77d75	どうぐを えらんで くだされ。$
+## BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
+97a740449beeb7a3	ポケモンに\n
+8d4adae82d514cf1	まだ どうぐを もたせていますぞ!$
+## BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
+819c368185d03483	バトルバッグと ポケモンに のこす\n
+3933416bd7696343	どうぐを えらんで くだされ。$
+## BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
+54beacde588dc5b5	{PLAYER}は ポケモンに もたせている\n
+3e0d966824b4e3b7	どうぐを ぜんぶ かえした!$
+## BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
+19b0c51d6fbc858d	つかった バトルバッグは つぎの\n
+553d581c8be77853	ちょうせんまで おあずかりしますぞ。\p
+c02a22604fc583ec	{PLAYER}は バトルバッグを わたして\n
+0e04717cfe110d38	バッグを かえしてもらった!$
+## BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
+0c57ef10d9a416b8	せいせきを レポートに かきますので\n
+562e299696229386	おまちくだされ!$
+## BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
+7ee4cbe724cd4518	バトルピラミッド せいはの きねんに\n
+311aa0c83946d93a	この しょうひんを おうけとりくだされ!$
+## BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
+5c4b2e813a4db4c2	{PLAYER}は しょうひんの\n
+ece72a5fbee05e71	{STR_VAR_1}を もらった!$
+## BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
+5dd38748f47f240b	……おや……\n
+8fba1641be14a662	バッグが いっぱいの ようですな。\p
+c6e139d81b56b54b	バッグの なかみを せいりしてから\n
+7c440dc96874134b	また おこしくだされ!$
+## BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
+697b4d1e5a7cc5eb	ざんねん でしたな……\p
+ecd1cda691d83105	おあずかりしていた バッグを\n
+1563abb96a2b8a99	おかえし しますぞ。\p
+2b9d68250938d6c9	{PLAYER}は バッグを かえしてもらった!$
+## BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
+6e745bd788e2a214	またの ちょうせんを\n
+f780e144e85b142d	おまちして おりますぞ!$
+## BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
+b462d09a1d5ec3b4	おこしを おまちして\n
+3e1906def38cdd74	おりましたぞ!\p
+b7896e4ef0081d6c	こちらが ピラミッドを せいはした\n
+4f2d74bfac807efa	しょうひん ですぞ。$
+## BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait:
+f0af91e1c83e3ddc	ようこそ……\p
+0a6176cff382635c	ピラミッドで まちうける わざわいを\n
+caaba07225eac183	うらなって さしあげましょう……$
+## BattleFrontier_BattlePyramidLobby_Text_Aah:
+e50f43132c68f7d0	… … … … … …\n
+cd21ebee356ab5e1	… … … … … …\p
+536c24ac70b38af3	… … … … … …\n
+c27f65a56a88201a	はっ!$
+## BattleFrontier_BattlePyramidLobby_Text_HintParalysis:
+d0ed0c4d62d9b468	とびちる ひばなが みえます……\p
+396139a034961a9c	……そして まひに くるしむ\n
+0188970f2d7429c2	あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintPoison:
+980a846b99dd8925	どくが みえます……\p
+5f3b2dcdee4f8df7	……そして どくに くるしむ\n
+f4d6a79e9db69bae	あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintBurn:
+560c1804e2d8f4fe	まっかな ほのおが みえます……\p
+024d05c84398f909	……そして やけどに くるしむ\n
+9da5d7cb3afb057a	あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintPPWaste:
+78a807b02e764492	むくわれぬ いかりの すさまじい\n
+accbeba20fb279ff	プレッシャーを かんじます……\p
+378419a64045afd2	これは のろい……\p
+154e4a478f167fd0	……そして PPを うばわれ\n
+09f029a115d5e51c	なすすべもなく わるあがきを\l
+6f9a25b4e2c62623	する あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintLevitate:
+60289eb4a445aa4b	そらたかく うかぶ ポケモンが みえます……\p
+702f1da990be5694	……そして じめんの わざが きかず\n
+1a0848822288f7bf	くやしがる あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility:
+f844540338847345	あしもとの じめんから わきあがる\n
+1e7822d303b1ef10	すさまじい ちからを かんじます……\p
+b4540f945a2712a0	……そして その ちからから\n
+8917c444c2bd2db2	にげられない ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintIce:
+971fd61e70357465	こおりタイプの ポケモンが みえます……\p
+46cdefcb1a08baba	……そして こおりの ちからと\n
+20eb35442d5ed45f	たたかう あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintExplosion:
+2f934d3c54cfef63	つかうものを きけんに さらす\n
+a3c1f66ee2e21690	わざの あらしが みえます……\p
+48a5473ec39d9b51	……そして それに たおれる\n
+cecee6178d486f55	あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintPsychic:
+e7fac0d5c3f5f601	エスパータイプの ポケモンが みえます……\p
+27ad58a491c67f6f	……そして エスパーの わざに\n
+1bf9fbdd3e51b1ad	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintRock:
+3cedb9d0dabeb08b	いわタイプの ポケモンが みえます……\p
+d0710436a0aabdea	……そして いわの わざに くるしむ\n
+485fee8d54a1395a	あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintFighting:
+8078e4f70035f7db	かくとうタイプの ポケモンが みえます……\p
+4b104a901463d4fc	……そして かくとうの わざに うちのめされる\n
+5016fb037cc2d281	あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintWeather:
+d11042c97745eaa4	あまごい…… にほんばれ……\n
+c462c728d3870a48	すなあらし…… あられ……\p
+9117028975bc4c47	てんきで つよくなる\n
+0c3aee952e88f9b2	ポケモンが みえます……\p
+54d71e901c4ae34b	……そして さまざまな わざに\n
+2df64e2e5f9ee04b	まどわされる ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintBug:
+e20a6614cdea3d07	むしタイプの ポケモンが みえます……\p
+94f46737b1641c48	……そして さまざまな こうげきに\n
+6916690e0d009ee1	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintDark:
+b3f85198d3de8f80	あくタイプの ポケモンが みえます……\p
+d080060a048b16c5	……そして あくタイプの わざに\n
+ee5012c0086f4dde	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintWater:
+5b489b0fb2afa62d	みずタイプの ポケモンが みえます……\p
+1c06142bc1a3ec0e	……そして みずタイプの わざに\n
+41e622a7eff1c683	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintGhost:
+3adf3620db1373dc	ゴーストタイプの ポケモンが みえます……\p
+f028c9291c74c2c8	……そして ゴーストタイプの わざに\n
+ea78296ef43b9240	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintSteel:
+a75c38142d237e58	はがねタイプの ポケモンが みえます……\p
+53660d8425baf201	……そして すさまじく つよい わざに\n
+06e2364df3888ced	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon:
+18fd496821685424	そらを とぶ ポケモンが みえます……\p
+5e2fb8e9acad3ef5	……そして すさまじく つよい わざに\n
+691e175eaca2c145	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve:
+9bb8e2e36ff7af22	いしの ちからにより\n
+27166807a0c820e0	しんかした ものたちが みえます……\p
+32758b06ad23c469	ほのお…… みず……\n
+6cad71c893d2a99a	でんきも かんじます……\p
+bcdd81158a1b04e6	……そして 3つの ちからに くるしむ\n
+d3737504dbf9efe9	あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_HintNormal:
+5e1921a7b4f71421	ノーマルタイプの ポケモンが みえます……\p
+7256a2d4e7f3a6fb	……そして すさまじく つよい わざに\n
+71372d744e8b4dd9	くるしむ あなたの ポケモンの すがたも……$
+## BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot:
+d969e8745cf4a3bf	うらないを しんじるも しんじないも\n
+4293187c0f5b1d89	あなた しだい……\p
+5aa7992f485789af	みらいは いつでも かえられます……\n
+1e52d2e5c3769d24	どうぞ ごぶじで……$
+## BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
+a5984c0cfb9c00df	しってる?\p
+ebb73b9331934a94	はしると トレーナーに きづかれて\n
+e2487182d6d7f7b8	しょうぶを しかけられる ことが あるんだ。\p
+f65926f4bbb5dc81	だから トレーナーを さけたいなら\n
+b4dfeba72f78ca46	めを つけられないように\l
+e4866433b7c73f30	そっと しずかに とおりすぎるんだ。$
+## BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
+10a4d0b6abe3b1cd	うおおおおーーーーーーん!\p
+760fe8e264732165	どうぐを いっぱい もってたのに\n
+ee1f69e796dc086a	まけたら ぜんぶ なくなっちゃった!\p
+c223274b203cf8e6	うおおおおーーーーーーん!$
+## BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
+d14d395e841e074f	おかえりなさいませ!\n
+53c980d417c2cd70	とんでもない ことを なされた!\p
+1820803d8edb8be2	ピラミッドキングを たおし\n
+a0d160e0985bf0e6	バトルピラミッドを せいは されるとは!$
+## BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
+483d011a221a432c	わかき ぼうけんしゃよ!\n
+7827304dfd68de63	あなたの ゆうきを たたえ\l
+6371390a4a650931	バトルポイントを おおくり しましょう!$
+## BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
+b3af72a5fabe93ea	バトルアドベンチャーの ルールが かいてある。$
+## BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading:
+8b289bf249a09ab5	どの せつめいを よみますか?$
+## BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
+48329340862b8f74	ピラミッドを せいはすると\n
+c42496bc4a131653	なかに でてくる やせいの ポケモンは\l
+f71559b65db2693f	べつの しゅるいに かわります。\p
+974cd25fc719f09a	どんな やせいの ポケモンが でるかは\n
+fc526bfeac50b7ff	たんけんして たしかめて おぼえましょう。$
+## BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules:
+02ab4e2276d23e39	ピラミッドの なかでは\n
+5a031a67ecf088ae	トレーナーが まちぶせしています。\p
+64090e79c8d9a670	それぞれの フロアには さいだい\n
+b0731451ab980d44	8にんの トレーナーが います。\p
+b0f86ff0b1f5dc39	トレーナーに かつと ぼうけんに\n
+4ac626d0bfa715ba	やくだつ ヒントが もらえます。$
+## BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
+b67269e34c7bd41b	ピラミッドの めいろは はいるたびに\n
+76b17f617117f071	かたちが かわります。\p
+db503f9d29b65426	めいろの なかは うすぐらいので\n
+2dc46696de202c88	ちゅういして すすみましょう。\p
+f9dc4bd8b49b8f3c	やせいの ポケモンや トレーナーに\n
+f05a6eebd2303ed2	かつたびに あかりが ひろがります。$
+## BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
+e36324fbf44bb39a	ピラミッドの なかでは バトルバッグを\n
+64e843091e26ba67	バッグとして つかいます。\p
+6841acc86357f81e	バトルバッグは レベル50と\n
+144cb7ec11837f20	オープンレベルの ぼうけんように\l
+30b854a764f93f06	べつべつに 1つずつ あります。\p
+d8d62df5dc1c1850	それぞれ 10しゅるいの どうぐを\n
+d32c275450ec1f2d	99こまで いれられます。\p
+18c1c69722262ce6	ぼうけんに しっぱいすると\n
+78e588b9803eea79	バトルバッグの なかみは なくなります。$
+##### data/maps/BattleFrontier_BattlePyramidTop/scripts.inc
+## BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
+1dcfb14311d554b1	ここで おあいできて うれしいですぞ!\n
+7543c5543334a551	バトルピラミッドの\l
+8e0f1eaee9bf73f1	ちょうじょうに とうちゃく です!\p
+8ef520f4fec27f4b	この うえは ピラミッドの\n
+fbf8e65cdb7176ab	てんぼうだい です。\p
+e3713313e583ea99	ピラミッドを せいはした ものだけが\n
+dc61ac9b6a0afac1	はいれる ばしょ なのです。\p
+9d927030311c434b	さあ どうぞ!\n
+937dc8ead34a149f	おのぼり くだされ!$
+## BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
+3d37df4ed33ad803	あらたなる ピラミッド せいはしゃ!\n
+aa091b0b34ff2634	そのなは {PLAYER}!$
+## BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
+7f1025bef0a3d7e8	ここで おあいできて うれしいですぞ!\p
+f0cc301e9b02376c	ですが ざんねんながら ほんの\n
+e4bb41ffe7f3ddeb	わずかな さで 2ばんめ でしたな!\p
+62cce5e8c7ac9d65	われらが ボスが ひとあしさきに\n
+5e2a0c5eacc8d459	ピラミッドを せいは されたのです。\p
+4a2c622be7a29ffa	ですが わかき たんけんしゃよ……\n
+c572716caf3a4920	あなたは トレーナー です!\p
+8a3cb6176184b6f0	ちからを しめし ボスから\n
+19363427de9d2e2b	ちょうてんの えいこうを うばうのです!\p
+58fa329f965b5ef4	さあ どうぞ! じゅんびが できたら\n
+8fe6b827db3693ea	ゆうきの いっぽを ふみだすのです!$
+## BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
+fcb821217c92911c	わかき ぼうけんしゃよ……\p
+24a3bde9c3f5d38a	たんけんこそ さいこうの\n
+fe822fb92d43f2bf	ぼうけんだと おもわないかね?\p
+48fd2bc259cfdeba	じぶんの ちえ!\p
+f4b14414d6c24d24	じぶんの ちから!\p
+aa6428005f941d45	じぶんの ポケモン!\p
+327f85e52bb1c783	そして なにより じぶんの ゆうき だけが\n
+d33f2087096299d3	みしらぬ せかいへ みちびいて くれる……$
+## BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
+57fe66f2ae6058f4	ああ じつに じんせいとは すばらしい!\n
+0feedc8a8187e4c2	すばらしいとも! ん?\p
+6a38663e8d216031	わたしは ジンダイ!\p
+632fdfd5a5bdfb39	ピラミッドキング つまり\n
+d44cbe386e7cee67	ここの せきにんしゃだ!\p
+e0a14f3be69efcea	みんなからは ボスと よばれている!\p
+011d2266985e7b75	ここまで きたと いうことは\n
+23c0246ddefee16d	それだけ じぶんに じしんが\l
+cd5fa081f4f4d6f2	あると いうことだな?\p
+68944264713a4c34	はっはっは!\n
+8becc76ecd71ccc6	これは たのしみだ!$
+## BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
+a4edbbd5880487c8	さあ!\n
+75d226691e9c4101	きみの ゆうきを ぶつけて きたまえ!$
+## BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
+4bb8f7177250fb79	ジンダイ: はっはっは! すばらしい!\n
+0f493a9cb7364d80	じつに すばらしかった!\p
+e7c9d41a8e344278	いいぞ! きみを みとめようじゃないか!\n
+6d09eaeadae4a943	フロンティアパスを かすんだ!$
+## BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
+ac0dad8d9200e957	フロンティアパスに\n
+ce28903f722725b3	ブレイブシンボルが きざまれた!$
+## BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
+2f0a960c225ba977	わかき ぼうけんしゃよ!\n
+fcbe006cc3318b33	また あえる ときを まっているぞ!$
+## BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
+87daa7ec5db07a4a	ジンダイ: ……ついに もどってきたか\n
+3716ab351c6228ac	わかき ぼうけんしゃよ……\p
+dd7f58a1919ad2f1	きみは ほんとうに こころの そこから\n
+b213c43c01fd3178	ぼうけんを あいして いるようだな……\p
+4bbcc9ed26e2887c	そう…… まるで わかき ひの\n
+19d6b47b9ad9085b	わたし そっくりじゃないか……\p
+b8bbe6b0dcd04e8c	… … ……おお……\p
+f6357efafc447f4c	あつく!\p
+d023eb15a3dbff5c	きけんで!\p
+8a8208b2f14a882d	ひっしの!\p
+69599db45fa984cd	あの いのちがけで いきを かんじた\n
+88abd29e5276316e	ぼうけんの ひびが よみがえって きたぞ……$
+## BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter:
+dbebd18c8dafd316	よーーーしっ!\p
+07f9c5fcc2ed090d	わたしの ゆうきも\n
+1f95f22078c26765	メーターを ふりきって いるぞ!$
+## BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
+dc4f52f900c49403	きみの すべてを!\n
+3ed76bee67d5ff89	わたしが うけとめよう じゃないか!$
+## BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
+8ddd11ef4c7d931a	ジンダイ: はっはっは!\n
+1fc5a5d2ef521c4c	みごとだ!\l
+f3346cc9a4c74523	まったく じつに すばらしい!\p
+638c58323d3d5959	わかき ぼうけんしゃよ!\p
+a7d3aced279fdd97	きみには かんぜんに まけたよ!\n
+5aa1fcf341b5dd41	さあ! こいつを うけとって くれ!$
+## BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
+f34fd359484fc67a	ブレイブシンボルが\n
+97f0a88bf6d02b5c	きんいろに かがやいた!$
+## BattleFrontier_BattlePyramidTop_Text_FarewellForNow:
+4fb138dcde11ee71	いやあ わたしも まだまだ\n
+0760787df5fa9617	まなぶことが あるようだな!\p
+1f1306bfa01116c5	えんが あったら また あおう!\n
+121efa6cf361151d	さらばだ! わかき ぼうけんしゃよ!$
+## BattleFrontier_BattlePyramidTop_Text_StepForwardWhenReady:
+bf0014abafdbe37e	さあ! じゅんびが できたら\n
+cf5ac74fbc02fe4f	ゆうきの いっぽを ふみだすのですぞ!$
+##### data/maps/BattleFrontier_BattleTowerBattleRoom/scripts.inc
+## BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth:
+8bb7142ad7647159	ポケモンの たいりょくを\n
+6c6182c3727f66bb	かいふくして さしあげます。$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent:
+27e365c150d9cbfa	つぎは {STR_VAR_1}にんめの あいてです。\n
+46dc9ef84d1eaa16	じゅんびは いいですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent:
+e36f4605166633e2	つぎは 2にんめの あいてです。\n
+37168d9bc10a5878	じゅんびは いいですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent:
+cd5b9222b53218a9	つぎは 3にんめの あいてです。\n
+58a3822e669951c8	じゅんびは いいですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent:
+30b2470e90dcb72d	つぎは 4にんめの あいてです。\n
+d31a6d83d0da9b72	じゅんびは いいですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent:
+21bef569f58417dc	つぎは 5にんめの あいてです。\n
+abd7124e2cc1f57b	じゅんびは いいですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent:
+2f50d4ed575159c0	つぎは 6にんめの あいてです。\n
+17bf802472155b4c	じゅんびは いいですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent:
+185e6eb3155d639e	つぎは 7にんめの あいてです。\n
+98ed25b763150241	じゅんびは いいですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle:
+550d3e04315172e0	さきほどの たたかいを\n
+c1e51586b90ca524	フロンティアパスに きろく しますか?$
+## BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
+f6308426826c1cca	{PLAYER}の たたかいが\n
+527fd876aefb4c8d	フロンティアパスに きろく された!$
+## BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:
+0b1dd9fa37832c25	レポートを かいて\n
+7bf6da2f8e52b404	ゲームを おわりますか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
+ff9222d48c86f6d9	レポートを かいています!\n
+fe38d4abe6c2dbda	しばらく おまちくださいませ!$
+## BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
+9a41431b96e86677	バトルルームの ちょうせんを\n
+befb898261412fc5	ちゅうし しますか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
+820167d922124c77	ふぐあいに より\n
+3420939220f4411e	きろく できませんでした!$
+## BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
+e565678274f90223	しつれい いたします……\p
+79fb2402744f29b4	リーダーの サロンメイデンが あなたとの\n
+fadba1387779ba1e	しょうぶを のぞんで こちらへ むかっています。\p
+89ff790686f2c479	まもなく とうちゃく するはずです。$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden:
+ee58fc0d5af98f1c	サロンメイデンとの たたかい です!\n
+9aeb70812cfd95b6	かくごは よろしい ですか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel:
+87ec4c10e80e40db	こんにちは……\n
+56ba17b8b9d7db83	わたしの なまえは リラ。\p
+ac055df94cf5443a	サロンメイデンとして\n
+8d8aa208c194cfc8	バトルタワーを まかされています……\p
+d2834b5e529f217d	あなたの うわさは\n
+fe08b4536d593430	いくつか きいています……\p
+a302a8278f42b6bf	しょうじき いって きいた かぎりでは\n
+534a7952557c67cf	すこしも みりょくを かんじない……\p
+4470f6fc2a509b69	わたしが あいに きた りゆう……\n
+4ebbe2647b67f645	それは ひとつ だけ……$
+## BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
+6aacfe2afd31f635	あなたの さいのうを\n
+1c45ffadbe012985	すべて ここに しめしなさい……$
+## BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
+d4cef02917188b40	リラ: ふふふ おみごと……\p
+1657edea557d837d	フロンティアパスを……\n
+224dca683be1c7c7	あなたの さいのうを みとめましょう。$
+## BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
+04e425b33dee8f72	フロンティアパスに\n
+93607f3946650209	アビリティシンボルが きざまれた!$
+## BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
+f3ae574df2fe9c74	… … … … … …\p
+109c99cd92c50122	あなたは ポケモンバトルの さいのうに\n
+591a143e2e0e89b9	じしんが あるのでしょう?\p
+2accabe9e2a1998a	だったら もっと たたかって\n
+7f4ea40c5136a363	もっと かちつづけて ください。\p
+328d65fdb1588c68	あなたを まっています。\n
+6f016442c736ddcd	また あえる そのときまで……$
+## BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
+a8505381839859dd	リラ: ほんとうに わたしに\n
+97415891415204f8	あいに きてくれたのね……\p
+06249df965f57112	… … … … … …\p
+ea3327fb7d4a7dfb	かちつづけて わたしに あいにきた……\n
+c2ebe5d5b243dac8	あなたには てかげん しなくて いい……\p
+35ac46d7494f1714	ずいぶん ひさしぶり……\p
+5f08f26724f78f5c	なにも かんがえずに たたかえるのは\n
+ada1e0f20d011ab1	ほんとうに ひさしぶり……$
+## BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe:
+d9f3088bfc08044d	さあ はじめましょうか?$
+## BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease:
+20622e87a8219fcc	リラ: ふふっ おめでとう……\n
+86a0283ecb5529b8	あなたの フロンティアパスを……$
+## BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
+479d6f70cb939599	アビリティシンボルが\n
+8e16bd4fdf88df67	きんいろに かがやいた!$
+## BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain:
+204ba617a212618b	たのしかった……\p
+d8fde866a30879d0	こんなに ポケモンバトルが\n
+1ce35c4ae6302619	たのしかったのは はじめて……\p
+e892877c1b6088fd	また あなたと たたかえると いいな……$
+##### data/maps/BattleFrontier_BattleTowerLobby/scripts.inc
+## BattleFrontier_BattleTowerLobby_Text_DirectYouToBattleRoom:
+978c472415bdf00d	では バトルルームへ ごあんない します。$
+## BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting:
+4bfa068f06b62e1f	しつれい いたします!\p
+691ad8ead2e0dc19	ぜんかい レポートを かかずに\n
+519e8cf5a6740eef	ちょうせんを やめられましたね。\p
+83131bb51354b601	そのため これまでの ちょうせんは\n
+cf7f5390954a7847	しっかく と なりました。 ごめんなさい!$
+## BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven:
+546bac5e7f9a5fa4	おめでとう ございます!\n
+88928e4a4a718bd3	7にんの トレーナーに かちぬきました!\p
+43dbc3a15040061a	$
+## BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize:
+d5ac1406d12bd30d	7にんの トレーナーに れんしょうした\n
+47c9e4d8d656b3d6	あなたに すてきな しょうひんです!\p
+7758bc86c9fe3ce5	$
+## BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
+6cbdcba37723d25d	{PLAYER}は しょうひんの\n
+cf994c807440f773	{STR_VAR_1}を もらった!$
+## BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom:
+eaf2032cd9a74318	あら バッグが いっぱいの ようです。\p
+d6aeae3a0db4bac9	バッグを せいりしてから また\n
+af256e7a5f578cf3	おこし ください。$
+## BattleFrontier_BattleTowerLobby_Text_ThankYouForPlaying:
+5ea5c9180fa21fa1	ごりよう ありがとう ございました!\p
+6361ccc3e06a41b6	$
+## BattleFrontier_BattleTowerLobby_Text_RecordWillBeSaved:
+c450387578957617	きろくを レポートに かきます。\n
+f67d40d8aa714a70	おまち ください。$
+## BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou:
+bc01ac31cb58dd42	おまちして おりました!\p
+7d04f4ad5a507013	$
+## BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved:
+11cdec4d611beb60	バトルルームに はいるまえに レポートを\n
+197e1cccb3ffdf7f	かきます。 おまち ください。$
+## BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
+caa45df70c459844	ついに 50にんめの トレーナーと\n
+c077ce6825afa7a6	たたかいますね。\p
+1114bbc6f030f1b9	ここからは 7にんに れんしょうするたびに\n
+debab22b64f5e1e7	あなたの ポケモンに きねんの\l
+3214501bb80264ec	リボンが おくられます。\p
+0c582bedc6d4f842	がんばって ください!$
+## BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons:
+531b04649413dcdb	つよい トレーナー 7にんに れんしょうした\n
+a8c34ca618bdfef5	きねんの リボンです。\p
+cc7dd16840b4ee52	{PLAYER}は リボンを もらった!$
+## BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons:
+c30231173874622d	{PLAYER}は さんかした ポケモンに\n
+dc92f8f5b7e9ff8a	リボンを つけた!$
+## BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower:
+6326116dbae7c8b5	すみません すこし いいですか?\p
+032e603b9b0f43e3	バトルタワーで しょうぶを はじめる\n
+d414bbfc5569ae4f	ときや かったとき\l
+e373da9e5e1c2b25	まけたときの きもちを\l
+2cc98016d8f1dd56	おしえて もらえませんか?$
+## BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin:
+37ed7f29093f5499	では しょうぶを はじめる ときは\n
+c5ff669e55815ef1	どんな きもち ですか?$
+## BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveWon:
+1f5f04a49096868e	しょうぶに かったときは\n
+4b911f0588c7d3be	どんな きもち ですか?$
+## BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveLost:
+25b37227e8fd8b07	しょうぶに まけたときの きもちを\n
+a3033252784824e0	きかせて もらえますか?$
+## BattleFrontier_BattleTowerLobby_Text_DontThinkMuchAboutIt:
+dbc957f552ac6913	へえ とくに なにも かんじないと?\n
+e8963f9fe5dae94f	ずいぶん クールな ひと ですね。$
+## BattleFrontier_BattleTowerLobby_Text_ChangedYourMind:
+b12a0f3e0e795589	あれ? きが かわったんですか?\n
+02575e99ec3a5f45	きまぐれな ひと なんですね。$
+## BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel:
+56ee9ccb9afa3bd5	なるほど そんな きもち ですか?\n
+3a8c69c8785c6115	なかなか ユニーク ですね。\p
+5c33ee83fd321363	ありがとう ございました!$
+## BattleFrontier_BattleTowerLobby_Text_WinsInRowRecorded:
+a68f5fb4cb556f12	なんれんしょう したかが\n
+06d65c0b56f488f1	きろく されるんだ。\p
+1ef903d74729badf	はずかしい まけかたは\n
+7dbb318f08a1c372	したくないなあ!$
+## BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins:
+aa9a24b4a56f0a08	バトルタワーに いちど はいったら\n
+13b0977eefffcab2	まけるか 7にんに れんしょうするまで\l
+b20ac7b08139a4ce	でられない。\p
+ef2590a1f241221d	ちょうせんする まえに じぶんの\n
+3cf44a5d3c212d98	じつりょくを よく たしかめた ほうがいい。$
+## BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction:
+dd95cbd3c4ebfd20	バトルタワーの\n
+c2027ea5b1a28742	ダブルバトルコーナーへ ようこそ!\p
+fd3057c76a16d740	もうしわけ ありませんが バトルルームは\n
+5374afed616a9e28	まだ こうじちゅう です。\p
+c63d61cd91c449f6	こうじが おわりましたら\n
+39c52fae776cbaa9	また おこし ください。$
+## BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction:
+44a4bb775551c9f4	バトルタワーの\n
+7491fd32e14be7f7	マルチバトルコーナーへ ようこそ!\p
+faac77f46bc0f90b	もうしわけ ありませんが バトルルームは\n
+42f64eac6da20f78	まだ こうじちゅう です。\p
+974902b57083d937	こうじが おわりましたら\n
+0dca9c2d89b7b354	また おこし ください。$
+## BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge:
+6151619487d747aa	また ちょうせん されるのを\n
+2ef373ed9f6e371b	おまちして おります!$
+## BattleFrontier_BattleTowerLobby_Text_WhichLevelMode:
+87c98e05be0ec572	バトルルームには レベル50と\n
+04de82a0f4ebbb06	オープンレベルの 2つが あります。\l
+931d5c6c1bb6e7c4	どちらに されますか?$
+## BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
+d9b285b389cdffda	さんか させる ポケモンを\n
+267de4113548391d	えらんで ください。$
+## BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering:
+9bd48b56480c25e3	バトルルームに はいるまえに レポートを\n
+19fe26c65f3052c1	かく ひつようが あります。 よろしいですか?$
+## BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom:
+22df5013c1e52d68	それでは ごあんない します。\n
+4b19c9fc00c522d5	{STR_VAR_1}バトルルームへ どうぞ。$
+## BattleFrontier_BattleTowerLobby_Text_RecordLastMatch:
+21d30a8d87baa315	さきほどの バトルタワーの しょうぶを\n
+d654dc56a8d26ef5	フロンティアパスに きろく しますか?$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50:
+7e8e3b8ef2c2e47d	しつれい いたします!\p
+99d3c0e6610990f1	さんかできる ポケモンが\n{STR_VAR_2}ひき いません。\p
+bf8e0964561d400e	{STR_VAR_2}ひきの ちがう ポケモンが\n
+65df40e4013db3b4	ひつようです。 レベルは 50いかです。\p
+a27bcf649ddfb041	また もたせる どうぐも\n
+2085ddc40b308943	ちがう しゅるいに してください。\p
+aa057662b0d89366	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsEnd:
+086010cbf199c4ee	じゅんびが できたら また おこしください。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen:
+5822ee56fcfc5d63	しつれい いたします!\p
+7977ad0b0d8ddd01	さんかできる ポケモンが\n{STR_VAR_2}ひき いません。\p
+998850282b9695f4	{STR_VAR_2}ひきの ちがう ポケモンが\n
+802378ccb262a8d3	ひつようです。\p
+1f2b59fc427a350d	また もたせる どうぐも\n
+6dc793caf1927c00	ちがう しゅるいに してください。\p
+9b137bfcb23d86a7	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Singles:
+81e2260937477413	しつれい いたします!\p
+5a69081aa549068c	さんか できる ポケモンが 3びき いません。\p
+18b589c296e528a4	ちがう しゅるいで レベル50いかの\n
+4d570cee135e0a79	ポケモンが 3びき ひつようです。\p
+bdb8b1072c1935d1	また もたせる どうぐも\n
+4f60834dd4031340	ちがう しゅるいに してください。\p
+aff4406a67216e6a	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenSingles:
+5ae87442999e047a	しつれい いたします!\p
+e84a275921651259	さんか できる ポケモンが 3びき いません。\p
+8ed60623181c82da	ちがう しゅるいの ポケモンが\n
+9cc7721fd4915300	3びき ひつようです。\p
+76fe4ea76f93af73	また もたせる どうぐも\n
+c2afe8fba168fa27	ちがう しゅるいに してください。\p
+32228dd38681e6b7	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Doubles:
+c284b42d4520698d	しつれい いたします!\p
+c27ba0cca8c406b7	さんか できる ポケモンが 4ひき いません。\p
+53bafed178dbf61b	ちがう しゅるいで レベル50いかの\n
+7457698915ec432e	ポケモンが 4ひき ひつようです。\p
+8ad37c38f219852b	また もたせる どうぐも\n
+81a623fb3bbf151d	ちがう しゅるいに してください。\p
+c921195a59434f0f	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenDoubles:
+770b1fb1eee67beb	しつれい いたします!\p
+c44c659587ddb0f4	さんか できる ポケモンが 4ひき いません。\p
+ac2791a954818ff5	ちがう しゅるいの ポケモンが\n
+350858809b3f0a87	4ひき ひつようです。\p
+417be82e1f7e36b5	また もたせる どうぐも\n
+39ac6e31f9ce6075	ちがう しゅるいに してください。\p
+1ef0efcf0722fd81	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Multis:
+52235552b6499b9b	しつれい いたします!\p
+245dcbb9108fd9e7	さんか できる ポケモンが 2ひき いません。\p
+afb0ca5bb193f79b	ちがう しゅるいで レベル50いかの\n
+07784b310cb5350d	ポケモンが 2ひき ひつようです。\p
+10425d8b0021771c	また もたせる どうぐも\n
+851ba8aa668848f2	ちがう しゅるいに してください。\p
+87dee5eb21f3fb0d	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenMultis:
+0d9e4a76473eece3	しつれい いたします!\p
+e6b9392a6d0c4f4e	さんか できる ポケモンが 2ひき いません。\p
+b181b44ab1a67a36	ちがう しゅるいの ポケモンが\n
+f295d2fe1e856f6b	2ひき ひつようです。\p
+764c615cac104be8	また もたせる どうぐも\n
+4ead4c85beba284f	ちがう しゅるいに してください。\p
+9188f22339410655	タマゴ{STR_VAR_1}。$
+## BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle:
+33734a289e702e96	トレーナーの さいのうが\n
+ea29371a2c5da16c	ためされる ばしょ!\p
+7b922ac0176fd023	バトルタワーへ ようこそ!\p
+d2b36ae87eef4b19	わたしは シングルバトルルームの\n
+484c0b37f7837979	あんないを しております。$
+## BattleFrontier_BattleTowerLobby_Text_TakeSinglesChallenge:
+b9a869e42753f804	シングルバトルルームに\n
+3282cbe1c92e0c89	ちょうせん しますか?$
+## BattleFrontier_BattleTowerLobby_Text_ExplainSinglesChallenge:
+e2505d4ec5aad6b8	バトルタワーの シングルバトルルームは\n
+c5b49a5e97e210bf	ポケモン 3びきで シングルバトルを\l
+961ecf0ea38891b3	おこなう しせつ です。\p
+32bb51505c6edec1	バトルタワーには チームで たたかう\n
+8b74a50012b7e661	シングルバトルルームが たくさん あります。\p
+38636600c2373707	それぞれの シングルバトルルームでは\n
+aafb522acb8e936a	7にんの トレーナーが まっています。\p
+66b503efc93b7f6a	7にん すべてに かつことが できれば\n
+0927bdc432acc6a1	バトルポイントが もらえます。\p
+5d68f6cc873b8b9f	ちょうせんを ちゅうだん するときは\n
+eb4d55b7946fec03	レポートを かいて ください。\p
+ef07e0571f988342	レポートを かかずに ちゅうだんすると\n
+230e7d262172d6df	しっかく と なります。$
+## BattleFrontier_BattleTowerLobby_Text_SelectThreeMons:
+53c772b1de3488e1	では さんか させる ポケモンを\n
+e270ad33ad787c6b	3びき えらんで ください。$
+## BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle:
+fd939545522cfaee	トレーナーの さいのうが\n
+f56eff625bd2d8bb	ためされる ばしょ!\p
+81c101d65077b363	バトルタワーへ ようこそ!\p
+f834b3dc9193df37	わたしは ダブルバトルルームの\n
+53bcab356f869d08	あんないを しております。$
+## BattleFrontier_BattleTowerLobby_Text_TakeDoublesChallenge:
+560a4d9c05560c6c	ダブルバトルルームに\n
+af0b58be639383d1	ちょうせん しますか?$
+## BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge:
+433fef950ecb8631	バトルタワーの ダブルバトルルームは\n
+0e41e088c7d995d3	ポケモン 4ひきで ダブルバトルを\l
+f04060ce0621e6fd	おこなう しせつ です。\p
+9a41881381ce4b2d	バトルタワーには チームで たたかう\n
+0634e0af7cc10ea0	ダブルバトルルームが たくさん あります。\p
+efc0eb8e768fe7bf	それぞれの ダブルバトルルームでは\n
+32a549414711503d	7にんの トレーナーが まっています。\p
+fb9f25e54011138a	7にん すべてに かつことが できれば\n
+9995f8d5f077af7d	バトルポイントが もらえます。\p
+0413d590e672fecc	ちょうせんを ちゅうだん するときは\n
+3a86f74d6d791d93	レポートを かいて ください。\p
+a1dbebabc157d278	レポートを かかずに ちゅうだんすると\n
+0e7d1c707584f0f5	しっかく と なります。$
+## BattleFrontier_BattleTowerLobby_Text_PleaseSelectFourMons:
+25524153d6866300	では さんか させる ポケモンを\n
+6bc3203467a4f6a6	4ひき えらんで ください。$
+## BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle:
+0e54ca3f81ba02fc	トレーナーの さいのうが\n
+0cf0607d00dffbee	ためされる ばしょ!\p
+912e384d3aac5dc7	バトルタワーへ ようこそ!\p
+d03e06e5fe50856b	わたしは マルチバトルルームの\n
+0d70e45af9591d9c	あんないを しております。$
+## BattleFrontier_BattleTowerLobby_Text_TakeMultisChallenge:
+362656b6dcffbbf0	マルチバトルルームに\n
+df03d6a4fbe94bb1	ちょうせん しますか?$
+## BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge:
+5fdb7bd1ca7690cc	バトルタワーの マルチバトルルームは\n
+62baf3feb2f38d5a	マルチバトルを おこなう\l
+2dc1883685b8f03d	しせつ です。\p
+5ae373b4974a4cb2	マルチバトルでは タワーにいる\n
+2c8ec350df2ff093	トレーナーと くみ それぞれ\l
+1a3218233d3473da	ポケモン 2ひきで さんか します。\p
+54a7adc7f028b4ce	タワーの なかには ほかの\n
+0789f63458d88dc3	トレーナーと であえる\l
+e86cf05445ccc0fe	バトルサロンという へやが あります。\p
+947145e3fde46d01	そこで マルチバトルの パートナーと\n
+7330f7820d9b478f	なる トレーナーを みつけて ください。\p
+89bacc8f40f5f874	パートナーが きまったら\n
+a48c49eaffeb9bc0	マルチバトルルームへ ごあんない します。\p
+0b48e70c3755f240	マルチバトルルームでは 7くみの\n
+b9f8f77129d38e9a	タッグチームが まっています。\p
+2540eef0d86ebb6a	7くみ すべてに かつことが できれば\n
+3d184b07d979021e	バトルポイントが もらえます。\p
+527bd7d50a54d117	ちょうせんを ちゅうだん するときは\n
+2d6e6db931353dfc	レポートを かいて ください。\p
+364461f472876f01	レポートを かかずに ちゅうだんすると\n
+3cae21f84ee47d4e	しっかく と なります。$
+## BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons:
+10abfa371cbbd55c	では さんか させる ポケモンを\n
+dafdcfd7b996605d	2ひき えらんで ください。$
+## BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle:
+2fa00f919fb07c89	トレーナーの さいのうが\n
+6a0313a21ae7c895	ためされる ばしょ!\p
+3ea28e6d96a90645	バトルタワーへ ようこそ!\p
+6ba47b37b0a1ac7d	わたしは リンクマルチバトルルームの\n
+06471b1af798c9f6	あんないを しております。$
+## BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge:
+19841bf402a1fad5	リンクマルチバトルルームに\n
+a5bbaeaee70ffd0f	ちょうせん しますか?$
+## BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge:
+ca860839230d4ed4	バトルタワーの マルチバトルルームは\n
+f759a6db4179f99d	ともだちと マルチバトルを\l
+55958497a8dd5538	おこなう しせつ です。\p
+52e8800d7235d413	ともだちと ワイヤレスアダプタか\n
+f9f6d0ac9417b3ad	ゲームボーイアドバンス せんようの\l
+2f7c3f857b3b0369	つうしんケーブルで つないでください。\p
+e68d885d3e5baca2	ともだちと くみ ちがう しゅるいの\n
+0b4cccbb6c5fb205	ポケモンを 2ひきずつ さんか させます。\p
+1194cd6a950d5f41	バトルタワーには チームで たたかう\n
+3dbec7a918ed796a	マルチバトルルームが たくさん あります。\p
+a7deeab8b0f449b4	マルチバトルルームでは 7くみの\n
+dc489cceba30a412	タッグチームが あなたと ともだちの\l
+52839d7fa2b176cc	タッグの ちょうせんを まっています。\p
+1a153be8ba57f325	7くみ すべてに かつことが できれば\n
+e3d5370852601ffd	バトルポイントが もらえます。\p
+e7034297fe377bcc	ほかの ルームとは ちがい\n
+28ef535dad004efc	ちょうせんの ちゅうだんは できません。\p
+e5b8e6f7719cb3cb	はじめたら 7かいの マルチバトルを\n
+bda944f6e3f637b3	やすまずに つづけて たたかいます。$
+## BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2:
+8a2df7d43199c7d6	では さんか させる ポケモンを\n
+a825dda5ec8bb292	2ひき えらんで ください。$
+## BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend:
+8edda46ebbe7ddd2	ともだちと おなじ しゅるいの\n
+b17364c014dc323a	ポケモンを えらんでいます。\p
+2182cf074cd57da0	ともだちと ちがう ポケモンを 2ひき\n
+09b7a4736de6bd6f	えらび さんかする レベルを あわせて\l
+54db68844fc59b85	もういちど うけつけ してください。$
+## BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers:
+c6beab37c96f538f	リンクマルチバトルルームは\n
+43614a9005be8b50	つうしんした 2にん だけで ちょうせん できます。$
+## BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMon:
+8dead8ee54c9fc46	ともだちも ポケモン\n
+9a3d062a4b61923a	{STR_VAR_1}を えらんでいます。$
+## BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMons:
+80158c83b17ffd7e	ともだちも えらんでいるのは\n
+39f26e854c0ad651	{STR_VAR_1}と {STR_VAR_2}です。$
+## BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlMode:
+4071398e41b29ac3	ともだちは ちがう\n
+e463d24da88cbd59	バトルレベルを えらんでいます。$
+## BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMon:
+3a0db7d315b9d75a	ともだちは ちがう\n
+3e5a857e30fd9ee8	バトルレベルを えらんでいます。\p
+263f467e4c70972e	ともだちも ポケモン\n
+f062f1f1febd9401	{STR_VAR_1}を えらんでいます。$
+## BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMons:
+bfc0d02cd6eab8d0	ともだちは ちがう\n
+8c6a372224f52b8c	バトルレベルを えらんでいます。\p
+8ce77bd0e13a8a03	ともだちも えらんでいるのは\n
+6b6b7f027bcfb53a	{STR_VAR_1}と {STR_VAR_2}です。$
+## BattleFrontier_BattleTowerLobby_Text_ChooseDifferentMonsMatchLvlMode:
+1d475aade89262e9	ともだちと ちがう ポケモンを 2ひき\n
+2c6d67dfe39f0358	えらび さんかする レベルを あわせて\l
+58acc7debc18b463	もういちど うけつけ してください。$
+## BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn:
+1f66ba47f2e95ee6	ごあんない するまえに レポートを\n
+5aac152f0ddbda0a	かきます。 おまち ください。$
+## BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden:
+fbc2154c13c030a2	おめでとう ございます!\n
+1168c881fa13570a	サロンメイデンを たおし\l
+1168605b2f06cbc5	7にんの トレーナーに かちぬきました!$
+## BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
+c6c1a07c1513e3c1	あなたの かぎりない さいのうを たたえ\n
+d348a31fbc0ec5e7	バトルポイントを さしあげます。$
+## BattleFrontier_Text_ObtainedXBattlePoints:
+a6622ea17a02ee8f	{PLAYER}は\n{STR_VAR_1}バトルポイントを もらった!$
+## BattleFrontier_BattleTowerLobby_Text_RulesAreListed:
+c70adb334e991a58	バトルタワーの ルールが かいてある。$
+## BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading:
+af032a305e67b160	どの せつめいを よみますか?$
+## BattleFrontier_BattleTowerLobby_Text_ExplainTowerRules:
+07c111b9e8cc5243	バトルタワーは 4しゅるいの バトルを\n
+5dd797916ebd66bf	おこなう しせつ です。\l
+8339c79f6a187bca	シングルバトル ダブルバトル\l
+0dd089c12d6a44c0	マルチバトル リンクマルチバトルです。\p
+9228413834a9fc5a	それぞれの しゅるいごとに\n
+c5113453cc78f3da	べつべつの バトルルームが あります。\p
+a1f1f695becbbc0b	さんか したい バトルの\n
+e6332d5f6b1e8c50	あんないがかりに はなしかけて ください。$
+## BattleFrontier_BattleTowerLobby_Text_ExplainMonRules:
+5b8ee7e15e25e830	はいる バトルルームに よって\n
+a1a3d936328db836	つれていく ポケモンの\l
+a25eb80ba358b7c8	かずが きまっています。\p
+9eaca75223858564	シングルバトルでは\n
+827451440f583fe0	ポケモンが 3びき ひつようです。\p
+aaa1c028eb4979fb	ダブルバトルでは 4ひき\n
+dfcbfdd528b5b5d4	マルチは どちらも 2ひき ひつようです。$
+## BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules:
+1a4bfb81824b6c3f	バトルサロンは マルチバトルルームに\n
+17af4ec08d35b6b6	ちょうせん するための タッグを\l
+2ddcfb7fd5085869	くむ パートナーを さがす ばしょです。\p
+9d754d909a2f7281	ほかの トレーナーの ポケモンや\n
+406b0b103cec9a0a	わざを よく みて\l
+94f1d87ef99e4b6a	さいこうの パートナーを えらびましょう。\p
+b77f48a74f6edc3f	7れんしょう すると あたらしい\n
+cf598012cdc7c339	パートナーを えらぶことが できます。$
+## BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules:
+40cf551349aae3bb	リンクマルチバトルは ともだち\n
+63d7f1969ee531fa	2にんで いっしょに ちょうせん します。\p
+4505c0abd5e81853	ともだちと ワイヤレスアダプタか\n
+972d2fb0e1f72222	GBA せんようの つうしんケーブルで\l
+2d890fa704c40821	つないで ください。\p
+fe53f590304ae166	うけつけで ポケモンを\n
+22ea06fbdb657293	2ひき えらんで ください。\p
+39c17a29fdf0c100	ともだちの ポケモンとは\n
+8207ba6c37d2e6a7	ちがう ポケモンに してください。\p
+6971a81c75936a5b	ほかの モードとは ちがい\n
+16f51e7fd71723bf	とちゅうで ちゅうだん できません。$
+##### data/maps/BattleFrontier_BattleTowerMultiBattleRoom/scripts.inc
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor2ndOpponentSet:
+4459f5421a81d04d	つぎは 2くみめの あいてです。\n
+226c68ff0e82b580	じゅんびは よろしいですか?$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor3rdOpponentSet:
+98b5f8eaf12d06d1	つぎは 3くみめの あいてです。\n
+5fe448fbe635e72a	じゅんびは よろしいですか?$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor4thOpponentSet:
+f5ed5ffeb43cd887	つぎは 4くみめの あいてです。\n
+95b92a4a5cb4e0f0	じゅんびは よろしいですか?$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor5thOpponentSet:
+85bcb25f7e46dd8b	つぎは 5くみめの あいてです。\n
+90aa830e8f6ffc0c	じゅんびは よろしいですか?$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor6thOpponentSet:
+2c670ae096cd03da	つぎは 6くみめの あいてです。\n
+cbb9348e588ca74a	じゅんびは よろしいですか?$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet:
+f77bd83f11f212b9	つぎは 7くみめの あいてです。\n
+502ecca3ac932f19	じゅんびは よろしいですか?$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext:
+106656be8d47cf86	つぎは 2くみめの あいてです。\n
+440f9bdf2e52c93c	がんばってください!$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_3rdOpponentSetNext:
+117a99517e4fbe68	つぎは 3くみめの あいてです。\n
+650ecafc64c3f79c	がんばってください!$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_4thOpponentSetNext:
+fcae3086252423da	つぎは 4くみめの あいてです。\n
+42ba3c5ecbe86a2f	がんばってください!$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_5thOpponentSetNext:
+a55fa5877aa5325b	つぎは 5くみめの あいてです。\n
+b6bbf8f0b4732678	がんばってください!$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_6thOpponentSetNext:
+1979d54f6658d987	つぎは 6くみめの あいてです。\n
+60847914f413b729	がんばってください!$
+## BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext:
+ee320e8313e5e893	つぎは 7くみめの あいてです。\n
+cba5928c858b8735	がんばってください!$
+## gText_LinkStandby3::
+2fdd9ac790da0588	つうしん まちです…$
+## gText_YourPartnerHasRetired::
+2afd6373aa859981	パートナーが リタイアしました。\p
+f4da926a5d1c8658	バトルルームの ちょうせんは\n
+eb44de0ae42f044d	ちゅうしと なります。$

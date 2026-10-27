@@ -6,95 +6,95 @@ SevenIsland_SevaultCanyon_Entrance_EventScript_RouteSign::
 	end
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahIntro::
-	.string "Kyahaha!\n"
-	.string "I'll flick you away effortlessly!$"
+	.string "{JPN}キャハハ!\n"
+	.string "かるーく ひねって あげる!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahDefeat::
-	.string "Tch!\n"
-	.string "Too strong for me!$"
+	.string "{JPN}ちっ!\n"
+	.string "つよすぎる!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahPostBattle::
-	.string "What's that?\n"
-	.string "I don't act the way I look?\p"
-	.string "Heh, that's a part of my strategy!$"
+	.string "{JPN}なに?\n"
+	.string "みためと ちがう?\p"
+	.string "ふふん それも さくせんの うちよ!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonIntro::
-	.string "Howdy!\n"
-	.string "Are you a member of my fan club?$"
+	.string "{JPN}ハーイ!\n"
+	.string "ぼくの ファンクラブの メンバーかい?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
-	.string "Oh, so you're not a fan…\p"
-	.string "Well, I can change that.\n"
-	.string "Let me sing for you!$"
+	.string "{JPN}なんだ ファンじゃ ないのか…\p"
+	.string "じゃあ ファンに してあげよう。\n"
+	.string "うたを きかせて あげる!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
-	.string "Lalalah…\n"
-	.string "My POKéMON, I send them out,\l"
-	.string "all the girls scream and shout!$"
+	.string "{JPN}ラララ…\n"
+	.string "ポケモン くりだせば\l"
+	.string "おんなのこ みんな キャーキャー!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
-	.string "This island is too spread out…\n"
-	.string "It's not easy patrolling the place.$"
+	.string "{JPN}この しまは ひろすぎる…\n"
+	.string "パトロールも らくじゃ ない。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
-	.string "Uh-huh…$"
+	.string "{JPN}うーん…$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattle::
-	.string "TRAINERS like you from cities,\n"
-	.string "they sure are tough.\p"
-	.string "You'll be headed for the TOWER,\n"
-	.string "won't you?$"
+	.string "{JPN}まちから きた トレーナーは\n"
+	.string "ほんとに つよいな。\p"
+	.string "タワーに いくんだろう?\n"
+	.string "ちがうかい?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineIntro::
-	.string "I punish people who abuse\n"
-	.string "POKéMON!$"
+	.string "{JPN}ポケモンを いじめる ひとは\n"
+	.string "おしおき です!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeat::
-	.string "You don't seem to be a problem\n"
-	.string "TRAINER.$"
+	.string "{JPN}あなたは もんだいの ある\n"
+	.string "トレーナーじゃ ないみたいね。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattle::
-	.string "If you treat your POKéMON with\n"
-	.string "kindness, they'll understand.$"
+	.string "{JPN}ポケモンに やさしく すれば\n"
+	.string "ポケモンも わかってくれるわ。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveIntro::
-	.string "EVE: I'll team up with JON and\n"
-	.string "battle together.$"
+	.string "{JPN}イブ: ジョンと くんで\n"
+	.string "いっしょに たたかうの。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveDefeat::
-	.string "EVE: Me and JON, we lost.\n"
-	.string "Ehehe.$"
+	.string "{JPN}イブ: わたしと ジョン まけちゃった。\n"
+	.string "えへへ。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
-	.string "EVE: I'm going to work harder with\n"
-	.string "JON.$"
+	.string "{JPN}イブ: ジョンと もっと\n"
+	.string "がんばるね。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
-	.string "EVE: I want to team up with JON\n"
-	.string "when I battle you.\p"
-	.string "Come back with two POKéMON, okay?$"
+	.string "{JPN}イブ: ジョンと くんで\n"
+	.string "あなたと たたかいたいの。\p"
+	.string "ポケモン 2ひき つれて きてね?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonIntro::
-	.string "JON: When I'm with EVE, it feels\n"
-	.string "like we could never lose.$"
+	.string "{JPN}ジョン: イブと いっしょだと\n"
+	.string "ぜったい まけない きが するんだ。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonDefeat::
-	.string "JON: When I'm with EVE,\n"
-	.string "it doesn't feel like I've lost!$"
+	.string "{JPN}ジョン: イブと いっしょだと\n"
+	.string "まけた きが しない!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattle::
-	.string "JON: When I'm with EVE, I feel\n"
-	.string "giddy whether I win or lose.\p"
-	.string "It's magical!$"
+	.string "{JPN}ジョン: イブと いっしょだと\n"
+	.string "かっても まけても ウキウキするんだ。\p"
+	.string "ふしぎだね!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMons::
-	.string "JON: If it's with EVE, I'll be\n"
-	.string "happy to battle with you.\p"
-	.string "So, I'd like to make it a\n"
-	.string "two-on-two battle, if I may.$"
+	.string "{JPN}ジョン: イブと いっしょなら\n"
+	.string "よろこんで たたかうよ。\p"
+	.string "だから できれば\n"
+	.string "2たい2の バトルに したいな。$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_RouteSign::
-	.string "SEVAULT CANYON ENTRANCE\p"
-	.string "TRAINERS are asked to refrain from\n"
-	.string "damaging plants in the CANYON.$"
+	.string "{JPN}トレーナーズけいこく いりぐち\p"
+	.string "トレーナーの みなさんは けいこくの\n"
+	.string "しょくぶつを いためないで ください。$"
 

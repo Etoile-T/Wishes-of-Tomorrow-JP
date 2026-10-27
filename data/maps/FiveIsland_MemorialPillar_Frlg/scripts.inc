@@ -82,101 +82,101 @@ FiveIsland_MemorialPillar_EventScript_MemorialLemonadeAlreadyPlaced::
 	end
 
 FiveIsland_MemorialPillar_Text_MiloIntro::
-	.string "I'm the eldest of the BIRD\n"
-	.string "BROTHERS.\p"
-	.string "The best thing about birds…\n"
-	.string "It has to be the beak.$"
+	.string "{JPN}ぼくは とり きょうだいの\n"
+	.string "ちょうなん!\p"
+	.string "とりの いちばんの みりょく…\n"
+	.string "それは くちばしだ!$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
-	.string "Oh, so sharp!$"
+	.string "{JPN}うわ するどい!$"
 
 FiveIsland_MemorialPillar_Text_MiloPostBattle::
-	.string "You can fly to FOUR ISLAND from\n"
-	.string "here.$"
+	.string "{JPN}ここから 4のしまへ\n"
+	.string "そらを とんで いけるよ。$"
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
-	.string "I'm the middle kid of the BIRD\n"
-	.string "BROTHERS.\p"
-	.string "The best thing about birds…\n"
-	.string "It has to be the wings.$"
+	.string "{JPN}ぼくは とり きょうだいの\n"
+	.string "まんなか!\p"
+	.string "とりの いちばんの みりょく…\n"
+	.string "それは つばさだ!$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
-	.string "Flap, flap!$"
+	.string "{JPN}パタパタ!$"
 
 FiveIsland_MemorialPillar_Text_ChazPostBattle::
-	.string "There was a really somber guy\n"
-	.string "over that way.$"
+	.string "{JPN}あっちに すごく しずんだ かおの\n"
+	.string "ひとが いたよ。$"
 
 FiveIsland_MemorialPillar_Text_HaroldIntro::
-	.string "I'm the youngest of the BIRD\n"
-	.string "BROTHERS.\p"
-	.string "The best thing about birds…\n"
-	.string "It has to be the down.$"
+	.string "{JPN}ぼくは とり きょうだいの\n"
+	.string "すえっこ!\p"
+	.string "とりの いちばんの みりょく…\n"
+	.string "それは うもうだ!$"
 
 FiveIsland_MemorialPillar_Text_HaroldDefeat::
-	.string "Down is so comfy…\n"
-	.string "It makes me drowsy…$"
+	.string "{JPN}うもうって ふかふか…\n"
+	.string "ねむく なっちゃう…$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
-	.string "It fills me with happiness when\n"
-	.string "bird POKéMON beg playfully…$"
+	.string "{JPN}とりポケモンが あまえて くると\n"
+	.string "しあわせな きもちに なるんだ…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
-	.string "Scrub, scrub…$"
+	.string "{JPN}ゴシゴシ…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
-	.string "Hello…\n"
-	.string "Your POKéMON look healthy…$"
+	.string "{JPN}こんにちは…\n"
+	.string "あなたの ポケモン げんきそうですね…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
-	.string "This is where I buried my ONIX…\n"
-	.string "It was named TECTONIX…$"
+	.string "{JPN}ここに わたしの イワークを うめたんです…\n"
+	.string "テクトニクスと いう なまえでした…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-	.string "“Here lies TECTONIX” is engraved\n"
-	.string "on a boulder.\p"
-	.string "There is a LEMONADE placed as an\n"
-	.string "offering in front of the grave.$"
+	.string "{JPN}いわに「テクトニクス ここに ねむる」と\n"
+	.string "きざまれている。\p"
+	.string "はかの まえには ミックスオレが\n"
+	.string "そなえられている。$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
-	.string "Would you like to leave another\n"
-	.string "LEMONADE as an offering?$"
+	.string "{JPN}ミックスオレを もうひとつ\n"
+	.string "そなえますか?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-	.string "{PLAYER} placed a can of LEMONADE\n"
-	.string "in front of the grave.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ミックスオレを\n"
+	.string "はかの まえに そなえた。$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
-	.string "Th-thank you…\p"
-	.string "That was my TECTONIX's favorite\n"
-	.string "drink…\p"
-	.string "I don't even know you, but your\n"
-	.string "act of kindness…\p"
-	.string "It's uplifted me a little.\p"
-	.string "Can you please take this as my\n"
-	.string "thanks?$"
+	.string "{JPN}あ ありがとう…\p"
+	.string "それは テクトニクスの だいすきな\n"
+	.string "のみもの でした…\p"
+	.string "みしらぬ かたなのに あなたの\n"
+	.string "やさしい おこないに…\p"
+	.string "すこし げんきが でました。\p"
+	.string "おれいに これを うけとって\n"
+	.string "くれませんか?$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-	.string "Please be good to your POKéMON,\n"
-	.string "too.$"
+	.string "{JPN}あなたも ポケモンを\n"
+	.string "たいせつに してあげてください。$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
-	.string "If you don't have room for it,\n"
-	.string "I'll hold it for you till next time.$"
+	.string "{JPN}もちきれないなら\n"
+	.string "つぎまで あずかって おきますね。$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
-	.string "Oh, it's you from that time…\p"
-	.string "I still have that thing I wanted\n"
-	.string "you to have as my thanks.$"
+	.string "{JPN}ああ あのときの…\p"
+	.string "おれいに あげたかった ものを\n"
+	.string "まだ もっていますよ。$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
-	.string "Scrub, scrub…\p"
+	.string "{JPN}ゴシゴシ…\p"
 	.string "… … …\n"
-	.string "TECTONIX…$"
+	.string "テクトニクス…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
-	.string "Boulders and rocks are neatly piled\n"
-	.string "up as a cairn.\p"
-	.string "“Here lies TECTONIX” is engraved\n"
-	.string "on a boulder.$"
+	.string "{JPN}いわや いしが きれいに\n"
+	.string "つみあげられて いる。\p"
+	.string "いわに「テクトニクス ここに ねむる」と\n"
+	.string "きざまれている。$"
 

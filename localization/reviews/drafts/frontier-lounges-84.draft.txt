@@ -1,0 +1,1190 @@
+##### data/maps/BattleFrontier_Lounge1/scripts.inc
+## BattleFrontier_Lounge1_Text_PokemonBreederIntro:
+d462e70381862f46	わしは 70ねん ポケモンを そだててきた!\n
+99bb38ecc117bc47	みなに あがめられる\l
+b2249c37e9b7bf18	でんせつの トップ ポケモンブリーダー じゃ!\p
+7c0ca94db21f9b89	わしほど けいけんを つめば\n
+71225dac575b2f2d	ポケモンの のうりょくなど\l
+bc3b4ccff783239b	ひとめで わかる ように なるぞ。\p
+ff9127ac538c6c9b	おまえさんも トレーナーじゃろう。\n
+2a414f8051d0634a	じぶんの ポケモンの のうりょくに\l
+3f58db63a5bbaedc	きょうみは ないかね?\p
+2cbdc8a7a62b9106	ほれ!\n
+0999457a0089d7e6	おまえさんの ポケモンを みせてみい!$
+## BattleFrontier_Lounge1_Text_AverageAbility:
+8c727fd93f9f55c3	…… んー\p
+485644f5d59367f4	こいつは ぜんたいてきに いうと\n
+5093a671db48472a	へいきんてきな のうりょく じゃな。$
+## BattleFrontier_Lounge1_Text_BetterThanAverageAbility:
+83ee885bd7de4693	…… んー\p
+b228cd0a2447d09d	こいつは ぜんたいてきに いうと\n
+55816759db72c51a	へいきんいじょうの のうりょく じゃな。$
+## BattleFrontier_Lounge1_Text_ImpressiveAbility:
+826d4e13ecea61ed	…… んー\p
+508407171c5f4f95	こいつは ぜんたいてきに いうと\n
+295cbba26f321910	なかなかの のうりょく じゃな!$
+## BattleFrontier_Lounge1_Text_OutstandingAbility:
+#REF	…… んー\p
+c48bd37f67b162ea	…… んー\p
+#REF	こいつは ぜんたいてきに いうと\n
+8bf7ea473cb0be4e	こいつは ぜんたいてきに いうと\n
+#REF	すばらしい のうりょく じゃな!$
+c0bc95ce659107ed	すばらしい のうりょく じゃな!$
+## BattleFrontier_Lounge1_Text_BestAspectHP:
+#REF	ちなみに いちばん いいかんじ なのは\n
+04b3c7acea7aa93b	ちなみに いちばん いいかんじ なのは\n
+#REF	HP かの……$
+f402f240e128482a	HP かの……$
+## BattleFrontier_Lounge1_Text_BestAspectAtk:
+#REF	ちなみに いちばん いいかんじ なのは\n
+d3def71dd0288744	ちなみに いちばん いいかんじ なのは\n
+#REF	こうげき かの……$
+ad68f016a72e57f5	こうげき かの……$
+## BattleFrontier_Lounge1_Text_BestAspectDef:
+#REF	ちなみに いちばん いいかんじ なのは\n
+00a076900481de0a	ちなみに いちばん いいかんじ なのは\n
+#REF	ぼうぎょ かの……$
+8ccea452f0e8f3e6	ぼうぎょ かの……$
+## BattleFrontier_Lounge1_Text_BestAspectSpAtk:
+#REF	ちなみに いちばん いいかんじ なのは\n
+90321dabbad1ac62	ちなみに いちばん いいかんじ なのは\n
+#REF	とくこう かの……$
+f3b9881cc843cbfa	とくこう かの……$
+## BattleFrontier_Lounge1_Text_BestAspectSpDef:
+#REF	ちなみに いちばん いいかんじ なのは\n
+4f91ef8bfa42ab17	ちなみに いちばん いいかんじ なのは\n
+#REF	とくぼう かの……$
+a59c43512d57131f	とくぼう かの……$
+## BattleFrontier_Lounge1_Text_BestAspectSpeed:
+#REF	ちなみに いちばん いいかんじ なのは\n
+c17f6386e2673417	ちなみに いちばん いいかんじ なのは\n
+#REF	すばやさ かの……$
+8aca5a2e10610c29	すばやさ かの……$
+## BattleFrontier_Lounge1_Text_StatRelativelyGood:
+#REF	まあまあの のうりょくを もっとるぞ……\n
+49a9f555a12a2130	まあまあの のうりょくを もっとるぞ……\n
+#REF	……ふむ…… そんな かんじ かのう!$
+1cb2662b3b76ce48	……ふむ…… そんな かんじ かのう!$
+## BattleFrontier_Lounge1_Text_StatImpressive:
+#REF	かなりの ちからを もっとるな!\n
+a5d2fad3f45bbe68	かなりの ちからを もっとるな!\n
+#REF	……ふむ…… そんな かんじ かのう!$
+41ef479b903fcaf9	……ふむ…… そんな かんじ かのう!$
+## BattleFrontier_Lounge1_Text_StatOutstanding:
+#REF	すばらしい ちからを もっとる!\n
+80ef1b82fb45da7d	すばらしい ちからを もっとる!\n
+#REF	……ふむ…… そんな かんじ かのう!$
+bb6689d10de8ed0c	……ふむ…… そんな かんじ かのう!$
+## BattleFrontier_Lounge1_Text_StatFlawless:
+#REF	ばっちりっ! ぱーふぇくと じゃ!\n
+4376e842558ff21e	ばっちりっ! ぱーふぇくと じゃ!\n
+#REF	……ふむ…… そんな かんじ かのう!$
+4644d02f9cb757ee	……ふむ…… そんな かんじ かのう!$
+## BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
+#REF	なんじゃい!\n
+045b3856b43742bc	なんじゃい!\n
+#REF	わしの あどばいすは いらんと いうのか!\p
+2336b0d09caa2840	わしの あどばいすは いらんと いうのか!\p
+#REF	じんせいの せんぱいの おしえは\n
+e2313e7082003ba2	じんせいの せんぱいの おしえは\n
+#REF	だまって きく もんじゃぞ!!$
+8712e5813ff69620	だまって きく もんじゃぞ!!$
+## BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
+#REF	{JPN}なんじゃー?\p
+c0eb8928473ae3a7	なんじゃー?\p
+#REF	わしも いろいろ いそがしい からのう!\n
+936f5af51f3958c2	わしも いろいろ いそがしい からのう!\n
+#REF	また こんどに せい!$
+4441250f5e46006a	また こんどに せい!$
+## BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
+#REF	おお! わかいの!\n
+b21c0c5830923df0	おお! わかいの!\n
+#REF	ポケモンの のうりょくが きになるんか?\p
+a7123a9f0785c978	ポケモンの のうりょくが きになるんか?\p
+#REF	ほれほれ!\n
+b5098289192d1618	ほれほれ!\n
+#REF	わしに ポケモンを みせて みい!$
+19872b8dfceb3dc4	わしに ポケモンを みせて みい!$
+## BattleFrontier_Lounge1_Text_EvenICantTell:
+e3ec1c5d89e8eb6b	わしほどの めききでも うまれる まえの\n
+3a5ad0038fae6de6	ポケモンの ことは わからんわい!\p
+ae32250ead291a2c	ポケモンを みせて くれ!\n
+1b99943d24298277	わしが みたいのは ポケモンじゃ!$
+## BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
+#REF	ぼくの ポケモン すばらしいって!\n
+ec56a16872c1db15	ぼくの ポケモン すばらしいって!\n
+#REF	だいじに そだてて きてよかった!$
+a213d19dee8cc8c1	だいじに そだてて きてよかった!$
+## BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
+769a57f4379ceda4	ポケモン すばらしいって いわれた!\n
+ac2173e108695b6a	でも そだてるとき とくべつなことは\l
+49aa249011a7edb3	なにも してないん だけど……$
+##### data/maps/BattleFrontier_Lounge2/scripts.inc
+## BattleFrontier_Lounge2_Text_FrontierManiacIntro::
+607a60ef60a2eabf	やあ! バトルフロンティアの\n
+99e64db7132e087d	じょうほうなら ぼくが いちばんさ!\p
+caf9c9f2fab477e7	ぼくの ことは\n
+1692825e0f82d46c	フロンティアマニアと よんでくれ!\p
+9c612c088cf62133	ねんのため きくけど きみは\n
+a242056758d9b23a	トレーナー だよね?\p
+1a8932ce77aea0bb	ぼくが あつめた バトルフロンティアの\n
+26af12293b51c29d	とっておきの じょうほうを おしえるよ!$
+## BattleFrontier_Lounge2_Text_SwingByForTheLatestWord::
+#REF	やあやあ また ぼくの じょうほうを\n
+a586e026fa82818e	やあやあ また ぼくの じょうほうを\n
+#REF	ききに きたんだね! しかたないなー!$
+dc3d8edd1074ac96	ききに きたんだね! しかたないなー!$
+## BattleFrontier_Lounge2_Text_MyInformationsBeenUsefulRight::
+#REF	{JPN}どう? どう? どう?\p
+4c843275f80d08dd	どう? どう? どう?\p
+#REF	ぼくの じょうほうは もちろん\n
+a61f0cdf751c5348	ぼくの じょうほうは もちろん\n
+#REF	すごーく さんこうに なってるだろ?$
+8b77d60240b8308b	すごーく さんこうに なってるだろ?$
+## BattleFrontier_Lounge2_Text_FacilityIsHottest::
+#REF	そうだねぇ……\p
+5f358621a55ea46e	そうだねぇ……\p
+#REF	いまは {STR_VAR_1}が\n
+c4ad719ce32c30b5	いまは {STR_VAR_1}が\n
+#REF	アッつい みたいだね!$
+0423e8a9ce29ca19	アッつい みたいだね!$
+## BattleFrontier_Lounge2_Text_BattleTowerIsHottest::
+926e2c22fa49dcef	そうだねぇ……\p
+5be3984da9dfabb2	いまは バトルタワーの\n
+81bbf793b9a3a762	{STR_VAR_1}が アッつい みたいだね!$
+## BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
+11f99a92316837d2	これは しらなかったろう!\p
+ba95d869182d555e	エニシダさんが フロンティアブレーンと\n
+cd4f29f3b41422df	よぶ トップトレーナーが そこに いるんだ。\p
+1ee8f832ca8b6f78	そこを しきっているのは サロンメイデンと\n
+d3bd3f9e834a4919	よばれる なぞの トレーナーなんだ。$
+## BattleFrontier_Lounge2_Text_SalonMaidenSilverMons::
+dbe36e21bafe86fa	サロンメイデンとは たたかった?\p
+6620815affbd4afa	あいての じつりょくを はかるとき\n
+7e0c88d1bf3dbd57	かのじょは この ポケモンを つかうらしい。\p
+b4c50a05524fa3cc	エスパータイプの ねんりきポケモン\n
+a878ee75c2193827	ほのおタイプの かざんポケモン\l
+af1f9d40e3b1c8f0	そして ノーマルタイプの いねむりポケモン!$
+## BattleFrontier_Lounge2_Text_SalonMaidenGoldMons::
+796fc87c0054f5de	ほんきの サロンメイデンとは\n
+f89ba2af7d6ddb09	たたかった?\p
+610a115dc4c3212f	ぜんりょくで たたかうとき\n
+beb7edafbb781082	かのじょは この ポケモンを つかうらしい。\p
+f7c9c2a967082a7d	ドラゴンと エスパーの むげんポケモン\n
+beb4ac973bd16d93	でんきタイプの いかずちポケモン\l
+cd7193670edd77f8	そして ノーマルタイプの いねむりポケモン!$
+## BattleFrontier_Lounge2_Text_DomeAceIsThere::
+5c3f1127a57fb0a6	これは しらなかったろう!\p
+f4967d9535c62232	エニシダさんが フロンティアブレーンと\n
+f5f26ed72c9a603f	よぶ トップトレーナーが そこに いるんだ。\p
+bfc2ffdaa899336e	そこを しきっているのは ドームエースと\n
+c16142113144d901	よばれる はでな トレーナーなんだ。$
+## BattleFrontier_Lounge2_Text_DomeAceSilverMons::
+9f134be142fb3b6c	ドームエースとは たたかった?\p
+07717e11b097c38e	あいてを かるく あしらうとき\n
+deb0ea6c2bcb4b2e	かれは この 3びきを つかうんだ。\p
+b338ad3c05821e20	ドラゴンと ひこうの ドラゴンポケモン\n
+d01761d36f051b5c	みずと じめんの ぬまうおポケモン\l
+181ad7faf910a329	そして ほのおと ひこうの かえんポケモン!$
+## BattleFrontier_Lounge2_Text_DomeAceGoldMons::
+aa11e70fae5a921e	ほんきの ドームエースとは\n
+1c9b05620c79af0d	たたかった?\p
+76463bcdf6150f06	さくせんを みせつけるとき\n
+0e378f808644a8dc	かれは この 3びきを つかうんだ。\p
+120dbbccdc736f3a	ドラゴンと ひこうの むげんポケモン\n
+6a641e8951deae8c	みずと じめんの ぬまうおポケモン\l
+d839bbb2254faeed	そして はがねと エスパータイプの\l
+c5ce1e3a6684d437	てつあしポケモン!$
+## BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
+5d323587c748d7db	これは しらなかったろう!\p
+0e6848e21f2174d1	エニシダさんが フロンティアブレーンと\n
+987ad37bb88f02be	よぶ トップトレーナーが そこに いるんだ。\p
+704d4f90bb335896	そこを しきっているのは へんな\n
+e1740b87808b9696	ファクトリーヘッドと よばれる トレーナーさ。$
+## BattleFrontier_Lounge2_Text_FactoryHeadSilverMons::
+8afc9ac4fc3b887b	ファクトリーヘッドとは もう\n
+8107273b8efd1edc	たたかった?\p
+514988954434c351	えーと…… かれは たたかうとき\n
+4e4eaa654caa00bd	レンタルポケモンを 3びき もらうだけ。\p
+b1949523c27d655a	きみと ほとんど おなじ じょうけんで\n
+87e337184fc3058a	たたかって いるんだ。$
+## BattleFrontier_Lounge2_Text_FactoryHeadGoldMons::
+4a2abf825ab726e4	ほんきの ファクトリーヘッドとは\n
+0ce6bed8d16547d8	たたかった?\p
+d5aee9f835edb944	ほんきで たたかうときも\n
+2ef79e25b07af6b9	やっぱり レンタルポケモンを 3びき もらうんだ。\p
+76307d96782a3c02	きみと ほぼ まったく おなじ じょうけんで\n
+616d231a29e7bb25	たたかって いるんだ。$
+## BattleFrontier_Lounge2_Text_PikeQueenIsThere::
+612ca25a5d3d0d01	これは しらなかったろう!\p
+407ce74145b3eae0	エニシダさんが フロンティアブレーンと\n
+0e6ecfd39d76edf9	よぶ トップトレーナーが そこに いるんだ。\p
+b1fa54bc8675f44b	そこを しきっているのは こわい\n
+0741d53ae5db702c	チューブクイーンと よばれる トレーナーさ。$
+## BattleFrontier_Lounge2_Text_PikeQueenSilverMons::
+38175c307c509aad	チューブクイーンとは\n
+08ab37f91a91fb55	たたかったこと ある?\p
+4a49e4cb2b4cef03	きげんが いいとき かのじょは\n
+ab2e849a028f482f	この 3びきを つかうって はなしだ。\p
+5dec1e44d70acc24	どくタイプの きばへびポケモン\n
+6af10938afd04b4f	むしと いわの はっこうポケモン\l
+7c312f3764967955	そして みずタイプの いつくしみポケモン!$
+## BattleFrontier_Lounge2_Text_PikeQueenGoldMons::
+bb817384fb507380	ほんきの チューブクイーンとは\n
+12d4ce4ae0fa1a4a	たたかった?\p
+f5a14ba1977c0a5a	ほんきで おこったとき かのじょは\n
+d9778cd1e35489c7	この 3びきを つかうって はなしだ。\p
+12387c5d1f68a7d0	どくタイプの きばへびポケモン\n
+caa139d9fbe2d2c5	はがねと じめんの てつへびポケモン\l
+a6ca6223348b8be3	そして みずと ひこうタイプの\l
+7e7b9c1563aec0dc	きょうあくポケモン!$
+## BattleFrontier_Lounge2_Text_ArenaTycoonIsThere::
+85dd64fd34eafd9e	これは しらなかったろう!\p
+c1464b39104e6563	エニシダさんが フロンティアブレーンと\n
+c96ce4ab6ba9974b	よぶ トップトレーナーが そこに いるんだ。\p
+deb3cf2420e0e989	そこを しきっているのは かわいい\n
+e15be995381a595e	アリーナタイクーンと よばれる トレーナーさ。$
+## BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons::
+7c96a10e44a96e18	アリーナタイクーンとは\n
+ff6813af70187b69	たたかったこと ある?\p
+334a0982b270a155	あいての じつりょくを みきわめるとき\n
+268251b32fe86c7b	かのじょは この ポケモンを つかうらしい。\p
+5dbd154dbefb6d90	むしと かくとうの 1ぽんヅノポケモン\n
+f495614fae96043d	あくタイプの げっこうポケモン\l
+5d726b6f8c4d93b9	そして むしと ゴーストの ぬけがらポケモン!$
+## BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons::
+c9c938b71dfd7ca1	ほんきの アリーナタイクーンとは\n
+89544f51cf17c976	たたかった?\p
+6682b2e5e07f9f0d	ほんきで しょうぶするとき\n
+30fd36b231846dbf	かのじょは この ポケモンを つかうらしい。\p
+e2a2c401723f9de1	あくタイプの げっこうポケモン\n
+43c757e9f8acd76a	ゴーストと どくの シャドーポケモン\l
+1e2e0f2cd58db526	そして くさと かくとうタイプの\l
+e4a7c612d7bbce6d	きのこポケモン!$
+## BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
+af6bd3838277f579	これは しらなかったろう!\p
+670eb957fa650c3b	エニシダさんが フロンティアブレーンと\n
+18ffe7acc80ef87d	よぶ トップトレーナーが そこに いるんだ。\p
+9ba0049d0f8cdd6b	そこを しきっているのは あやしい\n
+3cb6e91e7e22fb4b	パレスガーディアンと よばれる トレーナーさ。$
+## BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
+771edf9d8804b824	パレスガーディアンとは\n
+228680f97c7261dc	たたかったこと ある?\p
+afd946b6ac03f696	あいての こころを ためすとき\n
+fde40612a636ee4e	かれは この ポケモンを つかうそうだ。\p
+36daf8189b84bdad	どくと ひこうタイプの こうもりポケモン\n
+e615af34bb3c43cb	ノーマルタイプの ものぐさポケモン\l
+5d4fcc78fc63b345	そして みずと こおりの のりものポケモン!$
+## BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
+464dc6902a0c3342	ほんきの パレスガーディアンとは\n
+17d00ab00fe0bd82	たたかった?\p
+abe3017588f9c125	ぜんりょくを こめて たたかうとき\n
+6d72a93702e1130a	かれは この ポケモンを つかうそうだ。\p
+206584e47551efbb	ほのおタイプの でんせつポケモン\n
+a3a57db1e160f0e7	ノーマルタイプの ものぐさポケモン\l
+1d454dc787244cdb	そして みずタイプの オーロラポケモン!$
+## BattleFrontier_Lounge2_Text_PyramidKingIsThere::
+f7eb6833ed316919	これは しらなかったろう!\p
+a1dfd6a683e98199	エニシダさんが フロンティアブレーンと\n
+e32b7f3444556b97	よぶ トップトレーナーが そこに いるんだ。\p
+80905c7dd8b66c10	そこを しきっているのは あつくるしい\n
+3905459741b3d843	ピラミッドキングと よばれる トレーナーさ。$
+## BattleFrontier_Lounge2_Text_PyramidKingSilverMons::
+ce7b43385448aa32	ピラミッドキングとは\n
+7b50c63140de1324	たたかったこと ある?\p
+e1cce1f6e5cb5521	あいての ちからを たしかめるとき\n
+0385c7526c8b974d	かれは この ポケモンを つかうらしい。\p
+4ac16d4ead7ebed7	いわタイプの いわやまポケモン\n
+382796cd2b72e4a5	こおりタイプの ひょうざんポケモン\l
+28543afef188afe9	そして はがねタイプの くろがねポケモン!$
+## BattleFrontier_Lounge2_Text_PyramidKingGoldMons::
+a56f9927e1a6d96a	ほんきの ピラミッドキングとは\n
+b28563e7a2d4c9fa	たたかった?\p
+8478a18e05ee7763	あつい パワーが みなぎってるとき\n
+d25324e54bf5cd31	かれは この ポケモンを つかうらしい。\p
+9e5e90d9ddd92c65	こおりと ひこうの れいとうポケモン\n
+75fb81731c636cd4	でんきと ひこうの でんげきポケモン\l
+8fda0cac0d659f98	そして ほのおと ひこうタイプの\l
+92ba5abfb4e708a3	かえんポケモン!$
+## BattleFrontier_Lounge2_Text_DoubleBattleAdvice1::
+f12b2c24e3d5119d	ダブルバトルが できる ばしょは\n
+ddd6288012ee84cf	いくつか あるけどさ。\p
+06000dfbb874efa3	バトルタワーの ダブルバトルルームは\n
+ac9fef445e5963f0	きほん ちゅうの きほん だよ!\p
+eced87b89d60dc50	バトルフロンティアでの ダブルバトルの\n
+e9502d8ac9ea228c	たたかいかたは そこで\l
+6a4743e0a3a1b9aa	まなぶと いいよ。$
+## BattleFrontier_Lounge2_Text_DoubleBattleAdvice2::
+5d2642639440f882	ここでの たたかいには きをつけな。\p
+97b008a6ae24c8c8	ダブルバトル せんようの さくせんを\n
+6b5bcb2fc1965983	あみだした トレーナーも\l
+19674f24f133bf11	いるって はなしだ。$
+## BattleFrontier_Lounge2_Text_DoubleBattleAdvice3::
+#REF	{JPN}ここの たたかいで\n
+f245da4569e991b1	ここの たたかいで\n
+#REF	ダブルバトルに じしんが ついたら\l
+c906c71da908e943	ダブルバトルに じしんが ついたら\l
+#REF	ほかの ダブルバトルが できる ばしょに\l
+cd047e0d8faca998	ほかの ダブルバトルが できる ばしょに\l
+#REF	チャレンジ してみると いいかもな!$
+87d3cf80c1e6e456	チャレンジ してみると いいかもな!$
+## BattleFrontier_Lounge2_Text_MultiBattleAdvice::
+#REF	{JPN}バトルサロンには\n
+ddc42d496fbacc6f	バトルサロンには\n
+#REF	いろんな トレーナーが あつまるんだぜ!\p
+20a31838770451fe	いろんな トレーナーが あつまるんだぜ!\p
+#REF	もしかしたら きみの ともだちや\n
+d963d4be0c145846	もしかしたら きみの ともだちや\n
+#REF	でしにも あえるかも しれないな!\l
+993690dd9a0e2ea8	でしにも あえるかも しれないな!\l
+#REF	よーく さがして みると いいぜ!$
+0dd1683d14d1cf47	よーく さがして みると いいぜ!$
+## BattleFrontier_Lounge2_Text_LinkMultiBattleAdvice::
+31ca5a1d2211e17b	ともだちと いっしょなら\n
+1d00047a1ce60172	リンクマルチバトルルームへ いこう!\p
+2d725a41453cdec5	つよい ともだちと くめば\n
+7df299dab868fb8f	てごわい あいてが でてくるぞ!$
+## BattleFrontier_Lounge2_Text_NewsGatheringPower::
+#REF	すっげえ じょうほうりょくー!!\n
+251d6186f632e02e	すっげえ じょうほうりょくー!!\n
+#REF	やっぱ センパイは ちがうっすよー$
+9501cd9f574b1236	やっぱ センパイは ちがうっすよー$
+## BattleFrontier_Lounge2_Text_AmazingPowersOfObservation::
+#REF	すっげえ かんさつりょくー!!\n
+36951be37db32d86	すっげえ かんさつりょくー!!\n
+#REF	やっぱ センパイは ちがうっすわー$
+4c9697589843f6e4	やっぱ センパイは ちがうっすわー$
+## BattleFrontier_Lounge2_Text_AmazingPowerOfPersuasion::
+#REF	すっげえ せっとくりょくー!!\n
+71ac47a431190984	すっげえ せっとくりょくー!!\n
+#REF	やっぱ センパイは ちがうっすねー$
+836b559ebc14aa4a	やっぱ センパイは ちがうっすねー$
+## BattleFrontier_Lounge2_Text_ThisPlaceIsScaringMe::
+#REF	なによ ここ……\n
+0137a3b1c7a8f9b7	なによ ここ……\n
+#REF	ちょっと こわい……$
+aa3ffdfff221a431	ちょっと こわい……$
+##### data/maps/BattleFrontier_Lounge3/scripts.inc
+## BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere::
+#REF	…… なんだぁ?\p
+ddfcd057da1548a2	…… なんだぁ?\p
+#REF	おれたちゃ いま いそがしいの!\n
+4b23111ff63a3495	おれたちゃ いま いそがしいの!\n
+#REF	また こんどに してくれや!$
+39e9b342119f4b57	また こんどに してくれや!$
+## BattleFrontier_Lounge3_Text_YouLookToughExplainGambling::
+62a62cc6edff180d	…… ん?\n
+665999c14843d0e2	あんた つよそうな トレーナー だな。\p
+26c6ebffeee33923	へへへ……\n
+87b674a48e840a77	ちょいと はなしが あるんだがな。\p
+a7374cb00fb20795	おれたち ここで なかまを つくってな\n
+bfc00afee7da86fd	バトルフロンティアで おきることを\l
+035b39d07f4345f9	ネタに ちょっとした ゲームを してるんだ。\p
+d89928c20f974c46	ルールは かんたん。\p
+b07ce26fcba88ef2	まず バトルフロンティアの しせつを\n
+73f457dfd45b23d9	ひとつ えらぶ。\p
+fcf7d878b1acdaa6	つぎに その しせつに ちょうせんする\n
+60c9d836aa4286fa	トレーナーを それぞれ ひとりずつ えらんで\l
+ad0370d8274f9149	バトルポイントを かけるんだ。\p
+b4c4799e0caaddb1	いちばん いい せいせきの\n
+a5dd66e1f3189b6b	トレーナーに かけた やつが\l
+d03ce81e15f748e5	かけきんの バトルポイントを ぜんぶ いただきだ。\p
+704bae19f081cbd7	かんたん だろ?\n
+33f9de0031539f78	で だな……$
+## BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle::
+d845786357babfe5	おれが さがしてるのは バトルタワーの\n
+ed66e3e2df2fffcd	シングルバトルルームに\l
+37436c6a647efc4c	ちょうせんする トレーナー なんだ。\p
+adc4f9841745ebb4	でも いまのところ かちそうな\n
+eaf0bfa2569f1776	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble::
+813429ee55d911e5	おれが さがしてるのは バトルタワーの\n
+fc5b4018e9cc581c	ダブルバトルルームに\l
+227065d4f798ead5	ちょうせんする トレーナー なんだ。\p
+bf89e7669bb950f7	でも いまのところ かちそうな\n
+0713b7487efa0a59	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti::
+c6442638a4bc5a3f	おれが さがしてるのは バトルタワーの\n
+e155aa1cac51bd8d	マルチバトルルームに\l
+a96bcc0d1be1ca0c	ちょうせんする トレーナー なんだ。\p
+90f86a13ab5d9411	でも いまのところ かちそうな\n
+80c79dac8798a18b	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle::
+8f670c62df1a93eb	おれが さがしてるのは バトルドームの\n
+be5ed2fb5b91f58f	シングルバトル トーナメントに\l
+401920a1c889032f	でる トレーナー なんだ。\p
+e855d3961c6b1a4f	でも いまのところ かちそうな\n
+20246401bedb2c54	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
+151f9e38e916817c	おれが さがしてるのは バトルドームの\n
+bda0268345e68b88	ダブルバトル トーナメントに\l
+8e990dc9b01043b3	でる トレーナー なんだ。\p
+6322e13519fccd4b	でも いまのところ かちそうな\n
+6fede298ce92fa6b	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattleFactorySingle::
+0898740d92e30282	おれが さがしてるのは バトルファクトリーの\n
+fed91fbdd488fbf4	バトルトレード シングルに\l
+1610698e93316d89	でる トレーナー なんだ。\p
+9bfae6bf9dacbafc	でも いまのところ かちそうな\n
+23b72c336c1bb9e2	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble::
+0baf045c2c79891f	おれが さがしてるのは バトルファクトリーの\n
+e5435d4214f5300c	バトルトレード ダブルに\l
+455e37bddaf6f0b6	でる トレーナー なんだ。\p
+159894dd739cbab5	でも いまのところ かちそうな\n
+24e4bfc035c4ed77	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle::
+447e3fff29637ff9	おれが さがしてるのは バトルパレスの\n
+2b250f4e46399124	シングルバトルホールに\l
+8a4d7f41372727be	ちょうせんする トレーナー なんだ。\p
+b7decfe6b6066752	でも いまのところ かちそうな\n
+4fee21f49d485488	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble::
+34c88c1dd080ff57	おれが さがしてるのは バトルパレスの\n
+dd623bd2e7b9e298	ダブルバトルホールに\l
+68d0c00e8657c424	ちょうせんする トレーナー なんだ。\p
+5097bb33c099981a	でも いまのところ かちそうな\n
+a9ad47caedfa355c	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattleArena::
+48d0ed232a9d7bcd	おれが さがしてるのは バトルアリーナの\n
+07a3012f7c72a1ab	かちぬきチームバトルに\l
+d146b0c33836923a	でる トレーナー なんだ。\p
+e6bc00d4f5e60070	でも いまのところ かちそうな\n
+63549e4dd35617f3	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattlePike::
+ff054f465d81ac53	おれが さがしてるのは バトルチューブの\n
+ebd3f00e3278b585	バトルゲームに\l
+46020e248ff9dd1a	でる トレーナー なんだ。\p
+d2bb6357217737a9	でも いまのところ かちそうな\n
+2c1d11123427608c	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_ChallengeBattlePyramid::
+4b52c126e79e5410	おれが さがしてるのは バトルピラミッドの\n
+63eb942bb290f285	バトルアドベンチャーに\l
+13f1ae8fbdf309ce	でる トレーナー なんだ。\p
+f8a68984e9d17edd	でも いまのところ かちそうな\n
+e3ed69725dfca870	トレーナーが みつからなくてな。$
+## BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe::
+05bf87024b1770d0	あんたにも ちゃんと いいこと あるからさ。\n
+eb2143d3ead146fa	どうだい?\l
+b8d954f7051bf8a6	おれの かわりに でて くれないか?$
+## BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints::
+dd7a1a9757bafd23	よし ばっちりだ。\n
+e8c5aa14be4939b8	で…… あんたの バトルポイントを\l
+5f5be61875d9fa2d	ちょっと かして くれないか?\p
+4ab82d56feff5071	あとで ちゃんと おれいは\n
+146445470b6225bc	するからさ。$
+## BattleFrontier_Lounge3_Text_HowMuchCanYouSpot::
+#REF	ィイね! ィイね!\n
+9c30f60ed7709e20	イイね! イイね!\n
+#REF	で? で? で? いくら かして くれます?$
+c0a39df7ac9ec540	で? で? で? いくら かして くれます?$
+## BattleFrontier_Lounge3_Text_YouDontHaveEnoughPoints::
+dbb3b6229a6a541e	おいおいおい!\n
+66e0cacb9463ede0	バトルポイントが たりないじゃないか!\p
+c3f9cf211631bb1d	ふざけて みんなの じかんを\n
+9dc87dfe40e3643f	むだに しないで くれよな!$
+## BattleFrontier_Lounge3_Text_ThanksOffYouGo::
+#REF	へっへっへっ…… あんがとよ!\n
+da599d8aa8e66be7	へっへっへっ…… あんがとよ!\n
+#REF	そんじゃー$
+359d323b3090ed77	そんじゃ いってきな!$
+## BattleFrontier_Lounge3_Text_GetToBattleTowerSingle::
+eb46eb09ce48981a	バトルタワーの\n
+0830609a11edd3ae	シングルバトルルームへ いそげ!\p
+cc76d842aa9eddca	ぜったい かたなきゃ いけないぞ!\n
+0ab2c0acbef99e25	チャンスを むだに するなよ!\l
+c691767e8405abc9	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattleTowerDouble::
+5d3b629d49748816	バトルタワーの\n
+7255efe48f10a2f1	ダブルバトルルームへ いそげ!\p
+08832073e59f9af5	ぜったい かたなきゃ いけないぞ!\n
+45ef3917f9ea4dff	チャンスを むだに するなよ!\l
+a48401100c44fede	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattleTowerMulti::
+99c1572783e772c5	バトルタワーの\n
+e91219d47a779438	マルチバトルルームへ いそげ!\p
+7861aedc0bca2c48	ぜったい かたなきゃ いけないぞ!\n
+12c475a1eb220a9a	チャンスを むだに するなよ!\l
+15fafe05a56fa1af	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattleDomeSingle::
+1dc9148f3533ce95	バトルドームの\n
+50fc6bce4565f36e	シングルバトル トーナメントへ いそげ!\p
+6f6fc421fcb5a654	ぜったい かたなきゃ いけないぞ!\n
+b17effe56cc7e342	チャンスを むだに するなよ!\l
+3b724de9d50eebab	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattleDomeDouble::
+10909f6abda88fd6	バトルドームの\n
+a28910d888238c77	ダブルバトル トーナメントへ いそげ!\p
+e37337c6ee74ce2d	ぜったい かたなきゃ いけないぞ!\n
+cab8745de567def8	チャンスを むだに するなよ!\l
+55af9f8d7c8a2e52	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattleFactorySingle::
+a322253973a1fdf8	バトルファクトリーの\n
+5a1fc5ce6dcc9e45	バトルトレード シングルへ いそげ!\p
+6eec7592fedfa03a	ぜったい かたなきゃ いけないぞ!\n
+9001ec8cc1f563cb	チャンスを むだに するなよ!\l
+f11a4351989b7cc4	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble::
+4481b9747d793517	バトルファクトリーの\n
+de45ed84f8438fd8	バトルトレード ダブルへ いそげ!\p
+b1cd3eaebafe9699	ぜったい かたなきゃ いけないぞ!\n
+237f2a5c2cf7b895	チャンスを むだに するなよ!\l
+97aa8b8f5beabc73	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattlePalaceSingle::
+ea86503cf4bcc579	バトルパレスの\n
+8abe5b9754d2bf03	シングルバトルホールへ いそげ!\p
+0ce583c655bc9609	ぜったい かたなきゃ いけないぞ!\n
+85cf112124f1b933	チャンスを むだに するなよ!\l
+d91fc0342c8b83cd	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattlePalaceDouble::
+3ec0a24eff07ff1a	バトルパレスの\n
+48e6f00229d468f8	ダブルバトルホールへ いそげ!\p
+ff9c797b2e96ed3b	ぜったい かたなきゃ いけないぞ!\n
+f3528518b6c45f31	チャンスを むだに するなよ!\l
+85918ee108b57ad6	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattleArena::
+d7658ca5e7cea5db	バトルアリーナの\n
+03ee8991b130fda5	かちぬきチームバトルへ いそげ!\p
+88b1a9430157b3d2	ぜったい かたなきゃ いけないぞ!\n
+11ba70c4c5eeaf41	チャンスを むだに するなよ!\l
+cdf0c8fb74658ddc	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattlePike::
+4a6a9251f7dfaa57	バトルチューブの\n
+6e1cbe8517190851	バトルゲームへ いそげ!\p
+b9550e1f2b45f1be	ぜったい かたなきゃ いけないぞ!\n
+4a7f9c2394f43af4	チャンスを むだに するなよ!\l
+0271735d00d526c5	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_GetToBattlePyramid::
+362ee5668eaf3784	バトルピラミッドの\n
+bbcbcfb2fb38ac9b	バトルアドベンチャーへ いそげ!\p
+d7b21e0951731414	ぜったい かたなきゃ いけないぞ!\n
+0cb159931a1b6f32	チャンスを むだに するなよ!\l
+a38d8292e98b687a	おれたちの みらいは あんたに かかってる!$
+## BattleFrontier_Lounge3_Text_NiceTryCantReturnPoints::
+9496ae4befeba873	ああ あんたか……\n
+bd3326c642ec97c8	ざんねん だったな……\p
+57ea572d0b790d3d	いいにくいんだが あずかった\n
+d7d638c66923b800	バトルポイントは かえせないんだ……\p
+bfbcd06f9cf9a28a	つぎこそは もっと がんばろうって\n
+d2b3e10fbe54747b	きもちを あらたに しようぜ!$
+## BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints::
+736ed7e703ec3b50	おお やったな!\n
+406868a44fa18155	よう チャンピオン!\p
+b56731884a68a2b9	できると おもってたぜ!\n
+872b54f5b9ce7911	やると おもってたぜ!\l
+ee8382c25747a5f3	おれたち ふたりとも おおもうけだ!\p
+db6bd352bb2a5035	あずかった バトルポイントと\n
+2d2c7fcec8504381	もちろん おれからの おまけも つけるぜ!$
+## BattleFrontier_Lounge3_Text_ObtainedBattlePoints::
+#REF	{PLAYER}は バトルポイントを\n
+ac382fc6440b0221	{PLAYER}は バトルポイントを\n
+#REF	{STR_VAR_1}BP てにいれた!$
+4cb451856a7a8a71	{STR_VAR_1}BP てにいれた!$
+## BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge::
+#REF	また なんか あったら\n
+46073ac5ade350c5	また なんか あったら\n
+#REF	よろしく たのみますよっ!!$
+6d74c36f314a841c	よろしく たのみますよっ!!$
+## BattleFrontier_Lounge3_Text_NotInterested::
+#REF	そりゃ ないぜー!\n
+69fa7f2b3db4ce05	のらないって?! そりゃ ないぜー!\n
+#REF	せちがれぇ おこさま だなぁ!!$
+b53295ddab0814ca	チャンスを こわがってちゃ だめだろ!$
+## BattleFrontier_Lounge3_Text_Oh::
+#REF	おっ……$
+35d34900d7d1dadf	おっ……$
+## BattleFrontier_Lounge3_Text_BackedWrongTrainer::
+#REF	まーたー はーずーれー?\p
+8d18b9880e2e0f96	また はずれの トレーナーに かけちゃった!\p
+#REF	あたし ふつうに\n
+0f61233858b9b1b7	あたしも みんなみたいに\n
+#REF	たたかった ほうが いいの かなぁー$
+e279f1d8ffbc2a05	ふつうに たたかった ほうが いいの かなぁ……$
+## BattleFrontier_Lounge3_Text_TrainerGoodButRattled::
+8f435c46e7a1e523	あの トレーナー……\p
+dad7b7c403d2e47d	つよいけど すぐ あわてる からな。\n
+a116f1aaad8a1112	あれじゃ バトルドームでは かちのこれないな……$
+## BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
+#REF	うふふっ!\n
+d7d2dae8f2aa45ba	うふふっ!\n
+#REF	ボロもうけ! ボロもうけなのよ!$
+f0f689a403329574	かつ ひとは ひとめで わかるのよ!$
+## BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges::
+#REF	あいつら トレーナーの くせに\n
+a147d84b9dc7796d	あいつら トレーナーの くせに\n
+#REF	ちょうせんも しないで\l
+26e829abda995326	ちょうせんも しないで\l
+#REF	なに してるん だろうな?$
+6922f7268f0f9339	なに してるん だろうな?$
+##### data/maps/BattleFrontier_Lounge4/scripts.inc
+## BattleFrontier_Lounge4_Text_WonderIfInterviewsAiring:
+#REF	つよい トレーナーの インタビュー\n
+b79192422c10f3f2	つよい トレーナーの インタビュー\n
+#REF	きょうは やって いるかなー?$
+da9eaa3176f91221	きょうは やって いるかなー?$
+## BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere:
+#REF	ここで おいしい レストランでも\n
+a9676418c91ca93c	ここで おいしい レストランでも\n
+#REF	やったら もうかりそうやな$
+3fe7a56f689efe6b	やったら もうかりそうやな$
+## BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles:
+1cad4a83946b59bb	ふう……\p
+03e347bc8cc2d29b	はげしい たたかいの あとは\n
+e56d6e5c1a3733a6	ひといき いれないとな……\p
+aeb49336b82ee5ea	でも いまも さくせんや コンボを\n
+dc071bf89cdc2770	かんがえるのは やすまないんだ。$
+##### data/maps/BattleFrontier_Lounge5/scripts.inc
+## BattleFrontier_Lounge5_Text_NatureGirlGreeting::
+0365adcf3a285e3f	えへへ!\n
+f2ff2b3a57e7b984	ポケモンの きもち わかるの!\p
+c6b6d6ee58ef1fc5	ねえねえ!\n
+4a7b03492b7af147	ポケモン みせて くれる?$
+## BattleFrontier_Lounge5_Text_NatureGirlNoneShown::
+20125c2dceec5b4b	ぶー!\n
+4a9dc036ca36bc93	けちんぼ!$
+## BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow::
+#REF	{JPN}ふんふん……\p
+9e995bb707d4dfad	ふんふん……\p
+#REF	このこ たたかうの ちゅき! って!\n
+032c2eb9c09aef70	このこ たたかうの ちゅき! って!\n
+#REF	いっぱい いたいいたい でも\l
+e9b9d58ceff7ad67	いっぱい いたいいたい でも\l
+#REF	たたかうよ! って!$
+2db1bb55189a5155	たたかうよ! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlAttackHighDefenseLow::
+#REF	{JPN}ふんふん……\p
+617a9d87dce5d651	ふんふん……\p
+#REF	このこ たたかうの ちゅき! って!\n
+4ad7d79e7f66ba34	このこ たたかうの ちゅき! って!\n
+#REF	でも あんまし いたいいたい だと\l
+19e7060e6a542051	でも あんまし いたいいたい だと\l
+#REF	じぶんが ちんぱい なるよ! って!$
+cb6c93e46ceb29e7	じぶんが ちんぱい なるよ! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow::
+#REF	{JPN}ふんふん……\p
+028cf8492e086379	ふんふん……\p
+#REF	このこ たたかうの ちゅき! って!\n
+5f9fc29ac2dbf008	このこ たたかうの ちゅき! って!\n
+#REF	でも あんまし いたいいたい だと\l
+9c69b882f8ed28bc	でも あんまし いたいいたい だと\l
+#REF	ずるいの するよ! って!$
+04f147bcdac20507	ずるいの するよ! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow::
+#REF	{JPN}ふんふん……\p
+a59aa1e88663e370	ふんふん……\p
+#REF	このこ じぶん だいじ! って!\n
+ef4d9784498d6f88	このこ じぶん だいじ! って!\n
+#REF	でも あんまし いたいいたい だと\l
+71410e06e5856c54	でも あんまし いたいいたい だと\l
+#REF	ちかえし してやる! って!$
+058cb8c0e21d963e	ちかえし してやる! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow::
+#REF	{JPN}ふんふん……\p
+3fb7208575d9e764	ふんふん……\p
+#REF	このこ じぶん だいじ! って!\n
+8f82df2cd1127d10	このこ じぶん だいじ! って!\n
+#REF	いっぱい いたいいたい でも\l
+a235183e915a5871	いっぱい いたいいたい でも\l
+#REF	じぶん だいじ! って!$
+46b1c2bce7fea401	じぶん だいじ! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow::
+#REF	{JPN}ふんふん……\p
+53ef224e833456ca	ふんふん……\p
+#REF	このこ じぶん だいじ! って!\n
+d330cfb7155e35d2	このこ じぶん だいじ! って!\n
+#REF	でも あんまし いたいいたい だと\l
+a3f9f8c9dfd09dcd	でも あんまし いたいいたい だと\l
+#REF	ずるいの するよ! って!$
+eb5e1ae7b3e5baaa	ずるいの するよ! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlSupportHighAttackLow::
+#REF	{JPN}ふんふん……\p
+f9a2c38297ac0bdf	ふんふん……\p
+#REF	このこ ずるいの ちゅき! って!\n
+f3d2141cc110d69c	このこ ずるいの ちゅき! って!\n
+#REF	でも あんまし いたいいたい だと\l
+5e14434bf5788f04	でも あんまし いたいいたい だと\l
+#REF	ちかえし してやる! って!$
+e32ca97d463339f5	ちかえし してやる! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow::
+#REF	{JPN}ふんふん……\p
+7bfc70f223897849	ふんふん……\p
+#REF	このこ ずるいの ちゅき! って!\n
+25899f5121ef8b97	このこ ずるいの ちゅき! って!\n
+#REF	でも あんまし いたいいたい だと\l
+4bc46054e2a376d0	でも あんまし いたいいたい だと\l
+#REF	じぶんが ちんぱい なるよ! って!$
+bf4456938a8b4517	じぶんが ちんぱい なるよ! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow::
+#REF	{JPN}ふんふん……\p
+594c896a6328452e	ふんふん……\p
+#REF	このこ ずるいの ちゅき! って!\n
+2fb73cf8b68cd023	このこ ずるいの ちゅき! って!\n
+#REF	いっぱい いたいいたい でも\l
+2d1828a994a1d2dd	いっぱい いたいいたい でも\l
+#REF	ずるいのが いい! って!$
+ab5959706e15666f	ずるいのが いい! って!$
+## BattleFrontier_Lounge5_Text_NatureGirlEgg::
+#REF	たまごは ねんね してる から\n
+53e2aab443bc80d9	たまごは ねんね してる から\n
+#REF	おはなち できない よぉ!$
+8935f642b940b1be	おはなち できない よぉ!$
+## BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon::
+#REF	ポケモンの きもちが わかるとは\n
+bbac47e7b74f6857	ポケモンの きもちが わかるとは\n
+#REF	あの おじょうちゃん なかなか\l
+a75594cfbb365873	あの おじょうちゃん なかなか\l
+#REF	シャレた ことを もうしますな!$
+f1b93e089082a8d6	シャレた ことを もうしますな!$
+## BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound::
+#REF	じぶん あのこが すごく だいじなことを\n
+33119880e0dcbd98	じぶん あのこが すごく だいじなことを\n
+#REF	いっている きが するで あります!$
+475b1a4724549c67	いっている きが するで あります!$
+## BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot::
+#REF	ぼく ちってるぜ!\p
+b9695b0aef0b87de	ぼく ちってるぜ!\p
+#REF	あのこ あかい おうちで\n
+5c3534c7bbaf639a	あのこ あかい おうちで\n
+#REF	よく あそんでる!$
+b7a20d4311feece9	よく あそんでる!$
+##### data/maps/BattleFrontier_Lounge6/scripts.inc
+## BattleFrontier_Lounge6_Text_WouldYouLikeToTrade:
+0d62e43f9ee5f1b3	わたしの ポケモンは {STR_VAR_2}です。\n
+ef5a71bf46fbecfe	しってますか?\l
+6e62b3369d4e7c2e	とても かわいくて いいこなんですよ。\p
+707d54c6002bfb4e	このこなら じしんを もって\n
+0c6b0772a002f9fc	こうかん できます!\p
+f8f2cd856aca0d3a	あなたの {STR_VAR_1}と わたしの\n
+43d9fa1e9028d7df	{STR_VAR_2}を こうかん しませんか?$
+## BattleFrontier_Lounge6_Text_PromiseIllBeGoodToIt:
+0f3db1a25c4dd0db	まあ かわいい!\n
+80279018ee763707	ありがとう!\l
+796a0db23d01f8c7	だいじに しますね!\p
+1add19e51d8f81cb	あなたも わたしの\n
+ee902a0e3686c829	{STR_VAR_2}を だいじに してくださいね!$
+## BattleFrontier_Lounge6_Text_DontTradeForAnythingButMon:
+f9cc117ef5f41d14	あ ごめんなさい!\n
+e48c50f3655cd45b	わたしが こうかん したいのは\l
+72f39de340220435	{STR_VAR_1}だけ なんです。$
+## BattleFrontier_Lounge6_Text_WellThatsFineToo:
+#REF	あ やめますか!\n
+0fe01b04d945bc2f	あ やめますか!\n
+#REF	べつに いいですよ\l
+5927c572c1787eed	べつに いいですよ\l
+#REF	また こんど きてくださいー$
+14646a86820f944f	また こんど きてくださいー$
+## BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined:
+#REF	うふふ!\n
+19af3ec75a469968	うふふ!\n
+#REF	エネコが おもってたより ずっと\l
+334b7c89cec36939	エネコが おもってたより ずっと\l
+#REF	かわいくて ほんと うれしいですー$
+f0700888c4e12c20	かわいくて ほんと うれしいですー$
+##### data/maps/BattleFrontier_Lounge7/scripts.inc
+## BattleFrontier_Lounge7_Text_LeftTutorIntro:
+03be4a4ef5bd154f	ブハハハ!\p
+effcacd2a6223940	いまじゃ そうは みえない だろうけど\n
+377760a763464ceb	むかしは つよい トレーナー だったんだよ。\p
+17a8025b76ff33f6	このへんじゃ いちばん つよい\n
+079c0342c95528e9	おとなのおねえさんと いわれたもんさ!\p
+0bcc46fc55cf712f	… … … … … …\p
+38991cb188c753a7	なんだい?\n
+2e52cc3967894911	しんじて ないね?\p
+17b8753117dabba8	あたしゃ むこうの ほらふき おんなとは\n
+624bf5fd4b7a1881	ちがうよ! ほんとに じつりょくが あるんだ!\p
+5362df832750e3f3	しょうこを みせて やろう。\n
+a2187580410ba630	あんたの ポケモンに とくべつで\l
+6c3d52469c61cc9b	かわいい わざを おしえて やるよ。\p
+492b0127a19e7c01	ただし ただじゃ ないよ。\n
+815bb3b4e3198997	おしえる わざの おだいは\l
+3f6a30c058097ae0	バトルポイントを ちょいと いただくよ。$
+## BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
+ad60c086be5528a5	ブハハハ!\p
+61223dac50cdc7ba	また とくべつで かわいい\n
+d8b320920d6ea4ef	ポケモンの わざを おぼえに きたのかい?$
+## BattleFrontier_Lounge7_Text_TeachWhichMove:
+e68324bb9a167fcf	よしよし みてごらん!\n
+4f0e92d70a481c36	どの わざを おしえて ほしいんだい?$
+## BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
+#REF	{STR_VAR_1} が ええのんか!\n
+d6d037590477bee8	{STR_VAR_1} が ええのんか!\n
+#REF	{STR_VAR_2} BP じゃが ええんじゃの!?$
+7e99b4d5f284b8d9	{STR_VAR_2}BP じゃが ええんじゃの!?$
+## BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
+#REF	ほいじゃあ わざを おぼえさせる\n
+6df69d3f0645f995	ほいじゃあ わざを おぼえさせる\n
+#REF	ポケモンを きめて おくれ!$
+44e321d5936c5a94	ポケモンを きめて おくれ!$
+## BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
+#REF	なんじゃ……\n
+ffe3182352ee39a2	なんじゃ……\n
+#REF	あんた バトルポイントが たりんぞ!$
+f2c35f08478bb886	あんた バトルポイントが たりんぞ!$
+## BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
+#REF	あたしゃの すごさが わかったかいっ!!\n
+32033575c77c12c4	あたしゃの すごさが わかったかいっ!!\n
+#REF	じゃあ バトルポイントは いただくぞぃ!$
+fa780e5c6f3c24d2	じゃあ バトルポイントは いただくぞぃ!$
+## BattleFrontier_Lounge7_Text_YouDontWantTo:
+acb9071fac9cc92a	なんだって?\n
+06dc96469d8722a7	いらない だって……\p
+6c7006147d7bb4e0	あたしの うでまえが みたく なったら\n
+b5c6da5b42288366	いつでも おいで!$
+## BattleFrontier_Lounge7_Text_RightTutorIntro:
+e1e45690c0bf472b	イヒヒヒ!\p
+7a2cfa2de5ab9a6c	いまは そうは みえない だろうけど\n
+f73d9b189b1dfc5c	むかしは すごい トレーナー だったのさ。\p
+0bcc79fd66b2e7be	このへんじゃ いちばん むてきの\n
+84cb8f62798fd8f9	ビキニのおねえさんと いわれたもんさ!\p
+68405d43c0b6f722	… … … … … …\p
+ec98af266544c2d1	どうしたんだい?\n
+a7da95e64f68b7b2	しんじて ないね?\p
+6905fd8cd78846d6	あたしゃ むこうの まぬけな おんなとは\n
+2de4062e22e43393	ちがうよ! ほんとに けいけんが あるんだ!\p
+59917ca5ee8bc786	しょうこを みせて やれるよ。\n
+26dff1e24c7913e1	あんたの ポケモンに つよくて\l
+fec5557277932e01	きれいな わざを おしえて やろう。\p
+819943b403334ce7	ただし ただじゃ ないよ。\n
+496530f6775ddc23	おしえる わざの おだいは\l
+f6a712980f4526e2	バトルポイントを ちょいと いただくよ。$
+## BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
+9ee942f965aa6828	イヒヒヒ!\p
+0ccaf63a4ccf692a	つよくて きれいな ポケモンの わざを\n
+bdf91d6c8a0c44e5	おぼえに きたのかい?$
+## BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
+#REF	あの ふたりって おたがいの\n
+2c4c4e71c75188cd	あの ふたりって おたがいの\n
+#REF	わるぐち いい あってる から\l
+358cde1f27cd13c1	わるぐち いい あってる から\l
+#REF	なかが わるいとか おもって ないか?\p
+d772aaa53f8c3d60	なかが わるいとか おもって ないか?\p
+#REF	でも ほんとに そう だったら いっしょに\n
+a4e097fee1f70140	でも ほんとに そう だったら いっしょに\n
+#REF	こんなところに いたり しないよな$
+1a8c63bfe1e5e8f8	こんなところに いたり しないよな$
+## BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
+69cd8cd7758a887f	おれが まだ たんパンこぞう だったころ\n
+51e483e9eefbc0ba	あの ふたりは つよくて うつくしかった。\p
+e15855f81b7e5072	トレーナーたちの あこがれ だったんだ。\p
+06f020b5fa9bd91a	いまでも としを とって\n
+2e394612da2c98e2	うでが おちた なんてことは ない。\p
+32d347766974a5ca	それどころか ポケモンの わざは\n
+96b59b54404dd5b9	もっと みがきが かかっている。\p
+a25e01595df6c956	でも…… なぜだか こう\n
+145f51fbfd25e655	おもわずには いられないんだ……\p
+e3fd8e9924265dba	じかんって ざんこくだな……$
+## BattleFrontier_Lounge7_Text_SoftboiledDesc::
+#REF	{JPN}キズついた からだを\n
+7c8f1e0b3290daae	キズついた からだを\n
+#REF	たいりょくの\n
+0301bf70031abdce	たいりょくの\n
+#REF	はんぶん かいふく$
+4b88fa6be78c2be9	はんぶん かいふく$
+## BattleFrontier_Lounge7_Text_SeismicTossDesc::
+#REF	{JPN}いんりょくを りよう\n
+88c0a4b5ef99175e	いんりょくを りよう\n
+#REF	レベル ぶんの\n
+a8f2faf44501bb73	レベル ぶんの\n
+#REF	ダメージを あたえる$
+7d826877946265df	ダメージを あたえる$
+## BattleFrontier_Lounge7_Text_DreamEaterDesc::
+#REF	{JPN}ねている てきに\n
+8bdb02e12e4c23f1	ねている てきに\n
+#REF	あたえた ダメージの\n
+a213b1c40c6befb5	あたえた ダメージの\n
+#REF	はんぶんを かいふく$
+65aaad7de7858c97	はんぶんを かいふく$
+## BattleFrontier_Lounge7_Text_MegaPunchDesc::
+#REF	{JPN}ものすごい ちからを\n
+2a3725663998b5df	ものすごい ちからを\n
+#REF	こめた パンチで\n
+bc52cf37de871ad9	こめた パンチで\n
+#REF	てきを こうげき$
+52fc2b77d3e74402	てきを こうげき$
+## BattleFrontier_Lounge7_Text_MegaKickDesc::
+#REF	{JPN}ものすごい ちからを\n
+94208bdee2baccbe	ものすごい ちからを\n
+#REF	こめた キックで\n
+d756b701a45948c8	こめた キックで\n
+#REF	てきを こうげき$
+13e2cd9c1c79806a	てきを こうげき$
+## BattleFrontier_Lounge7_Text_BodySlamDesc::
+#REF	{JPN}たおれこみ こうげき\n
+d210816ed4b083e6	たおれこみ こうげき\n
+#REF	てきを まひ させる\n
+d52535b173d0a38a	てきを まひ させる\n
+#REF	ことが ある$
+3a58f8ddfb35787e	ことが ある$
+## BattleFrontier_Lounge7_Text_RockSlideDesc::
+#REF	{JPN}いわで こうげき\n
+a514bf75ee118bc9	いわで こうげき\n
+#REF	てきを ひるませる\n
+97cdcb09669017a8	てきを ひるませる\n
+#REF	ことが ある$
+f6d67945ccf5ea0f	ことが ある$
+## BattleFrontier_Lounge7_Text_CounterDesc::
+#REF	{JPN}ぶつりこうげきの\n
+585a6c3252e5fbc2	ぶつりこうげきの\n
+#REF	ダメージを\n
+93502d4d0f5e2e57	ダメージを\n
+#REF	ばいにして かえす$
+a50a49a6c29e1d89	ばいにして かえす$
+## BattleFrontier_Lounge7_Text_ThunderWaveDesc::
+#REF	{JPN}よわい でんげきを\n
+9ce7ce1b64c12727	よわい でんげきを\n
+#REF	ぶつけて あいてを\n
+cb286793473709c8	ぶつけて あいてを\n
+#REF	まひ させる$
+46d6d6708759014f	まひ させる$
+## BattleFrontier_Lounge7_Text_SwordsDanceDesc::
+#REF	{JPN}たたかいの おどりで\n
+366fd33366d173db	たたかいの おどりで\n
+#REF	こうげきを グーンと\n
+1e56888d233a8ec5	こうげきを グーンと\n
+#REF	あげる$
+97b937df8fe5d47e	あげる$
+## BattleFrontier_Lounge7_Text_DefenseCurlDesc::
+99a308662f111476	からだを まるめて\n
+cd90036154293866	ぼうぎょを\n
+df5dd94e78e5af37	あげる$
+## BattleFrontier_Lounge7_Text_SnoreDesc::
+#REF	{JPN}ねている とき だけ\n
+6f1431466abdb9a3	ねている とき だけ\n
+#REF	つかえる わざ\n
+b8e97fa2260219c1	つかえる わざ\n
+#REF	いびきで こうげき$
+8a724bed95abc66d	いびきで こうげき$
+## BattleFrontier_Lounge7_Text_MudSlapDesc::
+#REF	{JPN}ドロを かけて\n
+5109e1464d11b9dd	ドロを かけて\n
+#REF	めいちゅうりつを\n
+301880792375dafe	めいちゅうりつを\n
+#REF	さげる$
+a5deccc6f72317e7	さげる$
+## BattleFrontier_Lounge7_Text_SwiftDesc::
+#REF	{JPN}だれも よけることの\n
+87e4798ba73a46e4	だれも よけることの\n
+#REF	できない ほしがたの\n
+0e73ec070d5be6fe	できない ほしがたの\n
+#REF	こうせんで こうげき$
+d94c57b23611c5a2	こうせんで こうげき$
+## BattleFrontier_Lounge7_Text_IcyWindDesc::
+#REF	{JPN}すごい れいきで\n
+7921249be08174a4	すごい れいきで\n
+#REF	こうげき\n
+a44139fc27553cdc	こうげき\n
+#REF	すばやさを さげる$
+d3b54ac5029505b7	すばやさを さげる$
+## BattleFrontier_Lounge7_Text_EndureDesc::
+#REF	{JPN}そのターンで\n
+375fcaa139356c8e	そのターンで\n
+#REF	こうげき されても\n
+df8001f53bd12be8	こうげき されても\n
+#REF	たいりょくが1のこる$
+8bc1967b2b83250c	たいりょくが1のこる$
+## BattleFrontier_Lounge7_Text_PsychUpDesc::
+#REF	{JPN}あいての\n
+1a996f86c3fb93a7	あいての\n
+#REF	ほじょこうかを\n
+85426addfda0a20c	ほじょこうかを\n
+#REF	じぶんに コピーする$
+87c9180e238f829a	じぶんに コピーする$
+## BattleFrontier_Lounge7_Text_IcePunchDesc::
+#REF	{JPN}つめたい パンチで\n
+dcc432eedfc9ef23	つめたい パンチで\n
+#REF	てきを こおらせる\n
+5ea5b2c82511d2eb	てきを こおらせる\n
+#REF	ことが ある$
+c88cdaed6dd2beeb	ことが ある$
+## BattleFrontier_Lounge7_Text_ThunderPunchDesc::
+#REF	{JPN}でんげき パンチで\n
+11de2aac4794f74f	でんげき パンチで\n
+#REF	てきを まひさせる\n
+312b9f31ce3e9a13	てきを まひさせる\n
+#REF	ことが ある$
+c1ab1258d0b1d683	ことが ある$
+## BattleFrontier_Lounge7_Text_FirePunchDesc::
+#REF	{JPN}ほのおの パンチで\n
+5a143d359985911a	ほのおの パンチで\n
+#REF	てきを やけどさせる\n
+ba1206ddc0e53b1f	てきを やけどさせる\n
+#REF	ことが ある$
+97865169a79d2be5	ことが ある$
+##### data/maps/BattleFrontier_Lounge8/scripts.inc
+## BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
+e881eb60bb8ee14b	トレーナーに ひつようなもの……\p
+d7dc93eca6ff7f26	ちしき……\n
+53e30e240dffcd07	さくせん……\l
+80a4040a4bf4186e	うん……\l
+650bef2d6577ba25	こんじょう……\l
+6cb479eef3428424	きりょく……\l
+d925dc3ec745b1a3	ゆうき……\l
+64dae47891168c19	そして じつりょく……\p
+0a95d962b5a67c47	よし ぜんぶ そろってるぞ!\n
+c9a1880222190e78	どの しせつでも むてき だな!\p
+2745c7ec6f48039a	え? ポケモン?\n
+3d352276491e5629	なに それ?$
+## BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains:
+a56ae0ce88ecc510	フロンティアブレーンって\n
+686cc4d60aba9b47	しってる?\p
+466d81bc2e64360e	エニシダさんが そう よんでいる\n
+e2b636274838b31e	バトルフロンティアの 7つの しせつを\l
+f82a0d84946a6efa	しきる 7にんの とくべつな トレーナーさ。$
+## BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling:
+b843ff1508233c31	バトルタワーで おねえさんに\n
+eea6ec6bc97c4cc8	バトルの さいのうが あるって\l
+6e54b2779258fc41	いわれたの!\p
+90bee5bd87c5241b	でも ポケモンコンテストの ほうが すきなの!\p
+a481aa786d132537	なのに コンテストは にがて なの!\p
+77c43b2627a0afde	さいのうが あるのと すきなのって\n
+aeb34aa7e258aa25	おなじ じゃ ないんだね。$
+##### data/maps/BattleFrontier_ScottsHouse/scripts.inc
+## BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier:
+#REF	エニシダ『ああ いらっしゃい\n
+6a37a13b9cbef92a	エニシダ: ああ いらっしゃい!\n
+#REF	へへ…… せまい ところで ごめんよ\p
+821d1f9b966706c0	へへ…… せまい ところで ごめんよ\p
+#REF	では あらためて {PLAYER}{KUN}\n
+ae17146d65256a1a	では あらためて {PLAYER}{KUN}\n
+#REF	ようこそ バトルフロンティアへ!\p
+24da9d02f6f41bd6	ようこそ バトルフロンティアへ!\p
+#REF	ここは わたしの ゆめの けっしょう!\n
+ed81513d7bd7a339	ここは わたしの ゆめの けっしょう!\n
+#REF	なんねんも かかって やっと\l
+879221324fd076fe	なんねんも かかって やっと\l
+#REF	かたちに することが できたんだ!$
+8d11ca5aaef49fc8	かたちに することが できたんだ!$
+## BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal:
+e966ecb18b3ab12e	ふりかえれば ほんとうに ながい\n
+22ff8126c3f7765a	たびだった……\p
+71e9619595ac3e07	つよい トレーナーを さがしもとめて\n
+de08cf53485d9a8e	ひとり たびに でたんだ。\p
+110f4bf3c1c1e050	どれだけ くろうと じかんが かかったか\n
+dfa78b4226b0da32	だれにも そうぞう できない だろうね。$
+## BattleFrontier_ScottsHouse_Text_HaveThisAsMementoOfOurPathsCrossing:
+#REF	いや こんな むかしばなしを\n
+b8416b7fa688bb19	いや こんな むかしばなしを\n
+#REF	していても はじまらないな!\p
+e68c73f0416723db	していても はじまらないな!\p
+#REF	とにかく こころ ゆくまで\n
+e0dba7337dd71be0	とにかく こころ ゆくまで\n
+#REF	ポケモンしょうぶを たのしんで くれ!\p
+f831c83474e28d50	ポケモンしょうぶを たのしんで くれ!\p
+#REF	これは わたしと {PLAYER}{KUN}が\n
+ee8fce46c2c1bd35	これは わたしと {PLAYER}{KUN}が\n
+#REF	なんども たびさきで であった\l
+6d3ea66f5ce52660	なんども たびさきで であった\l
+#REF	きねんだよ!$
+123c51b09450ab5e	きねんだよ!$
+## BattleFrontier_ScottsHouse_Text_ObtainedXBattlePoints:
+#REF	{PLAYER}は バトルポイントを\n
+77654246f81bf347	{PLAYER}は バトルポイントを\n
+#REF	{STR_VAR_1} BP もらった!$
+cb33f8d70eb676d4	{STR_VAR_1}BP もらった!$
+## BattleFrontier_ScottsHouse_Text_ExplainBattlePoints:
+8a8b5da46cf2c8d2	エニシダ: バトルポイントは\n
+8291bf9654b639ff	フロンティアパスで かくにん できるよ。\p
+f4c765a80293e8d2	ここ バトルフロンティアで かつやく するほど\n
+c4e8ed31284a39da	たくさんの バトルポイントが\l
+7502f75898732bde	たまって いくんだ。\p
+57740927831bfe7a	バトルポイントは どうぐと こうかん するなど\n
+2a8ec1c6eebf15c8	すきなように つかって くれ。$
+## BattleFrontier_ScottsHouse_Text_ExpectingGreatThings:
+1b2db243c4f116bf	きみには おおいに きたい しているよ!$
+## BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers:
+74647a63b4896d10	エニシダ: トレーナーは みんな ちがう。\n
+614c60ec9138de79	それぞれの じんせいを いきている。\p
+c8b43852aa161025	でも ひとたび しょうぶと なれば\n
+32e0839a45c6e895	だれで あろうと かんけいない。\p
+2205d2c131c59f94	みんな おなじ なんだ!\p
+24201fbd0ee96a0d	だれもが びょうどうな しょうぶの\n
+b309e341ff21e7d6	じゅんすいさが だいすき なんだ。\p
+5f6ececfc72dc244	だから わたしは ほんきで しょうぶする\n
+b915913a4e85f90e	トレーナーを もとめて あちこち まわり\l
+e4e920290ff0426a	ここに まねいて いるんだ。$
+## BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
+da3b209ec4f26d68	エニシダ: フロンティアブレーンには\n
+6a880bf3d40d9e49	もう あったかい?\p
+452b170362317336	それより シンボルは\n
+2e866e6bc3c29297	もう もらえたかな?\p
+cd33b0d2ded067fb	フロンティアブレーンは わたしが えらんだ\n
+18f1cffff952f0fc	さいきょうの トレーナーたち なんだ。\p
+1e3037053883cd2d	でも きみの つよさを みたら\n
+268357e7074fa998	かれらでも きっと おどろくよ!$
+## BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier:
+a84fd4ef78924c96	エニシダ: きみは しょうぶ だけを\n
+6bddc37168ca4fd7	きたえてる わけじゃ ないよね?\p
+1c37ac26132eeb27	たしか ポケモンずかんも\n
+58d7150548b173c0	つくって いたよね。\p
+dd6c12c225d35dd0	それで じつはね……\p
+e06d10d2b7ed6f3f	バトルフロンティアの どこかで\n
+0d0c0b3b47843b79	やせいの ポケモンに であえるかも……\l
+4616949dd09dc609	フフフ!$
+## BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols:
+5d3a14c61f6ab518	エニシダ: バトルフロンティアを\n
+73b8c115687cf0ff	たのしんで いるかい?\p
+182ea0a3a14e481c	…… ちょっと まって……\n
+22a619e249e511ca	おお!\p
+2007c5aff4282d8f	その フロンティアパス!\n
+5a607fb0a639db10	シルバーシンボルを\l
+781374a9366a5da5	ぜんぶ あつめたんだね!\p
+55408aab58d768c2	これは たいしたもんだ!\n
+cc9727a330028288	やっぱり きみは つよい!\p
+154108c7f128c5d7	ふだんは こんなこと しないんだけど\n
+0f798b38320ccef4	きょうは とくべつだ!\p
+0056f6bccbae0d3f	これを うけとって くれ。\n
+a7f08b4c38092f78	きみなら きっと うまく つかえるはずだ。$
+## BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols:
+154f436a213f19f8	エニシダ: バトルフロンティアを\n
+eff3233d660d1d6d	たのしんで くれてると いいな。\p
+dea1cb1c3e1a79a2	…… ちょっと まって……\n
+30b8338e1c77f323	おお! めを うたがうよ!\p
+78daec098d103b7b	その フロンティアパス!\n
+2b4567815d1ac447	ゴールドシンボルを\l
+381265465a494993	ぜんぶ そろえたんだね!\p
+790e27015ea27b90	これは すごすぎる!\n
+647b3c4b0b2a48e1	やっぱり きみは とんでもないよ!\p
+fea960993fce2d31	… … … … … …\p
+6274de0827925276	{PLAYER} これを ぜひ うけとって くれ!\p
+8922c8d82b309179	きみなら この おくりものの\n
+620ab884e6059aa5	ねうちが わかる はずだ!$
+## BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere:
+88fb5fd8741ed166	わたしには いい トレーナーを\n
+c9f3161fb093c670	みぬく めが あるんだよね。\p
+451df389b47d7673	きみを ここに つれてきて\n
+01b6585671cbe804	ほんとうに よかった!$
+## BattleFrontier_ScottsHouse_Text_BerryPocketStuffed:
+d817351f8baafa55	きのみポケットが\n
+a5363780846dfa7f	いっぱいの ようだね。$
+## BattleFrontier_ScottsHouse_Text_Beat50TrainersInARow:
+#REF	エニシダ『おっ きいたよ!\n
+6873b4f4aba1e2cf	エニシダ: おっ きいたよ!\n
+#REF	バトルタワーでの かつやく!\l
+7f9dc98fd3506fd3	バトルタワーでの かつやく!\l
+#REF	50にん いじょう かちぬいたって?\p
+23261b28c1079329	50にん いじょう かちぬいたって?\p
+#REF	すごいなあ きねんに\n
+da9f76bb960ee5b3	すごいなあ きねんに\n
+#REF	これを うけとって くれよ!$
+aef628ef236275b0	これを うけとって くれよ!$
+## BattleFrontier_ScottsHouse_Text_Beat100TrainersInARow:
+#REF	エニシダ『おおうっ きいたよ!\n
+20b9307bb75bd783	エニシダ: おおうっ きいたよ!\n
+#REF	バトルタワーでの だいかつやく!\l
+cc540ad23a2a72fd	バトルタワーでの だいかつやく!\l
+#REF	100にん いじょう かちぬいたって?\p
+75fcc325a98e12bc	100にん いじょう かちぬいたって?\p
+#REF	すごすぎるなー!\n
+c81ee4b138ecc7ad	すごすぎるなー!\n
+#REF	ぜひ これを きねんに うけとってくれ!$
+fdafd28dbe7e5eda	ぜひ これを きねんに うけとってくれ!$
+## BattleFrontier_ScottsHouse_Text_ExpectingToHearEvenGreaterThings:
+#REF	これからも ますます\n
+8dd1dfcb1a8b8a60	これからも ますます\n
+#REF	きたい しているよ!$
+a8026626ed532e61	きたい しているよ!$
+## BattleFrontier_ScottsHouse_Text_ComeBackForThisLater:
+#REF	……って にもつが いっぱいなら\n
+fd3341181bd66753	……って にもつが いっぱいなら\n
+#REF	とって おくから またおいで!$
+a50fdff8cbacdee5	とって おくから またおいで!$

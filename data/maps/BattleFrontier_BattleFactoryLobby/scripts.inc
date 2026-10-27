@@ -323,229 +323,229 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Single Tournament.$"
+	.string "{JPN}トレーナーの ちしきが\n"
+	.string "ためされる ばしょ!\p"
+	.string "バトルファクトリーへ ようこそ!\p"
+	.string "わたしは バトルトレード\n"
+	.string "シングルの うけつけ です$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Single challenge?$"
+	.string "{JPN}バトルトレード シングルに\n"
+	.string "ちょうせん しますか?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
-	.string "The Battle Swap Single Tournament\n"
-	.string "is a SINGLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save, you will be\n"
-	.string "disqualified from your challenge.$"
+	.string "{JPN}バトルトレード シングルは\n"
+	.string "レンタルポケモン だけを つかう\l"
+	.string "シングルバトルの たいかい です\p"
+	.string "まず この たいかい せんようの\n"
+	.string "ポケモンを 3びき おかしします\p"
+	.string "その レンタルポケモンを つかって\n"
+	.string "シングルバトルを おこないます\p"
+	.string "かてば レンタルポケモンを\n"
+	.string "1ぴき こうかん できます\p"
+	.string "バトルと こうかんを くりかえし\n"
+	.string "7かい れんぞくで かつと\l"
+	.string "バトルポイントが もらえます\p"
+	.string "ちょうせんを ちゅうだん するときは\n"
+	.string "かならず レポートを かいてください\p"
+	.string "レポートを かかないと\n"
+	.string "ちょうせんは しっかくと なります$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "{JPN}またの ごりようを おまちしていますよ!$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Open Level?$"
+	.string "{JPN}レベル50と オープンレベルの イベント\n"
+	.string "どちらに ちょうせん しますか?$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save the game. Is that okay?$"
+	.string "{JPN}では ちょうせんを はじめる まえに\n"
+	.string "レポートを かきますが よろしいですか?$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.string "{JPN}それでは ちょうせんの あいだ\n"
+	.string "ポケモンを おあずかり します!$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "{JPN}さあさあ こちらに どうぞ!$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save the event results.\n"
-	.string "Please wait.$"
+	.string "{JPN}おつかれさまでした!\p"
+	.string "レンタルポケモンと ひきかえに\n"
+	.string "あなたの ポケモンを おかえしします\p"
+	.string "たいかいの けっかを レポートに\n"
+	.string "かきますので おまちください$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "{JPN}レンタルポケモンと ひきかえに\n"
+	.string "あなたの ポケモンを おかえしします$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
-	.string "Congratulations! You've won seven\n"
-	.string "straight Battle Swap matches!$"
+	.string "{JPN}バトルトレード 7せん とっぱ\n"
+	.string "おめでとう ございます!$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
-	.string "In recognition of your 7-win streak,\n"
-	.string "we award you these Battle Point(s).$"
+	.string "{JPN}7れんしょうを きねんして\n"
+	.string "バトルポイントを さしあげます!$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
-	.string "Oh, oh, oh!\p"
-	.string "Your Battle Points are maxed.\p"
-	.string "Please come back after using\n"
-	.string "some Battle Points.$"
+	.string "{JPN}おやや?\p"
+	.string "バトルポイントが いっぱい ですねー\p"
+	.string "ポイントを ごりようしてから\n"
+	.string "また きてください!$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "{JPN}おまちしておりましたよ!\p"
+	.string "ちょうせんを さいかいする まえに\n"
+	.string "レポートを かきます!$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "{JPN}もうしわけ ありませんが ぜんかい\n"
+	.string "レポートを かかずに おわりましたね\p"
+	.string "そのため ちょうせんは\n"
+	.string "しっかくと なりました$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
-	.string "We'll return your personal POKéMON.$"
+	.string "{JPN}あなたの ポケモンを おかえしします$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\n"
+	.string "{ENG}{STR_VAR_1}{JPN}を もらった!$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Double Tournament.$"
+	.string "{JPN}トレーナーの ちしきが\n"
+	.string "ためされる ばしょ!\p"
+	.string "バトルファクトリーへ ようこそ!\p"
+	.string "わたしは バトルトレード\n"
+	.string "ダブルの うけつけ です$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Double challenge?$"
+	.string "{JPN}バトルトレード ダブルに\n"
+	.string "ちょうせん しますか?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
-	.string "The Battle Swap Double Tournament\n"
-	.string "is a DOUBLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a DOUBLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "{JPN}バトルトレード ダブルは\n"
+	.string "レンタルポケモン だけを つかう\l"
+	.string "ダブルバトルの たいかい です\p"
+	.string "まず この たいかい せんようの\n"
+	.string "ポケモンを 3びき おかしします\p"
+	.string "その レンタルポケモンを つかって\n"
+	.string "ダブルバトルを おこないます\p"
+	.string "かてば レンタルポケモンを\n"
+	.string "1ぴき こうかん できます\p"
+	.string "バトルと こうかんを くりかえし\n"
+	.string "7かい れんぞくで かつと\l"
+	.string "バトルポイントが もらえます\p"
+	.string "ちょうせんを ちゅうだん するときは\n"
+	.string "かならず レポートを かいてください\p"
+	.string "ちゅうだん まえに レポートを かかないと\n"
+	.string "しっかくと なります$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
-	.string "Congratulations for defeating\n"
-	.string "the FACTORY HEAD and winning\l"
-	.string "seven matches in a row!$"
+	.string "{JPN}ファクトリーヘッドへの しょうり!\n"
+	.string "ならびに 7れんしょう たっせい\l"
+	.string "おめでとう ございます!$"
 
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
-	.string "In recognition of your wealth of\n"
-	.string "knowledge and keen intelligence,\l"
-	.string "we award you these Battle Point(s).$"
+	.string "{JPN}あなたの ゆたかな ちしきと\n"
+	.string "するどい ちせいを たたえ\l"
+	.string "バトルポイントを さしあげます!$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
-	.string "Let me exchange your POKéMON\n"
-	.string "for our rental POKéMON.\p"
-	.string "I need to save the battle data,\n"
-	.string "so please wait.$"
+	.string "{JPN}あなたの ポケモンと\n"
+	.string "レンタルポケモンを こうかん します\p"
+	.string "バトルの データを レポートに かくので\n"
+	.string "しょうしょう おまちください$"
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
-	.string "Would you like to record your last\n"
-	.string "BATTLE FACTORY match on your\l"
-	.string "FRONTIER PASS?$"
+	.string "{JPN}バトルファクトリーで\n"
+	.string "さいごに おこなった たたかいを\l"
+	.string "フロンティアパスに きろく いたしますか?$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
-	.string "Hi!\n"
-	.string "You, there!\p"
-	.string "Are you thinking that the events here\n"
-	.string "are easy since you don't need to have\l"
-	.string "a raised team of POKéMON?\p"
-	.string "I wouldn't be too sure about winning\n"
-	.string "that easily.\p"
-	.string "If you don't have thorough knowledge\n"
-	.string "about POKéMON and their moves,\l"
-	.string "it will be tough to keep winning.$"
+	.string "{JPN}やあ!\n"
+	.string "そこの きみ!\p"
+	.string "ここの イベントは ポケモンを\n"
+	.string "そだてなくて いいから\l"
+	.string "かんたんだと おもってない?\p"
+	.string "そんなに かんたんに かてるとは\n"
+	.string "かぎらないよ\p"
+	.string "ポケモンと わざについて\n"
+	.string "しっかり しっていないと\l"
+	.string "かちつづけるのは むずかしいよ$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
-	.string "I swapped for a weak POKéMON…\n"
-	.string "I thought it was a good kind to have…\p"
-	.string "They wiped the floor with us…$"
+	.string "{JPN}よわい ポケモンと こうかん しちゃった…\n"
+	.string "いい しゅるいだと おもったのに…\p"
+	.string "ボロまけ……$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
-	.string "Things haven't been going my way\n"
-	.string "at all.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON during battle to see if\l"
-	.string "they're any good.$"
+	.string "{JPN}ぜんぜん うまく\n"
+	.string "いかないなあ\p"
+	.string "バトルちゅうに あいての ポケモンを\n"
+	.string "よく みて つよいか どうか\l"
+	.string "たしかめないと だめなんだね$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
-	.string "You know how the staff here give you\n"
-	.string "a few hints about your next opponent?\p"
-	.string "Well, I'm a full-grown man, but I have\n"
-	.string "trouble figuring out their hints.$"
+	.string "{JPN}ここの スタッフが つぎの あいての\n"
+	.string "ヒントを くれるでしょ?\p"
+	.string "いい おとなの わたしでも\n"
+	.string "あの ヒントは よく わからないんだ$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
-	.string "Like, I'm really tough, but I get bored\n"
-	.string "really easily, so I just kept swapping\l"
-	.string "and battling over and over.\p"
-	.string "So anyway, when I kept entering\n"
-	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental POKéMON.$"
+	.string "{JPN}なんか ちょー つよいんだけど すぐ あきるから\n"
+	.string "ひたすら こうかんと バトルを\l"
+	.string "くりかえしてたわけ\p"
+	.string "でさー バトルトレードに\n"
+	.string "なんども でてたら\l"
+	.string "レンタルポケモンが いろいろ ちがうのよ$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+	.string "{JPN}バトルトレードの ルールが かかれている!$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "{JPN}どの せつめいを よみますか?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "{JPN}バトルトレードで つかえる ポケモンは\n"
+	.string "3びき だけ です\p"
+	.string "レンタルでも こうかんでも\n"
+	.string "おなじ ポケモンを 2ひき いじょう\l"
+	.string "チームに いれる ことは できません$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.string "{JPN}ポケモンを こうかん できるのは\n"
+	.string "たおした ばかりの トレーナー だけです\p"
+	.string "こうかん できるのは まけた トレーナーが\n"
+	.string "つかっていた ポケモン だけです$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the seventh TRAINER in the event.$"
+	.string "{JPN}バトルに かつ たびに\n"
+	.string "たおした あいての ポケモンと\l"
+	.string "1ぴき こうかん できます\p"
+	.string "ただし 7にんめの トレーナーとは\n"
+	.string "ポケモンを こうかん できません$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.string "{JPN}ポケモンを こうかん するときは\n"
+	.string "2つの ポイントに ちゅういしてください\p"
+	.string "ひとつめ こうかん するとき\n"
+	.string "もらう ポケモンの のうりょくは\l"
+	.string "かくにん できません\p"
+	.string "ふたつめ チームの ポケモンは\n"
+	.string "レンタルした じゅんばんに\l"
+	.string "ならんで います\p"
+	.string "この じゅんばんは こうかんしても\n"
+	.string "かわりません$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
-	.string "In the Open Level, the rental POKéMON\n"
-	.string "and the opposing TRAINERS' POKéMON\l"
-	.string "are all Level 100.$"
+	.string "{JPN}オープンレベルでは レンタルポケモンも\n"
+	.string "あいての トレーナーの ポケモンも\l"
+	.string "すべて レベル100 です$"

@@ -131,34 +131,34 @@ Debug_FlagsNotSetOverworldConfigMessage::
 	goto Debug_MessageEnd
 
 Debug_FlagsNotSetOverworldConfigMessage_Text:
-	.string "Feature unavailable!\n"
-	.string "Please define a usable flag in:\l"
-	.string "'include/config/overworld.h'!$"
+	.string "{JPN}この きのうは つかえません!\n"
+	.string "つかえる フラグを ていぎしてください:\l"
+	.string "include/config/overworld.h$"
 
 Debug_FlagsNotSetBattleConfigMessage::
 	message Debug_FlagsNotSetBattleConfigMessage_Text
 	goto Debug_MessageEnd
 
 Debug_FlagsNotSetBattleConfigMessage_Text:
-	.string "Feature unavailable!\n"
-	.string "Please define a usable flag in:\l"
-	.string "'include/config/battle.h'!$"
+	.string "{JPN}この きのうは つかえません!\n"
+	.string "つかえる フラグを ていぎしてください:\l"
+	.string "include/config/battle.h$"
 
 Debug_VarsNotSetBattleConfigMessage::
 	message Debug_VarsNotSetBattleConfigMessage_Text
 	goto Debug_MessageEnd
 
 Debug_VarsNotSetBattleConfigMessage_Text:
-	.string "Feature unavailable!\n"
-	.string "Please define a usable var in:\l"
-	.string "'include/config/battle.h'!$"
+	.string "{JPN}この きのうは つかえません!\n"
+	.string "つかえる へんすうを ていぎしてください:\l"
+	.string "include/config/battle.h$"
 
 Debug_BoxFilledMessage::
 	message Debug_BoxFilledMessage_Text
 	goto Debug_MessageEnd
 
 Debug_BoxFilledMessage_Text:
-	.string "Storage boxes filled!$"
+	.string "{JPN}ボックスを うめました!$"
 
 Debug_EventScript_CheckEVs::
 	lockall
@@ -175,10 +175,10 @@ Debug_EventScript_CheckEVs_End::
 	end
 
 Debug_EventScript_Text_OffensiveEVs:
-	.string "ATK EVs: {STR_VAR_1}, SPATK EVs: {STR_VAR_2}, SPEED EVs: {STR_VAR_3}$"
+	.string "{JPN}A{ENG}{STR_VAR_1}{JPN} C{ENG}{STR_VAR_2}{JPN}\nS{ENG}{STR_VAR_3}{JPN} (どりょくち)$"
 
 Debug_EventScript_Text_DefensiveEVs:
-	.string "HP EVs: {STR_VAR_1}, DEF EVs: {STR_VAR_2}, SPDEF EVs: {STR_VAR_3}$"
+	.string "{JPN}H{ENG}{STR_VAR_1}{JPN} B{ENG}{STR_VAR_2}{JPN}\nD{ENG}{STR_VAR_3}{JPN} (どりょくち)$"
 
 Debug_EventScript_CheckIVs::
 	lockall
@@ -195,10 +195,10 @@ Debug_EventScript_CheckIVs_End::
 	end
 
 Debug_EventScript_Text_OffensiveIVs:
-	.string "ATK IVs: {STR_VAR_1}, SPATK IVs: {STR_VAR_2}, SPEED IVs: {STR_VAR_3}$"
+	.string "{JPN}A{ENG}{STR_VAR_1}{JPN} C{ENG}{STR_VAR_2}{JPN}\nS{ENG}{STR_VAR_3}{JPN} (こたいち)$"
 
 Debug_EventScript_Text_DefensiveIVs:
-	.string "HP IVs: {STR_VAR_1}, DEF IVs: {STR_VAR_2}, SPDEF IVs: {STR_VAR_3}$"
+	.string "{JPN}H{ENG}{STR_VAR_1}{JPN} B{ENG}{STR_VAR_2}{JPN}\nD{ENG}{STR_VAR_3}{JPN} (こたいち)$"
 
 @ Quest menu smoke test: unlock the QUESTS start-menu entry and start a quest
 Debug_EventScript_Script_1::
@@ -232,16 +232,16 @@ Debug_EventScript_Script_4::
 	end
 
 Debug_Text_NameboxVillain:
-	.string "DRACO, Team Mutrid:\n"
-	.string "the name should be red.$"
+	.string "{JPN}ドラコ ミュートリッドだん:\n"
+	.string "なまえは あかいろの はず$"
 
 Debug_Text_NameboxQuest:
-	.string "MASTER GEN, quest giver:\n"
-	.string "the name should be green.$"
+	.string "{JPN}ゲンししょう いらいぬし:\n"
+	.string "なまえは みどりいろの はず$"
 
 Debug_Text_NameboxDefault:
-	.string "PROFESSOR CLARKSON: white,\n"
-	.string "on a wide plate.$"
+	.string "{JPN}クラークソンはかせ: しろ\n"
+	.string "ひろい プレートで$"
 
 @ Portrait smoke test: Clarkson art (default = LEFT, flush on the plate),
 @ compose with namebox, swap to the right, hide
@@ -258,12 +258,12 @@ Debug_EventScript_Script_5::
 	end
 
 Debug_Text_PortraitLeft:
-	.string "Clarkson's portrait, default\n"
-	.string "LEFT, flush on the plate.$"
+	.string "{JPN}クラークソンの かおえ きほんは\n"
+	.string "ひだり プレートに ぴったり$"
 
 Debug_Text_PortraitRight:
-	.string "Placeholder swapped to the\n"
-	.string "RIGHT.$"
+	.string "{JPN}かりの かおえを\n"
+	.string "みぎに いれかえ$"
 
 @ Quest toast queue test: complete + start back-to-back -> two toasts in
 @ order (SE_SUCCESS then SE_PIN), no blocking, player can walk during both.
@@ -320,7 +320,7 @@ Debug_EventScript_ShadowTestKitDone::
 	return
 
 Debug_Text_ShadowTestDefeat:
-	.string "(debug) Shadow test battle over.$"
+	.string "{JPN}(デバッグ) シャドウ テストバトル しゅうりょう$"
 
 Debug_CheckSaveBlock::
 	callnative CheckSaveBlock1Size
@@ -335,20 +335,20 @@ Debug_CheckSaveBlock::
 	end
 
 Debug_SaveBlock1Size::
-	.string "SaveBlock1 size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
-	.string "Free space: {STR_VAR_3}b.$"
+	.string "{JPN}SB1 {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\n"
+	.string "あき: {ENG}{STR_VAR_3}{JPN}b$"
 
 Debug_SaveBlock2Size::
-	.string "SaveBlock2 size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
-	.string "Free space: {STR_VAR_3}b.$"
+	.string "{JPN}SB2 {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\n"
+	.string "あき: {ENG}{STR_VAR_3}{JPN}b$"
 
 Debug_SaveBlock3Size::
-	.string "SaveBlock3 size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
-	.string "Free space: {STR_VAR_3}b.$"
+	.string "{JPN}SB3 {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\n"
+	.string "あき: {ENG}{STR_VAR_3}{JPN}b$"
 
 Debug_PokemonStorageSize::
-	.string "{PKMN}Storage size: {STR_VAR_1}b/{STR_VAR_2}b.\n"
-	.string "Free space: {STR_VAR_3}b.$"
+	.string "{JPN}BOX {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\n"
+	.string "あき: {ENG}{STR_VAR_3}{JPN}b$"
 
 Debug_CheckROMSpace::
 	callnative CheckROMSize
@@ -357,8 +357,8 @@ Debug_CheckROMSpace::
 	end
 
 Debug_ROMSize::
-	.string "ROM size: {STR_VAR_1}MB/32MB.\n"
-	.string "Free space: {STR_VAR_2}MB.$"
+	.string "{JPN}ROM: {ENG}{STR_VAR_1}{JPN}MB/32MB\n"
+	.string "あき: {ENG}{STR_VAR_2}{JPN}MB$"
 
 Debug_HatchAnEgg::
 	lockall
@@ -384,10 +384,10 @@ DebugScript_HatchAnEgg_CantForceHatch::
 	end
 
 DebugScript_Text_EmptyParty::
-	.string "You have no Pokémon nor Eggs.$"
+	.string "{JPN}ポケモンも タマゴも いません$"
 
 DebugScript_HatchAnEgg_Text_NotAnEgg::
-	.string "That's not a Pokémon Egg.$"
+	.string "{JPN}それは ポケモンの タマゴでは ありません$"
 
 DebugScript_ZeroDaycareMons::
 	msgbox DebugText_DaycareNoPokemon, MSGBOX_DEFAULT
@@ -405,13 +405,13 @@ DebugScript_DaycareMonsNotCompatible::
 	end
 
 DebugText_DaycareNoPokemon:
-	.string "You have no Pokémon at Daycare.$"
+	.string "{JPN}あずかりやに ポケモンが いません$"
 
 DebugText_DaycareOnePokemon:
-	.string "You have only one Pokémon at Daycare.$"
+	.string "{JPN}あずかりやに ポケモンが 1ぴきだけです$"
 
 DebugText_DaycarePokemonNotCompatible:
-	.string "Your Pokémon at Daycare can't\nhave babies together!$"
+	.string "{JPN}あずかりやの ポケモンどうしでは\nタマゴが できません!$"
 
 Debug_ShowExpansionVersion::
 	callnative BufferExpansionVersion
@@ -420,7 +420,7 @@ Debug_ShowExpansionVersion::
 	end
 
 Debug_ExpansionVersion:
-	.string "pokeemerald-expansion {STR_VAR_1}$"
+	.string "{JPN}pokeemerald-expansion\n{ENG}{STR_VAR_1}{JPN}$"
 
 Debug_Follower_NPC_Not_Enabled::
 	msgbox Debug_Enable_To_Use_Follower_NPCs, MSGBOX_DEFAULT
@@ -428,7 +428,7 @@ Debug_Follower_NPC_Not_Enabled::
 	end
 
 Debug_Enable_To_Use_Follower_NPCs:
-	.string "Feature unavailable.\nSet FNPC_ENABLE_NPC_FOLLOWERS to\lTRUE in 'include/config/follower_npc.h'.$"
+	.string "{JPN}つかえません: follower_npc.hの\nFNPC_ENABLE_NPC_FOLLOWERS\lを TRUEに してください$"
 
 Debug_Follower_NPC_Event_Script::
 	lock
@@ -438,7 +438,7 @@ Debug_Follower_NPC_Event_Script::
 	end
 
 Debug_Follower_NPC_Test_Message:
-	.string "This is a Follower NPC test.$"
+	.string "{JPN}つれあるき NPCの テストです$"
 
 Debug_EventScript_Steven_Multi::
 	call MossdeepCity_SpaceCenter_2F_EventScript_ChoosePartyForMultiBattle
@@ -459,8 +459,8 @@ Debug_BerryPestsDisabled::
 	end
 
 DebugText_BerryPestsDisabled:
-	.string "OW_BERRY_PESTS is disabled.\n"
-	.string "Unable to force pests onto berry trees.$"
+	.string "{JPN}OW_BERRY_PESTSが オフです\n"
+	.string "きのみの きに むしを だせません$"
 
 Debug_BerryWeedsDisabled::
 	msgbox DebugText_BerryWeedsDisabled, MSGBOX_DEFAULT
@@ -468,8 +468,8 @@ Debug_BerryWeedsDisabled::
 	end
 
 DebugText_BerryWeedsDisabled:
-	.string "OW_BERRY_WEEDS is disabled.\n"
-	.string "Unable to force weeds onto berry trees.$"
+	.string "{JPN}OW_BERRY_WEEDSが オフです\n"
+	.string "きのみの きに ざっそうを だせません$"
 
 Debug_EventScript_InflictStatus1::
 	lockall
@@ -666,85 +666,85 @@ Debug_EventScript_InflictStatus1_Party_Frostbite:
 	end
 
 Debug_EventScript_InflictStatus1_Text_Single:
-	.string "Single$"
+	.string "{JPN}1ぴき$"
 
 Debug_EventScript_InflictStatus1_Text_PartyWide:
-	.string "Party-wide$"
+	.string "{JPN}てもち ぜんいん$"
 
 Debug_EventScript_InflictStatus1_Text_Close:
-	.string "Close$"
+	.string "{JPN}とじる$"
 
 Debug_EventScript_InflictStatus1_Text_Poison:
-	.string "Poison$"
+	.string "{JPN}どく$"
 
 Debug_EventScript_InflictStatus1_Text_Paralysis:
-	.string "Paralysis$"
+	.string "{JPN}まひ$"
 
 Debug_EventScript_InflictStatus1_Text_Sleep:
-	.string "Sleep$"
+	.string "{JPN}ねむり$"
 
 Debug_EventScript_InflictStatus1_Text_Burn:
-	.string "Burn$"
+	.string "{JPN}やけど$"
 
 Debug_EventScript_InflictStatus1_Text_Freeze:
-	.string "Freeze$"
+	.string "{JPN}こおり$"
 
 Debug_EventScript_InflictStatus1_Text_Frostbite:
-	.string "Frostbite$"
+	.string "{JPN}しもやけ$"
 
 Debug_EventScript_InflictStatus1_Text_KO:
-	.string "KO$"
+	.string "{JPN}ひんし$"
 
 Debug_EventScript_ChangeNature_Text_Hardy:
-	.string "Hardy$"
+	.string "{JPN}がんばりや$"
 Debug_EventScript_ChangeNature_Text_Lonely:
-	.string "Lonely$"
+	.string "{JPN}さみしがり$"
 Debug_EventScript_ChangeNature_Text_Brave:
-	.string "Brave$"
+	.string "{JPN}ゆうかん$"
 Debug_EventScript_ChangeNature_Text_Adamant:
-	.string "Adamant$"
+	.string "{JPN}いじっぱり$"
 Debug_EventScript_ChangeNature_Text_Naughty:
-	.string "Naughty$"
+	.string "{JPN}やんちゃ$"
 Debug_EventScript_ChangeNature_Text_Bold:
-	.string "Bold$"
+	.string "{JPN}ずぶとい$"
 Debug_EventScript_ChangeNature_Text_Docile:
-	.string "Docile$"
+	.string "{JPN}すなお$"
 Debug_EventScript_ChangeNature_Text_Relaxed:
-	.string "Relaxed$"
+	.string "{JPN}のんき$"
 Debug_EventScript_ChangeNature_Text_Impish:
-	.string "Impish$"
+	.string "{JPN}わんぱく$"
 Debug_EventScript_ChangeNature_Text_Lax:
-	.string "Lax$"
+	.string "{JPN}のうてんき$"
 Debug_EventScript_ChangeNature_Text_Timid:
-	.string "Timid$"
+	.string "{JPN}おくびょう$"
 Debug_EventScript_ChangeNature_Text_Hasty:
-	.string "Hasty$"
+	.string "{JPN}せっかち$"
 Debug_EventScript_ChangeNature_Text_Serious:
-	.string "Serious$"
+	.string "{JPN}まじめ$"
 Debug_EventScript_ChangeNature_Text_Jolly:
-	.string "Jolly$"
+	.string "{JPN}ようき$"
 Debug_EventScript_ChangeNature_Text_Naive:
-	.string "Naive$"
+	.string "{JPN}むじゃき$"
 Debug_EventScript_ChangeNature_Text_Modest:
-	.string "Modest$"
+	.string "{JPN}ひかえめ$"
 Debug_EventScript_ChangeNature_Text_Mild:
-	.string "Mild$"
+	.string "{JPN}おっとり$"
 Debug_EventScript_ChangeNature_Text_Quiet:
-	.string "Quiet$"
+	.string "{JPN}れいせい$"
 Debug_EventScript_ChangeNature_Text_Bashful:
-	.string "Bashful$"
+	.string "{JPN}てれや$"
 Debug_EventScript_ChangeNature_Text_Rash:
-	.string "Rash$"
+	.string "{JPN}うっかりや$"
 Debug_EventScript_ChangeNature_Text_Calm:
-	.string "Calm$"
+	.string "{JPN}おだやか$"
 Debug_EventScript_ChangeNature_Text_Gentle:
-	.string "Gentle$"
+	.string "{JPN}おとなしい$"
 Debug_EventScript_ChangeNature_Text_Sassy:
-	.string "Sassy$"
+	.string "{JPN}なまいき$"
 Debug_EventScript_ChangeNature_Text_Careful:
-	.string "Careful$"
+	.string "{JPN}しんちょう$"
 Debug_EventScript_ChangeNature_Text_Quirky:
-	.string "Quirky$"
+	.string "{JPN}きまぐれ$"
 
 Debug_EventScript_EWRAMCounters::
 	callnative CheckEWRAMCounters
@@ -753,111 +753,111 @@ Debug_EventScript_EWRAMCounters::
 	end
 
 Debug_EventScript_EWRAMCounters_Text::
-	.string "Follower Steps: {STR_VAR_1}.\n"
-	.string "Fishing Chain: {STR_VAR_2}.$"
+	.string "{JPN}つれあるき ほすう: {ENG}{STR_VAR_1}{JPN}\n"
+	.string "つりの れんさ: {ENG}{STR_VAR_2}{JPN}$"
 
 Debug_EventScript_FontTest_Text_1::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Angel Adept Blind Bodice Clique\n"
-	.string "Coast Dunce Docile Enact Eosin\l"
-	.string "Furlong Focal Gnome Gondola Human\l"
-	.string "Hoist Inlet Iodine Justin Jocose\l"
-	.string "Knoll Koala Linden Loads Milliner\l"
-	.string "Modal Number Nodule Onset Oddball\l"
-	.string "Pneumo Poncho Quanta Qophs Rhone\l"
-	.string "Roman Snout Sodium Tundra Tocsin\l"
-	.string "Uncle Udder Vulcan Vocal Whale\l"
-	.string "Woman Xmas Xenon Yunnan Young\l"
-	.string "Zloty Zodiac.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "あいうえお かきくけこ さしすせそ\n"
+	.string "たちつてと なにぬねの はひふへほ\l"
+	.string "まみむめも やゆよ らりるれろ\l"
+	.string "わをん がぎぐげご ざじずぜぞ\l"
+	.string "だぢづでど ばびぶべぼ ぱぴぷぺぽ\l"
+	.string "ぁぃぅぇぉ っゃゅょ\l"
+	.string "アイウエオ カキクケコ サシスセソ\l"
+	.string "タチツテト ナニヌネノ ハヒフヘホ\l"
+	.string "マミムメモ ヤユヨ ラリルレロ\l"
+	.string "ワヲン ガギグゲゴ パピプペポ\l"
+	.string "ァィゥェォ ッャュョ ヴ$"
 
 Debug_EventScript_FontTest_Text_2::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Angel angel adept for the nuance loads\n"
-	.string "of the arena cocoa and quaalude. Blind\l"
-	.string "blind bodice for the submit oboe of the\l"
-	.string "club snob and abbot. Clique clique\l"
-	.string "coast for the pouch loco of the franc\l"
-	.string "assoc and accede. Dunce dunce docile\l"
-	.string "for the loudness mastodon of the\l"
-	.string "loud statehood and huddle.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "いろはにほへと ちりぬるを\n"
+	.string "わかよたれそ つねならむ\l"
+	.string "ういのおくやま けふこえて\l"
+	.string "あさきゆめみし えひもせす\l"
+	.string "とりなくこえす ゆめさませ\l"
+	.string "みよあけわたる ひんかしを\l"
+	.string "そらいろはえて おきつへに\l"
+	.string "ほふねむれいぬ もやのうち$"
 
 Debug_EventScript_FontTest_Text_3::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Enact enact eosin for the quench coed\n"
-	.string "of the pique canoe and bleep. Furlong\l"
-	.string "furlong focal for the genuflect\l"
-	.string "profound of the motif aloof and offers.\l"
-	.string "Gnome gnome gondola for the impugn\l"
-	.string "logos of the unplug analog and smuggle.\l"
-	.string "Human human hoist for the buddhist\l"
-	.string "alcohol of the riyadh caliph and\l"
-	.string "bathhouse.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "あめつち ほし そら やま かは\n"
+	.string "みね たに くも きり むろ こけ\l"
+	.string "ひと いぬ うへ すえ ゆわ さる\l"
+	.string "おふせよ えのえを なれいて\l"
+	.string "ガラガラ ゴロゴロ ザブザブ\l"
+	.string "ズンズン ダダダッ ドドドド\l"
+	.string "バリバリ ピカピカ ブルブル\l"
+	.string "ベタベタ ポカポカ パタパタ\l"
+	.string "ヴァ ヴィ ヴ ヴェ ヴォ$"
 
 Debug_EventScript_FontTest_Text_4::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Inlet inlet iodine for the quince\n"
-	.string "champion of the ennui scampi and shiite.\l"
-	.string "Justin justin jocose for the djibouti\l"
-	.string "sojourn of the oranj raj and hajjis.\l"
-	.string "Knoll knoll koala for the banknote\l"
-	.string "lookout of the dybbuk outlook and\l"
-	.string "trekked. Linden linden loads for the\l"
-	.string "ulna monolog of the consul menthol and\l"
-	.string "shallot.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "キャ キュ キョ シャ シュ ショ\n"
+	.string "チャ チュ チョ ニャ ニュ ニョ\l"
+	.string "ヒャ ヒュ ヒョ ミャ ミュ ミョ\l"
+	.string "リャ リュ リョ ギャ ギュ ギョ\l"
+	.string "ジャ ジュ ジョ ビャ ビュ ビョ\l"
+	.string "ピャ ピュ ピョ ティ ディ トゥ\l"
+	.string "ファ フィ フェ フォ ウィ ウェ\l"
+	.string "シェ ジェ チェ ツァ ツォ デュ\l"
+	.string "イェ クァ グァ$"
 
 Debug_EventScript_FontTest_Text_5::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Milliner milliner modal for the alumna\n"
-	.string "solomon of the album custom and summon.\l"
-	.string "Number number nodule for the unmade\l"
-	.string "economic of the shotgun bison and\l"
-	.string "tunnel. Onset onset oddball for the\l"
-	.string "abandon podium of the antiquo tempo\l"
-	.string "and moonlit. Pneumo pneumo poncho for\l"
-	.string "the dauphin opossum of the holdup\l"
-	.string "bishop and supplies.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "ABCDEFGHIJKLM\n"
+	.string "NOPQRSTUVWXYZ\l"
+	.string "abcdefghijklm\l"
+	.string "nopqrstuvwxyz\l"
+	.string "0123456789\l"
+	.string "! ? … ・ ー 「 」 『 』\l"
+	.string "( ) : / ~ ♂ ♀ 円\l"
+	.string "ピカチュウ フシギダネ ヒトカゲ\l"
+	.string "ゼニガメ ポッチャマ ナエトル$"
 
 Debug_EventScript_FontTest_Text_6::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Quanta quanta qophs for the inquest\n"
-	.string "sheqel of the cinq coq and suqqu. Rhone\l"
-	.string "rhone roman for the burnt porous of the\l"
-	.string "lemur clamor and carrot. Snout snout\l"
-	.string "sodium for the ensnare bosom of the\l"
-	.string "genus pathos and missing. Tundra\l"
-	.string "tundra tocsin for the nutmeg isotope\l"
-	.string "of the peasant ingot and ottoman.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "きょうは いい てんきですね\n"
+	.string "あしたも はれると いいな\l"
+	.string "ポケモンセンターで ひとやすみ\l"
+	.string "フレンドリィショップで かいもの\l"
+	.string "くさむらから やせいの ポケモン\l"
+	.string "モンスターボールを なげた!\l"
+	.string "やったー! ポケモンを\l"
+	.string "つかまえたぞ!$"
 
 Debug_EventScript_FontTest_Text_7::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Uncle uncle udder for the dunes cloud\n"
-	.string "of the hindu thou and continuum. Vulcan\l"
-	.string "vulcan vocal for the alluvial ovoid of\l"
-	.string "the yugoslav chekhov and revved. Whale\l"
-	.string "whale woman for the meanwhile blowout\l"
-	.string "of the forepaw meadow and glowworm.\l"
-	.string "Xmas xmas xenon for the bauxite\l"
-	.string "doxology of the tableaux equinox and\l"
-	.string "exxon.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "すもももももももものうち\n"
+	.string "なまむぎ なまごめ なまたまご\l"
+	.string "となりの きゃくは よく\l"
+	.string "かきくう きゃくだ\l"
+	.string "あかまきがみ あおまきがみ\l"
+	.string "きまきがみ\l"
+	.string "ぼうずが びょうぶに じょうずに\l"
+	.string "ぼうずの えを かいた\l"
+	.string "おしまい$"
 
 Debug_EventScript_FontTest_Text_8::
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "Yunnan yunnan young for the dynamo\n"
-	.string "coyote of the obloquy employ and\l"
-	.string "sayyid. Zloty zloty zodiac for the gizmo\l"
-	.string "ozone of the franz laissez and buzzing.$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "とうきょう とっきょ きょかきょく\n"
+	.string "バスガス ばくはつ\l"
+	.string "かえるぴょこぴょこ みぴょこぴょこ\l"
+	.string "あわせて ぴょこぴょこ むぴょこぴょこ$"
 
 
 Debug_EventScript_FontTest_Text_9::                 @ Special thanks to Nintendo for this nice pangram to test other glyphs
-	.string "{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
-	.string "42 × 138 = 5796.\n"
-	.string "Mr Jock, TV quiz PhD: bags 20% fewer\l"
-	.string "lynx at a café; voilà, they're “worth”\l"
-	.string "♂1/♀1 = ¥1. That's 10 + 9 - 8 = 11\l"
-	.string "Nintendo GBA can connect to a Nintendo\l"
-	.string "GameCube console! He claimed-though I don't\l"
-	.string "believe him-to have done so in an eyes-shut\l"
-	.string "state…?$"
+	.string "{JPN}{FONT_SMALL_NARROWER}"                 @ Edit this to test your font
+	.string "42 × 138 = 5796\n"
+	.string "テレビ クイズの はかせ いわく\l"
+	.string "カフェで みた ヤマネコは 2わり へり\l"
+	.string "♂1/♀1 = 1円 10 + 9 - 8 = 11\l"
+	.string "ゲームボーイアドバンスは\l"
+	.string "ゲームキューブと つながる! と\l"
+	.string "かれは いうけど めを つぶって\l"
+	.string "やったって ほんとかな…?$"
 
 Debug_PrintFontTest::
 	msgbox Debug_EventScript_FontTest_Text_1, MSGBOX_DEFAULT
@@ -909,15 +909,15 @@ Debug_EventScript_FakeRTCNotEnabled::
 	return
 
 Debug_EventScript_FakeRTCNotEnabled_Text_0:
-	.string "You currently do not have Fake RTC\nenabled. Please enable it in include/\lconfig/overworld.h$"
+	.string "{JPN}Fake RTCが ゆうこうに なっていません\ninclude/config/overworld.h\lで ゆうこうに してください$"
 
 
 Debug_EventScript_TellTheTime_Text_0:
-	.string "Time and date:\n"
-	.string "{STR_VAR_1}, {STR_VAR_2}:{STR_VAR_3}$"
+	.string "{JPN}にちじ: "
+	.string "{ENG}{STR_VAR_1}{JPN}\n{ENG}{STR_VAR_2}{JPN}:{ENG}{STR_VAR_3}{JPN}$"
 
 DebugEventScript_PrintWeekday_Text_0:
-	.string "Time of day: {STR_VAR_1}$"
+	.string "{JPN}じかんたい: {ENG}{STR_VAR_1}{JPN}$"
 
 @ ===========================================================================
 @  WoT Mega Dimension (debug menu -> Scripts -> Mega Dim)
@@ -948,8 +948,8 @@ Debug_EventScript_MegaDimRival::
 	end
 
 Debug_Text_MegaDimRival:
-	.string "Next portal trip: rival {STR_VAR_1}\n"
-	.string "(1 Canari ... 6 Jacinthe).$"
+	.string "{JPN}つぎの ポータル: ライバル {ENG}{STR_VAR_1}{JPN}\n"
+	.string "(1 カナリィ … 6 ジャサント)$"
 
 @ "shiny": the next trip in deals its first wild Pokemon shiny, to check it
 @ stays shiny (and put) when you leave and come back through the same portal.
@@ -960,8 +960,8 @@ Debug_EventScript_MegaDimShiny::
 	end
 
 Debug_Text_MegaDimShiny:
-	.string "Next portal trip: the first\n"
-	.string "wild Pokemon is shiny.$"
+	.string "{JPN}つぎの ポータル: さいしょの\n"
+	.string "やせいの ポケモンが いろちがい$"
 
 @ "Mable next": jumps Mable's quest chain to its next call, as if earned.
 @ Collecting -> all 19 stones claimed and reported (Two Minutes completes) and
@@ -979,8 +979,8 @@ Debug_EventScript_MegaDimMableNextDone::
 	end
 
 Debug_Text_MegaDimMableNext:
-	.string "Mable stage {STR_VAR_1} (1 tests, 3 Rayquaza\n"
-	.string "call). Her call rings when free.$"
+	.string "{JPN}モミジ だんかい{ENG}{STR_VAR_1}{JPN} (1テスト\n"
+	.string "3レックウザ でんわ) あいてると でんわが なる$"
 
 @ "intro": forget the Mega Doomsday intro, so walking down Tradewind's
 @ arrival corridor (y=6) replays it. Portals stay shut until it has played.
@@ -991,5 +991,5 @@ Debug_EventScript_MegaDimIntro::
 	end
 
 Debug_Text_MegaDimIntro:
-	.string "Mega Doomsday intro reset. Walk\n"
-	.string "down into Tradewind to replay it.$"
+	.string "{JPN}メガの しゅうまつ イントロを リセット\n"
+	.string "トレードウィンドへ おりると さいせい$"

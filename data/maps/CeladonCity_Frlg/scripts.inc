@@ -103,116 +103,116 @@ CeladonCity_EventScript_GameCornerSign::
 	end
 
 CeladonCity_Text_GotMyKoffingInCinnabar::
-	.string "I got my KOFFING in CINNABAR.\p"
-	.string "It's usually nice, but it breathes\n"
-	.string "poison when it's angry.$"
+	.string "{JPN}おれの ドガースは グレンじまで ゲットした。\p"
+	.string "ふだんは おとなしいけど おこると\n"
+	.string "どくガスを はくんだ。$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
-	.string "Heheh! This GYM is great!\n"
-	.string "It's full of women!$"
+	.string "{JPN}へへっ! この ジムは さいこう!\n"
+	.string "おんなのこ ばっかりだ!$"
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
-	.string "CELADON takes pride in its efforts\n"
-	.string "to keep the city beautiful.\p"
-	.string "That's why the new GAME CORNER is\n"
-	.string "bad for our city's image.$"
+	.string "{JPN}タマムシは まちを うつくしく たもつ\n"
+	.string "どりょくを ほこりに しているの。\p"
+	.string "だから あたらしい ゲームコーナーは\n"
+	.string "まちの イメージを わるくするわ。$"
 
 CeladonCity_Text_BlewItAllAtSlots::
-	.string "Moan…\n"
-	.string "I blew it all at the slots!\p"
-	.string "I knew I should have cashed in my\n"
-	.string "COINS for prizes!$"
+	.string "{JPN}うう…\n"
+	.string "スロットで ぜんぶ すっちまった!\p"
+	.string "コインを けいひんに かえておけば\n"
+	.string "よかったんだ!$"
 
 CeladonCity_Text_MyTrustedPalPoliwrath::
-	.string "This is my trusted pal, POLIWRATH.\p"
-	.string "It evolved from a POLIWHIRL when\n"
-	.string "I used a WATER STONE.$"
+	.string "{JPN}こいつは しんらいする あいぼう ニョロボン。\p"
+	.string "みずのいしを つかったら\n"
+	.string "ニョロゾから しんか したんだ。$"
 
 CeladonCity_Text_Poliwrath::
-	.string "POLIWRATH: Ribi ribit!$"
+	.string "{JPN}ニョロボン: ニョロ ニョロッ!$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
-	.string "What are you staring at?\n"
-	.string "Get lost, or I'll punch you.$"
+	.string "{JPN}なに じろじろ みてんだ?\n"
+	.string "うせろ! さもないと なぐるぞ。$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-	.string "Keep out of TEAM ROCKET's way!$"
+	.string "{JPN}ロケットだんの じゃまを するなよ!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
-	.string "TRAINER TIPS\p"
-	.string "X ACCURACY boosts the accuracy of\n"
-	.string "techniques.\p"
-	.string "DIRE HIT jacks up the likelihood\n"
-	.string "of critical hits.\p"
-	.string "Get your items at the CELADON\n"
-	.string "DEPT. STORE!$"
+	.string "{JPN}おとくな けいじばん!!\p"
+	.string "ヨクアタールは わざの めいちゅうりつを\n"
+	.string "あげる。\p"
+	.string "クリティカッターは きゅうしょに\n"
+	.string "あたる かくりつを ぐんと あげる。\p"
+	.string "どうぐは タマムシデパートで\n"
+	.string "かおう!$"
 
 CeladonCity_Text_CitySign::
-	.string "CELADON CITY\n"
-	.string "The City of Rainbow Dreams$"
+	.string "{JPN}タマムシシティ\n"
+	.string "にじいろの ゆめの まち$"
 
 CeladonCity_Text_GymSign::
-	.string "CELADON CITY POKéMON GYM\n"
-	.string "LEADER: ERIKA\l"
-	.string "The Nature-Loving Princess!$"
+	.string "{JPN}タマムシシティ ポケモンジム\n"
+	.string "リーダー: エリカ\l"
+	.string "しぜんを あいする おじょうさま!$"
 
 CeladonCity_Text_MansionSign::
-	.string "CELADON MANSION$"
+	.string "{JPN}タマムシマンション$"
 
 CeladonCity_Text_DeptStoreSign::
-	.string "Find what you need at the\n"
-	.string "CELADON DEPT. STORE!$"
+	.string "{JPN}ほしいものは\n"
+	.string "タマムシデパートで!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-	.string "TRAINER TIPS\p"
-	.string "GUARD SPEC. protects POKéMON\n"
-	.string "from status-reduction moves during\l"
-	.string "battle.\p"
-	.string "Get your items at the\n"
-	.string "CELADON DEPT. STORE!$"
+	.string "{JPN}おとくな けいじばん!!\p"
+	.string "エフェクトガードは せんとうちゅう\n"
+	.string "のうりょくを さげる わざから\l"
+	.string "ポケモンを まもる。\p"
+	.string "どうぐは\n"
+	.string "タマムシデパートで かおう!$"
 
 CeladonCity_Text_PrizeExchangeSign::
-	.string "COINS exchanged for prizes!\n"
-	.string "PRIZE EXCHANGE$"
+	.string "{JPN}コインを けいひんと こうかん!\n"
+	.string "けいひん こうかんじょ$"
 
 CeladonCity_Text_GameCornerSign::
-	.string "ROCKET GAME CORNER\n"
-	.string "The playground for grown-ups!$"
+	.string "{JPN}ロケット ゲームコーナー\n"
+	.string "おとなの あそびば!$"
 
 CeladonCity_Text_ScaldedTongueOnTea::
-	.string "Aaaagh, ow…\n"
-	.string "I scalded my tongue!\p"
-	.string "This nice old lady in the MANSION\n"
-	.string "gave me some TEA.\p"
-	.string "But it was boiling hot!\n"
-	.string "Gotta cool it to drink it.$"
+	.string "{JPN}あちちっ いてて…\n"
+	.string "したを やけど しちゃった!\p"
+	.string "マンションの やさしい おばあさんが\n"
+	.string "おちゃを くれたんだ。\p"
+	.string "でも すごく あつかった!\n"
+	.string "さまさないと のめないよ。$"
 
 Text_SoftboiledTeach::
-	.string "Hello, there!\p"
-	.string "I've seen you about, but I never\n"
-	.string "had a chance to chat.\p"
-	.string "It must be good luck that brought\n"
-	.string "us together finally.\p"
-	.string "I'd like to celebrate by teaching\n"
-	.string "you the move SOFTBOILED.$"
+	.string "{JPN}こんにちは!\p"
+	.string "あなたの ことは みかけてたけど\n"
+	.string "はなす きかいが なかったわ。\p"
+	.string "やっと であえたのは きっと\n"
+	.string "うんが よかったのね。\p"
+	.string "おいわいに タマゴうみ という\n"
+	.string "わざを おしえて あげたいわ。$"
 
 Text_SoftboiledDeclined::
-	.string "I'll always be keeping an eye out\n"
-	.string "for you.\p"
-	.string "I hope we can chat again.$"
+	.string "{JPN}これからも ずっと あなたを\n"
+	.string "みまもって いるわ。\p"
+	.string "また おはなし できると いいわね。$"
 
 Text_SoftboiledWhichMon::
-	.string "So, who's the POKéMON that gets\n"
-	.string "the chance to learn SOFTBOILED?$"
+	.string "{JPN}それで タマゴうみを おぼえる\n"
+	.string "チャンスを もらう ポケモンは どの こ?$"
 
 Text_SoftboiledTaught::
-	.string "I wish you the best of luck!$"
+	.string "{JPN}あなたの こううんを いのってるわ!$"
 
 CeladonCity_Text_SomeoneStoleSilphScope::
-	.string "Oh, what am I to do…\p"
-	.string "Someone stole our SILPH SCOPE.\p"
-	.string "The thief came running this way,\n"
-	.string "I'm sure of it.\p"
-	.string "But I lost sight of him!\n"
-	.string "Where'd he go?$"
+	.string "{JPN}ああ どうしたら いいんだ…\p"
+	.string "だれかに シルフスコープを ぬすまれた。\p"
+	.string "どろぼうは こっちへ はしってきた\n"
+	.string "それは たしかなんだ。\p"
+	.string "でも みうしなって しまった!\n"
+	.string "どこへ いったんだ?$"
 

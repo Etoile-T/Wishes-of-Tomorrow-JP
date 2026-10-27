@@ -7,14 +7,14 @@ FiveIsland_LostCave_Room4_EventScript_Laura::
 	end
 
 FiveIsland_LostCave_Room4_Text_LauraIntro::
-	.string "I think there is a mysterious power\n"
-	.string "at work in this cave.$"
+	.string "{JPN}この どうくつには ふしぎな ちからが\n"
+	.string "はたらいて いると おもうの。$"
 
 FiveIsland_LostCave_Room4_Text_LauraDefeat::
-	.string "If you don't go into the right\n"
-	.string "tunnel, you won't get ahead.$"
+	.string "{JPN}ただしい トンネルに はいらないと\n"
+	.string "さきへは すすめないわよ。$"
 
 FiveIsland_LostCave_Room4_Text_LauraPostBattle::
-	.string "Earlier, a lady went into the caves\n"
-	.string "ahead.$"
+	.string "{JPN}さっき おんなのひとが どうくつの\n"
+	.string "おくへ はいって いったわ。$"
 

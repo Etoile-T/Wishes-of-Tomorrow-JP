@@ -6,115 +6,115 @@ Route11_EventScript_DiglettsCaveSign::
 	end
 
 Route11_Text_HugoIntro::
-	.string "Win, lose, or draw!$"
+	.string "{JPN}かっても まけても ひきわけでも!$"
 
 Route11_Text_HugoDefeat::
-	.string "Atcha!\n"
-	.string "Didn't go my way!$"
+	.string "{JPN}あちゃ!\n"
+	.string "うまく いかなかった!$"
 
 Route11_Text_HugoPostBattle::
-	.string "POKéMON is life!\n"
-	.string "And to live is to play games!$"
+	.string "{JPN}ポケモンは じんせいだ!\n"
+	.string "いきるとは ゲームを することだ!$"
 
 Route11_Text_JasperIntro::
-	.string "Competition!\n"
-	.string "I can't get enough!$"
+	.string "{JPN}しょうぶ!\n"
+	.string "やめられないぜ!$"
 
 Route11_Text_JasperDefeat::
-	.string "I had a chance!$"
+	.string "{JPN}かてる チャンスは あったのに!$"
 
 Route11_Text_JasperPostBattle::
-	.string "You can't be a coward in the world\n"
-	.string "of POKéMON!$"
+	.string "{JPN}ポケモンの せかいで\n"
+	.string "おくびょうものじゃ やっていけない!$"
 
 Route11_Text_EddieIntro::
-	.string "Let's go, but don't cheat!$"
+	.string "{JPN}いくぞ でも ズルは なしだぞ!$"
 
 Route11_Text_EddieDefeat::
-	.string "Huh?\n"
-	.string "That's not right!$"
+	.string "{JPN}あれ?\n"
+	.string "こんな はずじゃ!$"
 
 Route11_Text_EddiePostBattle::
-	.string "I did my best.\n"
-	.string "I have no regrets.$"
+	.string "{JPN}ぜんりょくを だした\n"
+	.string "こうかいは してないよ$"
 
 Route11_Text_BraxtonIntro::
-	.string "Careful!\n"
-	.string "I'm laying down some cables!$"
+	.string "{JPN}あぶない!\n"
+	.string "ケーブルを ひいてる ところだ!$"
 
 Route11_Text_BraxtonDefeat::
-	.string "That was electric!$"
+	.string "{JPN}しびれる しょうぶだった!$"
 
 Route11_Text_BraxtonPostBattle::
-	.string "Spread the word to save energy!$"
+	.string "{JPN}しょうエネを みんなに ひろめてくれ!$"
 
 Route11_Text_DillonIntro::
-	.string "I just became a TRAINER.\n"
-	.string "But, I think I can win.$"
+	.string "{JPN}トレーナーに なった ばかりだけど\n"
+	.string "かてると おもうんだ$"
 
 Route11_Text_DillonDefeat::
-	.string "My POKéMON couldn't win…\n"
-	.string "Haven't they grown enough?$"
+	.string "{JPN}ぼくの ポケモンが かてなかった…\n"
+	.string "まだ そだって ないのかな?$"
 
 Route11_Text_DillonPostBattle::
-	.string "What now?\n"
-	.string "Leave me alone!$"
+	.string "{JPN}なに?\n"
+	.string "ほっといてよ!$"
 
 Route11_Text_DirkIntro::
-	.string "Fwahaha!\n"
-	.string "I have never lost!$"
+	.string "{JPN}フワハハハ!\n"
+	.string "わしは まけたことが ないのだ!$"
 
 Route11_Text_DirkDefeat::
-	.string "My first loss!$"
+	.string "{JPN}はじめての まけだ!$"
 
 Route11_Text_DirkPostBattle::
-	.string "You were just lucky, that's all.$"
+	.string "{JPN}うんが よかった だけさ$"
 
 Route11_Text_DarianIntro::
-	.string "I have never won before…$"
+	.string "{JPN}いちども かったことが ない…$"
 
 Route11_Text_DarianDefeat::
-	.string "I saw this coming…$"
+	.string "{JPN}こうなると おもってた…$"
 
 Route11_Text_DarianPostBattle::
-	.string "I was unlucky, as always.$"
+	.string "{JPN}いつもどおり ついてなかった$"
 
 Route11_Text_YasuIntro::
-	.string "I'm the best in my class.\n"
-	.string "I train every morning.$"
+	.string "{JPN}ぼくは クラスで いちばんなんだ\n"
+	.string "まいあさ トレーニング してるよ$"
 
 Route11_Text_YasuDefeat::
-	.string "Darn!\n"
-	.string "My POKéMON need to be stronger!$"
+	.string "{JPN}くそっ!\n"
+	.string "ポケモンを もっと きたえなきゃ!$"
 
 Route11_Text_YasuPostBattle::
-	.string "There's a fat POKéMON that comes\n"
-	.string "down from the mountains.\p"
-	.string "I bet it'd be strong if you can\n"
-	.string "catch it.$"
+	.string "{JPN}やまから ふとった ポケモンが\n"
+	.string "おりてくるんだって\p"
+	.string "つかまえられたら きっと\n"
+	.string "つよいと おもうよ$"
 
 Route11_Text_BernieIntro::
-	.string "Watch out for live wires!$"
+	.string "{JPN}でんせんに きを つけろ!$"
 
 Route11_Text_BernieDefeat::
-	.string "Whoa!\n"
-	.string "You spark plug!$"
+	.string "{JPN}うおっ!\n"
+	.string "ビリビリくるぜ!$"
 
 Route11_Text_BerniePostBattle::
-	.string "Well, better get back to work.$"
+	.string "{JPN}さて しごとに もどるか$"
 
 Route11_Text_DaveIntro::
-	.string "I raised my POKéMON carefully.\n"
-	.string "They should be ready by now!$"
+	.string "{JPN}ポケモンは だいじに そだてたんだ\n"
+	.string "もう じゅんびは できてる はず!$"
 
 Route11_Text_DaveDefeat::
-	.string "Bye-bye!\n"
-	.string "Thank you, and good-bye!$"
+	.string "{JPN}バイバイ!\n"
+	.string "ありがとう さようなら!$"
 
 Route11_Text_DavePostBattle::
-	.string "Tch…\n"
-	.string "I better go find stronger ones!$"
+	.string "{JPN}ちぇっ…\n"
+	.string "もっと つよいのを さがしに いくか!$"
 
 Route11_Text_DiglettsCave::
-	.string "DIGLETT'S CAVE$"
+	.string "{JPN}ディグダのあな$"
 

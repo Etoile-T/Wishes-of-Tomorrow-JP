@@ -24,18 +24,18 @@ ViridianCity_House_EventScript_NicknameSign::
 	end
 
 ViridianCity_House_Text_NicknamingIsFun::
-	.string "Coming up with nicknames is fun,\n"
-	.string "but it's not so easy to do.\p"
-	.string "Clever names are nice, but simple\n"
-	.string "names are easier to remember.$"
+	.string "{JPN}ニックネームを かんがえるのは\n"
+	.string "たのしいけど かんたん じゃないわ。\p"
+	.string "かっこいい なまえも いいけど\n"
+	.string "かんたんな ほうが おぼえやすいの。$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-	.string "My daddy loves POKéMON, too.$"
+	.string "{JPN}パパも ポケモンが だいすきなの。$"
 
 ViridianCity_House_Text_Speary::
-	.string "SPEARY: Tetweet!$"
+	.string "{JPN}スピーちゃん: チュンチュン!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
-	.string "SPEAROW\n"
-	.string "Name: SPEARY$"
+	.string "{JPN}オニスズメ\n"
+	.string "なまえ: スピーちゃん$"
 

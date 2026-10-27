@@ -10,14 +10,14 @@ SSAnne_2F_Room3_EventScript_OldMan::
 	end
 
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-	.string "Ah, yes, I have seen some POKéMON\n"
-	.string "ferry people across the water!$"
+	.string "{JPN}ええ ひとを のせて みずの うえを\n"
+	.string "わたる ポケモンを みた ことが あります!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
-	.string "Small trees can be chopped down\n"
-	.string "using the move CUT.\p"
-	.string "But remember this!\n"
-	.string "CUT is an HM technique.\p"
-	.string "Once learned, it is not so easily\n"
-	.string "discarded.$"
+	.string "{JPN}ほそい きは いあいぎりで\n"
+	.string "きりたおす ことが できます。\p"
+	.string "でも おぼえて おきなさい!\n"
+	.string "いあいぎりは ひでんわざ です。\p"
+	.string "いちど おぼえると かんたんには\n"
+	.string "わすれさせ られないのです。$"
 

@@ -19,13 +19,13 @@ SafariZone_Center_EventScript_AreaSign::
 	end
 
 SafariZone_Center_Text_RestHouse::
-	.string "REST HOUSE$"
+	.string "{JPN}きゅうけいじょ$"
 
 SafariZone_Center_Text_PressStartToCheckTime::
-	.string "TRAINER TIPS\p"
-	.string "Press START to check\n"
-	.string "remaining time.$"
+	.string "{JPN}おとくな けいじばん!!\p"
+	.string "スタートボタンで のこりじかんを\n"
+	.string "かくにん できます。$"
 
 SafariZone_Center_Text_CenterArea::
-	.string "CENTER AREA$"
+	.string "{JPN}ちゅうおう エリア$"
 

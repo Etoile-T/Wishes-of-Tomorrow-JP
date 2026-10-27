@@ -39,51 +39,51 @@ SilphCo_8F_EventScript_Grunt2::
 	end
 
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-	.string "I wonder if SILPH is finished…$"
+	.string "{JPN}シルフは もう おしまいかなあ…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-	.string "Thanks for saving us!$"
+	.string "{JPN}たすけてくれて ありがとう!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-	.string "That's as far as you'll go!$"
+	.string "{JPN}ここから さきへは いかせねえ!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-	.string "Not enough grit!$"
+	.string "{JPN}こんじょうが たりねえ!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
-	.string "If you don't turn back…\n"
-	.string "I'll call for backup!$"
+	.string "{JPN}ひきかえさないと…\n"
+	.string "おうえんを よぶぞ!$"
 
 SilphCo_8F_Text_ParkerIntro::
-	.string "You're causing us problems!$"
+	.string "{JPN}じゃまを してくれるな!$"
 
 SilphCo_8F_Text_ParkerDefeat::
-	.string "Huh?\n"
-	.string "I lost?$"
+	.string "{JPN}あれ?\n"
+	.string "まけた?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-	.string "So, what do you think of SILPH\n"
-	.string "BUILDING's maze?$"
+	.string "{JPN}で シルフビルの めいろは\n"
+	.string "どうだい?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+	.string "{JPN}おれは ロケットだん\n"
+	.string "4きょうだいの ひとり!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
-	.string "Whoo!\n"
-	.string "Oh, Brothers!$"
+	.string "{JPN}うおっ!\n"
+	.string "ああ きょうだいたち!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-	.string "I'll leave you up to my brothers.$"
+	.string "{JPN}あとは きょうだいたちに まかせた$"
 
 SilphCo_8F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
+	.string "{JPN}シルフカンパニー ほんしゃ\n"
 	.string "8F$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-	.string "TEAM ROCKET's BOSS is terribly\n"
-	.string "cruel!\p"
-	.string "To him, POKéMON are just tools to\n"
-	.string "be used.\p"
-	.string "What will happen if that tyrant\n"
-	.string "takes over our company…$"
+	.string "{JPN}ロケットだんの ボスは\n"
+	.string "ひどく ざんこくなんだ!\p"
+	.string "あいつにとって ポケモンは\n"
+	.string "ただの どうぐなんだ\p"
+	.string "あんな ぼうくんに かいしゃを\n"
+	.string "のっとられたら どうなるか…$"

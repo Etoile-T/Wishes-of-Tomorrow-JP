@@ -189,89 +189,89 @@ PewterCity_Museum_1F_EventScript_KabutopsFossil::
 	end
 
 PewterCity_Museum_1F_Text_Its50YForChildsTicket::
-	.string "Yes, yes.\n"
-	.string "It's ¥50 for a child's ticket.\p"
-	.string "Would you like to come in?$"
+	.string "{JPN}はい はい。\n"
+	.string "こどもは 50円です。\p"
+	.string "はいりますか?$"
 
 PewterCity_Museum_1F_Text_ComeAgain::
-	.string "Come again!$"
+	.string "{JPN}また どうぞ!$"
 
 PewterCity_Museum_1F_Text_Right50YThankYou::
-	.string "Right, ¥50!\n"
-	.string "Thank you!$"
+	.string "{JPN}はい 50円!\n"
+	.string "ありがとう ございます!$"
 
 PewterCity_Museum_1F_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "{JPN}おかねが たりませんね。$"
 
 PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
-	.string "Please enjoy yourself.$"
+	.string "{JPN}ごゆっくり どうぞ。$"
 
 PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
-	.string "You can't sneak in the back way!\n"
-	.string "Nice try, kid, but no.\p"
-	.string "Oh, whatever!\n"
-	.string "Do you know what AMBER is?$"
+	.string "{JPN}うらぐちから はいっちゃ だめだよ!\n"
+	.string "ざんねん だったね。\p"
+	.string "まあ いいや!\n"
+	.string "コハクって しってる?$"
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
-	.string "AMBER contains the genetic matter\n"
-	.string "of ancient POKéMON.\p"
-	.string "There's a LAB somewhere trying to\n"
-	.string "resurrect POKéMON from AMBER.$"
+	.string "{JPN}コハクには むかしの ポケモンの\n"
+	.string "いでんしが はいって いるんだ。\p"
+	.string "どこかの けんきゅうじょで コハクから\n"
+	.string "ポケモンを ふっかつ させようと してる。$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
-	.string "AMBER is actually sap, that gooey\n"
-	.string "stuff that oozes from trees.\p"
-	.string "The ancient sap fossilized over\n"
-	.string "time to become rock-hard AMBER.$"
+	.string "{JPN}コハクは じつは じゅえき… きから\n"
+	.string "でる ベタベタの しるなんだ。\p"
+	.string "むかしの じゅえきが ながい じかんを\n"
+	.string "かけて かたい コハクに なったんだ。$"
 
 @ Unused
 PewterCity_Museum_1F_Text_PleaseGoAround::
-	.string "あちらへ　おまわりください$"
+	.string "{JPN}あちらへ おまわり ください$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
-	.string "I should be grateful for my long\n"
-	.string "life.\p"
-	.string "Never did I think I would get to\n"
-	.string "see the bones of a dragon!$"
+	.string "{JPN}ながいき したことに かんしゃ\n"
+	.string "しなくては。\p"
+	.string "まさか ドラゴンの ほねを\n"
+	.string "みられる とは おもわなんだ!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
-	.string "Ssh! Listen, I need to share a\n"
-	.string "secret with someone.\p"
-	.string "I think that this chunk of AMBER\n"
-	.string "contains POKéMON DNA!\p"
-	.string "It would be a shattering scientific\n"
-	.string "breakthrough if POKéMON could be\l"
-	.string "resurrected from it.\p"
-	.string "But, my colleagues just ignore\n"
-	.string "what I have to say.\p"
-	.string "So, I have a favor to ask!\p"
-	.string "I want you to get this examined at\n"
-	.string "a POKéMON LAB somewhere.$"
+	.string "{JPN}しーっ! だれかに ひみつを\n"
+	.string "うちあけたいんだ。\p"
+	.string "この コハクの かたまりには\n"
+	.string "ポケモンの DNAが ある はずだ!\p"
+	.string "これから ポケモンを ふっかつ\n"
+	.string "させられたら かがくかいを ゆるがす\l"
+	.string "だいはっけんに なる。\p"
+	.string "でも なかまは わたしの はなしを\n"
+	.string "まるで きいて くれない。\p"
+	.string "そこで たのみが ある!\p"
+	.string "どこかの ポケモン けんきゅうじょで\n"
+	.string "これを しらべて もらって ほしい。$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-	.string "{PLAYER} received the OLD AMBER\n"
-	.string "from the man.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は おとこの ひとから\n"
+	.string "ひみつのコハクを もらった!$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
-	.string "Ssh!\n"
-	.string "Get the OLD AMBER checked!$"
+	.string "{JPN}しーっ!\n"
+	.string "ひみつのコハクを しらべて もらって!$"
 
 PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this.$"
+	.string "{JPN}もちものが いっぱいの ようだね。$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
-	.string "We have two fossils of rare,\n"
-	.string "prehistoric POKéMON on exhibit.$"
+	.string "{JPN}めずらしい こだいの ポケモンの\n"
+	.string "かせきを 2つ てんじ しています。$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
-	.string "There is a beautiful piece of\n"
-	.string "AMBER in a clear gold color.$"
+	.string "{JPN}すきとおった こがねいろの\n"
+	.string "きれいな コハクが ある。$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
-	.string "AERODACTYL Fossil\n"
-	.string "A primitive and rare POKéMON.$"
+	.string "{JPN}プテラの かせき\n"
+	.string "げんしてきで めずらしい ポケモン。$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
-	.string "KABUTOPS Fossil\n"
-	.string "A primitive and rare POKéMON.$"
+	.string "{JPN}カブトプスの かせき\n"
+	.string "げんしてきで めずらしい ポケモン。$"
 

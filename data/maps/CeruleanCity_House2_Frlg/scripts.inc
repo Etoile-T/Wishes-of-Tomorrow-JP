@@ -23,24 +23,24 @@ CeruleanCity_House2_EventScript_WallHole::
 	end
 
 CeruleanCity_House2_Text_RocketsStoleTMForDig::
-	.string "Those miserable ROCKETS!\p"
-	.string "Look what they've done to my\n"
-	.string "house!\p"
-	.string "They stole a TM for teaching\n"
-	.string "POKéMON how to DIG holes!\p"
-	.string "I was going to use it on a\n"
-	.string "MANKEY or a SANDSHREW…\p"
-	.string "That cost me a bundle, it did!$"
+	.string "{JPN}あの にくらしい ロケットだんめ!\p"
+	.string "わしの いえを こんなに\n"
+	.string "しおって!\p"
+	.string "ポケモンに あなをほるを おしえる\n"
+	.string "わざマシンを ぬすまれたんじゃ!\p"
+	.string "マンキーか サンドに\n"
+	.string "つかおうと おもっとったのに…\p"
+	.string "たかかったんじゃぞ あれは!$"
 
 CeruleanCity_House2_Text_TeachDiglettDigWithoutTM::
-	.string "I figure what's lost is lost.\p"
-	.string "I decided to teach DIGLETT how to\n"
-	.string "DIG without a TM.$"
+	.string "{JPN}なくした ものは しかたない。\p"
+	.string "わざマシン なしで ディグダに\n"
+	.string "あなをほるを おしえる ことにした。$"
 
 CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood::
-	.string "TEAM ROCKET must be trying to DIG\n"
-	.string "their way into no good!$"
+	.string "{JPN}ロケットだんは あなを ほって\n"
+	.string "わるさを しようと してるに ちがいない!$"
 
 CeruleanCity_House2_Text_TeamRocketLeftWayOut::
-	.string "TEAM ROCKET left a way out!$"
+	.string "{JPN}ロケットだんが ぬけみちを のこしていった!$"
 

@@ -1,487 +1,487 @@
 CableClub_Text_WelcomeWhichCableClubService:
-	.string "Welcome to the POKéMON CABLE\n"
-	.string "CLUB.\p"
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "{JPN}ポケモン ケーブルクラブへ\n"
+	.string "ようこそ!\p"
+	.string "どの サービスを\n"
+	.string "ごりよう されますか?$"
 
 CableClub_Text_WhichService:
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "{JPN}どの サービスを\n"
+	.string "ごりよう されますか?$"
 
 CableClub_Text_TradeUsingLinkCable::
-	.string "Trade POKéMON with another player\n"
-	.string "using a GBA Game Link cable.$"
+	.string "{JPN}つうしんケーブルを つかって\n"
+	.string "ほかの ひとと ポケモンを こうかんします。$"
 
 CableClub_Text_BattleUsingLinkCable::
-	.string "You may battle another TRAINER\n"
-	.string "using a GBA Game Link cable.$"
+	.string "{JPN}つうしんケーブルを つかって\n"
+	.string "ほかの トレーナーと たいせん できます。$"
 
 CableClub_Text_RecordCornerUsingLinkCable::
-	.string "You can use the RECORD CORNER with\n"
-	.string "others using a GBA Game Link cable.$"
+	.string "{JPN}つうしんケーブルを つかって ほかの ひとと\n"
+	.string "レコードコーナーを りよう できます。$"
 
 @ Unused
 CableClub_Text_CloseThisMenu:
-	.string "Close this menu.$"
+	.string "{JPN}メニューを とじます。$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle:
-	.string "For a DOUBLE BATTLE, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "{JPN}ダブルバトルには ポケモンが\n"
+	.string "2ひき いじょう ひつようです。$"
 
 CableClub_Text_NeedTwoMonsToTrade:
-	.string "For trading, you must have at\n"
-	.string "least two POKéMON with you.$"
+	.string "{JPN}こうかんするには ポケモンを\n"
+	.string "2ひき いじょう つれている ひつようが あります。$"
 
 CableClub_Text_CantTradeEnigmaBerry:
-	.string "A POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY can't be traded.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}のみを もった\n"
+	.string "ポケモンは こうかん できません。$"
 
 gText_PleaseWaitForLink::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "{JPN}おまちください。\n"
+	.string "… … Bボタン: キャンセル$"
 
 gText_ConfirmLinkWhenPlayersReady::
-	.string "When all players are ready…\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "{JPN}みんなの じゅんびが できたら…\n"
+	.string "Aボタン: けってい\l"
+	.string "Bボタン: キャンセル$"
 
 gText_ConfirmStartLinkWithXPlayers::
-	.string "Start link with {STR_VAR_1} players.\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}にんで つうしんを はじめます。\n"
+	.string "Aボタン: けってい\l"
+	.string "Bボタン: キャンセル$"
 
 gText_AwaitingLinkup::
-	.string "Awaiting linkup…\n"
-	.string "… … B Button: Cancel$"
+	.string "{JPN}つうしん まちです…\n"
+	.string "… … Bボタン: キャンセル$"
 
 @ Unused
 CableClub_Text_OkayToSaveProgress::
-	.string "Your progress must be saved before\n"
-	.string "linking. Is it okay to save?$"
+	.string "{JPN}つうしんの まえに レポートを\n"
+	.string "かく ひつようが あります。 よろしいですか?$"
 
 CableClub_Text_PleaseEnter:
-	.string "Please enter.$"
+	.string "{JPN}どうぞ おはいり ください。$"
 
 CableClub_Text_DirectYouToYourRoom:
-	.string "I'll direct you to your room now.$"
+	.string "{JPN}おへやへ ごあんない します。$"
 
 Text_SomeoneIsNotReadyToLink:
-	.string "Someone is not ready to link.\p"
-	.string "Please come back after everyone\n"
-	.string "has made preparations.$"
+	.string "{JPN}じゅんびが できていない かたが います。\p"
+	.string "みなさんの じゅんびが できてから\n"
+	.string "また おこし ください。$"
 
 Text_LinkErrorPleaseReset:
-	.string "Sorry, we have a link error…\n"
-	.string "Please reset and try again.$"
+	.string "{JPN}もうしわけ ありません つうしんエラーです…\n"
+	.string "リセットして やりなおして ください。$"
 
 Text_PlayersMadeDifferentSelections:
-	.string "The link partners appear to have\n"
-	.string "made different selections.$"
+	.string "{JPN}つうしん あいてと ちがうものを\n"
+	.string "えらんだ ようです。$"
 
 CableClub_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "{JPN}また おこし ください。$"
 
 CableClub_Text_IncorrectNumberOfParticipants:
-	.string "The number of participants is\n"
-	.string "incorrect.$"
+	.string "{JPN}さんかする ひとの かずが\n"
+	.string "ただしく ありません。$"
 
 CableClub_Text_CantSingleBattleWithXPlayers:
-	.string "The SINGLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "{JPN}シングルバトル モードは\n"
+	.string "{ENG}{STR_VAR_1}{JPN}にんでは あそべません。$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers:
-	.string "The DOUBLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "{JPN}ダブルバトル モードは\n"
+	.string "{ENG}{STR_VAR_1}{JPN}にんでは あそべません。$"
 
 CableClub_Text_NeedFourPlayers:
-	.string "There must be four players to play\n"
-	.string "this Battle Mode.$"
+	.string "{JPN}この バトルモードは 4にん\n"
+	.string "そろわないと あそべません。$"
 
 CableClub_Text_PleaseConfirmNumberAndRestart:
-	.string "Please confirm the number of\n"
-	.string "players and start again.$"
+	.string "{JPN}にんずうを たしかめて\n"
+	.string "もういちど はじめて ください。$"
 
 Text_TerminateLinkConfirmation:
-	.string "The link will be terminated if you\n"
-	.string "leave the room. Is that okay?$"
+	.string "{JPN}へやを でると つうしんが\n"
+	.string "しゅうりょう します。 よろしいですか?$"
 
 Text_TerminateLinkPleaseWait:
-	.string "Terminating link…\n"
-	.string "You will be escorted out of\l"
-	.string "the room. Please wait.$"
+	.string "{JPN}つうしんを しゅうりょう します…\n"
+	.string "へやの そとへ ごあんない します。\l"
+	.string "おまちください。$"
 
 CableClub_Text_TooBusyToNotice:
-	.string "This TRAINER is too busy to\n"
-	.string "notice…$"
+	.string "{JPN}この トレーナーは いそがしくて\n"
+	.string "きづかない ようだ…$"
 
 CableClub_Text_GotToLookAtTrainerCard:
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!$"
+	.string "{JPN}やった! {ENG}{STR_VAR_1}{JPN}の\n"
+	.string "トレーナーカードを みせて もらった!$"
 
 CableClub_Text_GotToLookAtColoredTrainerCard:
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!\p"
-	.string "It's a {STR_VAR_2} card!$"
+	.string "{JPN}やった! {ENG}{STR_VAR_1}{JPN}の\n"
+	.string "トレーナーカードを みせて もらった!\p"
+	.string "{ENG}{STR_VAR_2}{JPN}の カードだ!$"
 
 BattleColosseum_2P_Text_TakePlaceStartBattle:
-	.string "Please take your place and start\n"
-	.string "your battle.$"
+	.string "{JPN}せきに ついて\n"
+	.string "バトルを はじめて ください。$"
 
 TradeCenter_Text_TakeSeatStartTrade:
-	.string "Please take your seat and start\n"
-	.string "your trade.$"
+	.string "{JPN}せきに ついて\n"
+	.string "こうかんを はじめて ください。$"
 
 RecordCorner_Text_ThanksForComing:
-	.string "Thanks for coming.$"
+	.string "{JPN}ごりよう ありがとう ございました。$"
 
 CableClub_Text_TrainerCardDataOverwritten:
-	.string "The TRAINER CARD data will\n"
-	.string "be overwritten.$"
+	.string "{JPN}トレーナーカードの データが\n"
+	.string "うわがき されます。$"
 
 CableClub_Text_HopeToSeeYouAgain:
-	.string "I hope to see you again!$"
+	.string "{JPN}また おまち しています!$"
 
 CableClub_Text_NotSetUpForFarAwayRegion:
-	.string "I'm awfully sorry.\p"
-	.string "We're not set up to conduct trades\n"
-	.string "with TRAINERS far away in another\l"
-	.string "region yet…$"
+	.string "{JPN}たいへん もうしわけ ありません。\p"
+	.string "とおく はなれた ちほうの\n"
+	.string "トレーナーとの こうかんは\l"
+	.string "まだ じゅんびが できて いないのです…$"
 
 CableClub_Text_OtherTrainerNotReady:
-	.string "The other TRAINER is not ready.$"
+	.string "{JPN}あいての トレーナーの じゅんびが できていません。$"
 
 CableClub_Text_YouHaveAMonThatCantBeTaken:
-	.string "You have at least one POKéMON\n"
-	.string "that can't be taken.$"
+	.string "{JPN}つれて いけない ポケモンが\n"
+	.string "いるようです。$"
 
 RecordCorner_Text_TakeSeatAndWait:
-	.string "Please take your seat and wait.$"
+	.string "{JPN}せきに ついて おまち ください。$"
 
 RecordCorner_Text_PlayerSentOverOneX:
-	.string "{STR_VAR_1} sent over one\n"
-	.string "{STR_VAR_2}.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}が\n"
+	.string "{ENG}{STR_VAR_2}{JPN}を 1こ おくってきた。$"
 
 CableClub_Text_CantMixWithJapaneseGame:
-	.string "Sorry, there is a transmission error.\p"
-	.string "You may not mix records with  \n"
-	.string "Japanese Ruby or Sapphire games.\p"
-	.string "Also, you can't mix records with\n"
-	.string "Japanese Emerald and overseas Ruby\l"
-	.string "or Sapphire games at the same time.$"
+	.string "{JPN}もうしわけ ありません つうしんエラーです。\p"
+	.string "にほんの ルビー サファイアとは\n"
+	.string "レコードを まぜられません。\p"
+	.string "また にほんの エメラルドと かいがいの\n"
+	.string "ルビー サファイアと どうじに\l"
+	.string "レコードを まぜることも できません。$"
 
 CableClub_Text_AdapterNotConnected:
-	.string "The Wireless Adapter is not\n"
-	.string "connected properly.$"
+	.string "{JPN}ワイヤレスアダプタが\n"
+	.string "ただしく せつぞく されていません。$"
 
 CableClub_Text_ParticipantsStepUpToCounter:
-	.string "Participants are asked to step up\n"
-	.string "to the reception counter.$"
+	.string "{JPN}さんかする かたは\n"
+	.string "うけつけまで おこし ください。$"
 
 @ Unused
 CableClub_Text_Hello:
-	.string "Hello!$"
+	.string "{JPN}いらっしゃいませ!$"
 
 @ Unused
 CableClub_Text_PleaseWait:
-	.string "Please wait.$"
+	.string "{JPN}おまちください。$"
 
 CableClub_Text_YouMayTradeHere::
-	.string "You may trade your POKéMON here\n"
-	.string "with another TRAINER.$"
+	.string "{JPN}ここでは ほかの トレーナーと\n"
+	.string "ポケモンを こうかん できます。$"
 
 CableClub_Text_YouMayBattleHere::
-	.string "You may battle with your friends\n"
-	.string "here.$"
+	.string "{JPN}ここでは ともだちと\n"
+	.string "バトル できます。$"
 
 CableClub_Text_CanMakeBerryPowder::
-	.string "Two to five TRAINERS can make\n"
-	.string "BERRY POWDER together.$"
+	.string "{JPN}2から5にんの トレーナーで いっしょに\n"
+	.string "きのみパウダーを つくれます。$"
 
 CableClub_Text_CanMixRecords::
-	.string "The records of two to four players\n"
-	.string "can be mixed together.$"
+	.string "{JPN}2から4にんの プレイヤーの\n"
+	.string "レコードを まぜあわせ られます。$"
 
 @ Unused
 CableClub_Text_GuideToVariousServices:
-	.string "A guide to the WIRELESS CLUB's\n"
-	.string "various services.$"
+	.string "{JPN}ワイヤレスクラブの いろいろな\n"
+	.string "サービスの ごあんないです。$"
 
 CableClub_Text_CancelSelectedItem::
-	.string "Cancels the selected MENU item.$"
+	.string "{JPN}えらんだ メニューを とりけします。$"
 
 @ Unused
 CableClub_Text_WhichBattleMode:
-	.string "Which battle mode would you like?$"
+	.string "{JPN}どの バトルモードに しますか?$"
 
 @ Unused
 CableClub_Text_ReturnsToPreviousStep:
-	.string "Returns to the previous step.$"
+	.string "{JPN}ひとつ まえに もどります。$"
 
 CableClub_Text_NeedBerryForBerryCrush:
-	.string "To use the BERRY CRUSH service,\n"
-	.string "you must have at least one BERRY.$"
+	.string "{JPN}きのみマッシャーを つかうには\n"
+	.string "きのみが 1こ いじょう ひつようです。$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom:
-	.string "To enter the UNION ROOM, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "{JPN}ユニオンルームに はいるには\n"
+	.string "ポケモンが 2ひき いじょう ひつようです。$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom:
-	.string "No POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY may enter the UNION ROOM.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}のみを もった ポケモンは\n"
+	.string "ユニオンルームに はいれません。$"
 
 CableClub_Text_UnionRoomAdapterNotConnected:
-	.string "This is the POKéMON WIRELESS CLUB\n"
-	.string "UNION ROOM.\p"
-	.string "Unfortunately, your Wireless\n"
-	.string "Adapter is not connected properly.\p"
-	.string "Please do come again.$"
+	.string "{JPN}こちらは ポケモン ワイヤレスクラブ\n"
+	.string "ユニオンルームです。\p"
+	.string "ざんねんですが ワイヤレスアダプタが\n"
+	.string "ただしく せつぞく されていません。\p"
+	.string "また おこし ください。$"
 
 @ Unused
 CableClub_Text_OhExcuseMe:
-	.string "Oh…\n"
-	.string "Excuse me!$"
+	.string "{JPN}あっ…\n"
+	.string "しつれい しました!$"
 
 CableClub_Text_PlayerIsWaiting:
-	.string "It appears as if {STR_VAR_1} is playing\n"
-	.string "right now.\l"
-	.string "Go for it!$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は いま あそんでいる\n"
+	.string "ところの ようだ。\l"
+	.string "がんばれ!$"
 
 MossdeepCity_GameCorner_1F_Text_DescribeWhichGame:
-	.string "I can explain game rules to you,\n"
-	.string "if you'd like.\p"
-	.string "Which game should I describe?$"
+	.string "{JPN}よろしければ ゲームの ルールを\n"
+	.string "ごせつめい しますよ。\p"
+	.string "どの ゲームを せつめい しましょうか?$"
 
 MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
-	.string "“POKéMON JUMP”\p"
-	.string "Make your POKéMON skip the VINE WHIP\n"
-	.string "rope with the A Button.\p"
-	.string "Only mini POKéMON around 28 inches\n"
-	.string "or less may participate.\p"
-	.string "POKéMON that only swim, burrow,\n"
-	.string "or fly are not good at jumping.\p"
-	.string "As a result, those POKéMON may not\n"
-	.string "participate.\p"
-	.string "Good things happen if everyone\n"
-	.string "jumps in time.$"
+	.string "{JPN}「ポケモンジャンプ」\p"
+	.string "Aボタンで ポケモンに つるのムチの\n"
+	.string "なわを とびこえさせる ゲームです。\p"
+	.string "さんか できるのは たかさ 70cm\n"
+	.string "いかの ちいさな ポケモン だけです。\p"
+	.string "およぐ もぐる とぶ ことしか できない\n"
+	.string "ポケモンは ジャンプが にがてです。\p"
+	.string "なので そういう ポケモンは\n"
+	.string "さんか できません。\p"
+	.string "みんなの タイミングが そろうと\n"
+	.string "いいことが ありますよ。$"
 
 MossdeepCity_GameCorner_1F_Text_DodrioBerryPickingInfo:
-	.string "“DODRIO BERRY-PICKING”\p"
-	.string "Command DODRIO's three heads to\n"
-	.string "catch falling BERRIES.\p"
-	.string "Press right, up, or left on the\n"
-	.string "{PLUS} Control Pad to move the heads.\p"
-	.string "To play this game, you must have\n"
-	.string "a DODRIO.$"
+	.string "{JPN}「ドードリオのきのみとり」\p"
+	.string "ドードリオの 3つの あたまに\n"
+	.string "おちてくる きのみを とらせる ゲームです。\p"
+	.string "あたまを うごかすには\n"
+	.string "{PLUS}ボタンの みぎ うえ ひだりを おします。\p"
+	.string "この ゲームで あそぶには\n"
+	.string "ドードリオが ひつようです。$"
 
 MossdeepCity_GameCorner_1F_Text_TalkToOldManToPlay:
-	.string "If you want to play a game,\n"
-	.string "please tell the old man beside me.$"
+	.string "{JPN}ゲームで あそびたいときは\n"
+	.string "となりの おじいさんに はなしかけてね。$"
 
 MossdeepCity_GameCorner_1F_Text_WelcomeCanYouWait:
-	.string "Hi, welcome!\n"
-	.string "Are you here to play games using\l"
-	.string "Wireless Communication?\p"
-	.string "Can you wait just a little bit?$"
+	.string "{JPN}やあ いらっしゃい!\n"
+	.string "ワイヤレスつうしんで\l"
+	.string "ゲームを しに きたのかい?\p"
+	.string "ちょっとだけ まって くれるかな?$"
 
 MossdeepCity_GameCorner_1F_Text_ComeAgain:
-	.string "All right, come again!$"
+	.string "{JPN}それじゃ また おいで!$"
 
 MossdeepCity_GameCorner_1F_Text_AdapterNotConnected:
-	.string "The Wireless Adapter isn't connected.\n"
-	.string "Come back when it's hooked up!$"
+	.string "{JPN}ワイヤレスアダプタが つながってないよ。\n"
+	.string "つないでから また おいで!$"
 
 MossdeepCity_GameCorner_1F_Text_PlayWhichGame:
-	.string "All right, which game did you want\n"
-	.string "to play?$"
+	.string "{JPN}さて どの ゲームで\n"
+	.string "あそびたいんだい?$"
 
 MossdeepCity_GameCorner_1F_Text_EnterWhichPokemon:
-	.string "Which POKéMON would you like to\n"
-	.string "enter?$"
+	.string "{JPN}どの ポケモンで\n"
+	.string "さんか するかい?$"
 
 MossdeepCity_GameCorner_1F_Text_AllGoodToGo:
-	.string "Okay, you're all good to go.\n"
-	.string "Don't let the others beat you!$"
+	.string "{JPN}よし これで じゅんび オーケーだ。\n"
+	.string "ほかの みんなに まけるなよ!$"
 
 @ Unused
 MossdeepCity_GameCorner_1F_Text_LeavingDoComeAgain:
-	.string "Are you leaving now?\n"
-	.string "Do come again!$"
+	.string "{JPN}もう かえるのかい?\n"
+	.string "また おいで!$"
 
 MossdeepCity_GameCorner_1F_Text_ExplainRequiredMon:
-	.string "It doesn't look like you have any\n"
-	.string "POKéMON that you can enter…\p"
-	.string "Would you like me to explain what\n"
-	.string "kinds of POKéMON can enter?$"
+	.string "{JPN}さんか できる ポケモンを\n"
+	.string "もってない みたいだね…\p"
+	.string "どんな ポケモンが さんか できるか\n"
+	.string "せつめい しようか?$"
 
 MossdeepCity_GameCorner_1F_Text_ShortJumpingPokemonAllowed:
-	.string "“POKéMON JUMP” is open to POKéMON\n"
-	.string "around 28 inches or less.\p"
-	.string "What you can't enter are those\n"
-	.string "POKéMON that can't jump.\p"
-	.string "You know, like POKéMON that only\n"
-	.string "swim, burrow, or fly.\p"
-	.string "That's all you need to know.$"
+	.string "{JPN}「ポケモンジャンプ」は たかさ\n"
+	.string "70cmぐらいまでの ポケモンが でられる。\p"
+	.string "でられないのは\n"
+	.string "ジャンプ できない ポケモンだ。\p"
+	.string "ほら およぐ もぐる とぶ ことしか\n"
+	.string "できない ポケモン とかね。\p"
+	.string "しって おくのは それだけだ。$"
 
 MossdeepCity_GameCorner_1F_Text_OnlyDodrioAllowed:
-	.string "DODRIO BERRY-PICKING is a game that \n"
-	.string "only DODRIO may enter.$"
+	.string "{JPN}ドードリオのきのみとりは\n"
+	.string "ドードリオしか さんか できない ゲームだよ。$"
 
 @ Unused
 MossdeepCity_GameCorner_1F_Text_RetryPlease:
-	.string "Could you retry this from the start\n"
-	.string "again, please?$"
+	.string "{JPN}もういちど さいしょから\n"
+	.string "やりなおして くれるかな?$"
 
 CableClub_Text_WelcomeWhichDirectCornerRoom:
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB DIRECT CORNER.\p"
-	.string "You may interact directly with\n"
-	.string "your friends here.\p"
-	.string "Which room would you like to\n"
-	.string "enter?$"
+	.string "{JPN}ポケモン ワイヤレスクラブ\n"
+	.string "ダイレクトコーナーへ ようこそ!\p"
+	.string "ここでは ともだちと ちょくせつ\n"
+	.string "あそぶことが できます。\p"
+	.string "どの おへやに\n"
+	.string "はいりますか?$"
 
 CableClub_Text_TradePokemon:
-	.string "Would you like to trade POKéMON?$"
+	.string "{JPN}ポケモンを こうかん しますか?$"
 
 CableClub_Text_PlayWhichBattleMode:
-	.string "Which Battle Mode would you like\n"
-	.string "to play?$"
+	.string "{JPN}どの バトルモードで\n"
+	.string "あそびますか?$"
 
 CableClub_Text_AccessRecordCorner:
-	.string "Would you like to access\n"
-	.string "the RECORD CORNER?$"
+	.string "{JPN}レコードコーナーを\n"
+	.string "ごりよう になりますか?$"
 
 CableClub_Text_UseBerryCrush:
-	.string "Would you like to use the\n"
-	.string "BERRY CRUSH System?$"
+	.string "{JPN}きのみマッシャーを\n"
+	.string "ごりよう になりますか?$"
 
 CableClub_Text_ExplainBattleModes:
-	.string "There are three Battle Modes.\p"
-	.string "SINGLE BATTLE is for two TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.\p"
-	.string "DOUBLE BATTLE is for two TRAINERS\n"
-	.string "with two or more POKéMON each.\p"
-	.string "Each TRAINER will send out two\n"
-	.string "POKéMON in battle at a time.\p"
-	.string "MULTI BATTLE is for four TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.$"
+	.string "{JPN}バトルモードは 3しゅるい あります。\p"
+	.string "シングルバトルは ポケモンを 1ぴき\n"
+	.string "いじょう もった トレーナー 2にんで あそびます。\p"
+	.string "それぞれの トレーナーは\n"
+	.string "ポケモンを 1ぴきずつ だします。\p"
+	.string "ダブルバトルは ポケモンを 2ひき\n"
+	.string "いじょう もった トレーナー 2にんで あそびます。\p"
+	.string "それぞれの トレーナーは\n"
+	.string "ポケモンを 2ひきずつ だします。\p"
+	.string "マルチバトルは ポケモンを 1ぴき\n"
+	.string "いじょう もった トレーナー 4にんで あそびます。\p"
+	.string "それぞれの トレーナーは\n"
+	.string "ポケモンを 1ぴきずつ だします。$"
 
 CableClub_Text_ChooseGroupLeaderOfTwo:
-	.string "Please decide which of you two\n"
-	.string "will become the LEADER.\p"
-	.string "The other player must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "{JPN}2にんの うち どちらが\n"
+	.string "リーダーに なるか きめて ください。\p"
+	.string "もう ひとりは\n"
+	.string "「グループに はいる」を えらんで ください。$"
 
 CableClub_Text_ChooseGroupLeaderOfFour:
-	.string "Please decide which of you four\n"
-	.string "will become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "{JPN}4にんの うち だれが\n"
+	.string "グループリーダーに なるか きめて ください。\p"
+	.string "ほかの ひとは\n"
+	.string "「グループに はいる」を えらんで ください。$"
 
 CableClub_Text_ChooseGroupLeader:
-	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "{JPN}みなさんの うち だれが\n"
+	.string "グループリーダーに なるか きめて ください。\p"
+	.string "ほかの ひとは\n"
+	.string "「グループに はいる」を えらんで ください。$"
 
 CableClub_Text_WelcomeUnionRoomEnter:
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB UNION ROOM.\p"
-	.string "You may interact directly with\n"
-	.string "other TRAINERS here, some of\l"
-	.string "whom you may not even know.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "{JPN}ポケモン ワイヤレスクラブ\n"
+	.string "ユニオンルームへ ようこそ!\p"
+	.string "ここでは しらない ひとも ふくめて\n"
+	.string "ほかの トレーナーと ちょくせつ\l"
+	.string "あそぶことが できます。\p"
+	.string "ルームに はいりますか?$"
 
 CableClub_Text_UnionRoomInfo:
-	.string "The TRAINERS in the UNION ROOM\n"
-	.string "will be those players around you\l"
-	.string "who have also entered the ROOM.\p"
-	.string "You may do all sorts of things\n"
-	.string "here, such as exchanging greetings.\p"
-	.string "You may enter two POKéMON up to\n"
-	.string "Lv. 30 for a one-on-one battle.\p"
-	.string "You may take part in a chat with\n"
-	.string "two to five people.\p"
-	.string "Or, you may register a POKéMON for\n"
-	.string "trade.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "{JPN}ユニオンルームに いるのは\n"
+	.string "あなたの ちかくで おなじように\l"
+	.string "ルームに はいった ひとたちです。\p"
+	.string "ここでは あいさつ など\n"
+	.string "いろいろな ことが できます。\p"
+	.string "レベル30 までの ポケモン 2ひきで\n"
+	.string "1たい1の バトルが できます。\p"
+	.string "2から5にんで\n"
+	.string "チャットを することも できます。\p"
+	.string "また こうかん したい ポケモンを\n"
+	.string "とうろく することも できます。\p"
+	.string "ルームに はいりますか?$"
 
 CableClub_Text_EnjoyUnionRoom:
-	.string "I hope you enjoy your time in\n"
-	.string "the UNION ROOM.$"
+	.string "{JPN}ユニオンルームで たのしい\n"
+	.string "ひとときを おすごし ください。$"
 
 CableClub_Text_FirstTimeRightThisWay:
-	.string "Hello!\n"
-	.string "My name is TEALA.\p"
-	.string "This must be your first time\n"
-	.string "up here.\p"
-	.string "I'll show you how the Wireless\n"
-	.string "Communication System works.\p"
-	.string "First, I need to show you this\n"
-	.string "floor of our POKéMON CENTER.\p"
-	.string "Right this way, please.$"
+	.string "{JPN}こんにちは!\n"
+	.string "わたしは テアラと もうします。\p"
+	.string "こちらへは はじめて\n"
+	.string "いらっしゃった ようですね。\p"
+	.string "ワイヤレスつうしんシステムの\n"
+	.string "しくみを ごあんない します。\p"
+	.string "まずは ポケモンセンターの\n"
+	.string "この フロアを ごあんない しますね。\p"
+	.string "こちらへ どうぞ。$"
 
 CableClub_Text_ExplainWirelessClubFirstTime:
-	.string "On the top floor, there are two\n"
-	.string "rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "{JPN}さいじょうかいには ふたつの\n"
+	.string "おへやが あります。\p"
+	.string "まず ひだりの おへや。\n"
+	.string "こちらが ユニオンルームです。\p"
+	.string "あなたの ちかくで ユニオンルームに\n"
+	.string "はいった トレーナーたちと\l"
+	.string "つうしん できます。\p"
+	.string "その ひとたちと チャットや\n"
+	.string "バトル こうかん などが できます。\p"
+	.string "つぎに みぎの おへやが\n"
+	.string "ダイレクトコーナーです。\p"
+	.string "この おへやでは ともだちと\n"
+	.string "ポケモンの こうかんや バトルが できます。\p"
+	.string "ワイヤレスアダプタが\n"
+	.string "つながって いなくても\l"
+	.string "つうしんケーブルで つうしん できます。\p"
+	.string "その ばあいは\n"
+	.string "ダイレクトコーナーへ おこし ください。\p"
+	.string "ワイヤレスつうしんシステムを\n"
+	.string "どうぞ おたのしみ ください。$"
 
 CableClub_Text_AskAboutLinking:
-	.string "Hello, {PLAYER}!\p"
-	.string "It's me, TEALA, the POKéMON\n"
-	.string "CENTER 2F attendant.\p"
-	.string "Is there something you needed to\n"
-	.string "ask me about linking?$"
+	.string "{JPN}こんにちは {ENG}{PLAYER}{JPN}さん!\p"
+	.string "ポケモンセンター 2かいの かかりいん\n"
+	.string "テアラです。\p"
+	.string "つうしんの ことで なにか\n"
+	.string "ききたいことは ありますか?$"
 
 CableClub_Text_ExplainWirelessClub:
-	.string "Let me explain how the POKéMON\n"
-	.string "WIRELESS CLUB works.\p"
-	.string "On this, the top floor, there are\n"
-	.string "two rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "Sometimes, you may not be able to\n"
-	.string "find your friends in the UNION ROOM\l"
-	.string "or the DIRECT CORNER.\p"
-	.string "In that case, please move closer\n"
-	.string "to your friends.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "{JPN}ポケモン ワイヤレスクラブの\n"
+	.string "しくみを ごせつめい しますね。\p"
+	.string "この さいじょうかいには\n"
+	.string "ふたつの おへやが あります。\p"
+	.string "まず ひだりの おへや。\n"
+	.string "こちらが ユニオンルームです。\p"
+	.string "あなたの ちかくで ユニオンルームに\n"
+	.string "はいった トレーナーたちと\l"
+	.string "つうしん できます。\p"
+	.string "その ひとたちと チャットや\n"
+	.string "バトル こうかん などが できます。\p"
+	.string "つぎに みぎの おへやが\n"
+	.string "ダイレクトコーナーです。\p"
+	.string "この おへやでは ともだちと\n"
+	.string "ポケモンの こうかんや バトルが できます。\p"
+	.string "ユニオンルームや ダイレクトコーナーで\n"
+	.string "ともだちが みつからない\l"
+	.string "ことが あります。\p"
+	.string "そのときは ともだちの\n"
+	.string "ちかくへ いって ください。\p"
+	.string "ワイヤレスアダプタが\n"
+	.string "つながって いなくても\l"
+	.string "つうしんケーブルで つうしん できます。\p"
+	.string "その ばあいは\n"
+	.string "ダイレクトコーナーへ おこし ください。\p"
+	.string "ワイヤレスつうしんシステムを\n"
+	.string "どうぞ おたのしみ ください。$"
 
 CableClub_Text_HopeYouEnjoyWirelessSystem:
-	.string "I hope you enjoy the Wireless\n"
-	.string "Communication System.$"
+	.string "{JPN}ワイヤレスつうしんシステムを\n"
+	.string "どうぞ おたのしみ ください。$"

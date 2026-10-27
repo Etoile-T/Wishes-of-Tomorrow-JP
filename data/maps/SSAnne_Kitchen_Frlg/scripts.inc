@@ -50,50 +50,50 @@ SSAnne_Kitchen_EventScript_Chef7::
 	end
 
 SSAnne_Kitchen_Text_BusyOutOfTheWay::
-	.string "You, mon petit!\n"
-	.string "We're busy here!\l"
-	.string "Out of the way!$"
+	.string "{JPN}そこの モン・プチ!\n"
+	.string "こっちは いそがしいんだ!\l"
+	.string "どいた どいた!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-	.string "I saw an odd BERRY in the trash.\n"
-	.string "I wonder what that was?$"
+	.string "{JPN}ゴミばこに へんな きのみが あったよ。\n"
+	.string "あれは なんだったんだろう?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
-	.string "I'm so busy I'm getting dizzy!\n"
-	.string "You have to give me room here!$"
+	.string "{JPN}いそがしすぎて めが まわりそうだ!\n"
+	.string "そこを あけて くれよ!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
-	.string "Hum-de-hum-de-ho…\p"
-	.string "I peel spuds every day!\n"
-	.string "Hum-hum…$"
+	.string "{JPN}ふん ふふん ふーん…\p"
+	.string "まいにち じゃがいもの かわむきさ!\n"
+	.string "ふん ふーん…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-	.string "Did you hear about SNORLAX?\n"
-	.string "It's a glutton.\p"
-	.string "No other POKéMON eats and sleeps\n"
-	.string "the way SNORLAX can and does!$"
+	.string "{JPN}カビゴンの はなしを しってるかい?\n"
+	.string "とんでもない くいしんぼう なんだ。\p"
+	.string "カビゴンほど たべて ねる ポケモンは\n"
+	.string "ほかに いないよ!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-	.string "Snivel… Sniff…\p"
-	.string "I only get to peel onions…\n"
-	.string "Snivel…$"
+	.string "{JPN}グスッ… ズズッ…\p"
+	.string "ぼくは たまねぎの かわむき ばっかり…\n"
+	.string "グスッ…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
-	.string "Er-hem!\n"
-	.string "Indeed I am le CHEF!\p"
-	.string "Le main course is$"
+	.string "{JPN}ウォッホン!\n"
+	.string "いかにも ワタクシが シェフ!\p"
+	.string "きょうの メインディッシュは$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-	.string "Salmon du Salad!\p"
-	.string "Les guests may gripe it's fish\n"
-	.string "again, however!$"
+	.string "{JPN}サーモン・ド・サラダ!\p"
+	.string "また さかなかと おきゃくさまに\n"
+	.string "もんくを いわれそう ですが!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
-	.string "Eels au Barbecue!\p"
-	.string "Les guests will mutiny, I fear.$"
+	.string "{JPN}ウナギの バーベキュー・オ・ソース!\p"
+	.string "おきゃくさまが はんらん しそうで こわい。$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
-	.string "Prime Beefsteak!\p"
-	.string "But, have I enough fillets du\n"
-	.string "beef?$"
+	.string "{JPN}とくせん ビーフステーキ!\p"
+	.string "でも フィレ・ド・ビーフは\n"
+	.string "たりて いるかな?$"
 

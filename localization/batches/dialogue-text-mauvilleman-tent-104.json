@@ -1,0 +1,5642 @@
+[
+ {
+  "id": "dd820659c1bd6a95",
+  "translation": "{JPN}やあ わたしは トレーダー。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff546f4944cf3593",
+  "translation": "わたしと もようがえグッズを こうかんしない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1fa8f3c0685d05bc",
+  "translation": "{JPN}そう…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67109c337f09c1c9",
+  "translation": "なんだか ブルーな きぶんに なったよ…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d18582387f03541a",
+  "translation": "{JPN}でも きみとは もう\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddbcef90d10466fc",
+  "translation": "グッズを こうかんしたよね。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8bc089878d47349a",
+  "translation": "{JPN}わたしの グッズで ほしいものが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbc1bbe382fab267",
+  "translation": "あったら えんりょなく いってね。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67b680f8a14ec3da",
+  "translation": "{JPN}なにも いらないの?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c87be775fbb425ec",
+  "translation": "さみしいなあ…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a08592fbf3d18a29",
+  "translation": "{JPN}その グッズは もともと\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf752dd9e9b4e2c0",
+  "translation": "{ENG}{STR_VAR_1}{JPN}の ものだったんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cca3bdf9593f6abd",
+  "translation": "ほしい?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01b5685d779c3cde",
+  "translation": "{JPN}あれ… ちょっと まって。 きみ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "287ce93e883ac360",
+  "translation": "グッズを ひとつも もってないよ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7b8a2e6464c6d45",
+  "translation": "{JPN}じゃあ わたしに くれる\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "028d3204f94af969",
+  "translation": "グッズを えらんでね。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b557fdca0c403e08",
+  "translation": "{JPN}こうかん してくれないの?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f9628b24a3eea1f",
+  "translation": "さみしいなあ…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8faf33ab1ab867d8",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}は もう いっぱいで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0871580faacf169",
+  "translation": "これいじょう おいておけないよ。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1fe29d18e5a8388e",
+  "translation": "{JPN}じゃあ わたしの {ENG}{STR_VAR_3}{JPN}と\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84e3f402f5cda64e",
+  "translation": "きみの {ENG}{STR_VAR_2}{JPN}を こうかんだね?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "935fc8a7700ee2e7",
+  "translation": "{JPN}その グッズは いま つかってるよ。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9611f57eeeff46bd",
+  "translation": "こうかん できないね。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc8e2aead5d5899c",
+  "translation": "{JPN}じゃあ こうかんだ!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7d2d8fe02b43692",
+  "translation": "わたしの グッズは きみの パソコンに おくるね。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83d611102e948558",
+  "translation": "{JPN}おっと! ごめん! それは とっても\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "711a0e0d3fb69f97",
+  "translation": "めずらしい グッズなんだ。\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44751ee51bf65825",
+  "translation": "それは こうかん できないよ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4563c61897d71f73",
+  "translation": "ほかの ものは どうかな?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69bbf2d3fca4140d",
+  "translation": "{JPN}わたしは かたりべ。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9194d845986d5549",
+  "translation": "でんせつの トレーナーの はなしを\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f91a79905a7c47e0",
+  "translation": "かたって きかせよう。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "547e8cff8976210e",
+  "translation": "わたしの はなしを きくかね?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63159a9e188a498f",
+  "translation": "{JPN}そうか…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "416a76438df09e9d",
+  "translation": "なんだか ブルーな きぶんに なったよ…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d9dbc621ff866ef",
+  "translation": "{JPN}わたしが しっている でんせつは これだ。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "beb0d6a838919552",
+  "translation": "どの はなしを きかせようか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "796f23fe9c1c5733",
+  "translation": "{JPN}だが でんせつの トレーナーを しらない。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8c03ff53a615ec5",
+  "translation": "ゆえに かたる はなしも ないのだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "816f3a33552230fe",
+  "translation": "でんせつに ふさわしい トレーナーは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "309a8a0de1ecfb12",
+  "translation": "どこに いるのだろう?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b250a104c8fcf622",
+  "translation": "{JPN}なんだって!?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41b56c7e767da2a2",
+  "translation": "きみ… きみは…\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc53534177a98e6b",
+  "translation": "{ENG}{STR_VAR_2}{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d5e3f057efddc9e",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも!?\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae7be9c7ae4bfcba",
+  "translation": "それは じつに すばらしい!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a02bcc52cd5dda7",
+  "translation": "あたらしい でんせつの たんじょうだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40dbdc35dd3db386",
+  "translation": "{JPN}ほかにも もっと すごい でんせつを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06b65c60d5826e4b",
+  "translation": "もつ トレーナーが みつけられるのを\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b05a49b8239c9ba6",
+  "translation": "まっているのでは ないかと おもうよ。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15f86f35cdf7a9d2",
+  "translation": "{JPN}きみは トレーナーかね?\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ad18b29c32045a8",
+  "translation": "では おしえてくれ。 すこしでも\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a19a3c96c8e82ce",
+  "translation": "でんせつに なりそうな はなしは あるかね?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9254e390a4cf04b4",
+  "translation": "{JPN}ところで… ほかの でんせつの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4669d81b56ae5e9",
+  "translation": "はなしも きいて みないかね?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f2f2d168d17cc7d",
+  "translation": "{JPN}うーむ…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3036b2541d42d543",
+  "translation": "ものたりない…\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1613414fbc79802",
+  "translation": "でんせつと よぶに ふさわしい\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8319713d6f71592",
+  "translation": "はなしを もってきて ほしいものだ。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5d54e3e70cf773c",
+  "translation": "{JPN}でんせつの トレーナーの だいかつげきに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16001a26424bfdbe",
+  "translation": "もっと たくさんの ひとが きょうみを\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "770fa130aff253ce",
+  "translation": "もって くれると いいのだが。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4e611b2ed912d24",
+  "translation": "{JPN}セーブずきな トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a38ffe0d2a1f3526",
+  "translation": "{JPN}ゲームを セーブした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48c0e9e620bd6cb1",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c5409187d993e0f",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8db07f52f657698a",
+  "translation": "この トレーナーは ゲームを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6097ecdca889db9b",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも セーブした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fefaa3048d885cfa",
+  "translation": "これほど しんちょうな トレーナーは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be120ce01802273b",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の ほかに いないだろう!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d438261fef9d3a8c",
+  "translation": "{JPN}はやりを つくる トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88151f8c365e7406",
+  "translation": "{JPN}はやりを つくった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bd608fa89895f08",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab28e2e7f9d09ce9",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf9ecf3838b0d37a",
+  "translation": "この トレーナーは あたらしい はやりを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c14b7cf5d8053049",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも つくった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "446bc1a631bc8107",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ホウエン ちほう ぜんたいの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fdebae1b031bcfe2",
+  "translation": "はやりを つくっているのだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffc4a52009d6fc9a",
+  "translation": "{JPN}きのみを うえる トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4d2c62e80165fce",
+  "translation": "{JPN}きのみを うえた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae3b619c5aa28ac5",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "048f58d5613e389b",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0736b801c07d77ea",
+  "translation": "この トレーナーは きのみを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22e9219dd4db91a4",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも うえた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5baf3b0ad341400e",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は でんせつの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c580c595c08aacba",
+  "translation": "きのみ だいすき トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2468465ce9af6152",
+  "translation": "{JPN}じてんしゃ だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf24de472fdab5a3",
+  "translation": "{JPN}じてんしゃを とりかえた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75534712f4b9ec78",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68a1721508b69903",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36e4c517e3a4c7e6",
+  "translation": "この トレーナーは じてんしゃを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "731ede81bc48ae54",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも とりかえた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30e2e797e5d4b00a",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は じてんしゃを こころから\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7624f7592e425748",
+  "translation": "ねっしんに あいして いるのだろう!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e20b93afbf8289b8",
+  "translation": "{JPN}インタビューされた トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da11f509d7a13383",
+  "translation": "{JPN}インタビューを うけた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b201e4c0a74ea22",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecdc9a5a62f0e5f5",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9f10b9a37436cf9",
+  "translation": "この トレーナーは インタビューを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08a07d715f092bf1",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも うけた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f83cafa70d95ece",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は きっと おおくの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc1715428db0e00f",
+  "translation": "ちゅうもくを あつめる トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "516809def0b62e05",
+  "translation": "{JPN}バトルずきな トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec9ae76500306b12",
+  "translation": "{JPN}バトルした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a7155c4fb232276",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb2c3bfe099a6f34",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8361dfb990602dfd",
+  "translation": "この トレーナーは {ENG}{STR_VAR_1}{JPN}かい\\nバトルした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd36c1e503f9c7b9",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は バトルの チャンスを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e0e790fdfc16692",
+  "translation": "ぜったいに ことわらない トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1080602f007c5b4",
+  "translation": "{JPN}ポケモンを つかまえる トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c9b34c8f65389cc",
+  "translation": "{JPN}ポケモンを つかまえた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bb745b5be42d72c",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2beaf930fa1059ce",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64020771e8db95d2",
+  "translation": "この トレーナーは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbca78e3496e710c",
+  "translation": "{ENG}{STR_VAR_1}{JPN}ひきも つかまえた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed67020db39cbec5",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は やせいの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac972ac4cb77c0bd",
+  "translation": "つかまえる でんせつの めいじんだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35357c694ca8569e",
+  "translation": "{JPN}つりびと トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84c35b0d63697730",
+  "translation": "{JPN}つりざおで ポケモンを つった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d876c762b6384d9",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29700f0afac29547",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "666f0b101e3999c5",
+  "translation": "この トレーナーは つりで ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4442e9c1964b9897",
+  "translation": "{ENG}{STR_VAR_1}{JPN}ひきも つかまえた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69f218e9e5ed789b",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は でんせつの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef650b6c3bb2b5b2",
+  "translation": "つりの めいじんだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0ea5a824d6584b5",
+  "translation": "{JPN}タマゴを あたためる トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8a3d6f81e8695fa",
+  "translation": "{JPN}タマゴを かえした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcb6128dbb5ae150",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61b240cedcc39e2e",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3adaddd91cec176",
+  "translation": "この トレーナーは {ENG}{STR_VAR_1}{JPN}ひきの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bde525da95c3661",
+  "translation": "ポケモンを タマゴから かえした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21ecee8bbaad6e47",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は タマゴを あたためる\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "123edc269651c56c",
+  "translation": "でんせつの めいじんだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e85663ad195ab619",
+  "translation": "{JPN}しんかさせる トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "800c07b59ecd6073",
+  "translation": "{JPN}ポケモンを しんかさせた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cfb5b6b89373c12",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16c7a74e16a46d66",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d433d130acf0b24a",
+  "translation": "この トレーナーは {ENG}{STR_VAR_1}{JPN}ひきの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "037db887bb707cf0",
+  "translation": "ポケモンを しんかさせた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee7069ef9e9ef4cc",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ポケモンを しんかさせる\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0dd6d0057631813",
+  "translation": "きゅうきょくの めいじんだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8af14d12e68625d",
+  "translation": "{JPN}ポケモンセンター だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "553a60644cfa1aea",
+  "translation": "{JPN}ポケモンセンターを つかった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f711edcce6e3733",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c38af70d8c46ad58",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b9ab0de0d62adde",
+  "translation": "この トレーナーは ポケモンセンターで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7404facf2e27c942",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも かいふくした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b4101b42a72ee24",
+  "translation": "これほど ポケモンセンターを あいする\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "209b4d51a41bdfe9",
+  "translation": "ひとは {ENG}{STR_VAR_3}{JPN}の ほかに いない!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c55d78319808dc7",
+  "translation": "{JPN}いえが だいすきな トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec287b33cfb79a19",
+  "translation": "{JPN}いえで ポケモンを やすませた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7c9e806d1438f66",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97e5b0b03ecc8486",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "489a200bdb6f22d2",
+  "translation": "この トレーナーは いえで ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5662f0235d14d822",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも かいふくした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07aa04e1c0abe208",
+  "translation": "これほど いえが すきな ひとは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "613c2dc9693261b1",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の ほかに いないだろう!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0829e3e83526f539",
+  "translation": "{JPN}サファリ だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b1b510f4eb711ab",
+  "translation": "{JPN}サファリゾーンに はいった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "278d5bbb5b2f1794",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71c421473143b1ee",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d69ac69692b589e2",
+  "translation": "この トレーナーは サファリゾーンに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c191584ab2abc7f3",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも はいった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "432ae655f4d46d08",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は サファリゾーンで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "922143e348dc8fd9",
+  "translation": "やせいの ちが さわぐ トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "602964052a0fe1f2",
+  "translation": "{JPN}いあいぎり むちゅう トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22939127bbfcfba1",
+  "translation": "{JPN}いあいぎりを つかった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27dbbf318c312300",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a084c2ffa388e48",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "883e1db487f8b0a3",
+  "translation": "この トレーナーは いあいぎりを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6a04a475ea1b68f",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも つかった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7ce2de585e62664",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は きっと いあいぎりが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48f92c8a673222c0",
+  "translation": "だいすきな トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d80d9980df56c565",
+  "translation": "{JPN}いわを くだく トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "051320004b90f7e2",
+  "translation": "{JPN}いわを くだいた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ffdf74752f5909e",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad49c1dc46a06cf3",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3e0a8f67f03efe3",
+  "translation": "この トレーナーは いわくだきを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c24b457d07b96d76",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも つかった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e245b17601a160de",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は いわを みたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "936021763441d86b",
+  "translation": "くだかずには いられない トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb9b382a7b094770",
+  "translation": "{JPN}ひっこし だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98291f46dff328bd",
+  "translation": "{JPN}ひみつきちを ひっこした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "665c98e42addbf8b",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c11efdc22bde55c",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c9f6c3619f4b26a",
+  "translation": "この トレーナーは ひみつきちを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d1cd67ceefca40e",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも ひっこした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4b35857524418f9",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は しょっちゅう\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "450459235bc3291d",
+  "translation": "ひっこしするのが すきな トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9676301ad8dbee4c",
+  "translation": "{JPN}はねる だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c34a6b3cccde013",
+  "translation": "{JPN}はねるを つかった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15a2ab70af6c04cc",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36261eadc6a98102",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50370d0a898c5db7",
+  "translation": "この トレーナーは はねるを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cd87f8908ad8e09",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも つかった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6330146aa5c36a2d",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は きっと ピチピチ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e67153aab1da003",
+  "translation": "はねるのが だいすきな トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbd652b65140b109",
+  "translation": "{JPN}ねばりづよい トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1bf860eaa87b61a7",
+  "translation": "{JPN}わるあがきに たよった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da24c4eb7d7db99b",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ce6e86de15795e3",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4d68d2523deb52f",
+  "translation": "この トレーナーは わるあがきに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f0f16fc21e05179",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも たよった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2487a024738bd988",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ぎゃっきょうに まけない\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "079824922ace619e",
+  "translation": "ねばりづよい トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a70336ef33b4833",
+  "translation": "{JPN}スロットの チャンピオン$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "031333a04e2aa883",
+  "translation": "{JPN}スロットで おおあたりした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ed43e1eba412eef",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a17da5668b13aa9b",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf43684f2ed710fa",
+  "translation": "この トレーナーは スロットで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8713516071b8865f",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かい おおあたりした。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3eb0fcb3ae43eb95",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は スロットで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "546cc72907ee9356",
+  "translation": "ツキに めぐまれた トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98b361d967eff6ba",
+  "translation": "{JPN}ルーレットの チャンピオン$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8350253c379e6922",
+  "translation": "{JPN}ルーレットで れんしょうした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0557981eefdb0c20",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a577607d55e76528",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90948913fa0529d3",
+  "translation": "この トレーナーは ルーレットで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1958fa20e6a2aee8",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かい れんぞくで かった。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cad462df4ca5428",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ルーレットの たまが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6375227fb45c1564",
+  "translation": "はねる とき ツキが あったのだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fa782d3d448c850",
+  "translation": "{JPN}バトルタワーの ちょうせんしゃ$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77d70d2453b294db",
+  "translation": "{JPN}バトルタワーに ちょうせんした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd69828e39cace9c",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd8a4cc5266f853a",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbc602e762c4e859",
+  "translation": "この トレーナーは バトルタワーに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd0b7172ff8e0e60",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも ちょうせんした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf6e5083a2da7678",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は バトルタワーで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a41c314693322adf",
+  "translation": "ちょうてんを めざす トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c04731365e391a9",
+  "translation": "{JPN}ブレンド だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bf21d6562dfb7d5",
+  "translation": "{JPN}{ENG}{POKEBLOCK}{JPN}を つくった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52b73a2e4311084e",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd8c596af0a27963",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63544b1908f2c580",
+  "translation": "この トレーナーは {ENG}{POKEBLOCK}{JPN}を\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e89543c39a140c3",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも つくった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad2eb961b4d10be2",
+  "translation": "きのみブレンダーを これほど うまく\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47ca86d7614e16ee",
+  "translation": "つかえる ひとは {ENG}{STR_VAR_3}{JPN}だけだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e399fd6d467a9ea8",
+  "translation": "{JPN}コンテスト だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95ef1317afeb5754",
+  "translation": "{JPN}コンテストに でた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad23609e859dec18",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "260db3230c28f3ea",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "897ad344dec1e39d",
+  "translation": "この トレーナーは コンテストに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24935e4ae9b2be98",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも でた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2551ce08e8cf7fb5",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ポケモンを みんなに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdabf5d665395fb5",
+  "translation": "みせるのが だいすきなのだろう!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "656ba49629325b67",
+  "translation": "{JPN}コンテストの マスター$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fec1146e8826b33",
+  "translation": "{JPN}コンテストで ゆうしょうした$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c589f73ecbff5c21",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2be90e2bf890c364",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5b808a14c9f4325",
+  "translation": "この トレーナーは コンテストで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ac5f19ba607fffe",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも ゆうしょうした!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "595caef3284a8ef2",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は きっと すばらしい\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9692e7d671eb8bb",
+  "translation": "コンテストの マスターだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "972c56cd7ffa2021",
+  "translation": "{JPN}かいもの だいすき$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9794a6ffbcc57d08",
+  "translation": "{JPN}かいものを した$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "689c20b8f27bb636",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ded59861411b6a01",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5839e6f6d0ae641b",
+  "translation": "この トレーナーは おみせで どうぐを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a704e710e3d3944f",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも かった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf23a0d99186a4ec",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は かいものを するために\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e5a0995b2f81d9f",
+  "translation": "うまれてきた ひとに ちがいない。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00c326c32bf4ea38",
+  "translation": "{JPN}どうぐを さがす トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20fc0ae404e5bcf5",
+  "translation": "{JPN}ダウジングマシンを つかった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "803b192f42bc2f42",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7dc0852920899c9",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5872fc838b7f0e1c",
+  "translation": "この トレーナーは ダウジングマシンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0b2f8f2b61d1734",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも つかった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fecbd37455c0c32",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は かくれた どうぐを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd6a0765ee337f1c",
+  "translation": "さがしまわるのが すきなのだろう!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dba191efdeab289c",
+  "translation": "{JPN}あめに ぬれた トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aea567bed2ef3c8d",
+  "translation": "{JPN}あめに ふられた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bdf3e062e58f746",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f651c569baf614d",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd81d96b7b30ecea",
+  "translation": "この トレーナーは あめに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35f64311e6ab2447",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも ずぶぬれに された!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a18e2b4cad10a46",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の カリスマは きっと\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a13316338a936627",
+  "translation": "あめまで よびよせるのだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afdf6d164a6a582b",
+  "translation": "{JPN}ポケモンずかん マニア$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a1dc63ccaa2a2d5",
+  "translation": "{JPN}ポケモンずかんを みた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f981ea614ff02bd",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58669cd46275a7bb",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf3ce846a20d9624",
+  "translation": "この トレーナーは ポケモンずかんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e81a7f8b5d169a7",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも みた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab31e55ad6c8de4d",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ずかんで ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "940330709e59b52d",
+  "translation": "しらべるのが だいすきなのだろう!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3570e004ba0fd538",
+  "translation": "{JPN}リボン コレクター$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a4492da28e54c02",
+  "translation": "{JPN}リボンを もらった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89e5d22abfecec5a",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a464d1497b28421",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f07997f0e3724d9",
+  "translation": "この トレーナーは リボンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fdc01ea28084aa41",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも もらった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c04084ec99051c3a",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は きっと リボンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55816f07ac992a70",
+  "translation": "あつめるのが だいすきな トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52228c903c1ac83d",
+  "translation": "{JPN}だんさを とびおりる トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72f0db446d3945f3",
+  "translation": "{JPN}だんさを とびおりた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1871a1d27511210d",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8efdcb0d20a83e98",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56bc8244931d4681",
+  "translation": "この トレーナーは だんさを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f9bc0d6db70621a",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも とびおりた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01f441941d86eadc",
+  "translation": "とびおりられる だんさが あれば\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59f44731be123090",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ほうっておけないのだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e9fafef7e02b89f",
+  "translation": "{JPN}でんせつの テレビ しちょうしゃ$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3344057f63dc927c",
+  "translation": "{JPN}テレビを みた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e751886893a2903",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a049f69fb92bcc5",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71cf062564fae506",
+  "translation": "この トレーナーは テレビを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c45bae9b814db3a",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも みた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15f007a00b910746",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は テレビが だいすきなのだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82a1a0a679737b74",
+  "translation": "{JPN}じかんに うるさい トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e78ccc030c11b1d",
+  "translation": "{JPN}じかんを たしかめた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0618997a7ce4ff27",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d914fd2bfd5aef9",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92a7d9c7743a750e",
+  "translation": "この トレーナーは じかんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75c60234480d4478",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも たしかめた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a68b4b77c13d8c41",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は じかんを きにする\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04247955ddd090e0",
+  "translation": "きちょうめんな トレーナーなのだろう。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd4171292005cab8",
+  "translation": "{JPN}ポケモンくじの たつじん$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95ff21f2ca7cf54b",
+  "translation": "{JPN}ポケモンくじに あたった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f43392a7c3129254",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19d3a08d7129dfa8",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "452d7743be78b901",
+  "translation": "この トレーナーは ポケモンくじに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93ccafe0a6cd5390",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも あたった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b2dd83be7503602",
+  "translation": "{ENG}{STR_VAR_3}{JPN}には ポケモンを こうかんする\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cedab1da40960248",
+  "translation": "ともだちが たくさん いるのだろう!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33e13bbd0ad9b417",
+  "translation": "{JPN}そだてや ごようたし トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53b777e720dc31f5",
+  "translation": "{JPN}そだてやに ポケモンを あずけた$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb3cd21d50cd9048",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e588362f837be471",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b49024c8f6cfbd0",
+  "translation": "この トレーナーは そだてやに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3937645a762eab21",
+  "translation": "ポケモンを {ENG}{STR_VAR_1}{JPN}かいも あずけた!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da9796286d1fcc7f",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は ポケモンを どんどん\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8aa4327df4cc3f5c",
+  "translation": "そだてる やりての トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a73db1528514dc24",
+  "translation": "{JPN}ロープウェイ だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fc8a8c92ea55cff",
+  "translation": "{JPN}ロープウェイに のった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e9ebd0a0f051cf7",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c6851916c6bb0b0",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ee7c5ee97f3ba59",
+  "translation": "この トレーナーは ロープウェイに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e8107e91f81b8fa",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも のった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02134ee2b61b0ff4",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は いつも のぼったり\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e4cc28fc06ba203",
+  "translation": "おりたりの いそがしい トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31677d7906deca1c",
+  "translation": "{JPN}おんせん だいすき トレーナー$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e21a0da571ac5f0b",
+  "translation": "{JPN}おんせんに つかった$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85443d0ec6645415",
+  "translation": "{JPN}これは ある トレーナー\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec4d7de037bfa85b",
+  "translation": "{ENG}{STR_VAR_3}{JPN}の はなし。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "869ccc6378605d63",
+  "translation": "この トレーナーは おんせんに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa028d471d410280",
+  "translation": "{ENG}{STR_VAR_1}{JPN}かいも つかった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14378a01d8bed1a5",
+  "translation": "{ENG}{STR_VAR_3}{JPN}は きっと あかちゃんみたいな\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27bc0718aaf92801",
+  "translation": "すべすべの はだの トレーナーだ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58a96c92e0d93d46",
+  "translation": "{JPN}わたし はなしたがり!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f5066c7f073f989",
+  "translation": "とびきり すてきな はなしが あるの!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "429d1d72fe25d741",
+  "translation": "わたしの はなし きいてくれる?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cf28324cddf489f",
+  "translation": "{JPN}そう…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bb880f42ce059c5",
+  "translation": "なんだか ブルーな きぶんに なったわ…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e453aac8a09136be",
+  "translation": "{JPN}それとね わたし おもったんだけど…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c616bd1c9f7dd457",
+  "translation": "{JPN}それくらい かな…\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46042d93db822e2f",
+  "translation": "また おしゃべり しようね!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95f34450db85a3b4",
+  "translation": "バイバーイ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa669ed2b12f748e",
+  "translation": "{JPN}やあ ぼくは うたうおとこ。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dda326d8b9320e41",
+  "translation": "ぼくの うたを きいて みない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6edf045a21f22b49",
+  "translation": "{JPN}そう…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f76ae8497ff03a6f",
+  "translation": "なんだか ブルーな きぶんに なったよ…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5555b9a7ccc593c2",
+  "translation": "{JPN}ああ なんて こころに しみる うた…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40bfd0e041a652ab",
+  "translation": "ほかの ひとにも きかせて あげたいな…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e9b7f57a5477bf2",
+  "translation": "{JPN}どう?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d519d79cdc75dc85",
+  "translation": "ぼくの うた どうだった?\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "864dde0fb63687e6",
+  "translation": "でも ぼく かしが あんまり\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea234330c56a04da",
+  "translation": "きに いって ないんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c8aabbdb18c11d1",
+  "translation": "きみ ぼくの ために あたらしい\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af697057765105f5",
+  "translation": "かしを かいて くれない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ca98b9e46444fa9",
+  "translation": "{JPN}そう…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b2d0727892d8b32",
+  "translation": "なんだか ブルーな きぶんに なったよ…$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37ca7eb870408af9",
+  "translation": "{JPN}どうも ありがとう!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a2c5358184b0c5b",
+  "translation": "じゃあ うたって みるね。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1aca8091e3a9cc2b",
+  "translation": "{JPN}きみの おもってた とおりの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e8108e17ab1fd7b",
+  "translation": "うたに なった?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d71ed27b26363f18",
+  "translation": "{JPN}よし! じゃあ これで きまり。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad5671a1298eb606",
+  "translation": "しばらく この うたを うたうよ。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99fc89a939f59bfc",
+  "translation": "{JPN}ヘイ ヨー! オレは ヒップスター。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bc19d009ffed4e8",
+  "translation": "いま はやりの イケてるもんを おしえるぜ。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecf37f9db911fa29",
+  "translation": "{JPN}でも ヘイ はやりの イケてるもんは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e196beff6c030c19",
+  "translation": "もう おしえたよな。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8aadfabefb2feee5",
+  "translation": "ほかの みんなにも\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d560c85dee7d37a4",
+  "translation": "ひろめたいんだよ。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f38ea06ddace1a6",
+  "translation": "{JPN}でも ヘイ きみは もう はやりの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07317f29f951b530",
+  "translation": "イケてるもんに くわしいな。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72ed73f59529bbe3",
+  "translation": "おしえる ことは なにも ないぜ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aec3f0fd4cf13c38",
+  "translation": "{JPN}ヘイ きみは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af2678e782d7161b",
+  "translation": "「{ENG}{STR_VAR_1}{JPN}」って しってるかい?\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8dc3c5d6009b137d",
+  "translation": "どういう いみかって? そりゃ…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f82a1f05a46bd922",
+  "translation": "パパか ママに きいてみな?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0580325cd51d9d59",
+  "translation": "{JPN} すっごく かわいい!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a52e68943b360d2a",
+  "translation": "{JPN} すっごく いとしい!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcd4ccccacdae059",
+  "translation": "{JPN} すっごく のんびり!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e08225afe32474f3",
+  "translation": "{JPN} すっごく ポカポカ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e18a8eaadc2c8e5f",
+  "translation": "{JPN} すっごく ほしい!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8794c306646e64c",
+  "translation": "{JPN} すっごく ドキドキ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc44dc736f9d4d8e",
+  "translation": "{JPN} すっごく おもしろい!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b551e813e13b7fe1",
+  "translation": "{JPN} すっごく ふしぎ!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "176bea548126e6ea",
+  "translation": "{JPN}って$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd17165372233728",
+  "translation": "{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdbc5b0b2e435fe7",
+  "translation": "そう おもわない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c963f2c379add2d0",
+  "translation": "{JPN}すっごく りょこうに いきたいの。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da0c6faa4ef56baa",
+  "translation": "どこか いい ところ しらない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b32c74c5f79005e",
+  "translation": "{JPN}120しょくの クレヨン かったの!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4b53d72830b6a80",
+  "translation": "すてきだと おもわない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "efbbcd5886984428",
+  "translation": "{JPN}あわの くもに のって ふわふわ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6569781e60423ab8",
+  "translation": "とんで いけたら すてきじゃない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e14c302a672877c",
+  "translation": "{JPN}すなはまに じを かいても\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d3457a5e5eb0b68",
+  "translation": "なみに きえちゃう。 かなしいな。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a2e7ad8b610b8cf",
+  "translation": "{JPN}うみの そこって どんなかな?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "300bfa8a4b498ef6",
+  "translation": "いちどで いいから いってみたい!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b62c47cfd19ba1e9",
+  "translation": "{JPN}しずむ ゆうひを みると\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "740a39438907dce3",
+  "translation": "おうちに かえりたく ならない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1cfbad9d38767de",
+  "translation": "{JPN}みどりの くさに ねころがって…\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a24c2a72f8a9a52",
+  "translation": "ああ すっごく すっごく きもちいい!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c273c8fa0afc6ff6",
+  "translation": "{JPN}ひみつきちって すっごく すてき!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe8e0fee8acec4eb",
+  "translation": "ワクワク しない?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "148ab89a0bdfc8db",
+  "translation": "{JPN}バトルテント ハジツゲかいじょうへ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e832d6bc1ddb1ab9",
+  "translation": "ようこそ おいでくださいました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60d36aad023bea6e",
+  "translation": "わたしが かちぬきチームバトルの\\nあんないやく です!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd2bedf4e2e57085",
+  "translation": "{JPN}それでは かちぬきチームバトルに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66c7598efc2946e6",
+  "translation": "ちょうせん なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06f17e437c4b871a",
+  "translation": "{JPN}また の ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d5f9ad0b2b31891",
+  "translation": "おまちして おります!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7371261e7e55cb41",
+  "translation": "{JPN}ハジツゲの バトルテントでは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91fda05cd460f86f",
+  "translation": "かちぬきチームバトルを おこないます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5269102663a1073",
+  "translation": "さんかしゃは みな ポケモン 3びきの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea888895e59de543",
+  "translation": "チームで さんか します。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91d4d980ebca0a00",
+  "translation": "3びきの ポケモンは だす じゅんばんに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81296e9bf88a9459",
+  "translation": "ならべて おかなければ なりません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "171fd33f688fb9b2",
+  "translation": "バトルちゅう ポケモンは きめた\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f8ba8a305ecda86",
+  "translation": "じゅんばんどおり 1ぴきずつ でます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b8c6e25ce6fe201",
+  "translation": "いちど バトルに でた ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74bd3ec6d3f8bce1",
+  "translation": "しょうぶが つくまで こうたい できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5b4562478e4649b",
+  "translation": "3ターンで しょうぶが つかない ときは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "247c8b00f48314f9",
+  "translation": "はんていに なります。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27175f232925d3e8",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05f3c72d84106a29",
+  "translation": "ゲームを セーブして ください。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f398fd0ba977c1fd",
+  "translation": "セーブしないと ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "127e417c864d9fa5",
+  "translation": "つづける ことが できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29d22845d286a641",
+  "translation": "みごと 3にんの トレーナーに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f627cbfe5b749029",
+  "translation": "れんぞくで かつことが できたら\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e53b1a0f3b3dc26",
+  "translation": "すてきな しょうひんを さしあげます。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64b0d74d6464b1fe",
+  "translation": "{JPN}バトルテントに ごあんない するまえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "362d1940c397c249",
+  "translation": "セーブ しますが よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c894d9de973d3787",
+  "translation": "{JPN}ちょうせんは レベル50と\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c740b2d78c205abd",
+  "translation": "オープンレベルの 2しゅるい です。\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ffb169709e62ac5",
+  "translation": "どちらに なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e8caee0c575965f",
+  "translation": "{JPN}それでは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5cb26291cf38aa41",
+  "translation": "3びき えらんで ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7bc3394e1601cae",
+  "translation": "{JPN}ちょうせんしゃさま!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f473266709cc92c",
+  "translation": "さんかに ひつような ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15f4bb11aba41a90",
+  "translation": "3びき そろって いません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "892828177c5d843e",
+  "translation": "また おなじ どうぐを もたせる\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e3816a5b14f0a6b",
+  "translation": "ことも できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce6281aebf541efc",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c962a77a94184bc",
+  "translation": "じゅんびが ととのいましたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4e0d701ed102991",
+  "translation": "また おこし ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0045bda84e4f28ba",
+  "translation": "{JPN}ちょうせんしゃさま!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1d623c33efa6479",
+  "translation": "さんかに ひつような ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8be50cf213f0e8c7",
+  "translation": "3びき そろって いません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "badef2f9b4ae94db",
+  "translation": "さんかするには ちがう しゅるいの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ba8c908faf4ed46",
+  "translation": "ポケモンが 3びき ひつよう です。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "332353fdf07ca294",
+  "translation": "また おなじ どうぐを もたせる\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88f65b1f7dda1315",
+  "translation": "ことも できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c436c1e721546a6",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bbcbcd116dc0c7e",
+  "translation": "じゅんびが ととのいましたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5b742a5f4046633",
+  "translation": "また おこし ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7bd51ffb372cb68",
+  "translation": "{JPN}それでは バトルテントへ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c98f876c294de4f2",
+  "translation": "ごあんない いたします。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4cd5cb0e3cd5774",
+  "translation": "{JPN}ちょうせんしゃさま!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7a292fe87b617f9",
+  "translation": "まえに セーブ しないで\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1e31e1faa9832c1",
+  "translation": "でんげんを きりましたね?\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "caec94cac22eb5c6",
+  "translation": "ざんねん ですが そのため\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "196087c79ee2a728",
+  "translation": "あなたの ちょうせんは\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e21b30f0aa9833c",
+  "translation": "しっかくと なりました。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b12f828ace455e54",
+  "translation": "もちろん あらためて さいしょから\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cf4fb1d22ea24d6",
+  "translation": "ちょうせん できます。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13b37641b29a0a74",
+  "translation": "{JPN}おみごと! 3にんの トレーナーに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "883b6e616d2e8bc2",
+  "translation": "れんぞくで かちましたね!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76b2552709efb479",
+  "translation": "{JPN}ゲームを セーブするので おまちください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f9f575f25fe546a",
+  "translation": "{JPN}3れんしょうを きねんして\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2df4ace34675e67",
+  "translation": "こちらの しょうひんを さしあげます。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa38b9c73172b846",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "643c74f4f8cc5e84",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を もらった!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f454798a3573884d",
+  "translation": "{JPN}おや?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa54591fb9a6c880",
+  "translation": "バッグが いっぱいの ようですね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0387f78bb9d0d959",
+  "translation": "バッグを あけてから しょうひんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bf2ed82e6cfd476",
+  "translation": "うけとりに きて ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c803e0dd7872203a",
+  "translation": "{JPN}ごさんか ありがとう ございました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1180e2840fd43ceb",
+  "translation": "ゲームを セーブするので おまちください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad5fd25e8af3e187",
+  "translation": "{JPN}また の ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44fe1bb20bb4d7e1",
+  "translation": "おまちして おります!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d973b4ff7599e27",
+  "translation": "{JPN}おこしを おまちして\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7367049492cfaa15",
+  "translation": "おりました。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8cff0186103d3ee",
+  "translation": "バトルテントに ごあんない するまえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d502fc5039ed8400",
+  "translation": "セーブ します。 おまちください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbae673bf783ab6b",
+  "translation": "{JPN}バトルテント シダケかいじょうへ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "427a3622cf38bf60",
+  "translation": "ようこそ おいでくださいました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17125e80ceee64cb",
+  "translation": "ここでは トレーナーの ポケモンへの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e1661eb5199e7bc",
+  "translation": "しんらいが ためされます。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52c9615b51e2cb7a",
+  "translation": "{JPN}シダケの バトルテントに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0cd8fefd633b532d",
+  "translation": "ちょうせん なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08dfc6b90259ffa7",
+  "translation": "{JPN}シダケの バトルテントでは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc187545878a09d1",
+  "translation": "かならず まもらなければ ならない\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eede9c0bc9a539b5",
+  "translation": "だいじな ルールが ひとつ あります。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40620578404177ba",
+  "translation": "トレーナーに ゆるされるのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "923799c7482c063a",
+  "translation": "ポケモンの いれかえ だけ です。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "620589e4c7f3bb29",
+  "translation": "それいがいの めいれいを ポケモンに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48d33c75912afb1d",
+  "translation": "だすことは きんじられて います。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7ee4c8d2b020901",
+  "translation": "ポケモンは じぶんの せいかくに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad347cf6d2ee4e14",
+  "translation": "したがって じぶんで たたかいます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40b54cc97031b03c",
+  "translation": "ポケモンを しんじて\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c141620a989bf85",
+  "translation": "みまもって あげてください。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b7714834cde4862",
+  "translation": "みごと 3にんの トレーナーに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5d94e0a2d4decc3",
+  "translation": "れんぞくで かつことが できたら\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f260824cabdae21",
+  "translation": "しょうひんを さしあげます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55f4c2c905e0d597",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d9ded10c7d9b99a",
+  "translation": "ゲームを セーブして ください。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "321ed262517763f0",
+  "translation": "セーブせずに ちゅうだん すると\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0455a311f252e90d",
+  "translation": "しっかくと なります。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75b8e50230fad24d",
+  "translation": "{JPN}こころと ポケモンを きたえたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ff27f3742bd881f",
+  "translation": "また おこし ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9a827f24057eadf",
+  "translation": "{JPN}むずかしさは レベル50と\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5356518a691d142",
+  "translation": "オープンレベルの 2しゅるい です。\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf193e9475a12af8",
+  "translation": "どちらに ちょうせん なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bbdfe789725ae27",
+  "translation": "{JPN}はあ…\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83d4238a31bd5a87",
+  "translation": "ちょうせんに ひつような ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eec43776456f76ad",
+  "translation": "3びき そろって いません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5968e52a022f9bf9",
+  "translation": "さんかするには ちがう しゅるいの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9693528d4aac8224",
+  "translation": "ポケモンが 3びき ひつよう です。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1d92563a680c1ef",
+  "translation": "また おなじ どうぐを もたせる\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2c80d8447bde636",
+  "translation": "ことも できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a41c28d26f7c7851",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "466f568081c2ee23",
+  "translation": "じゅんびが ととのったら\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2fdf9f40dcf2cb62",
+  "translation": "また きて ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "135230c773b80f72",
+  "translation": "{JPN}はあ…\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28f4315563b9573c",
+  "translation": "ちょうせんに ひつような ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a76d42c55c3a7ecc",
+  "translation": "3びき そろって いません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d3d166d28d3696f",
+  "translation": "さんかするには ちがう しゅるいの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e3a35e2bb0a1acd",
+  "translation": "ポケモンが 3びき ひつよう です。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7243125694d3c48",
+  "translation": "また おなじ どうぐを もたせる\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b9bef803c1cb0c0",
+  "translation": "ことも できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2236fe87797ed557",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa3b95cf929de1a9",
+  "translation": "じゅんびが ととのったら\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70cc88dd52c235e2",
+  "translation": "また きて ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1db854f0bae254b4",
+  "translation": "{JPN}よろしい。 それでは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35401711dbe6cbf4",
+  "translation": "3びき えらんで ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16b04b8ef48adaf4",
+  "translation": "{JPN}バトルテントに ごあんない するまえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b14237f2bc52638",
+  "translation": "セーブ しますが よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73ef1321b914fe82",
+  "translation": "{JPN}よろしい。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6dd1aa1f0a6040a0",
+  "translation": "では ついてきて ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "373016865523020f",
+  "translation": "{JPN}あなたの ポケモンの かつやくを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f64810d5bec6b0dd",
+  "translation": "みることが できて こうえい です。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35f0600321793ca7",
+  "translation": "けっかを きろく します。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8d42be055d51893",
+  "translation": "すこし おまち ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8bcc87c6e0e7ba13",
+  "translation": "{JPN}3れんしょう するとは…\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10275c32a6141d36",
+  "translation": "あなたと ポケモンの こころの きずなは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad8dffd7786a08a3",
+  "translation": "かたく ほんもので あるようです。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f5568d9c30aed01",
+  "translation": "{JPN}あなたの きろくを のこします。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fee336a6588986e6",
+  "translation": "すこし おまち ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef19cddaef3d7e41",
+  "translation": "{JPN}3れんしょうの きろくを たたえ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49dd0e55fe3c2e1a",
+  "translation": "こちらの しょうひんを さしあげます。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "491d6cb7b8fb9244",
+  "translation": "{JPN}バトルテント カイナかいじょうへ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce9b18279719c279",
+  "translation": "ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b62ecc335c2aa518",
+  "translation": "わたしが バトルトレードの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75e8c318e5d87854",
+  "translation": "あんないやく です。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9a71333c74fba25",
+  "translation": "{JPN}バトルトレードに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7bfd053c1a18769",
+  "translation": "ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0317a6cc6c2abad5",
+  "translation": "{JPN}カイナの バトルテントでは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4903f778aac39f40",
+  "translation": "レンタルポケモンを つかった\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f66603a051042cf7",
+  "translation": "バトルトレードを おこないます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d0e7a5a701b5308",
+  "translation": "まず この イベント せんようの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27e622c4f6269829",
+  "translation": "ポケモンを 3びき おかしします。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00e44a64ba6612c4",
+  "translation": "その レンタルポケモンを つかって\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6124ecafeadb858f",
+  "translation": "シングルバトルを して いただきます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b912c3347d99e7d",
+  "translation": "かったら レンタルポケモンを 1ぴき\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "221075e8f97ff34b",
+  "translation": "こうかん する ことが できます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0ad9190ec89e8df",
+  "translation": "バトルと こうかんを くりかえし\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e01429cb380e9d9",
+  "translation": "3かい れんぞくで かつことが\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0543180fbee1fbc",
+  "translation": "できたら すてきな しょうひんが もらえます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "847d4045c8784bed",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c11441b8fbd042fd",
+  "translation": "ゲームを セーブして ください。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0b15e21528699eb",
+  "translation": "セーブせずに ちゅうだん すると\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "449cf550bff877dd",
+  "translation": "しっかくと なります。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09b266945304eac4",
+  "translation": "{JPN}また の おこしを おまちしています。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bdffb86afa717ac",
+  "translation": "{JPN}どちらの レベルに ちょうせん しますか?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e190609e913a5788",
+  "translation": "レベル50? それとも レベル100?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a6ae767592d93c8",
+  "translation": "{JPN}ちょうせんを はじめる まえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c6a5e2e6ac77f02",
+  "translation": "セーブ しますが よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9b5c2844d3226bd",
+  "translation": "{JPN}では ちょうせんの あいだ\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e30864e22959186",
+  "translation": "あなたの ポケモンを おあずかりします。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7272f361b6de6f3",
+  "translation": "{JPN}こちらへ どうぞ。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84cd6b7371791536",
+  "translation": "{JPN}ごさんか ありがとう ございました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc65739579c810ad",
+  "translation": "レンタルポケモンと ひきかえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06e94a01a3472ff5",
+  "translation": "あなたの ポケモンを おかえしします。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e3000509ecbe938",
+  "translation": "イベントの けっかも セーブします。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "309d53fd613e8ed8",
+  "translation": "おまち ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a157cbb336fb5c0",
+  "translation": "{JPN}レンタルポケモンと ひきかえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0077c5a372a4afd3",
+  "translation": "あなたの ポケモンを おかえしします。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8766ee78028d16f4",
+  "translation": "{JPN}おめでとう ございます!\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f76d799fadd724f",
+  "translation": "3れんしょう しましたね!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a58cefc31039a7de",
+  "translation": "レンタルポケモンと ひきかえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "935b5aa2d3f6ecb4",
+  "translation": "あなたの ポケモンを おかえしします。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b054c343341b068e",
+  "translation": "イベントの けっかも セーブします。\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7a4292c288c8107",
+  "translation": "おまち ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d8ca02431672930",
+  "translation": "{JPN}3れんしょうを たたえて\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c51b2a75051bfbf",
+  "translation": "こちらの しょうひんを さしあげます。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d207cffd40cb701",
+  "translation": "{JPN}おや?\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd03827c35dc124f",
+  "translation": "もう もちきれない ようですね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8414864b682d47a",
+  "translation": "バッグを あけてから\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25d89f0b9098ebac",
+  "translation": "おしらせ ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa53322a0ee2d7c2",
+  "translation": "{JPN}おまちして おりました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ce401d92cd467be",
+  "translation": "ちょうせんを さいかい するまえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "591b163ae59ae651",
+  "translation": "ゲームを セーブ します。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee0aec708370138d",
+  "translation": "{JPN}もうしあげにくい のですが まえかい\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e29486fc23c3e64",
+  "translation": "セーブせずに やめて しまいましたね。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a763fdff0e362f0",
+  "translation": "そのため あなたの ちょうせんは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9584158abd76f22f",
+  "translation": "しっかくと なりました。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "506a29c64f49c63d",
+  "translation": "{JPN}あなたの ポケモンを おかえしします。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3febb81644330d6",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c66ca3ad9c6c449",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を もらった!$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e47e0b6f22513d0a",
+  "translation": "{JPN}バトルトレードの ルールが かいてある。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23445915129f3a12",
+  "translation": "{JPN}どの こうもくを よみますか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33f30aef4b9ed987",
+  "translation": "{JPN}バトルトレードで つかえる ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "576d9a1b7084a8c7",
+  "translation": "3びき だけ です。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b01fb3bdce2679af",
+  "translation": "レンタルでも こうかんでも\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc87efc8f581d46a",
+  "translation": "チームに おなじ ポケモンを 2ひきいじょう\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f73ec5549375b0a",
+  "translation": "いれることは できません。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3003bb29c4a89d2b",
+  "translation": "{JPN}ポケモンを こうかん できるのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70c823dcba54d253",
+  "translation": "たおした ばかりの トレーナー だけです。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5d6c3dba780015e",
+  "translation": "こうかん できるのは その トレーナーが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "316247f60b395a46",
+  "translation": "つかった ポケモン だけ です。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f20dd02f86450baa",
+  "translation": "{JPN}バトルに かつたびに たおした\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fbeb6087e4a888b",
+  "translation": "あいての ポケモン 1ぴきと\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f3af2c07aae0a25",
+  "translation": "こうかん できます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8751dc73d2049b1",
+  "translation": "イベントの 3にんめの トレーナーとは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d311af4c077b62f2",
+  "translation": "ポケモンを こうかん できません。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "364924672e414ed6",
+  "translation": "{JPN}ポケモンを こうかん するときに\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2686b424ca9060ab",
+  "translation": "ちゅういする ことが ふたつ あります。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45ae3f93373be15a",
+  "translation": "ひとつめ。 こうかんの とき\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "367815edcb39b6d2",
+  "translation": "うけとる ポケモンの のうりょくは\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec14f362377c66b7",
+  "translation": "たしかめられません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0cb631495ffa9ad0",
+  "translation": "ふたつめ。 チームの ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b22b11e8cdfc122",
+  "translation": "レンタルした じゅんばんで\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7017e2d84b8d9a3",
+  "translation": "ならんで います。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "017d80fe0949f491",
+  "translation": "この じゅんばんは こうかんしても\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "321f6b63a4f78c6c",
+  "translation": "かわりません。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26bd5ebb14c35b3b",
+  "translation": "{JPN}カイナの バトルテントの ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3621e6bc66dafb23",
+  "translation": "すべて レンタル です。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38e1bbb8fc913996",
+  "translation": "レンタルポケモンは すべて\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bfc785c05d67317",
+  "translation": "レベル30 です。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4688a1771d8e645",
+  "translation": "{JPN}シダケの バトルテントの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13b2672979cf2bc4",
+  "translation": "ルールが かいてある。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e99200204022cb9",
+  "translation": "{JPN}どの こうもくを よみますか?$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3ee6bf1846000cc",
+  "translation": "{JPN}シダケの バトルテントでは\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81039d31d4cc0b7d",
+  "translation": "ポケモンが じぶんで かんがえて\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38396dd4aa720337",
+  "translation": "たたかわなければ なりません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cb0c47ac1833934",
+  "translation": "やせいと ちがい ひとと くらす\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "891467db22ca27af",
+  "translation": "ポケモンは せいかくに よって\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ba82047ab0b2bf6",
+  "translation": "ふるまいが かわります。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b533a10ed8b64140",
+  "translation": "{JPN}せいかくに よっては なにが あっても\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5883f43325e828d4",
+  "translation": "こうげき したがる ポケモンも います。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f84894ba282c6e91",
+  "translation": "また ダメージから じぶんの みを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0eb9cba93cb1902",
+  "translation": "まもりたがる ポケモンも います。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0039b07bb1e5e744",
+  "translation": "あいてを こまらせたり まどわせたり\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a72f00c0325e4b75",
+  "translation": "するのが すきな ポケモンも います。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcf70cf4158beebb",
+  "translation": "せいかくに よって ポケモンには\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed204d4827335086",
+  "translation": "とくいで すきな わざが\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11f8f4f00809a603",
+  "translation": "あります。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "372e04bbba00fa70",
+  "translation": "また にがてで きらいな わざも\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9cce6c68b7f735e2",
+  "translation": "あるかも しれません。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36c0e77b87e5b720",
+  "translation": "{JPN}あいてに ちょくせつ ダメージを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "feffb555a0b2ee67",
+  "translation": "あたえる こうげきの わざ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a62e3e721d3467b1",
+  "translation": "あいての こうげきに そなえたり\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9120e61d68de485e",
+  "translation": "HPを かいふく したりする\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a299ae68e83c5f5",
+  "translation": "ぼうぎょの わざ。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86fe57ea4079318f",
+  "translation": "ほかにも どくや まひ などの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e76e1ba54f84c66",
+  "translation": "じょうたいいじょうで あいてを\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a864e264c7e547a1",
+  "translation": "よわらせる すこし かわった\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a1a4bfbe3536c57",
+  "translation": "わざも あります。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c3f301fa0ee914b",
+  "translation": "ポケモンは この 3つの なかから\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1864834e359b1723",
+  "translation": "つかう わざを かんがえます。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36ffe4c07bbcac53",
+  "translation": "{JPN}トレーナーの めいれいが ないと\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9f4b3a1099cb1da",
+  "translation": "ポケモンは うまく つかえない\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "171eccf2ae025e07",
+  "translation": "わざが あります。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0cbcb23f87683574",
+  "translation": "ポケモンは きらいな わざを\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95717a6c969a0fa0",
+  "translation": "うまく つかえません。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1d6df088b94715d",
+  "translation": "せいかくに あわない わざしか\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a2eede371d07511",
+  "translation": "おぼえていないと ポケモンは\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d712eb08911d359a",
+  "translation": "ほんらいの ちからを だせない ことが おおいです。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "482b2c52703c6faf",
+  "translation": "{JPN}せいかくに よっては ピンチに なると\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ede00848e4add357",
+  "translation": "せいかくに あわない わざを\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26410e09c714634b",
+  "translation": "つかいはじめる ポケモンも います。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10d78606fa65ccc3",
+  "translation": "ピンチで ポケモンの ようすが かわったら\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75702c99837cef8c",
+  "translation": "よく みまもって ください。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03582b532e74ed41",
+  "translation": "{JPN}この バトルテントでは あいての\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f1ef9dacbe47506",
+  "translation": "ポケモンの レベルが あなたの\\l",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b7df8a677751e1a",
+  "translation": "ポケモンに あわせて ちょうせい されます。\\p",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ca40eec03573997",
+  "translation": "ただし あいての トレーナーの ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0f6c9d4d1fafa79",
+  "translation": "レベル30より ひくい ことは ありません。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25fbf53f0fac3889",
+  "translation": "{JPN}シダケの バトルテントの\\n",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a62979a2946dabae",
+  "translation": "ルールが かいてある。$",
+  "provenance": {
+   "batch": "dialogue-text-mauvilleman-tent-104",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

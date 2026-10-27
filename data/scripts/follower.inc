@@ -5,7 +5,7 @@ gText_FollowerLostInThought::
 	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は\nなにか かんがえごとを しているようだ。$"
 
 gText_FollowerDefault::
-	.string "ERROR 404: Script not found.$"
+	.string "{JPN}ERROR 404: スクリプトが みつかりません。$"
 
 gText_WantsToFly::
 	.string "{JPN}{ENG}{STR_VAR_1}{JPN}は おちつかない ようすで\nそらを みあげている。\pそらをとぶを つかいますか？$"

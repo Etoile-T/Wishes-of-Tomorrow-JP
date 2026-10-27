@@ -1,167 +1,167 @@
 CeladonCity_GameCorner_Text_TryPokemonPrinter::
-	.string "It's a POKéMON PRINTER!\p"
-	.string "It can put a print of your POKéMON\n"
-	.string "on the back of your TRAINER CARD.\p"
-	.string "It costs only ¥50.\n"
-	.string "Would you like to try it?$"
+	.string "{JPN}ポケモンプリンターだ!\p"
+	.string "トレーナーカードの うらに\n"
+	.string "ポケモンを プリントできる。\p"
+	.string "たったの 50円だ。\n"
+	.string "ためしてみる?$"
 
 CeladonCity_GameCorner_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "{JPN}おかねが たりない。$"
 
 CeladonCity_GameCorner_Text_ChoosePrintType::
-	.string "Please choose the print type.$"
+	.string "{JPN}プリントの しゅるいを えらんでください。$"
 
 CeladonCity_GameCorner_Text_BigSmileForPhoto::
-	.string "A big smile for the photo, please!\n"
-	.string "Three… Two… One…\p"
-	.string "Flash!$"
+	.string "{JPN}はい いい えがおで おねがいします!\n"
+	.string "3… 2… 1…\p"
+	.string "パシャッ!$"
 
 CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
-	.string "Your POKéMON print is ready!\n"
-	.string "Check your TRAINER CARD.$"
+	.string "{JPN}ポケモンの プリントが できました!\n"
+	.string "トレーナーカードを みてね。$"
 
 FourIsland_House2_Text_WishICouldShowOffStickers::
-	.string "Giggle…\n"
-	.string "I collected a ton of STICKERS.\l"
-	.string "I wish I could show them off…$"
+	.string "{JPN}うふふ…\n"
+	.string "シールを たくさん あつめたの。\l"
+	.string "だれかに みせびらかしたいなあ…$"
 
 FourIsland_House2_Text_GiveYouStickerIfYouBrag::
-	.string "Oh, excellent!\n"
-	.string "You've come to the right place!\p"
-	.string "Look, look! See? See?\n"
-	.string "These are my STICKERS!\l"
-	.string "Look how many I got!\p"
-	.string "I bet you want some.\n"
-	.string "I bet you do!\p"
-	.string "I'll give a STICKER if you can tell\n"
-	.string "me something awesome about\l"
-	.string "yourself.\p"
-	.string "What will you brag about?$"
+	.string "{JPN}わあ うれしい!\n"
+	.string "ちょうど いいところに きたね!\p"
+	.string "みて みて! ほら? ほら?\n"
+	.string "これが わたしの シールだよ!\l"
+	.string "こんなに あるんだから!\p"
+	.string "ほしくなったでしょ。\n"
+	.string "ぜったい そうでしょ!\p"
+	.string "あなたの すごい ところを\n"
+	.string "なにか じまんしてくれたら\l"
+	.string "シールを あげるよ。\p"
+	.string "なにを じまんする?$"
 
 FourIsland_House2_Text_BragAboutSomethingForMe::
-	.string "Brag about something for me.\n"
-	.string "I'll give you a STICKER.$"
+	.string "{JPN}なにか じまんしてみて。\n"
+	.string "シールを あげるから。$"
 
 FourIsland_House2_Text_BragAboutWhatToday::
-	.string "Oh, hi!\n"
-	.string "Here comes the braggart.\p"
-	.string "What are you going to brag about\n"
-	.string "today?$"
+	.string "{JPN}あ やっほー!\n"
+	.string "じまんやさんが きたね。\p"
+	.string "きょうは なにを\n"
+	.string "じまんしてくれるの?$"
 
 FourIsland_House2_Text_WowHoFLowest::
-	.string "Oh, wow, you made it into the\n"
-	.string "HALL OF FAME.\p"
-	.string "That's pretty good, yup!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}わあ すごい\n"
+	.string "でんどういり したんだ。\p"
+	.string "なかなか やるね うん!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowHoFLow::
-	.string "Oh, wow, you've entered the\n"
-	.string "HALL OF FAME often!\p"
-	.string "That's impressive, yup!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}わあ すごい なんども\n"
+	.string "でんどういり してるんだ!\p"
+	.string "たいしたもんだね うん!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowHoFHigh::
-	.string "Whoa! You've made it into the\n"
-	.string "HALL OF FAME that often?\l"
-	.string "That's seriously incredible, yup!\p"
-	.string "You own the POKéMON LEAGUE!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}うわあ! そんなに たくさん\n"
+	.string "でんどういり してるの?\l"
+	.string "ほんとに すごすぎるよ うん!\p"
+	.string "ポケモンリーグは あなたの ものだね!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowHoFHighest::
-	.string "No way! You've gone into the\n"
-	.string "HALL OF FAME that many times?\p"
-	.string "You're beyond incredible, yup!\n"
-	.string "That's it, I have to give you this.$"
+	.string "{JPN}うそでしょ! そんなに なんかいも\n"
+	.string "でんどういり してるの?\p"
+	.string "すごいを とおりこしてるよ うん!\n"
+	.string "もう これを あげるしか ない!$"
 
 FourIsland_House2_Text_HoFStickerApplied::
-	.string "The HALL OF FAME STICKER was\n"
-	.string "applied to the TRAINER CARD.$"
+	.string "{JPN}でんどういりシールを\n"
+	.string "トレーナーカードに はった。$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
-	.string "Hmm…\p"
-	.string "Come back with a better story next\n"
-	.string "time, okay?$"
+	.string "{JPN}うーん…\p"
+	.string "こんどは もっと すごい はなしを\n"
+	.string "もってきてね?$"
 
 FourIsland_House2_Text_LivingLegendHoF::
-	.string "Oh, no, no can do.\p"
-	.string "You're practically a living legend.\n"
-	.string "I have no SITCKERS left to give.$"
+	.string "{JPN}ううん だめだめ。\p"
+	.string "あなたは もう いきた でんせつだもん。\n"
+	.string "あげられる シールが もう ないよ。$"
 
 FourIsland_House2_Text_WowEggsLowest::
-	.string "Oh, wow, there are POKéMON EGGS?\n"
-	.string "I didn't know that!\p"
-	.string "That's pretty good, yup!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}わあ ポケモンの タマゴなんて あるの?\n"
+	.string "しらなかった!\p"
+	.string "なかなか やるね うん!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowEggsLow::
-	.string "You've hatched that many EGGS?\n"
-	.string "You really must like them!\p"
-	.string "That's impressive, yup!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}そんなに タマゴを かえしたの?\n"
+	.string "ほんとに タマゴが すきなんだね!\p"
+	.string "たいしたもんだね うん!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowEggsHigh::
-	.string "Whoa! You've hatched a whole\n"
-	.string "bunch of EGGS!\p"
-	.string "You're an EGG-hatching machine!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}うわあ! タマゴを\n"
+	.string "ものすごく たくさん かえしてるね!\p"
+	.string "まるで タマゴかえしマシーンだね!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowEggsHighest::
-	.string "Wh… You hatched that many EGGS?\p"
-	.string "What's behind your love of EGGS?\n"
-	.string "It's beyond incredible, yup!\p"
-	.string "You're too awesome, I tell you.\n"
-	.string "That's it, I have to give you this.$"
+	.string "{JPN}え… そんなに タマゴを かえしたの?\p"
+	.string "なんで そんなに タマゴが すきなの?\n"
+	.string "すごいを とおりこしてるよ うん!\p"
+	.string "ほんとに すごすぎるよ あなた。\n"
+	.string "もう これを あげるしか ない!$"
 
 FourIsland_House2_Text_EggStickerApplied::
-	.string "The EGG STICKER was applied\n"
-	.string "to the TRAINER CARD.$"
+	.string "{JPN}タマゴシールを\n"
+	.string "トレーナーカードに はった。$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
-	.string "Hmm…\p"
-	.string "Come back with a better story next\n"
-	.string "time, okay?$"
+	.string "{JPN}うーん…\p"
+	.string "こんどは もっと すごい はなしを\n"
+	.string "もってきてね?$"
 
 FourIsland_House2_Text_LivingLegendEggs::
-	.string "Oh, no, no can do.\p"
-	.string "You're practically a living legend.\n"
-	.string "I have no SITCKERS left to give.$"
+	.string "{JPN}ううん だめだめ。\p"
+	.string "あなたは もう いきた でんせつだもん。\n"
+	.string "あげられる シールが もう ないよ。$"
 
 FourIsland_House2_Text_WowLinkWinsLowest::
-	.string "Oh, wow, you've had success\n"
-	.string "link battling?\p"
-	.string "You're pretty strong, yup!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}わあ つうしんたいせんで\n"
+	.string "かったことが あるの?\p"
+	.string "けっこう つよいんだね うん!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowLinkWinsLow::
-	.string "You've beaten your friends a lot\n"
-	.string "link battling, huh?\p"
-	.string "You're impressively strong, yup!\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}つうしんたいせんで ともだちに\n"
+	.string "たくさん かってるんだ?\p"
+	.string "ほんとに つよいんだね うん!\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowLinkWinsHigh::
-	.string "Whoa! You've beaten your friends\n"
-	.string "a frightful number of times.\p"
-	.string "Have you lost friends over this?\n"
-	.string "I'll give you one of these.$"
+	.string "{JPN}うわあ! ともだちに\n"
+	.string "おそろしいほど かってるね。\p"
+	.string "それで ともだち なくしてない?\n"
+	.string "これ ひとつ あげる。$"
 
 FourIsland_House2_Text_WowLinkWinsHighest::
-	.string "Wh… Wickedly whoa!\n"
-	.string "You've won mind-blowingly often!\p"
-	.string "It just knocks me out thinking\n"
-	.string "about how tough you are.\p"
-	.string "You're the stuff of nightmares!\n"
-	.string "That's it, I have to give you this.$"
+	.string "{JPN}え… うっそー すごすぎ!\n"
+	.string "とんでもない かずの かちだね!\p"
+	.string "あなたが どれだけ つよいか\n"
+	.string "かんがえるだけで くらくらしちゃう。\p"
+	.string "もう あくむに でてきそう!\n"
+	.string "もう これを あげるしか ない!$"
 
 FourIsland_House2_Text_VictoryStickerApplied::
-	.string "The VICTORY STICKER was applied\n"
-	.string "to the TRAINER CARD.$"
+	.string "{JPN}しょうりシールを\n"
+	.string "トレーナーカードに はった。$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
-	.string "Hmm…\p"
-	.string "Come back with a better story next\n"
-	.string "time, okay?$"
+	.string "{JPN}うーん…\p"
+	.string "こんどは もっと すごい はなしを\n"
+	.string "もってきてね?$"
 
 FourIsland_House2_Text_LivingLegendLinkWins::
-	.string "Oh, no, no can do.\p"
-	.string "You're practically a living legend.\n"
-	.string "I have no SITCKERS left to give.$"
+	.string "{JPN}ううん だめだめ。\p"
+	.string "あなたは もう いきた でんせつだもん。\n"
+	.string "あげられる シールが もう ないよ。$"

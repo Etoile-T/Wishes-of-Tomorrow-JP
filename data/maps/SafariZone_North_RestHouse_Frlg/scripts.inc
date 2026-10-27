@@ -14,17 +14,17 @@ SafariZone_North_RestHouse_EventScript_Gentleman::
 	end
 
 SafariZone_East_Text_KeepAnyItemFoundOnSafari::
-	.string "You can keep any item you find in\n"
-	.string "the SAFARI ZONE.\p"
-	.string "But, you'll run out of time if you\n"
-	.string "try for all of them at once.$"
+	.string "{JPN}サファリゾーンで みつけた どうぐは\n"
+	.string "もちかえって いいんだよ。\p"
+	.string "でも ぜんぶ いっぺんに ひろおうと\n"
+	.string "すると じかんぎれに なっちゃうよ。$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
-	.string "Go to the deepest part of the\n"
-	.string "SAFARI ZONE. You will win a prize!$"
+	.string "{JPN}サファリゾーンの いちばん おくへ\n"
+	.string "いってごらん。 けいひんが もらえるよ!$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
-	.string "My EEVEE evolved into FLAREON.\p"
-	.string "But, a friend's EEVEE turned into a\n"
-	.string "VAPOREON. I wonder why?$"
+	.string "{JPN}ぼくの イーブイは ブースターに なった。\p"
+	.string "でも ともだちの イーブイは シャワーズに\n"
+	.string "なったんだ。 なんで だろう?$"
 

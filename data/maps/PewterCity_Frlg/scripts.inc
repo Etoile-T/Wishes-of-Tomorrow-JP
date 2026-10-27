@@ -843,134 +843,134 @@ PewterCity_Movement_WalkInPlaceLeft::
 	step_end
 
 Text_DreamEaterTeach::
-	.string "Yawn!\n"
-	.string "I must have dozed off in the sun.\p"
-	.string "I had this weird dream about\n"
-	.string "a DROWZEE eating my dream.\p"
-	.string "And…\n"
-	.string "I learned how to eat dreams…\p"
-	.string "Oogh, this is too spooky!\p"
-	.string "Let me teach it to a POKéMON so\n"
-	.string "I can forget about it!$"
+	.string "{JPN}ふわぁ…!\n"
+	.string "ひなたで いねむり してたみたいだ。\p"
+	.string "へんな ゆめを みたんだ。\n"
+	.string "スリープが ゆめを たべる ゆめ。\p"
+	.string "それで…\n"
+	.string "ゆめを たべる ほうほうを おぼえた…\p"
+	.string "うう こわすぎる!\p"
+	.string "ポケモンに おしえて\n"
+	.string "わすれて しまいたい!$"
 
 Text_DreamEaterDeclined::
-	.string "…Snore…$"
+	.string "{JPN}…ぐうぐう…$"
 
 Text_DreamEaterWhichMon::
-	.string "Which POKéMON wants to learn\n"
-	.string "DREAM EATER?$"
+	.string "{JPN}どの ポケモンに\n"
+	.string "ゆめくいを おしえる?$"
 
 Text_DreamEaterTaught::
-	.string "…ZZZ…\n"
-	.string "I…can't eat…anymore…$"
+	.string "{JPN}…ムニャムニャ…\n"
+	.string "もう…たべられない…$"
 
 PewterCity_Text_ClefairyCameFromMoon::
-	.string "CLEFAIRY came from the moon.\n"
-	.string "That's what the rumor is.\p"
-	.string "They appeared after MOON STONES\n"
-	.string "fell on MT. MOON.$"
+	.string "{JPN}ピッピは つきから きたんだって。\n"
+	.string "そういう うわさ なんだ。\p"
+	.string "おつきみやまに つきのいしが おちて\n"
+	.string "から あらわれた らしいよ。$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-	.string "There aren't many serious POKéMON\n"
-	.string "TRAINERS here.\p"
-	.string "They're all like BUG CATCHERS,\n"
-	.string "you know, just hobbyists.\p"
-	.string "But PEWTER GYM's BROCK isn't like\n"
-	.string "that, not one bit.$"
+	.string "{JPN}このへんには ほんきの ポケモン\n"
+	.string "トレーナーは あまり いない。\p"
+	.string "みんな むしとりしょうねん みたいな\n"
+	.string "しゅみで やってる ひと ばかり。\p"
+	.string "でも ニビジムの タケシは\n"
+	.string "ぜんぜん ちがうぞ!$"
 
 PewterCity_Text_DidYouCheckOutMuseum::
-	.string "Did you check out the MUSEUM?$"
+	.string "{JPN}はくぶつかんには いってみた?$"
 
 PewterCity_Text_WerentThoseFossilsAmazing::
-	.string "Weren't those fossils from MT. MOON\n"
-	.string "amazing?$"
+	.string "{JPN}おつきみやまの かせき\n"
+	.string "すごかったでしょ?$"
 
 PewterCity_Text_ReallyYouHaveToGo::
-	.string "Really?\n"
-	.string "You absolutely have to go!$"
+	.string "{JPN}ほんとに?\n"
+	.string "ぜったい いくべきだよ!$"
 
 PewterCity_Text_ThisIsTheMuseum::
-	.string "This is it, the MUSEUM.\p"
-	.string "You have to pay to get in, but it's\n"
-	.string "worth it. See you around!$"
+	.string "{JPN}ここが はくぶつかんだよ。\p"
+	.string "にゅうかんりょうは いるけど\n"
+	.string "みる かちは あるよ。 じゃあね!$"
 
 PewterCity_Text_DoYouKnowWhatImDoing::
-	.string "Psssst!\n"
-	.string "Do you know what I'm doing?$"
+	.string "{JPN}ねえねえ!\n"
+	.string "なに してるか わかる?$"
 
 PewterCity_Text_ThatsRightItsHardWork::
-	.string "That's right!\n"
-	.string "It's hard work!$"
+	.string "{JPN}そのとおり!\n"
+	.string "たいへんな しごと なんだ!$"
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
-	.string "I'm spraying REPEL to keep wild\n"
-	.string "POKéMON out of my garden!$"
+	.string "{JPN}にわに むしよけスプレーを まいて\n"
+	.string "やせいの ポケモンを よけてるんだ!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
-	.string "You're a TRAINER, right?\p"
-	.string "BROCK's looking for new\n"
-	.string "challengers. Follow me!$"
+	.string "{JPN}きみ トレーナー だよね?\p"
+	.string "タケシが あたらしい\n"
+	.string "ちょうせんしゃを さがしてる。 ついてきて!$"
 
 PewterCity_Text_GoTakeOnBrock::
-	.string "If you have the right stuff,\n"
-	.string "go take on BROCK!$"
+	.string "{JPN}じしんが あるなら\n"
+	.string "タケシに いどんでみな!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-	.string "TRAINER TIPS\p"
-	.string "All POKéMON that appear in battle,\n"
-	.string "however briefly, earn EXP Points.$"
+	.string "{JPN}おとくな けいじばん!!\p"
+	.string "せんとうに でた ポケモンは すこしでも\n"
+	.string "けいけんちが もらえる!$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
-	.string "NOTICE!\p"
-	.string "Thieves have been stealing POKéMON\n"
-	.string "fossils from MT. MOON.\p"
-	.string "Please call the PEWTER POLICE if\n"
-	.string "you have any information.$"
+	.string "{JPN}おしらせ!\p"
+	.string "おつきみやまで ポケモンの かせきを\n"
+	.string "ぬすむ どろぼうが でています。\p"
+	.string "じょうほうを おもちの かたは\n"
+	.string "ニビけいさつまで ごれんらく ください。$"
 
 PewterCity_Text_MuseumOfScience::
-	.string "PEWTER MUSEUM OF SCIENCE$"
+	.string "{JPN}ニビかがく はくぶつかん$"
 
 PewterCity_Text_GymSign::
-	.string "PEWTER CITY POKéMON GYM\n"
-	.string "LEADER: BROCK\l"
-	.string "The Rock-Solid POKéMON TRAINER!$"
+	.string "{JPN}ニビシティ ポケモンジム\n"
+	.string "ジムリーダー タケシ\l"
+	.string "いしの ように かたい おとこ!$"
 
 PewterCity_Text_CitySign::
-	.string "PEWTER CITY\n"
-	.string "A Stone Gray City$"
+	.string "{JPN}ニビシティ\n"
+	.string "はいいろ いしの まち$"
 
 PewterCity_Text_OhPlayer::
-	.string "Oh, {PLAYER}{KUN}!$"
+	.string "{JPN}あっ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!$"
 
 PewterCity_Text_AskedToDeliverThis::
-	.string "I'm glad I caught up to you.\n"
-	.string "I'm PROF. OAK's AIDE.\p"
-	.string "I've been asked to deliver this,\n"
-	.string "so here you go.$"
+	.string "{JPN}おいついて よかった。\n"
+	.string "わたしは オーキドはかせの じょしゅです。\p"
+	.string "これを とどけるように たのまれたので\n"
+	.string "どうぞ。$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
-	.string "{PLAYER} received the\n"
-	.string "RUNNING SHOES from the AIDE.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は じょしゅから\n"
+	.string "ランニングシューズを もらった!$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ランニングシューズに\n"
+	.string "はきかえた!$"
 
 PewterCity_Text_ExplainRunningShoes::
-	.string "Press the B Button to run.\n"
-	.string "But only where there's room to run!$"
+	.string "{JPN}Bボタンを おすと はしれます。\n"
+	.string "ただし はしれる ばしょ だけ!$"
 
 PewterCity_Text_MustBeGoingBackToLab::
-	.string "Well, I must be going back to\n"
-	.string "the LAB.\p"
-	.string "Bye-bye!$"
+	.string "{JPN}さて わたしは\n"
+	.string "けんきゅうじょに もどります。\p"
+	.string "それでは!$"
 
 PewterCity_Text_RunningShoesLetterFromMom::
-	.string "There's a letter attached…\p"
-	.string "Dear {PLAYER},\p"
-	.string "Here is a pair of RUNNING SHOES\n"
-	.string "for my beloved challenger.\p"
-	.string "Remember, I'll always cheer for\n"
-	.string "you! Don't ever give up!\p"
-	.string "From Mom$"
+	.string "{JPN}てがみが ついている…\p"
+	.string "{ENG}{PLAYER}{JPN}へ\p"
+	.string "だいすきな ちょうせんしゃに\n"
+	.string "ランニングシューズを おくります。\p"
+	.string "いつでも おうえん してるよ!\n"
+	.string "けっして あきらめないでね!\p"
+	.string "ママより$"
 

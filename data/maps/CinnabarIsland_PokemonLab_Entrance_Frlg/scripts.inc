@@ -31,30 +31,30 @@ CinnabarIsland_PokemonLab_Entrance_EventScript_TestingRoomSign::
 	end
 
 CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
-	.string "It's a photo of BLAINE and\n"
-	.string "MR. FUJI.\p"
-	.string "They're standing shoulder to\n"
-	.string "shoulder with big grins.$"
+	.string "{JPN}カツラと フジろうじんの\n"
+	.string "しゃしんだ。\p"
+	.string "ふたりで かたを ならべて\n"
+	.string "にっこり わらっている。$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
-	.string "We study POKéMON extensively\n"
-	.string "every day.\p"
-	.string "People often bring us rare POKéMON\n"
-	.string "for examination.$"
+	.string "{JPN}わたしたちは まいにち ポケモンを\n"
+	.string "くわしく けんきゅう しています。\p"
+	.string "めずらしい ポケモンを しらべて ほしいと\n"
+	.string "もちこむ ひとも おおいんですよ。$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
-	.string "A photo of the LAB's founder…\n"
-	.string "DR. FUJI?!$"
+	.string "{JPN}けんきゅうじょの そうせつしゃ…\n"
+	.string "フジはかせの しゃしん?!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
-	.string "POKéMON LAB\n"
-	.string "Meeting Room$"
+	.string "{JPN}ポケモン けんきゅうじょ\n"
+	.string "かいぎしつ$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
-	.string "POKéMON LAB\n"
-	.string "R & D Room$"
+	.string "{JPN}ポケモン けんきゅうじょ\n"
+	.string "けんきゅう かいはつしつ$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_TestingRoomSign::
-	.string "POKéMON LAB\n"
-	.string "Testing Room$"
+	.string "{JPN}ポケモン けんきゅうじょ\n"
+	.string "じっけんしつ$"
 

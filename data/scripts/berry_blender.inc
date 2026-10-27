@@ -1,238 +1,238 @@
 .set NUM_OPPONENTS, VAR_0x8009
 
 BerryBlender_Text_WantToMakePokeblocks:
-	.string "Oh? Did you want to make some {POKEBLOCK}S\n"
-	.string "with this old-timer?$"
+	.string "{JPN}おや? この としよりと {ENG}{POKEBLOCK}{JPN}を\n"
+	.string "つくりたいのかね?$"
 
 BerryBlender_Text_Excellent:
-	.string "Excellent!$"
+	.string "{JPN}けっこう!$"
 
 BerryBlender_Text_MadeOldTimerSad:
-	.string "Oh…\n"
-	.string "You've made this old-timer sad…$"
+	.string "{JPN}おお…\n"
+	.string "この としよりは かなしいのう…$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks:
-	.string "Do you know how to make a {POKEBLOCK}?$"
+	.string "{JPN}{ENG}{POKEBLOCK}{JPN}の つくりかたは しっとるかね?$"
 
 BerryBlender_Text_LetsBerryBlender:
-	.string "Let's get started, then!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "{JPN}では はじめるとしよう!\p"
+	.string "きのみブレンダー スタート!$"
 
 BerryBlender_Text_ExplainBerryBlending:
-	.string "Okay, a little explanation, then.\p"
-	.string "Oh, don't worry, it's quite simple.\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\n"
-	.string "You'll see how easy it is when you try.$"
+	.string "{JPN}では すこし せつめい しよう。\p"
+	.string "なに しんぱい いらん。 かんたんじゃ。\p"
+	.string "ブレンダーの やじるしが じぶんの\n"
+	.string "マークに きたら Aボタンを おすだけ。\p"
+	.string "それだけで いいんじゃ。\n"
+	.string "やってみれば かんたんさが わかる。$"
 
 BerryBlender_Text_DontHaveAnyBerries:
-	.string "Oh?\n"
-	.string "You don't have any BERRIES?\p"
-	.string "If you don't have any BERRIES,\n"
-	.string "you can't make any {POKEBLOCK}S.$"
+	.string "{JPN}おや?\n"
+	.string "きのみを もっとらんのかね?\p"
+	.string "きのみが なければ\n"
+	.string "{ENG}{POKEBLOCK}{JPN}は つくれんのじゃ。$"
 
 BerryBlender_Text_CanHaveOneOfMyBerries:
-	.string "Well, that won't do at all now, will it?\p"
-	.string "If you don't mind leftovers, you can\n"
-	.string "have one of my BERRIES.\p"
-	.string "That way, we could make some {POKEBLOCK}S\n"
-	.string "together using the BERRY BLENDER.$"
+	.string "{JPN}それでは どうにも ならんのう。\p"
+	.string "あまりもので よければ わしの\n"
+	.string "きのみを ひとつ わけてやろう。\p"
+	.string "そうすれば きのみブレンダーで\n"
+	.string "いっしょに {ENG}{POKEBLOCK}{JPN}を つくれるぞ。$"
 
 BerryBlender_Text_DontHaveAnyBerriesToSpare:
-	.string "If I had some BERRIES left over,\n"
-	.string "I'd gladly give you one…\p"
-	.string "But, I don't have any to spare today.\n"
-	.string "We'll have to do this another time.$"
+	.string "{JPN}きのみが あまっておれば\n"
+	.string "よろこんで ひとつ やるんじゃが…\p"
+	.string "きょうは わける ぶんが ないんじゃ。\n"
+	.string "また こんどに しよう。$"
 
 BerryBlender_Text_PokeblockCaseIsFull:
-	.string "But your {POKEBLOCK} CASE is full.\p"
-	.string "You should use some {POKEBLOCK}S before\n"
-	.string "you come see me again.$"
+	.string "{JPN}じゃが {ENG}{POKEBLOCK}{JPN}ケースが いっぱいじゃ。\p"
+	.string "{ENG}{POKEBLOCK}{JPN}を すこし つかってから\n"
+	.string "また きなさい。$"
 
 BerryBlender_Text_DontHavePokeblockCase:
-	.string "But you don't have a {POKEBLOCK} CASE.\p"
-	.string "You should get a {POKEBLOCK} CASE and then\n"
-	.string "come see me.$"
+	.string "{JPN}じゃが {ENG}{POKEBLOCK}{JPN}ケースを もっとらんな。\p"
+	.string "{ENG}{POKEBLOCK}{JPN}ケースを てに いれてから\n"
+	.string "また きなさい。$"
 
 BerryBlender_Text_LetsGetBlendingAlready:
-	.string "Let's get blending already!$"
+	.string "{JPN}はやく ブレンド しようよ!$"
 
 BerryBlender_Text_WhatKindOfPokeblockWillIGet:
-	.string "I wonder what kind of {POKEBLOCK} I'll get?\n"
-	.string "This is so exciting!$"
+	.string "{JPN}どんな {ENG}{POKEBLOCK}{JPN}が できるかな?\n"
+	.string "わくわく するね!$"
 
 BerryBlender_Text_WantToBlendPokeblocksWithUs:
-	.string "Hi, there! Did you want to blend some\n"
-	.string "{POKEBLOCK}S with us?$"
+	.string "{JPN}やあ! ぼくたちと いっしょに\n"
+	.string "{ENG}{POKEBLOCK}{JPN}を つくらない?$"
 
 BerryBlender_Text_Okay:
-	.string "Okay!$"
+	.string "{JPN}よし!$"
 
 BerryBlender_Text_ThatsTooBad:
-	.string "That's too bad…\p"
-	.string "But we'll always be around whenever\n"
-	.string "you get the urge to blend!$"
+	.string "{JPN}ざんねんだな…\p"
+	.string "でも ブレンド したくなったら\n"
+	.string "いつでも ここに いるからね!$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks2:
-	.string "Of course, you do know how to\n"
-	.string "blend {POKEBLOCK}S, don't you?$"
+	.string "{JPN}もちろん {ENG}{POKEBLOCK}{JPN}の\n"
+	.string "つくりかたは しってるよね?$"
 
 BerryBlender_Text_LetsBerryBlender2:
-	.string "Let's get started, then!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "{JPN}じゃあ はじめよう!\p"
+	.string "きのみブレンダー スタート!$"
 
 BerryBlender_Text_ExplainBerryBlending2:
-	.string "Okay!\n"
-	.string "Let me explain it to you!\p"
-	.string "When the spinning BLENDER's arrow\n"
-	.string "reaches your marker, just press\l"
-	.string "the A Button.\p"
-	.string "That's all it takes.\n"
-	.string "Pretty easy, don't you think?$"
+	.string "{JPN}よし!\n"
+	.string "せつめい するね!\p"
+	.string "まわる ブレンダーの やじるしが\n"
+	.string "じぶんの マークに きたら\l"
+	.string "Aボタンを おすだけ。\p"
+	.string "それだけ だよ。\n"
+	.string "かんたん でしょ?$"
 
 BerryBlender_Text_DontHaveAnyBerries2:
-	.string "Oh, but wait a second here…\n"
-	.string "You don't have any BERRIES.\p"
-	.string "You can't make any {POKEBLOCK}S without\n"
-	.string "BERRIES…\p"
-	.string "We'll always be around whenever you\n"
-	.string "get hold of some BERRIES to blend.$"
+	.string "{JPN}あれ でも ちょっと まって…\n"
+	.string "きのみを もってないよ。\p"
+	.string "きのみが ないと\n"
+	.string "{ENG}{POKEBLOCK}{JPN}は つくれないよ…\p"
+	.string "きのみを てに いれたら\n"
+	.string "いつでも ここに いるからね。$"
 
 BerryBlender_Text_PokeblockCaseIsFull2:
-	.string "Oh, but wait a second here…\n"
-	.string "Your {POKEBLOCK} CASE is full.\p"
-	.string "You should use some {POKEBLOCK}S and\n"
-	.string "then come back.$"
+	.string "{JPN}あれ でも ちょっと まって…\n"
+	.string "{ENG}{POKEBLOCK}{JPN}ケースが いっぱいだよ。\p"
+	.string "{ENG}{POKEBLOCK}{JPN}を すこし つかってから\n"
+	.string "また きてね。$"
 
 BerryBlender_Text_DontHavePokeblockCase2:
-	.string "Oh, but wait a second here…\n"
-	.string "You don't have a {POKEBLOCK} CASE.\p"
-	.string "You should get a {POKEBLOCK} CASE and\n"
-	.string "then come back.$"
+	.string "{JPN}あれ でも ちょっと まって…\n"
+	.string "{ENG}{POKEBLOCK}{JPN}ケースを もってないよ。\p"
+	.string "{ENG}{POKEBLOCK}{JPN}ケースを てに いれてから\n"
+	.string "また きてね。$"
 
 @ Unused
 BerryBlender_Text_MakePokeblocksWithOurGroup:
-	.string "Oh, hello! Did you want to make some\n"
-	.string "{POKEBLOCK}S with our little group?$"
+	.string "{JPN}あら こんにちは! わたしたちと\n"
+	.string "{ENG}{POKEBLOCK}{JPN}を つくりたいの?$"
 
 BerryBlender_Text_OhDear:
-	.string "Oh, dear!$"
+	.string "{JPN}あらまあ!$"
 
 BerryBlender_Text_LeftUsInShock:
-	.string "Oh, dear me…\p"
-	.string "You've left us in shock!$"
+	.string "{JPN}あら まあ…\p"
+	.string "びっくり させないでよ!$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks3:
-	.string "Naturally, you know how to make\n"
-	.string "{POKEBLOCK}S, don't you?$"
+	.string "{JPN}もちろん {ENG}{POKEBLOCK}{JPN}の\n"
+	.string "つくりかたは しってるわよね?$"
 
 BerryBlender_Text_LetsBerryBlender3:
-	.string "Okay, dear!\n"
-	.string "Let's get started!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "{JPN}よし じゃあ!\n"
+	.string "はじめましょう!\p"
+	.string "きのみブレンダー スタート!$"
 
 BerryBlender_Text_ExplainBerryBlending3:
-	.string "Oh, dear!\p"
-	.string "Then, I'll explain it to you nicely.\p"
-	.string "When the BLENDER's arrow spins to\n"
-	.string "your marker, press the A Button.\p"
-	.string "That's all it takes.\n"
-	.string "Isn't it simple?$"
+	.string "{JPN}あらまあ!\p"
+	.string "じゃあ やさしく せつめい するわね。\p"
+	.string "ブレンダーの やじるしが じぶんの\n"
+	.string "マークに きたら Aボタンを おすの。\p"
+	.string "それだけよ。\n"
+	.string "かんたん でしょ?$"
 
 BerryBlender_Text_DontHaveAnyBerries3:
-	.string "You don't have any BERRIES,\n"
-	.string "do you?\p"
-	.string "If you don't have any BERRIES,\n"
-	.string "you can't make any {POKEBLOCK}S.\p"
-	.string "We'll always be making {POKEBLOCK}S here,\n"
-	.string "so let's make some together when\l"
-	.string "you get a BERRY or two.$"
+	.string "{JPN}きのみを もってないのね?\n"
+	.string "そうでしょ?\p"
+	.string "きのみが ないと\n"
+	.string "{ENG}{POKEBLOCK}{JPN}は つくれないの。\p"
+	.string "わたしたち いつも ここで {ENG}{POKEBLOCK}{JPN}を\n"
+	.string "つくってるから きのみを てに\l"
+	.string "いれたら いっしょに つくりましょ。$"
 
 BerryBlender_Text_PokeblockCaseIsFull3:
-	.string "Your {POKEBLOCK} CASE is full,\n"
-	.string "it looks like.\p"
-	.string "You should use some {POKEBLOCK}S up\n"
-	.string "and then come back.$"
+	.string "{JPN}{ENG}{POKEBLOCK}{JPN}ケースが いっぱい\n"
+	.string "みたいね。\p"
+	.string "{ENG}{POKEBLOCK}{JPN}を すこし つかってから\n"
+	.string "また きてね。$"
 
 BerryBlender_Text_DontHavePokeblockCase3:
-	.string "You haven't gotten a {POKEBLOCK} CASE\n"
-	.string "yet, it looks like.\p"
-	.string "You need to get a {POKEBLOCK} CASE before\n"
-	.string "you come back.$"
+	.string "{JPN}{ENG}{POKEBLOCK}{JPN}ケースを まだ\n"
+	.string "もってないみたいね。\p"
+	.string "{ENG}{POKEBLOCK}{JPN}ケースを てに いれてから\n"
+	.string "また きてね。$"
 
 BerryBlender_Text_SetNewBlenderRecord:
-	.string "Okay! Today's going to be the day that\n"
-	.string "I set a new BLENDER speed record!$"
+	.string "{JPN}よし! きょうこそ ブレンダーの\n"
+	.string "スピード きろくを ぬりかえるぞ!$"
 
 BerryBlender_Text_LookGoodAtBlendingJoinUs:
-	.string "Oh, dear!\n"
-	.string "You look as if you're good at blending.\l"
-	.string "Would you like to join us?$"
+	.string "{JPN}あらまあ!\n"
+	.string "あなた ブレンドが うまそうね。\l"
+	.string "いっしょに やらない?$"
 
 BerryBlender_Text_MakeDeliciousPokeblocks:
-	.string "I'm going to make delicious {POKEBLOCK}S\n"
-	.string "and make my POKéMON cuter.$"
+	.string "{JPN}おいしい {ENG}{POKEBLOCK}{JPN}を つくって\n"
+	.string "ポケモンを もっと かわいく するの。$"
 
 BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
-	.string "{POKEBLOCK}S will be made with your friends \n"
-	.string "from BERRIES in the BERRY BLENDER.\p"
-	.string "Is it okay to save the game before\n"
-	.string "linking with your friends?$"
+	.string "{JPN}ともだちと いっしょに きのみブレンダーで\n"
+	.string "きのみから {ENG}{POKEBLOCK}{JPN}を つくります。\p"
+	.string "ともだちと つうしん する まえに\n"
+	.string "レポートを かいても いいですか?$"
 
 BerryBlender_Text_SearchingForFriends:
-	.string "Searching for your friends…\n"
-	.string "… … B Button: Cancel$"
+	.string "{JPN}ともだちを さがしています…\n"
+	.string "… … Bボタン: キャンセル$"
 
 BerryBlender_Text_Player1Arrived:
-	.string "{STR_VAR_1} arrived.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}が きました。$"
 
 BerryBlender_Text_Player1And2Arrived:
-	.string "{STR_VAR_1} and {STR_VAR_2} arrived.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}と{ENG}{STR_VAR_2}{JPN}が きた!$"
 
 BerryBlender_Text_AllPlayersArrived:
-	.string "{STR_VAR_1}, {STR_VAR_2}, and\n"
-	.string "{STR_VAR_3} arrived.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN} {ENG}{STR_VAR_2}{JPN}\n"
+	.string "{ENG}{STR_VAR_3}{JPN}が きました。$"
 
 BerryBlender_Text_NoBerriesLink:
-	.string "You have no BERRIES.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "{JPN}きのみを もっていません。\n"
+	.string "きのみブレンダーは つかえません。$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:
-	.string "Your {POKEBLOCK} CASE is full.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "{JPN}ポロックケースが いっぱいです。\n"
+	.string "きのみブレンダーは つかえません。$"
 
 BerryBlender_Text_DontHavePokeblockCaseLink:
-	.string "You don't have a {POKEBLOCK} CASE.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "{JPN}ポロックケースを もっていません。\n"
+	.string "きのみブレンダーは つかえません。$"
 
 BerryBlender_Text_LoveMakingPokeblocks:
-	.string "I love making {POKEBLOCK}S.\p"
-	.string "I always have some BERRIES with me.$"
+	.string "{JPN}わたし ポロックを つくるのが だいすきなの。\p"
+	.string "きのみは いつも もちあるいてるのよ。$"
 
 BerryBlender_Text_MakePokeblocksUsingBerryBlender:
-	.string "If you'd like, we could make some\n"
-	.string "{POKEBLOCK}S together using the\l"
-	.string "BERRY BLENDER.$"
+	.string "{JPN}よかったら きのみブレンダーで\n"
+	.string "いっしょに ポロックを\l"
+	.string "つくりましょう。$"
 
 BerryBlender_Text_DontHaveAnyBerriesHaveOne:
-	.string "Oh?\n"
-	.string "You don't have any BERRIES?\p"
-	.string "Well, that won't do at all now, will it?\p"
-	.string "If you don't mind leftovers, you can\n"
-	.string "have one of my BERRIES.$"
+	.string "{JPN}あら?\n"
+	.string "きのみを もってないの?\p"
+	.string "それじゃあ どうにも ならないわね。\p"
+	.string "あまりもので よければ\n"
+	.string "わたしの きのみを ひとつ あげるわ。$"
 
 BerryBlender_Text_UseItToMakePokeblocksTogether:
-	.string "We'll use it to make {POKEBLOCK}S together\n"
-	.string "using the BERRY BLENDER.$"
+	.string "{JPN}それを つかって きのみブレンダーで\n"
+	.string "いっしょに ポロックを つくりましょう。$"
 
 BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
-	.string "Oh?\n"
-	.string "You don't have any BERRIES?\p"
-	.string "If I had some left over, I'd gladly\n"
-	.string "give you one…\p"
-	.string "But, I don't have any to spare today.\n"
-	.string "Sorry about that.$"
+	.string "{JPN}あら?\n"
+	.string "きのみを もってないの?\p"
+	.string "あまっていたら よろこんで\n"
+	.string "ひとつ あげるんだけど…\p"
+	.string "きょうは わけてあげられる ぶんが ないの。\n"
+	.string "ごめんなさいね。$"
 
 BerryBlender_EventScript_BerryBlender1::
 	lockall

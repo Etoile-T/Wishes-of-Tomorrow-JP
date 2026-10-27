@@ -1,0 +1,1155 @@
+##### data/maps/Route8_Frlg/scripts.inc
+## Route8_Text_AidanIntro::
+c4756f7c974fff5b	ポケモンは とくい みたいだけど\n
+8cbff08fe0489ec7	かがくの せいせきは どうかな?$
+## Route8_Text_AidanDefeat::
+cdad9c393ce7c467	いてっ!\n
+daeb2f4aad0848ab	メルトダウンだ!$
+## Route8_Text_AidanPostBattle::
+c7d323b74b8ee408	がっこうの ほうが まだ とくいなんだ!$
+## Route8_Text_StanIntro::
+5dd2469aa97b1c95	よーし!\n
+ba402a31da633faa	ゲームを しようぜ!$
+## Route8_Text_StanDefeat::
+82c2625e16a2b4ef	ちぇっ!\n
+c85ed86f748edddf	あと すこし たりなかった!$
+## Route8_Text_StanPostBattle::
+a7abd682c4b2b0cc	きょうは うまく いかなかったな。$
+## Route8_Text_GlennIntro::
+aced1907e2b3c6d1	おしえて あげよう。\n
+b429c1320c3d1034	かつには さくせんが ひつようだ!$
+## Route8_Text_GlennDefeat::
+26db562fc28ea146	ろんりてきじゃ ない!$
+## Route8_Text_GlennPostBattle::
+a001961420a2ec7b	さいしょは ベトベターで…それから…\n
+c03220a4802b05db	…それから…つぎは…$
+## Route8_Text_PaigeIntro::
+55f3fb78770179c4	ニドランが すきだから あつめてるの!$
+## Route8_Text_PaigeDefeat::
+0140f58ffb31578a	なんで?\n
+30e7816f20478a71	なんでなの??$
+## Route8_Text_PaigePostBattle::
+55d6e946511d4e12	ポケモンって おおきくなると\n
+2ec47f206664b9d0	かわいくなくなる! しんかは だめ!$
+## Route8_Text_LeslieIntro::
+f90a7cc67cf72c70	がっこうも ポケモンも たのしいわ。$
+## Route8_Text_LeslieDefeat::
+ac5ba37dc2f8cc83	あなたの おかげで よく わかったわ。\n
+3d0185d47890c875	わたしは べんきょう ひとすじね。$
+## Route8_Text_LesliePostBattle::
+8463c1da0adb1cec	たまには そとの くうきを\n
+9fc419d85302b5af	すおうと おもった んだけど…\p
+9784d863c5464293	ヤマブキの ゲートの せいで\n
+7da3b3a1dd4c0dce	ここから うごけないの。$
+## Route8_Text_AndreaIntro::
+5551c592f5120cc7	ニャースって かわいいの ニャー ニャー\n
+c07e6623a70ea598	ニャー!$
+## Route8_Text_AndreaDefeat::
+1e8f9d7fdd944e82	ニャーーーオ!$
+## Route8_Text_AndreaPostBattle::
+c123f632317bcdc2	ポッポや コラッタも\n
+a38beb4d15ce8e14	かわいいと おもうの!$
+## Route8_Text_MeganIntro::
+5613c91bc98e6990	こんなふうに つったってるなんて\n
+5eb84a2fcd580865	まぬけに みえる でしょうね。$
+## Route8_Text_MeganDefeat::
+c85c6b9090d398da	わたしの かわいい ポケモンに\n
+3c36f2ffa09cfec8	なんてことを!$
+## Route8_Text_MeganPostBattle::
+388eda910c8ed91b	ヤマブキの もんばんが\n
+d1cdf95c237a58db	とおして くれないの。\p
+a06dfea776f2e167	しごと なのは わかるけど\n
+b050c8f5f69b68aa	いじわるだと おもうわ。$
+## Route8_Text_RichIntro::
+cbb329c24032a098	おれは さすらいの ゲームずきさ!$
+## Route8_Text_RichDefeat::
+97e8feca71fc0d39	だいチャンスを のがした!$
+## Route8_Text_RichPostBattle::
+6c47bcd65b200022	ゲームと ポケモンは ピーナッツと\n
+57bf51a110e84d3c	おなじ! やめられない とまらない!$
+## Route8_Text_JuliaIntro::
+7cdad2bf07b7e9c7	かわいくて まるくて ふわふわの\n
+f0473ebaa0aa46ef	ポケモンは なーんだ?$
+## Route8_Text_JuliaDefeat::
+3a042e008343071f	やめて!\p
+024896d3024e92b9	わたしの ピッピに ひどいこと しないで!$
+## Route8_Text_JuliaPostBattle::
+f9850e550d4d80ab	ピッピは つきのいしを あてると\n
+e7a582132c20f220	しんか するって よんだの。\p
+324b9c334c6373d5	ポケモンの ざっしで よんだのよ。\n
+53710fc6bdb31ea1	ほんとう なのかしら?$
+## Route8_Text_UndergroundPathSign::
+9e411a26d61c7650	ちかつうろ\n
+93e3efd629858441	タマムシシティ - シオンタウン$
+## Route8_Text_EliIntro::
+f5b57f3e0058d667	エリ: ふたごパワーは すごいのよ。\n
+a8d8a5f96355ddc6	しってた?$
+## Route8_Text_EliDefeat::
+5abc4cef933f0fe6	エリ: でも…\n
+9c88cc9af753ff59	ふたごパワーを つかったのに…$
+## Route8_Text_EliPostBattle::
+f548946a30991d50	エリ: わたしは アンと いっしょに\n
+839eec12690c406d	ポケモンを つかまえたの!$
+## Route8_Text_EliNotEnoughMons::
+0af78d5d852a7bb2	エリ: ポケモンが 2ひき いないと\n
+20aa41d216daaebb	しょうぶ できないわ。$
+## Route8_Text_AnneIntro::
+4a82b6228c1e6847	アン: ふたごパワーで\n
+f2683b509a6427fc	びっくり させちゃうわよ!$
+## Route8_Text_AnneDefeat::
+05d75885edec966e	アン: わたしたちの ふたごパワーが…$
+## Route8_Text_AnnePostBattle::
+fb41f5924746363d	アン: わたしは エリと いっしょに\n
+5d8b60269ee74b33	ポケモンを そだててるの。$
+## Route8_Text_AnneNotEnoughMons::
+8e8a96eceaea917e	アン: ハーイ! しょうぶ しましょ!\n
+2a9f88c73d2b55ea	でも ポケモンは 2ひき つれてきてね。$
+## Route8_Text_RicardoIntro::
+4ea83c142229559f	じてんしゃの ちょうしが わるいんだよ。$
+## Route8_Text_RicardoDefeat::
+429ec0331dda228a	あーあ。\n
+4f71f846861c6f09	やるき でねえな。$
+## Route8_Text_RicardoPostBattle::
+a5b0c171892e4e38	スポークに くさが\n
+55c5fc1d1ac39d9b	からまっちまってさ。$
+## Route8_Text_JarenIntro::
+9c7bc69ff34bd06e	どけよ! じゃないと\n
+fe1ae96e2cadffb2	ひいちまうぞ!$
+## Route8_Text_JarenDefeat::
+e5be7c07603154f5	マジかよ おまえ?$
+## Route8_Text_JarenPostBattle::
+4a7535955321765c	これくらいで じぶんが とくべつだ\n
+d5052e8e4d2620a9	なんて おもうんじゃ ねえぞ。$
+##### data/maps/Route8_WestEntrance_Frlg/scripts.inc
+## Route8_WestEntrance_Text_ThirstyOnGuardDuty::
+c4370c2271441604	みはりの しごとちゅう なんだ。\n
+207c98fe6a57f5f8	それにしても のどが かわいたなあ!\p
+eb644a25053c9fb9	おっと まった! みちは ふうさちゅうだ。$
+## Route8_WestEntrance_Text_ThatTeaLooksTasty::
+4edbedc7ded47452	おや その おちゃ…\n
+3b45e49dea9caf9b	すごく おいしそう だなあ…$
+## Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
+65557be832909f04	え? これ のんで いいのかい?\n
+643da826cd5ba5f6	ありがとう!\l
+9f3d05120118970e	… …\l
+5c2bb68ac12f4525	ゴクゴク…\l
+4f80de6e0dd28591	… …\l
+10e357117139bc43	ゴクン…\l
+b22f7f652ac2adf3	ヤマブキシティに\l
+a2f1b68c945fc941	いきたいなら…\l
+8b20d8a66d0a9331	… …\l
+78255874719d9f40	とおって いいよ。\p
+5e9d0ca6663aa247	この おちゃは ほかの みはりにも\n
+081f2813aa2bfab8	わけて あげよう!$
+## Route8_WestEntrance_Text_HiHowsItGoing::
+7c20100d24e8348c	やあ ちょうしは どうだい?$
+##### data/maps/Route9_Frlg/scripts.inc
+## Route9_Text_AliciaIntro::
+4124546af775260a	ポケモンを もってるのね!\n
+087735da4640c200	かくご しなさい!$
+## Route9_Text_AliciaDefeat::
+dae41272b9d0ccde	だまされたわ…$
+## Route9_Text_AliciaPostBattle::
+18494213532bfa69	この さきの トンネルの なかは\n
+f28ebb8805dc99cd	まっくら なのよ。\p
+40cfae62f3de51c3	とおりぬけるには フラッシュが\n
+be247b213b7281ce	ひつようね。$
+## Route9_Text_ChrisIntro::
+3bbdd10974fd4d1f	かっこいい ポケモンを つれて\n
+ecf959e8794b454e	あるいてるのは だれだ?$
+## Route9_Text_ChrisDefeat::
+ccbe74e3a2d99136	あっさり やられた!$
+## Route9_Text_ChrisPostBattle::
+267dc6482ef46331	さっさと いけよ!$
+## Route9_Text_DrewIntro::
+9ac25f8eb14ead23	イワヤマトンネルを とおって\n
+9e8e43cc5b4a203a	シオンに いくんだ…$
+## Route9_Text_DrewDefeat::
+ca7c62054762c4d1	かなわないな…$
+## Route9_Text_DrewPostBattle::
+08616c2fabf0a742	きみも イワヤマトンネルに いくのかい?$
+## Route9_Text_CaitlinIntro::
+786a7333c4aef6d0	わたしを みくびらないで!$
+## Route9_Text_CaitlinDefeat::
+48d14b83728fe106	うそ!\n
+26e358573cdf6664	つよすぎるわ。$
+## Route9_Text_CaitlinPostBattle::
+75e4bb36cdab608a	あなた あきらかに さいのう あるわ。\n
+3e75319de057cdf3	がんばってね!$
+## Route9_Text_JeremyIntro::
+e267d21085e15a01	ブワッハッハ!\n
+435f290e31abdcc7	いいね! たいくつ してたんだよ なあ!$
+## Route9_Text_JeremyDefeat::
+241ab91f6eeee784	どんどん こいよ なあ!\p
+505ffd37eb37ea64	おっと まてよ。\n
+58aeea126599fcd2	もう ポケモンが いないや!$
+## Route9_Text_JeremyPostBattle::
+92e944d59470899d	おれに たちむかうとは\n
+8837582ddf07d8bd	なかなか ガッツが あるな なあ?$
+## Route9_Text_BriceIntro::
+2f5775d276b62938	ハッハッハ!\n
+6cef8ec5d0da4dcb	なかなか てごわそうな やつだな!$
+## Route9_Text_BriceDefeat::
+8690edc707fb44ca	なんだと?$
+## Route9_Text_BricePostBattle::
+053514941f1a166b	ハッハッハ!\n
+590a4b7d49bf1138	こどもは たくましく なくちゃな!$
+## Route9_Text_BrentIntro::
+560e019aadb904ef	まいにち はやおきして ポケモンを\n
+5a9120170a7f9157	さなぎから そだてたんだ!$
+## Route9_Text_BrentDefeat::
+b29b0fb2a28c13ab	なにー?\p
+f7cb293f03167cd2	ぜんぶ じかんの むだ だった!$
+## Route9_Text_BrentPostBattle::
+dbac318895da1d9d	つよく なるには むしいがいも\n
+5877fe3cc6f5201e	あつめないと だめか…$
+## Route9_Text_AlanIntro::
+348724a5eed40956	ガッハッハッハ!\n
+62c779e7670cf78d	かかって こい!$
+## Route9_Text_AlanDefeat::
+316fad57e3123a16	ガッハッハッハ!\n
+6143155dc5795e73	せいせいどうどう まけたぜ!$
+## Route9_Text_AlanPostBattle::
+0c3cc1fa5d3a6238	ガッハッハッハ!\n
+4d02545416a1bcc9	おれたち やまおとこは いつも わらうのさ!$
+## Route9_Text_ConnerIntro::
+bb2af9c70375539a	いけ! ぼくの スーパー むしポケモン!$
+## Route9_Text_ConnerDefeat::
+11743dce4da94d0d	ぼくの むしたちが…$
+## Route9_Text_ConnerPostBattle::
+584be0ceaeecf768	むしポケモンが きらいなら\n
+f0c9db78fa0a87b8	きみなんか むしだ! むし!$
+## Route9_Text_RouteSign::
+2bad702c58325376	9ばんどうろ\n
+a3b7f990b6c13ead	ハナダシティ - イワヤマトンネル$
+##### data/maps/SSAnne_1F_Corridor_Frlg/scripts.inc
+## SSAnne_1F_Corridor_Text_LeStrongSilentType::
+bc30273184094ec3	ボンジュール!\n
+e02607c3915ed675	ワタクシ この ふねの ウェイターです!\p
+df8207c728d4038e	ごようが あれば なんなりと\n
+84f65b4bb85098ab	おもうしつけ ください!\p
+83772c06d39a8fd1	… … …\n
+4e2bce9e517efabc	おお! むくちな かたですね!$
+## SSAnne_1F_Corridor_Text_PassengersAreRestless::
+37701135e58c73db	ながい こうかいで おきゃくさまが\n
+a4e6e34230a4320f	そわそわ して おります。\p
+dbf7cfee6d6f9c19	たいくつ している かたに\n
+9aede5cf9b316ab5	しょうぶを いどまれる かも しれません!$
+##### data/maps/SSAnne_1F_Room1_Frlg/scripts.inc
+## SSAnne_1F_Room1_Text_ImAGlobalPoliceAgent::
+5062515af0a591d6	しーっ…!\n
+d6d048bc432d9b9a	わたしは こくさいけいさつの ものだ。\p
+ee182cc551a44dc3	ロケットだんを おっている。\n
+9aa9b1fae99d5242	やつら ろくな ことを しない!$
+##### data/maps/SSAnne_1F_Room2_Frlg/scripts.inc
+## SSAnne_1F_Room2_Text_TylerIntro::
+111c5022206d1045	ポケモン だいすき!\n
+39a97e405e1692e9	きみは?$
+## SSAnne_1F_Room2_Text_TylerDefeat::
+b15ac6a980d7c191	わあ! \n
+732414f6b984b03a	すごいや!$
+## SSAnne_1F_Room2_Text_TylerPostBattle::
+83b61a90d85e8749	ねえ ねえ!\n
+6a568343ec26c7d5	ともだちに なってよ いいでしょ?\p
+5ce893a797a4c2d1	そしたら ポケモンを こうかん したり\n
+7d0764d2b88eadcc	いろいろ できるよ。$
+## SSAnne_1F_Room2_Text_AnnIntro::
+1e90cdea67afc824	この ポケモンたちは\n
+c6b0da380f19d3a5	せかいじゅうで あつめたのよ!$
+## SSAnne_1F_Room2_Text_AnnDefeat::
+f95751da5373c933	そんな!\n
+c76857ea289e9337	せかいじゅう まわって あつめたのに!$
+## SSAnne_1F_Room2_Text_AnnPostBattle::
+259a3a023657837e	わたしの ポケモンを きずつけたわね!\p
+15a6315078d7360f	ポケモンセンターで ちゃんと\n
+7944558c3f8954c7	かいふく させて ちょうだい!$
+## SSAnne_1F_Room2_Text_CruisingAroundWorld::
+8d5ff14190093814	わたしと こどもたちで\n
+6d3191bd91b7c218	せかいいっしゅう している のです。$
+##### data/maps/SSAnne_1F_Room3_Frlg/scripts.inc
+## SSAnne_1F_Room3_Text_CruiseIsElegantAndCozy::
+9bd1da265846eecb	せかいいっしゅうの ふなたびは ゆうがで\n
+80707ad73a3e8f6e	いごこちが いいわ!$
+## SSAnne_1F_Room3_Text_AlwaysTravelWithWigglytuff::
+7d5bc4a32befd5d6	わたしは いつも プクリンと たびするの。\n
+c3d311bf0ac776d7	でかける ときは かならず いっしょよ。$
+## SSAnne_1F_Room3_Text_Wigglytuff::
+5c401df762702dec	プクリン: プププ ププー!$
+##### data/maps/SSAnne_1F_Room4_Frlg/scripts.inc
+## SSAnne_1F_Room4_Text_WaiterCherryPiePlease::
+6df2f414d66bcffe	ウェイターさん チェリーパイを\n
+b62c0dcec2dd5b02	おねがい!$
+## SSAnne_1F_Room4_Text_WaitressCherryPiePlease::
+376c98f93d5c3c56	ウェイトレスさん チェリーパイを\n
+869c8c1294d7dcf9	おねがい!$
+##### data/maps/SSAnne_1F_Room5_Frlg/scripts.inc
+## SSAnne_1F_Room5_Text_ArthurIntro::
+7ff2416d9f273831	ぶれいな こぞうめ!\n
+af5fade7d891fb7d	かってに はいって くるとは!$
+## SSAnne_1F_Room5_Text_ArthurDefeat::
+e3c77f49dd22a17c	ふん! しつれいな こどもだ!\n
+a9e66e0234778e06	れいぎと いうものを しらんのか!$
+## SSAnne_1F_Room5_Text_ArthurPostBattle::
+d815f525e07a3a5c	ひとりに して くれたまえ!\n
+60144d8a16d2bea5	でていけ!$
+##### data/maps/SSAnne_1F_Room6_Frlg/scripts.inc
+## SSAnne_1F_Room6_Text_TakeAShortRest::
+032d2d05f79560b5	つかれてる みたいね。\n
+934cef0a62ed66da	すこし やすんで いく?$
+## SSAnne_1F_Room6_Text_GladEveryoneIsRefreshed::
+2afebd779149c303	みんな すっかり げんきに なって\n
+535f9b34b5b880df	よかったわ。$
+## SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother::
+9ea3e5dcf09bae5f	あら おせっかい やいて ごめんね。\n
+56f394d0a624dce5	おとうとに にてる ものだから…$
+## SSAnne_1F_Room6_Text_SorryYouLookLikeMySister::
+fc00a9dd846a4f47	あら おせっかい やいて ごめんね。\n
+6340a89fab14b7be	いもうとに にてる ものだから…$
+##### data/maps/SSAnne_1F_Room7_Frlg/scripts.inc
+## SSAnne_1F_Room7_Text_ThomasIntro::
+97370e8436d666e4	わたしは こどくな たびびと…\p
+8c10433008b9ac98	ともと よべるのは たびの とちゅうで\n
+7e4650c13e0491a7	つかまえた ポケモンたち だけ…$
+## SSAnne_1F_Room7_Text_ThomasDefeat::
+a5d5c776d09a74ba	ああ わが ともよ…$
+## SSAnne_1F_Room7_Text_ThomasPostBattle::
+3d183e133dc611f7	ともだちは たいせつに しなさい!$
+##### data/maps/SSAnne_2F_Corridor_Frlg/scripts.inc
+## SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
+28180724163e1562	この ふねは せかいの トレーナーの\n
+abdcef61c8cc3b28	ための ごうかきゃくせん です!\p
+db0525e0315bd636	みなとに つくたびに トレーナーを\n
+642174d12095b528	しょうたいして パーティを ひらくのです。$
+## SSAnne_2F_Corridor_Text_RivalIntro::
+cc42d4ccbde96f60	{RIVAL}: ボンジュール!\n
+c65fb3e7e52a4f68	{PLAYER}!\p
+aa7d6dc308831c7f	こんな ところで あうとはな!\n
+2910725dfd587b6e	{PLAYER} ほんとに まねかれたのか?\p
+39c9e421e1905bdc	で ずかんの ほうは どうだ?\p
+0364769cd96a0345	おれは もう 40しゅるい つかまえたぜ。\n
+911bf13b9190dd60	ポケモンは どこにでも いるからな。\p
+db4f095bb6054ec6	くさむらを はいまわって\n
+3affb6f3e8fc68c9	よーく さがして みるんだな。$
+## SSAnne_2F_Corridor_Text_RivalDefeat::
+d3aff48ade554990	ふん!\p
+f17bbef386b4df32	ポケモンは いちおう\n
+53606625c9a90759	そだててる みたいだな!$
+## SSAnne_2F_Corridor_Text_RivalVictory::
+daad249490815300	{PLAYER}…!\n
+bad9a338f8f3b823	ふなよい してるのか!\p
+b78a12f1c1c46523	もっと からだ\n
+30aa1e423e1ed549	きたえた ほうが いいぜ!$
+## SSAnne_2F_Corridor_Text_RivalPostBattle::
+1658c6e40bc2001e	{RIVAL}: この ふねに いあいぎりの\n
+e77682b7b5d33070	たつじんが いるって きいたんだ。\p
+8f4e64432074d851	でも ただの ふなよいの じいさんだった!\p
+f817cb7cf0290974	いあいぎり じたいは べんりだぜ。\n
+6359442600cbeeb6	ああ やくに たつ。\p
+d267d6aed2b7fe63	おまえも あいに いって みろよ。\n
+56188c04b3c88e52	あばよ!$
+##### data/maps/SSAnne_2F_Room1_Frlg/scripts.inc
+## SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis::
+9e7b8aaacaac8134	わたしは せかいじゅうを たびしたが\n
+d1ad44418c3d545d	あんな かっこうで ねむる\l
+b8e7b8ad8a182714	ポケモンは みたことが ない!\p
+82a7a6c484c0872d	こんな かんじ だったよ!$
+##### data/maps/SSAnne_2F_Room2_Frlg/scripts.inc
+## SSAnne_2F_Room2_Text_BrooksIntro::
+fcdb4f12bbde3d79	わかものと たたかうと\n
+c44b74d2542764c0	わかがえるのじゃ。$
+## SSAnne_2F_Room2_Text_BrooksDefeat::
+b51d143edc741ad9	よい しょうぶ じゃった!\n
+ac2273bedf251455	ああ わかがえった きぶんじゃ!$
+## SSAnne_2F_Room2_Text_BrooksPostBattle::
+fc4a4ffeb9b5c885	15ねん まえ なら\n
+6b97beea19df6e5f	わしが かって おったわい!$
+## SSAnne_2F_Room2_Text_DaleIntro::
+236a64bba5324430	おれが つりあげた やつを みてくれ!$
+## SSAnne_2F_Room2_Text_DaleDefeat::
+5a7db03ba104d2bf	もう からっきしだ!$
+## SSAnne_2F_Room2_Text_DalePostBattle::
+712221b95f264d34	パーティ?\p
+5b0a528b0e2ee3e2	ふねの パーティなら もう\n
+223209c213ea244e	おわってる ころだぜ。$
+##### data/maps/SSAnne_2F_Room3_Frlg/scripts.inc
+## SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
+b6d0fec245955bbd	ええ ひとを のせて みずの うえを\n
+66556ce5543b8ca3	わたる ポケモンを みた ことが あります!$
+## SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
+6722c241ab4d8322	ほそい きは いあいぎりで\n
+227b377b68517cee	きりたおす ことが できます。\p
+83583403995a9bea	でも おぼえて おきなさい!\n
+9ba147055a52d5a0	いあいぎりは ひでんわざ です。\p
+e86aa84ddf5be2de	いちど おぼえると かんたんには\n
+b22031f09f64d28e	わすれさせ られないのです。$
+##### data/maps/SSAnne_2F_Room4_Frlg/scripts.inc
+## SSAnne_2F_Room4_Text_LamarIntro::
+a919939f94722591	つよい ポケモンと めずらしい ポケモン\n
+99353d58b2acb386	きみは どちらに かちが あると おもう?$
+## SSAnne_2F_Room4_Text_LamarDefeat::
+5ded735ea1c3d108	けいい を ひょう しよう!$
+## SSAnne_2F_Room4_Text_LamarPostBattle::
+768ee439f25fc04e	わたしは つよくて めずらしい\n
+c3eb61a20387769e	ポケモンが すきだがね。$
+## SSAnne_2F_Room4_Text_DawnIntro::
+563ce1c478f10149	パーティで あなたを みかけなかった\n
+a4bb69301c9ad515	きが するけど?$
+## SSAnne_2F_Room4_Text_DawnDefeat::
+429c09b3725d483a	おてやわらかに!$
+## SSAnne_2F_Room4_Text_DawnPostBattle::
+d366da8a0914526c	まあ つよい ポケモンね! すてき!\n
+2afd6c98b3bbbc1e	ほんとうに うらやましいわ!$
+##### data/maps/SSAnne_2F_Room5_Frlg/scripts.inc
+## SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
+91712894dc4afc2f	セキチクシティの サファリゾーンに\n
+17310f454fbc3bd6	いった ことは あるかね?\p
+6b1481e1c0bddaf3	めずらしい ポケモンが\n
+57fe8ff69c4188e6	たくさん いるんだよ。$
+## SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
+a007a8f02ec29574	ぼくと パパは サファリゾーンって\n
+94e9a90604a94310	さいこう だと おもうんだ!\l
+ffa1059a20e48cf1	また いけたら いいなあ。$
+##### data/maps/SSAnne_2F_Room6_Frlg/scripts.inc
+## SSAnne_2F_Room6_Text_CaptainIsAwfullySick::
+d8eb056e83fc992c	せんちょうさん ひどく ぐあいが\n
+d529681740053259	わるいって。 まっさお だったよ。$
+## SSAnne_2F_Room6_Text_ManyPeopleGetSeasick::
+7686c0a3fbb80771	ふなよい する ひとは おおいらしいね。$
+##### data/maps/SSAnne_3F_Corridor_Frlg/scripts.inc
+## SSAnne_3F_Corridor_Text_CaptainTeachesCutToMons::
+d2c5e1859d856be3	せんちょうは けんの たつじん なんだ。\n
+88c7465f07306053	いあいぎりの うでまえは ピカイチ!\p
+ac28e8be9aae0503	ポケモンに いあいぎりを\n
+5bd00a22e6aa4f13	おしえる ことも あるらしいよ!$
+##### data/maps/SSAnne_B1F_Room1_Frlg/scripts.inc
+## SSAnne_B1F_Room1_Text_PhillipIntro::
+05547789d89153a2	おい! まけたら ふなばたから\n
+561a9568ae6a6138	うみに つきおとすぞ!$
+## SSAnne_B1F_Room1_Text_PhillipDefeat::
+d6b169ae962e7d38	ぐわっ!\n
+a1d0f65d80641b33	こどもに まけるとは!$
+## SSAnne_B1F_Room1_Text_PhillipPostBattle::
+438de8a060da25f9	おきに でると ときどき クラゲの\n
+fc6eaf997e648d36	ポケモンが ただよって くるんだ。$
+## SSAnne_B1F_Room1_Text_BarnyIntro::
+f7ee0caf59051bf3	よう みなれない かおだな!\p
+d61c51becd0b74a0	うみの もんか やまの もんか しらんが\n
+421379d423a9dc92	まあ よって はなして いけ。\p
+c40d016fdd80404e	おれの ポケモンは みんな うみ そだちだ。$
+## SSAnne_B1F_Room1_Text_BarnyDefeat::
+1dc05afc1b01919e	くそっ!\n
+30c3b11de1c0d8b2	にがしちまった!$
+## SSAnne_B1F_Room1_Text_BarnyPostBattle::
+7931d99d9bc1ea5b	おまえを おれの じょしゅに\n
+dfe7be94b2fb7e38	してやろうと おもったのに!$
+##### data/maps/SSAnne_B1F_Room2_Frlg/scripts.inc
+## SSAnne_B1F_Room2_Text_HueyIntro::
+9ada38ca4010407e	ふなのり だって ポケモンを もってるぜ!$
+## SSAnne_B1F_Room2_Text_HueyDefeat::
+6b95d78d234cb70c	よし おまえ わるくないな。$
+## SSAnne_B1F_Room2_Text_HueyPostBattle::
+05df3e42a37e2eab	おれたちの ポケモンは みんな\n
+74eb689b8a3db871	こうかいちゅうに つかまえたんだ。$
+##### data/maps/SSAnne_B1F_Room3_Frlg/scripts.inc
+## SSAnne_B1F_Room3_Text_DylanIntro::
+c3e8ce65ecf16ff8	おまえ みたいな げんきな こどもは すきだぜ!$
+## SSAnne_B1F_Room3_Text_DylanDefeat::
+b291b5f9449ef29f	ぐわっ!\n
+2d88cf440cd0a9cf	まけた!$
+## SSAnne_B1F_Room3_Text_DylanPostBattle::
+3c04008829da727a	うみの ポケモンは ふかい ところに いる。\n
+27e33eeec4c810bd	つりざおが ないと つれないぜ!$
+##### data/maps/SSAnne_B1F_Room4_Frlg/scripts.inc
+## SSAnne_B1F_Room4_Text_LeonardIntro::
+0ff991576112bf95	ふなのりと いえば しょうぶ!\n
+a50deafac65f5281	って いうだろ!$
+## SSAnne_B1F_Room4_Text_LeonardDefeat::
+43bafc1e824e4582	よし!\n
+6a6303f582a373f8	いい しょうぶ だったぜ あいぼう!$
+## SSAnne_B1F_Room4_Text_LeonardPostBattle::
+9133e2de46a80664	ガッハッハ!\n
+4fe2214aaa3d1a9e	ふなのりに なるきは ないか?$
+## SSAnne_B1F_Room4_Text_DuncanIntro::
+59bcf818ce47a8b5	さあ こい!\n
+373497e37ab0fa19	ふなのりの プライドに かけて!$
+## SSAnne_B1F_Room4_Text_DuncanDefeat::
+5c523492ddd28c8f	おまえの きはくに しずめられた!$
+## SSAnne_B1F_Room4_Text_DuncanPostBattle::
+191eb1b3a310c4aa	クチバシティの つりの めいじんには\n
+e93bbe0f669a4b54	あったかい?$
+##### data/maps/SSAnne_B1F_Room5_Frlg/scripts.inc
+## SSAnne_B1F_Room5_Text_MachokeHasStrengthToMoveRocks::
+43923e2eee9218da	あいぼうの ゴーリキーは ちからもち!\p
+5f3b399f518f8b8e	おおきな いわも うごかせる\n
+ad3ca32c4d0f1fc6	かいりきが あるんだ!$
+## SSAnne_B1F_Room5_Text_Machoke::
+5b44ce91a3532b0e	ゴーリキー: グォー! ゴッゴォ!$
+##### data/maps/SSAnne_CaptainsOffice_Frlg/scripts.inc
+## SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
+7bb4b6ecc15ec0ae	せんちょう: うおぇ…\n
+70807a3cd08e304d	き きもちわるい…\l
+3b399b1bbd3877a9	うっぷ! ふなよいが…$
+## SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
+fd687b5f72cdb4be	{PLAYER}は せんちょうの\n
+057d9e2088453244	せなかを さすった!\p
+66680bcf3ca19a08	さすり さすり…\n
+dbf143a1e97e7ba0	さすり さすり…$
+## SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
+ace22016ff8f251a	せんちょう: ふう! ありがとう!\n
+9b7145255a631ff6	だいぶ らくに なったよ。\p
+30274a937b5bc4bc	わしの ひでんの いあいぎりを\n
+aec549b36993aab5	みたい だって?\p
+7cb2fc4efd42c552	こんなに ぐあいが わるくなければ\n
+20ad20db3399a9e9	じまんの いあいぎりを みせるのだが…\p
+038e5ae47d93c9a3	そうだ! これを あげよう!\n
+0d12492edfd467e4	この ひでんマシンだ!\p
+fd482c32ef765541	ポケモンに いあいぎりを おぼえさせれば\n
+19dfed69e51d07d8	いつでも いあいぎりが みられるぞ!$
+## SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
+8fd50c2f36113a99	{PLAYER}は せんちょうから\n
+9513f643eba38f2d	ひでんマシン01を もらった!$
+## SSAnne_CaptainsOffice_Text_ExplainCut::
+4dd6fe1e992389ae	いあいぎりを つかえば ほそい きを\n
+e283067f2a453516	きりたおせる。\p
+13cd3e9a7d36ea6c	クチバシティの まわりの きで\n
+2a0b551d3859ad71	ためして みては どうかな?$
+## SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
+29b6e1d2354dd2fe	せんちょう: …ふう!\p
+26c0da694a06869d	ふなよいも なおった ことだし\n
+ca229cbb7424a5bf	そろそろ じかんだな。\p
+7096d4819c9b6d6b	サント・アンヌごうは まもなく しゅっこうだ!\p
+38db327d51be6ea1	また クチバシティに もどる ひまで\n
+bfb79962a9ea511d	さらばだ!$
+## SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
+47ef0347fff3e2dd	おや!\n
+ad617d5fff4e86cc	もちものが いっぱいだね!$
+## SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
+e88ea6cb78e9f775	うえっ!\n
+a76a625cdc265597	みなきゃ よかった!$
+## SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
+f93632626f358ed0	『ふなよいを こくふく するには』…\n
+84c21e65e9aa47f3	せんちょうが よんでる ほんだ!$
+##### data/maps/SSAnne_Deck_Frlg/scripts.inc
+## SSAnne_Deck_Text_ShipDepartingSoon::
+7d780e1c66b59e60	パーティは おわったよ。\n
+0f8e6b16d071322b	ふねは もうすぐ しゅっこうだ。$
+## SSAnne_Deck_Text_ScrubbingDecksHardWork::
+f97e96ec571546c8	ふう!\n
+e9791b298c4bc8c8	かんぱんみがきは おおしごとだ!$
+## SSAnne_Deck_Text_FeelSeasick::
+ac62964fc3ab807d	うぅ… きもちわるい…\p
+fc1f76404f4c7224	ふなよい したから そとの くうきを\n
+0284322577867ca6	すいに でて きたんだ…$
+## SSAnne_Deck_Text_EdmondIntro::
+4523ddfa718a7cfc	よう あいぼう!\p
+4ab40a905262648b	ちょいと おどろうぜ!$
+## SSAnne_Deck_Text_EdmondDefeat::
+52e5b364d6ec17bc	やるじゃねえか!$
+## SSAnne_Deck_Text_EdmondPostBattle::
+2d3b7ee8b55d3e8c	この ひろい せかいに ポケモンは\n
+13917e7def0b62c3	なんしゅるい いると おもう?$
+## SSAnne_Deck_Text_TrevorIntro::
+2f9d9763326441a6	おーい!\n
+09599feed2327508	ふなよい してないか?$
+## SSAnne_Deck_Text_TrevorDefeat::
+9b8e0bb0e89502ba	ちょっと ゆだん しただけだ!$
+## SSAnne_Deck_Text_TrevorPostBattle::
+f6b2de5e84654c1d	おやじは ポケモンは 100しゅるい\n
+6ece7c208c877a59	いるって いうけど もっと いると おもう。$
+##### data/maps/SSAnne_Kitchen_Frlg/scripts.inc
+## SSAnne_Kitchen_Text_BusyOutOfTheWay::
+4305d7c250576d05	そこの モン・プチ!\n
+7cbc37312e8dab56	こっちは いそがしいんだ!\l
+02c3f8d82fe2273d	どいた どいた!$
+## SSAnne_Kitchen_Text_SawOddBerryInTrash::
+1200db2b4e888fa6	ゴミばこに へんな きのみが あったよ。\n
+4a801fe59cc77ecc	あれは なんだったんだろう?$
+## SSAnne_Kitchen_Text_SoBusyImDizzy::
+c4364295f917419d	いそがしすぎて めが まわりそうだ!\n
+52a5acb09216a251	そこを あけて くれよ!$
+## SSAnne_Kitchen_Text_PeelSpudsEveryDay::
+5f67a8800bfea8e5	ふん ふふん ふーん…\p
+ca6ad5959719617e	まいにち じゃがいもの かわむきさ!\n
+89f1f4fbe7ca730d	ふん ふーん…$
+## SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
+408f900cc1fea12a	カビゴンの はなしを しってるかい?\n
+565d86c9872ea347	とんでもない くいしんぼう なんだ。\p
+38d4b49483569a7a	カビゴンほど たべて ねる ポケモンは\n
+2ab6977b500e6823	ほかに いないよ!$
+## SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
+8551919352bafc07	グスッ… ズズッ…\p
+96d5dde2e5c0cc6e	ぼくは たまねぎの かわむき ばっかり…\n
+c4794f895a38dbfa	グスッ…$
+## SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
+45629fbeb509be4d	ウォッホン!\n
+008261fb4114a07e	いかにも ワタクシが シェフ!\p
+3aa3de6f452e38d9	きょうの メインディッシュは$
+## SSAnne_Kitchen_Text_SalmonDuSalad::
+dfb3d5ff282556b6	サーモン・ド・サラダ!\p
+bd7f9881dc3e6470	また さかなかと おきゃくさまに\n
+6c9b7a5f308c5fe1	もんくを いわれそう ですが!$
+## SSAnne_Kitchen_Text_EelsAuBarbecue::
+7c08230718b5e091	ウナギの バーベキュー・オ・ソース!\p
+0dda6247419be6db	おきゃくさまが はんらん しそうで こわい。$
+## SSAnne_Kitchen_Text_PrimeBeefsteak::
+5ff1905f66ba9cdf	とくせん ビーフステーキ!\p
+cdc4a8a99a9cf3c3	でも フィレ・ド・ビーフは\n
+204d8ebc0c3095a0	たりて いるかな?$
+##### data/maps/SafariZone_Center_Frlg/scripts.inc
+## SafariZone_Center_Text_RestHouse::
+5b4b8c7596981e57	きゅうけいじょ$
+## SafariZone_Center_Text_PressStartToCheckTime::
+f6a64e73042ee405	おとくな けいじばん!!\p
+5a8231a82919472d	スタートボタンで のこりじかんを\n
+069ba7f69fdf2738	かくにん できます。$
+## SafariZone_Center_Text_CenterArea::
+a1e3cd4791565556	ちゅうおう エリア$
+##### data/maps/SafariZone_Center_RestHouse_Frlg/scripts.inc
+## SafariZone_Center_Text_WhereDidErikGo::
+3b87cf534589cde1	サラ: わたしの かれし\n
+902ac64db516fe3b	エリックは どこに いったの?$
+## SafariZone_Center_Text_CatchingMonsAsGifts::
+cd1153d45023dd8d	おみやげに する ポケモンを\n
+1c7e0bf53ae05318	つかまえてるの。$
+##### data/maps/SafariZone_East_Frlg/scripts.inc
+## SafariZone_East_Text_RestHouse::
+4b8d1c119625cdbb	きゅうけいじょ$
+## SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
+0e6bf9e58daca1e4	おとくな けいじばん!!\p
+bb42ea6295bf1800	のこりじかんが へるのは\n
+89315c6061f83cf1	あるいて いる ときだけ です。$
+## SafariZone_East_Text_AreaSign::
+2943d0fc9d8a6c84	エリア 1\n
+933f642b5b057c83	にし: ちゅうおう エリア$
+##### data/maps/SafariZone_East_RestHouse_Frlg/scripts.inc
+## SafariZone_East_Text_HowManyDidYouCatch::
+c9ff25de3d0279ea	なんびき つかまえた?\n
+069e98a34038a2a7	ぼくは もう へとへとだよ!$
+## SafariZone_East_Text_CaughtChanseyAllWorthwhile::
+95ba8072ef2bd66c	ラッキーを つかまえたぞ!\p
+d4b03b667495646b	これで くろうが むくわれたよ。$
+## SafariZone_East_Text_TiredFromAllTheFun::
+5311f451dc22959c	ふう!\n
+d02e2843d92c60ca	たのしすぎて つかれちゃった!$
+##### data/maps/SafariZone_North_Frlg/scripts.inc
+## SafariZone_North_Text_RestHouse::
+1a7b1fb15b4296a9	きゅうけいじょ$
+## SafariZone_North_Text_SecretHouseStillAhead::
+1e92758fedad9fa8	おとくな けいじばん!!\p
+58fee94b1215e3de	かくれやは まだ この さきです。$
+## SafariZone_North_Text_Area2::
+3fc95b3228eb64c2	エリア 2$
+## SafariZone_North_Text_ZigzagThroughTallGrass::
+0fa97ea87c9ca737	おとくな けいじばん!!\p
+35977020e10667bf	ポケモンは くさむらに かくれています。\p
+b9ca9106d50b6dd2	くさむらを ジグザグに あるいて\n
+a7bab24c13f4a843	さがしだしましょう。$
+## SafariZone_North_Text_WinFreeHMFindSecretHouse::
+2bd576a39380470e	おとくな けいじばん!!\p
+fd7046ffacc47c1c	かくれやを みつけたら\n
+7a64c2f0a53383ce	ひでんマシンを プレゼント!$
+##### data/maps/SafariZone_North_RestHouse_Frlg/scripts.inc
+## SafariZone_East_Text_KeepAnyItemFoundOnSafari::
+2c1a85a5c92f4713	サファリゾーンで みつけた どうぐは\n
+38eb9d13aa4ea864	もちかえって いいんだよ。\p
+8469d8220638df7c	でも ぜんぶ いっぺんに ひろおうと\n
+2a96349edfd6dc84	すると じかんぎれに なっちゃうよ。$
+## SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
+1da603a7ef8b39d0	サファリゾーンの いちばん おくへ\n
+8383cf0b397f8691	いってごらん。 けいひんが もらえるよ!$
+## SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
+72a0412b4c6e60b9	ぼくの イーブイは ブースターに なった。\p
+172d01fbe571ac50	でも ともだちの イーブイは シャワーズに\n
+29d36916bc6db6b3	なったんだ。 なんで だろう?$
+##### data/maps/SafariZone_SecretHouse_Frlg/scripts.inc
+## SafariZone_SecretHouse_Text_CongratsYouveWon::
+7cf559aeb5945342	ああ! ついに!\p
+7a9d2ceb31512f3f	かくれやに たどりついたのは\n
+6e4b94cd653666c5	あなたが はじめてです!\p
+edbebf0a3da291b0	グランドオープンの きねんに\n
+7d930953d639fc0d	キャンペーンを はじめたのに\p
+da6d85f667fb9560	だれも けいひんを もらいに\n
+e39c2cdd4b8185e1	こないかと しんぱい してたんです。\p
+c4b56d63f251f889	おめでとう ございます!\n
+2013c963971306cd	あなたの かちです!$
+## SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
+d1bce315323ed36b	{PLAYER}は かかりいんから\n
+b018ac72d86ddd32	ひでんマシン03を もらった!$
+## SafariZone_SecretHouse_Text_ExplainSurf::
+22f65dab3134c7f0	ひでんマシン03は なみのり です。\p
+a738702ce4b984b6	ポケモンが あなたを のせて\n
+bfa5527987f609d5	みずの うえを わたって くれます。\p
+d956301dfcbb170a	それに ひでんマシンは なくならないので\n
+815fb74fe22eb2f6	なんどでも つかえますよ。\p
+3f626c6f951b584d	こんな すてきな けいひんを もらえて\n
+6de2f4e40ccf39ae	とっても ラッキーですね!$
+## SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
+faa450d84679a658	すてきな けいひんを いれる\n
+b1bf07d18417dfb8	ばしょが ありませんよ!$
+##### data/maps/SafariZone_West_Frlg/scripts.inc
+## SafariZone_West_Text_RestHouse::
+af09a4312d900604	きゅうけいじょ$
+## SafariZone_West_Text_PleaseFindWardensLostTeeth::
+7493bd31f9b35831	おねがい!\p
+5a7ad4d87e10d844	サファリの えんちょうが なくした\n
+653e3e1eb612f5f4	きんのいればを さがしてください。\l
+f427735279a63a51	この あたりに あるはずです。\p
+d3cfe38f8cafb4fe	おれい します!\n
+34d5989775dcc32f	れんらくさき: えんちょう$
+## SafariZone_West_Text_SearchForSecretHouse::
+f6ad7076be5d72a3	おとくな けいじばん!!\p
+2ffb4a9053979113	ゾーン たんけん キャンペーン!\n
+56afd1f69184ce31	かくれやを さがせ!$
+## SafariZone_West_Text_AreaSign::
+3656f228ca9ef1a1	エリア 3\n
+f57fd0e9994effc4	ひがし: ちゅうおう エリア$
+##### data/maps/SafariZone_West_RestHouse_Frlg/scripts.inc
+## SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
+c85336cf6f75b29b	サファリゾーンって ひろいと\n
+1f4f26654eae4f8e	おもわない?\p
+bef4c63f098de7fc	セキチクの ジムリーダー キョウが \n
+4cbb20195896c579	ときどき みまわりを してるの。\p
+7b983aa15a704404	おかげで わたしたちは あんしんして\n
+20897438e2010bf7	ここで あそべるのよ。$
+## SafariZone_West_Text_RocksMakeMonRunButEasierCatch::
+f0eb63bb72523ad5	ポケモンに いしを なげると\n
+d91fb562439e7c52	にげやすく なるけど\l
+9c607997acc95917	つかまえやすくも なるんだ。$
+## SafariZone_West_Text_BaitMakesMonStickAround::
+76de56e82fc1d553	エサを なげると ポケモンは\n
+f0a3bdf2a5fcd57c	たべるのに むちゅうで\l
+a3ae8906ef31b144	にげにくく なるのよ。$
+## SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
+1f217ee86de14552	たくさん あるいたけど ほしい\n
+516ceb0b28cc7694	ポケモンは みつからなかったよ。$
+##### data/maps/SaffronCity_CopycatsHouse_1F_Frlg/scripts.inc
+## SaffronCity_CopycatsHouse_1F_Text_DaughterIsSelfCentered::
+453df932020a8768	うちの むすめは じぶん かって でね。\n
+c533e49a58cd82fd	ともだちも すくないんですよ。$
+## SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeople::
+98e123f739b24292	うちの むすめは ひとの まねが すきでね。\n
+2e6c7c3944592ab8	ちょっと こまって いるんです。\p
+1e8c59bd8717264b	そのせいで このあたりでは\n
+56cc8c1ee768911e	ものまねむすめと よばれてます。$
+## SaffronCity_CopycatsHouse_1F_Text_Chansey::
+21e406a696647739	ラッキー: ラッキー!$
+##### data/maps/SaffronCity_CopycatsHouse_2F_Frlg/scripts.inc
+## SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
+02402c91e9e1a705	{PLAYER}: やあ!\n
+d41d90161f51caa8	ポケモン すき?\p
+8cce414b0a4bfe40	{PLAYER}: いや きいたのは こっちだよ。\p
+5bf3f91e03a70f51	{PLAYER}: え?\n
+44f32810fa4e863f	へんなの!\p
+87f6eae7dd6b173e	ものまねむすめ: え? まねを やめろ?\n
+3402f28b5c768e1c	だって これが いちばんの しゅみなの!$
+## SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
+de24ba45c6f3f617	{PLAYER}: こんにちは。\n
+f9fc925fda93206a	ポケモンが すきなのね。\p
+d73fae77cd2a2bbb	{PLAYER}: ちがうわ わたしじゃない。\n
+017b3bd6609cc3df	あなたに きいたの。\p
+69b77a83339ab973	{PLAYER}: なあに?\n
+e6f7b37263ab5f51	へんな こ!\l
+88df1b4a18d4e842	 \l
+1256a03b0cbdb509	ものまねむすめ: え? まねを やめろ?\l
+079a4f022e15a067	だって これが いちばんの しゅみなの!$
+## Text_MimicTeach::
+243b0f402e6a59c3	わあ!\n
+c78f048fe23ec927	ピッピにんぎょう!\p
+4441e658b3e6cae0	わたしに?\n
+f1d5203d7686c0cd	ありがとう!\p
+695f360aa43c297f	そうだ!\n
+f52ab51525dd88f0	ものまねって わざを おしえて あげる。$
+## Text_MimicDeclined::
+73468a8a22448187	ものまねは きらい?$
+## Text_MimicWhichMon::
+9b4f289e60a39fc3	わたし ものまねが だいすき!\n
+5a33c33432358556	だれに おぼえさせる?$
+## Text_MimicTaughtMale::
+35f78119a003ddcf	{PLAYER}: やあ!\n
+d4003ccd3adf6847	さっきは ありがとう!\p
+b1cffa526eff4fc2	{PLAYER}: え?\p
+90adc95ab4b982bf	{PLAYER}: ぼくの まねを するのが\n
+735d8d677087a7b7	そんなに たのしいの?\p
+fe3d797e3c88ce40	ものまねむすめ: もちろん!\n
+079ee30d25a2bb23	すっごく おもしろいわ!$
+## Text_MimicTaughtFemale::
+661c6dbc8e5a7532	{PLAYER}: こんにちは!\n
+26f531fd734fc82f	この あいだは ありがとう。\p
+fb29b31c5391ee40	{PLAYER}: なあに?\p
+8d3cd7253646b0fd	{PLAYER}: わたしの まねを するのが\n
+af1871a976c5b069	ほんとうに そんなに たのしいの?\p
+17f21d5605ecf6bf	ものまねむすめ: もちろん!\n
+001acaa9a68b80ca	すっごく おもしろいわ!$
+## SaffronCity_CopycatsHouse_2F_Text_Doduo::
+90f6b9746411d51c	ドードー: ギーッ!\p
+c851ac620bb1ebc2	かがみよ かがみ わたしを みて\n
+934e1d8857410c05	わたしって こんなに きれい?$
+## SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
+c2153a0a7d730152	これは めずらしい ポケモンだ!\n
+0d58f5073e336a6e	あれ? ただの にんぎょうだ!$
+## SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
+510f2652122fb99f	マリオが バケツを かぶってる\n
+34ff9d7d1d882a73	ゲームだ!$
+## SaffronCity_CopycatsHouse_2F_Text_MySecrets::
+86bdf24b11caf780	…\p
+205905ce9e57e146	わたしの ひみつ!\p
+5cb20f70c0c6dd3b	とくぎ: ものまね!\n
+b5664ec15e786204	しゅみ: にんぎょう あつめ!\l
+734c7f1d4b0b1db7	すきな ポケモン: ピッピ!$
+##### data/maps/SaffronCity_Dojo_Frlg/scripts.inc
+## SaffronCity_Dojo_Text_MasterKoichiIntro::
+02021cc535b52d75	おす!\p
+3a5a8921726e161a	わしは カラテだいおう!\n
+32bd0c9fa9be1a19	ここの リーダー じゃ!\p
+808ccf85e18f8d3f	わしらに いどむ つもりか?\n
+c3b5064f1614cf21	ようしゃは せんぞ!\p
+e243c6e5d5ab6f5d	ちぇすとー!$
+## SaffronCity_Dojo_Text_MasterKoichiDefeat::
+6de59cb11e5a66af	ハッ!\n
+b0c3ba68c9ed231d	ぐおお! まけた!$
+## SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
+d432b384c5c796d3	まさしく わしの まけじゃ!\p
+003eca2ee79c1a2b	だが たのむ! どうじょうの かんばんだけは\n
+ea825a43240b266c	もっていかんで くれ!\p
+24f95226b1ccd35a	かわりに たいせつな かくとうタイプの\n
+11717c3572d3fdcf	ポケモンを ゆずろう!\p
+ec36f65e84fef482	すきな ほうを えらぶが よい!$
+## SaffronCity_Dojo_Text_StayAndTrainWithUs::
+a21b499255fea54d	おす!\n
+69046f932eb0f12b	わしらと カラテの しゅぎょうを していけ!$
+## SaffronCity_Dojo_Text_MikeIntro::
+98e7ce87cd6d4081	ぬおお!\n
+f37eb33b6c2c0192	くつを ぬげ!$
+## SaffronCity_Dojo_Text_MikeDefeat::
+e4b00f51d347928c	まいった!$
+## SaffronCity_Dojo_Text_MikePostBattle::
+3f5965ca35ba13c3	しはんに あったら おどろくぞ!\n
+285bdf7368db5fff	おれなんか しはんに くらべたら ザコだ!$
+## SaffronCity_Dojo_Text_HidekiIntro::
+88c5cbf4ba1cc6c5	つよいらしいな!\n
+f1c704a73da3b1ab	みせて もらおう!$
+## SaffronCity_Dojo_Text_HidekiDefeat::
+a31af2a92b7dc5cf	しんぱん!\n
+a18182e67c33ffd0	いっぽん!$
+## SaffronCity_Dojo_Text_HidekiPostBattle::
+c66d9820a643b239	しはんは プロの かくとうか だ。\n
+4d2b6bc2c5fbe582	まける かくごを しておけ!$
+## SaffronCity_Dojo_Text_AaronIntro::
+05710c39eb6c3737	ハイヤッ!\n
+80305f53c3860b3f	てごわい あいてなど こわくない!\p
+58cf60118835910e	まいにち しゅぎょうで\n
+cc2172237eaa4c65	いわを くだいて いるのだ!$
+## SaffronCity_Dojo_Text_AaronDefeat::
+72e7dfd218a832fe	いてっ!\n
+fc9d90d62cf211c0	つきゆびだ!$
+## SaffronCity_Dojo_Text_AaronPostBattle::
+a22e208f536df72d	おれたちが おそれるのは\n
+88ed0f43bd6b63bd	エスパーの ちから だけだ!$
+## SaffronCity_Dojo_Text_HitoshiIntro::
+ad18eed1a87a28c1	ハアッ!\p
+c4a4a1d1895e6d25	かってに はいるな! ここは\n
+3e28f1f8d664cfc5	かくとう どうじょう だぞ!$
+## SaffronCity_Dojo_Text_HitoshiDefeat::
+88f6371b87072479	ぐふっ!\n
+5f4c82d605e27b9b	まいった!$
+## SaffronCity_Dojo_Text_HitoshiPostBattle::
+4a15400beb55645e	ぜんこくの いちりゅうの かくとうかが\n
+593bf31ed140d32b	ここで しゅぎょう しているのだ。$
+## SaffronCity_Dojo_Text_YouWantHitmonlee::
+e40e6f8f4401e612	キックの するどい\n
+2ddd915c148e86c4	サワムラーに するか?$
+## SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
+0744e11166386d25	{PLAYER}は {STR_VAR_1}を\n
+ba998d453362564f	カラテだいおうから もらった!$
+## SaffronCity_Dojo_Text_YouWantHitmonchan::
+680a3b198621e33c	ピストン パンチの\n
+078f99e9fa3a923f	エビワラーに するか?$
+## SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
+60c0016d60d3f053	{PLAYER}は カラテだいおうから\n
+b894ec34bcfe903b	{STR_VAR_1}を もらった!$
+## SaffronCity_Dojo_Text_BetterNotGetGreedy::
+69fe76a515fc2d04	よくばりは いかんぞ…$
+## SaffronCity_Dojo_Text_EnemiesOnEverySide::
+d1992c2e3a65624f	しちにんの てき あり!$
+## SaffronCity_Dojo_Text_GoesAroundComesAround::
+cc50f33f79748ce2	いんがおうほう!$
+## SaffronCity_Dojo_Text_FightingDojo::
+00379ad6426bbfbd	かくとう どうじょう$
+##### data/maps/SaffronCity_Frlg/scripts.inc
+## SaffronCity_Text_WhatDoYouWantGetLost::
+6b4fd8844e2ce0d7	なんだ おまえ?\n
+8c8de90f943ad98c	とっとと うせろ!$
+## SaffronCity_Text_BossTakeTownForTeamRocket::
+a2668c4f4852cbf6	ボスは この まちを ロケットだんの\n
+fa204fbed5d41607	ものに すると いったのさ!$
+## SaffronCity_Text_DontGetDefiantOrIllHurtYou::
+584126ee4db4b40d	さからうんじゃ ねえぞ!\n
+8770c2b74d122f10	いたい めに あいたく なければな!$
+## SaffronCity_Text_SaffronBelongsToTeamRocket::
+5a79ee2d32e332dc	ヤマブキは ロケットだんの ものだ!$
+## SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
+104b98e12ea3b959	わるいことを してると\n
+b548a23299abeab9	いきてるって かんじが するぜ!$
+## SaffronCity_Text_WatchWhereYoureWalking::
+8cd6608f5e64fb98	いてっ!\n
+d6283bcc9109f500	どこ みて あるいてんだ!$
+## SaffronCity_Text_WeCanExploitMonsAroundWorld::
+d16264201c5bf113	シルフを てに いれれば\n
+3cdff642bc73fa00	せかいじゅうの ポケモンを りよう できる!\p
+60a3199a143b477c	おれたち だいがねもちだぜ イエーイ!$
+## SaffronCity_Text_YouBeatTeamRocket::
+df520e4a7b7bae1e	ひとりで ロケットだんを やっつけたの?\n
+307ede560a9c13e9	すごいわ!$
+## SaffronCity_Text_SafeToGoOutAgain::
+35cf318b91a22577	やった! ロケットだんが いなくなった!\n
+8c2a4dc6da3d8982	これで あんしんして そとに でられる!$
+## SaffronCity_Text_PeopleComingBackToSaffron::
+24d7075f1e557afa	ロケットだんが きたとき\n
+bfbc072d63958617	おおぜいの ひとが にげだしたんだ。\p
+6fe9b46b2d2adbb6	これからは みんな ヤマブキに\n
+e57a65946caf7e81	もどって くるだろうね。$
+## SaffronCity_Text_FlewHereOnPidgeot::
+616929b76c1371bb	シルフの きじを よんで ピジョットで\n
+254eae9e87b56c2c	とんで きたんだけど。\p
+32c6f73649d77882	もう おわっちゃったの?\n
+5c06d53e40ea6967	しゅざいに まにあわなかった…$
+## SaffronCity_Text_Pidgeot::
+50f8be03dec890a8	ピジョット: ピピピィー!$
+## SaffronCity_Text_SawRocketBossEscaping::
+6c06b92cd172ec0b	ロケットだんの ボスが シルフの\n
+4a4e152887ec7399	ビルから にげていくのを みたよ。$
+## SaffronCity_Text_ImASecurityGuard::
+a42067cf5d0cb93e	わたしは けいびいん です。\p
+2d9789cb1e8c0b25	あやしい こどもは いれませんよ!$
+## SaffronCity_Text_HesTakingASnooze::
+91d28338e4661fcb	…\n
+359b358add698e27	グーグー…\p
+4bb77295185df1dc	ははっ! いねむり してるぞ!$
+## SaffronCity_Text_CitySign::
+f9e06578d5bcd88f	ヤマブキシティ\n
+76f8d3c48ea408d7	こがねいろに かがやく しょうぎょうの まち$
+## SaffronCity_Text_FightingDojo::
+b773ba7aa58d51e7	かくとう どうじょう$
+## SaffronCity_Text_GymSign::
+d6f8fac26c253194	ヤマブキシティ ポケモンジム\n
+8e01523fb2b427e3	ジムリーダー: ナツメ\l
+02406b516ffb1476	エスパー ポケモンの つかいて!$
+## SaffronCity_Text_FullHealCuresStatus::
+91b94087f693ff5f	おとくな けいじばん!!\p
+838f5cc0b53c5436	なんでもなおしは やけど まひ\n
+5f031e592ec2b4b8	どく こおり ねむりなど\l
+ed44f39e712ad5c0	すべての じょうたいいじょうを なおす。\p
+9202b9785feaff69	すこし たかいけど ほかの どうぐを\n
+ee5a3f01566a38f6	かうより べんりです。$
+## SaffronCity_Text_GreatBallImprovedCatchRate::
+b087947a0600066d	おとくな けいじばん!!\p
+a5443b61a88aa2dd	あたらしい スーパーボールは\n
+a24f3d3509f5b641	つかまえやすさが アップ!\p
+4d22647262cbe80d	つかまえにくい ポケモンに\n
+3d4e49e197dc33db	つかって みましょう。$
+## SaffronCity_Text_SilphCoSign::
+9f5f97b56d235523	シルフカンパニー ほんしゃビル$
+## SaffronCity_Text_MrPsychicsHouse::
+0e1c50c11628b442	エスパーおやじの いえ$
+## SaffronCity_Text_SilphsLatestProduct::
+9fd4ae6399f09b88	シルフの さいしん しょうひん!\n
+4034d2f62ca122a1	はつばいび みてい…$
+## SaffronCity_Text_TrainerFanClubSign::
+a6aadc70e415f7fc	ポケモン トレーナー ファンクラブ\p
+ed4ebfdca6e66b33	たくさんの トレーナーが\n
+c2f07dc4807432ac	かんばんに なまえを かきこんでいる。$
+## SaffronCity_Text_HowCanClubNotRecognizeLance::
+b1b7ef456f317ad6	この ファンクラブ…\n
+e30b29ff6a57c956	だれも わかって ない!\p
+0cfb38ab2c9f235c	ワタルの すばらしさに\n
+bbe87e1e3d6e8914	なぜ きづかないんだ?\p
+a964ee54a027308f	かれは せいぎの みかた!\n
+4e923f15cc04eb11	クールで しかも あつい!\l
+3200eed7059d39e7	さいこうだ ワタル!$
+##### data/maps/SaffronCity_Gym_Frlg/scripts.inc
+## SaffronCity_Gym_Text_SabrinaIntro::
+a576790d1dba2c15	あなたが くることは みえていたわ。\p
+dccf5515ee7fe2a1	わたしは こどもの ころから\n
+7a096dada81722a3	エスパーの ちからを もっていた。\p
+00806f2d9026f81f	なにげなく なげた スプーンが\n
+0697b660b18006ed	まがったのが はじまりだった。\p
+fc4ed7c7a57992a3	たたかいは すきじゃないけど\n
+c5e346d2db54189b	のぞむなら ちからを みせてあげる!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$
+## SaffronCity_Gym_Text_SabrinaDefeat::
+459f43881f102ebf	まけるなんて… ショックだわ!\n
+84bd336e7c564b37	でも まけは まけ。\p
+7d8db677bfac0364	かつための どりょくが\n
+5dde1d6afb7b2fb7	たりなかったと みとめるわ。\p
+b4101fbd0104004e	あなたの しょうりの あかしに\n
+81c7ad9a2e463069	ゴールドバッジを あげる。$
+## SaffronCity_Gym_Text_SabrinaPostBattle::
+6cd36e3de2b2e830	エスパーの ちからは ごく いちぶの\n
+9f41603a7364e086	ひとだけの ものじゃ ないわ。\p
+1c09e6d5fbacfcf4	だれでも エスパーの ちからを もっている。\n
+34ed8cf57970c7e1	ただ きづいて いないだけ。$
+## SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
+32d8234814a74508	ゴールドバッジが あれば レベル70\n
+0f94ff6bb7266c5a	までの ポケモンが いうことを きく。\p
+1410574594dbf92f	それより つよい ポケモンは\n
+e7555d618d2acc45	しょうぶで めいれいを きかなくなる。\p
+6de4d1e01ca55d26	そう ならないように ポケモンを\n
+64066c33831d4931	そだてすぎない ことね。\p
+558924a6301883bf	まって この わざマシンも もっていって。$
+## SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
+97277457398319d1	{PLAYER}は ナツメから\n
+36e98c2bf821ef5e	わざマシン04を もらった!$
+## SaffronCity_Gym_Text_ExplainTM04::
+4ce145bfe9aac818	わざマシン04は めいそう。\p
+c38c2be2243ea99c	ポケモンが せいしんを しゅうちゅうして\n
+fe10abdf95fdbb1d	とくこうと とくぼうを あげるの。$
+## SaffronCity_Gym_Text_BagFullOfOtherItems::
+ccde2b6cda172cf4	バッグが ほかの どうぐで いっぱいね。$
+## SaffronCity_Gym_Text_AmandaIntro::
+fc1d13eedfcff4bc	ナツメは わたしより ずっと わかいけど\n
+80c72992d270f911	わたしは かのじょを そんけい してるの。$
+## SaffronCity_Gym_Text_AmandaDefeat::
+9622dbe982abb1bb	まだ たりないのね!$
+## SaffronCity_Gym_Text_AmandaPostBattle::
+7190d74ebe28e3fe	ごかくの しょうぶ では\n
+13e3aef87b6d34e8	いしの つよい ほうが かつの。\p
+0c2994fb605a5131	ナツメに かちたいなら しゅうちゅうして\n
+46cc8ab554c85f61	しょうりを つよく ねんじなさい。$
+## SaffronCity_Gym_Text_JohanIntro::
+d6f57e28a77fec98	めに みえない ちからが こわいかい?$
+## SaffronCity_Gym_Text_JohanDefeat::
+b315b9d6877571ba	こんなの よちして なかった!$
+## SaffronCity_Gym_Text_JohanPostBattle::
+5ffe7a8e291a6194	エスパー ポケモンが おそれるのは\n
+944285705a5df538	ゴーストと むし だけさ!$
+## SaffronCity_Gym_Text_StacyIntro::
+9b67cb02a0a1ae48	ポケモンは トレーナーに\n
+4ba65cbfe4e856d5	にて くるものよ。\p
+9f7b739bbfde90d8	だったら あなたの ポケモンは つよそうね!$
+## SaffronCity_Gym_Text_StacyDefeat::
+f6c4f13d498afd18	やっぱりね!$
+## SaffronCity_Gym_Text_StacyPostBattle::
+2e39270a9067ef69	まだまだ まなぶことが おおいわ…\p
+821086d846f1157c	サイコキネシスを きわめて\n
+e75ef7595dc1ef34	ポケモンに おしえなくちゃ…$
+## SaffronCity_Gym_Text_TyronIntro::
+e0826c6a960ab6fe	きみなら わかるよね?\p
+c3e93125db23a4a3	ポケモンの せかいでは ちからだけじゃ\n
+9721e92d293928e4	かてないって ことが?$
+## SaffronCity_Gym_Text_TyronDefeat::
+0c42698f2b3103aa	しんじられない!$
+## SaffronCity_Gym_Text_TyronPostBattle::
+d1fb97a158e0cd07	ナツメは となりの カラテだいおうを\n
+aacec0ec03739068	こてんぱんに したんだ。$
+## SaffronCity_Gym_Text_TashaIntro::
+b476ae09eb1f0315	あなたと わたし ポケモンで\n
+27a93246e830adad	しょうぶよ!$
+## SaffronCity_Gym_Text_TashaDefeat::
+e65533d2accf2bda	やっぱり まけたわ!$
+## SaffronCity_Gym_Text_TashaPostBattle::
+013217fe98174863	こうなる ことは\n
+08e00f243d8a2f28	わかって いたの。$
+## SaffronCity_Gym_Text_CameronIntro::
+6b928898387177d6	ナツメは わかいけど うでの たつ\n
+a98999b2332dff78	わたしたちの リーダーだ。\p
+7789f57c4b64d7ae	かんたんには たどりつけないぞ!$
+## SaffronCity_Gym_Text_CameronDefeat::
+101d0c6ff0070c47	いてっ!\n
+80955b94f8ea7696	ノックアウトだ!$
+## SaffronCity_Gym_Text_CameronPostBattle::
+e7c7ebea7e6387f0	むかし ヤマブキには ポケモンジムが\n
+9e27f22bb842651e	ふたつ あったんだ。\p
+ded99847781addcf	でも となりの かくとう どうじょうは\n
+3d685fdde9c41665	ジムの しかくを うしなった。\p
+51ac38e4a26a230f	ジムを ひとつに きめるとき\n
+feb07f62465a26cd	わたしたちが こてんぱんに したのさ。$
+## SaffronCity_Gym_Text_PrestonIntro::
+8e780988a83b4708	ヤマブキジムは エスパーを\n
+c3a3560a5e8028ce	そだてる ことで ゆうめいなんだ。\p
+582ffc61baac5bea	きみ ナツメに あいたいんだろ?\n
+a0507c8077462a23	わかるんだよ!$
+## SaffronCity_Gym_Text_PrestonDefeat::
+a72a23a2280123f2	ぐわあああ!$
+## SaffronCity_Gym_Text_PrestonPostBattle::
+3207ec70405f54e6	そうさ! テレパシーで きみの\n
+ec84c100a09a3948	こころを よんだのさ!$
+## SaffronCity_Gym_Text_GymGuyAdvice::
+87b8f9564de92659	よう!\n
+59f6458123ad778a	みらいの チャンピオン!\p
+d647c3ad9b6a7cde	ナツメの ポケモンは ちからでなく\n
+482654c9cfee18af	エスパーの ちからで たたかう。\p
+6d61e91795e1fd10	かくとう ポケモンは エスパー\n
+4b88a6413d261421	ポケモンに とくに よわいんだ。\p
+9a840e46672009a7	パンチを くりだす まえに\n
+9a440e6504cbf7c0	やられちまうぞ!$
+## SaffronCity_Gym_Text_GymGuyPostVictory::
+ced3d4226c3a4024	エスパーの ちからか…\p
+b46c082bd6f968ab	おれに そんな ちからが あったら\n
+b80c7683590122a1	スロットで おおもうけ するのにな!$
+## SaffronCity_Gym_Text_GymStatue::
+debc77120f78810b	ヤマブキ ポケモンジム\n
+5a782ec74d7c7621	ジムリーダー: ナツメ\p
+6751a9204c6d15fb	しょうりした トレーナー:\n
+daface6b0fbf2622	{RIVAL}$
+## SaffronCity_Gym_Text_GymStatuePlayerWon::
+9d7f264fa3cda82c	ヤマブキ ポケモンジム\n
+4c0039dc91144305	ジムリーダー: ナツメ\p
+15733cd97b10b31c	しょうりした トレーナー:\n
+71594bd3a04dd27d	{RIVAL} {PLAYER}$
+##### data/maps/SaffronCity_House_Frlg/scripts.inc
+## SaffronCity_House_Text_DontLookAtMyLetter::
+6a39c7e955c1970d	…おてがみ ありがとう。\n
+c0ae5a94eb30e46e	はやく あえると いいな!\p
+42cc37102f3ad61c	…ちょっと!\n
+a73ef7f1401d98c1	てがみを みないでよ!$
+## SaffronCity_House_Text_Pidgey::
+b47930415bd13e3d	ポッポ: クルックー!$
+## SaffronCity_House_Text_GettingCopycatPokeDoll::
+33a57831f931a25b	ものまねむすめって かわいい!\n
+d28ed88aafe3c641	ピッピにんぎょうを あげるんだ。$
+## SaffronCity_House_Text_ExplainPPUp::
+7f78a6d5d02073ae	ポイントアップを プレゼントで もらった。\p
+45aae0bbf6ceda1c	ポケモンの わざの PPを\n
+b060cd4852756929	ふやす どうぐ なんだ。\p
+4fc1e336399af14f	PPの すくない つよい わざに\n
+724756d6489dbb2e	つかうと いいだろうね。$
+##### data/maps/SaffronCity_Mart_Frlg/scripts.inc
+## SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
+7a66fff3844078a6	ゴールドスプレーを つかうと よわい\n
+9e3bdb9eb7c08def	ポケモンが でて こなくなる。\p
+27b295afe5145856	シルバースプレーより\n
+5796f728d04d510b	ききめが ながく つづくんだ。$
+## SaffronCity_Mart_Text_ReviveIsCostly::
+f2cea07b91703553	げんきのかけらは たかいけど\n
+6d5efaaf2b496f0d	ひんしの ポケモンを げんきに するのよ!$
+##### data/maps/SaffronCity_MrPsychicsHouse_Frlg/scripts.inc
+## SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
+0a146fb2f7b4e605	…まて! なにも いうな!\p
+508048bafa558512	これが ほしかったんだろう!$
+## SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
+08c9013487508a8c	{PLAYER}は エスパーおやじから\n
+c257a28594929078	わざマシン29を もらった!$
+## SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
+4c5dda05e1554cbb	もう わかって いるだろう?\n
+df694efa1d5998a8	わざマシン29は サイコキネシス。\p
+0096be4eb899924b	あいての とくぼうを さげる\n
+14fee531cf7f31ff	ことも ある こうげきだ。$
+## SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
+e8193ccf3b8e659d	どこに しまう つもりだ?\n
+aecb54cf83f05a9d	もう いっぱいじゃないか。$
+##### data/maps/SaffronCity_PokemonCenter_1F_Frlg/scripts.inc
+## SaffronCity_PokemonCenter_1F_Text_GrowthRatesDifferBySpecies::
+7201a240cb489c35	ポケモンの そだつ はやさは\n
+9b80bca5dd88ff51	しゅるいに よって ちがうんだ。$
+## SaffronCity_PokemonCenter_1F_Text_SilphCoVictimOfFame::
+a149900be8002fd7	シルフカンパニーは だれもが しっている。\p
+2067331b43c89d39	ゆうめいすぎて ロケットだんに\n
+921c1693022b0df1	ねらわれて しまったのよ。$
+## SaffronCity_PokemonCenter_1F_Text_GreatIfEliteFourCameBeatRockets::
+31d633ff6fec3735	はあ…\n
+095b4a6721a1acdf	そうなったら いいのになあ。\p
+e50f3ba5a720e1b9	してんのうが やってきて\n
+c803501553db09e3	ロケットだんを やっつけて くれたら。$
+## SaffronCity_PokemonCenter_1F_Text_TeamRocketTookOff::
+9fff6bd9b9670fe9	ロケットだんが にげだしたぞ!\n
+751c71bfa9222eab	また あんしんして でかけられる!\l
+9ef9f736b1c01613	よかったなあ!$

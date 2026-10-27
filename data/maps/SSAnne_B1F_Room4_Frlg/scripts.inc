@@ -12,25 +12,25 @@ SSAnne_B1F_Room4_EventScript_Duncan::
 	end
 
 SSAnne_B1F_Room4_Text_LeonardIntro::
-	.string "You know what they say about\n"
-	.string "sailors and battling!$"
+	.string "{JPN}ふなのりと いえば しょうぶ!\n"
+	.string "って いうだろ!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
-	.string "Right!\n"
-	.string "Good battle, mate!$"
+	.string "{JPN}よし!\n"
+	.string "いい しょうぶ だったぜ あいぼう!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
-	.string "Hahaha!\n"
-	.string "Want to be a sailor, mate?$"
+	.string "{JPN}ガッハッハ!\n"
+	.string "ふなのりに なるきは ないか?$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
-	.string "Come on, then!\n"
-	.string "My sailor's pride is at stake!$"
+	.string "{JPN}さあ こい!\n"
+	.string "ふなのりの プライドに かけて!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-	.string "Your spirit sank me!$"
+	.string "{JPN}おまえの きはくに しずめられた!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-	.string "Did you see the FISHING GURU in\n"
-	.string "VERMILION CITY?$"
+	.string "{JPN}クチバシティの つりの めいじんには\n"
+	.string "あったかい?$"
 

@@ -36,20 +36,20 @@ CeladonCity_DepartmentStore_4F_Items::
 	end
 
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
-	.string "I'm getting a present for my\n"
-	.string "girlfriend.\p"
-	.string "I guess a POKé DOLL will be it.\n"
-	.string "It's the popular thing.$"
+	.string "{JPN}かのじょに プレゼントを\n"
+	.string "かうんだ。\p"
+	.string "ピッピにんぎょうに しようかな。\n"
+	.string "にんきが あるからね。$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-	.string "I heard something useful.\p"
-	.string "If a wild POKéMON appears, you can\n"
-	.string "distract it with a POKé DOLL.\p"
-	.string "You can run away while the wild\n"
-	.string "POKéMON is distracted.$"
+	.string "{JPN}いいこと きいちゃった。\p"
+	.string "やせいの ポケモンが でたら\n"
+	.string "ピッピにんぎょうで きを ひけるの。\p"
+	.string "やせいの ポケモンが きを とられてる\n"
+	.string "あいだに にげられるんだって。$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-	.string "Express yourself with gifts!\n"
-	.string "4F: WISE MAN GIFTS\p"
-	.string "Evolution Special!\n"
-	.string "Element STONES on sale now!$"
+	.string "{JPN}おくりもので きもちを つたえよう!\n"
+	.string "4かい: ワイズマン ギフト\p"
+	.string "しんか とくしゅう!\n"
+	.string "しんかの いし はつばいちゅう!$"

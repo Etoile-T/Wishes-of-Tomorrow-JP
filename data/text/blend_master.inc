@@ -1,85 +1,85 @@
 BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
+	.string "{JPN}ブレンドマスター: いかにも!\n"
+	.string "わたしこそが ブレンドマスター!\p"
+	.string "わたしと まぜれば ブレンドの\n"
+	.string "ごくいを その めで みられるぞ!$"
 
 BerryBlender_Text_SeeMyMasteryInAction:
-	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-	.string "see my mastery in action?$"
+	.string "{JPN}ブレンドマスター: ふむ! わたしの\n"
+	.string "わざを みたいと いうのだな?$"
 
 BerryBlender_Text_TooBusyNowIsee:
-	.string "Hmmm!\p"
-	.string "So, you are too busy now, I see!\p"
-	.string "But fear not!\n"
-	.string "I shall be here all day!\l"
-	.string "Hurry back from your errand!$"
+	.string "{JPN}ふむ!\p"
+	.string "なるほど いまは いそがしいのだな!\p"
+	.string "だが しんぱい むよう!\n"
+	.string "わたしは いちにちじゅう ここに いる!\l"
+	.string "ようじを すませて はやく もどってこい!$"
 
 BerryBlender_Text_BlendMasterNoBerries:
-	.string "Hmmm!\p"
-	.string "You haven't got a single BERRY!\p"
-	.string "I shall be here all day!\n"
-	.string "Hurry back with some BERRIES!$"
+	.string "{JPN}ふむ!\p"
+	.string "きのみを ひとつも もっておらんな!\p"
+	.string "わたしは いちにちじゅう ここに いる!\n"
+	.string "きのみを もって はやく もどってこい!$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
-	.string "Of course!\n"
-	.string "Of course!\p"
-	.string "Incidentally…\n"
-	.string "You do know how to blend {POKEBLOCK}S\l"
-	.string "from BERRIES?$"
+	.string "{JPN}もちろん!\n"
+	.string "もちろんだとも!\p"
+	.string "ところで…\n"
+	.string "きのみから ポロックを つくる\l"
+	.string "やりかたは しっているかね?$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
-	.string "Hmmm!\p"
-	.string "Ah, but it is a simple process!\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
-	.string "the A Button, you will understand.$"
+	.string "{JPN}ふむ!\p"
+	.string "なに かんたんな ことだ!\p"
+	.string "ブレンダーの やじるしが じぶんの\n"
+	.string "マークに きたら Aボタンを おすだけ。\p"
+	.string "やることは それだけだ。\p"
+	.string "わたしが Aボタンを おす せいかくさを\n"
+	.string "みれば きっと わかるだろう。$"
 
 BerryBlender_Text_BlendMasterLetsBerryBlender:
-	.string "Fine!\p"
-	.string "Let's get started, then!\p"
-	.string "All together with the BLEND MASTER,\n"
-	.string "let's BERRY BLENDER!$"
+	.string "{JPN}よし!\p"
+	.string "では はじめるとしよう!\p"
+	.string "ブレンドマスターと いっしょに\n"
+	.string "きのみブレンダー スタート!$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
-	.string "Hmmm!\p"
-	.string "You don't appear to have gotten\n"
-	.string "the {POKEBLOCK} CASE!\p"
-	.string "I shall be here all day!\n"
-	.string "Obtain the {POKEBLOCK} CASE and hurry back!$"
+	.string "{JPN}ふむ!\p"
+	.string "どうやら ポロックケースを\n"
+	.string "まだ もっておらんようだな!\p"
+	.string "わたしは いちにちじゅう ここに いる!\n"
+	.string "ポロックケースを てにいれて もどってこい!$"
 
 BerryBlender_Text_BlendMasterPokeblockCaseFull:
-	.string "Hmmm!\p"
-	.string "Your {POKEBLOCK} CASE appears to be full!\p"
-	.string "I shall be here all day!\n"
-	.string "Use some {POKEBLOCK}S and hurry back!$"
+	.string "{JPN}ふむ!\p"
+	.string "ポロックケースが いっぱいのようだな!\p"
+	.string "わたしは いちにちじゅう ここに いる!\n"
+	.string "ポロックを つかって もどってこい!$"
 
 BerryBlender_Text_WhoaAwesome:
-	.string "Whoa!\n"
-	.string "Awesome!$"
+	.string "{JPN}うわあ!\n"
+	.string "すっげえ!$"
 
 BerryBlender_Text_WickedlyFast:
-	.string "Wickedly fast!$"
+	.string "{JPN}めちゃくちゃ はやい!$"
 
 BerryBlender_Text_WhatAnExpert:
-	.string "What an expert!$"
+	.string "{JPN}さすが たつじん!$"
 
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
+	.string "{JPN}マスターと いっしょに まぜたら\n"
+	.string "すごい ポロックが できたよ!$"
 
 BerryBlender_Text_QualitiesOfBlendMaster:
-	.string "Eyes that track the arrow with\n"
-	.string "machinelike intensity…\p"
-	.string "A hand that taps the A Button\n"
-	.string "with clockwork-like precision…\p"
-	.string "Possessing these qualities makes\n"
-	.string "the BLEND MASTER truly great.$"
+	.string "{JPN}やじるしを きかいのように\n"
+	.string "するどく おいかける め…\p"
+	.string "とけいじかけのような せいかくさで\n"
+	.string "Aボタンを たたく て…\p"
+	.string "それらを そなえてこそ\n"
+	.string "しんの ブレンドマスターなのだ。$"
 
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "The BLEND MASTER's supposed to work\n"
-	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
-	.string "to blend BERRIES all day long.$"
+	.string "{JPN}ブレンドマスターは ふだん やまおくで\n"
+	.string "うでを みがいている らしいよ。\p"
+	.string "ときどき ミナモに やってきて\n"
+	.string "いちにちじゅう きのみを まぜてるんだ。$"

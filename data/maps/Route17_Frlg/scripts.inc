@@ -26,133 +26,133 @@ Route17_EventScript_CyclingRoadSign::
 	end
 
 Route17_Text_RaulIntro::
-	.string "There's no getting rich quick in\n"
-	.string "battling kids.$"
+	.string "{JPN}こどもと しょうぶしても\n"
+	.string "てっとりばやく もうからねえな$"
 
 Route17_Text_RaulDefeat::
-	.string "Burned out!$"
+	.string "{JPN}もえつきた!$"
 
 Route17_Text_RaulPostBattle::
-	.string "You can find good stuff lying\n"
-	.string "around on CYCLING ROAD.\p"
-	.string "There's good money in picking them\n"
-	.string "up and selling them.$"
+	.string "{JPN}サイクリングロードには いいものが\n"
+	.string "おちてる ことが あるぜ\p"
+	.string "ひろって うれば\n"
+	.string "いい かねに なるんだ$"
 
 Route17_Text_IsaiahIntro::
-	.string "I'm mighty proud of my bod, kiddo.\n"
-	.string "Come on!$"
+	.string "{JPN}おれの からだは じまんなんだぜ ぼうず\n"
+	.string "かかってこい!$"
 
 Route17_Text_IsaiahDefeat::
-	.string "Whoo!$"
+	.string "{JPN}ふうっ!$"
 
 Route17_Text_IsaiahPostBattle::
-	.string "I could belly-bump you outta\n"
-	.string "here!$"
+	.string "{JPN}はらで つきとばして\n"
+	.string "やろうか!$"
 
 Route17_Text_VirgilIntro::
-	.string "You heading to FUCHSIA?$"
+	.string "{JPN}セキチクへ いくのか?$"
 
 Route17_Text_VirgilDefeat::
-	.string "Crash and burn!$"
+	.string "{JPN}こけて もえつきた!$"
 
 Route17_Text_VirgilPostBattle::
-	.string "I love racing downhill!$"
+	.string "{JPN}さかを くだるのが さいこうだぜ!$"
 
 Route17_Text_BillyIntro::
-	.string "We're BIKERS!\n"
-	.string "We rule the roads, man!$"
+	.string "{JPN}おれたちゃ ぼうそうぞく!\n"
+	.string "みちは おれたちの もんだぜ!$"
 
 Route17_Text_BillyDefeat::
-	.string "Smoked!$"
+	.string "{JPN}やられた!$"
 
 Route17_Text_BillyPostBattle::
-	.string "Are you looking for adventure?$"
+	.string "{JPN}ぼうけんを さがしてるのか?$"
 
 Route17_Text_NikolasIntro::
-	.string "Let VOLTORB electrify you!$"
+	.string "{JPN}ビリリダマで しびれさせて やる!$"
 
 Route17_Text_NikolasDefeat::
-	.string "Grounded out!$"
+	.string "{JPN}ショートした!$"
 
 Route17_Text_NikolasPostBattle::
-	.string "I got my VOLTORB at the abandoned\n"
-	.string "POWER PLANT.$"
+	.string "{JPN}ビリリダマは むじんはつでんしょで\n"
+	.string "つかまえたんだ$"
 
 Route17_Text_ZeekIntro::
-	.string "I leveled up my POKéMON, but it\n"
-	.string "won't evolve. Why?$"
+	.string "{JPN}ポケモンの レベルを あげたのに\n"
+	.string "しんか しないんだ なぜ?$"
 
 Route17_Text_ZeekDefeat::
-	.string "Why, you!$"
+	.string "{JPN}こいつめ!$"
 
 Route17_Text_ZeekPostBattle::
-	.string "Maybe some POKéMON need element\n"
-	.string "STONES to evolve.$"
+	.string "{JPN}しんかに いしが ひつような\n"
+	.string "ポケモンも いるのかもな$"
 
 Route17_Text_JamalIntro::
-	.string "I need a little exercise!$"
+	.string "{JPN}ちょっと うんどうが したいんだ!$"
 
 Route17_Text_JamalDefeat::
-	.string "Whew!\n"
-	.string "Good workout!$"
+	.string "{JPN}ふう!\n"
+	.string "いい うんどうに なった!$"
 
 Route17_Text_JamalPostBattle::
-	.string "I'm sure I lost weight there!$"
+	.string "{JPN}いまので やせたに ちがいない!$"
 
 Route17_Text_CoreyIntro::
-	.string "Be a rebel!$"
+	.string "{JPN}はんこう しようぜ!$"
 
 Route17_Text_CoreyDefeat::
-	.string "Aaaargh!$"
+	.string "{JPN}ぐあああっ!$"
 
 Route17_Text_CoreyPostBattle::
-	.string "Be ready to fight for your beliefs!$"
+	.string "{JPN}しんねんの ために たたかう かくごを しろ!$"
 
 Route17_Text_JaxonIntro::
-	.string "Nice BIKE!\n"
-	.string "How's it handle?$"
+	.string "{JPN}いい じてんしゃだな!\n"
+	.string "のりごこちは どうだ?$"
 
 Route17_Text_JaxonDefeat::
-	.string "Shoot!$"
+	.string "{JPN}ちくしょう!$"
 
 Route17_Text_JaxonPostBattle::
-	.string "The slope makes it hard to steer.$"
+	.string "{JPN}さかみちだと ハンドルが とられるぜ$"
 
 Route17_Text_WilliamIntro::
-	.string "Get lost, kid!\n"
-	.string "I'm bushed!$"
+	.string "{JPN}あっち いけ こぞう!\n"
+	.string "へとへと なんだ!$"
 
 Route17_Text_WilliamDefeat::
-	.string "Are you satisfied?$"
+	.string "{JPN}これで まんぞくか?$"
 
 Route17_Text_WilliamPostBattle::
-	.string "I need to catch a few z's!$"
+	.string "{JPN}ひとねむり しないと!$"
 
 Route17_Text_WatchOutForDiscardedItems::
-	.string "It's a notice.\p"
-	.string "Watch out for discarded items.$"
+	.string "{JPN}おしらせが ある\p"
+	.string "すてられた どうぐに ちゅうい!$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-	.string "TRAINER TIPS\p"
-	.string "All POKéMON are unique.\p"
-	.string "Even POKéMON of the same species\n"
-	.string "and level grow at different rates.$"
+	.string "{JPN}おとくな けいじばん!!\p"
+	.string "ポケモンは みんな こせいてき\p"
+	.string "おなじ しゅるいで おなじ レベルでも\n"
+	.string "そだつ はやさは ちがうのだ$"
 
 Route17_Text_PressBToStayInPlace::
-	.string "TRAINER TIPS\p"
-	.string "Press the B Button to stay in place\n"
-	.string "while on a slope.$"
+	.string "{JPN}おとくな けいじばん!!\p"
+	.string "さかみちで Bボタンを おすと\n"
+	.string "その ばに とまれるぞ$"
 
 Route17_Text_RouteSign::
-	.string "ROUTE 17\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "{JPN}17ばんどうろ\n"
+	.string "タマムシシティ - セキチクシティ$"
 
 Route17_Text_DontThrowGameThrowBalls::
-	.string "It's a notice!\p"
-	.string "Don't throw the game, throw POKé\n"
-	.string "BALLS instead!$"
+	.string "{JPN}おしらせが ある!\p"
+	.string "しょうぶを なげずに\n"
+	.string "モンスターボールを なげよう!$"
 
 Route17_Text_CyclingRoadSign::
-	.string "CYCLING ROAD\n"
-	.string "Slope ends here!$"
+	.string "{JPN}サイクリングロード\n"
+	.string "さかみちは ここまで!$"
 

@@ -29,12 +29,12 @@ PalletTown_PlayersHouse_2F_EventScript_Sign::
 	end
 
 PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
-	.string "{PLAYER} played with the NES.\p"
-	.string "…Okay!\n"
-	.string "It's time to go!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ファミコンで あそんだ。\p"
+	.string "……よし!\n"
+	.string "そろそろ いこう!$"
 
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
-	.string "It's a posted notice…\p"
-	.string "If you're confused, ask for HELP!\n"
-	.string "Press the L or R Button!$"
+	.string "{JPN}はりがみが してある……\p"
+	.string "こまったときは ヘルプを みよう!\n"
+	.string "Lボタンか Rボタンを おしてね!$"
 

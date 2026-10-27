@@ -121,58 +121,58 @@ RocketHideout_B4F_EventScript_RemoveBarrier::
 	return
 
 RocketHideout_B4F_Text_GiovanniIntro::
-	.string "So! I must say, I am impressed you\n"
-	.string "got here.\p"
-	.string "TEAM ROCKET captures POKéMON from\n"
-	.string "around the world.\p"
-	.string "They're important tools for keeping\n"
-	.string "our criminal enterprise going.\p"
-	.string "I am the leader, GIOVANNI!\p"
-	.string "For your insolence, you will feel a\n"
-	.string "world of pain!$"
+	.string "{JPN}ほう! ここまで くるとは\n"
+	.string "たいした ものだ\p"
+	.string "ロケットだんは せかいじゅうの\n"
+	.string "ポケモンを つかまえている\p"
+	.string "ポケモンは われらの はんざいを\n"
+	.string "ささえる だいじな どうぐなのだ\p"
+	.string "わたしが リーダーの サカキだ!\p"
+	.string "なまいきな おまえには\n"
+	.string "いたい めに あって もらおう!$"
 
 RocketHideout_B4F_Text_GiovanniDefeat::
-	.string "WHAT!\n"
-	.string "This can't be!$"
+	.string "{JPN}なんだと!\n"
+	.string "そんな ばかな!$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
-	.string "I see that you raise POKéMON with\n"
-	.string "utmost care.\p"
-	.string "A child like you would never\n"
-	.string "understand what I hope to achieve.\p"
-	.string "I shall step aside this time!\p"
-	.string "I hope we meet again…$"
+	.string "{JPN}おまえは ポケモンを\n"
+	.string "たいせつに そだてているようだ\p"
+	.string "おまえのような こどもに わたしの\n"
+	.string "のぞみは わかるまい\p"
+	.string "こんかいは ひいて やろう!\p"
+	.string "また あいたい ものだな…$"
 
 RocketHideout_B4F_Text_Grunt2Intro::
-	.string "I know you!\n"
-	.string "You ruined our plans at MT. MOON!$"
+	.string "{JPN}おまえ しってるぞ!\n"
+	.string "おつきみやまで じゃまを したな!$"
 
 RocketHideout_B4F_Text_Grunt2Defeat::
-	.string "Burned again!$"
+	.string "{JPN}また やられた!$"
 
 RocketHideout_B4F_Text_Grunt2PostBattle::
-	.string "Do you have something against TEAM\n"
-	.string "ROCKET?$"
+	.string "{JPN}ロケットだんに なにか\n"
+	.string "うらみでも あるのか?$"
 
 RocketHideout_B4F_Text_Grunt3Intro::
-	.string "How can you not see the beauty of\n"
-	.string "our evil?$"
+	.string "{JPN}われらの あくの うつくしさが\n"
+	.string "なぜ わからない?$"
 
 RocketHideout_B4F_Text_Grunt3Defeat::
-	.string "Ayaya!$"
+	.string "{JPN}あややっ!$"
 
 RocketHideout_B4F_Text_Grunt3PostBattle::
-	.string "BOSS!\n"
-	.string "I'm sorry I failed you!$"
+	.string "{JPN}ボス!\n"
+	.string "しっぱいして すみません!$"
 
 RocketHideout_B4F_Text_Grunt1Intro::
-	.string "The elevator doesn't work?\n"
-	.string "Who has the LIFT KEY?$"
+	.string "{JPN}エレベーターが うごかない?\n"
+	.string "エレベータのカギは だれが もってる?$"
 
 RocketHideout_B4F_Text_Grunt1Defeat::
-	.string "No!$"
+	.string "{JPN}うわっ!$"
 
 RocketHideout_B4F_Text_Grunt1PostBattle::
-	.string "Oh, no!\n"
-	.string "I dropped the LIFT KEY!$"
+	.string "{JPN}しまった!\n"
+	.string "エレベータのカギを おとしちまった!$"
 

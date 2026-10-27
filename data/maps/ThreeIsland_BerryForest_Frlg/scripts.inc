@@ -60,45 +60,45 @@ ThreeIsland_BerryForest_EventScript_BewareSign::
 	end
 
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-	.string "LOSTELLE: Whimper… Sniff…\n"
-	.string "Oh! Please, help!\p"
-	.string "A scary POKéMON appeared there\n"
-	.string "a little while ago.\p"
-	.string "It kept scaring.\n"
-	.string "It made LOSTELLE scared.\p"
-	.string "I'm too scared to move!\n"
-	.string "But I want to go home…$"
+	.string "{JPN}ロステル: ぐすん… ひっく…\n"
+	.string "あっ! おねがい たすけて!\p"
+	.string "さっき あそこに こわい\n"
+	.string "ポケモンが でてきたの\p"
+	.string "ずっと おどかしてきて\n"
+	.string "ロステル こわく なっちゃった\p"
+	.string "こわくて うごけないよ!\n"
+	.string "でも おうちに かえりたい…$"
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
-	.string "Oh! Here it comes again!\n"
-	.string "No! Go away! It's scaring me!\p"
-	.string "Waaaaaaah!\n"
-	.string "I want my daddy!$"
+	.string "{JPN}あっ! また きた!\n"
+	.string "いや! あっちいって! こわいよ!\p"
+	.string "うわーん!\n"
+	.string "パパー!$"
 
 ThreeIsland_BerryForest_Text_ThankYouHaveThis::
-	.string "Ohh! That was so scary!\n"
-	.string "Thank you!\p"
-	.string "LOSTELLE came to pick some\n"
-	.string "BERRIES.\p"
-	.string "You can have this!$"
+	.string "{JPN}ああ! すごく こわかった!\n"
+	.string "ありがとう!\p"
+	.string "ロステル きのみを\n"
+	.string "とりに きたの\p"
+	.string "これ あげる!$"
 
 ThreeIsland_BerryForest_Text_LetsGoHome::
-	.string "What's your name?\p"
-	.string "LOSTELLE's scared, so can I go\n"
-	.string "with you to my daddy's house?\p"
-	.string "Okay!\n"
-	.string "Let's go home!$"
+	.string "{JPN}おなまえ なんていうの?\p"
+	.string "ロステル こわいから パパの おうちまで\n"
+	.string "いっしょに いっても いい?\p"
+	.string "うん!\n"
+	.string "おうちに かえろう!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
-	.string "Your BERRY POUCH is full.\n"
-	.string "I guess you don't want this.$"
+	.string "{JPN}きのみぶくろが いっぱいだね\n"
+	.string "これ いらないみたいだね$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
-	.string "Welcome to the BERRY FOREST\p"
-	.string "Be friendly and share BERRIES with\n"
-	.string "others and POKéMON.$"
+	.string "{JPN}ようこそ きのみのもりへ\p"
+	.string "なかよく きのみを ひとや\n"
+	.string "ポケモンと わけあいましょう$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
-	.string "Beware of wild, BERRY-loving\n"
-	.string "POKéMON!$"
+	.string "{JPN}きのみが すきな やせいの\n"
+	.string "ポケモンに ちゅうい!$"
 

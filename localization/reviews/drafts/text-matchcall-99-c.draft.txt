@@ -1,0 +1,870 @@
+##### data/text/match_call.inc
+## MatchCall_BattlePyramidText10::
+dbe5dd3fd101bd86	あら {PLAYER}{KUN} こんにちは。\n
+2ba9a11525096533	{STR_VAR_1}です。\p
+fb65cc19cb7d8fb0	{STR_VAR_3}かいまで のぼったの?\n
+292700c1028382a7	{STR_VAR_2}を?\p
+f1c758f41342ab2a	それは たいした ものね。\n
+326238389815d5af	わたしも がんばらなくちゃ。$
+## MatchCall_BattlePyramidText11::
+c390f04fea9dba5b	ああ {PLAYER}{KUN}。\n
+71ad78a63a0c4f8a	{STR_VAR_1}だよ。\p
+176229e03fb60573	きみ おそれられてる らしいね\n
+8bd6f912dcccef91	{STR_VAR_2}で!\p
+b67deb4118e55f16	{STR_VAR_3}かいも かちぬいたんだって?\n
+5d5f27f94292f538	それって けっこう すごい ことだよ。\p
+682a69ac5e795fd5	いつか なれるのかな…\n
+61270a8ac83e0e27	チャンピオンに。\p
+ac2801de9d1ec1c8	…まあ むり かな?\n
+c324106491b6c33c	じゃ またね!$
+## MatchCall_BattlePyramidText12::
+47c9e4b97b50f054	こんにちは {PLAYER}{KUN}。\n
+ee07cd4d423b3363	{STR_VAR_1}です。\l
+24c28e43d602066c	おげんき ですか?\p
+6913aa259d9042ea	{STR_VAR_3}かいも かちぬいたって\n
+48b04bd3e63219be	{STR_VAR_2}って ところで?\p
+68d7af524a28b1db	たいした おはなし ですね。\n
+8eb6166323b9c43a	では また!$
+## MatchCall_BattlePyramidText13::
+3b490bdafd0d23d7	あら こんにちは {PLAYER}{KUN}!\n
+c05450b19203405f	{STR_VAR_1}です!\l
+c56c12d68303cb6c	おげんきに してましたか?\p
+c40bdc337a1724c9	うわさでは {STR_VAR_3}かいまで\n
+843f591d2a1c1227	{STR_VAR_2}を のぼったとか?\p
+8fe7bf13756d6905	その げんきさ みならいたいわ!\n
+dae2b65fff8be5a0	それじゃあ。$
+## MatchCall_BattlePyramidText14::
+b6f2460ac57dc42f	あ やあ {PLAYER}{KUN}。\n
+4fcb274c4e430391	{STR_VAR_1}だよ。\l
+81a3a766759fcd8f	うわさ きいたよ!\p
+26deb61ffd7eca0f	{STR_VAR_3}かいも とっぱしたって\n
+6bdfa106abb76b33	{STR_VAR_2}で ほんとう?\p
+94db5d3446212f58	すごく はげみに なるよ!\n
+fdb41f5db8a31a36	また ね!$
+## MatchCall_Text_Mom1::
+0e447511dcbb702a	ママ: パパも あなたも…\n
+17045d4a5c93e4f2	みんな ポケモンに むちゅうね。\p
+2579f409a611844e	ポケモンの みりょくって なにかしら?\p
+b947503f32722dfe	わたし?\n
+273f826f804ef77d	わたしは まいにちの かじを\l
+841679fe8c40a2f3	てつだってくれる ポケモンが だいすき。$
+## MatchCall_Text_Mom2::
+be692da1b02559b8	ママ: もしもし {PLAYER}!\n
+d8dbd67f500b33b6	パパったら トウカジムに\l
+92cebb209a3a790c	こもりっきり なのよ。\p
+8b963e2fd8304ad5	ときどき かえってくるんだけど\n
+75577b53b35818c2	たべるだけ たべたら\l
+ea46dda7bec0de9e	また ジムに もどっていくの。\p
+02e16384eed873d3	あなたに まけたのが\n
+85a09d6ff7e6b1f9	よっぽど くやしかったのね!$
+## MatchCall_Text_Mom3::
+f6a996f5e74eecad	ママ: {PLAYER}…\n
+8aff87a06250e89d	ママや いえの ことは しんぱい しないで。\p
+86ef885cbdfdacc7	ランニングシューズが ボロボロに\n
+3c727ac17353f44a	なるまで はきつぶしてね!$
+## MatchCall_Text_Roxanne_Preparing::
+b4ced27cbb0577ec	ツツジ: あら {PLAYER}さん!\p
+2c38d9d28aecee64	あの たたかいの あと\n
+22d0dbbc07d75635	いちから きたえなおしています。\p
+000a5d8105e061b2	ジムを さいかい するには\n
+a3ecc34c0b8d248a	もう すこし じかんが かかりそうです。\p
+9825b8ef42100f6a	でも さいかい したら ぜひ ジムに\n
+d4e837ebc7a1158f	さいせんに きてくださいね!$
+## MatchCall_Text_Roxanne_PreparingPostGame::
+c7d81de7e8b63e6f	ツツジ: {PLAYER}さん ですか?\n
+00c9afaf11a3bdb2	おめでとう ございます!\l
+f9ff1bb7e4d8399d	おうわさは きいていますよ!\p
+d87bd85e3b2294b5	わたしの ほうは ジムの さいかいに\n
+de012fa3499be42f	もう すこし じかんが かかりそうです。\p
+e335343eeb0da712	でも さいかい したら ぜひ ジムに\n
+1ef3f68d4f06507c	さいせんに きてくださいね!$
+## MatchCall_Text_Roxanne_RematchReady::
+36ade78c1e8cafdb	ツツジ: {PLAYER}さん!\n
+baae18bd8b521015	ジムの じゅんびが ととのいました!\p
+24b2946889467f60	いつでも カナズミに\n
+5a1ae8083929f36c	きてくださいね!$
+## MatchCall_Text_Roxanne_PostRematch::
+4976485a9f0272aa	ツツジ: カナズミジムに とって\n
+82c6496fb74147ff	{PLAYER}さんと たたかえたことは\l
+fa21c16c94c9a8c6	ほこり なんです。$
+## MatchCall_Text_Brawly_Preparing::
+2e8ca327ce5921f3	トウキ: よう {PLAYER}{KUN}!\p
+56f068bc84a70f50	きみとの たたかいで\n
+75ce57865e32da1f	いろいろ まなんだよ。\p
+5ad4f33e67f96877	トレーニングを いちから やりなおして\n
+65097ab794060efb	ジムを さいかい する つもりだ。\p
+16bd5cbc937af3d0	ジムを また ひらけるように なるまで\n
+8be8920a6f2db38f	しばらく かかりそうだけど。\p
+97c89303f7c64baa	でも ジムを さいかい できたら\n
+f1fb7064899d825b	また ちょうせんしに きてくれよな。$
+## MatchCall_Text_Brawly_PreparingPostGame::
+0b4412f5d9b969f8	トウキ: よう {PLAYER}{KUN}!\n
+0f46388479d2274a	おめでとう!\p
+4be2c3c3ace805de	きみの かつやくの うわさは\n
+e6981569e3bed0ce	しおかぜに のって とどいたぜ!\p
+d363ec84a08ff840	おれも もっと トレーニング\n
+8d4242b30fa84200	しなくちゃ いけない みたいだ。\p
+651b122c8cdf5847	ジムを また ひらけるように なるまで\n
+c0ca65a5e52ff477	しばらく かかりそうだけど。\p
+404cd0f62f18a472	でも ジムを さいかい できたら\n
+55c10abdd9bd01e5	また ちょうせんしに きてくれよな。$
+## MatchCall_Text_Brawly_RematchReady::
+fcbd9df3af8fb938	トウキ: よう {PLAYER}{KUN}!\n
+8dbcb3d7d56d41b3	ジムの じゅんびは ばっちりだ!\p
+fe2c808cfdba576a	いつでも ムロに\n
+fd9cc2e4e2860524	ちょうせんしに きてくれ!$
+## MatchCall_Text_Brawly_PostRematch::
+18008a64d61f1516	トウキ: {PLAYER}{KUN}との しょうぶは\n
+61cf9410f8a1cde7	ぜったい あきることが ないぜ!$
+## MatchCall_Text_Wattson_Preparing::
+ce34e28001494f1f	テッセン: おお きみか!\p
+9de95065a011d722	きみが さってから わしは\n
+beb01eec2a846695	いちから しゅぎょうの やりなおしじゃ。\p
+6dc4e33cd546e7df	ジムを さいかい するには\n
+14eb1fab599a8354	もう ちょっと じかんが いるのう。\p
+dc2a84fb1ad650f6	それまで まっとって くれい!\n
+0089727133a41553	ウワッハッハッハ!$
+## MatchCall_Text_Wattson_PreparingPostGame::
+e0a50597dc3353a3	テッセン: ウワッハッハッハ!\p
+60e979a2df53e47f	ついに やりおったな?\n
+3f1098ebac62120c	きみの うわさは きいとるぞ!\p
+e7b65ce56646c2a8	わしは もう すこし\n
+ec7e744b82fdd821	しゅぎょうを つまねば ならんようじゃ。\p
+eadeb8e23a7ee078	ジムを さいかい するには\n
+dc3971f6f82de332	もう ちょっと じかんが いるのう。\p
+7255592b94f29d2b	それまで まっとって くれい!\n
+413477d56c08a746	ウワッハッハッハ!$
+## MatchCall_Text_Wattson_RematchReady::
+619d3915ed13c55a	テッセン: おお きみか!\n
+adff4d0d44a862b6	ジムの じゅんびが できたぞ!\p
+cda334a025d0fc65	いつでも キンセツに きなされ!\n
+d7d08d0423ba2e37	ウワッハッハッハ!$
+## MatchCall_Text_Wattson_PostRematch::
+3346fd95a18bfbb9	テッセン: ウワッハッハ!\p
+599e65e2fc8089f2	きみとの しょうぶは いつも\n
+09b8da1d7b480b24	ビリビリ しびれる パワーじゃ!$
+## MatchCall_Text_Flannery_Preparing::
+cd0310b9a4eaec9d	アスナ: {PLAYER}…\p
+0b29e188ffa58692	たたかって あたしが どれだけ\n
+6a7bb47c6a70e67e	みじゅく だったか よく わかった。\p
+456ec649d6a4afe8	でも まだ おわりじゃない!\p
+60adf48a848fe853	しゅぎょうを やりなおして\n
+a9fc26a2536a5be2	ジムを さいかい するんだ。\p
+d583d0b46eeb6e37	そのときが きたら {PLAYER}\n
+f77788004766acbe	また ちょうせんしに きてね。$
+## MatchCall_Text_Flannery_PreparingPostGame::
+2584436521bbe1cb	アスナ: もしもし {PLAYER}?\n
+6eec0b5c8ecf4f8e	おめでとう!\p
+b28e2ea5abcfa201	きみの かつやくの しらせが\n
+f12df2794761858a	かざんの ねつみたいに とどいたよ!\p
+6fd4b383ea205c27	こっちの しゅぎょうも\n
+6424e1820225f7ba	じゅんちょうに すすんでるよ。\p
+0682e73b16a945d6	ジムの じゅんびが できたら\n
+f1fba1460200f40b	エントリーコールの リストの\l
+f2b04db7e476df54	あたしの なまえの よこに しるしが でるよ。$
+## MatchCall_Text_Flannery_RematchReady::
+9dcc3fac3516b025	アスナ: あ {PLAYER}?\n
+7cbfc6b414a48429	ジムの じゅんびが できたよ!\p
+e9d40ede698d84fc	フエンに きて おんせんに つかって\n
+5454afde9ab8263d	ちょうせんしてね!$
+## MatchCall_Text_Flannery_PostRematch::
+312a530edbee5dc6	アスナ: {PLAYER}…\n
+fa2a9baacc1d5407	きみは たたかうたびに どんどん\l
+9e06fd5e9d03455d	つよく なってるって かくしんしてる。$
+## MatchCall_Text_Winona_Preparing::
+7f92298fa45b89e3	ナギ: こんにちは {PLAYER}さん!\p
+218df33c7dd2214d	あなたとの たたかいで\n
+007086ea90eacf91	じぶんの よわさが わかりました!\p
+cc84520d59424bc3	ジムを さいかい したら\n
+102f7e41e4ec4c97	もう まけは しません!$
+## MatchCall_Text_Winona_PreparingPostGame::
+df2257dc26f2054d	ナギ: やりましたね {PLAYER}さん!\p
+6e82ac38b11b2dd9	あたらしい チャンピオンの しらせは\n
+46d876c771d309e3	ここ ヒワマキにも とどいています!\p
+1af994ac3c088372	でも… こんど たたかうときは\n
+faba9713b0abfbb5	おなじ けっかには なりませんよ。$
+## MatchCall_Text_Winona_RematchReady::
+191728611b8d2ea0	ナギ: {PLAYER}さん ですか?\n
+f4b46f6cf6434537	ジムを さいかい しました!\p
+0b243c9e26f335ba	ヒワマキで おまちしています!$
+## MatchCall_Text_Winona_PostRematch::
+5cadf6e48a970d6d	ナギ: {PLAYER}さん…\n
+578762fed5051934	まけは しましたが わたしの つばさは\l
+6a9e1cf2fb9659cd	けっして おれません。\p
+4ac1fcd7c69797f9	そう… あなたが けっして ゆめを\n
+5220ae0a964305c3	みうしなわなかった ように。$
+## MatchCall_Text_TateLiza_Preparing::
+d34d267f3abebc42	フウ: あっ! きみは…\n
+5da240a840776cab	ラン: {PLAYER}!\p
+f1867785b9587c9e	フウ: ぼくたち また しゅぎょう ちゅう…\n
+70dff4b026d4debd	ラン: ジムを さいかい するために!\p
+442837959295e1f6	フウ: ジムの じゅんびが できたら…\n
+7771bb6aa240c411	ラン: ジムの じゅんびが できたら…\p
+fc4b049f275fa9f0	フウ: なまえの よこに しるしが でるよ…\n
+9f6ce65c61456bd2	ラン: エントリーコールの リストにね。$
+## MatchCall_Text_TateLiza_PreparingPostGame::
+6406ff471a659b90	フウ: {PLAYER} おめでとう!\n
+1b974b4612aa2aa7	ラン: {PLAYER} おめでとう!\p
+080b1e75734ef4f7	フウ: ぼくたち ふたりは…\n
+79ac46c10f7ca9c1	ラン: まだ しゅぎょう ちゅう!\p
+fe2ebdb2c9a81d19	フウ: もう すこし かかるけど…\n
+e8976a3ede32e08e	ラン: ジムの じゅんびが できたら…\p
+01b3dd2819649b82	フウ: なまえの よこに しるしが でるよ…\n
+1eba24680a0d33eb	ラン: エントリーコールの リストにね。$
+## MatchCall_Text_TateLiza_RematchReady::
+12b17e44257bbd7f	フウ: {PLAYER}!\n
+08bf47f75ca7f0b1	ラン: {PLAYER}!\p
+3c65f0940f50da81	フウ: ジムの じゅんびが できたよ!\n
+e022eb26fc412adb	ラン: ジムの じゅんびが できたよ!\p
+0bf566bf978140a5	フウ: いつでも あそびに きてね…\n
+4e9f44f66275d997	ラン: トクサネに!$
+## MatchCall_Text_TateLiza_PostRematch::
+6990697692d5f122	フウ: {PLAYER}との たたかいは…\n
+c7f91d057747a672	ラン: かけがえのない けいけんだよ。\p
+2dfdd22c15fc58be	フウ: また みんなで…\n
+05ebd4a77b5b5a0b	ラン: たたかえたら いいね!$
+## MatchCall_Text_Juan_Preparing::
+5bebaba1d88d809e	アダン: ふむ…\n
+0874babf80c742ae	{PLAYER}{KUN}… でしたね?\p
+52eb524de90591d0	あなたとの たたかいは\n
+a06b81fc7264e7b8	わたしが はじめて ミクリと であった\l
+5615f016f2281a45	ときの ことを おもいださせました。\p
+062997f1b749af85	もしかすると あなたは いずれ\n
+9b759db1c9db06db	ミクリをも こえる てんさい かもしれません!$
+## MatchCall_Text_Juan_PreparingPostGame::
+c72d37a6f8bd4444	アダン: ふふ… {PLAYER}{KUN}…\n
+0645d3c81053b887	ついに もくてきを はたしましたね。\p
+1a2fc4579d78eafe	わたしの めききに\n
+0b11fe370519b8df	くるいは なかった…\p
+0bb659acdf90c76a	ちからと めいよの いただきに のぼった\n
+58407aecef251115	あなたに また\l
+1e14c57a0eee8b05	あいたい ものです。$
+## MatchCall_Text_Juan_RematchReady::
+3dce56e4b85757c3	アダン: ほほ… {PLAYER}{KUN}…\p
+dfef67149d03e723	わたしたちの ルネジムも ついに\n
+9a9707d4ce5b10db	さいかい しました。\p
+b0801f98025c479d	わたしに あいたければ\n
+03c38d6ccdb6b602	いつでも おこしください。$
+## MatchCall_Text_Juan_PostRematch::
+a815aed8bbf282cd	アダン: {PLAYER}{KUN}…\p
+853e06104bcc3b94	さいこうの おんがくの ように\n
+df687184a4b03998	わたしたちの たたかいは わたしの\l
+90e7629247e13043	こころに インスピレーションを ひびかせる…\p
+27955be0a9f6bf63	めを とじると メロディに のって\n
+2041b89e6664e91e	まいあがる あなたの すがたが みえる…$
+## MatchCall_Text_Sidney::
+c3a5e9397b0071ae	カゲツ: よう {PLAYER}!\p
+d6c684bf90649ac5	おれと また しょうぶ したけりゃ\n
+e3acbf7ba0bcb722	いつでも すきなときに\l
+5816c707e4e09b40	ポケモンリーグに もどってきな。\p
+ae3de914c02a3de4	おれは いつでも ここに いるぜ!\n
+829013db668583fe	まってるからな!$
+## MatchCall_Text_Phoebe::
+b53c3f513a77e012	フヨウ: やっほー {PLAYER}!\p
+ea170be0b216b957	また いつか ここに\n
+7512fb91d6942b4c	きてみない?\p
+5ebab07a7268c7cb	あなたと ポケモンの きずなが\n
+48f47078d0581c82	どれだけ ふかく なったか\l
+62b946e572b7c7ec	みてみたいな。$
+## MatchCall_Text_Glacia::
+8da85f50631a7994	プリム: こんにちは {PLAYER}。\p
+8990412bf5e958aa	じぶんの ちからに\n
+15f97fcfd07248fe	まんぞく してしまっては いませんか?\p
+f4fe70cb313fc822	もし その あつい きもちを すこし\n
+f7c95f94fdcae920	ひやしたく なったら\l
+ad06514b07aaff33	ポケモンリーグへ いらっしゃい…$
+## MatchCall_Text_Drake::
+89911fc9c357f22f	ゲンジ: その こえ… {PLAYER}か?\n
+54849fa43e911392	げんき そうだな…\p
+b187a29ebe25b954	きけば いまは\n
+4411d7d2847761e8	バトルフロンティア という\l
+73dba47979458cd5	トレーナーの うでを ためす\l
+3fae41802408ad71	しせつが あるそうだな。\p
+c509af25aa57429a	だが ほんとうの しょうぶを\n
+bb4f654f06cb5fc0	のぞむなら ポケモンリーグに\l
+7dc6891634135327	まさる ものは ない!\p
+2c2f14554f090b49	そうは おもわんか {PLAYER}?$
+## MatchCall_Text_Wallace::
+0197ae72b53eead8	ミクリ: やあ {PLAYER}{KUN}。\n
+584ed1f2b6aabafb	ダイゴには あったかい?\p
+35b1e4a93f8c9a6a	かれは…\n
+2a44ca99dafb7801	じつは ものすごく つよいんだ。\p
+cccec41f95a88e6f	だけど めったに たたかわない\n
+a98489c01ba6bcd5	かわりものでね。\p
+f2a5a3a462710e01	そのかわり めずらしい いしを\n
+8ca6f626672ef181	さがす ほうが すきなんだ。\p
+faaf8cbc53730fd3	きっと どこかの どうくつか\n
+e1d1bdc286e82e8a	けわしい やまで ほっているよ。\p
+8ab60b880207046a	でも めずらしい いしって なんだろう?\n
+447d44d749201b7e	わたしには いんせき ぐらいしか おもいつかない…$
+## MatchCall_Text_MayRayquazaCall:
+2d6f68d8955f1346	… … … … … …\n
+71d7826a9405cd97	… … … … … ピッ!\p
+dc3d0a8aa8e19ebb	ハルカ: もしもし {PLAYER}{KUN}!\p
+65cf3bc3a9c289d1	さっき ちょっと キナギに\n
+9ca051aed31c2ad5	いたんだけど。\p
+a4729fd48df3f22b	みどりいろの おおきな ポケモンが\n
+3d04db0ec0006b69	そらたかく とんでいたの。\p
+e88a0e41cbb39ce4	あたし…\n
+fb63250f83f8de7d	あんなの はじめて みたよ。\p
+eb4d094bd2f7abd9	なんだったんだろう。\n
+3f6dbeee42f879c4	もしかして だいはっけん かも?\p
+4555dece46c6e486	… … … … … …\n
+c2beca01a2169423	… … … … … プツッ!$
+## MatchCall_Text_BrendanRayquazaCall:
+97d03d2a4ff1cca8	… … … … … …\n
+f49385cb73a22656	… … … … … ピッ!\p
+fc01995f22b8cd0b	ユウキ: よう {PLAYER}!\n
+d7bf2e20a560d6cf	いま キナギに いたんだ。\p
+0b7bba2967d9f490	みどりいろの でっかい ポケモンが\n
+4d3a2451c009e864	そらを とんでいったんだ。\p
+0e3dfdaed6065a16	あんな すごいの\n
+dc08b143448f4fe5	はじめて みたよ。\p
+8f1bc54de1cff000	きみにも みせたかったな\n
+a78fd26668ad75c2	{PLAYER}。\p
+cd4fc70780095a4f	… … … … … …\n
+25d7ea082ef281ef	… … … … … プツッ!$
+## MatchCall_Text_May1::
+ea86cffe22be7c47	ハルカ: もしもし {PLAYER}{KUN}!\p
+cb4fa428e3b78c35	ハギさんは ふなのりを いんたい したけど\n
+bd14f80c67c6c92d	いまでも ときどき うみで\l
+2bf8b4db40376082	ピーコちゃんと いっしょの すがたを みかけるよ。\p
+273cc4cd217e516d	やっぱり うみが すきなんだね。$
+## MatchCall_Text_May2::
+00509a959eeaeaa6	ハルカ: もしもし {PLAYER}{KUN}!\p
+a13cf094a8417df0	トウカや ムロみたいな ちいさな まちにも\n
+86aead2389cecd78	ジムが あるでしょ?\p
+29bd7faf7d553152	なのに なぜか おおきな みなとまちの\n
+14a7f6d69f5a97f6	カイナには ジムが ないんだよね。\p
+d0c6c1012f1ae778	いつか そこに ジムが できたら\n
+0ac3ec996f5923cd	あたし リーダーに りっこうほ しようかな。$
+## MatchCall_Text_May3::
+cf09f7ce06caa6fa	ハルカ: もしもし {PLAYER}{KUN}!\p
+d3c6da35644e1b16	カナズミの いあいぎりオヤジって\n
+8e348934a392ca08	おぼえてる?\l
+a847819ff803cb12	あそこに いえが あったでしょ?\p
+8f63b25fc285d761	それでね その おとうとが\n
+9db32457baa46eb9	キンセツに すんでるんだって。\p
+dca2688ad1cdaf19	なまえ わかる?\p
+8986347469e3251c	… … … … … …\n
+5516908b9508985d	… … … … … …\p
+bf7c0c90f2a32873	いわくだきオヤジ!$
+## MatchCall_Text_May4::
+f0c71d95ee9aa7f4	ハルカ: {PLAYER}{KUN}?\p
+8615230ec666b1f3	カナシダトンネル…\n
+0686ad729a0f767a	カナズミと シダケを つなぐから\l
+63776e96989714e9	そういう なまえ なんだって。$
+## MatchCall_Text_May5::
+5b6e1a8a0b3ef251	ハルカ: {PLAYER}{KUN} げんき?\p
+23c526b33cfcd04a	あたし いま 111ばんどうろに いるの。\p
+41c26f91ad08008e	おばあさんの いえで\n
+e70379ea942891ab	ひとやすみ するつもり。\p
+4acb86e60e5a7289	さばくの すぐ きたに\n
+b10abb6030dbaad7	すんでるんだよ。$
+## MatchCall_Text_May6::
+bfb76e670d5b59e4	ハルカ: もしもし {PLAYER}{KUN}!\p
+0ecd410ec63644ac	さばくの まぼろしのとうって\n
+e139fae56916d183	しってる?\p
+60886816dfb7f392	しんきろうの ように ふしぎと\n
+d2507384d699394c	あらわれたり きえたり するんだって。\p
+b44018e403c67c03	あたしも みてみたいな。$
+## MatchCall_Text_May7::
+61691fa798bbcb63	ハルカ: {PLAYER}{KUN} やっほー!\n
+8e0e181ee2029b94	いま 119ばんどうろに いるの。\p
+850545f6a8a1775a	おおきな かわが あって\n
+c4de3d994037af89	よく あめが ふるんだ。\p
+18413466033d704b	びしょぬれに なっちゃった!$
+## MatchCall_Text_May8::
+13c763fc7839d7ca	ハルカ: {PLAYER}{KUN} もしもし。\p
+de670956b3be9453	おくりびやまは なくなった ポケモンの\n
+e1f0ae5fd730a7bc	ための おはか なの。\p
+cf9c74c1a9061054	そのせい なのか ゴーストタイプの\n
+8d136bac37af67e0	ポケモンが たくさん いるんだよ!$
+## MatchCall_Text_May9::
+158d0dc892711026	ハルカ: もしもし {PLAYER}{KUN}!\p
+06311ae0467acbac	フエンの おんせんに\n
+b3bf5e8a787fc0f6	いこうと おもってたんだけど。\p
+6d6c4ab32efde15a	でも とちゅうの えんとつやまのさか\n
+394708a9595d12d6	あたりで あやしい れんちゅうに\l
+8a7e5f83a3d85933	であったの。 ふんいき わるかったよ!$
+## MatchCall_Text_May10::
+ae42ecf874efc4a8	ハルカ: もしもし {PLAYER}{KUN}!\n
+e265181c9c4f9788	ニュース みた?\p
+638caf404cba4eb7	クスノキかんちょうが せんすいかんでの\n
+6ec89378ec5fc7c1	ちょうさ ちゅうに\l
+7a73515f1ec9e8b9	かいていどうくつを はっけん したんだって。$
+## MatchCall_Text_May11::
+7287a308661480f1	ハルカ: もしもし {PLAYER}{KUN}!\n
+8a52608b581bcfd4	すごいと おもわない?\p
+cbe870ab38613c9a	ふねが なくても\n
+5290b23fed06476a	ポケモンの わざで\l
+621b7f6204427c2d	うみを わたれるんだよ。\p
+fc6d60445ee7e976	それだけじゃ ないんだよ?\p
+9bfcb73e6122690e	うみの そこまで いける\n
+4a2b02f2191afa38	ポケモンの わざも あるの。$
+## MatchCall_Text_May12::
+4910b639c7ed2af1	ハルカ: もしもし {PLAYER}{KUN}!\n
+72be38a9572fe6c0	げんきに してる?\p
+453a8532760fec42	うみを すすんでいて むこうがわへ\n
+db9798f1cd5d1acd	いけなくて こまった\l
+c6a02ac3fa791374	ことは ない?\p
+0ee4c942d7e45224	そういうときは うみに ふかく もぐって\n
+15da24340517dda1	かいこうに そって すすんでみて。\p
+18da545e69de05c8	むこうがわに ついたら\n
+e1b786339d733b86	うきあがれば いいの。 かんたんでしょ!$
+## MatchCall_Text_May13::
+bbedcb1049e69932	ハルカ: もしもし {PLAYER}{KUN}!\p
+844d7fb6797141cb	ちょうし どう?\n
+26a58a5aa169de8f	ポケモンずかん うまってる?\p
+e2864eae2a6b0c6a	うわさ なんだけど\n
+31ae143a287d3e0d	ちょうこだい ポケモンが いるんだって。\l
+4512ce3ede3c1b2b	しかも 3びきも!\p
+967d0e8b5fd9d90a	1ぴき だけでも みてみたいなあ…$
+## MatchCall_Text_May14::
+f1ab9022e96658c9	ハルカ: {PLAYER}{KUN}!\n
+679f71eaa93c2ecb	うわさ きいたよ!\p
+722fc9ce2291d31b	ルネジムの ジムリーダーに\n
+84154a30dd22f090	かったんだって?\p
+690c960de4dbc79b	それじゃあ もう ゴールは\n
+2954d844402b337e	すぐ そこ だね!$
+## MatchCall_Text_May15::
+41e4f0cadc9a68d0	ハルカ: ホウエンの トレーナーで\n
+4aed3ad244b28976	しらない ひとは ひとりも いないよ\l
+a9f579a737a00cba	{PLAYER}{KUN}の ことを!\p
+9701e2821fe5a12e	みんなに いうんだ\n
+0edb4042c7f335e3	{PLAYER}{KUN}と ともだち だよって。\l
+b31bcc72ce8ffdb2	そうすると みんな びっくりするの!$
+## MatchCall_Text_Brendan1::
+665c3c9b77824b1f	ユウキ: よう {PLAYER}!\p
+59ca80d3bc8a9385	ハギさんは ふなのりを いんたい したけど\n
+6b48d9dc877cab9a	いまでも ときどき うみで\l
+7cb9fd78c75928b9	ピーコちゃんと いっしょの すがたを みかけるよ。\p
+acab86807a55df55	きっと いまでも\n
+ee8d17fd4bc938ff	うみが すきなんだろうな。$
+## MatchCall_Text_Brendan2::
+2674ee6cbe15a9b8	ユウキ: よう {PLAYER}!\p
+dd13d8df05ccf20c	トウカや ムロみたいな ちいさな まちに\n
+4090c0f1afe5a718	ジムが あるのは ふしぎ なんだよな。\p
+3d493133d7030fc1	だって おおきな みなとまちの\n
+4dd14b20fa089cfb	カイナには ジムが ないんだぜ。\p
+287218f296098f91	いつか そこに ジムが できたら\n
+0306fd496f05b9cd	おれ リーダーに りっこうほ しようかな。$
+## MatchCall_Text_Brendan3::
+9e51fe32fee1f7c0	ユウキ: よう {PLAYER}!\p
+6fb83d8ae0a002d2	カナズミの いあいぎりオヤジって\n
+06ea55c5909e0bd2	おぼえてる?\l
+1443e5a54a182411	あそこに いえが あったよな?\p
+122e24dbfba1f077	それがさ その おとうとが\n
+1eedbb2a968742c4	キンセツに すんでるんだって。\p
+bf4655bea83c2057	なまえ わかるか?\p
+1f767abef393dd6f	… … … … … …\n
+672adc59281d9bec	… … … … … …\p
+04a7ccbaf7a5fab7	いわくだきオヤジ!$
+## MatchCall_Text_Brendan4::
+bd465a1d79309e5e	ユウキ: この こえ… {PLAYER}か?\p
+0512ab8bbc1ac051	カナシダトンネルって なまえは\n
+adf78eaafce4faea	カナズミと シダケを\l
+32e4736f703f5f7c	つなぐから ついたんだって。\p
+b30626035d1b5271	しってたか?$
+## MatchCall_Text_Brendan5::
+f752ecfbc1dd8407	ユウキ: {PLAYER} げんきか?\p
+f3dc6fe1dd5b1d68	おれ いま 111ばんどうろに いるんだ。\p
+684b4190ddc2be5d	さばくの きたに ある おばあさんの\n
+0b7e5baaed765c01	いえで ひとやすみ するんだ。\p
+c9ad558c628543ad	ちかくに きたら\n
+733b62b5fe66756b	よってみると いいよ。$
+## MatchCall_Text_Brendan6::
+cfc900c097b98a72	ユウキ: よう {PLAYER}!\p
+2f8137554dd7145e	さばくの まぼろしのとうって\n
+15af2bca8d1688ac	しってるか?\p
+a1be1b24622ed714	しんきろうの ように\n
+e0f3b2d2f55c45e0	ときどきしか みえないんだって。\p
+df742b661573aa9d	みてみたいよな!$
+## MatchCall_Text_Brendan7::
+85723a77728db004	ユウキ: だれだ? あっ {PLAYER}か?\n
+894fad253ced8db4	きいてくれよ いま 119ばんどうろなんだ。\p
+b5b79f2b824898f0	おおきな かわが あって\n
+855eb4cbf315585e	しょっちゅう あめが ふるんだ。\p
+6558f652f23fbe8a	ずぶぬれに なっちまったよ!$
+## MatchCall_Text_Brendan8::
+268b447711fcd8b2	ユウキ: {PLAYER}!\p
+7f51e1d1810e1bc0	おくりびやまは なくなった ポケモンの\n
+66f1da2501ce4ecf	ための おはか なんだ。\p
+b0ec7a002690e870	だから たぶん ゴーストタイプの\n
+47237f61d5a23238	ポケモンが たくさん いるんだな!$
+## MatchCall_Text_Brendan9::
+2794223c922b3ba9	ユウキ: よう {PLAYER}。\p
+e4593c369f124720	フエンの おんせんに\n
+0c24fc881f300bb4	もどる とちゅう だったんだけど。\p
+2ceb26662c40cf54	えんとつやまのさかの あたりで\n
+6e8f7fa2cee35e5e	あやしい れんちゅうに あったんだ。\p
+e274c4e5144202fa	あいつら…\n
+a73351918e3f4843	たぶん マグマだんだ。$
+## MatchCall_Text_Brendan10::
+046aaf2d100aa223	ユウキ: よう {PLAYER}!\n
+c3fd20c0a4095904	ニュース みたか?\p
+1f0466cb82ee8636	クスノキかんちょうが せんすいかんでの\n
+eaebb0c620db0702	ちょうさ ちゅうに\l
+32a22208d881754f	かいていどうくつを はっけん したんだって。$
+## MatchCall_Text_Brendan11::
+79cde8dd14080b09	ユウキ: よう {PLAYER}!\n
+782b4ff08387e51d	すごいと おもわないか?\p
+c29eb31415422bd0	ふねが なくても\n
+57f55dd4e152510e	ポケモンの わざで\l
+0cf54ae3fdeab398	うみを わたれるんだぜ。\p
+6558c467bf95e0fa	それに うみの そこまで\n
+48effd3d9fb4913d	いける わざも あるんだ。\p
+ca5e85487b610da0	いやあ ポケモンって なんでも できるな!$
+## MatchCall_Text_Brendan12::
+cd5957b5cafeda5c	ユウキ: よう {PLAYER}!\n
+c49209f763043ff5	げんきに やってるか?\p
+c17822a0f814b06e	うみで むこうがわへ いけなくて\n
+d61fec0aa828437d	こまった ことは ないか?\p
+4cdf7a34b3f90b0a	そういうときは ふかく もぐって\n
+0b28973ad0a794cc	うみの そこの かいこうを たどるんだ。\p
+d56d75c591a2066b	むこうがわに ついたら\n
+9d1fe1c120313bbe	うきあがれば いい。 かんたんだろ!$
+## MatchCall_Text_Brendan13::
+61df81063fbb5634	ユウキ: よう {PLAYER}!\p
+3bebeefc35f8d276	ちょうし どうだ? ポケモンずかんは\n
+2032938e9046fbd2	じゅんちょうに うまってるか?\p
+a3531673402d37d1	うわさ なんだけど\n
+82de3bda01513f80	ちょうこだい ポケモンが いるらしいぜ。\l
+54b685a3f0061a14	しかも 1ぴきじゃなくて 3びき!\p
+7a85c5a84b197fa7	1ぴき だけでも つかまえたいなあ…$
+## MatchCall_Text_Brendan14::
+bdd750a1809aa99f	ユウキ: {PLAYER}!\n
+8e2c79d4e51123bf	うわさ きいたぜ!\p
+f4366a9da731d9a1	ルネジムの ジムリーダーに\n
+25d07fd08fef238e	かったって? すげえ!\p
+816fa1c187720a78	もう ゴールは すぐ そこだな!$
+## MatchCall_Text_Brendan15::
+e4cad8890b18cd36	ユウキ: ホウエンじゅうの トレーナーで\n
+e5d27937ed8f0234	しらない やつは いないぜ\l
+55500a8d2847c6b8	{PLAYER}の ことを!\p
+7734af3cd24b7213	みんなに いうんだ\n
+5d36d2c35377534c	{PLAYER}と ともだち だって。 すると\l
+1141b95118bead2d	みんな うらやましがるんだ!$
+## MatchCall_Text_Wally1::
+d718797c3d0153e6	ミツル: あっ {PLAYER}さん!\p
+896884aef46cd82c	ぼく だんだん げんきに なって\n
+6d504799dca70e5a	からだも じょうぶに なってきました。\p
+89938ed09009e242	ぼくも はやく なれると いいな\n
+a7ae1b587a6df78e	{PLAYER}さんみたいな トレーナーに!$
+## MatchCall_Text_Wally2::
+08d54dabace0a110	ミツル: {PLAYER}さん こんにちは!\p
+7426be716417a1f3	カナシダトンネルが\n
+4f2e0a77fd69cc01	つながって ミチルさん すごく よろこんでます!$
+## MatchCall_Text_Wally3::
+8b642b42a2a82251	ミツル: あっ {PLAYER}さん!\p
+92e145d4338f2662	ぼく… だれにも いわずに\n
+345c646ad623aac9	シダケの おじさんの いえを でてきちゃった。\p
+6258046ecf0733e9	おじさん おこってる かなあ…\p
+c7c191daca335583	{PLAYER}さんなら\n
+c0bef0a3c4fbac05	ぼくの きもち わかって くれますよね?$
+## MatchCall_Text_Wally4::
+e38e3119409b6b1c	ミツル: {PLAYER}さん?\n
+7fb4c233e9ded9d7	ぼく ミツルです!\p
+cd9d4ef7e63ebede	トレーナーの せかいって すごいです!\p
+bb1e878ff34f7987	ポケモンを つれていると\n
+80b9c652bd5cd949	いろんな ひとが こえを かけてくれるんです!\p
+3dfb4685ae3ec673	まるで ポケモンを とおして\n
+83624511bc4232aa	みんなが つながってる みたいです!$
+## MatchCall_Text_Wally5::
+2e55798b5d822342	ミツル: {PLAYER}さん? すごいんです!\n
+2bfb58cfb7985448	いっしょに つかまえた ラルトスが\l
+3aa9770fe385a730	しんか したんです {PLAYER}さん!\p
+19abf9239e035385	ぼく さいのう あるのかも…\p
+1111b88f2238cb90	あっ でも そんなふうに\n
+adead39812622e13	ちょうしに のっちゃ だめですよね!\p
+130b04064a0dd570	だって ほめられるべきなのは\n
+684642c0a6c32da3	ポケモンの ほう ですから!$
+## MatchCall_Text_Wally6::
+b4220babc9d8bcfb	… … … … … …\n
+6a132794e7c7a923	… … … … … …\p
+d5365b40d92299ca	ミツルは ポケナビの\n
+e1283e607fdd0a24	つうしんけんがいに いるようだ…$
+## MatchCall_Text_Wally7::
+4708b592db939e96	ミツル: あっ {PLAYER}さん!\p
+6e9e47cc7df12054	あなたに あうまえは ぼく\n
+7a01cd0eafaa063a	ほとんど いえから でなかったんです…\p
+ee71cf82642b6815	でも いまは じぶんの ポケモンと\n
+d7802936fa7e5a28	いっしょに ぼうけん してるんです…\p
+80631eb0098ab399	{PLAYER}さん…\n
+f8c5e9a3a8914da1	ありがとう…$
+## MatchCall_Text_Scott1::
+c2b51d7320ea7738	エニシダ: やあ {PLAYER}{KUN}!\p
+d8251e36f5d0d9c9	ポケモンって どこにでも\n
+09236d5d32a70341	いるでしょ?\p
+02b131662e315a30	やまにも うみにも\n
+a79acd066eb1c68c	くさむらにも どこにでも。\p
+d40be06badeda49b	ポケモンと おなじで トレーナーも\n
+33985cf9d692c3d1	どこにでも いるんだよね。\p
+f873077e7e344f22	おかげで あちこち いそいで\n
+6056f693fd0b49bd	まわらなくちゃ。 いそがしい いそがしい!$
+## MatchCall_Text_Scott2::
+c90aa7bd0fa4dc61	エニシダ: いま 119ばんどうろに いるんだ。\n
+64c20eb8f7a934d2	トレーナーが いっぱい!\p
+669e2082993c47c4	それに どこもかしこも\n
+6c46481845ae02c4	くさが ぼうぼう みたいだね。\p
+a8a392e0149c73d1	ここを はんズボンで あるくと\n
+48ae7be2739e6e70	くすぐったくて しょうがないよ!$
+## MatchCall_Text_Scott3::
+ba4f6dd258a74880	エニシダ: やあやあ {PLAYER}{KUN}!\p
+230563f2a08e2118	おくりびやまには\n
+0ee2728b17ebd364	のぼってみた?\p
+6862cf01641693d0	あそこは なくなった ポケモンたちの\n
+c2fe7b813c7f3bb8	ための おはか なんだ。\p
+a01bbdc36945293e	トレーナーなら いちどは\n
+a107d73324436e13	ちょうじょうまで のぼるべき ばしょだよ。$
+## MatchCall_Text_Scott4::
+ad5ccda788d5ff99	エニシダ: やあ {PLAYER}{KUN}!\p
+2a47da77647b6d13	へんな グループが めいわくを\n
+cd60fc6ca7515dcf	かけてるって きいたんだ。\p
+13892ba8a478c90f	マグマだんと アクアだん\n
+2f0c3e33e88bd0b3	だったかな。\p
+7fb797f125aa775f	なかには うでの たつ\n
+acac3953e2a14292	トレーナーも いそうだけど。\p
+2312fa13577d1098	…でも ならずもの じゃあね…$
+## MatchCall_Text_Scott5::
+7feeb78e1b4afdf6	エニシダ: あ やあ {PLAYER}{KUN}。\p
+2403c755f744346d	うみの そこにも つよい トレーナーが\n
+ef671966359d1caa	いるのかな?\p
+b19df387dacaa53b	じぶんで たしかめには いけないんだ。\n
+edf5ff342a8b5a3f	まず およげないし。\l
+2d8a9c173ebfd709	それに ポケモンも そだてて ないし…$
+## MatchCall_Text_Scott6::
+8e8163c905acde03	エニシダ: やあやあ {PLAYER}{KUN}!\p
+29e538f5e506dd1d	ジムバッジを ぜんぶ あつめたら\n
+8200bffee43db107	ポケモンリーグに ちょうせん\l
+6d44d600ec06e1ce	できるのは しってるよね?\p
+955f42be6d3ec80f	きみの さいのう なら\n
+12376f45d7483a04	チャンピオンも ゆめじゃ ないよ。\p
+b87caeccf598f263	でも しってる?\n
+ac46dd7778e2975c	もっと すごい ばしょが あるんだ。\p
+672f0d051e8b3c6a	でも いまは それ いじょう\n
+52435299e44a96fa	いえないなあ。\p
+3fe900854494673d	たのしみに しておいて\n
+e40dc06d422ec91f	ほしいな。\p
+8c4d19e0667e3ec5	ポケモンリーグを かちぬいて\n
+4d527475180c2324	でんどういり\l
+aae4ba9df3db0bd2	したらね!$
+## MatchCall_Text_Scott7::
+687c29c862dbba86	… … … … … …\n
+adc615d8fc5fd2b3	… … … … … …\p
+dd5d13913e5ed2c6	エニシダは ポケナビの\n
+5180bc058d541d5b	つうしんけんがいに いるようだ…$
+## MatchCall_Text_Norman1::
+6ea76100e15a7ffa	パパ: カナズミには\n
+c1898a44a28a645d	いあいぎりオヤジ という\l
+069e2901feaa62a0	かわった なまえの ひとが いる。\p
+6fa8c1849b66091a	ちかくに いったら\n
+ed929d27d42c5f1d	たずねてみると いい。$
+## MatchCall_Text_Norman2::
+f858c909aab4796a	パパ: うむ… すこしずつ だが\n
+aad34da9508e7775	たしかに おまえは\l
+b87c445ce4dd52c0	つよく なっているな {PLAYER}。\p
+1bec41275e845c9b	おまえが つよく なるほど\n
+5960e1398c3ea281	ママや わたしから とおく たかく\l
+6622569fff5898d5	はばたいていく…\p
+03f0e8cb331dcbb7	この きもちは うまく いえないな。$
+## MatchCall_Text_Norman3::
+87eb540fd7e72566	パパ: そうか…\n
+525450f5293e95da	ジムバッジを 4つ あつめたか…\p
+1a38c59b7cde7f2f	もう さけられないな。\n
+3aa97242056d4827	やくそくどおり しょうぶ しよう。\p
+c407e4ee50e5105e	いつでも きなさい。\n
+f60c8d333f0ee55b	みんなで まっているぞ!$
+## MatchCall_Text_Norman4::
+0f026763a232c54b	パパ: {PLAYER}! たまには ママに\n
+0113c0dac2792a24	あいに いってやれよ。\p
+65f93833f8def968	わたしは ここに のこって\n
+27ea27ae74d1a9bc	しゅぎょうを つみなおす。\p
+dd834b95196f2b04	しょうぶの みちは ふかく\n
+ae03118d0ac2309e	きびしい ものだ!$
+## MatchCall_Text_Norman5::
+14e9db8f851e56f8	パパ: おお {PLAYER}!\p
+adfee896113983ff	なに? マグマのしるし?\n
+dd1e85152a0041c5	なんの ことか わからんな。\p
+c4731913d3ce4855	だが その なまえからすると\n
+80d28efea75260ff	かざんに なにか かんけいが あるのかも しれん!$
+## MatchCall_Text_Norman_Preparing::
+242ebcaaaddbeb93	パパ: はっ! はあっ! とりゃあ!\p
+f274573cfd673ed7	…ん? {PLAYER}!\p
+588deb08a36ca492	ちょうど ポケモンとの\n
+5adc9099e040036e	とっくん ちゅう だったんだ!$
+## MatchCall_Text_Norman_PreparingPostGame::
+52565ce69865c736	パパ: {PLAYER}!\p
+320bda71fb8d023d	まさか おまえが ポケモンリーグの\n
+e376111845f86cd2	チャンピオンに なるとは…\p
+22b7914b3b6f0691	よし!\n
+82ab7f9b3f0fc67e	わたしも まけて いられないな!$
+## MatchCall_Text_Norman_RematchReady::
+d1a56c4bb881420b	パパ: ん? {PLAYER}か?\n
+e15e3de647a15490	ちょうど いいところに!\p
+d68df954e26a5d67	こんどは わたしが おまえに\n
+9d44ab3c94c63275	しょうぶを いどむ ばんだ。\p
+ea1c1e4dc85f67fb	トウカジムで まっているぞ。\n
+46e02026b557db76	いつでも うけて たってくれ!$
+## MatchCall_Text_Norman_PostRematch::
+0c5041dfd41c6ffb	パパ: …おどろいたよ {PLAYER}。\n
+352425260c308465	おまえは どこまで たかく はばたくんだ?$
+## MatchCall_Text_Steven1::
+8a016ecc2a9c9931	ダイゴ: やあ {PLAYER}{KUN}!\p
+15682068a6d715b9	キンセツには もう\n
+adf56e5ab5361ab7	いったかい?\p
+2ce62bdd0dd2bae8	じてんしゃやで\n
+a181dfbb48e5ad7d	マッハじてんしゃを もらうと いい。\p
+938c21ffd9c42b04	それから いしのどうくつを\n
+217b25381340cce1	すみずみまで しらべてごらん。\p
+97dd13f89f0fe1b1	あたらしい はっけんが\n
+4b550948a44204c0	あるかもしれないよ。$
+## MatchCall_Text_Steven2::
+5446050c2d0301de	ダイゴ: やあ {PLAYER}{KUN}!\p
+53d4e09c289b8fc9	これまで いろんな\n
+0f34add855424b66	トレーナーに あってきた。\p
+89d445f6159ac2d9	でも きみは とくべつだ。\n
+1e4e32cf8ed6b70c	ほかの だれとも ちがう。$
+## MatchCall_Text_Steven3::
+89e2ae5bac32162b	ダイゴ: やあ {PLAYER}{KUN}!\p
+a040d27b2ff0b405	ポケモンと ぼうけん しているとき\n
+cdb87798c1d31ef3	きみは なにを おもう?\p
+07a85b1a60cb3122	たのもしい パートナーだと\n
+56dc4d5a202318a7	おもうかい?\p
+6c1111c8d9552b70	それとも たのしい\n
+4423c51d94b7fba4	なかまだと おもうかい?\p
+1bc983f4e960c9ca	かんがえかた しだいで\n
+6e5314736d73e22e	ぼうけんの いみも かわってくるんだ。$
+## MatchCall_Text_Steven4::
+a47fe4d3f5ddce61	ダイゴ: もしもし?\n
+aa2179df86e31b3f	{PLAYER}{KUN}?\p
+ce68fd976e9e3bca	いま うちゅうセンターで\n
+77e6811d152d4665	ちょっと トラブルに まきこまれていてね。\p
+1d98152600cbc003	わるいけど いまは はなせないんだ。\n
+ba289678fd9b636e	じゃあ!$
+## MatchCall_Text_Steven5::
+547263ee674721c9	ダイゴ: あっ!\n
+7204a04f36bffc33	{PLAYER}{KUN}!\p
+5d008cb414c5f48a	はなしは いらない。\n
+9011d3dff086fda4	もう はなしている ばあいじゃ ない。\p
+15bc2733d3637283	じぶんを しんじて\n
+eee0585cc5a05d6b	ただしいと おもうことを するんだ。$
+## MatchCall_Text_Steven6::
+da8a0bcf63133c78	… … … … … …\p
+b3f2ffdbfdc65729	ダイゴは でんわに\n
+87cf5f0d77e79e5f	でられない ようだ…$
+## MatchCall_Text_Steven7::
+75381ee8b36da273	ダイゴ: {PLAYER}{KUN}… でんどういり\n
+ff14f8e5197db46f	おめでとう。\p
+7edf023f016693d3	… … … … … …\n
+3a70ae2fad7a8c00	… … … … … …\p
+2776f139528560a5	また どこかで\n
+21465dc139cbeadb	あえると いいね!$
+## MatchCall_Text_BirchRegisterCall:
+40812ade34142290	オダマキはかせ: おお {PLAYER}{KUN}!\n
+7b3d8c70452868c9	きみの ことは もう きいてるよ!\p
+431092dd9e531768	きみの ポケナビに エントリーコールが\n
+5c6602752e3b72af	ついたみたいだね。\p
+63b7e0105f52c992	よし わたしも とうろく しよう!\p
+dbcbd3f19b9a79c9	そうすれば きみが フィールドに\n
+456e9e3246e0df01	でている あいだも\l
+bbcb6902836ca33f	ポケモンずかんを みてあげられる。\p
+bd8293d35089ce07	… … … … … …$
+## MatchCall_Text_RegisteredBirch:
+1135b836b579349c	オダマキはかせを\n
+8534b650db3befbe	ポケナビに とうろくした!$
+## MatchCall_Text_UnusedProfBirch:
+e68a9bccf7788bc3	オダマキはかせ: ポケモンずかんと\n
+5a5d4788d1a8b0ba	ポケナビが あれば ポケモンの\l
+62f59db3fa3dcdd5	けんきゅうも もっと たのしく なるだろう?$
+## MatchCall_Text_MrStone1::
+da3495a728d9b6db	ツワブキ: おや? {PLAYER}{KUN}!\p
+a633df5aa54af572	わしに でんわが かかったという ことは\n
+7e538d832ac88249	ポケナビは ちゃんと うごいて おるな!\p
+7a2f989efb36a1c1	ほかの ひとも とうろく されるから\n
+1144adec0c8aa0e5	でんわを かけてみると いい!\p
+25ec74921bb42f5b	よし! よし!\n
+97bb6cd98feb1c5e	ずいぶん うれしそう じゃな!\p
+427b9a9ef8f69811	ふむ…\n
+d333170c3dba4f1d	なぜ わかるのか って?\p
+1e3900737dcaa24e	わしが しゃちょうしつの まどから\n
+f15522ce3d34668a	きみを みおろして おるからじゃ!\p
+d17a5a2e7e1385e1	ワッハッハ!\n
+7f98ccb780149d0a	では また!$
+## MatchCall_Text_MrStone2::
+70eb22ac4d7b26ec	ツワブキ: おや? {PLAYER}{KUN}!\p
+6d1030cd2b4aa211	どうした? わしの ちょっとした\n
+46e376892fc94e79	たのみごとを わすれたのかね?\p
+59734cc9ca94cd6a	ムロに いる ダイゴに\n
+fb303bed5a2d0b0c	てがみを とどけてほしいのじゃ。\p
+3f7e8ff9d64df604	そのあと カイナの クスノキかんちょうに\n
+c5653b2579c6caf6	にもつを とどけてくれ。\p
+a5a65cd76e726c19	おぼえて おるじゃろう?\p
+4e0b826305d736fa	さて わしは いそがしい しゃちょう\n
+0e1f83436e30b679	なのでな! もう いかねば! では!$
+## MatchCall_Text_MrStone3::
+07319b7082b87ae5	ツワブキ: おお! {PLAYER}{KUN}!\p
+e6a3cad9b393cfe8	そうか ダイゴに あったか!\n
+f730e5cc702270ec	それなら おれいを せねばな!\p
+d1c20f7d39077a82	また カナズミに きたら\n
+1e17a852dc413e7a	しゃちょうしつに よってくれ。\p
+120d6403fdf8ffab	まって おるぞ!$
+## MatchCall_Text_MrStone4::
+c3037015ea730ea9	ツワブキ: おお! {PLAYER}{KUN}!\p
+8f6d8c7ecd14dd21	デボンが カナシダトンネルを\n
+bd6a6a2c8e0049a1	ほっていたのを しっておるかね?\p
+237368c37ab0baec	だが あたりの ポケモンを まもるため\n
+952acb19844e977b	こうじは ちゅうし したのじゃ。\p
+10ed818c1e99e4f4	とうぜんの ことじゃよ。\p
+73207bde69c07902	わしらの べんりさ よりも\n
+c041adcdd05dec23	ポケモンが へいわに くらせる ことの\l
+7ed0ceeb67c70168	ほうが だいじ なのじゃ。$
+## MatchCall_Text_MrStone5::
+93d33bd27f66c703	ツワブキ: やあやあ {PLAYER}{KUN}!\p
+813b9c10ac7b3d8d	トウカの ひとから きいたぞ\n
+497ca072fae45320	きみは センリさんの こども なんじゃな!\p
+230fbb0abc8cf876	どうりで ゆうしゅうな\n
+c207f14849460133	わけじゃ!$
+## MatchCall_Text_MrStone6::
+3784e0182d60e9ed	ツワブキ: なんと?\p
+c279bd869ba48eb3	じぶんの おとうさんと たたかって\n
+8ec8830d4d3484b8	かったと いうのか?\p
+0826d29cd23859b5	それは すごい!\p
+3dae3fa9ea110c8b	そんな とくべつな ひとと ともだちに\n
+c63bf98caa078e5e	なっていたとは! ワッハッハ!$
+## MatchCall_Text_MrStone7::
+471f9d6a145e8664	もしもし!\n
+475fe87e8131e7f3	こちら デボン コーポレー…\l
+877f840e55ec57cc	あっ {PLAYER}さん!\p
+08e412fed3140bb6	しゃちょうは さっきまで\n
+5789be115647b2ce	いましたが でかけて しまいました。\p
+5d049f50a319361c	しゃちょうも いそがしいですが\n
+bacd2e8a4c3a6e85	{PLAYER}さんも いそがしそう ですね。$
+## MatchCall_Text_MrStone8::
+2a281e7f8ca59fee	…え? …なんですって?\p
+0660dd8957aaa263	グラー… はい? …ドン?\p
+adf0cc23a0c5b9ca	でんぱが…\n
+a3878426e0f93f08	…きこえ…\p
+dcccac41d5cdd0c1	ザザザザ…$
+## MatchCall_Text_MrStone9::
+95a8473d6c0ea8e6	…え? …なんですって?\p
+f28b915dc79d860c	かいてい… はい? …どうく…?\p
+4338f006c0925845	でんぱが…\n
+9590f97f8d61ddfa	…きこえ…\p
+19803cbac7aa0bf0	ザザザザ…$
+## MatchCall_Text_MrStone10::
+b04744be9e0899b2	ツワブキ: {PLAYER}{KUN}! わしじゃ!\p
+aa3183383a2e6c7b	きみは いろいろな ことに\n
+fff318953c700fae	かかわって いたようじゃが わしは いそがしくて\l
+6522bc2d13f1b29d	なにが あったのか さっぱりじゃ!\p
+23305ba001091e40	だが きみが しんじる みちを\n
+c1b147deb0c0def5	まっすぐ あゆんで いってほしい。\p
+279d87d3229098bb	わしは いつでも きみの みかたじゃ!\n
+7edfd2217afd1be3	げんきでな!$
+## MatchCall_Text_MrStone11::
+fed1639ac343c6d5	ツワブキ: … … … … … …\n
+0fc4def77da98378	もしや {PLAYER}{KUN}かね?\p
+f31d470e3f68b372	こえが じしんに あふれておって\n
+200f09e49ec391e6	すぐには わからなかったぞ!\p
+5e9be7a62b3e5b13	うむ! いつか デボンに\n
+1f6279b819e50f4f	あそびに きなさい!$

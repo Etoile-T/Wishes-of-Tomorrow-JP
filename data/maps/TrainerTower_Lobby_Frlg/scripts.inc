@@ -223,120 +223,120 @@ TrainerTower_Lobby_EventScript_BaldingMan::
 @ All Trainer Tower text (Lobby and Roof) is interleaved here
 
 TrainerTower_Lobby_Text_WelcomeToTrainerTower::
-	.string "Hello!\p"
-	.string "Welcome to TRAINER TOWER where\n"
-	.string "TRAINERS gather from all over!$"
+	.string "{JPN}こんにちは!\p"
+	.string "トレーナーが せかいじゅうから あつまる\n"
+	.string "トレーナータワーへ ようこそ!$"
 
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
-	.string "TRAINERS from all over the world\n"
-	.string "gather here to battle.\p"
-	.string "Let me see…\p"
-	.string "Right now, there are TRAINERS only\n"
-	.string "up to Floor {STR_VAR_1}.$"
+	.string "{JPN}せかいじゅうの トレーナーが\n"
+	.string "ここに あつまって たたかいます\p"
+	.string "えーと…\p"
+	.string "いま トレーナーが いるのは\n"
+	.string "{ENG}{STR_VAR_1}{JPN}かいまで だけです$"
 
 TrainerTower_Lobby_Text_TrainersUpEighthFloor::
-	.string "TRAINERS are awaiting your\n"
-	.string "challenge up to the eighth floor.$"
+	.string "{JPN}8かいまで トレーナーが\n"
+	.string "あなたの ちょうせんを まっています$"
 
 TrainerTower_Lobby_Text_LikeToChallengeTrainers::
-	.string "Would you like to challenge the\n"
-	.string "waiting TRAINERS?$"
+	.string "{JPN}まちうける トレーナーに\n"
+	.string "ちょうせん しますか?$"
 
 TrainerTower_Lobby_Text_StartClockGetSetGo::
-	.string "Okay, I'll get the clock started,\n"
-	.string "so give it everything you have.\p"
-	.string "On your marks…\p"
-	.string "Get set…\p"
-	.string "Go!$"
+	.string "{JPN}では タイムを はかりはじめますので\n"
+	.string "ぜんりょくを つくして ください\p"
+	.string "いちについて…\p"
+	.string "よーい…\p"
+	.string "スタート!$"
 
 TrainerTower_Lobby_Text_PleaseVisitUsAgain::
-	.string "Please do visit us again!$"
+	.string "{JPN}また ぜひ おこし ください!$"
 
 TrainerTower_Lobby_Text_TooBadComeBackTryAgain::
-	.string "That was too bad.\p"
-	.string "I think you put in a tremendous\n"
-	.string "effort in your battling.\p"
-	.string "Please come back and try again!$"
+	.string "{JPN}ざんねんでしたね\p"
+	.string "バトルでは とても よく\n"
+	.string "がんばったと おもいますよ\p"
+	.string "また ちょうせん しに きてください!$"
 
 TrainerTower_Lobby_Text_GiveItYourBest::
-	.string "I hope you give it your best.$"
+	.string "{JPN}がんばって くださいね$"
 
 TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
-	.string "When the TRAINERS switch places,\n"
-	.string "the movement can be hectic.\p"
-	.string "To avoid the stampede, we moved\n"
-	.string "the reception counter here.\p"
-	.string "I'm sorry for the inconvenience.$"
+	.string "{JPN}トレーナーが いれかわる ときは\n"
+	.string "ひとの うごきが あわただしいんです\p"
+	.string "こんざつを さけるため うけつけを\n"
+	.string "ここに うつしました\p"
+	.string "ごめいわくを おかけします$"
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
-	.string "Hello…\p"
-	.string "I am the owner of this TOWER…\p"
-	.string "How the sky soars above this\n"
-	.string "rooftop…\p"
-	.string "The caress of the winds up here…\p"
-	.string "It's all so perfect…\p"
-	.string "The way you battled…\n"
-	.string "It, too, was perfection…$"
+	.string "{JPN}こんにちは…\p"
+	.string "わたしは この タワーの オーナー…\p"
+	.string "この おくじょうの うえに\n"
+	.string "ひろがる そら…\p"
+	.string "ここに ふく かぜの やさしさ…\p"
+	.string "すべてが かんぺき…\p"
+	.string "あなたの たたかいぶり…\n"
+	.string "それも また かんぺきでした…$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
-	.string "This is for you…$"
+	.string "{JPN}これを あなたに…$"
 
 TrainerTower_Roof_Text_DoneItInRecordTime::
-	.string "Oh!\n"
-	.string "Stupendous!\p"
-	.string "It's marvelous how you've come up\n"
-	.string "here so quickly.\p"
-	.string "The fact is, you've done it in\n"
-	.string "record time…\p"
-	.string "I'll have your record posted at\n"
-	.string "the reception counter.$"
+	.string "{JPN}おお!\n"
+	.string "すばらしい!\p"
+	.string "こんなに はやく ここまで\n"
+	.string "くるとは みごとです\p"
+	.string "じつは あなたは\n"
+	.string "きろくを こうしん したのです…\p"
+	.string "あなたの きろくを うけつけに\n"
+	.string "はりだして おきましょう$"
 
 TrainerTower_Roof_Text_TookSweetTimeGettingHere::
-	.string "You seem to have taken your sweet\n"
-	.string "time getting here…$"
+	.string "{JPN}ここまで ずいぶん のんびり\n"
+	.string "きたようですね…$"
 
 TrainerTower_Roof_Text_IdLikeToSeeBetterTime::
-	.string "What I would like to see is a\n"
-	.string "better time out of you…\p"
-	.string "I'm counting on you.\p"
-	.string "Until then, farewell…$"
+	.string "{JPN}わたしが みたいのは\n"
+	.string "あなたの もっと よい タイム…\p"
+	.string "きたい していますよ\p"
+	.string "それでは ごきげんよう…$"
 
 TrainerTower_Text_XMinYZSec::
-	.string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}ふん\n{ENG}{STR_VAR_2}{JPN}.{ENG}{STR_VAR_3}{JPN}びょう$"
 
 TrainerTower_Lobby_Text_HereAreTheResults::
-	.string "せいせきひょうです$"
+	.string "{JPN}せいせきひょうです$"
 
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
-	.string "This is a two-on-two battle.\p"
-	.string "You may not battle unless you have\n"
-	.string "at least two POKéMON.$"
+	.string "{JPN}これは 2たい2の バトルです\p"
+	.string "ポケモンが 2ひき いじょう いないと\n"
+	.string "ちょうせん できません$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
-	.string "Here at TRAINER TOWER, there is an\n"
-	.string "event called TIME ATTACK.\p"
-	.string "You will be timed on how quickly\n"
-	.string "you can get from the reception\l"
-	.string "counter to the OWNER on the roof.\p"
-	.string "The best times will be recorded on\n"
-	.string "the Time Board.\p"
-	.string "Try competing with friends to see\n"
-	.string "who can beat it the fastest.\p"
-	.string "You will not earn any EXP. Points\n"
-	.string "or money by beating TRAINERS here.$"
+	.string "{JPN}ここ トレーナータワーでは\n"
+	.string "タイムアタックを おこなっています\p"
+	.string "うけつけから おくじょうの オーナーまで\n"
+	.string "どれだけ はやく たどりつけるか\l"
+	.string "タイムを はかります\p"
+	.string "よい タイムは タイムボードに\n"
+	.string "きろく されます\p"
+	.string "ともだちと だれが いちばん はやいか\n"
+	.string "きそいあって みてください\p"
+	.string "ここで トレーナーに かっても けいけんちや\n"
+	.string "おかねは もらえません$"
 
 TrainerTower_Lobby_Text_ThanksForCompeting::
-	.string "Thank you for competing!$"
+	.string "{JPN}ちょうせん ありがとう ございました!$"
 
 TrainerTower_Lobby_Text_WonderWhatKindsOfTrainers::
-	.string "I'm here to see how good I am.\p"
-	.string "I wonder what kinds of TRAINERS\n"
-	.string "are waiting for me?\p"
-	.string "It's nerve-racking!$"
+	.string "{JPN}じぶんの じつりょくを ためしに きたんだ\p"
+	.string "どんな トレーナーが\n"
+	.string "まってるんだろう?\p"
+	.string "きんちょう するなあ!$"
 
 TrainerTower_Lobby_Text_StairsTougherThanAnyBattle::
-	.string "Gasp, gasp…\n"
-	.string "Gasp…\p"
-	.string "Never mind battling! These stairs…\n"
-	.string "They're tougher than any battle…$"
+	.string "{JPN}ハア ハア…\n"
+	.string "ハア…\p"
+	.string "バトルどころじゃ ない! この かいだん…\n"
+	.string "どんな バトルより きついよ…$"
 

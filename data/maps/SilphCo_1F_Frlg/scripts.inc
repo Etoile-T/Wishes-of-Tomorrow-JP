@@ -15,11 +15,11 @@ SilphCo_1F_EventScript_FloorSign::
 	end
 
 SilphCo_1F_Text_WelcomePresidentInBoardroom::
-	.string "Welcome.\p"
-	.string "The PRESIDENT is in the boardroom\n"
-	.string "on 11F.$"
+	.string "{JPN}いらっしゃいませ。\p"
+	.string "しゃちょうは 11かいの\n"
+	.string "じゅうやくしつに おります。$"
 
 SilphCo_1F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "1F$"
+	.string "{JPN}シルフカンパニー ほんしゃ\n"
+	.string "1かい$"
 

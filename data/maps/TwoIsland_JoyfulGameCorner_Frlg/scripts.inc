@@ -189,115 +189,115 @@ TwoIsland_JoyfulGameCorner_EventScript_Lostelle::
 	end
 
 TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenTo::
-	.string "Now, where's LOSTELLE gotten to\n"
-	.string "today?\p"
-	.string "She always brings me lunch every\n"
-	.string "day right about now…$"
+	.string "{JPN}さて ロステルの やつ きょうは\n"
+	.string "どこへ いったんだ?\p"
+	.string "まいにち いまごろに おひるを\n"
+	.string "もってきて くれるんだが…$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
-	.string "Hm? You, there!\n"
-	.string "Are you a friend of LOSTELLE's?\p"
-	.string "Have you seen LOSTELLE around?\n"
-	.string "I don't know where she might be.\l"
-	.string "She should've been here long ago.\p"
-	.string "LOSTELLE's a cutie - she got my\n"
-	.string "looks - so what if someone…\p"
-	.string "What if something's happened to\n"
-	.string "my LOSTELLE?!\p"
-	.string "Please, help me find her!\n"
-	.string "Please go search THREE ISLAND!$"
+	.string "{JPN}ん? おい そこの きみ!\n"
+	.string "ロステルの ともだちかい?\p"
+	.string "ロステルを みかけなかったか?\n"
+	.string "どこに いるのか わからないんだ。\l"
+	.string "とっくに きてる はずなのに。\p"
+	.string "ロステルは かわいい… わたしに\n"
+	.string "にて かわいいから だれかが…\p"
+	.string "わたしの ロステルに なにか\n"
+	.string "あったんじゃ ないか!?\p"
+	.string "たのむ! さがして くれ!\n"
+	.string "3のしまを さがして くれ!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
-	.string "Hah? What is this GAME CORNER?\n"
-	.string "How much sadder can this get?\p"
-	.string "Those clowns…\p"
-	.string "They said they'd be waiting on the\n"
-	.string "island, so where are they?\p"
-	.string "Hey, you! Is this the only THREE\n"
-	.string "ISLAND around here?$"
+	.string "{JPN}はあ? なんだ この ゲームコーナー?\n"
+	.string "しけてんなあ!\p"
+	.string "あいつら…\p"
+	.string "しまで まってるって いってたのに\n"
+	.string "どこに いやがるんだ?\p"
+	.string "おい おまえ! 3のしまって\n"
+	.string "この へんじゃ ここだけか?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
-	.string "Try waking up before you crawl out\n"
-	.string "of bed, you punk.\p"
-	.string "This is TWO ISLAND!\p"
-	.string "Move it! Get your filthy motorbike\n"
-	.string "out of my place!$"
+	.string "{JPN}ねぼけるのも たいがいに\n"
+	.string "しろよ この チンピラが。\p"
+	.string "ここは 2のしま だ!\p"
+	.string "どけ! きたない バイクを\n"
+	.string "うちの みせから だしやがれ!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
-	.string "Huh…\n"
-	.string "Oh, oh, gotcha.\p"
-	.string "Tch…\n"
-	.string "These islands are confusing…$"
+	.string "{JPN}はあ…\n"
+	.string "ああ そうか わかったよ。\p"
+	.string "ちっ…\n"
+	.string "ここらの しまは まぎらわしいぜ…$"
 
 TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
-	.string "Would you look at that?\n"
-	.string "That punk scuffed up my floor.$"
+	.string "{JPN}みてくれよ これ!\n"
+	.string "あの チンピラ ゆかを きずつけやがった。$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
-	.string "Hey, but listen! I'm begging you,\n"
-	.string "you have to go to THREE ISLAND.\p"
-	.string "If anything were to happen to my\n"
-	.string "LOSTELLE…\p"
-	.string "My place is the house with the red\n"
-	.string "roof on THREE ISLAND.\p"
-	.string "She may just show up late here,\n"
-	.string "so I can't run off anywhere.\p"
-	.string "That's why I have to get you to do\n"
-	.string "me this big favor.$"
+	.string "{JPN}それより きいてくれ! たのむ!\n"
+	.string "3のしまへ いって くれないか。\p"
+	.string "もし わたしの ロステルに\n"
+	.string "なにか あったら…\p"
+	.string "うちは 3のしまの あかい\n"
+	.string "やねの いえだ。\p"
+	.string "あのこが おくれて ここに くるかも\n"
+	.string "しれないから わたしは うごけない。\p"
+	.string "だから きみに この おおきな\n"
+	.string "たのみを きいて ほしいんだ。$"
 
 TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
-	.string "I'm sorry.\n"
-	.string "We're not running any games today.$"
+	.string "{JPN}すみません。\n"
+	.string "きょうは ゲームを やってないんです。$"
 
 TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
-	.string "We'll get the games going soon\n"
-	.string "for you!$"
+	.string "{JPN}もうすぐ ゲームを はじめますので\n"
+	.string "おまちください!$"
 
 TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
-	.string "So you rescued LOSTELLE?\n"
-	.string "How can I thank you?\p"
-	.string "LOSTELLE, darling, forgive me!\p"
-	.string "Daddy didn't know you were scared\n"
-	.string "and in trouble!$"
+	.string "{JPN}ロステルを たすけて くれたのかい?\n"
+	.string "なんて おれいを いえば いいか!\p"
+	.string "ロステル ゆるして おくれ!\p"
+	.string "こわい めに あってたなんて\n"
+	.string "パパ しらなかったんだ!$"
 
 TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
-	.string "LOSTELLE: It's okay, Daddy.\n"
-	.string "I got to be friends with {PLAYER}!$"
+	.string "{JPN}ロステル: だいじょうぶ パパ。\n"
+	.string "{ENG}{PLAYER}{JPN}と ともだちに なったの!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
-	.string "Oh, what's that?\n"
-	.string "You're saying that this is for me?\p"
-	.string "How did you know that I love rare\n"
-	.string "rocks and gems?\p"
-	.string "You sure know how to make a guy\n"
-	.string "happy.$"
+	.string "{JPN}おや それは なんだい?\n"
+	.string "これを わたしに くれるって?\p"
+	.string "わたしが めずらしい いしや\n"
+	.string "ほうせきが すきだって よく わかったね?\p"
+	.string "ひとを よろこばせるのが\n"
+	.string "ほんとうに うまいなあ。$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
-	.string "{PLAYER} handed the METEORITE\n"
-	.string "to LOSTELLE's daddy.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ロステルの パパに\n"
+	.string "いんせきを わたした。$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
-	.string "Oh, I see, this is from BILL!\n"
-	.string "You have to thank him for me!\p"
-	.string "You know, you've been fantastic.\n"
-	.string "I want you to have this.$"
+	.string "{JPN}なるほど マサキからか!\n"
+	.string "かれに よろしく つたえて くれ!\p"
+	.string "いやあ きみは ほんとうに すごいよ。\n"
+	.string "これを うけとって くれ。$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
-	.string "{PLAYER} received a MOON STONE\n"
-	.string "from LOSTELLE's daddy.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ロステルの パパから\n"
+	.string "つきのいしを もらった!$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
-	.string "Your BAG's not going to fit another\n"
-	.string "thing…$"
+	.string "{JPN}きみの バッグには もう\n"
+	.string "はいらない ようだね…$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
-	.string "All right, I'll get the GAME CORNER\n"
-	.string "running right away.\p"
-	.string "You have to come visit with a\n"
-	.string "friend.$"
+	.string "{JPN}よし! すぐに ゲームコーナーを\n"
+	.string "さいかい するぞ。\p"
+	.string "こんどは ともだちと いっしょに\n"
+	.string "あそびに きて くれよ。$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
-	.string "Listen, listen!\p"
-	.string "Please show me you being cool\n"
-	.string "again!$"
+	.string "{JPN}ねえ ねえ!\p"
+	.string "また かっこいい ところ\n"
+	.string "みせてね!$"
 

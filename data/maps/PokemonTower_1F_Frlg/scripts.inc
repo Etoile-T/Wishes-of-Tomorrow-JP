@@ -37,31 +37,31 @@ PokemonTower_1F_EventScript_WorkerF::
 	end
 
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-	.string "POKéMON TOWER was erected in the\n"
-	.string "memory of POKéMON that died.$"
+	.string "{JPN}ポケモンタワーは なくなった\n"
+	.string "ポケモンたちを とむらう ために たてられた。$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
-	.string "Did you come to pay respects?\p"
-	.string "Bless your POKéMON-loving heart,\n"
-	.string "son.$"
+	.string "{JPN}おまいりに きたのかい?\p"
+	.string "ポケモンを おもう やさしい こころだね\n"
+	.string "ぼうや。$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
-	.string "Did you come to pay respects?\p"
-	.string "Bless your POKéMON-loving heart,\n"
-	.string "girl.$"
+	.string "{JPN}おまいりに きたのかい?\p"
+	.string "ポケモンを おもう やさしい こころだね\n"
+	.string "おじょうちゃん。$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
-	.string "I came to pray for my dearly\n"
-	.string "departed CLEFAIRY.\p"
-	.string "Sniff!\n"
-	.string "I'm awash in tears…$"
+	.string "{JPN}なくなった だいすきな ピッピの\n"
+	.string "ために おいのりに きたの。\p"
+	.string "ぐすっ!\n"
+	.string "なみだが とまらない…$"
 
 PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
-	.string "My GROWLITHE…\n"
-	.string "Why did you die?$"
+	.string "{JPN}わたしの ガーディ…\n"
+	.string "どうして しんで しまったんだ?$"
 
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
-	.string "I am a CHANNELER.\p"
-	.string "There are spirits up to mischief.\n"
-	.string "I sense them high in the TOWER.$"
+	.string "{JPN}わたしは きとうしです。\p"
+	.string "いたずらを する れいが いる。\n"
+	.string "タワーの うえの ほうに けはいを かんじる。$"
 

@@ -1,0 +1,4890 @@
+[
+ {
+  "id": "9135e1642501ead4",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}が バトルドームに とうじょう!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "525b9d67865551f9",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13ee5787b6379691",
+  "translation": "しあい!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19d20df90b0e5ee3",
+  "translation": "{ENG}{PLAYER}{JPN} たい {ENG}{STR_VAR_2}{JPN}!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8078a385f62d01e",
+  "translation": "バトル かいし!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "120bb092b63edafe",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}さんの かちです\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "791706c9d5d6d839",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42082cf940c6686a",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}さんの かちです\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfcdf83742b1a35c",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac0788640bbca092",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}さんが レベル50\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f40ef9bada230a0",
+  "translation": "バトルトーナメント ゆうしょう!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a565c2e710b1daf",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c5baf69d6938115",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}さんが オープンレベル\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74844198ec75138c",
+  "translation": "バトルトーナメント ゆうしょう!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d70dd8690ea01d01",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d34200c125bf3196",
+  "translation": "{JPN}なんという けっちゃく!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "185c99eaf33d4579",
+  "translation": "まさかの あいうち です!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24c39a239ccb89e0",
+  "translation": "この ばあい バトルトーナメントの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8b41eb2e46721fe",
+  "translation": "ルールにより しんぱんいんが はんてい!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc769f3f65d86738",
+  "translation": "はんていが でるまで\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3eb4443a50464906",
+  "translation": "しょうしょう おまちください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d96ae4b438e0eed",
+  "translation": "{JPN}しんぱんいん より\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "521f8b089f22a139",
+  "translation": "はんていの けっかが でました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa2a01a111d20a92",
+  "translation": "しょうしゃは…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f40633323af77dac",
+  "translation": "なんと! なんと! なんと!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea62b48192015697",
+  "translation": "{ENG}{STR_VAR_1}{JPN}さん です!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4d27a16087c1f9e",
+  "translation": "おめでとうございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eedfb82f60c3a4d3",
+  "translation": "{JPN}しんぱんいん より\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81f8ed5c7c5ceabe",
+  "translation": "はんていの けっかが でました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a21382d929930a80",
+  "translation": "しょうしゃは…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc7230d1f342a629",
+  "translation": "なんと! なんと! なんと!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81ad2573e3f4602b",
+  "translation": "{ENG}{PLAYER}{JPN}さん です!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08e6b85ae46df11b",
+  "translation": "おめでとうございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "760e14382a7b8ffc",
+  "translation": "{JPN}きたいの おおがた しんじん!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48ff714d9405a1cb",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3dbbf9bc7c1984c4",
+  "translation": "{JPN}いま もっとも いきおいの ある トレーナー!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba6f5c173ed48cfb",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5dea9c9b7227f34",
+  "translation": "{JPN}いっきに ゆうしょうまで\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "513c67f6976925b1",
+  "translation": "のぼりつめて しまうのでしょうか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa5d9c88e6b78304",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe9bb5825ebcafbe",
+  "translation": "{JPN}はつしゅつじょう はつゆうしょうの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c04592e14e11f29",
+  "translation": "いぎょう たっせい なるか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "556ce534a1c61216",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32532acbad5cbc95",
+  "translation": "{JPN}ぜんかいの まけを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcd910768a5c0f73",
+  "translation": "ここで はらす ことが できるか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3db79e428a0d1cf9",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d31a8d710a0e1e8",
+  "translation": "{JPN}はじめての ゆうしょうへ むけて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "426d59c6864965eb",
+  "translation": "もえています!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27b49d7eaf26ddb3",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f236b46a8230bc54",
+  "translation": "{JPN}この しあいに かてば\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42606f5716f1316e",
+  "translation": "いよいよ けっしょうせん です!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ccf4d5f82ad76eb",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94c1666abadadd34",
+  "translation": "{JPN}ながねんの ゆうしょうの ゆめが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2a0ce46107f3f32",
+  "translation": "ついに かなうのか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32768e62d97cbcd0",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce9a108eccb3d958",
+  "translation": "{JPN}むてきの チャンピオン!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a94c65da0da8ea08",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2387f3e9ec2afe88",
+  "translation": "{JPN}この ひとに かてる トレーナーは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bd08501606abb85",
+  "translation": "はたして いるのでしょうか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d09016da61eb3cb",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebdada35f44995f2",
+  "translation": "{JPN}この ひとの ために\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05f87a5e9e96f568",
+  "translation": "バトルは あるのでしょうか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7eaaa2aa439b55e",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7fce74cecd9f56e",
+  "translation": "{JPN}タイトル ぼうえいを めざす\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d59f265b3f16f0a3",
+  "translation": "げんチャンピオン!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "357efa1be473aded",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e94ba86d0b51abdf",
+  "translation": "{JPN}もと チャンピオンが かえってきた!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a6509d99e719fe4",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aaac9b31f3b49041",
+  "translation": "{JPN}あの つよさが もどってきました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7de34e44c380a42",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a07ca2d6f95f1876",
+  "translation": "{JPN}よそうどおり けっしょうに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ac90d5749d68f00",
+  "translation": "すすむ ことが できるのか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42e5429bf67cc549",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f165d9bd5e520d66",
+  "translation": "{JPN}もと チャンピオンは うしなった\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5212c1a0800a2e3",
+  "translation": "えいこうを とりもどせるか!?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3abd5e5ccb513793",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c604c700ed153b0",
+  "translation": "{JPN}おうじゃの ふうかく ただよう!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdd40ff61ba9cc82",
+  "translation": "{JPN}そして… きろくを ぬりかえつづける\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e922a50eca02aa02",
+  "translation": "{ENG}{PLAYER}{JPN}の まえに たちはだかるのは…\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "edca54136108be0b",
+  "translation": "そう! あの ひと です!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c233652430d8f7e3",
+  "translation": "バトルドームの フロンティアブレーン!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "057afaa5215092b6",
+  "translation": "われらが ドームスーパースター!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8437731413be1afe",
+  "translation": "ヒース とうじょう!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12f67798d7a26923",
+  "translation": "{JPN}かんきゃく: ヒース! ヒース!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "427a02c6154e47df",
+  "translation": "ヒース! ヒース! ヒース!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5070d7d2ad065532",
+  "translation": "{JPN}ヒース: アハハハ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f56161beb2348aab",
+  "translation": "きこえるかい? この かんせい!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9eb1b32c1ef1ba7",
+  "translation": "みんな わたしたちの しあいを まちきれないのさ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d6daa8d26716b27",
+  "translation": "アハハハ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a3305fac904bec9",
+  "translation": "わたしと たたかう きんちょうで\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9e2783d8e7d2cf9",
+  "translation": "キミは からだじゅう ふるえてる だろう!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a801dcddf28e37c",
+  "translation": "でも なにも しんぱい いらないよ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "faf1725699c77739",
+  "translation": "わたしは バトルドームの ナンバー1スター!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43d31f6d3cff8494",
+  "translation": "ドームスーパースター ヒースが\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dfdef32eb43fb271",
+  "translation": "キミを まばゆい ひかりで つつんであげよう!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "966a662e90a2e312",
+  "translation": "{JPN}キミの さくせん!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "447da3fed9b2875d",
+  "translation": "みせて もらおうか!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b473b33544adbae",
+  "translation": "{JPN}しんじられない! すごいぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2c6d75255ecc9d5",
+  "translation": "しょうしゃは {ENG}{PLAYER}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9639339b20fd614c",
+  "translation": "{JPN}しょうしゃは ヒース!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be77da7115a81450",
+  "translation": "ドームスーパースターの しょうりです!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4700a1b68c102491",
+  "translation": "おめでとう ヒース!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc3b94041bc242bf",
+  "translation": "{JPN}ヒース: きまり だからねっ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db934d8e1084e75e",
+  "translation": "キミの フロンティアパスを かしてっ!!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3dd0f694299ad54",
+  "translation": "{JPN}フロンティアパスに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2f9597db99738dc",
+  "translation": "タクティクスシンボルが きざまれた!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b8f5f652e19284e",
+  "translation": "{JPN}…… …… ……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90379e86902d097b",
+  "translation": "わたしは キミを みくびって いたよ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41d4b735de1cdeda",
+  "translation": "つぎは おなじ ミスは しないからね……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "095a89016290fd25",
+  "translation": "{JPN}どこまで れんしょうを のばすのか!?\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b9bcd2fe49b26b5",
+  "translation": "じしん じゅうぶん!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "adf33e5a28a3b1f2",
+  "translation": "{JPN}しんししゅくじょの みなさま!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e254a555df22e21",
+  "translation": "ぼうや おじょうちゃん そして ポケモン!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cea381d0d8a09956",
+  "translation": "ついに!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7be8b49a98d2c152",
+  "translation": "ついに でんせつが かえってきた!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d653cbc3d080f05e",
+  "translation": "そう その でんせつの なまえは!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69061f778afc116d",
+  "translation": "われらが ドームスーパースター!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da08426f299575c4",
+  "translation": "ほかでもない ヒース だ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea5eccb99795572f",
+  "translation": "{JPN}ヒース: ああ…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8bd1eb7a925c4a47",
+  "translation": "かんしゅうの とどろく かんせい…\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05e49116198a055d",
+  "translation": "ろの ような こうふんの ねつ…\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b25341f8f062c553",
+  "translation": "ここは すばらしい ばしょだ…\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d25619518e7f4fe",
+  "translation": "わたしは みんなの ドームスーパースター…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ebb34202ebdb8ff",
+  "translation": "みんなの ゆめと きぼう そのもの…\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7835ed532dce0e43",
+  "translation": "みんなの まえから きえては ならない…\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54dcf99ffc4a0b23",
+  "translation": "もえなくては!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "346dd9f42c95f79b",
+  "translation": "もっと あかるく もっと まばゆく!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13d18fd064887d11",
+  "translation": "ここに つどう すべてを てらすのだ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42baf474adffa809",
+  "translation": "{JPN}さあっ! わたしの すべてっ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be67d4fdbd1b4207",
+  "translation": "ここに ひろう するよっ!!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a3b933e0212fcce",
+  "translation": "{JPN}ヒース: キミは ほんとうに すばらしい!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ff60b85ab9d8d26",
+  "translation": "はじめてだ! これまで ほんきを だして\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be377fb034f8587d",
+  "translation": "まけた ことは なかったのに!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9fccf9a168caea8",
+  "translation": "そう じつに すばらしい!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "268be46d4d090064",
+  "translation": "フロンティアパスを かしてくれるかい?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f530c18e01be8fa5",
+  "translation": "{JPN}タクティクスシンボルが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15e9251e491d420f",
+  "translation": "きんいろに かがやいた!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66af38fe87ff942d",
+  "translation": "{JPN}キミは つよい だが なにより\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c22d9319ddc0b8d2",
+  "translation": "どくとくの みりょくが ある!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ca0736530c36b2d",
+  "translation": "キミには わたしの ような\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6232a8da09ccc542",
+  "translation": "スーパースターの かのうせいを かんじるよ\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e230057ad0d4516",
+  "translation": "つぎに あえる ときを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "141ed88eae78015e",
+  "translation": "こころから たのしみに しているよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e2d7a52875c2edb",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}さんが レベル50\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d87d849069442e4e",
+  "translation": "バトルトーナメント ゆうしょう!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "506bada381c792b1",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4419459819dd530",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}さんが オープンレベル\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07ae3ddf9ff26aeb",
+  "translation": "バトルトーナメント ゆうしょう!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f4785057223e137",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aca3c09d35ac54cd",
+  "translation": "{JPN}けっしょうせん!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c331075f8ea554a6",
+  "translation": "{ENG}{PLAYER}{JPN} たい ドームスーパースター ヒース!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5073c7d39bdf3dde",
+  "translation": "バトル かいし!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baa84bf32b0ba5e7",
+  "translation": "{JPN}しんぱんいん より\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a348f081bec5b4d",
+  "translation": "はんていの けっかが でました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5722e474826489ae",
+  "translation": "しょうしゃは…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d46907987725909d",
+  "translation": "なんと! なんと! なんと!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83f2656dc2ba1819",
+  "translation": "われらが ドームスーパースター!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "059c210f3e680263",
+  "translation": "ヒース です!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67fb532c7af6ba76",
+  "translation": "おめでとう! そして ありがとう!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bb07fee4b8f12e0",
+  "translation": "ドームスーパースター ヒースに はくしゅを!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35051a0f39796383",
+  "translation": "{JPN}まもなく 1かいせんが はじまります\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5051d21adcbec9a6",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be9555e44eae3ba2",
+  "translation": "{JPN}まもなく 2かいせんが はじまります\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d550b0b882cdda79",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f559968b933e60e",
+  "translation": "{JPN}まもなく じゅんけっしょうが はじまります\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bc01afe4f3618c0",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f8667d354b06fee",
+  "translation": "{JPN}まもなく けっしょうせんが はじまります\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "929092283575b7c1",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8eec880e18850541",
+  "translation": "{JPN}それでは しあいに だす\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b85f478e05ab9de",
+  "translation": "ポケモンを 2ひき えらんでください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04b6125ac794d795",
+  "translation": "{JPN}では こちらから どうぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c7ff85ebeb5148e",
+  "translation": "{JPN}おつかれさまでした!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5998d7248e3dbb53",
+  "translation": "ポケモンの たいりょくを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4de778fbf976aedd",
+  "translation": "かいふく いたします!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf293d0eb87ed9b5",
+  "translation": "{JPN}これで 1かいせんが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aac82d933613f303",
+  "translation": "すべて しゅうりょう しました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fff0557b51792de",
+  "translation": "かちあがりを ごらん ください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "657f89248454d0b9",
+  "translation": "{JPN}これで 2かいせんが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe18741f3bb7d6d7",
+  "translation": "すべて しゅうりょう しました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9789795b87fd63c",
+  "translation": "かちあがりを ごらん ください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab6e41d839e5d763",
+  "translation": "{JPN}これで じゅんけっしょうが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26be043f3902f4ee",
+  "translation": "すべて しゅうりょう しました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df0c4bda67f28122",
+  "translation": "かちあがりを ごらん ください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2cf861458f836ff",
+  "translation": "{JPN}1かいせん とっぱ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1378f52e311689aa",
+  "translation": "おめでとう ございます!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d5c0064faf56bd6",
+  "translation": "つぎは 2かいせん です\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e547df900339ace2",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c73a82e3f67bba59",
+  "translation": "{JPN}じゅんけっしょう しんしゅつ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a31f6cc322885381",
+  "translation": "おめでとう ございます!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bfe530010048daa",
+  "translation": "さあ ベスト4の げきとつです\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "edd168ec571cd08f",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9236071c10f99d92",
+  "translation": "{JPN}けっしょう しんしゅつ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "095d2b977af4f2d5",
+  "translation": "おめでとう ございます!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "934c8fce8191b2ef",
+  "translation": "ゆうしょうまで あと 1しょう ですね\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3dbd7d0468b87cb1",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab8c3b54dbc7b81a",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}さんの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb4e64b1d4cf77fc",
+  "translation": "つぎの あいては このかた です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "575c06a4a976373f",
+  "translation": "{JPN}トーナメントは 1かいせんの さいちゅう です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a52df35428cd952",
+  "translation": "{JPN}トーナメントは 2かいせんの さいちゅう です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37a7a37d26bc2812",
+  "translation": "{JPN}トーナメントは じゅんけっしょうの さいちゅう です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9260778e23b03bf9",
+  "translation": "{JPN}トーナメントは けっしょうせんを むかえました$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45d19cea54b5e221",
+  "translation": "{JPN}レポートを かいて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c313e842ba64bebf",
+  "translation": "しゅうりょう しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d5bab960a7dad67",
+  "translation": "{JPN}バトルトーナメントの ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c505878a859b5db",
+  "translation": "ちゅうし しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2572da1b7a08b99",
+  "translation": "{JPN}レポートを かいています\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83ff832b48c270a8",
+  "translation": "しばらく おまちくださいませ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d44296436abd5017",
+  "translation": "{JPN}さきほどの たたかいを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e401d73e79d79acf",
+  "translation": "フロンティアパスに きろく しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6eee5c83cb102e1e",
+  "translation": "{JPN}けっしょう しんしゅつ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e80c6ed09eba439",
+  "translation": "おめでとう ございます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5015321ba36299bb",
+  "translation": "つぎは ドームスーパースター ヒースさまに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46037b09805a0d5b",
+  "translation": "いどむ けっしょうせん です!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a237d2a02190b3d",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d69c21cc0e5975e",
+  "translation": "{JPN}けっしょう しんしゅつ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13fdbda1a315e2a8",
+  "translation": "おめでとう ございます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f5cd1bd993a983a",
+  "translation": "つぎは ドームスーパースター ヒースさまに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2ed8eb2c39e17db",
+  "translation": "いどむ けっしょうせん です!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b58fcaba9b0a65fb",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "488fcb9cc8f381f8",
+  "translation": "{JPN}さあ ヒースさまとの けっしょうせん です!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14225a7ff4550c89",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19eb97b7b16ac588",
+  "translation": "{JPN}さあ ヒースさまとの けっしょうせん です!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88b04ca81b5cd867",
+  "translation": "じゅんびの ほうは いかがですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ac9b26b53617324",
+  "translation": "{JPN}トレーナーの ちしきが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6132c3828c06a256",
+  "translation": "ためされる ばしょ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da5d972de2e9d8ff",
+  "translation": "バトルファクトリーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0a3372a167a381d",
+  "translation": "わたしは バトルトレード\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a137a765cea22ede",
+  "translation": "シングルの うけつけ です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5a3e2e62b275b64",
+  "translation": "{JPN}バトルトレード シングルに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79c261e8aa965a8d",
+  "translation": "ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4009579e643f11d",
+  "translation": "{JPN}バトルトレード シングルは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37416067d7aa30d8",
+  "translation": "レンタルポケモン だけを つかう\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d1b2a6519b0fcc3",
+  "translation": "シングルバトルの たいかい です\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fce18577caf1a0a",
+  "translation": "まず この たいかい せんようの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e0fcf2d076682cd",
+  "translation": "ポケモンを 3びき おかしします\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "780b1fa5012374ba",
+  "translation": "その レンタルポケモンを つかって\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0abcca4de78a7a47",
+  "translation": "シングルバトルを おこないます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a96207265159ae01",
+  "translation": "かてば レンタルポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67d19eb08adb43a7",
+  "translation": "1ぴき こうかん できます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d54389a8bebaea1",
+  "translation": "バトルと こうかんを くりかえし\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc8b71b6ab7cd071",
+  "translation": "7かい れんぞくで かつと\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0c68b66a8c2aae7",
+  "translation": "バトルポイントが もらえます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a27751325f89a43",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "237d3d42e3a5e73c",
+  "translation": "かならず レポートを かいてください\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c04585f8bfc928dd",
+  "translation": "レポートを かかないと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d73bea613f3855e",
+  "translation": "ちょうせんは しっかくと なります$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "657d405b6878ad7c",
+  "translation": "{JPN}またの ごりようを おまちしていますよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67589282b87293d3",
+  "translation": "{JPN}レベル50と オープンレベルの イベント\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "913cbf122b860a37",
+  "translation": "どちらに ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c761d0bd2adfcce9",
+  "translation": "{JPN}では ちょうせんを はじめる まえに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d208b940d10a3d8",
+  "translation": "レポートを かきますが よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c721cd4a92d69e6",
+  "translation": "{JPN}それでは ちょうせんの あいだ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c46f1c537f233e3",
+  "translation": "ポケモンを おあずかり します!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e37f2791b7b44a4",
+  "translation": "{JPN}さあさあ こちらに どうぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aca309ab9ff7d96e",
+  "translation": "{JPN}おつかれさまでした!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d993e425fc70d1f",
+  "translation": "レンタルポケモンと ひきかえに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38571a55b0900d22",
+  "translation": "あなたの ポケモンを おかえしします\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eae7e8fc6c49476a",
+  "translation": "たいかいの けっかを レポートに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a0e3af638e4daa2",
+  "translation": "かきますので おまちください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8fb4a19c2cb0b94",
+  "translation": "{JPN}レンタルポケモンと ひきかえに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0a22d7337c933a5",
+  "translation": "あなたの ポケモンを おかえしします$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd750e6e2d2902aa",
+  "translation": "{JPN}バトルトレード 7せん とっぱ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "636e920a81514cf1",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d604a97cc65963d7",
+  "translation": "{JPN}7れんしょうを きねんして\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19d1e7e34a29fa5a",
+  "translation": "バトルポイントを さしあげます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8941ab92a22321ef",
+  "translation": "{JPN}おやや?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3608f0f7e7cb1815",
+  "translation": "バトルポイントが いっぱい ですねー\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "848821dff44bfc3f",
+  "translation": "ポイントを ごりようしてから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a75ef52f863f5a6",
+  "translation": "また きてください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "528bec46f91cf73c",
+  "translation": "{JPN}おまちしておりましたよ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdb6700aee0d644b",
+  "translation": "ちょうせんを さいかいする まえに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8f30ce83fdf1c01",
+  "translation": "レポートを かきます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d98a8a8504f40901",
+  "translation": "{JPN}もうしわけ ありませんが ぜんかい\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6768901e1ba37bc1",
+  "translation": "レポートを かかずに おわりましたね\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f275a5d4cd6904c",
+  "translation": "そのため ちょうせんは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "923456af78d81c4a",
+  "translation": "しっかくと なりました$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "800ff0cd3e43987b",
+  "translation": "{JPN}あなたの ポケモンを おかえしします$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "178ec1e95cfceba9",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b0e4385d6efc4a8",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を もらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d887fc9772c1a1bf",
+  "translation": "{JPN}トレーナーの ちしきが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb1f7efa2ee490cd",
+  "translation": "ためされる ばしょ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de72bea6219a7229",
+  "translation": "バトルファクトリーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74739011b492d6b6",
+  "translation": "わたしは バトルトレード\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7c779244a718680",
+  "translation": "ダブルの うけつけ です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a26403192695f97c",
+  "translation": "{JPN}バトルトレード ダブルに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b91ccaecff33d826",
+  "translation": "ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f940472df3b92758",
+  "translation": "{JPN}バトルトレード ダブルは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4f63ea4069a1825",
+  "translation": "レンタルポケモン だけを つかう\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7fa83ff5ec91e7e",
+  "translation": "ダブルバトルの たいかい です\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1eff6dcf3ada9d1d",
+  "translation": "まず この たいかい せんようの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd05904dac929cb0",
+  "translation": "ポケモンを 3びき おかしします\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f27d5db4ceb7ed0b",
+  "translation": "その レンタルポケモンを つかって\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76d61c579def0aee",
+  "translation": "ダブルバトルを おこないます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f436ee569c6c706",
+  "translation": "かてば レンタルポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dd3ebfa9c2370c8",
+  "translation": "1ぴき こうかん できます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e59d42990b232e0",
+  "translation": "バトルと こうかんを くりかえし\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2fdf06e8a5fc8dc",
+  "translation": "7かい れんぞくで かつと\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa9537ca4aecdd93",
+  "translation": "バトルポイントが もらえます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61718211e84e594b",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6202fa7ae5c267b",
+  "translation": "かならず レポートを かいてください\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b15812b42ebb8e00",
+  "translation": "ちゅうだん まえに レポートを かかないと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cada0b8d617d53d",
+  "translation": "しっかくと なります$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8e8e41f5fbf1f66",
+  "translation": "{JPN}ファクトリーヘッドへの しょうり!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9244f33cbc0cede2",
+  "translation": "ならびに 7れんしょう たっせい\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4f938cd85b76ffd",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c836d49194f87c22",
+  "translation": "{JPN}あなたの ゆたかな ちしきと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ee3b2dc8205e08d",
+  "translation": "するどい ちせいを たたえ\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75b0cce83968bf02",
+  "translation": "バトルポイントを さしあげます!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d14a7d013154be30",
+  "translation": "{JPN}あなたの ポケモンと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d54e671413c169e3",
+  "translation": "レンタルポケモンを こうかん します\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "751bfebe447668e9",
+  "translation": "バトルの データを レポートに かくので\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b66890916521fad",
+  "translation": "しょうしょう おまちください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62a4ec2b7ac8fb77",
+  "translation": "{JPN}バトルファクトリーで\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4527de60f874fe06",
+  "translation": "さいごに おこなった たたかいを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6f7ff257530271d",
+  "translation": "フロンティアパスに きろく いたしますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53c836b7b55670de",
+  "translation": "{JPN}やあ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1c80c21f992c2ab",
+  "translation": "そこの きみ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44880732c006d101",
+  "translation": "ここの イベントは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "894fa210a9dfb187",
+  "translation": "そだてなくて いいから\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dea3b8349d9456bd",
+  "translation": "かんたんだと おもってない?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "756de091d76d476d",
+  "translation": "そんなに かんたんに かてるとは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2f865d4c1c198d9",
+  "translation": "かぎらないよ\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40b4c26df17c508f",
+  "translation": "ポケモンと わざについて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48f1b625c534af40",
+  "translation": "しっかり しっていないと\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "465d2d39819c734e",
+  "translation": "かちつづけるのは むずかしいよ$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0e9cf3af160c7ae",
+  "translation": "{JPN}よわい ポケモンと こうかん しちゃった…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26ac82d9f3b3ba71",
+  "translation": "いい しゅるいだと おもったのに…\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13e967e3be2e6b6b",
+  "translation": "ボロまけ……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1e9c40ae664be67",
+  "translation": "{JPN}ぜんぜん うまく\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94fc27caa5ec06d3",
+  "translation": "いかないなあ\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88c9a87c927bba06",
+  "translation": "バトルちゅうに あいての ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72066c997bfdf345",
+  "translation": "よく みて つよいか どうか\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "070b3a2128f73130",
+  "translation": "たしかめないと だめなんだね$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52f9ae5801634893",
+  "translation": "{JPN}ここの スタッフが つぎの あいての\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73a7c48419b0a0f2",
+  "translation": "ヒントを くれるでしょ?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3c7234779e7e4b0",
+  "translation": "いい おとなの わたしでも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc31bd64ca9afc21",
+  "translation": "あの ヒントは よく わからないんだ$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1f677de8d49a61f",
+  "translation": "{JPN}なんか ちょー つよいんだけど すぐ あきるから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3eb1e731b1659ad8",
+  "translation": "ひたすら こうかんと バトルを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db353d72f510e149",
+  "translation": "くりかえしてたわけ\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f698791de5ec238f",
+  "translation": "でさー バトルトレードに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0180888d36b3c8f3",
+  "translation": "なんども でてたら\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cda5a66fd0751bc2",
+  "translation": "レンタルポケモンが いろいろ ちがうのよ$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0cc3802e984c8be",
+  "translation": "{JPN}バトルトレードの ルールが かかれている!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5e743a7c6bc5c94",
+  "translation": "{JPN}どの せつめいを よみますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b77ee5fa4280a3a",
+  "translation": "{JPN}バトルトレードで つかえる ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42a96e1040198efb",
+  "translation": "3びき だけ です\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7f9e87013e9591f",
+  "translation": "レンタルでも こうかんでも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "989d1c267b5ef446",
+  "translation": "おなじ ポケモンを 2ひき いじょう\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8964731374ce78f5",
+  "translation": "チームに いれる ことは できません$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01ef28005d047705",
+  "translation": "{JPN}ポケモンを こうかん できるのは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76e5aab0a43b3b06",
+  "translation": "たおした ばかりの トレーナー だけです\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afda34f4173791e9",
+  "translation": "こうかん できるのは まけた トレーナーが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3112445a5fd2984",
+  "translation": "つかっていた ポケモン だけです$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40d517bad150e1c4",
+  "translation": "{JPN}バトルに かつ たびに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9803e829884fb1f",
+  "translation": "たおした あいての ポケモンと\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a4ec31933a95d8e",
+  "translation": "1ぴき こうかん できます\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb162a8686af9b51",
+  "translation": "ただし 7にんめの トレーナーとは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9078e7f5dabaf1a0",
+  "translation": "ポケモンを こうかん できません$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "458c19636885073c",
+  "translation": "{JPN}ポケモンを こうかん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b57c97877d524034",
+  "translation": "2つの ポイントに ちゅういしてください\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e9d069dddcc5f28",
+  "translation": "ひとつめ こうかん するとき\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c467316f09f9c99",
+  "translation": "もらう ポケモンの のうりょくは\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "141a39295a2e192c",
+  "translation": "かくにん できません\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80c08ece55e3082e",
+  "translation": "ふたつめ チームの ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5cfa91eb78f42d3",
+  "translation": "レンタルした じゅんばんに\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec2d3e0ca9a64221",
+  "translation": "ならんで います\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b62090fd33e0d3f",
+  "translation": "この じゅんばんは こうかんしても\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc56e5a995cbe6ca",
+  "translation": "かわりません$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "546abcfd1de2ca96",
+  "translation": "{JPN}オープンレベルでは レンタルポケモンも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6581924abccba2b",
+  "translation": "あいての トレーナーの ポケモンも\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3cbc1c7800901b1",
+  "translation": "すべて レベル100 です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "631d11bf99a28c20",
+  "translation": "{JPN}まず あなたの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae85362fe6fa0d30",
+  "translation": "おあずかり します\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ce2880aaf986205",
+  "translation": "そのあと こちらで よういした\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "228716cac222bb35",
+  "translation": "ポケモンから えらんでください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "daa648c89e20085b",
+  "translation": "{JPN}おつかれさま です!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6210b65f2491c390",
+  "translation": "ポケモンを かいふく しましょう!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b11a1c61cee23a82",
+  "translation": "{JPN}つぎは 2せんめ ですよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb9178bc925e26f2",
+  "translation": "じゅんびは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89431dedd9957b7d",
+  "translation": "{JPN}つぎは 3せんめ ですよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e10ff71ea328b674",
+  "translation": "じゅんびは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62150d4e26ce4b4a",
+  "translation": "{JPN}つぎは 4せんめ ですよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84954ae5acb9215e",
+  "translation": "じゅんびは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66ecc980ad4752d1",
+  "translation": "{JPN}つぎは 5せんめ ですよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "897e85e78ea157d0",
+  "translation": "じゅんびは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e324c7de36b36c8",
+  "translation": "{JPN}つぎは 6せんめ ですよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f928a6ea24f952b",
+  "translation": "じゅんびは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74517e99f0464990",
+  "translation": "{JPN}いよいよ 7せんめ ですよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d6bc087aca99cf1",
+  "translation": "じゅんびは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0bb45850309bc41",
+  "translation": "{JPN}レポートを かいて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0eb2709d73b69258",
+  "translation": "しゅうりょう なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11470503bb5c7dc4",
+  "translation": "{JPN}バトルトレードの ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e659802dff8b4523",
+  "translation": "ちゅうし されますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5591feeaa0795418",
+  "translation": "{JPN}つぎの あいてに ついて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53cf20339fd0ea82",
+  "translation": "すこし しらべて みました$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ac9239102c0d070",
+  "translation": "{JPN}どうやら ノーマルタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d872d5bb87e3317",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3208a49eb4cb9974",
+  "translation": "{JPN}どうやら ほのおタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b402e71257391c41",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "575608572301d031",
+  "translation": "{JPN}どうやら みずタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a8dc0c03dd3935f",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45f103d30faff4a7",
+  "translation": "{JPN}どうやら でんきタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "573417d07aa2f937",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddb21bee5e1061f9",
+  "translation": "{JPN}どうやら くさタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ece951ce60c923d1",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e47eb45910a784dc",
+  "translation": "{JPN}どうやら こおりタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00df52b2018cfb03",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74290b35a2653e67",
+  "translation": "{JPN}どうやら かくとうタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "076b8b1e4963a966",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "edae025d30b3c694",
+  "translation": "{JPN}どうやら どくタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "968b5a7d40989d9b",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34fb3f93006ed385",
+  "translation": "{JPN}どうやら じめんタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e13d52e0c8d65c1c",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "deae3b55bc31296a",
+  "translation": "{JPN}どうやら ひこうタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "348ca3152363aa91",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a06d5b45bf7b81b",
+  "translation": "{JPN}どうやら エスパータイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "632ee412e587eeeb",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3bdc6f4f5b56628",
+  "translation": "{JPN}どうやら むしタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b7be115b21b980d",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e74cf62a86cf01f",
+  "translation": "{JPN}どうやら いわタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fad60ae6e608711",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d27fcb49b7a60ee",
+  "translation": "{JPN}どうやら ゴーストタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c3541d346391561",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e9ad84939a0a260",
+  "translation": "{JPN}どうやら ドラゴンタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6146fd05264316ae",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b7b7b655b5cf487",
+  "translation": "{JPN}どうやら あくタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22a6c51c87c2efae",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "850a72bab7865045",
+  "translation": "{JPN}どうやら フェアリータイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d2d58548203e169",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "696469f97365d2f8",
+  "translation": "{JPN}どうやら はがねタイプを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb23099bb52b99da",
+  "translation": "とくいと して いて……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f1602f2c40e8f95",
+  "translation": "{JPN}どうやら ポケモンの タイプには\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05191553f75290af",
+  "translation": "とくに こだわりが ないようで……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6425e8ea29fd26aa",
+  "translation": "{JPN}『じっくり じわじわ』とした バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29d8c1a6c7e2e949",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "feaba622f73bc26e",
+  "translation": "{JPN}『まだまだ これから!』な バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6596c0f6bc074418",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c35c015ad02c24e",
+  "translation": "{JPN}『けんこん いってき』の バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a60daf7200d0480",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80cea872519dc392",
+  "translation": "{JPN}『くもゆき しだい』の バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1162c55ff2446ab8",
+  "translation": "こころがけている かたの ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a11a14d11b6f1958",
+  "translation": "{JPN}『じゅんび ばんたん』の バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a845e2da82d1e592",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64e5e98b39f8e361",
+  "translation": "{JPN}『まずは よわらせて…』という バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42bc09c175e2d291",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ef471aef4e56bee",
+  "translation": "{JPN}『りんきおうへん』な バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68f6a785251a3512",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "403aa57e1e542767",
+  "translation": "{JPN}『よそく ふかのう』な バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff48bdb331689b6f",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2caac5023447edf7",
+  "translation": "{JPN}『じゆう ほんぽう』な バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c6a598f876d3279",
+  "translation": "こころがけている ようですよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "824a039d207f7e04",
+  "translation": "{JPN}では バトルを はじめる まえに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83d32e1b26ead3ca",
+  "translation": "ポケモンの こうかんを おこないますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec94f43f71cdf256",
+  "translation": "{JPN}おつかれさまです!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0feb1e46ec33e6f",
+  "translation": "ポケモンこうかん かんりょう ですね!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "376c869a024a8bfe",
+  "translation": "{JPN}それでは おくに どうぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b5324bdaaf489ec",
+  "translation": "{JPN}ただいま レポートを かいて います……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b781a0e810b5acd",
+  "translation": "しょうしょう おまちください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4865bbce62aefd19",
+  "translation": "{JPN}さきほどの たたかいを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39c09f3070b8dcc3",
+  "translation": "フロンティアパスに きろく しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "155bd272b3b81399",
+  "translation": "{JPN}もうしわけ ありません!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a7b6c902b274cb2",
+  "translation": "しょうしょう おまちください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c56c2298439aa6fd",
+  "translation": "{JPN}…はい? なんですって?! …ひぃっ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3900389eb451851d",
+  "translation": "わっかりましたっ!! りょうかいです!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5ec20ad556e4685",
+  "translation": "{JPN}あらら…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "478e0bf9f5f4438c",
+  "translation": "おまたせ しました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f28937dfe06f00c",
+  "translation": "この しせつの ボス\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55a7dc72d7ac55c8",
+  "translation": "ファクトリーヘッドから でんごんです\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4638ebd215b658dd",
+  "translation": "「やるぞ! いますぐ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30b9ab3a7958b4d1",
+  "translation": "こっちへ こい!」 とのことです$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28c5a44d9b0f989e",
+  "translation": "{JPN}ファクトリーヘッドが およびです!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b275c5aaf6fdd1cd",
+  "translation": "かくごは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98476485edcd89b7",
+  "translation": "{JPN}もうしわけ ありませんが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e161b46cb207ea7f",
+  "translation": "ファクトリーヘッドの ことは いえません$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eace52a3e3b725d0",
+  "translation": "{JPN}こんにちは こちらは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f99ea5477a1e8d6c",
+  "translation": "こうかんサービスコーナーです\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "262797300557a902",
+  "translation": "あつめた バトルポイントを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08c86207b951df1a",
+  "translation": "すてきな しょうひんと こうかんします\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eba0bff7278c47cb",
+  "translation": "リストから しょうひんを えらんでください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21c2693ed131347d",
+  "translation": "{JPN}リストから しょうひんを えらんでください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9d223fe21db3b9b",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}を えらびました\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8307f9d33f93252",
+  "translation": "よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "365314a42d59378e",
+  "translation": "{JPN}ありがとうございます!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9439277813fc0917",
+  "translation": "じたくの パソコンに おくります$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "624f526d25897dd6",
+  "translation": "{JPN}しょうひんを どうぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7e0af89b24e5bb2",
+  "translation": "{JPN}もうしわけ ありません……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8380593ee30c28b9",
+  "translation": "バトルポイントが たりません……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00486f8149e7f67a",
+  "translation": "{JPN}もうしわけ ありません……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0afd31169eed14e8",
+  "translation": "パソコンが いっぱいのようです……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b40a444202076ed4",
+  "translation": "{JPN}もうしわけ ありません……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "263f66d5e58cb4f9",
+  "translation": "もちものが いっぱいのようです……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c690177a1875ae7",
+  "translation": "{JPN}ありがとうございました\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f4806e60a876bb3",
+  "translation": "バトルポイントを ためたら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb68c6c356919681",
+  "translation": "また おこしください$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f006578ffaa7f05",
+  "translation": "{JPN}わあ すてき!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75601472736e098b",
+  "translation": "ほしいなあ!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5df26788989808cc",
+  "translation": "かわいい クッション!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45a457c6e558df1d",
+  "translation": "おおきな ぬいぐるみ!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dd3e48eea14c6bf",
+  "translation": "ちいさな ぬいぐるみ!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5b3a6faee9170b7",
+  "translation": "ぜんぶ ほしいなあ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5388d357933fbc93",
+  "translation": "{JPN}ママに まかせといてって!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0fc7db4c04b2ece",
+  "translation": "あんたの ほしいもん だったら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cee0ee545c5b0afa",
+  "translation": "なんでも とって きたるよ!!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1b0d8e03f0600fc",
+  "translation": "{JPN}ここの どうぐが てに はいれば\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c04045347d930598",
+  "translation": "ポケモンが もっと つよく なるんだ\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa71817c77d22dff",
+  "translation": "ぜったい そうさ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1617f0dd854696af",
+  "translation": "まちがい ない!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58b1f4d0085f393e",
+  "translation": "{JPN}はあ?\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9af8e2c022a9b26f",
+  "translation": "なに じろじろ みてるの?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d07ca0702dd4a16",
+  "translation": "ひとの ぬいぐるみを そんなふうに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82500e5afa9a2b27",
+  "translation": "じろじろ みないでよね\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d3a785821621be4",
+  "translation": "ほしいなら じぶんで てに いれなさい!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55b99a4c3e2f61ee",
+  "translation": "ねえ ムチュール?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2cd926049690ef7",
+  "translation": "{JPN}しってた?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3a3790722b44f45",
+  "translation": "どこの バトルしせつでも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dac6913ae4e30724",
+  "translation": "きろくを のばしていくと\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1d9c8016a317d7f",
+  "translation": "もらえる バトルポイントが ふえていくんだ$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f7172864a52acad",
+  "translation": "{JPN}ムチュールの もようの おおきな ポスター$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e46ca4c4833952cb",
+  "translation": "{JPN}ムチュールの クッション\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0909e55fc3bcff8",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "838d68c5664b0763",
+  "translation": "{JPN}ムチュールの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b701a3bc270d915",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb1129db7d9ee18d",
+  "translation": "{JPN}トゲピーの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4d64d0c483016db",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56d4771269218250",
+  "translation": "{JPN}ニャースの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a761746a8a35b178",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "156458a53d372cdb",
+  "translation": "{JPN}ピッピの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9c4a059c4d607b0",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e354dc16ebad20b",
+  "translation": "{JPN}メタモンの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "764e19d286ff7455",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1263f651dddf5ac2",
+  "translation": "{JPN}ヒノアラシの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3709a3d220d86b32",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee63c2b817faa931",
+  "translation": "{JPN}チコリータの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9403c531f4b3b509",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd450408778c75c6",
+  "translation": "{JPN}ワニノコの ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f7332f6a02f5fb7",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91eb269d10328276",
+  "translation": "{JPN}おおきな ぬいぐるみ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eadb52e22dab681d",
+  "translation": "マットや つくえの うえに おくもの$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79ab779890590b50",
+  "translation": "{JPN}ポケモン 1ぴきの こうげきの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9110b434f71b4d6",
+  "translation": "きそポイントを あげる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "998e2f505ef17fba",
+  "translation": "{JPN}ポケモン 1ぴきの とくこうの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f713d56cf19f6433",
+  "translation": "きそポイントを あげる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80f25acc7d442a94",
+  "translation": "{JPN}ポケモン 1ぴきの ぼうぎょの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d895b382ea925fe",
+  "translation": "きそポイントを あげる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5c44e37370b45d1",
+  "translation": "{JPN}ポケモン 1ぴきの とくぼうの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93456fed171860b3",
+  "translation": "きそポイントを あげる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4696b6f68919527b",
+  "translation": "{JPN}ポケモン 1ぴきの すばやさの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f4a67d97911e560",
+  "translation": "きそポイントを あげる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14c5e8ad42d2a885",
+  "translation": "{JPN}たいりょくの きそポイントを あげる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f594211e2e1c25d6",
+  "translation": "{JPN}もたせると たいりょくが せんとうの あいだ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f4313a56a50a058",
+  "translation": "すこしずつ かいふくする$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16d2025ff2bdbed8",
+  "translation": "{JPN}ポケモンに もたせると さがった\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9746c826b1181b6b",
+  "translation": "のうりょくを もとにもどす$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "514368bb0e35468a",
+  "translation": "{JPN}ポケモンに もたせると せんせい こうげきが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8314a4aa3f6e72b7",
+  "translation": "たまに できる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f274356e18bf8364",
+  "translation": "{JPN}もたせた ポケモンが メロメロに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93e16b74d2b46a86",
+  "translation": "なったとき なおして くれる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb2d21681cc2eb40",
+  "translation": "{JPN}もたせると ひかりが あいてを まどわして\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8700be2e7d7a1b78",
+  "translation": "めいちゅうりつを さげる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78da7bebc6995878",
+  "translation": "{JPN}こうげきの いりょくが あがるが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "077ae531dee437fd",
+  "translation": "おなじ わざしか だせなくなる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e0c0356084113ff",
+  "translation": "{JPN}ポケモンに もたせると ダメージを うけた\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49ec7af8d80d87a4",
+  "translation": "あいてが たまに ひるむ$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07956798817310ef",
+  "translation": "{JPN}ポケモンに もたせると たまに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3292065393b9b900",
+  "translation": "ひんしを ふせぐことが できる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1454ea78dc3209d",
+  "translation": "{JPN}ポケモンに もたせると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de95a4e04ae7c799",
+  "translation": "きゅうしょに あたりやすくなる$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "487f12f7aa574736",
+  "translation": "{JPN}まごの つきそいで\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44257d11ef843f2f",
+  "translation": "ここに きたんです\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8361859114203441",
+  "translation": "でも せっかく きたんだから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ae815f80f96ea9f",
+  "translation": "おみやげでも かおうと おもって$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec80828390088b3c",
+  "translation": "{JPN}ねえ あなた これ どうかしら?\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1172a373979112e",
+  "translation": "おみやげに いいんじゃない?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ced581b289ad8310",
+  "translation": "タ…ウ…リン?\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f55d0e7b75f378f",
+  "translation": "なんだか おいしそうな なまえね$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d19481082e4a1bd9",
+  "translation": "{JPN}バトルフロンティアの おおくの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02c89665d94a6708",
+  "translation": "しせつでは バトルちゅうに\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f53df208ab3cf4f4",
+  "translation": "どうぐを つかえないんだ\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca591f5e3066cf58",
+  "translation": "その ルールの せいで\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb509542db0e3ca0",
+  "translation": "ますます きびしく なってるよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf451a6b71728a81",
+  "translation": "{JPN}ここで みたことも ない\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "375f75e00c2c2401",
+  "translation": "ポケモンを つかってる ひとが いたの\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ff6d414caf18c0e",
+  "translation": "すくなくとも トレーナーズスクールでは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57639f9db10d80e6",
+  "translation": "ならわなかったよ\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b103792d7bdb167b",
+  "translation": "ああいう ポケモンって\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c44fa9191f01bb03",
+  "translation": "どこで つかまえられるのかな$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4be7543cb85b795",
+  "translation": "{JPN}よしっ! おつぎは バトルアリーナだ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae391295a3dd65d0",
+  "translation": "パソコンから ぴったりの\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "579161ca037dd437",
+  "translation": "ポケモンを つれて いかなきゃ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d6f72e8504bcb0a",
+  "translation": "{JPN}うふふ… わたしは ぜーんぶの ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb8d3c0b1a1b05c9",
+  "translation": "この コ だけで がんばるんだ もんね!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "101a2fefc7db67d6",
+  "translation": "{JPN}エネコ: みゃ みゃーっ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dffae5a0f599804b",
+  "translation": "{JPN}ここは ランキングホール\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86b4675561709391",
+  "translation": "バトルフロンティアに ちょうせん した\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea48e0918174cc74",
+  "translation": "トレーナーたちの いだいな きろくを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03bfa7400b701d96",
+  "translation": "たたえる ばしょ です$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9cd0e138296de9b1",
+  "translation": "{JPN}バトルドーム バトルチューブ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86c36c30b1155a34",
+  "translation": "バトルファクトリー の きろくは こちら$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76be6817d34ed31c",
+  "translation": "{JPN}バトルパレス バトルアリーナ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "392aa526db04d071",
+  "translation": "バトルピラミッド の きろくは こちら$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24461197de623a53",
+  "translation": "{JPN}ねえ きみの なまえ のってる?$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0ab9be67e7ac6de",
+  "translation": "{JPN}へー すごいね!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa3d62f29e8269d4",
+  "translation": "ぼくも がんばらなきゃ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57e833ed7e1ce3e1",
+  "translation": "{JPN}そうなんだ…\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e95608b9d48a2bc",
+  "translation": "でも ともだちの なまえを ここで みたら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "517774f154083de7",
+  "translation": "がんばろうって きもちに なるよね!$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abf3b3e43bfd9ca9",
+  "translation": "{JPN}うーん…\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b52173660b130917",
+  "translation": "ぼくの なまえ のって ないなあ……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ecb909cb4c9eb51",
+  "translation": "まだ どこにも ちょうせん してないから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b16551d153c82486",
+  "translation": "あたりまえか……$",
+  "provenance": {
+   "batch": "dialogue-frontier-dome-factory-83",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

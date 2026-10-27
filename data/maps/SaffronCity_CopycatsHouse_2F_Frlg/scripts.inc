@@ -45,75 +45,75 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 	end
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Do you like POKéMON?\p"
-	.string "{PLAYER}: Uh, no, I just asked you.\p"
-	.string "{PLAYER}: Huh?\n"
-	.string "You're strange!\p"
-	.string "COPYCAT: Hmm? Quit mimicking?\n"
-	.string "But, that's my favorite hobby!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}: やあ!\n"
+	.string "ポケモン すき?\p"
+	.string "{ENG}{PLAYER}{JPN}: いや きいたのは こっちだよ。\p"
+	.string "{ENG}{PLAYER}{JPN}: え?\n"
+	.string "へんなの!\p"
+	.string "ものまねむすめ: え? まねを やめろ?\n"
+	.string "だって これが いちばんの しゅみなの!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
-	.string "{PLAYER}: Hi.\n"
-	.string "You must like POKéMON.\p"
-	.string "{PLAYER}: No, not me.\n"
-	.string "I asked you.\p"
-	.string "{PLAYER}: Pardon?\n"
-	.string "You're weird!\l"
+	.string "{JPN}{ENG}{PLAYER}{JPN}: こんにちは。\n"
+	.string "ポケモンが すきなのね。\p"
+	.string "{ENG}{PLAYER}{JPN}: ちがうわ わたしじゃない。\n"
+	.string "あなたに きいたの。\p"
+	.string "{ENG}{PLAYER}{JPN}: なあに?\n"
+	.string "へんな こ!\l"
 	.string " \l"
-	.string "COPYCAT: Hmm? Quit mimicking?\l"
-	.string "But that's my favorite hobby!$"
+	.string "ものまねむすめ: え? まねを やめろ?\l"
+	.string "だって これが いちばんの しゅみなの!$"
 
 Text_MimicTeach::
-	.string "Oh wow!\n"
-	.string "A POKé DOLL!\p"
-	.string "For me?\n"
-	.string "Thank you!\p"
-	.string "You know what?\n"
-	.string "I can teach the move MIMIC.$"
+	.string "{JPN}わあ!\n"
+	.string "ピッピにんぎょう!\p"
+	.string "わたしに?\n"
+	.string "ありがとう!\p"
+	.string "そうだ!\n"
+	.string "ものまねって わざを おしえて あげる。$"
 
 Text_MimicDeclined::
-	.string "Don't you like MIMIC?$"
+	.string "{JPN}ものまねは きらい?$"
 
 Text_MimicWhichMon::
-	.string "I really love MIMIC!\n"
-	.string "Who's going to learn it?$"
+	.string "{JPN}わたし ものまねが だいすき!\n"
+	.string "だれに おぼえさせる?$"
 
 Text_MimicTaughtMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for earlier!\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it that fun to mimic my\n"
-	.string "every move?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}: やあ!\n"
+	.string "さっきは ありがとう!\p"
+	.string "{ENG}{PLAYER}{JPN}: え?\p"
+	.string "{ENG}{PLAYER}{JPN}: ぼくの まねを するのが\n"
+	.string "そんなに たのしいの?\p"
+	.string "ものまねむすめ: もちろん!\n"
+	.string "すっごく おもしろいわ!$"
 
 Text_MimicTaughtFemale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for what you did for us.\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it really that fun to\n"
-	.string "copy what I say and do?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}: こんにちは!\n"
+	.string "この あいだは ありがとう。\p"
+	.string "{ENG}{PLAYER}{JPN}: なあに?\p"
+	.string "{ENG}{PLAYER}{JPN}: わたしの まねを するのが\n"
+	.string "ほんとうに そんなに たのしいの?\p"
+	.string "ものまねむすめ: もちろん!\n"
+	.string "すっごく おもしろいわ!$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
-	.string "DODUO: Giiih!\p"
-	.string "PRETTY MIRROR LOOK AT ME,\n"
-	.string "SEE HOW PRETTY I CAN BE?$"
+	.string "{JPN}ドードー: ギーッ!\p"
+	.string "かがみよ かがみ わたしを みて\n"
+	.string "わたしって こんなに きれい?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "This is a rare POKéMON!\n"
-	.string "Huh? It's only a doll!$"
+	.string "{JPN}これは めずらしい ポケモンだ!\n"
+	.string "あれ? ただの にんぎょうだ!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
-	.string "A game with MARIO wearing a bucket\n"
-	.string "on his head!$"
+	.string "{JPN}マリオが バケツを かぶってる\n"
+	.string "ゲームだ!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
-	.string "…\p"
-	.string "My Secrets!\p"
-	.string "Skill: Mimicry!\n"
-	.string "Hobby: Collecting dolls!\l"
-	.string "Favorite POKéMON: CLEFAIRY!$"
+	.string "{JPN}…\p"
+	.string "わたしの ひみつ!\p"
+	.string "とくぎ: ものまね!\n"
+	.string "しゅみ: にんぎょう あつめ!\l"
+	.string "すきな ポケモン: ピッピ!$"
 

@@ -10,106 +10,106 @@ Route3_EventScript_RouteSign::
 	end
 
 Route3_Text_TunnelFromCeruleanTiring::
-	.string "Whew… I better take a rest…\n"
-	.string "Groan…\p"
-	.string "That tunnel from CERULEAN takes a\n"
-	.string "lot out of you!$"
+	.string "{JPN}ふう…… すこし やすまないと……\n"
+	.string "うう……\p"
+	.string "ハナダからの トンネルは\n"
+	.string "ほんとに つかれるよ!$"
 
 Route3_Text_ColtonIntro::
-	.string "Hey!\n"
-	.string "I saw you in VIRIDIAN FOREST!$"
+	.string "{JPN}おい!\n"
+	.string "トキワのもりで みかけたぞ!$"
 
 Route3_Text_ColtonDefeat::
-	.string "You beat me again!$"
+	.string "{JPN}また まけた!$"
 
 Route3_Text_ColtonPostBattle::
-	.string "There are other kinds of POKéMON\n"
-	.string "than the ones you find in forests.$"
+	.string "{JPN}もりで みつかる ポケモン いがいにも\n"
+	.string "いろんな しゅるいが いるんだぞ。$"
 
 Route3_Text_BenIntro::
-	.string "Hi!\n"
-	.string "I like shorts!\p"
-	.string "They're delightfully comfy and\n"
-	.string "easy to wear!$"
+	.string "{JPN}やあ!\n"
+	.string "ぼく たんパンが すきなんだ!\p"
+	.string "すごく かいてきで\n"
+	.string "はきやすいんだよ!$"
 
 Route3_Text_BenDefeat::
-	.string "I don't believe it!$"
+	.string "{JPN}しんじられない!$"
 
 Route3_Text_BenPostBattle::
-	.string "Are you using a POKéMON CENTER's\n"
-	.string "PC for storing your POKéMON?\p"
-	.string "Each BOX can hold up to\n"
-	.string "30 POKéMON.$"
+	.string "{JPN}ポケモンセンターの パソコンに\n"
+	.string "ポケモンを あずけてる?\p"
+	.string "ボックス ひとつに\n"
+	.string "30ぴきまで はいるんだ。$"
 
 Route3_Text_JaniceIntro::
-	.string "Excuse me!\n"
-	.string "You looked at me, didn't you?$"
+	.string "{JPN}ちょっと!\n"
+	.string "いま わたしを みたでしょ?$"
 
 Route3_Text_JaniceDefeat::
-	.string "You're mean!$"
+	.string "{JPN}いじわる!$"
 
 Route3_Text_JanicePostBattle::
-	.string "You shouldn't be staring if you\n"
-	.string "don't want to battle!$"
+	.string "{JPN}しょうぶ したくないなら\n"
+	.string "じろじろ みないでよ!$"
 
 Route3_Text_GregIntro::
-	.string "Are you a TRAINER?\n"
-	.string "Let's get with it right away!$"
+	.string "{JPN}きみ トレーナー?\n"
+	.string "さっそく しょうぶ しよう!$"
 
 Route3_Text_GregDefeat::
-	.string "If I had new POKéMON, I would've\n"
-	.string "won!$"
+	.string "{JPN}あたらしい ポケモンが いれば\n"
+	.string "かてたのに!$"
 
 Route3_Text_GregPostBattle::
-	.string "If a POKéMON BOX on the PC gets\n"
-	.string "full, just switch to another BOX.$"
+	.string "{JPN}パソコンの ボックスが いっぱいに なったら\n"
+	.string "べつの ボックスに きりかえれば いいよ。$"
 
 Route3_Text_SallyIntro::
-	.string "That look you gave me…\n"
-	.string "It's so intriguing!$"
+	.string "{JPN}いまの まなざし……\n"
+	.string "すごく きになるわ!$"
 
 Route3_Text_SallyDefeat::
-	.string "Be nice!$"
+	.string "{JPN}やさしくしてよ!$"
 
 Route3_Text_SallyPostBattle::
-	.string "You can avoid battles by not\n"
-	.string "letting TRAINERS see you.$"
+	.string "{JPN}トレーナーに みつからなければ\n"
+	.string "しょうぶを さけられるわよ。$"
 
 Route3_Text_CalvinIntro::
-	.string "Hey! You're not wearing shorts!\n"
-	.string "What's wrong with you?$"
+	.string "{JPN}おい! たんパン はいてないじゃないか!\n"
+	.string "どうなってるんだ?$"
 
 Route3_Text_CalvinDefeat::
-	.string "Lost!\n"
-	.string "Lost! Lost!$"
+	.string "{JPN}まけた!\n"
+	.string "まけた! まけた!$"
 
 Route3_Text_CalvinPostBattle::
-	.string "I always wear shorts, even in\n"
-	.string "winter. That's my policy.$"
+	.string "{JPN}ぼくは ふゆでも いつも たんパン。\n"
+	.string "それが ぼくの ポリシーなんだ。$"
 
 Route3_Text_JamesIntro::
-	.string "I'll battle you with the POKéMON\n"
-	.string "I just caught.$"
+	.string "{JPN}つかまえた ばかりの ポケモンで\n"
+	.string "しょうぶだ。$"
 
 Route3_Text_JamesDefeat::
-	.string "Done like dinner!$"
+	.string "{JPN}こてんぱんだ!$"
 
 Route3_Text_JamesPostBattle::
-	.string "Trained POKéMON are stronger than\n"
-	.string "the wild ones.$"
+	.string "{JPN}そだてた ポケモンは やせいの\n"
+	.string "ポケモンより つよいんだ。$"
 
 Route3_Text_RobinIntro::
-	.string "Eek!\n"
-	.string "Did you touch me?$"
+	.string "{JPN}きゃっ!\n"
+	.string "いま さわった?$"
 
 Route3_Text_RobinDefeat::
-	.string "That's it?$"
+	.string "{JPN}それだけ?$"
 
 Route3_Text_RobinPostBattle::
-	.string "ROUTE 4 is at the foot of\n"
-	.string "MT. MOON.$"
+	.string "{JPN}4ばんどうろは おつきみやまの\n"
+	.string "ふもとに あるのよ。$"
 
 Route3_Text_RouteSign::
-	.string "ROUTE 3\n"
-	.string "MT. MOON AHEAD$"
+	.string "{JPN}ここは 3ばんどうろ\n"
+	.string "この さき おつきみやま$"
 

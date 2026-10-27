@@ -1,0 +1,1210 @@
+##### data/text/trainers.inc
+## Route121_Text_TammyIntro:
+85e7a706bb49b16e	この よには わたしたちの\n
+a5bea86c7d4d7135	りかいを こえた ちからが ある…$
+## Route121_Text_TammyDefeat:
+900567cbcf4ef4bb	まけて しまった…$
+## Route121_Text_TammyPostBattle:
+f3d8b1b6e8c24704	おくりびやま…\n
+301e7bbcbce1815b	あそこには ふしぎな ちからが\l
+56fd91163cdb86ca	はたらいて いるの…$
+## Route121_Text_KateIntro:
+2f216cda87a60970	ケイト: ふたりなら こわくない!\n
+b034a0b5fa867d76	わたしたちの つよさ みせてあげる!$
+## Route121_Text_KateDefeat:
+a00a87cbf94e811d	ケイト: こうはいの パートナーの\n
+3e4b93b92dd4ff16	まえで しくじっちゃった…$
+## Route121_Text_KatePostBattle:
+fa06f25be3f3de35	ケイト: たよりに されると\n
+6f085f2d0cc12df8	その この まえで かっこよく\l
+0b3961bab3d058de	みせたく なっちゃうのよね…$
+## Route121_Text_KateNotEnoughMons:
+08eb372c58d7516d	ケイト: ポケモンが 1ぴき だけじゃ\n
+04166ccb93cdea20	あなたとは しょうぶ できないわ。\p
+a44797d4129772b6	それじゃ いじめに なっちゃう。$
+## Route121_Text_JoyIntro:
+51133f7dd8eec098	ジョイ: ふたりなら こわくない!\n
+d695e091f5811438	わたしたちの つよさ みせてあげる!$
+## Route121_Text_JoyDefeat:
+cfac4d46f3bd037f	ジョイ: ゆるしてください ケイトさん!$
+## Route121_Text_JoyPostBattle:
+2bb25ed07fde0135	ジョイ: えへへ せんぱいの パートナー\n
+ab44a376969b2852	ケイトさんと また とっくん しなきゃ。$
+## Route121_Text_JoyNotEnoughMons:
+678314b2c30e625a	ジョイ: わたしたちに いどむなら\n
+d72d2aec32e7fbd2	ポケモンが 2ひきは ひつようです!$
+## Route121_Text_JessicaIntro:
+c888787fca2618f1	まって! わたしの だいじな\n
+b4a7a450ef32b86a	ポケモンを よーく みなさい!$
+## Route121_Text_JessicaDefeat:
+b40bf4d5afad7b41	まあ なんて ことを!\n
+d33fd1d1d1817a23	そんなに ほんきに ならないでよ!$
+## Route121_Text_JessicaPostBattle:
+15200e8acf262165	サファリゾーンで もっと\n
+cf6344475f527dd3	ポケモンを つかまえようかしら。$
+## Route121_Text_JessicaRegister:
+2048c78af995974d	こんかいは てかげん してあげたのよ!\n
+c796e436327b8789	つぎは そうは いかないからね!$
+## Route121_Text_JessicaRematchIntro:
+1276c5bdf8a73ab6	わたしの だいじな ポケモンが そだったの!\n
+d73cc5b7d7f3a932	よーく みなさい!$
+## Route121_Text_JessicaRematchDefeat:
+338b3b110eb18a36	まあ なんて ことを!\n
+eafb36d70cf5a057	まだ てかげん してくれないのね!$
+## Route121_Text_JessicaPostRematch:
+ec4112b731a435eb	サファリゾーンで もっと\n
+cf0b2461b80271c3	ポケモンを つかまえようかしら。$
+## Route121_Text_CristinIntro:
+f5064b659decc158	わたしには にっかが あるの。\n
+1a18d099b78c8d97	1にち 5にんの トレーナーを たおす。\l
+a397af280434bfb3	そして なんと あなたが 5にんめ!$
+## Route121_Text_CristinDefeat:
+6995ad1462ea9ff2	いやっ!\n
+92f0ec6de0a5b37c	あなた ひどいわ!$
+## Route121_Text_CristinPostBattle:
+22676a3fa9f888ef	こんなに あっさり まけるなんて…\n
+3dd7c4aa0363e767	つぎは かつわよ!$
+## Route121_Text_CristinRegister:
+64c5efd1d2957863	とんだ はじを かいたわ!\n
+adae64cf33cb9cbb	あなたの ことは わすれない…\l
+065cb5547bff4db5	ポケナビを だしなさい!$
+## Route121_Text_CristinRematchIntro:
+faf37a7b931b7e1d	あたらしい にっかが できたの。\n
+4a68b2f581fd9a5a	1にち 10にんの トレーナーを たおす。\l
+0fbd23fe52bfa939	そして なんと あなたが 10にんめ!$
+## Route121_Text_CristinRematchDefeat:
+e00a59595f141ccd	まって! そんなの ずるい!\n
+0d4b6812a95aa466	もう いちど しょうぶ しなさい!$
+## Route121_Text_CristinPostRematch:
+17a6496d61fdaf3f	どうしても かてない あいて…\n
+5f7ba7076f8a6830	ぐすん…\l
+42155097b5ae654a	こんなの しんじられない…$
+## Route121_Text_CaleIntro:
+a37afd794512448a	ぼくが こんなに にもつを\n
+a1f5de30e28d82a3	かかえてるのが みえないの?\p
+e230bd780fd73231	それでも きみは しょうぶしろって\n
+25fa90ea82388d3f	いうのかい?$
+## Route121_Text_CaleDefeat:
+d07a087b747568f4	まけて とうぜんさ!\n
+5fdc6c391cdc4bf7	りょうてが ふさがってるんだから!$
+## Route121_Text_CalePostBattle:
+539262066299ed2c	ミナモデパートで\n
+ec6a75ccd3dc69f8	かいものを しすぎちゃったんだ。\p
+d0f24edcc44a1f05	ここから みちを すすんだ さきだよ。\n
+9311a639c59e308a	きみみたいな バッグが あればなあ。$
+## Route121_Text_MylesIntro:
+9d094105d44dcebb	ひとの ポケモンを みるのが\n
+58622114cd4f6d78	なによりも だいすき なんだ!$
+## Route121_Text_MylesDefeat:
+813300396f0f5147	すっごーい!$
+## Route121_Text_MylesPostBattle:
+40a1a76dd1a55b9e	すごいね きみの ポケモン!\n
+b124b54a4c2ce2e7	どうやって そだててるの?$
+## Route121_Text_PatIntro:
+6c037f6fd944f48b	わたしが そだてた ポケモンを\n
+ca5ea664f0a7bfb1	みんなに みてほしいの!$
+## Route121_Text_PatDefeat:
+fa47a799ee2c19df	わあ!\n
+a4ea0777ec4a56d5	すばらしいわ!$
+## Route121_Text_PatPostBattle:
+2d300e3779a099ea	どの ポケモンも おなじように\n
+a0f951faf75f4942	あいじょうを こめて そだててるの。$
+## Route121_Text_MarcelIntro:
+067e525b3a4c0ded	ぼくの ポケモンは まけしらずさ!\n
+0b249a90a48bd4f8	つぎに かったら コンテストに\l
+f3984fa9c8fdba49	でるんだ。$
+## Route121_Text_MarcelDefeat:
+a89265909592204e	あれ? いま なにが おきたんだ?$
+## Route121_Text_MarcelPostBattle:
+85f38e64e475b870	コンテストに でるまえに\n
+94741e542d975b3b	もっと なかまを きたえないとな。$
+## Route123_Text_WendyIntro:
+9087eaf06a6ffef3	じぶんの つよさを しりたい?\n
+e78951b7a67a5ad9	わたしが ためして あげる!$
+## Route123_Text_WendyDefeat:
+3fc6ac7efa241d2c	ゆうゆう ごうかく ね!$
+## Route123_Text_WendyPostBattle:
+a38edd28cef54018	わたしにまで かつなんて…\n
+039d4199dd79ff4d	あなたの つよさ みごとだわ!$
+## Route123_Text_BraxtonIntro:
+eb3ad99251ff8dd2	ジムバッジを ずいぶん\n
+66e9dbc9179ab630	あつめている ようだな。\p
+ae69bcf6a328da0f	その バッジに ふさわしい うでか\n
+dccb8aca3c3d0918	ためさせて もらおう!$
+## Route123_Text_BraxtonDefeat:
+63093cd32e421e33	ああ たしかに ふさわしい!$
+## Route123_Text_BraxtonPostBattle:
+5ac8f6417634c8b2	いまの しょうぶ バッジに はじない\n
+50f083f34f5cd8c1	たたかいぶり だったよ!$
+## Route123_Text_VioletIntro:
+236b17ad927fa020	たのしい ときは いい かおりに\n
+cb2523a6a33c032b	つつまれて いるんですって。$
+## Route123_Text_VioletDefeat:
+8f8bf67f9281f596	ああ…\n
+10134ab56a218411	みじめさの にがい かおりが する…$
+## Route123_Text_VioletPostBattle:
+145a9295c52f57b7	きのみ めいじんの にわは\n
+38f5bbed48877653	きもちが はれる かおりで いっぱいよ。$
+## Route123_Text_CameronIntro:
+a4d462cfc453d7c0	ちょうのうりょくは いしの ちから。\p
+4a862a567364566a	ぼくは だれにも まけないと\n
+981ca8843d707e3b	ねんじてる。 だから つよいのさ!$
+## Route123_Text_CameronDefeat:
+afd8a0adda8e86fc	かなしい…$
+## Route123_Text_CameronPostBattle:
+e42181be4cb74f7f	ちょうのうりょくは いしの ちから。\n
+fab560ecfb2e5f45	きみには まけないと おもったのに…$
+## Route123_Text_CameronRegister:
+516c735738bd4c8e	かんじる!\n
+3a97bfa79c056cb6	きみと ぼくは また たたかう!\l
+e85e71abc721e9f4	かてるか どうかは わからないけど…\p
+cc019f5c8eea5c23	ポケナビを みせて。$
+## Route123_Text_CameronRematchIntro:
+781e4ec4c1ab15ce	もう まけないと じぶんに\n
+304c104f28699fce	いいきかせた。 だから つよいのさ!$
+## Route123_Text_CameronRematchDefeat:
+5617e1dce9b52682	かなしい…$
+## Route123_Text_CameronPostRematch:
+3850c0aadd8b571a	おくりびやまで しゅぎょう しなきゃ…\n
+a9f783768ced6aed	このままじゃ きみに かてない…$
+## Route123_Text_JackiIntro:
+db7f170fd65cd906	ポケモンが ちょうのうりょくに\n
+03ac517be53d4ff0	めざめても よろこぶのは まだ はやい。\p
+17dea35492f8f177	ほんとうに やくだてるには\n
+0f5d7fb3ee79b04a	その ちからを みがかなきゃ だめ。$
+## Route123_Text_JackiDefeat:
+f97eaea1cad6b7c4	あっとうされたわ!$
+## Route123_Text_JackiPostBattle:
+4bbdec53d28b7959	だれにでも ちょうのうりょくは あるの。\n
+cd1a00f38d06c5e2	つかいかたを わすれてる だけ。$
+## Route123_Text_JackiRegister:
+0fa7b67671fe0eb7	また あなたと たたかいたいわ。\n
+db4ab6f400c3a9cf	それでも いいかしら?$
+## Route123_Text_JackiRematchIntro:
+faa24018635224c2	あなたの なかの ちょうのうりょくは\n
+3a848da6851295de	めざめたかしら?$
+## Route123_Text_JackiRematchDefeat:
+333ad9e42e93ea7a	おどろいたわ!$
+## Route123_Text_JackiPostRematch:
+43d6288416ad412c	あなたの ポケモンを あつかう ちから…\n
+ef7dcdc4215de8cf	それも ちょうのうりょく かもね。$
+## Route123_Text_MiuIntro:
+ac3cd5718c044603	ミウ: こんにちは トレーナーさん。\n
+3bb177ba81562cef	まけても ポケモンが なかないと いいね。$
+## Route123_Text_MiuDefeat:
+2dbdfb2c06360fcf	ミウ: あーあ まけちゃった。$
+## Route123_Text_MiuPostBattle:
+8a08a2c8d32e8c1e	ミウ: トレーナーさんの ポケモンは\n
+6fd654a4437d4d8c	ともだち だから つよいんだね。$
+## Route123_Text_MiuNotEnoughMons:
+b41c969ece7ad723	ミウ: ポケモンが 2ひき いないと\n
+ce3605d15a1993af	しょうぶしても つまんないよ。$
+## Route123_Text_YukiIntro:
+1a389c4a3f8d29e2	ユキ: よーし!\n
+af1ff23d47f7aa56	トレーナーさんの ポケモン やっつけちゃう!$
+## Route123_Text_YukiDefeat:
+6f751dc1b510b97f	ユキ: あーあ まけちゃった。$
+## Route123_Text_YukiPostBattle:
+3c5f966bae151c16	ユキ: どうして そんなに つよいの?\n
+e2b9f3c604331d29	いままで まけたこと なかったのに。$
+## Route123_Text_YukiNotEnoughMons:
+e777928ed453c169	ユキ: ポケモンが 2ひき いないと\n
+97f7f21e71f73a64	しょうぶしても つまんないよ。$
+## Route123_Text_KindraIntro:
+a7bda0c978e4c871	おくりびやま…\n
+fe8cb27aaab9cb44	ポケモンの たましいが ねむる ところ…\l
+080de20516bf75d4	あなたの ポケモンも ねむる?$
+## Route123_Text_KindraDefeat:
+923ab866e5698f38	せいめいりょくに あふれてる…$
+## Route123_Text_KindraPostBattle:
+89eed228dbac2403	おくりびやま…\n
+e7e57e27a5d235cb	ポケモンの たましいが ねむる ところ…\p
+632873f9414f42d5	きっと たましいを いやす ちからに\n
+9542f32373298f3c	みちあふれて いるのね…$
+## Route123_Text_FernandoIntro:
+4a84fe6c72f68bdb	この きょくを かきならす あいだに\n
+591c99e04a83deb4	おまえを ノックアウト してやるぜ!$
+## Route123_Text_FernandoDefeat:
+7cc9ba281defe0fe	おい まてよ!\n
+239694470584604c	まだ イントロの とちゅう だったのに!$
+## Route123_Text_FernandoPostBattle:
+529a1bb59f075c7b	おまえ ロックみたいに ゆるがないな。\n
+25acd15f98551ab2	おまえの きょくを かいてみたいぜ。$
+## Route123_Text_FernandoRegister:
+c52df1420a78445f	こんどは きょくを さいごまで\n
+e5c080a28b088ade	きいてくれよな?$
+## Route123_Text_FernandoRematchIntro:
+d76a90548f0c1d6c	きょうこそ やってやるぜ!\n
+48a025e4eeacdae2	うたい おわるまでに\l
+58d6e08dbed4e96e	おまえを ノックアウト してやる!$
+## Route123_Text_FernandoRematchDefeat:
+4d313d76de49c761	おい まてよ!\n
+84b4335bf0e827d6	まだ サビにも いってないのに!$
+## Route123_Text_FernandoPostRematch:
+a3c3ada5d3e5348e	おれの きょくに きき ほれて\n
+30284ddcc752fa92	まけると おもったんだけどな。$
+## Route123_Text_DavisIntro:
+2d5e30819d8e2e67	これが ぼくの すごい むしポケモン!\n
+3fa127b90facc93b	おにいちゃんが くれたんだ。$
+## Route123_Text_DavisDefeat:
+7dfae5dbf51ba344	うわーん!\n
+5f9a30fdf08b2c9d	いじわる!$
+## Route123_Text_DavisPostBattle:
+975fced2e79c8fbe	まけたこと おにいちゃんに いわないで。\n
+da70d8e4acbcede3	ぜったい ないしょ だからね!$
+## Route123_Text_JazmynIntro:
+7f39b5782b59a326	みるからに つよそうな ひとに かてば\n
+54103bb80c8bea21	じしんが つくと おもうの!$
+## Route123_Text_JazmynDefeat:
+81982e29cddf7159	じしんが なくなっちゃった…$
+## Route123_Text_JazmynPostBattle:
+6e0076f11063fa48	ひとは みかけで はんだん\n
+9a56fd0c903ff49a	できないって いうけど。\p
+47708fdd68098fb8	みためが うそを つかない ことも おおいわ…$
+## Route123_Text_FrederickIntro:
+e890800fe0fe332e	やあ こどもよ!\n
+00d539b427cb120a	すこし じかんを くれんかね?$
+## Route123_Text_FrederickDefeat:
+aa5fe198e52587bf	ほう なかなか できる こどもだ!\n
+4b724fa864269cd4	おこづかいを すこし あげよう。$
+## Route123_Text_FrederickPostBattle:
+f06862c4f5c2764e	おこづかいを あげよう?\n
+ebab7dc22004bff4	しょうきん だけでは たりなかったか?$
+## Route123_Text_AlbertoIntro:
+b9c0a10f805ee197	いっておくけど ぼくは とりポケモンに\n
+a6cbe7f609e27504	むちゅう なんだ!\p
+0949a32308965ef5	とりは かっこいい!\n
+4ae62538403ff82d	さいこう だよ!$
+## Route123_Text_AlbertoDefeat:
+a345b197887db0d4	まけても とりポケモンは かっこいい!$
+## Route123_Text_AlbertoPostBattle:
+2bc99aad55b1ae8c	しょうぶで ちった とりポケモンの\n
+96a360cfc146aa90	はねを あつめてるんだ。\p
+e1a842d9af471185	とりポケモンの はねで\n
+1686e6b5a5be3cc3	ぼうしを つくるんだよ。$
+## Route123_Text_EdIntro:
+66d1a22b171d34bb	まわりに トレーナーが いないときは\n
+c6ff39670a9927f9	ポケモンどうしを たたかわせて\l
+3734e241e5c42bc9	それを ながめてるんだ。$
+## Route123_Text_EdDefeat:
+debd279ee70737df	きみの ポケモン けっこう すきかも。$
+## Route123_Text_EdPostBattle:
+72dcc5f2fca9d908	へへ きみの たたかいかた ぬすんだぞ!\n
+c6d80840b464b6d5	これで もっと つよく なれそうだ。$
+## Route123_Text_JonasIntro:
+fbdef3a6b6b30b67	まちぶせ していたら トレーナーが\n
+12cc989edf4320e7	わなに かかったぞ!$
+## Route123_Text_JonasDefeat:
+57203b4f440f0278	きみが まけて くれないと\n
+419bf14219ce83d4	にんじゃごっこが たのしくないよ!$
+## Route123_Text_JonasPostBattle:
+d45d23a8ab253694	つぎは もっと よわそうな\n
+d3bd71b457fdb26f	トレーナーを まちぶせ しよう。$
+## Route123_Text_KayleyIntro:
+ecdb1e5e119e47f0	この ひがさ かったばかりなの。\n
+5368e70421625750	かわいさが 3わり アップ したはず!$
+## Route123_Text_KayleyDefeat:
+72ee2f3d8d195016	あなた わたしより\n
+19fa8d7e96d69c4c	5ばいは うえだわ!$
+## Route123_Text_KayleyPostBattle:
+2950625c2a9bb530	こものを うまく つかうのが\n
+514497f68ca90438	おしゃれで めだつ ひけつなのよ。$
+## Route124_Text_SpencerIntro:
+66cca7a7b0db890c	おい うみで まいごに なったのか?\p
+05d320846034e279	おれの ポケモンに かてたら\n
+42a3ba75d888675b	みちあんないを してやるぜ。$
+## Route124_Text_SpencerDefeat:
+e1ffcf3ca79fa946	しょうぶで ほうがくを みうしなった!$
+## Route124_Text_SpencerPostBattle:
+4a549da3520e735e	うみで ほうがくを みうしなう ひとは おおい。\p
+35599fcd0309105a	そういう タイプなら ポケナビの\n
+d8e56dcfb07b4340	マップを みると いいぜ。$
+## Route124_Text_RolandIntro:
+526fde62d3e3740e	むっ! じぶんで およがずに\n
+7711e63163224a4d	ポケモンに のってるのか…\p
+4b390d24f28cd2eb	うらやましい!$
+## Route124_Text_RolandDefeat:
+6e060e2864c6c462	ああっ!\n
+aecfd5e16fb01e32	もう だめだ…$
+## Route124_Text_RolandPostBattle:
+2bb305dfe55d54ec	からだが ひえてきた…\n
+375e520dcb316f13	みずに ながく つかりすぎた…\p
+43ab34f833f58d98	きみみたいに ポケモンに のれたらなあ…$
+## Route124_Text_JennyIntro:
+ee72aa687858d22b	こうやって うみに ぷかぷか うかんでると\n
+cbbbe321fea7f78c	ポケモンが あそびに くるのよ。$
+## Route124_Text_JennyDefeat:
+6f64e921418b6e40	あら いやだ。\n
+6c641200c24804df	まけちゃった。$
+## Route124_Text_JennyPostBattle:
+3836c18dd2d1eb92	およいでて きづいたの。 おそってくる\n
+1b0fa28534a2c171	ポケモンも いれば みてるだけの こも いる。\p
+c514495ab5446b7e	ポケモンにも それぞれ\n
+ce4fd2e62531c9ae	せいかくが あるのね。$
+## Route124_Text_JennyRegister:
+80ea7b96b5764b8c	ほんの きまぐれ だけど あなたの\n
+93239c642eff45de	ポケナビに とうろく してもらおうかな。$
+## Route124_Text_JennyRematchIntro:
+2c54b6b0cbe53621	こうやって うみに ぷかぷか うかんでると\n
+4c0fd4afea5cfa07	トレーナーが いどんでくるのよ!$
+## Route124_Text_JennyRematchDefeat:
+7f3c7251c36bd1d6	へんねえ…\n
+ed761d1b17040898	また まけちゃった…$
+## Route124_Text_JennyPostRematch:
+96ba1c09344ea513	なんの かんけいも ないけど\n
+e5cad438b9aa790c	からくりやしきに いってみようかな。$
+## Route124_Text_GraceIntro:
+c08f2a6d8f8cb479	およぐのに あきてきちゃった…\n
+04ae2de1272a6dad	しょうぶ しない?$
+## Route124_Text_GraceDefeat:
+32ea6ca97d0166c4	あなたが こんなに つよいなんて\n
+a673af1744d1b5f8	おもっても みなかったわ!$
+## Route124_Text_GracePostBattle:
+4ed3dec9dee41e83	あなたの どりょくが\n
+5f61b8a6ab03094e	その つよさを うんだのね。$
+## Route124_Text_ChadIntro:
+1488e7efacf673db	ふふふふ… ふかく もぐって\n
+fe3a37fd850a973d	すがたを くらます。\l
+1ecfa99127662e7b	ふかみを さぐるのが とくい なのさ!$
+## Route124_Text_ChadDefeat:
+fc9fb8d8fc67265b	ぶくぶくぶく…\n
+c6d98cbb7cdae6d6	しずんでいく…$
+## Route124_Text_ChadPostBattle:
+a5454bac0cc776c4	たしかな すじの はなしだと\n
+877dbde6a1f017e4	この へんに ダイビング スポットが ある。\p
+913b2187ffa640bd	また ふかく もぐりたく\n
+122abc8868d6caba	なってきた…$
+## Route124_Text_LilaIntro:
+cb4b1b2260ac4090	ライラ: はあ…\p
+dad1d9e21e07f1f5	うみに きてるのに いっしょなのは だれ?\n
+3088c25e3ed571b5	おとうと!\p
+2333bd298701c1ef	そのこと かんがえずに すむように\n
+3d6a26cb6a81eddc	しょうぶよ!$
+## Route124_Text_LilaDefeat:
+90545c897ffe7a81	ライラ: ロイ! まけたのは あんたの せい!\n
+543e098e0b242918	あとで おぼえて なさいよ!$
+## Route124_Text_LilaPostBattle:
+18c7e3d0531a2f31	ライラ: はあ…\p
+03abf927f4d44b01	となりに いるのが おとうとじゃなくて\n
+f287a25c03634034	すてきな かれし だったらなあ…$
+## Route124_Text_LilaNotEnoughMons:
+9f8b9c8f5965ebc4	ライラ: わたしたちと しょうぶする つもり?\n
+5b2ffe8c6e26d435	ポケモンが 2ひき いないと だめよ。$
+## Route124_Text_RoyIntro:
+4cdb9c5d132561e4	ロイ: ねえちゃんは ポケモン つよいんだぞ!\p
+82d0e30d17e845ce	まけても なくなよ!$
+## Route124_Text_RoyDefeat:
+c413d33bcae44df6	ロイ: あちゃー…\n
+a87849131e3aebf3	ねえちゃんに しかられる…$
+## Route124_Text_RoyPostBattle:
+08d1734f2755b815	ロイ: ねえちゃんは おこると\n
+43602ccff3bf1145	すっごく こわいんだ。\p
+32d3f030d4059cbd	だから かれしが\n
+f693cf05212362f0	いないんだよ。$
+## Route124_Text_LilaRoyRegister:
+90b4853afcb0ab71	ロイ: また しょうぶ してくれる?\n
+2fd144a99616146f	でも こんどは てかげん してね?$
+## Route124_Text_RoyNotEnoughMons:
+403f5bbefbf9f31e	ロイ: ぼくたちと しょうぶ したいの?\n
+e8bb8c2e3cffd9a0	じゃあ ポケモン 2ひき つれてきてよ。$
+## Route124_Text_LilaRematchIntro:
+ebb30d446d2b39e7	ライラ: はあ…\p
+4882e7c933e7a4ce	うみに きてるのに いっしょなのは だれ?\n
+fc518a2a952410b3	おとうと!\p
+2ae2e73b25471f6a	あら ひさしぶり。 いやなこと\n
+8d06ed6841f88551	わすれられるように しょうぶよ!$
+## Route124_Text_LilaRematchDefeat:
+127580088d061bea	ライラ: ロイ!\n
+11b770ad54fa8d10	また まけたのは あんたの せいよ!\p
+cb79204dc3009675	あとで とっくん だからね!$
+## Route124_Text_LilaPostRematch:
+4d35ab5bc9869d0e	ライラ: はあ…\p
+6ecad756cdfcb3fc	すてきな かれしが いたら すてきな\n
+cce56c88f82386b2	コンビネーションで だれにも かてるのに…$
+## Route124_Text_LilaRematchNotEnoughMons:
+e4eaec360a6bba1d	ライラ: わたしたちと しょうぶする つもり?\n
+0f4e3b8236c26821	ポケモンが 2ひき いないと だめよ。$
+## Route124_Text_RoyRematchIntro:
+f4499be737808315	ロイ: まけたら おこられちゃう。\n
+a200502f4c0f47bb	ぜんりょくで いくからね!$
+## Route124_Text_RoyRematchDefeat:
+bd34f280b457c6a6	ロイ: あちゃー…\n
+95185178b68b69e1	また ねえちゃんに しかられる。$
+## Route124_Text_RoyPostRematch:
+da54899c159ef7b6	ロイ: ねえちゃんは おこると\n
+8c5d60a1a86d0c4a	すっごく こわいんだ。\p
+db2271df524b64e8	あとで ポケモンの とっくんを\n
+c6211baf825b9a3d	みっちり させられるんだ…$
+## Route124_Text_RoyRematchNotEnoughMons:
+70463997d13863bd	ロイ: ぼくたちと しょうぶ したいの?\n
+79a0f42e34a3f63d	じゃあ ポケモン 2ひき つれてきてよ。$
+## Route124_Text_DeclanIntro:
+c8a3322919994cef	この ひろくて うつくしい うみを\n
+50f467246abe7ebf	ひとりぼっちで およいでる。\p
+48456b1f0d497ba8	ほかに いいようが ない。\n
+721c7b0e4584c1c6	なさけない!$
+## Route124_Text_DeclanDefeat:
+6baac8a64a485279	きぶんは ブルーだ。\n
+eb1c160ea9228fae	そらの ように ブルー…$
+## Route124_Text_DeclanPostBattle:
+b68a7d9b159e6378	スイマーの おねえさんに こえを かけて\n
+750e21be4c44d11d	いっしょに えんえいに さそおう。$
+## Route124_Text_IsabellaIntro:
+e73a5b46b5449c78	なみのりしてる トレーナーなんかに\n
+d10bafa8d0a26f23	まけないわよ。$
+## Route124_Text_IsabellaDefeat:
+417bbb3355f4e1a4	めに あせが はいった だけよ!\n
+51a6a1c9821767a4	ないてなんか ないんだから!$
+## Route124_Text_IsabellaPostBattle:
+64e18924f1f0d423	この あたりでは きれいな いろの\n
+fc982a55df13b4e1	かけらが みつかるわよ。$
+## Route125_Text_NolenIntro:
+79973f2b502a8c06	きみが ちかづく おとが きこえたから\n
+56daa7299fcefc82	まってたんだ!$
+## Route125_Text_NolenDefeat:
+962222324b6ac3cb	こうさん!$
+## Route125_Text_NolenPostBattle:
+b5ebe030df7ba139	おとは くうきの なかより みずの なかの\n
+93ebb08b37aa23e6	ほうが はやく つたわるんだ。$
+## Route125_Text_StanIntro:
+f1f2d044cb20f435	やあ!\n
+0ffabc91648c030d	おれの イカした ポケモン みてくれよ!$
+## Route125_Text_StanDefeat:
+138ec01d667e855a	あっぷあっぷ…$
+## Route125_Text_StanPostBattle:
+c31eeb2fd0a8c57b	タッツーの みりょくに やられて\n
+ae3cbdae2f648a5f	おれも およぎ はじめたんだ。$
+## Route125_Text_TanyaIntro:
+8e8d5bfc0cdbb628	およぐのに つかれちゃった。\n
+8d43ca10172f5eb9	わたしと しょうぶ しない?$
+## Route125_Text_TanyaDefeat:
+b9c606e60101ceef	あなた つよすぎ!$
+## Route125_Text_TanyaPostBattle:
+9ca8811bc711a384	ふう…\n
+563bec1751787cdd	トクサネシティって どっちだっけ?$
+## Route125_Text_SharonIntro:
+0b31c497a9d5e05b	わたしが そだてた みずタイプの\n
+1a6deb998a5e808a	ポケモンと たたかって みない?$
+## Route125_Text_SharonDefeat:
+74d3fb0b1c513f1e	まけちゃった…$
+## Route125_Text_SharonPostBattle:
+97547765c01b5021	その ちから… あなた ほんものね。\n
+6e0fbf2a1ce52d1c	おどろいたわ!$
+## Route125_Text_ErnestIntro:
+67335c3c9d342b0a	おーい! おれは たくましい うみのおとこ!\n
+4ccd37370373b994	せかいじゅうの うみを わたってきた!$
+## Route125_Text_ErnestDefeat:
+7244b158eb90bee5	ぐおおおー!\n
+b6738fdfb28805ed	かてなかった!$
+## Route125_Text_ErnestPostBattle:
+30ea06e1ad1b334f	あさせのほらあなの なかは\n
+8d683fc96af0ba91	しおが みちたり ひいたり するんだ。\p
+0d589d945b1a4351	ちなみに みちしおから ひきしおまで\n
+880b976c835b3758	だいたい 6じかん。 しってたか?$
+## Route125_Text_ErnestRegister:
+8cd44a42c7199f7d	おれを ポケナビに とうろく したら\n
+180c5a905b87fabd	いいことを おしえてやるぜ。$
+## Route125_Text_ErnestRematchIntro:
+ab87ea6cfb7e55b3	そろそろ おまえに しかえし\n
+8905b1fd1771d0d4	させてもらうぜ! さあ しょうぶだ!$
+## Route125_Text_ErnestRematchDefeat:
+ccef9653cf1c8666	かてなかった!\n
+a7174d4a128b689a	まったく かてなかった!$
+## Route125_Text_ErnestRematchPostBattle:
+aea2bb7df4ab01b3	あさせのほらあな…\p
+a45fe4ea0d30cab9	しおの みちひきで いける ばしょと\n
+8f9233e5fead1c15	いけない ばしょが\l
+f14f50c5d8d8b8a4	あるんだ。\p
+59db5f0e5c1eb67a	ちなみに みちしおから ひきしおまで\n
+5be19357edd6b00c	だいたい 6じかん。 わすれるなよ!$
+## Route125_Text_KimIntro:
+84a72dc15ace7679	キム: あさせのほらあなに おもしろい\n
+b94bfa459408b959	おじいさんが すんでるって きいたの。\l
+5abf02b143f3b27b	あなたも あいに いくの?$
+## Route125_Text_KimDefeat:
+280858339319da7e	キム: かてると おもったのに。$
+## Route125_Text_KimPostBattle:
+62b9275b2d1e292f	キム: あさせのほらあなに おもしろい\n
+594b09d087d86b38	おじいさんが すんでるのよね?\p
+3748521eef3a2bc5	あいに いこう アイリス!$
+## Route125_Text_KimNotEnoughMons:
+5735554d627e78ca	キム: だめだめ! ポケモンが 2ひき\n
+a50137d648406956	いないと ぜんぜん だめなの!$
+## Route125_Text_IrisIntro:
+75728db5165100cb	アイリス: キム ここで なにを\n
+641f3da4cfb39466	さがしてるのか おしえて くれる?$
+## Route125_Text_IrisDefeat:
+384e64e8a9e5a335	アイリス: あら おしかったわね。$
+## Route125_Text_IrisPostBattle:
+fc8d9c059a260c1e	アイリス: キム ほんとに あさせの\n
+39bc9a7011fee1e3	ほらあなに はいるの?\l
+808d34df80cfa4f5	びしょぬれに なっちゃう。$
+## Route125_Text_IrisNotEnoughMons:
+9d56325efec3abe6	アイリス: 2たい1の しょうぶなんて\n
+65107f34abe1cb58	ぜったいに ぜったいに できないわ。$
+## Route125_Text_PresleyIntro:
+cfa544e41e21b38e	とりつかいの ぼくが どうして\n
+087fec2a82b14b39	うみに きてると おもう?$
+## Route125_Text_PresleyDefeat:
+6be651ffd9f31b29	わかった。\n
+64ef021985eeb2b7	ここに いる わけを おしえるよ。$
+## Route125_Text_PresleyPostBattle:
+181ecb8b41db0e6d	てがみを いれた びんを\n
+46996a1d33c90f88	うみに ながしたんだ。\p
+d0bee3e2fc2b4284	きっと スイマーの おんなのこが\n
+62db4c22c7a0559c	ひろって くれるはず!$
+## Route125_Text_AuronIntro:
+82937b67bc084260	おい! うみに ゴミを すてたのは\n
+5e7778f22dec81c3	おまえか?$
+## Route125_Text_AuronDefeat:
+33155c6ba6e9771a	おまえが うみに ゴミを すてたん\n
+7044731937d10f36	じゃないのか。$
+## Route125_Text_AuronPostBattle:
+0458af0f582e435f	さっき なみに みぐるしい びんが\n
+d907013ae4f411f2	ぷかぷか ういてたんだ。\p
+d752b5d91f9a011f	うみを よごす やつが いるなんて\n
+1898841ab7bc3a40	はらが たつ!$
+## Route126_Text_BarryIntro:
+a7c0db0b8a9bb146	すいえいは ぜんしん うんどう!\n
+4b8424d591c07bfd	からだが きたえられるぞ!$
+## Route126_Text_BarryDefeat:
+9a415dacdafacd49	みとめよう!\n
+743d3b8091d2400f	きみの かちだ!$
+## Route126_Text_BarryPostBattle:
+eefc814a92bae75d	まいにちの すいえいの おかげで…\n
+0bfd83eb6c61f3ba	みろ! この にくたいを とくと みよ!$
+## Route126_Text_DeanIntro:
+4b423d3e6243de08	この そびえたつ しろい いわやまが\n
+f72f1640c0357b00	ルネシティ なんだ。$
+## Route126_Text_DeanDefeat:
+c6b0d408649a62a8	やられた のか?$
+## Route126_Text_DeanPostBattle:
+f7a4baaba052c51f	ルネへの いりぐちが みつからない。\n
+909d0d2da0cdffe6	いったい どこに あるんだろう?$
+## Route126_Text_NikkiIntro:
+fe62308eb5c3e209	うふふふふ!\n
+ccd47d46bcd6d9ba	わたしは にんぎょよ!$
+## Route126_Text_NikkiDefeat:
+95d664964364d59b	ゆめが あわの ように はじけたわ!\n
+7c0f4cb49a5399b2	ぶくぶくぶく…$
+## Route126_Text_NikkiPostBattle:
+a397eef413a170e1	こてんぱんに されて… ぜつぼうの\n
+709aff2c90ba0daf	なみに きえて しまいたい…$
+## Route126_Text_BrendaIntro:
+4958eb7571309658	こんにちは ぼうや!\n
+d613b6d9a3abfa6a	わたしと しょうぶ しない?$
+## Route126_Text_BrendaDefeat:
+a68b0fc58a45ef36	あら いやーん!$
+## Route126_Text_BrendaPostBattle:
+d1301970fb2d7ae3	こうやって うみで ポケモンと\n
+3e38cb745c852806	はしゃぐのが だいすきなの!$
+## Route126_Text_PabloIntro:
+586c02f5839fbd46	この きたえた からだを みろ!\n
+c487fb7463af5a10	からておう より キレてるぞ!$
+## Route126_Text_PabloDefeat:
+9042ed3cc89e25f9	おっと! つよすぎる!\n
+391aa309550c8600	やるな! なかなか やるな!$
+## Route126_Text_PabloPostBattle:
+f866f2374f61c8ba	きみに まけて しげきを うけた!\n
+45299802d93086a3	おれも ポケモンも もっと きたえるぞ!$
+## Route126_Text_PabloRegister:
+6e2eb761819d5002	うん きみは なかなか やるな!\n
+d9dde636c5ccc177	もっと きみの ことを しりたいぞ!$
+## Route126_Text_PabloRematchIntro:
+2e1fe059f4166116	この うつくしい からだを みろ!\n
+d2539e6f21e847a8	スイマー より ひきしまってるぞ!$
+## Route126_Text_PabloRematchDefeat:
+3bd70e02e426e38a	おっと! ほんとに つよすぎる!\n
+3bfd6700c194b60e	やるな! なかなか やるな!$
+## Route126_Text_PabloPostRematch:
+ce1642fdc5cd1daa	もっと もっと きたえるぞ!\n
+0dacb701b9c69aa2	きみは さいこうの はげみだ!\l
+05cba3c1431820d1	また かならず きてくれよ!$
+## Route126_Text_LeonardoIntro:
+84de0964644632d1	きょねんは およげ なかったけど\n
+3ce1d9f0f6df0832	いまでは いっぱしの スイマーさ。\p
+c5446a35cb4315cc	いまなら なんでも できる きがする。$
+## Route126_Text_LeonardoDefeat:
+85272dd49d7fe825	やれやれ よくばっても\n
+e302c41f4e81ed41	なんにも ならなかったな。$
+## Route126_Text_LeonardoPostBattle:
+45f3b1f0cea84fcb	なにごとも れんしゅう すれば\n
+96c61a8e50411569	うまく なるものさ。\p
+4875cff3b8efd527	きみは わかいんだ こわがらずに\n
+c1bcaa3593d29924	いろんな ことに ちょうせん しなよ!$
+## Route126_Text_IsobelIntro:
+ba3a242ed4208aa4	はなに うみの みずが はいると\n
+f8cc0a1667b024c7	すっごく いやな かんじ しない?$
+## Route126_Text_IsobelDefeat:
+355100193e58ff92	きゃっ! よくも…\n
+18e780b080ffb29a	ごぼっ!$
+## Route126_Text_IsobelPostBattle:
+a7e6e33a81aa5020	うう みずを のんで むせちゃった!\n
+301a954c823eeaa9	にがい! しょっぱい!!$
+## Route126_Text_SiennaIntro:
+a2c83d22e2bb404c	わたしは ぜんしんぜんれいで\n
+dfe2a822645def5c	いどむわ!$
+## Route126_Text_SiennaDefeat:
+d16e8fdb6972f228	あなたの ほうが きもちが つよかった!$
+## Route126_Text_SiennaPostBattle:
+ff0010a1d4442038	すこし あたまを ひやさなきゃ…\n
+91c828e326ee493f	ちょっと もぐって こようかな。$
+## Route127_Text_CamdenIntro:
+4b81883970235287	かおに かいてあるよ。\n
+68af70ad1cc2691e	ぼくに いどみたいって。$
+## Route127_Text_CamdenDefeat:
+6c49c967062a1111	あわわわわわ…$
+## Route127_Text_CamdenPostBattle:
+5632bb3e86b63027	いい しあいの あとは きもちが\n
+fb5e0fdb7ff057d4	すっきりして おだやかに なるよ。$
+## Route127_Text_DonnyIntro:
+12ffde889e14f6b1	ぜったい まけたくない\n
+a24d55ea62d9fee2	ライバルって いるかい?$
+## Route127_Text_DonnyDefeat:
+b571683177333f1c	ぐあああ!\n
+8f277241b4f5a8ba	まけるのは だいきらいだ!$
+## Route127_Text_DonnyPostBattle:
+b2ddc988224137b4	ライバルが いると もっともっと\n
+27fc476d2e9e218e	つよく ならなきゃって\l
+d40c6ea00f52d244	おもわないかい?$
+## Route127_Text_JonahIntro:
+ed73850f5d9a5b7b	つりを つうじて わたしは\n
+4ebb5379331abb61	しずかな めいきょうしすいの きょうちに…\p
+1dab7de936bf6655	どうか おみせ させて ください…$
+## Route127_Text_JonahDefeat:
+c6e935fd4ed42935	まけても わたしの こころは\n
+0dca88b85dc13678	おだやか です…$
+## Route127_Text_JonahPostBattle:
+68f01831363acfbd	なにも つれなくても かまわない。\n
+446f95685b8b21d6	いとは みずの なかに ある…$
+## Route127_Text_HenryIntro:
+7b7a0bf2ed4cca3f	おっと! まさか なみのりしてる\n
+650c3e48b5528b23	ポケモンを ひっかけちまった?$
+## Route127_Text_HenryDefeat:
+11a83f155ae5fdef	ついて いけない!$
+## Route127_Text_HenryPostBattle:
+8607735a8a40c39c	きみの つよい ポケモンを つりあげたら\n
+b5b64e98db55a4df	てに おえない だろうな!$
+## Route127_Text_RogerIntro:
+9a30d20599ddee27	よう! こいつは ポケモンファンと\n
+c03511a1e78b7019	つりマニアの たいけつ だな!$
+## Route127_Text_RogerDefeat:
+32142ca5d0d52d61	うわっ! いとが からまった!\n
+fce4d13cfc3ccf31	おまつりは おしまいだ!$
+## Route127_Text_RogerPostBattle:
+e41a943a3192e87c	つりいとが おどってるぜ!\n
+7ab66e491af9747a	からまり タンゴだ! はっはっは ちくしょう!$
+## Route127_Text_AidanIntro:
+6175a2bd48f6e74f	とりポケモンは めが いいんだ。\n
+9093bdb7f215acfc	たかい ところから えものを みつける。$
+## Route127_Text_AidanDefeat:
+55726c1b23765927	ふう… まいった。$
+## Route127_Text_AidanPostBattle:
+3e4515b6e1604fd2	この あたりの うみには\n
+5a7679f20357a85b	ダイビングの スポットが たくさん ある。\p
+6069efc3fd3478c4	いろが こいから そらからだと\n
+0bec0cf35449d11b	かんたんに みつけられるんだ。$
+## Route127_Text_KojiIntro:
+a458703d5de53342	はだしで はしれ。\n
+cc3b99ae3b0f3396	あしのうらが きたえられるぞ!$
+## Route127_Text_KojiDefeat:
+c5bc2ba05408c0cf	いてっ!\n
+df8b669ca8c26ec7	つめの あいだに こいしが はいった!$
+## Route127_Text_KojiPostBattle:
+4bd2ca4a76b02dd4	はだしは きもちが いいぞ。\n
+cdef2a26fb7fe05f	でも きみの ランニングシューズも いいな。$
+## Route127_Text_KojiRegister:
+8722d7537dd4efdb	おれに かった やつには こうするんだ!\n
+374efe698ce0e290	また しょうぶ したいな。$
+## Route127_Text_KojiRematchIntro:
+8feda605836a56d1	いまも まいにち はだしで はしってる。\n
+25b4087a8492ccd8	あしのうらは がんじょうだぞ!$
+## Route127_Text_KojiRematchDefeat:
+17c0f4eee1f0a8dc	いてっ!\n
+d14ab2ef826b59cb	こいしが つちふまずに ささった!$
+## Route127_Text_KojiPostRematch:
+6a3a54aad3b2f184	しばらく はだしに なってみないか?\n
+e3890b9120175dab	きみの ランニングシューズ ためしたいんだ。$
+## Route127_Text_AthenaIntro:
+d82f99fe609a2630	ゆっくり じっくり しょうぶ\n
+3bb2104c12432423	しましょう。$
+## Route127_Text_AthenaDefeat:
+f90503813e8cbd98	さくせんを たてる すきも\n
+8b3be89b5e0d56fa	あたえて くれなかったわね。$
+## Route127_Text_AthenaPostBattle:
+c083abd603b83848	あおい うみと そらに かこまれると\n
+1241c05b01b94deb	じかんが ゆっくり ながれる きがするの。$
+## Route128_Text_IsaiahIntro:
+1000df638888b7dc	サイユウシティは まだまだ\n
+fa745402b919a79f	とおい…$
+## Route128_Text_IsaiahDefeat:
+2df93a722f87aef2	はじめての しょうりも\n
+5ef82336e728e6b6	まだまだ とおい みたいだ…$
+## Route128_Text_IsaiahPostBattle:
+bfc002a3fbbdaa21	まけてばかりの じんせい だけど\n
+2ca5794479d7bfc1	ぜったいに あきらめないぞ!$
+## Route128_Text_IsaiahRegister:
+74012647681e063b	いまは よわいけど いつかは\n
+a1c08d30ef51e750	かてると おもうんだ。\p
+ed21b2ba6354ee31	ぼくを ポケナビに とうろく してくれ。$
+## Route128_Text_IsaiahRematchIntro:
+e2230d646a4634eb	まだまだ げんきだ。 このまま\n
+ac457c3c2f770513	サイユウシティまで およぐぞ。$
+## Route128_Text_IsaiahRematchDefeat:
+ecefc14c8f6b1767	はじめての しょうりは まだ…$
+## Route128_Text_IsaiahPostRematch:
+f131c3dfc23d9e39	いつかは サイユウシティに たどりつく。\n
+b0b283414e5461f9	そこで いつかは かてるんだ…$
+## Route128_Text_KatelynIntro:
+f1a1b9e7b389b4da	トライアスロンでは およいで じてんしゃ\n
+1e1dea0af384677b	こいで さいごに マラソンを はしるの。\p
+25ef8bb6b3dea67e	3つの しゅもくから なる\n
+48ce7e2bcf903d23	すごく きつい レースなのよ。$
+## Route128_Text_KatelynDefeat:
+0758e7e67766be6b	ポケモン しょうぶも きついわね…$
+## Route128_Text_KatelynPostBattle:
+c7e7b090f5b617e1	つぎは じてんしゃ なんだけど…\n
+22e7627a27f251ab	もう ギブアップ しそう…$
+## Route128_Text_KatelynRegister:
+0805e86e36cbbda9	まあ せっかく だから\n
+bb56379a79a56610	また いつか さいせん したいわ。$
+## Route128_Text_KatelynRematchIntro:
+7639b0d484d3e7c9	トライアスロンは ながいわ。 でも\n
+5634f18dfbfa6515	ポケモン チャンピオンへの みちも\l
+cf93617a2914357c	きっと ながくて きびしいのね。$
+## Route128_Text_KatelynRematchDefeat:
+d031e2432d1778ff	ポケモン しょうぶって ほんとに\n
+27da4679659b18ca	きびしくて ようしゃ ないわ…$
+## Route128_Text_KatelynPostRematch:
+7a47caddb75282e9	チャンピオンロードへの ちょうせんを\n
+d7668a7ec881d92d	しんけんに かんがえた ほうが いいわ。$
+## Route128_Text_AlexaIntro:
+af0230e73743db8c	ポケモンリーグに いどむため\n
+5ed61216eb2b8d64	ずっと がんばってきたの…\p
+25afc1dc27a32600	いま まけるわけには いかない!$
+## Route128_Text_AlexaDefeat:
+95d0e43bbc4c7765	ああっ!\n
+f94f0a45a1837cdc	どうして こんなことに?!$
+## Route128_Text_AlexaPostBattle:
+83cf8263d22ecc48	ここまで くるのに がんばったんだもの\n
+70cf45466400b510	1かい まけたくらいで あきらめない。$
+## Route128_Text_RubenIntro:
+fc633ffbfee58639	おれより つよい トレーナーは いない!$
+## Route128_Text_RubenDefeat:
+5e96fe13564ed44e	そんな ばかな!$
+## Route128_Text_RubenPostBattle:
+5e4e644473e80038	きみより つよい トレーナーは\n
+979c15020b0d0e05	たぶん いない だろうな!$
+## Route128_Text_WayneIntro:
+731e2295af5ca941	サイユウに いきたいから たきを\n
+4bfb49518bf56f66	のぼれるように たきのぼりを おぼえた\l
+33fdd2373b5b7005	ポケモンを つかまえたんだ。$
+## Route128_Text_WayneDefeat:
+8adfb82abed7f3f2	がっくり だ!$
+## Route128_Text_WaynePostBattle:
+657a5ff12ddc93cc	あーあ くそー!\p
+b74f42a7359160f9	ポケモンは たきのぼりを おぼえてるけど\n
+873babf8fc3046e8	ルネジムの バッジを もってないんだ!$
+## Route128_Text_HarrisonIntro:
+06dd857018fe502a	すごく つよそう だね。\n
+6807d54ffcde9f75	ぼくに かてるかな?$
+## Route128_Text_HarrisonDefeat:
+b00ffb056da318fd	いたっ!\n
+cc8c10d1c4aadc3e	やっぱり かつのは むりだったか。$
+## Route128_Text_HarrisonPostBattle:
+a760c526a9c1f858	サイユウの あたりには つよい\n
+3a14dd2e41cd6030	トレーナーが いっぱい いる。\p
+1f3414589555ddfe	ぼくには ちょっと\n
+17bf0133d0cecce2	ばちがい なのかな?$
+## Route128_Text_CarleeIntro:
+613b4ca9729d32df	この あたりは ひざしが\n
+e0ba41e701131c1d	つよい みたい。$
+## Route128_Text_CarleeDefeat:
+aa925e6e9e741d75	ひざしが まぶしくて\n
+577b323e7eb10d36	よく みえなかったの。$
+## Route128_Text_CarleePostBattle:
+bc39b602e4bd2519	そろそろ もどらなきゃ。\n
+c54575226aa46bbf	ひやけどめを ぬりなおさないと。$
+## Route129_Text_ChaseIntro:
+a39348f1beb38699	はじめての トライアスロンなんだ。\n
+7efe95978568623c	すごく きんちょう してるよ!$
+## Route129_Text_ChaseDefeat:
+9c20c1d8bdbaa4aa	うおおおおー!\n
+f28b7895ba44514a	かてなかった!$
+## Route129_Text_ChasePostBattle:
+6f72a9987387c239	ガチガチに なってたら\n
+4177b46c694e1e82	ちからを だしきれないよね。$
+## Route129_Text_AllisonIntro:
+8a69662d389a2134	トライアスロンの とちゅう だけど\n
+407b2280a2d0e294	いいわよ しょうぶ しましょう?$
+## Route129_Text_AllisonDefeat:
+eb9a3b8bd4a4e26d	ぜったい かてると おもったのに!$
+## Route129_Text_AllisonPostBattle:
+94e6f41503e500d5	トライアスロンの いちばん いいところ\n
+20683898ee779cf4	なんだか しってる?\p
+764d4387490450d2	だいしぜんを あいてに じぶんの\n
+895d26960338e9b2	ちからと たいりょくの げんかいを\l
+70510cb2cb757439	ためすことよ!$
+## Route129_Text_ReedIntro:
+7e4b22b941c6fb67	ヘイ ヘイ!\n
+c1bc1a720e8d06ea	さっさと はじめようぜ!$
+## Route129_Text_ReedDefeat:
+cf7a454f603a0383	まけた まけたよ。\n
+a1da5cf5c77006d4	これで おしまい!$
+## Route129_Text_ReedPostBattle:
+63840e5eb45db14b	まけたやつには なにも ない。\n
+3351c3bc2a02a628	さっさと かえるとするか。$
+## Route129_Text_TishaIntro:
+5b8fcd3a57505b14	なにを そんなに いそいでるの?\n
+c47f9b83cd6d14bd	のんびり ゆっくり いきましょ。$
+## Route129_Text_TishaDefeat:
+e09385f93bec8b88	あら まあ。\n
+c2c8bb2d6ba58a52	もうすこし のんびり したかったのに…$
+## Route129_Text_TishaPostBattle:
+911162d666d5df5b	いそいでる ときに しっぱい するのって\n
+26b42c3d88023439	いやじゃない?\p
+ca4280e65ab30550	だから わたしは なにごとも\n
+b04ae8307398053c	ゆっくり やるように してるの。$
+## Route129_Text_ClarenceIntro:
+8a6a66c4b17292a8	なみのりって みためほど\n
+43f86a2083de6a8f	かんたんじゃない よな?$
+## Route129_Text_ClarenceDefeat:
+6c4d7432d65dd14d	かつのは ほんとに かんたんじゃない。$
+## Route129_Text_ClarencePostBattle:
+5a20909ab69ac876	ポケモンリーグを めざしてるのか?\n
+f760587e9f4e668f	がんばれよ!$
+## Route130_Text_RodneyIntro:
+dd50e544c7f1ecc1	おどろいた! うみの うえで\n
+980a1312369b0b17	トレーナーに あうなんて。\p
+9476cb297dae2cd6	これは しょうぶ するしか ないな!$
+## Route130_Text_RodneyDefeat:
+5a4da7dcd4914f82	この こ おそろしく つよい…$
+## Route130_Text_RodneyPostBattle:
+dded68d5c4154280	きみの めは きびしい ちょうせんを\n
+6beb82b0896f21e7	のりこえて かってきた ものの\l
+69e4bbc2e7bc6dd0	めだ。 よく にあってるよ!$
+## Route130_Text_KatieIntro:
+d2feeb3c145960a5	ふかく あおい うみで\n
+dcb843eebf9a9a41	くだけた わたしの あおい こころは\l
+7b8ed677642e9ec9	なみに なぐさめを みいだすの。$
+## Route130_Text_KatieDefeat:
+770339b220fb6895	ひろい あおい うみの ように\n
+2df3347e1b1319a1	ポケモンの せかいは\l
+6019aefb72224250	はかりしれない ほど ふかい。$
+## Route130_Text_KatiePostBattle:
+b50d2dadd851c85a	せかいの こどもたちは\n
+9a06f3279e539e93	いつか ポケモン チャンピオンに\l
+878d9dac02698708	なることを ゆめみているの。$
+## Route130_Text_SantiagoIntro:
+6f7b921cb0adea2b	こうやって おおうなばらに うかんで…\n
+81b79f19c8c20f9c	へいわ だなあ。$
+## Route130_Text_SantiagoDefeat:
+3eea6ec99731c5dc	もうすこし へいわぼけ しなきゃ よかった!$
+## Route130_Text_SantiagoPostBattle:
+9bbd9b3ac04b166c	こうやって およいだり たたかったり…\n
+dfee30ece6c8d267	おれって しあわせ ものだなあ…$
+## Route131_Text_RichardIntro:
+264dec7da5e4cc04	うみは ポケモンで いっぱいだ。\n
+47c7270a3035b08e	およぐのも らくじゃ ないんだよ。$
+## Route131_Text_RichardDefeat:
+1d645801ca8381d8	トレーナーが そだてた ポケモンは\n
+c2167569a018ccc9	ほんとに つよいな…$
+## Route131_Text_RichardPostBattle:
+f5d89474a4d7c7f1	ぜえ… ぜえ…\n
+702368b535885efe	へとへとだ…\p
+a32862ab77f10faa	いきは よいよい かえりは\n
+41787eec81dd4d78	こわい ってやつだ。\p
+190c2e8eec2d420d	かえりの ぶんの たいりょく\n
+cad1a4bec99f9a5d	のこってるかな?$
+## Route131_Text_HermanIntro:
+053c6f49c6be703d	うみ… うみ… うみ…\n
+5a07f0f9c29226a5	みわたす かぎり うみ ばかり!\l
+22a08757afd3cc74	うみには もう うんざりだ!$
+## Route131_Text_HermanDefeat:
+204926835a4e076e	うえっ!$
+## Route131_Text_HermanPostBattle:
+637f43f82cb69f9f	うみには あきたが およがねば ならぬ。\p
+b1e3237f658aa931	おれは うまれつきの スイマー!\n
+d5802d5986aed69a	そういう ことさ。$
+## Route131_Text_SusieIntro:
+de7143f3f32dda6e	ねえ ちょっと まって!\n
+ff1507a80b6444c0	わたしと しょうぶ しましょ!$
+## Route131_Text_SusieDefeat:
+ec9b5a2028d24cc3	みかけに よらず\n
+531d8d83c4b21f3d	つよいのね!$
+## Route131_Text_SusiePostBattle:
+4310fd242ef0a52d	うみに あきたって ぼやいてる ひと\n
+0942d178f10c31b3	あっちで みかけなかった?\p
+80206b7333ab8f08	あれは くちだけ。\n
+16e759e28c83b374	ほんとは うみに べたぼれ なのよ!$
+## Route131_Text_KaraIntro:
+edaa3aa0ebe5391b	おとこって なんで みずぎが すきなの?\p
+3e7d60ea5d0bcfdb	みんな じろじろ みてくるのよ!$
+## Route131_Text_KaraDefeat:
+a0a01db214160f77	わたしの てに おえないわ!$
+## Route131_Text_KaraPostBattle:
+bbf0d3aa6be9762a	みずぎの せいじゃ ないのかも。\n
+17a215a6c197e32e	きっと わたしが うつくしい からね!$
+## Route131_Text_ReliIntro:
+eaa56c4076f9b805	レリ: きょうだいで きょうりょくして\n
+13fd7ba380dd3341	あいてを するよ!$
+## Route131_Text_ReliDefeat:
+541561e7438d6314	レリ: ちからを あわせたのに\n
+bdb79377b47462dd	かてなかった…$
+## Route131_Text_ReliPostBattle:
+191a8c42f34263a5	レリ: キナギの ひとたちは\n
+9e4016bad8b27a28	うまれた ときから うみと ポケモンと\l
+1bd7cc73ff70f0b9	いっしょに いるの。$
+## Route131_Text_ReliNotEnoughMons:
+919d28033635b357	レリ: ポケモン 2ひき いないの?\n
+5116d025fe34c37b	それじゃ しょうぶ たのしめないよ。$
+## Route131_Text_IanIntro:
+a3b5320d793a0523	イアン: ねえちゃんと いっしょに\n
+f22e4116bc7d4888	がんばるぞ!$
+## Route131_Text_IanDefeat:
+404d5f3fb6ff4e19	イアン: ねえちゃんと がんばったけど\n
+2cd9e83db84cd719	やっぱり かてなかった…$
+## Route131_Text_IanPostBattle:
+92fb708c53f062fb	イアン: キナギって うかんでる\n
+405517fee03285e1	まちなの しってる?\p
+0129d2f5293369d1	だから うみが あるところは\n
+5f919aa1c87e8871	ぜんぶ キナギの いちぶ なんだ!$
+## Route131_Text_IanNotEnoughMons:
+bd020f89b77bd35a	イアン: ポケモンが 2ひき いたら\n
+df15008e7c8cbd50	あいてに なるよ!$
+## Route131_Text_TaliaIntro:
+1f36c719868a8991	わたしに かったら すごい じょうほうを\n
+bd8be33c663ed410	おしえて あげる!$
+## Route131_Text_TaliaDefeat:
+e21c7a765077b9db	あら?\n
+54a580a15784597a	わたし まけたの?$
+## Route131_Text_TaliaPostBattle:
+1c14195fec79c29f	ちかくに ふしぎな ばしょが あるの。\n
+2d3772826d3f7416	そこには おおきな とうが あるわ。\l
+32b8bf479ab07965	いって みてきたら?$
+## Route131_Text_KevinIntro:
+afd3a08898789229	キナギの ひとたちは\n
+89e6c6bf87b960b3	おだやかな ひとばかり。\p
+c0c01850ccfdc638	けっして おこらない。\n
+ab1392959c7725a8	わたしも そうだよ。$
+## Route131_Text_KevinDefeat:
+e9bc45d9edf962a5	おっと!$
+## Route131_Text_KevinPostBattle:
+f453876787cec77a	ちっ! …おっと いけない。\n
+998409fb891c01fd	おこってないよ。 ほんとだよ!\p
+9754c583099a4524	しかし いやあ きみは つよいね!\n
+b020dcf8a5f08f5e	ははは!$
+## Route132_Text_GilbertIntro:
+72207520623b0ebc	こどもの ころは しょっちゅう\n
+172cb453ebc0b4a5	かぜを ひいてたけど すいえいを\l
+df548a4e39b2dfd3	はじめてから すっかり じょうぶに なった。$
+## Route132_Text_GilbertDefeat:
+2db35654206302e7	もっと ちからが ほしい…$
+## Route132_Text_GilbertPostBattle:
+2177bf2400d767d8	トレーナーは のやまを たびするから\n
+b4792f5d93bd0352	やっぱり じょうぶ なんだろうな。$
+## Route132_Text_DanaIntro:
+a24d301b479f0369	ながれが はやすぎる ところでは\n
+ee20d2f4ed1e7cca	およがない ように してるの。$
+## Route132_Text_DanaDefeat:
+a63fe08c7eef79a0	ああ やめて おねがい!$
+## Route132_Text_DanaPostBattle:
+6fddf1fc24a954e6	ながされたら じぶんが どこに いるか\n
+7c3a5c0711079ba6	わからなく なっちゃう…$
+## Route132_Text_RonaldIntro:
+8806b17f193d53c4	かつか まけるかは やってみなきゃ\n
+e1e0e4a8bbb8c23e	わからない!$
+## Route132_Text_RonaldDefeat:
+6c701c77aae7104c	うわあ!\n
+1bfaf945435ef5d2	まけて しずんだ!$
+## Route132_Text_RonaldPostBattle:
+8c9e13f9617435ce	かつと わかってる しょうぶは しない。\n
+b1f225d823fe85c5	しょうりと はいぼくの ギリギリで\l
+143892382dce5caa	たたかうのが すきなんだ!$
+## Route132_Text_KiyoIntro:
+1301838ef3611401	おれは 24じかん ポケモンの ことを\n
+95d509d58e74b395	かんがえてる。 かてる わけが ない!$
+## Route132_Text_KiyoDefeat:
+a9c15db35bcebafe	まけた。\n
+d339e8321e44ca06	はいぼくを みとめよう。$
+## Route132_Text_KiyoPostBattle:
+bbfdbd477bfd4300	ぐぐぐ…\n
+869586cea675a787	おまえ ポケモン マニア だろ?\p
+d071fd9ab2008857	おまえも 24じかん ポケモンの ことを\n
+80fee6acdf570b62	かんがえてる んだろ?$
+## Route132_Text_MakaylaIntro:
+ad368800a5919c95	いつも おっとと いっしょ だけど\n
+225562e8c5e96d5d	ひとりでも かてる わよ。$
+## Route132_Text_MakaylaDefeat:
+cbcadb068a3e6053	あら わたしでは だめ だったのね。$
+## Route132_Text_MakaylaPostBattle:
+b39eed043b3a5d62	あそこの わかい ひと わかい ころの\n
+cadc93204f616bf6	おっとに そっくり なのよ。\p
+f282b65940f49530	てれちゃうわ!$
+## Route132_Text_JonathanIntro:
+69515dd2e709d762	だれかが ずっと ぼくを みてた。\n
+b3729f177d208a85	きみ だったのか?$
+## Route132_Text_JonathanDefeat:
+baf33cd3b17fccea	うわっ!\n
+e6cdafd9876bb46d	こいつは たしかに つよいな!$
+## Route132_Text_JonathanPostBattle:
+bfbb19f7b6712c83	だれかに みられてる きが\n
+73f843b06be990e2	して ならない。\p
+9859671a6ff8a0aa	しゅうちゅう できない!$
+## Route132_Text_PaxtonIntro:
+13f9f417ef4b6f21	はて つまは どこへ いったのやら?\n
+aa43ca22505ca097	いつも いっしょ なんじゃが。\l
+c19c39e782374723	ひとりで かてるかのう。$
+## Route132_Text_PaxtonDefeat:
+8bbb524c0f6d0ac9	ふむ やはり ひとりでは\n
+ec03985db42d4f42	かてなかったか。$
+## Route132_Text_PaxtonPostBattle:
+3eb6c216e3694d7b	つまが わしを さがして おるはずじゃ。\n
+8114b6c70a0b9088	すぐに さがしに いかんとな。$
+## Route132_Text_DarcyIntro:
+b1ed6b3240fb56dc	ここで ひとりで トレーニング するのが\n
+43e3bee841399052	すきだったのに ひとが ふえて さいあく!$
+## Route132_Text_DarcyDefeat:
+f9727f25375afffe	わかった! ほかの ひとが いても\n
+26d8acda72e769ab	もう もんく いわない。$
+## Route132_Text_DarcyPostBattle:
+5ee18f460007fd37	あの おじいさんと くんで\n
+476f69e48f278411	あっちの チームに いどもうかな。$
+## Route133_Text_FranklinIntro:
+c95927a93fd7b854	きみも ながれに はこばれて きたのか?\n
+f162ad1880ff7c1c	これも うんめい だな。\l
+a969fe79af88c47b	しょうぶだ!$
+## Route133_Text_FranklinDefeat:
+b8512cdabe9fc121	つよい!\n
+0cb434e5c7044e3a	つよすぎる!$
+## Route133_Text_FranklinPostBattle:
+e1c2d008078340fc	きみみたいな つよい トレーナーが\n
+15422a5783655d33	ながれついて くるなんて ついてない…\l
+a3a64e10963e7d49	のろわれてる のかも…$
+## Route133_Text_DebraIntro:
+a141dc8049050413	ふこうと みじめさの じんせい…\n
+4eeaaff4e36f527f	すてられて ながれ ながれて\l
+e0720df644bf8611	ここに たどりついたの…$
+## Route133_Text_DebraDefeat:
+065e8a857e19f9c8	また まけた…$
+## Route133_Text_DebraPostBattle:
+c1f8be8b05c3f9bd	ただよう じんせい…\n
+21d7bcd909b99b61	もう いやよ!$
+## Route133_Text_LindaIntro:
+6119eee4ee5c4c42	いらっしゃい!\n
+452ee05107814b3b	まってたわよ!$
+## Route133_Text_LindaDefeat:
+9aeea26c11d11ba6	いや! やめて!$
+## Route133_Text_LindaPostBattle:
+4cf40d78a6233dbe	つよい こどもの トレーナー…\n
+e15375050ae875e3	ほんと しゃくに さわるわ!$
+## Route133_Text_WarrenIntro:
+12413d99691a8788	みんなと おなじように かちたいけど\n
+ae386ff8c7c61bd5	みんなと おなじ そだてかたは しない。$
+## Route133_Text_WarrenDefeat:
+e195b2ba6fb9aee6	くそっ!\n
+3528a75acb02b1a6	おれの やりかたは まだ あまい!$
+## Route133_Text_WarrenPostBattle:
+e01c83ff19c4b42e	みんなと おなじ よりも じぶんの\n
+98da3d4009a644b8	やりたいように やるほうが たのしい。\l
+7117b50bab22ebfa	あたりまえ だろ!$
+## Route133_Text_BeckIntro:
+4e6ca0a6ad943982	とりポケモンと いっしょに\n
+b4ae5a8c76d6b791	はるばる ここまで きたんだ。$
+## Route133_Text_BeckDefeat:
+b2ba72159960caf3	きみ…\n
+39d6500829ebc5c8	めちゃくちゃ かっこいい!$
+## Route133_Text_BeckPostBattle:
+908a21af9dbc7370	ヒワマキに かえりたいけど\n
+1c0d7f93f654b551	ここも すきに なってきちゃった。$
+## Route133_Text_MollieIntro:
+32b44bc5c090eb85	なんぜんかいも しょうぶ してきたわ。\n
+b34ccb9e0b55cdde	もう かぞえきれない。$
+## Route133_Text_MollieDefeat:
+1bdf4edf252753c2	なんぜんかい まけていても\n
+4d0678ae756b3efd	やっぱり まけるのは くやしいわ。$
+## Route133_Text_MolliePostBattle:
+58a92bb4efdcd4bd	この ちょうしで がんばりなさい。\n
+3d8b96ab8c8fb1f0	わたしと おっとの ように なれるわ。$
+## Route133_Text_ConorIntro:
+415ea1c03a152626	わかものは すぐ ながれに みを\n
+4b0688de00b3756c	まかせる。 ほうこうが ないんじゃ。$
+## Route133_Text_ConorDefeat:
+c90e5f4278f67224	しっかりとした もくてきを もっとるな。$
+## Route133_Text_ConorPostBattle:
+392d77e0f4dbffb1	ひとに まどわされては いかん。\n
+a0048f643803be48	としを とっても みちを みうしなうなよ。$
+## Route134_Text_JackIntro:
+8e05b96e05a9d8d9	およげる ポケモンでさえ\n
+554461f9c310396c	はやい ながれに おしながされる。$
+## Route134_Text_JackDefeat:
+2b71d4c6d1006f7c	ひええええ!$
+## Route134_Text_JackPostBattle:
+56c28aadbb48ab0c	この あたりの はやい ながれを\n
+cfd28658854eb6f6	ポケモンは たのしんでる みたいだ。$
+## Route134_Text_LaurelIntro:
+5ad18443c0b4c1c4	わたしの ラブカスたちが たのしい\n
+8b41f6d88f4b2d1b	しょうぶを したいって。 どう?$
+## Route134_Text_LaurelDefeat:
+2657aca537aedff6	あらら!$
+## Route134_Text_LaurelPostBattle:
+5fe52db5c6e4da8c	ラブカスの ウロコを あつめてる\n
+a67abaec7ec1f1fd	コレクターが いるのよ。$
+## Route134_Text_AlexIntro:
+13805ba9638a22c5	よーし! きゅうけいは おわりだ みんな!\n
+45a6bd301fcca5f1	しょうぶの じかんだぞ!$
+## Route134_Text_AlexDefeat:
+989785e8665aeb14	また へばっちゃった…$
+## Route134_Text_AlexPostBattle:
+98d76d8864aa374c	おれの とりポケモンは ながく とぶと\n
+57b3efb635ab1e69	すぐ つかれちゃうんだ…$
+## Route134_Text_HitoshiIntro:
+89a8f443374a3dc1	ポケモントレーナー だな。\n
+fe8bd710de667430	ことばは いらぬ。 いざ しょうぶ。$
+## Route134_Text_HitoshiDefeat:
+58bd8da07ba177b8	… … … … … …\n
+ce84c4ae8a88cb71	… … … … … …$
+## Route134_Text_HitoshiPostBattle:
+b0a39011c3b4041b	じぶんから いどんで おきながら\n
+12de702fab510b7e	まけるとは。 ふかく はじいる…$
+## Route134_Text_AaronIntro:
+11fef2e1f5354f61	この あたりの あらい しおが\n
+3f07d82e7c447c64	われらを さらに つよく するのだ。$
+## Route134_Text_AaronDefeat:
+b81ecf1beeb54587	いさぎよく まけを みとめよう。$
+## Route134_Text_AaronPostBattle:
+5a84447afdb824ee	われらは また りゅうせいのたきへ\n
+6f1bc2298ba22322	しゅぎょうに もどる。\p
+61f2106b86c79d16	よければ きみも いくと いい。\n
+f81038de4d0ff4b8	かならず きたえられるぞ!$
+## Route134_Text_KelvinIntro:
+0481c625c74d8bc5	ぼ ぼくらの ボートが!\n
+ebe4fa8194dc0e00	しおに ながされちゃった!$
+## Route134_Text_KelvinDefeat:
+bcfa5c44d244542a	あわわわわ!\n
+a3352d520407504c	やめて! おねがい!$
+## Route134_Text_KelvinPostBattle:
+630ba7b9a8c609ed	なみのり できなかったら どうやって\n
+2aae2bf0637827dc	かえれば いいんだ?\p
+ace52ef0b3a3c84e	ほんとは ひんしの ポケモンでも\n
+2731bffe0b1d1e79	なみのり できるけど きが ひける。$
+## Route134_Text_MarleyIntro:
+521c8dff1425ea87	きみの ポケモンは われらの\n
+6d5ef814dc327386	でんこうせっかの こうげきを かわせるか?$
+## Route134_Text_MarleyDefeat:
+798fbed3d1943207	そんな わざが あったとは!\n
+306935e0346bd3c4	かんぜんに やられたよ。$
+## Route134_Text_MarleyPostBattle:
+a4b54e74765aecfe	はやさへの じょうねつは きえてない。\n
+078dc591d29028ac	もっと がんばるよ。$
+## Route134_Text_ReynaIntro:
+26f6e01cb742dfd6	わたしの ポケモンは かんたんには\n
+30a2fb92b1abfaea	たおれないわよ!$
+## Route134_Text_ReynaDefeat:
+d08e536c4f09d4a8	うそでしょ!\n
+3aa67619aedecf84	なんで まけたのか せつめい して!$
+## Route134_Text_ReynaPostBattle:
+b6290f756e4dd39a	はは!\n
+758df92d88f67b02	たしかに あなたの かちね!\p
+bc2b6932aa912139	たまたま であった トレーナーと\n
+2637d0a4e05557c7	たたかって また はいあがるわ!$

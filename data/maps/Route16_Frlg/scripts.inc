@@ -74,115 +74,115 @@ Route16_EventScript_RouteSign::
 	end
 
 Route16_Text_LaoIntro::
-	.string "What do you want?$"
+	.string "{JPN}なんの ようだ?$"
 
 Route16_Text_LaoDefeat::
-	.string "Don't you dare laugh!$"
+	.string "{JPN}わらったら ゆるさねえぞ!$"
 
 Route16_Text_LaoPostBattle::
-	.string "We like just hanging here.\n"
-	.string "What's it to you?$"
+	.string "{JPN}おれたちは ここで たむろするのが すきなんだ\n"
+	.string "もんくあるか?$"
 
 Route16_Text_KojiIntro::
-	.string "Nice BIKE!\n"
-	.string "Hand it over!$"
+	.string "{JPN}いい じてんしゃだな!\n"
+	.string "よこせよ!$"
 
 Route16_Text_KojiDefeat::
-	.string "Knockout!$"
+	.string "{JPN}ノックアウト!$"
 
 Route16_Text_KojiPostBattle::
-	.string "Forget it, who needs your BIKE!$"
+	.string "{JPN}もういい じてんしゃなんか いるか!$"
 
 Route16_Text_LukeIntro::
-	.string "Come out and play, little mouse!$"
+	.string "{JPN}でてこいよ こねずみちゃん!$"
 
 Route16_Text_LukeDefeat::
-	.string "You little rat!$"
+	.string "{JPN}この ちびねずみめ!$"
 
 Route16_Text_LukePostBattle::
-	.string "I hate losing!\n"
-	.string "Get out of my face!$"
+	.string "{JPN}まけるのは だいきらいだ!\n"
+	.string "めのまえから きえろ!$"
 
 Route16_Text_HideoIntro::
-	.string "Hey, you just bumped me!$"
+	.string "{JPN}おい いま ぶつかった だろ!$"
 
 Route16_Text_HideoDefeat::
-	.string "Kaboom!$"
+	.string "{JPN}ドカーン!$"
 
 Route16_Text_HideoPostBattle::
-	.string "We'll always be hanging around here\n"
-	.string "even if you don't like it.\p"
-	.string "You can detour to VERMILION from\n"
-	.string "FUCHSIA going along the coast.$"
+	.string "{JPN}おまえが いやでも おれたちは\n"
+	.string "ずっと ここに たむろしてるぜ\p"
+	.string "セキチクから かいがんぞいに\n"
+	.string "クチバへ まわりみち できるぜ$"
 
 Route16_Text_CamronIntro::
-	.string "I'm feeling hungry and mean!\n"
-	.string "I need a punching bag!$"
+	.string "{JPN}はらぺこで きげんが わるいんだ!\n"
+	.string "サンドバッグが ほしいぜ!$"
 
 Route16_Text_CamronDefeat::
-	.string "Bad, bad, bad!$"
+	.string "{JPN}だめだ だめだ だめだ!$"
 
 Route16_Text_CamronPostBattle::
-	.string "If I'm going to have POKéMON, they\n"
-	.string "may as well be ferocious.\p"
-	.string "I'd use them to leave my enemies\n"
-	.string "in tatters.$"
+	.string "{JPN}どうせ ポケモンを もつなら\n"
+	.string "どうもうな やつが いい\p"
+	.string "てきを ずたずたに\n"
+	.string "してやるのさ$"
 
 Route16_Text_RubenIntro::
-	.string "Hey, there!\n"
-	.string "Let's have ourselves a good time!$"
+	.string "{JPN}よう!\n"
+	.string "たのしく やろうぜ!$"
 
 Route16_Text_RubenDefeat::
-	.string "Don't make me mad!$"
+	.string "{JPN}おこらせるなよ!$"
 
 Route16_Text_RubenPostBattle::
-	.string "I get my kicks by harassing people\n"
-	.string "with my stinking POKéMON.\p"
-	.string "They're great for startling people.\n"
-	.string "And, they bite, too.$"
+	.string "{JPN}くさい ポケモンで ひとに いやがらせ\n"
+	.string "するのが たのしいんだ\p"
+	.string "ひとを おどかすのに ぴったりだぜ\n"
+	.string "それに かみつくしな$"
 
 Route16_Text_MonSprawledOutInSlumber::
-	.string "A POKéMON is sprawled out in\n"
-	.string "a deep and comfortable slumber.$"
+	.string "{JPN}ポケモンが ねそべって\n"
+	.string "きもちよさそうに ぐっすり ねている$"
 
 Route16_Text_CyclingRoadSign::
-	.string "Enjoy the slope!\n"
-	.string "CYCLING ROAD$"
+	.string "{JPN}さかみちを たのしもう!\n"
+	.string "サイクリングロード$"
 
 Route16_Text_RouteSign::
-	.string "ROUTE 16\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "{JPN}16ばんどうろ\n"
+	.string "タマムシシティ - セキチクシティ$"
 
 Route16_Text_JedIntro::
-	.string "JED: Our love knows no bounds.\n"
-	.string "We're in love and we show it!$"
+	.string "{JPN}ジェド: ぼくらの あいに かぎりは ない\n"
+	.string "あいしあってるから みせつけるのさ!$"
 
 Route16_Text_JedDefeat::
-	.string "JED: Oh, no!\n"
-	.string "My love has seen me as a loser!$"
+	.string "{JPN}ジェド: しまった!\n"
+	.string "まける ところを かのじょに みられた!$"
 
 Route16_Text_JedPostBattle::
-	.string "JED: Listen, LEA.\n"
-	.string "You need to focus less on me.$"
+	.string "{JPN}ジェド: ねえ レア\n"
+	.string "ぼくばかり みてちゃ だめだよ$"
 
 Route16_Text_JedNotEnoughMons::
-	.string "JED: You have just one POKéMON?\n"
-	.string "Is there no love in your heart?$"
+	.string "{JPN}ジェド: ポケモン 1ぴきだけ?\n"
+	.string "きみの こころに あいは ないの?$"
 
 Route16_Text_LeaIntro::
-	.string "LEA: Sometimes, the intensity of\n"
-	.string "our love scares me.$"
+	.string "{JPN}レア: ときどき わたしたちの あいの\n"
+	.string "はげしさが こわくなるの$"
 
 Route16_Text_LeaDefeat::
-	.string "LEA: Ohh! But JED looks cool\n"
-	.string "even in a loss!$"
+	.string "{JPN}レア: ああっ! でも ジェドは\n"
+	.string "まけても かっこいい!$"
 
 Route16_Text_LeaPostBattle::
-	.string "LEA: Ehehe, I'm sorry.\n"
-	.string "JED is so cool.$"
+	.string "{JPN}レア: えへへ ごめんね\n"
+	.string "ジェドって ほんと かっこいいの$"
 
 Route16_Text_LeaNotEnoughMons::
-	.string "LEA: Oh, you don't have two\n"
-	.string "POKéMON with you?\p"
-	.string "Doesn't it feel lonely for you or\n"
-	.string "your POKéMON?$"
+	.string "{JPN}レア: あら ポケモンを 2ひき\n"
+	.string "つれてないの?\p"
+	.string "あなたも ポケモンも\n"
+	.string "さびしく ないの?$"

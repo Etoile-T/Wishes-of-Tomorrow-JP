@@ -33,36 +33,36 @@ VermilionCity_House1_EventScript_NoRoomForOldRod::
 	end
 
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-	.string "I'm the FISHING GURU!\p"
-	.string "I simply looove fishing!\n"
-	.string "I can't bear to go without.\p"
-	.string "Tell me, do you like to fish?$"
+	.string "{JPN}わしは つりの めいじん!\p"
+	.string "つりが だーいすき なんじゃ!\n"
+	.string "つりなしでは いられん。\p"
+	.string "ところで おまえさん つりは すきか?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
-	.string "Grand! I like your style.\n"
-	.string "I think we can be friends.\p"
-	.string "Take this and fish, young friend!$"
+	.string "{JPN}すばらしい! きにいった!\n"
+	.string "わしらは なかよく なれそうじゃ。\p"
+	.string "これで つりを するが よい!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-	.string "{PLAYER} received an OLD ROD from\n"
-	.string "the FISHING GURU.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は つりの めいじんから\n"
+	.string "ボロのつりざおを もらった!$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
-	.string "Fishing is a way of life!\n"
-	.string "It is like the finest poetry.\p"
-	.string "From the seas to rivers, go out\n"
-	.string "and land the big one, my friend.$"
+	.string "{JPN}つりは じんせい そのもの!\n"
+	.string "さいこうの しの ようなものじゃ。\p"
+	.string "うみでも かわでも でかけて いって\n"
+	.string "おおものを つりあげるのじゃぞ。$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
-	.string "Oh…\n"
-	.string "That's so disappointing…$"
+	.string "{JPN}そうか…\n"
+	.string "ざんねんじゃのう…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-	.string "Hello there, {PLAYER}!\p"
-	.string "How are the fish biting?$"
+	.string "{JPN}おお {ENG}{PLAYER}{JPN}!\p"
+	.string "つりの ちょうしは どうじゃ?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
-	.string "Oh, no!\p"
-	.string "I had a nice gift for you, but you\n"
-	.string "have no room for it!$"
+	.string "{JPN}おや!\p"
+	.string "いい ものを やろうと おもったが\n"
+	.string "もちきれん ようじゃな!$"
 

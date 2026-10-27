@@ -6,156 +6,156 @@ Route15_EventScript_RouteSign::
 	end
 
 Route15_Text_KindraIntro::
-	.string "I just got some POKéMON in trades.\n"
-	.string "Can I try them out on you?$"
+	.string "{JPN}こうかんで ポケモンを もらったの\n"
+	.string "あなたで ためして いい?$"
 
 Route15_Text_KindraDefeat::
-	.string "Not good enough!$"
+	.string "{JPN}まだまだ だった!$"
 
 Route15_Text_KindraPostBattle::
-	.string "You can't change the nickname of\n"
-	.string "any POKéMON you get in a trade.\p"
-	.string "Only the Original TRAINER can get\n"
-	.string "the nickname changed.$"
+	.string "{JPN}こうかんで もらった ポケモンの\n"
+	.string "ニックネームは かえられないの\p"
+	.string "ニックネームを かえられるのは\n"
+	.string "さいしょの おやだけ なのよ$"
 
 Route15_Text_BeckyIntro::
-	.string "You look gentle, so I think I can\n"
-	.string "beat you.\p"
-	.string "I'll give it a go!$"
+	.string "{JPN}あなた やさしそうだから\n"
+	.string "かてそうな きがするの\p"
+	.string "やってみるわ!$"
 
 Route15_Text_BeckyDefeat::
-	.string "No, wrong!$"
+	.string "{JPN}ちがう ちがう!$"
 
 Route15_Text_BeckyPostBattle::
-	.string "I'm afraid of BIKERS. They look so\n"
-	.string "ugly and mean!$"
+	.string "{JPN}ぼうそうぞくって こわいわ\n"
+	.string "みためが いじわるそうで!$"
 
 Route15_Text_EdwinIntro::
-	.string "When I whistle, I can summon bird\n"
-	.string "POKéMON.$"
+	.string "{JPN}くちぶえを ふくと とりポケモンを\n"
+	.string "よべるんだ$"
 
 Route15_Text_EdwinDefeat::
-	.string "Ow!\n"
-	.string "That's tragic!$"
+	.string "{JPN}いてっ!\n"
+	.string "ひげきだ!$"
 
 Route15_Text_EdwinPostBattle::
-	.string "Maybe I'm not cut out for battles.\n"
-	.string "I'm not the right type, I guess.$"
+	.string "{JPN}ぼくは バトルに むいてないのかも\n"
+	.string "そういう タイプじゃ ないのかな$"
 
 Route15_Text_ChesterIntro::
-	.string "Hmm? My birds are shivering!\n"
-	.string "You're good, aren't you?$"
+	.string "{JPN}ん? ぼくの とりが ふるえてる!\n"
+	.string "きみ つよいんだろ?$"
 
 Route15_Text_ChesterDefeat::
-	.string "Just as I thought!$"
+	.string "{JPN}おもった とおりだ!$"
 
 Route15_Text_ChesterPostBattle::
-	.string "This is so obvious, you should know\n"
-	.string "this, but…\p"
-	.string "Moves like EARTHQUAKE and FISSURE\n"
-	.string "have no effect on bird POKéMON.$"
+	.string "{JPN}あたりまえの ことだから\n"
+	.string "しってるだろうけど…\p"
+	.string "じしんや じわれの わざは\n"
+	.string "とりポケモンには きかないんだ$"
 
 Route15_Text_GraceIntro::
-	.string "Oh, you're a little cutie!\n"
-	.string "So like a darling POKéMON!$"
+	.string "{JPN}まあ かわいい こね!\n"
+	.string "まるで かわいい ポケモンみたい!$"
 
 Route15_Text_GraceDefeat::
-	.string "You looked so cute, too!$"
+	.string "{JPN}みためは かわいかったのに!$"
 
 Route15_Text_GracePostBattle::
-	.string "I forgive you.\n"
-	.string "I can take it.\l"
-	.string "I'm a big girl now.$"
+	.string "{JPN}ゆるして あげる\n"
+	.string "へいきよ\l"
+	.string "わたし もう おとなだもん$"
 
 Route15_Text_OliviaIntro::
-	.string "I raise POKéMON for protection\n"
-	.string "because I live alone.$"
+	.string "{JPN}ひとりぐらしだから ようじんの\n"
+	.string "ために ポケモンを そだててるの$"
 
 Route15_Text_OliviaDefeat::
-	.string "POKéMON isn't about winning or\n"
-	.string "losing for me.$"
+	.string "{JPN}わたしにとって ポケモンは\n"
+	.string "かちまけじゃ ないの$"
 
 Route15_Text_OliviaPostBattle::
-	.string "I love having my POKéMON greet me\n"
-	.string "when I get home.\p"
-	.string "It's so reassuring.$"
+	.string "{JPN}いえに かえると ポケモンが\n"
+	.string "でむかえて くれるのが すきなの\p"
+	.string "ほんとに あんしん するのよ$"
 
 Route15_Text_ErnestIntro::
-	.string "Hey, kid! C'mon!\n"
-	.string "I just got these off some loser!$"
+	.string "{JPN}おい こぞう! こいよ!\n"
+	.string "まけいぬから まきあげた ばかりだぜ!$"
 
 Route15_Text_ErnestDefeat::
-	.string "Why not?$"
+	.string "{JPN}なんでだよ?$"
 
 Route15_Text_ErnestPostBattle::
-	.string "Life's too short.\n"
-	.string "It's cool to live as an outlaw.\l"
-	.string "TEAM ROCKET RULES!$"
+	.string "{JPN}じんせいは みじかい\n"
+	.string "アウトローに いきるのが かっこいいのさ\l"
+	.string "ロケットだん ばんざい!$"
 
 Route15_Text_AlexIntro::
-	.string "Fork over all your cash when you\n"
-	.string "lose to me, kid!$"
+	.string "{JPN}おれに まけたら かね ぜんぶ\n"
+	.string "おいていけよ こぞう!$"
 
 Route15_Text_AlexDefeat::
-	.string "That can't be true!$"
+	.string "{JPN}うそだろ!$"
 
 Route15_Text_AlexPostBattle::
-	.string "I was just joking about the money.\n"
-	.string "Don't take me all serious.$"
+	.string "{JPN}かねの はなしは じょうだんだよ\n"
+	.string "ほんきに すんなって$"
 
 Route15_Text_CeliaIntro::
-	.string "What's cool and happening?\n"
-	.string "Trading POKéMON!$"
+	.string "{JPN}いま いちばん イケてるのは?\n"
+	.string "ポケモンの こうかん!$"
 
 Route15_Text_CeliaDefeat::
-	.string "I said trade!$"
+	.string "{JPN}こうかんって いったでしょ!$"
 
 Route15_Text_CeliaPostBattle::
-	.string "I trade POKéMON with my friends\n"
-	.string "all the time.$"
+	.string "{JPN}ともだちと しょっちゅう\n"
+	.string "ポケモンを こうかん してるの$"
 
 Route15_Text_YazminIntro::
-	.string "Want to play with my POKéMON?$"
+	.string "{JPN}わたしの ポケモンと あそばない?$"
 
 Route15_Text_YazminDefeat::
-	.string "I was too impatient!$"
+	.string "{JPN}あせりすぎちゃった!$"
 
 Route15_Text_YazminPostBattle::
-	.string "I'll go train with weaker people.$"
+	.string "{JPN}もっと よわい ひとと しゅぎょうするわ$"
 
 Route15_Text_RouteSign::
-	.string "ROUTE 15\n"
-	.string "West to FUCHSIA CITY$"
+	.string "{JPN}15ばんどうろ\n"
+	.string "にし セキチクシティ$"
 
 Route15_Text_MyaIntro::
-	.string "MYA: You're perfect.\n"
-	.string "Help me train my little brother?$"
+	.string "{JPN}ミヤ: あなた ちょうどいいわ\n"
+	.string "おとうとの とっくんに つきあって?$"
 
 Route15_Text_MyaDefeat::
-	.string "MYA: RON, you have to focus!\n"
-	.string "Concentrate on what you're doing!$"
+	.string "{JPN}ミヤ: ロン しゅうちゅう して!\n"
+	.string "じぶんの やることに せんねんしなさい!$"
 
 Route15_Text_MyaPostBattle::
-	.string "MYA: Okay, we'll turn it up.\n"
-	.string "I'll add to our training menu!$"
+	.string "{JPN}ミヤ: よし レベルを あげるわよ\n"
+	.string "とっくんメニューを ふやすわ!$"
 
 Route15_Text_MyaNotEnoughMons::
-	.string "MYA: Do you want to challenge us?\n"
-	.string "You'll need two POKéMON, though.$"
+	.string "{JPN}ミヤ: わたしたちに ちょうせんする?\n"
+	.string "でも ポケモンが 2ひき ひつようよ$"
 
 Route15_Text_RonIntro::
-	.string "RON: My sister gets scary when we\n"
-	.string "lose.$"
+	.string "{JPN}ロン: まけると ねえちゃんが\n"
+	.string "こわいんだ$"
 
 Route15_Text_RonDefeat::
-	.string "RON: Oh, no, no…\n"
-	.string "Sis, I'm sorry!$"
+	.string "{JPN}ロン: ああ だめ だめ…\n"
+	.string "ねえちゃん ごめん!$"
 
 Route15_Text_RonPostBattle::
-	.string "RON: Oh, bleah…\n"
-	.string "I wish I had a nice sister…$"
+	.string "{JPN}ロン: うえー…\n"
+	.string "やさしい ねえちゃんが ほしいよ…$"
 
 Route15_Text_RonNotEnoughMons::
-	.string "RON: Did you want to battle with\n"
-	.string "my sister and me?\p"
-	.string "You need two POKéMON, then.$"
+	.string "{JPN}ロン: ねえちゃんと ぼくと\n"
+	.string "しょうぶ したかったの?\p"
+	.string "それなら ポケモンが 2ひき いるよ$"

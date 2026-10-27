@@ -17,38 +17,38 @@ PokemonTower_3F_EventScript_Hope::
 	end
 
 PokemonTower_3F_Text_HopeIntro::
-	.string "Urrg… Awaa…\n"
-	.string "Huhu… Graa…$"
+	.string "{JPN}うう… あわわ…\n"
+	.string "ふふ… ぐおお…$"
 
 PokemonTower_3F_Text_HopeDefeat::
-	.string "Hwa!\n"
-	.string "I'm saved!$"
+	.string "{JPN}はっ!\n"
+	.string "たすかった!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-	.string "The ghosts can be identified by\n"
-	.string "the SILPH SCOPE.$"
+	.string "{JPN}ゆうれいの しょうたいは\n"
+	.string "シルフスコープで みやぶれる。$"
 
 PokemonTower_3F_Text_CarlyIntro::
-	.string "Kekeke…\n"
-	.string "Kwaaah!$"
+	.string "{JPN}ケケケ…\n"
+	.string "キエーッ!$"
 
 PokemonTower_3F_Text_CarlyDefeat::
-	.string "Hmm?\n"
-	.string "What am I doing?$"
+	.string "{JPN}ん?\n"
+	.string "わたし なにを してるの?$"
 
 PokemonTower_3F_Text_CarlyPostBattle::
-	.string "Sorry!\n"
-	.string "I was possessed!$"
+	.string "{JPN}ごめんなさい!\n"
+	.string "とりつかれて いたの!$"
 
 PokemonTower_3F_Text_PatriciaIntro::
-	.string "Be gone!\n"
-	.string "Malevolent spirit!$"
+	.string "{JPN}たちされ!\n"
+	.string "あくりょうよ!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
-	.string "Whew!\n"
-	.string "The spirit left!$"
+	.string "{JPN}ふう!\n"
+	.string "れいが はなれた!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-	.string "The others above…\n"
-	.string "They must have been possessed.$"
+	.string "{JPN}うえに いる ほかの ひとたち…\n"
+	.string "きっと とりつかれて いるのね。$"
 

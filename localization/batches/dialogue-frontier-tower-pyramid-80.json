@@ -1,0 +1,5938 @@
+[
+ {
+  "id": "ae7cda436c9a9e1c",
+  "translation": "{JPN}トレーナーの ゆうきが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55c86b4824a90e4c",
+  "translation": "ためされる ばしょ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12d1054d3fddabcc",
+  "translation": "バトルピラミッドへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22bc945562ca7f68",
+  "translation": "わたしは バトルアドベンチャーの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6344ba7bb9b36282",
+  "translation": "あんないやく ですぞ。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6924e62cc2c91b79",
+  "translation": "{JPN}バトルアドベンチャーに いどむ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "819a3309a15b591e",
+  "translation": "ゆうきは おありですかな?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baa406548c5161e7",
+  "translation": "{JPN}また ちょうせんを おまちしてますぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3749e1bbd382fdf1",
+  "translation": "{JPN}バトルアドベンチャーとは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1ac65c158e0d783",
+  "translation": "ピラミッドを たんけんし\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a061d651901a51e6",
+  "translation": "ちょうじょうを めざす しょうぶです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d3a2cbaf99d3742",
+  "translation": "ピラミッドの なかは 7だんの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2198d3a696823c7b",
+  "translation": "めいろに なっており うでききの\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7b98a77780c5e0f",
+  "translation": "トレーナーと やせいの ポケモンが います。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d83462cb31e40e4",
+  "translation": "はいるときは ポケモン 3びきを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a47d64d67778e6a",
+  "translation": "どうぐを もたせずに つれていきます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00fa7fe716297b20",
+  "translation": "のぼっている あいだは どうぐようの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9bc6c9925632632",
+  "translation": "バトルバッグを おわたし します。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad3fb5ff11e535a6",
+  "translation": "ちょうせんに しっぱいすると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67f1322ad6d6a288",
+  "translation": "バトルバッグの どうぐは きえます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e84673b608709b6e",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8854e074b1909ae7",
+  "translation": "「やすむ」を えらんで\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38e4bba54b60fd88",
+  "translation": "レポートを かいて ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "021c18ebc92966d4",
+  "translation": "レポートを かかずに ちゅうだんすると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "526953a27630d663",
+  "translation": "しっかく と なりますぞ。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43caccf308fa3b8d",
+  "translation": "{JPN}ピラミッドには レベル50と\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9208269b48de3385",
+  "translation": "オープンレベルの 2コースが あります。\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20793ce1f6f53058",
+  "translation": "どちらに はいられますかな?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59b04b10e1862b19",
+  "translation": "{JPN}よろしい。 では つれていく\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbf43a3ef60829d1",
+  "translation": "ポケモンを 3びき おえらびくだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9118600ed447a43c",
+  "translation": "{JPN}ぼうけんしゃよ すこし もんだいが!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecdcd34a0631073b",
+  "translation": "ちょうせんに さんか できる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac816adc12fa79b8",
+  "translation": "ポケモンが 3びき いないようですな。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2be20873b1b9220",
+  "translation": "ポケモンの どうぐも ぜんぶ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "420b5fae226b6a47",
+  "translation": "はずしておいて くだされ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "534eddbd3ff0c2e0",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d32bb36b0ba9a9fb",
+  "translation": "{JPN}ぼうけんしゃよ すこし もんだいが!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b95609d06a0c83d",
+  "translation": "ちょうせんに さんか できる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1fb9ba750671038",
+  "translation": "ポケモンが 3びき いないようですな。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "916b56a85dbd5bce",
+  "translation": "ポケモンは ちがう しゅるいで\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c7b3dde354594cb",
+  "translation": "レベル50いかの 3びきが ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b17df8a1bcd6698",
+  "translation": "ポケモンの どうぐも ぜんぶ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed50411f815cdbd2",
+  "translation": "はずしておいて くだされ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6eaed5e827a5172",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24924f3ae2d65672",
+  "translation": "{JPN}じゅんびが できましたら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a33b43642b2e7c3e",
+  "translation": "また こえを おかけ くだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d6b3dc12c8701cea",
+  "translation": "{JPN}バトルピラミッドへ はいる まえに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66e377e4a2e91f6d",
+  "translation": "レポートを かきますが よろしいかな?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a002eeb0491409a",
+  "translation": "{JPN}では バトルピラミッドの なかへ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c249f3e76ed43cd8",
+  "translation": "おつれいたしますぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1692029c202c8209",
+  "translation": "{JPN}たんけんの あいだ バッグは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1e3b62f749d6b29",
+  "translation": "{ENG}{PLAYER}{JPN}さまから おあずかりします。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7d7b7641e16f9d9",
+  "translation": "{JPN}かわりに ぜんかい おつかいになった\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da021d43a132b528",
+  "translation": "この バトルバッグを おもちくだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f780e0c8b7bf02c",
+  "translation": "{JPN}かわりに こちらの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bd4c5225029d5ab",
+  "translation": "バトルバッグを おもちくだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d08d476b0574c9a",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は バッグを あずけて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5cb6b47cb94512fd",
+  "translation": "バトルバッグを うけとった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "424f1d670be52a25",
+  "translation": "{JPN}こちらの ゆかを ふんで いただくと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ecdcfa6c07ad7ee",
+  "translation": "ピラミッドの うえの だんへと\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e4663aae6f69905",
+  "translation": "すすむことが できますぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48af81ed41749604",
+  "translation": "ぶじ ぼうけんが すすむことを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b8e3227342d81b3",
+  "translation": "いのって おりますぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a27f74ae37d73e27",
+  "translation": "{JPN}たんけんしゃよ たいへんな もんだいが!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b4637c8ac51cfe0",
+  "translation": "ぜんかい レポートを かかずに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a38473980abf737",
+  "translation": "ちょうせんを おえられましたな。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31b261dbc9cd734e",
+  "translation": "ざんねん ですが そのため\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec05a7ab0d16a499",
+  "translation": "ちょうせんは しっかく と なりました。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21ebf4e9ea5eca59",
+  "translation": "おあずかりしていた バッグを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "515b27ec7b5c78f2",
+  "translation": "おかえし しますぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5423b9b01d8b7752",
+  "translation": "{ENG}{PLAYER}{JPN}は バッグを かえしてもらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b8a5d3a2755abd5",
+  "translation": "{JPN}おかえりなさいませ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55b05f739776d980",
+  "translation": "みごとに ピラミッドを せいは!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "743cd853d0c80fff",
+  "translation": "すばらしい ですな!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9afe69b4af030a2d",
+  "translation": "{JPN}おっと すこし もんだいが。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94a409151fefcd48",
+  "translation": "どうぐを もっている ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17cbb5251b5603a1",
+  "translation": "いるようですな。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a56e2374ebe3a9fc",
+  "translation": "ざんねんながら ピラミッドで えた\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c05db193785fc94c",
+  "translation": "どうぐは もちだせないのです。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43ce1fb315d832a2",
+  "translation": "{JPN}ポケモンが もつ どうぐは ぜんぶ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9db892e46e4b330f",
+  "translation": "{ENG}{PLAYER}{JPN}さまの バトルバッグへ うつします。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ef2a008f4feb752",
+  "translation": "{JPN}ざんねんながら バトルバッグに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ec93d90ef253c3b",
+  "translation": "どうぐが ぜんぶ はいりきりません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b6227409a404314",
+  "translation": "バトルバッグと ポケモンに のこす\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd2f486cc5f77d75",
+  "translation": "どうぐを えらんで くだされ。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97a740449beeb7a3",
+  "translation": "{JPN}ポケモンに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d4adae82d514cf1",
+  "translation": "まだ どうぐを もたせていますぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "819c368185d03483",
+  "translation": "{JPN}バトルバッグと ポケモンに のこす\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3933416bd7696343",
+  "translation": "どうぐを えらんで くだされ。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54beacde588dc5b5",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ポケモンに もたせている\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e0d966824b4e3b7",
+  "translation": "どうぐを ぜんぶ かえした!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19b0c51d6fbc858d",
+  "translation": "{JPN}つかった バトルバッグは つぎの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "553d581c8be77853",
+  "translation": "ちょうせんまで おあずかりしますぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c02a22604fc583ec",
+  "translation": "{ENG}{PLAYER}{JPN}は バトルバッグを わたして\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e04717cfe110d38",
+  "translation": "バッグを かえしてもらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c57ef10d9a416b8",
+  "translation": "{JPN}せいせきを レポートに かきますので\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "562e299696229386",
+  "translation": "おまちくだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ee4cbe724cd4518",
+  "translation": "{JPN}バトルピラミッド せいはの きねんに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "311aa0c83946d93a",
+  "translation": "この しょうひんを おうけとりくだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c4b2e813a4db4c2",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ece72a5fbee05e71",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を もらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dd38748f47f240b",
+  "translation": "{JPN}……おや……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fba1641be14a662",
+  "translation": "バッグが いっぱいの ようですな。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6e139d81b56b54b",
+  "translation": "バッグの なかみを せいりしてから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c440dc96874134b",
+  "translation": "また おこしくだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "697b4d1e5a7cc5eb",
+  "translation": "{JPN}ざんねん でしたな……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecd1cda691d83105",
+  "translation": "おあずかりしていた バッグを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1563abb96a2b8a99",
+  "translation": "おかえし しますぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b9d68250938d6c9",
+  "translation": "{ENG}{PLAYER}{JPN}は バッグを かえしてもらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e745bd788e2a214",
+  "translation": "{JPN}またの ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f780e144e85b142d",
+  "translation": "おまちして おりますぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b462d09a1d5ec3b4",
+  "translation": "{JPN}おこしを おまちして\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e1906def38cdd74",
+  "translation": "おりましたぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7896e4ef0081d6c",
+  "translation": "こちらが ピラミッドを せいはした\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f2d74bfac807efa",
+  "translation": "しょうひん ですぞ。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0af91e1c83e3ddc",
+  "translation": "{JPN}ようこそ……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a6176cff382635c",
+  "translation": "ピラミッドで まちうける わざわいを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "caaba07225eac183",
+  "translation": "うらなって さしあげましょう……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e50f43132c68f7d0",
+  "translation": "{JPN}… … … … … …\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd21ebee356ab5e1",
+  "translation": "… … … … … …\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "536c24ac70b38af3",
+  "translation": "… … … … … …\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c27f65a56a88201a",
+  "translation": "はっ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0ed0c4d62d9b468",
+  "translation": "{JPN}とびちる ひばなが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "396139a034961a9c",
+  "translation": "……そして まひに くるしむ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0188970f2d7429c2",
+  "translation": "あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "980a846b99dd8925",
+  "translation": "{JPN}どくが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f3b2dcdee4f8df7",
+  "translation": "……そして どくに くるしむ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4d6a79e9db69bae",
+  "translation": "あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "560c1804e2d8f4fe",
+  "translation": "{JPN}まっかな ほのおが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "024d05c84398f909",
+  "translation": "……そして やけどに くるしむ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9da5d7cb3afb057a",
+  "translation": "あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78a807b02e764492",
+  "translation": "{JPN}むくわれぬ いかりの すさまじい\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "accbeba20fb279ff",
+  "translation": "プレッシャーを かんじます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "378419a64045afd2",
+  "translation": "これは のろい……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "154e4a478f167fd0",
+  "translation": "……そして PPを うばわれ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09f029a115d5e51c",
+  "translation": "なすすべもなく わるあがきを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f9a25b4e2c62623",
+  "translation": "する あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60289eb4a445aa4b",
+  "translation": "{JPN}そらたかく うかぶ ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "702f1da990be5694",
+  "translation": "……そして じめんの わざが きかず\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a0848822288f7bf",
+  "translation": "くやしがる あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f844540338847345",
+  "translation": "{JPN}あしもとの じめんから わきあがる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e7822d303b1ef10",
+  "translation": "すさまじい ちからを かんじます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4540f945a2712a0",
+  "translation": "……そして その ちからから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8917c444c2bd2db2",
+  "translation": "にげられない ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "971fd61e70357465",
+  "translation": "{JPN}こおりタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46cdefcb1a08baba",
+  "translation": "……そして こおりの ちからと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20eb35442d5ed45f",
+  "translation": "たたかう あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f934d3c54cfef63",
+  "translation": "{JPN}つかうものを きけんに さらす\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3c1f66ee2e21690",
+  "translation": "わざの あらしが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48a5473ec39d9b51",
+  "translation": "……そして それに たおれる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cecee6178d486f55",
+  "translation": "あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7fac0d5c3f5f601",
+  "translation": "{JPN}エスパータイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27ad58a491c67f6f",
+  "translation": "……そして エスパーの わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1bf9fbdd3e51b1ad",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cedb9d0dabeb08b",
+  "translation": "{JPN}いわタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0710436a0aabdea",
+  "translation": "……そして いわの わざに くるしむ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "485fee8d54a1395a",
+  "translation": "あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8078e4f70035f7db",
+  "translation": "{JPN}かくとうタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b104a901463d4fc",
+  "translation": "……そして かくとうの わざに うちのめされる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5016fb037cc2d281",
+  "translation": "あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d11042c97745eaa4",
+  "translation": "{JPN}あまごい…… にほんばれ……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c462c728d3870a48",
+  "translation": "すなあらし…… あられ……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9117028975bc4c47",
+  "translation": "てんきで つよくなる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c3aee952e88f9b2",
+  "translation": "ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54d71e901c4ae34b",
+  "translation": "……そして さまざまな わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2df64e2e5f9ee04b",
+  "translation": "まどわされる ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e20a6614cdea3d07",
+  "translation": "{JPN}むしタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94f46737b1641c48",
+  "translation": "……そして さまざまな こうげきに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6916690e0d009ee1",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3f85198d3de8f80",
+  "translation": "{JPN}あくタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d080060a048b16c5",
+  "translation": "……そして あくタイプの わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee5012c0086f4dde",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b489b0fb2afa62d",
+  "translation": "{JPN}みずタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c06142bc1a3ec0e",
+  "translation": "……そして みずタイプの わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41e622a7eff1c683",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3adf3620db1373dc",
+  "translation": "{JPN}ゴーストタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f028c9291c74c2c8",
+  "translation": "……そして ゴーストタイプの わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea78296ef43b9240",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a75c38142d237e58",
+  "translation": "{JPN}はがねタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53660d8425baf201",
+  "translation": "……そして すさまじく つよい わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06e2364df3888ced",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18fd496821685424",
+  "translation": "{JPN}そらを とぶ ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e2fb8e9acad3ef5",
+  "translation": "……そして すさまじく つよい わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "691e175eaca2c145",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bb8e2e36ff7af22",
+  "translation": "{JPN}いしの ちからにより\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27166807a0c820e0",
+  "translation": "しんかした ものたちが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32758b06ad23c469",
+  "translation": "ほのお…… みず……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6cad71c893d2a99a",
+  "translation": "でんきも かんじます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcdd81158a1b04e6",
+  "translation": "……そして 3つの ちからに くるしむ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3737504dbf9efe9",
+  "translation": "あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e1921a7b4f71421",
+  "translation": "{JPN}ノーマルタイプの ポケモンが みえます……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7256a2d4e7f3a6fb",
+  "translation": "……そして すさまじく つよい わざに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71372d744e8b4dd9",
+  "translation": "くるしむ あなたの ポケモンの すがたも……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d969e8745cf4a3bf",
+  "translation": "{JPN}うらないを しんじるも しんじないも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4293187c0f5b1d89",
+  "translation": "あなた しだい……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5aa7992f485789af",
+  "translation": "みらいは いつでも かえられます……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e52d2e5c3769d24",
+  "translation": "どうぞ ごぶじで……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5984c0cfb9c00df",
+  "translation": "{JPN}しってる?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebb73b9331934a94",
+  "translation": "はしると トレーナーに きづかれて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2487182d6d7f7b8",
+  "translation": "しょうぶを しかけられる ことが あるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f65926f4bbb5dc81",
+  "translation": "だから トレーナーを さけたいなら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4dfeba72f78ca46",
+  "translation": "めを つけられないように\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4866433b7c73f30",
+  "translation": "そっと しずかに とおりすぎるんだ。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10a4d0b6abe3b1cd",
+  "translation": "{JPN}うおおおおーーーーーーん!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "760fe8e264732165",
+  "translation": "どうぐを いっぱい もってたのに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee1f69e796dc086a",
+  "translation": "まけたら ぜんぶ なくなっちゃった!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c223274b203cf8e6",
+  "translation": "うおおおおーーーーーーん!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d14d395e841e074f",
+  "translation": "{JPN}おかえりなさいませ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53c980d417c2cd70",
+  "translation": "とんでもない ことを なされた!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1820803d8edb8be2",
+  "translation": "ピラミッドキングを たおし\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0d160e0985bf0e6",
+  "translation": "バトルピラミッドを せいは されるとは!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "483d011a221a432c",
+  "translation": "{JPN}わかき ぼうけんしゃよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7827304dfd68de63",
+  "translation": "あなたの ゆうきを たたえ\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6371390a4a650931",
+  "translation": "バトルポイントを おおくり しましょう!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3af72a5fabe93ea",
+  "translation": "{JPN}バトルアドベンチャーの ルールが かいてある。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b289bf249a09ab5",
+  "translation": "{JPN}どの せつめいを よみますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48329340862b8f74",
+  "translation": "{JPN}ピラミッドを せいはすると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c42496bc4a131653",
+  "translation": "なかに でてくる やせいの ポケモンは\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f71559b65db2693f",
+  "translation": "べつの しゅるいに かわります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "974cd25fc719f09a",
+  "translation": "どんな やせいの ポケモンが でるかは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc526bfeac50b7ff",
+  "translation": "たんけんして たしかめて おぼえましょう。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02ab4e2276d23e39",
+  "translation": "{JPN}ピラミッドの なかでは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a031a67ecf088ae",
+  "translation": "トレーナーが まちぶせしています。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64090e79c8d9a670",
+  "translation": "それぞれの フロアには さいだい\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0731451ab980d44",
+  "translation": "8にんの トレーナーが います。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0f86ff0b1f5dc39",
+  "translation": "トレーナーに かつと ぼうけんに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ac626d0bfa715ba",
+  "translation": "やくだつ ヒントが もらえます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b67269e34c7bd41b",
+  "translation": "{JPN}ピラミッドの めいろは はいるたびに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76b17f617117f071",
+  "translation": "かたちが かわります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db503f9d29b65426",
+  "translation": "めいろの なかは うすぐらいので\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dc46696de202c88",
+  "translation": "ちゅういして すすみましょう。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9dc4bd8b49b8f3c",
+  "translation": "やせいの ポケモンや トレーナーに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f05a6eebd2303ed2",
+  "translation": "かつたびに あかりが ひろがります。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e36324fbf44bb39a",
+  "translation": "{JPN}ピラミッドの なかでは バトルバッグを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64e843091e26ba67",
+  "translation": "バッグとして つかいます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6841acc86357f81e",
+  "translation": "バトルバッグは レベル50と\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "144cb7ec11837f20",
+  "translation": "オープンレベルの ぼうけんように\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30b854a764f93f06",
+  "translation": "べつべつに 1つずつ あります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8d62df5dc1c1850",
+  "translation": "それぞれ 10しゅるいの どうぐを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d32c275450ec1f2d",
+  "translation": "99こまで いれられます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18c1c69722262ce6",
+  "translation": "ぼうけんに しっぱいすると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78e588b9803eea79",
+  "translation": "バトルバッグの なかみは なくなります。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1dcfb14311d554b1",
+  "translation": "{JPN}ここで おあいできて うれしいですぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7543c5543334a551",
+  "translation": "バトルピラミッドの\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e0f1eaee9bf73f1",
+  "translation": "ちょうじょうに とうちゃく です!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ef520f4fec27f4b",
+  "translation": "この うえは ピラミッドの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbf8e65cdb7176ab",
+  "translation": "てんぼうだい です。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3713313e583ea99",
+  "translation": "ピラミッドを せいはした ものだけが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc61ac9b6a0afac1",
+  "translation": "はいれる ばしょ なのです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d927030311c434b",
+  "translation": "さあ どうぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "937dc8ead34a149f",
+  "translation": "おのぼり くだされ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d37df4ed33ad803",
+  "translation": "{JPN}あらたなる ピラミッド せいはしゃ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa091b0b34ff2634",
+  "translation": "そのなは {ENG}{PLAYER}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f1025bef0a3d7e8",
+  "translation": "{JPN}ここで おあいできて うれしいですぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0cc301e9b02376c",
+  "translation": "ですが ざんねんながら ほんの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4bb41ffe7f3ddeb",
+  "translation": "わずかな さで 2ばんめ でしたな!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62cce5e8c7ac9d65",
+  "translation": "われらが ボスが ひとあしさきに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e2a0c5eacc8d459",
+  "translation": "ピラミッドを せいは されたのです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a2c622be7a29ffa",
+  "translation": "ですが わかき たんけんしゃよ……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c572716caf3a4920",
+  "translation": "あなたは トレーナー です!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a3cb6176184b6f0",
+  "translation": "ちからを しめし ボスから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19363427de9d2e2b",
+  "translation": "ちょうてんの えいこうを うばうのです!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58fa329f965b5ef4",
+  "translation": "さあ どうぞ! じゅんびが できたら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fe6b827db3693ea",
+  "translation": "ゆうきの いっぽを ふみだすのです!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcb821217c92911c",
+  "translation": "{JPN}わかき ぼうけんしゃよ……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24a3bde9c3f5d38a",
+  "translation": "たんけんこそ さいこうの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe822fb92d43f2bf",
+  "translation": "ぼうけんだと おもわないかね?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48fd2bc259cfdeba",
+  "translation": "じぶんの ちえ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4b14414d6c24d24",
+  "translation": "じぶんの ちから!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa6428005f941d45",
+  "translation": "じぶんの ポケモン!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "327f85e52bb1c783",
+  "translation": "そして なにより じぶんの ゆうき だけが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d33f2087096299d3",
+  "translation": "みしらぬ せかいへ みちびいて くれる……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57fe66f2ae6058f4",
+  "translation": "{JPN}ああ じつに じんせいとは すばらしい!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0feedc8a8187e4c2",
+  "translation": "すばらしいとも! ん?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a38663e8d216031",
+  "translation": "わたしは ジンダイ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "632fdfd5a5bdfb39",
+  "translation": "ピラミッドキング つまり\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d44cbe386e7cee67",
+  "translation": "ここの せきにんしゃだ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0a14f3be69efcea",
+  "translation": "みんなからは ボスと よばれている!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "011d2266985e7b75",
+  "translation": "ここまで きたと いうことは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23c0246ddefee16d",
+  "translation": "それだけ じぶんに じしんが\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd5fa081f4f4d6f2",
+  "translation": "あると いうことだな?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68944264713a4c34",
+  "translation": "はっはっは!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8becc76ecd71ccc6",
+  "translation": "これは たのしみだ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4edbbd5880487c8",
+  "translation": "{JPN}さあ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75d226691e9c4101",
+  "translation": "きみの ゆうきを ぶつけて きたまえ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bb8f7177250fb79",
+  "translation": "{JPN}ジンダイ: はっはっは! すばらしい!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f493a9cb7364d80",
+  "translation": "じつに すばらしかった!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7c9d41a8e344278",
+  "translation": "いいぞ! きみを みとめようじゃないか!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d09eaeadae4a943",
+  "translation": "フロンティアパスを かすんだ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac0dad8d9200e957",
+  "translation": "{JPN}フロンティアパスに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce28903f722725b3",
+  "translation": "ブレイブシンボルが きざまれた!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f0a960c225ba977",
+  "translation": "{JPN}わかき ぼうけんしゃよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcbe006cc3318b33",
+  "translation": "また あえる ときを まっているぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87daa7ec5db07a4a",
+  "translation": "{JPN}ジンダイ: ……ついに もどってきたか\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3716ab351c6228ac",
+  "translation": "わかき ぼうけんしゃよ……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd7f58a1919ad2f1",
+  "translation": "きみは ほんとうに こころの そこから\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b213c43c01fd3178",
+  "translation": "ぼうけんを あいして いるようだな……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bbcc9ed26e2887c",
+  "translation": "そう…… まるで わかき ひの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19d6b47b9ad9085b",
+  "translation": "わたし そっくりじゃないか……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8bbe6b0dcd04e8c",
+  "translation": "… … ……おお……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6357efafc447f4c",
+  "translation": "あつく!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d023eb15a3dbff5c",
+  "translation": "きけんで!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a8208b2f14a882d",
+  "translation": "ひっしの!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69599db45fa984cd",
+  "translation": "あの いのちがけで いきを かんじた\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88abd29e5276316e",
+  "translation": "ぼうけんの ひびが よみがえって きたぞ……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbebd18c8dafd316",
+  "translation": "{JPN}よーーーしっ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07f9c5fcc2ed090d",
+  "translation": "わたしの ゆうきも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f95f22078c26765",
+  "translation": "メーターを ふりきって いるぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc4f52f900c49403",
+  "translation": "{JPN}きみの すべてを!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ed76bee67d5ff89",
+  "translation": "わたしが うけとめよう じゃないか!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ddd11ef4c7d931a",
+  "translation": "{JPN}ジンダイ: はっはっは!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1fc5a5d2ef521c4c",
+  "translation": "みごとだ!\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3346cc9a4c74523",
+  "translation": "まったく じつに すばらしい!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "638c58323d3d5959",
+  "translation": "わかき ぼうけんしゃよ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7d3aced279fdd97",
+  "translation": "きみには かんぜんに まけたよ!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5aa1fcf341b5dd41",
+  "translation": "さあ! こいつを うけとって くれ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f34fd359484fc67a",
+  "translation": "{JPN}ブレイブシンボルが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97f0a88bf6d02b5c",
+  "translation": "きんいろに かがやいた!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fb138dcde11ee71",
+  "translation": "{JPN}いやあ わたしも まだまだ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0760787df5fa9617",
+  "translation": "まなぶことが あるようだな!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f1306bfa01116c5",
+  "translation": "えんが あったら また あおう!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "121efa6cf361151d",
+  "translation": "さらばだ! わかき ぼうけんしゃよ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf0014abafdbe37e",
+  "translation": "{JPN}さあ! じゅんびが できたら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf5ac74fbc02fe4f",
+  "translation": "ゆうきの いっぽを ふみだすのですぞ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8bb7142ad7647159",
+  "translation": "{JPN}ポケモンの たいりょくを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c6182c3727f66bb",
+  "translation": "かいふくして さしあげます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27e365c150d9cbfa",
+  "translation": "{JPN}つぎは {ENG}{STR_VAR_1}{JPN}にんめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46dc9ef84d1eaa16",
+  "translation": "じゅんびは いいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e36f4605166633e2",
+  "translation": "{JPN}つぎは 2にんめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37168d9bc10a5878",
+  "translation": "じゅんびは いいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd5b9222b53218a9",
+  "translation": "{JPN}つぎは 3にんめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58a3822e669951c8",
+  "translation": "じゅんびは いいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30b2470e90dcb72d",
+  "translation": "{JPN}つぎは 4にんめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d31a6d83d0da9b72",
+  "translation": "じゅんびは いいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21bef569f58417dc",
+  "translation": "{JPN}つぎは 5にんめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abd7124e2cc1f57b",
+  "translation": "じゅんびは いいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f50d4ed575159c0",
+  "translation": "{JPN}つぎは 6にんめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17bf802472155b4c",
+  "translation": "じゅんびは いいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "185e6eb3155d639e",
+  "translation": "{JPN}つぎは 7にんめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98ed25b763150241",
+  "translation": "じゅんびは いいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "550d3e04315172e0",
+  "translation": "{JPN}さきほどの たたかいを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1e51586b90ca524",
+  "translation": "フロンティアパスに きろく しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6308426826c1cca",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}の たたかいが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "527fd876aefb4c8d",
+  "translation": "フロンティアパスに きろく された!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b1dd9fa37832c25",
+  "translation": "{JPN}レポートを かいて\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bf6da2f8e52b404",
+  "translation": "ゲームを おわりますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff9222d48c86f6d9",
+  "translation": "{JPN}レポートを かいています!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe38d4abe6c2dbda",
+  "translation": "しばらく おまちくださいませ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a41431b96e86677",
+  "translation": "{JPN}バトルルームの ちょうせんを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "befb898261412fc5",
+  "translation": "ちゅうし しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "820167d922124c77",
+  "translation": "{JPN}ふぐあいに より\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3420939220f4411e",
+  "translation": "きろく できませんでした!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e565678274f90223",
+  "translation": "{JPN}しつれい いたします……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79fb2402744f29b4",
+  "translation": "リーダーの サロンメイデンが あなたとの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fadba1387779ba1e",
+  "translation": "しょうぶを のぞんで こちらへ むかっています。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89ff790686f2c479",
+  "translation": "まもなく とうちゃく するはずです。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee58fc0d5af98f1c",
+  "translation": "{JPN}サロンメイデンとの たたかい です!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9aeb70812cfd95b6",
+  "translation": "かくごは よろしい ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87ec4c10e80e40db",
+  "translation": "{JPN}こんにちは……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56ba17b8b9d7db83",
+  "translation": "わたしの なまえは リラ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac055df94cf5443a",
+  "translation": "サロンメイデンとして\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d8aa208c194cfc8",
+  "translation": "バトルタワーを まかされています……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2834b5e529f217d",
+  "translation": "あなたの うわさは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe08b4536d593430",
+  "translation": "いくつか きいています……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a302a8278f42b6bf",
+  "translation": "しょうじき いって きいた かぎりでは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "534a7952557c67cf",
+  "translation": "すこしも みりょくを かんじない……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4470f6fc2a509b69",
+  "translation": "わたしが あいに きた りゆう……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ebbe2647b67f645",
+  "translation": "それは ひとつ だけ……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6aacfe2afd31f635",
+  "translation": "{JPN}あなたの さいのうを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c45ffadbe012985",
+  "translation": "すべて ここに しめしなさい……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4cef02917188b40",
+  "translation": "{JPN}リラ: ふふふ おみごと……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1657edea557d837d",
+  "translation": "フロンティアパスを……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "224dca683be1c7c7",
+  "translation": "あなたの さいのうを みとめましょう。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04e425b33dee8f72",
+  "translation": "{JPN}フロンティアパスに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93607f3946650209",
+  "translation": "アビリティシンボルが きざまれた!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3ae574df2fe9c74",
+  "translation": "{JPN}… … … … … …\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "109c99cd92c50122",
+  "translation": "あなたは ポケモンバトルの さいのうに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "591a143e2e0e89b9",
+  "translation": "じしんが あるのでしょう?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2accabe9e2a1998a",
+  "translation": "だったら もっと たたかって\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f4ea40c5136a363",
+  "translation": "もっと かちつづけて ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "328d65fdb1588c68",
+  "translation": "あなたを まっています。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f016442c736ddcd",
+  "translation": "また あえる そのときまで……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8505381839859dd",
+  "translation": "{JPN}リラ: ほんとうに わたしに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97415891415204f8",
+  "translation": "あいに きてくれたのね……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06249df965f57112",
+  "translation": "… … … … … …\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea3327fb7d4a7dfb",
+  "translation": "かちつづけて わたしに あいにきた……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2ebe5d5b243dac8",
+  "translation": "あなたには てかげん しなくて いい……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35ac46d7494f1714",
+  "translation": "ずいぶん ひさしぶり……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f08f26724f78f5c",
+  "translation": "なにも かんがえずに たたかえるのは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ada1e0f20d011ab1",
+  "translation": "ほんとうに ひさしぶり……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9f3088bfc08044d",
+  "translation": "{JPN}さあ はじめましょうか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20622e87a8219fcc",
+  "translation": "{JPN}リラ: ふふっ おめでとう……\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86a0283ecb5529b8",
+  "translation": "あなたの フロンティアパスを……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "479d6f70cb939599",
+  "translation": "{JPN}アビリティシンボルが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e16bd4fdf88df67",
+  "translation": "きんいろに かがやいた!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "204ba617a212618b",
+  "translation": "{JPN}たのしかった……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8fde866a30879d0",
+  "translation": "こんなに ポケモンバトルが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ce35c4ae6302619",
+  "translation": "たのしかったのは はじめて……\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e892877c1b6088fd",
+  "translation": "また あなたと たたかえると いいな……$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "978c472415bdf00d",
+  "translation": "{JPN}では バトルルームへ ごあんない します。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bfa068f06b62e1f",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "691ad8ead2e0dc19",
+  "translation": "ぜんかい レポートを かかずに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "519e8cf5a6740eef",
+  "translation": "ちょうせんを やめられましたね。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83131bb51354b601",
+  "translation": "そのため これまでの ちょうせんは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf7f5390954a7847",
+  "translation": "しっかく と なりました。 ごめんなさい!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "546bac5e7f9a5fa4",
+  "translation": "{JPN}おめでとう ございます!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88928e4a4a718bd3",
+  "translation": "7にんの トレーナーに かちぬきました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43dbc3a15040061a",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5ac1406d12bd30d",
+  "translation": "{JPN}7にんの トレーナーに れんしょうした\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47c9e4d8d656b3d6",
+  "translation": "あなたに すてきな しょうひんです!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7758bc86c9fe3ce5",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6cbdcba37723d25d",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf994c807440f773",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を もらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eaf2032cd9a74318",
+  "translation": "{JPN}あら バッグが いっぱいの ようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d6aeae3a0db4bac9",
+  "translation": "バッグを せいりしてから また\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af256e7a5f578cf3",
+  "translation": "おこし ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ea5c9180fa21fa1",
+  "translation": "{JPN}ごりよう ありがとう ございました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6361ccc3e06a41b6",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c450387578957617",
+  "translation": "{JPN}きろくを レポートに かきます。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f67d40d8aa714a70",
+  "translation": "おまち ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc01ac31cb58dd42",
+  "translation": "{JPN}おまちして おりました!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d04f4ad5a507013",
+  "translation": "$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11cdec4d611beb60",
+  "translation": "{JPN}バトルルームに はいるまえに レポートを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "197e1cccb3ffdf7f",
+  "translation": "かきます。 おまち ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "caa45df70c459844",
+  "translation": "{JPN}ついに 50にんめの トレーナーと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c077ce6825afa7a6",
+  "translation": "たたかいますね。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1114bbc6f030f1b9",
+  "translation": "ここからは 7にんに れんしょうするたびに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "debab22b64f5e1e7",
+  "translation": "あなたの ポケモンに きねんの\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3214501bb80264ec",
+  "translation": "リボンが おくられます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c582bedc6d4f842",
+  "translation": "がんばって ください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "531b04649413dcdb",
+  "translation": "{JPN}つよい トレーナー 7にんに れんしょうした\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8c34ca618bdfef5",
+  "translation": "きねんの リボンです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc7dd16840b4ee52",
+  "translation": "{ENG}{PLAYER}{JPN}は リボンを もらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c30231173874622d",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は さんかした ポケモンに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc92f8f5b7e9ff8a",
+  "translation": "リボンを つけた!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6326116dbae7c8b5",
+  "translation": "{JPN}すみません すこし いいですか?\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "032e603b9b0f43e3",
+  "translation": "バトルタワーで しょうぶを はじめる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d414bbfc5569ae4f",
+  "translation": "ときや かったとき\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e373da9e5e1c2b25",
+  "translation": "まけたときの きもちを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cc98016d8f1dd56",
+  "translation": "おしえて もらえませんか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37ed7f29093f5499",
+  "translation": "{JPN}では しょうぶを はじめる ときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c5ff669e55815ef1",
+  "translation": "どんな きもち ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f5f04a49096868e",
+  "translation": "{JPN}しょうぶに かったときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b911f0588c7d3be",
+  "translation": "どんな きもち ですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25b37227e8fd8b07",
+  "translation": "{JPN}しょうぶに まけたときの きもちを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3033252784824e0",
+  "translation": "きかせて もらえますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbc957f552ac6913",
+  "translation": "{JPN}へえ とくに なにも かんじないと?\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8963f9fe5dae94f",
+  "translation": "ずいぶん クールな ひと ですね。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b12a0f3e0e795589",
+  "translation": "{JPN}あれ? きが かわったんですか?\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02575e99ec3a5f45",
+  "translation": "きまぐれな ひと なんですね。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56ee9ccb9afa3bd5",
+  "translation": "{JPN}なるほど そんな きもち ですか?\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a8c69c8785c6115",
+  "translation": "なかなか ユニーク ですね。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c33ee83fd321363",
+  "translation": "ありがとう ございました!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a68f5fb4cb556f12",
+  "translation": "{JPN}なんれんしょう したかが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06d65c0b56f488f1",
+  "translation": "きろく されるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ef903d74729badf",
+  "translation": "はずかしい まけかたは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7dbb318f08a1c372",
+  "translation": "したくないなあ!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa9a24b4a56f0a08",
+  "translation": "{JPN}バトルタワーに いちど はいったら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13b0977eefffcab2",
+  "translation": "まけるか 7にんに れんしょうするまで\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b20ac7b08139a4ce",
+  "translation": "でられない。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef2590a1f241221d",
+  "translation": "ちょうせんする まえに じぶんの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cf44a5d3c212d98",
+  "translation": "じつりょくを よく たしかめた ほうがいい。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd95cbd3c4ebfd20",
+  "translation": "{JPN}バトルタワーの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2027ea5b1a28742",
+  "translation": "ダブルバトルコーナーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd3057c76a16d740",
+  "translation": "もうしわけ ありませんが バトルルームは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5374afed616a9e28",
+  "translation": "まだ こうじちゅう です。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c63d61cd91c449f6",
+  "translation": "こうじが おわりましたら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39c52fae776cbaa9",
+  "translation": "また おこし ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44a4bb775551c9f4",
+  "translation": "{JPN}バトルタワーの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7491fd32e14be7f7",
+  "translation": "マルチバトルコーナーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "faac77f46bc0f90b",
+  "translation": "もうしわけ ありませんが バトルルームは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42f64eac6da20f78",
+  "translation": "まだ こうじちゅう です。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "974902b57083d937",
+  "translation": "こうじが おわりましたら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0dca9c2d89b7b354",
+  "translation": "また おこし ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6151619487d747aa",
+  "translation": "{JPN}また ちょうせん されるのを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ef373ed9f6e371b",
+  "translation": "おまちして おります!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87c98e05be0ec572",
+  "translation": "{JPN}バトルルームには レベル50と\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04de82a0f4ebbb06",
+  "translation": "オープンレベルの 2つが あります。\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "931d5c6c1bb6e7c4",
+  "translation": "どちらに されますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9b285b389cdffda",
+  "translation": "{JPN}さんか させる ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "267de4113548391d",
+  "translation": "えらんで ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bd48b56480c25e3",
+  "translation": "{JPN}バトルルームに はいるまえに レポートを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19fe26c65f3052c1",
+  "translation": "かく ひつようが あります。 よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22df5013c1e52d68",
+  "translation": "{JPN}それでは ごあんない します。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b19c9fc00c522d5",
+  "translation": "{ENG}{STR_VAR_1}{JPN}バトルルームへ どうぞ。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21d30a8d87baa315",
+  "translation": "{JPN}さきほどの バトルタワーの しょうぶを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d654dc56a8d26ef5",
+  "translation": "フロンティアパスに きろく しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e8e3b8ef2c2e47d",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99d3c0e6610990f1",
+  "translation": "さんかできる ポケモンが\\n{ENG}{STR_VAR_2}{JPN}ひき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf8e0964561d400e",
+  "translation": "{ENG}{STR_VAR_2}{JPN}ひきの ちがう ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65df40e4013db3b4",
+  "translation": "ひつようです。 レベルは 50いかです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a27bcf649ddfb041",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2085ddc40b308943",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa057662b0d89366",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "086010cbf199c4ee",
+  "translation": "{JPN}じゅんびが できたら また おこしください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5822ee56fcfc5d63",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7977ad0b0d8ddd01",
+  "translation": "さんかできる ポケモンが\\n{ENG}{STR_VAR_2}{JPN}ひき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "998850282b9695f4",
+  "translation": "{ENG}{STR_VAR_2}{JPN}ひきの ちがう ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "802378ccb262a8d3",
+  "translation": "ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f2b59fc427a350d",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6dc793caf1927c00",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b137bfcb23d86a7",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81e2260937477413",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a69081aa549068c",
+  "translation": "さんか できる ポケモンが 3びき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18b589c296e528a4",
+  "translation": "ちがう しゅるいで レベル50いかの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d570cee135e0a79",
+  "translation": "ポケモンが 3びき ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdb8b1072c1935d1",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f60834dd4031340",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aff4406a67216e6a",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ae87442999e047a",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e84a275921651259",
+  "translation": "さんか できる ポケモンが 3びき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ed60623181c82da",
+  "translation": "ちがう しゅるいの ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9cc7721fd4915300",
+  "translation": "3びき ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76fe4ea76f93af73",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2afe8fba168fa27",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32228dd38681e6b7",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c284b42d4520698d",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c27ba0cca8c406b7",
+  "translation": "さんか できる ポケモンが 4ひき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53bafed178dbf61b",
+  "translation": "ちがう しゅるいで レベル50いかの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7457698915ec432e",
+  "translation": "ポケモンが 4ひき ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ad37c38f219852b",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81a623fb3bbf151d",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c921195a59434f0f",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "770b1fb1eee67beb",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c44c659587ddb0f4",
+  "translation": "さんか できる ポケモンが 4ひき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac2791a954818ff5",
+  "translation": "ちがう しゅるいの ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "350858809b3f0a87",
+  "translation": "4ひき ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "417be82e1f7e36b5",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39ac6e31f9ce6075",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ef0efcf0722fd81",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52235552b6499b9b",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "245dcbb9108fd9e7",
+  "translation": "さんか できる ポケモンが 2ひき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afb0ca5bb193f79b",
+  "translation": "ちがう しゅるいで レベル50いかの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07784b310cb5350d",
+  "translation": "ポケモンが 2ひき ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10425d8b0021771c",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "851ba8aa668848f2",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87dee5eb21f3fb0d",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d9e4a76473eece3",
+  "translation": "{JPN}しつれい いたします!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6b9392a6d0c4f4e",
+  "translation": "さんか できる ポケモンが 2ひき いません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b181b44ab1a67a36",
+  "translation": "ちがう しゅるいの ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f295d2fe1e856f6b",
+  "translation": "2ひき ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "764c615cac104be8",
+  "translation": "また もたせる どうぐも\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ead4c85beba284f",
+  "translation": "ちがう しゅるいに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9188f22339410655",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33734a289e702e96",
+  "translation": "{JPN}トレーナーの さいのうが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea29371a2c5da16c",
+  "translation": "ためされる ばしょ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b922ac0176fd023",
+  "translation": "バトルタワーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2b36ae87eef4b19",
+  "translation": "わたしは シングルバトルルームの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "484c0b37f7837979",
+  "translation": "あんないを しております。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9a869e42753f804",
+  "translation": "{JPN}シングルバトルルームに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3282cbe1c92e0c89",
+  "translation": "ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2505d4ec5aad6b8",
+  "translation": "{JPN}バトルタワーの シングルバトルルームは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c5b49a5e97e210bf",
+  "translation": "ポケモン 3びきで シングルバトルを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "961ecf0ea38891b3",
+  "translation": "おこなう しせつ です。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32bb51505c6edec1",
+  "translation": "バトルタワーには チームで たたかう\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b74a50012b7e661",
+  "translation": "シングルバトルルームが たくさん あります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38636600c2373707",
+  "translation": "それぞれの シングルバトルルームでは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aafb522acb8e936a",
+  "translation": "7にんの トレーナーが まっています。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66b503efc93b7f6a",
+  "translation": "7にん すべてに かつことが できれば\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0927bdc432acc6a1",
+  "translation": "バトルポイントが もらえます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d68f6cc873b8b9f",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb4d55b7946fec03",
+  "translation": "レポートを かいて ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef07e0571f988342",
+  "translation": "レポートを かかずに ちゅうだんすると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "230e7d262172d6df",
+  "translation": "しっかく と なります。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53c772b1de3488e1",
+  "translation": "{JPN}では さんか させる ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e270ad33ad787c6b",
+  "translation": "3びき えらんで ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd939545522cfaee",
+  "translation": "{JPN}トレーナーの さいのうが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f56eff625bd2d8bb",
+  "translation": "ためされる ばしょ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81c101d65077b363",
+  "translation": "バトルタワーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f834b3dc9193df37",
+  "translation": "わたしは ダブルバトルルームの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53bcab356f869d08",
+  "translation": "あんないを しております。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "560a4d9c05560c6c",
+  "translation": "{JPN}ダブルバトルルームに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af0b58be639383d1",
+  "translation": "ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "433fef950ecb8631",
+  "translation": "{JPN}バトルタワーの ダブルバトルルームは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e41e088c7d995d3",
+  "translation": "ポケモン 4ひきで ダブルバトルを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f04060ce0621e6fd",
+  "translation": "おこなう しせつ です。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a41881381ce4b2d",
+  "translation": "バトルタワーには チームで たたかう\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0634e0af7cc10ea0",
+  "translation": "ダブルバトルルームが たくさん あります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "efc0eb8e768fe7bf",
+  "translation": "それぞれの ダブルバトルルームでは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32a549414711503d",
+  "translation": "7にんの トレーナーが まっています。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb9f25e54011138a",
+  "translation": "7にん すべてに かつことが できれば\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9995f8d5f077af7d",
+  "translation": "バトルポイントが もらえます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0413d590e672fecc",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a86f74d6d791d93",
+  "translation": "レポートを かいて ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1dbebabc157d278",
+  "translation": "レポートを かかずに ちゅうだんすると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e7d1c707584f0f5",
+  "translation": "しっかく と なります。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25524153d6866300",
+  "translation": "{JPN}では さんか させる ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6bc3203467a4f6a6",
+  "translation": "4ひき えらんで ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e54ca3f81ba02fc",
+  "translation": "{JPN}トレーナーの さいのうが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0cf0607d00dffbee",
+  "translation": "ためされる ばしょ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "912e384d3aac5dc7",
+  "translation": "バトルタワーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d03e06e5fe50856b",
+  "translation": "わたしは マルチバトルルームの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d70e45af9591d9c",
+  "translation": "あんないを しております。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "362656b6dcffbbf0",
+  "translation": "{JPN}マルチバトルルームに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df03d6a4fbe94bb1",
+  "translation": "ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fdb7bd1ca7690cc",
+  "translation": "{JPN}バトルタワーの マルチバトルルームは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62baf3feb2f38d5a",
+  "translation": "マルチバトルを おこなう\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dc1883685b8f03d",
+  "translation": "しせつ です。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ae373b4974a4cb2",
+  "translation": "マルチバトルでは タワーにいる\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c8ec350df2ff093",
+  "translation": "トレーナーと くみ それぞれ\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a3218233d3473da",
+  "translation": "ポケモン 2ひきで さんか します。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54a7adc7f028b4ce",
+  "translation": "タワーの なかには ほかの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0789f63458d88dc3",
+  "translation": "トレーナーと であえる\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e86cf05445ccc0fe",
+  "translation": "バトルサロンという へやが あります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "947145e3fde46d01",
+  "translation": "そこで マルチバトルの パートナーと\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7330f7820d9b478f",
+  "translation": "なる トレーナーを みつけて ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89bacc8f40f5f874",
+  "translation": "パートナーが きまったら\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a48c49eaffeb9bc0",
+  "translation": "マルチバトルルームへ ごあんない します。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b48e70c3755f240",
+  "translation": "マルチバトルルームでは 7くみの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9f8f77129d38e9a",
+  "translation": "タッグチームが まっています。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2540eef0d86ebb6a",
+  "translation": "7くみ すべてに かつことが できれば\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d184b07d979021e",
+  "translation": "バトルポイントが もらえます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "527bd7d50a54d117",
+  "translation": "ちょうせんを ちゅうだん するときは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d6e6db931353dfc",
+  "translation": "レポートを かいて ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "364461f472876f01",
+  "translation": "レポートを かかずに ちゅうだんすると\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cae21f84ee47d4e",
+  "translation": "しっかく と なります。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10abfa371cbbd55c",
+  "translation": "{JPN}では さんか させる ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dafdcfd7b996605d",
+  "translation": "2ひき えらんで ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2fa00f919fb07c89",
+  "translation": "{JPN}トレーナーの さいのうが\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a0313a21ae7c895",
+  "translation": "ためされる ばしょ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ea28e6d96a90645",
+  "translation": "バトルタワーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ba47b37b0a1ac7d",
+  "translation": "わたしは リンクマルチバトルルームの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06471b1af798c9f6",
+  "translation": "あんないを しております。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19841bf402a1fad5",
+  "translation": "{JPN}リンクマルチバトルルームに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5bbaeaee70ffd0f",
+  "translation": "ちょうせん しますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca860839230d4ed4",
+  "translation": "{JPN}バトルタワーの マルチバトルルームは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f759a6db4179f99d",
+  "translation": "ともだちと マルチバトルを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55958497a8dd5538",
+  "translation": "おこなう しせつ です。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52e8800d7235d413",
+  "translation": "ともだちと ワイヤレスアダプタか\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9f6d0ac9417b3ad",
+  "translation": "ゲームボーイアドバンス せんようの\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f7c3f857b3b0369",
+  "translation": "つうしんケーブルで つないでください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e68d885d3e5baca2",
+  "translation": "ともだちと くみ ちがう しゅるいの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b4cccbb6c5fb205",
+  "translation": "ポケモンを 2ひきずつ さんか させます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1194cd6a950d5f41",
+  "translation": "バトルタワーには チームで たたかう\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3dbec7a918ed796a",
+  "translation": "マルチバトルルームが たくさん あります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7deeab8b0f449b4",
+  "translation": "マルチバトルルームでは 7くみの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc489cceba30a412",
+  "translation": "タッグチームが あなたと ともだちの\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52839d7fa2b176cc",
+  "translation": "タッグの ちょうせんを まっています。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a153be8ba57f325",
+  "translation": "7くみ すべてに かつことが できれば\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3d5370852601ffd",
+  "translation": "バトルポイントが もらえます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7034297fe377bcc",
+  "translation": "ほかの ルームとは ちがい\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28ef535dad004efc",
+  "translation": "ちょうせんの ちゅうだんは できません。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5b8e6f7719cb3cb",
+  "translation": "はじめたら 7かいの マルチバトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bda944f6e3f637b3",
+  "translation": "やすまずに つづけて たたかいます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a2df7d43199c7d6",
+  "translation": "{JPN}では さんか させる ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a825dda5ec8bb292",
+  "translation": "2ひき えらんで ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8edda46ebbe7ddd2",
+  "translation": "{JPN}ともだちと おなじ しゅるいの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b17364c014dc323a",
+  "translation": "ポケモンを えらんでいます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2182cf074cd57da0",
+  "translation": "ともだちと ちがう ポケモンを 2ひき\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09b7a4736de6bd6f",
+  "translation": "えらび さんかする レベルを あわせて\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54db68844fc59b85",
+  "translation": "もういちど うけつけ してください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6beab37c96f538f",
+  "translation": "{JPN}リンクマルチバトルルームは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43614a9005be8b50",
+  "translation": "つうしんした 2にん だけで ちょうせん できます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8dead8ee54c9fc46",
+  "translation": "{JPN}ともだちも ポケモン\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a3d062a4b61923a",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を えらんでいます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80158c83b17ffd7e",
+  "translation": "{JPN}ともだちも えらんでいるのは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39f26e854c0ad651",
+  "translation": "{ENG}{STR_VAR_1}{JPN}と {ENG}{STR_VAR_2}{JPN}です。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4071398e41b29ac3",
+  "translation": "{JPN}ともだちは ちがう\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e463d24da88cbd59",
+  "translation": "バトルレベルを えらんでいます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a0db7d315b9d75a",
+  "translation": "{JPN}ともだちは ちがう\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e5a857e30fd9ee8",
+  "translation": "バトルレベルを えらんでいます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "263f467e4c70972e",
+  "translation": "ともだちも ポケモン\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f062f1f1febd9401",
+  "translation": "{ENG}{STR_VAR_1}{JPN}を えらんでいます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfc0d02cd6eab8d0",
+  "translation": "{JPN}ともだちは ちがう\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c6a372224f52b8c",
+  "translation": "バトルレベルを えらんでいます。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ce77bd0e13a8a03",
+  "translation": "ともだちも えらんでいるのは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b6b7f027bcfb53a",
+  "translation": "{ENG}{STR_VAR_1}{JPN}と {ENG}{STR_VAR_2}{JPN}です。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d475aade89262e9",
+  "translation": "{JPN}ともだちと ちがう ポケモンを 2ひき\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c6d67dfe39f0358",
+  "translation": "えらび さんかする レベルを あわせて\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58acc7debc18b463",
+  "translation": "もういちど うけつけ してください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f66ba47f2e95ee6",
+  "translation": "{JPN}ごあんない するまえに レポートを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5aac152f0ddbda0a",
+  "translation": "かきます。 おまち ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbc2154c13c030a2",
+  "translation": "{JPN}おめでとう ございます!\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1168c881fa13570a",
+  "translation": "サロンメイデンを たおし\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1168605b2f06cbc5",
+  "translation": "7にんの トレーナーに かちぬきました!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6c1a07c1513e3c1",
+  "translation": "{JPN}あなたの かぎりない さいのうを たたえ\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d348a31fbc0ec5e7",
+  "translation": "バトルポイントを さしあげます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6622ea17a02ee8f",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は\\n{ENG}{STR_VAR_1}{JPN}バトルポイントを もらった!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c70adb334e991a58",
+  "translation": "{JPN}バトルタワーの ルールが かいてある。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af032a305e67b160",
+  "translation": "{JPN}どの せつめいを よみますか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07c111b9e8cc5243",
+  "translation": "{JPN}バトルタワーは 4しゅるいの バトルを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dd797916ebd66bf",
+  "translation": "おこなう しせつ です。\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8339c79f6a187bca",
+  "translation": "シングルバトル ダブルバトル\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0dd089c12d6a44c0",
+  "translation": "マルチバトル リンクマルチバトルです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9228413834a9fc5a",
+  "translation": "それぞれの しゅるいごとに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c5113453cc78f3da",
+  "translation": "べつべつの バトルルームが あります。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1f1f695becbbc0b",
+  "translation": "さんか したい バトルの\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6332d5f6b1e8c50",
+  "translation": "あんないがかりに はなしかけて ください。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b8ee7e15e25e830",
+  "translation": "{JPN}はいる バトルルームに よって\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a1a3d936328db836",
+  "translation": "つれていく ポケモンの\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a25eb80ba358b7c8",
+  "translation": "かずが きまっています。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9eaca75223858564",
+  "translation": "シングルバトルでは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "827451440f583fe0",
+  "translation": "ポケモンが 3びき ひつようです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aaa1c028eb4979fb",
+  "translation": "ダブルバトルでは 4ひき\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dfcbfdd528b5b5d4",
+  "translation": "マルチは どちらも 2ひき ひつようです。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a4bfb81824b6c3f",
+  "translation": "{JPN}バトルサロンは マルチバトルルームに\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17af4ec08d35b6b6",
+  "translation": "ちょうせん するための タッグを\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ddcfb7fd5085869",
+  "translation": "くむ パートナーを さがす ばしょです。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d754d909a2f7281",
+  "translation": "ほかの トレーナーの ポケモンや\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "406b0b103cec9a0a",
+  "translation": "わざを よく みて\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94f1d87ef99e4b6a",
+  "translation": "さいこうの パートナーを えらびましょう。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b77f48a74f6edc3f",
+  "translation": "7れんしょう すると あたらしい\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf598012cdc7c339",
+  "translation": "パートナーを えらぶことが できます。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40cf551349aae3bb",
+  "translation": "{JPN}リンクマルチバトルは ともだち\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63d7f1969ee531fa",
+  "translation": "2にんで いっしょに ちょうせん します。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4505c0abd5e81853",
+  "translation": "ともだちと ワイヤレスアダプタか\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "972d2fb0e1f72222",
+  "translation": "GBA せんようの つうしんケーブルで\\l",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d890fa704c40821",
+  "translation": "つないで ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe53f590304ae166",
+  "translation": "うけつけで ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22ea06fbdb657293",
+  "translation": "2ひき えらんで ください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39c17a29fdf0c100",
+  "translation": "ともだちの ポケモンとは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8207ba6c37d2e6a7",
+  "translation": "ちがう ポケモンに してください。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6971a81c75936a5b",
+  "translation": "ほかの モードとは ちがい\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16f51e7fd71723bf",
+  "translation": "とちゅうで ちゅうだん できません。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4459f5421a81d04d",
+  "translation": "{JPN}つぎは 2くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "226c68ff0e82b580",
+  "translation": "じゅんびは よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98b5f8eaf12d06d1",
+  "translation": "{JPN}つぎは 3くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fe448fbe635e72a",
+  "translation": "じゅんびは よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5ed5ffeb43cd887",
+  "translation": "{JPN}つぎは 4くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95b92a4a5cb4e0f0",
+  "translation": "じゅんびは よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85bcb25f7e46dd8b",
+  "translation": "{JPN}つぎは 5くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90aa830e8f6ffc0c",
+  "translation": "じゅんびは よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c670ae096cd03da",
+  "translation": "{JPN}つぎは 6くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbb9348e588ca74a",
+  "translation": "じゅんびは よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f77bd83f11f212b9",
+  "translation": "{JPN}つぎは 7くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "502ecca3ac932f19",
+  "translation": "じゅんびは よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "106656be8d47cf86",
+  "translation": "{JPN}つぎは 2くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "440f9bdf2e52c93c",
+  "translation": "がんばってください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "117a99517e4fbe68",
+  "translation": "{JPN}つぎは 3くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "650ecafc64c3f79c",
+  "translation": "がんばってください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcae3086252423da",
+  "translation": "{JPN}つぎは 4くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42ba3c5ecbe86a2f",
+  "translation": "がんばってください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a55fa5877aa5325b",
+  "translation": "{JPN}つぎは 5くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6bbf8f0b4732678",
+  "translation": "がんばってください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1979d54f6658d987",
+  "translation": "{JPN}つぎは 6くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60847914f413b729",
+  "translation": "がんばってください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee320e8313e5e893",
+  "translation": "{JPN}つぎは 7くみめの あいてです。\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cba5928c858b8735",
+  "translation": "がんばってください!$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2fdd9ac790da0588",
+  "translation": "{JPN}つうしん まちです…$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2afd6373aa859981",
+  "translation": "{JPN}パートナーが リタイアしました。\\p",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4da926a5d1c8658",
+  "translation": "バトルルームの ちょうせんは\\n",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb44de0ae42f044d",
+  "translation": "ちゅうしと なります。$",
+  "provenance": {
+   "batch": "dialogue-frontier-tower-pyramid-80",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

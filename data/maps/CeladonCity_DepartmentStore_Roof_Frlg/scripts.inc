@@ -281,84 +281,84 @@ CeladonCity_DepartmentStore_Roof_EventScript_ExitVendingMachine::
 	end
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
-	.string "I'm thirsty!\n"
-	.string "I want something to drink!\p"
-	.string "{FONT_NORMAL}Give her a drink?$"
+	.string "{JPN}のど かわいた!\n"
+	.string "なにか のみたい!\p"
+	.string "{FONT_NORMAL}のみものを あげますか?$"
 
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
-	.string "Give her which drink?$"
+	.string "{JPN}どの のみものを あげますか?$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
-	.string "Yay!\p"
-	.string "FRESH WATER!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+	.string "{JPN}わーい!\p"
+	.string "おいしいみず!\p"
+	.string "ありがとう!\n"
+	.string "おれいに これ あげる!$"
 
 Text_ReceivedItemFromLittleGirl::
-	.string "{PLAYER} received a {STR_VAR_2}\n"
-	.string "from the little girl.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_2}{JPN}を\n"
+	.string "おんなのこから もらった!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-	.string "TM16 contains LIGHT SCREEN.\p"
-	.string "It's a move that weakens the power\n"
-	.string "of special attacks by your foe.$"
+	.string "{JPN}わざマシン16は ひかりのかべ。\p"
+	.string "あいての とくしゅこうげきの\n"
+	.string "いりょくを よわめる わざなの。$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
-	.string "Yay!\p"
-	.string "SODA POP!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+	.string "{JPN}わーい!\p"
+	.string "サイコソーダ!\p"
+	.string "ありがとう!\n"
+	.string "おれいに これ あげる!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-	.string "TM20 contains SAFEGUARD.\p"
-	.string "It's a move that prevents status\n"
-	.string "problems among your POKéMON.$"
+	.string "{JPN}わざマシン20は しんぴのまもり。\p"
+	.string "みかたの ポケモンが じょうたいいじょうに\n"
+	.string "ならないように する わざなの。$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
-	.string "Yay!\p"
-	.string "LEMONADE!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+	.string "{JPN}わーい!\p"
+	.string "ミックスオレ!\p"
+	.string "ありがとう!\n"
+	.string "おれいに これ あげる!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
-	.string "TM33 contains REFLECT.\p"
-	.string "It's a move that weakens the power\n"
-	.string "of physical attacks by your foe.$"
+	.string "{JPN}わざマシン33は リフレクター。\p"
+	.string "あいての ぶつりこうげきの\n"
+	.string "いりょくを よわめる わざなの。$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this!$"
+	.string "{JPN}これを もつ よゆうが ないよ!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
-	.string "No, thank you!\n"
-	.string "I'm not thirsty after all!$"
+	.string "{JPN}ううん いらない!\n"
+	.string "やっぱり のど かわいてない!$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
-	.string "My sister is a TRAINER, believe it\n"
-	.string "or not.\p"
-	.string "But, she's so immature, she drives\n"
-	.string "me nuts!$"
+	.string "{JPN}しんじられないかも しれないけど\n"
+	.string "いもうとは トレーナーなんだ。\p"
+	.string "でも こどもっぽすぎて\n"
+	.string "もう いらいら するよ!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
-	.string "I'm thirsty!\n"
-	.string "I want something to drink!$"
+	.string "{JPN}のど かわいた!\n"
+	.string "なにか のみたい!$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
-	.string "ROOFTOP SQUARE:\n"
-	.string "VENDING MACHINES$"
+	.string "{JPN}おくじょう:\n"
+	.string "じどうはんばいき$"
 
 CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
-	.string "A vending machine!\n"
-	.string "What does it have?$"
+	.string "{JPN}じどうはんばいきだ!\n"
+	.string "なにが あるかな?$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
-	.string "Oops, not enough money!$"
+	.string "{JPN}おっと おかねが たりない!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-	.string "A can of {STR_VAR_1} popped out!$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN}が ガコンと でてきた!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
-	.string "There's no more room for stuff!$"
+	.string "{JPN}もう もちものが いっぱいだ!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotThirsty::
-	.string "Not thirsty!$"
+	.string "{JPN}のどは かわいてない!$"
 

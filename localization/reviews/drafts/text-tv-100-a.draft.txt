@@ -1,0 +1,873 @@
+##### data/text/tv.inc
+## LilycoveCity_ContestLobby_Text_InterviewRequest:
+2723b63d182b144d	あら こんにちは! あなた ポケモン\n
+dbe8f9ffa2557752	コンテストに でてた ひと よね?\l
+ebb479ea5190e642	ポケモンを みれば すぐ わかるわ。\p
+6e7d168b6c9e67c0	わたし きしゃなの。 ポケモン\n
+f6e0c1d7fce322ec	コンテストの きじを かいてるの。\p
+b483808a6785cc25	よかったら いくつか しつもんに\n
+31c31036694446cc	こたえて もらえない かしら?$
+## LilycoveCity_ContestLobby_Text_DescribeContest:
+c6260f913f953581	あら いいの?\n
+d4ef6a0134de61de	ありがとう。\p
+773205f6f42a4287	ひとことで いうと さっき でた\n
+29b414099bddb243	コンテストは どんな かんじだった?$
+## LilycoveCity_ContestLobby_Text_WhatImageWhenYouHearX:
+9dffc0aa0e161b17	なるほど!\n
+5aba6eefb5178902	とても ためになる コメントね。\p
+18d9e7e445beb6f2	コンテストが どんな ようすだったか\n
+a1518d6943eeca2e	よく つたわって くるわ。\p
+5ed5d06dc783dd00	さいごに もうひとつ しつもん。\p
+49b7fd9269ce9806	「{STR_VAR_2}」と きいて\n
+bb9a32b8065e74b7	どんな イメージが うかぶ?$
+## LilycoveCity_ContestLobby_Text_ThatsAllForInterview:
+9f283d08d66265e5	なるほど!\p
+7d227c98d63e7cd2	あなたの イメージする\n
+ab1101f0f4bed196	「{STR_VAR_2}」は そういう ものなのね。\p
+da68e56c6eaf2c2a	ありがとう!\n
+89114f4927fa15d1	いい アイデアが うかんだわ。\p
+e8f056d23cb147aa	これで ポケモン コンテストの\n
+d0d26d4ffd9e9991	いい きじが かけそう。\p
+8fc9d09745bb1cbe	もしかしたら この きじ\n
+1a8353bed8f60f65	テレビで ながれる かもしれないわ。\l
+dcbe86feddcdb722	たのしみに しててね!$
+## LilycoveCity_ContestLobby_Text_PleaseDoShareStoryWithMe:
+4fceab58b19676a9	あら ざんねん…\p
+418d4f7e9707ad8b	じゃあ いい はなしが あったら\n
+65296f7fc746d546	ぜひ わたしに きかせてね。$
+## LilycoveCity_ContestLobby_Text_LookingForwardToNextContest:
+c42fc3e1c6c5151e	つぎの ポケモン コンテストも\n
+ba055994f1a1f412	たのしみに してるわね。$
+## gTVBravoTrainerText00::
+7da8fa140b970dac	イエーイ!\n
+ad46d73a91033534	ブラボー トレーナーの じかんだ!\p
+a8c5185b167d5fe2	きょう しょうかい するのは\n
+83715fc9b6c4f8a6	{STR_VAR_1}の ポケモン!\p
+0a29f86c5bcaa7a7	この ポケモン なんと {STR_VAR_3}ランク\n
+2b63a3d8ab1f3794	{STR_VAR_2}ぶもんの じつりょくだ!$
+## gTVBravoTrainerText01::
+b7535f7e70a69af8	その なも {STR_VAR_2}!\n
+56499958a099bd6c	しゅるいは {STR_VAR_1}!\p
+5c29f9432157bd63	{STR_VAR_2}という なまえ…\p
+ded46d0c917076cd	なまえから して もう\n
+dc7d63af2db23f92	「{STR_VAR_3}」って かんじが するね!$
+## gTVBravoTrainerText02::
+1a29f3602661fb5e	さて トレーナーの {STR_VAR_1}が\n
+6ae45bb1f4524179	この ポケモンと コンテストに でたとき\l
+5e0019e1947b359d	たのもしい あいぼうへの あつい\l
+f4ee2d8b4e91b0b0	ことばを いくつか きけたんだ。$
+## gTVBravoTrainerText03::
+034cce53b153526f	コンテストの あとで きいてみると\n
+bc40c364276c5132	{STR_VAR_1}は にっこり わらって\l
+28698ecc0d2a5e96	「{STR_VAR_2}!」と こたえた。\p
+983bfafe5dfe7760	そう {STR_VAR_1}の ポケモンは\n
+ab5470dc0464eb92	コンテストで {STR_VAR_3}いだったんだ。\p
+35bc3f308da66abc	いまの {STR_VAR_1}に ぴったりの\n
+5092b70d91d6bbd7	ことばだと おもうよ!$
+## gTVBravoTrainerText04::
+5b0557bdc9291ea7	コンテストの あとで きいてみると\n
+1d67881eee7f9287	{STR_VAR_1}は すこし くやしそうに\l
+17c7df2eeeefaa3a	「{STR_VAR_2}」と こたえた。\p
+ebc76788d249d922	そう {STR_VAR_1}の ポケモンは\n
+26908f74d4479f08	コンテストで {STR_VAR_3}いだったんだ。\p
+6c7a1472f1d66578	{STR_VAR_1}の くやしさが\n
+ec22f333d2b2bbd9	ひしひしと つたわって くるね!$
+## gTVBravoTrainerText05::
+cb535584b2871459	みんなも しりたい だろう?\n
+5c25170a1abfd4ec	{STR_VAR_1}にとって{STR_VAR_2}とは\p
+7131f025aa84c0ee	もちろん しりたかった!\n
+49f370b360179f53	だから きいて みたんだ!\p
+0a44b9c8f3a855c3	こたえは ひとことに まとまってた!\n
+3574f3edf85a42d1	「{STR_VAR_3}!」\p
+66cdd091457c5233	それこそが {STR_VAR_2}!\n
+b0d82f2d7179ccc9	{STR_VAR_1}にとっての イメージだ!$
+## gTVBravoTrainerText06::
+13c3741e7bbf4915	さいごの わざ {STR_VAR_2}!\n
+941bb894ca457ba9	{STR_VAR_1}の その わざは まさに\l
+61b79b4458c004ab	「{STR_VAR_3}」だったね!$
+## gTVBravoTrainerText07::
+82dde07f5947806f	ブラボー {STR_VAR_1}!\n
+05c6c93cf6dd93d7	ブラボー {STR_VAR_2}!\p
+1975a860c4e0d92b	これからも さらなる かつやくを\n
+d47185e088f6df9d	{STR_VAR_1}に きたい しよう!\p
+cc4710b030661572	そろそろ じかんだ!\n
+73602c64154a6970	また つぎの ほうそうで あおう!$
+## gTVBravoTrainerText08::
+affde8875bf753df	トレーナーの {STR_VAR_1}を しょうかい!$
+## BattleFrontier_BattleTowerLobby_Text_InterviewRequest::
+853a172ad0c6535c	こんにちは! いま バトルを してきた\n
+916bad65a5023196	トレーナーさん ですよね?\p
+8e827962d3dad92f	わたし あちこちで トレーナーに\n
+992caee95f612097	インタビュー してるんです。\p
+a0d05a0815791c7f	バトルの かんそうを すこし\n
+3a2fa53b5c76fb1a	きかせて もらえませんか?$
+## BattleFrontier_BattleTowerLobby_Text_HowDidBattleTowerTurnOut::
+f1ec5fd20f30e91b	いいんですか? ほんとに?\n
+df2ae27174d70382	ありがとう ございます!\l
+192f966ef851c452	では えーと…\p
+f3e9664e8fa74ec2	きょうの バトルタワーは\n
+510177b07d8ea674	どんな けっか でしたか?\p
+017c7b8f187d9ff5	バトルに まんぞく できました?\n
+3a9daa3072f5cfd9	それとも ふまん ですか?$
+## BattleFrontier_BattleTowerLobby_Text_SorryWeDisturbedYou::
+77e187d82358bd18	あ…\n
+ae3dc30c29d7e067	おじゃま しました。\p
+236a12b16930d556	こんど バトルタワーに きたときは\n
+aca7092ece39ca9c	ぜひ インタビュー させてください。$
+## BattleFrontier_BattleTowerLobby_Text_ObviousYouHadGreatBattle::
+d68647051e4f23b9	そう ですよね!\p
+36d397916cf27c91	その まんぞくそうな\n
+1384d39f29de0ed5	かおを みれば…\p
+f0b2f1ea0d8f395f	すごい バトルだったって\n
+86bb8fd2520a9c85	すぐ わかります。$
+## BattleFrontier_BattleTowerLobby_Text_DifficultToMakeBattleTurnOutAsPlanned::
+285b64fcd91c42b0	あ そうですか…\p
+9f43bc1bbceab34b	バトルを おもいどおりに すすめるのは\n
+c6324efb85a1437a	たしかに むずかしい ですよね。$
+## BattleFrontier_BattleTowerLobby_Text_DescribeYourBattle::
+abc7b20310a7b4cf	あの あの もうひとつ いいですか?\p
+16b61c154809bfbd	こんかいの バトルの かんそうを\n
+c20cf1a9e5f5abcb	ひとことで いうと\l
+c4b0c0a9de0b1872	どんな ことば に なりますか?$
+## BattleFrontier_BattleTowerLobby_Text_ThatsGreatLine::
+e8b34f0c8b4bac3e	わあ ものすごく かっこいい!\p
+96d335f0cb08c5d7	すてきな ことば ですね!\n
+9c63b50ab27e93ef	つぎも がんばって くださいね。\p
+beb8ab8a547e4a9b	また おあい しましょう!$
+## BattleFrontier_BattleTowerLobby_Text_SilentType::
+6bb70fb90bf91517	あ そうですか…\p
+5bdd09aa402b8a11	でも だまって かたらないのも\n
+99441589fa829d8c	かっこいい ですよね?\p
+a32d0fdd66a1f23d	また こんど おはなしを\n
+6e4f0e1f62c097cf	きかせて くださいね!$
+## BattleFrontier_BattleTowerLobby_Text_LookingForwardToNextBattle::
+0e08a573dae73c79	つぎの バトルも\n
+2fae679822696ce0	たのしみに してます!$
+## BravoTrainerBattleTower_Text_Intro::
+14998def82104d0b	イエーイ!\n
+72442ba0d52af2e3	ブラボー トレーナーの じかんだ!\p
+a8fe7553de40b05a	きょうの しゅやくは {STR_VAR_1}!\n
+b06592788fec6c4e	バトルタワーに いどんだ トレーナーだ!\p
+6ad6ca35009c1855	{STR_VAR_1}が ちょうせんに\n
+e6f85d6ecafcca4e	つれていったのは つわものの {STR_VAR_2}!$
+## BravoTrainerBattleTower_Text_NewRecord::
+86f3f888bcc81431	この コンビは {STR_VAR_2}れんしょうの\n
+1ced9dc4c296cfc2	{STR_VAR_1}の しんきろくを たてた!\l
+f361d12b339d4b01	ブラボー トレーナー!$
+## BravoTrainerBattleTower_Text_Lost::
+e65efb445f41bb98	ついに この コンビを たおしたのは\n
+c44e6018793c2bbf	{STR_VAR_1}! {STR_VAR_2}せんめ!\l
+f36631069d17e6c7	おしかったぞ トレーナー!\p
+7623ccfbf0c1f12a	でも ちょうせんの はやいうちに\n
+000346ae2f44462b	{STR_VAR_1}と あたるとは うんが わるい。\p
+3bce25dde45bf8ff	トレーナーに きいてみたぞ\n
+19889a1e247f6b15	{STR_VAR_1}との しあいの かんそうを!$
+## BravoTrainerBattleTower_Text_Won::
+b5a0e7d86911c552	この コンビが みごと ゆうしょう!\n
+5a2de93c4443be57	{STR_VAR_1}の{STR_VAR_2}に かち!\l
+70ea547548cbf5c2	ブラボー トレーナー!\p
+c7202d95525afacc	あの {STR_VAR_1}まで たおすとは…\n
+347f34115a6491d7	しんじられない! ただただ すごい!\p
+1ca3d9196f971d90	えいこうの しゅんかんの かんそうを\n
+ba05bf6ab629167b	トレーナーに きいて みたぞ。$
+## BravoTrainerBattleTower_Text_LostFinal::
+3f108d08fb646758	れんしょう を つづけた コンビも ついに\n
+f6f3084dbe1d879c	{STR_VAR_1}の{STR_VAR_2}に まけた\l
+cfab97f64f5aaea9	あいては さいごの かべ だった。\p
+085f139b675becb6	おしかったぞ トレーナー!\p
+d2bafd3bdf87f73d	でも あいてが わるかった。\n
+0c80b0095a8ac5f4	あれほど ゆうめいな コンビは\l
+413a90c5e35788f0	{STR_VAR_1}と{STR_VAR_2}だけだ。\p
+2ed6c3a6ea3c848a	ゆうめい コンビとの バトルの かんそうを\n
+2107d16da2b6ce92	トレーナーに きいて みたぞ。$
+## BravoTrainerBattleTower_Text_Satisfied::
+64531ec4086e6656	トレーナーは こう いっていた。\n
+a6888e86c5d16289	「まんぞく です!」\p
+a9af6ff2aa40bc72	なんとも さわやかな こたえだね!\n
+b7d5d879116bd594	ブラボー トレーナー!\p
+91a6c9b3378b2ffe	こころゆくまで バトル できるなんて\n
+161f294b0fb12242	ほんとうに さいこう じゃないか!\p
+486ae9361263b021	どれだけ まんぞく したかは\n
+c52b55173ade74d5	この ことばで よく わかったよ。$
+## BravoTrainerBattleTower_Text_Unsatisfied::
+0ee0043f73a412fb	トレーナーは こう いっていた。\n
+5e8f67251b53315e	「まんぞく してません…」\p
+247efdc7367c7542	そう いったとき トレーナーは\n
+fa86fcc89dfecbb4	すこし おちこんで いたようだ。\p
+a13e6566e73f97c0	でも こころゆくまで バトルするのは\n
+e3fa044e2db3fefa	かんたんな ことじゃ ないよね?\p
+01d8163e29088076	とにかく どれだけ ふまんだったかは\n
+169dc5b41128b4b0	この ことばで よく わかったよ。$
+## BravoTrainerBattleTower_Text_None1::
+c63d8e993a139334	なし$
+## BravoTrainerBattleTower_Text_None2::
+bbeeffd630738c63	なし$
+## BravoTrainerBattleTower_Text_None3::
+53b87e4fc3d91756	なし$
+## BravoTrainerBattleTower_Text_None4::
+4142b0b9621a0e03	なし$
+## BravoTrainerBattleTower_Text_Response::
+acfc9241d84ce271	「{STR_VAR_1}」$
+## BravoTrainerBattleTower_Text_ResponseSatisfied::
+bafcd4a6f1fda354	「{STR_VAR_1}」\n
+721616e522f77698	どうだい すばらしい だろう?\p
+37c98a13f82f27a2	{STR_VAR_2}の よろこびが\n
+ebee9ebbdc115147	よく あらわれて いるね。\p
+0958c81d7f6c96df	さいごの {STR_VAR_3}との\n
+8f999587a146bc43	バトルは… まさに\l
+9868a24a545740d1	「{STR_VAR_1}」だったんだ!$
+## BravoTrainerBattleTower_Text_ResponseUnsatisfied::
+ec94da697e493368	「{STR_VAR_1}」\n
+7c2c1cbbcf0b6792	どうだい ぴったり だろう?\p
+1cc744ac06da9a9d	さいごの {STR_VAR_3}との\n
+a100739fc819d0bc	バトルは… まさに\l
+14f81f7813c710cc	「{STR_VAR_1}」と いうしか ない!\p
+174509734fba7226	{STR_VAR_2}の くやしさが\n
+a8a697617248011c	ひしひしと つたわって くるね!$
+## BravoTrainerBattleTower_Text_Outro::
+c5dd47cd0f25fbf4	ブラボー {STR_VAR_1}!\n
+bfe40ab6c2350536	ブラボー {STR_VAR_2}!\p
+aa4de0dfcd9eaaf8	これからも さらなる かつやくを\n
+f7ab9bac1eba5586	{STR_VAR_1}に きたい しよう!\p
+98e4691ef3379adf	そろそろ じかんだ!\n
+7e02890d70a2b314	また つぎの ほうそうで あおう!$
+## SlateportCity_PokemonFanClub_Text_InterviewRequestHasName:
+2f8ac90dba92af5f	わあ!\p
+cdb2926df50464b2	あなた とても かわいがってるのね\n
+e7ba3f88215cd239	その {STR_VAR_1}のこと。\p
+fe8030b78ce5e190	なるほど なまえは {STR_VAR_2}ね。\p
+34a637cf385c3ed9	ちょっと おねがいが あるの。\p
+907cb0ee4643d4d7	わたし テレビの きしゃで\n
+47d10cfc0f5886f0	ポケモンの アンケートを してるの。\p
+d4099d5bf0160893	かんたんな しつもんに いくつか\n
+36a7eb705de448a7	こたえて もらえない かしら?$
+## SlateportCity_PokemonFanClub_Text_HereGoesQuickAnswers:
+2ce959b25b0221bd	よかった! ありがとう!\p
+b596c58658105d5e	じゃあ いくわよ。\n
+57c3934d9358d240	さっと こたえて くれれば いいからね。$
+## SlateportCity_PokemonFanClub_Text_DescribeFeelingsFirstMetMon:
+c68f4ff8ebf89660	{STR_VAR_1}に はじめて あったとき\n
+f483b24febf53dc3	どう おもった?\p
+d53096861651edd7	その ときの きもちを\n
+55b1b297a5e02545	ことばに すると どうなる?$
+## SlateportCity_PokemonFanClub_Text_LikenMonToSomethingYouLike:
+1c80df0eaa610615	{STR_VAR_1}は だいじに されてるわね。\p
+1f9be252a4bf129b	あなたの すきな もので たとえると\n
+ae50465eb6ce5b2e	なにに なるかしら?$
+## SlateportCity_PokemonFanClub_Text_WhatAttractedYouAboutMon:
+3e32325ce869b1d9	これも あなたの だいすきな\n
+222dd1340e0e897c	{STR_VAR_1}に ついての しつもんよ。\p
+c40fab21c70307b6	{STR_VAR_1}の どんな ところに\n
+5248fea2b4bdae81	ひかれたの?$
+## SlateportCity_PokemonFanClub_Text_WhatDoPokemonMeanToYou:
+81c1a7461fd2b4ae	うん なるほどね。\p
+8f237baf9ace220c	つぎの しつもんは ちょっと\n
+5b76fcb3505e701e	むずかしい かもしれないわ。\p
+21d7c47ce0db99f2	いくわよ…\p
+af87e22dbea6cf57	あなたに とって ポケモンって なに?$
+## SlateportCity_PokemonFanClub_Text_ThatsAllForInterview:
+e4d5a4e2f576bdc3	なるほど!\p
+1c1bce7f0165a2c8	ふむふむ…\p
+f23e91c2c31b94c6	よし!\n
+78e0bcd5ccfc7733	きょうりょく ありがとう。\p
+0a03a3012b9ad7fd	あなたと はなせて たのしかったし\n
+a3a56492130d6283	とても べんきょうに なったわ。\p
+b903d09f4395324c	この インタビュー テレビで ながれる\n
+609fb7bad1c8d2f4	かもしれないから みてみてね!\p
+34e207c7041cd892	それじゃ これで おしまい。\n
+798b270d3d10ffe4	バイバイ!$
+## SlateportCity_PokemonFanClub_Text_HereIfYouGetUrgeToTellMe:
+b824afe28e84f7f9	あら そう…\p
+9cfea3d77330e637	ポケモンの はなしが したくなったら\n
+aca9fcf65e4b5207	わたし ここに いるからね!$
+## SlateportCity_PokemonFanClub_Text_EnjoyDoingInterviews:
+a6579edc2fc8965b	インタビューで ポケモンの ことが\n
+58ac497750e7afd7	わかるから この しごと すきなの。$
+## SlateportCity_PokemonFanClub_Text_InterviewRequest:
+2db05c7335749211	こんにちは! あなた とっても\n
+f82840e689470c08	{STR_VAR_1}と なかよし みたいね。\p
+b3fe4bcc05955baa	じつはね…\n
+bbcd860ad4c193a4	わたし テレビの きしゃなの。\p
+ff069e5f4ce81f1e	あちこちで ポケモンの はなしを\n
+611edeb053d65501	インタビュー してるの。\p
+3d590cd55ef06c4f	よかったら すこし おしえて くれない?\n
+ab4998480594f38b	あなたの {STR_VAR_1}の ことを。$
+## SlateportCity_PokemonFanClub_Text_TellMeAnythingAboutYourMon:
+73a2c0d247e4ea5f	わあ ありがとう!\p
+8bb9dedb307daa05	じゃあ なんでも いいから はなして\n
+131aec3af90ce697	あなたの {STR_VAR_1}の ことを。$
+## SlateportCity_PokemonFanClub_Text_ThatsAllForInterview2:
+8daca2bc39931b5f	へえ…\n
+5a9f277d7966c158	おもしろい はなしね。\p
+39c4f349a8ccfe47	{STR_VAR_1}と ほんとうに\n
+faa3b5545a2b517f	なかよし なのね。\p
+fbf4c2a2732f0558	あなたの はなし いい テレビの\n
+1af3d730dff6107e	ネタに なりそうな きがするわ。\p
+87c815700348a195	かならず おもしろい ばんぐみに\n
+c7f63d874f9a0d7a	して みせるからね。\l
+ece55fb2ffb5406a	みのがさないでね。\p
+d46cdd6d336a3192	それじゃ これで おしまい。\n
+3bf589b5712b15f4	バイバイ!$
+## gTVFanClubOpinionsText00::
+1560592fa8ed4ec6	ポケモン だいすきクラブ だよ!\p
+06894bfb57d73175	ほうそう ちゅう!\p
+77ac26cb9351f9ce	この ばんぐみは みんなの いけんを\n
+396428b6b990595e	ぼくが かわりに さけぶんだ!\l
+e733c4e7b0be737d	すばらしい きかく だろう?\p
+22e9bcd0105d7f14	きょうは ポケモン だいすきクラブに\n
+12feeaace103237d	おくりこんだ きしゃからの\l
+3258b3e518419ce5	レポートを おとどけ するよ。\p
+3d0a0337b53a2341	さあ きょうの しゅやくの\n
+4179fe471f32b9f4	ポケモン ファンは だれかな?\p
+9a0e546326c463b9	… … … … … … … …\p
+1149d991f5823c03	{STR_VAR_1}!\p
+6eb5005d4dc6864d	{STR_VAR_1}に きいてみよう\n
+9619baa598f273e0	{STR_VAR_2}の{STR_VAR_3}の こと!\p
+98cb7699169587d5	そして その あいの ことばを\n
+51d55b7240c23507	ぼくが テレビで さけぶぞ!\p
+f3b804e18c9da286	ホッハー!\p
+7fb1784fe3f7a8b2	さけぶぞー!$
+## gTVFanClubOpinionsText01::
+011f96893637c9ea	{STR_VAR_1}に しつもん!「はじめて\n
+810743d1ac8a9da6	{STR_VAR_2}を みたとき\l
+789f6ec77b48e578	さいしょに どう おもった?」\p
+93fd0d532acfe092	「{STR_VAR_3}!」\p
+41a90a4b6ed68d00	イエーア! みごとな さけびだ!\p
+c27f0ec2449ac68b	すぎさった あの ころの おもいでが\n
+a0899b9cac944ffe	よみがえって くるようだね?$
+## gTVFanClubOpinionsText02::
+704402be3ae014f8	{STR_VAR_1}に しつもん!「あなたの\n
+17afa0401788d3bf	{STR_VAR_2}を なにかに たとえると\l
+de6e88c819a1956c	それは…」\p
+d9c993a430e64942	… … … … … … … …\p
+f7c8bf7120719e92	「{STR_VAR_3}!」\p
+478811525c430f45	うおお! これは どくそうてき!\p
+9c7b443529b2786d	トレーナーの あつい きもちが\n
+945d2efb4ce766f3	ひしひしと つたわって くるよ\l
+699ce35a67c76f83	{STR_VAR_2}への ふかい あいが!$
+## gTVFanClubOpinionsText03::
+2638dc05c7451316	さて つぎは…\n
+f216a663c68a188d	{STR_VAR_2}の どこに そんなに\l
+7e59e18d661613d4	{STR_VAR_1}は ひかれたのか?\p
+b919efeedf8ffa36	… … … … … … … …\p
+0b7f38966a3eb7ab	「{STR_VAR_3}!」\p
+15672191c4885d2d	おお! なんて みごとな せんげん!\p
+c4e1759d97628581	トレーナーの {STR_VAR_2}への あいが\n
+85ff5050c4d65e82	ひしひしと つたわって くるぞ!$
+## gTVFanClubOpinionsText04::
+bb426bd7d196231b	ん? おや まだ あるぞ。\n
+2dd0f75e49320faf	みてみよう!\p
+45fc6ed81f265204	えーと どれどれ…\p
+597fdd0895add1f0	{STR_VAR_1}に しつもん!「あなたに\n
+1f1df3d20a285ef5	とって ポケモンとは?」\p
+8099f87dbf3d0f2f	… … … … … …\p
+1a2e3c3587b136c7	「{STR_VAR_3}!」\p
+a42402ad6ecf1011	ブラボー!\p
+4eeeb14ae9f5d549	きょう いちばんの さけびだ!\p
+dd18408f60455bbe	「{STR_VAR_3}!」\p
+236e14634b9ffbb6	なんども なんども さけびたく\n
+64822e098fabf8e7	なっちゃうね!\p
+9e9c9f31a099296e	いい さけびも きけたし そろそろ\n
+4e22638ea199e28a	おわかれの じかんだ!\p
+96363abc54938d15	さいごに みんなで さけぼう!\n
+ebc369ff5bf923cb	せーの…\p
+c744f552b40a1452	「{STR_VAR_3}!」$
+## gTVFanClubText00::
+733246dd2fd58fca	ポケモン だいすきクラブ だよ!\p
+6efb3e3281afc8ab	ほうそう ちゅう!\p
+3152b926eb60a79d	きょうは まず ポケモン\n
+a800f97ed971d0a0	アンケート コーナーから いくよ。\p
+d007a4db6957f88c	ポケモンと トレーナーが おりなす\n
+2a6ccfac4fa19516	ものがたりの なかから きょうは どんな\l
+df1ea76a836eca21	おどろきの ドラマが みられるかな?\p
+c8aa3319c67d6dc4	えーと…\p
+b6557a5cefa7e6a8	これだ!\p
+90e36ebdb7f0fb86	まずは この おてがみから!\p
+df9bb856e434334e	{STR_VAR_1}から だいすきな\n
+d31611f40281e790	{STR_VAR_2}に ついての おてがみだ。\p
+1d2e81986dc1abcb	この ひとは どれだけ あつく\n
+97a8dd0c0b59de5f	{STR_VAR_2}への あいを かたるかな!\l
+5cce35e1a1ca8565	ふむふむ…$
+## gTVFanClubText01::
+6148c82df25be0b4	うおお!\n
+922b92164c0fb096	なんて すばらしい おてがみだ!$
+## gTVFanClubText02::
+672523ec13e41ed2	きにいったから もういちど よむよ!$
+## gTVFanClubText03::
+0bfece3e2a870884	いい おてがみは なんど よんでも\n
+30f21689b7604ef2	いいものだ!$
+## gTVFanClubText04::
+9cd1909cb547036b	「{STR_VAR_3}」の ところが\n
+b59b4396262a0f5c	ぐっと こころに ひびくね!\p
+4acb1c61d4b80236	こころの こもった ふかみのある\n
+ddbcf4f9861c871b	すばらしい おてがみだ!$
+## gTVFanClubText05::
+ebab56c5313f15e8	とくに「{STR_VAR_3}」の ところ!\p
+402a71a76294c773	「{STR_VAR_3}」の つかいかたが いいね!$
+## gTVFanClubText06::
+f647f88d10344a78	ところで どうでも いい ことだけど\n
+332abc8ec98aba2b	「{STR_VAR_3}」って いい ことばだね。\p
+34f9146b84750c5e	さいきん かいわで「{STR_VAR_3}」を\n
+fb4b485eb4392d9f	よく つかってるんだ。$
+## gTVFanClubText07::
+9019a58947bcf9d4	この おてがみに てんすうを つけるなら\n
+9c7dc1455fd7ebdc	{STR_VAR_3}てん だね。\p
+9f740d97f306d2eb	つぎは もっと いい おてがみを\n
+b088d9ac35e71bd3	まってるよ {STR_VAR_1}!\p
+3dfdcc138cf4c0da	おっと もう こんな じかんだ!\n
+3d895a09e80d16d1	また つぎの ほうそうで あおう!$
+## SlateportCity_OceanicMuseum_1F_Text_InterviewRequest:
+04bec6e95881be31	あら?\n
+728687eb4af63594	もしかして ポケモン すき?\p
+81f93a35579fbb4e	わたし テレビきょくの しゅざい なの。\p
+421c0ea3c9ca9df7	さいきん あった ポケモンと\n
+be528a750b1b95f9	トレーナーの はなしを あつめてるの。\p
+b20f71206947f851	よかったら あなたの はなしを\n
+faa2bd261950704d	きかせて くれない?$
+## SlateportCity_OceanicMuseum_1F_Text_InterviewRequestShort:
+7ffaaa0a04eae447	さいきん あった ポケモンと\n
+7bb649964999f73b	トレーナーの はなしを あつめてるの。\p
+e250e61b110c5b7c	よかったら あなたの はなしを\n
+6bd1b3f4dd4e1567	きかせて くれない?$
+## SlateportCity_OceanicMuseum_1F_Text_TellMeExperienceInvolvingPokemon:
+11fcf88a49dceac6	あら いいの?\n
+30397679fbe79517	ありがとう!\p
+65140f8e922215e1	じゃあ さいきん ポケモンと\n
+b8f49138c7744e96	あった おもしろい できごとを\l
+cf7a6701f372bfe5	なんでも いいから きかせて。$
+## SlateportCity_OceanicMuseum_1F_Text_LetMeKnowIfYouHaveStory:
+7e28babc7f2d0fc3	あら そう…\p
+15362f151caeab60	おもしろい はなしが あったら\n
+a7212e22908e2ce5	ぜひ おしえてね。$
+## SlateportCity_OceanicMuseum_1F_Text_ThatsAllForInterview:
+559c42ce564ac731	まあ げんきが でる はなしね!\p
+0e3af61818966495	あなたの はなし かならず\n
+e8784bcebb2bb0a2	テレビで しょうかい するわ。\p
+dd9404ed953d622d	たぶん そのうち ほうそう されるから\n
+44df4883cd6609cd	たのしみに しててね。$
+## SlateportCity_OceanicMuseum_1F_Text_BetterWriteUpStory:
+f6978615acf6f170	うーん…\n
+60ebdce5ccadbd3a	テレビに ぴったりの ネタが あるわ。\p
+af77b17cc34ccba0	いそいで まとめなくちゃ!$
+## gTVRecentHappeningsText00::
+b74ef09115992257	こんにちは「さいきんの できごと」です。\p
+c305b38db5e805ae	ポケモン トレーナーに とっては\n
+10e88d2a18fb1ae4	まいにちが ものがたり です。\p
+28980d6b2e198ab6	この ばんぐみでは そんな ポケモンの\n
+02873b35ba6a0b12	ものがたりを ごしょうかい します。\p
+9975adc8de28efe7	きょう おとどけ するのは\n
+0147097a4b9699cb	トレーナー {STR_VAR_1}の おはなし。\p
+8204a9b85fff5783	{STR_VAR_1}が さいきん けいけん\n
+eaa73a3eb5bbcd50	したこととは? みてみましょう。\p
+03211c063e7c9515	どれどれ…$
+## gTVRecentHappeningsText01::
+24221fc01ae93f3e	ためになる おはなし でしたね。\p
+a07da20ad9ebbf20	さいきん どんな ことが あったのか\n
+c3edd344a260c70b	{STR_VAR_1}の けいけんが つたわります。\l
+8cd26324ade38408	まるで その ばに いたようです!$
+## gTVRecentHappeningsText02::
+b2550df73ecdd2e3	「{STR_VAR_3}」 これが\n
+28ab9e0815a889b5	はなしに ふかみを あたえてますね。$
+## gTVRecentHappeningsText03::
+0b53f0a45a64588b	「{STR_VAR_3}」\n
+76d17dc445c3db6e	これで ばめんが うかんで きます。\l
+4249cd733ba043c8	ぶたいが めに みえる ようですね。$
+## gTVRecentHappeningsText04::
+522f2f8b3969b9ce	「{STR_VAR_3}」の\n
+54c966d02d374f6a	ところが とても いきいき してますね。$
+## gTVRecentHappeningsText05::
+aee42cbc62a3d50c	{STR_VAR_1}が ポケモンとの\n
+726c55371a09db0f	すてきな おはなしを してくれました。\p
+07253c96433f30f4	{STR_VAR_1}の ものがたりは みなさんの\n
+fe488bd56d5ad44c	こころにも きざまれた でしょう。\p
+8ee3838755b89aad	きょうは ここまで。\n
+01706052626e1703	また つぎかい おあいしましょう。$
+## gTVMassOutbreakText00::
+0b55cf19cf41d4a3	こんにちは!\n
+c5a9cc27654fe3fa	ポケモン ニュースの じかんです。\p
+1525579f416a6d7d	ただいま とても めずらしい\n
+133f7a4d0ea9c77a	できごとの しらせが はいりました。\p
+80206f035f2ed28a	じょうほうに よりますと\n
+65c2ec28e956791b	{STR_VAR_2}の たいりょう はっせいが\l
+65d9e170de606034	{STR_VAR_1}ふきんで ほうこく されてます。\p
+d5a59a86663fb50f	ごぞんじの とおり {STR_VAR_2}は\n
+808ed011bcdc8ab3	めずらしくて なかなか\l
+095bbdb4303e1a4e	みつからない ポケモンです。\p
+eb0673dc3cbb3c9f	これは めったに ない チャンス!\n
+22a4e6ecb45f2f78	なぞの たいりょう はっせいで やせいの\l
+4b8cd173176cdfa7	{STR_VAR_2}が みられる かもしれません。\p
+6e2fd7b944137971	いじょう ポケモン ニュース でした。$
+## gTV3CheersForPokeblocksText00::
+8d8d4027864e9162	しかい: みなさん ごきげん いかが?\n
+d6bae2fa9cdeae71	「{POKEBLOCK}に カンパイ」の じかんです!\p
+6c747da0d39e116c	きょう とりあげる {POKEBLOCK}は\n
+a31e34395fb0074c	{STR_VAR_1}たちが つくった ものです。\p
+c80ef01c0cb596fc	さっそく グルメな ポケモン\n
+d60d4b4a7d49536e	ゴクリンに たべさせて みましょう。\p
+2c247630391d72e6	… … … … … …\n
+de9cf9ed80365158	… … … … … …$
+## gTV3CheersForPokeblocksText01::
+b9d97e2e85ee7fd5	ゴクリン: ゴクッ! ゴクーッ!\p
+e622afd29b829676	しかい: とっても {STR_VAR_1}!\n
+b2588dc8dd09a517	あじは「{STR_VAR_2}」だそうです!\p
+97422d1ca8abbfe7	ありがとう {STR_VAR_3}!$
+## gTV3CheersForPokeblocksText02::
+30fe4db21305f05f	{STR_VAR_1}の ブレンドは\n
+f851f820c0e7d77e	いまひとつ でしたね。\p
+3c58d8b14768cd64	もっと じょうずに ブレンドすれば\n
+9244012d15380172	{POKEBLOCK}は ずっと おいしく なるのに。$
+## gTV3CheersForPokeblocksText03::
+60bac0c4715e99fe	ゴクリン: ゴクッ! ゴクーッ!\p
+97668e55a8a43c4c	しかい: うーん… {STR_VAR_1}すぎる。\n
+252120b1092f1c57	あじは「{STR_VAR_2}」だそうです!\p
+5b0ca548ba654c36	{STR_VAR_3}の ミスで できが\n
+bb0478b0d6ad2835	わるく なったみたい ですね…$
+## gTV3CheersForPokeblocksText04::
+774097062184a7ea	{STR_VAR_1}の がんばりが\n
+11f3c5a86c9c63d7	むだに なって ざんねんです。\p
+2a5a9e2c22b46605	つぎは {STR_VAR_2}が もっと\n
+1a7ffbee26729b7b	がんばって くれると いいですね!$
+## gTV3CheersForPokeblocksText05::
+4b15667b38257beb	また みてね!\n
+b47e7b7b276ed131	あいことばは「{POKEBLOCK}に カンパイ!」$
+## LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer::
+a05b6aa09d571067	やあ こんにちは!\p
+e2caf3835292d59d	{STR_VAR_1}の だいファン なんだ。\n
+e1281cba0e15d07c	{STR_VAR_1}を どう おもう?$
+## LilycoveCity_PokemonTrainerFanClub_Text_ThatsWhatYouThink::
+5e0aa2ea3bd7b569	なるほど なるほど。 あの トレーナーを\n
+4a988779a5901830	そう おもってるんだね。$
+## LilycoveCity_PokemonTrainerFanClub_Text_HaveYouForgottenTrainer::
+80ad183e718e0e70	すっかり わすれちゃったの?\n
+d43c6ae6b0c17a2e	{STR_VAR_1}の ことを。$
+## LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer2::
+3e9957a55c8357fe	{STR_VAR_1}の だいファン なんだ。\n
+f908811d82586fab	{STR_VAR_1}を どう おもう?$
+## LilycoveCity_PokemonTrainerFanClub_Text_HowStrongRateTrainer::
+670eea701366921f	{STR_VAR_1}の つよさは\n
+e7d0e4ded0d468fd	100てん まんてんで なんてん?$
+## LilycoveCity_PokemonTrainerFanClub_Text_HaveYouForgottenTrainer2::
+268cf071ef346681	すっかり わすれちゃったの?\n
+c77ddd7e644c0d75	{STR_VAR_1}の ことを。$
+## LilycoveCity_PokemonTrainerFanClub_Text_YouShouldMeetTrainer::
+399e8d1907ca4f8e	へえ そうなんだ!\n
+7d977cb95af256d9	こんど {STR_VAR_1}に あってみなよ。\l
+cd93fb3fbc933c1b	きっと きみも ファンに なるよ!$
+## LilycoveCity_PokemonTrainerFanClub_Text_ThankYouIllShareThisInfo::
+6e45038040c462a0	なるほど なるほど。\p
+5346d2e5472ecb46	ありがとう!\n
+0193d3a79ca526e3	とても さんこうに なったよ。\p
+b30b19d6a5f9dae2	この じょうほう ほかの\n
+e94a78e0ef728ac2	{STR_VAR_1}ファンと はなしあって みるね。$
+## LilycoveCity_PokemonTrainerFanClub_HopeYouCatchTVSpecial::
+d839efe5e34c6d14	もうすぐ テレビで\n
+6d49fae42a676788	{STR_VAR_1}の とくばんを やるんだ。\p
+a0295c7d23cb9f91	ぜひ みてね!$
+## gTVTrainerFanClubSpecialText00::
+5af24beddc75e045	トレーナー ファンクラブ\n
+d05ccb9dae5e5281	{STR_VAR_1} スペシャル!\p
+2ba62d0e0ccf1afd	これは ホウエンじゅうの\n
+202df1c8839e2bdc	{STR_VAR_1}ファンに おくる とくばんだ!\p
+c43c374cf852908c	きょうの テーマは「みんなは\n
+a2d0bf3d388072e3	{STR_VAR_1}を どう おもってる?」\p
+4df9b4139c714a9a	{STR_VAR_2}に きいて みました。\n
+e32c2cbc6ae8a829	トレーナーの だいひょう として!\p
+d87b109b50bcdbd3	「ひとことで いうと\n
+1ed8c60c8fd919ad	{STR_VAR_1}は どんな ひと?」\p
+7da98f5212398944	こたえは「{STR_VAR_3}」\p
+c19c0f4b7f3eccf6	さすが {STR_VAR_2}!\n
+847047e87eb6bfe3	するどい いけん ですね!\p
+58423a10927a22cd	「{STR_VAR_3} {STR_VAR_1}」\n
+7c5e66e2e9096546	なんとも いい ひびき です!\p
+63da3a5d26265b45	{STR_VAR_2}には {STR_VAR_1}の\n
+05b9aaa25eb3f1bc	つよさも 0から 100で つけて もらいました。$
+## gTVTrainerFanClubSpecialText01::
+e9c43448cd5f77eb	なんと {STR_VAR_3}てん でした!\n
+a435f6409132b26c	とても たかい てんすう です!\p
+f0d4e5aa2194fc11	{STR_VAR_2}は きっと\n
+120439bd34bbee30	{STR_VAR_1}を たかく かってますね。$
+## gTVTrainerFanClubSpecialText02::
+03ea35da5ab77693	なんと {STR_VAR_3}てん でした!\n
+c2a8fb959a002fc2	なかなか いい てんすう です。\p
+1c5c9ecbba46ec05	{STR_VAR_2}に とって\n
+7166a317a1ed87c5	{STR_VAR_1}は ライバル なんですね。$
+## gTVTrainerFanClubSpecialText03::
+6f1f07c545e0fe1e	なんと {STR_VAR_3}てん でした!\n
+377cbfef87a737a3	ちょっと ひくい てんすう ですね。\p
+a0dcf31e728beeb2	{STR_VAR_2}に とって\n
+64355385b501e6fd	{STR_VAR_1}は ただの おとも なんですね。$
+## gTVTrainerFanClubSpecialText04::
+6862e190697f01c3	なんと {STR_VAR_3}てん でした!\n
+274525705b1c23cf	ひどい てんすう です。\p
+cde2ee3cd938275a	{STR_VAR_2}に とって\n
+d65069e170599079	{STR_VAR_1}は てした なんですね。$
+## gTVTrainerFanClubSpecialText05::
+be93296a57602cd4	いかが でしたか みなさん!\p
+206a20f7fbf57582	みんな あたらしい はっけんが\n
+ef15bb7a819664e2	あったよね {STR_VAR_1}に ついて。\p
+4b43ce259c22f28b	さいごに しめくくりとして\n
+29a93831ecbc7653	{STR_VAR_2}の ことばを おくります。\p
+e25033974e41dd87	{STR_VAR_3} {STR_VAR_1}!$
+## gTVNameRaterText00::
+2e9183f700754406	さて おまちかね…\n
+fbd68f718c45a15c	せいめい はんだんし ショー!\p
+7a0e8002c52439d1	きみが つけた ニックネームから\n
+3ec49fb2ce7a68bb	ポケモンの うんせいを うらなおう。\p
+c4570ab8bdda5f99	わしが さずけるのは アドバイス。\n
+c86b6b4e1a079b68	それも やくに たつ アドバイスじゃ。\p
+134c698674a3498c	きょう うらなう ニックネームは\n
+63dacc00462bca9c	{STR_VAR_3}! {STR_VAR_1}の\l
+0e04f5f864de4f95	ポケモン {STR_VAR_2}の なまえじゃ。\p
+e24be91b506e98ae	ふむふむ…\p
+dc959d91c2fdaa06	ふーむ…\n
+a624e07e6a512cb4	この ニックネームは…$
+## gTVNameRaterText01::
+c90b88b5bd7bf4f9	さまざまな さいのうを ひめた\n
+2fc37c38925bccbc	ニックネーム じゃな。\p
+a67985903cf34333	この トレーナーには ゆうきを だして\n
+206192a98334bb82	いろいろ ちょうせん してほしい。$
+## gTVNameRaterText02::
+154a3609b4f01cdd	トレーナーの なまえと みごとに あう\n
+e3e034dedcabdecb	ニックネーム じゃ。 {STR_VAR_1}とな。\p
+37398c04ee313a87	いきの あった すばらしい コンビに\n
+03e44f7d719fc48e	なれる ことを しめして おる。$
+## gTVNameRaterText03::
+98d3c4e403d23b37	こせいてきな ポケモンに ふさわしい\n
+399f953ea57d1cd3	ニックネーム じゃ!\p
+96c5d930216a6a50	ちゃんと そだてれば この ポケモンの\n
+dd83b23fe9282b86	こせいは おおいに はなひらくぞ!$
+## gTVNameRaterText04::
+03ebcbc61c18546f	ポケモンの やさしく おもいやりの ある\n
+9d1662da2203c9d1	ところを そだてる ニックネーム じゃ。\p
+4a9406fe4f2d4563	ちゃんと そだてれば この ポケモンは\n
+2d26e63a39a823e2	あたたかい こころを みせるぞ!$
+## gTVNameRaterText05::
+93eb2828aef7af67	さきざきの いだいさを かんじさせる\n
+dabd83ce1aa258b1	とても よい ニックネーム じゃ。\p
+78a9130f9eb77ea0	この ポケモンの みらいが\n
+b8d9af10ff379b48	たのしみで ならんわい。$
+## gTVNameRaterText06::
+1314c0c270a18e11	ポケモンが げんきに そだつ\n
+d383a485cbf03ca7	よい ニックネーム じゃ!\p
+d69bc0dc53009a40	この ポケモンは ながく ながく\n
+2b931170cafa5191	じょうぶで いられる はずじゃ。$
+## gTVNameRaterText07::
+02c292ac70288a39	ポケモンが かっぱつに なる\n
+89d2a3a0c7221efc	よい ニックネーム じゃ!\p
+6084a18213470db4	この ポケモンは バトルで\n
+6f7dae0041f617ab	おおいに かつやく する じゃろう。$
+## gTVNameRaterText08::
+480a64a9027ecd63	ポケモンが みりょくてきに なる\n
+8daeb648a9075db7	すてきな ニックネーム じゃ!\p
+98c216189a1bcd91	この ポケモンは きっと コンテストで\n
+f988d8f3e71f4143	みんなを とりこに する じゃろう。$
+## gTVNameRaterText09::
+54190e672c5f387b	{STR_VAR_1}という なまえの\n
+a291f323e855c640	ねっこは「{STR_VAR_3}」の もじじゃ。\p
+9b9d844eb8112330	それを さいしょの もじ\n
+fa77858a8677be52	「{STR_VAR_2}」が ささえて\l
+6f7368454e65beed	どっしりとした そんざいかんが ある。$
+## gTVNameRaterText10::
+0680002df8dea66d	{STR_VAR_1}という なまえは\n
+de0b01def6b5c22c	かたちが よくて ここちよい。\p
+698219ce506ef0b9	「{STR_VAR_2}」と\n
+1794fb82b94314eb	「{STR_VAR_3}」が じつに よいのう!$
+## gTVNameRaterText11::
+46b9dbd030b82d45	{STR_VAR_1}という なまえは\n
+72b9243cf72ab68d	すばらしい ながれが ある。\p
+1aae5e11379fb62b	さいしょの もじ「{STR_VAR_2}」から\n
+4b42cd1edd7244c3	「{STR_VAR_3}」への ながれが みごとじゃ。$
+## gTVNameRaterText12::
+f431426f705d77b4	ほかの よい ニックネームの れいも\n
+113169997627733c	みて みようかの。$
+## gTVNameRaterText13::
+e623112c761787d0	たとえば トレーナーの なまえ\n
+d82775b3fcd052aa	{STR_VAR_1}の いちぶを とると\l
+e87914bfc1861733	{STR_VAR_2}{STR_VAR_3}に なるぞ。$
+## gTVNameRaterText14::
+7ceceeb636d2efd6	{STR_VAR_2}{STR_VAR_3}も\n
+388a0f13bc5efa32	なかなか よいぞ。$
+## gTVNameRaterText15::
+21805aa9a987bbe3	ポケモンの しゅるいの なまえ\n
+9e5bbcc2f942789c	{STR_VAR_2}を もとに すれば\l
+bc9e07c7df34456d	{STR_VAR_1}{STR_VAR_3}が できる。$
+## gTVNameRaterText16::
+556525fbdb456dea	{STR_VAR_1}{STR_VAR_3}も\n
+217ea20129f98f46	よい ニックネーム じゃろう。$
+## gTVNameRaterText17::
+aa5d5fc88fcdee51	ぜったいに さけるべきなのは ほかの\n
+ae232c1957c4e415	ポケモンの しゅるいの なまえじゃ。\p
+09b687589b9cb4fa	たとえば
+0ff72d47b1dae4b4	 {STR_VAR_2}から\n{STR_VAR_1}{STR_VAR_3}と つける\l
+8133dac48fc9cb23	これは いかん。$
+## gTVNameRaterText18::
+dd9d2cb5e1a4df25	{STR_VAR_1}は なかなか\n
+1a83446b6e019cd0	よい ニックネーム じゃな。\p
+57badd20f1bdf888	トレーナーには これからも\n
+1dc577b1649fced0	{STR_VAR_1}を だいじに してほしい。\p
+6bc7e747224c950e	きょうの ばんぐみは ここまで。\n
+7ca5d158209a432d	また あおうぞ。$
+## gTVPokemonAnglerText00::
+220331344bee75cb	{STR_VAR_2} つりびと\p
+ff8bddd2ed79fe3e	アナウンサー: こんにちは! きょうは\n
+ef93bc04c658717e	{STR_VAR_2}つりの コツを ききます。\p
+bb85e1fba9d7486d	めいじん アドバイスを おねがいします。\n
+2c97af1d4e7b5a71	{STR_VAR_2}を つるには?\p
+af6a2e69e39e1f57	めいじん: ん? {STR_VAR_2}つりか?\n
+e1df3dcf88fd0580	そうだな がまんして まつ\l
+c3780e554b19aead	ことだ。 それが きほんだ。\p
+b981eff1e4b86559	あそこに {STR_VAR_1}が いるだろ?\n
+13465fb1f4115fd6	あの トレーナーが いい おてほんだ。\p
+725c9963af3cc347	あの トレーナーは もう\n
+6a06d61daf026e74	{STR_VAR_3}ひきも にげられてる。\p
+c6d2eec23d26a85e	だが {STR_VAR_1}は まつ。あきらめない。\n
+32cc387a34c58484	それが {STR_VAR_2}つりの おきてだ。\p
+eac45829f425b21d	アナウンサー: なるほど…\p
+24b98e8c969b1d6b	あっ! {STR_VAR_1}が ついに\n
+c302cef961188435	まぼろしの {STR_VAR_2}を つりあげた!\p
+fd268692799031b7	うれしさの あまり トレーナーは\n
+332afbaee000e655	なきだしそうです!\p
+99628a2b3915dd3c	あの よろこぶ かおを みたら\n
+62350555619887f0	わたしも つりに いきたく なりました!\p
+4db84c4daf3b2176	みなさんも これを きっかけに\n
+55ade1dc8ccbabe5	{STR_VAR_2}つりを してみては?\p
+653e64d5a0cb1432	それでは また つぎの ほうそうで!\n
+c44aff5e494588bb	みなさん よい つりを!$
+## gTVPokemonAnglerText01::
+46fb831589a811c7	{STR_VAR_2} つりびと\p
+e6a436ce3196f90c	アナウンサー: こんにちは! きょうは\n
+be52664c49109b70	{STR_VAR_2}つりの コツを ききます。\p
+91ccf47b04b60f8a	めいじん アドバイスを おねがいします。\n
+1a4e3f90a55ba905	{STR_VAR_2}を つるには?\p
+51bac8e7acb4b196	めいじん: ん? {STR_VAR_2}つりか?\n
+88d82f94b18f82a7	そうだな つりざおを\l
+e46149249a72ecd8	いきおいよく ふることだ!\p
+9b708b8d9d0a03b7	あそこに {STR_VAR_1}が いるだろ?\n
+3b4b786aed4986e5	あの さおさばきを みてみろ。\p
+e779eb4276b132a5	あの トレーナーは もう\n
+40ac2ab536141f10	{STR_VAR_3}れんぞくで つりあげてる。\p
+de402815846ccb58	アナウンサー: すごい!\n
+2c6159442aed4862	まるで あらしの ようです…\p
+71472ade117d4b7a	あれほどの わざを みたら\n
+165c3dfaf6e56db0	わたしも つりに いきたく なりました。\p
+dcff1695d0aa4eb7	みなさんも これを きっかけに\n
+0d987a32695c9e49	{STR_VAR_2}つりを してみては?\p
+77df7df6ceb4523a	それでは また つぎの ほうそうで!\n
+4ee3c0383707d3f8	みなさん よい つりを!$
+## gTVPokemonTodayFailedText00::
+e9bb92d0146447d6	こんにちは!\p
+dd9ac7167895173a	「きょうの ポケモン」の じかんです!\p
+0caf6a2199cf1469	おねえさん: やっほー! みんな\n
+a91c4ab7a81df27f	きょうも げんき かな?\p
+35f37ea51d9eb202	きょうは {STR_VAR_1}の ポケモン\n
+c7cc0ec8910a1cb1	{STR_VAR_2}を みて いきます!\p
+1809f39d754333aa	おにいさん: そう! それを\n
+2f42e296a9eddb7f	やるんだよ!$
+## gTVPokemonTodayFailedText01::
+95027c5a1297b5c4	あっ!\n
+492dcbd17196b490	{STR_VAR_1}と いえば…\p
+d416b310ca351769	おねえさん ぼく その トレーナーを\n
+5c717da4721213b4	この めで みたんだよ!\p
+c542377e8f072bbe	おねえさん: えっ なにを みたの?\p
+1d4702d18bce3f1e	おにいさん: ぼく ようじで\n
+fb98238cc53e03d3	{STR_VAR_2}に いったんだ。\p
+ca74434f55cb2799	そのとき たまたま みかけたんだ。\n
+df5ef953e511ef69	{STR_VAR_1}が ポケモンの\l
+caaa57ebdf759daa	{STR_VAR_3}を つかまえようと してて…$
+## gTVPokemonTodayFailedText02::
+9fc98dd387d98f7e	その ポケモンに にげられちゃった!\p
+e09086a304e9858d	むだに した モンスターボールは\n
+08a96d23360675d4	なんと {STR_VAR_2}こ!\p
+ae946d28479610ec	ポケモンが にげたときの\n
+0f6417e2871e0203	{STR_VAR_1}の くやしそうな かお\l
+02e412e6cdbbd523	みせて あげたかったよ!$
+## gTVPokemonTodayFailedText03::
+808826fd3b511599	でも {STR_VAR_1}は しっぱいして\n
+1cacb93ae7fccf43	ポケモンを たおしちゃったんだ!\p
+c4f8326a0b1dee5c	むだに した モンスターボールは\n
+750f6ddc9cb1a2a6	なんと {STR_VAR_2}こ!\p
+edaa14c2c531d138	ポケモンが たおれたときの\n
+76441e3dce18aa35	{STR_VAR_1}の ぼうぜんとした かお\l
+84dc21a21e7d46c2	みせて あげたかったよ!$
+## gTVPokemonTodayFailedText04::
+660d5fa77e75be05	おねえさん: ちょっと!\n
+4aa36e085aa4b125	それは ひどいわ!\p
+b55ccda09815cbfb	ひとの ふこうを わらっちゃ\n
+1f7b71fbdeb7733b	だめでしょ!\p
+2943653cd12b373d	ああ {STR_VAR_1} かわいそう。\n
+749fbedb991685c6	ざんねん だったわね!\p
+ab6c5b952960e114	おにいさん: そうだね!\n
+423bc42badd22767	わらって ごめん。$
+## gTVPokemonTodayFailedText05::
+9ac4f00488382aa8	おねえさん: ぷぷぷ…\p
+1dbdb60101c2ea82	おにいさん: あっ!\n
+dfbe0a43671d3b2d	いま わらったでしょ!\p
+a06a13d44c3422bb	おねえさん: えっ?!\p
+7ac596272b770b22	わらって ないわよ!\n
+ce69455eff632e10	ほんとに わらって ないってば!\p
+dace9bf511b1f839	ああ {STR_VAR_1} かわいそう。\n
+58f16872f641cba6	ざんねん だったわね!\p
+547e042e97710422	おにいさん: …$
+## gTVPokemonTodayFailedText06::
+c3b23092bd10bb76	おねえさん: ふざけるのは おしまい!\n
+3e853b0c2d735a46	きょうの ポケモンを みてみましょう…\p
+495fd6805e09f02e	あれ?\n
+e740b31d22614da8	もう じかん なの?\p
+21342f8d7f0b8507	えーっ!\n
+46d134986636d34f	きょうは ポケモンを みられなかった!\p
+c6084af4899169ff	おにいさん: また つぎかい!\p
+ae9bf74ca1315867	おねえさん: ちょっと わたしを\n
+6e5a5dc6f249d30e	おいて おわらせないでよ!$
+## gTVPokemonTodaySuccessfulText00::
+9627fd700c1e6969	こんにちは!\p
+8a7497833a647109	「きょうの ポケモン」の じかんです!\p
+4a54f3fcf4f8ee51	おねえさん: やっほー! みんな\n
+f48dfbf705b3aaaa	きょうも げんき かな?\p
+181c864957204013	きょうは {STR_VAR_1}の ポケモン\n
+a434e72ef44d53a1	{STR_VAR_2}を みて いきます!\p
+0e813748b3e2a77b	おにいさん: そう! それを\n
+26ff1c73310c5a81	やるんだよ!$
+## gTVPokemonTodaySuccessfulText01::
+4d94a9be4cb913ef	おねえさん: {STR_VAR_1}が なづけた\n
+91b2512c131dfd72	{STR_VAR_2}の なは {STR_VAR_3}!\p
+774524a30ad8e75c	{STR_VAR_3}は とても だいじに\n
+81aa61e268dbfbb1	そだてられてる みたいね!$
+## gTVPokemonTodaySuccessfulText02::
+adc5bd7c4f524812	おにいさん: つかまえるのに なげた\n
+8680f2b4d2ad1e08	モンスターボールは {STR_VAR_3}こ!\p
+6d3ee221b1c89595	さいごは {STR_VAR_2} 1こで\n
+ef450c4f9436afcb	つかまえたんだ!$
+## gTVPokemonTodaySuccessfulText03::
+c67205a22cfa6473	おねえさん: そんなに かんたんに\n
+bb5d0476b6f35e5f	つかまる なんて うんめい だったのね\l
+079c4f8a057c0df1	{STR_VAR_1}と{STR_VAR_2}は!$
+## gTVPokemonTodaySuccessfulText04::
+25ff0e736fc8c0fd	おねえさん: わあ! すてきね!\p
+25542e6037975250	でも くろうして つかまえた\n
+8899329dc6017a39	ポケモンほど トレーナーに\l
+7a039f18bedf425c	あいされるって いうものね!$
+## gTVPokemonTodaySuccessfulText05::
+6221c1df9f82b96a	おねえさん: {STR_VAR_1}の\n{STR_VAR_2}は
+01a0219219a4e455	 きちょうな マスターボールで\l
+ce4cabce5c16a936	つかまえた おもいでの ポケモンなの!\p
+193960d0d5e1123d	おにいさん: うわあ! ちょう すごい!\p
+7403629f65a200e2	おねえさん: {STR_VAR_1}は よっぽど\n
+cdc83a3e22cb9e96	{STR_VAR_2}が ほしかったのね!$
+## gTVPokemonTodaySuccessfulText06::
+42b15fc87404a1c4	おにいさん: そして つけた なまえが\n
+30d036304b5758d1	{STR_VAR_2}に{STR_VAR_3}とは…\p
+9317c5b9433c5fdb	これで よく わかるね。\n
+a1fa1fa60104db2e	{STR_VAR_1}の トレーナー センスが!\p
+16ac0e18c0d7fa7a	おねえさん: わたしも そう おもう!$
+## gTVPokemonTodaySuccessfulText07::
+d4e7c9391734bef9	わたしなら その なまえを\n
+c3ecc05e21178c86	この {STR_VAR_3}みたいなのに つけるわ!\p
+1a311d496cb7871d	おにいさん: おお! あたらしい なにかが\n
+9999ac48b0e552e1	はじまる かもしれないね!$
+## gTVPokemonTodaySuccessfulText08::
+582048a054069a43	{STR_VAR_1}の {STR_VAR_2}?\n
+5fb35d5533b12ddc	ぴったり だと おもわない?\p
+2765dbc9dc387c4b	もじも ひびきも ぜんぶ\n
+9af27e3d58831118	ぴったり だよね ポケモンの\l
+5c7b722c7dd860fa	{STR_VAR_1}に!\p
+817956baf561b7c2	おにいさん: うん たしかに!$

@@ -1,0 +1,5890 @@
+[
+ {
+  "id": "5be41cc2abea5f00",
+  "translation": "{JPN}ポケモン ケーブルクラブへ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70f4ca9273e1769b",
+  "translation": "ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5754da643829090d",
+  "translation": "どの サービスを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64397923be2b096e",
+  "translation": "ごりよう なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7313edc04561145",
+  "translation": "{JPN}どの サービスを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fab7f0b8faaebd2f",
+  "translation": "ごりよう なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab82acc9709785b5",
+  "translation": "{JPN}つうしんケーブルを つかって\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea023e3efe7caec5",
+  "translation": "ほかの ひとと ポケモンを こうかんします$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f148d942ef5376f8",
+  "translation": "{JPN}つうしんケーブルを つかって\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "357640e1e6defa13",
+  "translation": "ほかの トレーナーと たいせんします$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1edc8416e99cdb34",
+  "translation": "{JPN}おわります$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec28c31fbc41507d",
+  "translation": "{JPN}ダブルバトルには ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d084cce80df3c59d",
+  "translation": "2ひき いじょう ひつようです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ecb674a6d5e4c2b",
+  "translation": "{JPN}こうかんするには ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48d9d749a0d1c63e",
+  "translation": "2ひき いじょう つれている ひつようが あります$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "352d135eb16a055e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のみを もった ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94904a944c27f2c7",
+  "translation": "こうかん できません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "350e4f5b87757a39",
+  "translation": "{JPN}しょうしょう おまちください\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53cb509011e363c4",
+  "translation": "… … Bボタン: キャンセル$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dac579de3bf6780f",
+  "translation": "{JPN}みんなの じゅんびが できたら…\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ed4109d11a7e362",
+  "translation": "Aボタン: けってい\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "514819b553050375",
+  "translation": "Bボタン: キャンセル$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "258e18c0c21b0d1b",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}にんで つうしんを はじめます\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1559d0a96b311d33",
+  "translation": "Aボタン: けってい\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3ad3f209d214c00",
+  "translation": "Bボタン: キャンセル$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cffa3a50e0a20cf2",
+  "translation": "{JPN}つうしん たいきちゅう…\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1825c1dcbcabffc0",
+  "translation": "… … Bボタン: キャンセル$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7298fc1a0d81459c",
+  "translation": "{JPN}はじめる まえに レポートを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61f0d7a0effa44cb",
+  "translation": "かきますが よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "545b0a6a19cee813",
+  "translation": "{JPN}どうぞ おはいりください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "667131769f836713",
+  "translation": "{JPN}では おへやへ ごあんない します$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4ed35024e799fa6",
+  "translation": "{JPN}じゅんびが できていない かたが います\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "525a8466977bcd60",
+  "translation": "みなさんの じゅんびが できてから\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d797cf4ed020c3a4",
+  "translation": "また おこしください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9918f8dd2a69e960",
+  "translation": "{JPN}つうしんエラーが おきました…\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5e08ea7eaf2f408",
+  "translation": "リセットして やりなおしてください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc13773b95c6ff44",
+  "translation": "{JPN}つうしん あいてと ちがうものを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2d06d6fc0d31e8c",
+  "translation": "えらんだ ようです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0618c8f62b018e7",
+  "translation": "{JPN}また おこしください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78d39778d73bb6b3",
+  "translation": "{JPN}さんかする にんずうが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e9d0cad7561b4ff",
+  "translation": "ただしく ありません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d84186f6ef7b637c",
+  "translation": "{JPN}シングルバトルは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f237ed7707e3044",
+  "translation": "{ENG}{STR_VAR_1}{JPN}にんでは あそべません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35533e909e66384d",
+  "translation": "{JPN}ダブルバトルは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d587f3ed07a6de0d",
+  "translation": "{ENG}{STR_VAR_1}{JPN}にんでは あそべません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b255ba3c1c856f2f",
+  "translation": "{JPN}この バトルモードは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4e4cdd67b7a50d2",
+  "translation": "4にん そろわないと あそべません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb3d1c8fa5bdf09e",
+  "translation": "{JPN}にんずうを たしかめて\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66935fd341669640",
+  "translation": "もういちど はじめてください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bc43866392d8d87",
+  "translation": "{JPN}へやを でると つうしんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "363a294e6397d64b",
+  "translation": "しゅうりょう します よろしいですか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "753659c845237045",
+  "translation": "{JPN}つうしんを しゅうりょう します…\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bad88275236d495b",
+  "translation": "へやの そとへ ごあんない しますので\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77333d719703be3e",
+  "translation": "しょうしょう おまちください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "294675c40f33d3df",
+  "translation": "{JPN}この トレーナーは いそがしくて\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67e137e0475b6830",
+  "translation": "きづいて いないようだ…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ea0050516e76a61",
+  "translation": "{JPN}やった! {ENG}{STR_VAR_1}{JPN}の\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "effc2ae1f819fc64",
+  "translation": "トレーナーカードを みせてもらった!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "551badf4ee084360",
+  "translation": "{JPN}やった! {ENG}{STR_VAR_1}{JPN}の\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c4d1e76e4207a06",
+  "translation": "トレーナーカードを みせてもらった!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8e849b217cd6cbf",
+  "translation": "{ENG}{STR_VAR_2}{JPN}の カードだ!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3937de9ea72f26bf",
+  "translation": "{JPN}せきに ついて たいせんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95f1f1f0c526a844",
+  "translation": "はじめてください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ed67ccf53927c21",
+  "translation": "{JPN}せきに ついて こうかんを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71f1379f78a4f480",
+  "translation": "はじめてください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eca126be54a9b05a",
+  "translation": "{JPN}ごりよう ありがとう ございました$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f4a111a78207d56",
+  "translation": "{JPN}トレーナーカードの データが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10ab473502c4bfe3",
+  "translation": "うわがき されます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "559f58695de0aabd",
+  "translation": "{JPN}また おこしください!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6133ca48b81c22e0",
+  "translation": "{JPN}たいへん もうしわけ ありません\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81d3252e58b467eb",
+  "translation": "とおく はなれた ちほうの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "348515c2d53d52d1",
+  "translation": "トレーナーとの こうかんは\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60923c300c7467c0",
+  "translation": "まだ じゅんびちゅう なのです…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4bed98cc575e4a3",
+  "translation": "{JPN}あいての トレーナーの じゅんびが まだです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "756d3749760c2261",
+  "translation": "{JPN}つれていけない ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f584bd8a40148fda",
+  "translation": "すくなくとも 1ぴき います$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "164736b18115074c",
+  "translation": "{JPN}ワイヤレスアダプタが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc37609e049eb6af",
+  "translation": "ただしく せつぞく されていません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b79dd4d68d2cc445",
+  "translation": "{JPN}さんかする かたは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9594196b61df4bd4",
+  "translation": "うけつけまで おこしください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "953b37e89e396904",
+  "translation": "{JPN}こんにちは!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f01b8fecf5d368c",
+  "translation": "{JPN}しょうしょう おまちください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b95342b6b291fb64",
+  "translation": "{JPN}ここでは ほかの トレーナーと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56c5ed4cf709c56a",
+  "translation": "ポケモンを こうかん できます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69182b8f3443653b",
+  "translation": "{JPN}ここでは ともだちと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9caaf2f5d05278e4",
+  "translation": "たいせん できます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cd07860bea17d9c",
+  "translation": "{JPN}2から5にんの トレーナーで いっしょに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee2339235f87e0cf",
+  "translation": "きのみパウダーを つくれます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f9175052506afc1",
+  "translation": "{JPN}ワイヤレス クラブでの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f0d85939803eca2",
+  "translation": "あそびかたを せつめいします$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "438040da3d73e9c7",
+  "translation": "{JPN}えらんだ メニューを とりけします$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "492bd9cd477e4ba9",
+  "translation": "{JPN}どちらの しょうぶに しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b727de00d496d201",
+  "translation": "{JPN}ひとつ まえに もどります$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d71a77903cad1249",
+  "translation": "{JPN}きのみマッシャーを つかうには\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9982cf07b557570c",
+  "translation": "きのみが 1こ いじょう ひつようです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8466f863b8773f15",
+  "translation": "{JPN}ユニオンルームに はいるには\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af79a27738fc596c",
+  "translation": "ポケモンが 2ひき いじょう ひつようです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8de579a79c64a261",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}のみを もった ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c06a3a0f3d2108fd",
+  "translation": "ユニオンルームに はいれません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76b9ca9d40a34c8a",
+  "translation": "{JPN}ここは ポケモン ワイヤレスクラブの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64e29db7b428c148",
+  "translation": "ユニオンルームです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbb68912c6152044",
+  "translation": "ざんねんですが ワイヤレスアダプタが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a43880b2404667b3",
+  "translation": "ただしく せつぞく されていません\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba118c80163ff12c",
+  "translation": "また おこしください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "059ae6a7142aa521",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いま\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "372941a67d61ba5f",
+  "translation": "あそんでいる ところの ようだ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "920ceb876454ac1e",
+  "translation": "がんばれ!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0f7d4a2e3978387",
+  "translation": "{JPN}よければ ゲームの ルールを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68d8ac08e3e27467",
+  "translation": "せつめい しますよ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a3efd5ab4f57d7d",
+  "translation": "どの ゲームを せつめい しましょう?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47fa35c1d7d7b8a7",
+  "translation": "{JPN}「ポケモンなわとび」\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce3a98db1b542ecf",
+  "translation": "Aボタンで ポケモンに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0d868a5d3eb3559",
+  "translation": "つるのムチの なわを とばせます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee9b4ca2541de133",
+  "translation": "さんか できるのは たかさ 70センチ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a0f76f0b07e6ecd",
+  "translation": "いかの ちいさな ポケモン だけです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bef8321e69a30831",
+  "translation": "およぐ もぐる とぶ しか できない\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aeb4396a52f9c3d2",
+  "translation": "ポケモンは ジャンプが にがてです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ec8407c56099fea",
+  "translation": "なので そういう ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bc8fba134e40774",
+  "translation": "さんか できません\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6306c27d30732391",
+  "translation": "みんなで タイミングを あわせて とぶと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "694402d46a286348",
+  "translation": "いいことが ありますよ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a2cc7140cff927e",
+  "translation": "{JPN}「ドードリオの きのみどり」\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0143ad3f5d8ee609",
+  "translation": "ドードリオの 3つの あたまで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8006916dd3d390d5",
+  "translation": "おちてくる きのみを キャッチします\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "131175e59ff75d32",
+  "translation": "じゅうじキーの みぎ うえ ひだりで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fe4f3ecd179d103",
+  "translation": "{PLUS} あたまを うごかします\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bef121d1779f3e5",
+  "translation": "この ゲームで あそぶには\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46dfb9d59d8e3443",
+  "translation": "ドードリオが ひつようです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6e154d42e4aa541",
+  "translation": "{JPN}ゲームで あそびたいなら\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d67750bae3e30b2",
+  "translation": "となりの おとこのひとに はなしてね$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5652bebaf2b4ead2",
+  "translation": "{JPN}やあ いらっしゃい!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a00715b125e4306b",
+  "translation": "ワイヤレス つうしんシステムで\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f268f6adcb0dcc56",
+  "translation": "ゲームが あそべるよ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2cb907ff035ff033",
+  "translation": "ちょっとだけ まってて くれるかい?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "492754cf61d8438b",
+  "translation": "{JPN}よし また きてくれよな!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26d8a857bfb815f2",
+  "translation": "{JPN}ワイヤレスアダプタが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23062554873e0e5d",
+  "translation": "つながって ないぞ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "710b77226309ef9e",
+  "translation": "つないでから また きてくれ!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ff572fb1bf568e0",
+  "translation": "{JPN}よし! どの ゲームで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d3ad6846d5288ed",
+  "translation": "あそびたいんだ?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "109dd5521d9bfaa8",
+  "translation": "{JPN}どの ポケモンで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4dce8b3c432c2695",
+  "translation": "さんか する?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37b839c7f7ae427a",
+  "translation": "{JPN}よし じゅんび オーケーだ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "40adca12ae6209e0",
+  "translation": "ほかの みんなに まけるなよ!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51ff3aa63c4ccca8",
+  "translation": "{JPN}きょうは けえるのか?\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24894a9e385c442b",
+  "translation": "またこいよ!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eac40d1bda1c4bed",
+  "translation": "{JPN}さんか できる ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73308ef09e3c2648",
+  "translation": "もってない みたいだな…\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cb508bf5617dfa9",
+  "translation": "どんな ポケモンが さんか できるか\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ce1fe691cd84926",
+  "translation": "せつめい しようか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4c55b9331ee3d21",
+  "translation": "{JPN}「ポケモンなわとび」に でられるのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f01b8d1d6d8fa773",
+  "translation": "70センチ くらいまでの ポケモンだ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3821f72b7fc7b221",
+  "translation": "でられないのは ジャンプが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80c9dfd4fec89aab",
+  "translation": "できない ポケモンだな\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35d0e98c29e012ab",
+  "translation": "ほら およぐ もぐる とぶ しか\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03c1c28ed9865ab9",
+  "translation": "できない ポケモン とかさ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e677f6165fad78e",
+  "translation": "おぼえておくのは それだけだ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52e4f394ef06c23e",
+  "translation": "{JPN}「ドードリオの きのみどり」…\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98be0fd35f751af8",
+  "translation": "まあ なまえの とおりさ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3728b52dfe03898f",
+  "translation": "この ゲームで あそぶには\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f062d0ec77a60703",
+  "translation": "ドードリオが いないと だめだ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e19afef34ba2d64",
+  "translation": "{JPN}もういちど はじめから\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c73ccbabedba894c",
+  "translation": "やりなおして みて くれ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1da2a7f8ffc034d",
+  "translation": "{JPN}ポケモン ワイヤレスクラブ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0d01fe2595aef94",
+  "translation": "ダイレクトコーナーへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6dcf172c9c3ad16d",
+  "translation": "ここでは ともだちと ちょくせつ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35813bab239cfc41",
+  "translation": "あそぶことが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "241532bee651d889",
+  "translation": "どちらの へやに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8239fdf9c115517",
+  "translation": "はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3567b12c4e5f3d82",
+  "translation": "{JPN}ポケモンを こうかん しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4c10cd5a544fc24",
+  "translation": "{JPN}どの バトルモードで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24b9fe0e426042bb",
+  "translation": "あそびますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71f0b477d2284b51",
+  "translation": "{JPN}きのみマッシャーを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f60777ac73aec2a1",
+  "translation": "ごりよう なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69557963de0ce84b",
+  "translation": "{JPN}バトルモードは 3しゅるい あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "306aa67195c2075e",
+  "translation": "シングルバトルは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce694f3b51b14c06",
+  "translation": "1ぴき いじょう もった 2にんで たたかいます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8cc7901d54d9a0f",
+  "translation": "それぞれ 1かいに 1ぴきずつ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fb6201408860e2e",
+  "translation": "ポケモンを たたかわせます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8267d6aeccaad1bc",
+  "translation": "ダブルバトルは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07add5bd3f9129c0",
+  "translation": "2ひき いじょう もった 2にんで たたかいます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a85ab9b86dafa951",
+  "translation": "それぞれ 1かいに 2ひきずつ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52ef5247ec13a7bc",
+  "translation": "ポケモンを くりだします\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64c9a70f2589c266",
+  "translation": "マルチバトルは ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d58b407b693947ae",
+  "translation": "1ぴき いじょう もった 4にんで たたかいます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b08eea4a3312ff3b",
+  "translation": "それぞれ 1かいに 1ぴきずつ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4c6d2cf41684f2e",
+  "translation": "ポケモンを たたかわせます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fafbd50c3666972",
+  "translation": "{JPN}2にんの うち どちらが リーダーに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67e5c4f082cb7aa9",
+  "translation": "なるか きめてください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7132f76a2c7e577",
+  "translation": "もう ひとりは そのあと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72514d2a4e165b0a",
+  "translation": "「グループにはいる」を えらんでください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdb4b64f7959c356",
+  "translation": "{JPN}4にんの うち だれが リーダーに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "386b32eacad53fca",
+  "translation": "なるか きめてください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "473a6c13f206036f",
+  "translation": "ほかの ひとは そのあと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd7adc042206e8f4",
+  "translation": "「グループにはいる」を えらんでください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3cabcac02fa059e",
+  "translation": "{JPN}だれが リーダーに なるか\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d96b1ae737ff9b3",
+  "translation": "きめてください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5039b9a4192d167",
+  "translation": "ほかの ひとは そのあと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f5a2c1538442fc3",
+  "translation": "「グループにはいる」を えらんでください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87dfa52cafc1ee41",
+  "translation": "{JPN}ポケモン ワイヤレスクラブ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83b8bd3999b5fe97",
+  "translation": "ユニオンルームへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d272f5fdc3d0d170",
+  "translation": "ここでは しらない ひとも ふくめ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea01c679ecc59697",
+  "translation": "ほかの トレーナーと\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f58165bf87432c9",
+  "translation": "ちょくせつ あそぶことが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29743dcbca079d61",
+  "translation": "ルームに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "461516eec5c1f8cc",
+  "translation": "{JPN}ユニオンルームに いるのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db3357af189a7ebd",
+  "translation": "ちかくで おなじく ルームに\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9ca703433612985f",
+  "translation": "はいった プレイヤーです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3242bee05375fa04",
+  "translation": "ここでは あいさつ など\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de31a08962b57f38",
+  "translation": "いろいろな ことが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "144899b7219c83a9",
+  "translation": "レベル30までの ポケモン 2ひきで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4706dd687cc3cbae",
+  "translation": "1たい1の たいせんが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4d7759b923c6e4e",
+  "translation": "2から5にんで チャットに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "724350ee95b8d6bb",
+  "translation": "さんか することも できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96fad7f8e6dd5c7a",
+  "translation": "また こうかんに だす ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de2801210f68571c",
+  "translation": "とうろく することも できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c79220d96ca42723",
+  "translation": "ルームに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a9b092ee0566a98",
+  "translation": "{JPN}ユニオンルームで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b221aadd936e811",
+  "translation": "たのしんで くださいね$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51f2cfc90d149af2",
+  "translation": "{JPN}こんにちは!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97f42513e209e94a",
+  "translation": "わたしは テアラと いいます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67e407c546ccae11",
+  "translation": "ここに いらっしゃるのは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b67861e06e918f7",
+  "translation": "はじめて ですね\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e635e58da00e19d",
+  "translation": "ワイヤレス つうしんシステムの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e238191cb755acda",
+  "translation": "しくみを ごあんない します\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bca613b166ff5855",
+  "translation": "まずは この ポケモンセンターの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45c93023c0283e33",
+  "translation": "この フロアを ごあんない しますね\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c890079f406bbeb2",
+  "translation": "こちらへ どうぞ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e655303d66af9dd",
+  "translation": "{JPN}この いちばん うえの かいには\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6b3d037444a7fe1",
+  "translation": "へやが ふたつ あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "572cd38d71ac4e5d",
+  "translation": "まず ひだりの へやは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d29a9de37319cb5f",
+  "translation": "ユニオンルームです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4209d0ed20d7390",
+  "translation": "ちかくで おなじく ユニオンルームに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2900dec7e5d20bff",
+  "translation": "はいった トレーナーと\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c77f607318abd8fe",
+  "translation": "つうしん できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9948ac47977a33d5",
+  "translation": "その ひとたちと チャットや\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "428aa9841c1054d9",
+  "translation": "たいせん こうかんが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "725904399e641efa",
+  "translation": "つぎに みぎの へやは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df177fe4ca6da3d3",
+  "translation": "ダイレクトコーナーです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d900309d0f5b07bb",
+  "translation": "この へやでは ともだちと ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcf7e9c0e9410e5d",
+  "translation": "こうかんや たいせんが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64b55836f6618a4c",
+  "translation": "ワイヤレスアダプタが つながって\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a740aae62b9ff7f4",
+  "translation": "いなくても つうしんケーブルで\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a81c754539ee07ba",
+  "translation": "つうしん できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "015d7bb24d0964ea",
+  "translation": "その ばあいは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9cc7493ae38305a9",
+  "translation": "ダイレクトコーナーへ どうぞ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a6a9b1d91db2970",
+  "translation": "ワイヤレス つうしんシステムを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab303596f5313587",
+  "translation": "たのしんで くださいね$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d6349abf75cc0181",
+  "translation": "{JPN}こんにちは {ENG}{PLAYER}{JPN}さん!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f094f9f3e20c94df",
+  "translation": "ポケモンセンター 2かい かかりの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "751ef26ed43baf37",
+  "translation": "テアラです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c24a6b348d39839",
+  "translation": "つうしんの ことで なにか\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c59fdc968183076",
+  "translation": "ききたい ことが ありますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f60196c88af4ac54",
+  "translation": "{JPN}ポケモン ワイヤレスクラブの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c52a48a49d20424",
+  "translation": "しくみを せつめい しますね\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26964d4a6b2c9432",
+  "translation": "この いちばん うえの かいには\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c92913bc3a115d6",
+  "translation": "へやが ふたつ あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d428bd24c03e0ff",
+  "translation": "まず ひだりの へやは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ce0d02783ca37e6",
+  "translation": "ユニオンルームです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a848b7eb97c66ef0",
+  "translation": "ちかくで おなじく ユニオンルームに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "084c67533d705e2d",
+  "translation": "はいった トレーナーと\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3001bb88f5c11d9",
+  "translation": "つうしん できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47a956c4d9e6d8ca",
+  "translation": "その ひとたちと チャットや\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b85914abfebecd60",
+  "translation": "たいせん こうかんが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a46267f2471a400",
+  "translation": "つぎに みぎの へやは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0b45c0be6b21d75",
+  "translation": "ダイレクトコーナーです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f42a04dfac733d9",
+  "translation": "この へやでは ともだちと ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f142beea51885972",
+  "translation": "こうかんや たいせんが できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43132aaab6c22bf6",
+  "translation": "ユニオンルームや ダイレクトコーナーで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51262f5a92001f7d",
+  "translation": "ともだちが みつからない\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28792a7c87562f8f",
+  "translation": "ことも あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11838a0088d97bf3",
+  "translation": "そのときは ともだちの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "032c39c97f3be49a",
+  "translation": "ちかくに よってください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a3e3624c8e81979",
+  "translation": "ワイヤレスアダプタが つながって\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "208944f13fc85854",
+  "translation": "いなくても つうしんケーブルで\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a81c17ecd4ead46d",
+  "translation": "つうしん できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3eb6590483cab08",
+  "translation": "その ばあいは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f32fcf2007f088e3",
+  "translation": "ダイレクトコーナーへ どうぞ\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c91e969854fd959",
+  "translation": "ワイヤレス つうしんシステムを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b6f40ab526b8820",
+  "translation": "たのしんで くださいね$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e839effadac5fe7",
+  "translation": "{JPN}ワイヤレス つうしんシステムを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19d6155057b48285",
+  "translation": "たのしんで くださいね$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b71b6a7fd66490a7",
+  "translation": "{JPN}たいへん もうしわけ ありません\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59a4c73ff3f738e6",
+  "translation": "ポケモン ワイヤレスクラブは\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "889d72b47e19a493",
+  "translation": "ただいま ちょうせいちゅう です$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be1934f2f671f90b",
+  "translation": "{JPN}ちょうせいちゅうの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4edf29e1477226b",
+  "translation": "ようだ…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2240028a147432eb",
+  "translation": "{JPN}こんにちは!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6c84f26f6fc8d48",
+  "translation": "こちらは ポケモンコンテストの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "360330cdf975c8d1",
+  "translation": "うけつけ です\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62f6cdd746d1e818",
+  "translation": "あら? まだ {ENG}{POKEBLOCK}{JPN}ケースを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dae72a157577e048",
+  "translation": "おもちでは ない ようですね\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33c6cf6ff76abf39",
+  "translation": "それでは こちらを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f7a7813f9399f39",
+  "translation": "さしあげます!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "490c02d0740ae875",
+  "translation": "{JPN}さて それでは あらためまして…\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b50b68fba498873e",
+  "translation": "…\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdfa83f3c775792b",
+  "translation": "こんにちは!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fe0593503c08635",
+  "translation": "こちらは ポケモンコンテストの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a53e432a6a443b4",
+  "translation": "うけつけ です$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7abdcd646c24e17a",
+  "translation": "{JPN}こんにちは!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5650b398492590a",
+  "translation": "こちらは ポケモンコンテストの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b91c896906778a6",
+  "translation": "うけつけ です$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a8b458261717892",
+  "translation": "{JPN}こんにちは!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3c598bf76a4ac40",
+  "translation": "こちらは 4にんで あそぶ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b82bb924ee81b9b",
+  "translation": "ポケモンコンテスト せんようの うけつけです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e45714deb726bbbf",
+  "translation": "{JPN}あなたの ポケモンを コンテストに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f61b62c38354e07d",
+  "translation": "さんか させますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "861064ba46934af6",
+  "translation": "{JPN}なにに ついて おききに なりますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15a9049521c21fa9",
+  "translation": "{JPN}ポケモンコンテストでは 4にんの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdd3c802de69637f",
+  "translation": "トレーナーが 1ぴきずつ ポケモンを だし\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5fc6fde773cfa9c",
+  "translation": "しんさで きそいあいます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ac3a89371e7c54f",
+  "translation": "コンテストの しんさは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65e3baccf08f6b59",
+  "translation": "1じしんさと 2じしんさの 2だんかいです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a6e655fea2390b4",
+  "translation": "1じしんさは かんきゃくによる\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9abeab091f302975",
+  "translation": "にんき とうひょう です\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebbd0b5c5477e513",
+  "translation": "2じしんさでは ポケモンが わざを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb53154e006220c2",
+  "translation": "つかって アピールします\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8bea314dcb91d10",
+  "translation": "よく かんがえて アピールし\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfdcbd267ab330ef",
+  "translation": "しんさいんの ちゅうもくを あつめ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a181335ceafd2fe2",
+  "translation": "かんきゃくを もりあげましょう\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31511ddc71764732",
+  "translation": "めだつように がんばってください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a366a8bb2a11148",
+  "translation": "1じしんさと 2じしんさの てんすうは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa5bb3b46b7c4367",
+  "translation": "さいごに あわせられます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1860b28c0245e76",
+  "translation": "いちばん たかい てんすうを とった\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78dc225bfe9ca911",
+  "translation": "ポケモンが ゆうしょう です$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e73c38f2c10b19ff",
+  "translation": "{JPN}コンテストは 5しゅるい あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d213f169db833d78",
+  "translation": "かっこよさ うつくしさ かわいさ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35dc038593a0671f",
+  "translation": "かしこさ たくましさの 5つです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7ad368d5367c508",
+  "translation": "さんか させる ポケモンに あった\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e30e14cad5332539",
+  "translation": "コンテストを えらんでください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d43fef2ca06ec54",
+  "translation": "{JPN}ポケモンコンテストには\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1e11c5fcb88a266",
+  "translation": "4つの ランクが あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a90869fab41c62fe",
+  "translation": "ノーマル スーパー ハイパー マスター\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b28f3108f871ccd",
+  "translation": "の 4つの ランクです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a0fd35b7ddbd588",
+  "translation": "ノーマルランクには どんな ポケモンでも\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ae15d85082e6f4e",
+  "translation": "さんか できます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dcda2e16adb4a81",
+  "translation": "ノーマルランクで ゆうしょうした\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d6218c500303c0b",
+  "translation": "ポケモンは おなじ ぶもんの\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87dee36c10e3ff44",
+  "translation": "スーパーランクに すすめます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71e97fd7fbaed112",
+  "translation": "おなじように スーパーランクで かてば\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7f1468a7398ca43",
+  "translation": "ハイパーランクへ すすめ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "885371b7a756c1ad",
+  "translation": "ハイパーランクで かてば おなじ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "484f2b600f371cee",
+  "translation": "ぶもんの マスターランクへ すすめます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a86f76402f207415",
+  "translation": "マスターランクで ゆうしょうした\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee9f3cb1e6f4c630",
+  "translation": "ポケモンは マスターランクに\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d6890c59d429464f",
+  "translation": "なんどでも さんか できます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1fbea95ac4366d01",
+  "translation": "{JPN}どの ランクに さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b94bd0cfff869f8",
+  "translation": "{JPN}どの コンテストに さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1215eb4bebbceb2b",
+  "translation": "{JPN}どの ポケモンで さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31e6d64f25c7e822",
+  "translation": "{JPN}もうしわけ ありませんが その ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d4da1930b806adf",
+  "translation": "まだ この ランクに さんかする\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e098873deeca7c95",
+  "translation": "しかくが ありません…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af068ac02e73462a",
+  "translation": "{JPN}もうしわけ ありませんが タマゴは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8902f14d0e3f1463",
+  "translation": "ポケモンコンテストに でられません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5175d4d83a1364a2",
+  "translation": "{JPN}その ポケモンは コンテストに でられる\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ecb8998ae64efdd",
+  "translation": "じょうたいでは ない ようです…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59371d58d35acab8",
+  "translation": "{JPN}あら その リボンは…\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "205b1f25e1d96736",
+  "translation": "その ポケモンは まえに この\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0150d93395bc1001",
+  "translation": "コンテストで かったこと ありますよね?\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12b2b768237b6971",
+  "translation": "それでも この コンテストに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0841571f02dc3626",
+  "translation": "さんか させますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89e94aa76644db95",
+  "translation": "{JPN}この ポケモンで さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51bca72e761bde68",
+  "translation": "{JPN}では あなたの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7dbd1de236e14f19",
+  "translation": "この コンテストに とうろく します\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f486c19b17b8aa8",
+  "translation": "あなたの ポケモンは 4ばんです\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2aa20089c90916b0",
+  "translation": "まもなく コンテストが はじまります$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dec388aacd41b9e",
+  "translation": "{JPN}こちらから おはいりください\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d832fec20dcf0626",
+  "translation": "がんばって くださいね!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3c429ac353dc36d",
+  "translation": "{JPN}おめでとう ございます! あなたの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "597ea0417b0d85c3",
+  "translation": "ポケモンが ゆうしょう です!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c7f2143ee8fa25c",
+  "translation": "しょうひんは こちらに ございます\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de07f07aacea18f7",
+  "translation": "さあ どうぞ こちらへ!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baf6aed441773982",
+  "translation": "{JPN}しょうひんは のちほど\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9d0ca502d40f1c5",
+  "translation": "うけとりに きてください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "101659903768cedd",
+  "translation": "{JPN}しかい: こんにちは! これより\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8f678afb96afb53",
+  "translation": "{ENG}{STR_VAR_3}{JPN}ランクの ポケモン\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a80b3834e6cd4a3d",
+  "translation": "{ENG}{STR_VAR_2}{JPN}を はじめます!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f669b4f72285208",
+  "translation": "さんかする トレーナーと ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30b85d20a71a224b",
+  "translation": "ごしょうかい しましょう!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2aced3f5003a242",
+  "translation": "{JPN}しかい: こんにちは! これより\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "509445994f754936",
+  "translation": "4にん つうしんの ポケモン\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02cbdb9ce8851e6c",
+  "translation": "{ENG}{STR_VAR_2}{JPN}を はじめます!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c3ab5391c6874e1",
+  "translation": "さんかする トレーナーと ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f333fc5fd608c09",
+  "translation": "ごしょうかい しましょう!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e92e7febf19f519",
+  "translation": "{JPN}しかい: エントリーナンバー {ENG}{STR_VAR_2}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1bbe836263b2c760",
+  "translation": "{ENG}{STR_VAR_1}{JPN}の {ENG}{STR_VAR_3}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e3c4271c4a0dd30",
+  "translation": "{JPN}しかい: 4ひきの ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "581bb86e4aa958d5",
+  "translation": "でそろいました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10ec79bd26d8ead9",
+  "translation": "それでは 1じしんさです!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3002e51fa0d7f7d4",
+  "translation": "かんきゃくの みなさんに すきな\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca65a1d20f96bd59",
+  "translation": "ポケモンに とうひょう してもらいます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a07bc84392bdc642",
+  "translation": "では さっそく とうひょうを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d635916a4a9d5a30",
+  "translation": "はじめましょう!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08cf2d2413116586",
+  "translation": "{JPN}とうひょうちゅう…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e82a8f6b48862fd",
+  "translation": "{JPN}とうひょうが おわりました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8aea1f38560e4f88",
+  "translation": "しゅうけいの あいだに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c2b66205b9056fe",
+  "translation": "2じしんさへ すすみましょう!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcf2347409faab24",
+  "translation": "2じしんさは おまちかねの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e321fd881074514",
+  "translation": "アピールタイム です!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab5a71643a7f1d52",
+  "translation": "すばらしい わざの アピールで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f045ccd37bcd28c0",
+  "translation": "わたしたちを おどろかせてください!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a564ba56830bc7e",
+  "translation": "さあ もりあがって いきましょう!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19800112c671a8fd",
+  "translation": "アピール かいし!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ddd664f90ca2179",
+  "translation": "{JPN}しかい: しんさは これで おわりです!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a0450b4f4811e1d",
+  "translation": "{JPN}みなさん すばらしい アピールを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c93479915373fb1",
+  "translation": "ありがとう ございました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "612d98d91fdf9a9e",
+  "translation": "これで すべての しんさが おわりです!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af4dbd860907dc0b",
+  "translation": "おつかれさまでした!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f06195961b1f01b0",
+  "translation": "{JPN}のこるは むねが どきどきする\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fcd8944ee4174e1",
+  "translation": "ゆうしょうしゃの はっぴょう です\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d1f73fe8eaa791b",
+  "translation": "しんさいんの じゅんびも\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbfd1f0fa62a9758",
+  "translation": "ととのった ようです!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82a77af365c07081",
+  "translation": "{JPN}しんさいん: ゆうしょうを はっぴょうします!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49269f54ba244188",
+  "translation": "{JPN}しかい: エントリーナンバー {ENG}{STR_VAR_2}{JPN}!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a2cd3afcc56f5f2",
+  "translation": "{ENG}{STR_VAR_3}{JPN}と {ENG}{STR_VAR_1}{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "373ee9f59ece8cfb",
+  "translation": "おめでとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8eb113add00d7896",
+  "translation": "{JPN}しかい: おめでとう ございます!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cab15df28018b284",
+  "translation": "また さんか してくださいね!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "beeaa8cd04af1136",
+  "translation": "{JPN}しかい: さあ どうぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "289f2f07fffb620d",
+  "translation": "しょうひんを おうけとりください!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2692ad08e689858b",
+  "translation": "{JPN}しょうひんとして この リボンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8107f76d983f4e5",
+  "translation": "さしあげます!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99bf83ae60c8769d",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は リボンを もらった!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d68c4c5b8b367d1",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は リボンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83bc9c92af734f1a",
+  "translation": "{ENG}{STR_VAR_1}{JPN}に つけた$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8035323b6d41006",
+  "translation": "{JPN}しょうひんは のちほど\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "583c175eb2779bff",
+  "translation": "うけつけで おうけとりください\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6adc09c7b7a6f08d",
+  "translation": "また さんか してくださいね!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1085afbe3795d304",
+  "translation": "{JPN}こちらでは 4にんで さんかする\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bb98d71014b51cc",
+  "translation": "ポケモンコンテストを うけつけて います\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99d5dc5ce90b341c",
+  "translation": "ほかの 3にんと つうしんすれば\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41f8719d29a650e8",
+  "translation": "4にんで おなじ コンテストに でられます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e197c96ea7784b64",
+  "translation": "さんか なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c85d1089f11ed084",
+  "translation": "{JPN}コンテストに さんかする まえに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0669a277efc7641",
+  "translation": "レポートを かきます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7079bd4f33bbf775",
+  "translation": "{JPN}また こんど さんか して\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7de55d0d3ee43283",
+  "translation": "くださいね$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e8c5f6eef6399b4",
+  "translation": "{JPN}コンテストに さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b21dade457006a4",
+  "translation": "{JPN}4にんの じゅんびが できたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cafc2c19c8f2d75c",
+  "translation": "つうしんケーブルで つないで\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf3bd464e783011b",
+  "translation": "わたしに とうろく してください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b150e1681da7131b",
+  "translation": "ほかの さんかしゃと おなじ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fd3d20637e52902",
+  "translation": "コンテストを えらんでくださいね\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "236aeb67d50bc8b8",
+  "translation": "みんなが とうろくを すませたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbe907685f423374",
+  "translation": "すぐに コンテストが はじまります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "deaddb7cb0d9c9a6",
+  "translation": "そのあとは いつもの コンテストと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f990140a89945424",
+  "translation": "おなじ ルールです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b1181bcf6aebf9b",
+  "translation": "{JPN}どの コンテストに さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a08ad79b74b3cdbb",
+  "translation": "{JPN}どの ポケモンで さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b1b52e09be5b5ae",
+  "translation": "{JPN}つうしんちゅう…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a1caeabd0295753",
+  "translation": "{JPN}つうしんエラー…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ad583ac8303b142",
+  "translation": "{JPN}ほかの プレイヤーと ちがう\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c55387c96dc20f9d",
+  "translation": "コンテストを えらんだ かもしれません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f79afdb58de96003",
+  "translation": "{JPN}ほかの プレイヤーと ちがうものを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ee6de131b476d96",
+  "translation": "えらんだ かもしれません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52526da8193330cb",
+  "translation": "{JPN}しょうしょう おまちください\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7a5655115dcd0c2",
+  "translation": "… … Bボタン: キャンセル$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2671560bbfef71a",
+  "translation": "{JPN}また こんど さんか して\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0cfc8c4324d6121",
+  "translation": "くださいね$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11d38fd123fd68c2",
+  "translation": "{JPN}つうしんエラーです\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "012715c5e4826122",
+  "translation": "もういちど おためしください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "822e97261817e496",
+  "translation": "{JPN}あなたの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b3686d4821bf333",
+  "translation": "コンテストに とうろく します\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b119a22fe4d778fb",
+  "translation": "あなたの ポケモンは {ENG}{STR_VAR_2}{JPN}ばんです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0d0c6927195dc1a",
+  "translation": "{JPN}まもなく コンテストが はじまります$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97e720a68be97b45",
+  "translation": "{JPN}いらっしゃいませ! こちらは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c05746f89d435a4",
+  "translation": "ポケモンコンテストの つうしんうけつけです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5eb1481ac7b8cc14",
+  "translation": "ともだちと いっしょに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "527ff0f3a87213f9",
+  "translation": "コンテストに さんか できます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b72d5224214f2ef",
+  "translation": "{JPN}なにに ついて おききに なりますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e0b5935aa3a5bfe",
+  "translation": "{JPN}コンテストに さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b2e162e1f6061f2",
+  "translation": "{JPN}どの コンテストに さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5cf0a244ae30075",
+  "translation": "{JPN}その ポケモンは コンテストに でられる\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be084c835ed2c35d",
+  "translation": "じょうたいでは ない ようです…$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7d9f8b4a86c7d26",
+  "translation": "{JPN}もうしわけ ありませんが タマゴは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9077b751d5d75319",
+  "translation": "ポケモンコンテストに でられません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ec1a930e9ddbb36",
+  "translation": "{JPN}どの ポケモンで さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93816000f7818fd3",
+  "translation": "{JPN}だれが リーダーに なるか\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b65b1b329fe2c57d",
+  "translation": "きめてください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "690e85db99e44537",
+  "translation": "ほかの ひとは そのあと\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae471da45b8e8b37",
+  "translation": "「グループにはいる」を えらんでください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "411ac801f3862c4f",
+  "translation": "{JPN}4にんよう うけつけから とうろくした\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3fed062b044deba",
+  "translation": "プレイヤーが います\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9f46795ad23521a",
+  "translation": "4にんが つうしんケーブルで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea12b67bc66d49b9",
+  "translation": "つながって いる ひつようが あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35f7b3e7a62f891c",
+  "translation": "4にんの じゅんびが できたら\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "881afa6efb9abe95",
+  "translation": "Gモード (グローバルモード)を えらび\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "538b07b3f1ed2cbd",
+  "translation": "もういちど とうろく してください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84db015cb09ad4a8",
+  "translation": "{JPN}これは ワイヤレスアダプタか\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2dad6ba775082a4",
+  "translation": "つうしんケーブルで つないだ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e03adac56d31b84d",
+  "translation": "2から4にんで あそぶ コンテストです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df2f1e0fe99b818b",
+  "translation": "さんかしゃには まず さんかする\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bddf783b73c44aa6",
+  "translation": "モードを えらんで いただきます\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1852e89286c66231",
+  "translation": "モードは 2しゅるい あります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50715ca60bf491c5",
+  "translation": "Eモード (エメラルドモード)は\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0530e3746933621c",
+  "translation": "ポケモン エメラルドを もった\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "929cff523f6a46ae",
+  "translation": "2から4にんで あそぶ モードです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "203d13b70e1e5d81",
+  "translation": "Gモード (グローバルモード)は\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c66220d8ec4c582d",
+  "translation": "ポケモン エメラルド ルビー サファイアの\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a78f503d4f231df",
+  "translation": "どれかを もった 4にん せんようです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73dc3d41a8c5b8eb",
+  "translation": "どの モードに するか はなしあって\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c5c10183037baa24",
+  "translation": "おなじ モードを えらんでください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5baddaac4fd62ad4",
+  "translation": "みんなが おなじ モードで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0a50e429b4c5bc6",
+  "translation": "おなじ コンテストを えらんだら\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bec5281d702c584b",
+  "translation": "エントリーの とうろく かんりょうです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39044db0e1ac0f37",
+  "translation": "そのあとは いつもと おなじように\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "086712eafc6df969",
+  "translation": "コンテストが はじまります$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a800d5fa8012dc2",
+  "translation": "{JPN}Eモード (エメラルドモード)では\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bdb0bf1a006d278",
+  "translation": "2から4にんで つうしんコンテストが\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dae2ea083ff993cc",
+  "translation": "できます ひとりずつ ポケモン\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f678820f91d96c7",
+  "translation": "エメラルドが ひつようです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e6babaa6ceffe7d",
+  "translation": "プレイヤーどうしを ワイヤレス\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "945e223a71252998",
+  "translation": "アダプタか つうしんケーブルで\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0a91483d99a6c76",
+  "translation": "つないで ください\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a14bde1445fc9618",
+  "translation": "4にんに たりない ときは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e87d982064f27baa",
+  "translation": "ホールの トレーナーが くわわって\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1022b87ecfe2061e",
+  "translation": "4にんの コンテストに なります\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5570bcebc09f7c0",
+  "translation": "Eモードは ポケモン ルビー\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13ccc8e581b856b8",
+  "translation": "サファイアでは つかえませんので ごちゅういください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72680c48d611cf4f",
+  "translation": "{JPN}Gモード (グローバルモード)は\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2adbfccdd34129dc",
+  "translation": "つうしんケーブルで つないだ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05b717d9bab448a2",
+  "translation": "4にん せんようの モードです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78c9ae180f300e39",
+  "translation": "ひとりずつ ポケモン エメラルド\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f48b1e25d952efa9",
+  "translation": "ルビー サファイアの どれかが ひつようです\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ebf80a8f2d2bcfd",
+  "translation": "みんなが Gモード (エメラルド)を\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d822467645a998f",
+  "translation": "えらぶか 4にんよう うけつけ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef44da68ddbdc8b0",
+  "translation": "(ルビー サファイア)から はいると\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08033ad4d02209ba",
+  "translation": "コンテストが はじまります$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "514e549a0dcd42d2",
+  "translation": "{JPN}たいへん もうしわけ ありません\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52c7eef0789165b0",
+  "translation": "Gモードは ワイヤレスアダプタでは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6d043f5c259bb48",
+  "translation": "つかえません\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "360387a51feaabcc",
+  "translation": "Eモードを えらぶか つうしん\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5c01a2d551ad2e8",
+  "translation": "ケーブルで やりなおしてください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2915d6c2577ab32d",
+  "translation": "{JPN}どの コンテストモードで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac887729a99e1cda",
+  "translation": "さんか しますか?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e52d0b4c91a667a4",
+  "translation": "{JPN}しかい: こんにちは! これより\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f3bacfb90cd93af",
+  "translation": "4にん つうしんの ポケモン\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2e3f77c21ae174a",
+  "translation": "{ENG}{STR_VAR_2}{JPN}を はじめます!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a3648a69b24e3b3",
+  "translation": "{JPN}さんかする トレーナーと ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e584054f496b252e",
+  "translation": "ごしょうかい しましょう!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dffd90b1bb1c8c2f",
+  "translation": "{JPN}しかい: 4ひきの ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22240e9e3eec97a4",
+  "translation": "でそろいました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f3ea6e9183a6d88",
+  "translation": "それでは 1じしんさです!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3aac793dc087b71a",
+  "translation": "{JPN}かんきゃくの みなさんに すきな\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5494c25bae7bea5b",
+  "translation": "ポケモンに とうひょう してもらいます$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15b16c7050e2e543",
+  "translation": "{JPN}では さっそく\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85a4d9c3157a752f",
+  "translation": "とうひょうを はじめましょう!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2b9bf26611ee935",
+  "translation": "{JPN}とうひょうが おわりました!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e3a0f43e3ba8118",
+  "translation": "しゅうけいの あいだに\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d81d6f676a3a3172",
+  "translation": "2じしんさへ すすみましょう!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "adfbbc9a84bcdda2",
+  "translation": "{JPN}2じしんさは おまちかねの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0e60fd9e80fd1b1",
+  "translation": "アピールタイム です!\\p",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee29f1094f05bbf4",
+  "translation": "すばらしい わざの アピールで\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fc67634c514bd59",
+  "translation": "わたしたちを おどろかせてください!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c022bb34a9e31296",
+  "translation": "{JPN}さあ もりあがって いきましょう!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bd60c2e02e72500",
+  "translation": "アピール かいし!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95b1299ad21975ed",
+  "translation": "{JPN}この きのうは つかえません!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b4dc673e2ddb960",
+  "translation": "つかえる フラグを ていぎしてください:\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd05a01b30ade410",
+  "translation": "include/config/overworld.h$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b44b49ecc30a452",
+  "translation": "{JPN}この きのうは つかえません!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f00298e57e1febee",
+  "translation": "つかえる フラグを ていぎしてください:\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47705b20c19ab99d",
+  "translation": "include/config/battle.h$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7779f590131bdff9",
+  "translation": "{JPN}この きのうは つかえません!\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8580746a6feb5e5",
+  "translation": "つかえる へんすうを ていぎしてください:\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d81660c2ec6d512",
+  "translation": "include/config/battle.h$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "979c5cd9e5ebd69b",
+  "translation": "{JPN}ボックスを うめました!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c7ac8020acb0a6f",
+  "translation": "{JPN}A{ENG}{STR_VAR_1}{JPN} C{ENG}{STR_VAR_2}{JPN}\\nS{ENG}{STR_VAR_3}{JPN} (どりょくち)$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "385d1c7adf3dab3b",
+  "translation": "{JPN}H{ENG}{STR_VAR_1}{JPN} B{ENG}{STR_VAR_2}{JPN}\\nD{ENG}{STR_VAR_3}{JPN} (どりょくち)$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89c8649378ccc421",
+  "translation": "{JPN}A{ENG}{STR_VAR_1}{JPN} C{ENG}{STR_VAR_2}{JPN}\\nS{ENG}{STR_VAR_3}{JPN} (こたいち)$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59276fae578498a7",
+  "translation": "{JPN}H{ENG}{STR_VAR_1}{JPN} B{ENG}{STR_VAR_2}{JPN}\\nD{ENG}{STR_VAR_3}{JPN} (こたいち)$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "787cbdebca27b0d2",
+  "translation": "{JPN}ドラコ ミュートリッドだん:\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28e914b246756b74",
+  "translation": "なまえは あかいろの はず$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad7435fa7ade1b8e",
+  "translation": "{JPN}ゲンししょう いらいぬし:\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b2cd5e3dd399b25",
+  "translation": "なまえは みどりいろの はず$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35de679e576970bc",
+  "translation": "{JPN}クラークソンはかせ: しろ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd1936b47eca4d61",
+  "translation": "ひろい プレートで$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f7f6da2c7abdbfb",
+  "translation": "{JPN}クラークソンの かおえ きほんは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a5ce259c934c000",
+  "translation": "ひだり プレートに ぴったり$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e32f3a129c2a75d6",
+  "translation": "{JPN}かりの かおえを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e55a18486d80c4a",
+  "translation": "みぎに いれかえ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b2f2843addef4be",
+  "translation": "{JPN}(デバッグ) シャドウ テストバトル しゅうりょう$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82a3c02f68da2c94",
+  "translation": "{JPN}SB1 {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02431d78407e47a8",
+  "translation": "あき: {ENG}{STR_VAR_3}{JPN}b$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eaaf880edf44f018",
+  "translation": "{JPN}SB2 {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1ec174cbfc63676",
+  "translation": "あき: {ENG}{STR_VAR_3}{JPN}b$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84eae29f1debb525",
+  "translation": "{JPN}SB3 {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c38847233a4cf5a",
+  "translation": "あき: {ENG}{STR_VAR_3}{JPN}b$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ec47b77a2ea6e4f",
+  "translation": "{JPN}BOX {ENG}{STR_VAR_1}{JPN}/{ENG}{STR_VAR_2}{JPN}b\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "488a4380afbea7fd",
+  "translation": "あき: {ENG}{STR_VAR_3}{JPN}b$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "029e6b539f4eb9c2",
+  "translation": "{JPN}ROM: {ENG}{STR_VAR_1}{JPN}MB/32MB\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bce7fa8f0dea2947",
+  "translation": "あき: {ENG}{STR_VAR_2}{JPN}MB$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a10d453d191d048",
+  "translation": "{JPN}ポケモンも タマゴも いません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd8d935e9f890120",
+  "translation": "{JPN}それは ポケモンの タマゴでは ありません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cfa52cbf362edd4",
+  "translation": "{JPN}あずかりやに ポケモンが いません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37d3162a9a687349",
+  "translation": "{JPN}あずかりやに ポケモンが 1ぴきだけです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87e2ca02d53a5e45",
+  "translation": "{JPN}あずかりやの ポケモンどうしでは\\nタマゴが できません!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c89f06e50b88268c",
+  "translation": "{JPN}pokeemerald-expansion\\n{ENG}{STR_VAR_1}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5e375c550faee83",
+  "translation": "{JPN}つかえません: follower_npc.hの\\nFNPC_ENABLE_NPC_FOLLOWERS\\lを TRUEに してください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6fa081874c6c3cb3",
+  "translation": "{JPN}つれあるき NPCの テストです$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43dd25f561f014a8",
+  "translation": "{JPN}OW_BERRY_PESTSが オフです\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64f8e970973b9a08",
+  "translation": "きのみの きに むしを だせません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7da472a2dbb999b5",
+  "translation": "{JPN}OW_BERRY_WEEDSが オフです\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ad3d72647efb113",
+  "translation": "きのみの きに ざっそうを だせません$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2432fd0d27bf355d",
+  "translation": "{JPN}1ぴき$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bcde9a61f232244",
+  "translation": "{JPN}てもち ぜんいん$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c71328c1db4c968b",
+  "translation": "{JPN}とじる$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8a04d314c93b50f",
+  "translation": "{JPN}どく$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7523644d15ba22ce",
+  "translation": "{JPN}まひ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2b60ac453b36141",
+  "translation": "{JPN}ねむり$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e0bbe251ac3b1b9",
+  "translation": "{JPN}やけど$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "664eef0a1195fabd",
+  "translation": "{JPN}こおり$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7464b2b0dffd9b33",
+  "translation": "{JPN}しもやけ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9979e986b63911aa",
+  "translation": "{JPN}ひんし$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1119d087ed994f2b",
+  "translation": "{JPN}がんばりや$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d20899d858b12d0",
+  "translation": "{JPN}さみしがり$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "722608bd298b1c9a",
+  "translation": "{JPN}ゆうかん$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59d76b11d77fe657",
+  "translation": "{JPN}いじっぱり$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "767cf39033a90c07",
+  "translation": "{JPN}やんちゃ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a863c2ccf9ced51",
+  "translation": "{JPN}ずぶとい$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d78a14bda6e2145",
+  "translation": "{JPN}すなお$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96ad8888670f311b",
+  "translation": "{JPN}のんき$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95296e765977147e",
+  "translation": "{JPN}わんぱく$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d01e0e20596ee017",
+  "translation": "{JPN}のうてんき$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "486be04ca60cf37e",
+  "translation": "{JPN}おくびょう$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a2f9a46c1d68c0f",
+  "translation": "{JPN}せっかち$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "546e3240b26ecf77",
+  "translation": "{JPN}まじめ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af001017a39517ea",
+  "translation": "{JPN}ようき$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a918644aa4aa8cd5",
+  "translation": "{JPN}むじゃき$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c5a1a96baa4a053c",
+  "translation": "{JPN}ひかえめ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "474513fbf244da60",
+  "translation": "{JPN}おっとり$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9ed13151ccebf2b",
+  "translation": "{JPN}れいせい$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3701ba96e2f0a199",
+  "translation": "{JPN}てれや$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2acbc2dd171a7986",
+  "translation": "{JPN}うっかりや$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3414d962c8e9c34b",
+  "translation": "{JPN}おだやか$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3045dea9aa7e202b",
+  "translation": "{JPN}おとなしい$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8db7eac67bf4e0ac",
+  "translation": "{JPN}なまいき$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ada5d1eb36c9c85b",
+  "translation": "{JPN}しんちょう$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1de2009e12ff670",
+  "translation": "{JPN}きまぐれ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c93d868316716e69",
+  "translation": "{JPN}つれあるき ほすう: {ENG}{STR_VAR_1}{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "406a5abf883a041b",
+  "translation": "つりの れんさ: {ENG}{STR_VAR_2}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5323a5b26932154",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9368620bd042021b",
+  "translation": "あいうえお かきくけこ さしすせそ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc68b52436fd890d",
+  "translation": "たちつてと なにぬねの はひふへほ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69910e8f2ead153a",
+  "translation": "まみむめも やゆよ らりるれろ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "318e722fe64290f1",
+  "translation": "わをん がぎぐげご ざじずぜぞ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb6be5945b203f02",
+  "translation": "だぢづでど ばびぶべぼ ぱぴぷぺぽ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7ed7e5fc239d45b",
+  "translation": "ぁぃぅぇぉ っゃゅょ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81cf40486b124c5e",
+  "translation": "アイウエオ カキクケコ サシスセソ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00ada2b992280fb2",
+  "translation": "タチツテト ナニヌネノ ハヒフヘホ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ccdb26dd58fd2dff",
+  "translation": "マミムメモ ヤユヨ ラリルレロ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27d13c47eb5ce693",
+  "translation": "ワヲン ガギグゲゴ パピプペポ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d66a40811a2ec352",
+  "translation": "ァィゥェォ ッャュョ ヴ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "037da4f1085a679e",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bb76b9373eff746",
+  "translation": "いろはにほへと ちりぬるを\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4efd6c1d96aa870",
+  "translation": "わかよたれそ つねならむ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4872b0ea9cf35f5",
+  "translation": "ういのおくやま けふこえて\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51d7ff13bd03f290",
+  "translation": "あさきゆめみし えひもせす\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0766d6db2590437",
+  "translation": "とりなくこえす ゆめさませ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea906b0559e0070a",
+  "translation": "みよあけわたる ひんかしを\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d658149be0c30fe",
+  "translation": "そらいろはえて おきつへに\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cfaa9e04e799fc7",
+  "translation": "ほふねむれいぬ もやのうち$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6866feae4500cca",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "694abda7f95ac26a",
+  "translation": "あめつち ほし そら やま かは\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56a3c6e393966861",
+  "translation": "みね たに くも きり むろ こけ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17571e21520f67dc",
+  "translation": "ひと いぬ うへ すえ ゆわ さる\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "609e809ff9cdc39f",
+  "translation": "おふせよ えのえを なれいて\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67476dedfbbf5ca8",
+  "translation": "ガラガラ ゴロゴロ ザブザブ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54de5cf8c3b852a6",
+  "translation": "ズンズン ダダダッ ドドドド\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f621eb66f8575860",
+  "translation": "バリバリ ピカピカ ブルブル\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30e5b6af6519fd42",
+  "translation": "ベタベタ ポカポカ パタパタ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2630596fb1424af2",
+  "translation": "ヴァ ヴィ ヴ ヴェ ヴォ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "212faa4c26dea4ca",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "968935c77a32f96b",
+  "translation": "キャ キュ キョ シャ シュ ショ\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b2ed887d02ca710",
+  "translation": "チャ チュ チョ ニャ ニュ ニョ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c3edffcb0ba2d7e",
+  "translation": "ヒャ ヒュ ヒョ ミャ ミュ ミョ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5d4a0031b48e2ca",
+  "translation": "リャ リュ リョ ギャ ギュ ギョ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33821de2079e4cb4",
+  "translation": "ジャ ジュ ジョ ビャ ビュ ビョ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46a97344b47f04fb",
+  "translation": "ピャ ピュ ピョ ティ ディ トゥ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f92a85f6a664baab",
+  "translation": "ファ フィ フェ フォ ウィ ウェ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a46789b113d8d2f3",
+  "translation": "シェ ジェ チェ ツァ ツォ デュ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fd1580bef1288de",
+  "translation": "イェ クァ グァ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ca767aa8b698523",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e5d478ad109fe88",
+  "translation": "ABCDEFGHIJKLM\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "033e7439c0acd649",
+  "translation": "NOPQRSTUVWXYZ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55a01fa727731545",
+  "translation": "abcdefghijklm\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5731b70b0dbc234c",
+  "translation": "nopqrstuvwxyz\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b76859fc9fa05cf7",
+  "translation": "0123456789\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76843de40d4b33eb",
+  "translation": "! ? … ・ ー 「 」 『 』\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d6d5ff3eb2ce192",
+  "translation": "( ) : / ~ ♂ ♀ 円\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53aa8f06e2f28745",
+  "translation": "ピカチュウ フシギダネ ヒトカゲ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23c67c356c6f2ae8",
+  "translation": "ゼニガメ ポッチャマ ナエトル$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d611c251fc83eae",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83709ef01b04c98a",
+  "translation": "きょうは いい てんきですね\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f0030494b6c07bb",
+  "translation": "あしたも はれると いいな\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c256272dada30904",
+  "translation": "ポケモンセンターで ひとやすみ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1e141fc5ffc67cf",
+  "translation": "フレンドリィショップで かいもの\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4e592e15ce96608",
+  "translation": "くさむらから やせいの ポケモン\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81cb2531f22e7524",
+  "translation": "モンスターボールを なげた!\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e7a4cdf1454afa5",
+  "translation": "やったー! ポケモンを\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7cec4e90397ec1e",
+  "translation": "つかまえたぞ!$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "998f60de31fbb1e2",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5cf45400e7b7de0",
+  "translation": "すもももももももものうち\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7987dbb2ae0cfb4",
+  "translation": "なまむぎ なまごめ なまたまご\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1adac9ed5de8b99c",
+  "translation": "となりの きゃくは よく\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0c514ff990b01fd",
+  "translation": "かきくう きゃくだ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc464bf26f0ed5a1",
+  "translation": "あかまきがみ あおまきがみ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04ffcb8d072cb4f5",
+  "translation": "きまきがみ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "beb8238428d1a077",
+  "translation": "ぼうずが びょうぶに じょうずに\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfd95079b609bab3",
+  "translation": "ぼうずの えを かいた\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad70130a7fd7c2f8",
+  "translation": "おしまい$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b2f03aca72f4133",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3f60df84b79e150",
+  "translation": "とうきょう とっきょ きょかきょく\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38bb6dcc2edb08ca",
+  "translation": "バスガス ばくはつ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6eb1c0deb31d41d7",
+  "translation": "かえるぴょこぴょこ みぴょこぴょこ\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "540fb00a4603b1a3",
+  "translation": "あわせて ぴょこぴょこ むぴょこぴょこ$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a45364bc9dc5940e",
+  "translation": "{JPN}{FONT_SMALL_NARROWER}",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31306f6fcbca730a",
+  "translation": "42 × 138 = 5796\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9eed39e73a9d9c1",
+  "translation": "テレビ クイズの はかせ いわく\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cbb454d5849f728",
+  "translation": "カフェで みた ヤマネコは 2わり へり\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87966fa205075613",
+  "translation": "♂1/♀1 = 1円 10 + 9 - 8 = 11\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3e5853588381389",
+  "translation": "ゲームボーイアドバンスは\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c911b938dfb12fad",
+  "translation": "ゲームキューブと つながる! と\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a4d72762a965b2d",
+  "translation": "かれは いうけど めを つぶって\\l",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6534161ae18d4992",
+  "translation": "やったって ほんとかな…?$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1f18e85c8391e6f",
+  "translation": "{JPN}Fake RTCが ゆうこうに なっていません\\ninclude/config/overworld.h\\lで ゆうこうに してください$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44daa9fb450627e8",
+  "translation": "{JPN}にちじ: ",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cfa401db4da0bb9",
+  "translation": "{ENG}{STR_VAR_1}{JPN}\\n{ENG}{STR_VAR_2}{JPN}:{ENG}{STR_VAR_3}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1476e9efa98c75a3",
+  "translation": "{JPN}じかんたい: {ENG}{STR_VAR_1}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4c9fb1dff3401ac",
+  "translation": "{JPN}つぎの ポータル: ライバル {ENG}{STR_VAR_1}{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "569dbfa9654e9be2",
+  "translation": "(1 カナリィ … 6 ジャサント)$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80373222f33a2278",
+  "translation": "{JPN}つぎの ポータル: さいしょの\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52a3d5e3bcba5ddf",
+  "translation": "やせいの ポケモンが いろちがい$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c32e19a4398494a0",
+  "translation": "{JPN}モミジ だんかい{ENG}{STR_VAR_1}{JPN} (1テスト\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5eae2ae40bf9f2f9",
+  "translation": "3レックウザ でんわ) あいてると でんわが なる$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b06c720559e25eef",
+  "translation": "{JPN}メガの しゅうまつ イントロを リセット\\n",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8645a14e48df9d4c",
+  "translation": "トレードウィンドへ おりると さいせい$",
+  "provenance": {
+   "batch": "dialogue-text-cablefrlg-contest-debug-105",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

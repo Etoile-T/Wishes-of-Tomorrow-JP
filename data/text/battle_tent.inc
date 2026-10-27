@@ -1,433 +1,433 @@
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "FALLARBOR SITE!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+	.string "{JPN}バトルテント ハジツゲかいじょうへ\n"
+	.string "ようこそ おいでくださいました!\p"
+	.string "わたしが かちぬきチームバトルの\nあんないやく です!$"
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Now, do you wish to take the challenge\n"
-	.string "of a Set KO Tourney?$"
+	.string "{JPN}それでは かちぬきチームバトルに\n"
+	.string "ちょうせん なさいますか?$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "{JPN}また の ちょうせんを\n"
+	.string "おまちして おります!$"
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
-	.string "In the FALLARBOR BATTLE TENT,\n"
-	.string "we undertake the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up\n"
-	.string "in the order that they are to appear in.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a fine prize.$"
+	.string "{JPN}ハジツゲの バトルテントでは\n"
+	.string "かちぬきチームバトルを おこないます。\p"
+	.string "さんかしゃは みな ポケモン 3びきの\n"
+	.string "チームで さんか します。\p"
+	.string "3びきの ポケモンは だす じゅんばんに\n"
+	.string "ならべて おかなければ なりません。\p"
+	.string "バトルちゅう ポケモンは きめた\n"
+	.string "じゅんばんどおり 1ぴきずつ でます。\p"
+	.string "いちど バトルに でた ポケモンは\n"
+	.string "しょうぶが つくまで こうたい できません。\p"
+	.string "3ターンで しょうぶが つかない ときは\n"
+	.string "はんていに なります。\p"
+	.string "ちょうせんを ちゅうだん するときは\n"
+	.string "ゲームを セーブして ください。\p"
+	.string "セーブしないと ちょうせんを\n"
+	.string "つづける ことが できません。\p"
+	.string "みごと 3にんの トレーナーに\n"
+	.string "れんぞくで かつことが できたら\l"
+	.string "すてきな しょうひんを さしあげます。$"
 
 FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before showing you to the BATTLE\n"
-	.string "TENT, I must save. Is that okay?$"
+	.string "{JPN}バトルテントに ごあんない するまえに\n"
+	.string "セーブ しますが よろしいですか?$"
 
 @ Unused
 FallarborTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "We offer two levels of challenge,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "{JPN}ちょうせんは レベル50と\n"
+	.string "オープンレベルの 2しゅるい です。\l"
+	.string "どちらに なさいますか?$"
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "{JPN}それでは ポケモンを\n"
+	.string "3びき えらんで ください。$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.string "{JPN}ちょうせんしゃさま!\p"
+	.string "さんかに ひつような ポケモンが\n"
+	.string "3びき そろって いません。\p"
+	.string "また おなじ どうぐを もたせる\n"
+	.string "ことも できません。\p"
+	.string "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\p"
+	.string "じゅんびが ととのいましたら\n"
+	.string "また おこし ください。$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.string "{JPN}ちょうせんしゃさま!\p"
+	.string "さんかに ひつような ポケモンが\n"
+	.string "3びき そろって いません。\p"
+	.string "さんかするには ちがう しゅるいの\n"
+	.string "ポケモンが 3びき ひつよう です。\p"
+	.string "また おなじ どうぐを もたせる\n"
+	.string "ことも できません。\p"
+	.string "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\p"
+	.string "じゅんびが ととのいましたら\n"
+	.string "また おこし ください。$"
 
 FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent:
-	.string "I shall now guide you to\n"
-	.string "the BATTLE TENT.$"
+	.string "{JPN}それでは バトルテントへ\n"
+	.string "ごあんない いたします。$"
 
 FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+	.string "{JPN}ちょうせんしゃさま!\p"
+	.string "まえに セーブ しないで\n"
+	.string "でんげんを きりましたね?\p"
+	.string "ざんねん ですが そのため\n"
+	.string "あなたの ちょうせんは\l"
+	.string "しっかくと なりました。\p"
+	.string "もちろん あらためて さいしょから\n"
+	.string "ちょうせん できます。$"
 
 FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
-	.string "How splendid! You have beaten\n"
-	.string "three TRAINERS in succession!$"
+	.string "{JPN}おみごと! 3にんの トレーナーに\n"
+	.string "れんぞくで かちましたね!$"
 
 FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame:
-	.string "Please wait while I save the game.$"
+	.string "{JPN}ゲームを セーブするので おまちください。$"
 
 FallarborTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "In commemoration of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.string "{JPN}3れんしょうを きねんして\n"
+	.string "こちらの しょうひんを さしあげます。$"
 
 FallarborTown_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\n"
+	.string "{ENG}{STR_VAR_1}{JPN}を もらった!$"
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.string "{JPN}おや?\n"
+	.string "バッグが いっぱいの ようですね。\p"
+	.string "バッグを あけてから しょうひんを\n"
+	.string "うけとりに きて ください。$"
 
 FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving:
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+	.string "{JPN}ごさんか ありがとう ございました!\p"
+	.string "ゲームを セーブするので おまちください。$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge2:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "{JPN}また の ちょうせんを\n"
+	.string "おまちして おります!$"
 
 FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE TENT,\n"
-	.string "I must save the game. Please wait.$"
+	.string "{JPN}おこしを おまちして\n"
+	.string "おりました。\p"
+	.string "バトルテントに ごあんない するまえに\n"
+	.string "セーブ します。 おまちください。$"
 
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "VERDANTURF SITE!\p"
-	.string "Here, the TRAINER's trust toward\n"
-	.string "POKéMON is tested.$"
+	.string "{JPN}バトルテント シダケかいじょうへ\n"
+	.string "ようこそ おいでくださいました!\p"
+	.string "ここでは トレーナーの ポケモンへの\n"
+	.string "しんらいが ためされます。$"
 
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Do you wish to take the VERDANTURF\n"
-	.string "BATTLE TENT challenge?$"
+	.string "{JPN}シダケの バトルテントに\n"
+	.string "ちょうせん なさいますか?$"
 
 VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
-	.string "In the VERDANTURF BATTLE TENT,\n"
-	.string "there is one crucial rule that must\l"
-	.string "be obeyed.\p"
-	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
-	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
-	.string "to their nature and battle on their own.\p"
-	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
-	.string "If you achieve the honor of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "{JPN}シダケの バトルテントでは\n"
+	.string "かならず まもらなければ ならない\l"
+	.string "だいじな ルールが ひとつ あります。\p"
+	.string "トレーナーに ゆるされるのは\n"
+	.string "ポケモンの いれかえ だけ です。\p"
+	.string "それいがいの めいれいを ポケモンに\n"
+	.string "だすことは きんじられて います。\p"
+	.string "ポケモンは じぶんの せいかくに\n"
+	.string "したがって じぶんで たたかいます。\p"
+	.string "ポケモンを しんじて\n"
+	.string "みまもって あげてください。\p"
+	.string "みごと 3にんの トレーナーに\n"
+	.string "れんぞくで かつことが できたら\l"
+	.string "しょうひんを さしあげます。\p"
+	.string "ちょうせんを ちゅうだん するときは\n"
+	.string "ゲームを セーブして ください。\p"
+	.string "セーブせずに ちゅうだん すると\n"
+	.string "しっかくと なります。$"
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
-	.string "When you have fortified your heart\n"
-	.string "and POKéMON, you must return.$"
+	.string "{JPN}こころと ポケモンを きたえたら\n"
+	.string "また おこし ください。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "There are two levels of difficulty,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+	.string "{JPN}むずかしさは レベル50と\n"
+	.string "オープンレベルの 2しゅるい です。\l"
+	.string "どちらに ちょうせん なさいますか?$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.string "{JPN}はあ…\p"
+	.string "ちょうせんに ひつような ポケモンが\n"
+	.string "3びき そろって いません。\p"
+	.string "さんかするには ちがう しゅるいの\n"
+	.string "ポケモンが 3びき ひつよう です。\p"
+	.string "また おなじ どうぐを もたせる\n"
+	.string "ことも できません。\p"
+	.string "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\p"
+	.string "じゅんびが ととのったら\n"
+	.string "また きて ください。$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.string "{JPN}はあ…\p"
+	.string "ちょうせんに ひつような ポケモンが\n"
+	.string "3びき そろって いません。\p"
+	.string "さんかするには ちがう しゅるいの\n"
+	.string "ポケモンが 3びき ひつよう です。\p"
+	.string "また おなじ どうぐを もたせる\n"
+	.string "ことも できません。\p"
+	.string "タマゴ{ENG}{STR_VAR_1}{JPN} さんか できません。\p"
+	.string "じゅんびが ととのったら\n"
+	.string "また きて ください。$"
 
 VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Good. Now, you must select your\n"
-	.string "three POKéMON.$"
+	.string "{JPN}よろしい。 それでは ポケモンを\n"
+	.string "3びき えらんで ください。$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "I must save before I show you to\n"
-	.string "the BATTLE TENT. Is that okay?$"
+	.string "{JPN}バトルテントに ごあんない するまえに\n"
+	.string "セーブ しますが よろしいですか?$"
 
 VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
-	.string "Good.\n"
-	.string "Now, follow me.$"
+	.string "{JPN}よろしい。\n"
+	.string "では ついてきて ください。$"
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
-	.string "I feel privileged for having seen\n"
-	.string "your POKéMON's exploits.\p"
-	.string "The results will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.string "{JPN}あなたの ポケモンの かつやくを\n"
+	.string "みることが できて こうえい です。\p"
+	.string "けっかを きろく します。\n"
+	.string "すこし おまち ください。$"
 
 VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
-	.string "To achieve a 3-win streak…\p"
-	.string "The bonds that bind your heart with\n"
-	.string "your POKéMON seem firm and true.$"
+	.string "{JPN}3れんしょう するとは…\p"
+	.string "あなたと ポケモンの こころの きずなは\n"
+	.string "かたく ほんもので あるようです。$"
 
 VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
-	.string "Your feat will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.string "{JPN}あなたの きろくを のこします。\n"
+	.string "すこし おまち ください。$"
 
 VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "For the feat of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.string "{JPN}3れんしょうの きろくを たたえ\n"
+	.string "こちらの しょうひんを さしあげます。$"
 
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "Welcome to the BATTLE TENT\n"
-	.string "SLATEPORT SITE!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Tournament.$"
+	.string "{JPN}バトルテント カイナかいじょうへ\n"
+	.string "ようこそ!\p"
+	.string "わたしが バトルトレードの\n"
+	.string "あんないやく です。$"
 
 SlateportCity_BattleTentLobby_Text_TakeChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap challenge?$"
+	.string "{JPN}バトルトレードに\n"
+	.string "ちょうせん しますか?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
-	.string "Here at the SLATEPORT BATTLE TENT,\n"
-	.string "we hold Battle Swap events\l"
-	.string "using rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win three times in\l"
-	.string "a row, you will earn a fine prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "{JPN}カイナの バトルテントでは\n"
+	.string "レンタルポケモンを つかった\l"
+	.string "バトルトレードを おこないます。\p"
+	.string "まず この イベント せんようの\n"
+	.string "ポケモンを 3びき おかしします。\p"
+	.string "その レンタルポケモンを つかって\n"
+	.string "シングルバトルを して いただきます。\p"
+	.string "かったら レンタルポケモンを 1ぴき\n"
+	.string "こうかん する ことが できます。\p"
+	.string "バトルと こうかんを くりかえし\n"
+	.string "3かい れんぞくで かつことが\l"
+	.string "できたら すてきな しょうひんが もらえます。\p"
+	.string "ちょうせんを ちゅうだん するときは\n"
+	.string "ゲームを セーブして ください。\p"
+	.string "セーブせずに ちゅうだん すると\n"
+	.string "しっかくと なります。$"
 
 SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "{JPN}また の おこしを おまちしています。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Level 100?$"
+	.string "{JPN}どちらの レベルに ちょうせん しますか?\n"
+	.string "レベル50? それとも レベル100?$"
 
 SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save data. Is that okay?$"
+	.string "{JPN}ちょうせんを はじめる まえに\n"
+	.string "セーブ しますが よろしいですか?$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.string "{JPN}では ちょうせんの あいだ\n"
+	.string "あなたの ポケモンを おあずかりします。$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "{JPN}こちらへ どうぞ。$"
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.string "{JPN}ごさんか ありがとう ございました!\p"
+	.string "レンタルポケモンと ひきかえに\n"
+	.string "あなたの ポケモンを おかえしします。\p"
+	.string "イベントの けっかも セーブします。\n"
+	.string "おまち ください。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "{JPN}レンタルポケモンと ひきかえに\n"
+	.string "あなたの ポケモンを おかえしします。$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
-	.string "Congratulations!\n"
-	.string "You've won three straight matches!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.string "{JPN}おめでとう ございます!\n"
+	.string "3れんしょう しましたね!\p"
+	.string "レンタルポケモンと ひきかえに\n"
+	.string "あなたの ポケモンを おかえしします。\p"
+	.string "イベントの けっかも セーブします。\n"
+	.string "おまち ください。$"
 
 SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
-	.string "In recognition of your 3-win streak,\n"
-	.string "we award you this prize.$"
+	.string "{JPN}3れんしょうを たたえて\n"
+	.string "こちらの しょうひんを さしあげます。$"
 
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
-	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.string "{JPN}おや?\n"
+	.string "もう もちきれない ようですね。\p"
+	.string "バッグを あけてから\n"
+	.string "おしらせ ください。$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "{JPN}おまちして おりました!\p"
+	.string "ちょうせんを さいかい するまえに\n"
+	.string "ゲームを セーブ します。$"
 
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "{JPN}もうしあげにくい のですが まえかい\n"
+	.string "セーブせずに やめて しまいましたね。\p"
+	.string "そのため あなたの ちょうせんは\n"
+	.string "しっかくと なりました。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
-	.string "We'll return your personal POKéMON.$"
+	.string "{JPN}あなたの ポケモンを おかえしします。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は しょうひんの\n"
+	.string "{ENG}{STR_VAR_1}{JPN}を もらった!$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+	.string "{JPN}バトルトレードの ルールが かいてある。$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "{JPN}どの こうもくを よみますか?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "{JPN}バトルトレードで つかえる ポケモンは\n"
+	.string "3びき だけ です。\p"
+	.string "レンタルでも こうかんでも\n"
+	.string "チームに おなじ ポケモンを 2ひきいじょう\l"
+	.string "いれることは できません。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.string "{JPN}ポケモンを こうかん できるのは\n"
+	.string "たおした ばかりの トレーナー だけです。\p"
+	.string "こうかん できるのは その トレーナーが\n"
+	.string "つかった ポケモン だけ です。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the third TRAINER in the event.$"
+	.string "{JPN}バトルに かつたびに たおした\n"
+	.string "あいての ポケモン 1ぴきと\l"
+	.string "こうかん できます。\p"
+	.string "イベントの 3にんめの トレーナーとは\n"
+	.string "ポケモンを こうかん できません。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.string "{JPN}ポケモンを こうかん するときに\n"
+	.string "ちゅういする ことが ふたつ あります。\p"
+	.string "ひとつめ。 こうかんの とき\n"
+	.string "うけとる ポケモンの のうりょくは\l"
+	.string "たしかめられません。\p"
+	.string "ふたつめ。 チームの ポケモンは\n"
+	.string "レンタルした じゅんばんで\l"
+	.string "ならんで います。\p"
+	.string "この じゅんばんは こうかんしても\n"
+	.string "かわりません。$"
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
-	.string "The POKéMON of the SLATEPORT\n"
-	.string "BATTLE TENT are all rentals.\p"
-	.string "All rental POKéMON are kept at\n"
-	.string "Level 30.$"
+	.string "{JPN}カイナの バトルテントの ポケモンは\n"
+	.string "すべて レンタル です。\p"
+	.string "レンタルポケモンは すべて\n"
+	.string "レベル30 です。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed2:
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+	.string "{JPN}シダケの バトルテントの\n"
+	.string "ルールが かいてある。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "{JPN}どの こうもくを よみますか?$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
-	.string "Here at the VERDANTURF BATTLE TENT,\n"
-	.string "POKéMON are required to think and\l"
-	.string "battle by themselves.\p"
-	.string "Unlike in the wild, POKéMON that live\n"
-	.string "with people behave differently\l"
-	.string "depending on their nature.$"
+	.string "{JPN}シダケの バトルテントでは\n"
+	.string "ポケモンが じぶんで かんがえて\l"
+	.string "たたかわなければ なりません。\p"
+	.string "やせいと ちがい ひとと くらす\n"
+	.string "ポケモンは せいかくに よって\l"
+	.string "ふるまいが かわります。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another POKéMON may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Depending on its nature, a POKéMON\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.string "{JPN}せいかくに よっては なにが あっても\n"
+	.string "こうげき したがる ポケモンも います。\p"
+	.string "また ダメージから じぶんの みを\n"
+	.string "まもりたがる ポケモンも います。\p"
+	.string "あいてを こまらせたり まどわせたり\n"
+	.string "するのが すきな ポケモンも います。\p"
+	.string "せいかくに よって ポケモンには\n"
+	.string "とくいで すきな わざが\l"
+	.string "あります。\p"
+	.string "また にがてで きらいな わざも\n"
+	.string "あるかも しれません。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
-	.string "There are offensive moves that inflict\n"
-	.string "direct damage on the foe.\p"
-	.string "There are defensive moves that are\n"
-	.string "used to prepare for enemy attacks or\l"
-	.string "used to heal HP and so on.\p"
-	.string "There are also other somewhat-odd\n"
-	.string "moves that may enfeeble the foes with\l"
-	.string "stat problems including poison and \l"
-	.string "paralysis.\p"
-	.string "POKéMON will consider using moves in\n"
-	.string "these three categories.$"
+	.string "{JPN}あいてに ちょくせつ ダメージを\n"
+	.string "あたえる こうげきの わざ。\p"
+	.string "あいての こうげきに そなえたり\n"
+	.string "HPを かいふく したりする\l"
+	.string "ぼうぎょの わざ。\p"
+	.string "ほかにも どくや まひ などの\n"
+	.string "じょうたいいじょうで あいてを\l"
+	.string "よわらせる すこし かわった\l"
+	.string "わざも あります。\p"
+	.string "ポケモンは この 3つの なかから\n"
+	.string "つかう わざを かんがえます。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A POKéMON is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a POKéMON only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+	.string "{JPN}トレーナーの めいれいが ないと\n"
+	.string "ポケモンは うまく つかえない\l"
+	.string "わざが あります。\p"
+	.string "ポケモンは きらいな わざを\n"
+	.string "うまく つかえません。\p"
+	.string "せいかくに あわない わざしか\n"
+	.string "おぼえていないと ポケモンは\l"
+	.string "ほんらいの ちからを だせない ことが おおいです。$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
-	.string "Depending on its nature, a POKéMON may\n"
-	.string "start using moves that don't match its\l"
-	.string "nature when it is in trouble.\p"
-	.string "If a POKéMON begins behaving oddly\n"
-	.string "in a pinch, watch it carefully.$"
+	.string "{JPN}せいかくに よっては ピンチに なると\n"
+	.string "せいかくに あわない わざを\l"
+	.string "つかいはじめる ポケモンも います。\p"
+	.string "ピンチで ポケモンの ようすが かわったら\n"
+	.string "よく みまもって ください。$"
 
 BattleTentLobby_Text_ExplainLevelRules:
-	.string "At this BATTLE TENT, the levels of\n"
-	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 30.$"
+	.string "{JPN}この バトルテントでは あいての\n"
+	.string "ポケモンの レベルが あなたの\l"
+	.string "ポケモンに あわせて ちょうせい されます。\p"
+	.string "ただし あいての トレーナーの ポケモンが\n"
+	.string "レベル30より ひくい ことは ありません。$"
 
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+	.string "{JPN}シダケの バトルテントの\n"
+	.string "ルールが かいてある。$"

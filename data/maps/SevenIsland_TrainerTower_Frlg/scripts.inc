@@ -15,34 +15,34 @@ SevenIsland_TrainerTower_EventScript_TrainerTowerAheadSign::
 	end
 
 SevenIsland_TrainerTower_Text_DarioIntro::
-	.string "I sensed your approach.$"
+	.string "{JPN}きみが くるのを かんじていた。$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
-	.string "Give up…$"
+	.string "{JPN}まいった…$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
-	.string "In your future, I sense that you\n"
-	.string "will meet many others.\p"
-	.string "I think you will be linked to each\n"
-	.string "other by a strange power.$"
+	.string "{JPN}きみの みらいに おおくの\n"
+	.string "であいが ある ことを かんじる。\p"
+	.string "ふしぎな ちからで おたがいに\n"
+	.string "むすばれて いくだろう。$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.$"
+	.string "{JPN}この しまの どこかで ふしぎな\n"
+	.string "ポケモンたちが ねむっているの。$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
-	.string "What an amazing TRAINER!$"
+	.string "{JPN}なんて すごい トレーナーなの!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.\p"
-	.string "Could it be that they're waiting\n"
-	.string "for you?$"
+	.string "{JPN}この しまの どこかで ふしぎな\n"
+	.string "ポケモンたちが ねむっているの。\p"
+	.string "もしかして あなたを\n"
+	.string "まっているのかも?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-	.string "TRAINER TOWER ENTRANCE\n"
-	.string "Rise to the Challenge, TRAINERS!$"
+	.string "{JPN}トレーナータワー いりぐち\n"
+	.string "トレーナーよ ちょうせんせよ!$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-	.string "TRAINER TOWER AHEAD$"
+	.string "{JPN}この さき トレーナータワー$"
 

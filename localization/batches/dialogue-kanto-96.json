@@ -1,0 +1,6482 @@
+[
+ {
+  "id": "938e9e42999132f3",
+  "translation": "{JPN}わしは ある タイプの きゅうきょくの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66105f6aa31e375e",
+  "translation": "わざを あみだしたのじゃ…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6da47f18a132dae",
+  "translation": "しかし この わざを うけつぐ ものは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "279e2c76afbe5a3f",
+  "translation": "もう あらわれんのか…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "777497cff6f1d969",
+  "translation": "…ん? んんん!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9def10710f369e03",
+  "translation": "お おまえ…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a17f52eadd1769ec",
+  "translation": "そ その {ENG}{STR_VAR_1}{JPN}…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1905cee8ad83bb99",
+  "translation": "{JPN}…いや…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52174480e0df68d8",
+  "translation": "わしの みまちがい じゃった。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18c509da6836e0e2",
+  "translation": "{JPN}おお! これじゃ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e38be5ff685f2ef",
+  "translation": "この ポケモンじゃ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e67a63616c62e879",
+  "translation": "この {ENG}{STR_VAR_1}{JPN}こそ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1f83b569432df40",
+  "translation": "わしの きゅうきょくわざに ふさわしい!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4338005cb4602c9",
+  "translation": "ゆるして くれるか?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a814f3b88b0f92cf",
+  "translation": "おまえの {ENG}{STR_VAR_1}{JPN}に\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ae8f0ee06b50214",
+  "translation": "{ENG}{STR_VAR_2}{JPN}を おしえて よいか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0418ba1e23d21af",
+  "translation": "{JPN}ぐあっ! ことわる じゃと?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ec4df48458a19b1",
+  "translation": "いや わしは あきらめんぞ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65271d27b943d75f",
+  "translation": "{JPN}ゆるして くれるのか?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74bf43567f6bf80d",
+  "translation": "では さずけよう! きゅうきょくの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24245ce990036cb6",
+  "translation": "{ENG}{STR_VAR_2}{JPN}を {ENG}{STR_VAR_1}{JPN}に!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a7cece3536e47c1",
+  "translation": "ぐおおおお あおーん!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07b1eee7445d5e5c",
+  "translation": "{JPN}ぜえ ぜえ ぜえ…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f601e1f2766bcd7",
+  "translation": "いきている うちに あの わざを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ca48d0e4001ab38",
+  "translation": "おしえられるとは おもわなんだ…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9cafdc79ab91432",
+  "translation": "{JPN}たのむ! あの わざを じょうずに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01e237052f673091",
+  "translation": "つかって つよく なって くれ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c1b3372dd8efc23",
+  "translation": "{JPN}ぜえ ぜえ ぜえ…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b39382c412da521",
+  "translation": "もう おもいのこす ことは ない。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74b655f1245de034",
+  "translation": "しっている ことは ぜんぶ つたえた。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ff79062fcae52e2",
+  "translation": "これで やるべき ことを おえたと\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ea04685f8ae21e5",
+  "translation": "おもいながら いきて いけるわい。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abce4ec3d2458304",
+  "translation": "{JPN}おまえに わしの わざを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1e1da331bb16fad",
+  "translation": "つたえたら ほっと したわい。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bb6d97c6715409f",
+  "translation": "それどころか なんだか\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dceb708112987aee",
+  "translation": "わかがえった ようじゃ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f1145f85f2b42e2",
+  "translation": "{JPN}2のしま\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1f8285249a4c9b8",
+  "translation": "ふたりで たのしい しま$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87e6b9f5e07e6cba",
+  "translation": "{JPN}ぴょんぴょん パクパク!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88801c613fa1a0c8",
+  "translation": "うきうき ゲームコーナー$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b1d6fe734c71ceb",
+  "translation": "{JPN}きけん! しおの ながれが はやい!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bab64467bb9bdce",
+  "translation": "つりと なみのりは きんし!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94e0923584f077e5",
+  "translation": "{JPN}おっ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed0c7d6b32294792",
+  "translation": "いらっしゃいませ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5653fe0f157e89cc",
+  "translation": "さいきん ひらいた ばかり なんです。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f257cf7d9a8c8168",
+  "translation": "しなかずは すくないですが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2bac2cc1d67b0e5",
+  "translation": "おやくに たてれば うれしいです。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4df043b9a9d821e9",
+  "translation": "{JPN}ロステルちゃんを たすけて くれて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "427fb4fcfcd67489",
+  "translation": "ほんとうに かんしゃ してます。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "128642f135caf3eb",
+  "translation": "あなたの おかげで 3のしまの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bc161a7269c154d",
+  "translation": "ひとたちの カントーの ひとへの\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "303a55126c1f0ad0",
+  "translation": "みかたが かわったんですよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14964664b1667863",
+  "translation": "じつは わたしも カントーの でなんです。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ff2864fd8e54879",
+  "translation": "3のしまの ひとたちが しなかずを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0658671ca670899",
+  "translation": "ふやすのを てつだって くれました。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "572535662adab973",
+  "translation": "{JPN}やあ! ここで がんばってますよ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "006549059cee2283",
+  "translation": "{ENG}{PLAYER}{JPN}さんも がんばってね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08224321ad64b6cc",
+  "translation": "{JPN}あっ {ENG}{PLAYER}{JPN}さん!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9997176e5c8dc907",
+  "translation": "いらっしゃいませ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98318eeab5857d0b",
+  "translation": "とおくの ちほうから しなものを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "852406ebb93c50ca",
+  "translation": "とりよせ はじめたんです。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c3e1c61bb2e3546",
+  "translation": "めずらしい どうぐも ありますよ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69f95639d8736818",
+  "translation": "どうぞ みていって ください!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6aecf402c65ef25",
+  "translation": "{JPN}あそこの おとこは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bbd820d8c36d19d",
+  "translation": "タマムシシティから きたんだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfb9097f090e0a8b",
+  "translation": "おとうとと ふたりで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "febcdf8495728ee4",
+  "translation": "みせを はじめたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1d82729733685b6",
+  "translation": "どんなに たいへんか わかってて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c81874be8039e58",
+  "translation": "はじめたのかねえ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcd83af708bb97e8",
+  "translation": "{JPN}みせの ひとの おとうとは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6368e3ec0288ac1",
+  "translation": "ゲームコーナーで はたらいてるよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52865b1721fe0353",
+  "translation": "しなものを ふやす ために\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee1a97413e37b02d",
+  "translation": "おかねを ためてるんだって。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c55e608c6717fb20",
+  "translation": "{JPN}ねえ ねえ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad41bde689f7af8c",
+  "translation": "しってる?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2847554c78dd2245",
+  "translation": "ちょっと まえに ゆうめいな\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "caee5f25e6630d72",
+  "translation": "トレーナーが しまに きたのよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76f1ce66231331f5",
+  "translation": "してんのうの ひとりで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebc63cfbd5d4613c",
+  "translation": "なまえは シバ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd0e248211299555",
+  "translation": "いかりまんじゅうが ぜんぶ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "133e009abc3cf091",
+  "translation": "うりきれてるって しって\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f3ac6357e19123e",
+  "translation": "がっかりして かえって いったわ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0dee2bbb47770bc8",
+  "translation": "{JPN}めの こえた トレーナーは ここで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7326d6e547b69c21",
+  "translation": "めずらしい どうぐを かうのさ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c3a6913ef78ccaf",
+  "translation": "{JPN}みさきの こやに おばあさんが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11ffb7a3ab1af878",
+  "translation": "ひとりで すんでるの。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aaa8c76950f63ef5",
+  "translation": "ポケモンを じっと みつめるのよ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44f0e5a908701608",
+  "translation": "ちょっと きみが わるいわ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19820d8dfff6282a",
+  "translation": "{JPN}ぴょーん! ぴょーん!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d45349df117c178e",
+  "translation": "ジャンプの ゲーム やってみた?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d456b3103d54e01",
+  "translation": "さんか できる ポケモンには…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e1f7d7d98b14015",
+  "translation": "ぴょーん!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9338940c6eb2d2b",
+  "translation": "ぴょーんと とぶのも いれば!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef01f75a32884aca",
+  "translation": "ぴょーーーーーんと とぶのも いる!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0e7bc709ccc7889",
+  "translation": "しってた?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a3d00522f0614bc",
+  "translation": "ぴょーん!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72b4a06a99cfcb94",
+  "translation": "{JPN}わしは ポケモンの わざマニア!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f8c0a35a1ced987",
+  "translation": "ポケモンが せいちょうして おぼえる\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "239274871ed23b7f",
+  "translation": "わざは ひとつ のこらず しっておる。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ad7b955980f0c5c",
+  "translation": "そして キノコマニア でもある。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c494161c8631f45",
+  "translation": "ちいさなキノコ 2つか\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f649cfd55aa708e",
+  "translation": "おおきなキノコ 1つを もってきたら\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "824cdd51300726f6",
+  "translation": "ポケモン 1ぴきに わざを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84365269176808e6",
+  "translation": "ひとつ おしえて やろう。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5aa57c17add4775b",
+  "translation": "{JPN}くんくん…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be34f33273add110",
+  "translation": "むっ! キノコの においが するぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad581504de12b4f8",
+  "translation": "おまえの ポケモンに わざを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "709cb67aacf3915d",
+  "translation": "おしえて ほしいか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c7b444a77c83adf",
+  "translation": "{JPN}どの ポケモンに おしえる?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "284985295d7c4d58",
+  "translation": "{JPN}どの わざを おしえる?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9512e2d5f661d6f3",
+  "translation": "{JPN}すまん…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9060e533b8a47926",
+  "translation": "その ポケモンに おしえられる\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9581c00b7d86e23",
+  "translation": "わざは ない ようじゃ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa628dabcd4a4e37",
+  "translation": "{JPN}では キノコを もらおうか。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3baf43335d109316",
+  "translation": "どれを くれるんじゃ?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac801941444f57db",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ちいさなキノコを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a746e2580ef86927",
+  "translation": "2つ わたした。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a82d89302d450b0c",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は おおきなキノコを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "802e40a0aacfa02a",
+  "translation": "1つ わたした。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e72446bc80a6c1f4",
+  "translation": "{JPN}ポケモンに わざを おぼえさせたいなら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a7cf731e8b51444",
+  "translation": "キノコを もってくるんじゃな。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f925d5e69f3d0d40",
+  "translation": "{JPN}はあ? タマゴに おしえられる\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0cb5411f6e7d13b0",
+  "translation": "わざなど ひとつも ないわい。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4377dec59a0419d5",
+  "translation": "{JPN}さて ロステルの やつ きょうは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "596b60da6db1db59",
+  "translation": "どこへ いったんだ?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8e23a6f8f728a4a",
+  "translation": "まいにち いまごろに おひるを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53984d0a16f63c5b",
+  "translation": "もってきて くれるんだが…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26eb28230f92c7ea",
+  "translation": "{JPN}ん? おい そこの きみ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6907661078a86a6c",
+  "translation": "ロステルの ともだちかい?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "665a4d0c9fb56b6e",
+  "translation": "ロステルを みかけなかったか?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70cf861d6fae72ca",
+  "translation": "どこに いるのか わからないんだ。\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec389b11e9924fe5",
+  "translation": "とっくに きてる はずなのに。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "745125dc65df0e8b",
+  "translation": "ロステルは かわいい… わたしに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45ffc9a5fd4342a9",
+  "translation": "にて かわいいから だれかが…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e44f0ee4915c51ed",
+  "translation": "わたしの ロステルに なにか\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa72d3848ff66403",
+  "translation": "あったんじゃ ないか!?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6097dbba3b3a073b",
+  "translation": "たのむ! さがして くれ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc5b0866a298b36f",
+  "translation": "3のしまを さがして くれ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8ac0412305d15be",
+  "translation": "{JPN}はあ? なんだ この ゲームコーナー?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f94415d39a15da54",
+  "translation": "しけてんなあ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f1f182563153bed",
+  "translation": "あいつら…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad195ee33042a7e7",
+  "translation": "しまで まってるって いってたのに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a87bb8f9b791f86",
+  "translation": "どこに いやがるんだ?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4950b59ca8361734",
+  "translation": "おい おまえ! 3のしまって\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "166d2934ac750cee",
+  "translation": "この へんじゃ ここだけか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d229e64aa549d80f",
+  "translation": "{JPN}ねぼけるのも たいがいに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cc73ed3ba003f7b",
+  "translation": "しろよ この チンピラが。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e778c5e63444819",
+  "translation": "ここは 2のしま だ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "789d0a3fbd9e1592",
+  "translation": "どけ! きたない バイクを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "746df4377f6ca634",
+  "translation": "うちの みせから だしやがれ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd46d29b74e317c5",
+  "translation": "{JPN}はあ…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8d068e42c2b6c2a",
+  "translation": "ああ そうか わかったよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d60cd8074d05684",
+  "translation": "ちっ…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e2f92f238f59f71",
+  "translation": "ここらの しまは まぎらわしいぜ…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e47fa265ecfe7821",
+  "translation": "{JPN}みてくれよ これ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d767db4cecee7eb",
+  "translation": "あの チンピラ ゆかを きずつけやがった。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ad3bfd431c54cc3",
+  "translation": "{JPN}それより きいてくれ! たのむ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d87fdd8018c08c59",
+  "translation": "3のしまへ いって くれないか。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "844b6ddefe341b4a",
+  "translation": "もし わたしの ロステルに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "053801dcb0740f61",
+  "translation": "なにか あったら…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dc1faa657988eee",
+  "translation": "うちは 3のしまの あかい\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5872b3addaf047b6",
+  "translation": "やねの いえだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fedf2c22c5d6867",
+  "translation": "あのこが おくれて ここに くるかも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "caff203c84f83e46",
+  "translation": "しれないから わたしは うごけない。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95819dc1f62e23cd",
+  "translation": "だから きみに この おおきな\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1b48e5687eb8302",
+  "translation": "たのみを きいて ほしいんだ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd0428c2ee132ef3",
+  "translation": "{JPN}すみません。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c5922bd0908b3e8",
+  "translation": "きょうは ゲームを やってないんです。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d490d2d4db91d06",
+  "translation": "{JPN}もうすぐ ゲームを はじめますので\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f2f454827c414f1",
+  "translation": "おまちください!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6d42f6f70faf090",
+  "translation": "{JPN}ロステルを たすけて くれたのかい?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9193528060a95ae5",
+  "translation": "なんて おれいを いえば いいか!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8070a957e1b86403",
+  "translation": "ロステル ゆるして おくれ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07494a315f120ac0",
+  "translation": "こわい めに あってたなんて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77d07be3c82f7558",
+  "translation": "パパ しらなかったんだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "405777c24b4009ed",
+  "translation": "{JPN}ロステル: だいじょうぶ パパ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bc6dd64a7f94dcd",
+  "translation": "{ENG}{PLAYER}{JPN}と ともだちに なったの!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65b1d13b974225e1",
+  "translation": "{JPN}おや それは なんだい?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "768f3f18c1140d46",
+  "translation": "これを わたしに くれるって?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59ee6df2bbc05fa0",
+  "translation": "わたしが めずらしい いしや\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b5e46d845e77889",
+  "translation": "ほうせきが すきだって よく わかったね?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71884e736bcd3434",
+  "translation": "ひとを よろこばせるのが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7632d5fab8902d2",
+  "translation": "ほんとうに うまいなあ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2690a2231176d529",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ロステルの パパに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c9b541e17ed1e98",
+  "translation": "いんせきを わたした。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36f2ee68bf4617ca",
+  "translation": "{JPN}なるほど マサキからか!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e815ed9912bc2c1",
+  "translation": "かれに よろしく つたえて くれ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d5c6e4178a1429e",
+  "translation": "いやあ きみは ほんとうに すごいよ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fac4e1808cbf5673",
+  "translation": "これを うけとって くれ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e62ad9ae7382025",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ロステルの パパから\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "095f5c0d5924b5fc",
+  "translation": "つきのいしを もらった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b75af2bba7bff449",
+  "translation": "{JPN}きみの バッグには もう\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd91685f57f982fa",
+  "translation": "はいらない ようだね…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42a85912c6126a74",
+  "translation": "{JPN}よし! すぐに ゲームコーナーを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "deaced113a9ecb09",
+  "translation": "さいかい するぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e01cff65d6cb9e61",
+  "translation": "こんどは ともだちと いっしょに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e47a4b06976a461",
+  "translation": "あそびに きて くれよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15effa18b977fb90",
+  "translation": "{JPN}ねえ ねえ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cadf170ff883b4ae",
+  "translation": "また かっこいい ところ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80938109de8f0f0e",
+  "translation": "みせてね!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e88235cba451d2e",
+  "translation": "{JPN}もう ゲームコーナーには\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecfacec6a8c8420a",
+  "translation": "いってみた?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0665a53387085fab",
+  "translation": "ひとりで いっても だめよ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e1b77e84b9b4242",
+  "translation": "ともだちを つれて いかなくちゃ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e251ed4ceb7fadfd",
+  "translation": "{JPN}2のしまに すんでる ひとは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed0fc79c013bdacd",
+  "translation": "あまり いないの。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39eb78adba74e975",
+  "translation": "みさきの ほうに おばあさんが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7deb8682968908bf",
+  "translation": "ひとり すんでるわ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45cfde746367ef8d",
+  "translation": "いつから いるのか わからない\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e93c8837412325de",
+  "translation": "くらい むかしからよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6d1537026c6bbb7",
+  "translation": "{JPN}タマムシの デパートは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2055018ad092369f",
+  "translation": "しなぞろえが すごいのよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a05e67d5b5a7dbe",
+  "translation": "あなたは よく いくの?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b05fb1337153ca6",
+  "translation": "{JPN}ちかつうろの くらやみで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "863c9d38d8e88baa",
+  "translation": "おとしものを する ひとが おおいんだ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b7b7b2daac59446",
+  "translation": "{JPN}タマムシシティの ちかくにも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a8e3aefc71e975a",
+  "translation": "ねむそうな ポケモンが でたらしいよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7af1e0fadd757391",
+  "translation": "{JPN}ここでは おせんに きを つけてるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6188965bc1712e11",
+  "translation": "ベトベターは どくの ヘドロで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4e7d1d92d95b069",
+  "translation": "ふえるって きいたからね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ba4332218c52a72",
+  "translation": "{JPN}みなとに とまってる\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2125df3f132cc85",
+  "translation": "サント・アンヌごうを みたかい?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd9486894433051b",
+  "translation": "{JPN}サント・アンヌごうは でちゃったのか?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2740aa6b345d68ac",
+  "translation": "また らいねんの いまごろ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "427a007e7f030bc2",
+  "translation": "クチバに もどって くるよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ce627746c4a7d5e",
+  "translation": "{JPN}この とちに たてものを たてるんだ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4cad1dbbacbe28c",
+  "translation": "ここは ぜんぶ わしの とちだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7a17e45a96c11a3",
+  "translation": "わしの ポケモンが じめんを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41e2f5953e0ef4e7",
+  "translation": "ならして どだいを つくってるんだ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2a2b3aa5ecda8d1",
+  "translation": "{JPN}ワンリキー: グオッ! ゴゴゴッ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61918fcf1e553da3",
+  "translation": "{JPN}ワンリキーが じめんを ふみかためている。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e13b9e84df0d514",
+  "translation": "{JPN}サント・アンヌごうは ゆうめいな\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63477ea6ca5734f4",
+  "translation": "ごうかきゃくせん なんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b11e552a07de63a2",
+  "translation": "1ねんに 1ど クチバに くるのさ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03516d2088a74f5d",
+  "translation": "{JPN}クチバシティ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "487d106c2a24957b",
+  "translation": "うつくしい ゆうひの みなと$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e869fd932b17189",
+  "translation": "{JPN}おしらせ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd34b78ff09c7401",
+  "translation": "12ばんどうろは ねむっている\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15d5b5ec9e18c83a",
+  "translation": "ポケモンで ふさがれている かも。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "142c026e40a05875",
+  "translation": "イワヤマトンネルを とおって\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b00482fba8052fe",
+  "translation": "シオンタウンへ まわってください。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35362fda0a2dffca",
+  "translation": "クチバ けいさつ$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c7b0946c92afb32",
+  "translation": "{JPN}ポケモン だいすきクラブ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3539ec0348f7bb69",
+  "translation": "ポケモンずきなら だれでも かんげい!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc14d83ff379363e",
+  "translation": "{JPN}クチバシティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1232a56d6ed1b8b1",
+  "translation": "リーダー マチス\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aec05a3f712222ee",
+  "translation": "イナズマ アメリカン!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb4aad5a410a5c43",
+  "translation": "{JPN}クチバこう$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c92b6234bf629b9",
+  "translation": "{JPN}サント・アンヌごうへ ようこそ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfb226b4189c1029",
+  "translation": "{JPN}サント・アンヌごうへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b399f8dddada1e9",
+  "translation": "しつれいですが チケットは?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1717d3bdcc369e02",
+  "translation": "{JPN}{FONT_NORMAL}{ENG}{PLAYER}{JPN}は ふねのチケットを みせた!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae8ac47d544ef988",
+  "translation": "{FONT_MALE}けっこうです!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9daca71f1e51d315",
+  "translation": "サント・アンヌごうへ ようこそ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30f6997b1ff6f89b",
+  "translation": "{JPN}{FONT_NORMAL}{ENG}{PLAYER}{JPN}は ひつような\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1245220a91d8de24",
+  "translation": "ふねのチケットを もっていない。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6dd3583d408a0d21",
+  "translation": "{FONT_MALE}もうしわけ ありません!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffd68a1363310ff3",
+  "translation": "じょうせんには チケットが ひつようです。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2b284cecef05301",
+  "translation": "{JPN}ふねは しゅっこう した。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5575a158276ad761",
+  "translation": "{JPN}おや トライパスを おもちですね。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6fc1bbf8b7a8b01",
+  "translation": "シーギャロップに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "621b3d60bd43d34e",
+  "translation": "ごじょうせん なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01080a55c5bdd04a",
+  "translation": "{JPN}はい もんだい ありません。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58ecf5566846b142",
+  "translation": "シーギャロップ こうそくせん 7ごう\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0733ed7722295ebe",
+  "translation": "まもなく しゅっこう します。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6673fe7ecdac2ae",
+  "translation": "{JPN}おや レインボーパスを おもちですね。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8c1c9353e7917f2",
+  "translation": "シーギャロップに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5eb541a338a472bc",
+  "translation": "ごじょうせん なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "158aa4d02b7ab5b5",
+  "translation": "{JPN}おっ! それは しんぴのチケット!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7344558fb12c167c",
+  "translation": "これは めずらしい。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5f7fd965c4f917b",
+  "translation": "へそのいわまで いつでも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c26b626cf70d9be",
+  "translation": "よろこんで おつれ しますよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8303601a2c2390f3",
+  "translation": "{JPN}おっ! それは オーロラチケット!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "714b1efbb2baa2f7",
+  "translation": "これは めずらしい。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a42d6652fb14b55c",
+  "translation": "たんじょうのしま まで いつでも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa63cc837b1e0fd0",
+  "translation": "よろこんで おつれ しますよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f366797d7394c71e",
+  "translation": "{JPN}シーギャロップに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "426fbabcfeaf9578",
+  "translation": "ごじょうせん なさいますか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1d3d55fc14d03d8",
+  "translation": "{JPN}はい とくべつびんへの ごじょうせん\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44424bbeb182480a",
+  "translation": "もんだい ありません。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08629dff0cbd6d30",
+  "translation": "シーギャロップ こうそくせん 10ごう\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbdf311a0f6ecf9a",
+  "translation": "まもなく しゅっこう します。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a867f3fe5a29a74",
+  "translation": "{JPN}はい とくべつびんへの ごじょうせん\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6b7cf8aafbca5a9",
+  "translation": "もんだい ありません。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00aaf5bf348cb955",
+  "translation": "シーギャロップ こうそくせん 12ごう\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a95e9de2199ac91f",
+  "translation": "まもなく しゅっこう します。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "efe262d4422ad032",
+  "translation": "{JPN}あっ {ENG}{PLAYER}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c7935e285e23f03",
+  "translation": "げんきに してる?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05c24f9d022464df",
+  "translation": "オーキドはかせの じょしゅだよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57f02b1ea302ea3c",
+  "translation": "もう ひとりの じょしゅには あった?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e3a7e04f7d890cd",
+  "translation": "オーキドはかせからの にもつを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74e2e36993b4bf60",
+  "translation": "{ENG}{PLAYER}{JPN}あてに あずかってたよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8eff6b2122ffccae",
+  "translation": "2ばんどうろ あたりで さがすって\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c56fe3fa252594f",
+  "translation": "いってたよ {ENG}{PLAYER}{JPN}。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e734e06d7f75a69c",
+  "translation": "2ばんどうろに いったら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1b553868a429d2b",
+  "translation": "さがして あげてね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd48aae171b24c67",
+  "translation": "{JPN}ヘイ ボーイ! ここに なにしに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5e5efb511f024f3",
+  "translation": "きたんだ?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3fb1a6f5628d677",
+  "translation": "せんじょう なら すぐ やられるぜ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02084fd1c69702dc",
+  "translation": "そんな ちっぽけな パワーじゃな!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8407a3d08bc3507b",
+  "translation": "いいか ボーイ! でんきポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46b1ebfeb2b6cbc7",
+  "translation": "せんそうで ミーを すくって くれた!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d2f2bd2d195622a",
+  "translation": "てきを ビリビリと\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d2547cd11e6f650",
+  "translation": "まひ させたのさ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45729045220291f2",
+  "translation": "ユーも おなじ めに あわせてやる!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86cce9bbd25576f0",
+  "translation": "{JPN}ボーイに ひとつ アドバイスだ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25c5b59fe449e229",
+  "translation": "でんきは たしかに パワフルだ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d380e11b0c1686b",
+  "translation": "だが じめんタイプの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4922c123853a74ae",
+  "translation": "ポケモンには きかないぜ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbae30bc6e81460c",
+  "translation": "{JPN}オレンジバッジは ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2b34f14c07be395",
+  "translation": "すばやさを あげるのさ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6584918749ad318",
+  "translation": "それに ポケモンが いつでも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29f9fac8006f9c3f",
+  "translation": "イナズマの ように そらを とべるぜ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "755f6f628a4de777",
+  "translation": "ユーは とくべつだ ボーイ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12a1661c8ad1155b",
+  "translation": "こいつを やるぜ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dfc8956f3a5c079",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は マチスから\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "feec252ff6603756",
+  "translation": "わざマシン34を もらった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd1333cf8f8cfa08",
+  "translation": "{JPN}わざマシン34は でんげきはだ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d9a38a49e11eedb",
+  "translation": "でんきポケモンに おしえてやれ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dec6b5c6bc85ee1b",
+  "translation": "{JPN}ヘイ ボーイ バッグを あけておけ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "120e9114f1647c88",
+  "translation": "{JPN}こいつは ショッキングだぜ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b1659939bdb119e",
+  "translation": "ユーは ほんものだ ボーイ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce0c907e83b42218",
+  "translation": "いいだろう オレンジバッジを やるぜ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9825d81d8b314da1",
+  "translation": "{JPN}ぐんたいに いた ころ マチスは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2767e5f552c69629",
+  "translation": "きびしい じょうかん だった。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a83177574ba1ed9d",
+  "translation": "しごきの きつい ひと だったよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fd35c43462264f5",
+  "translation": "{JPN}まいった!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e0c88274d84f80a",
+  "translation": "きみ つよいな!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d3ed04ed5d122b8",
+  "translation": "{JPN}あの とびらを あけるのは たいへんだぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a41e66996dd307e",
+  "translation": "マチスは ぐんたいでも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7d7baf8d4672d57",
+  "translation": "しんちょうな ことで ゆうめいだった。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d7deed07b7ad410",
+  "translation": "{JPN}おれは けいりょうきゅう だけど\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b33016d9a51eb40",
+  "translation": "でんきは とくい なんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a2cfd11ad486b27",
+  "translation": "だから この ジムに はいったのさ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcfc11937578b2d6",
+  "translation": "{JPN}こげた!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fc2b4c9f7b8a1b6",
+  "translation": "{JPN}わかった はなすよ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91960c6b96cd7dd2",
+  "translation": "マチスは とびらの スイッチを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c973af03f9fb5132",
+  "translation": "なにかの なかに かくしたって。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ceb90c05b98fcc0",
+  "translation": "{JPN}ここは こどもの くる ところじゃない!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4ab6b10dabc962b",
+  "translation": "たとえ つよくてもな!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89bca4a971d967ae",
+  "translation": "{JPN}うわっ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b4f300c1741a44f",
+  "translation": "おどろいた!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89fe21e190a916cc",
+  "translation": "{JPN}ジムの しかけは マチスが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "329496ad3c71c3a0",
+  "translation": "じぶんで つくったんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7217ab37c0c36db",
+  "translation": "どこも にじゅうロックに なってる。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b927e786c3a46f90",
+  "translation": "ヒントを やろう。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d98974043a9c100b",
+  "translation": "1つめの ロックを あけたら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a40230da44c29bc8",
+  "translation": "2つめの ロックは すぐ となりだ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ae85718986a8a48",
+  "translation": "{JPN}オーッス!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c13697c076a7eb6c",
+  "translation": "みらいの チャンピオン!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e638051e90f400c",
+  "translation": "マチスには あだなが あってな。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c45e8c50b4b74ad",
+  "translation": "みんなから イナズマ アメリカンと\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04e32e8ab71e5f42",
+  "translation": "よばれてるんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c76ce8c7c99b3e53",
+  "translation": "でんきポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35a0f8213b6a2449",
+  "translation": "エキスパートだぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3f65737f0a003c1",
+  "translation": "とりや みずタイプの ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a76bdd3c13938e2",
+  "translation": "でんきタイプに よわいんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8802f70b1352796d",
+  "translation": "まひにも きを つけろよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6309578ac1d65bbe",
+  "translation": "マチスは とても しんちょうだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11298a656aff6021",
+  "translation": "とじこもってるから かんたんには\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ab4c56cb1c14657",
+  "translation": "たどりつけないぞ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11439d50abf42f98",
+  "translation": "{JPN}ふう!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31dca9f0b8a3e472",
+  "translation": "しびれる しあい だったな!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4638bff0b0514bbe",
+  "translation": "{JPN}クチバ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d64a5c4abdc62aed",
+  "translation": "リーダー マチス\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba3bcf01ca7efa26",
+  "translation": "しょうりした トレーナー:\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a03a5ff16435bdfe",
+  "translation": "{ENG}{RIVAL}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eddef068a9f909c2",
+  "translation": "{JPN}クチバ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e4fd68bc34b6361",
+  "translation": "リーダー マチス\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd0ed3a417a49729",
+  "translation": "しょうりした トレーナー:\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76bbbd8c23968875",
+  "translation": "{ENG}{RIVAL}{JPN} {ENG}{PLAYER}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7476a7f5669b324f",
+  "translation": "{JPN}ざんねん!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f0245744cf53554",
+  "translation": "ゴミしか はいってない。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e35646d69a81034f",
+  "translation": "{JPN}おや! ゴミの したに スイッチが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "daee24b90d7c12f5",
+  "translation": "ある! おしてみよう!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d22ed519757b0c6",
+  "translation": "1つめの でんきロックが はずれた!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51aea28e235d8dee",
+  "translation": "{JPN}2つめの でんきロックが はずれた!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5688575601947dc9",
+  "translation": "じどうドアが ひらいた!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc3a2db3d863e9fe",
+  "translation": "{JPN}ざんねん!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "290562b6e0ecab9e",
+  "translation": "ゴミしか はいってない。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abebb5a0050f5393",
+  "translation": "あっ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be54c686cc855874",
+  "translation": "でんきロックが リセット された!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc02241875c553ed",
+  "translation": "{JPN}わしは つりの めいじん!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "734dea3caf04e08b",
+  "translation": "つりが だーいすき なんじゃ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd8382cf56d9de9d",
+  "translation": "つりなしでは いられん。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "425b09120c27b420",
+  "translation": "ところで おまえさん つりは すきか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcc07c0222233d42",
+  "translation": "{JPN}すばらしい! きにいった!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a082f43f5d0e15df",
+  "translation": "わしらは なかよく なれそうじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cd2d2f5ea2adf7b",
+  "translation": "これで つりを するが よい!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17a0fc187c5e2e3d",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は つりの めいじんから\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac142e98ccdc7591",
+  "translation": "ボロのつりざおを もらった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "357d11126636f111",
+  "translation": "{JPN}つりは じんせい そのもの!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "136cc8932609906a",
+  "translation": "さいこうの しの ようなものじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b3b5b58c110bd9a",
+  "translation": "うみでも かわでも でかけて いって\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac6518e0a90ad0e1",
+  "translation": "おおものを つりあげるのじゃぞ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02bd4de2d5f0b4c4",
+  "translation": "{JPN}そうか…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1dd374bf251d02e6",
+  "translation": "ざんねんじゃのう…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "096eee8d1064aeb5",
+  "translation": "{JPN}おお {ENG}{PLAYER}{JPN}!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30127cf0eab80461",
+  "translation": "つりの ちょうしは どうじゃ?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8173d9f5cd81e11",
+  "translation": "{JPN}おや!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbfb670ac06a5644",
+  "translation": "いい ものを やろうと おもったが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14040cd06aee8490",
+  "translation": "もちきれん ようじゃな!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e564896eb965786",
+  "translation": "{JPN}やあ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b27f50ffe8e2e7ea",
+  "translation": "{ENG}{STR_VAR_1}{JPN} もってる?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cded85dd05d19c57",
+  "translation": "こうかん しようよ! ぼくの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca5f232a2fdc877e",
+  "translation": "{ENG}{STR_VAR_2}{JPN}と どう?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b944d899d150ff3",
+  "translation": "{JPN}ざんねん…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd1a96498a6af9ca",
+  "translation": "{JPN}…これ {ENG}{STR_VAR_1}{JPN}じゃ ないよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1fbc7424b2b102d6",
+  "translation": "てに いれたら こうかん\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4178dc5650cab8c",
+  "translation": "してね!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5769f7e89c3b16b5",
+  "translation": "{JPN}ありがとう!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3eefef17e24e8c7a",
+  "translation": "{JPN}ぼくの {ENG}{STR_VAR_2}{JPN} げんき?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19c7df4bd2a7dc35",
+  "translation": "{ENG}{STR_VAR_1}{JPN}は すごく げんきだよ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "212fe87507674c20",
+  "translation": "{JPN}ポッポに てがみを もたせて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a289a57b2c8d6d00",
+  "translation": "きたの ヤマブキまで とばすのよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70211f623eb513d5",
+  "translation": "{JPN}ポッポ: クルックー!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03ddd4dae661ff67",
+  "translation": "{JPN}ピッピちゃんへ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d69663099adfae2f",
+  "translation": "はやく あいたいわ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c1af60a3f6c717fd",
+  "translation": "ヤマブキは ロケットだんの ことで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e798ef39edd19190",
+  "translation": "たいへん だって きいたわ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4294f91291011c97",
+  "translation": "クチバは だいじょうぶ みたい。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb48da5807648ab4",
+  "translation": "{JPN}いろんな ひとと メールを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b65b248e0d39d28",
+  "translation": "こうかん したいの。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8c7bccc4e3b29a3",
+  "translation": "だから ポッポを ユニオンルームに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eeb873e031af4ca9",
+  "translation": "いかせて メールを こうかん してるの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67a409cef33ecdf1",
+  "translation": "{JPN}ポケモンを わるい ことに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a70eb6f3d74786a",
+  "translation": "つかう わるい やつらが いるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac0ae034f2c8f1ed",
+  "translation": "たとえば ロケットだんは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bb988b873856fe8",
+  "translation": "めずらしい ポケモンを うりさばく。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8cd62f2f7505e4a5",
+  "translation": "にんきが ない とか やくに たたない\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14e808fec193e259",
+  "translation": "とか おもった ポケモンは すてる。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc0d6d37cc2cbf3f",
+  "translation": "そういう ひどい れんちゅう なんだ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b41bd1d632851e6",
+  "translation": "ロケットだん って やつらは。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f08bf4a1f689b4f6",
+  "translation": "{JPN}ポケモンが いいか わるいかは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6685339036726ee0",
+  "translation": "トレーナー しだい だと おもう。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3a7258951c4cae6",
+  "translation": "{JPN}おなじ レベルでも ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34afa48df46286e3",
+  "translation": "のうりょくや とくせいは\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4dbadbeebe5cc27c",
+  "translation": "ぜんぜん ちがう ことが あるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d28f10428c39d09d",
+  "translation": "トレーナーが そだてた ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7985548afcdf4892",
+  "translation": "やせいの ポケモンより つよいよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91207759abc6fb7e",
+  "translation": "{JPN}ぼくの ポケモンが どくに なって!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7455753854b26f74",
+  "translation": "あるいてる あいだに ひんしに!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09a180210e991a56",
+  "translation": "{JPN}たしかに レベルが たかい\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "159410e1d68de16f",
+  "translation": "ポケモンの ほうが つよい…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79b9ccbf995e1e1a",
+  "translation": "でも どの ポケモンにも にがてな\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76e372acb8e95183",
+  "translation": "タイプが あるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c4cd5e52c8d42e2",
+  "translation": "だから どんな あいてにも つよい\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c2ef169d8bf18f0",
+  "translation": "ポケモンは いない みたいだね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e7d3b629a96bb9b",
+  "translation": "{JPN}いちど たたかった あいてと\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9f253ec94fcbece",
+  "translation": "また たたかいたく なる きもち…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d98caf90736615dc",
+  "translation": "そんな きもちに なった こと ない?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d9a993813873a437",
+  "translation": "きっと あるよね。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7f8614c255f5d19",
+  "translation": "わたしも なんども たたかいたい\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09749342e4207d6c",
+  "translation": "あいてが いたの。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8aae31782cae451c",
+  "translation": "だから これを くばってるのよ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87e8dbc40babd5fb",
+  "translation": "ひとつ どうぞ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b137417342c062a8",
+  "translation": "{JPN}それを つかえば さいせんを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ee80c1b06fd4871",
+  "translation": "のぞむ トレーナーが みつかるわ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb1f3ef87ab7ca85",
+  "translation": "でも つかうには バッテリーを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4eb6cc93867afa6",
+  "translation": "じゅうでん しないと だめなの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "79a1c91e25da3fdc",
+  "translation": "{JPN}バトルサーチャーの つかいかた?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d18834682afc5fdd",
+  "translation": "かんたんよ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a5b2a13d9febfcd",
+  "translation": "ピピピッて つかうと まわりの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b7a2d07b58d9276",
+  "translation": "トレーナーが きづくの。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fec6a8d35d52dfc",
+  "translation": "さいせんを したい トレーナーが いれば\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f65a9f2974755818",
+  "translation": "すぐに おしえて くれるわ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca72fc21f1eb0290",
+  "translation": "じゅうでん したら どうろで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf11d66672aaade0",
+  "translation": "つかってね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd51479fd933e226",
+  "translation": "{JPN}わたしの ピカチュウの かわいい\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1bef9732a78933d9",
+  "translation": "しっぽを みて くれない?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f73ef030ef8dc9c7",
+  "translation": "{JPN}ふん!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90b473c32bbc591b",
+  "translation": "わたしの ピカチュウの ほうが\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57d58fad12effbd5",
+  "translation": "その こより 2ばい かわいいわ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89221a8bd91b10a0",
+  "translation": "{JPN}わたしの パウワウ だいすき!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fed96291e8b242d",
+  "translation": "とっても かわいいの!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "541522e65e3818fb",
+  "translation": "だきしめると 「キュー」って\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c909610b720aa8b5",
+  "translation": "なくのよ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "238257295ed3196b",
+  "translation": "{JPN}あら まあ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "613b5d68e677b532",
+  "translation": "わたしの パウワウの ほうが ずっと\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bf0ffa12b0735b5",
+  "translation": "すてきよ。 2ばいは ね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44b07a11b5ca94f6",
+  "translation": "{JPN}ピカチュウ: チュッ! ピカチュウ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8615f9ee2064697e",
+  "translation": "{JPN}パウワウ: キュオー!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "176f947a844efd00",
+  "translation": "{JPN}わしが だいすきクラブの かいちょうじゃ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ecbbcd780ad73e6",
+  "translation": "ポケモンを 100ぴき いじょう\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fa7b2ce7a0d01b2",
+  "translation": "そだてて おる!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b87c465f692f4e5",
+  "translation": "ポケモンの ことには うるさいぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5758cd81273348e",
+  "translation": "ほんとうに うるさいぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a685fc8379a6311c",
+  "translation": "それで…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fbfec375276ab62",
+  "translation": "わしの ポケモンの はなしを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf2bde69117f9b58",
+  "translation": "ききに きたのかね?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e539b2b99bd20a2a",
+  "translation": "{JPN}よろしい!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08bc85cf9c5a6a37",
+  "translation": "では よく きけ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bf083d5dbbbe205",
+  "translation": "わしの おきにいりの ギャロップは…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15a3082a788d28df",
+  "translation": "かわいくて…すてきで…かしこくて…\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d80687b21aea61e",
+  "translation": "それに…すごい…そう おもわんか?…\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87beaa5bcf6d9c40",
+  "translation": "そうじゃ…それは…みごとで…\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc504669bfb73c3b",
+  "translation": "やさしい…だいすき!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6443b42274d2206d",
+  "translation": "だっこ…ねてる…とき…あたたかくて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ea2f1ff30aa0447",
+  "translation": "ふわふわ…すばらしい…\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d67b40b4affc8736",
+  "translation": "うっとり…\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a94e088b4447be6d",
+  "translation": "…おっと! もう こんな じかんか!\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d23f0f46723afdad",
+  "translation": "ひきとめて しまったな!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef36d9114eb19e1b",
+  "translation": "きいてくれて ありがとう!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9159c461659fb3d6",
+  "translation": "これを うけとって くれ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffe7ca5f81d0f85e",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は かいちょうから\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f27115e0cc979b1c",
+  "translation": "ひきかえけんを もらった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f739a2064e29dd91",
+  "translation": "{JPN}その ひきかえけんを ハナダシティの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f57c108ce0931aaa",
+  "translation": "じてんしゃやに もっていくと\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e26ffaac3d73d9e",
+  "translation": "ただで じてんしゃと\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97f24c7ec211d31b",
+  "translation": "こうかん してくれるぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3ff949c15cffa28",
+  "translation": "しんぱい いらん。 わしは おきにいりの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f615856b3c8cd1cd",
+  "translation": "オニドリルで どこへでも とんでいける。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "506cc94c75d26a5c",
+  "translation": "だから じてんしゃは いらんのじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56762af8d17ba518",
+  "translation": "サイクリングを たのしんで くれ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "effde61e0912d5b9",
+  "translation": "{JPN}そうか。 わしの はなしを ききたく\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af44f5e38163e10c",
+  "translation": "なったら また きなさい!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a544f3bc99abee1",
+  "translation": "{JPN}おお {ENG}{PLAYER}{JPN}!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a358db172efb0f4",
+  "translation": "また わしの ポケモンの はなしを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd0f4123084f5c69",
+  "translation": "ききに きたのかね?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b78ed074d9d187ea",
+  "translation": "ちがう?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a50f29d4ed810e8",
+  "translation": "ざんねんじゃ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67aa246a22d2e21b",
+  "translation": "{JPN}もちものを へらして きなさい!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e9491c33a0b357f",
+  "translation": "{JPN}うちの かいちょうは ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6300a35c313fdbb3",
+  "translation": "ことに なると よく しゃべるの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90367075fb2a0a89",
+  "translation": "{JPN}ほかの トレーナーの はなしは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90497f7efc65631a",
+  "translation": "ぎょうぎよく ききましょう!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0bdb756fcc5d121c",
+  "translation": "{JPN}じまん されたら じまんし かえせ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2866be08b04d310",
+  "translation": "{JPN}うちの かいちょうは ほんとうに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b834836bb29f843a",
+  "translation": "ポケモンを かわいがってるわ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9953aad092d2224",
+  "translation": "でも ポケモンに いちばん すかれてる\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a346b06675e79a0",
+  "translation": "ひとは ナナミさんだと おもうの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae28538bbcb23f04",
+  "translation": "{JPN}あなた わたしの あいてに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60184e6a42e010aa",
+  "translation": "ふさわしいかしら?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c49b8268d1a09904",
+  "translation": "{JPN}まけちゃった…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7b14b10f77bf737",
+  "translation": "{JPN}だれにも まけたく なかったのに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9c73e9fe6ab069b",
+  "translation": "ましてや としした なんかに…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fc1529773150eb4",
+  "translation": "{JPN}きみが つよいのは わかる。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58125bf050e0f838",
+  "translation": "どれほど つよいか みせて もらおう!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e1c0c1d65490ee0",
+  "translation": "{JPN}かてる チャンスは あったのに…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5fdfb3af60ebe29e",
+  "translation": "{JPN}ちっ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa7dccb2ba895faa",
+  "translation": "みとめるよ きみの ほうが うえだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1670e53e47c80442",
+  "translation": "{JPN}ここを とおりぬけられたら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aaad9eb8cf6755e8",
+  "translation": "してんのうに あいに いけるぞ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "886d15a19f70136e",
+  "translation": "{JPN}うそだ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30b447024d619cfe",
+  "translation": "しんじられない!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "894aa0b7ebffb23b",
+  "translation": "{JPN}ポケモンの ちしき なら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "987d7501366a8527",
+  "translation": "きみには まけないぞ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e412418c299e027",
+  "translation": "{JPN}ここは チャンピオンロード。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbcbd74ae652a96f",
+  "translation": "トレーナーの さいごの しれんだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5511a479fa7abdb1",
+  "translation": "{JPN}あちゃー!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "518653713ba36e48",
+  "translation": "{JPN}こまったら いわを うごかして\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c6e56929333dbaf",
+  "translation": "みると いいよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cca11c5b32739f5b",
+  "translation": "{JPN}ほう してんのうに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3826b581d210fc87",
+  "translation": "ちょうせん したいと?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "816664bcdcbb361f",
+  "translation": "{JPN}やられた!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c50203ba81e34e25",
+  "translation": "{JPN}{ENG}{RIVAL}{JPN}も ここを とおって いったぞ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52bba8f79e695113",
+  "translation": "{JPN}さあ こい!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36695f758df38879",
+  "translation": "こてんぱんに してやる!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f24d6a3faac01633",
+  "translation": "{JPN}こてんぱんに された!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ebce513fdf1ef97",
+  "translation": "{JPN}きみは チャンピオンロードに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2dd7f8a6ff6b0520",
+  "translation": "いる しかくを えたんだ…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03e494eb7ae8b928",
+  "translation": "{JPN}チャンピオンロードは きびしいかい?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a187e8049c4cc611",
+  "translation": "{JPN}おみごと!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b59efd41c01de6f",
+  "translation": "{JPN}おおくの トレーナーが ここで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "416a51cdf9efa294",
+  "translation": "ちょうせんを あきらめて かえるんだ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bdd5d621d5b335d",
+  "translation": "{JPN}ギヤーオ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba6b116502ede25f",
+  "translation": "{JPN}ゆうかんに たたかいながら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a69d6623b1624daa",
+  "translation": "チャンピオンロードを\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f1403a03f734728",
+  "translation": "ぬけてきた きみは りっぱだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fdc983189c77b60a",
+  "translation": "その こうせきを たたえて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b27ebe402018ed8",
+  "translation": "すてみタックルを おしえよう。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3448e74e21bb7a13",
+  "translation": "この わざを おしえて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "907c127d00ef2439",
+  "translation": "ほしいかね?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21a411b2c7c86b97",
+  "translation": "{JPN}わざは いつでも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb5c63aad70895be",
+  "translation": "おしえて あげよう。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de9011e2bbd5e61a",
+  "translation": "{JPN}どの ポケモンに すてみタックルを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa0a16b63fb8a64b",
+  "translation": "おしえる?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "950899982b7fccb7",
+  "translation": "{JPN}その いきおいで ポケモンリーグも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68b29de0bb637d7c",
+  "translation": "がんばるんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41a8f87483620939",
+  "translation": "いきおい よく ぶつかって\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37ece132fbdd1c5b",
+  "translation": "たおして こい!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5a006c2fe222006",
+  "translation": "{JPN}てんさいの うわさを きいたよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f97b301e6e8062f",
+  "translation": "{JPN}うわさは ほんとう だった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05ecf949eafce739",
+  "translation": "{JPN}ロケットだんの サカキを たおしたのは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19671349a59492c7",
+  "translation": "きみ だったのか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e3a6772df374d14",
+  "translation": "{JPN}トレーナーは より つよい あいてを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a92de64927179ca",
+  "translation": "もとめて いきるの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8aaf9038821379f8",
+  "translation": "{JPN}あっ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cf1b9e0e3afc694",
+  "translation": "つよい!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d75e03bc46f8a96c",
+  "translation": "{JPN}きびしい たたかいを すれば\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0a1c6e4302873a3",
+  "translation": "つよく なれるのよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e48f45ba080957e4",
+  "translation": "{JPN}あなたの じつりょくを おしえて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42fa41a7bbcc10f9",
+  "translation": "あげる。 なーんてね!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "769a31e251665b74",
+  "translation": "{JPN}あったまに きた!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61732aac8298d93f",
+  "translation": "{JPN}わたしの じつりょくを おしえられた\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2812aa13250ff06a",
+  "translation": "わね…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "668241f8e28ef2c4",
+  "translation": "{JPN}えらばれた ものしか ここは とおれん!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09116063564944c3",
+  "translation": "{JPN}しんじられん!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2b6c3d2a0f96eed7",
+  "translation": "{JPN}ここに いる トレーナーは みんな\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15e5ebc71dac9df6",
+  "translation": "ポケモンリーグを めざしている。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff9a0ab54b501ff7",
+  "translation": "ゆだん するなよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7c8e16edb49d393",
+  "translation": "{JPN}レイ: ぼくたち ふたりは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e89286d4e7054d96",
+  "translation": "いだいに なる うんめいなのさ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97fca6267eaa629b",
+  "translation": "{JPN}レイ: ばかな!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f50771de4fc2bebe",
+  "translation": "こんな はずは!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85c823529cbab637",
+  "translation": "{JPN}レイ: ぼくたちの まけだ。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68de1513f40245a7",
+  "translation": "いだいさは まだ とおい…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "38f3c3f413622fcf",
+  "translation": "{JPN}レイ: ぼくたち ふたりは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac84de0eaf7f86ed",
+  "translation": "ちょうてんを めざしてるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50d7a675467c97ee",
+  "translation": "ポケモンを 2ひき だして\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6ede45f91af1cda",
+  "translation": "たたかって もらわないと。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c733a3c69c96edb",
+  "translation": "{JPN}タイラ: わたしたち ふたりで\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e14c3b88b4e99a4",
+  "translation": "チャンピオンを めざしてるの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "273f1fa428d2024c",
+  "translation": "{JPN}タイラ: そんな…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c93122907ab3b2f",
+  "translation": "{JPN}タイラ: つよさの かたちは かぎりなく\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e4a6b5254870dfa",
+  "translation": "ある ことを おしえて もらったわ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85dbdaf26949a225",
+  "translation": "{JPN}タイラ: ポケモンが 1ぴきだけでは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "531c1dd0551fbd17",
+  "translation": "わたしたちとは たたかえないわ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "852f82a47b14c4ff",
+  "translation": "{JPN}こしに モンスターボール!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f745af3d6d2df8f3",
+  "translation": "ポケモンを もってるんだね?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8dc17f91b1eac7d",
+  "translation": "いつでも どこでも ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "386ef962f7d11880",
+  "translation": "つれあるけるって すばらしいよね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d17800f0e51575c",
+  "translation": "{JPN}この ポケモンジムは いつも しまってる。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82041cdaf7f073d6",
+  "translation": "リーダーは だれ なんだろう?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13fcf76c53714dee",
+  "translation": "{JPN}トキワジムの リーダーが もどった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f58e0ea5866d60da",
+  "translation": "{JPN}2しゅるいの いもむしポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03ea03a77b253598",
+  "translation": "ことを しりたいかい?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a9143cc04108087",
+  "translation": "{JPN}そう じゃあ いいや!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "819179f1678925fc",
+  "translation": "{JPN}キャタピーには どくは ないけど\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ccc863079ed1ff9",
+  "translation": "ビードルには あるんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "694ec50eaf7a7b01",
+  "translation": "ビードルの どくばりに さされない\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f98d74c8a062c2a0",
+  "translation": "ように きを つけてね。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "959bd4a2b5830f83",
+  "translation": "{JPN}もう おじいちゃん!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33a4b176ca2d9446",
+  "translation": "いじわる しないの!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "048ce921dc1e7672",
+  "translation": "ごめんなさいね。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "668f419128ede90c",
+  "translation": "まだ コーヒーを のんでないのよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf2aea812c7291e4",
+  "translation": "{JPN}ときどき ニビシティへ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c2a2a77560df3aa",
+  "translation": "かいものに いくの。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "734e5ee38df289b4",
+  "translation": "そのときは トキワのもりの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0c8a8bcb87652f6",
+  "translation": "まがりくねった みちを とおるのよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f66c401ffd7ec9c",
+  "translation": "{JPN}ここを とおる ことは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30a62f205142cd69",
+  "translation": "ぜったいに ゆるさん!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57e53948d7ff7074",
+  "translation": "ここは わしの しゆうち じゃ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b7f9434c0b5e562",
+  "translation": "{JPN}さてと コーヒーを のんだし\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9bf941858335576",
+  "translation": "これで しゃきっと したわい!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1e5d7886230b323",
+  "translation": "む?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0df316d620cf7cbf",
+  "translation": "その あかい はこは なんじゃ?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "420220a8b6add337",
+  "translation": "ほう ポケモンずかんを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5579cc0da60e47d0",
+  "translation": "つくって おるのか。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17d84d7b57e55d51",
+  "translation": "では ひとつ アドバイスを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f93a1224070bc1b",
+  "translation": "してやろう。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4bf36d9bb3f51b78",
+  "translation": "ポケモンを つかまえると\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d5b0fcc931c08ab",
+  "translation": "ポケモンずかんの データが\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1feb7bf657826ed0",
+  "translation": "じどうで ふえるんじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6552e1afd1f6bce3",
+  "translation": "…ポケモンの つかまえかたを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03479777a16d85e2",
+  "translation": "しらんのか?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8b61ad1d5b4c012",
+  "translation": "しかたない わしが みせて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fefa49fc316cb397",
+  "translation": "やろう!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a902f2bd2e2e115c",
+  "translation": "{JPN}どうじゃ! べんきょうに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2895c1472dfe8fd",
+  "translation": "なったじゃろう?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "407ad90cedcf00d7",
+  "translation": "それと これも もっていけ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84fb3bc1d98bf4ab",
+  "translation": "{JPN}わからない ことが あったら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "905faefb5ea3c984",
+  "translation": "それを みると いい。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b514e78e69b40a2",
+  "translation": "ポケモントレーナーの きほんを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "020b9d89faf8cf45",
+  "translation": "おしえて くれるぞ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "870a4484acbefe0e",
+  "translation": "{JPN}さてと コーヒーを のんだし\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6fbcfa8d1ebdc24b",
+  "translation": "これで しゃきっと したわい!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08bcc150a9386392",
+  "translation": "じゃが こく いれすぎて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ec1e208172f07c1",
+  "translation": "あたまが いたく なった…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6635b81950da9d88",
+  "translation": "ところで ポケモンずかんは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61bfdd80ef1a7bd7",
+  "translation": "うまって おるか?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "632a8a6c3478fba8",
+  "translation": "まずは ポケモンを よわらせてから\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28b44e7e1c3f2293",
+  "translation": "つかまえる ことを こころがけよ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "570d48b860fbc2c6",
+  "translation": "{JPN}さてと コーヒーを のんだし\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "056d3b0375fce010",
+  "translation": "これで しゃきっと したわい!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0db3ac3a9df349a3",
+  "translation": "じゃが こく いれすぎて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4511bd51dfe3180f",
+  "translation": "あたまが いたく なった…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3f5e2a972e4988e",
+  "translation": "ところで わしの おさがりの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b2df45e2f3cccd7",
+  "translation": "おしえテレビは やくに たっとるか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1bce86d92f0ef38",
+  "translation": "{JPN}わはは!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0cefb1ab86ca43f",
+  "translation": "ばんぐみに でとるのは わしの まごじゃ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d9c59f39475e798",
+  "translation": "あいつが おしえとるんじゃから\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "edc82111562263b1",
+  "translation": "しっかり まなべる はずじゃ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecf23be3d4d4c195",
+  "translation": "{JPN}む… おしえテレビを みる じかんも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ebb38ebbd7c81c6",
+  "translation": "ない ほど いそがしいのか…\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "061be3d7276b748c",
+  "translation": "ときは かねなり。 どちらも\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baaf9b0b40677cc0",
+  "translation": "むだに つかっては ならんぞ…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0fa17c59c6505cb",
+  "translation": "{JPN}トキワシティ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b6d8a7bc69c5e405",
+  "translation": "トキワは みどり えいえんの いろ$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06777b93b4cd51f2",
+  "translation": "{JPN}おとくな けいじばん!!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3398d85fd31d7b73",
+  "translation": "ポケモンを つかまえて\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71c2e5af7dd5142a",
+  "translation": "なかまを ふやそう!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b98a7b4b1affd03e",
+  "translation": "おおければ おおいほど\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e87a5da6e9e09854",
+  "translation": "たたかいが らくに なるぞ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf6755e4dd7739fa",
+  "translation": "{JPN}おとくな けいじばん!!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ef22fa6f04c02be",
+  "translation": "ポケモンの わざは わざポイント\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "557820641e011fc4",
+  "translation": "つまり PPの ぶんしか つかえない。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e175988d22f6c4f4",
+  "translation": "PPを かいふく するには\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "449817ff4330316f",
+  "translation": "ポケモンセンターで やすませよう!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e5d51fd47d41685",
+  "translation": "{JPN}トキワシティ ポケモンジム$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "769e131f540ce0f5",
+  "translation": "{JPN}トキワジムの ドアは しまっている…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6c6b3ed926cc7fd",
+  "translation": "{JPN}ファファファ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8b0ecb8d02ca3f7",
+  "translation": "わたしの かくれがへ ようこそ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4da30b7c04b8c75b",
+  "translation": "ロケットだんを かつての すがたに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1dba43f5bc2d7261",
+  "translation": "たてなおすまで ここに いる つもりだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4054471f307b8f5a",
+  "translation": "だが きみは また わたしを みつけた。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26394e8237440614",
+  "translation": "よかろう。\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "996136c058d65f53",
+  "translation": "こんどは てかげん しないぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df6cef91340aead2",
+  "translation": "ふたたび あいまみえよう\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7381195cc3a9866",
+  "translation": "さいきょうの トレーナー サカキと!{PLAY_BGM}{MUS_RG_ENCOUNTER_ROCKET}$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7eb9c1a61782dced",
+  "translation": "{JPN}ふっ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd18bdb221a1403f",
+  "translation": "じつに はげしい たたかい だった。\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e9fc7f07f35e503",
+  "translation": "きみの かちだ!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "557f7fe0d7b8d883",
+  "translation": "その あかしに グリーンバッジを やろう!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f2a2c8b6b6b0e18",
+  "translation": "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2235d3dd028607f",
+  "translation": "{JPN}こんな まけかたを しては\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "362ef0a998b597fb",
+  "translation": "ぶかたちに あわせる かおが ない。\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7eb79e9f493bf6b8",
+  "translation": "かれらの しんらいを うらぎった。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3007618bddbe6a7a",
+  "translation": "きょうを かぎりに ロケットだんは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "efb6e9e67ceca1b7",
+  "translation": "えいえんに かいさん する!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "820a8e31e2a48f5d",
+  "translation": "わたしは ふたたび しゅぎょうに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7b3a73041b01c8c",
+  "translation": "じんせいを ささげる つもりだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc04e92722bfdacd",
+  "translation": "いつか また あおう!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28a71e9448493ffc",
+  "translation": "さらばだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "806679fcdf40adb0",
+  "translation": "{JPN}グリーンバッジが あれば どんな\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a40777f0e619c81a",
+  "translation": "レベルの ポケモンも したがう。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db3b03eb1b153a1d",
+  "translation": "ポケモントレーナーとして\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06dd090e877d2712",
+  "translation": "きわめた ものの あかしだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ea5b30da5746604",
+  "translation": "それが あれば ポケモンリーグに\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4124ac50fd099739",
+  "translation": "ちょうせん できる。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb5ba83068789bb8",
+  "translation": "それと この わざマシンも やろう。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f4acf45a9f31716",
+  "translation": "ポケモンリーグへの ちょうせんへの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "729affff3b30a180",
+  "translation": "はなむけだ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4774171013b18a63",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は サカキから\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "992c760eba0b0fe2",
+  "translation": "わざマシン26を もらった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "590881609a81a454",
+  "translation": "{JPN}わざマシン26は じしん。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fc9ffe1606222b8",
+  "translation": "おおきな ゆれを おこす\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8ff7334f8c3a117",
+  "translation": "きょうりょくな こうげきだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82877178d5dce0bf",
+  "translation": "わたしが ここで ジムを していた\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9eb8e50f07a8ef57",
+  "translation": "ずっと むかしに つくった ものだ… $",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc66d0260019c1f5",
+  "translation": "{JPN}きみには これを もつ よゆうが ないな!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab27ee8ce430ffaa",
+  "translation": "{JPN}へっ!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdfbd5df212fb5ef",
+  "translation": "そろそろ ばてて きた\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1cc55cabc3bb684",
+  "translation": "ころだろう!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "030812e3693ee841",
+  "translation": "{JPN}ガスけつだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de06fbb8ac443bdd",
+  "translation": "{JPN}うちの ジムリーダーに ついていくには\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1137619437084fb2",
+  "translation": "パワーが いるぞ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ac4a35dfcf231b5",
+  "translation": "{JPN}ぐおおお!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95cb2ebc15b3b6a7",
+  "translation": "いかりが こみあげて きたぞ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c63a616c555e1d1",
+  "translation": "{JPN}ぐはっ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fbf64356daf77eb",
+  "translation": "{JPN}おれは まだまだ だ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31f4feda845f2da1",
+  "translation": "{JPN}ポケモンと ぼくは すばらしい\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0d01301aff09d24",
+  "translation": "おんがくを かなでるのさ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d0afd5d3f7c55bf",
+  "translation": "{JPN}きみは かんぺきな ハーモニーだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "114098aabf47d871",
+  "translation": "{JPN}うちの ジムリーダーの しょうたいを\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "471a24b9f1dc32c4",
+  "translation": "しってるかい?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dda8dd937ae0b437",
+  "translation": "{JPN}カラテこそ さいこうの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86bac9918e6b3e6c",
+  "translation": "ぶじゅつ なのだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ca693aa85eab542",
+  "translation": "{JPN}アイヤー!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d4556373fcc0c18",
+  "translation": "{JPN}おれの ポケモンが おれほど\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9ce197d1f9e7569",
+  "translation": "カラテが うまければ…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a6da272e152bda5",
+  "translation": "{JPN}ほんとうの てんさいは かっこよく かつ。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f216ea12a61a96e",
+  "translation": "{JPN}てが すべった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "919eaf85f5e69bc9",
+  "translation": "{JPN}こんな まけかたをしたら\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05b9e252f9a7d6cd",
+  "translation": "リーダーに しかられる…$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e15d187c75cbf74c",
+  "translation": "{JPN}おれは カラテおう!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "619629934b2d8fd9",
+  "translation": "きさまの うんめいは おれ しだい!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "183e62909d3baf16",
+  "translation": "{JPN}アイヤー!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecabe327ce738de0",
+  "translation": "{JPN}ポケモンリーグ だと?\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e8ecfcab3a59cc7",
+  "translation": "おまえが? ちょうしに のるなよ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35a0f7be84275d84",
+  "translation": "{JPN}おれの ムチの おとで おまえの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "177147fa4d964f1b",
+  "translation": "ポケモンは すくみあがるぞ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e17f6d2661a9650a",
+  "translation": "{JPN}いてて!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1df05df458949719",
+  "translation": "ムチが はねかえった!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "967143bdc782950e",
+  "translation": "{JPN}まて!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c53fd51ccfde06f5",
+  "translation": "ちょっと ゆだん しただけだ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "413f9df32243e1a5",
+  "translation": "{JPN}トキワジムは ながい あいだ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59056e70bb4d006c",
+  "translation": "しまって いたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2241958427f21199",
+  "translation": "でも いまは リーダーが もどってきた!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2495eeceee26af5",
+  "translation": "{JPN}まけた のか?$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3d4bdc80e3d21ed",
+  "translation": "{JPN}うちの ジムリーダーを たおさないと\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5aa9e3fe694999cc",
+  "translation": "ポケモンリーグには\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d4658dc190e022a",
+  "translation": "すすめないぞ!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "665ee2544d2480a5",
+  "translation": "{JPN}オーッス!\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "178eb8a5480ea805",
+  "translation": "みらいの チャンピオン!\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "81b299e0c61044eb",
+  "translation": "おれでも トキワの リーダーの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51e68f68392acb06",
+  "translation": "しょうたいは しらないんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e9f4f04407adf53",
+  "translation": "でも ひとつ たしかな ことがある。\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0764a3a589d567d9",
+  "translation": "ここの リーダーは ジムリーダーの\\l",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "351434cf08888b3d",
+  "translation": "なかで いちばん てごわいぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a79f70f7a87d6f09",
+  "translation": "それと ここの トレーナーは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e513ea72993251a",
+  "translation": "じめんタイプが すきらしい。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "632524ca190e1fa4",
+  "translation": "{JPN}おどろいた! サカキが トキワの\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d597dc0caa55c07",
+  "translation": "ジムリーダー だったなんて!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96fe6ae5ff369fcf",
+  "translation": "{JPN}トキワ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc74b44f3a6ec057",
+  "translation": "リーダー ?\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "885a2b9149fc30bd",
+  "translation": "しょうりした トレーナー:\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d4123d56afee68a",
+  "translation": "{ENG}{RIVAL}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41a53a990a3b5cdf",
+  "translation": "{JPN}トキワ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e8b325248a6a360",
+  "translation": "リーダー サカキ\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3f84593ebead680",
+  "translation": "しょうりした トレーナー:\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b11d267b73dd5bf8",
+  "translation": "{ENG}{RIVAL}{JPN} {ENG}{PLAYER}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6db6329d21a902db",
+  "translation": "{JPN}ニックネームを かんがえるのは\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "620cee9e280c75af",
+  "translation": "たのしいけど かんたん じゃないわ。\\p",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "890ddbd760a08e7b",
+  "translation": "かっこいい なまえも いいけど\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b440bcb86d676876",
+  "translation": "かんたんな ほうが おぼえやすいの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9cc7cafc0b53cda8",
+  "translation": "{JPN}パパも ポケモンが だいすきなの。$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf5561ab68827033",
+  "translation": "{JPN}スピーちゃん: チュンチュン!$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d87ebc0e63705be6",
+  "translation": "{JPN}オニスズメ\\n",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2396af71ff3b045",
+  "translation": "なまえ: スピーちゃん$",
+  "provenance": {
+   "batch": "dialogue-kanto-96",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

@@ -212,31 +212,31 @@ Route23_Movement_WalkDown::
 	step_end
 
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Only truly skilled TRAINERS are\n"
-	.string "allowed through.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet!$"
+	.string "{JPN}ほんとうに うでの たつ トレーナーしか\n"
+	.string "ここは とおれない。\p"
+	.string "きみは まだ {ENG}{STR_VAR_1}{JPN}を\n"
+	.string "もっていない!$"
 
 Text_CantLetYouPass::
-	.string "Rules are rules.\n"
-	.string "I can't let you pass.$"
+	.string "{JPN}きまりは きまりだ。\n"
+	.string "とおすわけには いかない。$"
 
 Text_OhThatsBadgeGoRightAhead::
-	.string "Oh! That is the {STR_VAR_1}!\n"
-	.string "Go right ahead.$"
+	.string "{JPN}おお! それは {ENG}{STR_VAR_1}{JPN}!\n"
+	.string "さあ とおりたまえ。$"
 
 Text_OnlyPassWithBadgeDontHaveYet::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet.\p"
-	.string "You have to have it to get to\n"
-	.string "the POKéMON LEAGUE.$"
+	.string "{JPN}ここを とおれるのは\n"
+	.string "{ENG}{STR_VAR_1}{JPN}を もつ ものだけだ。\p"
+	.string "きみは まだ {ENG}{STR_VAR_1}{JPN}を\n"
+	.string "もっていない。\p"
+	.string "それが なければ ポケモンリーグへは\n"
+	.string "いけないぞ。$"
 
 Text_OnlyPassWithBadgeOhGoAhead::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "Oh! That is the {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
-	.string "Okay, then.\n"
-	.string "Please, go right ahead.$"
+	.string "{JPN}ここを とおれるのは\n"
+	.string "{ENG}{STR_VAR_1}{JPN}を もつ ものだけだ。\p"
+	.string "おお! それは {ENG}{STR_VAR_1}{JPN}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
+	.string "よし。\n"
+	.string "さあ とおりたまえ。$"
 

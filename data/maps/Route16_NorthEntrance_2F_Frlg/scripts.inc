@@ -51,49 +51,49 @@ Route16_NorthEntrance_2F_EventScript_GetAideRequestInfo::
 	return
 
 Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
-	.string "I'm on a relaxing ride on my new\n"
-	.string "bike with my girlfriend.$"
+	.string "{JPN}かのじょと あたらしい じてんしゃで\n"
+	.string "のんびり サイクリング ちゅうさ$"
 
 Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
-	.string "We're going riding together on our\n"
-	.string "new bikes.$"
+	.string "{JPN}あたらしい じてんしゃで\n"
+	.string "いっしょに サイクリング するの$"
 
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "It's the CELADON DEPT. STORE!$"
+	.string "{JPN}ぼうえんきょうで\n"
+	.string "なにが みえるかな…\p"
+	.string "タマムシデパートだ!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "There's a long path over water far\n"
-	.string "away.$"
+	.string "{JPN}ぼうえんきょうで\n"
+	.string "なにが みえるかな…\p"
+	.string "とおくに うみの うえを とおる\n"
+	.string "ながい みちが ある$"
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
-	.string "Hi! Remember me?\n"
-	.string "I'm one of PROF. OAK's AIDES.\p"
-	.string "If your POKéDEX has complete data\n"
-	.string "on 40 species, I'm supposed to\l"
-	.string "give you a reward.\p"
-	.string "PROF. OAK entrusted me with an\n"
-	.string "AMULET COIN for you.\p"
-	.string "So, {PLAYER}, let me ask you.\p"
-	.string "Have you gathered data on at least\n"
-	.string "40 kinds of POKéMON?$"
+	.string "{JPN}こんにちは! おぼえてますか?\n"
+	.string "オーキドはかせの じょしゅです\p"
+	.string "ずかんに 40しゅるいの\n"
+	.string "データが そろっていたら\l"
+	.string "ごほうびを わたす ことに なってます\p"
+	.string "はかせから あなたに わたす\n"
+	.string "おまもりこばんを あずかっています\p"
+	.string "では {ENG}{PLAYER}{JPN}さん おききします\p"
+	.string "ポケモンを すくなくとも\n"
+	.string "40しゅるい しらべましたか?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "Congratulations!\n"
-	.string "Here you go!$"
+	.string "{JPN}すばらしい! つかまえたり てにいれた\n"
+	.string "ポケモンは {ENG}{STR_VAR_3}{JPN}しゅるいですね!\p"
+	.string "おめでとう ございます!\n"
+	.string "どうぞ!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-	.string "{PLAYER} received the AMULET COIN\n"
-	.string "from the AIDE.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は じょしゅから\n"
+	.string "おまもりこばんを もらった!$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-	.string "An AMULET COIN is an item to be\n"
-	.string "held by a POKéMON.\p"
-	.string "If the POKéMON appears in a winning\n"
-	.string "battle, you will earn more money.$"
+	.string "{JPN}おまもりこばんは ポケモンに\n"
+	.string "もたせる どうぐです\p"
+	.string "もたせた ポケモンが でて しょうぶに かつと\n"
+	.string "もらえる おかねが ふえるんです$"
 

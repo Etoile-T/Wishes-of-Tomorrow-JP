@@ -302,192 +302,192 @@ BattleFrontier_Lounge7_EventScript_Gentleman::
 	end
 
 BattleFrontier_Lounge7_Text_LeftTutorIntro:
-	.string "Buhahaha!\p"
-	.string "You couldn't tell it from looking now,\n"
-	.string "but I used to be one tough TRAINER.\p"
-	.string "I had a reputation as the toughest\n"
-	.string "BEAUTY around, I tell you!\p"
+	.string "{JPN}ブハハハ!\p"
+	.string "いまじゃ そうは みえない だろうけど\n"
+	.string "むかしは つよい トレーナー だったんだよ。\p"
+	.string "このへんじゃ いちばん つよい\n"
+	.string "おとなのおねえさんと いわれたもんさ!\p"
 	.string "… … … … … …\p"
-	.string "What is it now?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that blowhard woman over\n"
-	.string "there. I'm actually talented!\p"
-	.string "Let me prove it to you.\n"
-	.string "I can teach your POKéMON special and\l"
-	.string "yet cute moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "なんだい?\n"
+	.string "しんじて ないね?\p"
+	.string "あたしゃ むこうの ほらふき おんなとは\n"
+	.string "ちがうよ! ほんとに じつりょくが あるんだ!\p"
+	.string "しょうこを みせて やろう。\n"
+	.string "あんたの ポケモンに とくべつで\l"
+	.string "かわいい わざを おしえて やるよ。\p"
+	.string "ただし ただじゃ ないよ。\n"
+	.string "おしえる わざの おだいは\l"
+	.string "バトルポイントを ちょいと いただくよ。$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
-	.string "Buhahaha!\p"
-	.string "Are you back to learn special and\n"
-	.string "yet cute POKéMON moves?$"
+	.string "{JPN}ブハハハ!\p"
+	.string "また とくべつで かわいい\n"
+	.string "ポケモンの わざを おぼえに きたのかい?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove:
-	.string "Fine, fine, look here!\n"
-	.string "Which move should I teach?$"
+	.string "{JPN}よしよし みてごらん!\n"
+	.string "どの わざを おしえて ほしいんだい?$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
-	.string "The move {STR_VAR_1}, is it?\n"
-	.string "That will be {STR_VAR_2} Battle Points, okay?$"
+	.string "{JPN}{ENG}{STR_VAR_1}{JPN} が ええのんか!\n"
+	.string "{ENG}{STR_VAR_2}{JPN}BP じゃが ええんじゃの!?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-	.string "Fine, fine, now pick the POKéMON\n"
-	.string "I should teach the move to.$"
+	.string "{JPN}ほいじゃあ わざを おぼえさせる\n"
+	.string "ポケモンを きめて おくれ!$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
-	.string "What the…\n"
-	.string "You haven't got enough Battle Points!$"
+	.string "{JPN}なんじゃ……\n"
+	.string "あんた バトルポイントが たりんぞ!$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
-	.string "Do you see how skilled I am now?\n"
-	.string "I'll take your Battle Points, thanks!$"
+	.string "{JPN}あたしゃの すごさが わかったかいっ!!\n"
+	.string "じゃあ バトルポイントは いただくぞぃ!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo:
-	.string "What's that?\n"
-	.string "You don't want to…\p"
-	.string "If you want to see how skilled I am,\n"
-	.string "you come see me anytime!$"
+	.string "{JPN}なんだって?\n"
+	.string "いらない だって……\p"
+	.string "あたしの うでまえが みたく なったら\n"
+	.string "いつでも おいで!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
-	.string "Ihihihi!\p"
-	.string "I know it's hard to see now, but I used\n"
-	.string "to be one fantastic TRAINER.\p"
-	.string "I had a reputation as the most\n"
-	.string "invincible SWIMMER around, I tell you!\p"
+	.string "{JPN}イヒヒヒ!\p"
+	.string "いまは そうは みえない だろうけど\n"
+	.string "むかしは すごい トレーナー だったのさ。\p"
+	.string "このへんじゃ いちばん むてきの\n"
+	.string "ビキニのおねえさんと いわれたもんさ!\p"
 	.string "… … … … … …\p"
-	.string "What's wrong?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that buffoonish woman over\n"
-	.string "there. I'm actually experienced!\p"
-	.string "I can prove it to you.\n"
-	.string "I can teach your POKéMON hard and\l"
-	.string "yet pretty moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "どうしたんだい?\n"
+	.string "しんじて ないね?\p"
+	.string "あたしゃ むこうの まぬけな おんなとは\n"
+	.string "ちがうよ! ほんとに けいけんが あるんだ!\p"
+	.string "しょうこを みせて やれるよ。\n"
+	.string "あんたの ポケモンに つよくて\l"
+	.string "きれいな わざを おしえて やろう。\p"
+	.string "ただし ただじゃ ないよ。\n"
+	.string "おしえる わざの おだいは\l"
+	.string "バトルポイントを ちょいと いただくよ。$"
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
-	.string "Ihihihi!\p"
-	.string "Have you come to learn hard and\n"
-	.string "yet pretty POKéMON moves?$"
+	.string "{JPN}イヒヒヒ!\p"
+	.string "つよくて きれいな ポケモンの わざを\n"
+	.string "おぼえに きたのかい?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
-	.string "Those ladies, the way they bad-mouth\n"
-	.string "each other, you probably think that\l"
-	.string "they don't get along.\p"
-	.string "But if that were true, they wouldn't\n"
-	.string "stay out here together, would they?$"
+	.string "{JPN}あの ふたりって おたがいの\n"
+	.string "わるぐち いい あってる から\l"
+	.string "なかが わるいとか おもって ないか?\p"
+	.string "でも ほんとに そう だったら いっしょに\n"
+	.string "こんなところに いたり しないよな$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
-	.string "When I was just a wee YOUNGSTER,\n"
-	.string "those ladies were strong and beautiful.\p"
-	.string "They were idols among us TRAINERS.\p"
-	.string "Even now, age hasn't dulled their\n"
-	.string "abilities.\p"
-	.string "In fact, their POKéMON moves have\n"
-	.string "grown even more polished.\p"
-	.string "But… For some reason, I can't help\n"
-	.string "but feel this…\p"
-	.string "Time is so cruel…$"
+	.string "{JPN}おれが まだ たんパンこぞう だったころ\n"
+	.string "あの ふたりは つよくて うつくしかった。\p"
+	.string "トレーナーたちの あこがれ だったんだ。\p"
+	.string "いまでも としを とって\n"
+	.string "うでが おちた なんてことは ない。\p"
+	.string "それどころか ポケモンの わざは\n"
+	.string "もっと みがきが かかっている。\p"
+	.string "でも…… なぜだか こう\n"
+	.string "おもわずには いられないんだ……\p"
+	.string "じかんって ざんこくだな……$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "Recovers up to\n"
-	.string "half the user's\n"
-	.string "maximum HP.$"
+	.string "{JPN}キズついた からだを\n"
+	.string "たいりょくの\n"
+	.string "はんぶん かいふく$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-	.string "Inflicts damage\n"
-	.string "identical to the\n"
-	.string "user's level.$"
+	.string "{JPN}いんりょくを りよう\n"
+	.string "レベル ぶんの\n"
+	.string "ダメージを あたえる$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
-	.string "Recovers half the\n"
-	.string "damage inflicted\n"
-	.string "on a sleeping foe.$"
+	.string "{JPN}ねている てきに\n"
+	.string "あたえた ダメージの\n"
+	.string "はんぶんを かいふく$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc::
-	.string "A strong punch\n"
-	.string "thrown with\n"
-	.string "incredible power.$"
+	.string "{JPN}ものすごい ちからを\n"
+	.string "こめた パンチで\n"
+	.string "てきを こうげき$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc::
-	.string "An extremely\n"
-	.string "powerful kick with\n"
-	.string "intense force.$"
+	.string "{JPN}ものすごい ちからを\n"
+	.string "こめた キックで\n"
+	.string "てきを こうげき$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc::
-	.string "A full-body slam\n"
-	.string "that may cause\n"
-	.string "paralysis.$"
+	.string "{JPN}たおれこみ こうげき\n"
+	.string "てきを まひ させる\n"
+	.string "ことが ある$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-	.string "Large boulders\n"
-	.string "are hurled. May\n"
-	.string "cause flinching.$"
+	.string "{JPN}いわで こうげき\n"
+	.string "てきを ひるませる\n"
+	.string "ことが ある$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
-	.string "Retaliates any\n"
-	.string "physical hit with\n"
-	.string "double the power.$"
+	.string "{JPN}ぶつりこうげきの\n"
+	.string "ダメージを\n"
+	.string "ばいにして かえす$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-	.string "A weak jolt of\n"
-	.string "electricity that\n"
-	.string "paralyzes the foe.$"
+	.string "{JPN}よわい でんげきを\n"
+	.string "ぶつけて あいてを\n"
+	.string "まひ させる$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-	.string "A fighting dance\n"
-	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.string "{JPN}たたかいの おどりで\n"
+	.string "こうげきを グーンと\n"
+	.string "あげる$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-	.string "Curls up to con-\n"
-	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "{JPN}からだを まるめて\n"
+	.string "ぼうぎょを\n"
+	.string "あげる$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-	.string "A loud attack\n"
-	.string "that can be used\n"
-	.string "only while asleep.$"
+	.string "{JPN}ねている とき だけ\n"
+	.string "つかえる わざ\n"
+	.string "いびきで こうげき$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
-	.string "Hurls mud in the\n"
-	.string "foe's face to re-\n"
-	.string "duce its accuracy.$"
+	.string "{JPN}ドロを かけて\n"
+	.string "めいちゅうりつを\n"
+	.string "さげる$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-	.string "Sprays star-\n"
-	.string "shaped rays\n"
-	.string "that never miss.$"
+	.string "{JPN}だれも よけることの\n"
+	.string "できない ほしがたの\n"
+	.string "こうせんで こうげき$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
-	.string "A chilling attack\n"
-	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.string "{JPN}すごい れいきで\n"
+	.string "こうげき\n"
+	.string "すばやさを さげる$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
-	.string "Endures any at-\n"
-	.string "tack for 1 turn,\n"
-	.string "leaving 1HP.$"
+	.string "{JPN}そのターンで\n"
+	.string "こうげき されても\n"
+	.string "たいりょくが1のこる$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc::
-	.string "Copies the foe's\n"
-	.string "effect(s) and\n"
-	.string "gives to the user.$"
+	.string "{JPN}あいての\n"
+	.string "ほじょこうかを\n"
+	.string "じぶんに コピーする$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc::
-	.string "An icy punch\n"
-	.string "that may\n"
-	.string "freeze the foe.$"
+	.string "{JPN}つめたい パンチで\n"
+	.string "てきを こおらせる\n"
+	.string "ことが ある$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc::
-	.string "An electrified\n"
-	.string "punch that may\n"
-	.string "paralyze the foe.$"
+	.string "{JPN}でんげき パンチで\n"
+	.string "てきを まひさせる\n"
+	.string "ことが ある$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc::
-	.string "A fiery punch\n"
-	.string "that may burn\n"
-	.string "the foe.$"
+	.string "{JPN}ほのおの パンチで\n"
+	.string "てきを やけどさせる\n"
+	.string "ことが ある$"

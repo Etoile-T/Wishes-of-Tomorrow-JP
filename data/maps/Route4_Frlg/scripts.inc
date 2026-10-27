@@ -17,81 +17,81 @@ Route4_EventScript_RouteSign::
 	end
 
 Route4_Text_TrippedOverGeodude::
-	.string "Ouch! I tripped over a rocky\n"
-	.string "POKéMON, GEODUDE!$"
+	.string "{JPN}いてっ! いわの ポケモン\n"
+	.string "イシツブテに つまずいちゃった!$"
 
 Route4_Text_CrissyIntro::
-	.string "I came to MT. MOON in search of\n"
-	.string "mushroom POKéMON.$"
+	.string "{JPN}キノコの ポケモンを さがしに\n"
+	.string "おつきみやまに きたの。$"
 
 Route4_Text_CrissyDefeat::
-	.string "After all I did to catch them!$"
+	.string "{JPN}せっかく つかまえたのに!$"
 
 Route4_Text_CrissyPostBattle::
-	.string "There might not be any more\n"
-	.string "mushrooms here.\p"
-	.string "I think I got them all.$"
+	.string "{JPN}ここには もう キノコは\n"
+	.string "ないかもしれない。\p"
+	.string "ぜんぶ つかまえちゃったと おもうわ。$"
 
 Route4_Text_MtMoonEntrance::
-	.string "MT. MOON\n"
-	.string "Tunnel Entrance$"
+	.string "{JPN}おつきみやま\n"
+	.string "トンネル いりぐち$"
 
 Route4_Text_RouteSign::
-	.string "ROUTE 4\n"
-	.string "MT. MOON - CERULEAN CITY$"
+	.string "{JPN}ここは 4ばんどうろ\n"
+	.string "おつきみやま - ハナダシティ$"
 
 Text_MegaPunchTeach::
-	.string "A punch of roaring ferocity!\p"
-	.string "Packed with destructive power!\p"
-	.string "When the chips are down,\n"
-	.string "MEGA PUNCH is the ultimate attack!\l"
-	.string "You agree, yes?\p"
-	.string "Now!\n"
-	.string "Let me teach it to your POKéMON!$"
+	.string "{JPN}うなりを あげる もうれつな パンチ!\p"
+	.string "はかいりょく ばつぐん!\p"
+	.string "いざという ときには\n"
+	.string "メガトンパンチこそ さいきょうの こうげき!\l"
+	.string "そう おもうだろう?\p"
+	.string "さあ!\n"
+	.string "きみの ポケモンに おしえてやろう!$"
 
 Text_MegaPunchDeclined::
-	.string "You'll be back when you understand\n"
-	.string "the worth of MEGA PUNCH.$"
+	.string "{JPN}メガトンパンチの ねうちが わかったら\n"
+	.string "また くるが いい。$"
 
 Text_MegaPunchWhichMon::
-	.string "Fine!\n"
-	.string "Which POKéMON will learn it?$"
+	.string "{JPN}よし!\n"
+	.string "どの ポケモンに おぼえさせる?$"
 
 Text_MegaPunchTaught::
-	.string "Now, we are comrades in the way of\n"
-	.string "punching!\p"
-	.string "You should go before you're seen\n"
-	.string "by the misguided fool who trains\l"
-	.string "only his silly kicking over there.$"
+	.string "{JPN}これで われらは パンチの みちを\n"
+	.string "ゆく どうしだ!\p"
+	.string "むこうで くだらない キックばかり\n"
+	.string "きたえている おろかものに\l"
+	.string "みつかる まえに たちさるが いい。$"
 
 Text_MegaKickTeach::
-	.string "A kick of brutal ferocity!\p"
-	.string "Packed with destructive power!\p"
-	.string "When you get right down to it,\n"
-	.string "MEGA KICK is the ultimate attack!\l"
-	.string "Don't you agree?\p"
-	.string "Okay!\n"
-	.string "I'll teach it to your POKéMON!$"
+	.string "{JPN}ざんこくな までに もうれつな キック!\p"
+	.string "はかいりょく ばつぐん!\p"
+	.string "つまるところ\n"
+	.string "メガトンキックこそ さいきょうの こうげき!\l"
+	.string "そう おもわないか?\p"
+	.string "よし!\n"
+	.string "きみの ポケモンに おしえてやる!$"
 
 Text_MegaKickDeclined::
-	.string "You'll come crawling back when you\n"
-	.string "realize the value of MEGA KICK.$"
+	.string "{JPN}メガトンキックの ねうちに きづけば\n"
+	.string "はってでも もどってくるだろう。$"
 
 Text_MegaKickWhichMon::
-	.string "All right!\n"
-	.string "Which POKéMON wants to learn it?$"
+	.string "{JPN}いいだろう!\n"
+	.string "どの ポケモンが おぼえたい?$"
 
 Text_MegaKickTaught::
-	.string "Now, we are soul mates in the way\n"
-	.string "of kicking!\p"
-	.string "You should run before you're seen\n"
-	.string "by the deluded nitwit who trains\l"
-	.string "only simple punching over there.$"
+	.string "{JPN}これで われらは キックの みちを\n"
+	.string "ゆく こころの とも だ!\p"
+	.string "むこうで たんじゅんな パンチばかり\n"
+	.string "きたえている おおばかものに\l"
+	.string "みつかる まえに にげるが いい。$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
-	.string "Oh, wow, that's the BOULDERBADGE!\n"
-	.string "You got it from BROCK, didn't you?\p"
-	.string "BROCK is cool. He's not just tough.\n"
-	.string "People like and respect him.\p"
-	.string "I want to become a GYM LEADER\n"
-	.string "like him.$"
+	.string "{JPN}わあ それって グレーバッジ!\n"
+	.string "タケシから もらったんでしょ?\p"
+	.string "タケシは かっこいい。 つよいだけじゃない。\n"
+	.string "みんなに したわれて そんけい されてる。\p"
+	.string "ぼくも タケシみたいな\n"
+	.string "ジムリーダーに なりたいな。$"

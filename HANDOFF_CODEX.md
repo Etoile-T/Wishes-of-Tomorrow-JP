@@ -11,7 +11,10 @@ Codexの会話69（111〜113番道路ほか258行、抽出済み・未適用だ�
 レビュー: reviews/dialogue-northern-routes-69.review.md、dialogue-hoenn-wave-70-78.review.md、dialogue-frontier-kanto-text-79-108.review.md。下書きは reviews/drafts/、サブエージェント用の共通指示は reviews/drafts/BRIEF-subagents.md。
 成果物: ../outputs/gba/wishes-jp-49973-08c39ad6.gba（SHA256 9bb0cdc0…2fec、source 5b6c415afe、ROM29,576,456B）。中間版 wishes-jp-21983-bc0b1220.gba。Excel ../outputs/translation-types-49973/、Git内 exports/types-49973.xlsx。BPS再適用一致。実ゲームの表示・進行・保存は未検証。
 
-残り（優先順の案）: (1) EGGS{STR_VAR_1}等が続くC部品（src/strings.c gText_FrontierFacilityAreInelegible、battle_message.c gText_Are）を会話側の訳に接続 (2) セリフ系C文字列（match_call_messages.h、follower_messages.h、trainer_hill.h、battle_frontier_trainers.h、trainer_tower_sets.c、apprentice.h、battle_tent.h。枠幅が会話と違う） (3) src/strings.c ほかUI (4) 図鑑説明・技説明 (5) 弟子の台詞の一人称の揺れ、テレビの秘密基地グッズ名（decoration未訳）の統一 (6) 実機での表示確認。
+追記（会話111〜122）: エントリーコールのプロフィール（15マス/項目）、連れ歩き、strings.c、フロンティア/ドーム/field_specials等の進行文、エンディングのクレジット（人名は英字のまま）、カントーのトレーナー名（trainers_frlg.party）、フロンティア/テント/ヒル/タワー/弟子の名前（JPN_NAME）を翻訳。生成ファイル trainers.h・trainers_frlg.h・region_map_entries.h のカタログ行は再生成結果と照合して記録。EGGS{STR_VAR_1}はgText_FrontierFacilityAreInelegible「は さんか できません」に接続済み。最新 ../outputs/gba/wishes-jp-54527-822c4a5e.gba（source eb3544cb94）、Excel ../outputs/translation-types-54527/。54,527/7,195。レビュー reviews/c-dialogue-and-names-111-117.review.md、c-story-messages-118-122.review.md。
+**注意**: C文字列の固定長配列（例 gText_123Dot[][3]）に{JPN}/{ENG}を入れるとビルドエラーになる。C側を訳すときは宣言のサイズを確認する。
+
+残り（7,195件、ストーリー外のUI/データ）: 図鑑・種族データ2,679、かんたん会話の単語1,129、技958、デバッグ768、ユニオンルーム227、コンテスト相手208、きのみ204、もようがえ241 ほか。弟子の台詞の一人称の揺れ、テレビの秘密基地グッズ名（decoration未訳）の統一、実機での表示確認も未了。
 
 ## 以前の会話68（2026-10-27）
 

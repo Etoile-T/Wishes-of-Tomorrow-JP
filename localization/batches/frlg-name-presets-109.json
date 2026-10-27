@@ -1,0 +1,338 @@
+[
+ {
+  "id": "1c1c375e66a64411",
+  "translation": "{JPN}じぶんで きめる$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "bbc71cf7d05f529c",
+  "translation": "{JPN_NAME_4}グリーン$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "04a43aec2b747030",
+  "translation": "{JPN_NAME_3}レッド$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "271a9614a2cc758d",
+  "translation": "{JPN_NAME_3}リーフ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "dd7b6769f219ad78",
+  "translation": "{JPN_NAME_4}ファイア$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "fa1021c4b485e0d0",
+  "translation": "{JPN_NAME_3}シゲル$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "15bc9640637345de",
+  "translation": "{JPN_NAME_2}カズ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "d7026c09e6a98d69",
+  "translation": "{JPN_NAME_3}トオル$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "131627851410ab73",
+  "translation": "{JPN_NAME_3}サトシ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "da79b765136fda15",
+  "translation": "{JPN_NAME_2}ケネ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "ca263a548d6f6c2b",
+  "translation": "{JPN_NAME_2}ゲキ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "27576b6ecb93321b",
+  "translation": "{JPN_NAME_4}ジャック$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "c80ae62cc8d1b861",
+  "translation": "{JPN_NAME_4}ジャンヌ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "85c4d3745925b218",
+  "translation": "{JPN_NAME_3}ジョン$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "bb65cb84fd1c95b1",
+  "translation": "{JPN_NAME_3}カモン$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "ff5aacbd6160a09a",
+  "translation": "{JPN_NAME_3}カール$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "8452c72e5330f467",
+  "translation": "{JPN_NAME_4}テイラー$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "5d3cf3771375e5c2",
+  "translation": "{JPN_NAME_4}オスカー$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "f70226a2fe5770c9",
+  "translation": "{JPN_NAME_2}ヒロ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "51f8fea2dfc73c7d",
+  "translation": "{JPN_NAME_4}マックス$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "e68edafc59dc8cd8",
+  "translation": "{JPN_NAME_3}ジョン$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "7fbb1a36f7d74ded",
+  "translation": "{JPN_NAME_3}ラルフ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "8d153f8ff5873671",
+  "translation": "{JPN_NAME_2}ケイ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "17dc26dbf78f4a6b",
+  "translation": "{JPN_NAME_2}トシ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "3a75a00a9b95f230",
+  "translation": "{JPN_NAME_3}ロアク$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "a10e295d96f154e4",
+  "translation": "{JPN_NAME_2}オミ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "5f20cecda8a5a62b",
+  "translation": "{JPN_NAME_4}ジョディ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "f2f75a2867a292d4",
+  "translation": "{JPN_NAME_4}アマンダ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "8bb527dcddacc49a",
+  "translation": "{JPN_NAME_4}ヒラリー$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "1340f4822fb7e4cc",
+  "translation": "{JPN_NAME_4}メイキー$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "c1a0c78e4cfecc1e",
+  "translation": "{JPN_NAME_2}ミチ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "f61c0dbed5bce37f",
+  "translation": "{JPN_NAME_3}ポーラ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "f57d1ba82a58e024",
+  "translation": "{JPN_NAME_4}ジューン$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "26cc9c347edc256c",
+  "translation": "{JPN_NAME_4}キャシー$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "4986d38c18818eae",
+  "translation": "{JPN_NAME_2}レイ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "2179e892acf394f8",
+  "translation": "{JPN_NAME_2}セダ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "e05a482dd2040c77",
+  "translation": "{JPN_NAME_2}キコ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "41099e578a861f76",
+  "translation": "{JPN_NAME_2}ミナ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "e7be8ff01be08770",
+  "translation": "{JPN_NAME_3}ノリエ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "e3b4265723e8d28f",
+  "translation": "{JPN_NAME_2}サイ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "60f834fbebb91879",
+  "translation": "{JPN_NAME_2}モモ$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ },
+ {
+  "id": "5ed43ed964829966",
+  "translation": "{JPN_NAME_4}スージー$",
+  "provenance": {
+   "batch": "frlg-name-presets-109",
+   "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+  }
+ }
+]

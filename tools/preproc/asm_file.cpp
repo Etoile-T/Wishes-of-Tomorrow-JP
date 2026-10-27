@@ -25,6 +25,7 @@
 #include "asm_file.h"
 #include "char_util.h"
 #include "utf8.h"
+#include "braille_ja.h"
 #include "string_parser.h"
 #include "../../include/constants/characters.h"
 #include "io.h"
@@ -326,6 +327,65 @@ void AsmFile::VerifyStringLength(int length)
         RaiseError("mapped string longer than %d bytes", kMaxStringLength);
 }
 
+static int ToHiragana(int code)
+{
+    return (code >= 0x30A1 && code <= 0x30F6) ? code - 0x60 : code;
+}
+
+// Encodes one kana (or kana + small ya/yu/yo) at m_pos as Japanese braille cells.
+// Returns the number of source bytes consumed.
+int AsmFile::ReadJapaneseBraille(unsigned char* s, int& length)
+{
+    UnicodeChar first = DecodeUtf8(&m_buffer[m_pos]);
+    if (first.code == -1)
+        RaiseError("invalid UTF-8 in braille string");
+    int code = ToHiragana(first.code);
+    int consumed = first.encodingLength;
+
+    for (const JapaneseBrailleCell& cell : kJapaneseBrailleCells)
+    {
+        if (cell.code == code)
+        {
+            VerifyStringLength(length);
+            s[length++] = cell.cell;
+            return consumed;
+        }
+    }
+
+    for (const JapaneseBrailleKana& kana : kJapaneseBrailleKana)
+    {
+        if (kana.code != code)
+            continue;
+
+        unsigned char mark = kana.mark == 1 ? kJapaneseBrailleDakuten : kana.mark == 2 ? kJapaneseBrailleHandakuten : 0;
+        UnicodeChar next = DecodeUtf8(&m_buffer[m_pos + consumed]);
+        for (const JapaneseBrailleCell& small : kJapaneseBrailleSmallY)
+        {
+            if (next.code == -1 || ToHiragana(next.code) != small.code)
+                continue;
+            if (kana.vowel != 1)
+                RaiseError("small ya/yu/yo in braille must follow an i-column kana");
+            VerifyStringLength(length);
+            s[length++] = kJapaneseBrailleYoon | mark;
+            VerifyStringLength(length);
+            s[length++] = kana.row | kJapaneseBrailleVowels[small.cell];
+            return consumed + next.encodingLength;
+        }
+
+        if (mark != 0)
+        {
+            VerifyStringLength(length);
+            s[length++] = mark;
+        }
+        VerifyStringLength(length);
+        s[length++] = kana.row | kJapaneseBrailleVowels[kana.vowel];
+        return consumed;
+    }
+
+    RaiseError("character U+%04X not valid in braille string", first.code);
+    return consumed;
+}
+
 int AsmFile::ReadBraille(unsigned char* s)
 {
     static std::map<char, unsigned char> encoding =
@@ -425,6 +485,11 @@ int AsmFile::ReadBraille(unsigned char* s)
             VerifyStringLength(length);
             s[length++] = CHAR_NEWLINE;
             m_pos += 2;
+        }
+        else if ((unsigned char)m_buffer[m_pos] >= 0x80)
+        {
+            inNumber = false;
+            m_pos += ReadJapaneseBraille(s, length);
         }
         else
         {

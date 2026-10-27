@@ -1,128 +1,128 @@
 gOtherText_NewName::
-	.string "NEW NAME$"
+	.string "{JPN}じぶんで きめる$"
 
 gNameChoice_Green::
-	.string "GREEN$"
+	.string "{JPN_NAME_4}グリーン$"
 
 gNameChoice_Red::
-	.string "RED$"
+	.string "{JPN_NAME_3}レッド$"
 
 gNameChoice_Leaf::
-	.string "LEAF$"
+	.string "{JPN_NAME_3}リーフ$"
 
 gNameChoice_Fire::
-	.string "FIRE$"
+	.string "{JPN_NAME_4}ファイア$"
 
 gNameChoice_Gary::
-	.string "GARY$"
+	.string "{JPN_NAME_3}シゲル$"
 
 gNameChoice_Kaz::
-	.string "KAZ$"
+	.string "{JPN_NAME_2}カズ$"
 
 gNameChoice_Toru::
-	.string "TORU$"
+	.string "{JPN_NAME_3}トオル$"
 
 gNameChoice_Ash::
-	.string "ASH$"
+	.string "{JPN_NAME_3}サトシ$"
 
 gNameChoice_Kene::
-	.string "KENE$"
+	.string "{JPN_NAME_2}ケネ$"
 
 gNameChoice_Geki::
-	.string "GEKI$"
+	.string "{JPN_NAME_2}ゲキ$"
 
 gNameChoice_Jak::
-	.string "JAK$"
+	.string "{JPN_NAME_4}ジャック$"
 
 gNameChoice_Janne::
-	.string "JANNE$"
+	.string "{JPN_NAME_4}ジャンヌ$"
 
 gNameChoice_Jonn::
-	.string "JONN$"
+	.string "{JPN_NAME_3}ジョン$"
 
 gNameChoice_Kamon::
-	.string "KAMON$"
+	.string "{JPN_NAME_3}カモン$"
 
 gNameChoice_Karl::
-	.string "KARL$"
+	.string "{JPN_NAME_3}カール$"
 
 gNameChoice_Taylor::
-	.string "TAYLOR$"
+	.string "{JPN_NAME_4}テイラー$"
 
 gNameChoice_Oscar::
-	.string "OSCAR$"
+	.string "{JPN_NAME_4}オスカー$"
 
 gNameChoice_Hiro::
-	.string "HIRO$"
+	.string "{JPN_NAME_2}ヒロ$"
 
 gNameChoice_Max::
-	.string "MAX$"
+	.string "{JPN_NAME_4}マックス$"
 
 gNameChoice_Jon::
-	.string "JON$"
+	.string "{JPN_NAME_3}ジョン$"
 
 gNameChoice_Ralph::
-	.string "RALPH$"
+	.string "{JPN_NAME_3}ラルフ$"
 
 gNameChoice_Kay::
-	.string "KAY$"
+	.string "{JPN_NAME_2}ケイ$"
 
 gNameChoice_Tosh::
-	.string "TOSH$"
+	.string "{JPN_NAME_2}トシ$"
 
 gNameChoice_Roak::
-	.string "ROAK$"
+	.string "{JPN_NAME_3}ロアク$"
 
 gNameChoice_Omi::
-	.string "OMI$"
+	.string "{JPN_NAME_2}オミ$"
 
 gNameChoice_Jodi::
-	.string "JODI$"
+	.string "{JPN_NAME_4}ジョディ$"
 
 gNameChoice_Amanda::
-	.string "AMANDA$"
+	.string "{JPN_NAME_4}アマンダ$"
 
 gNameChoice_Hillary::
-	.string "HILLARY$"
+	.string "{JPN_NAME_4}ヒラリー$"
 
 gNameChoice_Makey::
-	.string "MAKEY$"
+	.string "{JPN_NAME_4}メイキー$"
 
 gNameChoice_Michi::
-	.string "MICHI$"
+	.string "{JPN_NAME_2}ミチ$"
 
 gNameChoice_Paula::
-	.string "PAULA$"
+	.string "{JPN_NAME_3}ポーラ$"
 
 gNameChoice_June::
-	.string "JUNE$"
+	.string "{JPN_NAME_4}ジューン$"
 
 gNameChoice_Cassie::
-	.string "CASSIE$"
+	.string "{JPN_NAME_4}キャシー$"
 
 gNameChoice_Rey::
-	.string "REY$"
+	.string "{JPN_NAME_2}レイ$"
 
 gNameChoice_Seda::
-	.string "SEDA$"
+	.string "{JPN_NAME_2}セダ$"
 
 gNameChoice_Kiko::
-	.string "KIKO$"
+	.string "{JPN_NAME_2}キコ$"
 
 gNameChoice_Mina::
-	.string "MINA$"
+	.string "{JPN_NAME_2}ミナ$"
 
 gNameChoice_Norie::
-	.string "NORIE$"
+	.string "{JPN_NAME_3}ノリエ$"
 
 gNameChoice_Sai::
-	.string "SAI$"
+	.string "{JPN_NAME_2}サイ$"
 
 gNameChoice_Momo::
-	.string "MOMO$"
+	.string "{JPN_NAME_2}モモ$"
 
 gNameChoice_Suzi::
-	.string "SUZI$"
+	.string "{JPN_NAME_4}スージー$"
 
 gControlsGuide_Text_Intro::
 	.string "{JPN}ボタンの そうさを たいせつな じゅんに\n"

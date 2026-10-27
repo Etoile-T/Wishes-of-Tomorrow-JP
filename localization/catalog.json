@@ -784107,9 +784107,13 @@
     "end": 349,
     "raw": "\"GO UP HERE.$\"",
     "source": "GO UP HERE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うえに あがれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "1870e86af2325ff5",
@@ -784119,9 +784123,13 @@
     "end": 439,
     "raw": "\"ABC$\"",
     "source": "ABC$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいうえお$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "3ca61cda82920020",
@@ -784131,9 +784139,13 @@
     "end": 529,
     "raw": "\"GHI$\"",
     "source": "GHI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さしすせそ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "57f856c9e433974f",
@@ -784143,9 +784155,13 @@
     "end": 619,
     "raw": "\"MNO$\"",
     "source": "MNO$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにぬねの$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "88923a980dd4698e",
@@ -784155,9 +784171,13 @@
     "end": 709,
     "raw": "\"TUV$\"",
     "source": "TUV$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まみむめも$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d34a54951e38c35e",
@@ -784167,9 +784187,13 @@
     "end": 799,
     "raw": "\"DEF$\"",
     "source": "DEF$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かきくけこ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d668f86999e993a4",
@@ -784179,9 +784203,13 @@
     "end": 889,
     "raw": "\"JKL$\"",
     "source": "JKL$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たちつてと$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "ff16fb7e6e58cfb5",
@@ -784191,9 +784219,13 @@
     "end": 981,
     "raw": "\"PQRS$\"",
     "source": "PQRS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はひふへほ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "b941ec9eb7b0db29",
@@ -784203,9 +784235,13 @@
     "end": 1072,
     "raw": "\".$\"",
     "source": ".$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "らりるれろ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "507cafa74194c5ae",
@@ -784215,9 +784251,13 @@
     "end": 1164,
     "raw": "\"WXYZ$\"",
     "source": "WXYZ$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やゆよ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "ebb9db0283978aa8",
@@ -784227,9 +784267,13 @@
     "end": 1254,
     "raw": "\",$\"",
     "source": ",$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わをん$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "18e9a45958f1c349",
@@ -784239,9 +784283,13 @@
     "end": 1354,
     "raw": "\"DIG HERE.$\"",
     "source": "DIG HERE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここを ほれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "28559441cb379fd2",
@@ -784251,9 +784299,13 @@
     "end": 1474,
     "raw": "\"FIRST COMES\\n\"",
     "source": "FIRST COMES\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はじめに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "c2593127e729d95f",
@@ -784263,9 +784315,13 @@
     "end": 1497,
     "raw": "\"WAILORD.\\n\"",
     "source": "WAILORD.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ホエルオー。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "f9772206efd450b1",
@@ -784275,9 +784331,13 @@
     "end": 1522,
     "raw": "\"LAST COMES\\n\"",
     "source": "LAST COMES\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さいごに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "9272565c804e0cb4",
@@ -784287,9 +784347,13 @@
     "end": 1546,
     "raw": "\"RELICANTH.$\"",
     "source": "RELICANTH.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ジーランス。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "9a4e51384cc8b359",
@@ -784299,9 +784363,13 @@
     "end": 1658,
     "raw": "\"IN THIS\\n\"",
     "source": "IN THIS\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしたちわ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "36c35165af45d91d",
@@ -784311,9 +784379,13 @@
     "end": 1680,
     "raw": "\"CAVE WE\\n\"",
     "source": "CAVE WE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この どーくつに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "0416d1a1e984b613",
@@ -784323,9 +784395,13 @@
     "end": 1699,
     "raw": "\"HAVE\\n\"",
     "source": "HAVE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すんで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "7fe7130badc4e1ed",
@@ -784335,9 +784411,13 @@
     "end": 1719,
     "raw": "\"LIVED.$\"",
     "source": "LIVED.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "98847b5e8c3a55e2",
@@ -784347,9 +784427,13 @@
     "end": 1834,
     "raw": "\"WE OWE ALL\\n\"",
     "source": "WE OWE ALL\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すべてわ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "9c6ee28097d5110d",
@@ -784359,9 +784443,13 @@
     "end": 1855,
     "raw": "\"TO THE\\n\"",
     "source": "TO THE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "fd78be94881f24ca",
@@ -784371,9 +784459,13 @@
     "end": 1877,
     "raw": "\"POKEMON.$\"",
     "source": "POKEMON.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おかげ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "6b1d62d885262ec2",
@@ -784383,9 +784475,13 @@
     "end": 1993,
     "raw": "\"BUT, WE\\n\"",
     "source": "BUT, WE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "しかし\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "bc4609e945d365a2",
@@ -784395,9 +784491,13 @@
     "end": 2018,
     "raw": "\"SEALED THE\\n\"",
     "source": "SEALED THE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしたちわ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "be7cdee6513a026d",
@@ -784407,9 +784507,13 @@
     "end": 2040,
     "raw": "\"POKEMON\\n\"",
     "source": "POKEMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "27e02580fd28c42d",
@@ -784419,9 +784523,13 @@
     "end": 2059,
     "raw": "\"AWAY.$\"",
     "source": "AWAY.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふーじこめた。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "aa4a571a1d9c892e",
@@ -784431,9 +784539,13 @@
     "end": 2165,
     "raw": "\"WE FEARED IT.$\"",
     "source": "WE FEARED IT.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おそれたからだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "0631f2115065bb35",
@@ -784443,9 +784555,13 @@
     "end": 2279,
     "raw": "\"THOSE WITH\\n\"",
     "source": "THOSE WITH\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆーき ある\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "932db2c4c26149c9",
@@ -784455,9 +784571,13 @@
     "end": 2302,
     "raw": "\"COURAGE,\\n\"",
     "source": "COURAGE,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ものよ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "57343f225d1eeb47",
@@ -784467,9 +784587,13 @@
     "end": 2327,
     "raw": "\"THOSE WITH\\n\"",
     "source": "THOSE WITH\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きぼー ある\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "8cbeeabe32a61103",
@@ -784479,9 +784603,13 @@
     "end": 2346,
     "raw": "\"HOPE.$\"",
     "source": "HOPE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ものよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "337cd7bdea2848bd",
@@ -784491,9 +784619,13 @@
     "end": 2469,
     "raw": "\"OPEN A DOOR.\\n\"",
     "source": "OPEN A DOOR.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とびらを ひらけ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "3778d1305a1146a5",
@@ -784503,9 +784635,13 @@
     "end": 2494,
     "raw": "\"AN ETERNAL\\n\"",
     "source": "AN ETERNAL\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えいえんの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "673d6bff99d7cac6",
@@ -784515,9 +784651,13 @@
     "end": 2516,
     "raw": "\"POKEMON\\n\"",
     "source": "POKEMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "7abc47441377e9aa",
@@ -784527,9 +784667,13 @@
     "end": 2536,
     "raw": "\"WAITS.$\"",
     "source": "WAITS.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まつ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "2b790a66cf19db50",
@@ -784539,9 +784683,13 @@
     "end": 2631,
     "raw": "\"LEFT, LEFT,\\n\"",
     "source": "LEFT, LEFT,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひだり ひだり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "02ec2b271a6deaa8",
@@ -784551,9 +784699,13 @@
     "end": 2657,
     "raw": "\"DOWN, DOWN.\\n\"",
     "source": "DOWN, DOWN.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "した した。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d5451c5eda39c8e2",
@@ -784563,9 +784715,13 @@
     "end": 2681,
     "raw": "\"THEN, USE\\n\"",
     "source": "THEN, USE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そして\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "bf8b0b3f12616552",
@@ -784575,9 +784731,13 @@
     "end": 2706,
     "raw": "\"ROCK SMASH.$\"",
     "source": "ROCK SMASH.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いわくだきを つかえ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "4d1e4b5fdb73a3ac",
@@ -784587,9 +784747,13 @@
     "end": 2803,
     "raw": "\"STAY CLOSE\\n\"",
     "source": "STAY CLOSE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かべに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "78095f4d20f7e194",
@@ -784599,9 +784763,13 @@
     "end": 2830,
     "raw": "\"TO THE WALL.\\n\"",
     "source": "TO THE WALL.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "821048d7147ff31f",
@@ -784611,9 +784779,13 @@
     "end": 2855,
     "raw": "\"RUN AROUND\\n\"",
     "source": "RUN AROUND\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひとまわり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "4fd0147162a7b50e",
@@ -784623,9 +784795,13 @@
     "end": 2877,
     "raw": "\"ONE LAP.$\"",
     "source": "ONE LAP.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はしれ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "693e291ff142485f",
@@ -784635,9 +784811,13 @@
     "end": 2974,
     "raw": "\"THOSE WHO\\n\"",
     "source": "THOSE WHO\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "われらの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "f63bb95eaa1560d5",
@@ -784647,9 +784827,13 @@
     "end": 3000,
     "raw": "\"INHERIT OUR\\n\"",
     "source": "INHERIT OUR\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いしを つぐ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "1cc455ec102df611",
@@ -784659,9 +784843,13 @@
     "end": 3026,
     "raw": "\"WILL, SHINE\\n\"",
     "source": "WILL, SHINE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ものよ まんなかで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "437c945d63c38eba",
@@ -784671,9 +784859,13 @@
     "end": 3054,
     "raw": "\"IN THE MIDDLE.$\"",
     "source": "IN THE MIDDLE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "フラッシュせよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "13c771537604bc51",
@@ -784683,9 +784875,13 @@
     "end": 3130,
     "raw": "\"UP$\"",
     "source": "UP$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うえ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "f1dda61184ad3dcf",
@@ -784695,9 +784891,13 @@
     "end": 3203,
     "raw": "\"DOWN$\"",
     "source": "DOWN$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "した$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "04fc20c8ddd92011",
@@ -784707,9 +784907,13 @@
     "end": 3278,
     "raw": "\"RIGHT$\"",
     "source": "RIGHT$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みぎ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "5f12adefc49edbac",
@@ -784719,9 +784923,13 @@
     "end": 3351,
     "raw": "\"LEFT$\"",
     "source": "LEFT$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ひだり$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d8eef3dc22a10136",
@@ -784731,9 +784939,13 @@
     "end": 3422,
     "raw": "\"CUT$\"",
     "source": "CUT$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いあいぎり$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "36707f2c5842965f",
@@ -784743,9 +784955,13 @@
     "end": 3493,
     "raw": "\"ABC$\"",
     "source": "ABC$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あいうえお$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "5048359dd9f60a8a",
@@ -784755,9 +784971,13 @@
     "end": 3564,
     "raw": "\"GHI$\"",
     "source": "GHI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "さしすせそ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d8274969c0fddd70",
@@ -784767,9 +784987,13 @@
     "end": 3635,
     "raw": "\"MNO$\"",
     "source": "MNO$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なにぬねの$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "19de1210b7d18111",
@@ -784779,9 +785003,13 @@
     "end": 3706,
     "raw": "\"TUV$\"",
     "source": "TUV$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まみむめも$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "f5e37b1bf5c8fb49",
@@ -784791,9 +785019,13 @@
     "end": 3777,
     "raw": "\"DEF$\"",
     "source": "DEF$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かきくけこ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "90fcd9cfd8298b20",
@@ -784803,9 +785035,13 @@
     "end": 3848,
     "raw": "\"JKL$\"",
     "source": "JKL$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たちつてと$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "0c85e3c0286e9d74",
@@ -784815,9 +785051,13 @@
     "end": 3921,
     "raw": "\"PQRS$\"",
     "source": "PQRS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はひふへほ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "1141a6e33d5dd300",
@@ -784827,9 +785067,13 @@
     "end": 3994,
     "raw": "\"WXYZ$\"",
     "source": "WXYZ$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "やゆよ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "b21438e4d79152f0",
@@ -784839,9 +785083,13 @@
     "end": 4066,
     "raw": "\".$\"",
     "source": ".$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "らりるれろ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "ea55bf695cf1fc99",
@@ -784851,9 +785099,13 @@
     "end": 4137,
     "raw": "\",$\"",
     "source": ",$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わをん$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "8ddd43fe72d612ce",
@@ -784863,9 +785115,13 @@
     "end": 4222,
     "raw": "\"EVERYTHING$\"",
     "source": "EVERYTHING$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すべてに$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "179fbd5b9c0c71e3",
@@ -784875,9 +785131,13 @@
     "end": 4309,
     "raw": "\"HAS MEANING$\"",
     "source": "HAS MEANING$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いみが ある$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "38067843ca8ea320",
@@ -784887,9 +785147,13 @@
     "end": 4392,
     "raw": "\"EXISTENCE$\"",
     "source": "EXISTENCE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そんざいに$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d55796fda303f58d",
@@ -784899,9 +785163,13 @@
     "end": 4479,
     "raw": "\"HAS MEANING$\"",
     "source": "HAS MEANING$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いみが ある$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "2efcce391d88f001",
@@ -784911,9 +785179,13 @@
     "end": 4565,
     "raw": "\"BEING ALIVE$\"",
     "source": "BEING ALIVE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いきることに$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "564bf92a6c43c2de",
@@ -784923,9 +785195,13 @@
     "end": 4652,
     "raw": "\"HAS MEANING$\"",
     "source": "HAS MEANING$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いみが ある$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "7e33585dc2dbd44d",
@@ -784935,9 +785211,13 @@
     "end": 4738,
     "raw": "\"HAVE DREAMS$\"",
     "source": "HAVE DREAMS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆめを もて$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "ba85cdb58afa5b73",
@@ -784947,9 +785227,13 @@
     "end": 4821,
     "raw": "\"USE POWER.$\"",
     "source": "USE POWER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちからを つかえ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "4d7a3b375cc4d5f9",
@@ -784959,9 +785243,13 @@
     "end": 4906,
     "raw": "\"LET THE TWO$\"",
     "source": "LET THE TWO$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふたつの$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "8ef933647c974b62",
@@ -784971,9 +785259,13 @@
     "end": 4991,
     "raw": "\"GLITTERING$\"",
     "source": "GLITTERING$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かがやく$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "ac708aab7545d295",
@@ -784983,9 +785275,13 @@
     "end": 5068,
     "raw": "\"STONES$\"",
     "source": "STONES$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いしよ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "203c8d659cd38de4",
@@ -784995,9 +785291,13 @@
     "end": 5151,
     "raw": "\"ONE IN RED$\"",
     "source": "ONE IN RED$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あかい ひとつと$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d4a0e997cff9f19b",
@@ -785007,9 +785307,13 @@
     "end": 5236,
     "raw": "\"ONE IN BLUE$\"",
     "source": "ONE IN BLUE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あおい ひとつ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "a85f455c9906d4a4",
@@ -785019,9 +785323,13 @@
     "end": 5322,
     "raw": "\"CONNECT THE$\"",
     "source": "CONNECT THE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つなげ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "7f09a4d4454c7c27",
@@ -785031,9 +785339,13 @@
     "end": 5396,
     "raw": "\"PAST.$\"",
     "source": "PAST.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かこを。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "dd5d25205dc580d6",
@@ -785043,9 +785355,13 @@
     "end": 5482,
     "raw": "\"TWO FRIENDS$\"",
     "source": "TWO FRIENDS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふたりの ともが$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "4cc5c88a33e250f4",
@@ -785055,9 +785371,13 @@
     "end": 5561,
     "raw": "\"SHARING$\"",
     "source": "SHARING$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わかちあう$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "51a14fa721574d9c",
@@ -785067,9 +785387,13 @@
     "end": 5645,
     "raw": "\"POWER OPEN$\"",
     "source": "POWER OPEN$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちからが ひらく$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "36b16c5e778301aa",
@@ -785079,9 +785403,13 @@
     "end": 5730,
     "raw": "\"A WINDOW TO$\"",
     "source": "A WINDOW TO$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まどの さきに$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "64010a011b9fad3e",
@@ -785091,9 +785419,13 @@
     "end": 5815,
     "raw": "\"A NEW WORLD$\"",
     "source": "A NEW WORLD$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたらしい せかい$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "50661623fa66af28",
@@ -785103,9 +785435,13 @@
     "end": 5900,
     "raw": "\"THAT GLOWS.$\"",
     "source": "THAT GLOWS.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かがやく。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "bf13c638592db4f6",
@@ -785115,9 +785451,13 @@
     "end": 5980,
     "raw": "\"THE NEXT$\"",
     "source": "THE NEXT$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つぎの$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "55a2b40545e95c5a",
@@ -785127,9 +785467,13 @@
     "end": 6066,
     "raw": "\"WORLD WAITS$\"",
     "source": "WORLD WAITS$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "せかいが まつ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "d0785c331d048680",
@@ -785139,9 +785483,13 @@
     "end": 6145,
     "raw": "\"FOR YOU.$\"",
     "source": "FOR YOU.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きみを。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "braille-ja-110",
+      "method": "Hand-translated Japanese kana braille (phonetic, word-spaced); encoded by preproc ReadJapaneseBraille"
+    }
   },
   {
     "id": "f69b2baf62e23e62",
@@ -847343,9 +847691,13 @@
     "end": 41,
     "raw": "\"NEW NAME$\"",
     "source": "NEW NAME$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じぶんで きめる$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "bbc71cf7d05f529c",
@@ -847355,9 +847707,13 @@
     "end": 80,
     "raw": "\"GREEN$\"",
     "source": "GREEN$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}グリーン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "04a43aec2b747030",
@@ -847367,9 +847723,13 @@
     "end": 115,
     "raw": "\"RED$\"",
     "source": "RED$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}レッド$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "271a9614a2cc758d",
@@ -847379,9 +847739,13 @@
     "end": 152,
     "raw": "\"LEAF$\"",
     "source": "LEAF$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}リーフ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "dd7b6769f219ad78",
@@ -847391,9 +847755,13 @@
     "end": 189,
     "raw": "\"FIRE$\"",
     "source": "FIRE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}ファイア$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "fa1021c4b485e0d0",
@@ -847403,9 +847771,13 @@
     "end": 226,
     "raw": "\"GARY$\"",
     "source": "GARY$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}シゲル$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "15bc9640637345de",
@@ -847415,9 +847787,13 @@
     "end": 261,
     "raw": "\"KAZ$\"",
     "source": "KAZ$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}カズ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "d7026c09e6a98d69",
@@ -847427,9 +847803,13 @@
     "end": 298,
     "raw": "\"TORU$\"",
     "source": "TORU$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}トオル$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "131627851410ab73",
@@ -847439,9 +847819,13 @@
     "end": 333,
     "raw": "\"ASH$\"",
     "source": "ASH$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}サトシ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "da79b765136fda15",
@@ -847451,9 +847835,13 @@
     "end": 370,
     "raw": "\"KENE$\"",
     "source": "KENE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}ケネ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "ca263a548d6f6c2b",
@@ -847463,9 +847851,13 @@
     "end": 407,
     "raw": "\"GEKI$\"",
     "source": "GEKI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}ゲキ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "27576b6ecb93321b",
@@ -847475,9 +847867,13 @@
     "end": 442,
     "raw": "\"JAK$\"",
     "source": "JAK$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}ジャック$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "c80ae62cc8d1b861",
@@ -847487,9 +847883,13 @@
     "end": 481,
     "raw": "\"JANNE$\"",
     "source": "JANNE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}ジャンヌ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "85c4d3745925b218",
@@ -847499,9 +847899,13 @@
     "end": 518,
     "raw": "\"JONN$\"",
     "source": "JONN$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}ジョン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "bb65cb84fd1c95b1",
@@ -847511,9 +847915,13 @@
     "end": 557,
     "raw": "\"KAMON$\"",
     "source": "KAMON$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}カモン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "ff5aacbd6160a09a",
@@ -847523,9 +847931,13 @@
     "end": 594,
     "raw": "\"KARL$\"",
     "source": "KARL$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}カール$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "8452c72e5330f467",
@@ -847535,9 +847947,13 @@
     "end": 635,
     "raw": "\"TAYLOR$\"",
     "source": "TAYLOR$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}テイラー$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "5d3cf3771375e5c2",
@@ -847547,9 +847963,13 @@
     "end": 674,
     "raw": "\"OSCAR$\"",
     "source": "OSCAR$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}オスカー$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "f70226a2fe5770c9",
@@ -847559,9 +847979,13 @@
     "end": 711,
     "raw": "\"HIRO$\"",
     "source": "HIRO$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}ヒロ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "51f8fea2dfc73c7d",
@@ -847571,9 +847995,13 @@
     "end": 746,
     "raw": "\"MAX$\"",
     "source": "MAX$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}マックス$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "e68edafc59dc8cd8",
@@ -847583,9 +848011,13 @@
     "end": 781,
     "raw": "\"JON$\"",
     "source": "JON$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}ジョン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "7fbb1a36f7d74ded",
@@ -847595,9 +848027,13 @@
     "end": 820,
     "raw": "\"RALPH$\"",
     "source": "RALPH$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}ラルフ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "8d153f8ff5873671",
@@ -847607,9 +848043,13 @@
     "end": 855,
     "raw": "\"KAY$\"",
     "source": "KAY$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}ケイ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "17dc26dbf78f4a6b",
@@ -847619,9 +848059,13 @@
     "end": 892,
     "raw": "\"TOSH$\"",
     "source": "TOSH$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}トシ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "3a75a00a9b95f230",
@@ -847631,9 +848075,13 @@
     "end": 929,
     "raw": "\"ROAK$\"",
     "source": "ROAK$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}ロアク$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "a10e295d96f154e4",
@@ -847643,9 +848091,13 @@
     "end": 964,
     "raw": "\"OMI$\"",
     "source": "OMI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}オミ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "5f20cecda8a5a62b",
@@ -847655,9 +848107,13 @@
     "end": 1001,
     "raw": "\"JODI$\"",
     "source": "JODI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}ジョディ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "f2f75a2867a292d4",
@@ -847667,9 +848123,13 @@
     "end": 1042,
     "raw": "\"AMANDA$\"",
     "source": "AMANDA$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}アマンダ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "8bb527dcddacc49a",
@@ -847679,9 +848139,13 @@
     "end": 1085,
     "raw": "\"HILLARY$\"",
     "source": "HILLARY$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}ヒラリー$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "1340f4822fb7e4cc",
@@ -847691,9 +848155,13 @@
     "end": 1124,
     "raw": "\"MAKEY$\"",
     "source": "MAKEY$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}メイキー$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "c1a0c78e4cfecc1e",
@@ -847703,9 +848171,13 @@
     "end": 1163,
     "raw": "\"MICHI$\"",
     "source": "MICHI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}ミチ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "f61c0dbed5bce37f",
@@ -847715,9 +848187,13 @@
     "end": 1202,
     "raw": "\"PAULA$\"",
     "source": "PAULA$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}ポーラ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "f57d1ba82a58e024",
@@ -847727,9 +848203,13 @@
     "end": 1239,
     "raw": "\"JUNE$\"",
     "source": "JUNE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}ジューン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "26cc9c347edc256c",
@@ -847739,9 +848219,13 @@
     "end": 1280,
     "raw": "\"CASSIE$\"",
     "source": "CASSIE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}キャシー$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "4986d38c18818eae",
@@ -847751,9 +848235,13 @@
     "end": 1315,
     "raw": "\"REY$\"",
     "source": "REY$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}レイ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "2179e892acf394f8",
@@ -847763,9 +848251,13 @@
     "end": 1352,
     "raw": "\"SEDA$\"",
     "source": "SEDA$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}セダ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "e05a482dd2040c77",
@@ -847775,9 +848267,13 @@
     "end": 1389,
     "raw": "\"KIKO$\"",
     "source": "KIKO$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}キコ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "41099e578a861f76",
@@ -847787,9 +848283,13 @@
     "end": 1426,
     "raw": "\"MINA$\"",
     "source": "MINA$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}ミナ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "e7be8ff01be08770",
@@ -847799,9 +848299,13 @@
     "end": 1465,
     "raw": "\"NORIE$\"",
     "source": "NORIE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_3}ノリエ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "e3b4265723e8d28f",
@@ -847811,9 +848315,13 @@
     "end": 1500,
     "raw": "\"SAI$\"",
     "source": "SAI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}サイ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "60f834fbebb91879",
@@ -847823,9 +848331,13 @@
     "end": 1537,
     "raw": "\"MOMO$\"",
     "source": "MOMO$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_2}モモ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "5ed43ed964829966",
@@ -847835,9 +848347,13 @@
     "end": 1574,
     "raw": "\"SUZI$\"",
     "source": "SUZI$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN_NAME_4}スージー$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "frlg-name-presets-109",
+      "method": "Hand-translated FRLG name presets stored as JPN_NAME span (<=5 kana, matches naming_input.h)"
+    }
   },
   {
     "id": "f8b471e052662958",

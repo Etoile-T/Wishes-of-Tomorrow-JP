@@ -60,6 +60,7 @@ public:
     std::string ReadPath();
     int ReadString(unsigned char* s);
     int ReadBraille(unsigned char* s);
+    int ReadJapaneseBraille(unsigned char* s, int& length);
     bool IsAtEnd();
     void OutputLine();
     void OutputLocation();

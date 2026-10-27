@@ -204,123 +204,123 @@ Route119_WeatherInstitute_2F_EventScript_WeatherScientist::
 	end
 
 Route119_WeatherInstitute_2F_Text_Grunt2Intro:
-	.string "The INSTITUTE created a type of\n"
-	.string "POKéMON that has something to do with\l"
-	.string "the weather. We're here to take them!$"
+	.string "{JPN}この けんきゅうじょで てんきと\n"
+	.string "かんけいある ポケモンが うみだされた\l"
+	.string "って きいてな いただきに きたのさ!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2Defeat:
-	.string "Our plan's being spoiled by a kid?$"
+	.string "{JPN}こんな こどもに じゃま されるのか!?$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2PostBattle:
-	.string "If the POKéMON they made here can\n"
-	.string "control the weather freely, then we of\l"
-	.string "TEAM AQUA definitely need it!$"
+	.string "{JPN}ここで うみだされた ポケモンが\n"
+	.string "てんきを じゆうに あやつれるなら\l"
+	.string "ぜったい アクアだんに ひつよう だぜ!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Intro:
-	.string "We're TEAM AQUA!\n"
-	.string "We appear wherever anything rare is\l"
-	.string "found!$"
+	.string "{JPN}おれたち アクアだん!\n"
+	.string "めずらしい ものが ある ところなら\l"
+	.string "どこにでも あらわれる!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Defeat:
-	.string "You got me!$"
+	.string "{JPN}こいつは まいった!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3PostBattle:
-	.string "You don't have any idea what we of\n"
-	.string "TEAM AQUA are working towards!\l"
-	.string "You stay out of our way!$"
+	.string "{JPN}おまえには おれたち アクアだんが\n"
+	.string "めざすものなんて わからないだろう!\l"
+	.string "じゃまするんじゃ ねえ!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Intro:
-	.string "Don't tell me you're looking for that\n"
-	.string "weather POKéMON, too?\p"
-	.string "That's a no-no!\n"
-	.string "We were here to get it first!$"
+	.string "{JPN}まさか あなたも てんきの\n"
+	.string "ポケモンを さがしに きたの?\p"
+	.string "だめよ!\n"
+	.string "あたしたちが さきに きたんだから!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Defeat:
-	.string "Oh, will you look at my POKéMON?$"
+	.string "{JPN}んもー あたしの ポケモンがー$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
-	.string "Humph, so what?\n"
-	.string "What we want…\p"
-	.string "What we really want isn't here…\n"
-	.string "Ihihihihi…$"
+	.string "{JPN}ふん だから なに?\n"
+	.string "あたしたちが ほしいのは……\p"
+	.string "ほんとうに ほしいのは ここには ない……\n"
+	.string "イヒヒヒヒ……$"
 
 Route119_WeatherInstitute_2F_Text_ShellyIntro:
-	.string "Ahahahaha!\p"
-	.string "You're going to meddle in TEAM AQUA's\n"
-	.string "affairs?\p"
-	.string "You're either absolutely fearless,\n"
-	.string "simply ignorant, or both!\p"
-	.string "You're so cute, you're disgusting!\n"
-	.string "I'll put you down, kiddy!$"
+	.string "{JPN}オーッホッホ!\p"
+	.string "われわれ アクアだんの\n"
+	.string "じゃまを しようと いうの!?\p"
+	.string "こわいものしらず なのか\n"
+	.string "ただの むちなのか…… りょうほう ね!\p"
+	.string "かわいすぎて にくらしく なっちゃう!\n"
+	.string "やっつけて あげるわね おチビちゃん!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyDefeat:
-	.string "Ahahahaha!\n"
-	.string "You're disgustingly strong!$"
+	.string "{JPN}オーッホッホ!\n"
+	.string "つよくて にくらしく なっちゃうわ!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
-	.string "It's bad enough to have TEAM MAGMA\n"
-	.string "blunder about, but now there's you!\p"
-	.string "What makes you want to sniff around\n"
-	.string "in our business, anyway?$"
+	.string "{JPN}マグマだんが うろちょろ するだけでも\n"
+	.string "やっかい なのに こんどは あなたまで!\p"
+	.string "どうして わたしたちの ことを\n"
+	.string "かぎまわるのよ?$"
 
 Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
-	.string "We have a situation here!\p"
-	.string "A TEAM MAGMA mob just passed\n"
-	.string "the WEATHER INSTITUTE.\p"
-	.string "They appear to be headed for\n"
-	.string "MT. PYRE!$"
+	.string "{JPN}たいへんです!\p"
+	.string "マグマだんの れんちゅうが いま\n"
+	.string "てんきけんきゅうじょの まえを とおりました\p"
+	.string "おくりびやまに むかっている\n"
+	.string "ようです!$"
 
 Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
-	.string "What?!\p"
-	.string "We can't waste any more time here!\n"
-	.string "We have to hurry to MT. PYRE, too!\p"
-	.string "Ahahahaha!\n"
-	.string "TEAM MAGMA, just you wait!$"
+	.string "{JPN}なんですって!\p"
+	.string "えーい こうしちゃ いられない!\n"
+	.string "われわれも おくりびやまに いそぐわよ!\p"
+	.string "オーッホッホ!\n"
+	.string "マグマだんめ まってなさーい!$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
-	.string "Thanks!\n"
-	.string "Thanks to you, we're safe!\p"
-	.string "It might be an odd way of thanking you,\n"
-	.string "but take this POKéMON.$"
+	.string "{JPN}ありがとうよ!\n"
+	.string "きみの おかげで たすかったよ!\p"
+	.string "おれいと いっては なんだが\n"
+	.string "この ポケモンを もらって おくれ$"
 
 @ Unused
 Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
-	.string "Hm? You don't seem to have any room\n"
-	.string "for this POKéMON.$"
+	.string "{JPN}あら? もう ポケモンを\n"
+	.string "もてない ようだよ$"
 
 Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
-	.string "{PLAYER} received CASTFORM!$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ポワルンを もらった!$"
 
 Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
-	.string "That POKéMON changes shape according\n"
-	.string "to the weather conditions.\p"
-	.string "There're plenty of them in the\n"
-	.string "INSTITUTE--go ahead and take it.$"
+	.string "{JPN}そいつは そのときの てんきに よって\n"
+	.string "すがたを かえる ポケモン なんだよ\p"
+	.string "けんきゅうじょには たくさん いるから\n"
+	.string "えんりょせずに もらって おくれよ$"
 
 Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
-	.string "I've been researching rain for many\n"
-	.string "years, but it's ridiculous to think that\l"
-	.string "humans can freely change the weather.$"
+	.string "{JPN}わたしは なんねんも あめを\n"
+	.string "けんきゅう してきたが にんげんが\l"
+	.string "てんきを じゆうに かえるなんて ばかげてる$"
 
 Route119_WeatherInstitute_2F_Text_GroudonWeather:
-	.string "I track weather patterns over\n"
-	.string "the HOENN region.\p"
-	.string "Presently, a drought has been recorded\n"
-	.string "in {STR_VAR_1}.\p"
-	.string "Could that mean, somewhere near\n"
-	.string "{STR_VAR_1}…$"
+	.string "{JPN}わたしは ホウエンちほうの\n"
+	.string "てんきを かんそく しています\p"
+	.string "いま ひでりが かんそく されているのは\n"
+	.string "{ENG}{STR_VAR_1}{JPN}の あたりです\p"
+	.string "もしかして……\n"
+	.string "{ENG}{STR_VAR_1}{JPN}の ちかくに……$"
 
 Route119_WeatherInstitute_2F_Text_KyogreWeather:
-	.string "I track weather patterns over\n"
-	.string "the HOENN region.\p"
-	.string "Presently, heavy rainfall has been\n"
-	.string "recorded over {STR_VAR_1}.\p"
-	.string "Could that mean, somewhere near\n"
-	.string "{STR_VAR_1}…$"
+	.string "{JPN}わたしは ホウエンちほうの\n"
+	.string "てんきを かんそく しています\p"
+	.string "いま おおあめが かんそく されているのは\n"
+	.string "{ENG}{STR_VAR_1}{JPN}の あたりです\p"
+	.string "もしかして……\n"
+	.string "{ENG}{STR_VAR_1}{JPN}の ちかくに……$"
 
 Route119_WeatherInstitute_2F_Text_NoAbnormalWeather:
-	.string "Abnormal weather conditions are\n"
-	.string "no longer being reported.\p"
-	.string "The occasional rainfall is a blessing,\n"
-	.string "really.$"
+	.string "{JPN}いじょう きしょうは\n"
+	.string "もう かんそく されなく なりました\p"
+	.string "たまに ふる あめは\n"
+	.string "めぐみのあめと いえるでしょう$"
 

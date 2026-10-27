@@ -1,0 +1,5386 @@
+[
+ {
+  "id": "d5adc35e626adff4",
+  "translation": "{JPN}ママ: {ENG}{PLAYER}{JPN} ついたわよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1791cbfe39ab4d75",
+  "translation": "にもつと いっしょに トラックに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c128d0ebc0eaf85",
+  "translation": "ゆられて つかれた でしょう?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12e921fe6238ee3f",
+  "translation": "さあ ここが ミシロタウンよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e21d78d398e4af1b",
+  "translation": "どう? これが わたしたちの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bca21cfc8814fbfd",
+  "translation": "あたらしい おうち!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ade4f6b01dede014",
+  "translation": "ちょっと こふうな かんじだけど\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67af67a7925b34d2",
+  "translation": "すみやすそうな ところ でしょ?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f34956ad115bb1f7",
+  "translation": "それに {ENG}{PLAYER}{JPN}の おへやも あるのよ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68c323c350cda63e",
+  "translation": "さあ なかに はいりましょ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c7531957116493e",
+  "translation": "{JPN}ママ: まって {ENG}{PLAYER}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c91579bac35431c4",
+  "translation": "{JPN}ママ: {ENG}{PLAYER}{JPN}! {ENG}{PLAYER}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dba14f4195f346a9",
+  "translation": "オダマキはかせに ごあいさつ した?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abb28a49a8ce0265",
+  "translation": "あら! なんて かわいい ポケモン!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ccf36c35fd881db",
+  "translation": "はかせから もらったのね! よかったわね!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c8f080798e7ffb1",
+  "translation": "やっぱり あなたは パパの こどもね\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a93df7279e7853c7",
+  "translation": "ポケモンと よく にあってるわ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6b434003284f4af",
+  "translation": "そうだ! ぼうけんに でるなら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25c2c70178d80297",
+  "translation": "この ランニングシューズを はいてね\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "952416604e31ccbc",
+  "translation": "あしどりが かるく なるわよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07372e2ed5c24446",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は ランニングシューズに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ebd4a03b5fc238a",
+  "translation": "はきかえた!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca67661efe5e8306",
+  "translation": "{JPN}ママ: {ENG}{PLAYER}{JPN} その くつには\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "009c097876ed91b4",
+  "translation": "せつめいしょが ついてたわ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02d136342d483fec",
+  "translation": "「ランニングシューズを はいて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "abb204e8d952e03c",
+  "translation": "Bボタンを おすと はやく はしれる!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cb2368b40b08d66",
+  "translation": "「ランニングシューズを はいて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e63b846d61d783ef",
+  "translation": "ひろい だいちを かけまわろう!」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ab9fddb81322b5f",
+  "translation": "{JPN}…… …… …… ……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c039bdce57c070b2",
+  "translation": "…… …… …… ……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b63960bf285ba14",
+  "translation": "あなたが じぶんの ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78bad36eb2d753f5",
+  "translation": "もつように なった だなんて……\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "159399d411a9f42b",
+  "translation": "パパも きっと おおよろこびよ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eba2347f580b6a69",
+  "translation": "……でも むりは しないでね\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14fe83178082dd4d",
+  "translation": "なにか あれば かえって くればいいから\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac361be7ec217f09",
+  "translation": "さあ いってらっしゃい!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb58f3b9361fa21c",
+  "translation": "{JPN}パソコンを つかえば\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7d993acb32fb2cc",
+  "translation": "どうぐや ポケモンが あずけられるんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e585fd4cf791d631",
+  "translation": "かがくの ちからって すげー!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "258b660a771de2ea",
+  "translation": "{JPN}オダマキはかせは ずーっと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9059acbc21e7afc9",
+  "translation": "けんきゅうじょで しらべものかと おもえば\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f48585b1794e07fe",
+  "translation": "とつぜん のやまに とびだしていく……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ba7d1ae4577bd9b",
+  "translation": "オダマキはかせって いったい\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "867a9cf7750ca7df",
+  "translation": "いつ うちに いるんだろう?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "498ebadc9b4cd9dd",
+  "translation": "{JPN}えっと えっと えっと!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9810a5915e75cf7c",
+  "translation": "そとに でて くさむらに はいると\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4da2ba523685a8aa",
+  "translation": "やせいの ポケモンが とびだすの!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c85c317358516864",
+  "translation": "{JPN}じぶんの ポケモンを もってないと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39154a1665a2dc47",
+  "translation": "あぶないの!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bacf4c78a2c7ca6a",
+  "translation": "{JPN}あ こんにちは!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "866cb3d995ffba8c",
+  "translation": "そとに こわい ポケモンが いるの!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1cc57125f975a0e",
+  "translation": "なきごえが きこえるんだもん!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d6056c66329af990",
+  "translation": "なにが おきてるか みに いきたいけど\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "024f61ca88cdf667",
+  "translation": "ポケモンを もってないし……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "844e7b7ecf6838d8",
+  "translation": "かわりに なにが おきてるか\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c95474f68ec92b7",
+  "translation": "みてきて くれない?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b7fb4072e7451fa",
+  "translation": "{JPN}オダマキはかせを たすけたんだね!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74fcea6ed687c369",
+  "translation": "ほんとに よかった!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58f97570a6c2c345",
+  "translation": "{JPN}ポケモンを つかまえに いくの?\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ecbc4ba5f1ba071",
+  "translation": "がんばってね!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b727b4732201d9a",
+  "translation": "{JPN}ここは ミシロ タウン\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4132ad6202cbd5d",
+  "translation": "「どんな いろにも そまらない まち」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5823ab68d80f2e61",
+  "translation": "{JPN}「オダマキ ポケモン けんきゅうじょ」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "336a403b69b4ee1f",
+  "translation": "{JPN}「{ENG}{PLAYER}{JPN}の いえ」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62b44f3fdac3775a",
+  "translation": "{JPN}「オダマキ はかせの いえ」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8766437cdee6b2e5",
+  "translation": "{JPN}オダマキ: やあやあ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcf520e92ad8717b",
+  "translation": "さっきは みごとだったよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11c67ce647a77010",
+  "translation": "はじめて あったときから きみには\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8094b71a0a1d289f",
+  "translation": "なにか とくべつな ものを かんじていたが\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be473f396c4f5850",
+  "translation": "ここまで とは おもわなかった!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "205d33cb51052af4",
+  "translation": "そうそう わたした ポケモンずかんは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31eaf9dce4f64d3f",
+  "translation": "まだ もっているかい?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52501f54f9a71269",
+  "translation": "きみに みせたい ものが あるんだ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "167ddf28c23bbf08",
+  "translation": "けんきゅうじょに いこう!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b213e614637de3e",
+  "translation": "{JPN}ちょっと ひとやすみ したいから\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce1b52583ec49129",
+  "translation": "レポート かいてるの$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58adbc8284f08d51",
+  "translation": "{JPN}やあ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92bfc1a904a1ec17",
+  "translation": "ぼくは フレンドリィショップの てんいん!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8235831bf7c7a18",
+  "translation": "ちょっと いっしょに きてくれるかい?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "572d703658e6e12c",
+  "translation": "{JPN}ここが フレンドリィショップ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbc5b0c7779061a9",
+  "translation": "あおい やねが めじるし なのさ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f71bc9da48b2a7e5",
+  "translation": "ポケモンを つかまえる ボールとか\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29e0cfd96a332e1f",
+  "translation": "いろんな グッズを うってるよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "751f79eeffc69483",
+  "translation": "キミには サービスとして\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea8f42dbfd657d48",
+  "translation": "これを あげよう!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f8b10ec9f63a181",
+  "translation": "{JPN}いつでも つかえる キズぐすりは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1394b5a1657b11c2",
+  "translation": "ばあいに よっては ポケモンセンターより\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c22848b70da55d1a",
+  "translation": "たよりに なるからね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47c3db4375bfce7b",
+  "translation": "{JPN}わああああ! まって!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0374fce43c9474a1",
+  "translation": "こっちに こないで!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d26b9bc84c67ed6",
+  "translation": "めずらしい ポケモンの あしあとを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e6d815d95484b0f",
+  "translation": "みつけた ところ なんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "62cfa3bd0e328480",
+  "translation": "スケッチが おわるまで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c8f5fa3c5d9cd56",
+  "translation": "まってて くれる?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0ba6a3a68642a1b",
+  "translation": "{JPN}めずらしい ポケモンの あしあとを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "205756a484bbd0bb",
+  "translation": "みつけた ところ なんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a1d44aad2508a74",
+  "translation": "スケッチが おわるまで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ec043ba36a390dd",
+  "translation": "まってて くれる?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "105cf929eb99b523",
+  "translation": "{JPN}めずらしい ポケモンの あしあとを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5acc90425c04da5f",
+  "translation": "スケッチ しおえたんだけど……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2014c84b15addb7e",
+  "translation": "よく みたら ぼく じしんの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d796d64654b4482",
+  "translation": "あしあと だった……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "228c2f68cd7ddd01",
+  "translation": "{JPN}ハルカ: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "895f5e4791ca53ac",
+  "translation": "こっち こっち!\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1851cc560cf62b66",
+  "translation": "はやく かえろうよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9e8984ab725a999",
+  "translation": "{JPN}ユウキ: オレ さきに おやじの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63dd817dbe88ad44",
+  "translation": "けんきゅうじょに もどるから\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "054f8b4325665822",
+  "translation": "{ENG}{PLAYER}{JPN}も はやく こいよな$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5610862c6ee9e7fe",
+  "translation": "{JPN}ここは コトキ タウン\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "038e05440e701d9f",
+  "translation": "「なにかが かすかに はじまる ところ」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37cfc20f2396639d",
+  "translation": "{JPN}ポケモン しょうぶが はじまると\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34ed2b1507fc0c07",
+  "translation": "リストの ひだりの ポケモンが さきに でる\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1426a7c85c1d72e",
+  "translation": "だから てもちの ポケモンが ふえたら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a14c223d08f27c5",
+  "translation": "ポケモンの ならびじゅんを\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2092fdd929566a41",
+  "translation": "いれかえて みると いい\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76a1480643009e60",
+  "translation": "しょうぶを ゆうりに すすめられるかもな$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83cc7fd3f124312e",
+  "translation": "{JPN}うちの ミツルは どこに いったのかしら?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0786d786c1d8f2af",
+  "translation": "もうすぐ シダケタウンに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25fcad84d09a1d1a",
+  "translation": "でかけなきゃ いけないのに……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "506ab62a70206030",
+  "translation": "{JPN}きみ! もしかして……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a488f38768f6cde0",
+  "translation": "トレーナーに なりたて かい?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4359e20f4551a38c",
+  "translation": "ポケモン トレーナーが あたらしい\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d3b0f8bcfc7bb805",
+  "translation": "まちに ついたら なにを するか しってる?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e26883d2535c7db",
+  "translation": "まずは そこに どんな ジムが あるのか\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "023cf833cd1f68f7",
+  "translation": "かくにん するんだ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a19d7c568ec4d21",
+  "translation": "{JPN}ほら ここが トウカシティの ジムさ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "005686bbcab95fe6",
+  "translation": "{JPN}これが ジムの かんばん だから\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b7e1872ba191126",
+  "translation": "ジムを さがすときは めじるしに してね!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d03aa2b3ce70db3c",
+  "translation": "{JPN}みずに わたしの かおが うつっている\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "421b2562d3478fe8",
+  "translation": "きぼうに みちた かがやく えがお……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c442f0fa104dc6a8",
+  "translation": "あるいは おそれと たたかう\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df0f631831f367ff",
+  "translation": "しずかで くらい かお……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4acd746bd02c4bc9",
+  "translation": "きみの かおには なにが うつってる?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0741ba8586f44b3",
+  "translation": "{JPN}ポケモンを 6ぴき もってるとしよう\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be1f22492d2291e4",
+  "translation": "そこで もう 1ぴき つかまえると……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "475af717f7375411",
+  "translation": "パソコン つうしんで じどうてきに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "539bbfcd6ad350cf",
+  "translation": "ボックスに おくられるのだよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73bbab59f6f4ae10",
+  "translation": "{JPN}トウカ シティ ポケモンジム\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7d3fdb79c393ccf",
+  "translation": "リーダー センリ\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa377cdf1bd6f269",
+  "translation": "「つよさを おいもとめる おとこ!」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e84878d62e91cec3",
+  "translation": "{JPN}ここは トウカ シティ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83693a94598ddb81",
+  "translation": "「しぜんと ひとが ふれあう まち」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1df7724bf7cc2168",
+  "translation": "{JPN}「ミツルの いえ」$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82a66366d3057c0c",
+  "translation": "{JPN}ちょっと すみません!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ceafd02974c29f6a",
+  "translation": "その かっこうから すると\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66ad41b8d2a32687",
+  "translation": "もしかして ポケモン トレーナーかな?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93a0f528e5f40a8e",
+  "translation": "{JPN}…… …… ……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9973c79db4d7271b",
+  "translation": "いや それにしては\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a45095ef9e75a6f8",
+  "translation": "ふくが あまり よごれて いない……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45cdd5749b4a3029",
+  "translation": "デビューしたての トレーナーか\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6685a822fee7517f",
+  "translation": "あるいは ふつうの こども…… かな?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "350f3c013da9b00f",
+  "translation": "{JPN}わたしは すぐれた トレーナーを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afba50eca921e9bb",
+  "translation": "さがして かくちを まわっているんだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e957e9701033c9c8",
+  "translation": "じかんを とらせて すまなかったね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aede5cb6b63c71be",
+  "translation": "{JPN}パパ: ん?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a424d5342b00126",
+  "translation": "おお {ENG}{PLAYER}{JPN} じゃないか!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9802d8720547f0c3",
+  "translation": "ひっこしは もう おわったのか?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b718e456d94ed0ff",
+  "translation": "ひとりで ここまで これたとは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f72bd08bae2e61a",
+  "translation": "おどろいたな\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9369375229cde1ac",
+  "translation": "ああ なるほど\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db6686b0258277e6",
+  "translation": "ポケモンと いっしょ なんだな\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16fc7f7fddc4082b",
+  "translation": "ふむ…… では おまえも わたしと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57dd3cbee3eea511",
+  "translation": "おなじ トレーナーに なるのか {ENG}{PLAYER}{JPN}\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5cd946af2b52e49",
+  "translation": "それは うれしい しらせだ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "acfe7680fa86b459",
+  "translation": "たのしみに しているぞ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e431ba0313ca07f",
+  "translation": "{JPN}あの…… ぼく……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b27b23273f960732",
+  "translation": "ポケモンが ほしいん ですけど……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f458b6dc8b143af",
+  "translation": "{JPN}パパ: ん? きみは…… ああ そうだ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0599bfd1904ddde",
+  "translation": "ミツルくん だったね?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c3fc5a4043c1885",
+  "translation": "{JPN}ミツル: ぼく シダケタウンの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa3689e69dfbcd0d",
+  "translation": "しんせきの いえに いくんです\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "141015f01c41a6af",
+  "translation": "ひとりだと さびしいと おもって\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53686498eb45e229",
+  "translation": "ポケモンを つれて いきたくて……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f421161e2a60707b",
+  "translation": "でも ポケモンを つかまえた こと なくて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f115c1db7893924f",
+  "translation": "やりかたが わからないんです……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84f199b64b940657",
+  "translation": "{JPN}パパ: ……ふむ なるほど$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58ea9305191284e4",
+  "translation": "{JPN}パパ: {ENG}{PLAYER}{JPN} いまの はなし\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc0b06c0b4b3fdf8",
+  "translation": "きいていたな?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfce6d5729aa196b",
+  "translation": "ミツルくんに ついていって ぶじに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be24b510d2104f47",
+  "translation": "ポケモンを つかまえられるよう みてあげなさい$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c27cf06f25b2e472",
+  "translation": "{JPN}ミツルくん わたしの ポケモンを かそう\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "721282cbd6ab6079",
+  "translation": "ミツルは ジグザグマを かりた!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e96bc917b26542f7",
+  "translation": "{JPN}ミツル: うわあ……!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "966b3c3d014f194e",
+  "translation": "ポケモンだ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a2e2e7ebbe5031c",
+  "translation": "パパ: うむ モンスターボールも あげよう\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22c4c519e5089e56",
+  "translation": "がんばりなさい!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d070a9eed63554aa",
+  "translation": "ミツルは モンスターボールを もらった!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87c4eb382b152721",
+  "translation": "{JPN}ミツル: うわあ……!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8819adc7e4c2d41",
+  "translation": "ありがとう ございます!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09f078556faec56b",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}さん…… ほんとに ぼくと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6dc24ac4a50f0131",
+  "translation": "いっしょに きてくれるんですか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbdc58ffd19bc173",
+  "translation": "{JPN}パパ: うまく いったかい?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aaba9a0796b3b3de",
+  "translation": "{JPN}ミツル: はい おかげさまで!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d57b61f61265734",
+  "translation": "ポケモン おかえし します\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d13a05b436312189",
+  "translation": "{ENG}{PLAYER}{JPN}さん いっしょに きてくれて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e86cd3f423ab897c",
+  "translation": "ありがとう ございました\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e7318a79ff49abe",
+  "translation": "ふたりの おかげで ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c121433d60d2a23",
+  "translation": "つかまえる ことが できました\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ba23971e4c76287",
+  "translation": "この ポケモン ほんとに だいじに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "edc29e5d9e27c87e",
+  "translation": "します やくそくです!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "638dbdf6cbed935a",
+  "translation": "あっ! おかあさんが まってるので\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4906ed51fb86c3d",
+  "translation": "もう いかなくちゃ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "096d41f9715688f2",
+  "translation": "さようなら {ENG}{PLAYER}{JPN}さん!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb4ee08609231b4b",
+  "translation": "{JPN}パパ: さて……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab6ee65188b5084a",
+  "translation": "{ENG}{PLAYER}{JPN} つよい トレーナーに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61e31712cc9035d3",
+  "translation": "なりたいなら アドバイスを しよう\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92f433c9bb27d5e5",
+  "translation": "この まちの さきに ある\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41ad69ba7c4361eb",
+  "translation": "カナズミシティを めざしなさい\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a8d6fec89cfb819",
+  "translation": "そこで ジムリーダーの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6ff51a118f7d122",
+  "translation": "ツツジに いどむんだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfb5f4356444b5a8",
+  "translation": "その あとは ほかの ポケモンジムに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5473159159e0b868",
+  "translation": "いって リーダーたちを たおすんだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b66ba46710040e1a",
+  "translation": "そして バッジを あつめる\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb3d15bac31b07e9",
+  "translation": "わかったな?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a0240abc07371a36",
+  "translation": "もちろん わたしも ジムリーダーだ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a22c33814517915",
+  "translation": "いつか {ENG}{PLAYER}{JPN}とも たたかうだろう\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1a4c7c85e9e4e1b",
+  "translation": "だが それは おまえが もっと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a14674011c282fb",
+  "translation": "つよく なってからだ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "527dc3a32ef690b4",
+  "translation": "{JPN}パパ: ん? カナズミシティの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "162b9b798e48e028",
+  "translation": "ポケモンジムには いかないのか?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f6a50bb287da69c",
+  "translation": "かけだしの トレーナーと たたかっても\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a093d80004adb93",
+  "translation": "わたしには てごたえが ない\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f82bcb6258fe8de",
+  "translation": "{ENG}{PLAYER}{JPN} わたしに いどむのは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57d0187536c39d86",
+  "translation": "もっと ずっと つよく なってからだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "676747b20a0f2a0c",
+  "translation": "{ENG}{PLAYER}{JPN} おまえと たたかうのは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93b005719f5aaba4",
+  "translation": "ジムバッジを 4つ みせられたときだ いいな?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7994f486ba06741",
+  "translation": "{JPN}パパ: そうか…… カナズミシティの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc4f280b7147db3a",
+  "translation": "ジムリーダーに かったのか\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa6fd2835abc7e44",
+  "translation": "だが おまえより つよい トレーナーは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9861286130900e86",
+  "translation": "まだまだ たくさん いるぞ {ENG}{PLAYER}{JPN}\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1137cfc8bd8b71cc",
+  "translation": "うみの むこう ムロタウンに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "887c83cd2cd5d613",
+  "translation": "トウキという ジムリーダーが いる\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9eb405ca84d76d5b",
+  "translation": "かれに いどんで みなさい$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da2a92d5e585d75d",
+  "translation": "{JPN}パパ: ふむ…… {ENG}{PLAYER}{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ee1c7e0ba0045a0",
+  "translation": "つよく なったな\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf3ac9a318be6b8f",
+  "translation": "てに いれた バッジの かずを みれば\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9936200cc88ace88",
+  "translation": "よく わかるよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4633eceaf903051",
+  "translation": "{JPN}パパ: ふむ……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1e388dcf859f64a",
+  "translation": "ほんとうに ジムバッジを 4つ あつめたか\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae6ff80f60b83ef7",
+  "translation": "よし やくそくどおり\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08025b7b967a408b",
+  "translation": "ポケモン しょうぶ しよう\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6adb8fe54575564a",
+  "translation": "{ENG}{PLAYER}{JPN}……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04d553f96a09dbaa",
+  "translation": "じぶんの こどもと ほんきの しょうぶが\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f3f2be9d67910eb",
+  "translation": "できるなんて ほんとうに うれしいよ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c77b42279198dc5f",
+  "translation": "だが しょうぶは しょうぶ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef84ccc9796463ae",
+  "translation": "ジムリーダーとして かつために\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f9fbb0d4048b6f3",
+  "translation": "ぜんりょくを つくそう!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a1ca6786b3e4a48",
+  "translation": "{ENG}{PLAYER}{JPN}も ぜんりょくで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12dc1d600d07a34c",
+  "translation": "かかってきなさい!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14a284a6f1f96b02",
+  "translation": "{JPN}……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2aa2515f68215f09",
+  "translation": "まさか……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17b3c1214108b070",
+  "translation": "しんじられん {ENG}{PLAYER}{JPN}……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9cf8b994f5725533",
+  "translation": "{ENG}{PLAYER}{JPN}に まける とは……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0287b8e69ac58060",
+  "translation": "……だが きまりは きまりだ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89f0e87a515b9827",
+  "translation": "これを わたそう$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbe09a03f861fc85",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}は パパから\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e79314ff993456fa",
+  "translation": "バランスバッジを もらった!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "726d6fa98450f5f8",
+  "translation": "{JPN}パパ: その バッジが あれば\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a74bb110e780225",
+  "translation": "ポケモン みんなの ぼうぎょが あがる\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87b405a69f0d3082",
+  "translation": "ひでんわざ なみのりを おぼえた\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da0480cc59d0b13a",
+  "translation": "ポケモンは みずの うえを すすめるぞ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c69d48117235a164",
+  "translation": "これは わたしからの おくりものだ {ENG}{PLAYER}{JPN}\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4d481ced6bd801c",
+  "translation": "おまえなら ただしく つかえるはずだ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "78d5609188ec848c",
+  "translation": "{JPN}パパ: わざマシン42は からげんきだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c56c6247964b356",
+  "translation": "ポケモンが どく まひ やけどの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1f2b9ee793d0f14",
+  "translation": "ときに つかうと わざの いりょくが\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "689ba26f9cbc3c28",
+  "translation": "2ばいに なる\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e33ee3469b6f72e3",
+  "translation": "ふりな じょうきょうを ゆうりに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90346b69e1e638b2",
+  "translation": "かえられる かもしれないぞ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ee5822b78ebaf44",
+  "translation": "{JPN}パパ: ジムリーダーとしては\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0aa032464aac9fa1",
+  "translation": "ことばに できないほど くやしい……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d6037c434478ec6",
+  "translation": "だが ちちおや としては うれしくも\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f5f9aeddaf22f30",
+  "translation": "すこし さびしくもある ふしぎな ものだ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1be1704bb579e54d",
+  "translation": "{JPN}おお いたいた {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2c73b0bf9a9cb10",
+  "translation": "ちょっと きてくれないか\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b622718637f7270",
+  "translation": "きみに わたしたい ものが あるんだ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eeafe1f2e721b199",
+  "translation": "{JPN}なあ センリさん いいだろう?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f4d797b58fbe168",
+  "translation": "おたくの {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}を\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e57f9642926d7161",
+  "translation": "ちょっと おかりして いくよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "152bdeea52e19187",
+  "translation": "{JPN}パパ: {ENG}{PLAYER}{JPN} たまには\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b6e34390967befd",
+  "translation": "ママの ところへ かおを だしなさい\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5a0ecf5ac8f9be6",
+  "translation": "わたしは ここで いっそう\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c965a6d29c6a0d76",
+  "translation": "トレーニングに はげむ つもりだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0189b0d9c4c376b",
+  "translation": "まけたままでは トレーナーとして\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d3945a96efe2c48",
+  "translation": "きが すまないからな {ENG}{PLAYER}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e285e9163d454a9",
+  "translation": "{JPN}パパ: {ENG}{PLAYER}{JPN} ちょうしは どうだ?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b2bc2213703e734",
+  "translation": "ポケモンの せかいは ふかい\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a82b6496972d7b3f",
+  "translation": "どれだけ トレーニングしても じゅうぶんと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "561f002769d38f2c",
+  "translation": "いうことは ないと ほんきで おもうよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f07cc303750f77f7",
+  "translation": "{JPN}よう! チャンピオンを めざす\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a860aaffccda797f",
+  "translation": "{ENG}{PLAYER}{JPN} ちょうしは どうだい?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e7fa5969af7b309",
+  "translation": "この ジムの とびらは まちかまえる\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6708ddd9ee9871f4",
+  "translation": "トレーナーを たおすと ひらくんだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b89b83976fd3985",
+  "translation": "おっと! この へやの とびらは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "218030f3be0a745b",
+  "translation": "もう ひらいてるから おれを おそうなよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5dbff453e449ac8",
+  "translation": "トウカジムの トレーナーは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "052fee7105dd988c",
+  "translation": "いろんな どうぐを つかってくるぞ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bdc1aca8c40ffb04",
+  "translation": "ひだりの とびらは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c0fc154c6e23e3e",
+  "translation": "スピードの へやに つづいている\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91350dde0a6b6356",
+  "translation": "みぎの とびらは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "141e902a106d0775",
+  "translation": "めいちゅうの へやに つづいている\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "116d0ec53030fdb9",
+  "translation": "へやの なまえは とびらに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33543865a63a1528",
+  "translation": "かいてあるから よく えらんでくれ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82c89e0504043078",
+  "translation": "とびらを えらんだら……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c6c5d1930bbadf8",
+  "translation": "まあ とにかく がんばれよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b46bd707ab09ef46",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}! うおお! じぶんの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2b8f84b422f1f10",
+  "translation": "とうちゃんまで こえちまうとは!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae466a17ef9b6b54",
+  "translation": "いやー すげえ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17f45a26799a2ced",
+  "translation": "まさかの だいどんでんがえし だぜ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77aee050f0c29fda",
+  "translation": "{JPN}あいてより さきに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4741899f737d187a",
+  "translation": "こうげき できる ちから……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8bd78b359be6bae7",
+  "translation": "それだけで おおきく ゆうりに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea5c19ef2c850db0",
+  "translation": "なると おもわないか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d1195445d534b6e",
+  "translation": "{JPN}すばらしい しょうぶ だった……!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ee50a05d9fba12b",
+  "translation": "{JPN}あたらしい ちょうせんが まつ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9cc43f02e5228aa",
+  "translation": "つぎの へやへ すすみたまえ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f619685bbfaf4e63",
+  "translation": "ひだりは こんらんの へや\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d37c02a6aa23c01",
+  "translation": "みぎの とびらは まもりの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "895eb5aeb385fe48",
+  "translation": "へやに つづいている$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd8bc43d027734ab",
+  "translation": "{JPN}だれに かっても だれに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "611942d1c7939444",
+  "translation": "まけても じぶんと ポケモンを\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f29d0aadaacbaed4",
+  "translation": "きたえる ことを けっして おこたらない\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad77f49d86e9dea8",
+  "translation": "それこそが ジムリーダーの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4a88e9af236ebf5",
+  "translation": "あるべき すがた だと おもう$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7cffae79601a5301",
+  "translation": "{JPN}ここは こんらんの へや!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea29485982508bfe",
+  "translation": "きみと ポケモンの きずな\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b09283fa7ff50af",
+  "translation": "みせて もらうよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbd7a605930eb1de",
+  "translation": "{JPN}こんらん させきれなかった……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98259d69be377692",
+  "translation": "ふかい きずなを もっているね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f83e67fde122ecb3",
+  "translation": "{JPN}つぎは ちからの へや!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1beadbbfb2b4ab39",
+  "translation": "その こうげきりょくに たえられるかい?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "44a682d08992014d",
+  "translation": "{JPN}ジムリーダーが きみに まけてから\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0421499f56c6a154",
+  "translation": "くんれんが さらに きびしく なったよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "413ea7111861caef",
+  "translation": "{JPN}かてる! と おもった そのとき\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60bcce7e28426fe3",
+  "translation": "あいてが HPを かいふく……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04e2b117ed569a96",
+  "translation": "それが どれほど いやな きもちか\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86165a8ddca8efdf",
+  "translation": "そうぞう できるかい?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94599ab01b82adf3",
+  "translation": "その いやな きもち\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8b250370cf00f9d",
+  "translation": "たっぷり あじわわせて やろう!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75129c4cdbb6521a",
+  "translation": "{JPN}かいふく しきれなかった……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd6d7d9cfb037c40",
+  "translation": "すごい こうげきりょく だ……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5681f70207f27034",
+  "translation": "{JPN}さすがは ぼくらの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e77cb3125fb9fbf6",
+  "translation": "ジムリーダーの こどもだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e85fd0558b32f51",
+  "translation": "いや ちがう! トレーナーの ちからは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e498135f72274234",
+  "translation": "どりょく でしか みに つかない\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f873e76bab71f61",
+  "translation": "ぼくが まけたのは じぶんの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "494e2c6e5d8a2703",
+  "translation": "どりょくが たりなかった からだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2aefca5dbb89620d",
+  "translation": "さあ いけ! つぎは いちげきの へやだ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42b4803732de9b22",
+  "translation": "{JPN}ポケモンジムで しゅぎょうを かさね\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f9388e5ceaa2c65",
+  "translation": "いつかは ジムリーダーに なってみせるよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e57389ce9340974",
+  "translation": "{JPN}ジムリーダーの こども だからって\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "229696f370b5e482",
+  "translation": "てかげんは しない!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "818d323317c3a7b6",
+  "translation": "きゅうしょに あたる こわさ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "408e9b33064466d7",
+  "translation": "とくと あじわって もらうよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd96bbf9de7bf800",
+  "translation": "{JPN}その ちから……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fe4276a4f4a6cbf",
+  "translation": "きみは ほんもの だな$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f71265dec7b0252b",
+  "translation": "{JPN}きみの おとうさんは ほんとうに つよい\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f10dc9881f79ac50",
+  "translation": "そんけいに あたいする トレーナーだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36ca79af9210eea1",
+  "translation": "そして きみからも おとうさんと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66ae0d5e2a88dfcf",
+  "translation": "おなじ かがやきを かんじる\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e264fb3a6f8d0018",
+  "translation": "おとうさんと すばらしい しょうぶを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77f6960143d5f223",
+  "translation": "くりひろげて くれよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb435e299a6bcc5b",
+  "translation": "{JPN}きみの おとうさんが リーダーに なってから\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9e62233704bdc6b",
+  "translation": "トウカシティの トレーナーは\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a1dcd34fd0acd00",
+  "translation": "ずいぶん たくましく なったよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "773631eddd8873c1",
+  "translation": "{JPN}ふふふ……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c59cbfe355145aae",
+  "translation": "ここは めいちゅうの へや!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08e066d5cc0cd88a",
+  "translation": "すべての こうげきが かならず\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "843e8d725c6204c2",
+  "translation": "あたるのって けっこう いやな ものよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "504f25e40ad18649",
+  "translation": "{JPN}あなたの ほうが いちまい うわてね……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10c79ed1f8238d52",
+  "translation": "{JPN}おくで さらに てごわい\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a9c9b2dc89d6426",
+  "translation": "トレーナーが あなたを まっている\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0ca90eb02ed19a8",
+  "translation": "ひだりは まもりの へや\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4787ef33d1394aa3",
+  "translation": "みぎは かいふくの へや よ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86e37bafb08a6eae",
+  "translation": "どちらでも あなたの ポケモンの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4fe87b4887f8e0f8",
+  "translation": "こうげきりょくが とわれるわ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f1e36af8bc6ccd2",
+  "translation": "{JPN}わたしたち トレーナーが なにを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2102d9587f02350",
+  "translation": "めざしているか しってる?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a2c4b12c152d7ad",
+  "translation": "……それはね ポケモンと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b2d37786186d029",
+  "translation": "こころを ひとつに する ことよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcbe2e5b1556ab39",
+  "translation": "{JPN}まもりが かたければ かたいほど\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b455952010f27a16",
+  "translation": "おもいきった こうげきが できるのよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b902d7ba8b08fd9d",
+  "translation": "{JPN}まもりきれなかった……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fdffc62e4c58cfc",
+  "translation": "{JPN}あなたに たいせつな ことを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "208818c6126bac66",
+  "translation": "おしえて もらった きがするわ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07e8e56e61224295",
+  "translation": "さあ すすんで! ひだりの とびらは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ccf13f6e5bcc59a7",
+  "translation": "ちからの へやよ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31aeb8db427bd705",
+  "translation": "みぎの とびらは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "034f889e0f843706",
+  "translation": "いちげきの へやに つづいているわ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "221e933bcae7093b",
+  "translation": "どちらも こうげきが とくいな\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6dc21e88863f7db",
+  "translation": "トレーナーが いるわよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afb7d36b24f42008",
+  "translation": "{JPN}どう? なみのりは つかってる?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "213c4548005ff0e1",
+  "translation": "{JPN}ぜんりょくで あなたを たおせと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5458b89a723c99b",
+  "translation": "ジムリーダーから いわれている……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b1b55cda596a18c",
+  "translation": "たとえ その あいてが\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56a89d4020eb0ee9",
+  "translation": "リーダーの こども だとしても!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16a52a0d3a0461ed",
+  "translation": "{JPN}ぜんりょくを だしたのに……!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f76c3112101c69ef",
+  "translation": "{JPN}あなたの ポケモンの つかいかた……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53030768694bd0ab",
+  "translation": "どことなく おとうさんに にているわ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6bdf6710f57760b",
+  "translation": "さあ! この おくで ジムリーダー\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c12525f3bc8bb815",
+  "translation": "あなたの おとうさんが まっているわ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1341e7329e13090",
+  "translation": "{JPN}たしかに ポケモンを つよくするのは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8b8a7abdfa6db6f",
+  "translation": "いいことよ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2967f89f9f77da6c",
+  "translation": "でも しょうぶを きめるのは なにか?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5782435f0f6d1f40",
+  "translation": "それは トレーナーが ポケモンに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03b92217120723cc",
+  "translation": "よせる おもい なのよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "333147a04f2d419c",
+  "translation": "{JPN}いまは まだ この とびらは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6df336b967344aa6",
+  "translation": "とざされて いる ようだ……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3abed9e9b63ef9fc",
+  "translation": "{JPN}「スピードの へや」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d5a0c71055ee38b",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c147142978d8c02",
+  "translation": "{JPN}いまは まだ この とびらは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6dd7830b57bf28b",
+  "translation": "とざされて いる ようだ……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17e01e189f0ce840",
+  "translation": "{JPN}「めいちゅうの へや」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "890314b2707a1497",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99e9e5aabd1e4f5d",
+  "translation": "{JPN}「こんらんの へや」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ead62253ba61d757",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b04f303d498cdc8",
+  "translation": "{JPN}「まもりの へや」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67a139e975de021d",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "084fd24054927f0a",
+  "translation": "{JPN}「かいふくの へや」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f958c440f244263",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27d16b5b5429e52f",
+  "translation": "{JPN}「ちからの へや」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b7bf3e3042ae297",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc8da00c06212305",
+  "translation": "{JPN}「いちげきの へや」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83bc677ec9c24bec",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52596b1771c7ef35",
+  "translation": "{JPN}「ジムリーダーの へや\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0588252c0c2d997",
+  "translation": "まちうける ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f88f9a34e88f46c4",
+  "translation": "その めで たしかめよ!」と かいてある\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3828fbc8736e959d",
+  "translation": "なかに はいりますか?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a2f5ed2084227b0",
+  "translation": "{JPN}トウカシティ ポケモンジム$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "195251cae4988960",
+  "translation": "{JPN}トウカシティ ポケモンジム\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1993e6d8dc9e8c20",
+  "translation": "センリ にんてい トレーナー:\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e3718abc60a19d2",
+  "translation": "{ENG}{PLAYER}{JPN}$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34bf896fe16ff229",
+  "translation": "{JPN}パパ: {ENG}{PLAYER}{JPN}……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a9075bcc94448f9",
+  "translation": "やはり あらわれたな……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a10e6de18be40e0",
+  "translation": "おまえに しょうぶを いどまれて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd553720890557a2",
+  "translation": "この わたしが ことわる はずがない\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84f055feecb6006d",
+  "translation": "わかっているな?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8f09af17d8105b4",
+  "translation": "ジムの なかでは おたがいに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9710822b5d75a2b",
+  "translation": "おやこで あることなど かんけいない\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2ee9d410a829566",
+  "translation": "……いや おやこ だからこそ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "539f38a5c4c9f7d3",
+  "translation": "ぜんりょくで ぶつかるんだ\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46a747a61283f860",
+  "translation": "そうだろ? {ENG}{PLAYER}{JPN}!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34d7016149461017",
+  "translation": "{JPN}うっ…… はは はは……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60911cb2df849162",
+  "translation": "ちょっと ほんきを だしすぎた…… かな?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d357c488129cecc",
+  "translation": "{JPN}パパ: {ENG}{PLAYER}{JPN}……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "447540e41341b367",
+  "translation": "おまえの ゆめは なんだ?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc9bc5776fd0e045",
+  "translation": "わたしの ゆめは……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4a3f79ec24162a9",
+  "translation": "ははは……\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d14c9070456c2bd",
+  "translation": "じつは もう かなったんだよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9808826c8d89a54",
+  "translation": "{JPN}パパ: {ENG}{PLAYER}{JPN}……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d59a979b8e3a317f",
+  "translation": "やはり あらわれたな……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa14a330b4581917",
+  "translation": "おまえに しょうぶを いどまれて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2172634c5ac9c498",
+  "translation": "この わたしが ことわる はずがない\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "171735df1db79785",
+  "translation": "わかっているな?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7124bb77daeb2e99",
+  "translation": "ジムの なかでは おたがいに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "178d6d67008d9deb",
+  "translation": "おやこで あることなど かんけいない\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ed5ae441a43d1a3",
+  "translation": "ん? ちょっと まて {ENG}{PLAYER}{JPN}\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "be12ab73dee942da",
+  "translation": "たたかえる ポケモンが\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16dc813f82293fd9",
+  "translation": "1ぴきしか いないのか?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d95ad6b2d1d5f6b9",
+  "translation": "わるいが すくなくとも ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc1c4aa365e99712",
+  "translation": "2ひき つれて でなおして きなさい$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "590c75168e84921a",
+  "translation": "{JPN}たびは いいぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a44cfe9526051c98",
+  "translation": "わしも わかいときは あちこちの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c774a4335d733d0b",
+  "translation": "うみや やまを わたりあるいた ものだ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "378c616e78c5fa41",
+  "translation": "{JPN}はあ……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37d51a9ca633eb3f",
+  "translation": "わたしも ポケモンと いっしょに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afdfd9a06a28fb2f",
+  "translation": "ぼうけんに でられたら いいのに……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8b1b42d87ab8c84",
+  "translation": "しめった くさむらを かきわけ……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23f25c78ae481192",
+  "translation": "ゴツゴツした けわしい やまを のぼり……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "876e3905e10b4aca",
+  "translation": "あれくるう うみを わたり……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae3764d98d85b423",
+  "translation": "くらい どうくつを さまよい……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "780768d24912d862",
+  "translation": "そして ときには ちょっぴり\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "572e8b2ecf5ce303",
+  "translation": "ホームシックに なったりして……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcce4abe13dadfb4",
+  "translation": "たびって きっと すてきなんだろうな!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd214f5bb856ef63",
+  "translation": "{JPN}この まちの あたらしい\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e94b9c4b1663b638",
+  "translation": "ジムリーダーに なった センリさん\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab8e608a1b93deb7",
+  "translation": "とおくに すんでいた ごかぞくを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b6f05d468af164b",
+  "translation": "こっちに よびよせた らしいのよね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e294ffeffa03b68",
+  "translation": "{JPN}まえに いちど しょうぶ してみたけど\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c0d6ee8d49dcb97",
+  "translation": "いやー センリさんは つよすぎたよ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c36f26c886310b8",
+  "translation": "なんというか こう……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "457ccb57cc3f3b2b",
+  "translation": "「ポケモン ひとすじに いきる!」\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d1fb501ba7dc6d1",
+  "translation": "っていうのを ヒシヒシと かんじたよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "119f0f1fc6c10479",
+  "translation": "{JPN}いまは よわい ポケモンでも\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ccf19460e47cf8f",
+  "translation": "きっと つよく なるわ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16ff579a542743a9",
+  "translation": "いちばん だいじなのは あいじょう!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1beb43de03a10e47",
+  "translation": "ポケモンへの あいじょうよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c14bd0bf1fa65be",
+  "translation": "{JPN}むしよけスプレー つかってる?\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29997bd93a537a74",
+  "translation": "つかうと ポケモンが よってこないから\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5224692610a5b0f7",
+  "translation": "いそぐとき べんり なんだぜ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4f13c769e77d017",
+  "translation": "{JPN}どくけしを もちあるいて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9bc0751840a0ddf",
+  "translation": "いますか?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "492dee6e86d2ed7e",
+  "translation": "どくの ポケモンを つれて あるくと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "604bc53813761530",
+  "translation": "ひんしに なるまで HPが へっていくわ\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fec8050e742b3773",
+  "translation": "どくけしを もっていきなさいね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5ed4dd4934b2146d",
+  "translation": "{JPN}パソコンで つかえる\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3a81b2650700128c",
+  "translation": "ポケモン あずかり システム……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18fc12152f8f01e1",
+  "translation": "つくった やつは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a1aa672d098bec1",
+  "translation": "すげー かがくに くわしいんだろうな!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ecf7a4e8797fe8fd",
+  "translation": "{JPN}ポケモンに オレンのみを たべさせたら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e92a4fc3b3699882",
+  "translation": "HPが かいふく したんだぜ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb783671d99d63d3",
+  "translation": "{JPN}ポケモンには いろんな タイプが あるの\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4126d91bafda29c5",
+  "translation": "どの タイプにも ほかの タイプに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a0dddee9b79409f",
+  "translation": "たいする とくいと にがてが あるわ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d61949fa0c34318c",
+  "translation": "ポケモンの タイプ しだいで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "354bb20ab0bfdfa1",
+  "translation": "しょうぶは らくにも きびしくも なるのよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68bcf7ec837629e1",
+  "translation": "{JPN}たとえば あなたの キモリは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72e2d2cafc6381b5",
+  "translation": "くさタイプ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77a78e286364155b",
+  "translation": "みずタイプと じめんタイプに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "421ca8ac6bf2c918",
+  "translation": "つよいの\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d91e9c9077bd1689",
+  "translation": "でも ほのおタイプの ポケモンには\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd0919436bc25a9c",
+  "translation": "よわいのよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5b13f51eae910a2",
+  "translation": "{JPN}たとえば あなたの アチャモは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67e1fbcdd1e4774c",
+  "translation": "ほのおタイプ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69213fadf369cc4f",
+  "translation": "くさタイプと むしタイプに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a085af74d2385a01",
+  "translation": "つよいの\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf496b9fdac0c72a",
+  "translation": "でも みずタイプの ポケモンには\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49be5202af5abf97",
+  "translation": "よわいのよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fdadf803cb9a6d7",
+  "translation": "{JPN}たとえば あなたの ミズゴロウは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da06f32db0368fd2",
+  "translation": "みずタイプ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25b668f56278670c",
+  "translation": "ほのおタイプに つよいの\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd1e4b6247073dba",
+  "translation": "でも くさタイプと でんきタイプの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b85805584780ff7",
+  "translation": "ポケモンには よわいのよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "966d3016ae8ac8ad",
+  "translation": "{JPN}あなたは……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b07497b8fc4f57c9",
+  "translation": "ああ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} ね?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19b555de087b51ca",
+  "translation": "さっきは ミツルと あそんでくれて\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b16cb508b1d49f84",
+  "translation": "ありがとう\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aac2034ac07b1d19",
+  "translation": "あのこは あかちゃんの ころから\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a00972e0bbd858ee",
+  "translation": "からだが よわくて……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bde8daba3eab5a8",
+  "translation": "しばらく シダケタウンの しんせきの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "427cc01f48fdc529",
+  "translation": "いえに あずける ことに したの\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9699847afe45c9f",
+  "translation": "あっちは ここより ずっと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1313b4169adcca0b",
+  "translation": "くうきが きれいだから\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05cc53d2d303e4aa",
+  "translation": "え? ミツルは どこかって?\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdba733eafb6d5fd",
+  "translation": "うちの ミツルは もう でかけたわ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "471dbcc04004360f",
+  "translation": "いまごろ どの あたりまで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "813c3237cb6f869a",
+  "translation": "いったのかしら?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e4849d4e1425fcf",
+  "translation": "{JPN}ミツルは どうしてるかなあ……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90321897048156fe",
+  "translation": "{JPN}{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}! こんなふうに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c2055b3760c2372",
+  "translation": "よびだして しまって すまないね\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f2bbb56aeb1f99ea",
+  "translation": "でも うちの ミツルは シダケタウンに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcc3c6c1f385846a",
+  "translation": "いってから とても げんきに なったんだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8acdddd93289c957",
+  "translation": "すべて きみの おかげだよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "84ff515025e568ac",
+  "translation": "ミツルが まちを でるとき ポケモンを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "833bd0a2095ec56a",
+  "translation": "つかまえるのを てつだって くれたろう?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ef35736e85d92b2",
+  "translation": "それが ミツルは ほんとうに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7095e7f020a70f30",
+  "translation": "うれしかった ようだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5203766a2f11190f",
+  "translation": "いや ミツル だけじゃない\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "71d3c2dc0e0e14f1",
+  "translation": "ちちおやの わたしも うれしかった\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2111d87d91c6123b",
+  "translation": "きみの ような すばらしい ともだちが\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ca104fe6909eb19",
+  "translation": "できた ことがね\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a666584013f5938",
+  "translation": "おれい という わけじゃないが\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32f71dc02168b3ca",
+  "translation": "ぜひ これを うけとって ほしい$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "243f30cd3ba14b79",
+  "translation": "{JPN}ポケモンが なみのりを つかえれば\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4283558195f4ce48",
+  "translation": "いろんな ばしょに いけるように なるよ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "47f4351605b33c32",
+  "translation": "{JPN}もうすぐ ミツルが かえってくるぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a64b1b6fccb85443",
+  "translation": "たのしみだなあ……!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c0470f5e9c2e5c7",
+  "translation": "{JPN}ええっ!? サイユウシティで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e532f7fd9ea9384",
+  "translation": "ミツルと あった だって……?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ee628e5cbff7811",
+  "translation": "んもう {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}ってばー\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa7f6073c1f72f81",
+  "translation": "いくら あのこが げんきに なったからって\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a50eb22d0e827387",
+  "translation": "そんな とおくの まち まで\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4afc4973c3e38b65",
+  "translation": "ひとりで いけるわけ ないよねえ……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45ecfde04762be07",
+  "translation": "{JPN}ポケモンを つかまえたって はなす\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "98796cdd027e706c",
+  "translation": "ミツルは ほんとうに うれしそうだった\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1dbe97a8c499b272",
+  "translation": "あんなに わらう あのこを みたのは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4303fedceefd65cc",
+  "translation": "ほんとうに ひさしぶりだったわ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8142596efe0abbb",
+  "translation": "{JPN}しゅじんには ないしょに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6293a5bdb06d614",
+  "translation": "してほしいんだけど……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d321d7214ce1a7d2",
+  "translation": "うちの ミツル だれにも いわずに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6bfa6fc280ae078",
+  "translation": "シダケタウンを でていったの\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d64eaae03fe8525",
+  "translation": "ミツルは からだは よわいけど\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01d54522b23b9979",
+  "translation": "いがいと きが つよい こなのよ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d0e8fe54550bc30",
+  "translation": "いつか きっと ぶじに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a87bc0ca56213f2",
+  "translation": "かえってくると しんじてるわ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53d292525fb71ddd",
+  "translation": "{JPN}うーん……\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b1250fcf2670e386",
+  "translation": "いないなあ……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b16ab34181c13a30",
+  "translation": "{JPN}ねえ きみきみ このあたりで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcd67936d1f72cda",
+  "translation": "キノココって ポケモン みなかった?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87960cc49b37b8d5",
+  "translation": "おじさん あの ポケモン だいすき なのよね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22aa5e5adce6e2be",
+  "translation": "{JPN}まちぶせ してやろうと おもったのに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "291d354aa78e7af3",
+  "translation": "トウカのもりで いつまでも\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb8984379995670b",
+  "translation": "もたもた しやがって!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbb5292a5adce9f0",
+  "translation": "まちくたびれて でてきて やったぜ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "925525defb943c39",
+  "translation": "{JPN}やい! デボンの けんきゅういん!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88db1564f9564a5a",
+  "translation": "その しょるいを こっちに よこしやがれ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae7fb781621e1e71",
+  "translation": "{JPN}ひやー!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "94f6607ed924ca59",
+  "translation": "きみ ポケモントレーナー だよね\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa77473a37cf4112",
+  "translation": "おじさんを たすけてよぉ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2010b3f80c34c72",
+  "translation": "{JPN}ああん? なにを するつもりだ?\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d93f6f5f1f512894",
+  "translation": "なんだ そいつを かばうってのか?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8aee7be4554079a",
+  "translation": "アクアだんに たてつく やつは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a16b21554e1ba33a",
+  "translation": "ガキだろうと ようしゃ しねえ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "63c7a2ea45ab1686",
+  "translation": "さあ しょうぶ しろ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdc48035b5a3864d",
+  "translation": "{JPN}うそだろ! つ つよい じゃねーか!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "07faed7ffdd13031",
+  "translation": "{JPN}むむむ…… アクアだんの\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d11d45cb7a3abbe",
+  "translation": "じゃまを するとは なんて やつ!\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c75e3c013a75bbb1",
+  "translation": "もう いっかい しょうぶ しろ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a72ba7ee211eb1d2",
+  "translation": "……と いいたい ところ だが\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f29283b42fe87fe7",
+  "translation": "もう てもちの ポケモンは いない……\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58d5375682fc0c0c",
+  "translation": "それに カナズミ シティにも アクアだんが\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20c2c72c0bee459b",
+  "translation": "ねらっている ものが あるからな!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2493e9c04aa3ab75",
+  "translation": "きょうは これぐらいに しといてやらぁ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cc29d5ab23aeed2f",
+  "translation": "{JPN}……ふぅ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7d82afbfe51f1a3",
+  "translation": "あぶない ところ だった!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68f0e5fd8d058bc5",
+  "translation": "きみの おかげで だいじな しょるいを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2ef583adec5c4552",
+  "translation": "うばわれないで すんだよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58d374025d4df2a2",
+  "translation": "……そうだ! おれいに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a304aba43afb45ff",
+  "translation": "スーパーボールを あげちゃおう!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56b8b7fcd54efdcb",
+  "translation": "{JPN}……そういえば さっき アクアだんの やつ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd8f5442d14617d4",
+  "translation": "「カナズミにも ねらっている ものがある」\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd169a270e1a444d",
+  "translation": "とか いってたよね……?$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66e82467dc356b05",
+  "translation": "{JPN}たいへんだ!!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e2df40ed9807553",
+  "translation": "こうしちゃ いられない!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f4cbfb84a8ffc282",
+  "translation": "{JPN}どうぐが いっぱいで\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c863dab708118af4",
+  "translation": "スーパーボール あげられないね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0cf4e5634fb6b3f",
+  "translation": "{JPN}ポケモン いっぱい つかまえた!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "296dc54633895da3",
+  "translation": "そら いけ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "563c9940f5864dc8",
+  "translation": "むしポケモン チーム!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bb7d097622bb9a1",
+  "translation": "{JPN}こんなに ポケモン いるのに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70376aece0f283c9",
+  "translation": "かてなかった……$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "809573b7db0c40dc",
+  "translation": "{JPN}たくさん ポケモン つかまえたら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87d925b087a0b495",
+  "translation": "モンスターボール なくなっちゃったよ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4167c6fdc2ae990",
+  "translation": "{JPN}むしポケモンを がっこうに もっていくと\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef3362cc5996fb50",
+  "translation": "それだけで にんきもの なんだ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7465f7a7a7237f4",
+  "translation": "{JPN}まけると にんきものに なれないや$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "55fd45f7d7a488ba",
+  "translation": "{JPN}でかい むしポケモン もってると\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c088e210f84a965",
+  "translation": "それだけで そんけー されるんだ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73b46a78a52d19c2",
+  "translation": "{JPN}むしポケモンが そだったら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c9bc2cf36ebd57cd",
+  "translation": "また しょうぶ してよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a733a35aa48e22d",
+  "translation": "ポケナビに とうろく しとくね!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42d1d9b62dbeec06",
+  "translation": "{JPN}むしポケモンが そだったら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92d5859115f051d8",
+  "translation": "また しょうぶ してよ!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa7c52198bde987c",
+  "translation": "ポケナビに とうろく しとくね!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0facf7d8c1eb4aea",
+  "translation": "{JPN}むしポケモンが そだったぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c8a2fe5dcfd7548",
+  "translation": "これで また にんきもの だ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "164161b8824c958c",
+  "translation": "{JPN}まけると にんきものに なれないや$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f13131b91544f84",
+  "translation": "{JPN}つよい ポケモン もってると\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "907ca49288b594fd",
+  "translation": "にんきものに なれるだろ?\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df6d451822fe3201",
+  "translation": "だから がんばって そだててるのさ!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7942a96f9002da54",
+  "translation": "{JPN}よう!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee9d06dafa0c851e",
+  "translation": "ポケモンの ちょうしは どうだい?\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af40988a97d1eda4",
+  "translation": "ポケモンが よわくて しょうぶを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bc09040e98cc9b4",
+  "translation": "さけたいなら たかい くさむらには\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "329d366e3f00ffc1",
+  "translation": "はいらない ほうが いいぞ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bb003743affc67f",
+  "translation": "{JPN}めに みえなくても じめんに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00156bc20fd24e44",
+  "translation": "なにか おちてる ことが あるんだ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ef4b83bb92fbb3f",
+  "translation": "だから いつも あしもとを\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c37381c3f4bed67",
+  "translation": "しらべながら あるいてるのさ$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26f9223f6beae74d",
+  "translation": "{JPN}あら すてき!\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29163dea959ad168",
+  "translation": "それ カナズミジムの バッジね!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "100df3229c8beafa",
+  "translation": "あなた トレーナーなのね\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8ef8d1ce438c5d2",
+  "translation": "この どうぐを つかってみて$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80224636619be325",
+  "translation": "{JPN}それは きせきのタネ\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e4707f4d4abfd09",
+  "translation": "ポケモンに もたせてあげると\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "583fbd2824a98759",
+  "translation": "くさタイプの わざが つよく なるのよ\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8d2bc9ef562407d",
+  "translation": "きせきのタネの ほかにも\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10c3d75f35447c8e",
+  "translation": "ポケモンに もたせると べんりな\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad93b77ef14ec987",
+  "translation": "どうぐが あるらしいわね$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "575727ea095974f9",
+  "translation": "{JPN}おとくな けいじばん!!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec90ec67f0750225",
+  "translation": "しょうぶに 1かいでも でた ポケモンは\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f7f1b938d164c9d8",
+  "translation": "けいけんちを もらえます\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2304c7b1f0273c00",
+  "translation": "よわい ポケモンを そだてるなら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97f4b12ab15d3ffb",
+  "translation": "てもちの いちばん ひだりに おきましょう\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b95d3e4af372c62",
+  "translation": "しょうぶが はじまったら すぐに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30fe9601914847e1",
+  "translation": "いれかえれば きずつく ことなく\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76e051d5d680e76e",
+  "translation": "けいけんちが もらえます!$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b893fb78b00f924a",
+  "translation": "{JPN}おとくな けいじばん!!\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5aaeb6a83e02d79",
+  "translation": "ポケモンには ヒットポイント(HP)の ほかに\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b31d61850e81f1b5",
+  "translation": "わざを くりだす ための\\l",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eebce927a77c6fdf",
+  "translation": "パワーポイント(PP)が あります\\p",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f97184156065ae40",
+  "translation": "PPが なくなったら\\n",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d23e58a96ed5b231",
+  "translation": "ポケモンセンターに つれていきましょう$",
+  "provenance": {
+   "batch": "dialogue-petalburg-littleroot-71",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

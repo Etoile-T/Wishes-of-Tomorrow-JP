@@ -1,0 +1,1015 @@
+##### data/maps/DewfordTown/scripts.inc
+## DewfordTown_Text_TinyIslandCommunity:
+df08ff449a091e05	ムロタウンって ちいさな しま だから\n
+847d2b040c4f8efd	なにかが はやりだすと\l
+a9cec02d111efd4a	みんな すぐに まねを するのよね$
+## DewfordTown_Text_TownSign:
+d001e6c6f2e983c0	ここは ムロ タウン\n
+bd35dfe711ed231c	「あおい うみに うかぶ ちいさな しま」$
+## DewfordTown_Text_GymSign:
+1cdf16a9dd354a89	ムロ タウン ポケモンジム\n
+2658c51c80298ebf	リーダー トウキ\l
+abbccf0c43da7559	「かくとう ビッグウェーブ!」$
+## DewfordTown_Text_HallSign:
+a77ab044f47be3b4	ムロの しゅうかいじょ\n
+8b7e23d4fbeaa30f	「みんなの じょうほう こうかんの ばしょ!」$
+## Route104_Text_LandedInDewfordDeliverLetter:
+99f610e58295b581	ハギ: おーい!\n
+30e38c492d54e480	ムロに ついたぞ!\p
+e6235e5df3fde2ff	あの てがみを とどけに いくんじゃな\n
+2f38ef9ab7c7cf2b	あいては だれ じゃったか…… ダイゴ!$
+## DewfordTown_Text_SetSailBackToPetalburg:
+d2126e19874ab6bc	ハギ: てがみは もう\n
+9bf0e4ef14fb5f0f	とどけたかね?\p
+0a56cf8db6605013	それとも ふねで もどるのかな\n
+47d9bf47f306960f	トウカへ?$
+## DewfordTown_Text_PetalburgWereSettingSail2:
+55607d1bc94d2b9d	ハギ: よし トウカ じゃな!\p
+3e3322439fc561b3	いかりを あげい!\n
+4f349a2f6c15b4dd	ピーコちゃん しゅっこう じゃよ!$
+## DewfordTown_Text_GoDeliverIllBeWaiting:
+f82248c52c6c09b8	ハギ: では てがみを とどけておいで\n
+9f7d9badcb5e702e	わしは ここで まっておるから$
+## DewfordTown_Text_BrineyLandedInDewford:
+749e7eb9cb50202f	ハギ: おーい!\n
+0ca9bc2a1846dbb9	ムロに ついたぞ!\p
+e2da6559467b737f	また ふねを だして ほしいときは\n
+f8d715ff8dbfd398	いつでも こえを かけておくれ!$
+## DewfordTown_Text_WhereAreWeBound:
+80627d7e47b497a8	ハギ: やあ!\n
+4e69d2e297fa63df	きみの ためなら いつでも ふねを だそう!\p
+eda0cb33a3a78e31	さて きみが いきたいのは どこ かな?$
+## DewfordTown_Text_PetalburgWereSettingSail:
+829d2952a4181512	ハギ: トウカ じゃな?\p
+9cfe0f820dcfee20	いかりを あげい!\n
+fdb6b5582df20927	ピーコちゃん しゅっこう じゃよ!$
+## DewfordTown_Text_SlateportWereSettingSail:
+c43592851b1f1783	ハギ: カイナ じゃな?\p
+4177f6db960d43b0	いかりを あげい!\n
+af35ab98b9910cb0	ピーコちゃん しゅっこう じゃよ!$
+## DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
+809ab36bc72a841d	ハギ: ふねに のる ひつようが あるときは\n
+c0dec52415ccf479	いつでも こえを かけておくれ!$
+## DewfordTown_Text_GettingItchToFish:
+2d9da806d1e21819	このへんは つりの めいしょ なんだ\n
+34f531a9db544777	きみも つりが したくなった?$
+## DewfordTown_Text_GiveYouOneOfMyRods:
+599886518267e4cf	そうか そうか! いいこと\n
+b892b129bb7074a8	いうねえ!\p
+9cc2bd2bd532e134	おれの つりざおを ひとつ あげよう!$
+## DewfordTown_Text_ThrowInFishingAdvice:
+dcd880d1693bac83	それと おまけに つりの コツも\n
+d5e98dfa54096c0c	すこし おしえて あげよう!\p
+16a6baa9132da349	まず みずの ほうを むいて\n
+6eb946d1e86ae538	つりざおを つかうんだ\p
+dcb67e92763f6500	こころを しずめて……\n
+482bb8dc71bcd44b	あたりが きたら つりざおを ひく!\p
+8eed2929632ee281	すぐに つれる ことも あるけど\n
+2c9b52228764043a	おおものの ときは\l
+60552edb7584ff6e	タイミングよく つりざおを ひいて\l
+fafd32eea6df15c9	たぐりよせるんだ$
+## DewfordTown_Text_ThatsTooBadThen:
+04e688d1fa09d401	あらら……\n
+086abd12704a1cdd	それは ざんねん$
+## DewfordTown_Text_HowsYourFishing:
+ee6fe1846fa7635e	よっ!\n
+90b67913ef26838a	つりの ちょうしは どう?$
+## DewfordTown_Text_GreatHaulInSomeBigOnes:
+13cbf496ff474a43	そうか! そりゃ すごい!\n
+ccba552c1ae02cb3	おおものを つりあげて くれよ!$
+## DewfordTown_Text_FishingAdvice:
+680fdfcb440550e9	おいおい おちこむなって!\n
+7e0f65a2e1c6b573	つりの コツを すこし おしえよう\p
+6c3d60237cb381ef	まず みずの ほうを むいて\n
+a1fdfec2eaa589d0	つりざおを つかうんだ\p
+bed54dab4fbd167e	こころを しずめて……\n
+cdbe826dd3e51fb3	あたりが きたら つりざおを ひく!\p
+61bbde39778cc7fb	すぐに つれる ことも あるけど\n
+c2925759d912a306	おおものの ときは\l
+0eda08e160fcafb7	タイミングよく つりざおを ひいて\l
+b8883781bad3ab1f	たぐりよせるんだ$
+## DewfordTown_Text_XIsTheBiggestHappeningThingRight:
+f4bc2c8e10176210	ぼくは イケてて はやりの ものが すき\n
+2d627276915c900c	いつも チェック してるんだ\p
+c9a3f74df6a30f84	ねえ さいきん はやりの\n
+c31fdd4c49a8b64b	「{STR_VAR_1}」って しってる?\p
+a6e2490b7b10a432	そう そう!\n
+8b570179bf656f85	もちろん しってるよね!\p
+fbdaf51b6f5c7b26	いやー まったく\n
+676e4f503bfc54b0	「{STR_VAR_1}」……\l
+03f06734064d13d7	いま いちばん クールな ものだよ!\p
+5e3e9678cd600ede	きみが どこから きたにしても\n
+6247c5b1347004cf	「{STR_VAR_1}」が\l
+c88b486fbefcb080	いちばんの はやり だよね?$
+## DewfordTown_Text_TellMeWhatsNewAndIn:
+d58d1d011d129f10	え?\n
+786b7aad2ecbd686	はやって ないの!?\p
+93c703584eadbcab	じゃあ いま なにが あたらしくて\n
+a7dcd9d7c2b1511a	はやってるのか おしえてよ!$
+## DewfordTown_Text_OfCourseIKnowAboutThat:
+eeba06ee10925555	え?\n
+64efc3d9d262988a	「{STR_VAR_2}」?\p
+baaa96242fc8c7ff	…… ……\p
+765b10bb34caa041	……あ…… そう! そうだよね!\n
+6ab063e81ebc71fb	しってた! ずっと まえから しってた!\p
+86728c5432b1d42c	もちろん しってるって!\n
+f0d60e6933a92ccb	「{STR_VAR_2}」 でしょ?\p
+a10c085bbb4579a6	そう それそれ! それが きてるんだ!\n
+9bf72d4a171d5085	「{STR_VAR_2}」って\l
+ea1cc3c24d1003a0	さいこうに クール じゃない?\p
+2e934ef44bba5d72	いちばん イケてる ものだよね\n
+7e52f13f505dda86	ぼくが しらない わけ ないでしょ?\p
+158c519d5a827221	「{STR_VAR_1}」なんて……\n
+7835272766672baa	もう ふるい ふるい\p
+aa1f5d7c697ca1c3	いまは 「{STR_VAR_2}」こそ\n
+fbfe3782e1869a72	じだいに あった ものだよ!$
+## DewfordTown_Text_XHuhIThinkYIsCool:
+2386cadd79d857c7	ふーん……\n
+f98972e51321ee43	「{STR_VAR_2}」か……\p
+2d46a77382841815	でも ぼくは\n
+0e4a3ec6573adf47	「{STR_VAR_1}」こそ\l
+bcfcf3e7e1f02029	ほんものの クールだと おもうけどね$
+## DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
+ffd75faf80765b85	じゃあ あたらしい りゅうこうが あったら\n
+866aaee60046e325	また きかせて くれよ!$
+## DewfordTown_Text_YeahDefinitionOfInRightNow:
+872f88ae3468d8b1	うん そのとおり!\p
+484e036073fdec54	「{STR_VAR_1}」こそ\n
+12757b28848bf5a4	いま はやりの ものの だいひょうだよ!$
+##### data/maps/DewfordTown_Gym/scripts.inc
+## DewfordTown_Gym_Text_GymGuideAdvice:
+a41661ce5005015c	よう! チャンピオンを めざす\n
+45f995a054d00d14	{PLAYER} ちょうしは どうだい?\p
+bf7b8c219737d23c	ムロの ジムリーダー トウキは\n
+b5a3149d9cbcb893	かくとうタイプの ポケモンの つかいてだ\p
+9ba484f6c88e8b20	ノーマルタイプの ポケモンで\n
+ef04374ab91e8ecf	いどむのは むぼう ってもんだ\p
+c0a4943c14f583ac	かくとうポケモンは ノーマルポケモンを\n
+7216dde5f0dda612	こてんぱんに しちまうからな\l
+9213eb82bbcf92c9	きを つけろよ!\p
+0381203419b38a92	しかも この ジムは うみの そこ\n
+6d5b1107635edd16	みたいに まっくら なんだ\p
+402d9bee5667183e	でも とちゅうの トレーナーを\n
+ba35cef952b23e41	たおすと あかるく なっていくぞ\p
+a211b885b2723ac1	よし いってこい!$
+## DewfordTown_Gym_Text_GymGuidePostVictory:
+79106331061ce152	うおォ! あかるく なりすぎだな!\p
+26d0e0c4d06cb2d5	きみの みらいも あかるいぞ!$
+## DewfordTown_Gym_Text_TakaoIntro:
+a2f6d4cd34218d41	ちから こそ せいぎっ!\n
+251db1f7ab052384	こいっ!$
+## DewfordTown_Gym_Text_TakaoDefeat:
+7b8deaf11f054093	ちからぶそく だった……$
+## DewfordTown_Gym_Text_TakaoPostBattle:
+f2ef64b0dc47a670	じゅう よく ごうを せいす!\n
+a74ad94711ff18ab	みごとな わざ だった!$
+## DewfordTown_Gym_Text_JocelynIntro:
+2686942882995b76	トウキさまが でるまでも\n
+813405f9177fb26b	ないわ!\p
+416a3517548bc616	あたしが たおして あげる!$
+## DewfordTown_Gym_Text_JocelynDefeat:
+3cfb8f089c0d62f8	まさか…… どうして?\n
+fe217f2942a9ae37	こんなに かんたんに まけるなんて$
+## DewfordTown_Gym_Text_JocelynPostBattle:
+429fcb97a24707b9	この まけを むだには しない\n
+7dfb35072aa6a6b1	これを ばねに とっくん する!\p
+34f1ca9fc720c3b1	そして いつかは ジムリーダーに……\p
+c251a74b450d4464	いえ ポケモンリーグの\n
+482df1353ba32c51	チャンピオンに なるわよ!$
+## DewfordTown_Gym_Text_LauraIntro:
+658467ca84f8e560	あたしを あまく みない ことね!\n
+f3fb181e8bee86e2	ないても しらないわよ!$
+## DewfordTown_Gym_Text_LauraDefeat:
+2f3330900677472f	わぁーーーん!\n
+79bc574d9f7cebe9	まけたーーーっ!$
+## DewfordTown_Gym_Text_LauraPostBattle:
+870068996da1ec17	くらやみの なかで たたかうことで\n
+e575c0647ba809cc	こころを きたえるの\p
+4eecfc3a0852c0a3	でも まっくら だから\n
+0c035ec82b6ed787	トウキさまの おかおが みられない……$
+## DewfordTown_Gym_Text_LilithIntro:
+bee063724556ff3b	うふふ……\n
+456f66c1e3b75595	くらくて まよっているの かな?$
+## DewfordTown_Gym_Text_LilithDefeat:
+aa580fac10c4ba0a	なによ もう……\n
+02e688da9d8cae94	あなたなんか しらない!$
+## DewfordTown_Gym_Text_LilithPostBattle:
+9f5cf773629b1e43	あなた なんて このまま まよって\n
+d22441e8666ceea4	いりぐちに もどっちゃえば いいのよ!$
+## DewfordTown_Gym_Text_BrendenIntro:
+62edd5c0eb6e07c8	うみの おとこの いじを\n
+23c309e042531a91	みせつけて やるぜぃ!$
+## DewfordTown_Gym_Text_BrendenDefeat:
+4d8723c3dc6720a3	どうしたぃ!\n
+27979c13eb766757	おれが こんな まけかた するなんて!$
+## DewfordTown_Gym_Text_BrendenPostBattle:
+7ab74ebe5d79291f	おう! あんたなら うちの\n
+d1b683fc5277053c	ジムリーダーに あう しかくが あるぜぃ$
+## DewfordTown_Gym_Text_CristianIntro:
+0307d625232a309e	ここを とおる なら\n
+ccb13acfa0c7cee9	わしを たおしてから じゃ!$
+## DewfordTown_Gym_Text_CristianDefeat:
+8a2747b379029c99	むうーん!\n
+1440497b1d0bb727	まるで かなわん……!$
+## DewfordTown_Gym_Text_CristianPostBattle:
+4e51af1d7f8a02b4	わしの まけじゃ!\n
+70f92a6c364d3bf8	その バッジを とりに いけい!$
+## DewfordTown_Gym_Text_BrawlyIntro:
+86584c492451c43c	ボクは トウキ!\n
+7ea30a46a7ea3811	ムロの ジムリーダーさ!\p
+8a0362dcf55613b2	この あたりの あらなみに もまれ\n
+a4c6eec28416c02c	まっくらな どうくつで\l
+f1aaa1b48684e216	たくましく そだったんだ!\p
+266d385420638b03	ボクに ちょうせん したいって?\n
+675db7631e909f4b	キミの じつりょく みせてもらうよ!$
+## DewfordTown_Gym_Text_BrawlyDefeat:
+cc3a1f5744a4cb6a	わーお! おもってたより ずっと\n
+10543add85d348ec	おおきな なみを おこしたね!\p
+878ff17605b7d17e	のみこまれちゃったよ!\p
+55964262c6e653ac	オーケー ボクの まけだ\n
+0d2ab52c092cb850	この ジムバッジを うけとって!$
+## DewfordTown_Gym_Text_ReceivedKnuckleBadge:
+b94874a8d66e0027	{PLAYER}は トウキから\n
+843d1d85b1da4047	ナックルバッジを もらった!$
+## DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
+166c3adac0c3db3f	ナックルバッジが あれば レベル30\n
+142113218f5a0445	までの ポケモンは こうかんで\l
+ce3d2fb798d78ccb	もらった ポケモンも いうことを きく\p
+fde2041e2cbf2367	それに ひでんわざ フラッシュを\n
+7d5af4497929f839	せんとう いがいで つかえるように なる\p
+e6c069500a5a9354	よかったら この わざ\n
+95c69178f32978dd	マシンも つかってよ$
+## DewfordTown_Gym_Text_ExplainBulkUp:
+5896419655928973	その わざマシン08は ビルドアップ\p
+0f91e20af967dfd6	こうげきと ぼうぎょの のうりょくを\n
+896269f697bd3e02	どちらも あげる わざ なんだ\p
+208d3d990d05c769	…… …… …… …… …… ……$
+## DewfordTown_Gym_Text_RegisteredBrawly:
+60493e02da9a0c54	ジムリーダー トウキを\n
+4860a86cbc6819b9	ポケナビに とうろく した!$
+## DewfordTown_Gym_Text_BrawlyPostBattle:
+d3531b894015998e	キミの さいのうは いつか きょだいな\n
+deec41e905989cb2	なみに なって トレーナーたちを\l
+c9959f9b11bdc8cc	おどろかせる あらしを おこすだろうね!$
+## DewfordTown_Gym_Text_GymStatue:
+7145e8ebf0a30f3f	ムロタウン ポケモンジム$
+## DewfordTown_Gym_Text_GymStatueCertified:
+20b8cdae09fc925f	ムロタウン ポケモンジム\p
+c8ec74323b2a0c60	トウキ にんてい トレーナー!\n
+95c95ca05f110eba	{PLAYER}$
+## DewfordTown_Gym_Text_BrawlyPreRematch:
+a45ce623ec3dc09d	トウキ: なみというのは いちど ひいても\n
+eb6c6edb00ed0726	かならず はまべに もどってくる\p
+85b2a17bdf62cc7a	キミほどの ビッグウェーブだ……\n
+44e0266bacb452c9	きっと もどってくると おもってたよ!\p
+744219641d4b938b	さあ どれほど たかさを ましたのか\n
+1720866df3194532	ボクに みせてくれ!$
+## DewfordTown_Gym_Text_BrawlyRematchDefeat:
+33e90b37a948907e	わーおっ!\n
+4132823d75dabecf	また のみこまれちゃった!$
+## DewfordTown_Gym_Text_BrawlyPostRematch:
+0fe6de40047058b7	トウキ: ポケモン しょうぶは ひろくて ふかい\n
+ff0c7913e2cf817d	そこが みえないんだ\l
+b2269f7c91b631bb	まるで ホウエンの うみの ようだね!$
+## DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
+1644d422d235a5f5	トウキ: なみというのは いちど ひいても\n
+1ec7538e7f8dd805	かならず はまべに もどってくる\p
+8e8ec2a6196033dc	キミほどの ビッグウェーブだ……\n
+c2979d0562234c5b	きっと もどってくると おもってたよ!\p
+10dcc140fd499cd8	……あれ? たたかえる ポケモンを\n
+59a1762d41bb61c5	1ぴきしか もっていないんだね\p
+2e5759301dede957	すまないけど 2ひき いじょうの\n
+d58cd300a4e4290f	ポケモンを もって また きてくれよ$
+##### data/maps/DewfordTown_Hall/scripts.inc
+## DewfordTown_Hall_Text_CantImagineLifeWithoutTrend:
+085f0d5a048a8f02	いまの はやり? それは もちろん\n
+95d9f6781f4ebc62	「{STR_VAR_1}」!\p
+15a2c36b8556092c	そうぞう できないよ\n
+8e23445788274d45	「{STR_VAR_1}」の ない せいかつ なんて!$
+## DewfordTown_Hall_Text_GettingBoredOfTrend:
+0d61333ec87e63b5	いまの はやり? それは もちろん\n
+1eb519c86ad20eb1	「{STR_VAR_1}」!\p
+7fe7d14716e5ab65	でも ちょっと あきてきちゃった\p
+b01faac506d49483	つぎの はやりを さがさなきゃ$
+## DewfordTown_Hall_Text_TeachingMonAboutTrend:
+7f0531ec8cdd3d6f	ポケモンに\n
+d43b88ec053eef2f	「{STR_VAR_1}」を\l
+19c132b442f14c71	おしえてるけど うまく いかないの\p
+140809eb72246cf8	ちょっと むずかしすぎる みたい$
+## DewfordTown_Hall_Text_DeepLinkBetweenXAndY:
+aa14cfcf7fdf7398	いま はやりの\n
+a54fa3193567d2b8	「{STR_VAR_1}」を べんきょう ちゅうだ\p
+86d922aa6bea630d	ほんとうに ふかい かんけいが あるのか\n
+2ff3a6109677145f	「{STR_VAR_1}」と\l
+cd41365994996133	「{STR_VAR_2}」には?$
+## DewfordTown_Hall_Text_MyHunchWasRight:
+0312ff6c621ee20b	お!\n
+730e882550896bec	やっぱり そうなのか!\p
+1bb1b4579ef263bb	これで おじさんも またいっぽ\n
+6be0f1a1f118639b	りゅうこうに ちかづいたぞ!$
+## DewfordTown_Hall_Text_NotEasyToKeepUp:
+71131cb049c92ee4	なに!?\n
+ccc6a7243711afba	そうなのか!?\p
+328a0bf4d7c2b015	いやー おじさんが りゅうこうに\n
+64889594c426242c	ついて いくのは たいへんだ!$
+## DewfordTown_Hall_Text_TVShowAboutTrend:
+c7ba0f4b49df2e8a	この\n
+4023308468443ba3	「{STR_VAR_1}」って……\l
+974f41c68923eb34	テレビ ばんぐみに なって なかった?$
+## DewfordTown_Hall_Text_IsTrendMorePopularAcrossSea:
+b0bcb72daba80d56	うみの むこうでは……\p
+755fa39807542542	もっと 「{STR_VAR_1}」が\n
+de9405a42a7867df	はやってるのかな?$
+## DewfordTown_Hall_Text_CollectTrendMerchandise:
+90c425c3dd25e4de	ぼくは こうしきの\n
+3dedb61cbf34d069	「{STR_VAR_1}」\l
+081929cee42035b0	グッズを あつめてるんだ\p
+f96560fd66a04884	こうしき\n
+e7e9e7ff0a85fb2f	「{STR_VAR_1}」にんぎょう……\p
+22e2be0b9d0a5af1	こうしき 「{STR_VAR_1}」\n
+ce81f257eb24a189	ブランドの ふく……\p
+e865fe668bd2ac8d	それに こうしき ライセンスの\n
+fb816d4fa103ac7b	「{STR_VAR_1}」\l
+fbdbcc0d102f1caf	えほん\p
+c47456ca3960f575	へへっ ぜんぶ ぼくの もの!\n
+56af9cf946469c49	きみには なにも わけて あげないよ!$
+## DewfordTown_Hall_Text_BooksAboutTrend:
+794cbffcae9231ab	みわけよう!\n
+9e68872360ced35c	よい 「{STR_VAR_1}」と\l
+4cc776b3fac3699d	わるい 「{STR_VAR_1}」……\p
+0ee6dd1c28c6eeec	ふかい かんけい!\n
+e50b57a8f9523626	「{STR_VAR_1}」と\l
+625f7d3cd5151d20	ポケモン……\p
+874b91f60d9c5d95	やくに たつ\n
+bea78457de537b7b	「{STR_VAR_1}」……\p
+d443b5f8f3d9af15	ほんだなには ぎっしりと\n
+8236ced25b725d93	「{STR_VAR_1}」の ほんが!$
+## DewfordTown_Hall_Text_TrendsScream:
+50fbcb8edc5a7ded	「{STR_VAR_1}の\n
+a8359be6adf7f23c	さけび」 という タイトルだ$
+## DewfordTown_Hall_Text_TrendsSmile:
+1492c53cf119f1f8	「{STR_VAR_1}の\n
+ec951c133f9e59ee	ほほえみ」 という タイトルだ$
+## DewfordTown_Hall_Text_LastTrend:
+dd92cdbb46d2557b	「さいごの\n
+b1dab72b6206bfbb	{STR_VAR_1}」 という タイトルだ$
+## DewfordTown_Hall_Text_BirthOfTrend:
+33c0030849302a40	「たんじょう!\n
+75d88e12b20cbac5	{STR_VAR_1}」 という タイトルだ$
+## DewfordTown_Hall_Text_SawTrendCoolestThing:
+de05150c289164b6	「{STR_VAR_1}」 みたよ!\n
+cda93280bde50ecf	すごいでしょ?\p
+4ffb527894ff5fd4	いま いちばん イケてる ものだよ!\p
+e61edcce8587c7dc	さいこう だった!\n
+10ecb53193d69e26	あれこそ ほんもの だよ!$
+## DewfordTown_Hall_Text_AllegedTrendNotAuthentic:
+e20cbc5f1d48c628	いやいや ちがう ちがう\p
+b0c3de37aae133f4	きみが みたという\n
+ad27cfbcacd29e62	「{STR_VAR_1}」は\l
+443b25fa9858cc34	ほんものじゃ ない\p
+7f6c0d3a88c4a11d	ほんものは もっと……\n
+ba5aa56d197ba61e	なんて いうのかな\l
+6f9d2988527caffa	するどくて それでいて まろやか!\p
+bcfd16f4d4c553ff	まあ いいや とにかく すごいんだ!$
+## DewfordTown_Hall_Text_ComposedTrendThemeSong:
+7829ad4467e8c21a	ねえ きいて! テーマソングを つくったんだ\n
+18d7a8128bfd5e9f	「{STR_VAR_1}」の!\p
+3a01903346e4f00a	「{STR_VAR_1}」は\n
+fae5a357d30976cf	いま すごい にんき だからね\p
+4f6d4416b48b2a9e	じゃあ きいてて!\n
+6a0a0397ce90e01a	…… ……\p
+d20166d6e708ed64	ああ!\n
+ab33c6fcd9016b47	{STR_VAR_1}!\p
+c27b8e7a72b710ad	すばらしき\n
+0012d04c6bbe79de	{STR_VAR_1}!$
+## DewfordTown_Hall_Text_WorkOnYourSinging:
+9b8f6d4b9c517c4a	…… ……\p
+547718369908ef11	きみ あえて いわせて もらうが\n
+8906611014aa713e	まずは うたの れんしゅうを\l
+c5b561780ceadb94	したまえ はなしは それから\l
+15157278c263f12e	「{STR_VAR_1}」 だよ$
+## DewfordTown_Hall_Text_OrganizeTrendParty:
+1d6c194ceced27b8	ともかく さっきの はなしの つづき\n
+3d19946741d2b04e	だけど みんなで あつまって\l
+02e327471638e908	「{STR_VAR_1}」パーティーを\l
+bf6e31cd3f008501	しまで ひらこうよ$
+## DewfordTown_Hall_Text_BrilliantIndeed:
+b2ea80b1e40c85d6	おお すばらしい アイデア だ!\p
+44da6793cf153a66	これで はっきり するね\n
+63e3169e1f7bd0ad	だれが いちばん\l
+428ba4b403fd2d95	「{STR_VAR_1}」が うまいか\l
+9e38ba9bfca37792	じつに すばらしい!\p
+bf76109ed5a75404	きょうから ぼくらの せいかつは\n
+bd70e0390ff1f880	「{STR_VAR_1}」が ちゅうしんだ!$
+## DewfordTown_Hall_Text_TrendHasBecomePartOfLife:
+41769b45cccb5130	でも おもったんだけど……\p
+e31a1382ab451cab	きみも そう おもわないか?\n
+822e75506cd93500	「{STR_VAR_1}」は\l
+a08e3a7b507579b3	ただの はやりから\l
+cad36ebc20c9375e	まいにちの いちぶに なったって$
+## DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind:
+5afb0bce4e69e698	なんだって?\n
+4c50a73512503628	そこまで って なにが?\p
+745143e054549f8a	でも たしかに\n
+3166d2c1b6c34136	「{STR_VAR_1}」は\l
+e2aa8296e5e4c5ad	ねても さめても\l
+897bb70d0e3a5c46	あたまから はなれない ものだ\p
+55a59316f0d5ae5f	まちがいない きみこそ\n
+ff0b0ba9d532cbba	「{STR_VAR_1}」\l
+3bf671d4e586275e	はかせ だよ きみ!$
+## DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
+4797609d1c5dcbbf	きみと ぼくが コンビを くめば\n
+a9dd499d9a69f481	むてき だね! なにが って\l
+36310c144e8233d3	「{STR_VAR_1}」の ことなら!$
+## DewfordTown_Hall_Text_WellBeTrendDuo:
+13b1bb2944b040cc	そのとおり だよ きみ!\p
+2b4a7022f6be0fb6	ぼくらは\n
+adb695085bd6d4dc	「{STR_VAR_1}」コンビ だ!\p
+498491d0cf79268c	いい ひびき だろう?\n
+4a7017c44bf1dffa	ハハハハ!$
+## DewfordTown_Hall_Text_GiveYouSludgeBomb:
+b8e37329bf05d166	さいきん ぼくの なかでは\n
+4e5ec3cdb51efc40	「ヘドロばくだん」が だいブーム なのさ!\p
+8325809691db9bba	えー きみ\n
+78f9937dd59daa5f	「ヘドロばくだん」 しらないの?\p
+3f54bcc73c0daffe	それは かわいそうだな\n
+93aef06b7507e345	よし! ぼくが あげるよ!$
+## DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
+f91ba09031f3ec6a	ぼくは ヘドロばくだんが だいすき\p
+b723520e0594fce1	でも わざ\n
+800e8c4dcb151dbe	「{STR_VAR_1}」を おぼえた\l
+6491d6df09ff6e43	ポケモンも はやってるんだよね$
+##### data/maps/DewfordTown_House1/scripts.inc
+## DewfordTown_House1_Text_LotToBeSaidForLivingOnIsland:
+6b96608a81bdfba9	こういう ちいさな しまで\n
+b2db671933d2d761	ポケモンと かぞく なかよく くらすのも\l
+91d5a55efa254ce3	なかなか いい もんですよ$
+## DewfordTown_House1_Text_LifeGoesSlowlyOnIsland:
+057d20ac1740f1f0	わたしは おおきな みなとまち カイナから\n
+5328cd572de46e22	ここの おっとの ところへ とついだの\p
+5aeb04bb0baedf8f	この ちいさな しまでは じかんが\n
+e9c4b4152f3de3f7	ゆっくり ながれるわ でも きれいな\l
+8693a50643ac5ace	うみに かこまれて それも しあわせよ$
+## DewfordTown_House1_Text_Zigzagoon:
+a0ce0fff64d01c25	ジグザグマ: ぐぐう!$
+##### data/maps/DewfordTown_House2/scripts.inc
+## DewfordTown_House2_Text_WantYouToHaveSilkScarf:
+3a99ccc34db6a6da	これを よーく みてくれよ!\p
+f51b9d4e3353bc42	シルクのスカーフ だぜ! いま\n
+1b35677380aa4ce2	さいせんたんの ファッション なんだ!\p
+83a9010d624f7230	おっ きみの め かがやいてるね!\n
+8c68c66d0be2cb9b	おれの まぶしい センスが わかるんだ!\p
+88ee2c80288123cd	いやあ うれしいね!\n
+9639525195527412	ほら きみに これを あげるよ!$
+## DewfordTown_House2_Text_NoRoom:
+10ba1a73f07b37ba	おや もう もてないのか?\p
+628fd40b3a8d1968	いいかい この スカーフは ぜったい\n
+73b94dd42ea8d604	ひつようだ! おれなら どうぐを ぜんぶ\l
+b5c03adf532dcd1f	うってでも てに いれるね!$
+## DewfordTown_House2_Text_ExplainSilkScarf:
+a32c508c73901016	シルクのスカーフは ノーマルタイプの\n
+57eac12cd95f7aeb	わざの いりょくを あげてくれる!\p
+86e958af3f3c0fe9	ほとんどの ポケモンに にあう\n
+21966de649c03f7b	すてきな スカーフ ってことだぜ!$
+## DewfordTown_House2_Text_BrawlySoCool:
+cecf55ccf42beb89	へえ! きみ うみを こえて\n
+c796473a6b047971	わざわざ ムロまで きたの!\p
+3c082b35e8159837	もしかして トウキさんの うわさを\n
+7d6a6f86ebf39c82	きいて きたんじゃない?\p
+702a3e8dd520a26e	トウキさん かっこよくて……\n
+c52cbf40425c8d69	みんなが あこがれてるんだ$
+##### data/maps/DewfordTown_PokemonCenter_1F/scripts.inc
+## DewfordTown_PokemonCenter_1F_Text_StoneCavern:
+d9eb026376dbeb64	この まちの はずれに\n
+5e704cf96dd006db	いしの どうくつが あるの\p
+17d906bd1f738616	そこでは めずらしい いしが\n
+a800b7f80cf6a8c1	みつかるんですって$
+## DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
+c203226699332aa3	ひんしで たたかうことの できない\n
+ed9fb8dfdc2d12c2	ポケモンでも ひでんマシンで おぼえた\l
+cf8cd1afa600cb0d	わざは つかうことが できるよ!$
+##### data/maps/GraniteCave_1F/scripts.inc
+## GraniteCave_1F_Text_GetsDarkAheadHereYouGo:
+e3f0d0bad6748e10	おい きみ\n
+d25008c3f67c2a22	この さきは ひどく くらいぞ\l
+5fd58a16988122a0	たんけんするのは たいへんだ\p
+2ff8df238cb6a540	さっき きた あの おとこ……\n
+3b3c1bb30cc1cab7	たしか ダイゴ とか いったな\p
+496af7fd3155f55f	あいつは フラッシュを つかえたから\n
+126e18e1398b65e7	だいじょうぶ だろうが……\p
+5903b42879e722ab	まあ であった ひとを たすけるのが\n
+b237be5af9df180b	おれたち やまおとこの モットーだ\p
+80018d66a797d368	ほら これを きみに ゆずろう$
+## GraniteCave_1F_Text_ExplainFlash:
+0091c2606f05a765	ひでん フラッシュを\n
+34ad97b5fcf98d5b	ポケモンに おぼえさせて つかうとだな\p
+17ab9415124d4e72	まっくらな どうくつも\n
+db63393c12cfd78e	あかるく てらせるんだぞ!\p
+b7b75331e386bfa2	まあ つかうには ムロ ポケモンジムの\n
+c642e9077af3c43e	ジムバッジが ひつよう だがな$
+##### data/maps/GraniteCave_StevensRoom/scripts.inc
+## GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
+f7bdd8f8cf7cc5df	ボクの なまえは ダイゴ\p
+80cf662ecd986447	めずらしい いしに きょうみが あって\n
+ff961772be033eea	あちこち たび してるんだよ\p
+58109e84f444a1eb	えっ?\n
+ad26ed7106b783cc	ボクに てがみ……?$
+## GraniteCave_StevensRoom_Text_ThankYouTakeThis:
+ab68c87591ee117d	ダイゴ: うん ありがとう\p
+80b8f7383504d44f	わざわざ とどけて くれたんだ\n
+75a1c34d180cc3b6	なにか おれいを させてもらうよ\p
+8bbaacc55deaefbb	そうだね……\n
+22a02109ea8d3803	この わざマシンを あげよう\p
+5b0e5690587d2523	ボクの おきにいりの わざ\n
+0eb1f299d87ad677	はがねのつばさ だよ$
+## GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
+00395dbef0a699c8	ダイゴ: キミの ポケモンは なかなか\n
+b7f396359113bd78	たのもしいね\p
+410b52ced844cee9	このまま きたえれば いつか\n
+5bf4d3e137c1630c	ポケモンリーグの チャンピオンにも\l
+ce1cfb018c6190a4	なれるかもしれない ボクは そう おもう\p
+7f412f507e37d8da	そうだ せっかく しりあえたんだし\n
+0f7ccca1d92af6a2	おたがいの ポケナビに\l
+74fcf1731d422c35	とうろく しておこう\p
+84bb5d39d49f429c	…… …… …… …… …… ……$
+## GraniteCave_StevensRoom_Text_RegisteredSteven:
+ec7be8ffd06e02fc	ダイゴを\n
+ed071e349c895420	ポケナビに とうろく した!$
+## GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
+8c784136e979f28c	さて ボクは そろそろ いかなくちゃ$
+## GraniteCave_StevensRoom_Text_OhBagIsFull:
+9d70fd0280fe8fca	バッグが いっぱい なのか……\n
+eee114eea98fe052	じゃあ しかたないね$
+##### data/maps/Route101/scripts.inc
+## Route101_Text_HelpMe:
+6eae76615c1638ed	たっ たすけて くれーっ!!$
+## Route101_Text_PleaseHelp:
+01d50eab9a32abaa	おーい! そこの きみ!\n
+4f69db49ddc4af3b	たすけて おくれーっ!!\p
+54c0d4b51033e447	わたしの カバンに!\n
+c0416974e067d3f1	モンスターボールが はいってる!$
+## Route101_Text_DontLeaveMe:
+5146d54aedf14fa2	どっ どこへ いくんだ!?\n
+5f016e6117d2d1bd	わたしを みすてないで おくれーっ!$
+## Route101_Text_YouSavedMe:
+124aac98616c3fe8	オダマキ: ふう……\p
+46744249ff4eaf93	くさむらで やせいの ポケモンを\n
+4e606dd6842b2b93	しらべていたら おそわれてね\p
+ed1c3b31eb570dcd	きみの おかげで たすかったよ\n
+aa4899fb88061543	ほんとうに ありがとう!\p
+8f0602031684d235	おや?\p
+54f3e50317eaf767	きみは {PLAYER}{KUN} だね!\p
+0e8aa772c9e281ea	ここで はなしも なんだから あとで\n
+443168e65e68554c	わたしの けんきゅうじょに おいで$
+## Route101_Text_TakeTiredPokemonToPokeCenter:
+960dff45a9cf13de	ポケモンが よわってきたら\n
+735ea67896f49b71	ポケモンセンターに いくと いいよ!\p
+d170047c52d25ed0	ポケモンセンターなら すぐ ちかくの\n
+1f39988717d745b4	コトキタウンに あるからね$
+## Route101_Text_WildPokemonInTallGrass:
+7e08358b93e9175e	やせいの ポケモンは\n
+32eae27895ec75b3	くさむらから とびだしてくる からな!\p
+7a6f256b7acc2689	ポケモンを つかまえたいなら\n
+4269e20c4869dc7e	くさむらに はいって さがすんだよ!$
+## Route101_Text_RouteSign:
+154423bf7975e125	ここは 101ばん どうろ\n
+027d600737eaa26f	{UP_ARROW} コトキタウン$
+##### data/maps/Route102/scripts.inc
+## Route102_Text_WatchMeCatchPokemon:
+e5bed6dd59a217af	ミツル: {PLAYER}さん……\n
+2d73578d00431252	ポケモンって こういう くさむらに\l
+3d6a95e4e7112d69	いたり するんでしょ……?\p
+18925567a2645173	ぼくが じょうずに つかまえられるか\n
+08f0ce26be9ec23c	そこで みてて くださいね……\p
+fab45c992d29fefb	……うわっ!!$
+## Route102_Text_WallyIDidIt:
+9b47400de388a5d2	ミツル: やった…… ぼくの……\n
+b2b9ed6caf0506d2	ぼくの ポケモンだ……!!$
+## Route102_Text_LetsGoBack:
+bcc844ac7f3d3dc4	{PLAYER}さん ありがとう!\n
+9ca98bdacbda253e	ジムに もどろうよ!$
+## Route102_Text_ImNotVeryTall:
+31e1552ef6e08382	ぼく…… せが ひくいから\n
+664aedc56762ced3	くさむらを あるくと もぐっちゃうんだ\p
+27d633d1b80358cb	ハッパが はなの あなに はいって……\n
+f8f404aa716473d2	ふぁ ふぁ ふぁ ふぁ……\p
+6f320400d557e254	ぶわっくしょーん!$
+## Route102_Text_CatchWholeBunchOfPokemon:
+46ad383a9f61343b	ポケモンを たくさん\n
+ab899025971fc32c	つかまえるんだ!$
+## Route102_Text_RouteSignOldale:
+50a251957cc5d7fa	ここは 102ばん どうろ\n
+66e471dafcf8d8e4	{RIGHT_ARROW} コトキタウン$
+## Route102_Text_RouteSignPetalburg:
+4296abcdabe76318	ここは 102ばん どうろ\n
+3e4b20cd13c3cc4e	{LEFT_ARROW} トウカシティ$
+##### data/maps/Route103/scripts.inc
+## Route103_Text_MayRoute103Pokemon:
+b73773076b41140a	ハルカ: えーと 103ばん どうろに いる\n
+435bb3bfb7d51c95	ポケモンは あれと あれね……$
+## Route103_Text_MayLetsBattle:
+a0a14d14eddb363b	あら {PLAYER}{KUN}!\p
+90d7772856e63526	……そうか! おとうさん から\n
+e63715ceb2cfe6d9	ポケモンを もらったのね!\p
+3a913b1c8db36db2	せっかくだから ちょっと\n
+d35fc3e4e57a266e	ポケモンしょうぶ しようよ!\p
+89ccfae1523e6b1f	トレーナーって どんな ものか\n
+9c1de04b42947cf8	あたしが おしえて あげるから!$
+## Route103_Text_MayDefeated:
+b83dd158301653b9	うわっ! すごい すごい!\n
+42aac5f958e6d09f	{PLAYER}{KUN} つよい じゃない!$
+## Route103_Text_MayTimeToHeadBack:
+68609fa61a6dafd0	ハルカ: おとうさんが きみに ちゅうもく\n
+1a0ca5678ace34be	してる わけが わかった きがする\p
+9abc12c2a27c8041	その ポケモン もらった ばかり なのに\n
+6d35e236449e30d9	もう きみに なついてるもの\p
+4535858edaf66f0f	きみなら どんな ポケモンとも\n
+d9992f2d07a7bbb5	すぐ なかよく なれるかもね\p
+07c68287243f076d	さて そろそろ けんきゅうじょに\n
+23c95928c88a8175	もどりましょ$
+## Route103_Text_BrendanRoute103Pokemon:
+c02b60889f124927	ユウキ: そうか あいつと あいつが\n
+0238042d7844283a	103ばん どうろに いる ポケモンか……$
+## Route103_Text_BrendanLetsBattle:
+2ff5c8b261197757	よう {PLAYER}!\p
+df78d6bf5b44c360	……そっか おやじに ポケモン もらったんだな\p
+ea6b0141527d0133	せっかくだから ちょっと\n
+0486e4324effe0c4	しょうぶ しないか?\p
+689c11b064ab415c	トレーナーって どんな ものか\n
+fef8d8a415216f7f	オレが おしえて やるよ!$
+## Route103_Text_BrendanDefeated:
+50b5dd0004c94c21	へえ {PLAYER} なかなか やるじゃん$
+## Route103_Text_BrendanTimeToHeadBack:
+2bd73ddec310d6eb	ユウキ: なるほどな\n
+bae2db3ef307c454	おやじが おまえに ちゅうもく してる\l
+73d42e7cf740a9f5	わけが わかった きがするよ\p
+3b09c1329b8acf92	その ポケモン もらった ばかり なのに\n
+bfcec57f7f3bb18e	もう おまえに なついてる\p
+5a558e252c40df34	{PLAYER}なら どんな ポケモンとも\n
+39b226e060fc8468	かんたんに なかよく なれそうだな\p
+9a7d112a0e9b85e2	けんきゅうじょに もどろうぜ$
+## Route103_Text_ShouldHaveBroughtPotion:
+ad8f6d13bf5f2615	ぼくの ポケモン もう へろへろ……\n
+e25cea5ed1dd780d	キズぐすり もってくれば よかった……$
+## Route103_Text_ShortcutToOldale:
+c0407c61bbdfcdc2	ここから うみを わたっていけば\n
+5dcd918743f1772d	コトキタウンまで ちかみちが できるぞ!\p
+006379c438c7b11c	ふふふ おとくな じょうほう だろ?$
+## Route103_Text_RouteSign:
+256559f549a613fd	ここは 103ばん どうろ\n
+ce52bef85c8e447d	{DOWN_ARROW} コトキタウン$
+##### data/maps/Route104/scripts.inc
+## Route104_Text_BrineyLivesInSeasideCottage:
+6012496813a3f8f0	その はまべの こやには\n
+e5bbebf6a7aa8a1d	ハギろうじん という ひとが すんでるの\p
+9419a12f3fe6b0bc	むかしは どんな あらなみも おそれない\n
+53575ed4c95faf98	すごうでの ふなのり だった らしいわ$
+## Route104_Text_WhatsItLikeAtBottomOfSea:
+8f58c3d646f8f4b0	うみ かぁ……\p
+a7e7c4538633b343	うみのそこ って いったい\n
+113a701e1112b389	どんな ふうに なってるのかな?$
+## Route104_Text_ThrowBallAtWeakenedPokemon:
+ee40b343f1998404	モンスターボールを なげるなら\n
+70ce9a4fae72bf3b	まず やせいの ポケモンを よわらせて\p
+63a1c8146e9a2c70	どく やけど ねむりの じょうたいだと\n
+2ff8fe54f82b142d	つかまえやすく なるわよ$
+## Route104_Text_OnlyThrowBallAtWildPokemon:
+27840631140950cd	ひとの ポケモンを とろうと したら\n
+767c1b63df90705f	どろぼう だぞ\p
+e6f6b1cf0f2d270f	モンスターボールは やせいの\n
+19046af0f180f63b	ポケモンにだけ なげること!$
+## Route104_Text_ImNotATrainer:
+0d8c574eb5bf260b	わたし トレーナーじゃ ないわよ\p
+21c15680b3b5ea0c	でも トレーナーどうし しせんが あうのは\n
+8d9f14e56c21268d	しょうぶしようって サイン なのよね\p
+683b09618e533bd7	もし たたかいたく なかったら\n
+963475d7eec01a0c	しせんに はいらなければ いいのよ$
+## Route104_Text_LikeFillingMouthWithSeedsTakeThis:
+924de1237aa96a8c	くちのなかに タネを いっぱい いれて\n
+582d792f7f8198c8	それを プププッ! と ふきだすのが すき!\p
+b347198deff1573f	おまえにも これ やるから ためしてみな!\p
+87c59c65bf70a601	ポケモンに つかうとさ\n
+6fc5c7c0a239befa	タネを れんしゃする わざを おぼえるよ!$
+## Route104_Text_TMsAreOneTimeUse:
+11dfd7589e7e043e	ひとつ アドバイス!\p
+222aad8aeb9a898e	わざマシンは 1かい つかうと\n
+7c49f054877f3b29	それで おしまい\p
+72ba5e27fa43dcbb	つかったら なくなっちゃう\n
+16fa03c9e6161d48	よく かんがえてから つかってね!$
+## Route104_Text_DontNeedThisTakeIt:
+64d09ee392014747	この フラワーショップ ちかごろ\n
+3c7c1513ee230dd4	うえきも うって くれるのよ\p
+ec080064aa5d31fe	うれしくて つい たくさん\n
+f62eef00956b322d	かいすぎちゃった\p
+8007f8fad7b45ca3	この しろいハーブ もう いらないの\n
+887812ea045346c3	もらって くれるかしら?$
+## Route104_Text_FlowerShopSellingSaplings:
+dadd333a412082c3	この フラワーショップ ちかごろ\n
+b0926845d4ac3f62	うえきも うって くれるのよ!\p
+803694f78b73be67	うれしくて たくさん かっちゃった!\n
+fffeb41ac56f2df7	どこに かざろうかしら?$
+## Route104_Text_MrBrineysCottage:
+317c806880b98953	ハギろうじんの こや$
+## Route104_Text_RouteSignPetalburg:
+e883240e70659934	ここは 104ばん どうろ\n
+e7d9df148a5699fe	{RIGHT_ARROW} トウカシティ$
+## Route104_Text_RouteSignRustboro:
+9639fd01e8a5289d	ここは 104ばん どうろ\n
+9b1fd6ea32b525e2	{UP_ARROW} カナズミシティ$
+## Route104_Text_PrettyPetalFlowShop:
+9bce19ed550408a8	フラワーショップ サン・トウカ$
+## Route104_Text_TrainerTipsDoubleBattles:
+8670e5b3b63c659d	おとくな けいじばん!!\p
+fd0fbe3c69492d4e	ホウエンちほう には\n
+de8541302035fe3c	ダブルバトルと いって 2たい2の\l
+63e30649f606bfe4	ポケモンしょうぶを いどんでくる\l
+6bf63a7e0f4e3778	ふたりぐみの トレーナーが います!\p
+1283cf9afc476a88	ダブルバトルでは ポケモンの リストの\n
+16a90870781da45f	ひだりと いちばん うえにいる\l
+3c6ecf81291ab410	ポケモンが とびだして たたかうので\l
+99a0d05cb38bd752	リストの ならびには ようちゅうい!$
+## Route104_Text_MayWeShouldRegister:
+f679893d09a5d3c0	ハルカ: あら {PLAYER}{KUN}!\p
+55676e2642b1fa46	デボンに ポケナビに エントリーコールを\n
+dc91d966b367274b	つけて もらったのね?\p
+24236b12ca95ba60	いつでも れんらく できるように\n
+a7046fe18973574d	おたがい とうろく しておこうよ$
+## Route104_Text_RegisteredMay:
+0e0c0b0a3659779a	{PLAYER}は ハルカを\n
+2cb2317c255b00b1	ポケナビに とうろく した!$
+## Route104_Text_MayHowsYourPokedex:
+7eb6159d1f0abfd1	ハルカ: ところで {PLAYER}{KUN}の\n
+776d2fda72bf938a	ポケモンずかんの ちょうしは どう?$
+## Route104_Text_MayMinesDecentLetsBattle:
+a165c83a24a2fce7	あたしの ほうは なかなか いいかんじ\n
+7daf836be524c5bd	だから……\l
+b6f84f934a6bdf32	ちょっと しょうぶ しない?$
+## Route104_Text_MayHaventRaisedPokemon:
+41524d37570af79e	ハルカ: あら どうしたの?\p
+db2e9a03b7523759	ポケモンを あまり つかまえたり\n
+dfc0034bb11c7a4d	そだてたり してないの?\p
+39c4313dda1ff280	トレーナーとして それは よくないよ!$
+## Route104_Text_MayLetsBattle:
+d750fd4e91816715	ハルカ: どう? あたしと ここで\n
+4aed4b1ce08dfd88	ちょっと しょうぶ してみる?$
+## Route104_Text_MayIntro:
+59ef1970b94fa805	ハルカ: トレーナーに なった ばかりの\n
+ae9d73ad2d475d5b	{PLAYER}{KUN}には まけないよ!$
+## Route104_Text_MayDefeat:
+d9f1a5c6dfa11d57	うわあ……\n
+0962a6e18f0d4c65	おもってたより つよい……!$
+## Route104_Text_MayPostBattle:
+c3e9893ad75c1398	ハルカ: ポケモンの あつかいかたが\n
+36d2e3edc1c46e4d	ずいぶん うまく なったみたいね\p
+5e664481793ea2e1	でも たたかわせる だけじゃなくて\n
+16c9c8fe943b614c	ハギろうじん みたいに\p
+72a9c072de01ac1c	ポケモンと なかよく なることも\n
+47ffae6689e1078a	たいせつ なんだよ$
+## Route104_Text_BrendanWeShouldRegister:
+7578408c7f996aa9	ユウキ: おっ {PLAYER}!\p
+331490f2949cbaeb	いいな デボンに エントリーコールを\n
+13c6fddee868940f	ポケナビに つけて もらったんだな!\p
+306a17538be91d1b	れんらく とれるように おたがいの\n
+a717397c4111c78f	ポケナビに とうろく しようぜ$
+## Route104_Text_RegisteredBrendan:
+d99b69a1ddc0065a	{PLAYER}は ユウキを\n
+b22e78e3cb968f1d	ポケナビに とうろく した!$
+## Route104_Text_BrendanHowsYourPokedex:
+7b29bc2e8452e8f4	ユウキ: {PLAYER} ずかんは どうだ?\n
+b915ea3aedd4fad1	もう なんページか うまったか?$
+## Route104_Text_BrendanDoingGreatLetsBattle:
+9055b8b2051d3ec0	オレは ばっちり だぜ!\p
+f46540de6b2d240f	オレの じつりょく しょうぶで\n
+c5d136f73d3e32f6	たしかめて みるか?$
+## Route104_Text_BrendanNoConfidence:
+25bc5ec0abcaec6b	ユウキ: なんだよ\n
+400cb5c0225f4115	もってる ポケモンに じしんが ないのか?$
+## Route104_Text_BrendanLetsBattle:
+a50e7ef2d4d28537	ユウキ: どうだい?\n
+4db21dd6495abbce	オレと しょうぶ してみるか?$
+## Route104_Text_BrendanIntro:
+30b6420c49576e09	ユウキ: トレーナーに なりたて だって\n
+ce66111432159f0a	てかげんは しないからな!$
+## Route104_Text_BrendanDefeat:
+97cba01a4e1af82b	へえ……\n
+6dacfa2af8b8397e	なかなか やるじゃないか$
+## Route104_Text_BrendanPostBattle:
+20a25cb8b1fbedf6	ユウキ: ポケモンの あつかいかたが\n
+4b6f7a55d208df0d	だいぶ うまく なったな\p
+a0e75a1b563bbdf4	でもさ ポケモンを たたかわせて\n
+44f1b0c288f7eb1b	ばかり じゃ だめだぜ\p
+82b0cd009483bbca	ハギろうじん みたいに ポケモンと\n
+b684bd6cf5311f14	なかよく なるのも たいせつ なんだ$
+##### data/maps/Route104_MrBrineysHouse/scripts.inc
+## Route104_MrBrineysHouse_Text_WaitUpPeeko:
+ec1f442e4ddece0d	ハギ: こらこら!\n
+c2ef7e00913c33d1	まて まて ピーコちゃん!$
+## Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
+74cb006131cc68fb	ん? {PLAYER}{KUN} じゃな!\n
+90656b456a9809cc	かわいい ピーコちゃんを たすけてくれた!\l
+6ca225f34a6cdb63	おぬしには たいへんな おんが ある!\p
+399ae623055f3e70	なんじゃと?\n
+cd44cd516ddd7d7a	わしの ふねに のりたい とな?\p
+1dbadab2c9213814	ふむふむ……\p
+e8b01fa7865cd543	ムロあての てがみと\n
+5d164023e8b66931	カイナあての にもつが あると?\p
+2407bbae0efac8d2	なんとも いそがしい ことじゃな!\p
+e2fdd3410a4d9b21	だが その たのみなら\n
+a9974dd67a525066	まったく もんだい ないぞ\p
+8d463bff9c43fff5	わしに まかせておけ!\n
+9e3578f414bc9a7c	ムロへ むけて しゅっこう じゃ!$
+## Route104_MrBrineysHouse_Text_SetSailForDewford:
+b349ffb3853245a7	ハギ: よし ムロ じゃな!\p
+bff703b69353e2b4	いかりを あげい!\n
+1e81993d67a0d936	ピーコちゃん しゅっこう じゃよ!$
+## Route104_MrBrineysHouse_Text_DeclineDeliverySail:
+8d7fb6f1e37a9a9f	ハギ: そうかね\n
+4e299afdaeef4a81	たのまれごとは いいのかね?\p
+5aa63a24829fa37b	まあ ふねに のる ひつようが あるときは\n
+44c440bbd6615b0d	いつでも えんりょなく いっておくれ!$
+## Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
+4d4a542d53fad944	ハギ: おーい!\n
+52a70c56b02aaa1f	いいたい ことは ちゃんと わかっとる!\p
+fae2e82f0db6e7b7	ムロに てがみを とどけて\n
+54377466566e37fc	カイナに にもつを とどけるんじゃな\p
+c72405959cc539fd	そんな ことは おやすい ごよう!\n
+624d35e77267b9fd	わしに うってつけの しごとじゃ!\p
+46c7a980747d46db	まずは ムロへ しゅっこう じゃ!$
+## Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
+3bf3a0c52a4d8257	ハギ: おーい!\n
+0b80e2c90c95bfed	いいたい ことは ちゃんと わかっとる!\p
+8eae44036439c608	カイナの クスノキかんちょうに\n
+d58476a5b6d4020c	にもつを とどけるんじゃな\p
+80a55b1649ddb5ce	そんな ことは おやすい ごよう!\n
+5846377cf9904cde	わしに うってつけの しごとじゃ!\p
+cfb2920cb62de2ac	まずは ムロへ しゅっこう じゃ!$
+## Route104_MrBrineysHouse_Text_WhereAreWeBound:
+01e3b3bc1aaa29a8	ハギ: やあ!\n
+529402966742026f	きみの ためなら いつでも ふねを だそう!\p
+e30d6159acdf68fe	さて きみが いきたいのは どこ かな?$
+## Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
+1dec389724cecf8c	ハギ: そうか……\n
+900f84bb8dc3bde7	きみは ピーコちゃんの いのちの おんじんだ\p
+3a296fd42f700352	ふねに のる ひつようが あるときは\n
+58bf33d050a31895	いつでも えんりょなく いっておくれ!$
+## Route104_MrBrineysHouse_Text_Peeko:
+05ec97a2df18b45a	ピーコちゃん: ピー ピひょろー!$
+##### data/maps/Route105/scripts.inc
+## Route104_Text_DadPokenavCall:
+c8d55e2667e46fd1	…… …… …… …… …… ……\n
+e8d59aa2c62ddd2f	…… …… …… …… …… ピッ!\p
+987f165f04a96fd5	パパ: おお {PLAYER}か?\p
+a2d1557d5cce5565	…… …… …… …… …… ……\n
+b21492aa68e74e7b	いま どこに いるんだ?\l
+0ba13a4cf323a848	かぜの おとが きこえるな\p
+240408c0c555fc26	デボンの ツワブキさんから\n
+8d304705f0a9785a	ポケナビの ことを きいてな\l
+a43bace67a7c4e50	でんわ してみたんだ\p
+4a037e726f5266cc	げんきに やっている ようだし\n
+50f33a22a0d8ce4c	それなら いいんだ\p
+bbf01ae7b79e1c52	からだに きを つけるんだぞ\p
+bb88b5b9b58be3df	…… …… …… …… …… ……\n
+4b0110d4c92d56ab	…… …… …… …… …… プツッ!$
+## Route104_Text_RegisteredDadInPokenav:
+ea6a11fc83b4bae9	パパ センリを\n
+a08d853cc9f0c43a	ポケナビに とうろく した!$
+##### data/maps/Route106/scripts.inc
+## Route106_Text_TrainerTips:
+4f813413701c1fef	おとくな けいじばん!!\p
+0cd700d0cff3bdc0	ポケモンを うまく つりあげる コツは\n
+e1cb592780bc56fb	あたりが きたら Aボタン!$
+##### data/maps/Route109/scripts.inc
+## DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
+124bf9218a7399ce	ハギ: おーい!\n
+e5a31a031e4b2531	カイナに ついたぞ!\p
+6cbb57bf42d40636	クスノキかんちょうに あって\n
+3a26deae400d62e2	デボンのにもつを とどけるんじゃな?$
+## Route109_Text_BrineySailToDewfordQuestion:
+bb1483f349406ab9	ハギ: デボンのにもつを とどけるんじゃ\n
+fd8b9ff1421ff871	なかったのかね?\p
+55d75c8a648e849a	それとも ふねで ムロへ\n
+89fca1a97a6ba06d	もどるかね?$
+## Route109_Text_BrineyDewfordItIs:
+e815ac384831325f	ハギ: よし ムロ じゃな!\p
+b405f51aa7b196d9	いかりを あげい!\n
+d4140c1ada121e83	ピーコちゃん しゅっこう じゃよ!$
+## Route109_Text_BrineyDeliverDevonGoods:
+0015442cb2d34e29	ハギ: では デボンのにもつを とどけて\n
+bcb6114714f6f47e	おいで わしは ここで まっておるから$
+## DewfordTown_Text_BrineyLandedInSlateport:
+a704e18b4af6b583	ハギ: おーい! カイナに\n
+0d2fa272133d0b76	ついたぞ!\p
+0c5bf4c244d1e485	また ふねを だして ほしいときは\n
+c21b9d562c928e35	いつでも こえを かけておくれ!$
+## Route109_Text_BrineyWhereAreWeBound:
+6d1068673be550c3	ハギ: やあ!\n
+448f9b1cb9ff8abe	きみの ためなら いつでも ふねを だそう!\p
+40db135703a4adaf	さて きみが いきたいのは どこ かな?$
+## Route109_Text_BrineyTellMeWhenYouNeedToSail:
+edd19943d0444a23	ハギ: ふねに のる ひつようが あるときは\n
+1303fdcf76a2d500	いつでも こえを かけておくれ!$
+## Route109_Text_ChillAtMyPapasSpot:
+6a53158a8fc2e414	ヨー トレーナー!\n
+b0c4d0992c3bbb04	あつい ヤツも\l
+3338f8df714dcccb	クールな ヤツも\l
+4e134ae67ab1e283	パパの みせで ひとやすみ してきな!$
+## Route109_Text_LittleKidsDartAround:
+9d4d1e2ef5236f1c	ちいさい こどもって すばしっこくて……\p
+36f259a2d947bade	いっしゅんも めが はなせないの\n
+a96ec6487a0f0e84	ほんとに つかれるわ\p
+00df7e12c16a6316	うちの こは ポケモンと いっしょだから\n
+e57757420b344f49	だいじょうぶ だと おもうけど……$
+## Route109_Text_SandCastleTakingLongTime:
+139b35e1e11633f4	すなの おしろ つくるのに\n
+e3caac352a58d63e	じかんが かかってるの$
+## Route109_Text_YouCanHaveThis:
+2ff91a38a0556917	これ あげる!$
+## Route109_Text_WereGoingToMakeBigCastle:
+6e55bedf16a2c976	すなはまの すなを ぜんぶ あつめて\n
+aff81c890166d2b8	おおきな おしろを つくるんだ!\p
+f50d58d50f4a83da	それで おうさまと\n
+260deade34584039	おきさきさまに なるの\p
+25ada23266c5bada	きみは けらいに してあげる$
+## Route109_Text_ZigzagoonPicksUpLitter:
+4008c2d0161792cd	この あたりの うみは きれいだがな\p
+a024c118db63c558	それでも ときどき はまべの ゴミを\n
+715cd79bec3aaf09	ジグザグマに ひろって もらうんじゃ\p
+d15187aba317123d	よごれた みずは あめと なって\n
+32b6913d57aac795	かわに ながれこみ のみみずと なる……\p
+954981c05a7f0eca	うみを よごすと\n
+6295e0b18ae46f69	けっきょく じぶんらに かえって くるからの$
+## Route109_Text_ZigzagoonCry:
+c16514af0c46af23	ジグザグマ: ぐぐ?$
+## Route109_Text_SeashoreHouseSign:
+c5d2e2bda5f17f9b	うみの いえ\p
+64fa6dd6a09aca29	「あつい すなはまで あつい しょうぶを!\n
+8bd9e1cd302716fb	あつい トレーナー ここに つどえ!」$
+## Route109_Text_TrainerTipsSign:
+3b6a76a094cfc1ed	おとくな けいじばん!!\p
+270444827051577e	おなじ レベルの ポケモンでも\n
+51965acb7c2960c2	のうりょくが おなじとは かぎらない\p
+afa11ca9253f35e9	トレーナーが そだてた ポケモンは\n
+f398a16461d8a074	やせいより つよく そだつと いわれる$
+##### data/maps/Route109_SeashoreHouse/scripts.inc
+## Route109_SeashoreHouse_Text_SeashoreHouseIntro:
+d1c777c4228bc1b1	わし うみのいえの オーナー だよー\n
+ef77371eeaf19f57	ミスター・シーって よんでねー!\p
+188c7ae5eea8fca5	わしが なにより すきなのは\n
+28f9c62a99481207	あつーい ポケモンしょうぶ!\p
+58789250cd2479c2	きみの あつい ハートを みせてよー!\p
+54d4d2eca5fc90c9	ここの トレーナーに ぜんいん かったら\n
+3de802eab6318341	ごほうびを あげるよー$
+## Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
+daa60d7d37bea551	あつーい しょうぶ みせてくれー!\p
+591a89918e2d6091	そのためだけに わし\n
+b1e51ea382031edf	この うみのいえを やってるんだねー!$
+## Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
+b2ff9c7d36203838	きみ すごいねー!\n
+a77063436f0ffbe0	あつい ポケモンしょうぶ だったー\l
+9a4bce9306bea268	わし だいまんぞく だよー!\p
+2f9938b7f9ae5e25	これは あつい しょうぶを みせてくれた\n
+cd4c14f228fbe18b	きみへの おれい だよー\p
+5a13865f58b0c729	サイコソーダ はんダース もっていきなよー$
+## Route109_SeashoreHouse_Text_BagFull:
+ba8cd42619c663cc	と おもったけど バッグ いっぱいかー\n
+0c1516977d848f68	じゃあ あずかっておくよー$
+## Route109_SeashoreHouse_Text_WantToBuySodaPop:
+6ee68bba10085773	サイコソーダ かわないかい?\n
+df9730313e53a4e8	ポケモンが だいすき なんだよー!\p
+00038ba42f65f5de	1ぽん たったの 300円!\n
+2cddbcdfe4e1c034	かっていきなよー!$
+## Route109_SeashoreHouse_Text_HereYouGo:
+d29b3735810a3f59	はいよー$
+## Route109_SeashoreHouse_Text_NotEnoughMoney:
+a05e23c35454375f	おかねが ないよー$
+## Route109_SeashoreHouse_Text_ThatsTooBad:
+4f7c88d3c4b77f3e	いらない?\n
+f207befaba578c01	ざんねんだねー$
+## Route109_SeashoreHouse_Text_DwayneIntro:
+d8847921fd65e1ed	この うみのいえで いちばん\n
+a793e5de3ab27439	あつい ポケモンしょうぶが できるのは\l
+882d99e2052c5415	この オレさま だぜ!!$
+## Route109_SeashoreHouse_Text_DwayneDefeated:
+abdfe39e6f073ef1	たしかに あつい しょうぶ だった\n
+350f8f2489dd8b2b	まけて なっとく って かんじ だぜ!$
+## Route109_SeashoreHouse_Text_DwaynePostBattle:
+8c8daf7549d5252b	カイナに きたら あつい しょうぶと\n
+c95378fa98577003	ひえひえの サイコソーダを たのしむんだ!$
+## Route109_SeashoreHouse_Text_JohannaIntro:
+2f04e597b17a946b	たいくつな しょうぶ なんて ムダ!\p
+7e96325f0d35f6db	もえあがるような しょうぶ こそ\n
+5ccd9d9008c9e582	トレーナーと ポケモンを きたえるのよ!$
+## Route109_SeashoreHouse_Text_JohannaDefeated:
+a7e507f28b651869	あつい じゃない!$
+## Route109_SeashoreHouse_Text_JohannaPostBattle:
+2d6010707948075a	あーあ のどが かわいちゃった\n
+059eb2bb57074ce8	サイコソーダ のもうかな?$
+## Route109_SeashoreHouse_Text_SimonIntro:
+283c4b77e5b2e43d	ぼくの ポケモンの すごいところ\n
+dc32934740a7ed07	みせちゃうけど なかないでよ!$
+## Route109_SeashoreHouse_Text_SimonDefeated:
+791d54bfa8764f47	……まけたけど なかないぞ……$
+## Route109_SeashoreHouse_Text_SimonPostBattle:
+7b6153d3983ccc7c	ポケモンが ぼくを せなかに のせて\n
+5dacce9f22674a49	みずの うえを すすむ わざを つかえたら\l
+944e2b42e705afd2	この うきわも いらなくなるのに$

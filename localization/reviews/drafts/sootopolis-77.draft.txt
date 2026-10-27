@@ -1,0 +1,1012 @@
+##### data/maps/CaveOfOrigin_B1F/scripts.inc
+## CaveOfOrigin_B1F_Text_WallaceStory:
+d3a7c00d758ee738	ほう きみが {PLAYER}{KUN} かい?\n
+d78911f2b5929e79	きみの かつやくは きいているよ。\p
+d94ea8f1b9a20027	わたしの なまえは ミクリ。\p
+765d48d5295e225d	かつては ルネの ジムリーダー\n
+0ccf30722b8abf6a	だったが ある じじょうでね。\p
+b6f21c6c0820fdfc	いまは ジムの うんえいを\n
+f663c834fb484469	ししょうの アダンさんに まかせている。\p
+6516bfa84439c42c	… … … … … …\n
+09ecd338ec2e3371	… … … … … …\p
+6d4b2fdf1eee940d	ここで あばれている ポケモン\n
+f639a8ca6c4c4d02	グラードンと カイオーガは\l
+8e3435a7f4809e34	ちょうこだい ポケモンと よばれる。\p
+7f388491fc7f0a0e	だが ちょうこだい ポケモンは\n
+53f36136bb0284a1	2ひき だけでは ない。\p
+d4eae4fa4e5fcfa0	どこかに もう 1ぴき いるのだ。\p
+f67e7ac645b733b9	どこかに レックウザという\n
+0858e36b7e9c9a96	ちょうこだい ポケモンが いる。\p
+98647a25bab29065	はるか むかし あらそう 2ひきを\n
+556b9bf299f4fe82	しずめたのは その レックウザだと\l
+c9d815be95eb0e7f	いわれているんだ。\p
+7949e5f7cd0e54e8	だが わたしにも レックウザの\n
+d3f43ee5824bba32	いばしょは けんとうが つかない……$
+## CaveOfOrigin_B1F_Text_WhereIsRayquaza:
+edaada0edc0d78a3	ミクリ: {PLAYER}{KUN} もしかして\n
+ae28f19c93a2c52b	レックウザの いばしょを しってるかい?\p
+dec72b6cb9beb76f	しっているなら おしえてくれ。$
+## CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin:
+526915f6eee72477	ミクリ: めざめのほこら だって?\p
+396cd6fcf7506851	それは まさに ここじゃないか!\n
+f4e4a49001e02e0d	もっと しっかり たのむよ!\p
+f821f9c5ac30ad23	たのむ いま レックウザが どこに\n
+bb22ab303dbd359e	いるのか よく かんがえてみてくれ。$
+## CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
+76291bb6b97fcf47	ミクリ: おくりびやま だって?\p
+191c76c2ffc78329	だが さっき あそこの おばあさんに\n
+bce262dcfec8bb31	あったときは なにも いってなかった。\p
+b212d2e315a4ff69	あの おばあさんが わたしに\n
+f69fdb90fa2ab971	かくしごとを するとは おもえない……\p
+390bf0b2d6348fbb	{PLAYER}{KUN} もう すこし\n
+ccdbdc2182ada56e	よく かんがえてみて くれないか?$
+## CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
+5d78f145e503bc64	ミクリ: えっ? おぼえてないのかい?\n
+d5959cdc8f9a91f6	うーん…… それは こまったな……\p
+4935bb2609d3a255	なんとか おもいだせないかい?$
+## CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:
+f024e4ab1628cfb5	ミクリ: そらのはしら だって?\p
+749709f0ffe38d43	それだ!\n
+9e946638b2d6966e	そらのはしらに ちがいない!\p
+86e41b39f40baeea	{PLAYER}{KUN} いっこくを あらそう!\n
+e3b8e1e8e3677b05	すぐに そらのはしらへ むかおう!$
+##### data/maps/SeafloorCavern_Room1/scripts.inc
+## SeafloorCavern_Room1_Text_Grunt1Intro:
+678c129a47cd40f1	こどもなんか ようは ねえんだ!\n
+32ebe98c835c5f6d	さっさと うちに かえりな!$
+## SeafloorCavern_Room1_Text_Grunt1Defeat:
+e172aa359eae3c2c	うちに かえりたい……$
+## SeafloorCavern_Room1_Text_Grunt1PostBattle:
+441d253c64d45584	しゅっせして したっぱたちを\n
+80dcbf27f1dbaf5b	あごで つかいたいんだよ……$
+## SeafloorCavern_Room1_Text_Grunt2Intro:
+43d1684adebe2da1	あの せんすいてい… なかが せまくて\n
+ee38887f659c74b0	からだじゅう いてえんだよ!$
+## SeafloorCavern_Room1_Text_Grunt2Defeat:
+95fabfc534470173	まけると よけい いてえ!$
+## SeafloorCavern_Room1_Text_Grunt2PostBattle:
+f367e75543ed8c4e	うばった せんすいてい だけどよ\n
+69010e3ea7971829	のりごこちが さいあくでさ。\l
+cecb6fe21bf582d8	なかが きゅうくつ すぎるんだ!$
+##### data/maps/SeafloorCavern_Room3/scripts.inc
+## SeafloorCavern_Room3_Text_ShellyIntro:
+0e31f4289e0f56dc	アハハハハ!\p
+c34a28fdb9057f76	せんすいていも なしに どうやって\n
+ad183119d92392cb	ここまで きたの?\l
+3f17e5f5d1f52f9d	たいした こどもね!\p
+c68b3ee478eb37e3	でも… ここで じゃまを されちゃ\n
+d0ff549c45dbdf4c	こまるのよ。\p
+12251ca89e0d39be	それに てんきけんきゅうじょでの\n
+a8b87d047a165f89	おかえしも したいしね……\p
+763b387e9a31df21	ちょっと いたい めに あわせて\n
+9211267962d24cfe	あげるわ! かくごなさい!$
+## SeafloorCavern_Room3_Text_ShellyDefeat:
+3f227c05bf1223b6	アハハハハ!\p
+67f15344b540b60a	いったーい!$
+## SeafloorCavern_Room3_Text_ShellyPostBattle:
+36ec8ce5a5dfc09f	アハハハハ!\n
+40fa5db83890b2cd	ほんと つよいのね。\p
+950589dbdc0b93bd	あなたが アクアだんの メンバーじゃ\n
+e593e7c88c485bdf	ないなんて ざんねんで ならないわ。\p
+5aad439958951265	なかまに なっていれば リーダーが\n
+1744d2075320dc9f	やくそくしてくれた すてきな せかいを\l
+c678f552455d1829	いっしょに たのしめたのに……$
+## SeafloorCavern_Room3_Text_Grunt5Intro:
+d7fe610d750ffbd0	おれたちの ゆめを かなえるには\n
+4b9abb9f1d82d43b	ポケモンの ちからが ひつようだ。\p
+57979517ee414680	なのに おまえみたいな じゃまものが\n
+2e735a23563eb9a5	ポケモンの ちからで こんな ばしょ\l
+d7ca482d682e2b9a	まで きて じゃまを しやがる!\p
+0d99dd2c21d109c1	せのなかってのは おもいどおりに\n
+c9a7b79538eac7e2	いかねえもんだぜ!$
+## SeafloorCavern_Room3_Text_Grunt5Defeat:
+c2bba5b35d376426	ぐわっ!$
+## SeafloorCavern_Room3_Text_Grunt5PostBattle:
+fea97361e6d0c7c6	おれたちは リーダーの かんがえに\n
+1ffb1ecb66d109f4	ぎもんを もつなんて できねえ。\p
+f5a6ba596b0d239e	なのに ただの ガキの おまえが\n
+ef47625c04b555fe	リーダーに たちむかってる。\p
+fb0ad8528d026799	もしかして……\n
+88677d3d63c5bb19	おまえ ただものじゃ ねえのかもな……$
+##### data/maps/SeafloorCavern_Room4/scripts.inc
+## SeafloorCavern_Room4_Text_Grunt3Intro:
+089347f163bf5fd1	なんだ おまえは?\n
+a89df8d6125a219a	どこから はいってきた?$
+## SeafloorCavern_Room4_Text_Grunt3Defeat:
+9cd9de954ca514bd	まけちまった……$
+## SeafloorCavern_Room4_Text_Grunt3PostBattle:
+8e9f1a869dbcf70f	でぐちが みつからねえ!\p
+74e71b7eec3cb2bb	こわくなんか ねえぞ! かんちがいすんな!$
+## SeafloorCavern_Room4_Text_Grunt4Intro:
+b269e7765e0acda2	なんだ おまえは?\n
+ec8b75502cc4d167	どこへ いく つもりだ?$
+## SeafloorCavern_Room4_Text_Grunt4Defeat:
+c1164c6f4809f017	かてなかった!$
+## SeafloorCavern_Room4_Text_Grunt4PostBattle:
+261033500c8364be	あいぼうが ちずを せんすいていに\n
+64a0b2e0dabbdce0	わすれて きやがった!\p
+d6440ed70ec00cc1	まったく やくたたずだろ?$
+##### data/maps/SeafloorCavern_Room9/scripts.inc
+## SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
+f4c184380b32cd1d	アオギリ: そこまでだ。$
+## SeafloorCavern_Room9_Text_ArchieSoItWasYou:
+a9a91ebc3cd55b55	アオギリ: フフフ……\n
+2ec9634a8522e91a	やはり おまえ だったか。$
+## SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
+5c6f7eda99b2de16	アオギリ: みろ!\p
+cedf1adfc4e24f04	なんと うつくしい ことか! ねむれる\n
+449e103ca60659e6	こだいの ポケモン カイオーガの すがた!\p
+9ce80060620f80df	この ひが くるのを どれほど\n
+5ccf15a0aa4751dd	まちわびた ことか……$
+## SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
+0cb2032d127606a0	アオギリ: ここまで おってくるとは\n
+e91529ec1b3a91b4	おどろいたぞ。\p
+2f6034a259f8934a	だが それも ここまでだ。\p
+8fd64bb62c4aaa9a	おれの ゆめを かなえる ために\n
+da41cf3119a2a52e	おまえには きえて もらう!$
+## SeafloorCavern_Room9_Text_ArchieDefeat:
+8f881aed26be6d79	なに!?\n
+9a799e3d3f0f0d50	こんな こどもに まけた だと!?$
+## SeafloorCavern_Room9_Text_ArchieWithThisRedOrb:
+3b09e0da34677e49	アオギリ: フフフ……\p
+10b2f53b16fe6615	みごとだ。 おまえの さいのうは\n
+c1803118263a3544	ほんものだと みとめよう。\p
+bdf3ed16c6b6a20a	だが!\n
+d5d2e385b9643e48	おれの てには これが ある!\p
+5e33da7222380ba4	この べにいろのたまで カイオーガを……$
+## SeafloorCavern_Room9_Text_RedOrbShinesByItself:
+a65a9e264ecc8c81	べにいろのたまが とつぜん\n
+b6df3b8f2f151ee9	ひとりでに ひかりだした!$
+## SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
+be0a427e736e8cf3	アオギリ: なに!?\p
+7b672aa1508eee5b	おれは なにも していないぞ。\n
+8047941efd507ee8	なぜ べにいろのたまが……\p
+4ba782f103ebd1f8	カイオーガは どこへ いった?$
+## SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
+bff5d5d895d6a59c	アオギリ: ん? そとに いる\n
+8774b0447d1c4992	なかまから れんらくか……$
+## SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
+c8724b4409cc385f	アオギリ: ああ どうした?\p
+553a3a3126f562d0	ふむ……\n
+166e0daa62f00226	おおあめが ふっている だと?\p
+ea2830794915e15d	よし… そう なるはずだ。\n
+9b30fd04561de762	うみを ひろげるという アクアだんの\l
+724c4a24f1096fc6	ねがいを かなえる ために\l
+cd9975ab2c3a9d3e	カイオーガを めざめさせたのだからな。\p
+2068a07b1cd14329	なに!?\p
+2502f86488ae0a09	あめが そうてい よりも ずっと\n
+36f61bba97809561	はげしい? みが あぶない だと?\p
+4c64801b579ecc4b	そんな ばかな……\n
+1436edeb93bbe204	そんな はずは ない……\p
+bc3d52e7bf8b83fb	その ばで まちながら\n
+3b1941465dd15ed9	ようすを みはっていろ!$
+## SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear:
+02c406b99f0a080c	アオギリ: なにかが おかしい……\p
+7c4f46f9609aa975	べにいろのたまで カイオーガを\n
+28d79bc9c3364e79	めざめさせ あやつれる はずだった……\p
+e125591ab1093655	だが… なぜだ?\n
+8c631e375acaad9c	なぜ カイオーガは きえたんだ?\p
+c57e3afbd37b05cd	なぜだ!?$
+## SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
+a72d0198079ffd1c	マツブサ: なんと いうことを……\p
+db02b5fec99cea5d	アオギリ… ついに カイオーガを\n
+0b037c54c0a0280c	めざめさせて しまったのだな?\p
+bce60f542a95a576	この おおあめが えいえんに つづけば\n
+af2d9db89341d1fd	せかいは どう なると おもう?\p
+ddcb8c56d4456d17	せかいの りくちは ふかまる うみに\n
+e682555e01333621	しずんで しまうのだぞ……$
+## SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
+b0be5bdf8e318f6c	アオギリ: な なんだと!?\n
+607f86933c20a260	えらそうな くちを きくな!\p
+bc2e5fcf77fcc283	グラードンを いからせたのは\n
+c8bbcd64b07f5906	おまえたち マグマだん だろうが!\p
+5a50ef0b9277fa80	この べにいろのたまが あれば\n
+7ab10889631528e1	カイオーガを あやつれる はずだ……\p
+f9a2389eb0aa2b4b	あやつれる はず なんだ……$
+## SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
+26d3fb0fea634f3c	マツブサ: ここで いいあらそって\n
+63eae6dda9c0a95e	いる ひまは ない!\p
+311eeade8aadf2c0	そとに でて じぶんの めで みろ!\p
+21d22763a881fdeb	おまえの したことが われわれの\n
+b2a0911a9d7f98c6	のぞんだ せかい なのかどうか!$
+## SeafloorCavern_Room9_Text_MaxieComeOnPlayer:
+d79eaaebdad28edf	マツブサ: {PLAYER} さあ きみも\n
+dd592fd2f3b8e6df	ここから にげるんだ!$
+##### data/maps/SkyPillar_Outside/scripts.inc
+## SkyPillar_Outside_Text_DoorIsClosed:
+392e0c968923e493	とびらは とざされている。$
+## SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
+a5bc17a7747aa4c1	ミクリ: やあ ほんとうに すまない!\p
+72292b9ce7a5c92e	あまりに あわてていて きみを\n
+28c6108a0cdc9378	おいてきた ことに きづかなかった!\p
+de6a65af3c068edd	しまっていた そらのはしらの\n
+b9dcbb63a0f19cb4	とびらは わたしが あけておいた。\p
+017feed63855638b	{PLAYER}{KUN} さあ いこう!$
+## SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
+83b308afa4072e08	ミクリ: じしんだ!\p
+68e1db6f3f5d5f87	こうしては いられない!\n
+6d6035c1b70214be	さきを いそごう!$
+## SkyPillar_Outside_Text_SituationGettingWorse:
+c4b5bdc8a2701dbe	ミクリ: うーむ……\n
+b660efe05cc00238	じょうきょうは わるくなる いっぽうだ……$
+## SkyPillar_Outside_Text_GotToGoBackForSootopolis:
+3183a501a01d5f67	ミクリ: まずいな……\p
+703631bb8c5c2066	てんこうの みだれが このあたり\n
+5b73103fceda9ae9	にまで ひろがっている……\p
+bc75dd722d9f53b2	{PLAYER}{KUN}。\p
+7b7648b3c2f7db15	ここを のぼっていけば\n
+d333fa3d08d35ffe	レックウザが いるはずだ。\p
+10f377943556a555	わたしは ルネが しんぱいだ。\n
+58f2471772f328a2	もどらなければ ならない。\p
+c8dd36c119cf1931	あとは きみに まかせたよ。\n
+ad231725ef20e098	しっかり たのんだよ!$
+##### data/maps/SkyPillar_Top/scripts.inc
+## SkyPillar_Top_Text_RayquazaFlewOff:
+96b8c5f0cead7a91	めざめた レックウザは とびさった……$
+##### data/maps/SootopolisCity/scripts.inc
+## SootopolisCity_Text_GymSign:
+16065ad6298d6d37	ルネシティ ポケモンジム\n
+a98e54c5a37e6c4e	リーダー アダン\p
+f9472edd4ad22b9f	「すみきった みずの うつくしさを\n
+f70774649c2732e7	もつ ジムリーダー!」$
+## SootopolisCity_Text_CitySign:
+e01fd06f4c4cc8fe	ルネシティ\p
+8bfc211ce7d356a8	「れきしが ねむる\n
+25efecb800b708d5	しんぴの まち」$
+## SootopolisCity_Text_DoorIsClosed:
+41a8b85fd3204a07	とびらは とざされている。$
+## SootopolisCity_Text_PhysicallyFitLivingHere:
+faf5cc2351e3e503	うみに もぐったり かいだんを\n
+9dfdba82eabf093c	いつも のぼりおり したり……\p
+29e6b5006af03e8c	この まちに すんでいると\n
+c560e4a79eac9f1d	しぜんと からだが きたえられるの。$
+## SootopolisCity_Text_GiantPokemonSuddenlyAppeared:
+ad0cf7f8c915882c	きょだいな ポケモンが まちの\n
+c4f267bc01a8dbea	まんなかに とつぜん あらわれたの!\p
+cfe452a8c78dd04d	それも みたことも ない ポケモン!\p
+bf13a085253be12a	どうして あんなふうに\n
+3d561441a98f30f1	ぶつかりあって いるの?\p
+025d8b0aa64d8a30	あの ポケモンたち どうして\n
+1f7e71bf6f352a33	なかよく できないの?$
+## SootopolisCity_Text_WhatIsThatGreenPokemon:
+5be8ccb48ef392fd	えっ? えっ? えっ?\n
+a04972699e5c7f54	あの みどりの ポケモンは なに!?$
+## SootopolisCity_Text_WhereDidLegendariesGo:
+37b126589d667487	グラードンと カイオーガ……\n
+245f340cac7efbbc	どこへ いったのかしら?\p
+b7121d203927581e	どこか べつの ばしょで ひでりや\n
+604b730d8ea3d750	おおあめを おこすのかしら?$
+## SootopolisCity_Text_TwoPokemonArentAngry:
+f4ef8499033627cc	なんとなく だけど あの 2ひきは\n
+84a4dc3df9950eba	おこってる わけじゃ ない きがするの。\p
+330c020c4752a459	たぶん… じぶんの ちからを\n
+ca1846cf22ec5e68	おさえられない だけなのよ……$
+## SootopolisCity_Text_FlyingMonStoppedRampage:
+897e13c769224520	あの そらとぶ ポケモンが そらから\n
+6c3fbb07124453ea	おりてきて あばれていた ポケモンを\l
+0da6debcb7bb2d75	しずめたんだ……$
+## SootopolisCity_Text_WonderWhatWorldIsLike:
+857f440bcdd7873e	ぼく… この まちから でたことが ないんだ。\p
+e7ff618ba5cd1e08	この まるい そらの むこうって\n
+0e083498067bab02	どんな せかい なんだろう?$
+## SootopolisCity_Text_ThisIsWicked:
+a818265f6497d951	うわあ!\n
+2cee756056e7d276	これは すげえや!$
+## SootopolisCity_Text_ThatWasWicked:
+7ae6adb1037d8551	うわあ!\n
+b53dc108100afaef	いまのは すごかった!$
+## SootopolisCity_Text_GoRedAndBlueMon:
+5810b5611a2bab9a	がんばれ あかい ポケモン!\n
+5d6756a65cb2e6a1	まけるな あおい ポケモン!$
+## SootopolisCity_Text_DoYouKnowMonNames:
+6c8b892457a8beeb	… … … … … …\p
+4b9bbadf49354cb1	ねえ あそこで たたかってる\n
+d54ce6f4ee68b07f	ポケモンの なまえ しってる?$
+## SootopolisCity_Text_GreenOneSettlesThings:
+37163b419c179e28	あかいのと あおいの どっちが\n
+701c26adc392028e	かつのかと おもってたら なんと\l
+bbc1d6bee400c248	みどりのが ケリを つけちゃった!\p
+f15daf6189f9d1aa	まさに だいどんでんがえし だね!$
+## SootopolisCity_Text_SeeingLegendWithOwnEyes:
+9dfbb6a14acf2895	だいちと うみは ポケモンどうしの\n
+20b7c21572463bca	きょだいな たたかいで できたと\l
+b9bfc43267bc6f87	いう こだいの でんせつが ある。\p
+6d294f8c8e1c7c2a	その たたかいを いま この めで\n
+52fe9d8f4e645682	みているんだ!\p
+a4d109fdd415b42f	うおお! こんな すごいものを\n
+fa10e6240ea03aaf	めにする なんて おもわなかった!$
+## SootopolisCity_Text_SawLegendWithOwnEyes:
+dca6b7f5fdcb7643	だいちと うみは ポケモンどうしの\n
+94ac0087fa1efd7e	きょだいな たたかいで できたと\l
+4c85eaf0999fa28c	いう こだいの でんせつが ある。\p
+8bf388b595725693	その たたかいを この めで\n
+b4f8a7721ef13914	みたんだ!\p
+de61d269e5ad08b4	うおお! こんな すごいものを\n
+978e58d0a08035af	めにする なんて おもわなかった!$
+## SootopolisCity_Text_BigPokemonFighting:
+2b06c47efc3261f7	おおきな ポケモンが おおきな\n
+042ee93375dc2e88	ポケモンと けんか してる!\p
+57a9dd4ab2b3866e	おねがい だれか とめてあげて!$
+## SootopolisCity_Text_PrettyMonCameFromSky:
+1f025d7b57eb8f6a	きれいな ポケモンが そらから\n
+f68c8c2ee56c2674	おりてきた……$
+## SootopolisCity_Text_SootopolisWillBeWrecked:
+fa45deaff86a562d	たいへん!\n
+734e34fe33860f12	ルネシティが こわれちゃう!$
+## SootopolisCity_Text_SootopolisDidntGetWrecked:
+63788868407becab	ルネシティ こわれなかった!$
+## SootopolisCity_Text_NoOrdinaryTourist:
+a1f6a33381475fc9	ふむ!\n
+c85d30517e679ddd	わざわざ ルネまで きたのか?\l
+1535fe8ad0c9bb36	ただの かんこうきゃく では ないな。\p
+212cecc40cc332d4	だからといって とくべつな\n
+082dabecd053ad78	かんこうきゃく でも なさそうだが。$
+## SootopolisCity_Text_CityRegainedCalm:
+454f8a4703e1621f	まちに しずけさが もどった……$
+## SootopolisCity_Text_CaveOfOriginPleaseLeave:
+ad5ef0a456e4e80e	あなたは どなたですか?\p
+48d3b847fd86f3e3	ここは めざめのほこら です。\p
+f12cb2a0cee98eb4	おくりびやまで しずめられた\n
+10c0a63a7bf9a178	ポケモンの たましいが ここで よみがえると\p
+aa2864c473506d84	いわれています。 おひきとりください。$
+## SootopolisCity_Text_LeadSuperiorTrainerToCave:
+f6051eaec30b345d	つよい いしと すぐれた\n
+551eda2d8b955071	さいのうを もつもの……\p
+9eb0bf02ca95265f	さまざまな ポケモンの ちしきと\n
+5de9b9dd4b0362b2	けいけんを もつ トレーナー……\p
+afa45493f82c2b9d	そのような ひとが あらわれたら\n
+8c85a4746681bebb	この ほこらへ あんないするよう\l
+0f15b4b48ab7f4a6	ミクリさまに いわれています。$
+## SootopolisCity_Text_AwakenedPokemonClash:
+0c4c3e0e2d0d94e2	なんと……\p
+4b4eaa7cbb24bd8f	めざめた 2ひきの ポケモンの\n
+e2296ac37e052bc6	あらそいは 3びきめの ポケモンの\l
+8be474e4a5225e5a	めざめに よって しずめられた……$
+## SootopolisCity_Text_CaveOfOriginSleepsToo:
+09e5bbceafdfc1ac	ここは めざめのほこら……\p
+fcca714a406c38ef	ききが さった いま\n
+e941940e67d5765a	この ほこらも ねむりに つくでしょう……$
+## SootopolisCity_Text_SootopolisSkyBeautiful:
+fb7ee83fe981538a	ルネは かざんの かこうに\n
+4c42aef8db5fdd42	できた まち なんだ。\p
+f51df830f233f3e7	そらを みあげると かこうの ふちも\n
+49177d184ef810f2	みえるだろう。\l
+1b61c541ac102b56	だから そらが まるく みえるんだ。\p
+27687672d27d6942	でも だからこそ ルネの そらは\n
+1df299a5e2a51c7a	いちばん うつくしいのさ。$
+## SootopolisCity_Text_GiganticPokemonFight:
+92505578aee3a3b5	あれほど きょだいな ポケモンが\n
+783d85eb0e968d2a	あんなに はげしく たたかっていては\l
+851e072b4ff5d988	わたしたちには どうにも できない。$
+## SootopolisCity_Text_FearedWorstWhenPokemonFlewDown:
+d7b0246ac94c9273	3びきめの ポケモンが まいおりた ときは\n
+b0ed256f364669bc	もう おしまいだと おもったよ。$
+## SootopolisCity_Text_NightSkyFavoriteScenery:
+1e34371f65263ffa	かざんの かこうに ふちどられた\n
+db5d8845a2636f04	まるい よぞら……\p
+1a5caacabfc77354	その わの なかで ほしが まるで\n
+95bd6dfdba7cec64	いきている みたいに またたくの……\l
+b5fbdf7c6e7e2ba7	わたしの だいすきな けしきよ。$
+## SootopolisCity_Text_WeatherWentWild:
+fff2033e95d90edf	けさは はれていた のに……\n
+694da9f373b18bc7	……\p
+84028689653c9be7	とつぜん くろい くもが わいて\n
+8dfac2339bc2bea1	どしゃぶりの あめが ふりだして\l
+eb0f44b16c2644da	かみなりまで なりだしたの。\p
+525a51f01581fd87	てんきが すっかり\n
+fd12aa2e44c6c2d0	くるって しまったわ!\p
+c410a6c6ed5b7ba3	これも みんな あの\n
+3dd8a194e1267faf	ポケモンの せいなの?$
+## SootopolisCity_Text_YouBroughtFlyingMon:
+6ba8776dba657316	あら?\p
+01b6233d3244af76	あの そらとぶ ポケモンを\n
+0437cda97fa4cbcb	つれてきたのは あなた なの?\p
+efd8ca0543286cdc	まあ すごいわね!$
+## SootopolisCity_Text_GroudonPleaseStop:
+a22a8384fea8e5bc	マツブサ: グ… グラードン……\n
+29a5828c7985c56c	たのむ! もう やめてくれ!\p
+70f82a17685c8039	おまえの ちからは よく わかった!\p
+779e41c96438290e	このままでは ルネだけでなく\n
+fb5d00238d7544a0	ホウエン ぜんいきが はめつしてしまう!$
+## SootopolisCity_Text_AfterAllOurScheming:
+0552e53b21a61575	マツブサ: ちょうこだい ポケモンは\n
+40d0bd492d8d4f29	グラードンと カイオーガ だけでは なかったのか……\p
+7cae2842aefc0218	われわれの むだな たくらみも\n
+4e71b788bdbdfe55	ひっしの どりょくも あの ポケモン\l
+d49fb5b8e9711a73	1ぴきの ひとつの こうどうで\l
+42393813587acd53	なにも なかったかの ように……\p
+a526ea89b1ec63c9	フ……\n
+38a201701bc5c7b4	フハハハ……$
+## SootopolisCity_Text_KyogreCalmDown:
+503df6a32629d643	アオギリ: カイオーガ! どうした!?\n
+7c1731d8c27ba700	こっちを みろ! べにいろのたまだ!\l
+db31fff3049fe5d5	おちつけ! カイオーガ!\p
+7b11328deac17c29	… … … … … …\n
+d226339cd8f4e89d	… … … … … …\p
+0bfdc58ac7a69e23	だめだ!\n
+f30e039a99010ccd	まったく はんのうしない!$
+## SootopolisCity_Text_TryingMeaninglessToPokemon:
+6b2434b2eab9330a	アオギリ: カイオーガも グラードンも\n
+2debece531b1580c	どこかへ とびさって しまった。\p
+e37064b13f6a13ed	ホウエンの てんきも\n
+7312c7baf52cb03e	もとどおりに なった……\p
+2dd013f54afdde2a	ハハ……\n
+9eadb2d9d75a1d77	ハハハ……\p
+b4eb5b2f5be3a09f	おれたちの やろうとしていた ことは\n
+a49fd355f5a42d93	ポケモンに とっては ちっぽけで\l
+e8bcdbf5d46026e5	いみの ない ことだったのかもな……$
+## SootopolisCity_Text_InvolvedWithCrisisComeWithMe:
+552ed9a7fb1150ec	ダイゴ: あの たたかっている ポケモン……\n
+20434a995213180f	グラードン… そして カイオーガ……\p
+fddac5e0eaaacf70	2ひきの ちょうこだい ポケモンが\n
+10975fb947ac70f4	ながい ねむりから めざめた……\p
+dc8ba37196a3b8d6	そして いま おさえきれない ちからで\n
+287289d0120585f6	ぶつかりあって いるんだ……\p
+ed5e530ea08d7cfd	……{PLAYER}{KUN}。\p
+28a2b8f817134984	きみが いま ここに いるのは\n
+73539b5efa253543	この ききに かかわる かくごが\l
+883fd2f9c2bbc012	できている ということだね。\p
+41469f8fbe92e1bd	それなら きみに あってほしい\n
+f1114a22fbc14fd9	ひとが いるんだ。\p
+64cce1869ae0d9ce	いっしょに きてくれ。$
+## SootopolisCity_Text_DoesThisMakeYourFearPokemon:
+b435665727c693c6	ダイゴ: きいてくれ {PLAYER}{KUN}。\p
+66099ff467600d61	グラードンと カイオーガを みて\n
+7c905a1b45a454d4	ポケモンは おそろしいと おもったかい?\p
+8f7d7eea040bd05d	でも そうじゃ ない。\n
+2f1181b10c23844b	ポケモンは ほんとうは もっと……\p
+8728b3336bee7cb0	……なんで こんなこと きいてるんだろう?\n
+632c4d881c3c73bb	きみは もう わかっているよね。$
+## SootopolisCity_Text_HereWereAreHelpWallace:
+0ab7cc22dfb572a7	ダイゴ: よし ついたよ!\p
+0db3273fdf969d65	この なかに ミクリという ひとが\n
+cc53e14c63f4a681	いる。\p
+34f2642db90dd3e8	きみなら かれの ちからに\n
+7e6718bb58abb10a	なれると おもうんだ……$
+## SootopolisCity_Text_KnowWhatsNeededToHelpHim:
+266aaa8050a059e6	ダイゴ: きみなら かれの\n
+5190ed6492198562	ちからに なれると おもうんだ……$
+## SootopolisCity_Text_NeverBeenToSkyPillar:
+554fd9a3bf750058	ダイゴ: そらのはしら……\p
+5f97eccd605cedc4	ぼくも いったことが ないんだ。\n
+7114286046b44e99	いったい どこに あるんだろう?$
+## SootopolisCity_Text_SoThatsRayquaza:
+9fd98b48b4240a5b	ダイゴ: あれが レックウザ……\p
+fbd8f29c11597190	あばれていた 2ひきの ポケモンが\n
+3cb6b82595155185	おそれて にげだす なんて すごいな……$
+## SootopolisCity_Text_MaxieArchieLeft:
+5ab3724b49f851b3	ダイゴ: マツブサも アオギリも\n
+11ae93f4309c8c08	どこかへ いって しまったようだ。\p
+572aec1a9de804cc	もしかすると たまを かえしに\n
+93df238e1a91b610	おくりびやまへ いったのかもね……$
+## SootopolisCity_Text_HaventYouScaledSkyPillar:
+1105f2de90d9f7af	ミクリ: おや?\n
+33a7990b7e98eba2	{PLAYER}{KUN}?\p
+7132a78826f1c4f2	まだ そらのはしらを\n
+7e90f0e8882df6e5	のぼって いないのかい?\p
+be0a561c79774422	きみなら きっと そらのはしらの\n
+cbaed255b0ea6b42	てっぺんまで いけるはずだ……$
+## SootopolisCity_Text_AquaMagmaDidntMeanHarm:
+51a037746a44fe3d	ミクリ: {PLAYER}{KUN}……\p
+9df06760ee837dec	マグマだんと アクアだんの リーダーも\n
+2e73495e557a172e	わるぎが あったとは おもえない。\p
+3fc0da59d3aaaaad	かれらの いいぶんを きいてみるのも\n
+1379dc6bdf450036	わるくは ないだろう。$
+## SootopolisCity_Text_ThankYouForHelpAcceptThis:
+be57fc413cbdf2a1	ミクリ: {PLAYER}{KUN}……\n
+327a4c6a3071e052	わたしの めに くるいは なかった。\p
+c339f5160ddc7c73	きみの おかげで ルネは……\n
+122ab8be31e9dd6e	いや ホウエン ぜんたいが すくわれた。\p
+ac61646767088e9f	みんなに かわって おれいを いうよ。\p
+7cd97c7e57cba5da	これは わたしからの おくりものだ。\n
+0f677f95738e7104	うけとってくれ。$
+## SootopolisCity_Text_ExplainWaterfallGoToGym:
+1cd43b317b37c5ea	その ひでんマシンの なかみは\n
+98ac5e50a065dcd5	たきのぼりだ。\p
+083af0cc960826f4	レインバッジが あれば その わざを\n
+56a55c536829427b	おぼえた ポケモンで たきを\l
+90d55d68a3073e7d	のぼれるように なる。\p
+077ed9776aa0ddb9	では レインバッジは どこで もらえるか\n
+25cf78939aa87bd5	わかっているね?\p
+ece266d89ece5cf5	そう! ルネの ジムリーダーに\n
+abc942ba3cc16b14	かたなければ ならない。\p
+7f2538f0b18c9306	じゅんびが できたら あの とびらから\n
+ec5b5e6c8ef52c54	はいると いい。$
+## SootopolisCity_Text_DazzledByMentor:
+eae532281f9b9079	ミクリ: きっと きみも わたしの ししょうの\n
+6faa0762beae485f	いきを のむほど ゆうがな\l
+1e8da273489bee02	たたかいかたに みとれるはずだ。$
+##### data/maps/SootopolisCity_Gym_1F/scripts.inc
+## SootopolisCity_Gym_1F_Text_GymGuideAdvice:
+715a2bfa9f3d4458	よう! げんきかい? チャンピオンを\n
+53754c8efc070f88	めざす {PLAYER}!\p
+9154483586816e0e	ルネの ジムリーダー アダンは\n
+107d50eca42ad653	みずタイプの ポケモンの たつじんだ。\p
+aa3cdd27b256f979	それに アダンの ところまでは\n
+2ede688f691b4c91	こおりの ゆかが ゆくてを はばむ……\p
+16ec87c0f25dd216	わるいけど おれから いえる\n
+12e06bbfc7ca9ff5	アドバイスは これだけ なんだ。\p
+cc7f268398487e0d	ここから さきは じぶんの ちからで\n
+44e722e37c0c0d7a	がんばってくれ!$
+## SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
+e2de8d245d928fe8	うおお! ホウエンで いちばん つよいと\n
+11290bded1c575fa	いわれる アダンにまで かったのか!\p
+e44f27ddaf695a97	よし! トレーナーカードを みてごらん。\p
+59bc1ee119c2554a	バッジが ぜんぶ そろっていれば\n
+05b97563e5cc546c	ポケモンリーグに ちょうせん できるぞ!$
+## SootopolisCity_Gym_1F_Text_JuanIntro:
+2bb4b0877d603c37	ひとつ おたずね しましょう。\n
+9c6d96dacf3c9071	ごぞんじ でしたか?\l
+598d740fbc5b1a0e	おっと もったいぶるのは よしましょう。\p
+3678e65ad02c422c	ミクリに ポケモンの すべてを\n
+f85f4f635785ede0	おしえたのは この わたし なのです。\p
+af327d9f0c715780	わたしは いちど ジムリーダーの\n
+b03a2f4371788eb5	ざを しりぞきました。\p
+83e8a907b0750f12	そして わたしに かわって\n
+f28d30e8fffa4d53	ミクリに ジムを まかせたのです。\p
+19eb4b2c507a3c84	ですが どうしても ふっきしなければ\n
+15474a4805ee2a04	ならない りゆうが できましてね。\p
+0cd0b35ab0dfebc3	おっと おしゃべりは ここまで。\n
+33cad6602fe2cf5a	さあ しょうぶを はじめましょうか。\p
+8067898041a6624e	どうぞ ごらんください わたしたちの\n
+6914298840478d2e	げいじゅつを。\p
+9e40230c4e8a01f7	ポケモンと わたしが えがきだす\n
+d15de02939065bc6	みずの イリュージョンを!$
+## SootopolisCity_Gym_1F_Text_JuanDefeat:
+bbccdef9141d6f4c	アハハハ すばらしい!\n
+d7ea321b9388e7be	いいでしょう あなたの かちです。\p
+c82ec1bf670804f6	あなたからは すべてを のりこえる\n
+093e973dffac9c4a	じつりょくの かがやきを かんじます。\p
+391a02a8a1cc95d9	ですが わたしや ミクリに くらべると\n
+fb501731db39c301	あなたには エレガントさが たりない。\p
+a3f9ac9fe3027c12	わたしの いしょうを おかし\n
+5621464599480bce	しましょうか?\p
+a83e313496d88138	… … … … … …\n
+c9fa21d5ca5d8019	… … … … … …\p
+34d78403ca7365a8	ハハハ じょうだん ですよ!\p
+d0d459568835849b	いしょう ではなく あなたには\n
+9f055da6ab3eba01	この レインバッジを さしあげましょう!$
+## SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
+4069a01b3533d312	{PLAYER}は アダンから\n
+0f93239bc15f82b7	レインバッジを もらった!$
+## SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
+6fb3118340af304f	レインバッジが あれば あなたの\n
+55496858b4761c17	ポケモンは すべて あなたの めいれいに\l
+e857a736235b00a5	かならず したがうように なります。\p
+5b85bd6266e56c13	また レインバッジが あれば ひでんわざ\n
+0755d7727fdc26f7	たきのぼりで ながれおちる みずの\l
+726f2caf0208679d	かべを のぼれるように なるのです。\p
+3deb4827ed6a128f	そして わたしたちの しょうぶを\n
+c5d229b28b68d768	わすれない ように これを……$
+## SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
+cd9f6f2ee8fe9b13	さしあげた わざマシンの なかみは\n
+d755ff2dc013b6dc	みずのはどう です。\p
+a80edcae83b2c795	ちょうおんぱで あいてを ときどき\n
+6db399e4a493db65	こんらん させることが あります。\p
+e424bcc35aca7614	… … … … … …$
+## SootopolisCity_Gym_1F_Text_RegisteredJuan:
+c5df9daec17dd1f7	ジムリーダーの アダンを\n
+3c40be30b7eecbd6	ポケナビに とうろくした!$
+## SootopolisCity_Gym_1F_Text_JuanPostBattle:
+c2a887c0adce349c	ホウエンの ジムバッジを すべて\n
+c342906b2982386a	あつめた トレーナーは さいごの\l
+151b3a1dd5d82326	もくてきちを めざすのです。\p
+e1ae72b17a37ec77	そう ポケモンリーグ です。\p
+6e48e6c33c6d2de9	ホウエンの はるか ひがしの はて\n
+9c30912ce2967aff	サイユウという しまへ むかいなさい。\p
+caa90db8031d4ff7	そこに ポケモンリーグが\n
+cad26df919989c7a	あります。$
+## SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
+556ea88488e7e3dc	ホウエンで てにいれるべき バッジは\n
+497b9fdb12f17828	のこり ひとつ です。\p
+56f4e8d6a33ca430	ポケモンリーグに ちょうせん するなら\n
+c3cfe8bd7f30c5f9	ヒワマキの ジムで さいごの\l
+32b6c679935e6c56	バッジを てにいれなさい。$
+## SootopolisCity_Gym_1F_Text_GymStatue:
+628290d484c54f29	ルネシティ ポケモンジム$
+## SootopolisCity_Gym_1F_Text_GymStatueCertified:
+85f12f48fd5d871c	ルネシティ ポケモンジム\p
+17ffe576bd392fe7	アダン にんてい トレーナー:\n
+0b55920b466dbcaa	{PLAYER}$
+## SootopolisCity_Gym_1F_Text_JuanPreRematch:
+bb64c0502e88dde4	アダン: ああ この ジムにも\n
+4f4b0878a5130867	いつもの しずけさが もどったのに……\p
+f97e0856cf25fcdf	わかき たいふうが ふたたび\n
+cdd8861b7d60ebcb	わたしたちを ためしに きましたね!\p
+95a62c44f392f017	ええ ともよ よろこんで!\p
+1bce79f737b50a6d	なんどでも おのぞみ のままに\n
+1b8cd00afda10051	ともに おどりましょう!$
+## SootopolisCity_Gym_1F_Text_JuanRematchDefeat:
+814d09a614b9e8f9	アハハハ あなたの かちです!\n
+c23d495ac8559cd6	また やぶれて しまいました!$
+## SootopolisCity_Gym_1F_Text_JuanPostRematch:
+84145c662e0a686d	アダン: わたしの でしに なれと いっても\n
+5dad717e9de52c31	あなたは きっと ことわるでしょう。\p
+6cbef205b5d9d737	わたしの コートを あなたに\n
+cfbbfb4397c1a5c5	さしあげたい のですが。\p
+89b2b13ae7afc910	でも それも ことわるのでしょう。\n
+7a1442a62709ee9d	わたしには わかります。\p
+f91faec002280339	そして ともよ それこそが\n
+4e51935815c49aa3	けだかさの あかし なのです!$
+## SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons:
+1bb14b66b1620451	アダン: ああ この ジムにも\n
+73ca7d8f91d60036	いつもの しずけさが もどったのに……\p
+01c136be59eaeec4	わかき たいふうが ふたたび\n
+839373dbe6d335a6	わたしたちを ためしに きましたね!\p
+d93ad1996f040e5b	ええ ともよ よろこんで!\n
+524c655a779e0044	ともに おどりましょう……\p
+8b43ef637327a5de	おっと いけません。\n
+9012a30cbb68ff2d	ポケモンが 1ぴき しか いませんね。\p
+3957b056463d2bab	2ひき いじょうの ポケモンを つれて\n
+e14a61732f3593e6	また きてください。$
+##### data/maps/SootopolisCity_Gym_B1F/scripts.inc
+## SootopolisCity_Gym_B1F_Text_AndreaIntro:
+ecccab2973117b52	リーダーの アダンさんに おそわった\n
+5cfd1beaae64f2d3	すばらしい わざを みせてあげる!$
+## SootopolisCity_Gym_B1F_Text_AndreaDefeat:
+4134cdbe6bb97a01	ゆるしてください アダンさん……$
+## SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
+63f09285e3d71f08	ゆかの タイルを ぜんぶ わったら\n
+9dd502c9f5b97606	どうなるか みてごらん。$
+## SootopolisCity_Gym_B1F_Text_CrissyIntro:
+e88062792c92b329	ここまで きても アダンさんには\n
+7289d3ae4529b82f	あえないわよ。\p
+4cbdf7e88330469a	わたしに まけたら ね!$
+## SootopolisCity_Gym_B1F_Text_CrissyDefeat:
+be3fe7b22c9c65f8	つよい!\n
+f6796f3d34cf4386	かわいい みためで だまされたわ!$
+## SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
+531c4ffa97e22d22	あなたなら アダンさんに いちげきで\n
+6dc5989490592b63	やられずに すむかもね。$
+## SootopolisCity_Gym_B1F_Text_DaphneIntro:
+8f52808ce945fcf5	アダンさまが たたかう\n
+7a7eb6f2fb74d050	すがた……\p
+7caefae8a3d3dcbb	その うつくしさに ひかれて わたしは\n
+5d3c9fc875e9cdec	トレーナーに なったの。$
+## SootopolisCity_Gym_B1F_Text_DaphneDefeat:
+4e9bb448964537c3	わたしより ずっと うつくしい\n
+d1786ee1156b663b	たたかいかた だったわ……$
+## SootopolisCity_Gym_B1F_Text_DaphnePostBattle:
+ee60696bcc7b2b2f	あなたの たたかいの ゆうがさは\n
+2f183a343aeace2d	すてきだわ。\p
+1afa5ab27a5d6a8b	ああ… ポケモンに であえて\n
+6e766292f27e7640	わたしは ほんとうに しあわせ。$
+## SootopolisCity_Gym_B1F_Text_ConnieIntro:
+2194f1dfac2ad7e5	しょうぶの きびしさを\n
+43e4ca7a66be2df1	おしえて あげなくちゃね。$
+## SootopolisCity_Gym_B1F_Text_ConnieDefeat:
+1c03dfbfcfb06f16	あら。\n
+8eb74fcd4ed988d9	つよいのね。$
+## SootopolisCity_Gym_B1F_Text_ConniePostBattle:
+d120259fc0b5341c	いいことを おしえてあげる。\p
+e167b71ebc37529f	アダンさんの ところへ いきたいなら\n
+803a4b2bf0b7f91d	ゆかの タイルを 1かいずつ ふむのよ。$
+## SootopolisCity_Gym_B1F_Text_BridgetIntro:
+3bf1a6fa978ede24	ホウエン ちほうで いちばん\n
+c7bbcd29ecb569b9	レベルの たかい ポケモンジム……\p
+821e1e1994981ed8	それが ルネジムよ。$
+## SootopolisCity_Gym_B1F_Text_BridgetDefeat:
+b804bde806a40929	なんて レベルの たかさ!$
+## SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
+08921685b8bb0fb6	つよい ジムに いることに まんぞく\n
+9cb657e5c15d00ff	するより ほかの ばしょで\l
+b4e68104bbd44937	しゅぎょうした ほうが つよくなれそう。\l
+a734250e63584730	なにより そのほうが たのしそうだし。$
+## SootopolisCity_Gym_B1F_Text_OliviaIntro:
+1d46e9860b5fb292	わたしは アダンさんと いっしょに\n
+59e76f93dc93855b	ポケモンを きたえているの。\p
+882077f7b2921081	あまく みないでね。$
+## SootopolisCity_Gym_B1F_Text_OliviaDefeat:
+910ae996c866142a	まけちゃった……$
+## SootopolisCity_Gym_B1F_Text_OliviaPostBattle:
+1804686741ed02bc	あなた みこみが あるわ。\n
+4bc83fc8202def34	ここで いっしょに しゅぎょうしない?$
+## SootopolisCity_Gym_B1F_Text_TiffanyIntro:
+d9365a86c22fa25c	こおりの うえを せんを こえずに\n
+9a481ea5f9756b84	ゆうがに すべる……\p
+8f20d27dc2369494	そんな えんぎを する トレーナーは\n
+b66fc1d249f3ee82	きっと エレガントで うつくしいわ!$
+## SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
+920c33b3f7d5b5d2	ちょっと なんですって!?$
+## SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
+a22bbd84115803d6	あたりまえ だけど トレーナーとしての\n
+467eb2d3e357b291	つよさは としが わかいか\l
+1431cc7a95dd810f	としよりかとは かんけい ないのよね。$
+## SootopolisCity_Gym_B1F_Text_BethanyIntro:
+502c90c040552010	ポケモンと いっしょだと「あっ!」と\n
+ea2c5af26ed7f671	いうまに じかんが すぎちゃうの。$
+## SootopolisCity_Gym_B1F_Text_BethanyDefeat:
+395ffefa8441bfa2	あっ!$
+## SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
+96e656e8b3e72f27	だめな ことは「あっ!」と いうまに\n
+62e152b6953ff562	わすれられたら いいのに。$
+## SootopolisCity_Gym_B1F_Text_AnnikaIntro:
+cead462dfefeb346	よければ とっても めずらしい\n
+809670b5cd788f5f	ポケモンで たたかって あげるわよ。$
+## SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
+2e0a52bbd1608833	ほらね! わたしの ポケモン\n
+1c51d1f7bf421314	よーく みてくれた?$
+## SootopolisCity_Gym_B1F_Text_AnnikaPostBattle:
+e839e3f16bac715d	アダンさんに じまんの ポケモンを\n
+a0dc573ef94451cb	ほめられて この ジムに きたの。\p
+bff0f2609f8acae3	ああ もっと わかい ころに\n
+ec9bd1406a5d2df0	アダンさんと であえていたら……$
+## SootopolisCity_Gym_B1F_Text_BriannaIntro:
+771f926733bfb0de	ウフフ……\n
+4916a1fcf8e76c18	しんけんな かお すてきよ。$
+## SootopolisCity_Gym_B1F_Text_BriannaDefeat:
+45d064f9d4585fbd	あらまあ。\n
+da2e054a78259a6d	てかげん しすぎたわ。$
+## SootopolisCity_Gym_B1F_Text_BriannaPostBattle:
+17b2f354f506ca4e	アダンさんには ゆび いっぽん\n
+ad920402a7677a4c	ふれられない はずよ。 ウフフ……$
+##### data/maps/SootopolisCity_House1/scripts.inc
+## SootopolisCity_House1_Text_DevelopedThisTM:
+4c1f05c94db4290a	わしは 30ねん ルネに こもって\n
+53104dff3d9fded7	わざを みがいてきた。\p
+7833aa4204325d69	そして はかいてきな わざマシンを\n
+5246d8f0656a41da	あみだした。 おまえに さずけよう!$
+## SootopolisCity_House1_Text_ExplainBrickBreak:
+52cc4d917d8198d7	わざマシン31は かわらわり! くちでは\n
+f51c82f590f726bb	いいあらわせぬ おそろしい わざじゃ。$
+## SootopolisCity_House1_Text_Kecleon:
+f82ceeec8d6e20e4	カクレオン: プー プヒャー。$
+##### data/maps/SootopolisCity_House2/scripts.inc
+## SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
+b0604a5265a9960a	おくりびやま……\p
+532e7ad090f08f75	その いただきには 2つの たまが\n
+803a6f8ed5e3b474	ならべて おかれているの。 しってた?$
+## SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
+47663520a16771fe	そう ならんだ 2つの たま……\p
+cfaab480995842bf	ふたつが ならぶ すがたは……\n
+fac3b823d0d5a5d7	なぜか こころが やすらぐの……$
+## SootopolisCity_House2_Text_OughtToVisitAndSee:
+537d2534530b5c4a	そうなの?\n
+0db774a36f6cd228	いちど みに いってみると いいわ……$
+##### data/maps/SootopolisCity_House3/scripts.inc
+## SootopolisCity_House3_Text_JuanHasManyFansDoYou:
+bf7661ed4a18afc1	あなた ポケモントレーナー でしょ?\p
+ce232e9a80c3d98c	ルネの アダンさんには ファンが おおいの。\n
+4cd786885901e0f4	でしの ミクリさん よりもね!\p
+acd2882b3ad890be	あなたには ファン いる?$
+## SootopolisCity_House3_Text_YouMustBePrettyStrong:
+4dc0399f62b1ffcb	あら じゃあ けっこう つよいのね。$
+## SootopolisCity_House3_Text_LonesomeTryWorkingHarder:
+9f542ef34e936a53	あらら……\n
+d95ae999300ea94b	それは ちょっと さみしいわね。\p
+e4a2c169cbec8b39	ファンが つくように もうすこし\n
+4ac91995a3fae7c3	がんばってみたら?$
+## SootopolisCity_House3_Text_TrainerFanClubWasWild:
+946196c9b3174681	ねっしんな ファンは ホウエンの そと\n
+afe352afcdfc4675	からも やってくるのよ。\p
+5d9f46b2e87d29b0	ミナモの トレーナー ファンクラブに\n
+b221d28b20ff93d5	いったときは ほんとうに すごかったわ。$
+##### data/maps/SootopolisCity_House4/scripts.inc
+## SootopolisCity_House4_Text_AncientTreasuresWaitingInSea:
+fbf8ad5c70dd9bd4	よく きけよ いいことを\n
+cfbb7c73dff30468	おしえてやる。\p
+73a3de7f0980a30c	この あたりの うみには こだいの\n
+a166f96b41de33ed	いせきが あるらしいんだ。\p
+1396d8f5c8fda1fa	うみの そこで おたからが\n
+3c58d153a5b56fbe	みつけられるのを まってるかもな。$
+## SootopolisCity_House4_Text_StrollUnderwaterWithPokemon:
+84de412c9f0cfd0d	こだいの おたから……\p
+27450c425a915fef	あったら すてき だけど\n
+6a176fe1d0c96bae	なかったとしても ポケモンと\l
+8964911dc1054cd9	うみの なかを さんぽ するのは\l
+5483b8c5080ac91c	きっと とても きれいでしょうね。$
+## SootopolisCity_House4_Text_Azumarill:
+599dbfe23d571f9d	マリルリ: マルリー。$
+##### data/maps/SootopolisCity_House5/scripts.inc
+## SootopolisCity_House5_Text_SootopolisMtPyreConnection:
+3a3796c179da49d9	ルネと おくりびやまには なにか\n
+30f510d35977fe6a	つながりが あるらしい。\p
+4b5179bca18e9668	まえに つとめていた けんきゅうじょで\n
+1c0c126acfb7f1cc	なかまと いっしょに しらべたんだ。$
+## SootopolisCity_House5_Text_BrotherUsedToStudySea:
+f44516de8115acbf	おにいちゃんは まえ\nうみの けんきゅうを してたの。$
+##### data/maps/SootopolisCity_House6/scripts.inc
+## SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll:
+981a2184d2c59e76	こんにちは! おきゃくさんなんて\n
+e836949875015685	ひさしぶり!\p
+7b467f1f55abefc1	うれしく なったから おおきな\n
+a9b956dbfd41c801	ホエルコドールを あげるね。$
+## SootopolisCity_House6_Text_TakeGoodCareOfIt:
+55cc573dbe55e4ee	だいじに してね!$
+## SootopolisCity_House6_Text_IllHoldItForYou:
+552f30f6cb72b155	ほしいけど いまは いらないの?\n
+f978ce40ab12ec85	じゃあ あずかって おくね。$
+## SootopolisCity_House6_Text_DontWantThisDoll:
+506163408bcd8459	ほんとに?\n
+afc8b41334de99f4	この ドール いらないの?$
+## SootopolisCity_House6_Text_LovePlushDolls:
+1418500c4996e189	ぬいぐるみの ドール だいすき!$
+##### data/maps/SootopolisCity_House7/scripts.inc
+## SootopolisCity_House7_Text_CityFromEruptedVolcano:
+1501d724f0f2a900	かいていかざんが ふんかして\n
+1a1fdfe00bce7167	うみの そこから もりあがったんじゃ。\p
+61e58c9f969480a3	その かこうが うみから かおを だし\n
+6e4924ae5353a55c	あまみずで みたされた。\p
+c1f032cc4f17d3d4	そうして ルネシティが\n
+7b703fd76ebcdd02	うまれたんじゃよ。$
+## SootopolisCity_House7_Text_CaveMadeToKeepSomething:
+87fadce8a0178cdd	ルネと そとの せかいを\n
+1b6e65b54642abc4	つなぐ どうくつ……\p
+627b51b2d6399a07	あの どうくつは なにかを そとへ\n
+ef24b6211222b3c4	ださぬ ために つくられた ようじゃ。\p
+e6af029af78ab593	それとも わしの きのせい かのう?$
+##### data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc
+## SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
+24d69dcb4e2b2f1d	タネボーって ポケモン しってる?\n
+78c5c2ab78a5dbe9	ルネでは めったに みかけないんだ。\p
+ed8bb2b3787287bd	とにかく ぼく おおきい タネボーが すき。\n
+98c4444aea6b7dea	おおきければ おおきいほど いい。\p
+320030811f01c03d	でも おとうとは ハスボーの ほうが\n
+8c751ecb6f2d4220	おおきいって いうんだ。\p
+b9e80929a9548644	そんなの おかしいよ。\n
+6cb1435c2f079428	タネボーの ほうが おおきいに きまってる!\p
+b7070fde91ccdb5e	えっ? タネボー もってるの?\n
+dbd655192e995fb4	み み み みせて!$
+## SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
+f4d206de2936681a	{STR_VAR_2}!\n
+d64f1988633b7519	うわあ これは おおきいね!\p
+c774694768a06a9c	おとうとが みた おおきい ハスボーにも\n
+0244578a9a8c77c0	かっちゃう かも!\p
+f5cb3bc43401a4f1	みせてくれて ありがとう。\n
+695ecfe3633463e8	これは おれいだよ!$
+## SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
+efa1274e3b4aa151	{PLAYER}は キズぐすりを もらった!$
+## SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1:
+0415b6f0778ed136	あれ?\n
+311f063df63d1be1	バッグが いっぱい だね。$
+## SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
+c1dfea40e3a33d60	{STR_VAR_2} かあ。\p
+907567a98da2514e	うーん… これより おおきい タネボーを\n
+5806bb6aa3ba8d61	みたことが あるよ。$
+## SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
+8a62c2dd25911a54	へえ これは すごいね……\n
+51950efcd72ab555	でも タネボーじゃ ないよ!$
+## SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
+76308438b2557fd6	おおきい タネボー もってないの?\n
+d04acd8c99dbe064	ざんねん……\p
+42948d114b85d5e4	おおきい タネボーを つかまえたら\n
+9af386169329ec66	みせに きてね。$
+## SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
+6c64b4e4543397f4	しじょう さいだいの タネボー!\n
+d1d67f68aaf06d75	{STR_VAR_2}の {STR_VAR_3}!\p
+12ee62b1e68660fc	ずっと ほしかった ハスボーより\n
+fee15716291ca842	おおきい タネボーだ!$
+## SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
+15b5b8e9e345a29c	ハスボーって ポケモン しってる?\n
+1fd298b89c0a8d4f	ルネでは めったに みかけないの。\p
+07106baef250121f	ぼく おおきい ハスボーが だーいすき!\p
+c2a164f43d763a84	おにいちゃんは タネボーの ほうが\n
+f4fd96eed94e1559	おおきいって いうんだ。\p
+289cd5719d9d16e0	でも ちがうよ! ハスボーの ほうが\n
+a9a893e6b04f2cf9	ずっと おおきいに きまってる。\p
+e1c3cb9076937fe3	えっ? ハスボー もってるの?\n
+1419ce56c9be78bf	み み み みせて!$
+## SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
+1c558183c96ddd8e	{STR_VAR_2}!\n
+55c4870a16f97df1	わあ おおきい!\p
+9c6d7d5197e57088	おにいちゃんが みた おおきな タネボー\n
+a349cb5d2f1c4fee	よりも おおきい かもしれない。\p
+ca7ebb495d693880	みせてくれて ありがとう!\n
+bd2f38d89296b31e	これは おれいだよ!$
+## SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
+6998f504b89b0c4a	{PLAYER}は キズぐすりを もらった!$
+## SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
+3f33fd5cf37057d8	あれ?\n
+b7e3079dde0f7a89	バッグが いっぱい だね。$
+## SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
+c070e86981a853da	{STR_VAR_2}?\p
+5f893cee70f4676c	うーん… これより おおきい ハスボーを\n
+d1d72f54ea388f77	みたことが あるよ。$
+## SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
+304b11c8471170a4	へえ すごいね!\n
+2c0ac5fa159928d7	でも ハスボーじゃ ないよ!$
+## SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
+fad5858f8eb46c55	おおきい ハスボー もってないの?\n
+9e7b6f12809b8e7e	がっかり……\p
+cf5277f761f2f238	おおきい ハスボーを つかまえたら\n
+b7f207e4a10f22c6	みせに きてね!$
+## SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
+36ad0c3851fc2216	しじょう さいだいの ハスボー!\n
+b414fab12aef07e5	{STR_VAR_2}の {STR_VAR_3}!\p
+ae79218c0e691d49	ずっと ほしかった タネボーより\n
+0d4e2fb366ed67e8	おおきい ハスボーだ!$
+##### data/maps/SootopolisCity_Mart/scripts.inc
+## SootopolisCity_Mart_Text_PPUpIsGreat:
+cb302fac33131171	ポイントアップは すごいよ!\p
+b381648be787b97b	ポケモンの わざの パワーポイント\n
+21697279087cf4aa	つまり PPを ふやせるんだ。$
+## SootopolisCity_Mart_Text_TooScaryOutside:
+3534822a4130f126	いったい……\n
+9ca6dee0c6a40f51	なにが おきてるの?\p
+50a7c5b9f9349861	すごく しりたいけど こわくて\n
+0b4d5585f2c93869	そとに でられないの。$
+## SootopolisCity_Mart_Text_FullRestoreItemOfDreams:
+6f5e4ea0c72789d0	かいふくのくすりって しってる?\p
+2ff8a6567a69bc9a	HPを かんぜんに かいふく!\n
+5d008535dced6b43	じょうたいいじょうも ぜんぶ なおす!\p
+46a99b42ae418341	まさに ゆめの どうぐ だよ!$
+## SootopolisCity_Mart_Text_DidSomethingAwaken:
+24e8720f5514ff9f	この てんき……\n
+5151b3948b757f5c	なにかが めざめたのかしら?$
+##### data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc
+## SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles:
+b15ffded8e6d67a4	わかい ころは ポケモントレーナー\n
+ed0a44f584b586e7	として せかいを たびしたもんじゃ。\p
+7db6bca713d46895	すっかり おいぼれた いまは\n
+13a3381a754ad0f2	わかい トレーナーの しょうぶを みるのが\l
+151d441dfee279fe	ゆいいつの たのしみ じゃよ。$
+## SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
+c81c1dd07fadd0ef	とびらには かぎが かかっている ようだ。$
+## SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
+4769dafafc4703b0	{STR_VAR_1}という トレーナーが\n
+436fd318ead932f7	うちに きておる。\p
+0be4f1ea5376d7c7	どうじゃ ひとつ\n
+f3b7a376e74af1ed	{STR_VAR_1}に いどんで みるかね?$
+## SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
+8f85b8f3f9acaa57	たたかわんのか? しょうぶが みられんとは\n
+5bc2dbd4cb778273	ざんねんじゃ……$
+## SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3:
+39fd261cf98ffcc0	おお よしよし!\p
+ea1c5d9254e37240	じゃが うちは あまり がんじょうでは ない。\p
+92a32faf1d12aeeb	すまんが 3たい3の しょうぶに\n
+5d412dc35184e4aa	して もらえんかのう?$
+## SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle:
+99f77ba6cf1f38a3	しょうぶの まえに\n
+b3e1e710e2ee0066	レポートを かいておくと よい。$
+## SootopolisCity_MysteryEventsHouse_1F_Text_HopeToSeeGoodMatch:
+d1158077552f4017	よい しょうぶを たのしみに しておるぞ!$
+## SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Tie:
+a149703eb07668fe	{STR_VAR_1}$
+## SootopolisCity_MysteryEventsHouse_B1F_Text_MatchEndedUpDraw:
+bff6ac16f4b3bbad	しょうぶは ひきわけに おわった。$
+## SootopolisCity_MysteryEventsHouse_1F_Text_BrilliantStandoff:
+2b20a8b4334a82a4	ふむ ひきわけ じゃったか。\p
+6ada1a8195e155ea	どちらも いっぽも ゆずらぬ\n
+89577ee800f9ac3a	みごとな しょうぶ じゃった!$
+## SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Won:
+d7953fcfb07acefa	{STR_VAR_1}$
+## SootopolisCity_MysteryEventsHouse_1F_Text_ThatWasSuperlative:
+ca8c0f3e8086ed1c	じつに すばらしかった!\p
+ed9bb2facf8ab066	まるで わかい ころの じぶんを\n
+0b9ec5c2c80d6eb9	みているようじゃったわい!$
+## SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Lost:
+9164c81cc6775c24	{STR_VAR_1}$
+## SootopolisCity_MysteryEventsHouse_1F_Text_TooBadForYou:
+654eb484a9327d40	おお ざんねん じゃったな!\p
+d24bb49e1240a917	じゃが よい しょうぶ じゃった。\n
+13c625d6826294b0	つぎは かてると よいのう。$
+##### data/maps/SootopolisCity_PokemonCenter_1F/scripts.inc
+## SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
+5b1ec568c2650898	ミクリは ホウエン ちほうで いちばん\n
+ec1af2f5a76db5ad	つよい トレーナーだと うわさされてる。\p
+7ed38b4df42744c9	この まちの ジムを まかされてるのは\n
+c24be99c87bd5243	ミクリに おしえた トレーナーなんだ。\p
+a2a5a4f04f288acf	でも してんのうは… ミクリの ししょう\n
+0a8c86745fd7a35b	よりも さらに つよいって いわれてる。\p
+a214743a79302d4d	いったい どれほど つよいんだろう?$
+## SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
+436fa66a6db40e23	まちの ひとは みんな ひなんして\n
+1b80859ca562940d	いえから でてこないの。\p
+22030c4adba4410a	わたしだって できれば\n
+a27794243e3ba14f	そとには でたくないわ。$
+## SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
+4696fd4b1e25c6f8	いつでも どこでも なにが\n
+59b72ebb94e88d43	おきても わたしは ずっと ポケモンと\l
+7ab153b1f39327e7	ともだちよ。\p
+3d2032ad45fd54b9	だって ポケモンと いると たのしいもの!$
+## SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
+e77933d9b4d519db	ポケモンは ともだち じゃないの?\p
+23c47a836969edad	どうして あんなに あばれてるの?$
+##### data/maps/Underwater_SeafloorCavern/scripts.inc
+## Underwater_SeafloorCavern_Text_SubExplorer1:
+5c12dd8f3885fe8f	せんすいてい には\n
+541f3f672e1b72df	「かいえん 1ごう」と かかれている。\p
+dc02c1882368ebd8	アクアだんが カイナから\n
+9d720b7456d8ae86	うばって いった せんすいてい だ!\p
+41330fe00c4c70a1	アクアだんは ここから\n
+03ec66b491b25c6e	うえに あがった みたいだ。$

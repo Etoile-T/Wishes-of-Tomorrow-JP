@@ -269,114 +269,114 @@ RustboroCity_DevonCorp_2F_EventScript_WorkOnNext::
 	end
 
 RustboroCity_DevonCorp_2F_Text_DeviceForTalkingToPokemon:
-	.string "We're developing a device for talking\n"
-	.string "with POKéMON.\p"
-	.string "But we haven't had much success…$"
+	.string "{JPN}いま ポケモンと はなせる どうぐを\n"
+	.string "かいはつ しているのですが……\p"
+	.string "なかなか うまく いかないね……$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopingNewBalls:
-	.string "I'm developing new kinds of\n"
-	.string "POKé BALLS…\p"
-	.string "But I haven't made much headway…$"
+	.string "{JPN}いま しんがたの\n"
+	.string "モンスターボールを かいはつちゅう……\p"
+	.string "でも なかなか すすまないね……$"
 
 RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls:
-	.string "We finally made new kinds of\n"
-	.string "POKé BALLS!\p"
-	.string "The REPEAT BALL makes it easier to\n"
-	.string "catch POKéMON you've caught before.\p"
-	.string "The TIMER BALL gets better at catching\n"
-	.string "POKéMON the longer a battle runs.\p"
-	.string "Both are proudly developed by\n"
-	.string "the DEVON CORPORATION.\p"
-	.string "Please give them a try!$"
+	.string "{JPN}ついに しんがたの\n"
+	.string "モンスターボールが できたぞ!\p"
+	.string "リピートボールは まえに つかまえた\n"
+	.string "ポケモンを つかまえやすく なるんだ\p"
+	.string "タイマーボールは せんとうが ながびくほど\n"
+	.string "ポケモンを つかまえやすく なるんだ\p"
+	.string "どちらも デボン コーポレーションが\n"
+	.string "ほこりを もって かいはつ しました\p"
+	.string "ぜひ つかって みてください!$"
 
 RustboroCity_DevonCorp_2F_Text_IMadePokenav:
-	.string "I made the POKéNAV!\p"
-	.string "As an engineer, I feel blessed to have\n"
-	.string "made something so great!$"
+	.string "{JPN}ポケナビを つくったのは わたし!\p"
+	.string "いやー あんな すごいモノを つくれると\n"
+	.string "かいはつしゃ みょうりに つきますね!$"
 
 RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav:
-	.string "Oh, wow!\n"
-	.string "That's a POKéNAV!\p"
-	.string "It came about as a result of our\n"
-	.string "PRESIDENT's desire to learn about\l"
-	.string "the feelings of POKéMON.\p"
-	.string "Would you like me to describe its\n"
-	.string "features in detail?\p"
-	.string "No, no. I think you'll find out just by\n"
-	.string "trying the POKéNAV out.$"
+	.string "{JPN}おお すごい!\n"
+	.string "それ ポケナビ じゃないか!\p"
+	.string "ポケモンの きもちを しりたい という\n"
+	.string "しゃちょうの おもいから\l"
+	.string "うまれた ものなんだよ\p"
+	.string "きのうを くわしく\n"
+	.string "せつめい しようか?\p"
+	.string "いや いや ポケナビを つかってみれば\n"
+	.string "きっと わかると おもうよ$"
 
 RustboroCity_DevonCorp_2F_Text_DeviceToVisualizePokemonDreams:
-	.string "I'm trying to develop a device that\n"
-	.string "visually reproduces the dreams of\l"
-	.string "POKéMON…\p"
-	.string "But it's not going well.$"
+	.string "{JPN}いま ポケモンが みている\n"
+	.string "ゆめを うつしだす どうぐを\l"
+	.string "かいはつ しているのですが……\p"
+	.string "なかなか うまく いかないね$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopDeviceToResurrectFossils:
-	.string "I've been trying to develop a device\n"
-	.string "that resurrects POKéMON from fossils…\p"
-	.string "And, it's working!$"
+	.string "{JPN}カセキから ポケモンを ふっかつさせる\n"
+	.string "そうちを かいはつ してたんだけど……\p"
+	.string "うまく いってるよ!$"
 
 RustboroCity_DevonCorp_2F_Text_WantToBringFossilBackToLife:
-	.string "Wait! That thing you have there…\n"
-	.string "Is that a POKéMON fossil?\p"
-	.string "Would you like to bring that POKéMON\n"
-	.string "back to life?\p"
-	.string "I can with my newly developed\n"
-	.string "FOSSIL REGENERATOR.$"
+	.string "{JPN}まって! きみが もってる それ……\n"
+	.string "ポケモンの カセキ じゃないか?\p"
+	.string "その ポケモンを\n"
+	.string "ふっかつ させて みたくないかい?\p"
+	.string "わたしが かいはつした\n"
+	.string "カセキ ふっかつマシンで できるよ$"
 
 RustboroCity_DevonCorp_2F_Text_OhIsThatSo:
-	.string "Oh, is that so?\p"
-	.string "DEVON's technological expertise\n"
-	.string "is outstanding, I tell you.$"
+	.string "{JPN}おや そうかい?\p"
+	.string "デボンの ぎじゅつりょくは\n"
+	.string "ほんとうに すごいんだけどなあ$"
 
 RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne:
-	.string "Oh, now that's a surprise!\n"
-	.string "You have not one, but two, fossils?\p"
-	.string "Unfortunately, my machine can only\n"
-	.string "regenerate one POKéMON at a time.\p"
-	.string "Would you like to pick one of your\n"
-	.string "fossils for regeneration?$"
+	.string "{JPN}おお これは おどろいた!\n"
+	.string "カセキを ふたつも もってるのか?\p"
+	.string "ざんねんだけど この マシンは\n"
+	.string "いちどに 1ぴきしか ふっかつ できないんだ\p"
+	.string "どちらか ひとつ ふっかつ させる\n"
+	.string "カセキを えらんで くれるかい?$"
 
 RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher:
-	.string "Excellent!\n"
-	.string "Let's do this right away.\p"
-	.string "{PLAYER} handed the {STR_VAR_1} to\n"
-	.string "the DEVON RESEARCHER.$"
+	.string "{JPN}よし!\n"
+	.string "さっそく やってみよう\p"
+	.string "{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_1}{JPN}を\n"
+	.string "デボンの けんきゅういんに わたした!$"
 
 RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime:
-	.string "The FOSSIL REGENERATOR, which I made,\n"
-	.string "is incredible.\p"
-	.string "But it has one drawback--it takes\n"
-	.string "a long time to work.\p"
-	.string "So, uh… How about you go for a stroll\n"
-	.string "and look around for a while?$"
+	.string "{JPN}わたしが つくった カセキ ふっかつマシンは\n"
+	.string "すごい マシンなんだ\p"
+	.string "でも ひとつ けってんが あってね……\n"
+	.string "じかんが かかるんだ\p"
+	.string "だから その…… しばらく そのへんを\n"
+	.string "ぶらぶら してきて くれないか?$"
 
 RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife:
-	.string "Thanks for waiting!\p"
-	.string "Your fossilized POKéMON has been\n"
-	.string "brought back to life!\p"
-	.string "The fossil was an ancient POKéMON.\n"
-	.string "{STR_VAR_2}, it was!$"
+	.string "{JPN}おまたせ!\p"
+	.string "きみの カセキの ポケモンが\n"
+	.string "ふっかつ したよ!\p"
+	.string "カセキは こだいの ポケモン\n"
+	.string "{ENG}{STR_VAR_2}{JPN} だったよ!$"
 
 RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher:
-	.string "{PLAYER} received {STR_VAR_2} from\n"
-	.string "the DEVON RESEARCHER.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は {ENG}{STR_VAR_2}{JPN}を\n"
+	.string "デボンの けんきゅういんから うけとった!$"
 
 @ Unused
 RustboroCity_DevonCorp_2F_Text_TooManyPokemon:
-	.string "Uh-oh, you've got too many POKéMON.\n"
-	.string "You have no room for this one.$"
+	.string "{JPN}あー ポケモンが いっぱいだね\n"
+	.string "この こは もてないですね$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:
-	.string "I'm trying to develop a new feature\n"
-	.string "for the POKéNAV…\p"
-	.string "But it's not going well.$"
+	.string "{JPN}いま ポケナビに ついかする きのうを\n"
+	.string "かいはつ しているのですが……\p"
+	.string "なかなか うまく いかないね$"
 
 RustboroCity_DevonCorp_2F_Text_WhatToWorkOnNext:
-	.string "Well, now what shall I work on\n"
-	.string "developing next?\p"
-	.string "Our company allows us to make our\n"
-	.string "inspirations into reality.\p"
-	.string "One couldn't ask for a better\n"
-	.string "environment as an engineer.$"
+	.string "{JPN}さて つぎは なにを\n"
+	.string "かいはつ しようかな?\p"
+	.string "うちの かいしゃは ひらめきを\n"
+	.string "かたちに させて くれるんだ\p"
+	.string "かいはつしゃ として これいじょうの\n"
+	.string "かんきょうは ないね$"
 

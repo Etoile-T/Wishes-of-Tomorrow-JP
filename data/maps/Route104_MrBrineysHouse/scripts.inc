@@ -95,64 +95,64 @@ Route104_MrBrineysHouse_EventScript_Peeko::
 	end
 
 Route104_MrBrineysHouse_Text_WaitUpPeeko:
-	.string "MR. BRINEY: Hold on, lass!\n"
-	.string "Wait up, PEEKO!$"
+	.string "{JPN}ハギ: こらこら!\n"
+	.string "まて まて ピーコちゃん!$"
 
 Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
-	.string "Hm? You're {PLAYER}{KUN}!\n"
-	.string "You saved my darling PEEKO!\l"
-	.string "We owe so much to you!\p"
-	.string "What's that?\n"
-	.string "You want to sail with me?\p"
-	.string "Hmhm…\p"
-	.string "You have a LETTER bound for DEWFORD\n"
-	.string "and a package for SLATEPORT, then?\p"
-	.string "Quite the busy life you must lead!\p"
-	.string "But, certainly, what you're asking is\n"
-	.string "no problem at all.\p"
-	.string "You've come to the right man!\n"
-	.string "We'll set sail for DEWFORD.$"
+	.string "{JPN}ん? {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} じゃな!\n"
+	.string "かわいい ピーコちゃんを たすけてくれた!\l"
+	.string "おぬしには たいへんな おんが ある!\p"
+	.string "なんじゃと?\n"
+	.string "わしの ふねに のりたい とな?\p"
+	.string "ふむふむ……\p"
+	.string "ムロあての てがみと\n"
+	.string "カイナあての にもつが あると?\p"
+	.string "なんとも いそがしい ことじゃな!\p"
+	.string "だが その たのみなら\n"
+	.string "まったく もんだい ないぞ\p"
+	.string "わしに まかせておけ!\n"
+	.string "ムロへ むけて しゅっこう じゃ!$"
 
 Route104_MrBrineysHouse_Text_SetSailForDewford:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "{JPN}ハギ: よし ムロ じゃな!\p"
+	.string "いかりを あげい!\n"
+	.string "ピーコちゃん しゅっこう じゃよ!$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Your deliveries can wait?\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "{JPN}ハギ: そうかね\n"
+	.string "たのまれごとは いいのかね?\p"
+	.string "まあ ふねに のる ひつようが あるときは\n"
+	.string "いつでも えんりょなく いっておくれ!$"
 
 Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "I know exactly what you want to say!\p"
-	.string "You're to deliver a LETTER to DEWFORD\n"
-	.string "and a package to SLATEPORT.\p"
-	.string "What you need me to do is no problem\n"
-	.string "at all--I'm the man for the job!\p"
-	.string "First, we'll set sail for DEWFORD.$"
+	.string "{JPN}ハギ: おーい!\n"
+	.string "いいたい ことは ちゃんと わかっとる!\p"
+	.string "ムロに てがみを とどけて\n"
+	.string "カイナに にもつを とどけるんじゃな\p"
+	.string "そんな ことは おやすい ごよう!\n"
+	.string "わしに うってつけの しごとじゃ!\p"
+	.string "まずは ムロへ しゅっこう じゃ!$"
 
 Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "I know exactly what you want to say!\p"
-	.string "You're to deliver a package to\n"
-	.string "CAPT. STERN in SLATEPORT.\p"
-	.string "What you need me to do is no problem\n"
-	.string "at all--I'm the man for the job!\p"
-	.string "First, we'll set sail for DEWFORD.$"
+	.string "{JPN}ハギ: おーい!\n"
+	.string "いいたい ことは ちゃんと わかっとる!\p"
+	.string "カイナの クスノキかんちょうに\n"
+	.string "にもつを とどけるんじゃな\p"
+	.string "そんな ことは おやすい ごよう!\n"
+	.string "わしに うってつけの しごとじゃ!\p"
+	.string "まずは ムロへ しゅっこう じゃ!$"
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "{JPN}ハギ: やあ!\n"
+	.string "きみの ためなら いつでも ふねを だそう!\p"
+	.string "さて きみが いきたいのは どこ かな?$"
 
 Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Well, PEEKO owes her life to you.\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "{JPN}ハギ: そうか……\n"
+	.string "きみは ピーコちゃんの いのちの おんじんだ\p"
+	.string "ふねに のる ひつようが あるときは\n"
+	.string "いつでも えんりょなく いっておくれ!$"
 
 Route104_MrBrineysHouse_Text_Peeko:
-	.string "PEEKO: Pii piihyoro!$"
+	.string "{JPN}ピーコちゃん: ピー ピひょろー!$"
 

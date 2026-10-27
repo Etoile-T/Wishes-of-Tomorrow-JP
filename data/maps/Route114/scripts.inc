@@ -177,26 +177,26 @@ Route114_EventScript_Kai::
 	end
 
 Route114_Text_AllMyMonDoesIsRoarTakeThis:
-	.string "All my POKéMON does is ROAR…\n"
-	.string "No one dares to come near me…\p"
-	.string "Sigh… If you would, please take\n"
-	.string "this TM away…$"
+	.string "{JPN}わたしの ポケモン ほえてばかりで……\n"
+	.string "だれも ちかづいて こないの……\p"
+	.string "はあ…… よかったら この\n"
+	.string "わざマシン もらってください……$"
 
 Route114_Text_ExplainRoar:
-	.string "TM05 contains ROAR.\n"
-	.string "A ROAR sends POKéMON scurrying.$"
+	.string "{JPN}わざマシン05の なかみは ほえる\n"
+	.string "ほえると ポケモンが にげだすのです$"
 
 Route114_Text_Poochyena:
-	.string "Bow! Bowwow!$"
+	.string "{JPN}ばうっ! ばばうっ!$"
 
 Route114_Text_MeteorFallsSign:
-	.string "METEOR FALLS\n"
-	.string "RUSTBORO CITY THROUGH HERE$"
+	.string "{JPN}ここは りゅうせいのたき\n"
+	.string "とおりぬけると カナズミシティ$"
 
 Route114_Text_FossilManiacsHouseSign:
-	.string "FOSSIL MANIAC'S HOUSE\n"
-	.string "“Fossils gratefully accepted!”$"
+	.string "{JPN}「カセキマニアの いえ」\n"
+	.string "「カセキ よろこんで うけとります!」$"
 
 Route114_Text_LanettesHouse:
-	.string "LANETTE'S HOUSE$"
+	.string "{JPN}「マユミの いえ」$"
 

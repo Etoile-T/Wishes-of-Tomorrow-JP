@@ -1,0 +1,1173 @@
+##### data/maps/AbandonedShip_CaptainsOffice/scripts.inc
+## AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner:
+96748234924ce665	わたしは クスノキかんちょうに たのまれて\n
+c3edaf2bbdd67a8c	この ふねを しらべているんだ。\p
+f4e801ad7781726a	たんちきも さがしてくれと\n
+0f43f4c19f77761d	いわれたけど みつからなくて……$
+## AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
+47791f0b525ef299	おっ! それは たんちきだね!\p
+c36383f65a7daa7c	ねえ それを クスノキかんちょうに\n
+5e95b2ee32b4d99a	とどけて もらえないかな?\p
+b5b102bff6024fb2	わたしは もうすこし この ふねを\n
+aec9a6e9c76097fd	しらべたいんだ。$
+## AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
+3beef8a1ab165290	この ふねは カクタスごうと いってね\n
+aa5ed28cdb86e461	ちょいと むかしの ふね らしいんだ$
+##### data/maps/AbandonedShip_Corridors_1F/scripts.inc
+## AbandonedShip_Corridors_1F_Text_CharlieIntro:
+2d1bdf2fdf14fea5	ふねの なかで うきわを もってたら\n
+154922cc837502f3	なにが おかしいの?$
+## AbandonedShip_Corridors_1F_Text_CharlieDefeat:
+96973291e58cb945	うわぁ つよーい!$
+## AbandonedShip_Corridors_1F_Text_CharliePostBattle:
+2e8caf7b0b918940	うきわを もったままだと\n
+e10def5c04e0e112	モンスターボール なげにくいよ!$
+## AbandonedShip_Corridors_1F_Text_IsntItFunHere:
+59c011ec2fa21ebf	ここって おもしろいね!\n
+96f9835af9e37287	いるだけで ワクワク してくるよ!$
+##### data/maps/AbandonedShip_Corridors_B1F/scripts.inc
+## AbandonedShip_Corridors_B1F_Text_DuncanIntro:
+01f72ef1c09b6822	ふなのりは うみに でるとき\n
+7f9f12738aeddca0	かならず ポケモンを つれていく!\l
+6c76f59faece2314	ちょいと しょうぶ してくれ!$
+## AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
+8bdb180c316c472b	こりゃ まいった しずんじまった!$
+## AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
+25b5553746559e33	ふなぞこが みずの そこに\n
+a02e7900c7278b94	しずんで いるんだよ。\p
+d2f7c58dc79e759f	ポケモンが みずに もぐれる わざを\n
+585bd5ac5ef04b8c	つかえたら さきに すすめるかもな……$
+## AbandonedShip_Corridors_B1F_Text_YayItsAShip:
+ff94373dde7dab47	わーい!\n
+354e381657829a21	ふね だぞー!$
+## AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
+f89dff40544086cd	カギが かかっている。\p
+9e68575213f0911a	とびらには 「そうこ」と かかれている。$
+## AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
+afb1ee63b589e729	{PLAYER}は そうこのカギを\n
+1d1f671e9d74fd2b	さしこんで まわした!\p
+814f8c39ccbedfb9	さしこんだ カギは ぬけなくなったが\n
+5bb770a096668564	とびらは ひらいた!$
+## AbandonedShip_Text_TheDoorIsOpen:
+9849ae5011dc18e5	とびらは あいている。$
+##### data/maps/AbandonedShip_HiddenFloorCorridors/scripts.inc
+## AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
+a3efbaf3adf6a29c	カギが かかっている。\p
+b682cf0ebad29557	とびらには 「1ごうしつ」と かかれている。$
+## AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
+4efc4f2efd2e0820	カギが かかっている。\p
+bb9ec8389c198a9b	とびらには 「2ごうしつ」と かかれている。$
+## AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
+badf7c735c94626a	カギが かかっている。\p
+abb69d3a42ce87dc	とびらには 「4ごうしつ」と かかれている。$
+## AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
+aa2ec85de0d7c82a	カギが かかっている。\p
+480606532d2414bf	とびらには 「6ごうしつ」と かかれている。$
+## AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
+c7583352fbb4e9ee	{PLAYER}は カギを\n
+15aaaf771e6f87fa	さしこんで まわした!\p
+0fa0138eac9c4368	さしこんだ カギは ぬけなくなったが\n
+004eb62d58affc39	とびらは ひらいた!$
+##### data/maps/AbandonedShip_HiddenFloorRooms/scripts.inc
+## AbandonedShip_HiddenFloorRooms_Text_BrightShinyTrash:
+d8bc3e638863e908	キラキラ ひかってる!\n
+2086df3f8d1cc064	でも ただの ゴミだ……$
+##### data/maps/AbandonedShip_Rooms2_1F/scripts.inc
+## AbandonedShip_Rooms2_1F_Text_DanIntro:
+d0287534e8c8ed84	ダン: おたから さがしていたら\n
+a5dcc3539b882cc6	トレーナー はっけん!$
+## AbandonedShip_Rooms2_1F_Text_DanDefeat:
+6d5a60cf1332a577	ダン: ふたりで ちからを あわせても\n
+41e6a73477b55144	かてなかったのか……$
+## AbandonedShip_Rooms2_1F_Text_DanPostBattle:
+0619fd1cee5f3ce6	ダン: おたから みつからないんだよね……\n
+c7e5b3a2098444b5	もう だれかが もっていったのかな?$
+## AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
+5a9c71711fb10298	ダン: ポケモン 2ひきも いないんだね。\n
+129718bfa11fe324	それじゃ ぼくたちには かてないよ!$
+## AbandonedShip_Rooms2_1F_Text_KiraIntro:
+888dede2c646ae50	キラ: あら?\n
+08048a9f526d2801	おたからを さがしていたのに\l
+f248c48ac0ef3bc7	トレーナーを みつけちゃった!$
+## AbandonedShip_Rooms2_1F_Text_KiraDefeat:
+bcd1dfb2da073436	キラ: やだ つよいんだ!$
+## AbandonedShip_Rooms2_1F_Text_KiraPostBattle:
+0bf89333a8bcaa8b	キラ: おたからは どこに あるのかしら?\p
+e425e48222321ad8	おたからが みつかったら なにを かうか\n
+0eaed53e5e088ef4	もう きめてるんだから!$
+## AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons:
+b9c46765cd5cb2b1	キラ: あら ポケモン 2ひき いないの?\n
+24ea6cfdddbc96a0	じゃあ しょうぶは おあずけね!$
+## AbandonedShip_Rooms2_1F_Text_KiraRegister:
+b121561d3ed1cc58	キラ: もう くやしいな!\n
+64dddbab248c3b12	あなたなんて とうろく しちゃうんだから!$
+## AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
+545789420e0ecaf9	ダン: ぼくたち ずっと\n
+5bac5309d1dc6d22	おたからを さがしてたんだ。\p
+6571a640a3379590	ポケモンも つよく なったんだよ。\n
+d685ed6b587a8ef9	みせて あげるね!$
+## AbandonedShip_Rooms2_1F_Text_DanRematchDefeat:
+e16cab50b6cd57bf	ダン: あいかわらず つよいな!$
+## AbandonedShip_Rooms2_1F_Text_DanPostRematch:
+e32631aa78ebdb64	ダン: おたからは みつからないし\n
+73459dbf52c298f9	ポケモンしょうぶには まけるし……\p
+8220d68c2be0f2da	もう かえりたいよ…… でも そう いうと\n
+15eacaa19ff2323a	かのじょ おこりだすからな……$
+## AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons:
+b558f986a88fcc61	ダン: ポケモン 2ひきも いないんだね。\n
+10d2f13998c5e63b	それじゃ ぼくたちには かてないよ!$
+## AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
+eadf843b798068c6	キラ: あら? また あったわね!\p
+3e0d1573b0c12dde	わたしたちと おなじで あなたも まだ\n
+c3bf216aa0bea8f5	おたからを あきらめてないのね?\p
+649e6acbbfc3bb22	まけたほうが さがすのを あきらめる\n
+b18f8ada58b2bcac	ってことに しない?$
+## AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
+86991f95e3a6d003	キラ: また まけちゃった……$
+## AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
+b8452dfb4355fa06	キラ: ポケモンを もっと きたえて\n
+e80389dbf383a5ed	ここの おたからを みつけるまで\l
+5c05ae4a3c9ff823	ぜったい かえらないんだから!$
+## AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons:
+3c1fb8fe4b7a410d	キラ: あら ポケモン 2ひき いないの?\n
+6c6e540375e64d00	じゃあ しょうぶは おあずけね!$
+## AbandonedShip_Rooms2_1F_Text_JaniIntro:
+30119380551c1ecc	およぐのは ヘタだけど\n
+f33c6c0fae8e3976	しょうぶは とくい なんだから!$
+## AbandonedShip_Rooms2_1F_Text_JaniDefeat:
+0c53e062fc15f5c3	あらら。\n
+3a75fc9a83e187bf	うまく いかなかったな。$
+## AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
+3634067ee97a1727	この ふねの なかを はだしで あるくと\n
+fae0f429ef405f23	ちょっと きもちわるいなあ。$
+## AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
+4e202de0d465eff8	つよさと やさしさ……\n
+8fb5430cbf220720	それが トレーナーの たから!$
+## AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
+a70c5a27b49dc2bb	おお あなたには\n
+ba863b166d69e2d2	キラリと ひかるものが あるな。$
+## AbandonedShip_Rooms2_1F_Text_GarrisonPostBattle:
+6a14899ecbd2e97f	ふねの どこかの へやで\n
+c1b9097f670747fe	キラリと ひかるものを みたんだ。$
+##### data/maps/AbandonedShip_Rooms2_B1F/scripts.inc
+## AbandonedShip_Rooms2_B1F_Text_PerfectPlaceToGoExploring:
+7d218a2787eff969	たんけんするには もってこいの ばしょ!\n
+c6f7128a21f72b2d	ワクワク するなあ!\p
+41e28c56286b93c0	きっと すごい おたからが\n
+8d37650f4066de6b	ねむってるに ちがいないよ。$
+##### data/maps/AbandonedShip_Rooms_1F/scripts.inc
+## AbandonedShip_Rooms_1F_Text_TakingALookAround:
+ba2e397c2264399e	こういった ふねは めずらしいので\n
+ed75871ad05b3f9a	けんがく しておるのですよ。\p
+131908d345f7b687	フムフム……\n
+e0420089030329dd	ほかにも へやが ありそうですな……$
+## AbandonedShip_Rooms_1F_Text_ThaliaIntro:
+292f02be8b6586c2	あら こんな ところまで くるなんて\n
+c1ee5462c17df239	キミも ものずきね!$
+## AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
+88103944592d4488	ものずきな うえに つよいなんて……$
+## AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
+d775c68efcd0b6da	となりの へやの おとこの ひと……\p
+f182cfe0c3c11774	ただの けんがく だって いうけど\n
+58101c0db6377138	どうだか わからないわ。$
+## AbandonedShip_Rooms_1F_Text_ThaliaRegister:
+b0045e19d0cdfa09	キミって ほんとに つよい トレーナーね!\n
+60007dfc06e2c132	きねんに とうろく させて ちょうだい!$
+## AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
+6326987d17580109	こんな ところまで また くるなんて\n
+18f6b196af97ccef	キミって ほんとに ものずきね!$
+## AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
+e6a178fb43bedd91	ちょっと つよすぎない?$
+## AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
+d3c637e88879589e	あの おとこ ぜったい なにか たくらんでる!\n
+ce4378118fc1df02	だって ほんとに あやしいんだもの!$
+## AbandonedShip_Rooms_1F_Text_DemetriusIntro:
+9bfe305dd577d0aa	わーっ!\n
+e8d8e99fde920054	みつかった! …… って あれ?$
+## AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
+249b94749e9fadc6	なんだ ママじゃ なかったのか。$
+## AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
+efbe05c2cf0f7ee3	ママに おこられそうだから にげてきたんだ。\n
+3d6236b6a22879f7	ここに いること ないしょに してね!$
+##### data/maps/AbandonedShip_Rooms_B1F/scripts.inc
+## AbandonedShip_Rooms_B1F_Text_GettingQueasy:
+5a31b22e7824f849	うぅ……\p
+83fc024538b1914d	なんだか ふねの なかに いるだけで\n
+7b78eff76de781d3	よってきちゃった……\p
+8099d9171884447a	ふねは ちっとも うごいてないのに……$
+##### data/maps/DesertUnderpass/scripts.inc
+## DesertUnderpass_Text_FoundRootFossil::
+a8faef2f782b56c0	{PLAYER}は ねっこのカセキを みつけた!$
+## DesertUnderpass_Text_FoundClawFossil::
+01d9bc53de7b4872	{PLAYER}は ツメのカセキを みつけた!$
+##### data/maps/EverGrandeCity/scripts.inc
+## EverGrandeCity_Text_EnteringVictoryRoad:
+f87645e76969b718	これより チャンピオンロード$
+## EverGrandeCity_Text_EnteringPokemonLeague:
+85ee8f30e585eb0b	これより ポケモンリーグ\n
+0b9d67cc5bb7b3b6	しょうめん ゲート$
+## EverGrandeCity_Text_CitySign:
+cd97d2d4a8ebd2a8	サイユウシティ\p
+6a31cf8bbc15a194	「はなと うみと ポケモンの\n
+c22683e258aa40e3	らくえん」$
+##### data/maps/EverGrandeCity_ChampionsRoom/scripts.inc
+## EverGrandeCity_ChampionsRoom_Text_IntroSpeech:
+8bf6e0d0995fb0b1	ミクリ: ようこそ {PLAYER}{KUN}。\p
+857004c75a37304d	ルネシティでの あの じけん……\n
+7220eee0fc3d248a	きみ ひとりの ちからで ききを\l
+b41c9e2671ff2709	おさめるとは みごとな はたらきだった。\p
+3a8096b5cb9ebe96	おっと!\p
+942e029d0098a32b	きみ ひとりで おさめた というのは\n
+6999ee870ad9c80d	ただしくないな。\p
+3a4cb7c5dc4738ae	きみは ポケモンと ひとつに なって\n
+970d894c836d2247	あの こんなんを のりこえたのだ。\p
+baee6c5a1b68665f	われわれ トレーナーは ポケモンに\n
+7457fe8f7c6708be	どうぐを あたえ たたかいの わざを\l
+f46189578bb5e2fa	おしえて ポケモンを そだてる。\p
+fd8f91f2f52f49db	だが われわれ じしんも ポケモンから\n
+1f85d02f6130be82	おおくの ことを まなんでいる。\p
+d0e5d7276d090830	そして ここは きみの なしとげたことが\n
+fb79e63d55e81aac	きみと おなじような ものたちの\l
+b3cee1e94aa673d9	せいかと くらべられる ばしょだ。\p
+248e153d70ac96da	さあ!\p
+701017ca433b3c33	ホウエンで もっとも ゆうがに\n
+0cb19ebdd368268b	ポケモンと おどれるのは だれか?\p
+bb78f8e0511087d8	いま ここで みせてくれ!$
+## EverGrandeCity_ChampionsRoom_Text_Defeat:
+517f4d8a38a115ec	チャンピオンの わたしが やぶれるとは……\p
+d9032e2d9e36f87c	すばらしい たたかいだった。\n
+d2286ffabc61aa9c	くやしいほどに ゆうがだった。\l
+4474c6d988bda8cb	それでいて じつに かがやいていた!\p
+7ed2c14f8aca379d	みごとだ {PLAYER}{KUN}!\p
+45f81205da1754ec	きみこそ まことに けだかい\n
+2dafeeb81c133d65	ポケモントレーナーだ!$
+## EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
+bb8056a53ec94d56	ミクリ: きみが くりだした\n
+c37e6170beb55b59	ポケモンたち……\p
+72c745977380110d	あるときは はるかぜの ように まい\n
+5b2d47b2fe6582e1	あるときは いなずまの ように\l
+57a7824fa22c4aba	うちすえた。\p
+f1165c34a162b7d9	かろやかで いて たしかな あしどりの\n
+365414cbe985958b	ゆうがさで きみは ポケモンを みちびいた。\p
+dc572a44e05c8b43	わたしでさえ きみの みごとな\n
+43c6f538bce3ef8a	たたかいぶりに みせられたよ!\p
+26b7a6f012113c64	きみは いま ポケモンリーグの\n
+e54e97980cb0ae4c	かがやかしい ちょうてんに たっている。\p
+1f3cc1f0e0b8a188	いま ここに きみを\n
+2445537df2543187	あたらしい ホウエンの……$
+## EverGrandeCity_ChampionsRoom_Text_MayAdvice:
+f4d5dd3e27631116	ハルカ: {PLAYER}{KUN}!\p
+4b3c9c7855d2d66b	チャンピオンに ちょうせん するまえに\n
+5ab0777e57506449	アドバイス……!$
+## EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
+db7f86677e1bbb81	ハルカ: えっ?\n
+54d5530184fe7341	なに なに なに?\p
+a5c7ae6909e95b31	{PLAYER}{KUN}……\n
+e215df5c9294695a	もしかして……\l
+33c2d49132eb6341	もう おわっちゃったの?$
+## EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
+fe186fd800c5222d	ユウキ: {PLAYER}!\p
+9a27b9afd4521bbe	チャンピオンに ちょうせん するまえに\n
+2ad22fe1fdc04fe3	オレが アドバイス してやろうか……$
+## EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
+edfec356ad1379b0	ユウキ: {PLAYER}……\p
+b3315caa83d4cadf	おまえ ひょっとして……\n
+e475c0d7cb8583e2	チャンピオンに かったのか?$
+## EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
+3673e9e04e27e14f	オダマキはかせ: ほらね!\n
+478ec1e543f0ec3c	いった とおりだろう {RIVAL}?\p
+5e1c13a1a94ab2e3	いった じゃないか。\n
+6b1e71bc19555be2	{PLAYER}{KUN}なら しんぱい いらないって。\p
+d60ebf4b8e4483d6	… … … … … … … …\n
+b4610262047f1b15	{PLAYER}{KUN} ついに やったね。\p
+81a0018357ee4756	きみが トウカジムで おとうさんに\n
+93d62c801c8e26d6	かったと きいたとき\l
+24348280f0fb4867	もしかしたら とは おもったが……\p
+ea7ea4daa551988c	まさか ほんとうに チャンピオンに\n
+4bdccf74e89028ab	なって しまうとは!\p
+4e8d03ec8c06f0a7	そうそう!\p
+e13f2984702d46df	ポケモンずかんは どうなったかな?\n
+9ca98033912d3cf2	どれ みせて ごらん。$
+## EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
+a846e36781d1a781	オダマキはかせ: とにかく\n
+4d138e19469b6762	おめでとう!\p
+123c2dc72704aa43	さあ むねを はって さいごの へやへ!$
+## EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
+b9a8008f2d0e4b78	ミクリ: {PLAYER}{KUN}……\p
+815cf249764109bf	……いや あらためて よびなおそう。\p
+a18e835f40b63b31	あたらしい チャンピオン!\p
+b18eee5343e8e7c8	さあ わたしに ついて きたまえ。$
+## EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
+bd1bdace881cd5e8	ミクリ: すまないが……\p
+6c1e6ad804aa6926	ここから さきは チャンピオンと なった\n
+dda12b3e9eb3586a	トレーナーしか はいれないのだ。\p
+55f05ccd00cecef3	きみは オダマキはかせと いっしょに\n
+8142bbb198c082bf	そとで まっていて くれたまえ。$
+## EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
+152e82925208df2d	ハルカ: ……がーん!\p
+85b3104b426999bf	… … … … … … … …\n
+7d0e6bac03537ce4	… … … … … … … …\p
+e4b71674bd0edbd9	なーんてね いいの いいの!\n
+364a9c3782da052d	だって そういう きまり だもんね!\p
+6afca88dc6370be2	{PLAYER}{KUN}!\n
+71ed405075ef4f54	ほんとうに おめでとう!$
+## EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:
+7db50082ae8b254f	ユウキ: なんだってー!? … … … … …\n
+40ca9d35136a797e	… … … … … … … …\p
+9c653731a47fb179	きまり なら しかたないな。\p
+6a92aee6178fdf29	{PLAYER} やったな!\n
+9e2800a1623ba9b3	おめでとう!$
+##### data/maps/EverGrandeCity_DrakesRoom/scripts.inc
+## EverGrandeCity_DrakesRoom_Text_IntroSpeech:
+04fabab220c6c4f3	わしは ポケモンリーグ してんのうの\n
+9284da2a45b23e4d	さいごの ひとり ドラゴンつかいの ゲンジ!\p
+23114f56123533aa	ポケモンとは ほんらい\n
+ba2bc7b25f4d2d8a	やせいの いきもの。じゆうな そんざいだ。\p
+bb861c21462dce9a	ときに われらを さまたげ\n
+cab5619768b5fc1b	ときに われらを たすける。\p
+a139be09b9b43192	ポケモンを パートナーとして たたかうのに\n
+5934b82fa0072654	なにが ひつようか わかるか?\p
+90169e7ea8ed5f8d	なにが もとめられるか わかるか?\p
+d17931e131e008b9	わからぬのなら おまえは けっして\n
+ad815200712f3988	わしには かてぬ!$
+## EverGrandeCity_DrakesRoom_Text_Defeat:
+1627abab4427f5da	みごと! というべきだな!$
+## EverGrandeCity_DrakesRoom_Text_PostBattleSpeech:
+779517df8ebcc2a0	ポケモントレーナーとして ここまで\n
+970d4b262a202b41	きたことは おおいに たたえられるべきだ。\p
+60a5320696fdda55	おまえは なにが ひつようか わかっている。\p
+9d5a0ef8ca88f325	そう トレーナーに ひつようなのは\n
+175b9bba0026bba4	ただしき こころだ。\p
+8af5a7816140e1c8	ポケモンは トレーナーの よき こころに\n
+96fc35486d9c7f23	ふれて ぜんあくを まなぶ。\p
+dc78d1fe06200b4f	トレーナーの よき こころに ふれて\n
+25f127b12d77b229	つよく なっていくのだ。\p
+cc5738a2d027b191	ゆけ! さきへ すすめ!\n
+c04d3396f3af6a66	チャンピオンが まっているぞ!$
+##### data/maps/EverGrandeCity_GlaciasRoom/scripts.inc
+## EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
+870c145531493ba7	ようこそ わたくしは\n
+ffb7d5862a957521	してんのうの プリムと いいます。\p
+1cf96b4371be6279	こおりの わざを みがくために\n
+0267a45b54bb207d	はるばる ホウエンまで やって きました。\p
+a6d738461cc6ca9e	ですが ここで みたのは\n
+b7aa631fee2250bd	やわな トレーナーと ポケモンばかり……\p
+3751beb0768d37b3	あなたは どう?\p
+a2b45e612db4c0b2	ほんきを だして たたかえたら\n
+ac2b400192b69ee7	これほど うれしいことは ありません!$
+## EverGrandeCity_GlaciasRoom_Text_Defeat:
+cfed4b332ded882f	あなたと ポケモンの……\n
+e7c58bedeb8ab7cf	なんと あつく もえる たましい!\p
+38eb3789c353ce41	すべてを のみこむ あつさに あっとうされます。\p
+58033ee6f32eb6f2	わたくしの こおりの わざが\n
+09ad57f397dcbb8a	とおらなかったのも とうぜんですね。$
+## EverGrandeCity_GlaciasRoom_Text_PostBattleSpeech:
+85ac35fc0b94ba18	つぎの へやに すすみなさい。\p
+965c9c3893daef8c	そこで ポケモンリーグの\n
+910775be6a8b7a29	ほんとうの おそろしさを たしかめなさい。$
+##### data/maps/EverGrandeCity_HallOfFame/scripts.inc
+## EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
+1afbfdd7b9bbb0e6	ミクリ: この へやは……\p
+6316d43b943cf09a	きびしい たたかいを かちぬいた\n
+cd9b06a9bdf8e9e2	ポケモンたちを\l
+7fcc52ed31653d70	きろくする ばしょ。\p
+1d31c5d67dfd8dfa	リーグチャンピオンたちが\n
+be4dbe9707c4fab7	たたえられる ばしょだ。$
+## EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames:
+ef2be31387265689	ミクリ: さあ ポケモンリーグを\n
+58e694627bb6e861	せいした トレーナーとして きみの\l
+100f799adadd19cc	なまえと ともに たたかった\l
+67106ccd8df13b77	パートナーたちの なまえを きろくしよう。$
+##### data/maps/EverGrandeCity_PhoebesRoom/scripts.inc
+## EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
+5dc6ce500a25a7c4	アハハハ!\p
+97119e259a4786b6	あたし してんのうの フヨウ!\n
+2c7db1cc29065b72	おくりびやまで しゅぎょう してたの。\p
+adc4fd6a232cea54	しゅぎょうの なかで ゴーストタイプの\n
+7ecbb653810447bb	ポケモンと こころを かわせるように なったの。\p
+428a32f96a475afa	そう あたしと ポケモンの きずなは\n
+abbee7b72c5c5173	とっても かたいんだから。\p
+93520b1a7767556c	だから ほら あたしの ポケモンに\n
+a6d827a59d728929	ダメージを あたえられるか ためしてみて!$
+## EverGrandeCity_PhoebesRoom_Text_Defeat:
+af8b7df2be97a20b	あーあ\n
+27a6595c8ea12a5f	まけちゃった。$
+## EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
+8acf59d14cb97302	あなたと ポケモンの あいだにも\n
+8ff8600ac9e3be7c	たしかな きずなが あるのね。\p
+3d4d02ebeedd315e	それに きづけなかったんだもん\n
+6c219f41852ee060	まけて とうぜんだよね。\p
+02c37df043d3e6f6	うん あなたたちの きずなが どこまで\n
+663cc2b1448e7283	とどくのか みてみたいな。\p
+0606896d6e7028e2	さあ つぎの へやに すすんで!$
+##### data/maps/EverGrandeCity_PokemonCenter_1F/scripts.inc
+## EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
+eb0da2363e5a01e0	ポケモンリーグは\n
+1c38fb02f7da0729	チャンピオンロードを ぬけると すぐ!\p
+b7f4e01f0e6dbd94	ここまで きたら\n
+7802f96522864756	まえに すすむしか ないでしょ?$
+## EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
+58f052a1ee09849d	ながく けわしい チャンピオンロード……\p
+4591cb489caa9fa1	まるで じんせいの みちのりを\n
+67442797a5732f85	もういちど あゆむ ようだ……\p
+20413fa725b1da2f	ポケモンを しんじて\n
+d02fc45cbed80de0	ぜんりょくを つくしなさい!$
+## EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
+0e838f597dfebb00	エニシダ: {PLAYER}{KUN} ついに\n
+7e07026b66003df1	ポケモンリーグまで のぼりつめたね!\p
+4180b8cf0f90888e	ボクも うれしいよ!\n
+ca2e0273a4d1629b	おうえん した かいが あったよ!\p
+2534e3bd29863c6d	{PLAYER}{KUN}が もし ポケモンリーグの\n
+31cbd6976eee5cba	チャンピオンに なったら……\p
+5958e47bbb4c3700	そのときは また れんらく するよ。\p
+ac6433e714828118	じゃあ {PLAYER}{KUN}。\n
+a531b7a400219de9	ちょうてんを めざして がんばって!$
+##### data/maps/EverGrandeCity_PokemonLeague_1F/scripts.inc
+## EverGrandeCity_PokemonLeague_1F_Text_MustHaveAllGymBadges:
+337974263bf8c1ec	これより さきは\n
+14c3e9270785abdc	すべての ジムバッジを あつめた\l
+f1b0b63b3849efa0	トレーナーだけが すすめます!\p
+3080c4465662c204	トレーナーよ! きみの ジムバッジを\n
+4826a4caaeea3b04	かくにん させてください。$
+## EverGrandeCity_PokemonLeague_1F_Text_HaventObtainedAllBadges:
+a7e73526b21b5051	バッジが すべて そろっていませんね。\p
+df6f2555a9affd8f	ポケモンリーグを めざすなら\n
+33a845f389bd59a9	バッジを そろえて きてください。$
+## EverGrandeCity_PokemonLeague_1F_Text_GoForth:
+e73dfe829597ff1e	トレーナーよ! おのれと\n
+3da4d066cda2a278	ポケモンを しんじて すすみたまえ!$
+##### data/maps/EverGrandeCity_SidneysRoom/scripts.inc
+## EverGrandeCity_SidneysRoom_Text_IntroSpeech:
+bd43aae831030167	ようこそ チャレンジャー!\n
+3f720ec3303d8df2	おれは してんのうの カゲツ。\p
+4ef8952a254ed6f3	うーん いい かお してるな。\n
+e9b660be66aba59a	なかなか たのしませて くれそうだぞ!\l
+e0ec46ecb1c36c8b	いいぞ! いい かんじだぞ!\p
+45b824455777304a	よーし! おれと おまえ とで\n
+4172740c32d51b90	ポケモンリーグでしか できない\l
+ef5303f02d189de7	たたかいを たのしむと しようぜ!$
+## EverGrandeCity_SidneysRoom_Text_Defeat:
+e8b012a17c48bf2a	おやおや まけちまったよ!\n
+2fb0e914c96c50c3	まっ たのしんだから いいんだけどよ。$
+## EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
+b46fe9238a8b4549	まあ まけた おれの いうことを\n
+b2126381477bf1dc	きいてくれ。\p
+bbeb37e1fd27aa95	おまえは もっと さきへ いける うつわだ。\n
+0402c58ed5d46377	さあ つぎの へやへ いって\l
+379d814a3143436c	つぎの しょうぶを たのしみな!$
+##### data/maps/FarawayIsland_Interior/scripts.inc
+## FarawayIsland_Interior_Text_TheFeelingOfBeingWatchedFaded:
+519670e52ad7f857	みられている けはいが きえてしまった……$
+##### data/maps/InsideOfTruck/scripts.inc
+## InsideOfTruck_Text_BoxPrintedWithMonLogo:
+691640ce6d8fc0f8	はこに ポケモンの ロゴが かいてある。\p
+4d5488b993edb70e	ポケモン ブランドの ひっこし\n
+682c490d4eb161c4	たくはい サービスだ。$
+##### data/maps/MirageTower_4F/scripts.inc
+## MirageTower_4F_Text_TakeRootFossil:
+edf4c724be5c18e5	ねっこのカセキを みつけた!\p
+fb91bc77a30b405e	この カセキを とると\n
+1808df32f0a3685a	あしもとが くずれて しまいそうだ……\p
+3fcabd10b337787a	それでも ねっこのカセキを とりますか?$
+## MirageTower_4F_Text_LeftRootFossilAlone:
+5006aaf48ee61bdf	{PLAYER}は ねっこのカセキを そのままにした。$
+## MirageTower_4F_Text_TakeClawFossil:
+50682ed8c254b99d	ツメのカセキを みつけた!\p
+de7aa4e3b52c0f67	この カセキを とると\n
+78ba7e969079e2b9	あしもとが くずれて しまいそうだ……\p
+3eba74d6f69cc423	それでも ツメのカセキを とりますか?$
+## MirageTower_4F_Text_LeaveClawFossilAlone:
+4fdff9e47f976d5f	{PLAYER}は ツメのカセキを そのままにした。$
+##### data/maps/NewMauville_Entrance/scripts.inc
+## NewMauville_Entrance_Text_DoorIsLocked:
+1fa749318f13ebab	とびらは しまっている。$
+## NewMauville_Entrance_Text_UseBasementKey:
+e719e1db45daebbc	ちかのカギを つかいますか?$
+## NewMauville_Entrance_Text_UsedBasementKey:
+a40ccb15a51926ae	{PLAYER}は ちかのカギを つかった!\p
+c6ec5c1a3e3607c7	とびらが ひらいた!$
+##### data/maps/NewMauville_Inside/scripts.inc
+## NewMauville_Inside_Text_GeneratorRadiatingHeat:
+7fcf28a93a41c8db	はつでんそうちから はなれていても\n
+561f5915319f6d49	かんじるほどの ねつが でている。\p
+415bf7e760bf31a2	いそいで とめたほうが\n
+1ca52025a941fe87	よさそうだ。$
+## NewMauville_Inside_Text_GeneratorQuietedDown:
+28a917e0d772057e	はつでんそうちは しずかに なった。$
+## NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped:
+2b776bd9bcc99546	{PLAYER}は スイッチを ふんだ。\p
+1c2540998902a7df	カチッ……\p
+1da2643c0a404b1e	… … … … … … … …\n
+033123a35b3b7a88	… … … … … … … …\p
+5c66830c199e5bee	はつでんそうちは とまった\n
+803368da2fa3b8bd	ようだ……$
+##### data/maps/PacifidlogTown/scripts.inc
+## PacifidlogTown_Text_FastRunningCurrent:
+5bb84a1064fb45be	キナギと カイナの あいだの うみは\n
+f6e3fdef3fc898fe	しおの ながれが とても はやいの。\p
+756c398e2d9e7a6c	なみのり したら おもわぬ ところへ\n
+19fbd703a1a070e6	ながされちゃう かもしれないわ。$
+## PacifidlogTown_Text_NeatHousesOnWater:
+eb8408b23b5b65bd	ね! すごいでしょ!\n
+ec7feee5bcd197b4	みずの うえに おうちが たってるの!\p
+376e87481d50206d	ここで うまれたんだよ!$
+## PacifidlogTown_Text_SkyPillarTooScary:
+b509c77361ce9756	そらのはしら?\p
+0fe0e49ee67a3c5a	……ああ すこし おきにある\n
+e89aed6b2c874308	あの たかーい とうの ことね。\p
+ebb742288b4e7a72	わたしなら のぼらないわ。\n
+435250724d56c586	あんなに たかいと こわすぎるもの。\p
+55401370891380a7	キナギで うみと おなじ たかさで\n
+5b29499810042c40	くらすのが わたしには ちょうど いいの。$
+## PacifidlogTown_Text_TownSign:
+f9ae726f5c3aaf73	キナギタウン\p
+65ec919e2bf37ec5	「あさひが うみに\n
+3e20afb0042d6cec	ほほえむ まち」$
+##### data/maps/PacifidlogTown_House1/scripts.inc
+## PacifidlogTown_House1_Text_RegiStory:
+e2596d206241a72e	ホウエンちほうには いわと こおりと\n
+183348b820565237	はがねの ちからを あらわす\l
+37283f04dd4fc3b9	3びきの ポケモンが いるの。\p
+49d8784cae7ba813	どれも どうくつの おくふかくに\n
+09d12557236a0124	かくれている らしいわ。\p
+b09aab98f49e0e97	ちいさい ころに\n
+85d5d6cfc0f500b2	そんな はなしを きいたのよ。$
+## PacifidlogTown_House1_Text_SixDotsOpenThreeDoors:
+dcf14373b58a20fb	「6つの てんが 3つの とびらを ひらく」\p
+a26d3e1df84a70e0	おじいちゃんが よく いってたけど\n
+d5f20191bf6400ad	どういう いみか わからないんだ。$
+##### data/maps/PacifidlogTown_House2/scripts.inc
+## PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation:
+22e87f6fdb79b3f9	オッホン!\p
+369658caa2c4fd60	わたしは ポケモンだいすきクラブで\n
+5417df1b95a3858d	いちばん えらい かいちょうの\l
+3310446fa3ca3a48	おとうと なのだ。\p
+c779960c03da5105	ここで ポケモンと きゅうかを\n
+39a5e7f4bcf28e1a	たのしんで おるのですよ うむ うむ。$
+## PacifidlogTown_House2_Text_AhYourPokemon:
+aeb5912a86cea822	ほう!\n
+99d7fdbc0f9d7c3c	きみの ポケモン……$
+## PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
+c82129b0538a0635	とっても なついて いますなあ。\p
+96214c9ebc8418b4	そんな かわいらしい ポケモンには\n
+60243c3a93d9bf55	この わざマシン どうですかな?$
+## PacifidlogTown_House2_Text_PutInSomeMoreEffort:
+6abb3897d6f89fb0	ふむう……\n
+d1b08d169f39bfa4	わるくは ないんだが よくもない……\p
+24407182d90ab93b	トレーナーである きみの\n
+ed4999f0ea2fdbbd	どりょくが もっと ひつよう ですな。$
+## PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
+42979976e4744ac7	なんだか めつきが わるいですのう。\p
+d88872403dbb5b5d	そんな こわそうな ポケモンには\n
+76644e13a3c36473	この わざマシンが おにあいですな。$
+## PacifidlogTown_House2_Text_ExplainReturnFrustration:
+a73fcb1232a063a1	ポケモンが よく なついていると\n
+dc2f9a43379c6ae3	おんがえしの いりょくが あがる。\p
+4d63e90bde3f31be	なついていないと\n
+069731ac990ebb57	やつあたりの いりょくが あがるんだよ。$
+## PacifidlogTown_House2_Text_GetGoodTMInXDays:
+bcf850ca54740958	そうそう あと {STR_VAR_1}にち ほどで\n
+8ff2b2702fa81c1b	いい わざマシンが てに はいるんだよ。\p
+3521fa5109bec3f7	そのとき また きたまえ。\n
+4ee480345443654c	きみの ポケモンに あった\l
+a506bdd595df1948	わざマシンを あげるから。$
+## PacifidlogTown_House2_Text_Rurii:
+41c5ce772e6be401	ルリリ: るりー。$
+## PacifidlogTown_House2_Text_VeryFriendlyWithTrainer:
+920e1f8844bef2b5	トレーナーに とても なついている\n
+7756da028a028315	ようだ。$
+## PacifidlogTown_House2_Text_Rururi:
+c2f8c1e1c70ba720	ルリリ: ルルリッ!$
+## PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch:
+80bf6211eac51da8	トレーナーに あまり なついていない\n
+de7ab220db9b1812	ようだ。$
+##### data/maps/PacifidlogTown_House3/scripts.inc
+## PacifidlogTown_House3_Text_WillingToTradeIt:
+cc5ec02e2a802843	この {STR_VAR_2}を みてよ!\p
+e89fa6e840ec203b	きのう つかまえた {STR_VAR_2}なんだ!\n
+809d6e8bb3f65b2a	たんじょうびの きねんに ね!\p
+329d404a3e5e277b	おっ ほしそうな かおしてるね!\n
+ed706537c730104a	なにしろ かけがえのない ポケモンだもん!\p
+3810e55506aeae68	そうだなあ…… もしかしたら\n
+38bd31b688f61caf	{STR_VAR_1}と こうかん してもいいかも。$
+## PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
+d13d5b9b25b6bb7b	へえ これが {STR_VAR_1}?\p
+d7ba1e79b58e69ed	{STR_VAR_2}に にてるけど\n
+6ec6c1170c116e1d	びみょうに ちがうんだね。\p
+8b5613177659c9c4	ありがとう!$
+## PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon:
+d8951bd4d3edb83f	ちがう ちがう! ほんものの\n
+3a91e6e24465a575	{STR_VAR_1}じゃないと だめだよ!$
+## PacifidlogTown_House3_Text_NotDesperateOrAnything:
+2bf19ca087817285	あれ? こうかん\n
+3a3c62507e747012	しないの?\p
+c852dc4f3de13097	べつに いいよ。どうしても こうかん\n
+f3ee2a522d2c84fb	したい わけじゃ ないし。$
+## PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
+52e66433be717661	じぶんで さがしに いけば\n
+378e94fa22a7375d	いいんだけど……\p
+807a15230d3bb5f7	ほかの トレーナーが つかまえた\n
+9571e9a9d640f5dd	タツベイが ほしかったんだよね……$
+## PacifidlogTown_House3_Text_IsThatAPokedex:
+d3bd9ae42cb20498	それって ポケモンずかん?\p
+6becdfc0d87ffa25	それって あなた たくさんの\n
+075541e1541c2929	ポケモンと であった ってこと?\p
+4285905487f26d0f	それって すっごい うらやましい!$
+##### data/maps/PacifidlogTown_House4/scripts.inc
+## PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
+c77065b2420787f1	ホウエンの そらたかくを とんでいく\n
+28173d2de899c221	ポケモンを みたって ひとが いるの。\p
+dc0261187b9136cc	ずっと とびまわって いるのかしら?\n
+a37ed80bc586b706	どこかで やすまなくて いいのかしら?$
+## PacifidlogTown_House4_Text_SkyPokemon:
+39bb637211c2a254	おそらの ポケモン!\n
+42861b681c060232	おそらの ポケモン!$
+## PacifidlogTown_House4_Text_WhereDidYouComeFrom:
+6a1e0be701f993e7	きみ どこから きたの?$
+## PacifidlogTown_House4_Text_YesTown:
+b24fc647ee9d8e5e	はい……?\n
+2968e0b0afc4e6b1	ハイ…… タウン……?\p
+1a35bb2489557dcd	しらないなぁ そんな まち。$
+## PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere:
+fed16f44e52608d2	いいえ って そんな……\n
+b4410ed55091b248	どこからも きてない はずが ないでしょ。\p
+c22c365c13c1660c	ま まさか きみ……\n
+852ce72ac761e377	うみの そこで うまれた とか……?$
+##### data/maps/PacifidlogTown_House5/scripts.inc
+## PacifidlogTown_House5_Text_CantSeeMirageIslandToday:
+2769ee208fd5e093	きょうは まぼろしじま みえんのう……$
+## PacifidlogTown_House5_Text_CanSeeMirageIslandToday:
+5c2e96715b4090ac	なっ なんと!\n
+063068902b7613f3	きょうは まぼろしじまが みえるのじゃ!$
+## PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather:
+604655d1c0f8b1a6	まぼろしじま……\p
+f42a0679b0ef8c4a	しんきろうが でる てんきに よって\n
+2e360f1146b3caa8	みえたり みえなかったり\l
+79e9170477b1b6c1	するのじゃろう。\p
+da8547c92fdf5782	それとも ほんとうに あらわれたり\n
+88e94398830cebe1	きえたり しておるのかのう?$
+##### data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc
+## PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
+8b6fce17ca0aa25c	きみの トレーナーカードは なにいろ?\n
+005f062e9f1ce44e	あたしのは カッパー なんだよ!$
+## PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
+e3625f755f18b9e4	キナギタウンって サニーゴたちの\n
+c0a5541cc3b5062e	むれの うえに うかんでいるの。\p
+b35171cedf909083	……なんて いったら\n
+07f39097437b7aac	あなたは しんじるかしら?$
+## PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
+de340fdb7126e951	キナギの ひとびとの せんぞは\n
+15d6b95926628b82	ふねの うえで うまれ\l
+ea39ede4481f79ea	ふねの うえで くらし しんでいった\l
+553bf1888680c5ba	と いわれているの。\p
+022dd774598940fe	そんな くらしを していたのは\n
+2c54e9732c87aa4e	なにかを さがしていたからだと\l
+aaa9c9fc35cc894d	きいているわ。$
+##### data/maps/SSTidalCorridor/scripts.inc
+## SSTidalCorridor_Text_ScottBattleFrontierInvite:
+0f1f7f6013bd07de	エニシダ: やあ やあ!\n
+a03dca874d97b2b9	{PLAYER}{KUN} {PLAYER}{KUN}!\p
+2bf1bb13f29eda43	ようじが できて ボクは ふねを\n
+c2de7359ca22da96	おりるんだけど あえて うれしいよ!\p
+14decb9e58558152	リーグチャンピオン おめでとう!\p
+6e96a75c9bef41bb	きみの ような ひとを ぜひ\n
+bf2f0665ee2ff9d4	まねきたい ばしょが あるんだ。\p
+a1f87b20dbe39e7b	それは……\n
+4c674d91d835ef71	バトルフロンティア!\p
+5f0ef592ddb53ea7	どんな ところかって?\n
+66f1dc32af9f726d	みれば わかるさ!\p
+54aca18c1f5cde93	この ふねの せんちょうには\n
+7e6feef40dc2bf3b	もう はなしを つけてある。\p
+cf1062553463df33	こんど れんらくせんに のれば\n
+4a06f827222d0ee2	バトルフロンティアへ\l
+c7f9e539143f5d5b	いける はずだよ。\p
+a5af19292901cd3c	じゃあ {PLAYER}{KUN}\n
+71daa24b683f5815	バトルフロンティアで まってるよ!$
+## SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
+67e2edfd859dac86	この れんらくせんは はやい しおの\n
+9075e36fec27521f	ながれも のりきれるように できています。\p
+e492bc7870288b46	ふなたびを おたのしみ ください。\n
+d1925a72c4c7d7c1	ふねの なかを じゆうに みてまわってね。$
+## SSTidal_Text_HopeYouEnjoyVoyage:
+1bb205b4d817bb49	それでは れんらくせんに よる\n
+5188493e2e593c41	ふなたびを おたのしみ ください。$
+## SSTidal_Text_MadeLandInSlateport:
+33dee89328842144	ただいま カイナシティに とうちゃく しました。\n
+4178d68373d70273	ごじょうせん ありがとう ございました。$
+## SSTidal_Text_MadeLandInLilycove:
+e55ef05ae90b29c2	ただいま ミナモシティに とうちゃく しました。\n
+ac5a30a0c94449e7	ごじょうせん ありがとう ございました。$
+## SSTidalCorridor_Text_CanRestInCabin2:
+3dc7ce4c48088086	とうちゃく するまで しばらく\n
+386dea1382ddeed2	かかると おもうぞ。\p
+a4f91dbce458e465	よければ きゃくしつで やすんでくれ。\n
+630f215948cbdd2e	きみの へやは 2ごうしつだ。\p
+5f94ab46047baad6	へやの ベッドは ふかふかで\n
+0830155d23c55335	ねごこちは わしが ほしょう するぞ!$
+## SSTidalCorridor_Text_WeveArrived:
+4cb707eb76eaff1d	とうちゃく したぞ!$
+## SSTidalCorridor_Text_VisitOtherCabins:
+55619c6b934b85c5	ほかの きゃくしつも たずねてごらん。\n
+131644a1ce36b4af	ふなたびに あきた トレーナーが\l
+38864ea6f1951aef	しょうぶ したくて うずうず してるぞ!$
+## SSTidalCorridor_Text_EnjoyYourCruise:
+ef126a193dde78ba	まっ ふなたびを たのしんでくれよ!$
+## SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
+e8da9dfa213d5702	まどの むこうに\n
+8e930c7804e4c2eb	すいへいせんが ひろがっている。$
+## SSTidalCorridor_Text_BrineyWelcomeAboard:
+e8dc84896b0af782	ハギ: ようこそ {PLAYER}{KUN}!\p
+39da2f3aa439868c	わしは タイドリップごうの\n
+46cce304687cde3a	めいよ せんちょうに なったんじゃ!\p
+55e4c10fe62a39b6	これからは ハギせんちょうと よんでくれ!\p
+8cbba7e95e8d0213	いちど いんたい した みじゃが\n
+1688fbe5aea1ebf6	この りっぱな ふねを みたら……\p
+6879230064ecea6f	ねむっていた ふなのりの たましいに\n
+86fc3ab5c3ea09ad	ひが ついて しまったんじゃよ!$
+## SSTidalCorridor_Text_Peeko:
+24ecb5b07faead1d	ピーコちゃん: ピひょ ピひょひょ……$
+## SSTidalCorridor_Text_Cabin1:
+246597914fe380d5	1ごうしつ$
+## SSTidalCorridor_Text_Cabin2:
+9703e40d94ae4983	2ごうしつ$
+## SSTidalCorridor_Text_Cabin3:
+d4c8418d965ddf8f	3ごうしつ$
+## SSTidalCorridor_Text_Cabin4:
+9b0111b335780492	4ごうしつ$
+##### data/maps/SSTidalLowerDeck/scripts.inc
+## SSTidalLowerDeck_Text_PhillipIntro:
+dda1a62b633a0a23	ああーっ! こんな ひろい ところの\n
+a10acc54277ac910	そうじは もう うんざりだ くたくただ!\p
+1c92c78de1cc5d1d	ちょいと しょうぶ しようぜ!$
+## SSTidalLowerDeck_Text_PhillipDefeat:
+a90614561e73fca2	おとうと まけちまったよ!$
+## SSTidalLowerDeck_Text_PhillipPostBattle:
+9d1044a1808124be	おれたち おそうじ ブラザーズ!\p
+c45ee8fe8c85c519	あにきが せんざい ぶちまけてー\n
+fd9abd47d28a458c	おとうと せっせと みがくのさー!$
+## SSTidalLowerDeck_Text_LeonardIntro:
+23280e9994830c3d	ここは ふねの いちばん そこ。\n
+d7a7a890ca8bab86	ひろさは じゅうぶん あるから\l
+0b08d48830033e62	ポケモンしょうぶ しても だいじょうぶだろ?$
+## SSTidalLowerDeck_Text_LeonardDefeat:
+9484d9dc7b530292	あにき まけちまったよ!$
+## SSTidalLowerDeck_Text_LeonardPostBattle:
+9906d2b25a9f9301	おれたち おそうじ ブラザーズ!\p
+ff7df31f8eb4d4da	あにきが せんざい ぶちまけてー\n
+a2f3d094c64a9dff	おとうと せっせと みがくのさー!$
+##### data/maps/SSTidalRooms/scripts.inc
+## SSTidalRooms_Text_TakeRestOnBed:
+fac00051ea20507d	ベッドが ある……\n
+342e1df68c02aaf8	やすんでいこう。$
+## SSTidalRooms_Text_ColtonIntro:
+646bf4222855a3ed	ミナモシティには よく いくんだ。\p
+51868d479bb26c20	コンテストの けんがくが\n
+474bfb694a92c78b	わたしの たのしみ なんだよ。$
+## SSTidalRooms_Text_ColtonDefeat:
+11a73c870eed9138	たのしい しょうぶ だったよ!$
+## SSTidalRooms_Text_ColtonPostBattle:
+a51b90fb2e02fbca	つぎの コンテストには\n
+05b3be9d2208019a	どんな ポケモンが でるのか\l
+45f2b55b6d0d5ed9	そうぞう するだけで ワクワク するよ!$
+## SSTidalRooms_Text_MicahIntro:
+8427f26b3d8fb8e4	きみの ともだちは つよいのかね?$
+## SSTidalRooms_Text_MicahDefeat:
+691525b57e101c58	たしかに つよい ともだち だね。$
+## SSTidalRooms_Text_MicahPostBattle:
+0adfbbf184509936	ともだちは にんげんで なくても いい。\n
+bb959f5946fceeb0	わたしには ポケモンが だいじな ともだちだ!$
+## SSTidalRooms_Text_ThomasIntro:
+0bc1e640ffeb1848	きみ……\n
+57325f5b18489f44	ノックは したかね?$
+## SSTidalRooms_Text_ThomasDefeat:
+4ad46ccf8524b78c	まけても\n
+d8a684a15980a80b	あわてず さわがず。$
+## SSTidalRooms_Text_ThomasPostBattle:
+aaa2c501826965a0	どんな ときでも とりみださないのが\n
+bb6063f68aca3e97	ジェントルマンの たしなみ だよ。$
+## SSTidalRooms_Text_JedIntro:
+5bbe16f68246f0fb	ジェド: ちょっと はずかしいけど……\n
+0f156a83d45919d6	ぼくたちの ラブラブ パワー みせてあげる!$
+## SSTidalRooms_Text_JedDefeat:
+947089a02b2eb569	ジェド: はぁ……$
+## SSTidalRooms_Text_JedPostBattle:
+c625faa4b4361036	ジェド: ぼくたちの ラブラブ パワーが\n
+b518f0bdee662fc3	かてないのは はじめて だよ!\l
+184fe94dc8dc54ee	きみは すごい トレーナー なんだね!$
+## SSTidalRooms_Text_JedNotEnoughMons:
+ac2eb17633a71af8	ジェド: ポケモン 1ぴきだけ?\n
+af8367d2b0b37f46	それって さみしすぎない?$
+## SSTidalRooms_Text_LeaIntro:
+1bd01d8fcc0f4f4c	レア: ちょっと てれくさいけど……\n
+1498c1119b0ff8e1	ふたりの ラブラブ パワー みせてあげる!$
+## SSTidalRooms_Text_LeaDefeat:
+68b1f3d7a0deeec7	レア: やん!$
+## SSTidalRooms_Text_LeaPostBattle:
+0f456f9c480c09dc	レア: しんじられない!\n
+ec2370c9af03ef67	ふたりの ラブラブ パワーが まけるなんて……\l
+33d1c2ae0eaa203e	あなた すごい トレーナー なのね!$
+## SSTidalRooms_Text_LeaNotEnoughMons:
+d86d2af203e6daf4	レア: しょうぶ したかったのに……\n
+29594e5b61454a77	ポケモン 2ひきも いないのね……$
+## SSTidalRooms_Text_GarretIntro:
+6538751df443b744	やあ ちょうど いいところに きたね。\p
+449b56272b0fa1c1	ボク たいくつ してるんだ。\n
+9dfeef99e46e3a7e	ボクを たのしませて くれたまえ。$
+## SSTidalRooms_Text_GarretDefeat:
+6f6cb179aaac094e	……もう いいよ。$
+## SSTidalRooms_Text_GarretPostBattle:
+8a6a4ff4045e796e	パパに たのんで ボク せんようの\n
+8a1a9732a9f2df12	ヨットを かってもらおうかな。\l
+83fece93ef5e03b5	ボクと ポケモンの ための ヨット!$
+## SSTidalRooms_Text_NaomiIntro:
+24de8df1fe5c04f1	あら かわいい トレーナーさん。\n
+68991a2ea16f3bd2	おちゃに なさる?\l
+8add3f75f298a5a9	それとも しょうぶ かしら?$
+## SSTidalRooms_Text_NaomiDefeat:
+c831b4f8298317e8	なるほど。\n
+c52750d35ea70d53	かっぱつな かた なのね。$
+## SSTidalRooms_Text_NaomiPostBattle:
+25330b2fdd5d9e34	ごうかきゃくせんで せかい いっしゅうも\n
+366493b1d63a9a1e	たしかに すてき ですけど……\p
+ac38e5af97178222	れんらくせんで ホウエンを めぐるのも\n
+6cf34c32f36f4dab	なかなか よい ものですわね。$
+## SSTidalRooms_Text_NotSuspiciousTakeThis:
+e0c49b7002d44c59	あ…… どうも! あ あやしく ないです!\n
+821b8307e3ef03f8	こ これ あげます! タダです!\p
+5c3d580a3b701d5d	べ べつに だれかから よこどりした\n
+08f7959167a8c35c	ものじゃ ないです! そんなこと しません!\l
+9912bd30e0d1c190	きれいな ものです! つかって ください!$
+## SSTidalRooms_Text_ExplainSnatch:
+8fb516c5b8670dcc	よこどりは あいてや みかたが\n
+9fcadae73132c86a	つかおうとした わざの いいこうかを\l
+c63d4b9fae96ad62	さきに うばって しまう わざです!$
+##### data/maps/ShoalCave_LowTideLowerRoom/scripts.inc
+## ShoalCave_LowTideLowerRoom_Text_CanOvercomeColdWithFocus:
+d7ce384a58acd125	このあたりは からだが ひえきって\n
+6e92a97861d4e319	しゅぎょう するのも ままならぬ……\p
+63ec722e1e193f82	だが きあいが あれば だいじょうぶッ!\p
+9421f3f477fdb87a	おぬしも この きあいのハチマキで\n
+1de041d73b7f2e59	さむさに たえてみせるのだッ!$
+## ShoalCave_LowTideLowerRoom_Text_EverythingStartsWithFocus:
+11f8016a14138263	なにごとも きあい なのだーッ!$
+##### data/maps/TrainerHill_Entrance/scripts.inc
+## TrainerHill_Entrance_Text_StillGettingReady:
+1c3e2db81c092f59	ここは さまざまな トレーナーさんとの\n
+183872ac9cb2733e	タッグバトルが たのしめる\l
+4f62e9de3298c560	トレーナーヒルです!\p
+92cfae0d86a55616	ただいま じゅんびちゅうですので\n
+8652e44b80a7fd0c	また おこしくださいませ!$
+## TrainerHill_Entrance_Text_WelcomeToTrainerHill:
+22e412d0331a3d34	ようこそ いらっしゃいました!\p
+687b901aae2d2808	ここは さまざまな トレーナーさんとの\n
+75ec49b3ceb4f0a5	タッグバトルが たのしめる\l
+16a3ac668dfee60e	トレーナーヒルです!$
+## TrainerHill_Entrance_Text_SaveGameBeforeEnter:
+05f3a4363da0d6ab	こちらは はじめて ですか?\p
+75a69ca81308a512	はいる まえに レポートを\n
+f69fcc4d3c76dfd6	かいて ください。$
+## TrainerHill_Entrance_Text_TrainersUpToFloorX:
+5e6401d4cb66853e	ええと……\n
+b0f2e65613b85b73	ただいま あつまっている トレーナーさんは……\p
+b649ae5a3f8b5eb6	{STR_VAR_1}かい までの ようですね。$
+## TrainerHill_Entrance_Text_TrainersInEveryRoom:
+2fd509c5ea3770de	ええと……\n
+e4ca7b883e642c22	ただいま あつまっている トレーナーさんは……\p
+cf30e8c4ccba5d5d	すべての へやに トレーナーさんが\n
+bea57b436d62966f	あつまっている みたいですね!$
+## TrainerHill_Entrance_Text_LikeToChallengeTrainers:
+7051d7d81f071c82	まっている トレーナーさんたちと\n
+f5b24daf2efe17d2	しょうぶ しますか?$
+## TrainerHill_Entrance_Text_TimeProgessGetSetGo:
+f32788c7bffa314d	それでは じかんを はかります。\n
+ad3a814f71b44136	がんばってくださいね!\p
+fc3a5e14ce534dd6	いちについて……\p
+193305f153688abd	ようい……\p
+c17ae66fa33b488b	ドン!$
+## TrainerHill_Entrance_Text_PleaseVisitUsAgain:
+632b749551284f29	また おこしくださいね!$
+## TrainerHill_Entrance_Text_TooBadTremendousEffort:
+eb24cb50cf6a599f	ざんねん でしたね。\p
+b3cf1fe5ca6cd6bf	とっても がんばって たたかわれたと\n
+36d97f3e0fb4d201	おもいます。\p
+5eda3ec4bbd418de	また ちょうせん しに きてくださいね!$
+## TrainerHill_Entrance_Text_HopeYouGiveItYourBest:
+230e919ca4036ad7	がんばってくださいね!$
+## TrainerHill_Entrance_Text_MovedReceptionHereForSwitch:
+742cca218d7b90aa	トレーナーさんたちが いれかわるとき\n
+2f695382c24f24f2	とても あわただしく なるんです。\p
+781d1a01438fc3b5	こんざつを さけるため うけつけを\n
+6a5dc415ee82fef9	こちらに うつしました。\p
+e325f3fcce49f067	ごめいわくを おかけします!$
+## TrainerHill_Entrance_Text_ThankYouForPlaying:
+612c19b6da9ecbf1	おつかれさまでした!$
+## TrainerHill_Entrance_Text_ExplainTrainerHill:
+47377e263503c8c9	ここ トレーナーヒルでは\n
+0d1c540915373047	タイムアタックを おこなっています。\p
+c4e52a821b1b56e9	この うけつけから おくじょうの\n
+cd1e3b608488de81	オーナーの ところまで たどりつく\l
+0a51e73bb480fef1	じかんを きそう レースです。\p
+218574875e4af2fc	はやい タイムは タイムボードに\n
+59169cd36a187e77	のります。おともだちと\l
+0a1aee4a82916a31	きそってみてくださいね。\p
+9f4d0a946c0f6eb8	とちゅうの トレーナーとの しょうぶでは\n
+21538821dcea4380	けいけんちも おかねも\l
+b0d997a604e603a6	もらえません。$
+## TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon:
+57b0d6f0f03bc2de	もうしわけ ありませんが てもちが\n
+fc4ca236eeb1138d	1ぴきしか いないようですね。\p
+6b0b6908987cede1	この イベントには ポケモンが\n
+ecab9c70a207d538	2ひき いじょう ひつようです。$
+## TrainerHill_Roof_Text_YouFinallyCameBravo:
+db6581aaf34145a6	ムム!\p
+611b784772072f54	ついに きたね!\n
+43925f3d213afbcb	きてしまったね!\p
+ddd40bfd79a262e4	まって! いわなくて いいさー!\n
+a2445c4543e650eb	なんで きみが こんなところまで\l
+c555739dd9ba03e4	ひとりで きたのか わかってるよ!\p
+103cf345ab79743e	トレーナーヒルの オーナーである\n
+afc983f9d7601d41	この わたくしに あいにきたのは……\p
+e84076c96f20e890	タッグを くみたいからだろー!\n
+86eae75de7f8b6e1	ワオ!\p
+903d2136ae14df1a	……あれ?\n
+0fcf6a8df39ed5c0	ちがうの?\p
+92018315261443c1	まあ きみの たたかい みせてもらったよ。\n
+4967b40579f41e90	じつに すばらしかった! ブラボー!$
+## TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
+3969a2ad33a0b7cd	そんな すばらしい キミには\n
+e5b5322d1c414abb	すばらしい プレゼントだー!$
+## TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
+b4196900beac5e56	オー もちものが いっぱいだねー!\n
+82f50991630d3352	あとで とりにきてー!$
+## TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:
+a5894a0d719ea8ce	オー! ちょっと まって! もしかして\n
+08244dbf767ac558	すごく はやく ここまで きたんじゃないー!?\p
+8c55137c10062ce3	すてきだ! わたくしに あうために\n
+7dcfa32f1b5ab42b	そんなに いそがなくても よかったのにー!\p
+0e26ec06382973f5	うれしすぎるから うけつけの\n
+021733b386e4b43a	タイムボードに きろく しておくぜー!$
+## TrainerHill_Roof_Text_YouWerentVeryQuick:
+51344d8e92722877	でも オー……\n
+cc2b1df0e3baf13a	あんまり はやく なかったねー。$
+## TrainerHill_Roof_Text_ArriveZippierNextTime:
+d1502ede2d06a76d	つぎは もっと はやく この わたくしに\n
+cf624cb5ac82b61c	あいにきてくれると うれしいなー!\p
+be0f7418b7e6f436	そしたら こんどこそ\n
+32f9725532778217	タッグを くもうなー!\p
+b595e8c9200141d1	じゃあ またな! アミーゴ!$
+## TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner:
+6a1a8a330ffa3bf5	この トレーナーヒルを つくったのは\n
+b2145a614eb208ce	ただ ひとつの りゆうの ためさ!\p
+0873cb01fad5193b	この わたくしと タッグを くむのに\n
+478ec891773a5a0f	ふさわしい パートナーを みつけるため!$
+## TrainerHill_Entrance_Text_ChallengeTime:
+fa68d6dda1f85fc8	{STR_VAR_1}ふん\n{STR_VAR_2}.{STR_VAR_3}びょう$
+## TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
+46b2e86828a7cc87	どんな トレーナーと ポケモンの\n
+c92bd1b1be759a36	くみあわせが まっているのか!\p
+f28e7f35cdee773a	どんな やつが きても\n
+426b18f4459fd95f	おれが たおしてみせるぜ!$
+## TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
+c97add6dc0f42887	この トレーナーヒルには あちこちから\n
+7b8d725567171314	つよい トレーナーが あつまるそうだ!\p
+a1f1772d7acfb631	はやく うでだめしを したいぜ!\p
+42a2d33ff136b1d7	どんな やつが たちはだかっても\n
+6469801beeec29b9	おれが たおしてみせるぜ!$
+## TrainerHill_Entrance_Text_FriendsTryingToReachTimeBoardTop:
+7b860b7952ffcf26	あそこの タイムボード みえる?\p
+f2f57b2a03ade0a2	ともだちと だれが いちばん はやく\n
+95e9da6b03d7f525	てっぺんに つけるか きそってるんだ。$
+## TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen:
+62d44dbe5bb22d35	ここが いつ オープンするか\n
+1f8741aa07e1c103	しってる?\p
+493eafd41b20d238	いちばん さいしょの チャレンジャーに\n
+03265642307a369a	なりたくて ここで まってるの!$
+## TrainerHill_Elevator_Text_ReturnToReception:
+501bc09377c0d83c	うけつけに\n
+f15a98a6652186ce	もどりますか?$
+##### data/maps/VictoryRoad_1F/scripts.inc
+## VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
+74766bce06d627ab	ミツル: あっ! {PLAYER}さん!\p
+f2e23f9f3ce746e1	ぼくが ここに いて びっくりしたでしょ!\p
+99e4fe823d5bed3a	ここまで これたのは ぜんぶ\n
+5af81dc5a901c60f	みんな あなたの おかげです!\p
+406c33faf30d5ea8	{PLAYER}さん あのとき まけたから\n
+5e93c53cac42540a	ぼくは つよく なれたんです!\p
+7cf06ec4cddd5736	でも もう まけません!\p
+7609f2a06904d86e	かってみせる! ぼくに ゆうきと\n
+369c3c34929d844f	ちからを くれた ポケモンの ために!\p
+2e90a3b6fcea374b	じゃあ…… いきます!$
+## VictoryRoad_1F_Text_WallyEntranceDefeat:
+88b42cfea63a70cd	うわぁ!\n
+44f6a454306456ae	やっぱり {PLAYER}さんは つよいよ!$
+## VictoryRoad_1F_Text_WallyPostEntranceBattle:
+f506ff8d960867f1	ミツル: …… こんかいは\n
+b9f98b0158215fb6	{PLAYER}さんに かてなかった けど\l
+53024db20126cebf	いつか きっと おいついて みせるからね!$
+## VictoryRoad_1F_Text_WallyIntro:
+3edcab77fd1d802b	ミツル: あっ! {PLAYER}さん!\p
+d001d135dda120a0	ぼく あのときより つよく なったんです!\n
+bfa58763821bf2a0	{PLAYER}さんに みてほしくて!\p
+4617bc7289398a1c	じゃあ…… いきます!$
+## VictoryRoad_1F_Text_WallyDefeat:
+0c0647e90c3798ae	うわぁ!\n
+a46f3d2bca28c1fa	やっぱり {PLAYER}さんは つよいよ!$
+## VictoryRoad_1F_Text_WallyPostBattle:
+875745da729abc67	ミツル: …… こんかいも\n
+fbb08730ce4a7cea	{PLAYER}さんに かてなかった けど\l
+6d8ef2451318a941	いつか きっと おいついて……\p
+8950350fd5bf31c2	ポケモンリーグに ちょうせん するんだ!$
+## VictoryRoad_1F_Text_EdgarIntro:
+afd04cf69868cb2f	ここまでは なんどか これたが\n
+951698d115286a81	さいごの みちのりが ながすぎるよ……$
+## VictoryRoad_1F_Text_EdgarDefeat:
+fab543f1ad764511	また ここで ゆめが おわったか……$
+## VictoryRoad_1F_Text_EdgarPostBattle:
+5f5c3b2217f9bfde	ここまで きたなら その\n
+4577c6d0541beaae	いきおいで チャンピオンに なれよ!\l
+08e01205f6577d47	きみなら できるさ!$
+## VictoryRoad_1F_Text_AlbertIntro:
+5874c0856d3ba0c4	せっかく ここまで きたんだ。\n
+5b06ac171a4f5944	いまさら まけるなんて ありえないよ!$
+## VictoryRoad_1F_Text_AlbertDefeat:
+7c0abb406912c1c6	まさか……\n
+16b6711f87b726e3	まけたのか……?$
+## VictoryRoad_1F_Text_AlbertPostBattle:
+50eb161254a6365d	ここで まけた……\p
+1362990d0f62beb4	ということは まだ チャンピオンに なる\n
+f8041631e85ba874	しかくが ないと いうことか……$
+## VictoryRoad_1F_Text_HopeIntro:
+f81dc771afd3d7fe	この はてしなく けわしい みち こそ\n
+c03655475013a87a	まさに チャンピオンへの みち なのよ!$
+## VictoryRoad_1F_Text_HopeDefeat:
+68432ef69225b467	すばらしい たたかいかた ね……$
+## VictoryRoad_1F_Text_HopePostBattle:
+80d7453adb7d073a	あなたには チャンピオンに なれる\n
+9cf73199bddc6adb	かのうせいが あるみたいね。$
+## VictoryRoad_1F_Text_QuincyIntro:
+132e9ea08c102274	チャンピオンロード とは なにか?\n
+96e82f205bad618e	かてたら おしえてやろう!$
+## VictoryRoad_1F_Text_QuincyDefeat:
+9ccf07dfd50207f0	よし!\n
+082bcd9bb0d4a250	みごとだ!$
+## VictoryRoad_1F_Text_QuincyPostBattle:
+a1fb7018cfda38fe	ここを ぶじに ぬけきることが\n
+414dcf9ebf2a0c39	ポケモンチャンピオンを めざす\l
+e6a86c2e4bc5de9a	トレーナーの さいごの しれん なんだ。\p
+21f2d6770fbdc27d	だから チャンピオンロードと\n
+82b0ff3b32dc4e33	よばれて いるのさ。$
+## VictoryRoad_1F_Text_KatelynnIntro:
+91331e32d0db3e2d	ここまで きた ひとに\n
+bc1b57174d31c7f6	いうことは なにも ないわ。いくわよ!$
+## VictoryRoad_1F_Text_KatelynnDefeat:
+97c76b8a15140e1b	なんて ぶざまな……$
+## VictoryRoad_1F_Text_KatelynnPostBattle:
+171edae14391bdb4	ふん…… どうぞ さきへ いけば?\n
+0640e4229d51a638	わたしは べつに かまわないわ。$
+##### data/maps/VictoryRoad_B1F/scripts.inc
+## VictoryRoad_B1F_Text_SamuelIntro:
+e0eb5761a85e1802	ポケモンリーグが ちかづいてると\n
+24331c16f6409225	おもうと……\p
+42e3a394c25c738d	あがって きちゃったよ……$
+## VictoryRoad_B1F_Text_SamuelDefeat:
+d87a0bda60731949	なにも できなかった……$
+## VictoryRoad_B1F_Text_SamuelPostBattle:
+a3f5f2138b87f761	ポケモンリーグが また とおのいたよ……\n
+419c829bd5f87b71	なんだか がっかり するな……$
+## VictoryRoad_B1F_Text_ShannonIntro:
+acf4e312da2e0e99	ポケモンリーグを かちぬくには\n
+b1c1ef9c574c7cd4	ポケモンからの しんらいが\l
+bd7362155f253792	ひつようなのよ。$
+## VictoryRoad_B1F_Text_ShannonDefeat:
+915b3642dcc766a1	あなたたちは かたい しんらいで\n
+b85054541c489ed4	むすばれているのね。$
+## VictoryRoad_B1F_Text_ShannonPostBattle:
+638e1cc5167b50b1	いつも いっしょに いることで ポケモンと\n
+bbe8dcc29d214649	トレーナーの しんらいは そだつのよ。$
+## VictoryRoad_B1F_Text_MichelleIntro:
+12312ddbc933527c	ここは ゴール じゃないの。\n
+d967f1eaa8ec1f44	ポケモンリーグへの つうかてん よ!$
+## VictoryRoad_B1F_Text_MichelleDefeat:
+06e8a04a88f6d7b3	その ちょうし!$
+## VictoryRoad_B1F_Text_MichellePostBattle:
+a23c569bb310ab52	あなたなら だいじょうぶよ きっと!\n
+0ddcae3dcbdacc97	ポケモンも やるき まんまん だしね!$
+## VictoryRoad_B1F_Text_MitchellIntro:
+c9ae177b35d663ab	わたしの ポケモンは うちゅうてきに\n
+39e12ac84371ad8a	すばらしいのです!$
+## VictoryRoad_B1F_Text_MitchellDefeat:
+cd2685a7330a7535	あなたの ような ひとは はじめてです。$
+## VictoryRoad_B1F_Text_MitchellPostBattle:
+fa5b99bfc4782b10	しょうぶ じゃなくても あなたと\n
+5fbfc33dc6bc3db1	あなたの ポケモンから すごい\l
+38e6d17fedde97fa	パワーを かんじます。$
+## VictoryRoad_B1F_Text_HalleIntro:
+51ba85a847b9fe10	オーケイ そんなに かまえないで!\n
+b97cd38ae31880e6	リラックス して いきましょ!$
+## VictoryRoad_B1F_Text_HalleDefeat:
+1366fbe765e092ff	わお!\n
+97eaecb7140d90f8	すてき!$
+## VictoryRoad_B1F_Text_HallePostBattle:
+5f60054fe10ccf2c	たしかに ここは チャンピオンロード。\p
+72f3ebdd37b1d818	でも いままで あるいてきた みちと\n
+1769308361322d7f	そんなに かわらないわ。\p
+72f8618f65928c42	のこりの みちも たのしんで\n
+b1c06c172dc12700	いってね!$
+##### data/maps/VictoryRoad_B2F/scripts.inc
+## VictoryRoad_B2F_Text_VitoIntro:
+25c45824bf378ea1	かぞく ぜんいんで いっしょに\n
+d45b82b2881188d8	ポケモンの しゅぎょうを してたんだ!\l
+7b95434f226715c4	だれにも まけないぜ!$
+## VictoryRoad_B2F_Text_VitoDefeat:
+25d2fc7b58399018	おれの かぞく より つよい!?\n
+41629c9aa13fb79a	そんなことって あるのか!?$
+## VictoryRoad_B2F_Text_VitoPostBattle:
+c76ca15d101923a4	かぞくの だれよりも つよかった おれ……\n
+cfceb5df772547f1	いままで まけたこと なかったのに……\p
+a62b21fc01aeb189	じしん なくしちゃったよ……\n
+8e6a399ba8e67b99	いえに かえろうかなあ……$
+## VictoryRoad_B2F_Text_OwenIntro:
+40b5e9a774750add	つよい ちびっこが いるって きいたぞ!\n
+ca5c8d2059359373	それって きみの ことかい?$
+## VictoryRoad_B2F_Text_OwenDefeat:
+c1da3635f98496c3	ちびっこの くせに つよい!$
+## VictoryRoad_B2F_Text_OwenPostBattle:
+041a0bf0337c2a0a	ウワサの つよい ちびっこは\n
+c82e7a7b75a0675a	トウカシティ から きたらしい。$
+## VictoryRoad_B2F_Text_CarolineIntro:
+2d5e21cb97ed3928	そろそろ へばって きたかしら?$
+## VictoryRoad_B2F_Text_CarolineDefeat:
+49604a8e8b777582	ぜんぜん へばってないわ!$
+## VictoryRoad_B2F_Text_CarolinePostBattle:
+687cacd85a239b8f	この チャンピオンロードも\n
+dc5224f12b91cdd2	ポケモンリーグも ながく きびしいわ。\l
+1a69e4ffe67ae1d6	つかれには ちゅうい してね!$
+## VictoryRoad_B2F_Text_JulieIntro:
+4d296cacb61f6d2d	ジムバッジを たくさん もってるからって\n
+2a105b7b9539395d	ゆだん しちゃ だめよ。\p
+70c5cfe252c5aaff	うえには いつだって\n
+ae65992b5a7618fe	うえが いるんだから!$
+## VictoryRoad_B2F_Text_JulieDefeat:
+07e6b29677617b8c	あなたの ほうが うえね!$
+## VictoryRoad_B2F_Text_JuliePostBattle:
+7165dc9bf64d813d	あつめた ジムバッジを みて\n
+998d9fcd268abedf	たたかった トレーナーを おもいだすのよ。$
+## VictoryRoad_B2F_Text_FelixIntro:
+73a2d63f35cc115c	ここまで きたけど きんちょうで\n
+851c71fbff3e2da2	おなかが ものすごく いたいんです……$
+## VictoryRoad_B2F_Text_FelixDefeat:
+ee8293c84b975a5e	ああ……\n
+0045ddaab27427d3	いたい……$
+## VictoryRoad_B2F_Text_FelixPostBattle:
+e33ed84f0c297801	ポケモンリーグが ちかいと おもうと\n
+d14160f4e9245656	どうしても きんちょう しちゃうんです。\p
+cc3b1d3b7b45ca6a	へいきな ふりを するので せいいっぱいです。$
+## VictoryRoad_B2F_Text_DianneIntro:
+69191a76be2dd71d	この どうくつには えりぬきの なかの\n
+f41c9efe66f70954	えりぬきが あつまるのよ。\p
+d8d2833f2e6c776c	あなたは どう かんじるかしら?$
+## VictoryRoad_B2F_Text_DianneDefeat:
+11fec2f5f9156df4	ぜんぜん どうじて いないわ……!$
+## VictoryRoad_B2F_Text_DiannePostBattle:
+954bb357d3d113b3	あなた どきょうが あるのね! きにいったわ!\n
+fce250d86d4dd24f	その ちょうしで がんばって!$

@@ -148,67 +148,67 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "STEVEN: {PLAYER}{KUN}…\p"
-	.string "As you can see, there's not much here,\n"
-	.string "but this is my home.\p"
-	.string "Thank you for all that you've done.\p"
-	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
-	.string "No need to be shy--you've earned\n"
-	.string "this HM.$"
+	.string "{JPN}ダイゴ: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}……\p"
+	.string "みてのとおり なにも ないけど\n"
+	.string "ここが ぼくの いえ なんだ。\p"
+	.string "いろいろと ありがとう。\p"
+	.string "これは ぼくからの おれいだよ。\n"
+	.string "ひでんマシン ダイビング だ。\p"
+	.string "えんりょ しないで。 きみには\n"
+	.string "これを うけとる しかくが あるよ。$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.string "{JPN}ダイゴ: なみのりを していると\n"
+	.string "みずの いろが こい ばしょが ある。\p"
+	.string "そういう ふかい ところで ダイビングを\n"
+	.string "つかうと うみの そこに もぐれるよ。\p"
+	.string "うかびたい ときは もういちど\n"
+	.string "ダイビングを つかうんだ。\p"
+	.string "ばしょに よっては\n"
+	.string "うかべない ばあいも あるけどね。$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Apparently, there's an\n"
-	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
-	.string "found in his submarine.$"
+	.string "{JPN}ダイゴ: どうやら トクサネと\n"
+	.string "ルネの あいだの うみの そこに\l"
+	.string "どうくつが ある らしい。\p"
+	.string "ほら クスノキかんちょうが\n"
+	.string "せんすいていで みつけた ところさ。$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
-	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
-	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は モンスターボールを しらべた。\p"
+	.string "なかには ポケモンの\n"
+	.string "ダンバルが はいっていた。\p"
+	.string "モンスターボールを もらう?$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} obtained a BELDUM.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ダンバルを てにいれた!$"
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
+	.string "{JPN}これいじょう ポケモンを もてない!$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} left the POKé BALL where\n"
-	.string "it was.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は モンスターボールを\n"
+	.string "そのままに しておいた。$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
-	.string "It's a letter.\p"
+	.string "{JPN}てがみ だ。\p"
 	.string "… … … … … …\p"
-	.string "To {PLAYER}{KUN}…\p"
-	.string "I've decided to do a little soul-\n"
-	.string "searching and train on the road.\p"
-	.string "I don't plan to return home for some\n"
-	.string "time.\p"
-	.string "I have a favor to ask of you.\p"
-	.string "I want you to take the POKé BALL on\n"
-	.string "the desk.\p"
-	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
-	.string "I'm counting on you.\p"
-	.string "May our paths cross someday.\p"
-	.string "STEVEN STONE$"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}へ……\p"
+	.string "じぶんを みつめなおす ために\n"
+	.string "しゅぎょうの たびに でることにした。\p"
+	.string "しばらく いえには\n"
+	.string "もどらない つもりだ。\p"
+	.string "きみに ひとつ たのみが ある。\p"
+	.string "つくえの うえの モンスターボールを\n"
+	.string "うけとって ほしい。\p"
+	.string "なかには ぼくの おきにいりの\n"
+	.string "ポケモン ダンバルが はいっている。\p"
+	.string "よろしく たのむよ。\p"
+	.string "いつか また どこかで あおう。\p"
+	.string "ツワブキ ダイゴ$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "{JPN}ダイゴが あつめた めずらしい\n"
+	.string "いしが かざってある!$"
 

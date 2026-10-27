@@ -47,12 +47,12 @@ ShoalCave_LowTideLowerRoom_EventScript_ReceivedFocusBand::
 	end
 
 ShoalCave_LowTideLowerRoom_Text_CanOvercomeColdWithFocus:
-	.string "The penetrating cold around these\n"
-	.string "parts is an impediment to training.\p"
-	.string "But with focus, one can overcome!\p"
-	.string "With this FOCUS BAND, buckle down and\n"
-	.string "withstand the cold!$"
+	.string "{JPN}このあたりは からだが ひえきって\n"
+	.string "しゅぎょう するのも ままならぬ……\p"
+	.string "だが きあいが あれば だいじょうぶッ!\p"
+	.string "おぬしも この きあいのハチマキで\n"
+	.string "さむさに たえてみせるのだッ!$"
 
 ShoalCave_LowTideLowerRoom_Text_EverythingStartsWithFocus:
-	.string "Everything starts with focus!$"
+	.string "{JPN}なにごとも きあい なのだーッ!$"
 

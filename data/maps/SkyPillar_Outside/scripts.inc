@@ -137,33 +137,33 @@ SkyPillar_Outside_EventScript_ClosedDoor::
 	end
 
 SkyPillar_Outside_Text_DoorIsClosed:
-	.string "The door is closed.$"
+	.string "{JPN}とびらは とざされている。$"
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
-	.string "WALLACE: Oh, my, I'm terribly sorry!\p"
-	.string "In my haste, I didn't notice that\n"
-	.string "I'd left you behind!\p"
-	.string "I've opened the locked door of\n"
-	.string "the SKY PILLAR.\p"
-	.string "{PLAYER}{KUN}, let's be on our way!$"
+	.string "{JPN}ミクリ: やあ ほんとうに すまない!\p"
+	.string "あまりに あわてていて きみを\n"
+	.string "おいてきた ことに きづかなかった!\p"
+	.string "しまっていた そらのはしらの\n"
+	.string "とびらは わたしが あけておいた。\p"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} さあ いこう!$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
-	.string "WALLACE: It's an earthquake!\p"
-	.string "There's not a moment to waste!\n"
-	.string "We've got to hurry!$"
+	.string "{JPN}ミクリ: じしんだ!\p"
+	.string "こうしては いられない!\n"
+	.string "さきを いそごう!$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
-	.string "WALLACE: Hmm…\n"
-	.string "The situation is getting worse…$"
+	.string "{JPN}ミクリ: うーむ……\n"
+	.string "じょうきょうは わるくなる いっぽうだ……$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
-	.string "WALLACE: This isn't good…\p"
-	.string "The weather distortion is spreading\n"
-	.string "even here…\p"
-	.string "{PLAYER}{KUN}.\p"
-	.string "RAYQUAZA should be farther up\n"
-	.string "from here.\p"
-	.string "I'm worried about SOOTOPOLIS.\n"
-	.string "I've got to go back.\p"
-	.string "Everything is in your hands now.\n"
-	.string "Don't fail us!$"
+	.string "{JPN}ミクリ: まずいな……\p"
+	.string "てんこうの みだれが このあたり\n"
+	.string "にまで ひろがっている……\p"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}。\p"
+	.string "ここを のぼっていけば\n"
+	.string "レックウザが いるはずだ。\p"
+	.string "わたしは ルネが しんぱいだ。\n"
+	.string "もどらなければ ならない。\p"
+	.string "あとは きみに まかせたよ。\n"
+	.string "しっかり たのんだよ!$"

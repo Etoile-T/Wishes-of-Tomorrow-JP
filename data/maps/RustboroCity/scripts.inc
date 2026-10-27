@@ -1013,278 +1013,278 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The DEVON CORPORATION…\n"
-	.string "We all just shorten it to DEVON.\p"
-	.string "That company makes all sorts of\n"
-	.string "convenient products.$"
+	.string "{JPN}デボン コーポレーション……\n"
+	.string "ながいから みんな デボンって よぶけど\p"
+	.string "あの かいしゃ では いろいろと\n"
+	.string "べんりな ものを つくってるんだ!$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
-	.string "Hm? A sneaky-looking man?\p"
-	.string "Come to think of it, yes, a shady-\n"
-	.string "looking guy went around the corner.$"
+	.string "{JPN}ん? あやしい おとこ?\p"
+	.string "そういえば にんそうの わるい おとこが\n"
+	.string "そこの かどを まがっていったよ$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the POKéMON GYM\n"
-	.string "challenge?\p"
-	.string "When you get that shiny GYM BADGE\n"
-	.string "in hand, I guess TRAINERS begin to\l"
-	.string "realize what is required of them.$"
+	.string "{JPN}ポケモンジムには\n"
+	.string "ちょうせん してみた?\p"
+	.string "ピカピカの ジムバッジを\n"
+	.string "てに すると トレーナーは じぶんに\l"
+	.string "なにが ひつようか わかって くるらしい$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
-	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
+	.string "{JPN}おっ! カナズミの ジムバッジ!\p"
+	.string "いくつか ある ジムバッジの なかで\n"
+	.string "カナズミの やつが いちばん かっこいいな!$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Oh? Who might you be?\n"
-	.string "You're a new face around these parts.\p"
-	.string "Have you just transferred into the\n"
-	.string "POKéMON TRAINER'S SCHOOL?$"
+	.string "{JPN}あら? あなた だれかしら?\n"
+	.string "この あたりでは みない かおね\p"
+	.string "ポケモン トレーナーズスクールに\n"
+	.string "てんにゅう してきたの?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the GYM LEADER, but…\p"
-	.string "It's not going to be easy winning with\n"
-	.string "my FIRE-type POKéMON…\p"
-	.string "FIRE-type POKéMON don't match up\n"
-	.string "well against ROCK-type POKéMON…$"
+	.string "{JPN}ジムリーダーに ちょうせん したけど……\p"
+	.string "あたしの ほのおタイプの ポケモンじゃ\n"
+	.string "ちょっと かつのは たいへんそう……\p"
+	.string "だって ほのおタイプ って\n"
+	.string "いわタイプに あいしょうが わるいもの……$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He goes for walks in the tunnel every\n"
-	.string "so often.$"
+	.string "{JPN}ふなのりの ハギろうじんは\n"
+	.string "うみべの こやに すんでるんだ\p"
+	.string "ときどき トンネルを\n"
+	.string "さんぽ してるよ$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He said he was going shopping in\n"
-	.string "SLATEPORT for his pet, PEEKO.\p"
-	.string "That old sea dog, he must really love\n"
-	.string "that PEEKO.$"
+	.string "{JPN}ふなのりの ハギろうじんは\n"
+	.string "うみべの こやに すんでるんだ\p"
+	.string "ペットの ピーコちゃんの ために\n"
+	.string "カイナへ かいものに いくって いってたよ\p"
+	.string "あの じいさん よっぽど ピーコちゃんが\n"
+	.string "かわいいんだね$"
 
 RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have POKéMON with you, too.\p"
-	.string "When I get bigger, I'm going to go\n"
-	.string "places with POKéMON, too.$"
+	.string "{JPN}わあ あなたも ポケモンを つれてるのね\p"
+	.string "あたしも おおきくなったら\n"
+	.string "ポケモンと いろんな ところへ いくんだ!$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "POKéMON TRAINER'S SCHOOL!\p"
-	.string "If I go to this school, will I be able\n"
-	.string "to catch rare POKéMON easily?$"
+	.string "{JPN}ポケモン トレーナーズスクール!\p"
+	.string "この がっこうに かよったら\n"
+	.string "めずらしい ポケモンも かんたんに つかまえられる?$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a POKéMON gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
+	.string "{JPN}ポケモンって たたかいの けいけんを\n"
+	.string "つんでいくと すがたかたち が\l"
+	.string "かわることが あるんだよ!$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "A POKéMON changes shape?\n"
-	.string "If one did that, I would be shocked!$"
+	.string "{JPN}ポケモンの すがたが かわっちゃうの?\n"
+	.string "そんなことに なったら ビックリしちゃう!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "A POKéMON you get in a trade from\n"
-	.string "someone grows fast.\p"
-	.string "But if you don't have certain GYM\n"
-	.string "BADGES, it may not obey you…$"
+	.string "{JPN}ひとと こうかんした ポケモンは\n"
+	.string "そだつのが はやい!\p"
+	.string "でも ジムバッジを もっていないと\n"
+	.string "いうことを きかないかも……$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Get out!\n"
-	.string "Out of the way!$"
+	.string "{JPN}どけ!\n"
+	.string "じゃまだ!$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
-	.string "Wait! Pleeeaaase!\p"
-	.string "Don't take my GOODS!$"
+	.string "{JPN}まってぇー! おねがいー!\p"
+	.string "その にもつを かえしてぇぇぇー!!$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
-	.string "I have to get the DEVON GOODS back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.string "{JPN}あっ きみは!\p"
+	.string "トウカのもりで わたしを たすけてくれた\n"
+	.string "すごい トレーナーさん!\p"
+	.string "たすけて! アクアだんに やられた!\n"
+	.string "デボンの にもつを とりかえさないと!\p"
+	.string "そうしないと……\n"
+	.string "わたし たいへんな ことに なっちゃう!$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "That shady character, I think he took\n"
-	.string "off towards the tunnel over there.$"
+	.string "{JPN}あの あやしい やつは たしか\n"
+	.string "あっちの トンネルの ほうへ にげたよ$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Oh! How did it go?\n"
-	.string "The DEVON GOODS?\p"
-	.string "You did!\n"
-	.string "You got them back!\p"
-	.string "You really are a great TRAINER!\p"
-	.string "I know! As my thanks, I'll give you\n"
-	.string "another GREAT BALL!$"
+	.string "{JPN}あっ! どうだった?\n"
+	.string "デボンの にもつは?\p"
+	.string "やった!\n"
+	.string "とりかえして くれたんだね!\p"
+	.string "きみは ほんとうに すごい トレーナーだ!\p"
+	.string "そうだ! おれいに\n"
+	.string "スーパーボールを もうひとつ あげよう!$"
 
 RustboroCity_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.string "{JPN}どうぐ いっぱいで\n"
+	.string "スーパーボール あげられないね$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Excuse me, please!\n"
-	.string "Please come with me!$"
+	.string "{JPN}あの すみません!\n"
+	.string "わたしに ついてきて ください!$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
-	.string "Let's register each other so we can\n"
-	.string "contact one another anytime!\p"
+	.string "{JPN}ハルカ: あっ {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\p"
+	.string "ポケナビに エントリーコールを\n"
+	.string "つけて もらったのね!\p"
+	.string "いつでも れんらく できるように\n"
+	.string "おたがい とうろく しよう!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "{JPN}ハルカを\n"
+	.string "ポケナビに とうろく した!$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "{JPN}ハルカ: そういえば トウカのもりで\n"
+	.string "ハギろうじんと すれちがったよ\p"
+	.string "たぶん うみべの こやに\n"
+	.string "かえる とちゅう なのね\p"
+	.string "ポケモンずかんの ちょうしは どう\n"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}? あたしのは まあまあよ!\p"
+	.string "それで……\n"
+	.string "ちょっと しょうぶ してみない?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "{JPN}ハルカ: あら どうしたの?\p"
+	.string "ポケモンを あんまり つかまえたり\n"
+	.string "そだてたり してないの?\p"
+	.string "トレーナーとして それは よくないよ!$"
 
 RustboroCity_Text_MayWantToBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "{JPN}ハルカ: どう?\n"
+	.string "ここで ちょっと しょうぶ してみる?$"
 
 RustboroCity_Text_MayImNotGoingToLose:
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "{JPN}ハルカ: トレーナーに なったばかりの\n"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}には まけないよ!$"
 
 RustboroCity_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "{JPN}うわあ!\n"
+	.string "おもってたより つよい!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but MR. BRINEY\l"
-	.string "was once a revered seafarer.$"
+	.string "{JPN}ハルカ: そういえば さっき すれちがった\n"
+	.string "ハギろうじん なんだけどね\p"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}は ひっこして きたばかりで\n"
+	.string "しらないかも しれないけど ハギろうじんは\l"
+	.string "むかし みんなに したわれた ふなのり だったのよ$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
-	.string "Let's register each other so we can\n"
-	.string "get in touch anytime!\p"
+	.string "{JPN}ユウキ: おっ {ENG}{PLAYER}{JPN}!\p"
+	.string "ポケナビに エントリーコールを\n"
+	.string "つけて もらったんだな! いいね!\p"
+	.string "いつでも れんらく できるように\n"
+	.string "おたがい とうろく しようぜ!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "{JPN}ユウキを\n"
+	.string "ポケナビに とうろく した!$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I bet he was on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?\p"
-	.string "Mine rules.\p"
-	.string "Want to have a battle to test how\n"
-	.string "far you've progressed?$"
+	.string "{JPN}ユウキ: そういえば {ENG}{PLAYER}{JPN} トウカのもりで\n"
+	.string "ハギろうじんと すれちがったぜ\p"
+	.string "きっと うみべの こやに\n"
+	.string "かえる とちゅう だったんだな\p"
+	.string "{ENG}{PLAYER}{JPN} ポケモンずかんは どうだ?\n"
+	.string "もう ページは うまってきたか?\p"
+	.string "オレのは さいこうだぜ\p"
+	.string "どれだけ つよくなったか\n"
+	.string "しょうぶで ためして みないか?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.string "{JPN}ユウキ: なんだよ どうした?\n"
+	.string "もってる ポケモンに じしんが ないのか?$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "{JPN}ユウキ: どうだい?\n"
+	.string "オレと しょうぶ してみるか?$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "{JPN}ユウキ: トレーナーに なりたて だって\n"
+	.string "てかげんは しないからな!$"
 
 RustboroCity_Text_BrendanDefeat:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "{JPN}へえ……\n"
+	.string "なかなか やるじゃないか$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: By the way, you know\n"
-	.string "MR. BRINEY? The guy I just passed?\p"
-	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
-	.string "MR. BRINEY was once a great sailor.$"
+	.string "{JPN}ユウキ: そういえば しってるか?\n"
+	.string "さっき すれちがった ハギろうじん\p"
+	.string "ひっこして きたばかり だから\n"
+	.string "{ENG}{PLAYER}{JPN}は しらないと おもうけど\l"
+	.string "ハギろうじんは むかし すごい ふなのりだったんだ$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Timesaving tunnel nearing\n"
-	.string "completion!”\p"
-	.string "…Is what it says on the sign, but\n"
-	.string "there's also a big “X” splashed\l"
-	.string "across it in red paint…$"
+	.string "{JPN}「じかん たんしゅくの トンネル\n"
+	.string "まもなく かんせい!」\p"
+	.string "……と かんばんに かいてあるが\n"
+	.string "あかい ペンキで おおきく\l"
+	.string "「X」が かきなぐられている……$"
 
 RustboroCity_Text_DevonCorpSign:
-	.string "DEVON CORPORATION\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
+	.string "{JPN}「デボン コーポレーション」\p"
+	.string "「みなさんの せいかつの ために\n"
+	.string "なんでも つくっています!」$"
 
 RustboroCity_Text_GymSign:
-	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
+	.string "{JPN}カナズミシティ ポケモンジム\n"
+	.string "リーダー ツツジ\p"
+	.string "「いわが だいすきな ゆうとうせい!」$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "DEVON CORP. BRANCH OFFICE\p"
-	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
+	.string "{JPN}「デボン コーポレーション ぶんしつ」\p"
+	.string "「かんけいしゃ いがいの たちいりは\n"
+	.string "どうぞ ごえんりょ ください」$"
 
 RustboroCity_Text_CitySign:
-	.string "RUSTBORO CITY\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
+	.string "{JPN}ここは カナズミシティ\p"
+	.string "「しぜんと かがくの ゆうごうを\n"
+	.string "ついきゅうする まち」$"
 
 RustboroCity_Text_TrainersSchoolSign:
-	.string "POKéMON TRAINER'S SCHOOL\p"
-	.string "“We'll teach you anything about\n"
-	.string "POKéMON!”$"
+	.string "{JPN}ポケモン トレーナーズスクール\p"
+	.string "「ポケモンの ことなら\n"
+	.string "なんでも おしえます!」$"
 
 RustboroCity_Text_CuttersHouse:
-	.string "CUTTER'S HOUSE$"
+	.string "{JPN}「いあいぎりオヤジの いえ」$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "I've been developing an added feature\n"
-	.string "for the POKéNAV…\p"
-	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
-	.string "The one our PRESIDENT gave you?$"
+	.string "{JPN}ポケナビに ついかする きのうを\n"
+	.string "かいはつ していたんだけど……\p"
+	.string "ばっちり できあがったよ!\p"
+	.string "{ENG}{PLAYER}{JPN}さん その ポケナビ みせて くれる?\n"
+	.string "しゃちょうから もらった やつ$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
-	.string "I added a new feature named\n"
-	.string "MATCH CALL to your POKéNAV.\p"
-	.string "Using the MATCH CALL feature,\n"
-	.string "you can chat with people who have\l"
-	.string "been registered in your POKéNAV.\p"
-	.string "{PLAYER}, our PRESIDENT STONE should\n"
-	.string "be registered in your POKéNAV.\p"
-	.string "Test it out.\n"
-	.string "Please give our PRESIDENT a call.$"
+	.string "{JPN}はい できたよ {ENG}{PLAYER}{JPN}さん!\p"
+	.string "ポケナビに エントリーコールという\n"
+	.string "あたらしい きのうを つけたよ\p"
+	.string "エントリーコールを つかえば\n"
+	.string "ポケナビに とうろく された ひとと\l"
+	.string "おはなし できるんだ\p"
+	.string "{ENG}{PLAYER}{JPN}さんの ポケナビには\n"
+	.string "ツワブキしゃちょうが とうろく されてるはず\p"
+	.string "ためして みて\n"
+	.string "しゃちょうに でんわ してみて ください$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the POKéNAV.$"
+	.string "{JPN}ポケナビを えらんで ください!$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.string "{JPN}さて しごとに もどらなくちゃ\n"
+	.string "{ENG}{PLAYER}{JPN}さん おきをつけて!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
-	.string "Did you know this?\p"
-	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another TRAINER.\p"
-	.string "If you catch the eyes of two TRAINERS\n"
-	.string "when you have two or more POKéMON,\l"
-	.string "they'll both challenge you.\p"
-	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two TRAINERS by yourself?$"
+	.string "{JPN}しってた?\p"
+	.string "ほかの トレーナーと いっしょじゃ なくても\n"
+	.string "2たい2の しょうぶが できるんだ\p"
+	.string "ポケモンを 2ひき いじょう つれて\n"
+	.string "ふたりの トレーナーと めが あうと\l"
+	.string "ふたり いっしょに しょうぶを しかけてくるよ\p"
+	.string "ひとりで ふたりの トレーナーに\n"
+	.string "かてたら かっこいいと おもわない?$"

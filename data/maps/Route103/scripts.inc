@@ -287,67 +287,67 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "MAY: Let's see… The POKéMON found\n"
-	.string "on ROUTE 103 include…$"
+	.string "{JPN}ハルカ: えーと 103ばん どうろに いる\n"
+	.string "ポケモンは あれと あれね……$"
 
 Route103_Text_MayLetsBattle:
-	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a POKéMON as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
-	.string "I'll give you a taste of what being\n"
-	.string "a TRAINER is like.$"
+	.string "{JPN}あら {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\p"
+	.string "……そうか! おとうさん から\n"
+	.string "ポケモンを もらったのね!\p"
+	.string "せっかくだから ちょっと\n"
+	.string "ポケモンしょうぶ しようよ!\p"
+	.string "トレーナーって どんな ものか\n"
+	.string "あたしが おしえて あげるから!$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "{JPN}うわっ! すごい すごい!\n"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} つよい じゃない!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "MAY: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of POKéMON easily.\p"
-	.string "Well, it's time to head back to\n"
-	.string "the LAB.$"
+	.string "{JPN}ハルカ: おとうさんが きみに ちゅうもく\n"
+	.string "してる わけが わかった きがする\p"
+	.string "その ポケモン もらった ばかり なのに\n"
+	.string "もう きみに なついてるもの\p"
+	.string "きみなら どんな ポケモンとも\n"
+	.string "すぐ なかよく なれるかもね\p"
+	.string "さて そろそろ けんきゅうじょに\n"
+	.string "もどりましょ$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "BRENDAN: Okay, so it's this one and\n"
-	.string "that one that live on ROUTE 103…$"
+	.string "{JPN}ユウキ: そうか あいつと あいつが\n"
+	.string "103ばん どうろに いる ポケモンか……$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
-	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
-	.string "Since we're here, how about a little\n"
-	.string "battle?\p"
-	.string "I'll teach you what being a TRAINER's\n"
-	.string "about!$"
+	.string "{JPN}よう {ENG}{PLAYER}{JPN}!\p"
+	.string "……そっか おやじに ポケモン もらったんだな\p"
+	.string "せっかくだから ちょっと\n"
+	.string "しょうぶ しないか?\p"
+	.string "トレーナーって どんな ものか\n"
+	.string "オレが おしえて やるよ!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+	.string "{JPN}へえ {ENG}{PLAYER}{JPN} なかなか やるじゃん$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your POKéMON already likes you,\n"
-	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any POKéMON with ease.\p"
-	.string "We should head back to the LAB.$"
+	.string "{JPN}ユウキ: なるほどな\n"
+	.string "おやじが おまえに ちゅうもく してる\l"
+	.string "わけが わかった きがするよ\p"
+	.string "その ポケモン もらった ばかり なのに\n"
+	.string "もう おまえに なついてる\p"
+	.string "{ENG}{PLAYER}{JPN}なら どんな ポケモンとも\n"
+	.string "かんたんに なかよく なれそうだな\p"
+	.string "けんきゅうじょに もどろうぜ$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "My POKéMON is staggeringly tired…\n"
-	.string "I should have brought a POTION…$"
+	.string "{JPN}ぼくの ポケモン もう へろへろ……\n"
+	.string "キズぐすり もってくれば よかった……$"
 
 Route103_Text_ShortcutToOldale:
-	.string "If you cross the sea from here,\n"
-	.string "it'll be a shortcut to OLDALE TOWN.\p"
-	.string "Fufufu, that's useful, isn't it?$"
+	.string "{JPN}ここから うみを わたっていけば\n"
+	.string "コトキタウンまで ちかみちが できるぞ!\p"
+	.string "ふふふ おとくな じょうほう だろ?$"
 
 Route103_Text_RouteSign:
-	.string "ROUTE 103\n"
-	.string "{DOWN_ARROW} OLDALE TOWN$"
+	.string "{JPN}ここは 103ばん どうろ\n"
+	.string "{DOWN_ARROW} コトキタウン$"
 

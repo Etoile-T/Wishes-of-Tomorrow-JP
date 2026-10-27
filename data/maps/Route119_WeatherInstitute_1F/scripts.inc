@@ -69,65 +69,65 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "The BOSS got interested in\n"
-	.string "the research they have going here,\l"
-	.string "so he sent us out.\p"
-	.string "You quit meddling!$"
+	.string "{JPN}ボスが ここの けんきゅうに\n"
+	.string "きょうみを もってな\l"
+	.string "おれたちを よこしたのさ\p"
+	.string "じゃまするんじゃ ねえ!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
-	.string "Blast it…\n"
-	.string "Blasted by a kid…$"
+	.string "{JPN}くそー……\n"
+	.string "こどもに やられた……$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
-	.string "Our BOSS knows everything.\p"
-	.string "But I'm just a GRUNT. What would I know\n"
-	.string "about what he's thinking?$"
+	.string "{JPN}ボスは なんでも しっている\p"
+	.string "だが したっぱの おれに ボスの\n"
+	.string "かんがえなんか わかるわけ ないだろ?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
-	.string "Huh?\n"
-	.string "What's a kid doing here?$"
+	.string "{JPN}あら?\n"
+	.string "どうして ここに こどもが いるのかしら?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
-	.string "Huh?\n"
-	.string "I lost?!$"
+	.string "{JPN}あら?\n"
+	.string "まけちゃった!?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
-	.string "Oh, no…\n"
-	.string "I'll catch an earful for losing to a kid…\p"
-	.string "I should just take a nap in the bed…$"
+	.string "{JPN}あらら……\n"
+	.string "こどもに まけたら おこられちゃう……\p"
+	.string "もう ベッドで ねてようかしら……$"
 
 Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
-	.string "While I was sleeping, everyone went\n"
-	.string "upstairs!$"
+	.string "{JPN}ねてる あいだに みんな\n"
+	.string "2かいに いっちゃった!$"
 
 Route119_WeatherInstitute_1F_Text_WowYoureStrong:
-	.string "Wow, you're really strong!\p"
-	.string "I wish I could be a POKéMON TRAINER\n"
-	.string "like you!$"
+	.string "{JPN}わあ ほんとに つよいね!\p"
+	.string "きみみたいな ポケモントレーナーに\n"
+	.string "なれたら いいなあ!$"
 
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "The PROFESSOR loves rain.\n"
-	.string "That's a fact.\p"
-	.string "But if it keeps raining, people will be in\n"
-	.string "trouble. That's another fact.\p"
-	.string "And thus, the PROFESSOR is studying\n"
-	.string "if the rain can be put to good use.$"
+	.string "{JPN}はかせは あめが だいすき\n"
+	.string "それは じじつ\p"
+	.string "でも あめが ふりつづけると ひとが\n"
+	.string "こまる それも じじつ\p"
+	.string "だから はかせは あめを うまく\n"
+	.string "つかえないか けんきゅう しているの$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "On the 2nd floor of the INSTITUTE,\n"
-	.string "we study the weather patterns over\l"
-	.string "the HOENN region.\p"
-	.string "We've been noticing temporary and\n"
-	.string "isolated cases of droughts and\l"
-	.string "heavy rain lately…$"
+	.string "{JPN}この けんきゅうじょの 2かいでは\n"
+	.string "ホウエンちほうの てんきの\l"
+	.string "うつりかわりを しらべています\p"
+	.string "さいきん あちこちで いちじてきな\n"
+	.string "ひでりや おおあめが\l"
+	.string "かんそく されている ようですが……$"
 
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
-	.string "Hello!\n"
-	.string "We've been saved by your actions!\p"
-	.string "What I don't understand is what on\n"
-	.string "earth the AQUAS were up to.$"
+	.string "{JPN}こんにちは!\n"
+	.string "あなたの おかげで たすかりました!\p"
+	.string "それにしても アクアだんは いったい\n"
+	.string "なにを たくらんで いたのでしょう$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "{JPN}ベッドが ある……\n"
+	.string "やすんでいこう$"
 

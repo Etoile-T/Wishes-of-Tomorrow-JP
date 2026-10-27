@@ -995,174 +995,174 @@ Route104_EventScript_Darian::
 	end
 
 Route104_Text_BrineyLivesInSeasideCottage:
-	.string "That seaside cottage is where\n"
-	.string "MR. BRINEY lives.\p"
-	.string "He was once a mighty sailor who never\n"
-	.string "feared the sea, however stormy.$"
+	.string "{JPN}その はまべの こやには\n"
+	.string "ハギろうじん という ひとが すんでるの\p"
+	.string "むかしは どんな あらなみも おそれない\n"
+	.string "すごうでの ふなのり だった らしいわ$"
 
 Route104_Text_WhatsItLikeAtBottomOfSea:
-	.string "The sea, huh?\p"
-	.string "I wonder what it's like at the bottom\n"
-	.string "of the sea?$"
+	.string "{JPN}うみ かぁ……\p"
+	.string "うみのそこ って いったい\n"
+	.string "どんな ふうに なってるのかな?$"
 
 Route104_Text_ThrowBallAtWeakenedPokemon:
-	.string "If you're going to throw a POKé BALL,\n"
-	.string "weaken the wild POKéMON first.\p"
-	.string "It will be easier to catch if it's been\n"
-	.string "poisoned, burned, or lulled to sleep.$"
+	.string "{JPN}モンスターボールを なげるなら\n"
+	.string "まず やせいの ポケモンを よわらせて\p"
+	.string "どく やけど ねむりの じょうたいだと\n"
+	.string "つかまえやすく なるわよ$"
 
 Route104_Text_OnlyThrowBallAtWildPokemon:
-	.string "You're a thief if you try to steal\n"
-	.string "someone else's POKéMON.\p"
-	.string "You should throw POKé BALLS only at\n"
-	.string "wild POKéMON.$"
+	.string "{JPN}ひとの ポケモンを とろうと したら\n"
+	.string "どろぼう だぞ\p"
+	.string "モンスターボールは やせいの\n"
+	.string "ポケモンにだけ なげること!$"
 
 Route104_Text_ImNotATrainer:
-	.string "Oh, no, I'm not a TRAINER.\p"
-	.string "But that's right, if TRAINERS lock eyes,\n"
-	.string "it's a challenge to battle.\p"
-	.string "If you don't want to battle, stay out\n"
-	.string "of their sight.$"
+	.string "{JPN}わたし トレーナーじゃ ないわよ\p"
+	.string "でも トレーナーどうし しせんが あうのは\n"
+	.string "しょうぶしようって サイン なのよね\p"
+	.string "もし たたかいたく なかったら\n"
+	.string "しせんに はいらなければ いいのよ$"
 
 Route104_Text_LikeFillingMouthWithSeedsTakeThis:
-	.string "I like filling my mouth with seeds,\n"
-	.string "then spitting them out fast!\p"
-	.string "You can have this, so you try it out!\p"
-	.string "Use it on a POKéMON, and it will learn\n"
-	.string "a move for firing seeds rapidly.$"
+	.string "{JPN}くちのなかに タネを いっぱい いれて\n"
+	.string "それを プププッ! と ふきだすのが すき!\p"
+	.string "おまえにも これ やるから ためしてみな!\p"
+	.string "ポケモンに つかうとさ\n"
+	.string "タネを れんしゃする わざを おぼえるよ!$"
 
 Route104_Text_TMsAreOneTimeUse:
-	.string "A word of advice!\p"
-	.string "A TM, TECHNICAL MACHINE, is good only\n"
-	.string "for one-time use.\p"
-	.string "Once you use it, it's gone.\n"
-	.string "Think twice before using it!$"
+	.string "{JPN}ひとつ アドバイス!\p"
+	.string "わざマシンは 1かい つかうと\n"
+	.string "それで おしまい\p"
+	.string "つかったら なくなっちゃう\n"
+	.string "よく かんがえてから つかってね!$"
 
 Route104_Text_DontNeedThisTakeIt:
-	.string "This FLOWER SHOP started selling\n"
-	.string "saplings recently.\p"
-	.string "It made me so happy, I went overboard\n"
-	.string "shopping.\p"
-	.string "I don't need this WHITE HERB anymore.\n"
-	.string "Would you take it, please?$"
+	.string "{JPN}この フラワーショップ ちかごろ\n"
+	.string "うえきも うって くれるのよ\p"
+	.string "うれしくて つい たくさん\n"
+	.string "かいすぎちゃった\p"
+	.string "この しろいハーブ もう いらないの\n"
+	.string "もらって くれるかしら?$"
 
 Route104_Text_FlowerShopSellingSaplings:
-	.string "This FLOWER SHOP started selling\n"
-	.string "saplings recently.\p"
-	.string "It made me so happy, I went overboard\n"
-	.string "shopping. Where should I put them?$"
+	.string "{JPN}この フラワーショップ ちかごろ\n"
+	.string "うえきも うって くれるのよ!\p"
+	.string "うれしくて たくさん かっちゃった!\n"
+	.string "どこに かざろうかしら?$"
 
 Route104_Text_MrBrineysCottage:
-	.string "MR. BRINEY'S COTTAGE$"
+	.string "{JPN}ハギろうじんの こや$"
 
 Route104_Text_RouteSignPetalburg:
-	.string "ROUTE 1O4\n"
-	.string "{RIGHT_ARROW} PETALBURG CITY$"
+	.string "{JPN}ここは 104ばん どうろ\n"
+	.string "{RIGHT_ARROW} トウカシティ$"
 
 Route104_Text_RouteSignRustboro:
-	.string "ROUTE 1O4\n"
-	.string "{UP_ARROW} RUSTBORO CITY$"
+	.string "{JPN}ここは 104ばん どうろ\n"
+	.string "{UP_ARROW} カナズミシティ$"
 
 Route104_Text_PrettyPetalFlowShop:
-	.string "PRETTY PETAL FLOWER SHOP$"
+	.string "{JPN}フラワーショップ サン・トウカ$"
 
 Route104_Text_TrainerTipsDoubleBattles:
-	.string "TRAINER TIPS\p"
-	.string "In the HOENN region there are pairs\n"
-	.string "of TRAINERS who challenge others\l"
-	.string "for 2-on-2 POKéMON battles called\l"
-	.string "DOUBLE BATTLES.\p"
-	.string "In a DOUBLE BATTLE, the TRAINER must\n"
-	.string "send out two POKéMON, the one at the\l"
-	.string "left of the list and the top one.\l"
-	.string "Watch how POKéMON are lined up.$"
+	.string "{JPN}おとくな けいじばん!!\p"
+	.string "ホウエンちほう には\n"
+	.string "ダブルバトルと いって 2たい2の\l"
+	.string "ポケモンしょうぶを いどんでくる\l"
+	.string "ふたりぐみの トレーナーが います!\p"
+	.string "ダブルバトルでは ポケモンの リストの\n"
+	.string "ひだりと いちばん うえにいる\l"
+	.string "ポケモンが とびだして たたかうので\l"
+	.string "リストの ならびには ようちゅうい!$"
 
 Route104_Text_MayWeShouldRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "DEVON upgraded your POKéNAV with\n"
-	.string "the MATCH CALL system, huh?\p"
-	.string "We should register each other so we\n"
-	.string "can get in contact anytime.$"
+	.string "{JPN}ハルカ: あら {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\p"
+	.string "デボンに ポケナビに エントリーコールを\n"
+	.string "つけて もらったのね?\p"
+	.string "いつでも れんらく できるように\n"
+	.string "おたがい とうろく しておこうよ$"
 
 Route104_Text_RegisteredMay:
-	.string "{PLAYER} registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ハルカを\n"
+	.string "ポケナビに とうろく した!$"
 
 Route104_Text_MayHowsYourPokedex:
-	.string "MAY: Oh, by the way, {PLAYER}{KUN},\n"
-	.string "how's your POKéDEX coming along?$"
+	.string "{JPN}ハルカ: ところで {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}の\n"
+	.string "ポケモンずかんの ちょうしは どう?$"
 
 Route104_Text_MayMinesDecentLetsBattle:
-	.string "Mine's looking pretty decent.\n"
-	.string "So…\l"
-	.string "How about a little battle?$"
+	.string "{JPN}あたしの ほうは なかなか いいかんじ\n"
+	.string "だから……\l"
+	.string "ちょっと しょうぶ しない?$"
 
 Route104_Text_MayHaventRaisedPokemon:
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "{JPN}ハルカ: あら どうしたの?\p"
+	.string "ポケモンを あまり つかまえたり\n"
+	.string "そだてたり してないの?\p"
+	.string "トレーナーとして それは よくないよ!$"
 
 Route104_Text_MayLetsBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "{JPN}ハルカ: どう? あたしと ここで\n"
+	.string "ちょっと しょうぶ してみる?$"
 
 Route104_Text_MayIntro:
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "{JPN}ハルカ: トレーナーに なった ばかりの\n"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}には まけないよ!$"
 
 Route104_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "{JPN}うわあ……\n"
+	.string "おもってたより つよい……!$"
 
 Route104_Text_MayPostBattle:
-	.string "MAY: I can tell you've gotten pretty\n"
-	.string "good with the way you handle POKéMON.\p"
-	.string "But instead of only making them\n"
-	.string "battle, you should be like MR. BRINEY.\p"
-	.string "It's important to become friends with\n"
-	.string "POKéMON, too.$"
+	.string "{JPN}ハルカ: ポケモンの あつかいかたが\n"
+	.string "ずいぶん うまく なったみたいね\p"
+	.string "でも たたかわせる だけじゃなくて\n"
+	.string "ハギろうじん みたいに\p"
+	.string "ポケモンと なかよく なることも\n"
+	.string "たいせつ なんだよ$"
 
 Route104_Text_BrendanWeShouldRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "Cool, you had DEVON install the MATCH\n"
-	.string "CALL system on your POKéNAV!\p"
-	.string "Let's register each other in our\n"
-	.string "POKéNAVS so we can keep in touch.$"
+	.string "{JPN}ユウキ: おっ {ENG}{PLAYER}{JPN}!\p"
+	.string "いいな デボンに エントリーコールを\n"
+	.string "ポケナビに つけて もらったんだな!\p"
+	.string "れんらく とれるように おたがいの\n"
+	.string "ポケナビに とうろく しようぜ$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は ユウキを\n"
+	.string "ポケナビに とうろく した!$"
 
 Route104_Text_BrendanHowsYourPokedex:
-	.string "BRENDAN: {PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?$"
+	.string "{JPN}ユウキ: {ENG}{PLAYER}{JPN} ずかんは どうだ?\n"
+	.string "もう なんページか うまったか?$"
 
 Route104_Text_BrendanDoingGreatLetsBattle:
-	.string "Me, I'm doing great!\p"
-	.string "Want to check out how good I am with\n"
-	.string "a battle?$"
+	.string "{JPN}オレは ばっちり だぜ!\p"
+	.string "オレの じつりょく しょうぶで\n"
+	.string "たしかめて みるか?$"
 
 Route104_Text_BrendanNoConfidence:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.string "{JPN}ユウキ: なんだよ\n"
+	.string "もってる ポケモンに じしんが ないのか?$"
 
 Route104_Text_BrendanLetsBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "{JPN}ユウキ: どうだい?\n"
+	.string "オレと しょうぶ してみるか?$"
 
 Route104_Text_BrendanIntro:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "{JPN}ユウキ: トレーナーに なりたて だって\n"
+	.string "てかげんは しないからな!$"
 
 Route104_Text_BrendanDefeat:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "{JPN}へえ……\n"
+	.string "なかなか やるじゃないか$"
 
 Route104_Text_BrendanPostBattle:
-	.string "BRENDAN: You've gotten pretty decent\n"
-	.string "at handling POKéMON.\p"
-	.string "But, you know, you shouldn't just be\n"
-	.string "making POKéMON battle.\p"
-	.string "Like MR. BRINEY, it's important to\n"
-	.string "become friends with your POKéMON.$"
+	.string "{JPN}ユウキ: ポケモンの あつかいかたが\n"
+	.string "だいぶ うまく なったな\p"
+	.string "でもさ ポケモンを たたかわせて\n"
+	.string "ばかり じゃ だめだぜ\p"
+	.string "ハギろうじん みたいに ポケモンと\n"
+	.string "なかよく なるのも たいせつ なんだ$"

@@ -340,151 +340,151 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	return
 
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOSSDEEP has mainly sunny weather,\n"
-	.string "and its winds are stable.\p"
-	.string "It's an ideal location for launching\n"
-	.string "rockets.$"
+	.string "{JPN}トクサネは はれの ひが おおく\n"
+	.string "かぜも あんてい している。\p"
+	.string "ロケットを うちあげるには\n"
+	.string "さいてきな ばしょ なんだ。$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
-	.string "our rocket fuel in the first place?$"
+	.string "{JPN}そもそも マグマだんは なぜ ロケット\n"
+	.string "ねんりょうを ぬすもうと するんだ?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
-	.string "If only I was a little younger, I would\n"
-	.string "have liked being an astronaut…\p"
-	.string "No… It's not too late!\n"
-	.string "I can and will try!$"
+	.string "{JPN}もう すこし わかければ\n"
+	.string "うちゅうひこうしに なりたかった……\p"
+	.string "いや…… まだ おそくない!\n"
+	.string "やれる! やってみせる!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
-	.string "I won't be able to go to space!\p"
-	.string "They can't be allowed to get away\n"
-	.string "with such an outrage!$"
+	.string "{JPN}マグマだんに ねんりょうを とられたら\n"
+	.string "うちゅうに いけなく なっちゃう!\p"
+	.string "そんな ひどいこと ゆるしちゃ\n"
+	.string "だめだ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
-	.string "I wish ordinary people could go into\n"
-	.string "space one day…$"
+	.string "{JPN}いつか ふつうの ひとも\n"
+	.string "うちゅうに いけたら いいのに……$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
-	.string "TEAM MAGMA…\n"
-	.string "Do they want to go to space, too?$"
+	.string "{JPN}マグマだん……\n"
+	.string "あいつらも うちゅうに いきたいのかな?$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
-	.string "What's wrong with you?\p"
-	.string "You're outnumbered three to one,\n"
-	.string "but you still want to take us on?$"
+	.string "{JPN}なんなんだ おまえ?\p"
+	.string "3たい1 だって いうのに\n"
+	.string "まだ おれたちと やる きか?$"
 
 MossdeepCity_SpaceCenter_2F_Text_GoodAnswer:
-	.string "Good answer!\n"
-	.string "That's what a smart person'll do!$"
+	.string "{JPN}いい へんじだ!\n"
+	.string "かしこい やつは そうするもんだ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro:
-	.string "A reckless go-getter, are you?\n"
-	.string "Okay, I'll go first!$"
+	.string "{JPN}むこうみずな やつだな?\n"
+	.string "よし まずは おれからだ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat:
-	.string "I lost!\n"
-	.string "But!$"
+	.string "{JPN}まけた!\n"
+	.string "だが!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro:
-	.string "It's too soon to be relieved!\n"
-	.string "I'm up next!$"
+	.string "{JPN}ホッと するのは まだ はやい!\n"
+	.string "つぎは おれだ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat:
-	.string "I lost, too!\n"
-	.string "But!$"
+	.string "{JPN}おれも まけた!\n"
+	.string "だが!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro:
-	.string "I bet you want to take a break.\n"
-	.string "But I'm not about to let you do that!$"
+	.string "{JPN}ひとやすみ したいだろ?\n"
+	.string "だが そうは させないぜ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat:
-	.string "We should've taken a break…\n"
-	.string "That's what we should've done…$"
+	.string "{JPN}ひとやすみ すれば よかった……\n"
+	.string "そうするべき だったんだ……$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
-	.string "Three of us here, and look at the sorry\n"
-	.string "mess we got ourselves into.$"
+	.string "{JPN}3にんも いて この ざまとは\n"
+	.string "なさけない……$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
-	.string "We three losing like this…\n"
-	.string "We look worse than usual by triple!$"
+	.string "{JPN}3にんそろって こんな まけかた……\n"
+	.string "いつもの 3ばい かっこわるいぜ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle:
-	.string "Are we being useful to our leader\n"
-	.string "at all?$"
+	.string "{JPN}おれたち リーダーの やくに\n"
+	.string "たってるのかな?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
-	.string "Hehehe!\p"
-	.string "We come all the way here to get some\n"
-	.string "fuel, and we're interfered with again!\p"
-	.string "If you're going to mess with us too,\n"
-	.string "we'll take care of you at the same time!$"
+	.string "{JPN}へへへ!\p"
+	.string "はるばる ねんりょうを とりに きたのに\n"
+	.string "また じゃまが はいるとはな!\p"
+	.string "おまえも じゃま するって いうなら\n"
+	.string "いっしょに かたづけて やるぜ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
+	.string "{JPN}マツブサ: そこを どけ!\n"
+	.string "じゃまを するな!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "STEVEN: TEAM MAGMA…\p"
-	.string "What's the point of stealing rocket\n"
-	.string "fuel?$"
+	.string "{JPN}ダイゴ: マグマだん……\p"
+	.string "ロケットねんりょうなんか ぬすんで\n"
+	.string "どうする つもりだ?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
-	.string "curious, you deserve an explanation.\p"
-	.string "We're going to jettison the entire\n"
-	.string "load into MT. CHIMNEY!\p"
-	.string "With GROUDON gone, we have no need\n"
-	.string "for that slag heap of a mountain!\p"
-	.string "So we'll use the fuel's power to make\n"
-	.string "the volcano erupt!\p"
-	.string "It will be savage!$"
+	.string "{JPN}マツブサ: ふふふ…… そんなに\n"
+	.string "しりたいなら おしえて やろう。\p"
+	.string "ねんりょうを まるごと\n"
+	.string "えんとつやまに ぶちこむのだ!\p"
+	.string "グラードンが いなくなった いま\n"
+	.string "あんな ぼたやまの ような やまは ようずみだ!\p"
+	.string "ねんりょうの ちからで\n"
+	.string "かざんを ふんかさせる!\p"
+	.string "さぞ すさまじい ことに なるぞ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "You're going to help me?\p"
-	.string "Let's go into battle together!\n"
-	.string "Are you ready?$"
+	.string "{JPN}ダイゴ: {ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN}!\n"
+	.string "てつだって くれるのかい?\p"
+	.string "いっしょに たたかおう!\n"
+	.string "じゅんびは いいかい?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Then, hurry!\n"
-	.string "Get ready quickly!$"
+	.string "{JPN}ダイゴ: それなら いそいで!\n"
+	.string "はやく じゅんびを してくれ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
-	.string "All I want…\n"
-	.string "I just want to expand the land mass…$"
+	.string "{JPN}わたしは……\n"
+	.string "りくちを ひろげたい だけなのに……$"
 
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
-	.string "I'm with our leader…$"
+	.string "{JPN}リーダーに どこまでも ついていく……$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
-	.string "erupt…\p"
-	.string "We failed to control GROUDON after\n"
-	.string "we had awoken it…\p"
-	.string "Is our goal to expand the land\n"
-	.string "misguided?\p"
+	.string "{JPN}マツブサ: かざんを ふんか させる\n"
+	.string "ことにも しっぱい した……\p"
+	.string "グラードンを めざめさせたのに\n"
+	.string "あやつる ことにも しっぱいした……\p"
+	.string "りくちを ひろげるという われらの\n"
+	.string "もくてきは まちがって いるのか?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
+	.string "もし……\n"
+	.string "もし われら マグマだんが まちがいなら……\l"
 	.string "… … … … … …\p"
-	.string "Then might TEAM AQUA's goal to expand\n"
-	.string "the sea also be equally misguided?$"
+	.string "うみを ひろげるという アクアだんの\n"
+	.string "もくてきも また まちがって いるのか?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
-	.string "We will give up on the fuel…\p"
-	.string "There appear to be more important\n"
-	.string "matters that I must examine…$"
+	.string "{JPN}マツブサ: わかった……\n"
+	.string "ねんりょうは あきらめよう……\p"
+	.string "わたしには もっと たしかめるべき\n"
+	.string "だいじな ことが ある ようだ……$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Whew, that was too tense.\n"
-	.string "{PLAYER}{KUN}, thank you.\p"
-	.string "I have something to give you as\n"
-	.string "thanks for your support.\p"
-	.string "Please come see me at home\n"
-	.string "after this.\p"
-	.string "Oh, yes, I don't live in RUSTBORO CITY.\n"
-	.string "I live right here on this island.$"
+	.string "{JPN}ダイゴ: ふう きんちょう したよ。\n"
+	.string "{ENG}{PLAYER}{JPN}{ENG}{KUN}{JPN} ありがとう。\p"
+	.string "てつだって くれた おれいに\n"
+	.string "わたしたい ものが あるんだ。\p"
+	.string "このあと ぼくの いえに\n"
+	.string "きて くれないか。\p"
+	.string "ああ ぼくの いえは カナズミシティ じゃない。\n"
+	.string "この しまに あるんだ。$"

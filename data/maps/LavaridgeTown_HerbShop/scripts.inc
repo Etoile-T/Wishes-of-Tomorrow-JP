@@ -40,25 +40,25 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal::
 	end
 
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
-	.string "Welcome to the HERB SHOP, home of\n"
-	.string "effective and inexpensive medicine!$"
+	.string "{JPN}いらっしゃい! やすくて よく きく\n"
+	.string "くすりの かんぽうや です!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
-	.string "You've come to look at herbal medicine\n"
-	.string "in LAVARIDGE?\p"
-	.string "That's rather commendable.\p"
-	.string "I like you! Take this!$"
+	.string "{JPN}フエンまで かんぽうやくを\n"
+	.string "みに きたのかい?\p"
+	.string "なかなか かんしんな ことじゃ。\p"
+	.string "きにいった! これを もっていきな!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "That CHARCOAL I gave you, it's used\n"
-	.string "for making herbal medicine.\p"
-	.string "It also does wonders when held by\n"
-	.string "a POKéMON.\p"
-	.string "It intensifies the power of FIRE-type\n"
-	.string "moves.$"
+	.string "{JPN}さっき あげた もくたんは\n"
+	.string "かんぽうやくを つくるのに つかうんじゃ。\p"
+	.string "ポケモンに もたせても\n"
+	.string "すごい こうかが あるぞ。\p"
+	.string "ほのおタイプの わざの いりょくを\n"
+	.string "たかめて くれるんじゃ。$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:
-	.string "Herbal medicine works impressively well.\n"
-	.string "But your POKéMON will dislike you for it.\l"
-	.string "It must be horribly bitter!$"
+	.string "{JPN}かんぽうやくの ききめは すごいが\n"
+	.string "ポケモンに のませると きらわれるぞよ。\l"
+	.string "きっと すっごく にがいんじゃろうな!$"
 

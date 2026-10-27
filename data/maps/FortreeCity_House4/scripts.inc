@@ -63,33 +63,33 @@ FortreeCity_House4_EventScript_Wingull::
 	end
 
 FortreeCity_House4_Text_BringsWorldCloserTogether:
-	.string "By being together with POKéMON,\n"
-	.string "people make more and more friends.\p"
-	.string "And that brings the world closer\n"
-	.string "together. I think it's wonderful!$"
+	.string "{JPN}ポケモンと いることで\n"
+	.string "ひとは ともだちが どんどん ふえていく\p"
+	.string "そうして せかいが ちかづいていくの\n"
+	.string "すてきな ことだと おもうわ!$"
 
 FortreeCity_House4_Text_GoBirdPokemon:
-	.string "There!\n"
-	.string "Go, BIRD POKéMON!$"
+	.string "{JPN}それっ!\n"
+	.string "ゆけっ とりポケモン!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand:
-	.string "Heheh, I asked my WINGULL to run\n"
-	.string "an errand for me.$"
+	.string "{JPN}えへへ キャモメに\n"
+	.string "ちょっと おつかいを たのんだのさ$"
 
 FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
-	.string "Good!\n"
-	.string "Welcome back, WINGULL!\p"
-	.string "Huh? What is this?\n"
-	.string "What is it holding?\p"
-	.string "A MENTAL HERB?\n"
-	.string "It must have picked it up somewhere.\p"
-	.string "But I'm not a TRAINER, so you can\n"
-	.string "have it.$"
+	.string "{JPN}よし!\n"
+	.string "おかえり キャモメ!\p"
+	.string "あれ? これ なんだろう?\n"
+	.string "なにを もってるの?\p"
+	.string "メンタルハーブ?\n"
+	.string "どこかで ひろって きたんだな\p"
+	.string "でも ぼく トレーナーじゃ ないから\n"
+	.string "きみに あげるよ$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
-	.string "Thanks to my WINGULL, I have friends\n"
-	.string "who live far away.$"
+	.string "{JPN}キャモメの おかげで\n"
+	.string "とおくに すむ ともだちが いるのさ$"
 
 FortreeCity_House4_Text_Wingull:
-	.string "WINGULL: Pihyoh!$"
+	.string "{JPN}キャモメ: ぴひょー!$"
 

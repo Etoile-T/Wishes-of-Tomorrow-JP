@@ -29,15 +29,15 @@ SootopolisCity_House1_EventScript_Kecleon::
 	end
 
 SootopolisCity_House1_Text_DevelopedThisTM:
-	.string "For thirty years I've remained in\n"
-	.string "SOOTOPOLIS honing my skills.\p"
-	.string "I developed a shattering TM.\n"
-	.string "I bequeath it to you!$"
+	.string "{JPN}わしは 30ねん ルネに こもって\n"
+	.string "わざを みがいてきた。\p"
+	.string "そして はかいてきな わざマシンを\n"
+	.string "あみだした。 おまえに さずけよう!$"
 
 SootopolisCity_House1_Text_ExplainBrickBreak:
-	.string "TM31 contains BRICK BREAK! It's a move\n"
-	.string "so horrible that I can't describe it.$"
+	.string "{JPN}わざマシン31は かわらわり! くちでは\n"
+	.string "いいあらわせぬ おそろしい わざじゃ。$"
 
 SootopolisCity_House1_Text_Kecleon:
-	.string "KECLEON: Puu puhyaah.$"
+	.string "{JPN}カクレオン: プー プヒャー。$"
 

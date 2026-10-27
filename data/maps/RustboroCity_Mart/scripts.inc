@@ -65,20 +65,20 @@ RustboroCity_Mart_EventScript_BugCatcher::
 	end
 
 RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish:
-	.string "I'm buying some PARLYZ HEALS and\n"
-	.string "ANTIDOTES.\p"
-	.string "Just in case I run into SHROOMISH\n"
-	.string "in PETALBURG WOODS.$"
+	.string "{JPN}まひなおしと どくけしを\n"
+	.string "かっておくの\p"
+	.string "トウカのもりで キノココに\n"
+	.string "でくわしたときの ために$"
 
 RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead:
-	.string "My POKéMON evolved.\n"
-	.string "It has a lot of HP now.\p"
-	.string "I should buy SUPER POTIONS for it\n"
-	.string "instead of ordinary POTIONS.$"
+	.string "{JPN}ポケモンが しんかして\n"
+	.string "HPが たくさん ふえたんだ\p"
+	.string "ふつうの キズぐすりじゃなくて\n"
+	.string "いいキズぐすりを かわなくちゃ$"
 
 RustboroCity_Mart_Text_GettingEscapeRopeJustInCase:
-	.string "I'm getting an ESCAPE ROPE just in\n"
-	.string "case I get lost in a cave.\p"
-	.string "I just need to use it to get back to\n"
-	.string "the entrance.$"
+	.string "{JPN}どうくつで まよった ときのため\n"
+	.string "あなぬけのヒモを かっておこう っと!\p"
+	.string "つかうだけで\n"
+	.string "いりぐちに もどれるもんね!$"
 

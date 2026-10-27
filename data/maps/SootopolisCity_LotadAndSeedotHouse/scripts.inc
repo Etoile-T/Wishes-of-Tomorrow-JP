@@ -104,99 +104,99 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord::
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
-	.string "Do you know the POKéMON SEEDOT?\n"
-	.string "It's hardly ever seen in SOOTOPOLIS.\p"
-	.string "Anyway, I love big SEEDOT.\n"
-	.string "The bigger the better.\p"
-	.string "But my younger brother, he says that\n"
-	.string "LOTAD is bigger.\p"
-	.string "That's silly.\n"
-	.string "SEEDOT has to be bigger than that!\p"
-	.string "Huh? Do you have a SEEDOT with you?\n"
-	.string "P-p-please, show me!$"
+	.string "{JPN}タネボーって ポケモン しってる?\n"
+	.string "ルネでは めったに みかけないんだ。\p"
+	.string "とにかく ぼく おおきい タネボーが すき。\n"
+	.string "おおきければ おおきいほど いい。\p"
+	.string "でも おとうとは ハスボーの ほうが\n"
+	.string "おおきいって いうんだ。\p"
+	.string "そんなの おかしいよ。\n"
+	.string "タネボーの ほうが おおきいに きまってる!\p"
+	.string "えっ? タネボー もってるの?\n"
+	.string "み み み みせて!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "{STR_VAR_2}!\n"
-	.string "Oh, my gosh, this is a big one!\p"
-	.string "It might even beat the big LOTAD\n"
-	.string "my younger brother saw!\p"
-	.string "Thanks for showing me.\n"
-	.string "This is my thanks!$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}!\n"
+	.string "うわあ これは おおきいね!\p"
+	.string "おとうとが みた おおきい ハスボーにも\n"
+	.string "かっちゃう かも!\p"
+	.string "みせてくれて ありがとう。\n"
+	.string "これは おれいだよ!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
-	.string "{PLAYER} received a POTION.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は キズぐすりを もらった!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "{JPN}あれ?\n"
+	.string "バッグが いっぱい だね。$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
-	.string "{STR_VAR_2}, is it?\p"
-	.string "Hmm… I've seen a bigger SEEDOT\n"
-	.string "than this one.$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN} かあ。\p"
+	.string "うーん… これより おおきい タネボーを\n"
+	.string "みたことが あるよ。$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
-	.string "Oh, now this is quite something…\n"
-	.string "But it's not a SEEDOT!$"
+	.string "{JPN}へえ これは すごいね……\n"
+	.string "でも タネボーじゃ ないよ!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
-	.string "You don't have a big SEEDOT?\n"
-	.string "That's too bad…\p"
-	.string "If you get a big SEEDOT, please\n"
-	.string "come show me.$"
+	.string "{JPN}おおきい タネボー もってないの?\n"
+	.string "ざんねん……\p"
+	.string "おおきい タネボーを つかまえたら\n"
+	.string "みせに きてね。$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
-	.string "The biggest SEEDOT in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3} giant!\p"
-	.string "A SEEDOT bigger than a LOTAD\n"
-	.string "always wanted!$"
+	.string "{JPN}しじょう さいだいの タネボー!\n"
+	.string "{ENG}{STR_VAR_2}{JPN}の {ENG}{STR_VAR_3}{JPN}!\p"
+	.string "ずっと ほしかった ハスボーより\n"
+	.string "おおきい タネボーだ!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
-	.string "Do you know the POKéMON LOTAD?\n"
-	.string "It's rarely seen in SOOTOPOLIS.\p"
-	.string "I love, I mean love, big LOTAD!\p"
-	.string "My big brother says that SEEDOT is\n"
-	.string "bigger.\p"
-	.string "But that's wrong! Everyone knows that\n"
-	.string "LOTAD is a lot bigger.\p"
-	.string "Hunh? Do you have a LOTAD?\n"
-	.string "P-p-please show me!$"
+	.string "{JPN}ハスボーって ポケモン しってる?\n"
+	.string "ルネでは めったに みかけないの。\p"
+	.string "ぼく おおきい ハスボーが だーいすき!\p"
+	.string "おにいちゃんは タネボーの ほうが\n"
+	.string "おおきいって いうんだ。\p"
+	.string "でも ちがうよ! ハスボーの ほうが\n"
+	.string "ずっと おおきいに きまってる。\p"
+	.string "えっ? ハスボー もってるの?\n"
+	.string "み み み みせて!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
-	.string "{STR_VAR_2}!\n"
-	.string "Wow, that is big!\p"
-	.string "It might be even bigger than the huge\n"
-	.string "SEEDOT my big brother saw.\p"
-	.string "Thanks for showing me!\n"
-	.string "This is my thanks!$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}!\n"
+	.string "わあ おおきい!\p"
+	.string "おにいちゃんが みた おおきな タネボー\n"
+	.string "よりも おおきい かもしれない。\p"
+	.string "みせてくれて ありがとう!\n"
+	.string "これは おれいだよ!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
-	.string "{PLAYER} received a POTION.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は キズぐすりを もらった!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "{JPN}あれ?\n"
+	.string "バッグが いっぱい だね。$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
-	.string "{STR_VAR_2}?\p"
-	.string "Hmm… I've seen a bigger LOTAD\n"
-	.string "than this one here.$"
+	.string "{JPN}{ENG}{STR_VAR_2}{JPN}?\p"
+	.string "うーん… これより おおきい ハスボーを\n"
+	.string "みたことが あるよ。$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
-	.string "Well, isn't this something!\n"
-	.string "But it's no LOTAD!$"
+	.string "{JPN}へえ すごいね!\n"
+	.string "でも ハスボーじゃ ないよ!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
-	.string "Don't you have a big LOTAD?\n"
-	.string "How disappointing…\p"
-	.string "If you get a big LOTAD, please\n"
-	.string "come show me!$"
+	.string "{JPN}おおきい ハスボー もってないの?\n"
+	.string "がっかり……\p"
+	.string "おおきい ハスボーを つかまえたら\n"
+	.string "みせに きてね!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
-	.string "The biggest LOTAD in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3} colossus!\p"
-	.string "A LOTAD bigger than a SEEDOT\n"
-	.string "always wanted!$"
+	.string "{JPN}しじょう さいだいの ハスボー!\n"
+	.string "{ENG}{STR_VAR_2}{JPN}の {ENG}{STR_VAR_3}{JPN}!\p"
+	.string "ずっと ほしかった タネボーより\n"
+	.string "おおきい ハスボーだ!$"
 

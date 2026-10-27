@@ -27,31 +27,31 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+	.string "{JPN}これを よーく みてくれよ!\p"
+	.string "シルクのスカーフ だぜ! いま\n"
+	.string "さいせんたんの ファッション なんだ!\p"
+	.string "おっ きみの め かがやいてるね!\n"
+	.string "おれの まぶしい センスが わかるんだ!\p"
+	.string "いやあ うれしいね!\n"
+	.string "ほら きみに これを あげるよ!$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+	.string "{JPN}おや もう もてないのか?\p"
+	.string "いいかい この スカーフは ぜったい\n"
+	.string "ひつようだ! おれなら どうぐを ぜんぶ\l"
+	.string "うってでも てに いれるね!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "{JPN}シルクのスカーフは ノーマルタイプの\n"
+	.string "わざの いりょくを あげてくれる!\p"
+	.string "ほとんどの ポケモンに にあう\n"
+	.string "すてきな スカーフ ってことだぜ!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
+	.string "{JPN}へえ! きみ うみを こえて\n"
+	.string "わざわざ ムロまで きたの!\p"
+	.string "もしかして トウキさんの うわさを\n"
+	.string "きいて きたんじゃない?\p"
+	.string "トウキさん かっこよくて……\n"
+	.string "みんなが あこがれてるんだ$"
 

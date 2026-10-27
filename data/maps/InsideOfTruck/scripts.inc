@@ -52,7 +52,7 @@ InsideOfTruck_EventScript_MovingBox::
 	end
 
 InsideOfTruck_Text_BoxPrintedWithMonLogo:
-	.string "The box is printed with a POKéMON logo.\p"
-	.string "It's a POKéMON brand moving and\n"
-	.string "delivery service.$"
+	.string "{JPN}はこに ポケモンの ロゴが かいてある。\p"
+	.string "ポケモン ブランドの ひっこし\n"
+	.string "たくはい サービスだ。$"
 

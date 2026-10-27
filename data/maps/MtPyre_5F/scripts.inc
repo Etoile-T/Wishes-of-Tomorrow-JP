@@ -9,17 +9,17 @@ MtPyre_4F_EventScript_Tasha::
 	end
 
 MtPyre_4F_Text_TashaIntro:
-	.string "I love all things horrifying…\n"
-	.string "It's like a disease…\p"
-	.string "When I'm here…\n"
-	.string "I shiver with fear…$"
+	.string "{JPN}こわいものが すきで……\n"
+	.string "すきで すきで たまらない……\p"
+	.string "あたし ここに いると……\n"
+	.string "こわくて ふるえるの……$"
 
 MtPyre_4F_Text_TashaDefeat:
-	.string "Losing, I dislike…$"
+	.string "{JPN}まけるのは きらい……$"
 
 MtPyre_4F_Text_TashaPostBattle:
-	.string "I want to see dreadful things…\n"
-	.string "I can't leave…\p"
-	.string "Stay…\n"
-	.string "Won't you stay with me?$"
+	.string "{JPN}こわいもの みたさで\n"
+	.string "ここから はなれられないの……\p"
+	.string "ねえ……\n"
+	.string "あなたも いっしょに いない……?$"
 

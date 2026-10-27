@@ -63,113 +63,113 @@ SSTidalRooms_EventScript_Naomi::
 	end
 
 SSTidalRooms_Text_TakeRestOnBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "{JPN}ベッドが ある……\n"
+	.string "やすんでいこう。$"
 
 SSTidalRooms_Text_ColtonIntro:
-	.string "I often sail to LILYCOVE CITY.\p"
-	.string "I enjoy attending CONTESTS,\n"
-	.string "you see.$"
+	.string "{JPN}ミナモシティには よく いくんだ。\p"
+	.string "コンテストの けんがくが\n"
+	.string "わたしの たのしみ なんだよ。$"
 
 SSTidalRooms_Text_ColtonDefeat:
-	.string "That was an enjoyable match!$"
+	.string "{JPN}たのしい しょうぶ だったよ!$"
 
 SSTidalRooms_Text_ColtonPostBattle:
-	.string "I get so excited imagining what kinds\n"
-	.string "of POKéMON I'll get to see in the next\l"
-	.string "CONTEST. The anticipation of it thrills!$"
+	.string "{JPN}つぎの コンテストには\n"
+	.string "どんな ポケモンが でるのか\l"
+	.string "そうぞう するだけで ワクワク するよ!$"
 
 SSTidalRooms_Text_MicahIntro:
-	.string "Are your friends strong?$"
+	.string "{JPN}きみの ともだちは つよいのかね?$"
 
 SSTidalRooms_Text_MicahDefeat:
-	.string "Your friends are, indeed, strong.$"
+	.string "{JPN}たしかに つよい ともだち だね。$"
 
 SSTidalRooms_Text_MicahPostBattle:
-	.string "Friends need not be human.\n"
-	.string "For me, POKéMON are treasured friends!$"
+	.string "{JPN}ともだちは にんげんで なくても いい。\n"
+	.string "わたしには ポケモンが だいじな ともだちだ!$"
 
 SSTidalRooms_Text_ThomasIntro:
-	.string "Child…\n"
-	.string "Did you knock on the door?$"
+	.string "{JPN}きみ……\n"
+	.string "ノックは したかね?$"
 
 SSTidalRooms_Text_ThomasDefeat:
-	.string "A loss is to be accepted without haste\n"
-	.string "or panic.$"
+	.string "{JPN}まけても\n"
+	.string "あわてず さわがず。$"
 
 SSTidalRooms_Text_ThomasPostBattle:
-	.string "To be never ruffled in any situation is\n"
-	.string "the GENTLEMAN's code of conduct.$"
+	.string "{JPN}どんな ときでも とりみださないのが\n"
+	.string "ジェントルマンの たしなみ だよ。$"
 
 SSTidalRooms_Text_JedIntro:
-	.string "JED: I feel a little shy about this, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "{JPN}ジェド: ちょっと はずかしいけど……\n"
+	.string "ぼくたちの ラブラブ パワー みせてあげる!$"
 
 SSTidalRooms_Text_JedDefeat:
-	.string "JED: Sigh…$"
+	.string "{JPN}ジェド: はぁ……$"
 
 SSTidalRooms_Text_JedPostBattle:
-	.string "JED: It's the first time that our lovey-\n"
-	.string "dovey power couldn't prevail!\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "{JPN}ジェド: ぼくたちの ラブラブ パワーが\n"
+	.string "かてないのは はじめて だよ!\l"
+	.string "きみは すごい トレーナー なんだね!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
-	.string "JED: You only have one POKéMON?\n"
-	.string "Isn't that just too lonesome?$"
+	.string "{JPN}ジェド: ポケモン 1ぴきだけ?\n"
+	.string "それって さみしすぎない?$"
 
 SSTidalRooms_Text_LeaIntro:
-	.string "LEA: I feel a little silly, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "{JPN}レア: ちょっと てれくさいけど……\n"
+	.string "ふたりの ラブラブ パワー みせてあげる!$"
 
 SSTidalRooms_Text_LeaDefeat:
-	.string "LEA: Oh, boo!$"
+	.string "{JPN}レア: やん!$"
 
 SSTidalRooms_Text_LeaPostBattle:
-	.string "LEA: I can't believe it!\n"
-	.string "Our lovey-dovey power failed…\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "{JPN}レア: しんじられない!\n"
+	.string "ふたりの ラブラブ パワーが まけるなんて……\l"
+	.string "あなた すごい トレーナー なのね!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
+	.string "{JPN}レア: しょうぶ したかったのに……\n"
+	.string "ポケモン 2ひきも いないのね……$"
 
 SSTidalRooms_Text_GarretIntro:
-	.string "Ah, you've come just in time.\p"
-	.string "I'm bored, you see.\n"
-	.string "You may entertain me.$"
+	.string "{JPN}やあ ちょうど いいところに きたね。\p"
+	.string "ボク たいくつ してるんだ。\n"
+	.string "ボクを たのしませて くれたまえ。$"
 
 SSTidalRooms_Text_GarretDefeat:
-	.string "…That will do.$"
+	.string "{JPN}……もう いいよ。$"
 
 SSTidalRooms_Text_GarretPostBattle:
-	.string "Perhaps I shall get Father to acquire\n"
-	.string "a yacht for me.\l"
-	.string "A yacht for me and POKéMON!$"
+	.string "{JPN}パパに たのんで ボク せんようの\n"
+	.string "ヨットを かってもらおうかな。\l"
+	.string "ボクと ポケモンの ための ヨット!$"
 
 SSTidalRooms_Text_NaomiIntro:
-	.string "Oh, you're such an adorable TRAINER.\n"
-	.string "Would you like to have tea?\l"
-	.string "Or would you rather battle?$"
+	.string "{JPN}あら かわいい トレーナーさん。\n"
+	.string "おちゃに なさる?\l"
+	.string "それとも しょうぶ かしら?$"
 
 SSTidalRooms_Text_NaomiDefeat:
-	.string "I see.\n"
-	.string "You're the active sort.$"
+	.string "{JPN}なるほど。\n"
+	.string "かっぱつな かた なのね。$"
 
 SSTidalRooms_Text_NaomiPostBattle:
-	.string "A world cruise on a luxury liner has its\n"
-	.string "charms, I must say…\p"
-	.string "But, I will admit there is an appealing\n"
-	.string "side to touring HOENN by ferry.$"
+	.string "{JPN}ごうかきゃくせんで せかい いっしゅうも\n"
+	.string "たしかに すてき ですけど……\p"
+	.string "れんらくせんで ホウエンを めぐるのも\n"
+	.string "なかなか よい ものですわね。$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
-	.string "Uh… Hi! I… I'm not acting suspicious!\n"
-	.string "Uh… You can have this! For free!\p"
-	.string "It… Honestly, I didn't SNATCH it from\n"
-	.string "someone! I'd never do such a thing!\l"
-	.string "It's clean! You can use it!$"
+	.string "{JPN}あ…… どうも! あ あやしく ないです!\n"
+	.string "こ これ あげます! タダです!\p"
+	.string "べ べつに だれかから よこどりした\n"
+	.string "ものじゃ ないです! そんなこと しません!\l"
+	.string "きれいな ものです! つかって ください!$"
 
 SSTidalRooms_Text_ExplainSnatch:
-	.string "SNATCH steals the beneficial effects\n"
-	.string "of certain moves before they can be\l"
-	.string "used by a foe or ally.$"
+	.string "{JPN}よこどりは あいてや みかたが\n"
+	.string "つかおうとした わざの いいこうかを\l"
+	.string "さきに うばって しまう わざです!$"
 

@@ -54,33 +54,33 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-	.string "How about a quick battle?$"
+	.string "{JPN}ふなのりは うみに でるとき\n"
+	.string "かならず ポケモンを つれていく!\l"
+	.string "ちょいと しょうぶ してくれ!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-	.string "Whoops, I'm sunk!$"
+	.string "{JPN}こりゃ まいった しずんじまった!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "The ship's bottom has sunk into the\n"
-	.string "depths.\p"
-	.string "If a POKéMON knew how to go underwater,\n"
-	.string "we might make some progress…$"
+	.string "{JPN}ふなぞこが みずの そこに\n"
+	.string "しずんで いるんだよ。\p"
+	.string "ポケモンが みずに もぐれる わざを\n"
+	.string "つかえたら さきに すすめるかもな……$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Yay!\n"
-	.string "It's a ship!$"
+	.string "{JPN}わーい!\n"
+	.string "ふね だぞー!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“STORAGE” is painted on the door.$"
+	.string "{JPN}カギが かかっている。\p"
+	.string "とびらには 「そうこ」と かかれている。$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "STORAGE KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "{JPN}{ENG}{PLAYER}{JPN}は そうこのカギを\n"
+	.string "さしこんで まわした!\p"
+	.string "さしこんだ カギは ぬけなくなったが\n"
+	.string "とびらは ひらいた!$"
 
 AbandonedShip_Text_TheDoorIsOpen:
-	.string "The door is open.$"
+	.string "{JPN}とびらは あいている。$"
 

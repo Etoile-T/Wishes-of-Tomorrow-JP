@@ -53,23 +53,23 @@ SootopolisCity_Mart_EventScript_GentlemanNoLegendaries::
 	end
 
 SootopolisCity_Mart_Text_PPUpIsGreat:
-	.string "PP UP is great!\p"
-	.string "It raises the POWER POINTS, the PP,\n"
-	.string "of a POKéMON move.$"
+	.string "{JPN}ポイントアップは すごいよ!\p"
+	.string "ポケモンの わざの パワーポイント\n"
+	.string "つまり PPを ふやせるんだ。$"
 
 SootopolisCity_Mart_Text_TooScaryOutside:
-	.string "What…\n"
-	.string "What is happening?\p"
-	.string "I really want to know, but it's too\n"
-	.string "scary to go outside.$"
+	.string "{JPN}いったい……\n"
+	.string "なにが おきてるの?\p"
+	.string "すごく しりたいけど こわくて\n"
+	.string "そとに でられないの。$"
 
 SootopolisCity_Mart_Text_FullRestoreItemOfDreams:
-	.string "Do you know FULL RESTORE?\p"
-	.string "Full restoration of HP!\n"
-	.string "Eradication of all status problems!\p"
-	.string "It's truly an item of your dreams!$"
+	.string "{JPN}かいふくのくすりって しってる?\p"
+	.string "HPを かんぜんに かいふく!\n"
+	.string "じょうたいいじょうも ぜんぶ なおす!\p"
+	.string "まさに ゆめの どうぐ だよ!$"
 
 SootopolisCity_Mart_Text_DidSomethingAwaken:
-	.string "This weather…\n"
-	.string "Did something awaken?$"
+	.string "{JPN}この てんき……\n"
+	.string "なにかが めざめたのかしら?$"
 

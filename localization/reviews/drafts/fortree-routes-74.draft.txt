@@ -1,0 +1,965 @@
+##### data/maps/FortreeCity/scripts.inc
+## FortreeCity_Text_SawGiganticPokemonInSky:
+b0c23f52096d615b	だれも しんじて くれないけど\n
+c755f390203b1538	そらに きょだいな ポケモンを みたんだ\p
+9605e29ccd0af934	くねくね しながら 131ばんすいどうの\n
+b74868eba327a3c7	ほうへ とんでいったよ\p
+2303f4c4b5773fc7	ところで…… クンクン……\n
+16550e17dfdbcb4a	あの…… きみ…… こげくさいね\p
+2a2d41614ea6ff4c	かざんにでも いってたの?$
+## FortreeCity_Text_SomethingBlockingGym:
+570741cb91a52030	ポケモンジムに いきたいのに\n
+6d2d73327a497a87	なにかが みちを ふさいでいるのよ!\p
+4bd3a271c370ea63	せっかく くろうして\n
+6fbb0edae197010a	120ばんどうろで しゅぎょう したのに……$
+## FortreeCity_Text_ThisTimeIllBeatWinona:
+89d8472151805d8f	あたしの じまんの ポケモンが\n
+620284a97657e397	いっしょよ こんどこそ ナギに かつわ!$
+## FortreeCity_Text_TreesGrowByDrinkingRainwater:
+24a866e8c0cd85d1	あめが じめんに すいこまれて\n
+46313c3752863737	その みずを すって きが そだつ……\p
+9400bb1e5d404a92	みずと つちが りょうほう あるから\n
+740c465d8605b70d	この ヒワマキシティも あるのよね$
+## FortreeCity_Text_EveryoneHealthyAndLively:
+048b9632d09cb3ed	このまちは きのうえに いえを たてて\n
+26139adb3ea1dba0	できているのです\p
+31f889d9fc28d5a9	そんな くらしの せいか\n
+0f558724c523a98f	みんな げんきで イキイキ しています\p
+474fbdeffd4667ee	わしも なんだか\n
+c7e6a82babbb43cf	30ねんほど わかがえった きぶんです$
+## FortreeCity_Text_BugPokemonComeThroughWindow:
+cbaa378ffb85f9fe	きのうえで くらすのは いいんだけど\p
+1960ded92612298f	ときどき まどから むしポケモンが\n
+62e2a79661c45513	はいって くるんだよね\l
+bf6ce44e6a8fcd74	ほんと びっくり しちゃうよ$
+## FortreeCity_Text_PokemonThatEvolveWhenTraded:
+a0811ff1fd28a80b	こうかん すると しんか する\n
+d381313932dea869	ポケモンが いるんだって! きいたんだ$
+## FortreeCity_Text_SomethingUnseeable:
+151ac1c25e8217be	みえない なにかが いるようだ$
+## FortreeCity_Text_UnseeableUseDevonScope:
+0d53809f02fe21b6	みえない なにかが いるようだ\p
+86cdc346cb8480fd	デボンスコープを つかいますか?$
+## FortreeCity_Text_UsedDevonScopePokemonFled:
+ab31541d97c132c6	{PLAYER}は デボンスコープを つかった!\p
+ff4e8fc56abf3aaf	みえない ポケモンが すっかり\n
+74c33d3beb66dc4c	すがたを あらわした!\p
+e3453c8278c0f6bd	おどろいた ポケモンは にげだした!$
+## FortreeCity_Text_CitySign:
+fcf4bba20bb9bfa7	ここは ヒワマキシティ\n
+41d9033414ab981e	「しぜんと たわむれる\l
+078ca48d0d398d9d	きのうえの まち」$
+## FortreeCity_Text_GymSign:
+3131b1c190816548	ヒワマキシティ ポケモンジム\n
+7240c08b928b6bce	リーダー ナギ\p
+3813beba9bfe0958	「せかいへ はばたく\n
+2f81a3d5de90b78e	とりつかい」$
+##### data/maps/FortreeCity_DecorationShop/scripts.inc
+## FortreeCity_DecorationShop_Text_MerchandiseSentToPC:
+5a3caaf0e4930cb1	ここで かった ものは\n
+92510a90204f7095	じぶんの パソコンに とどけられる!\p
+36acc883939761d3	なんと すばらしい! ついでに わしも\n
+a54057b35c633208	いえまで とどけて くれないものか$
+## FortreeCity_DecorationShop_Text_BuyingDeskForDolls:
+7a19c49625ecb96e	すてきな つくえを かって\n
+5b178f93bd23ddcf	かわいい ぬいぐるみを ならべるんだ\p
+d0b92a4a92f6211d	そうしないと ひみつきちを\n
+20dbf50df94075c7	かざるとき ぬいぐるみが\l
+8aa43742cc9802a6	よごれたり トゲが ささったり しちゃう$
+##### data/maps/FortreeCity_Gym/scripts.inc
+## FortreeCity_Gym_Text_GymGuideAdvice:
+c647a9496b76a2d3	よう げんきか?\n
+a360a0e58ba9df91	チャンピオンを めざす {PLAYER}!\p
+5f255da29a98b123	ヒワマキジムの リーダー ナギは\n
+5d35df1a6638e509	ひこうタイプ ポケモンの つかいてだ!\p
+2bc8a3d9347fa804	かのじょは この ジムの おく\n
+63011ff20282c56e	かいてんとびらの むこうで まっている\p
+9854c46544bfcbf5	はばたこうと する\n
+035685bef342580c	あらたな チャレンジャーを まってるぞ!\p
+454079d9b067a149	よし がんばってこい!$
+## FortreeCity_Gym_Text_GymGuidePostVictory:
+c85f9c1c483d96de	やったな!\n
+3d9c2db810c308c5	みごとに とびたったぞ!$
+## FortreeCity_Gym_Text_JaredIntro:
+3601d27c5ab90504	とりポケモンの かれいな たたかいを\n
+7588c6a5f16917db	みせて やるぜっ!$
+## FortreeCity_Gym_Text_JaredDefeat:
+554dbf9e7b0202f0	きみ……\n
+e6801ed9bc93cbd0	つよいな……$
+## FortreeCity_Gym_Text_JaredPostBattle:
+664a8427b86c3ade	トレーナーは あたまが よくないと\n
+fe0b564768caae17	よそうがいの てんかいに ついていけない\p
+c86fe0c5b4488e41	きみに リーダーまで たどりつく\n
+781da73dd75ee594	あたまが あるかな?$
+## FortreeCity_Gym_Text_EdwardoIntro:
+330ecd61233f3d39	とりポケモンを あいする ものは\n
+92748b98f762a7bc	この ジムに はいるのが ゆめなんだ!\p
+82a17322ca80efb3	ヒワマキジムの いちいん として\n
+622537fac590fbfb	まける わけには いかないんだ!$
+## FortreeCity_Gym_Text_EdwardoDefeat:
+a745b92f9cf446b9	ぼくには にが\n
+59fc1822a9f673b7	おもすぎた……$
+## FortreeCity_Gym_Text_EdwardoPostBattle:
+edaa297870fcc33b	せかいは ひろくて つよい トレーナーが\n
+d9a6a8cb826d7828	かぞえきれないほど いる\p
+2de91da7c32fd6df	ここで しゅぎょうを つづけて\n
+18fee686d43bb7b1	もっと つよく なってみせるよ$
+## FortreeCity_Gym_Text_FlintIntro:
+6600d9832a29ab9d	ジムリーダーの ナギさんが\n
+15887941df2577bd	でるまでも ない!\p
+4af124dc6c1d910a	きみの あいては オレで じゅうぶんだ!$
+## FortreeCity_Gym_Text_FlintDefeat:
+baf6ce0f5f968a36	ナギさん オレ……\n
+177410e9bf770564	まけちゃいました!$
+## FortreeCity_Gym_Text_FlintPostBattle:
+86f9073e568fa75f	ナギさんは かわいくて つよい\n
+1ed7dd132db4261f	さいこうの リーダーだよ!\p
+e1ecbb9915903966	……ポッ$
+## FortreeCity_Gym_Text_AshleyIntro:
+32dbc647272cfd1e	ナギさんに じきじきに おそわったのよ!\n
+a72b61955a968d8c	そう かんたんには まけないわ!$
+## FortreeCity_Gym_Text_AshleyDefeat:
+eb24a6defdc69a2a	まけちゃった……$
+## FortreeCity_Gym_Text_AshleyPostBattle:
+58e2e8c9f8bafeaf	ナギさんの おかげで ヒワマキの ひとは\n
+b22fbd95476cdf8f	あんしんして くらせるの$
+## FortreeCity_Gym_Text_HumbertoIntro:
+fccfd5c5924eae6d	たたかう ときの ナギさまの かおは\n
+8b9826818a9ce3eb	うつくしい けついに かがやく……\p
+acd8dc15f77e4ade	あの すてきな すがたを きみには\n
+fee99e8919ff46de	みせて やらない!$
+## FortreeCity_Gym_Text_HumbertoDefeat:
+b5fee63bf84a4ab2	うう!\n
+cf5109c52acdff04	おれでは とめられ なかった$
+## FortreeCity_Gym_Text_HumbertoPostBattle:
+ce9c86d73db5ecc7	きを つけるんだな!\n
+fbff9d22af6cb0ca	ナギさまに みとれていると\l
+29432946b1d981af	まっさかさまに ついらく するぞ!$
+## FortreeCity_Gym_Text_DariusIntro:
+18e39c053c3854c0	ひこうタイプの ポケモンにも\n
+2e8137bece8f3740	いろんな しゅるいが いるんだぜ\p
+1613fad4d3aa9ee7	それくらい わかってる よな?$
+## FortreeCity_Gym_Text_DariusDefeat:
+0eff6dd54095cc9c	なかなか わかってるな!$
+## FortreeCity_Gym_Text_DariusPostBattle:
+515ccf38a979b72e	たしかに おれは まけたよ\n
+6d9d6503d83b2d5d	でも きを つけな! ナギリーダーの\l
+b1046f6763463c5b	ポケモンは ほんきで てごわいぞ$
+## FortreeCity_Gym_Text_WinonaIntro:
+36c22e018c4b7521	わたしは ナギ……\n
+9420eebff197c76e	ヒワマキ ポケモンジムの リーダーです\p
+a13a574338d3ff53	とりポケモンと こころを かよわせ\n
+4d456bc58b35facf	いっしょに おおぞらを まい……\p
+7402d2138e33832c	どんな くるしい しょうぶも\n
+bf6b2763b15510f9	ゆうがに かちぬいて きました……\p
+2a37cf34802f2674	さあ わたしと とりポケモンが おりなす\n
+05e89a08569bfb14	かれいな まいを ごらんなさい!$
+## FortreeCity_Gym_Text_WinonaDefeat:
+5af7de3b9396a2d8	わたしより ゆうがに\n
+c0adb3400184a9fe	ポケモンを あやつる トレーナーには\l
+be9022eb60cfb84b	はじめて であいました……\p
+e0ffb3a057b7738a	その じつりょくを みとめ\n
+32cb2eebe90c3321	この ジムバッジを おわたしします$
+## FortreeCity_Gym_Text_ReceivedFeatherBadge:
+82b90509a6927d88	{PLAYER}は ナギから\n
+d58a46aa91281acd	フェザーバッジを もらった!$
+## FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
+2255b2b57975b9d0	フェザーバッジが あれば\n
+d0af1420e2fab814	こうかんした ポケモンでも\l
+6aef2e2b49f68421	レベル70まで いうことを ききます\p
+2fb7e4d63553b96a	それに たたかい いがいで ひでんわざ\n
+2e3329c31cc87a59	そらをとぶを つかえるように なります\p
+992073dc2935a835	それと これは……\n
+35d8edd4e52d74fd	わたしからの おくりものです$
+## FortreeCity_Gym_Text_ExplainAerialAce:
+05048ca611d232ff	わざマシン40は つばめがえし\p
+4285aeb7c2d2e042	その はやさは……\n
+a19b4815776aaddb	どんな ポケモンも よけられないはず\p
+7da60028dcac8b32	…… …… …… …… …… ……$
+## FortreeCity_Gym_Text_RegisteredWinona:
+3fa65a05fc424d14	ジムリーダー ナギを\n
+498cb66a37644b72	ポケナビに とうろく した!$
+## FortreeCity_Gym_Text_WinonaPostBattle:
+c5741fa4024fa9b5	あなたには やぶれましたが わたしは\n
+dabdb2296bbd2c48	これからも とりポケモンと あゆみます$
+## FortreeCity_Gym_Text_GymStatue:
+e646500f8345d162	ヒワマキシティ ポケモンジム$
+## FortreeCity_Gym_Text_GymStatueCertified:
+02aee3476a0fe7c9	ヒワマキシティ ポケモンジム\p
+0403e717f2ce8eae	ナギ にんてい トレーナー\n
+9455a91fc3d0914f	{PLAYER}$
+## FortreeCity_Gym_Text_WinonaPreRematch:
+5ddae6d034d82641	ナギ: わたしたち にんげんは\n
+ff0f3d5757e01cb7	じめんに ひかれる ちからから にげられない\p
+cb10b118738a5f4d	でも たかみを めざす ことで\n
+5f9f4391476ea91f	まいあがる ちからを えられるのです!\p
+47627e7e0ea30509	あなたは チャンピオンとして\n
+c2acf9f837e9f537	いただきに のぼりつめました\p
+ad468202ca1989e1	どうか あなたの ちからを\n
+6b9a97ea14b26b38	ぞんぶんに みせてください!$
+## FortreeCity_Gym_Text_WinonaRematchDefeat:
+f212e499a389294f	やはり あなたの たかさには とどかない……$
+## FortreeCity_Gym_Text_WinonaPostRematch:
+9614c47eb72b8940	ナギ: やぶれは しましたが\n
+44a044061332bbdf	こころの つばさは おれていません\p
+40070037b7365c53	わたしは なんどでも\n
+cb954a5f1ba1bc2d	また まいあがれる\p
+1e7c02c6a4a2eafd	そう かくしん しています!$
+## FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
+4c1ad922e10b0c8c	ナギ: わたしたち にんげんは\n
+dac449c9acb8f87b	じめんに ひかれる ちからから にげられない\p
+2c2e4ade04b4be99	でも たかみを めざす ことで\n
+09730542a57b6892	まいあがる ちからを えられるのです!\p
+b0daf37ddd3a75d0	あなたは チャンピオンとして\n
+b5f7c7011d573748	いただきに のぼりつめました\p
+f05c7a07ecad29c6	どうか あなたの ちからを\n
+0b03be8b557463b2	ぞんぶんに みせてください!\p
+6402ece438f81adc	あら…… ポケモンを 1ぴきしか\n
+6658cad1b1ebf00d	つれて いないのですか?\p
+9956623975550653	すくなくとも 2ひきの ポケモンを\n
+2f4c7c300fd44a9e	つれて きてください$
+##### data/maps/FortreeCity_House1/scripts.inc
+## FortreeCity_House1_Text_YouWillTradeWontYou:
+e482118c54e806c9	うおおおおー! ほしいー!\n
+1636406035cb5955	{STR_VAR_1}が どうしても ほしいー!\l
+c3ae2f9b62a4ed1f	そのためなら なんでも するぞー!\p
+4cdd3447377bbdc0	……あ…… いまの きいた?\n
+71bec00b772b7829	おれの こころの そこからの さけび\p
+7f8a75967f330dae	それを きいたからには\n
+f5c07725b843d365	{STR_VAR_1}と {STR_VAR_2}の\l
+8bb0d0734c50775c	こうかん してくれるよね?$
+## FortreeCity_House1_Text_MonYouTakeCare:
+5ccf1d91d722b4fa	おー やったー!\p
+081cdc8756970e78	{STR_VAR_1} よくきたなー!\n
+bc9d49dfa77ad56c	{STR_VAR_2} げんきで やれよー!$
+## FortreeCity_House1_Text_ThisIsntAMon:
+d2a4dc66953c164a	いや ちがうでしょ\n
+f9def302bc080d9d	それ {STR_VAR_1}じゃないでしょ$
+## FortreeCity_House1_Text_YouWontTradeMe:
+12132a962cc89436	え? こうかん しないの?\n
+f3b011b80f7688f4	こころの さけびを きいたくせに……$
+## FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
+a2edc39c6cb7b2be	これから バルビートを\n
+e88d405a1987affa	めちゃくちゃ つよく するぞ!\p
+9a96a85a5c7af223	きみも プラスルを つよくしてね!$
+## FortreeCity_House1_Text_TradingMemoriesWithOthers:
+2f444fc98307ea05	ひとと ポケモンを こうかん する……\p
+2a5f42ce50932255	つまりは じぶんの おもいでを\n
+c8e3e6682b000896	ひとと こうかん しているのじゃな$
+## FortreeCity_House1_Text_Zigzagoon:
+26ef3bc44ad1e118	ジグザグマ: グモモォ?$
+##### data/maps/FortreeCity_House2/scripts.inc
+## FortreeCity_House2_Text_HiddenPowersArousedByNature:
+e8b5f267fddd3a45	ひとも…… ポケモンも……\p
+c52d636c9276b7dd	しぜんの なかで くらすことで\n
+d9e5ce3da98cee77	ひめた ちからが めざめる……$
+## FortreeCity_House2_Text_CoinInWhichHand:
+f0108cfdac10438b	あんたの ひめた ちからが めざめて\n
+316717358cdc761b	おるか この ばばが みてやろう……\p
+b1ce0ac8933d8901	わしは てに コインを もっておる\p
+7421f91af35b775f	さあ こたえておくれ コインは\n
+1b3d0263195e68bd	みぎての なかか? ひだりての なかか?$
+## FortreeCity_House2_Text_CorrectTryAgainWhichHand:
+19a6bb84c1d7ff21	おお! そうじゃ せいかいじゃ!\p
+cbf9541b7cd458e2	もう いちど やるぞ\p
+b6269ebcb7f7fb30	コインを かくしたのは どっちの てじゃ?\n
+f34d721917052075	みぎか? ひだりか?$
+## FortreeCity_House2_Text_CorrectTryAgainWhichHand2:
+3553c937d0bcfa6c	おお! そうじゃ せいかいじゃ!\p
+e3ef6f45ec6e191a	もう いちど やるぞ\p
+d2ff847feb13d7ec	コインを かくしたのは どっちの てじゃ?\n
+633841c3ba7613f9	みぎか? ひだりか?$
+## FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
+d1b99921d23e8e9b	おお! みごとじゃ!\n
+4e2eb06a25d2b1e5	あんたの ひめた ちからは めざめておる!\p
+40ecab0a41ee9690	これを もって ポケモンの ひめた\n
+0339b5ea81a78cee	ちからも めざめさせて おやり$
+## FortreeCity_House2_Text_ExplainHiddenPower:
+b70aa694dc8d5da2	めざめるパワーは ポケモンによって\n
+851b7729a884065a	かわる わざ なんじゃよ$
+## FortreeCity_House2_Text_YouGuessedWrong:
+9f12e62e6a3aea29	ざんねん……\n
+ff5a8ebde7b79243	はずれ じゃ……$
+##### data/maps/FortreeCity_House3/scripts.inc
+## FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
+b054c8f12a19ad1d	ポケモンずかんの はなしで\n
+75ec3d3dcfb12285	おもいだした ことが ある\p
+9eda73a65fcff64f	めずらしい いしを さがしていたとき\n
+63202b1348c0b797	ダイゴという トレーナーに あったんだ\p
+284ed8df2e739af7	いやあ かれの ポケモンは\n
+4165a246a7230dda	すごかったよ\p
+db6d981afed0d0e4	めずらしい だけじゃなく\n
+8599f95489e1b8c4	おそろしいほど きたえられていた!\p
+b6c984de486bfb17	もしかすると この まちの ジムリーダー\n
+2a164aefc607c438	よりも つよいかも しれないな……$
+## FortreeCity_House3_Text_OhYouHavePokedex:
+d548178cb53e2494	きみの もっている それ なに?\p
+39dd787548c4d167	…… …… …… …… …… ……\p
+67215a607e03595c	へー ポケモンずかん っていうんだ?\n
+c7c550ff17e1acda	すごいねえ!$
+##### data/maps/FortreeCity_House4/scripts.inc
+## FortreeCity_House4_Text_BringsWorldCloserTogether:
+dc048cd1f3f1f34b	ポケモンと いることで\n
+ff4376da871c0fe4	ひとは ともだちが どんどん ふえていく\p
+fc5127c0d8960d22	そうして せかいが ちかづいていくの\n
+9511d75c40d46a9c	すてきな ことだと おもうわ!$
+## FortreeCity_House4_Text_GoBirdPokemon:
+5386cc045ee9272b	それっ!\n
+eea06a1696cc3340	ゆけっ とりポケモン!$
+## FortreeCity_House4_Text_AskedWingullToRunErrand:
+348a9c783b06490c	えへへ キャモメに\n
+4b67b58f761fd06a	ちょっと おつかいを たのんだのさ$
+## FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
+400522f487425f56	よし!\n
+f16a7974684bf301	おかえり キャモメ!\p
+e6cbfde4e2cf8502	あれ? これ なんだろう?\n
+ab6cd151638a5f4a	なにを もってるの?\p
+f77db07ece936a75	メンタルハーブ?\n
+9ba8524cd4ae76e8	どこかで ひろって きたんだな\p
+a0133bf73724aae8	でも ぼく トレーナーじゃ ないから\n
+27248dd54b47954a	きみに あげるよ$
+## FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
+965eff7d86071adb	キャモメの おかげで\n
+50a01787b9e4b824	とおくに すむ ともだちが いるのさ$
+## FortreeCity_House4_Text_Wingull:
+946e5b6764f2d935	キャモメ: ぴひょー!$
+##### data/maps/FortreeCity_House5/scripts.inc
+## FortreeCity_House5_Text_TreeHousesAreGreat:
+7d5a4897b6feaee3	ヒワマキの ツリーハウスは さいこう!\p
+8d7ee8511cfdb95e	ポケモンと いっしょに くらすなら\n
+a201d79c731daf48	ここが いちばんの まちだと おもう$
+## FortreeCity_House5_Text_AdaptedToNature:
+17dd8c89c636374a	ポケモンも ひとも いきるために\n
+968cb2c301ceb992	しぜんに あわせて くらしてきたからな\p
+3cc5c2b91a71d8b8	いまさら じぶんらの つごうに\n
+5ddcf93df7c07899	しぜんを あわせなくて いいんだよ$
+## FortreeCity_House5_Text_Zigzagoon:
+5532402e700e9f6f	ジグザグマ: ぶふう!$
+##### data/maps/FortreeCity_Mart/scripts.inc
+## FortreeCity_Mart_Text_SuperRepelBetter:
+d633045fcd5ce074	シルバースプレーは ききめ ながもち\n
+5d759459024b383b	しかも ちゃんと きくのよ\p
+cf12b6b80e80e495	ふつうの むしよけスプレーより\n
+5e94caf281854cd8	ずっと いいわね!$
+## FortreeCity_Mart_Text_StockUpOnItems:
+907236ed8838fe83	ぼくは いつも ひつような ぶんより\n
+98ccb189fab96187	おおめに どうぐを かっておくんだ\p
+db652d01acc28f73	なにが おこるか わからないからね\n
+4b0a7e68a647c82d	そなえあれば うれいなし!$
+## FortreeCity_Mart_Text_RareCandyMakesMonGrow:
+27f89bc42db2b180	ふしぎなアメを つかうと ポケモンは\n
+53139fdbdeb978a8	すぐに レベルが 1 あがるよ$
+##### data/maps/FortreeCity_PokemonCenter_1F/scripts.inc
+## FortreeCity_PokemonCenter_1F_Text_GoToSafariZone:
+3a08e872938885df	きみぃ\n
+658d14b67533b957	ポケモンずかん つくっておるのか?\p
+2b4006f170b21af2	ふむぅ…… サファリゾーンに\n
+0b452a664ad340ca	いっては どうかな?$
+## FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat:
+14d1b8a9801eb9ee	レコードコーナーで\n
+62c1a37fd8bb431d	なにか やってみた?\p
+56178a00fd7de485	けっこう いいよ トレーナーの\n
+cefd3170af316f41	レコードを まぜあわせるんだ\p
+586affd79f02d7bf	しくみは よく わからないけど\n
+df8e91fe5a149435	かっこいいし ワクワク するよ!$
+## FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav:
+c968d7e0f1f0e668	わあ ポケナビ もってるんだ!\n
+51554ca4b61cf551	わたしのと おなじだね!\p
+efd65616e5891898	ポケナビの エントリーコールって\n
+e226f81cc9d7a7ac	しってる?\p
+d85f564119079fb0	それを つかえば とうろくした\n
+64282d248318fa8c	トレーナーと いつでも はなせるの\p
+0c1d2b2205827806	さいせんを したがってる トレーナーも\n
+0dd52449486a5275	おしえてくれるんだよ\p
+f12f273322d0f7e3	ほんと べんり! デボンの ひとたちって\n
+0b42b0886852b58d	さすが よく わかってるよね!$
+##### data/maps/Route114/scripts.inc
+## Route114_Text_AllMyMonDoesIsRoarTakeThis:
+138ede050a740f9e	わたしの ポケモン ほえてばかりで……\n
+937bbd45983b1830	だれも ちかづいて こないの……\p
+035f9b43cefbf4e7	はあ…… よかったら この\n
+d838561d347b374a	わざマシン もらってください……$
+## Route114_Text_ExplainRoar:
+56f5ad0cf873fb24	わざマシン05の なかみは ほえる\n
+ba95631c4352141b	ほえると ポケモンが にげだすのです$
+## Route114_Text_Poochyena:
+10d56c278947de13	ばうっ! ばばうっ!$
+## Route114_Text_MeteorFallsSign:
+43b96c572bb5e2a0	ここは りゅうせいのたき\n
+6365dffc10c3dbe2	とおりぬけると カナズミシティ$
+## Route114_Text_FossilManiacsHouseSign:
+c83da40dafd3af6c	「カセキマニアの いえ」\n
+d802e6b56c6f14af	「カセキ よろこんで うけとります!」$
+## Route114_Text_LanettesHouse:
+632494a0eaf9781e	「マユミの いえ」$
+##### data/maps/Route114_FossilManiacsHouse/scripts.inc
+## Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
+b5393e945da64454	ぼくの にいちゃんは カセキマニア……\n
+e6de2b7773832a33	カセキが だいすきな ナイスガイ……\p
+b881dd7f9fb70a5a	あなを ほるのも だいすき……\n
+1246cd8fd990c836	この あなも ひとりで ほったんだ……\p
+5c9e81813c2e1761	これ あげるよ にいちゃんみたいに\n
+5e408e6f5df4fb88	あなを ほれるように……$
+## Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
+ea88b961679112fc	どうくつで ポケモンに あなをほるを\n
+f5f65fff6a65aec6	させると いりぐちに もどれるよ……$
+## Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
+8598b71f212a6bbc	ケースの なかに かわった かたちの\n
+4a7890441042c068	いしが いっぱい かざってある……$
+## Route114_FossilManiacsHouse_Text_CrammedWithBooks:
+2b0f081e2feec2ee	『ちそうの なりたち』……\n
+c11c5ffc05f9671b	『あめが だいちを かたちづくる』……\l
+a5b49fd1fecb6690	『いしと つちと がんせき』……\p
+d8ed19ecf636c36d	ほんが ぎっしり つまっている$
+##### data/maps/Route114_FossilManiacsTunnel/scripts.inc
+## Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
+2723bd3df6b88b02	ぼく カセキマニア……\n
+ac11ed26b5922483	カセキ だいすき ナイスガイ さ……\p
+ee90f9f78954aed0	きみも カセキが ほしいの?\p
+375126efeb1cf0fa	でも この あたりの カセキは\n
+ccfb021b8bffe4e6	ぜんぶ ぼくの もの…… あげないよ……\p
+4aba493d76a75aa3	どうしても カセキが\n
+daabb0ad7f171895	ほしいなら カセキが うまってそうな\l
+19ed63eba8f195f8	いわや すなの ある さばくでも\l
+b3c32e9a45392eb8	さがして みなよ……$
+## Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
+8006ccd088894747	カセキを みつけたんだね?\n
+ed52dd3511037469	いいなあ…… うっとり しちゃう……\p
+ed17b4fa050be1c8	その カセキ\n
+e7dbaec30a14d00a	どうするの?\p
+602b534d5855e97e	きいた はなしだと デボンが\n
+cc6ff6f98b07e3b5	カセキから ポケモンを ふっかつさせる\l
+e44f2d9295119424	けんきゅうを しているんだって……\p
+abb113e329bb2898	ぼくは カセキが すきだから\n
+d8cfb9baa3aaa3a8	そんなこと ぜったい しないけど……$
+## Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
+85b634ba3514721a	カセキって…… すてき……\n
+96e5685a728398c5	うっとり しちゃうよ……$
+## Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
+4899d8da21760c6e	あ……\n
+62d54f60279d0ac4	そっちは あぶないよ……\p
+cdd21abe038f52de	ぼくが ほりすすめて いたら……\n
+b78166f15020212c	かべが まるごと くずれて……\p
+0bd70789ca1dd902	いまは したに おおきな どうくつが\n
+aaf53f335a35a704	あるみたい……\p
+2755539027a51209	でも カセキは なさそうだから\n
+0c656d6c40abec16	ほうって あるんだ……$
+##### data/maps/Route114_LanettesHouse/scripts.inc
+## Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
+483d8fb6b4fc1578	マユミ: あっ! {PLAYER}{KUN}!\p
+c4c8d52763bf4107	ちらかっていて ごめんなさい……\n
+71529c7776d56361	けんきゅうに むちゅうに なると\l
+bea16d4a9dd5c231	つい こう なっちゃうんです……\p
+1abd9454efa517f4	はずかしいから ヒミツに してくださいね\n
+af21ee74f1cbb9c4	かわりに これ あげますから……$
+## Route114_LanettesHouse_Text_OrganizeYourBoxes:
+989f052b3dba22ab	わたしの ポケモン あずかりシステムの\n
+c8e75c52d37496ea	アドバイスを しても いいですか?\p
+e9b821b53e40c18e	どの ポケモンが はいってるか わかるように\n
+fc38801cc737ac0f	ボックスを せいり すると いいですよ$
+## Route114_LanettesHouse_Text_ResearchNotesPage1:
+4c0e4c0d08a46fd2	マユミの けんきゅうノートだ\n
+f70bb45a58438535	ボックスに ついて かいてある\p
+0b238020c5d979c4	ボックスは 1つに 30ぴき はいるように\p
+bad1a91490906499	パソコンには トレーナー ひとりにつき\n
+a3fae55e0b56a6b0	420ぴき あずけられる ようにする\p
+7f0ccc17d7b3491c	つづきを よみますか?$
+## Route114_LanettesHouse_Text_ResearchNotesPage2:
+4629f026ec15dc34	ポケモンを マーキングできるようにして\n
+de85310433d10add	せいり しやすく する\p
+46a6dfdbf8d58183	ボックスの なまえと かべがみを\n
+01a0d2289771d72a	かえられる ようにして あずけられた\l
+005b55eed308a455	ポケモンが よろこぶ ようにする\p
+405094d3534216c5	つづきを よみますか?$
+## Route114_LanettesHouse_Text_ResearchNotesPage3:
+7aa004259ccfb6aa	ポケモンを あずけるときは\n
+11b64b7f8fef6bdf	さいごに みた ボックスに おくる\p
+e77b4663e2cc8fc9	その ボックスが いっぱいの ときは\n
+1ddc123be47da2b9	つぎの ボックスに おくる\p
+0a7cf7432b673a4c	つまり ボックスを みると\n
+d4e333ccab01a33e	そこが ポケモンを おくる ボックスに\l
+ac2b93b5cc960f97	じどうで えらばれる ようにする$
+## Route114_LanettesHouse_Text_ClosedTheNotebook:
+cdb8a04e90aff4a7	{PLAYER}は ノートを とじた$
+## Route114_LanettesHouse_Text_EmailFromBill:
+d5017623165c6a95	パソコンに だれかからの\n
+de507c546eb55f79	メールが とどいている\p
+8e5cd1b14c8b562d	「…… …… …… …… …… …… ……\p
+e6d686d91c643d3f	「きみの あずかりシステムは\n
+4d4581491b42313d	ぼくのより ずっと べんりや\p
+01f585058e6ef939	「つかいやすい きのうが いっぱいで\n
+5a37621191372650	たのしいし やくにも たつ\p
+36e8101cf329c2db	「その かいはつに かかわれて\n
+a91d697cf309fc06	ほこらしく おもうで\p
+68fa16dffac671d1	「これからも あずかりシステムの\n
+fa5caeae32e18744	けんきゅう つづけてな\p
+c5054757370c76ab	「マサキより\n
+70e79d23e8863750	…… …… …… …… …… …… …… ……」$
+##### data/maps/Route115/scripts.inc
+## Route115_Text_NeverKnowWhenCavePokemonWillAppear:
+c2baa5ad0fd3e906	どうくつの たんけんは みちを\n
+0f7eae94088c6177	あるくのとは ちがう\p
+093e7e3678c27141	いつ やせいの ポケモンが でるか\n
+6f31ccd1fc62a62a	わからない スリル まんてんだ$
+## Route115_Text_RouteSignRustboro:
+f679a8bbece9d856	ここは 115ばんどうろ\n
+14ef92de49a6a42c	{DOWN_ARROW} カナズミシティ$
+## Route115_Text_MeteorFallsSign:
+a4d44569fa931866	ここは りゅうせいのたき\n
+183f61d0b9652341	とおりぬけると ハジツゲタウン$
+##### data/maps/Route116/scripts.inc
+## Route116_Text_ScoundrelMadeOffWithPeeko:
+9beca17870d056e7	あああ どうしたら いいんじゃ!\p
+1eb10f35ea0e13e5	ピーコちゃんと さんぽを していたら\n
+13c6311bb99c196c	いきなり あやしい やつに おそわれて\p
+0fab7d391b647145	わしの かわいい ピーコちゃんが\n
+d6b0577d20041db3	うばわれて しまったのじゃ!\p
+a55bfa6c55fdf02a	うおおおおー! ピーコちゃーん!$
+## Route116_Text_WantToDigTunnel:
+f0ee3afda54728b7	ぬぬ…… ぬぉー!\p
+c1b2f2194a17fcc4	トンネル ほりてー!$
+## Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
+eca63e6a1f8d85e6	ぬぬ…… ぬぉー!\n
+79c496d1c0fb1535	どうなってるんだ?\p
+570f60a29bf05fad	どうぐを つかわずに トンネルを\n
+d5241f533c42d3c2	ほってたら へんな やつに おいだされた!\p
+89b8c05a38b5e92f	あの トンネルには おおきな おとに\n
+bf476cd5fe358102	びんかんな ポケモンが いっぱい いて\l
+e1b96a5bf2870392	さわぎに なりかねないんだ\p
+7f08c9f6480dc5fe	だから おおがたの きかいで ほるのは\n
+ed38904894dc4c72	やめたんだが……\p
+af598c78704f2a65	あいつが バカな ことをして\n
+ede33c035b04fff6	ポケモンを おどろかせて\l
+3040655454ec9b31	おおさわぎに ならないか しんぱいだ$
+## Route116_Text_GoonHightailedItOutOfTunnel:
+9bc577a6aedbf159	ぬぬ…… ぬぉー!\p
+927c1eacbbc248c1	へんな やつが トンネルから\n
+8a5a9feeaf079844	にげていった! これで また ほれるぞ!$
+## Route116_Text_ThankYouTokenOfAppreciation:
+ccd6e50966db0688	おお! きみは!\p
+f1d30cc8f171c1cc	トウカのもりで わたしを たすけて\n
+a664430b12f24161	くれただけでなく ぬすまれた にもつを\l
+aaf8788ff81ba83c	とりかえし さらに カイナまで\l
+4b77cf64d49fa732	とどけて くれた ひとじゃないか!\p
+efb795ebd7bbf5de	クスノキかんちょうから にもつが\n
+d5a13ce5cf9628c7	とどいたと れんらくも あったよ!\p
+002b9cf15d7b666e	ほんとうに ほんとうに ありがとう!\p
+824cd9afe0dfe370	わたしが あまぐもなら かんしゃの\n
+76e0d76a7164bbe0	あめを ふらせて きみを えいゆうと\l
+371e7613d244b2f7	たたえる ところだよ!\p
+74914814be98f783	すばらしい トレーナーの きみに\n
+7a5b3e112379973b	いい しらせが あるんだ!\p
+2ec015dc1a661ecc	さいきん わが しゃで あたらしい\n
+30071c8f725ecdcb	モンスターボールを かいはつ したんだ\p
+77499b3dc40ab6e3	かんしゃの しるしに すばらしい\n
+43d3ae9d18c2ea0b	トレーナーの きみに プレゼントだ!$
+## Route116_Text_NewBallAvailableAtMart:
+e2a2becb754a05c6	あたらしい ボールは カナズミの\n
+d8f5e46196f2d129	フレンドリィショップで かえるよ\p
+562f6743008aef84	ぜひ ためして みてくれ!\n
+c810b356dc1c2229	ありがとう それじゃ!$
+## Route116_Text_BagIsJamPacked:
+8f6f56347ad08d6b	バッグが いっぱい だね\n
+87da533fc936dc0b	リピートボールを わたせないよ$
+## Route116_Text_TokenOfAppreciation:
+3248b7f3d80b85cd	にもつを とどけてくれた ことへの\n
+df6e41daa9c5bae2	かんしゃの しるしとして\l
+1d822ed132f096f1	すばらしい トレーナーの きみに\l
+4b81761c310db110	あたらしい ボールを プレゼントだ!$
+## Route116_Text_CanYouHelpMeFindGlasses:
+7f56d40a3832ef42	メガネを おとしたんだ……\n
+0d1fa6d6990dd0fb	さがすの てつだって くれる?$
+## Route116_Text_MayISeeThoseGlasses:
+008c885f3f64cba4	その メガネ!\n
+babd9f0e14ca3af8	ちょっと みせて くれる?$
+## Route116_Text_NotWhatImLookingForMaybeTheyArentHere:
+0748e7a1fbf54c8e	うーむ……\n
+6c4b94da84cac7a1	これは くろいメガネ だね\l
+353e9c475232dbab	ぼくが さがしてるのと ちがう……\p
+05047507ab151d0e	ぼくの メガネは このへんには\n
+c692321d2366cb8f	ないのかなあ……$
+## Route116_Text_CantFindGlassesNotHere:
+b49caa625f45ac52	うーむ……\n
+9fe8be26f4e9ed85	どこにも メガネが みつからない……\l
+6115aa9a04ffd914	このへんには ないのかなあ……$
+## Route116_Text_NotWhatImLookingFor:
+1b3909c46cb7fd54	うーむ……\n
+91688be128776feb	これは くろいメガネ だね\l
+c5db748a9af83afe	ぼくが さがしてるのと ちがう……$
+## Route116_Text_RouteSignRustboro:
+2aa3e1c4c643fa4a	ここは 116ばんどうろ\n
+c43529f133547726	{LEFT_ARROW} カナズミシティ$
+## Route116_Text_RusturfTunnelSign:
+a205b2c6982c574f	カナシダトンネル\n
+473cf26490fc0a15	「カナズミと シダケを むすぶ\p
+0472accaae19fbf9	「トンネル こうじは\n
+2629e046655bee26	ちゅうし されました」$
+## Route116_Text_TunnelersRestHouse:
+9eede4a1d3bd3c51	トンネルこうじ さぎょういん つめしょ$
+## Route116_Text_TrainerTipsBToStopEvolution:
+55ca2a0733f48b6b	トレーナーの こころえ\p
+1a03005f03d5d79a	ポケモンの しんかを とめたいときは\n
+d487d02943d46298	しんか しようと している あいだに\l
+bbb91d89aa8ef9c6	Bボタンを おそう\l
+949ff11e7e473b85	おどろいた ポケモンは しんかを やめる\p
+7af1b3fadfda6622	これを しんかキャンセル という$
+## Route116_Text_TrainerTipsBagHasPockets:
+202f17dbc8540770	トレーナーの こころえ\p
+1bbac436d025db57	バッグには いくつかの ポケットがある\p
+0b975f103ed784ed	てにいれた どうぐは じどうで\n
+9b467fa877b2f066	ふさわしい ポケットに しまわれる\p
+e1edf0801b01cdb2	トレーナーなら じぶんの バッグは\n
+a9e18c1544b6fe30	かかせない!$
+##### data/maps/Route116_TunnelersRestHouse/scripts.inc
+## Route116_TunnelersRestHouse_Text_WeHadToStopBoring:
+e1ec1aabbe798669	そこの カナシダトンネル……\p
+afc542575c49ebce	さいしょは おおぜいの さぎょういんが\n
+f1cdd9995956fef5	さいしんの きかいで いわを ほってた\l
+2a1a7d61bc8a63fb	でも やめるしか なかった\p
+6b03dfc2e8776adb	この あたりの やせいの ポケモンに\n
+fa3034b4177f25de	わるい えいきょうを あたえることが\l
+1bbf2cb7edbe0374	わかったんだ\p
+ae2405d8c9f02ab3	だから おれたちは ここで\n
+fa9ff2ca0878089b	ゴロゴロ するしか ないのさ$
+## Route116_TunnelersRestHouse_Text_ManDiggingHisWayToVerdanturf:
+379cd441fdb4d517	シダケに むかって たった ひとりで\n
+bc2f466b978d918d	トンネルを ほっている おとこが いる\l
+7c9d6da7257b03fd	ひっしに ほりぬこうと してるんだ\p
+224e694b625a0456	きかいを つかわず すこしずつ ほれば\n
+2e1eea265d9dbf96	ポケモンを さわがせず\l
+e571f5509e460c68	しぜんかんきょうを こわさずに\l
+746acf9997741b96	すむって いうんだよ\p
+31cce9b01e99b54a	もう ほりぬけたのかなあ$
+## Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel:
+ac0b10da16bf7c8a	トンネルを つかわずに シダケに\n
+38227b3ea93d2b4d	いくなら うみを わたって ムロへ\l
+3a2bd14178171d4c	そこから ふねで カイナへ いって\l
+37a0d9201d99c89f	キンセツを とおって いくしか ないな$
+## Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough:
+73f01417ad149381	きいたか? シダケまでの トンネルが\n
+c20c29e6667bde7e	つうじた らしいぞ!\p
+13b1f3d6379d2b42	つよく ねがい つづければ\n
+2cb796cba8ed82d6	ゆめは かなう ことも あるんだな$
+##### data/maps/Route118/scripts.inc
+## Route118_Text_StevenQuestions:
+219aa0d52b602e77	ダイゴ: やあ {PLAYER}{KUN}!\p
+9e805c14ea5f2ef0	ボクだよ ダイゴだよ!\n
+14899049ac33dad1	ムロの ちかくの どうくつで あったね\p
+a7f6c3526e568dbf	あれから きみは たくさんの\n
+39ca88f84a7318a9	ポケモンに であったかな?\p
+d1458f2631bf5920	この ひろい せかいには\n
+e270e803b36df688	さまざまな ポケモンが いるんだ\p
+4e4772dd7a02a2c8	すきな ポケモン ばかりを\n
+da5f54cbd084e3e0	そだてるのも いいだろう\p
+d438e13910cef788	あるいは いろんな ポケモンを\n
+10e7fe068c0a74f4	そだてるのが たのしいかも しれない\p
+e3cd6e06849f0e96	きみは ポケモン トレーナーとして\n
+d301f411ab9ebda8	どう かんがえてる?\p
+90c2b91df7e63a5d	もちろん ボクが くちを だす ことじゃない\p
+d40504d801ab8f9d	また どこかで\n
+e88bbe94993bfc5f	あえると いいね$
+## Route118_Text_YouAgreeGoodRodIsGood:
+2acdea83e4c01d14	うむ!\n
+ccd2cf32c1f1baf1	いいつりざおは ほんとうに いいよ!\p
+903a1f9f364adb31	きみも そう おもうでしょ?$
+## Route118_Text_IdenticalMindsTakeThis:
+5fa3eb08484d4a96	うむ!\n
+0a89775f898d65d7	きみとは きが あうよ!\p
+011c41b4a02d1bd4	うむ!\n
+b68f328a6bd1e08b	いいつりざおを あげよう!$
+## Route118_Text_TryYourLuckFishing:
+1c016022e01d16fc	みずの ある ところなら どこでも\n
+a1c85caef54d8299	つりを ためして みると いいよ!$
+## Route118_Text_DontYouLikeToFish:
+d386d6e01f56b1da	つりは きらい かい?$
+## Route118_Text_TryCatchingMonWithGoodRod:
+1de36bbe305fc378	いいつりざおで いろんな\n
+9215bea63537aa41	ポケモンを つると いいよ!$
+## Route118_Text_CanCrossRiversWithSurf:
+39164bd42110eace	ふねが なくても なみのりを\n
+26f83829b387749a	おぼえた ポケモンが いれば\l
+935773fd2bdfd168	かわも うみも わたれるのよ\p
+6d76e54a1c58ebf7	ポケモンって ほんとうに\n
+3d8cc3b109f92e1a	たよりに なるわ!$
+## Route118_Text_RouteSignMauville:
+ad8cdb7005f80c1a	ここは 118ばんどうろ\n
+60b154edacb4b907	{LEFT_ARROW} キンセツシティ$
+## Route118_Text_RouteSign119:
+9a88103a43338c02	ここは 118ばんどうろ\n
+b1457ac8e7361004	{UP_ARROW} 119ばんどうろ$
+##### data/maps/Route119/scripts.inc
+## Route119_Text_MayIntro:
+dc5b7276150eebb4	ハルカ: {PLAYER}{KUN}!\n
+16326c3d0bad12af	どこに いたのよ? さがしたわ!\p
+e9bd548b41bf4c09	どれくらい つよく なったのか\n
+00971b2bd3a25e66	ちょっと ためして あげる!\p
+05b3896e9cf540cd	ポケモンの じゅんびは いい?\n
+b0036b4e1053535c	いいに きまってるよね! それっ!$
+## Route119_Text_MayDefeat:
+288a296d5c685afe	あっちゃー!\n
+dc9eaab9c539eccd	{PLAYER}{KUN} つよい じゃない!\p
+11870798f15b7a2d	しゅぎょうで くろう してるかもって\n
+e927325dfcd324ab	しんぱい してたのに$
+## Route119_Text_MayPresentForYou:
+7a34c20770f00edc	ハルカ: ぜんぜん しんぱい\n
+1758c568bbe898e8	いらなかったわね! その ちょうしよ!\p
+ab1443404a7df5a4	はい これ! あたし からの プレゼント$
+## Route119_Text_MayExplainFly:
+bcd499a78f034b76	ハルカ: そらをとぶを つかえば\n
+4e0f9bf6d84805fd	ポケモンが いちど いった まちまで\l
+c2927f7335a79f4e	いっしゅんで はこんで くれるの\p
+441cf0b8ae91c52b	でも そらをとぶを つかうには\n
+85502afa029d698f	ヒワマキの ジムバッジが ひつよう\l
+dc3736a105d5f6e6	だいじな ことだから わすれないでね\p
+6983107916871243	たまには そらをとぶで ミシロに\n
+91b4e0164a980e23	かえって みたら?\p
+a8d003bb14f75871	きっと おかあさん しんぱい してるわよ\n
+e78b111c11cd9803	{PLAYER}{KUN}\p
+99a30f95bc2aada5	じゃあ また どこかで あいましょ!$
+## Route119_Text_BrendanIntro:
+b49319f46fb558e7	ユウキ: {PLAYER}! ここで\n
+926ae7a5096eb6e8	ポケモンを さがしてたのか?\p
+b44ceb843ddcb51f	どれくらい つよく なったか\n
+245d47b45238e687	ためして やるよ!\p
+ad38fdbf5a3ab959	さあ!\n
+173ca8e68202ae54	しょうぶ しょうぶ だぜ!$
+## Route119_Text_BrendanDefeat:
+d4fb6428736f04ad	ふうん……\n
+736c0edc9d46bcdd	けっこう つよく なってるんだな$
+## Route119_Text_BrendanIllGiveYouThis:
+72e77ddaa7ff861d	ユウキ: これなら どこでも\n
+d8f9a7e92df803b6	ポケモンを さがせそうだな\p
+c718d41cd83754d3	ほら これ やるよ\n
+82089afde7038db6	つかって みな$
+## Route119_Text_BrendanExplainFly:
+c67887c92bd15936	ユウキ: そらをとぶを つかえば\n
+5dbab625a0669407	いちど いった まちなら\l
+c2e24b21c12ec5a2	ポケモンが いっしゅんで はこんでくれる\p
+705f92565b88a08a	もっとも ヒワマキの ジムバッジが\n
+cb14c9fef7a9ef9d	ひつよう だけどな\p
+c36df3ecdf973b83	じゃ オレ さきに いくよ$
+## Route119_Text_ScottWayToGoBeSeeingYou:
+d7ee6f1d533e309b	エニシダ: ハッハッハ!\n
+630fe092b5a7387d	やったね {PLAYER}{KUN}!\p
+ace1d21e66e30bbf	いま じてんしゃに のった\n
+8aa437760e2b4698	トレーナーと すれちがったよ\p
+b7ea33c6dd4b525b	きみ あの トレーナーに かったんだろ?\n
+550d7bad7d4ae1d6	みれば すぐ わかったよ\p
+34196fba6e88b6af	あの こ くやしそうに かおを\n
+93b0ff5d3ec5cf2f	まっかに していたからね\p
+3c41dc89250a06af	きみとは よく あうなあ\n
+8eb25b57327a5210	つぎは ヒワマキジムかい?\p
+f0547fa400717b64	ジムでも きっと うまく いくと おもうよ\n
+2613d31a62ab25c6	それじゃ また!$
+## Route119_Text_ScottYouWonAtFortreeGym:
+dff5b23ec25e9315	…… …… …… …… …… ……\n
+e4dcfe35eff7face	…… …… …… …… …… ピッ!\p
+33333ff5e23c5c0b	エニシダ: やあ {PLAYER}{KUN} ボクだよ!\p
+ec0bab1577bd90e8	おもった とおり ヒワマキジムで\n
+0a545bcc29860743	かったんだね\p
+a1e6628103b54d95	その つよさ……\n
+ab01af76af45b50b	やっぱり きみこそ ボクが さがしていた\l
+e06e6ef6b74343e5	トレーナー かもしれない\p
+968bbfcb08e3ce06	わすれないで ボクは きみの ファンだ\n
+0557e07bde52f427	かげながら おうえん しているよ\l
+0508f9e6b0638a8b	その ちょうしで がんばって!\p
+3c4c09c565e35b71	…… …… …… …… …… ……\n
+bbbb88f20182bfe2	…… …… …… …… …… ガチャ!$
+## Route119_Text_StayAwayFromWeatherInstitute:
+b91ba4b43c8ded9e	オレたち ここで みはりを しているのさ\p
+ba5d04bcb9323d79	おい おまえ! てんきけんきゅうじょには\n
+47888939fd1c99ff	ちかづくなよ あぶないからな$
+## Route119_Text_DontGoNearWeatherInstitute:
+ae6804155775c583	みはりって いがいと ヒマだなあ……\p
+feb432e683f67e92	おい おまえ! おねがいだから\n
+676be17a81cbb681	てんきけんきゅうじょに ちかづくなよ$
+## Route119_Text_ThoughtFlyByCatchingBirdMons:
+36e57382ce8a9ea6	そらを とぶには とりポケモンを\n
+577dd5866d8ba795	たくさん つかまえて なんとか\l
+1c298475d21d6803	ぶらさがるんだと おもってた\p
+e7bb44055cf3f6b1	でも そらをとぶ って いう\n
+85c0f4c09a92f44d	ひでんわざが あるんだって!\p
+47f659fdf6cbf434	もっと はやく しって\n
+5089a483eb4d8258	いれば よかった……$
+## Route119_Text_TallGrassSnaresBikeTires:
+ab9441c915e950fd	ちっ……\n
+5b90e80439bc8143	だめだ……\p
+67f2f1942de270e7	ながい くさに タイヤが からまる\n
+d33b1a1be92e8fe0	ここじゃ じてんしゃは むりだ$
+## Route119_Text_CanYourMonMakeSecretBase:
+ebc388e65a3f281a	きみの ポケモンは ひみつのちからで\n
+0b8bc9c47f786fcf	おおきな くさむらに\l
+1d038c0a442ff17f	ひみつきちを つくれる?$
+## Route119_Text_RouteSignFortree:
+839463d6b63daf4c	ここは 119ばんどうろ\n
+c9af2fa437a69123	{RIGHT_ARROW} ヒワマキシティ$
+## Route119_Text_WeatherInstitute:
+5b1501a3e9b67027	「てんきけんきゅうじょ」$
+## Route119_Text_TrainerTipsDecoration:
+7775e6a1d0922009	トレーナーの こころえ\p
+76fb7d36af16c9fb	ひみつきちには もようがえ グッズや\n
+679a032f308e6dc9	かぐを 16こまで\l
+9b8c96692cb4c909	おくことが できる\p
+e1b73843a07a0aca	すきな グッズを えらんで\n
+01192bd8d5cfdf65	じぶんだけの ひみつきちを\l
+f108d004cbf2fc80	おもいどおりに つくろう!$
+##### data/maps/Route119_House/scripts.inc
+## Route119_House_Text_RumorAboutCaveOfOrigin:
+57248b0d86b34d5c	めざめのほこら って いう\n
+649c2d7f121ac3b6	どうくつが あるんですって\p
+8bb31174fd76ffef	そこでは ポケモンの たましいが\n
+60ce282914edb078	よみがえるって うわさ だけど\l
+258dc8f2bf4cea06	そんなこと ほんとうに あるのかしら?$
+## Route119_House_Text_Wingull:
+90eb4f9004edd289	キャモメ: ぴひょ!$
+##### data/maps/Route119_WeatherInstitute_1F/scripts.inc
+## Route119_WeatherInstitute_1F_Text_Grunt1Intro:
+19425a99cd177dfd	ボスが ここの けんきゅうに\n
+3a5fb354c29c1a5c	きょうみを もってな\l
+58074a1e62d31e78	おれたちを よこしたのさ\p
+2885a84f37778e3b	じゃまするんじゃ ねえ!$
+## Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
+4b5511f11aa7bd6e	くそー……\n
+45c9af9692c3bcca	こどもに やられた……$
+## Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
+30c5bf4f0283f1f3	ボスは なんでも しっている\p
+a2d304666c647658	だが したっぱの おれに ボスの\n
+de8e75af2a9ded56	かんがえなんか わかるわけ ないだろ?$
+## Route119_WeatherInstitute_1F_Text_Grunt4Intro:
+02da2590ec3bffc1	あら?\n
+744986a03cb55f3c	どうして ここに こどもが いるのかしら?$
+## Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
+db280277e3284376	あら?\n
+204bc418ef474681	まけちゃった!?$
+## Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
+7ceb759f44ccde3f	あらら……\n
+5263dc7446212550	こどもに まけたら おこられちゃう……\p
+f8f4e5c31d227ca3	もう ベッドで ねてようかしら……$
+## Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
+8e2ec5d8dd15bbda	ねてる あいだに みんな\n
+b4b29a0e3eca725d	2かいに いっちゃった!$
+## Route119_WeatherInstitute_1F_Text_WowYoureStrong:
+e25d872e50d35aa4	わあ ほんとに つよいね!\p
+ad73b93cb91ab033	きみみたいな ポケモントレーナーに\n
+5d4fa84fbb3a5e73	なれたら いいなあ!$
+## Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
+8714fd7c64ec4a8b	はかせは あめが だいすき\n
+b63b1a0d8c2f01f7	それは じじつ\p
+12e95ec6ed774bf3	でも あめが ふりつづけると ひとが\n
+d60de0a1d1b3a911	こまる それも じじつ\p
+241339d96cb4b64f	だから はかせは あめを うまく\n
+0dc7c46292517514	つかえないか けんきゅう しているの$
+## Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
+921a2c49bb0545b2	この けんきゅうじょの 2かいでは\n
+3b8980524b9e4567	ホウエンちほうの てんきの\l
+d60d03e072f25c23	うつりかわりを しらべています\p
+a38248b984078b70	さいきん あちこちで いちじてきな\n
+b851ab247283d30b	ひでりや おおあめが\l
+4b3593c6acf82a6c	かんそく されている ようですが……$
+## Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
+adb33578aa5578f6	こんにちは!\n
+8012ee750d5ce406	あなたの おかげで たすかりました!\p
+6a80b63e3153620a	それにしても アクアだんは いったい\n
+fd17b497d1aaab0e	なにを たくらんで いたのでしょう$
+## Route119_WeatherInstitute_1F_Text_TakeRestInBed:
+45ae7162f4949245	ベッドが ある……\n
+23e4ee4661612755	やすんでいこう$
+##### data/maps/Route119_WeatherInstitute_2F/scripts.inc
+## Route119_WeatherInstitute_2F_Text_Grunt2Intro:
+7e72bafb4f7fa0fc	この けんきゅうじょで てんきと\n
+45ba9ceafd8736ce	かんけいある ポケモンが うみだされた\l
+b83351388d507b80	って きいてな いただきに きたのさ!$
+## Route119_WeatherInstitute_2F_Text_Grunt2Defeat:
+cec6fb940f0335a9	こんな こどもに じゃま されるのか!?$
+## Route119_WeatherInstitute_2F_Text_Grunt2PostBattle:
+897e0fb9fce65821	ここで うみだされた ポケモンが\n
+7557f59b9bac61b1	てんきを じゆうに あやつれるなら\l
+a0cd6ee8d2b8e87f	ぜったい アクアだんに ひつよう だぜ!$
+## Route119_WeatherInstitute_2F_Text_Grunt3Intro:
+5653449ca46cd189	おれたち アクアだん!\n
+6f708c7b1f26aee2	めずらしい ものが ある ところなら\l
+9de209ca2e61f6dc	どこにでも あらわれる!$
+## Route119_WeatherInstitute_2F_Text_Grunt3Defeat:
+98c6a77a99653a8c	こいつは まいった!$
+## Route119_WeatherInstitute_2F_Text_Grunt3PostBattle:
+c99050638e7b9d2d	おまえには おれたち アクアだんが\n
+63cc1e5df00fc78c	めざすものなんて わからないだろう!\l
+05da111d65a22f73	じゃまするんじゃ ねえ!$
+## Route119_WeatherInstitute_2F_Text_Grunt5Intro:
+d5041d6e6cddd1d4	まさか あなたも てんきの\n
+d8ffe4b868c6c98b	ポケモンを さがしに きたの?\p
+b1dd98d468f276a1	だめよ!\n
+3afe62d79227e316	あたしたちが さきに きたんだから!$
+## Route119_WeatherInstitute_2F_Text_Grunt5Defeat:
+1a9241233c3a6e53	んもー あたしの ポケモンがー$
+## Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
+38204f75b788b9c5	ふん だから なに?\n
+79c7133926ad5395	あたしたちが ほしいのは……\p
+3c08387223e13249	ほんとうに ほしいのは ここには ない……\n
+e4826f90937afed5	イヒヒヒヒ……$
+## Route119_WeatherInstitute_2F_Text_ShellyIntro:
+bf3a73c34ebd17ef	オーッホッホ!\p
+b75a63515db8c46d	われわれ アクアだんの\n
+931d0e2cf5e5d464	じゃまを しようと いうの!?\p
+2f612056882cf926	こわいものしらず なのか\n
+a0653157fdae5fca	ただの むちなのか…… りょうほう ね!\p
+aaa16de90580945a	かわいすぎて にくらしく なっちゃう!\n
+59644dbaa06865a8	やっつけて あげるわね おチビちゃん!$
+## Route119_WeatherInstitute_2F_Text_ShellyDefeat:
+6d48aafddc8aa977	オーッホッホ!\n
+9508636703bcf4ca	つよくて にくらしく なっちゃうわ!$
+## Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
+3068f48106bcf194	マグマだんが うろちょろ するだけでも\n
+82b06e87253c941e	やっかい なのに こんどは あなたまで!\p
+58af4c02cd535909	どうして わたしたちの ことを\n
+db99b53983937082	かぎまわるのよ?$
+## Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
+8e838ffffa9f61ca	たいへんです!\p
+3110e59515f2d102	マグマだんの れんちゅうが いま\n
+b63affd08991f119	てんきけんきゅうじょの まえを とおりました\p
+c3bc515eaa44daa1	おくりびやまに むかっている\n
+3a1f8dbd9690ea60	ようです!$
+## Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
+dff9c4eb8264ca6a	なんですって!\p
+57f6b6ede74014ac	えーい こうしちゃ いられない!\n
+ea1b7cd745ff8449	われわれも おくりびやまに いそぐわよ!\p
+becd63162c2934a3	オーッホッホ!\n
+c24c7c1d3b9ad0a3	マグマだんめ まってなさーい!$
+## Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
+a9a8018324327475	ありがとうよ!\n
+11037399d9ee0b11	きみの おかげで たすかったよ!\p
+b0f64d3ae78e40dc	おれいと いっては なんだが\n
+f374e8905570b8e4	この ポケモンを もらって おくれ$
+## Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
+875a4970613ff968	あら? もう ポケモンを\n
+4808a6e04b89aa1d	もてない ようだよ$
+## Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
+fa552ea2ab656245	{PLAYER}は ポワルンを もらった!$
+## Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
+b7f3fd3233b8bb1d	そいつは そのときの てんきに よって\n
+1341f789f365b318	すがたを かえる ポケモン なんだよ\p
+a2d67647f8a72fe0	けんきゅうじょには たくさん いるから\n
+d553a4f2b3314eab	えんりょせずに もらって おくれよ$
+## Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
+e9c3459e209eba2c	わたしは なんねんも あめを\n
+f44c2dfb68ccad7a	けんきゅう してきたが にんげんが\l
+5305c2016eba7932	てんきを じゆうに かえるなんて ばかげてる$
+## Route119_WeatherInstitute_2F_Text_GroudonWeather:
+ac00f8271a46516d	わたしは ホウエンちほうの\n
+ba48c140c80a0221	てんきを かんそく しています\p
+7f4ef75d6d26cf32	いま ひでりが かんそく されているのは\n
+182d76b750fb4261	{STR_VAR_1}の あたりです\p
+e83521d8a1520e28	もしかして……\n
+66abb1d7d46a353c	{STR_VAR_1}の ちかくに……$
+## Route119_WeatherInstitute_2F_Text_KyogreWeather:
+0e0d85833c397712	わたしは ホウエンちほうの\n
+f3898f238dbb3bc3	てんきを かんそく しています\p
+d6026ea56c4bea85	いま おおあめが かんそく されているのは\n
+a88819375541a8c3	{STR_VAR_1}の あたりです\p
+5cd6a762724eb053	もしかして……\n
+3f2c61fdec2fc203	{STR_VAR_1}の ちかくに……$
+## Route119_WeatherInstitute_2F_Text_NoAbnormalWeather:
+136cd0c6d6b7180d	いじょう きしょうは\n
+28ccc5df4b378e48	もう かんそく されなく なりました\p
+fd59d2cf7b57f3bc	たまに ふる あめは\n
+29a5bdc9859c723d	めぐみのあめと いえるでしょう$

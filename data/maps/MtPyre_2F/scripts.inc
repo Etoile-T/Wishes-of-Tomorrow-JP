@@ -43,93 +43,93 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Memories of my darling SKITTY…\n"
-	.string "My eyes overflow thinking about it.$"
+	.string "{JPN}かわいかった エネコとの おもいで……\n"
+	.string "おもいだすだけで なみだが あふれる……$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
-	.string "Ooch, ouch… There are holes in the\n"
-	.string "ground here and there.\p"
-	.string "I didn't notice and took a tumble from\n"
-	.string "the floor above.$"
+	.string "{JPN}いたた…… ここ あちこちに\n"
+	.string "あなが あいてるんだ\p"
+	.string "きづかずに うえの かいから\n"
+	.string "おっこちちゃった$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Are you searching for POKéMON?\n"
-	.string "You came along after me! You're rude!$"
+	.string "{JPN}おい! おまえも ポケモン さがしか?\n"
+	.string "あとから きた くせに なまいきだ!$"
 
 MtPyre_2F_Text_MarkDefeat:
-	.string "Ayieeeeh!\n"
-	.string "I'm sorry, forgive me, please!$"
+	.string "{JPN}ふええええええっ!\n"
+	.string "ごめんなさい ゆるして くださいーっ!$"
 
 MtPyre_2F_Text_MarkPostBattle:
-	.string "People don't come here often, so\n"
-	.string "I thought there'd be rare POKéMON.$"
+	.string "{JPN}めったに ひとが こない ところ だから\n"
+	.string "めずらしい ポケモンが いると おもってさ$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: We're here on a dare.\p"
-	.string "Heheh, if I show her how cool I am,\n"
-	.string "she'll fall for me. I know it!\p"
-	.string "I know! I'll cream you and show her\n"
-	.string "how cool I am!$"
+	.string "{JPN}ルーク: きもだめしに きてるんだ\p"
+	.string "へへっ かっこいい ところを みせたら\n"
+	.string "かのじょ ぼくに メロメロ だよ!\p"
+	.string "そうだ! きみを やっつけて\n"
+	.string "かっこいい ところを みせよう!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Whoopsie!$"
+	.string "{JPN}ルーク: あっちゃー!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Well, we lost but that's okay!\n"
-	.string "I'm right here by your side.\l"
-	.string "We'll make it through this dare!$"
+	.string "{JPN}ルーク: まけちゃったけど だいじょうぶ!\n"
+	.string "ぼくが そばに いるからさ\l"
+	.string "きもだめし なんて へっちゃら だよ!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: If you want to take me on,\n"
-	.string "bring some more POKéMON.\p"
-	.string "If you don't, I won't be able to show\n"
-	.string "off to my girl how cool I am!$"
+	.string "{JPN}ルーク: ぼくと しょうぶ するなら\n"
+	.string "もっと ポケモン つれてきなよ!\p"
+	.string "そうでないと かのじょの まえで\n"
+	.string "いいところ みせられない じゃないか!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "DEZ: I came here on a dare with my\n"
-	.string "boyfriend.\p"
-	.string "It's really scary, but I'm with my\n"
-	.string "boyfriend. It's okay.\p"
-	.string "I know! I'll get my boyfriend to look\n"
-	.string "cool by beating you!$"
+	.string "{JPN}デズ: かれしと いっしょに\n"
+	.string "きもだめしに きたの\p"
+	.string "すっごく こわいけど かれしが いるから\n"
+	.string "へいきなの\p"
+	.string "そうだ! あなたに かって\n"
+	.string "かれしを かっこよく みせちゃお!$"
 
 MtPyre_2F_Text_DezDefeat:
-	.string "DEZ: Waaaah! I'm scared!$"
+	.string "{JPN}デズ: あーん こわーい!$"
 
 MtPyre_2F_Text_DezPostBattle:
-	.string "DEZ: We're lovey-dovey, so we don't\n"
-	.string "care if we lose!$"
+	.string "{JPN}デズ: あたしたち ラブラブだから\n"
+	.string "まけても へいき なんだもん!$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
-	.string "My boyfriend's strong.\n"
-	.string "Just one POKéMON won't do at all.$"
+	.string "{JPN}デズ: あたしたちと たたかいたいなら\n"
+	.string "せめて 2ひきは ポケモン いないと\p"
+	.string "あたしの かれし つよいんだから\n"
+	.string "いっぴきじゃ はなしに ならないわ$"
 
 MtPyre_2F_Text_LeahIntro:
-	.string "You are an unfamiliar sight…\n"
-	.string "Depart before anything befalls you!$"
+	.string "{JPN}みかけぬ かおね……\n"
+	.string "なにも おきない うちに かえりなさい!$"
 
 MtPyre_2F_Text_LeahDefeat:
-	.string "Hmm…\n"
-	.string "You're durable.$"
+	.string "{JPN}ふむ……\n"
+	.string "しぶといわね$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Our family has been TRAINERS here\n"
-	.string "since my great-grandmother's time…\p"
-	.string "It is my duty to protect this\n"
-	.string "mountain…$"
+	.string "{JPN}わたしの いえは ひいおばあさまの\n"
+	.string "ころから ここの トレーナーなの……\p"
+	.string "この やまを まもるのが\n"
+	.string "わたしの つとめ……$"
 
 MtPyre_2F_Text_ZanderIntro:
-	.string "Kiyaaaaah!\n"
-	.string "I'm terrified!$"
+	.string "{JPN}ぎっ ぎゃああああっ!\n"
+	.string "こわいよおおおっ!$"
 
 MtPyre_2F_Text_ZanderDefeat:
-	.string "Nooooooo!\n"
-	.string "I lost my wits!$"
+	.string "{JPN}いやだああああ!\n"
+	.string "あたまが まっしろだ!$"
 
 MtPyre_2F_Text_ZanderPostBattle:
-	.string "I get freaked out every time I see\n"
-	.string "anything move…\p"
-	.string "I shouldn't have come here to train…$"
+	.string "{JPN}なにかが うごくのを みるたびに\n"
+	.string "びびっちゃうんだ……\p"
+	.string "ここで しゅぎょう なんて しなきゃ よかった……$"
 

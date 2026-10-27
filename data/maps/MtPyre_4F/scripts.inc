@@ -9,14 +9,14 @@ MtPyre_5F_EventScript_Atsushi::
 	end
 
 MtPyre_5F_Text_AtsushiIntro:
-	.string "Teacher…\n"
-	.string "Please watch over my progress!$"
+	.string "{JPN}おししょうさま……\n"
+	.string "わたしの せいちょうを みまもって ください!$"
 
 MtPyre_5F_Text_AtsushiDefeat:
-	.string "Teacher…\n"
-	.string "Please forgive me!$"
+	.string "{JPN}おししょうさま……\n"
+	.string "すんません……!$"
 
 MtPyre_5F_Text_AtsushiPostBattle:
-	.string "Until I improve, my teacher, who rests\n"
-	.string "here, will never find true peace…$"
+	.string "{JPN}わたしが せいちょう しないかぎり ここに ねむる\n"
+	.string "おししょうさまは やすらかに ねむれない……$"
 

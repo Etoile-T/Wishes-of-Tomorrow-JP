@@ -349272,9 +349272,13 @@
     "end": 1364,
     "raw": "\"Something's happening,\\n\"",
     "source": "Something's happening,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なにか おきてるみたいで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6f4f141e373b45b4",
@@ -349284,9 +349288,13 @@
     "end": 1398,
     "raw": "\"and I don't like it!\\p\"",
     "source": "and I don't like it!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いやな かんじだよ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c218534ce6e77a43",
@@ -349296,9 +349304,13 @@
     "end": 1448,
     "raw": "\"I've seen shady characters wandering\\n\"",
     "source": "I've seen shady characters wandering\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あやしい やつらが ソライシはかせの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "efe952ae07585789",
@@ -349308,9 +349320,13 @@
     "end": 1494,
     "raw": "\"in and out of PROF. COZMO's home…$\"",
     "source": "in and out of PROF. COZMO's home…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いえに でたり はいったり してたんだ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8efa66033466d838",
@@ -349320,9 +349336,13 @@
     "end": 1587,
     "raw": "\"This region's been known for meteors\\n\"",
     "source": "This region's been known for meteors\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここいら いったいは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "871cd857b957b9e5",
@@ -349332,9 +349352,13 @@
     "end": 1622,
     "raw": "\"since the olden days.\\p\"",
     "source": "since the olden days.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むかしから いんせきが おおくてな\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ba84295cd1782b92",
@@ -349344,9 +349368,13 @@
     "end": 1672,
     "raw": "\"They say METEOR FALLS was gouged out\\n\"",
     "source": "They say METEOR FALLS was gouged out\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "りゅうせいのたきも いんせきが おちて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "451fb1857c0ab998",
@@ -349356,9 +349384,13 @@
     "end": 1717,
     "raw": "\"by a falling meteorite long ago.$\"",
     "source": "by a falling meteorite long ago.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "できたとか そう いわれておる$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d1d70a3105d0db81",
@@ -349368,9 +349400,13 @@
     "end": 1787,
     "raw": "\"See! Take a look!\\n\"",
     "source": "See! Take a look!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ほら! みてちょうだい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fb2b94444026fd44",
@@ -349380,9 +349416,13 @@
     "end": 1829,
     "raw": "\"This is my precious AZURILL!\\p\"",
     "source": "This is my precious AZURILL!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしの たいせつな ルリリ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a53ec32d4558a0d",
@@ -349392,9 +349432,13 @@
     "end": 1880,
     "raw": "\"It's slick and smooth and plushy, too!$\"",
     "source": "It's slick and smooth and plushy, too!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ツヤツヤの ナデナデの フカフカよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "009f9f899e94c3e0",
@@ -349404,9 +349448,13 @@
     "end": 1942,
     "raw": "\"AZURILL: Rooreelooo.$\"",
     "source": "AZURILL: Rooreelooo.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ルリリ: るーりーるー$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9fde59075c58b046",
@@ -349416,9 +349464,13 @@
     "end": 2040,
     "raw": "\"Have you already challenged FLANNERY,\\n\"",
     "source": "Have you already challenged FLANNERY,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}フエンジムの リーダー アスナには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e226db28084446c0",
@@ -349428,9 +349480,13 @@
     "end": 2082,
     "raw": "\"the LEADER of LAVARIDGE GYM?\\p\"",
     "source": "the LEADER of LAVARIDGE GYM?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もう ちょうせん したかい?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2228a8ad3dda702f",
@@ -349440,9 +349496,13 @@
     "end": 2130,
     "raw": "\"The girl's grandfather was famous.\\n\"",
     "source": "The girl's grandfather was famous.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あのこの おじいさんは ゆうめいでね。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c18820073b2b428f",
@@ -349452,9 +349512,13 @@
     "end": 2179,
     "raw": "\"He was one of the ELITE FOUR in the\\l\"",
     "source": "He was one of the ELITE FOUR in the\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かつては ポケモンリーグの\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f028dbf0b8ec7b04",
@@ -349464,9 +349528,13 @@
     "end": 2221,
     "raw": "\"POKéMON LEAGUE at one point.\\p\"",
     "source": "POKéMON LEAGUE at one point.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "してんのうの ひとりだったんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4026b0e43dc5ffc4",
@@ -349476,9 +349544,13 @@
     "end": 2274,
     "raw": "\"It wouldn't surprise me to see FLANNERY\\n\"",
     "source": "It wouldn't surprise me to see FLANNERY\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アスナが じぶんの ちからで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "656d55f4da58754b",
@@ -349488,9 +349560,13 @@
     "end": 2321,
     "raw": "\"become a great TRAINER in her own\\l\"",
     "source": "become a great TRAINER in her own\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すごい トレーナーに なったって\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13cfd292f3f49a54",
@@ -349500,9 +349576,13 @@
     "end": 2340,
     "raw": "\"right.$\"",
     "source": "right.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おどろかないよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3d4af9119381b5ff",
@@ -349512,9 +349592,13 @@
     "end": 2416,
     "raw": "\"BATTLE TENT FALLARBOR SITE\\n\"",
     "source": "BATTLE TENT FALLARBOR SITE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}バトルテント ハジツゲタウン かいじょう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "000850438c3b65fc",
@@ -349524,9 +349608,13 @@
     "end": 2461,
     "raw": "\"“May the Greatest Teams Gather!”$\"",
     "source": "“May the Greatest Teams Gather!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つどえ! さいきょう チーム$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "23ecfed2b3b1c141",
@@ -349536,9 +349624,13 @@
     "end": 2519,
     "raw": "\"FALLARBOR TOWN\\n\"",
     "source": "FALLARBOR TOWN\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは ハジツゲ タウン\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ade5513e4b9ca634",
@@ -349548,9 +349640,13 @@
     "end": 2570,
     "raw": "\"“A farm community with small gardens.”$\"",
     "source": "“A farm community with small gardens.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちいさな はたけが ある のうそん$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7bd79362134be863",
@@ -349560,9 +349656,13 @@
     "end": 2637,
     "raw": "\"MOVE TUTOR'S HOUSE\\n\"",
     "source": "MOVE TUTOR'S HOUSE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「わざおしえマニアの いえ」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "325ebddbd079b72c",
@@ -349572,9 +349672,13 @@
     "end": 2680,
     "raw": "\"“New moves taught to POKéMON.”$\"",
     "source": "“New moves taught to POKéMON.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンに あたらしい わざを おしえます。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "235d0659c972d1ec",
@@ -488623,9 +488727,13 @@
     "end": 18492,
     "raw": "\"Hello! I take it you're a traveler.\\p\"",
     "source": "Hello! I take it you're a traveler.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}こんにちは! きみは たびの とちゅうかな。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0deb57da09f5ed39",
@@ -488635,9 +488743,13 @@
     "end": 18543,
     "raw": "\"How's this? What do you say to taking\\n\"",
     "source": "How's this? What do you say to taking\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうだい? わたしたち かぞく 4にんと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "46dc939c535d654b",
@@ -488647,9 +488759,13 @@
     "end": 18593,
     "raw": "\"on our family of four in a series of\\l\"",
     "source": "on our family of four in a series of\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "れんぞくで ポケモンしょうぶを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8a7b6fb43629b3cb",
@@ -488659,9 +488775,13 @@
     "end": 18622,
     "raw": "\"POKéMON battles?$\"",
     "source": "POKéMON battles?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "してみないか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "56df015e06f7a7e2",
@@ -488671,9 +488791,13 @@
     "end": 18672,
     "raw": "\"Is that so?\\n\"",
     "source": "Is that so?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あっそ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1b2cf6c2a071ab1e",
@@ -488683,9 +488807,13 @@
     "end": 18718,
     "raw": "\"Drop in, if you change your mind!$\"",
     "source": "Drop in, if you change your mind!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きが むいたら また おいで!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "06730064e8e3cbeb",
@@ -488695,9 +488823,13 @@
     "end": 18789,
     "raw": "\"That's the spirit! I like you!$\"",
     "source": "That's the spirit! I like you!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}いい どきょうだ! きにいったぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7827514c0f66cb87",
@@ -488707,9 +488839,13 @@
     "end": 18838,
     "raw": "\"Aiyah!\\n\"",
     "source": "Aiyah!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}たはーっ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13bc9435d57a1fbd",
@@ -488719,9 +488855,13 @@
     "end": 18888,
     "raw": "\"You're a lot tougher than I expected!$\"",
     "source": "You're a lot tougher than I expected!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おもっていたより つよいんだね きみは!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1ef8024ab3b004ef",
@@ -488731,9 +488871,13 @@
     "end": 18944,
     "raw": "\"Hey, all!\\n\"",
     "source": "Hey, all!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おーい!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "380cad143ac6b028",
@@ -488743,9 +488887,13 @@
     "end": 18992,
     "raw": "\"I've found a pretty strong TRAINER!$\"",
     "source": "I've found a pretty strong TRAINER!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかなか つよい トレーナーが いたぞー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "838af683797553ab",
@@ -488755,9 +488903,13 @@
     "end": 19070,
     "raw": "\"Oh, my goodness! Aren't you young?\\p\"",
     "source": "Oh, my goodness! Aren't you young?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あらまあ! あなた まだ わかいんじゃない?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d20ede96f02564e0",
@@ -488767,9 +488919,13 @@
     "end": 19121,
     "raw": "\"You must be quite the TRAINER to beat\\n\"",
     "source": "You must be quite the TRAINER to beat\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの しゅじんに かってしまう とは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a31b28b8335eab98",
@@ -488779,9 +488935,13 @@
     "end": 19154,
     "raw": "\"my husband, though.\\p\"",
     "source": "my husband, though.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんと すごうでの トレーナー なの!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "04550b8c146452c6",
@@ -488791,9 +488951,13 @@
     "end": 19194,
     "raw": "\"It's my turn to battle now!$\"",
     "source": "It's my turn to battle now!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃあ こんどは わたしと しょうぶよ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "93cfd5ce2a2faa0c",
@@ -488803,9 +488967,13 @@
     "end": 19248,
     "raw": "\"Oh, gosh!\\n\"",
     "source": "Oh, gosh!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}んまーっ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f6a7b104cfa48bc6",
@@ -488815,9 +488983,13 @@
     "end": 19297,
     "raw": "\"I can't get over how strong you are!$\"",
     "source": "I can't get over how strong you are!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたって なんて つよいのかしら!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57c1efbe5ac4f299",
@@ -488827,9 +488999,13 @@
     "end": 19376,
     "raw": "\"There's a strong TRAINER here!\\n\"",
     "source": "There's a strong TRAINER here!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}つよいわよー!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "42c4611de4d66f07",
@@ -488839,9 +489015,13 @@
     "end": 19414,
     "raw": "\"This one's really strong!$\"",
     "source": "This one's really strong!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "このひと すっごく つよいわよー!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f6912aabbef9cc97",
@@ -488851,9 +489031,13 @@
     "end": 19486,
     "raw": "\"You're stronger than Mommy? Wow!\\p\"",
     "source": "You're stronger than Mommy? Wow!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ママより つよいなんて すごーい!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8ed20570b2ebe5ee",
@@ -488863,9 +489047,13 @@
     "end": 19520,
     "raw": "\"But I'm strong, too!\\n\"",
     "source": "But I'm strong, too!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも あたし だって つよいんだから!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05da51ceae7bc9ed",
@@ -488875,9 +489063,13 @@
     "end": 19550,
     "raw": "\"Really! Honestly!$\"",
     "source": "Really! Honestly!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんと なんだってば!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "778c16072044aaad",
@@ -488887,9 +489079,13 @@
     "end": 19611,
     "raw": "\"Huh? Did I just lose?$\"",
     "source": "Huh? Did I just lose?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}えっ? あたし いま まけちゃったの?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ebaf84d6d54b5201",
@@ -488899,9 +489095,13 @@
     "end": 19668,
     "raw": "\"This stinks…\\p\"",
     "source": "This stinks…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}くやしい……\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4274c256d09a1de4",
@@ -488911,9 +489111,13 @@
     "end": 19698,
     "raw": "\"…Snivel… Grandma!$\"",
     "source": "…Snivel… Grandma!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "…… ぐっすん! おばあちゃーん!!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6ce5671992510c3e",
@@ -488923,9 +489127,13 @@
     "end": 19773,
     "raw": "\"How dare you make my granddaughter\\n\"",
     "source": "How dare you make my granddaughter\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}よくも わしの まごを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f141b940ea0d7ad",
@@ -488935,9 +489143,13 @@
     "end": 19791,
     "raw": "\"cry!\\p\"",
     "source": "cry!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかせて くれたな!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6bd0cf21e31a118f",
@@ -488947,9 +489159,13 @@
     "end": 19838,
     "raw": "\"For that, I'm going to smack you!\\n\"",
     "source": "For that, I'm going to smack you!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こうなったら ぶちのめして やるぞ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d97bbd5841e5a58f",
@@ -488959,9 +489175,13 @@
     "end": 19867,
     "raw": "\"Prepare to lose!$\"",
     "source": "Prepare to lose!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まける かくごを するんじゃ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "42f758e95ea94e1d",
@@ -488971,9 +489191,13 @@
     "end": 19930,
     "raw": "\"Kwah! You are strong…\\n\"",
     "source": "Kwah! You are strong…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}フガッ! つよいのう……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "18d9f3584d6c28f6",
@@ -488983,9 +489207,13 @@
     "end": 19970,
     "raw": "\"My granddaughter was right…$\"",
     "source": "My granddaughter was right…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まごの いうことは ほんとう じゃった$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "66726ff49d325950",
@@ -488995,9 +489223,13 @@
     "end": 20043,
     "raw": "\"If you're not in any hurry,\\n\"",
     "source": "If you're not in any hurry,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あんた…… いそぎのたびで ないのなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b57ceb5e1fe36e02",
@@ -489007,9 +489239,13 @@
     "end": 20077,
     "raw": "\"visit with us awhile.$\"",
     "source": "visit with us awhile.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちに よっていって おくれ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "339a4f86c2adaec9",
@@ -489019,9 +489255,13 @@
     "end": 20172,
     "raw": "\"If you don't raise your POKéMON some\\n\"",
     "source": "If you don't raise your POKéMON some\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}もっと ポケモンを そだてないと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "13d38f01595c0f10",
@@ -489031,9 +489271,13 @@
     "end": 20225,
     "raw": "\"more, it could be tough to keep winning\\l\"",
     "source": "more, it could be tough to keep winning\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かちつづけて うえを めざすのは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "61138a503b13c19a",
@@ -489043,9 +489287,13 @@
     "end": 20260,
     "raw": "\"up through the ranks.\\p\"",
     "source": "up through the ranks.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むずかしいかも しれないね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4cec1f781c2ed24e",
@@ -489055,9 +489303,13 @@
     "end": 20305,
     "raw": "\"I've heard the POKéMON LEAGUE's\\n\"",
     "source": "I've heard the POKéMON LEAGUE's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンリーグの してんのうは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "64ae50c82e0bbd68",
@@ -489067,9 +489319,13 @@
     "end": 20351,
     "raw": "\"ELITE FOUR are far stronger than\\l\"",
     "source": "ELITE FOUR are far stronger than\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの ジムリーダーよりも ずっと\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "39ab5b981003df1b",
@@ -489079,9 +489335,13 @@
     "end": 20379,
     "raw": "\"any GYM LEADER.$\"",
     "source": "any GYM LEADER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つよいって きいたよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "260e5f8862e20efe",
@@ -489091,9 +489351,13 @@
     "end": 20470,
     "raw": "\"I challenged the WINSTRATE family,\\n\"",
     "source": "I challenged the WINSTRATE family,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}カチヌキいっかに いどんだけれど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9eacc9a9cfa9c3ee",
@@ -489103,9 +489367,13 @@
     "end": 20518,
     "raw": "\"but four matches in a row is tough\\l\"",
     "source": "but four matches in a row is tough\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "4にん つづけての ポケモンしょうぶは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe98085a2027757a",
@@ -489115,9 +489383,13 @@
     "end": 20556,
     "raw": "\"going… They destroyed me.$\"",
     "source": "going… They destroyed me.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きびしいよな…… ボロまけ したよ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7adce8ba0ae4a577",
@@ -489127,9 +489399,13 @@
     "end": 20613,
     "raw": "\"ROUTE 111\\n\"",
     "source": "ROUTE 111\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 111ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1bab008fa9dae8fa",
@@ -489139,9 +489415,13 @@
     "end": 20652,
     "raw": "\"{DOWN_ARROW} MAUVILLE CITY$\"",
     "source": "{DOWN_ARROW} MAUVILLE CITY$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{DOWN_ARROW} キンセツシティ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b9cee031f32f726d",
@@ -489151,9 +489431,13 @@
     "end": 20735,
     "raw": "\"“Our family's hearts beat as one!”\\n\"",
     "source": "“Our family's hearts beat as one!”\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}われら かぞくの こころは ひとつ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "170ddab685be3c9c",
@@ -489163,9 +489447,13 @@
     "end": 20769,
     "raw": "\"THE WINSTRATE'S HOUSE$\"",
     "source": "THE WINSTRATE'S HOUSE$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「カチヌキ ファミリーの いえ」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f9bddba8989efb99",
@@ -489175,9 +489463,13 @@
     "end": 20821,
     "raw": "\"ROUTE 111\\n\"",
     "source": "ROUTE 111\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 111ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "435b6698c25501bd",
@@ -489187,9 +489479,13 @@
     "end": 20856,
     "raw": "\"{LEFT_ARROW} ROUTE 112$\"",
     "source": "{LEFT_ARROW} ROUTE 112$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{LEFT_ARROW} 112ばん どうろ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "297ef33f7b38ac66",
@@ -489199,9 +489495,13 @@
     "end": 20908,
     "raw": "\"ROUTE 111\\n\"",
     "source": "ROUTE 111\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 111ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "03f52cc570177294",
@@ -489211,9 +489511,13 @@
     "end": 20943,
     "raw": "\"{LEFT_ARROW} ROUTE 113$\"",
     "source": "{LEFT_ARROW} ROUTE 113$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{LEFT_ARROW} 113ばん どうろ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e6fb23438214fe33",
@@ -489223,9 +489527,13 @@
     "end": 21014,
     "raw": "\"OLD LADY'S REST STOP\\n\"",
     "source": "OLD LADY'S REST STOP\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「ケンコーばあさんの いえ」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a58da6ef7adc59eb",
@@ -489235,9 +489543,13 @@
     "end": 21063,
     "raw": "\"“Come in and rest your tired bones.”$\"",
     "source": "“Come in and rest your tired bones.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかれたと おもうなら よってらっしゃい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e8d1a9f97ff5680e",
@@ -489247,9 +489559,13 @@
     "end": 21127,
     "raw": "\"TRAINER TIPS\\p\"",
     "source": "TRAINER TIPS\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おとくな けいじばん!!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6d1bdd855b5af40f",
@@ -489259,9 +489575,13 @@
     "end": 21177,
     "raw": "\"One of the indicators of a POKéMON's\\n\"",
     "source": "One of the indicators of a POKéMON's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ポケモンの つよさを あらわす ことばで\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "775af5cbb6b37536",
@@ -489271,9 +489591,13 @@
     "end": 21229,
     "raw": "\"powerfulness is SP. ATK. It stands for\\l\"",
     "source": "powerfulness is SP. ATK. It stands for\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とくこう とは\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ffd57388614c8269",
@@ -489283,9 +489607,13 @@
     "end": 21260,
     "raw": "\"“SPECIAL ATTACK.”\\p\"",
     "source": "“SPECIAL ATTACK.”\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とくしゅ こうげきりょく のこと!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5db3575250eca561",
@@ -489295,9 +489623,13 @@
     "end": 21311,
     "raw": "\"Likewise, SP. DEF stands for “SPECIAL\\n\"",
     "source": "Likewise, SP. DEF stands for “SPECIAL\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とくぼう とは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "746583f47f8f1466",
@@ -489307,9 +489639,13 @@
     "end": 21333,
     "raw": "\"DEFENSE.”$\"",
     "source": "DEFENSE.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とくしゅ ぼうぎょりょく のこと です!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57c2a97656812bca",
@@ -489319,9 +489655,13 @@
     "end": 21429,
     "raw": "\"There should be a tower made of sand\\n\"",
     "source": "There should be a tower made of sand\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この あたりの どこかに すなで できた\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9142681cdfcf3ef4",
@@ -489331,9 +489671,13 @@
     "end": 21465,
     "raw": "\"around here somewhere.\\p\"",
     "source": "around here somewhere.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とうが あるはず なんだがね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6905e3c150fb0df4",
@@ -489343,9 +489687,13 @@
     "end": 21514,
     "raw": "\"But for some reason, it can be seen\\n\"",
     "source": "But for some reason, it can be seen\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なぜだか みえたり\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fcba64a629889c91",
@@ -489355,9 +489703,13 @@
     "end": 21557,
     "raw": "\"sometimes, and sometimes not.\\p\"",
     "source": "sometimes, and sometimes not.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みえなかったり するんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dcd77460ba32d9e5",
@@ -489367,9 +489719,13 @@
     "end": 21608,
     "raw": "\"That's why I call it the MIRAGE TOWER.$\"",
     "source": "That's why I call it the MIRAGE TOWER.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だから げんえいのとうと よんでいるんだ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5dbe9a9f122b5560",
@@ -489379,9 +489735,13 @@
     "end": 21673,
     "raw": "\"I see it!\\n\"",
     "source": "I see it!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}みえるぞ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "afb2c42cab6ce345",
@@ -489391,9 +489751,13 @@
     "end": 21705,
     "raw": "\"The tower of sand!\\p\"",
     "source": "The tower of sand!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すなの とうだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3580cedad8768b7e",
@@ -489403,9 +489767,13 @@
     "end": 21754,
     "raw": "\"The sand tower they called a mirage\\n\"",
     "source": "The sand tower they called a mirage\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "げんえいと よばれていた すなの とうが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "97f9918da73ec964",
@@ -489415,9 +489783,13 @@
     "end": 21787,
     "raw": "\"is clearly visible!\\p\"",
     "source": "is clearly visible!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はっきり みえるぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1e35f75dfa9fc78c",
@@ -489427,9 +489799,13 @@
     "end": 21825,
     "raw": "\"But it looks so fragile…\\n\"",
     "source": "But it looks so fragile…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも なんだか もろそうだな…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ad35cfe34b45519",
@@ -489439,9 +489815,13 @@
     "end": 21869,
     "raw": "\"It could crumble away anytime…\\p\"",
     "source": "It could crumble away anytime…\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いつ くずれても おかしくない…\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "759ed01117b51903",
@@ -489451,9 +489831,13 @@
     "end": 21918,
     "raw": "\"I want to go inside it, but I can't\\n\"",
     "source": "I want to go inside it, but I can't\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかに はいって みたいけれど\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0e329acd421e8cf9",
@@ -489463,9 +489847,13 @@
     "end": 21956,
     "raw": "\"get my courage up for it…$\"",
     "source": "get my courage up for it…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ゆうきが でないんだ…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "31c3e462cbff920b",
@@ -489475,9 +489863,13 @@
     "end": 22021,
     "raw": "\"Whoa…\\n\"",
     "source": "Whoa…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うわあ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a02435ea2d687aa0",
@@ -489487,9 +489879,13 @@
     "end": 22053,
     "raw": "\"That was shocking.\\p\"",
     "source": "That was shocking.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "びっくり したよ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "173e6763423b58f7",
@@ -489499,9 +489895,13 @@
     "end": 22100,
     "raw": "\"Sand rained down in chunks all of\\n\"",
     "source": "Sand rained down in chunks all of\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "とつぜん すなの かたまりが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9b239860cfb524ac",
@@ -489511,9 +489911,13 @@
     "end": 22123,
     "raw": "\"a sudden.\\p\"",
     "source": "a sudden.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ふってきたんだ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f23667ca8a2d9291",
@@ -489523,9 +489927,13 @@
     "end": 22161,
     "raw": "\"What was it like inside?\\n\"",
     "source": "What was it like inside?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なかは どんな ふうだった?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4a11dfbf68fb1ab5",
@@ -489535,9 +489943,13 @@
     "end": 22207,
     "raw": "\"Were there sandy ghosts and such?$\"",
     "source": "Were there sandy ghosts and such?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すなで できた おばけとか いたかい?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "385bb7533f3df89e",
@@ -489547,9 +489959,13 @@
     "end": 22306,
     "raw": "\"Since I spoke to you, the tower of sand\\n\"",
     "source": "Since I spoke to you, the tower of sand\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみと はなしてから すなの とうは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fc7b8db984981b29",
@@ -489559,9 +489975,13 @@
     "end": 22337,
     "raw": "\"hasn't been seen.\\p\"",
     "source": "hasn't been seen.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "みえなく なってしまった。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "46096ae5edfc161c",
@@ -489571,9 +489991,13 @@
     "end": 22372,
     "raw": "\"Perhaps it really was\\n\"",
     "source": "Perhaps it really was\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんとうに げんえいのとう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "60443e5080e45493",
@@ -489583,9 +490007,13 @@
     "end": 22402,
     "raw": "\"the MIRAGE TOWER…$\"",
     "source": "the MIRAGE TOWER…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だったのかも しれないな…$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8e6438214cfc2b5c",
@@ -489595,9 +490023,13 @@
     "end": 22486,
     "raw": "\"The CLAW FOSSIL disappeared into\\n\"",
     "source": "The CLAW FOSSIL disappeared into\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ツメのカセキは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ad43d801a164c17",
@@ -489607,9 +490039,13 @@
     "end": 22508,
     "raw": "\"the sand…$\"",
     "source": "the sand…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すなに もぐって しまった……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ce11690c8202848d",
@@ -489619,9 +490055,13 @@
     "end": 22592,
     "raw": "\"The ROOT FOSSIL disappeared into\\n\"",
     "source": "The ROOT FOSSIL disappeared into\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ねっこのカセキは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "01abdb2a091cf75c",
@@ -489631,9 +490071,13 @@
     "end": 22614,
     "raw": "\"the sand…$\"",
     "source": "the sand…$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "すなに もぐって しまった……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8480b0c6d1d09c54",
@@ -489643,9 +490087,13 @@
     "end": 22686,
     "raw": "\"Oh, no!\\p\"",
     "source": "Oh, no!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}しまった!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9fabf0f2d709322c",
@@ -489655,9 +490103,13 @@
     "end": 22736,
     "raw": "\"My uncle in MAUVILLE told me to take\\n\"",
     "source": "My uncle in MAUVILLE told me to take\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "111ばんどうろに いくなら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54ccb93ba4e8e788",
@@ -489667,9 +490119,13 @@
     "end": 22786,
     "raw": "\"ROCK SMASH with me if I was going to\\l\"",
     "source": "ROCK SMASH with me if I was going to\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いわくだきを もっていけ って\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "82bf9594a5d69aba",
@@ -489679,9 +490135,13 @@
     "end": 22810,
     "raw": "\"ROUTE 111!\\p\"",
     "source": "ROUTE 111!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "キンセツの おじさんに いわれてたんだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "367b95b0824651bb",
@@ -489691,9 +490151,13 @@
     "end": 22854,
     "raw": "\"My uncle? He lives across from\\n\"",
     "source": "My uncle? He lives across from\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "おじさん? サイクルショップの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "08689ed5392e42f8",
@@ -489703,9 +490167,13 @@
     "end": 22893,
     "raw": "\"the bike shop in MAUVILLE.$\"",
     "source": "the bike shop in MAUVILLE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "むかいがわの いえに すんでるよ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f34bdaf86e148b7",
@@ -489715,9 +490183,13 @@
     "end": 22974,
     "raw": "\"{RIGHT_ARROW} TRAINER HILL ENTRANCE\\p\"",
     "source": "{RIGHT_ARROW} TRAINER HILL ENTRANCE\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{RIGHT_ARROW} トレーナーヒル いりぐち\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "74889bb46ef05225",
@@ -489727,9 +490199,13 @@
     "end": 23023,
     "raw": "\"“Scale the heights, you hot-blooded\\n\"",
     "source": "“Scale the heights, you hot-blooded\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "「あつき トレーナーたちよ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ec2c0ec9f83d7571",
@@ -489739,9 +490215,13 @@
     "end": 23046,
     "raw": "\"TRAINERS!”$\"",
     "source": "TRAINERS!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たかみを めざせ!」$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "16f661792b69881d",
@@ -489751,9 +490231,13 @@
     "end": 1123,
     "raw": "\"Oh, dear, dear.\\n\"",
     "source": "Oh, dear, dear.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あらあら あなたの ポケモン\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3be9ec0b48bce512",
@@ -489763,9 +490247,13 @@
     "end": 1167,
     "raw": "\"Aren't your POKéMON exhausted?\\p\"",
     "source": "Aren't your POKéMON exhausted?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかれてるんじゃ ないかえ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "48d7ec7727545ff3",
@@ -489775,9 +490263,13 @@
     "end": 1209,
     "raw": "\"If you'd like, rest up here.\\n\"",
     "source": "If you'd like, rest up here.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よかったら やすんで おいき!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a57eb5edfff8fc6f",
@@ -489787,9 +490279,13 @@
     "end": 1261,
     "raw": "\"That's a fine idea! You should do that.$\"",
     "source": "That's a fine idea! You should do that.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうだ それがいい! そうしなさい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "659ecd44565127b6",
@@ -489799,9 +490295,13 @@
     "end": 1340,
     "raw": "\"That's right.\\n\"",
     "source": "That's right.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そうそう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "876a7494407506b4",
@@ -489811,9 +490311,13 @@
     "end": 1380,
     "raw": "\"Take your time and rest up!$\"",
     "source": "Take your time and rest up!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ここで ゆっくり して おいき!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5f15c38ec77f4c7d",
@@ -489823,9 +490327,13 @@
     "end": 1468,
     "raw": "\"Oh, dear, dear.\\n\"",
     "source": "Oh, dear, dear.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あらあら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9f49f1632c0cadc3",
@@ -489835,9 +490343,13 @@
     "end": 1511,
     "raw": "\"Are your POKéMON still tired?\\p\"",
     "source": "Are your POKéMON still tired?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "まだ つかれてるんじゃ ないかえ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ef5b13c66c8defc",
@@ -489847,9 +490359,13 @@
     "end": 1559,
     "raw": "\"You should take another rest here.\\n\"",
     "source": "You should take another rest here.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もういちど やすんで おいき!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b0d9c205cd9aeb1a",
@@ -489859,9 +490375,13 @@
     "end": 1611,
     "raw": "\"That's a fine idea. You should do that.$\"",
     "source": "That's a fine idea. You should do that.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "そうだ それがいい! そうしなさい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57009ad6a9d7e2ac",
@@ -489871,9 +490391,13 @@
     "end": 1685,
     "raw": "\"Is that so?\\n\"",
     "source": "Is that so?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そうかえ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a75ba510d0791a86",
@@ -489883,9 +490407,13 @@
     "end": 1732,
     "raw": "\"You don't need to be shy about it.$\"",
     "source": "You don't need to be shy about it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "えんりょは いらないんだよ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "31119dfde0be4b99",
@@ -489895,9 +490423,13 @@
     "end": 2232,
     "raw": "\"You're the first TRAINER I've seen who\\n\"",
     "source": "You're the first TRAINER I've seen who\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}きみほど ポケモンを じょうずに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6ee7f9c2e537c9ef",
@@ -489907,9 +490439,13 @@
     "end": 2277,
     "raw": "\"deploys POKéMON so masterfully.\\p\"",
     "source": "deploys POKéMON so masterfully.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つかいこなす トレーナーは はじめてだ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8fe03852d8b76c89",
@@ -489919,9 +490455,13 @@
     "end": 2324,
     "raw": "\"But, I should tell you--my son is\\n\"",
     "source": "But, I should tell you--my son is\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だが きみよりも\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4802b9989bd89acb",
@@ -489931,9 +490471,13 @@
     "end": 2356,
     "raw": "\"stronger than you.\\p\"",
     "source": "stronger than you.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしの むすこの ほうが つよいぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1639a7703d6cf959",
@@ -489943,9 +490487,13 @@
     "end": 2401,
     "raw": "\"He even took the POKéMON LEAGUE\\n\"",
     "source": "He even took the POKéMON LEAGUE\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんたって ポケモン リーグへ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c3e1d9ec86a2576",
@@ -489955,9 +490503,13 @@
     "end": 2444,
     "raw": "\"challenge, I'll have you know.$\"",
     "source": "challenge, I'll have you know.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょうせんに いった ぐらい だからな!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c43f55a1615165dd",
@@ -489967,9 +490519,13 @@
     "end": 2551,
     "raw": "\"We use this MACHO BRACE to more\\n\"",
     "source": "We use this MACHO BRACE to more\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この きょうせいギプスを つかって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "52f91e1c445117a6",
@@ -489979,9 +490535,13 @@
     "end": 2599,
     "raw": "\"effectively strengthen our POKéMON\\l\"",
     "source": "effectively strengthen our POKéMON\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "より こうりつよく ポケモンを\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3311e04bcc23828e",
@@ -489991,9 +490551,13 @@
     "end": 2625,
     "raw": "\"in training.\\p\"",
     "source": "in training.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "きたえて いるんです。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ea401fbdb222933d",
@@ -490003,9 +490567,13 @@
     "end": 2674,
     "raw": "\"Since you've beaten all of us here,\\n\"",
     "source": "Since you've beaten all of us here,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしたち かぞく ぜんいんに かった\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "68e99dcb1b3994d9",
@@ -490015,9 +490583,13 @@
     "end": 2723,
     "raw": "\"I don't know if you need it, but we\\l\"",
     "source": "I don't know if you need it, but we\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あなたには ひつようない かもしれませんが\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8662c69c6f2fca2e",
@@ -490027,9 +490599,13 @@
     "end": 2775,
     "raw": "\"would like you to have our MACHO BRACE.$\"",
     "source": "would like you to have our MACHO BRACE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この きょうせいギプスを どうぞ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "24b32bfb91570eeb",
@@ -490039,9 +490615,13 @@
     "end": 2883,
     "raw": "\"When it comes to POKéMON battles,\\n\"",
     "source": "When it comes to POKéMON battles,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}わたしたちは ポケモンでの しょうぶに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d1a7f2877b754e5c",
@@ -490051,9 +490631,13 @@
     "end": 2928,
     "raw": "\"we tend to be pretty passionate.$\"",
     "source": "we tend to be pretty passionate.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じょうねつを そそいで います!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "df4b5b0d732fc31d",
@@ -490063,9 +490647,13 @@
     "end": 3031,
     "raw": "\"Mommy is stronger than Daddy.\\p\"",
     "source": "Mommy is stronger than Daddy.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}パパより ママが つよくて\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ca36165ffd418080",
@@ -490075,9 +490663,13 @@
     "end": 3069,
     "raw": "\"I'm stronger than Mommy.\\p\"",
     "source": "I'm stronger than Mommy.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ママより あたしが つよくて\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "6a3803d320a1d746",
@@ -490087,9 +490679,13 @@
     "end": 3114,
     "raw": "\"And Grandma's stronger than me!\\p\"",
     "source": "And Grandma's stronger than me!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたしより おばあちゃんが つよくて\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "33587781ef89ea11",
@@ -490099,9 +490695,13 @@
     "end": 3163,
     "raw": "\"But my big brother is even stronger\\n\"",
     "source": "But my big brother is even stronger\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも おばあちゃんより もっと つよいのが\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2bf0a9983774fd8f",
@@ -490111,9 +490711,13 @@
     "end": 3189,
     "raw": "\"than Grandma.$\"",
     "source": "than Grandma.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あたしの おにいちゃん なの!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1638fd210f32cbff",
@@ -490123,9 +490727,13 @@
     "end": 3295,
     "raw": "\"There's no question that you're strong.\\p\"",
     "source": "There's no question that you're strong.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おぬしが つよいのは たしかじゃ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4d223355818280fc",
@@ -490135,9 +490743,13 @@
     "end": 3347,
     "raw": "\"But if you were to battle my grandson,\\n\"",
     "source": "But if you were to battle my grandson,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゃが わしの まごと たたかったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7a09cbd540683e0d",
@@ -490147,9 +490759,13 @@
     "end": 3396,
     "raw": "\"you'd end up crying in frustration.\\p\"",
     "source": "you'd end up crying in frustration.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "くやしくて ないて しまうぞ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "67e95d07b979dc28",
@@ -490159,9 +490775,13 @@
     "end": 3445,
     "raw": "\"He's much stronger than any TRAINER\\n\"",
     "source": "He's much stronger than any TRAINER\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わしら かぞくが しっている\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "736ed5218307ebe0",
@@ -490171,9 +490791,13 @@
     "end": 3476,
     "raw": "\"our family knows.\\p\"",
     "source": "our family knows.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どの トレーナーよりも ずっと つよい。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fae37a409261cf1c",
@@ -490183,9 +490807,13 @@
     "end": 3524,
     "raw": "\"He must be challenging the POKéMON\\n\"",
     "source": "He must be challenging the POKéMON\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いまごろ ポケモンリーグの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2311563a3fc93fa6",
@@ -490195,9 +490823,13 @@
     "end": 3561,
     "raw": "\"LEAGUE CHAMPION by now.\\p\"",
     "source": "LEAGUE CHAMPION by now.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チャンピオンに いどんで おるじゃろう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e1ea68a6f1adab57",
@@ -490207,9 +490839,13 @@
     "end": 3611,
     "raw": "\"Knowing my grandson, he could be the\\n\"",
     "source": "Knowing my grandson, he could be the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの まごのことじゃ もう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4f5fc66177cb2076",
@@ -490219,9 +490855,13 @@
     "end": 3641,
     "raw": "\"CHAMPION already!$\"",
     "source": "CHAMPION already!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チャンピオンかも しれんぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "56a86a2eb16e9217",
@@ -490231,9 +490871,13 @@
     "end": 3748,
     "raw": "\"My grandson must be challenging the\\n\"",
     "source": "My grandson must be challenging the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}まごは いまごろ ポケモンリーグの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "05f2a6b4e89c52a6",
@@ -490243,9 +490887,13 @@
     "end": 3793,
     "raw": "\"POKéMON LEAGUE CHAMPION by now.\\p\"",
     "source": "POKéMON LEAGUE CHAMPION by now.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チャンピオンに いどんで おるじゃろう。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c55b04b1bd21bb51",
@@ -490255,9 +490903,13 @@
     "end": 3843,
     "raw": "\"Knowing my grandson, he could be the\\n\"",
     "source": "Knowing my grandson, he could be the\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うちの まごのことじゃ もう\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "acc64012228f45db",
@@ -490267,9 +490919,13 @@
     "end": 3873,
     "raw": "\"CHAMPION already!$\"",
     "source": "CHAMPION already!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "チャンピオンかも しれんぞ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57f106e184462635",
@@ -490279,9 +490935,13 @@
     "end": 3562,
     "raw": "\"Hey, man, is our leader really going\\n\"",
     "source": "Hey, man, is our leader really going\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なあ おい リーダーは ほんとうに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "16d60293f362ff20",
@@ -490291,9 +490951,13 @@
     "end": 3596,
     "raw": "\"to awaken that thing?$\"",
     "source": "to awaken that thing?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "アイツを めざめさせる つもりか?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f868ed565c5f9a3d",
@@ -490303,9 +490967,13 @@
     "end": 3679,
     "raw": "\"Sounds like it, yeah. But I heard\\n\"",
     "source": "Sounds like it, yeah. But I heard\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}そうらしいな…… だが そのためには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e91f619de4843112",
@@ -490315,9 +490983,13 @@
     "end": 3721,
     "raw": "\"we need a METEORITE to do it.$\"",
     "source": "we need a METEORITE to do it.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いんせきが ひつよう なんだってよ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "549fdd92f6b6215f",
@@ -490327,9 +490999,13 @@
     "end": 3818,
     "raw": "\"Oh, I get it now. That's why the rest\\n\"",
     "source": "Oh, I get it now. That's why the rest\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}なるほどな。それで ほかの なかまは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4614a3f750c92e50",
@@ -490339,9 +491015,13 @@
     "end": 3865,
     "raw": "\"of the crew went out to FALLARBOR.$\"",
     "source": "of the crew went out to FALLARBOR.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ハジツゲへ むかったのか。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "61e93d91e92a9ebe",
@@ -490351,9 +491031,13 @@
     "end": 3965,
     "raw": "\"You got it. And until they come back,\\n\"",
     "source": "You got it. And until they come back,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ああ かれらが もどってくる までは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "32c0de92b0e6688e",
@@ -490363,9 +491047,13 @@
     "end": 4014,
     "raw": "\"we're not to let anyone pass, right.$\"",
     "source": "we're not to let anyone pass, right.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "だれも とおすなって ことだよな。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "f1e2f62ecc666a67",
@@ -490375,9 +491063,13 @@
     "end": 4111,
     "raw": "\"Eh, I'd like to get to MAUVILLE, but if\\n\"",
     "source": "Eh, I'd like to get to MAUVILLE, but if\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}うーむ…… キンセツに いきたいのだが……\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7bcdd9ff2bf1acee",
@@ -490387,9 +491079,13 @@
     "end": 4161,
     "raw": "\"I went down these ledges, it'd be no\\l\"",
     "source": "I went down these ledges, it'd be no\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "この だんさを おりてしまうと\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "aafdfc694fe21db4",
@@ -490399,9 +491095,13 @@
     "end": 4211,
     "raw": "\"easy matter to get back to LAVARIDGE.$\"",
     "source": "easy matter to get back to LAVARIDGE.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "フエンに もどるのは たいへん だよな……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c2827e253e25c562",
@@ -490411,9 +491111,13 @@
     "end": 4284,
     "raw": "\"MT. CHIMNEY CABLE CAR\\n\"",
     "source": "MT. CHIMNEY CABLE CAR\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「えんとつやま ロープウェイ のりば」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "dbdbef5850e30554",
@@ -490423,9 +491127,13 @@
     "end": 4327,
     "raw": "\"“A short walk {UP_ARROW} way!”$\"",
     "source": "“A short walk {UP_ARROW} way!”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{UP_ARROW} このさき すぐ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "217250ed7a5f9dc0",
@@ -490435,9 +491143,13 @@
     "end": 4382,
     "raw": "\"MT. CHIMNEY\\p\"",
     "source": "MT. CHIMNEY\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「えんとつやま」\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7ea9c752b7fbff9a",
@@ -490447,9 +491159,13 @@
     "end": 4430,
     "raw": "\"“For LAVARIDGE TOWN or the summit,\\n\"",
     "source": "“For LAVARIDGE TOWN or the summit,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "フエンタウンや ちょうじょう へは\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "c8620ccf6e08553a",
@@ -490459,9 +491175,13 @@
     "end": 4470,
     "raw": "\"please take the CABLE CAR.”$\"",
     "source": "please take the CABLE CAR.”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ロープウェイを ごりよう ください$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "751920fe2e2e9a4d",
@@ -490471,9 +491191,13 @@
     "end": 4528,
     "raw": "\"ROUTE 112\\n\"",
     "source": "ROUTE 112\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 112ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "3f6bcdaf9df31c7f",
@@ -490483,9 +491207,13 @@
     "end": 4568,
     "raw": "\"{LEFT_ARROW} LAVARIDGE TOWN$\"",
     "source": "{LEFT_ARROW} LAVARIDGE TOWN$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{LEFT_ARROW} フエンタウン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "69e78beb6cebfcec",
@@ -490687,9 +491415,13 @@
     "end": 4505,
     "raw": "\"Wahahaha! Today's technology is a\\n\"",
     "source": "Wahahaha! Today's technology is a\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ワハハ!!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "8c1b915206e55b8e",
@@ -490699,9 +491431,13 @@
     "end": 4534,
     "raw": "\"wondrous thing!\\p\"",
     "source": "wondrous thing!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "いまの かがくりょくは すごいですぞ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "16e8c5f0b4faacc0",
@@ -490711,9 +491447,13 @@
     "end": 4576,
     "raw": "\"Take this volcanic ash here.\\n\"",
     "source": "Take this volcanic ash here.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "なんと この かざんばいを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "11bd31e3a1c906d8",
@@ -490723,9 +491463,13 @@
     "end": 4620,
     "raw": "\"It can be fashioned into glass.$\"",
     "source": "It can be fashioned into glass.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ガラスに かえることが できるのです!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b6e19773ba3c3a8",
@@ -490735,9 +491479,13 @@
     "end": 4709,
     "raw": "\"It's fun walking through the volcano's\\n\"",
     "source": "It's fun walking through the volcano's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}じめんや くさに つもった かざんばいの\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "812d6b9bbe95353c",
@@ -490747,9 +491495,13 @@
     "end": 4753,
     "raw": "\"ashes on the ground and grass.\\p\"",
     "source": "ashes on the ground and grass.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "うえを あるくのって たのしいね。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "46d16936333c9a36",
@@ -490759,9 +491511,13 @@
     "end": 4801,
     "raw": "\"You can see where you walked--it's\\n\"",
     "source": "You can see where you walked--it's\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あるいた ところが わかるんだよ。\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9aa24a5d5b676176",
@@ -490771,9 +491527,13 @@
     "end": 4826,
     "raw": "\"really neat!$\"",
     "source": "really neat!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほんと おもしろい!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d0e8d7f5ec3b63e6",
@@ -490783,9 +491543,13 @@
     "end": 4878,
     "raw": "\"ROUTE 113\\n\"",
     "source": "ROUTE 113\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 113ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "071af2af57eea4ae",
@@ -490795,9 +491559,13 @@
     "end": 4914,
     "raw": "\"{RIGHT_ARROW} ROUTE 111$\"",
     "source": "{RIGHT_ARROW} ROUTE 111$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{RIGHT_ARROW} 111ばん どうろ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1713654a8d7c8482",
@@ -490807,9 +491575,13 @@
     "end": 4972,
     "raw": "\"ROUTE 113\\n\"",
     "source": "ROUTE 113\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ここは 113ばん どうろ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57e9c419fb9f12cb",
@@ -490819,9 +491591,13 @@
     "end": 5012,
     "raw": "\"{LEFT_ARROW} FALLARBOR TOWN$\"",
     "source": "{LEFT_ARROW} FALLARBOR TOWN$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{LEFT_ARROW} ハジツゲタウン$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5d070beba9070f71",
@@ -490831,9 +491607,13 @@
     "end": 5082,
     "raw": "\"TRAINER TIPS\\p\"",
     "source": "TRAINER TIPS\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おとくな けいじばん\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "93123033c4ecc80b",
@@ -490843,9 +491623,13 @@
     "end": 5133,
     "raw": "\"You may register one of the KEY ITEMS\\n\"",
     "source": "You may register one of the KEY ITEMS\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バッグの たいせつなものを ひとつ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1be9326ab4b3cf4c",
@@ -490855,9 +491639,13 @@
     "end": 5169,
     "raw": "\"in your BAG as SELECT.\\p\"",
     "source": "in your BAG as SELECT.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "SELECTに とうろく できます。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e4070a33137d2a69",
@@ -490867,9 +491655,13 @@
     "end": 5209,
     "raw": "\"Simply press SELECT to use\\n\"",
     "source": "Simply press SELECT to use\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "SELECTを おすだけで とうろくした\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4ab727a4d44d753a",
@@ -490879,9 +491671,13 @@
     "end": 5255,
     "raw": "\"the registered item conveniently.$\"",
     "source": "the registered item conveniently.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぐを つかえて べんりです。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "93bbc014d57bd4fb",
@@ -490891,9 +491687,13 @@
     "end": 5317,
     "raw": "\"GLASS WORKSHOP\\n\"",
     "source": "GLASS WORKSHOP\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}「ガラスざいくの おみせ」\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e06ba0bde0006d64",
@@ -490903,9 +491703,13 @@
     "end": 5369,
     "raw": "\"“Turning Volcanic Ash into Glass Items”$\"",
     "source": "“Turning Volcanic Ash into Glass Items”$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざんばい から ガラスの どうぐ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "86b9c4229d338386",
@@ -490915,9 +491719,13 @@
     "end": 11434,
     "raw": "\"This area is covered in volcanic ash,\\n\"",
     "source": "This area is covered in volcanic ash,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}この あたりは かざんばい だらけ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "58d6c02d7a6b11c4",
@@ -490927,9 +491735,13 @@
     "end": 11458,
     "raw": "\"huff-puff!\\p\"",
     "source": "huff-puff!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ペコペコ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fe9ffea3a9f446fa",
@@ -490939,9 +491751,13 @@
     "end": 11504,
     "raw": "\"I'm specially gifted, huff-puff.\\p\"",
     "source": "I'm specially gifted, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしは とくべつな さいのうもち ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "897a70f92e648d21",
@@ -490951,9 +491767,13 @@
     "end": 11550,
     "raw": "\"I make glass out of volcanic ash\\n\"",
     "source": "I make glass out of volcanic ash\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざんばいから ガラスを つくって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "046065dcb4671a27",
@@ -490963,9 +491783,13 @@
     "end": 11590,
     "raw": "\"and make items, huff-puff.\\p\"",
     "source": "and make items, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どうぐに するんだ ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "09fe12e0be83a61b",
@@ -490975,9 +491799,13 @@
     "end": 11641,
     "raw": "\"Go collect ashes with this, huff-puff.$\"",
     "source": "Go collect ashes with this, huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これで はいを あつめて おいで ペコペコ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "049e54010f37952b",
@@ -490987,9 +491815,13 @@
     "end": 11734,
     "raw": "\"Just take that SOOT SACK and walk\\n\"",
     "source": "Just take that SOOT SACK and walk\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}その はいぶくろを もって\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77818f78266ef522",
@@ -490999,9 +491831,13 @@
     "end": 11780,
     "raw": "\"through piles of ash, huff-puff.\\p\"",
     "source": "through piles of ash, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいの うえを あるけば いいよ ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7b7189553351cc8d",
@@ -491011,9 +491847,13 @@
     "end": 11836,
     "raw": "\"And it will fill up with the volcanic ash,\\n\"",
     "source": "And it will fill up with the volcanic ash,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざんばいが ふくろに たまるよ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54f48195af81b07f",
@@ -491023,9 +491863,13 @@
     "end": 11860,
     "raw": "\"huff-puff.\\p\"",
     "source": "huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "54af4156647fe19c",
@@ -491035,9 +491879,13 @@
     "end": 11912,
     "raw": "\"Once you think you've collected a good\\n\"",
     "source": "Once you think you've collected a good\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "じゅうぶん あつまったと おもったら\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2c183e6752f8edaf",
@@ -491047,9 +491895,13 @@
     "end": 11956,
     "raw": "\"amount, come see me, huff-puff.$\"",
     "source": "amount, come see me, huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "わたしに あいに おいで ペコペコ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "57837f3debeddcbb",
@@ -491059,9 +491911,13 @@
     "end": 12058,
     "raw": "\"Have you collected ashes, huff-puff?\\n\"",
     "source": "Have you collected ashes, huff-puff?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}かざんばい あるのかね ペコペコ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d2951a995e6c70c3",
@@ -491071,9 +491927,13 @@
     "end": 12093,
     "raw": "\"Let me see, huff-puff.$\"",
     "source": "Let me see, huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どれどれ みせてごらん ペコポコ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "15fbab067850ae08",
@@ -491083,9 +491943,13 @@
     "end": 12160,
     "raw": "\"Hmmm…\\n\"",
     "source": "Hmmm…\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}ふうむ…\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "4063c0cbd612cbfa",
@@ -491095,9 +491959,13 @@
     "end": 12213,
     "raw": "\"There's not enough ash here, huff-puff.\\l\"",
     "source": "There's not enough ash here, huff-puff.\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいが たりないね ペコペコ。\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "e6a2415bcdaad02b",
@@ -491107,9 +491975,13 @@
     "end": 12267,
     "raw": "\"I can't make glass with this, huff-puff.\\p\"",
     "source": "I can't make glass with this, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "これじゃ ガラスは つくれないよ ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5a0ab1296a47a78b",
@@ -491119,9 +491991,13 @@
     "end": 12326,
     "raw": "\"Let's see… {STR_VAR_1} is the number of steps\\n\"",
     "source": "Let's see… {STR_VAR_1} is the number of steps\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ええと… あと {ENG}{STR_VAR_1}{JPN}ほ あるけば\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5bf8b838ae10092b",
@@ -491131,9 +492007,13 @@
     "end": 12378,
     "raw": "\"you'll need to walk for me to make you\\l\"",
     "source": "you'll need to walk for me to make you\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あおいビードロを つくれるよ\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "382d8920a9250009",
@@ -491143,9 +492023,13 @@
     "end": 12415,
     "raw": "\"a BLUE FLUTE, huff-puff.$\"",
     "source": "a BLUE FLUTE, huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ペコペコ。$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "de8643d01fbb84af",
@@ -491155,9 +492039,13 @@
     "end": 12488,
     "raw": "\"Oh!\\n\"",
     "source": "Oh!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "522dad5109c46cf5",
@@ -491167,9 +492055,13 @@
     "end": 12539,
     "raw": "\"You've got a lot of ashes, huff-puff!\\p\"",
     "source": "You've got a lot of ashes, huff-puff!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "たくさん はいが あるね ペコペコ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "1522515fe5e41f84",
@@ -491179,9 +492071,13 @@
     "end": 12591,
     "raw": "\"I'll make you a glass item, huff-puff!\\n\"",
     "source": "I'll make you a glass item, huff-puff!\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ガラスの どうぐを つくるよ ペコペコ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7209a6c5fd3ac65d",
@@ -491191,9 +492087,13 @@
     "end": 12640,
     "raw": "\"Which one would you like, huff-puff?$\"",
     "source": "Which one would you like, huff-puff?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "どれが いいかね ペコペコ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "29d9e09b185a2375",
@@ -491203,9 +492103,13 @@
     "end": 12729,
     "raw": "\"A {STR_VAR_1}, huff-puff?\\n\"",
     "source": "A {STR_VAR_1}, huff-puff?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}かね ペコペコ?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "49aaefae6264b412",
@@ -491215,9 +492119,13 @@
     "end": 12777,
     "raw": "\"Is that the one for you, huff-puff?$\"",
     "source": "Is that the one for you, huff-puff?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "それで いいかね ペコペコ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "d09e0abaa7c96dfe",
@@ -491227,9 +492135,13 @@
     "end": 12874,
     "raw": "\"Which one would you like, huff-puff?$\"",
     "source": "Which one would you like, huff-puff?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}どれが いいかね ペコペコ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "faa3306849719acf",
@@ -491239,9 +492151,13 @@
     "end": 12973,
     "raw": "\"A {STR_VAR_1} it is, then, huff-puff!\\p\"",
     "source": "A {STR_VAR_1} it is, then, huff-puff!\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN} だね ペコペコ!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "378276fd93a6d612",
@@ -491251,9 +492167,13 @@
     "end": 13025,
     "raw": "\"Okay! I'll make it for you, huff-puff.\\n\"",
     "source": "Okay! I'll make it for you, huff-puff.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "よしっ! どうぐを つくるよ ペコペコ!\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "02c47ab1c6d044ac",
@@ -491263,9 +492183,13 @@
     "end": 13074,
     "raw": "\"Just wait a little while, huff-puff.$\"",
     "source": "Just wait a little while, huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ちょっと まってなさいよ ペコペコ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2f241f73c2d1b5c0",
@@ -491275,9 +492199,13 @@
     "end": 13166,
     "raw": "\"A {STR_VAR_1}, huff-puff?\\p\"",
     "source": "A {STR_VAR_1}, huff-puff?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}かね ペコペコ?\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a08660da2912e6b5",
@@ -491287,9 +492215,13 @@
     "end": 13215,
     "raw": "\"There's not enough ash here to make\\n\"",
     "source": "There's not enough ash here to make\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "でも それを つくるには\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b46f5559bce38db1",
@@ -491299,9 +492231,13 @@
     "end": 13253,
     "raw": "\"that, though, huff-puff.\\p\"",
     "source": "that, though, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいが たりないんだ ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "2d34b1d72b859c25",
@@ -491311,9 +492247,13 @@
     "end": 13312,
     "raw": "\"Let's see… {STR_VAR_2} is the number of steps\\n\"",
     "source": "Let's see… {STR_VAR_2} is the number of steps\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ええと… あと {ENG}{STR_VAR_2}{JPN}ほ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "193156114bbf0e5d",
@@ -491323,9 +492263,13 @@
     "end": 13366,
     "raw": "\"you'll need to walk through volcanic ash\\l\"",
     "source": "you'll need to walk through volcanic ash\\l",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざんばいの うえを あるけば\\l",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7db2fcd137696621",
@@ -491335,9 +492279,13 @@
     "end": 13416,
     "raw": "\"for me to make that item, huff-puff.\\p\"",
     "source": "for me to make that item, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つくれるように なるよ ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a00fd4736d984f68",
@@ -491347,9 +492295,13 @@
     "end": 13465,
     "raw": "\"Which item would you rather have me\\n\"",
     "source": "Which item would you rather have me\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かわりに どの どうぐを\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "a7f07a89ff0243dd",
@@ -491359,9 +492311,13 @@
     "end": 13502,
     "raw": "\"make instead, huff-puff?$\"",
     "source": "make instead, huff-puff?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "つくって ほしいかね ペコペコ?$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "9c22dfea0a3a43ed",
@@ -491371,9 +492327,13 @@
     "end": 13614,
     "raw": "\"You've collected all that ash, but you\\n\"",
     "source": "You've collected all that ash, but you\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}せっかく かざんばいを あつめたのに\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "77901070355e4a06",
@@ -491383,9 +492343,13 @@
     "end": 13658,
     "raw": "\"don't want anything, huff-puff?$\"",
     "source": "don't want anything, huff-puff?$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ほしい ものは ないのかね ペコペコ……$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "23d50b1de1c4c11c",
@@ -491395,9 +492359,13 @@
     "end": 13758,
     "raw": "\"Ah, I've finished your {STR_VAR_1}.\\n\"",
     "source": "Ah, I've finished your {STR_VAR_1}.\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おお {ENG}{STR_VAR_1}{JPN} できたよ\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "20ecf910c4257d58",
@@ -491407,9 +492375,13 @@
     "end": 13790,
     "raw": "\"Take it, huff-puff.$\"",
     "source": "Take it, huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もって いきなさいよ ペコペコ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "832eff7b2ef46f63",
@@ -491419,9 +492391,13 @@
     "end": 13849,
     "raw": "\"Oh?\\n\"",
     "source": "Oh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0b9d0572de3ba734",
@@ -491431,9 +492407,13 @@
     "end": 13901,
     "raw": "\"You've no room in your BAG, huff-puff.\\p\"",
     "source": "You've no room in your BAG, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "バッグに あきが ないよ ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "da226bcbbaa13486",
@@ -491443,9 +492423,13 @@
     "end": 13954,
     "raw": "\"I'll hold on to it, so come back later,\\n\"",
     "source": "I'll hold on to it, so come back later,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あずかって おくから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "7c3f4c8328def7f7",
@@ -491455,9 +492439,13 @@
     "end": 13977,
     "raw": "\"huff-puff.$\"",
     "source": "huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんど きなさい ペコペコ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "5b4b9f9a25d10d72",
@@ -491467,9 +492455,13 @@
     "end": 14035,
     "raw": "\"Oh?\\n\"",
     "source": "Oh?\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "99fc97bb5760e3c5",
@@ -491479,9 +492471,13 @@
     "end": 14086,
     "raw": "\"You've no room in your PC, huff-puff?\\p\"",
     "source": "You've no room in your PC, huff-puff?\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "パソコン いっぱい なのか ペコペコ\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "fcf16b541ae5c1d9",
@@ -491491,9 +492487,13 @@
     "end": 14139,
     "raw": "\"I'll hold on to it, so come back later,\\n\"",
     "source": "I'll hold on to it, so come back later,\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "あずかって おくから\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "b49e410d427f21a3",
@@ -491503,9 +492503,13 @@
     "end": 14162,
     "raw": "\"huff-puff.$\"",
     "source": "huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "こんど きなさい ペコペコ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "302997b0b398f65f",
@@ -491515,9 +492519,13 @@
     "end": 14263,
     "raw": "\"Hah? You haven't got your SOOT SACK\\n\"",
     "source": "Hah? You haven't got your SOOT SACK\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}あら?\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "27d1f1fd70a4cb42",
@@ -491527,9 +492535,13 @@
     "end": 14297,
     "raw": "\"with you, huff-puff.\\p\"",
     "source": "with you, huff-puff.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "はいぶくろを もっていないね ペコペコ。\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "ad7d9c4256fef1a0",
@@ -491539,9 +492551,13 @@
     "end": 14350,
     "raw": "\"You have to keep it with you to collect\\n\"",
     "source": "You have to keep it with you to collect\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "もちあるかないと\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "19eee6efb4df428c",
@@ -491551,9 +492567,13 @@
     "end": 14387,
     "raw": "\"volcanic ash, huff-puff.$\"",
     "source": "volcanic ash, huff-puff.$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "かざんばい たまらないよ ペコペコ$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "21e7e0232c8ad534",
@@ -491563,9 +492583,13 @@
     "end": 14487,
     "raw": "\"It's fun to blow a glass flute while\\n\"",
     "source": "It's fun to blow a glass flute while\\n",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "{JPN}おやかたが はなすのに あわせて\\n",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "0671173e56902794",
@@ -491575,9 +492599,13 @@
     "end": 14520,
     "raw": "\"my boss is talking.\\p\"",
     "source": "my boss is talking.\\p",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ビードロ ふくと たのしか!\\p",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "466aaabde8cb0038",
@@ -491587,9 +492615,13 @@
     "end": 14554,
     "raw": "\"Huff-huff! Puff-puff!$\"",
     "source": "Huff-huff! Puff-puff!$",
-    "translation": "",
-    "status": "pending",
-    "kind": "script"
+    "translation": "ペコペコ! ペコポコ!$",
+    "status": "translated",
+    "kind": "script",
+    "provenance": {
+      "batch": "dialogue-northern-routes-69",
+      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+    }
   },
   {
     "id": "138ede050a740f9e",

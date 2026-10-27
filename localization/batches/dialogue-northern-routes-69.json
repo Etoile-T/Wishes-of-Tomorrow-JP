@@ -1,0 +1,2066 @@
+[
+ {
+  "id": "95af3da80489afa9",
+  "translation": "{JPN}なにか おきてるみたいで\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f4f141e373b45b4",
+  "translation": "いやな かんじだよ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c218534ce6e77a43",
+  "translation": "あやしい やつらが ソライシはかせの\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "efe952ae07585789",
+  "translation": "いえに でたり はいったり してたんだ…$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8efa66033466d838",
+  "translation": "{JPN}ここいら いったいは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "871cd857b957b9e5",
+  "translation": "むかしから いんせきが おおくてな\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba84295cd1782b92",
+  "translation": "りゅうせいのたきも いんせきが おちて\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "451fb1857c0ab998",
+  "translation": "できたとか そう いわれておる$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1d70a3105d0db81",
+  "translation": "{JPN}ほら! みてちょうだい!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb2b94444026fd44",
+  "translation": "わたしの たいせつな ルリリ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a53ec32d4558a0d",
+  "translation": "ツヤツヤの ナデナデの フカフカよ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "009f9f899e94c3e0",
+  "translation": "{JPN}ルリリ: るーりーるー$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fde59075c58b046",
+  "translation": "{JPN}フエンジムの リーダー アスナには\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e226db28084446c0",
+  "translation": "もう ちょうせん したかい?\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2228a8ad3dda702f",
+  "translation": "あのこの おじいさんは ゆうめいでね。\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c18820073b2b428f",
+  "translation": "かつては ポケモンリーグの\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f028dbf0b8ec7b04",
+  "translation": "してんのうの ひとりだったんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4026b0e43dc5ffc4",
+  "translation": "アスナが じぶんの ちからで\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "656d55f4da58754b",
+  "translation": "すごい トレーナーに なったって\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13cfd292f3f49a54",
+  "translation": "おどろかないよ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d4af9119381b5ff",
+  "translation": "{JPN}バトルテント ハジツゲタウン かいじょう\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "000850438c3b65fc",
+  "translation": "つどえ! さいきょう チーム$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23ecfed2b3b1c141",
+  "translation": "{JPN}ここは ハジツゲ タウン\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ade5513e4b9ca634",
+  "translation": "ちいさな はたけが ある のうそん$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bd79362134be863",
+  "translation": "{JPN}「わざおしえマニアの いえ」\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "325ebddbd079b72c",
+  "translation": "ポケモンに あたらしい わざを おしえます。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d282fe64a90511b1",
+  "translation": "{JPN}こんにちは! きみは たびの とちゅうかな。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0deb57da09f5ed39",
+  "translation": "どうだい? わたしたち かぞく 4にんと\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46dc939c535d654b",
+  "translation": "れんぞくで ポケモンしょうぶを\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a7b6fb43629b3cb",
+  "translation": "してみないか?$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56df015e06f7a7e2",
+  "translation": "{JPN}あっそ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b2cf6c2a071ab1e",
+  "translation": "きが むいたら また おいで!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06730064e8e3cbeb",
+  "translation": "{JPN}いい どきょうだ! きにいったぞ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7827514c0f66cb87",
+  "translation": "{JPN}たはーっ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13bc9435d57a1fbd",
+  "translation": "おもっていたより つよいんだね きみは!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ef8024ab3b004ef",
+  "translation": "{JPN}おーい!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "380cad143ac6b028",
+  "translation": "なかなか つよい トレーナーが いたぞー!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "838af683797553ab",
+  "translation": "{JPN}あらまあ! あなた まだ わかいんじゃない?\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d20ede96f02564e0",
+  "translation": "うちの しゅじんに かってしまう とは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a31b28b8335eab98",
+  "translation": "なんと すごうでの トレーナー なの!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04550b8c146452c6",
+  "translation": "じゃあ こんどは わたしと しょうぶよ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93cfd5ce2a2faa0c",
+  "translation": "{JPN}んまーっ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6a7b104cfa48bc6",
+  "translation": "あなたって なんて つよいのかしら!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57c1efbe5ac4f299",
+  "translation": "{JPN}つよいわよー!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42c4611de4d66f07",
+  "translation": "このひと すっごく つよいわよー!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6912aabbef9cc97",
+  "translation": "{JPN}ママより つよいなんて すごーい!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8ed20570b2ebe5ee",
+  "translation": "でも あたし だって つよいんだから!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05da51ceae7bc9ed",
+  "translation": "ほんと なんだってば!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "778c16072044aaad",
+  "translation": "{JPN}えっ? あたし いま まけちゃったの?$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ebaf84d6d54b5201",
+  "translation": "{JPN}くやしい……\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4274c256d09a1de4",
+  "translation": "…… ぐっすん! おばあちゃーん!!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ce5671992510c3e",
+  "translation": "{JPN}よくも わしの まごを\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f141b940ea0d7ad",
+  "translation": "なかせて くれたな!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6bd0cf21e31a118f",
+  "translation": "こうなったら ぶちのめして やるぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d97bbd5841e5a58f",
+  "translation": "まける かくごを するんじゃ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42f758e95ea94e1d",
+  "translation": "{JPN}フガッ! つよいのう……\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "18d9f3584d6c28f6",
+  "translation": "まごの いうことは ほんとう じゃった$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66726ff49d325950",
+  "translation": "{JPN}あんた…… いそぎのたびで ないのなら\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b57ceb5e1fe36e02",
+  "translation": "うちに よっていって おくれ……$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "339a4f86c2adaec9",
+  "translation": "{JPN}もっと ポケモンを そだてないと\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13d38f01595c0f10",
+  "translation": "かちつづけて うえを めざすのは\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61138a503b13c19a",
+  "translation": "むずかしいかも しれないね。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4cec1f781c2ed24e",
+  "translation": "ポケモンリーグの してんのうは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "64ae50c82e0bbd68",
+  "translation": "どの ジムリーダーよりも ずっと\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39ab5b981003df1b",
+  "translation": "つよいって きいたよ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "260e5f8862e20efe",
+  "translation": "{JPN}カチヌキいっかに いどんだけれど\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9eacc9a9cfa9c3ee",
+  "translation": "4にん つづけての ポケモンしょうぶは\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe98085a2027757a",
+  "translation": "きびしいよな…… ボロまけ したよ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7adce8ba0ae4a577",
+  "translation": "{JPN}ここは 111ばん どうろ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1bab008fa9dae8fa",
+  "translation": "{DOWN_ARROW} キンセツシティ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9cee031f32f726d",
+  "translation": "{JPN}われら かぞくの こころは ひとつ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "170ddab685be3c9c",
+  "translation": "「カチヌキ ファミリーの いえ」$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9bddba8989efb99",
+  "translation": "{JPN}ここは 111ばん どうろ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "435b6698c25501bd",
+  "translation": "{LEFT_ARROW} 112ばん どうろ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "297ef33f7b38ac66",
+  "translation": "{JPN}ここは 111ばん どうろ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03f52cc570177294",
+  "translation": "{LEFT_ARROW} 113ばん どうろ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6fb23438214fe33",
+  "translation": "{JPN}「ケンコーばあさんの いえ」\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a58da6ef7adc59eb",
+  "translation": "つかれたと おもうなら よってらっしゃい!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8d1a9f97ff5680e",
+  "translation": "{JPN}おとくな けいじばん!!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6d1bdd855b5af40f",
+  "translation": "ポケモンの つよさを あらわす ことばで\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "775af5cbb6b37536",
+  "translation": "とくこう とは\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ffd57388614c8269",
+  "translation": "とくしゅ こうげきりょく のこと!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5db3575250eca561",
+  "translation": "とくぼう とは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "746583f47f8f1466",
+  "translation": "とくしゅ ぼうぎょりょく のこと です!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57c2a97656812bca",
+  "translation": "{JPN}この あたりの どこかに すなで できた\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9142681cdfcf3ef4",
+  "translation": "とうが あるはず なんだがね。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6905e3c150fb0df4",
+  "translation": "なぜだか みえたり\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcba64a629889c91",
+  "translation": "みえなかったり するんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcd77460ba32d9e5",
+  "translation": "だから げんえいのとうと よんでいるんだ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dbe9a9f122b5560",
+  "translation": "{JPN}みえるぞ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afb2c42cab6ce345",
+  "translation": "すなの とうだ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3580cedad8768b7e",
+  "translation": "げんえいと よばれていた すなの とうが\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "97f9918da73ec964",
+  "translation": "はっきり みえるぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e35f75dfa9fc78c",
+  "translation": "でも なんだか もろそうだな…\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ad35cfe34b45519",
+  "translation": "いつ くずれても おかしくない…\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "759ed01117b51903",
+  "translation": "なかに はいって みたいけれど\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e329acd421e8cf9",
+  "translation": "ゆうきが でないんだ…$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31c3e462cbff920b",
+  "translation": "{JPN}うわあ…\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a02435ea2d687aa0",
+  "translation": "びっくり したよ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "173e6763423b58f7",
+  "translation": "とつぜん すなの かたまりが\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b239860cfb524ac",
+  "translation": "ふってきたんだ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f23667ca8a2d9291",
+  "translation": "なかは どんな ふうだった?\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a11dfbf68fb1ab5",
+  "translation": "すなで できた おばけとか いたかい?$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "385bb7533f3df89e",
+  "translation": "{JPN}きみと はなしてから すなの とうは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc7b8db984981b29",
+  "translation": "みえなく なってしまった。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46096ae5edfc161c",
+  "translation": "ほんとうに げんえいのとう\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60443e5080e45493",
+  "translation": "だったのかも しれないな…$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e6438214cfc2b5c",
+  "translation": "{JPN}ツメのカセキは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ad43d801a164c17",
+  "translation": "すなに もぐって しまった……$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce11690c8202848d",
+  "translation": "{JPN}ねっこのカセキは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "01abdb2a091cf75c",
+  "translation": "すなに もぐって しまった……$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8480b0c6d1d09c54",
+  "translation": "{JPN}しまった!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fabf0f2d709322c",
+  "translation": "111ばんどうろに いくなら\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54ccb93ba4e8e788",
+  "translation": "いわくだきを もっていけ って\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "82bf9594a5d69aba",
+  "translation": "キンセツの おじさんに いわれてたんだ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "367b95b0824651bb",
+  "translation": "おじさん? サイクルショップの\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08689ed5392e42f8",
+  "translation": "むかいがわの いえに すんでるよ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f34bdaf86e148b7",
+  "translation": "{JPN}{RIGHT_ARROW} トレーナーヒル いりぐち\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74889bb46ef05225",
+  "translation": "「あつき トレーナーたちよ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec2c0ec9f83d7571",
+  "translation": "たかみを めざせ!」$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16f661792b69881d",
+  "translation": "{JPN}あらあら あなたの ポケモン\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3be9ec0b48bce512",
+  "translation": "つかれてるんじゃ ないかえ?\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48d7ec7727545ff3",
+  "translation": "よかったら やすんで おいき!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a57eb5edfff8fc6f",
+  "translation": "そうだ それがいい! そうしなさい!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "659ecd44565127b6",
+  "translation": "{JPN}そうそう\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "876a7494407506b4",
+  "translation": "ここで ゆっくり して おいき!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f15c38ec77f4c7d",
+  "translation": "{JPN}あらあら\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f49f1632c0cadc3",
+  "translation": "まだ つかれてるんじゃ ないかえ?\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ef5b13c66c8defc",
+  "translation": "もういちど やすんで おいき!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0d9c205cd9aeb1a",
+  "translation": "そうだ それがいい! そうしなさい!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57009ad6a9d7e2ac",
+  "translation": "{JPN}そうかえ?\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a75ba510d0791a86",
+  "translation": "えんりょは いらないんだよ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "31119dfde0be4b99",
+  "translation": "{JPN}きみほど ポケモンを じょうずに\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ee7f9c2e537c9ef",
+  "translation": "つかいこなす トレーナーは はじめてだ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fe03852d8b76c89",
+  "translation": "だが きみよりも\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4802b9989bd89acb",
+  "translation": "わたしの むすこの ほうが つよいぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1639a7703d6cf959",
+  "translation": "なんたって ポケモン リーグへ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c3e1d9ec86a2576",
+  "translation": "ちょうせんに いった ぐらい だからな!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c43f55a1615165dd",
+  "translation": "{JPN}この きょうせいギプスを つかって\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "52f91e1c445117a6",
+  "translation": "より こうりつよく ポケモンを\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3311e04bcc23828e",
+  "translation": "きたえて いるんです。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea401fbdb222933d",
+  "translation": "わたしたち かぞく ぜんいんに かった\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68e99dcb1b3994d9",
+  "translation": "あなたには ひつようない かもしれませんが\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8662c69c6f2fca2e",
+  "translation": "この きょうせいギプスを どうぞ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24b32bfb91570eeb",
+  "translation": "{JPN}わたしたちは ポケモンでの しょうぶに\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d1a7f2877b754e5c",
+  "translation": "じょうねつを そそいで います!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "df4b5b0d732fc31d",
+  "translation": "{JPN}パパより ママが つよくて\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca36165ffd418080",
+  "translation": "ママより あたしが つよくて\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a3803d320a1d746",
+  "translation": "あたしより おばあちゃんが つよくて\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33587781ef89ea11",
+  "translation": "でも おばあちゃんより もっと つよいのが\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bf0a9983774fd8f",
+  "translation": "あたしの おにいちゃん なの!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1638fd210f32cbff",
+  "translation": "{JPN}おぬしが つよいのは たしかじゃ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d223355818280fc",
+  "translation": "じゃが わしの まごと たたかったら\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a09cbd540683e0d",
+  "translation": "くやしくて ないて しまうぞ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67e95d07b979dc28",
+  "translation": "わしら かぞくが しっている\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "736ed5218307ebe0",
+  "translation": "どの トレーナーよりも ずっと つよい。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fae37a409261cf1c",
+  "translation": "いまごろ ポケモンリーグの\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2311563a3fc93fa6",
+  "translation": "チャンピオンに いどんで おるじゃろう。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e1ea68a6f1adab57",
+  "translation": "うちの まごのことじゃ もう\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f5fc66177cb2076",
+  "translation": "チャンピオンかも しれんぞ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56a86a2eb16e9217",
+  "translation": "{JPN}まごは いまごろ ポケモンリーグの\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05f2a6b4e89c52a6",
+  "translation": "チャンピオンに いどんで おるじゃろう。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c55b04b1bd21bb51",
+  "translation": "うちの まごのことじゃ もう\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "acc64012228f45db",
+  "translation": "チャンピオンかも しれんぞ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57f106e184462635",
+  "translation": "{JPN}なあ おい リーダーは ほんとうに\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16d60293f362ff20",
+  "translation": "アイツを めざめさせる つもりか?$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f868ed565c5f9a3d",
+  "translation": "{JPN}そうらしいな…… だが そのためには\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e91f619de4843112",
+  "translation": "いんせきが ひつよう なんだってよ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "549fdd92f6b6215f",
+  "translation": "{JPN}なるほどな。それで ほかの なかまは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4614a3f750c92e50",
+  "translation": "ハジツゲへ むかったのか。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61e93d91e92a9ebe",
+  "translation": "{JPN}ああ かれらが もどってくる までは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32c0de92b0e6688e",
+  "translation": "だれも とおすなって ことだよな。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1e2f62ecc666a67",
+  "translation": "{JPN}うーむ…… キンセツに いきたいのだが……\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7bcdd9ff2bf1acee",
+  "translation": "この だんさを おりてしまうと\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aafdfc694fe21db4",
+  "translation": "フエンに もどるのは たいへん だよな……$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2827e253e25c562",
+  "translation": "{JPN}「えんとつやま ロープウェイ のりば」\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dbdbef5850e30554",
+  "translation": "{UP_ARROW} このさき すぐ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "217250ed7a5f9dc0",
+  "translation": "{JPN}「えんとつやま」\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ea9c752b7fbff9a",
+  "translation": "フエンタウンや ちょうじょう へは\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c8620ccf6e08553a",
+  "translation": "ロープウェイを ごりよう ください$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "751920fe2e2e9a4d",
+  "translation": "{JPN}ここは 112ばん どうろ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f6bcdaf9df31c7f",
+  "translation": "{LEFT_ARROW} フエンタウン$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "693990d85126ddcc",
+  "translation": "{JPN}ワハハ!!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c1b915206e55b8e",
+  "translation": "いまの かがくりょくは すごいですぞ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16e8c5f0b4faacc0",
+  "translation": "なんと この かざんばいを\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11bd31e3a1c906d8",
+  "translation": "ガラスに かえることが できるのです!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b6e19773ba3c3a8",
+  "translation": "{JPN}じめんや くさに つもった かざんばいの\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "812d6b9bbe95353c",
+  "translation": "うえを あるくのって たのしいね。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46d16936333c9a36",
+  "translation": "あるいた ところが わかるんだよ。\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9aa24a5d5b676176",
+  "translation": "ほんと おもしろい!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0e8d7f5ec3b63e6",
+  "translation": "{JPN}ここは 113ばん どうろ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "071af2af57eea4ae",
+  "translation": "{RIGHT_ARROW} 111ばん どうろ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1713654a8d7c8482",
+  "translation": "{JPN}ここは 113ばん どうろ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57e9c419fb9f12cb",
+  "translation": "{LEFT_ARROW} ハジツゲタウン$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d070beba9070f71",
+  "translation": "{JPN}おとくな けいじばん\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93123033c4ecc80b",
+  "translation": "バッグの たいせつなものを ひとつ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1be9326ab4b3cf4c",
+  "translation": "SELECTに とうろく できます。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4070a33137d2a69",
+  "translation": "SELECTを おすだけで とうろくした\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ab727a4d44d753a",
+  "translation": "どうぐを つかえて べんりです。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93bbc014d57bd4fb",
+  "translation": "{JPN}「ガラスざいくの おみせ」\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e06ba0bde0006d64",
+  "translation": "かざんばい から ガラスの どうぐ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86b9c4229d338386",
+  "translation": "{JPN}この あたりは かざんばい だらけ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "58d6c02d7a6b11c4",
+  "translation": "ペコペコ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe9ffea3a9f446fa",
+  "translation": "わたしは とくべつな さいのうもち ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "897a70f92e648d21",
+  "translation": "かざんばいから ガラスを つくって\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "046065dcb4671a27",
+  "translation": "どうぐに するんだ ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09fe12e0be83a61b",
+  "translation": "これで はいを あつめて おいで ペコペコ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "049e54010f37952b",
+  "translation": "{JPN}その はいぶくろを もって\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77818f78266ef522",
+  "translation": "はいの うえを あるけば いいよ ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b7189553351cc8d",
+  "translation": "かざんばいが ふくろに たまるよ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54f48195af81b07f",
+  "translation": "ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54af4156647fe19c",
+  "translation": "じゅうぶん あつまったと おもったら\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2c183e6752f8edaf",
+  "translation": "わたしに あいに おいで ペコペコ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57837f3debeddcbb",
+  "translation": "{JPN}かざんばい あるのかね ペコペコ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d2951a995e6c70c3",
+  "translation": "どれどれ みせてごらん ペコポコ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15fbab067850ae08",
+  "translation": "{JPN}ふうむ…\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4063c0cbd612cbfa",
+  "translation": "はいが たりないね ペコペコ。\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6a2415bcdaad02b",
+  "translation": "これじゃ ガラスは つくれないよ ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a0ab1296a47a78b",
+  "translation": "ええと… あと {ENG}{STR_VAR_1}{JPN}ほ あるけば\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bf8b838ae10092b",
+  "translation": "あおいビードロを つくれるよ\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "382d8920a9250009",
+  "translation": "ペコペコ。$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de8643d01fbb84af",
+  "translation": "{JPN}おお!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "522dad5109c46cf5",
+  "translation": "たくさん はいが あるね ペコペコ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1522515fe5e41f84",
+  "translation": "ガラスの どうぐを つくるよ ペコペコ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7209a6c5fd3ac65d",
+  "translation": "どれが いいかね ペコペコ?$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29d9e09b185a2375",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}かね ペコペコ?\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49aaefae6264b412",
+  "translation": "それで いいかね ペコペコ?$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d09e0abaa7c96dfe",
+  "translation": "{JPN}どれが いいかね ペコペコ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "faa3306849719acf",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN} だね ペコペコ!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "378276fd93a6d612",
+  "translation": "よしっ! どうぐを つくるよ ペコペコ!\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02c47ab1c6d044ac",
+  "translation": "ちょっと まってなさいよ ペコペコ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f241f73c2d1b5c0",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}かね ペコペコ?\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a08660da2912e6b5",
+  "translation": "でも それを つくるには\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b46f5559bce38db1",
+  "translation": "はいが たりないんだ ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2d34b1d72b859c25",
+  "translation": "ええと… あと {ENG}{STR_VAR_2}{JPN}ほ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "193156114bbf0e5d",
+  "translation": "かざんばいの うえを あるけば\\l",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7db2fcd137696621",
+  "translation": "つくれるように なるよ ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a00fd4736d984f68",
+  "translation": "かわりに どの どうぐを\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a7f07a89ff0243dd",
+  "translation": "つくって ほしいかね ペコペコ?$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c22dfea0a3a43ed",
+  "translation": "{JPN}せっかく かざんばいを あつめたのに\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77901070355e4a06",
+  "translation": "ほしい ものは ないのかね ペコペコ……$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23d50b1de1c4c11c",
+  "translation": "{JPN}おお {ENG}{STR_VAR_1}{JPN} できたよ\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20ecf910c4257d58",
+  "translation": "もって いきなさいよ ペコペコ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "832eff7b2ef46f63",
+  "translation": "{JPN}あら?\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b9d0572de3ba734",
+  "translation": "バッグに あきが ないよ ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da226bcbbaa13486",
+  "translation": "あずかって おくから\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c3f4c8328def7f7",
+  "translation": "こんど きなさい ペコペコ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b4b9f9a25d10d72",
+  "translation": "{JPN}あら?\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99fc97bb5760e3c5",
+  "translation": "パソコン いっぱい なのか ペコペコ\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fcf16b541ae5c1d9",
+  "translation": "あずかって おくから\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b49e410d427f21a3",
+  "translation": "こんど きなさい ペコペコ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "302997b0b398f65f",
+  "translation": "{JPN}あら?\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "27d1f1fd70a4cb42",
+  "translation": "はいぶくろを もっていないね ペコペコ。\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad7d9c4256fef1a0",
+  "translation": "もちあるかないと\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19eee6efb4df428c",
+  "translation": "かざんばい たまらないよ ペコペコ$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "21e7e0232c8ad534",
+  "translation": "{JPN}おやかたが はなすのに あわせて\\n",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0671173e56902794",
+  "translation": "ビードロ ふくと たのしか!\\p",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "466aaabde8cb0038",
+  "translation": "ペコペコ! ペコポコ!$",
+  "provenance": {
+   "batch": "dialogue-northern-routes-69",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

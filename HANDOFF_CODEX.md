@@ -4,7 +4,16 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
-## 最新の会話68（2026-10-27）
+## 最新: 会話69〜108（2026-10-27、Claude Code）
+
+Codexの会話69（111〜113番道路ほか258行、抽出済み・未適用だったもの）を照合して適用。続けて残りのストーリーを40バッチ・34,734行、サブエージェント並列で下書きし、主セッションで検査・表記統一・適用した。15,239→49,973、pending11,749。
+**data/maps・data/text・data/scriptsのカタログ行はすべて翻訳済み**。例外は意図的に英語のまま残した129件: 点字 data/text/braille.inc 87（.brailleはLatinのみ）、FRLG名前候補 new_game_intro_frlg.inc 42（IS_FRLG専用・名前欄はJPN_NAME制御）。
+レビュー: reviews/dialogue-northern-routes-69.review.md、dialogue-hoenn-wave-70-78.review.md、dialogue-frontier-kanto-text-79-108.review.md。下書きは reviews/drafts/、サブエージェント用の共通指示は reviews/drafts/BRIEF-subagents.md。
+成果物: ../outputs/gba/wishes-jp-49973-08c39ad6.gba（SHA256 9bb0cdc0…2fec、source 5b6c415afe、ROM29,576,456B）。中間版 wishes-jp-21983-bc0b1220.gba。Excel ../outputs/translation-types-49973/、Git内 exports/types-49973.xlsx。BPS再適用一致。実ゲームの表示・進行・保存は未検証。
+
+残り（優先順の案）: (1) EGGS{STR_VAR_1}等が続くC部品（src/strings.c gText_FrontierFacilityAreInelegible、battle_message.c gText_Are）を会話側の訳に接続 (2) セリフ系C文字列（match_call_messages.h、follower_messages.h、trainer_hill.h、battle_frontier_trainers.h、trainer_tower_sets.c、apprentice.h、battle_tent.h。枠幅が会話と違う） (3) src/strings.c ほかUI (4) 図鑑説明・技説明 (5) 弟子の台詞の一人称の揺れ、テレビの秘密基地グッズ名（decoration未訳）の統一 (6) 実機での表示確認。
+
+## 以前の会話68（2026-10-27）
 
 開始HEAD27f2008281・クリーン、status/stats61,722/14,974/46,748一致。シダケ施設176/カナシダトンネル75/117番道路14、計265行61メッセージ追加し61,722/15,239/46,483。9ファイルpending0。参考113行を英語全文と照合し編集、残り152行は新訳。レビューreviews/dialogue-verdanturf-tunnel-68.review.md。ミツルの決意/ラルトス/再戦、叔父と弟の息子の家族関係、ミチルの信頼、恋人と住民のための工事、なつき7段階、テントの性格/技と旧コンテスト、救出/かいりき/育て屋を保持。海賊の船底引きの罵りは比喩のまま。辞書139語不変。
 

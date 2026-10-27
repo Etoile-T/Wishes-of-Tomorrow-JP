@@ -3,18 +3,18 @@
   "baseline_commit": "efb1c880d0b486c1948763051b6c1bb8990a7353",
   "reference_commit": "b07a7ec5f798ebc4cf3641613bbd8ddbb9b6f5ef",
   "total_candidates": 61722,
-  "translated": 15239,
-  "pending": 46483,
+  "translated": "49973",
+  "pending": "11749",
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": 78,
-  "bps_roundtrip": "passed: 15239 Verdanturf facilities/Rusturf/Route117 build, SHA256/CRC and byte comparison",
+  "tests_passed": "78",
+  "bps_roundtrip": "passed: 49973 story build (Hoenn/Frontier/Kanto maps + data/text + data/scripts), SHA256 and byte comparison",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "kana3: keyboard board/entry/background drawn (one printer per row; per-glyph printers overflowed DMA queue), けす/おわり buttons, cursor aligned; verified by mgba_probe VRAM render, GUI play unverified",
-  "ewram_bytes": 230024,
-  "iwram_bytes": 28600,
-  "jp_rom_used_bytes": 29819240,
+  "ewram_bytes": "230024",
+  "iwram_bytes": "28600",
+  "jp_rom_used_bytes": "29576456",
   "yomiyasu_version": "2.4.0",
   "yomiyasu_commit": "552c12c472ddfb79e2ee7a15219847782686a945",
   "reference_names": {
@@ -22,7 +22,7 @@
     "move": 923,
     "species": 1321
   },
-  "work_state": "story_translation_in_progress",
+  "work_state": "story_dialogue_translated_runtime_unverified",
   "pause_scope": "Push and pause when context becomes long; user requests resuming when tokens are available again; full story unfinished",
   "translation_review": "Types/pockets and seven resale-description corrections reviewed with yomiyasu; remaining new ability/item batches still need full semantic review",
   "verification_policy": "Static validation and builds first. GUI gameplay verification deferred per user.",
@@ -31,7 +31,7 @@
   "ui_added": 1220,
   "ui_inventory_files": 59,
   "ui_pending_language_candidates": 2344,
-  "excel_translated_rows": 15946,
+  "excel_translated_rows": "50680",
   "reported_graphics_issue": "Closed at user request: user identified emulator bug; stop investigating and resume translation",
   "graphics_diagnostic_build": {
     "status": "passed",
@@ -40,34 +40,35 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-bb850ea9aa5ea181.gba",
-  "latest_patch_manifest": "patch-manifest-ui15239.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-9bb0cdc0f2a35bc9.gba",
+  "latest_patch_manifest": "patches/ui-49973-08c39ad6/manifest.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-15239-256d909c.gba",
-  "dialogue_progress": "Applied: DragonKeeper and MewtwoPostGame, plus previously listed custom maps. No pending catalog rows in map folders absent from local JP reference except *_Frlg. This heuristic excludes custom dialogue in reused Emerald maps and unextracted text. Applied move tutor common NPC dialogue: 41 messages / 156 rows, no pending catalog rows in data/text/move_tutors.inc. Core game-wide dialogue still incomplete.",
+  "user_output_rom": "../outputs/gba/wishes-jp-49973-08c39ad6.gba",
+  "dialogue_progress": "All catalog rows under data/maps, data/text and data/scripts translated except 129 kept English on purpose: data/text/braille.inc 87 (braille preproc is Latin-only) and FRLG name presets 42 (IS_FRLG-only path; name buffers use JPN_NAME controls). Runtime display/progression not verified.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
   "trainer_names": "trainers.party Name lines translated (localization/trainer-names.json, <=12 bytes); classes in catalog (<=13 bytes)",
   "map_names": "region_map_sections.json names translated (localization/map-names.json, <=16 bytes)",
   "handoff": "HANDOFF_CODEX.md (Codex); HANDOFF_CLAUDE_CODE.md keeps the detailed history",
-  "review_workbook": "exports/types-15239.xlsx",
-  "user_review_workbook": "../outputs/translation-types-15239/Wishes_種類別翻訳一覧.xlsx",
+  "review_workbook": "exports/types-49973.xlsx",
+  "user_review_workbook": "../outputs/translation-types-49973/Wishes_種類別翻訳一覧.xlsx",
   "last_dialogue_batch": {
-    "entries": 265,
-    "script_rows": 265,
-    "messages": 61,
-    "batches": [
-      "dialogue-verdanturf-tunnel-68"
+    "batches": "dialogue-northern-routes-69, 70-78 (Hoenn), 79-85 (Frontier), kanto-86..97, text-98..108",
+    "entries": 34992,
+    "translation_commits": [
+      "fc34cb7222",
+      "60d889968f",
+      "5b6c415afe"
     ],
-    "translation_commit": "a92092b64baf4bd037634b6f47c9b1c3af14e20f",
-    "reference_rows_reviewed": 113,
-    "source_logic": "non-string lines identical in 9 scripts",
-    "width": "bad0; >26cells0; variables/pages/scroll/end preserved per original row",
-    "runtime": "not run; battles, rescue, handover, rock smashing, rewards, daycare, communication, progression and saves unverified"
+    "reviews": [
+      "reviews/dialogue-northern-routes-69.review.md",
+      "reviews/dialogue-hoenn-wave-70-78.review.md",
+      "reviews/dialogue-frontier-kanto-text-79-108.review.md"
+    ]
   },
   "excel_total_rows": 62429,
   "excel_catalog_rows": 61722,
-  "excel_pending_rows": 46483,
+  "excel_pending_rows": "11749",
   "excel_scope": "All current catalog candidates plus 707 external trainer/map names; not a complete audit of images or unextracted strings",
   "name_input_limits": {
     "player_rival": 5,
@@ -77,7 +78,7 @@
     "save_layout": "unchanged",
     "runtime": "see kana3 review; new dialogue not played"
   },
-  "build_directory": "build/emerald-jp-dlg15239-clean",
+  "build_directory": "build/emerald-jp-dlg49973-clean",
   "last_species_name_batch": {
     "entries": 42,
     "batches": [

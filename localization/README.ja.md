@@ -1,3 +1,15 @@
+# 現在の状況（2026-10-27）
+
+**この日本語訳は、生成AI（Codex・Claude Code）を用いた機械翻訳です。** 参考フォークの日本語訳・公式名称も利用しています。人手による全編校閲は未完了で、誤訳や不自然な表現が残る可能性があります。
+
+カタログ61,722件の翻訳状態登録は完了、未翻訳0件です。記号・スタッフ名・識別子など、意図的に原文を維持する項目も含みます。これは未抽出テキストや画像内文字まで含めた完全日本語化の証明ではありません。
+
+最新ビルドのソースは `396f17e4e1`、検証記録はビルド成功・83テスト成功・BPS再適用照合一致です。種類別Excelは [exports/types-61722.xlsx](exports/types-61722.xlsx)、詳細と残作業は [HANDOFF_CODEX.md](../HANDOFF_CODEX.md) を参照してください。漢字、実ゲームでの表示・進行・保存、訳文の全編校閲などは未完了です。
+
+以下は過去の作業記録です。「最新」とある箇所も当時の版を指します。
+
+---
+
 最新追記（2026-10-27・会話68）: シダケ施設/カナシダトンネル/117番道路265行追加し15,239件。GBA ../outputs/gba/wishes-jp-15239-256d909c.gba、SHA256 bb850ea9aa5ea181d5ee4cfeab67b17790d4ba2d44f4d63ff4af04939d4846be。source commit a92092b64baf4bd037634b6f47c9b1c3af14e20f。build/emerald-jp-dlg15239-cleanでビルドexit0、ROM29,819,240B/EWRAM230,024/IWRAM28,600。BPS再適用SHA/CRC・全バイト一致、../artifacts/wishes-jp-ui15239-256d909c-patch.zip。Excel14シート・62,429行11列・139語・全原文/訳文/ID/状態/メモと目次62,429/15,946/46,483を保存後照合。旧メモ0件維持。Git内exports/types-15239.xlsx、ユーザー版 ../outputs/translation-types-15239/Wishes_種類別翻訳一覧.xlsx。実Excelアプリ・ゲーム実画面/進行/保存は未検証。旧ROM・セーブ保持。 全ストーリー未完了、次は111/112/113番道路/ハジツゲ258行。
 
 最新追記（2026-10-27・会話67）: キンセツ施設/シダケタウン305行追加し14,974件。GBA ../outputs/gba/wishes-jp-14974-6ffe83ab.gba、SHA256 ca4d7f0da794b08fd045951cba2803c315509a410b5c9630e42f0c1b617ee040。source commit ebc5dfa87c93e46a21fc98222a8ca5f83f1a543f。build/emerald-jp-dlg14974-cleanでビルドexit0、ROM29,822,152B/EWRAM230,024/IWRAM28,600。BPS再適用SHA/CRC・全バイト一致、../artifacts/wishes-jp-ui14974-6ffe83ab-patch.zip。Excel14シート・62,429行11列・139語・全原文/訳文/ID/状態/メモと目次62,429/15,681/46,748を保存後照合。旧メモ0件維持。Git内exports/types-14974.xlsx、ユーザー版 ../outputs/translation-types-14974/Wishes_種類別翻訳一覧.xlsx。実Excelアプリ・ゲーム実画面/進行/保存は未検証。旧ROM・セーブ保持。 全ストーリー未完了、次はシダケ施設/カナシダトンネル/117番道路265行。

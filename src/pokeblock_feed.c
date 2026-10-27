@@ -96,9 +96,9 @@ static u8 CreatePokeblockCaseSpriteForFeeding(void);
 static u8 CreateMonSprite(struct Pokemon *);
 static void SpriteCB_ThrownPokeblock(struct Sprite *);
 
-static const u8 sText_Var1AteTheVar2[] = _("{STR_VAR_1} ate the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_Var1HappilyAteVar2[] = _("{STR_VAR_1} happily ate the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
-static const u8 sText_Var1DisdainfullyAteVar2[] = _("{STR_VAR_1} disdainfully ate the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
+static const u8 sText_Var1AteTheVar2[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}は\n{ENG}{STR_VAR_2}{JPN}を たべた!{PAUSE_UNTIL_PRESS}{ENG}");
+static const u8 sText_Var1HappilyAteVar2[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}は よろこんで\n{ENG}{STR_VAR_2}{JPN}を たべた!{PAUSE_UNTIL_PRESS}{ENG}");
+static const u8 sText_Var1DisdainfullyAteVar2[] = _("{JPN}{ENG}{STR_VAR_1}{JPN}は いやそうに\n{ENG}{STR_VAR_2}{JPN}を たべた!{PAUSE_UNTIL_PRESS}{ENG}");
 
 EWRAM_DATA static struct PokeblockFeed *sPokeblockFeed = NULL;
 EWRAM_DATA static struct SpritePalette sPokeblockSpritePal = {0};

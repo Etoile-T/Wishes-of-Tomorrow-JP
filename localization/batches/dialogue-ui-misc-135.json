@@ -1,0 +1,1682 @@
+[
+ {
+  "id": "aa06ee819675aa66",
+  "translation": "{JPN}もういちど さいしょから やりなおして ください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69f855163193cee0",
+  "translation": "{JPN}ワイヤレスつうしんの\\nけんさくを ちゅうし しました。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8197cb6eefd07526",
+  "translation": "{JPN}ほかの プレイヤーからの\\nれんらくを まっています。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8808663f628567b0",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}! ほかの プレイヤー\\nからの れんらくを まっています。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e2b8c4fc0732999f",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}! れんらくまち!\\nそろったら STARTを おしてね。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bbd6f3359a254d48",
+  "translation": "{JPN}あと 1にん\\nひつようです。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91131d88e33a7cea",
+  "translation": "{JPN}あと 2にん\\nひつようです。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "67a9936695eb0bff",
+  "translation": "{JPN}あと 3にん\\nひつようです。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bc81fe7b49e69183",
+  "translation": "{JPN}あと 4にん\\nひつようです。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ed0f81ec9e248262",
+  "translation": "{JPN}2にん\\nモード{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ce6b805a42b1a1f",
+  "translation": "{JPN}3にん\\nモード{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8d6416cacfd472f",
+  "translation": "{JPN}4にん\\nモード{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "709ff8a3579c9579",
+  "translation": "{JPN}5にん\\nモード{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb2d37dd2b0b4002",
+  "translation": "{JPN}{ENG}{B_BUTTON}{JPN}やめる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "88c7c2e40ef4e4d6",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}から れんらくあり!\\n{ENG}{STR_VAR_1}{JPN}を しますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "177dd01433a54c4d",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}から れんらくあり!\\n{ENG}{STR_VAR_1}{JPN}を くばりますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74b996e9e0250e5b",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}から れんらくあり!\\nメンバーに いれますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b31676e2efdf71e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}!\\nこの メンバーで いいですか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "061c67058d49fa65",
+  "translation": "{JPN}この メンバーで {ENG}{STR_VAR_1}{JPN}モードを\\nやめますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46ce04738d401d4b",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に OKの\\nへんじを おくりました。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1815fd7f3fdef78a",
+  "translation": "{JPN}あいての トレーナーは いま\\nつごうが わるい みたいです…\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ed6769c5b3c1382",
+  "translation": "{JPN}とおすぎる トレーナーとは\\nつうしん できません。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "578fd900a26c04b3",
+  "translation": "{JPN}あいての トレーナーの\\nじゅんびが まだ できていません。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c8aa4724780709e",
+  "translation": "{JPN}この メンバーでの {ENG}{STR_VAR_1}{JPN}モードを\\nちゅうし します。{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb5f5064c102fda4",
+  "translation": "{JPN}つごうが わるくなってしまった\\nメンバーが います。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dcf09d4deb359e62",
+  "translation": "{JPN}あいての トレーナーは\\nつうしん できないようです…\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b26526592a43afb",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}から OKの へんじが きた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1aa70013a4dfe72c",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}から メンバーとうろく\\nOKの れんらくが きました!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e8c0432903db275",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の へんじは 「ダメ…」\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef208b103e4728ae",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}!\\nほかの メンバーを まっています!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8db83acb1bb26962",
+  "translation": "{JPN}メンバーから ぬけますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0b34c7196025c93",
+  "translation": "{JPN}メンバーから ぬけました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b894866b3d35637",
+  "translation": "{JPN}ワイヤレスつうしんが\\nつながりました。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "562a07f9fe22c4a3",
+  "translation": "{JPN}ワイヤレスつうしんが\\nきれました…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ccdf1f07d3458f4f",
+  "translation": "{JPN}ともだちとの つうしんが\\nきれました…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "301c2ed417234ad7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の へんじは 「ダメ…」{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "555d78e0ba40ed7d",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}モードに\\nしますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7116a66c2bfde7c2",
+  "translation": "{JPN}{ENG}{STR_VAR_2}{JPN}モードに\\nしますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "23967a8547f6a20b",
+  "translation": "{JPN}つうしんちゅう…\\nおまちください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f81684edd46703c",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}からの こうかんの\\nへんじを まっています…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad2cd0f578c50aa6",
+  "translation": "{JPN}つうしんちゅう{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・\\n{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8d20372efbb1960",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}と つうしんちゅう{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・\\n{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a41ae09a06cdc887",
+  "translation": "{JPN}しばらく おまちください{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・\\n{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{PAUSE 15}・{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54749cade37959a5",
+  "translation": "{JPN}やあ! なにか\\nしたいことは あるかい?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bb7795cad959093d",
+  "translation": "{JPN}こんにちは!\\nなにか する?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0fef585dbe831f6",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}: やあ また あったね!\\nこんどは なにを する?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac333fd12d4a1602",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}: あ! {ENG}{PLAYER}{JPN}!\\nこんにちは! なにか する?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43ee95b77e14a017",
+  "translation": "{JPN}なにか するかい?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ccd60c6e298b1228",
+  "translation": "{JPN}なにか する?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7c537f895ab7a81",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}: こんどは なにを\\nする?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f0700c5b874fb67b",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}: ほかにも なにか する?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "280dfe50aea0d646",
+  "translation": "{JPN}だれかが はなしかけて きました。{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b31203a733aacd8",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}が はなしかけて きました。{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d52882993115dcb6",
+  "translation": "{JPN}あいての トレーナーの\\nへんじを まっています…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6ccdd23d04f4c7b",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の へんじを\\nまっています…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aec763fd25d7fca5",
+  "translation": "{JPN}あいての トレーナーが\\nトレーナーカードを みせてきた。\\pこちらも トレーナーカードを\\nみせますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3c12ac49a49610c6",
+  "translation": "{JPN}あいての トレーナーが\\nたいせんを もうしこんできた。\\pたいせんの もうしこみを\\nうけますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e314c02acb96724a",
+  "translation": "{JPN}あいての トレーナーが\\nチャットに さそってきた。\\pチャットの さそいを\\nうけますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "65966c106997297d",
+  "translation": "{JPN}とうろくした Lv.{DYNAMIC 0} {DYNAMIC 1}と\\nこうかんで\\pLv.{DYNAMIC 2} {DYNAMIC 3}を\\nだすという もうしこみが あります。\\pこの こうかんの もうしこみを\\nうけますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "af2b53c3a7505bac",
+  "translation": "{JPN}とうろくした タマゴへの\\nこうかんの もうしこみが あります。\\lこの もうしこみを うけますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ff8f90c0ab197a42",
+  "translation": "{JPN}チャットが きれました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0e253254f5839940",
+  "translation": "{JPN}もうしこみを ことわりました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7c96cd36fc5af350",
+  "translation": "{JPN}さそいを ことわりました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a6372b3511d2ad4",
+  "translation": "{JPN}チャットを おわりました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ed7319f46ed0401",
+  "translation": "{JPN}お! いま チャットちゅう なんだ!\\nいっしょに どう?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15fd914c0bb0ec80",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}: やあ {ENG}{PLAYER}{JPN}!\\nいま チャットちゅう なんだ!\\lいっしょに どう?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd181f57ad0a97aa",
+  "translation": "{JPN}あ! いま チャット してるの!\\nよかったら いっしょに しない?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d60c4dc0048b0be2",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}: あ! {ENG}{PLAYER}{JPN}!\\nいま チャット してるの!\\lよかったら いっしょに しない?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0d0134b3e112c04",
+  "translation": "{JPN}……\\nトレーナーは いそがしい ようだ…\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f93bdef7745a689",
+  "translation": "{JPN}たいせんだね?\\nよし ちょっと まってて!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b972eb08807e7601",
+  "translation": "{JPN}チャットしたいんだね?\\nいいよ ちょっと まってて!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02b947152aaaeb6d",
+  "translation": "{JPN}いいよ! 「あいさつ」がわりに\\nトレーナーカードを みせるね!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d50ee9b24a0b8ada",
+  "translation": "{JPN}たいせん? もちろん! でも\\nじゅんびする じかんを ちょうだい。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "461bc5d6b4ee147b",
+  "translation": "{JPN}チャットしたいの?\\nいいわ でも ちょっと まってね。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ffa09f4491cddb3",
+  "translation": "{JPN}じこしょうかい がわりに\\nトレーナーカードを みせるわね。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eaf974f8ac421dc8",
+  "translation": "{JPN}チャットしたいんだね?\\nいいよ ちょっと まってて!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87c75033c4005590",
+  "translation": "{JPN}またせたね!\\nさあ たいせんを はじめよう!{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8927023ee85edc85",
+  "translation": "{JPN}よし!\\nチャット しよう!{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb151fbd126f9542",
+  "translation": "{JPN}おまたせ!\\nさあ はじめましょう!{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da3077fdeb29dc4a",
+  "translation": "{JPN}おまたせ!\\nチャット しましょう。{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf0428f22a7144d1",
+  "translation": "{JPN}こうかんを はじめます。{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46a0534f3417effd",
+  "translation": "{JPN}たいせんを はじめます。{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b0cc0b135cef2792",
+  "translation": "{JPN}チャットに はいります…{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c828c30896fdd72a",
+  "translation": "{JPN}ごめん! いま ポケモンの\\nちょうしが わるい みたいなんだ。\\lまた こんど たいせん しよう。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "950e1656a75685f6",
+  "translation": "{JPN}ほんとに ごめんなさい! ポケモンの\\nちょうしが わるい みたいなの…\\pまた こんど たいせん しましょう。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37b83a577c94de49",
+  "translation": "{JPN}あれ? トレーナーカード…\\nどこ いったんだ?\\lごめん! また こんど みせるよ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb25092e15f68d9f",
+  "translation": "{JPN}あら? トレーナーカード\\nどこに おいたかしら?…\\lごめん! あとで みせるね!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b46ad15f5d2a04b4",
+  "translation": "{JPN}なにか したくなったら\\nいつでも こえを かけてくれよ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46db70033f7cc6a7",
+  "translation": "{JPN}なにか したくなったら\\nえんりょ しないでね。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a8270a073025f3cc",
+  "translation": "{JPN}おっと! ごめん ほかに\\nやることが あるんだ。\\lまた こんどね?\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2286cf14a8b7f3fb",
+  "translation": "{JPN}たいせん するには\\nLv.30より ひくい ポケモンが\\l2ひき ひつよう だよ。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3e22944eba574544",
+  "translation": "{JPN}たいせんには Lv.30より ひくい\\nポケモンが 2ひき ひつようです。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96952e091ea41044",
+  "translation": "{JPN}そっか。\\nいつでも あいに きてよ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1be1d39897f17c44",
+  "translation": "{JPN}そう…\\nいつでも きてね。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a343b26030a136a",
+  "translation": "{JPN}あっ ごめん!\\nいまは ちょっと むりなんだ。\\lまた こんど チャット しよう。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c77b0cdc32cd16ec",
+  "translation": "{JPN}ごめんなさい。\\nいまは やることが いっぱいなの。\\lまた こんど チャット しましょ。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1591dc466c484ca0",
+  "translation": "{JPN}おお!\\nなかなか てごわいな!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8432bdbcaa5065b4",
+  "translation": "{JPN}その わざを つかうとは!\\nいい さくせんだ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf4f38351e02b5fc",
+  "translation": "{JPN}やるな!\\nめから ウロコだったよ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26860d7f9b110cb3",
+  "translation": "{JPN}えっ! あの ばめんで その\\nポケモンを だすなんて!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "976a81d8f8064fe7",
+  "translation": "{JPN}その ポケモン…\\nすごく よく そだてられてる!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e266348ae765656",
+  "translation": "{JPN}それよ!\\nいまは この わざよ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aaddfb8b35cf59d3",
+  "translation": "{JPN}すごい!\\nそんな たたかいかたも あるの?\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6718cdae07bd4b2",
+  "translation": "{JPN}ポケモン いれかえの タイミングが\\nぜつみょうね!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7614975d148e5706",
+  "translation": "{JPN}なるほど!\\nこれは べんきょうに なるね!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef930698b2a24eaf",
+  "translation": "{JPN}もう おかしなこと いうなよ!\\nわらいすぎて おなかが いたい!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a9e5739feeca822a",
+  "translation": "{JPN}へえ?\\nそんなことが あったんだ。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbbe085456291d88",
+  "translation": "{JPN}ふんふん… え?\\nつまり こういうこと?\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "85f5baa05f6f5895",
+  "translation": "{JPN}そうなの?\\nしらなかったわ。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "09bb876c18d9254f",
+  "translation": "{JPN}あはは!\\nなに それ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "00c18796d57587d8",
+  "translation": "{JPN}そう まさに それよ!\\nそれが いいたかったの。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "530504b0a794eed2",
+  "translation": "{JPN}つまりね…\\nうん! そうそう!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "079112eefa1170be",
+  "translation": "{JPN}あいさつ がわりに トレーナー\\nカードを みせてるんだ。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28ea1283416d3774",
+  "translation": "{JPN}これからも よろしくな!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ead297402f908bb7",
+  "translation": "{JPN}なかよく なるために トレーナー\\nカードを みせあってるの。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8a7810eb50b8d1f",
+  "translation": "{JPN}あえて うれしいわ。\\nこれからも よろしくね!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cef2f765c3951774",
+  "translation": "{JPN}やったー!\\nこの ポケモン ほしかったんだ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "296906152ec51f7f",
+  "translation": "{JPN}ずっと ほしかった ポケモンを\\nやっと こうかんで てにいれた!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "32160916b9433735",
+  "translation": "{JPN}いま ポケモンを こうかんしてるの。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e034e77714c9a0f",
+  "translation": "{JPN}ほしかった ポケモンを やっと\\nこうかんで てにいれたわ!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9061ac32751ec07",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nこうかんけいじばんを みた!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c34d55b7eafb46b",
+  "translation": "{JPN}こうかんけいじばんへ ようこそ。\\pじぶんの ポケモンを とうろくして\\nこうかんに だすことが できます。\\pポケモンを とうろく\\nしますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "258d915ae5fbfb52",
+  "translation": "{JPN}この こうかんけいじばんは\\nポケモンを こうかんに だす ばしょです。\\pポケモンを こうかんようとして\\nとうろく するだけで OKです。\\pほかの トレーナーが てもちの\\nポケモンと こうかんを もうしでます。\\pぜひ ポケモンを とうろくして\\nたくさんの ほかの\\lトレーナーと こうかんしてください。\\pポケモンを とうろく\\nしますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae01523f3b8374cf",
+  "translation": "{JPN}あなたの ポケモンを こうかん\\nけいじばんに とうろく しました。\\pごりよう ありがとう ございました!\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "320f207d0b70bc93",
+  "translation": "{JPN}こうかんけいじばんに だれも\\nポケモンを とうろく していません。\\p\\n{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1819a879ff86d4c8",
+  "translation": "{JPN}こうかんで ほしい ポケモンの\\nタイプを えらんで ください。\\n{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f3fa30412bffcd31",
+  "translation": "{JPN}てもちの どの ポケモンを\\nこうかんに だしますか?\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "155ae9254642edb2",
+  "translation": "{JPN}とうろくを ちゅうし しました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5c9af5f77f06ab1",
+  "translation": "{JPN}とうろくが かんりょう しました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "833d1a10b79deb05",
+  "translation": "{JPN}こうかんを キャンセル しました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "769f1541d3f84dc0",
+  "translation": "{JPN}とうろくした Lv.{ENG}{STR_VAR_2}{JPN}\\n{ENG}{STR_VAR_1}{JPN}を かいじょ しますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "77a5e0b497245aff",
+  "translation": "{JPN}とうろくしている タマゴを\\nかいじょ しますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef91f8436bb540d2",
+  "translation": "{JPN}とうろくを かいじょ しました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e85fe6893761c69c",
+  "translation": "{JPN}こうかんを きぼうする トレーナーを\\nひょうじします。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ced08625ddaaf44",
+  "translation": "{JPN}ポケモンを こうかんしたい\\nトレーナーを えらんで ください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "08b9e7935ca11305",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に こうかんを\\nもうしこみますか?{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b5046214fde5595c",
+  "translation": "{JPN}あいての トレーナーの\\nへんじを まっています…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd24894e31adce3c",
+  "translation": "{JPN}こうかんに だす ポケモンが\\nとうろく されていません。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e44717be35e607c",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の ほしがっている\\n{ENG}{STR_VAR_2}{JPN}タイプの ポケモンが いません。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6fe4ecac541e844",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の ほしがっている\\nタマゴを もっていません。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dd95099fddb3ce7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いま あなたの\\nポケモンと こうかんできません。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "baf1bd3ea4c10660",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の ポケモンとは\\nいま こうかんできません。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36c0dc95c774a038",
+  "translation": "{JPN}こうかんを ことわられました。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3230ef6db28d7e4a",
+  "translation": "{JPN}タマゴこうかん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fe7e2dab10ca3cd8",
+  "translation": "{JPN}{DPAD_UPDOWN}えらぶ  {A_BUTTON}さんか  {ENG}{B_BUTTON}{JPN}やめる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a45a1e8d1114346c",
+  "translation": "{JPN}トレーナーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8615b44c1ace1182",
+  "translation": "{JPN}シングルバトルの あいてを\\nえらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d069070a49c6cdb",
+  "translation": "{JPN}ダブルバトルの あいてを\\nえらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ee20a6b64e6d2a27",
+  "translation": "{JPN}マルチバトルの\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0161d4964935b03f",
+  "translation": "{JPN}こうかんする トレーナーを\\nえらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d544a0c3920419c",
+  "translation": "{JPN}ふしぎなカードを くばっている\\nトレーナーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7379ffa51b2dedb3",
+  "translation": "{JPN}ふしぎなニュースを くばっている\\nトレーナーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "071ba5ac817f7672",
+  "translation": "{JPN}ミニポケモンで ジャンプ!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "998182069181bb14",
+  "translation": "{JPN}きのみクラッシュ!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "480de9007408dafc",
+  "translation": "{JPN}ドードリオの きのみどり!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa73da8878fb487f",
+  "translation": "{JPN}きのみブレンダー!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aac777d849d2dfa6",
+  "translation": "{JPN}レコードコーナー!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f5e2191c685fd679",
+  "translation": "{JPN}かっこよさコンテスト!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e108f5fd5ba540d",
+  "translation": "{JPN}うつくしさコンテスト!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "92455d0952596ffc",
+  "translation": "{JPN}かわいさコンテスト!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ee3f4bdffd82170",
+  "translation": "{JPN}かしこさコンテスト!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b654dac297ae9f72",
+  "translation": "{JPN}たくましさコンテスト!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a608bd5da7abde6c",
+  "translation": "{JPN}バトルタワー レベル50!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f263751b7ff72fa4",
+  "translation": "{JPN}バトルタワー オープンレベル!\\nリーダーを えらんでください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c480086ece69ef56",
+  "translation": "{JPN}ワイヤレスつうしんを\\nけんさくちゅう… おまちください…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bb475ddf5d668d4",
+  "translation": "{JPN}ダブルバトルには ポケモンが\\n2ひき いじょう ひつようです。\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4bac393ce36b2b6",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}からの へんじまち…{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c65d968644fe07ee",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}に メンバーとうろくを\\nたのみました。 おまちください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4975bab7e5c2e17",
+  "translation": "{JPN}ワイヤレスつうしんからの\\nへんじを まっています。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2d989fd5e14c0a4",
+  "translation": "{JPN}ほかの トレーナーが\\nあつまるまで おまちください。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1adc42d81d439b61",
+  "translation": "{JPN}いま くばられている\\nカードは ないようです。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "738bf1a38072cf03",
+  "translation": "{JPN}いま くばられている\\nニュースは ないようです。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bcf051e239c20b0",
+  "translation": "{JPN}バトル{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bf88ac499cf73e49",
+  "translation": "{JPN}チャット{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2240fc6e8214f953",
+  "translation": "{JPN}あいさつ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca4955429cdf3a0b",
+  "translation": "{JPN}でる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "db5512df2562bf32",
+  "translation": "{JPN}でる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c39aecb9a9bf7eb",
+  "translation": "{JPN}せつめい{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "89551a863d6756a5",
+  "translation": "{JPN}なまえ{CLEAR_TO 60}ほしい{CLEAR_TO 110}だす{CLEAR_TO 198}Lv.{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8860475ff4d9f1ca",
+  "translation": "{JPN}シングルバトル{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1377e18ce294d245",
+  "translation": "{JPN}ダブルバトル{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afcb292ca34e3318",
+  "translation": "{JPN}マルチバトル{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcd113681b4efefa",
+  "translation": "{JPN}ポケモンこうかん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d5fd9a06160d1826",
+  "translation": "{JPN}チャット{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c4f6802a3ec970c",
+  "translation": "{JPN}カード{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "87dc3b62d2a0782b",
+  "translation": "{JPN}ふしぎなカード{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "17b8ff24a72ef37a",
+  "translation": "{JPN}ふしぎなニュース{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f622c6e6b373f7bd",
+  "translation": "{JPN}ポケモンジャンプ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "76aabd18fa70ddc9",
+  "translation": "{JPN}きのみクラッシュ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ac37cf280a435a6f",
+  "translation": "{JPN}きのみどり{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec9cc8b8e89296cd",
+  "translation": "{JPN}さがす{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "640500782af34cb2",
+  "translation": "{JPN}きのみブレンダー{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "198d3d92900bc063",
+  "translation": "{JPN}レコードコーナー{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "68be7eddc3f5b23a",
+  "translation": "{JPN}かっこよさ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0d2539bc105b7583",
+  "translation": "{JPN}うつくしさコンテスト{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ecb240d0e563896",
+  "translation": "{JPN}かわいさコンテスト{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3411a071ef51396c",
+  "translation": "{JPN}かしこさコンテスト{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f87e178a6017c8c",
+  "translation": "{JPN}たくましさ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8beb9a62d3242c5a",
+  "translation": "{JPN}バトルタワー Lv.50{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e6d377dfc2f6238",
+  "translation": "{JPN}バトルタワー オープンレベル{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0dd03c6f46558d34",
+  "translation": "{JPN}ノーマルカードです。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf4deb76bc38a49d",
+  "translation": "{JPN}ブロンズカードです!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4c8f303b8e61b699",
+  "translation": "{JPN}カッパーカードです!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29fdb4469077a323",
+  "translation": "{JPN}シルバーカードです!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f053d30bed73400",
+  "translation": "{JPN}ゴールドカードです!{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "195840cd1c33cf50",
+  "translation": "{JPN}{DYNAMIC 0} {DYNAMIC 1}の\\nトレーナーカード…\\l{DYNAMIC 2}\\pずかん: {DYNAMIC 3}\\nプレイじかん: {DYNAMIC 4}:{DYNAMIC 5}\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0ffa42c02f1aee49",
+  "translation": "{JPN}バトル: かち {DYNAMIC 0}  まけ {DYNAMIC 2}\\nこうかん: {DYNAMIC 3}\\p「{DYNAMIC 4} {DYNAMIC 5}\\n{DYNAMIC 6} {DYNAMIC 7}」\\p{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "74f8df5f3965b4b1",
+  "translation": "{JPN}{DYNAMIC 1}: あえて よかった!{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbc55ed9f2f3cfab",
+  "translation": "{JPN}{DYNAMIC 1}: よろしくね!{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d685a252b1989342",
+  "translation": "{JPN}{DYNAMIC 1}の\\nトレーナーカードを みおわりました。{PAUSE 60}{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-misc-135",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

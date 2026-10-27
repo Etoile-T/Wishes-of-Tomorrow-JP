@@ -1,535 +1,535 @@
 const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     [EC_INDEX(EC_WORD_DARK)] =
     {
-        .text = COMPOUND_STRING("DARK"),
+        .text = COMPOUND_STRING("{JPN}あく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_AIR_LOCK),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_STENCH)] =
     {
-        .text = COMPOUND_STRING("STENCH"),
+        .text = COMPOUND_STRING("{JPN}あくしゅう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ALT_COLOR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_THICK_FAT)] =
     {
-        .text = COMPOUND_STRING("THICK FAT"),
+        .text = COMPOUND_STRING("{JPN}あついしぼう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ARENA_TRAP),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_RAIN_DISH)] =
     {
-        .text = COMPOUND_STRING("RAIN DISH"),
+        .text = COMPOUND_STRING("{JPN}あめうけざら{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BATTLE_ARMOR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_DRIZZLE)] =
     {
-        .text = COMPOUND_STRING("DRIZZLE"),
+        .text = COMPOUND_STRING("{JPN}あめふらし{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BEAUTIFUL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ARENA_TRAP)] =
     {
-        .text = COMPOUND_STRING("ARENA TRAP"),
+        .text = COMPOUND_STRING("{JPN}ありじごく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BEAUTY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_INTIMIDATE)] =
     {
-        .text = COMPOUND_STRING("INTIMIDATE"),
+        .text = COMPOUND_STRING("{JPN}いかく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BLAZE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ROCK_HEAD)] =
     {
-        .text = COMPOUND_STRING("ROCK HEAD"),
+        .text = COMPOUND_STRING("{JPN}いしあたま{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BUG),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COLOR)] =
     {
-        .text = COMPOUND_STRING("COLOR"),
+        .text = COMPOUND_STRING("{JPN}いろ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CHLOROPHYLL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ALT_COLOR)] =
     {
-        .text = COMPOUND_STRING("ALT. COLOR"),
+        .text = COMPOUND_STRING("{JPN}いろちがい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CLEAR_BODY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ROCK)] =
     {
-        .text = COMPOUND_STRING("ROCK"),
+        .text = COMPOUND_STRING("{JPN}いわ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CLOUD_NINE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BEAUTIFUL)] =
     {
-        .text = COMPOUND_STRING("BEAUTIFUL"),
+        .text = COMPOUND_STRING("{JPN}うつくしい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COLOR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BEAUTY)] =
     {
-        .text = COMPOUND_STRING("BEAUTY"),
+        .text = COMPOUND_STRING("{JPN}うつくしさ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COLOR_CHANGE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_AIR_LOCK)] =
     {
-        .text = COMPOUND_STRING("AIR LOCK"),
+        .text = COMPOUND_STRING("{JPN}エアロック{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COMPOUNDEYES),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PSYCHIC)] =
     {
-        .text = COMPOUND_STRING("PSYCHIC"),
+        .text = COMPOUND_STRING("{JPN}エスパー{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COOL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HYPER_CUTTER)] =
     {
-        .text = COMPOUND_STRING("HYPER CUTTER"),
+        .text = COMPOUND_STRING("{JPN}かいりきバサミ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COOLNESS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FIGHTING)] =
     {
-        .text = COMPOUND_STRING("FIGHTING"),
+        .text = COMPOUND_STRING("{JPN}かくとう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CUTE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHADOW_TAG)] =
     {
-        .text = COMPOUND_STRING("SHADOW TAG"),
+        .text = COMPOUND_STRING("{JPN}かげふみ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CUTE_CHARM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SMART)] =
     {
-        .text = COMPOUND_STRING("SMART"),
+        .text = COMPOUND_STRING("{JPN}かしこい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CUTENESS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SMARTNESS)] =
     {
-        .text = COMPOUND_STRING("SMARTNESS"),
+        .text = COMPOUND_STRING("{JPN}かしこさ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DAMP),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SPEED_BOOST)] =
     {
-        .text = COMPOUND_STRING("SPEED BOOST"),
+        .text = COMPOUND_STRING("{JPN}かそく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DARK),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COOL)] =
     {
-        .text = COMPOUND_STRING("COOL"),
+        .text = COMPOUND_STRING("{JPN}かっこいい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DRAGON),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COOLNESS)] =
     {
-        .text = COMPOUND_STRING("COOLNESS"),
+        .text = COMPOUND_STRING("{JPN}かっこよさ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DRIZZLE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BATTLE_ARMOR)] =
     {
-        .text = COMPOUND_STRING("BATTLE ARMOR"),
+        .text = COMPOUND_STRING("{JPN}カブトアーマー{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DROUGHT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CUTE)] =
     {
-        .text = COMPOUND_STRING("CUTE"),
+        .text = COMPOUND_STRING("{JPN}かわいい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_EARLY_BIRD),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CUTENESS)] =
     {
-        .text = COMPOUND_STRING("CUTENESS"),
+        .text = COMPOUND_STRING("{JPN}かわいさ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_EFFECT_SPORE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_STURDY)] =
     {
-        .text = COMPOUND_STRING("STURDY"),
+        .text = COMPOUND_STRING("{JPN}がんじょう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ELECTRIC),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SUCTION_CUPS)] =
     {
-        .text = COMPOUND_STRING("SUCTION CUPS"),
+        .text = COMPOUND_STRING("{JPN}きゅうばん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FIGHTING),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GRASS)] =
     {
-        .text = COMPOUND_STRING("GRASS"),
+        .text = COMPOUND_STRING("{JPN}くさ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FIRE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CLEAR_BODY)] =
     {
-        .text = COMPOUND_STRING("CLEAR BODY"),
+        .text = COMPOUND_STRING("{JPN}クリアボディ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FLAME_BODY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TORRENT)] =
     {
-        .text = COMPOUND_STRING("TORRENT"),
+        .text = COMPOUND_STRING("{JPN}げきりゅう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FLASH_FIRE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GHOST)] =
     {
-        .text = COMPOUND_STRING("GHOST"),
+        .text = COMPOUND_STRING("{JPN}ゴースト{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FLYING),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ICE)] =
     {
-        .text = COMPOUND_STRING("ICE"),
+        .text = COMPOUND_STRING("{JPN}こおり{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FORECAST),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GUTS)] =
     {
-        .text = COMPOUND_STRING("GUTS"),
+        .text = COMPOUND_STRING("{JPN}こんじょう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GHOST),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ROUGH_SKIN)] =
     {
-        .text = COMPOUND_STRING("ROUGH SKIN"),
+        .text = COMPOUND_STRING("{JPN}さめはだ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GRASS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHELL_ARMOR)] =
     {
-        .text = COMPOUND_STRING("SHELL ARMOR"),
+        .text = COMPOUND_STRING("{JPN}シェルアーマー{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GROUND),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_NATURAL_CURE)] =
     {
-        .text = COMPOUND_STRING("NATURAL CURE"),
+        .text = COMPOUND_STRING("{JPN}しぜんかいふく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GUTS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_DAMP)] =
     {
-        .text = COMPOUND_STRING("DAMP"),
+        .text = COMPOUND_STRING("{JPN}しめりけ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HUGE_POWER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GROUND)] =
     {
-        .text = COMPOUND_STRING("GROUND"),
+        .text = COMPOUND_STRING("{JPN}じめん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HUSTLE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_LIMBER)] =
     {
-        .text = COMPOUND_STRING("LIMBER"),
+        .text = COMPOUND_STRING("{JPN}じゅうなん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HYPER_CUTTER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MAGNET_PULL)] =
     {
-        .text = COMPOUND_STRING("MAGNET PULL"),
+        .text = COMPOUND_STRING("{JPN}じりょく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ICE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WHITE_SMOKE)] =
     {
-        .text = COMPOUND_STRING("WHITE SMOKE"),
+        .text = COMPOUND_STRING("{JPN}しろいけむり{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ILLUMINATE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SYNCHRONIZE)] =
     {
-        .text = COMPOUND_STRING("SYNCHRONIZE"),
+        .text = COMPOUND_STRING("{JPN}シンクロ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_IMMUNITY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_OVERGROW)] =
     {
-        .text = COMPOUND_STRING("OVERGROW"),
+        .text = COMPOUND_STRING("{JPN}しんりょく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_INNER_FOCUS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SWIFT_SWIM)] =
     {
-        .text = COMPOUND_STRING("SWIFT SWIM"),
+        .text = COMPOUND_STRING("{JPN}すいすい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_INSOMNIA),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SAND_STREAM)] =
     {
-        .text = COMPOUND_STRING("SAND STREAM"),
+        .text = COMPOUND_STRING("{JPN}すなおこし{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_INTIMIDATE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SAND_VEIL)] =
     {
-        .text = COMPOUND_STRING("SAND VEIL"),
+        .text = COMPOUND_STRING("{JPN}すながくれ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_KEEN_EYE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_KEEN_EYE)] =
     {
-        .text = COMPOUND_STRING("KEEN EYE"),
+        .text = COMPOUND_STRING("{JPN}するどいめ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LEVITATE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_INNER_FOCUS)] =
     {
-        .text = COMPOUND_STRING("INNER FOCUS"),
+        .text = COMPOUND_STRING("{JPN}せいしんりょく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LIGHTNINGROD),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_STATIC)] =
     {
-        .text = COMPOUND_STRING("STATIC"),
+        .text = COMPOUND_STRING("{JPN}せいでんき{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LIMBER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TYPE)] =
     {
-        .text = COMPOUND_STRING("TYPE"),
+        .text = COMPOUND_STRING("{JPN}タイプ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LIQUID_OOZE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TOUGH)] =
     {
-        .text = COMPOUND_STRING("TOUGH"),
+        .text = COMPOUND_STRING("{JPN}たくましい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MAGMA_ARMOR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TOUGHNESS)] =
     {
-        .text = COMPOUND_STRING("TOUGHNESS"),
+        .text = COMPOUND_STRING("{JPN}たくましさ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MAGNET_PULL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHED_SKIN)] =
     {
-        .text = COMPOUND_STRING("SHED SKIN"),
+        .text = COMPOUND_STRING("{JPN}だっぴ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MARVEL_SCALE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HUGE_POWER)] =
     {
-        .text = COMPOUND_STRING("HUGE POWER"),
+        .text = COMPOUND_STRING("{JPN}ちからもち{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_MINUS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_VOLT_ABSORB)] =
     {
-        .text = COMPOUND_STRING("VOLT ABSORB"),
+        .text = COMPOUND_STRING("{JPN}ちくでん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_NATURAL_CURE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WATER_ABSORB)] =
     {
-        .text = COMPOUND_STRING("WATER ABSORB"),
+        .text = COMPOUND_STRING("{JPN}ちょすい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_NORMAL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ELECTRIC)] =
     {
-        .text = COMPOUND_STRING("ELECTRIC"),
+        .text = COMPOUND_STRING("{JPN}でんき{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_OBLIVIOUS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FORECAST)] =
     {
-        .text = COMPOUND_STRING("FORECAST"),
+        .text = COMPOUND_STRING("{JPN}てんきや{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_OVERGROW),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SERENE_GRACE)] =
     {
-        .text = COMPOUND_STRING("SERENE GRACE"),
+        .text = COMPOUND_STRING("{JPN}てんのめぐみ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_OWN_TEMPO),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_POISON)] =
     {
-        .text = COMPOUND_STRING("POISON"),
+        .text = COMPOUND_STRING("{JPN}どく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PATTERN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_POISON_POINT)] =
     {
-        .text = COMPOUND_STRING("POISON POINT"),
+        .text = COMPOUND_STRING("{JPN}どくのトゲ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PICKUP),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_DRAGON)] =
     {
-        .text = COMPOUND_STRING("DRAGON"),
+        .text = COMPOUND_STRING("{JPN}ドラゴン{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PKRS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TRACE)] =
     {
-        .text = COMPOUND_STRING("TRACE"),
+        .text = COMPOUND_STRING("{JPN}トレース{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PLUS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_OBLIVIOUS)] =
     {
-        .text = COMPOUND_STRING("OBLIVIOUS"),
+        .text = COMPOUND_STRING("{JPN}どんかん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_POISON),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_TRUANT)] =
     {
-        .text = COMPOUND_STRING("TRUANT"),
+        .text = COMPOUND_STRING("{JPN}なまけ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_POISON_POINT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_RUN_AWAY)] =
     {
-        .text = COMPOUND_STRING("RUN AWAY"),
+        .text = COMPOUND_STRING("{JPN}にげあし{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PRESSURE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_STICKY_HOLD)] =
     {
-        .text = COMPOUND_STRING("STICKY HOLD"),
+        .text = COMPOUND_STRING("{JPN}ねんちゃく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PSYCHIC),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CLOUD_NINE)] =
     {
-        .text = COMPOUND_STRING("CLOUD NINE"),
+        .text = COMPOUND_STRING("{JPN}ノーてんき{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PURE_POWER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_NORMAL)] =
     {
-        .text = COMPOUND_STRING("NORMAL"),
+        .text = COMPOUND_STRING("{JPN}ノーマル{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_RAIN_DISH),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_STEEL)] =
     {
-        .text = COMPOUND_STRING("STEEL"),
+        .text = COMPOUND_STRING("{JPN}はがね{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ROCK),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_ILLUMINATE)] =
     {
-        .text = COMPOUND_STRING("ILLUMINATE"),
+        .text = COMPOUND_STRING("{JPN}はっこう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ROCK_HEAD),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_EARLY_BIRD)] =
     {
-        .text = COMPOUND_STRING("EARLY BIRD"),
+        .text = COMPOUND_STRING("{JPN}はやおき{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ROUGH_SKIN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HUSTLE)] =
     {
-        .text = COMPOUND_STRING("HUSTLE"),
+        .text = COMPOUND_STRING("{JPN}はりきり{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_RUN_AWAY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHINE)] =
     {
-        .text = COMPOUND_STRING("SHINE"),
+        .text = COMPOUND_STRING("{JPN}ひかる{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SAND_STREAM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FLYING)] =
     {
-        .text = COMPOUND_STRING("FLYING"),
+        .text = COMPOUND_STRING("{JPN}ひこう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SAND_VEIL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_DROUGHT)] =
     {
-        .text = COMPOUND_STRING("DROUGHT"),
+        .text = COMPOUND_STRING("{JPN}ひでり{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SERENE_GRACE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_LIGHTNINGROD)] =
     {
-        .text = COMPOUND_STRING("LIGHTNINGROD"),
+        .text = COMPOUND_STRING("{JPN}ひらいしん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHADOW_TAG),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COMPOUNDEYES)] =
     {
-        .text = COMPOUND_STRING("COMPOUNDEYES"),
+        .text = COMPOUND_STRING("{JPN}ふくがん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHED_SKIN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MARVEL_SCALE)] =
     {
-        .text = COMPOUND_STRING("MARVEL SCALE"),
+        .text = COMPOUND_STRING("{JPN}ふしぎなうろこ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHELL_ARMOR),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WONDER_GUARD)] =
     {
-        .text = COMPOUND_STRING("WONDER GUARD"),
+        .text = COMPOUND_STRING("{JPN}ふしぎなまもり{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHIELD_DUST),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_INSOMNIA)] =
     {
-        .text = COMPOUND_STRING("INSOMNIA"),
+        .text = COMPOUND_STRING("{JPN}ふみん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHINE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_LEVITATE)] =
     {
-        .text = COMPOUND_STRING("LEVITATE"),
+        .text = COMPOUND_STRING("{JPN}ふゆう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SMART),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PLUS)] =
     {
-        .text = COMPOUND_STRING("PLUS"),
+        .text = COMPOUND_STRING("{JPN}プラス{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SMARTNESS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PRESSURE)] =
     {
-        .text = COMPOUND_STRING("PRESSURE"),
+        .text = COMPOUND_STRING("{JPN}プレッシャー{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SOUNDPROOF),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_LIQUID_OOZE)] =
     {
-        .text = COMPOUND_STRING("LIQUID OOZE"),
+        .text = COMPOUND_STRING("{JPN}ヘドロえき{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SPEED_BOOST),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COLOR_CHANGE)] =
     {
-        .text = COMPOUND_STRING("COLOR CHANGE"),
+        .text = COMPOUND_STRING("{JPN}へんしょく{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_STATIC),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SOUNDPROOF)] =
     {
-        .text = COMPOUND_STRING("SOUNDPROOF"),
+        .text = COMPOUND_STRING("{JPN}ぼうおん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_STEEL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_EFFECT_SPORE)] =
     {
-        .text = COMPOUND_STRING("EFFECT SPORE"),
+        .text = COMPOUND_STRING("{JPN}ほうし{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_STENCH),
         .enabled = TRUE,
     },
@@ -541,115 +541,115 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_FIRE)] =
     {
-        .text = COMPOUND_STRING("FIRE"),
+        .text = COMPOUND_STRING("{JPN}ほのお{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_STURDY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FLAME_BODY)] =
     {
-        .text = COMPOUND_STRING("FLAME BODY"),
+        .text = COMPOUND_STRING("{JPN}ほのおのからだ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SUCTION_CUPS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MINUS)] =
     {
-        .text = COMPOUND_STRING("MINUS"),
+        .text = COMPOUND_STRING("{JPN}マイナス{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SWARM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_OWN_TEMPO)] =
     {
-        .text = COMPOUND_STRING("OWN TEMPO"),
+        .text = COMPOUND_STRING("{JPN}マイペース{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SWIFT_SWIM),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_MAGMA_ARMOR)] =
     {
-        .text = COMPOUND_STRING("MAGMA ARMOR"),
+        .text = COMPOUND_STRING("{JPN}マグマのよろい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SYNCHRONIZE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WATER)] =
     {
-        .text = COMPOUND_STRING("WATER"),
+        .text = COMPOUND_STRING("{JPN}みず{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_THICK_FAT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WATER_VEIL)] =
     {
-        .text = COMPOUND_STRING("WATER VEIL"),
+        .text = COMPOUND_STRING("{JPN}みずのベール{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TORRENT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BUG)] =
     {
-        .text = COMPOUND_STRING("BUG"),
+        .text = COMPOUND_STRING("{JPN}むし{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TOUGH),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SWARM)] =
     {
-        .text = COMPOUND_STRING("SWARM"),
+        .text = COMPOUND_STRING("{JPN}むしのしらせ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TOUGHNESS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CUTE_CHARM)] =
     {
-        .text = COMPOUND_STRING("CUTE CHARM"),
+        .text = COMPOUND_STRING("{JPN}メロメロボディ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TRACE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_IMMUNITY)] =
     {
-        .text = COMPOUND_STRING("IMMUNITY"),
+        .text = COMPOUND_STRING("{JPN}めんえき{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TRUANT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BLAZE)] =
     {
-        .text = COMPOUND_STRING("BLAZE"),
+        .text = COMPOUND_STRING("{JPN}もうか{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_TYPE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PICKUP)] =
     {
-        .text = COMPOUND_STRING("PICKUP"),
+        .text = COMPOUND_STRING("{JPN}ものひろい{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_VITAL_SPIRIT),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PATTERN)] =
     {
-        .text = COMPOUND_STRING("PATTERN"),
+        .text = COMPOUND_STRING("{JPN}もよう{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_VOLT_ABSORB),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FLASH_FIRE)] =
     {
-        .text = COMPOUND_STRING("FLASH FIRE"),
+        .text = COMPOUND_STRING("{JPN}もらいび{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WATER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_VITAL_SPIRIT)] =
     {
-        .text = COMPOUND_STRING("VITAL SPIRIT"),
+        .text = COMPOUND_STRING("{JPN}やるき{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WATER_ABSORB),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CHLOROPHYLL)] =
     {
-        .text = COMPOUND_STRING("CHLOROPHYLL"),
+        .text = COMPOUND_STRING("{JPN}ようりょくそ{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WATER_VEIL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PURE_POWER)] =
     {
-        .text = COMPOUND_STRING("PURE POWER"),
+        .text = COMPOUND_STRING("{JPN}ヨガパワー{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WHITE_SMOKE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SHIELD_DUST)] =
     {
-        .text = COMPOUND_STRING("SHIELD DUST"),
+        .text = COMPOUND_STRING("{JPN}りんぷん{ENG}"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WONDER_GUARD),
         .enabled = TRUE,
     },

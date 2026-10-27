@@ -94,15 +94,15 @@ static const struct SignatureZMove sSignatureZMoves[] =
     {SPECIES_SNORLAX,                 ITEM_SNORLIUM_Z,           MOVE_GIGA_IMPACT,         MOVE_PULVERIZING_PANCAKE},
 };
 
-static const u8 sText_ResetStats[] = _("Reset Lowered Stats");
-static const u8 sText_StatsPlus[] = _("+ All Stats");
-static const u8 sText_StatsPlus2[] = _("++ All Stats");
-static const u8 sText_CritHitsPlus[] = _("+ Critical Hit Chance");
-static const u8 sText_FollowMe[] = _("Follow Me");
-static const u8 sText_RecoverHP[] = _("Recover HP");
-static const u8 sText_HealAllyHP[] = _("Heal Replacement HP");
-static const u8 sText_PowerColon[] = _("Power: ");
-static const u8 sText_NoAdditionalEffect[] = _("No Additional Effect");
+static const u8 sText_ResetStats[] = _("{JPN}へんかを もどす{ENG}");
+static const u8 sText_StatsPlus[] = _("{JPN}すべて +1{ENG}");
+static const u8 sText_StatsPlus2[] = _("{JPN}すべて +2{ENG}");
+static const u8 sText_CritHitsPlus[] = _("{JPN}きゅうしょりつ アップ{ENG}");
+static const u8 sText_FollowMe[] = _("{JPN}ちゅうもく{ENG}");
+static const u8 sText_RecoverHP[] = _("{JPN}HP かいふく{ENG}");
+static const u8 sText_HealAllyHP[] = _("{JPN}こうたいさきを かいふく{ENG}");
+static const u8 sText_PowerColon[] = _("{JPN}いりょく{ENG}");
+static const u8 sText_NoAdditionalEffect[] = _("{JPN}ついか こうか なし{ENG}");
 
 // Functions
 bool32 IsZMove(enum Move move)

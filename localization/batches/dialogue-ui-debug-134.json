@@ -1,0 +1,170 @@
+[
+ {
+  "id": "0b332430b7bb1054",
+  "translation": "{JPN}{START_BUTTON} いろ\\n{ENG}{B_BUTTON}{JPN} おわる  {A_BUTTON} うごきとBG${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34a52790a4a1c1b9",
+  "translation": "{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\\n{ENG}{B_BUTTON}{JPN} おわる  {A_BUTTON} うごきとBG${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e5b7991fcd98ac7",
+  "translation": "{JPN}{START_BUTTON} いろ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} ざひょう${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2667ca5bc058e29c",
+  "translation": "{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} ざひょう${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20eff334cc7b0e63",
+  "translation": "{JPN}{START_BUTTON} いろ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} かげ ざひょう${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e6648c02430faf88",
+  "translation": "{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} かげ ざひょう${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "263ee002b0742dd1",
+  "translation": "{JPN}{START_BUTTON} いろ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49a99f051df0ffda",
+  "translation": "{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a6af454ff9ff3f1",
+  "translation": "{JPN}Bざひょう:\\nFざひょう:\\nFたかさ:{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8d125aa35b907b21",
+  "translation": "{JPN}{START_BUTTON} いろ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a7d91b13d2279ed",
+  "translation": "{JPN}{START_BUTTON} いろ\\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fe5f161ecb79bba",
+  "translation": "{JPN}Xざひょう:\\nYざひょう:\\nサイズ:{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "73bb221b1a20b9b1",
+  "translation": "{JPN}{START_BUTTON} いろ\\n{ENG}{B_BUTTON}{JPN} もどる${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a212c808ad2f68c",
+  "translation": "{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\\n{ENG}{B_BUTTON}{JPN} もどる${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "34ea0a00b17ed212",
+  "translation": "{JPN}はいけい:{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "04f6716cdda99d72",
+  "translation": "{JPN}うしろ:\\nまえ:\\nBG:${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72b0a5518b015f24",
+  "translation": "{JPN}うしろ:\\nまえ:\\nBG:\\nすがた:${ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b313ac968506ed07",
+  "translation": "{JPN}こてい:{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eba5921fc2f3d2e7",
+  "translation": "{JPN}しんち:{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4ebb01bc7865bac",
+  "translation": "{JPN}こてい:{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d952bad62923e6e4",
+  "translation": "{JPN}しんち:{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-134",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

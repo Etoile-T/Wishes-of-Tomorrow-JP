@@ -1,0 +1,962 @@
+[
+ {
+  "id": "6441917f2d9df60b",
+  "translation": "{JPN}とくせい{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0434a4dce1ea309a",
+  "translation": "{JPN}もちもの{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7e43a5a8bb497e9",
+  "translation": "{JPN}もちものこうか{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7de0c6d52f57b21e",
+  "translation": "{JPN}わざ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d7c16746a1bbf8af",
+  "translation": "{JPN}タイプ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1764921a5c79f1d7",
+  "translation": "{JPN}つよさ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfb2e94c5fbcf1b2",
+  "translation": "{JPN}のうりょくランク{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa9d825a17ed3961",
+  "translation": "{JPN}じょうたい{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "270452d299da23b4",
+  "translation": "{JPN}へんか{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce1074a88d2002f2",
+  "translation": "{JPN}わな{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "43475cb8561cfd93",
+  "translation": "{JPN}サイドじょうたい{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a646c52674a5f79f",
+  "translation": "{JPN}AIてん/ダメ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbcead191222fb36",
+  "translation": "{JPN}AIデータ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c6ed11639922de2",
+  "translation": "{JPN}AIてもち{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f8484e3eda821f0",
+  "translation": "{JPN}そのほか{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9604793057b13b16",
+  "translation": "{JPN}すぐに かつ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cfe709d70845659c",
+  "translation": "{JPN}いまのHP{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46be9a302110a04f",
+  "translation": "{JPN}フルHP{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e8f843077d40380",
+  "translation": "{JPN}こうげき{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fbc340efff0c9ed",
+  "translation": "{JPN}ぼうぎょ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0fb8bf5fa8932283",
+  "translation": "{JPN}すばやさ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56ab996eee2539fe",
+  "translation": "{JPN}とくこう{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "988dbf9cf0fd6f9a",
+  "translation": "{JPN}とくぼう{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d87cf8a42624896c",
+  "translation": "{JPN}ねむり{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a767a24c913ee75f",
+  "translation": "{JPN}どく{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5713c77ac2f7fac",
+  "translation": "{JPN}やけど{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6709c1efd191cc07",
+  "translation": "{JPN}こおり{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd3b6d2e35844016",
+  "translation": "{JPN}まひ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12cd70a53e9d877f",
+  "translation": "{JPN}もうどく{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "19efc347e5d08499",
+  "translation": "{JPN}もうどくカウンタ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "578421f33454f11f",
+  "translation": "{JPN}しもやけ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8af3878c42d6389",
+  "translation": "{JPN}こんらん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ebdcb8bdd3b4210",
+  "translation": "{JPN}ひるみ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d862aceb79dc4bc8",
+  "translation": "{JPN}いちゃもん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1db4baf40a3874a7",
+  "translation": "{JPN}ふんじん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "22ad1ec5fa907c26",
+  "translation": "{JPN}まるくなる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1b09fbb2312a2b90",
+  "translation": "{JPN}いかり{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7daa37c6abb1d0e1",
+  "translation": "{JPN}みちづれ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c2a9078d48991c14",
+  "translation": "{JPN}にげられない{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02f13f57fd75e9d7",
+  "translation": "{JPN}のろい{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "551f960d24c92313",
+  "translation": "{JPN}みやぶる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b482871e876c2671",
+  "translation": "{JPN}ドラゴンエール{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b145c3d221f81b8d",
+  "translation": "{JPN}きあいだめ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9444362ffdfa1237",
+  "translation": "{JPN}そうでん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f8e17692876c7b9",
+  "translation": "{JPN}どろあそび{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b4e0273868c50caa",
+  "translation": "{JPN}みずあそび{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d3dddae7c7522e1",
+  "translation": "{JPN}むげんこんらん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fbca36c8841fb092",
+  "translation": "{JPN}しおづけ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "def68076f4ba7275",
+  "translation": "{JPN}みずあめボム{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4507f18dd7d2fb1d",
+  "translation": "{JPN}きょけんとつげき{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f57103ea4d73434e",
+  "translation": "{JPN}やどりぎのタネ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "33e523e32b857155",
+  "translation": "{JPN}ロックオン{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91810c0209e0b2e4",
+  "translation": "{JPN}ほろびのうた{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d614083de07e4dc5",
+  "translation": "{JPN}ちいさくなる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46f1246487933e28",
+  "translation": "{JPN}チャージ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9e172ebadc57df5a",
+  "translation": "{JPN}ねをはる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "286e7b5885efa1e6",
+  "translation": "{JPN}あくび{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d250d58cbaf4702a",
+  "translation": "{JPN}ふういん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35946999b7086e62",
+  "translation": "{JPN}おんねん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc6efaf9790f4a83",
+  "translation": "{JPN}いえき{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a26962b55909e68",
+  "translation": "{JPN}さしおさえ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b046c186fa0d67a",
+  "translation": "{JPN}うちおとす{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d9252124164f54e",
+  "translation": "{JPN}テレキネシス{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa74c69e2f0f6d4a",
+  "translation": "{JPN}ミラクルアイ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5b692cf8d3b550ea",
+  "translation": "{JPN}でんじふゆう{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1e5130be6793ec72",
+  "translation": "{JPN}かいふくふうじ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0c7237ea4a15391",
+  "translation": "{JPN}アクアリング{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c98c39b8d07703b",
+  "translation": "{JPN}とぎすます{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "59d1e33e9e878035",
+  "translation": "{JPN}パワートリック{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1033beb5b05815df",
+  "translation": "{JPN}まきびし{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b615bcd1aaa48080",
+  "translation": "{JPN}ねばねばネット{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1c32bd1c626d1c04",
+  "translation": "{JPN}どくびし{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "697fed5d4c2a5064",
+  "translation": "{JPN}ステルスロック{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "875479b95e28aef1",
+  "translation": "{JPN}コウジン{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d62932605a90325c",
+  "translation": "{JPN}リフレクタ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "719a5732532b38a0",
+  "translation": "{JPN}ひかりのかべ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "13f721aa86098114",
+  "translation": "{JPN}しんぴまもり{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20a83449e29b90dc",
+  "translation": "{JPN}しろきり{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d85a8af405022721",
+  "translation": "{JPN}おいかぜ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "555717daa239802f",
+  "translation": "{JPN}オーロラベール{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6f8d86d608ed16bc",
+  "translation": "{JPN}おまじない{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8035cdb26cdb3bf7",
+  "translation": "{JPN}タイプなしダメージ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7775a60324087d84",
+  "translation": "{JPN}にじ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02de6291ff23c391",
+  "translation": "{JPN}ひのうみ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7ddf8d8b4489992",
+  "translation": "{JPN}しつげん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8d1958b5047b354",
+  "translation": "{JPN}わるいわざチェック{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a3f37a174782669",
+  "translation": "{JPN}ひんしを ねらう{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e8b08c812d93a1bd",
+  "translation": "{JPN}ゆうこうどチェック{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6fc71dda7212bfde",
+  "translation": "{JPN}1ターンめに つみわざ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "10e191b8ea6627c3",
+  "translation": "{JPN}リスキー{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d423951c1e1eb3d5",
+  "translation": "{JPN}2はつで たおす{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45e43c625c84752c",
+  "translation": "{JPN}バトンタッチゆうせん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "70a7d25386385db7",
+  "translation": "{JPN}ダブルバトル{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8c56e900c9eed483",
+  "translation": "{JPN}HPいしき{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14dacfd65e55ab79",
+  "translation": "{JPN}つよいへんかわざ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30d574b2413c5667",
+  "translation": "{JPN}てんねんむし{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e17a3b6f472fedb4",
+  "translation": "{JPN}じばくする{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c61ab68c835c96f9",
+  "translation": "{JPN}へんかわざゆうせん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "37b470ccb898604c",
+  "translation": "{JPN}ねばり{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb4b0d04ba5d5e42",
+  "translation": "{JPN}かしこく いれかえ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "582dd850f3a32b77",
+  "translation": "{JPN}エースポケモン{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "03d7ab1a6cd2c4c1",
+  "translation": "{JPN}ぜんち{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5cf895cdd0f6ff33",
+  "translation": "{JPN}かしこく てもちえらび{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e7e4033138fcd8b6",
+  "translation": "{JPN}ほしゅてき{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0a9415036721994",
+  "translation": "{JPN}じゅんばん いれかえ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d93117469d456e4",
+  "translation": "{JPN}ダブルエース{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da26fb47ee266957",
+  "translation": "{JPN}とくせいよそく じゅうし{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f05f7ce6191dfffa",
+  "translation": "{JPN}さいだいダメージ ゆうせん{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7b268131929d899b",
+  "translation": "{JPN}いれかえ よそく{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ecf37d723cc74f1",
+  "translation": "{JPN}でるポケモン よそく{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f6ac7bb8e5118a95",
+  "translation": "{JPN}どうてき かんすう{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dca286b85e4200a",
+  "translation": "{JPN}はいかい{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcdc71cb3f09cb0d",
+  "translation": "{JPN}サファリ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "794106f7ea01f65b",
+  "translation": "{JPN}はじめての バトル{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4026dc76f66cda33",
+  "translation": "{JPN}HPみせる{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e48740c95c958541",
+  "translation": "{JPN}みがわりHP{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2f96681f393885b",
+  "translation": "{JPN}メロメロ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d02a1183b8e2a1bd",
+  "translation": "{JPN}てん/ダメ{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a88d90d99fe096a",
+  "translation": "{JPN}いれかえさき {ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a689e8db1b3ef04",
+  "translation": "{JPN}すべて{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-debug-132",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

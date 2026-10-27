@@ -17,10 +17,10 @@
 
 static const u8 *const sDefaultTraderNames[NUM_TRADER_ITEMS] =
 {
-    COMPOUND_STRING("TRISTAN"),
-    COMPOUND_STRING("PHILIP"),
-    COMPOUND_STRING("DENNIS"),
-    COMPOUND_STRING("ROBERTO"),
+    COMPOUND_STRING("{JPN_NAME_3}ヒロミ"),
+    COMPOUND_STRING("{JPN_NAME_3}ユウリ"),
+    COMPOUND_STRING("{JPN_NAME_3}ヨシオ"),
+    COMPOUND_STRING("{JPN_NAME_4}サダハル"),
 };
 
 static const u8 sDefaultTraderDecorations[NUM_TRADER_ITEMS] =

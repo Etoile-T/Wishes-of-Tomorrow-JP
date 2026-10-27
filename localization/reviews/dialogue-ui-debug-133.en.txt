@@ -1,0 +1,655 @@
+f800790f3564cf7e
+TRUE
+
+c5ed09bac37d9f83
+FALSE
+
+8eecb32295919557
+{COLOR GREEN}TRUE
+
+facddcef36ec2cac
+{COLOR RED}FALSE
+
+9414a337bf7ef77e
+Continue…
+
+d3dfe8687a3e7276
+Group: {STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+
+{STR_VAR_3}{CLEAR_TO 90}
+
+aa250c7200afedd8
+Map: {STR_VAR_1}{CLEAR_TO 90}
+MapSec:{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+{STR_VAR_3}{CLEAR_TO 90}
+
+83c190fcb82df91f
+Warp:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_3}{CLEAR_TO 90}
+
+64a9a8a241d58d8c
+Weather ID: {STR_VAR_3}
+{STR_VAR_1}
+{STR_VAR_2}
+
+302fb2682b1149b6
+Sunday
+
+055f6302a9cc02ca
+Monday
+
+3c689e5edd317ac1
+Tuesday
+
+a93e1fda9e2bae1d
+Wednesday
+
+c9877379848f6285
+Thursday
+
+303de8981f6de568
+Friday
+
+b3384d219f8356aa
+Saturday
+
+c0918e0162664fa6
+Morning
+
+3eb5c1fa766f48ed
+Day
+
+08587f051fa92430
+Evening
+
+7ea88673f29fc00a
+Night
+
+0f41a0196a27c3a4
+Brendan
+
+ab8622a7910be422
+May
+
+29f3ee72358250ca
+Steven
+
+43dfb86f01789d00
+Wally
+
+50eeed3082bdb647
+Red
+
+6f8f4c3c4254a81a
+Leaf
+
+6cc1c15dbd21eba9
+Var: {STR_VAR_1}{CLEAR_TO 90}
+Val: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_2}
+
+441b65f23880efc2
+Var: {STR_VAR_1}{CLEAR_TO 90}
+Val: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_2}
+
+12e86807d7ed21c7
+Shiny:{CLEAR_TO 90}
+   {STR_VAR_2}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{CLEAR_TO 90}
+
+bfab11d996292476
+IV {STR_VAR_1}:{CLEAR_TO 90}
+    {STR_VAR_3}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+e7d41bd82c56e494
+EV {STR_VAR_1}:{CLEAR_TO 90}
+    {STR_VAR_3}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+7d6b90484f7cc453
+SFX ID: {STR_VAR_3}   {START_BUTTON} Stop
+{STR_VAR_1}    
+{STR_VAR_2}
+
+d77a5beaa48c245f
+Music ID: {STR_VAR_3}   {START_BUTTON} Stop
+{STR_VAR_1}    
+{STR_VAR_2}
+
+aca64eb62b8526b4
+Get time…
+
+9d86acd9e9f7dbc7
+Get time of day…
+
+3e24a7812bacc19a
+Set time of day…
+
+65f99a3213eb46b5
+Set weekday…
+
+6218938ded4c0922
+Check wall clock…
+
+7dc16a26248b571f
+Set wall clock…
+
+1cc3c2d679596b47
+Clear map trees
+
+35ce125450ea16d8
+Ready map trees
+
+ee2fe3fedf38a40d
+Grow map trees
+
+67668d7faba77c75
+Give map trees pests
+
+565a8b4b05a5c54f
+Give map trees weeds
+
+15fd2135fb9690f0
+Create Follower
+
+24d9897aa40be583
+Destroy Follower
+
+feb9fbf73902db74
+Fly to map…
+
+7e827385f64ce09a
+Warp to map warp…
+
+e1369163d8bde1d0
+Set weather…
+
+ce64104e5ca6a157
+Font Test…
+
+5ee7b9768272ab7e
+Time Functions…
+
+b3031975c27d47f1
+Watch credits…
+
+9920c86e055aae84
+Cheat start
+
+8e2e16790ad68d1d
+Berry Functions…
+
+9e5beb6b9dbf9ddf
+EWRAM Counters…
+
+caa99499c8dc58e3
+Follower NPC…
+
+20e8ea943f2e5c1f
+Wally Tutorial
+
+f16a1b448e01fdc9
+Steven Multi
+
+d66e694245ede205
+Fill PC Boxes Fast
+
+6b59d432fc73b22e
+Fill PC Boxes Slow (LAG!)
+
+3140dede40fff8cf
+Fill PC Items
+
+cfef7e1ae4038f1c
+Fill Pocket Items
+
+1127279fbf5dce22
+Fill Pocket Poké Balls
+
+445c2f3e082e783f
+Fill Pocket TMHM
+
+3ea7ac1be16175eb
+Fill Pocket Berries
+
+b73077edd58b53ec
+Fill Pocket Key Items
+
+36f680cfa657514e
+Fill PC Shadow Art Mons
+
+c9bef2e2ff0e79aa
+Access PC
+
+341c66996201c62e
+Fill…
+
+83d088251607c9a8
+Clear Bag
+
+bd514dc483459e91
+Clear Storage Boxes
+
+907622e3ed21a9f2
+Inflict Status1
+
+ef6423f59fbdb09d
+Faint Pokemon
+
+8f90f05fbbb2406d
+Set Hidden Nature
+
+bb9919f50d9ceace
+Set Friendship
+
+3deec2288f85a7d2
+Set Ability
+
+f303e6905f5977cc
+Move Relearner
+
+46b9ea330bbe68d2
+Hatch an Egg
+
+27e9b41da145f026
+Heal party
+
+b0d41e962636738d
+Edit Pokemon
+
+46d9214ecf80432a
+Check EVs
+
+554213d1a1935ae9
+Check IVs
+
+21b69169a917e30d
+Give Pokerus
+
+aa004c691271a139
+Clear Pokerus
+
+f9c57b241bc99212
+Clear Party
+
+c9de9dab86575147
+Set Party
+
+d5b7767613145f14
+Start Debug Battle
+
+2517802f31b57e2d
+Give item XYZ…
+
+f4f8200c35e81e83
+Pokémon (Basic)
+
+8ef32ee56392b66b
+Pokémon (Complex)
+
+0398e9a345a9609f
+Give Egg
+
+c0a1ca2aa76a409c
+Give Decoration…
+
+c0633eef5f76a4ef
+Max Money
+
+32a8ce944168c442
+Max Coins
+
+6fdc37855d2c2065
+Max Battle Points
+
+c57721c767569606
+Daycare Egg
+
+885dd2ebe78f7e32
+Player name
+
+ac5e5c6e8787d3a2
+Toggle gender
+
+1fa24bbdf1390df8
+New Trainer ID
+
+d6a74f541b5f13d1
+Script 1
+
+dd23bea8e91ef4f8
+Script 2
+
+4a4a58837454b0db
+Script 3
+
+713ca0dadc3cd5b3
+Script 4
+
+cc4ec04421ff07ef
+Script 5
+
+29c6652cbabdb0f8
+Script 6
+
+8086623a54b19b4e
+Shadow: single
+
+3eb5143c66afb1b1
+Shadow: doubles
+
+a9be6c380ce9b7ad
+Mega Dim: portal
+
+d147d70a65bd11f8
+Mega Dim: 10s left
+
+ce391cadc3ecc687
+Mega Dim: rival
+
+d6a25552f985b769
+Mega Dim: intro
+
+4f1bddaedc7bdbbf
+Mega Dim: shiny
+
+1dbdba580930bc7a
+Mega Dim: Mable next
+
+a900f95937d171f9
+Choose trainer from map
+
+3d11ccbeab3ed688
+Trainer 1: {STR_VAR_1}
+
+117e1c6694562e32
+Trainer 2: {STR_VAR_1}
+
+81ea34fbe10c9c27
+Partner: {STR_VAR_1}
+
+b556eeba405a9183
+Double Battle: {STR_VAR_1}
+
+bef1e11e652f3f14
+Matches {STR_VAR_1}/{STR_VAR_2}
+
+42362dd712531ebb
+Rematch Ready {STR_VAR_1}
+
+2d01c2fd338b9e79
+Try Battle
+
+19818de82e04792a
+Recharge VS Seeker
+
+d6f03efc433ea8b0
+SFX…
+
+bdcb2a25f835c58d
+Music…
+
+92f0b4f50dd44e4f
+Save Block space
+
+e3c8deb70eab801f
+ROM space
+
+b4c2341317b7d427
+Expansion Version
+
+ce36fbd0552d7c9d
+Set Flag XYZ…
+
+d9c180c183ee5991
+Set Var XYZ…
+
+039149af29f89c94
+Pokédex Flags All
+
+c42b0975ed25f94f
+Pokédex Flags Reset
+
+428d648b73897696
+Toggle {STR_VAR_1}Pokédex
+
+3985634f00493c63
+Toggle {STR_VAR_1}National Dex
+
+1a8960040f9cf6ca
+Toggle {STR_VAR_1}PokéNav
+
+9945a37b03b88b0e
+Toggle {STR_VAR_1}Match Call
+
+c47091c98aa0496d
+Toggle {STR_VAR_1}Running Shoes
+
+e58d25ad4b177af5
+Toggle {STR_VAR_1}Fly Flags
+
+44de253b1cc6f0a7
+Toggle {STR_VAR_1}All badges
+
+47b33b5729a73de7
+Toggle {STR_VAR_1}Game clear
+
+14b68247690cf052
+Toggle {STR_VAR_1}Frontier Pass
+
+790e3d22c515deee
+Toggle {STR_VAR_1}Collision OFF
+
+7ebd11f7b2551a6b
+Toggle {STR_VAR_1}Encounter OFF
+
+7f3aad571e81ef89
+Toggle {STR_VAR_1}Trainer See OFF
+
+fd1d80d7f9d5ccaf
+Toggle {STR_VAR_1}Catching OFF
+
+5f392e77e6c1f6c2
+Toggle {STR_VAR_1}Bag Use OFF
+
+276054624c9529d9
+No Bag: {STR_VAR_1}Inactive
+
+92bfe7fe16615ae7
+No Bag: {STR_VAR_1}VS Trainers
+
+51558965dab141e2
+No Bag: {STR_VAR_1}Active
+
+8cf556d396fc13b8
+No Bag: {STR_VAR_1}Invalid value
+
+83be0301c1d28479
+Utilities…
+
+3bf6683f432295d3
+PC/Bag…
+
+3d9b0e08399661dc
+Party…
+
+26496d6e2498de64
+Give X…
+
+4066e98e165589f4
+Player…
+
+7609bd85e092f8a1
+Scripts…
+
+2bfefd17ed479324
+Trainers…
+
+6bdeaf8bf3b8b3e0
+Flags & Vars…
+
+57a1e3bdcd4acd50
+Sound…
+
+56a5ad152dfcab48
+ROM Info…
+
+a5e84b72fedf15be
+Cancel
+
+74d3c34cebc644cf
+None
+
+fdff74432121679e
+None
+
+e8af67db417d55a9
+{COLOR GREEN} TRUE
+
+ef47cf22a5f3d947
+{COLOR RED} FALSE
+
+bf8e9fa81f06c919
+{COLOR GREEN} TRUE
+
+a783f0ee09805e0a
+{COLOR RED} FALSE
+
+594cbf7cf694c41d
+
+Release Build
+
+267ba37cb6ef80a2
+
+Development Build
+
+b8165fb88a3f1765
+Not a Trainer
+
+8cb83d0b2168b0dc
+Local ID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}{CLEAR_TO 90}
+
+70681236b67f1bd8
+None
+
+656db015dd932110
+ID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}{CLEAR_TO 90}
+
+2e3fd9e76dfdc0c7
+Flag: {STR_VAR_1}{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+{STR_VAR_3}
+
+bc4fbaa6c4576796
+ None
+
+094b8ac9152c5d2b
+Item ID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}
+
+ded1d882842cc681
+Quantity:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}
+
+eb766ccc47ee6d1c
+Species Disabled
+
+fc43c9e15b7e1863
+Species: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}{CLEAR_TO 90}
+
+246c91531eb752d5
+Level:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+3559a5063854a1d7
+Random
+
+60d6575247896d46
+Nature ID: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+2f78e207c3fb5a1c
+Ability Num: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+b473fb188d21b78c
+Tera Type: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+8896db5f1ebc6797
+Dmax Lvl:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+9bcaa8ae57775858
+Gmax Factor:{CLEAR_TO 90}
+   {STR_VAR_2}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{CLEAR_TO 90}
+
+12e24afa4a46c7e2
+Default
+
+d276b128e38e28a5
+Move 
+
+30407649442c25d5
+Decor ID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}
+
+5d6a63d83fcf62c3
+Friendship:
+{STR_VAR_1} {RIGHT_ARROW} {STR_VAR_2}
+
+{STR_VAR_3}
+
+88d1baa2cb4800b4
+Inactive
+
+66d8dd3fac05760d
+No Pokerus
+
+6c49b6705bfa0cf7
+Days Left:
+{STR_VAR_1}
+{STR_VAR_2}{CLEAR_TO 90}
+{STR_VAR_3}
+
+253b561602ac84ad
+Strain:
+{STR_VAR_1}
+
+{STR_VAR_3}

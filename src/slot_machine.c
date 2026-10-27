@@ -650,11 +650,11 @@ static void SpriteCB_ReelTimeDuck(struct Sprite *);
 static void SpriteCB_ReelTimeSmoke(struct Sprite *);
 static void SpriteCB_PikaPowerBolt(struct Sprite *);
 
-static const u8 sText_QuitTheGame[] = _("Quit the game?");
-static const u8 sText_YouveGot9999Coins[] = _("You've got 9,999 COINS.");
-static const u8 sText_YouveRunOutOfCoins[] = _("You've run out of COINS.\nGame over!");
-static const u8 sText_YouDontHaveThreeCoins[] = _("You don't have three COINS.");
-static const u8 sText_ReelTimeHelp[] = _("REEL TIME\nHere's your chance to take\naim and nail marks!\nReel Time continues for the\nawarded number of spins.\nIt all ends on a Big Bonus.");
+static const u8 sText_QuitTheGame[] = _("{JPN}ゲームを やめますか?{ENG}");
+static const u8 sText_YouveGot9999Coins[] = _("{JPN}コインが 9999まい あります{ENG}");
+static const u8 sText_YouveRunOutOfCoins[] = _("{JPN}コインが なくなりました\nゲームオーバー!{ENG}");
+static const u8 sText_YouDontHaveThreeCoins[] = _("{JPN}コインが 3まい ありません{ENG}");
+static const u8 sText_ReelTimeHelp[] = _("{JPN}リールタイム\nマークを ねらって\nとめる チャンス!\nあたえられた かいすうだけ\nリールタイムは つづきます\nビッグボーナスで おわります{ENG}");
 
 // Ewram variables
 static EWRAM_DATA u16 *sMenuGfx = NULL;

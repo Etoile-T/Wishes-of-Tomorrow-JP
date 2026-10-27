@@ -416,18 +416,18 @@ static void SetBallStuck(struct Sprite *);
 static void SpriteCB_Shroomish(struct Sprite *);
 static void SpriteCB_Taillow(struct Sprite *);
 
-static const u8 Roulette_Text_PlayMinimumWagerIsX[] = _("The minimum wager at this table\nis {STR_VAR_1}. Do you want to play?");
-static const u8 Roulette_Text_NotEnoughCoins[] = _("You don't have enough COINS.");
-static const u8 Roulette_Text_SpecialRateTable[] = _("Special rate table right now!");
-static const u8 Roulette_Text_ControlsInstruction[] = _("Place your wager with the + Control\nPad, then press the A Button.");
-static const u8 Roulette_Text_ItsAHit[] = _("It's a hit!");
-static const u8 Roulette_Text_Jackpot[] = _("Jackpot!");
-static const u8 Roulette_Text_NothingDoing[] = _("Nothing doing!");
-static const u8 Roulette_Text_YouveWonXCoins[] = _("You've won {STR_VAR_1} COINS!");
-static const u8 Roulette_Text_NoCoinsLeft[] = _("No COINS left…");
-static const u8 Roulette_Text_KeepPlaying[] = _("Keep playing?");
-static const u8 Roulette_Text_BoardWillBeCleared[] = _("The ROULETTE board will be cleared.");
-static const u8 Roulette_Text_CoinCaseIsFull[] = _("Your COIN CASE is full!\nCoins can be exchanged for prizes.");
+static const u8 Roulette_Text_PlayMinimumWagerIsX[] = _("{JPN}この だいの レートは\n{ENG}{STR_VAR_1}{JPN}です あそびますか?{ENG}");
+static const u8 Roulette_Text_NotEnoughCoins[] = _("{JPN}コインが たりません{ENG}");
+static const u8 Roulette_Text_SpecialRateTable[] = _("{JPN}ただいま レートアップ じっしちゅう!{ENG}");
+static const u8 Roulette_Text_ControlsInstruction[] = _("{JPN}じゅうじボタンで ベットする わくを えらび\nAボタンで けってい します{ENG}");
+static const u8 Roulette_Text_ItsAHit[] = _("{JPN}あたりー!{ENG}");
+static const u8 Roulette_Text_Jackpot[] = _("{JPN}おおあたり!!{ENG}");
+static const u8 Roulette_Text_NothingDoing[] = _("{JPN}はずれー!{ENG}");
+static const u8 Roulette_Text_YouveWonXCoins[] = _("{JPN}コイン {ENG}{STR_VAR_1}{JPN}まい かくとく!{ENG}");
+static const u8 Roulette_Text_NoCoinsLeft[] = _("{JPN}コインが なくなりました…{ENG}");
+static const u8 Roulette_Text_KeepPlaying[] = _("{JPN}つづけて あそびますか?{ENG}");
+static const u8 Roulette_Text_BoardWillBeCleared[] = _("{JPN}ルーレットの だいを クリアします{ENG}");
+static const u8 Roulette_Text_CoinCaseIsFull[] = _("{JPN}コインケースが いっぱいです!\nコインは けいひんと こうかん できます{ENG}");
 
 static const u16 sWheel_Pal[] = INCGFX_U16("graphics/roulette/wheel.png", ".gbapal"); // also palette for grid
 static const u32 sGrid_Tilemap[] = INCBIN_U32("graphics/roulette/grid.bin.smolTM");

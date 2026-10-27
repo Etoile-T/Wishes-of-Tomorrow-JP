@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "63a7034072be72c6",
+  "translation": "{JPN_NAME_4}しょうり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2136256550be495c",
+  "translation": "{JPN_NAME_4}くさへび",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0ca4b98b8c73bf76",
+  "translation": "{JPN_NAME_4}くさへび",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "86ec84945bd9832a",
+  "translation": "{JPN_NAME_4}ロイヤル",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3b1bbb01f2147db5",
+  "translation": "{JPN_NAME_3}ひぶた",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ea42497f8a66642a",
+  "translation": "{JPN_NAME_3}ひぶた",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "65d04f2ff6e4be31",
+  "translation": "{JPN_NAME_3}ひぶた",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f1620701aad02ce6",
+  "translation": "{JPN_NAME_3}ひぶた",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "83abe1d9a3a2a1d3",
+  "translation": "{JPN_NAME_3}ラッコ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4d26a6e7ba0ae823",
+  "translation": "{JPN_NAME_5}しゅぎょう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6f44537bd72cf709",
+  "translation": "{JPN_NAME_4}かんろく",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "456283967a996198",
+  "translation": "{JPN_NAME_4}かんろく",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "582164868cc0c263",
+  "translation": "{JPN_NAME_3}みはり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "83ac2d068ffceddc",
+  "translation": "{JPN_NAME_4}けいかい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "80c47260051c5574",
+  "translation": "{JPN_NAME_3}こいぬ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "55cf2f43ad3e7bc8",
+  "translation": "{JPN_NAME_5}ちゅうけん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1241a772123cb1ca",
+  "translation": "{JPN_NAME_4}かんだい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "69cbdae2cd846eca",
+  "translation": "{JPN_NAME_5}しょうわる",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "851b7a027d3e5fdc",
+  "translation": "{JPN_NAME_4}れいこく",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1fd684ef8463299d",
+  "translation": "{JPN_NAME_4}くさざる",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "bbfde74866515185",
+  "translation": "{JPN_NAME_4}とげざる",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0bb22bd31dab5858",
+  "translation": "{JPN_NAME_4}こうおん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1d8997e5884e0d93",
+  "translation": "{JPN_NAME_3}ひのこ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "681688317b95c1a9",
+  "translation": "{JPN_NAME_4}みずかけ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "323133f5cfeea7ba",
+  "translation": "{JPN_NAME_4}ほうすい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "04573f4ea0c8ff1c",
+  "translation": "{JPN_NAME_4}ゆめくい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "27d6173282a18c94",
+  "translation": "{JPN_NAME_5}ゆめうつつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c98922d9bf1a94bb",
+  "translation": "{JPN_NAME_3}こばと",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3b3ac263c850a215",
+  "translation": "{JPN_NAME_3}のばと",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f7ce10c186e62290",
+  "translation": "{JPN_NAME_4}プライド",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4d922dcf8b3a285d",
+  "translation": "{JPN_NAME_4}たいでん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "11ff750f70f42a69",
+  "translation": "{JPN_NAME_4}らいでん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "35d0d4e5cf0cbc68",
+  "translation": "{JPN_NAME_4}マントル",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "37a2d6c4396a558c",
+  "translation": "{JPN_NAME_4}こうせき",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c3a0498918bafcee",
+  "translation": "{JPN_NAME_4}こうあつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "60b3a4eea3d68e37",
+  "translation": "{JPN_NAME_4}こうもり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c5f515e55fdf9a10",
+  "translation": "{JPN_NAME_5}きゅうあい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1f1b418dc3319247",
+  "translation": "{JPN_NAME_3}もぐら",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "62f96a1faf87d4dc",
+  "translation": "{JPN_NAME_3}ちてい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "454ea42bf548f6eb",
+  "translation": "{JPN_NAME_3}ちてい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "17638d0330958f8c",
+  "translation": "{JPN_NAME_5}ヒヤリング",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dc75447c1e2e70f6",
+  "translation": "{JPN_NAME_5}ヒヤリング",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ecd684d90f52d13f",
+  "translation": "{JPN_NAME_4}きんこつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "67a21e54ae2081ae",
+  "translation": "{JPN_NAME_4}きんこつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9f465bf24af982ea",
+  "translation": "{JPN_NAME_4}きんこつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4c194d22b747c8c0",
+  "translation": "{JPN_NAME_3}おたま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "bbc90fbe374bcbfc",
+  "translation": "{JPN_NAME_4}しんどう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f942fe58b21a65d4",
+  "translation": "{JPN_NAME_4}しんどう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b58dfd655b6b34c8",
+  "translation": "{JPN_NAME_5}じゅうどう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "84ae67cfba58e948",
+  "translation": "{JPN_NAME_3}からて",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fc6de1a7fd1ebcef",
+  "translation": "{JPN_NAME_4}さいほう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "00cc27d6c4f18c1b",
+  "translation": "{JPN_NAME_4}はごもり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a5b97a8a770c2254",
+  "translation": "{JPN_NAME_4}こそだて",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3c059df6c7cb8e10",
+  "translation": "{JPN_NAME_3}ムカデ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "123a8e6f261a499d",
+  "translation": "{JPN_NAME_5}まゆムカデ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "41e2d539ce4f40ae",
+  "translation": "{JPN_NAME_5}メガムカデ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ec35ad7dc91be4ee",
+  "translation": "{JPN_NAME_5}メガムカデ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b05c508f9c7744ec",
+  "translation": "{JPN_NAME_4}わたたま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9e7912f0dd4d505f",
+  "translation": "{JPN_NAME_5}かぜかくれ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dd21d5329b9920a9",
+  "translation": "{JPN_NAME_3}ねっこ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d07a725e7ab1afba",
+  "translation": "{JPN_NAME_5}はなかざり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e297b72ccaa86d48",
+  "translation": "{JPN_NAME_3}スピン",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "60878b20d5a632bb",
+  "translation": "{JPN_NAME_4}らんぼう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f86b6c6f10123fc9",
+  "translation": "{JPN_NAME_4}らんぼう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "13b91f1d0b66101c",
+  "translation": "{JPN_NAME_4}おんこう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "459d92b5f00ec6e0",
+  "translation": "{JPN_NAME_4}おおうお",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "df6e68c13fdf8869",
+  "translation": "{JPN_NAME_4}おおうお",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "babf4ea901d25588",
+  "translation": "{JPN_NAME_5}さばくワニ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5af0f72db290e739",
+  "translation": "{JPN_NAME_5}さばくワニ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c08a5bb54ecba60b",
+  "translation": "{JPN_NAME_3}いかく",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "06cfd361294bdad8",
+  "translation": "{JPN_NAME_3}だるま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0934b68be4b1be7f",
+  "translation": "{JPN_NAME_5}えんじょう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7c650a372fd21884",
+  "translation": "{JPN_NAME_5}えんじょう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d5565ed7966d9314",
+  "translation": "{JPN_NAME_3}だるま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3a8d0349bf513a3f",
+  "translation": "{JPN_NAME_3}だるま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5d477b7337c04a3e",
+  "translation": "{JPN_NAME_5}えんじょう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4b2559fc9a73f665",
+  "translation": "{JPN_NAME_4}サボテン",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6d808b71638a3250",
+  "translation": "{JPN_NAME_4}いしやど",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f8c0d302eb90cf92",
+  "translation": "{JPN_NAME_4}いわやど",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "365d46ee317b50ac",
+  "translation": "{JPN_NAME_3}だっぴ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6e707405f6bb958e",
+  "translation": "{JPN_NAME_4}あくとう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dcce363b40f48d91",
+  "translation": "{JPN_NAME_4}あくとう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "37502080f937c6c5",
+  "translation": "{JPN_NAME_5}とりもどき",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "57f10cbef066dd04",
+  "translation": "{JPN_NAME_4}たましい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "545f45604311c146",
+  "translation": "{JPN_NAME_4}かんおけ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "21eb7f48dbd0ad66",
+  "translation": "{JPN_NAME_4}たましい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4f035d6786471f64",
+  "translation": "{JPN_NAME_4}おんねん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9431d0541cbadc7d",
+  "translation": "{JPN_NAME_5}こだいがめ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c50bea1f2ee4fb6f",
+  "translation": "{JPN_NAME_5}こだいがめ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c526756a2df402a8",
+  "translation": "{JPN_NAME_5}さいこどり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b4b0e0fdbde91a19",
+  "translation": "{JPN_NAME_5}さいこどり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "60719c66ceb83040",
+  "translation": "{JPN_NAME_5}ゴミぶくろ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5502a33626926f02",
+  "translation": "{JPN_NAME_5}ゴミすてば",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9f4e2bba1d79526c",
+  "translation": "{JPN_NAME_5}ゴミすてば",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "cf6ee70cebf128b4",
+  "translation": "{JPN_NAME_5}わるぎつね",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1d704bdbbfa48ed0",
+  "translation": "{JPN_NAME_5}ばけぎつね",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "324f2a56a003aafb",
+  "translation": "{JPN_NAME_6}うらみぎつね",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "332acad5807004f0",
+  "translation": "{JPN_NAME_6}のろいぎつね",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e0a4acdfcd302c64",
+  "translation": "{JPN_NAME_4}チンチラ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "43287f8ccccac195",
+  "translation": "{JPN_NAME_4}スカーフ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "89d49762574293ac",
+  "translation": "{JPN_NAME_4}ぎょうし",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "af56d7f0ca0c44cf",
+  "translation": "{JPN_NAME_4}あやつり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3df876002fab96fb",
+  "translation": "{JPN_NAME_4}てんたい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9a3f4936ed111253",
+  "translation": "{JPN_NAME_4}さいぼう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2afd5a106bf8d759",
+  "translation": "{JPN_NAME_4}ぶんかつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b48a6e08892fda90",
+  "translation": "{JPN_NAME_4}ぞうふく",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "58acf1285bc257c9",
+  "translation": "{JPN_NAME_4}みずどり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f17599bdcba1a8bb",
+  "translation": "{JPN_NAME_4}しらどり",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9bea5f5d5a4db9df",
+  "translation": "{JPN_NAME_4}しんせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "486b1d5e8143b47f",
+  "translation": "{JPN_NAME_5}ひょうせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0ace348735377473",
+  "translation": "{JPN_NAME_5}ブリザード",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "010b2e53a4606169",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e83518930e8fc956",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "590df61941a0e87d",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "682bb2e109421f28",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3f1c20efd4ae7a1c",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7400c2c472414e39",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0f849840ed3ef2ca",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1fd5097bb08ad50e",
+  "translation": "{JPN_NAME_3}きせつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "61a85c4c89934c25",
+  "translation": "{JPN_NAME_4}モモンガ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4c77d6ee6c9c0584",
+  "translation": "{JPN_NAME_5}かぶりつき",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f02b1e78fe859051",
+  "translation": "{JPN_NAME_3}きへい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f31fdfbbe008cb79",
+  "translation": "{JPN_NAME_3}きのこ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e783e022c135e302",
+  "translation": "{JPN_NAME_3}きのこ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ee404da18054c454",
+  "translation": "{JPN_NAME_3}ふゆう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5633e6ab635e98d4",
+  "translation": "{JPN_NAME_3}ふゆう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "221d12888c636daa",
+  "translation": "{JPN_NAME_4}かいほう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "328045c07300ddc0",
+  "translation": "{JPN_NAME_4}くっつき",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "607747f4d6720a6b",
+  "translation": "{JPN_NAME_5}でんきグモ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7e0db27b2d307c53",
+  "translation": "{JPN_NAME_4}とげのみ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c7815e58e11ea45d",
+  "translation": "{JPN_NAME_4}とげだま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2c5bc3d58af24419",
+  "translation": "{JPN_NAME_4}はぐるま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "96edfff0b43edefd",
+  "translation": "{JPN_NAME_4}はぐるま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4bff51b59bfc2359",
+  "translation": "{JPN_NAME_4}はぐるま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "938896ebaddde7ab",
+  "translation": "{JPN_NAME_5}でんきうお",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e6fd9c1487512509",
+  "translation": "{JPN_NAME_5}でんきうお",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "54f9a7a61779b5fa",
+  "translation": "{JPN_NAME_5}でんきうお",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e23a6f81b305919a",
+  "translation": "{JPN_NAME_5}でんきうお",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "47ec14ffbfa6b21a",
+  "translation": "{JPN_NAME_4}ブレイン",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fc34e0d13782f97d",
+  "translation": "{JPN_NAME_4}ブレイン",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2c39fcf7e79d852b",
+  "translation": "{JPN_NAME_4}ろうそく",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9645bd6187f11253",
+  "translation": "{JPN_NAME_3}ランプ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c698a883ce162e5d",
+  "translation": "{JPN_NAME_4}いざない",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "cf10f710ad44fcaa",
+  "translation": "{JPN_NAME_4}いざない",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "bc72ea275c688ec8",
+  "translation": "{JPN_NAME_2}キバ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "303270793ba9a31c",
+  "translation": "{JPN_NAME_4}あごオノ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "67440a657f797340",
+  "translation": "{JPN_NAME_4}あごオノ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d5ddfadacc2f4af6",
+  "translation": "{JPN_NAME_5}ひょうけつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4ce6385eeb6a7db0",
+  "translation": "{JPN_NAME_4}とうけつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ab0bf8aa68ebccb2",
+  "translation": "{JPN_NAME_5}けっしょう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "db14fd1f82efd81f",
+  "translation": "{JPN_NAME_4}マイマイ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6bc07521015184a6",
+  "translation": "{JPN_NAME_4}からぬけ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7247415cb94c3354",
+  "translation": "{JPN_NAME_4}トラップ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5238455079e34e10",
+  "translation": "{JPN_NAME_4}トラップ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fc8f2a33c0546675",
+  "translation": "{JPN_NAME_4}ぶじゅつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dbe0935e7fd62288",
+  "translation": "{JPN_NAME_4}ぶじゅつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8fe8b8e7e3efc004",
+  "translation": "{JPN_NAME_4}ほらあな",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "75e79ff24041483e",
+  "translation": "{JPN_NAME_4}ゴーレム",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5c5ab322216f81a3",
+  "translation": "{JPN_NAME_4}ゴーレム",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a91afa3e54279bf8",
+  "translation": "{JPN_NAME_4}ゴーレム",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2c265f63d3759d13",
+  "translation": "{JPN_NAME_3}はもの",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f30320c8968f6104",
+  "translation": "{JPN_NAME_4}とうじん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "88ec81704d77b6f6",
+  "translation": "{JPN_NAME_4}だいとう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4a6d5bb292ace34f",
+  "translation": "{JPN_NAME_5}ずつきうし",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "cbda857d59ad236b",
+  "translation": "{JPN_NAME_4}ヒナわし",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "80de4a1e7bb3cf85",
+  "translation": "{JPN_NAME_4}ゆうもう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a1d4eb5163f73476",
+  "translation": "{JPN_NAME_4}おたけび",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d586450559142ff9",
+  "translation": "{JPN_NAME_3}おむつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f34ad0901632b7bd",
+  "translation": "{JPN_NAME_4}ほねわし",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dece4938b4948715",
+  "translation": "{JPN_NAME_4}アリクイ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e15b3661aa239f13",
+  "translation": "{JPN_NAME_4}てつアリ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0d4085412da7f0f7",
+  "translation": "{JPN_NAME_3}そぼう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b6de399cfc782ad2",
+  "translation": "{JPN_NAME_4}らんぼう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "eec37ce824c24087",
+  "translation": "{JPN_NAME_5}きょうぼう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c91abfae6fe62797",
+  "translation": "{JPN_NAME_4}たいまつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "97474347d8a740c2",
+  "translation": "{JPN_NAME_4}たいよう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "35d975eff6930a92",
+  "translation": "{JPN_NAME_4}てっしん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ea2af9d11ccce0e2",
+  "translation": "{JPN_NAME_4}がんくつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7b9a38715bc59fa4",
+  "translation": "{JPN_NAME_4}そうげん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "88a1e7bce6ce197d",
+  "translation": "{JPN_NAME_4}せんぷう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "75a5fc367f906068",
+  "translation": "{JPN_NAME_4}せんぷう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "47b3889d4a4abee2",
+  "translation": "{JPN_NAME_4}らいげき",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "422fe9047dd69724",
+  "translation": "{JPN_NAME_4}らいげき",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8705b16d1ebfdd78",
+  "translation": "{JPN_NAME_4}はくよう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "708721428d1b218e",
+  "translation": "{JPN_NAME_4}こくいん",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9d2d9082c4fcf222",
+  "translation": "{JPN_NAME_5}ほうじょう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5694375bfd6fa650",
+  "translation": "{JPN_NAME_5}ほうじょう",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b822c9b13adc1b0b",
+  "translation": "{JPN_NAME_5}きょうかい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "54c7282b0af6b53c",
+  "translation": "{JPN_NAME_5}きょうかい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a6e6822097d798b3",
+  "translation": "{JPN_NAME_5}きょうかい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7ad8a8758a774cb6",
+  "translation": "{JPN_NAME_4}わかごま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "694f6dfe4765860f",
+  "translation": "{JPN_NAME_4}わかごま",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7dff69358909c28d",
+  "translation": "{JPN_NAME_4}せんりつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "77bce8a5d924febd",
+  "translation": "{JPN_NAME_4}せんりつ",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ef4b897a29096d91",
+  "translation": "{JPN_NAME_5}こせいだい",
+  "provenance": {
+   "batch": "ui-dex-126-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ }
+]

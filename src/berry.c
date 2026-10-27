@@ -60,14 +60,14 @@ const struct Berry gBerries[] =
 {
     [ITEM_CHERI_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Cheri"),
+        .name = _("{JPN_NAME_3}クラボ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_RED,
         .size = 20,
         .maxYield = YIELD_RATE(3, 5, 15, 20),
         .minYield = YIELD_RATE(2, 2, 4, 4),
-        .description1 = COMPOUND_STRING("Blooms with delicate pretty flowers."),
-        .description2 = COMPOUND_STRING("The bright red Berry is very spicy."),
+        .description1 = COMPOUND_STRING("{JPN}うすくて かわいい はなを さかせる。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}まっかな きのみは とても からい。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 12, 18, 24, 16, 24),
         .spicy = 10,
         .dry = 0,
@@ -83,14 +83,14 @@ const struct Berry gBerries[] =
 
     [ITEM_CHESTO_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Chesto"),
+        .name = _("{JPN_NAME_2}カゴ"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_BLUE,
         .size = 80,
         .maxYield = YIELD_RATE(3, 5, 15, 20),
         .minYield = YIELD_RATE(2, 2, 4, 4),
-        .description1 = COMPOUND_STRING("The Berry's thick skin and fruit are"),
-        .description2 = COMPOUND_STRING("very tough. It is dry-tasting all over."),
+        .description1 = COMPOUND_STRING("{JPN}あつい かわも みも とても かたい。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}どこを たべても しぶい あじが する。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 12, 18, 24, 16, 24),
         .spicy = 0,
         .dry = 10,
@@ -106,14 +106,14 @@ const struct Berry gBerries[] =
 
     [ITEM_PECHA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Pecha"),
+        .name = _("{JPN_NAME_3}モモン"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = BERRY_COLOR_PINK,
         .size = 40,
         .maxYield = YIELD_RATE(3, 5, 15, 20),
         .minYield = YIELD_RATE(2, 2, 4, 4),
-        .description1 = COMPOUND_STRING("Very sweet and delicious."),
-        .description2 = COMPOUND_STRING("Also very tender - handle with care."),
+        .description1 = COMPOUND_STRING("{JPN}とても あまくて おいしい。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}やわらかいので ていねいに あつかおう。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 12, 18, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -129,14 +129,14 @@ const struct Berry gBerries[] =
 
     [ITEM_RAWST_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Rawst"),
+        .name = _("{JPN_NAME_3}チーゴ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 32,
         .maxYield = YIELD_RATE(3, 5, 15, 20),
         .minYield = YIELD_RATE(2, 2, 4, 4),
-        .description1 = COMPOUND_STRING("If the leaves grow long and curly,"),
-        .description2 = COMPOUND_STRING("the Berry seems to grow very bitter."),
+        .description1 = COMPOUND_STRING("{JPN}はっぱが ながく まるまると{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}きのみは とても にがく なるらしい。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 12, 18, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -152,14 +152,14 @@ const struct Berry gBerries[] =
 
     [ITEM_ASPEAR_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Aspear"),
+        .name = _("{JPN_NAME_3}ナナシ"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_YELLOW,
         .size = 50,
         .maxYield = YIELD_RATE(3, 5, 15, 20),
         .minYield = YIELD_RATE(2, 2, 4, 4),
-        .description1 = COMPOUND_STRING("The hard Berry is dense with a rich"),
-        .description2 = COMPOUND_STRING("juice. It is quite sour."),
+        .description1 = COMPOUND_STRING("{JPN}かたい きのみに こい しるが{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}たっぷり つまっている。かなり すっぱい。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 12, 18, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -175,14 +175,14 @@ const struct Berry gBerries[] =
 
     [ITEM_LEPPA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Leppa"),
+        .name = _("{JPN_NAME_3}ヒメリ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_RED,
         .size = 28,
         .maxYield = YIELD_RATE(3, 5, 15, 22),
         .minYield = YIELD_RATE(2, 2, 2, 2),
-        .description1 = COMPOUND_STRING("Grows slower than Cheri and others."),
-        .description2 = COMPOUND_STRING("The smaller the Berry, the tastier."),
+        .description1 = COMPOUND_STRING("{JPN}クラボなどより そだつのが おそい。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ちいさい きのみほど おいしい。{ENG}"),
         .growthDuration = GROWTH_DURATION(16, 16, 24, 24, 16, 24),
         .spicy = 10,
         .dry = 0,
@@ -198,14 +198,14 @@ const struct Berry gBerries[] =
 
     [ITEM_ORAN_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Oran"),
+        .name = _("{JPN_NAME_3}オレン"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_BLUE,
         .size = 35,
         .maxYield = YIELD_RATE(3, 5, 15, 20),
         .minYield = YIELD_RATE(2, 2, 4, 4),
-        .description1 = COMPOUND_STRING("A peculiar Berry with a mix of flavors."),
-        .description2 = COMPOUND_STRING("Berries grow in half a day."),
+        .description1 = COMPOUND_STRING("{JPN}いろんな あじが まざった ふしぎな きのみ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}はんにちで きのみが なる。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 16, 24, 24, 16, 24),
         .spicy = 10,
         .dry = 10,
@@ -221,14 +221,14 @@ const struct Berry gBerries[] =
 
     [ITEM_PERSIM_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Persim"),
+        .name = _("{JPN_NAME_2}キー"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_PINK,
         .size = 47,
         .maxYield = YIELD_RATE(3, 5, 15, 20),
         .minYield = YIELD_RATE(2, 2, 4, 4),
-        .description1 = COMPOUND_STRING("Loves sunlight. The Berry's color"),
-        .description2 = COMPOUND_STRING("grows vivid when exposed to the sun."),
+        .description1 = COMPOUND_STRING("{JPN}ひかりが だいすき。ひに あたると{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}きのみの いろが あざやかに なる。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 16, 24, 24, 16, 24),
         .spicy = 10,
         .dry = 10,
@@ -244,14 +244,14 @@ const struct Berry gBerries[] =
 
     [ITEM_LUM_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Lum"),
+        .name = _("{JPN_NAME_2}ラム"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 34,
         .maxYield = YIELD_RATE(2, 5, 20, 18),
         .minYield = YIELD_RATE(1, 2, 3, 2),
-        .description1 = COMPOUND_STRING("Slow to grow. If raised with loving"),
-        .description2 = COMPOUND_STRING("care, it may grow two Berries."),
+        .description1 = COMPOUND_STRING("{JPN}そだつのが おそい。だいじに そだてると{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}きのみが 2こ なることも ある。{ENG}"),
         .growthDuration = GROWTH_DURATION(48, 48, 72, 48, 32, 48),
         .spicy = 10,
         .dry = 10,
@@ -267,14 +267,14 @@ const struct Berry gBerries[] =
 
     [ITEM_SITRUS_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Sitrus"),
+        .name = _("{JPN_NAME_3}オボン"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_YELLOW,
         .size = 95,
         .maxYield = YIELD_RATE(3, 5, 20, 27),
         .minYield = YIELD_RATE(2, 2, 3, 3),
-        .description1 = COMPOUND_STRING("Closely related to Oran. The large"),
-        .description2 = COMPOUND_STRING("Berry has a well-rounded flavor."),
+        .description1 = COMPOUND_STRING("{JPN}オレンの なかま。おおきな きのみは{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}まろやかな あじが する。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 32, 48, 48, 32, 48),
         .spicy = 10,
         .dry = 10,
@@ -290,14 +290,14 @@ const struct Berry gBerries[] =
 
     [ITEM_FIGY_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Figy"),
+        .name = _("{JPN_NAME_3}フィラ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_RED,
         .size = 100,
         .maxYield = YIELD_RATE(3, 5, 15, 15),
         .minYield = YIELD_RATE(2, 1, 3, 3),
-        .description1 = COMPOUND_STRING("The Berry, which looks chewed up,"),
-        .description2 = COMPOUND_STRING("brims with spicy substances."),
+        .description1 = COMPOUND_STRING("{JPN}かじられたような かたちの きのみは{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}からい せいぶんで いっぱい。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 20, 30, 24, 16, 24),
         .spicy = 10,
         .dry = 0,
@@ -313,14 +313,14 @@ const struct Berry gBerries[] =
 
     [ITEM_WIKI_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Wiki"),
+        .name = _("{JPN_NAME_2}ウイ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_BLUE,
         .size = 115,
         .maxYield = YIELD_RATE(3, 5, 15, 15),
         .minYield = YIELD_RATE(2, 1, 3, 3),
-        .description1 = COMPOUND_STRING("The Berry is said to have grown lumpy"),
-        .description2 = COMPOUND_STRING("to help Pokémon grip it."),
+        .description1 = COMPOUND_STRING("{JPN}ポケモンが もちやすいように{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}でこぼこに なったと いわれる。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 20, 30, 24, 16, 24),
         .spicy = 0,
         .dry = 10,
@@ -336,14 +336,14 @@ const struct Berry gBerries[] =
 
     [ITEM_MAGO_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Mago"),
+        .name = _("{JPN_NAME_2}マゴ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_PINK,
         .size = 126,
         .maxYield = YIELD_RATE(3, 5, 15, 15),
         .minYield = YIELD_RATE(2, 1, 3, 3),
-        .description1 = COMPOUND_STRING("The Berry turns curvy as it grows."),
-        .description2 = COMPOUND_STRING("The curvier, the sweeter and tastier."),
+        .description1 = COMPOUND_STRING("{JPN}そだつと きのみが まがっていく。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}まがっているほど あまくて おいしい。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 20, 30, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -359,14 +359,14 @@ const struct Berry gBerries[] =
 
     [ITEM_AGUAV_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Aguav"),
+        .name = _("{JPN_NAME_3}バンジ"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 64,
         .maxYield = YIELD_RATE(3, 5, 15, 15),
         .minYield = YIELD_RATE(2, 1, 3, 3),
-        .description1 = COMPOUND_STRING("The flower is dainty. It is rare in its"),
-        .description2 = COMPOUND_STRING("ability to grow without light."),
+        .description1 = COMPOUND_STRING("{JPN}はなは ちいさい。ひかりが なくても{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}そだつ めずらしい きのみ。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 20, 30, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -382,14 +382,14 @@ const struct Berry gBerries[] =
 
     [ITEM_IAPAPA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Iapapa"),
+        .name = _("{JPN_NAME_2}イア"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_YELLOW,
         .size = 223,
         .maxYield = YIELD_RATE(3, 5, 15, 15),
         .minYield = YIELD_RATE(2, 1, 3, 3),
-        .description1 = COMPOUND_STRING("The Berry is very big and sour."),
-        .description2 = COMPOUND_STRING("It takes at least a day to grow."),
+        .description1 = COMPOUND_STRING("{JPN}とても おおきくて すっぱい きのみ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}そだつのに 1にち いじょう かかる。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 20, 30, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -405,14 +405,14 @@ const struct Berry gBerries[] =
 
     [ITEM_RAZZ_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Razz"),
+        .name = _("{JPN_NAME_2}ズリ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_RED,
         .size = 120,
         .maxYield = YIELD_RATE(6, 10, 15, 20),
         .minYield = YIELD_RATE(3, 2, 3, 4),
-        .description1 = COMPOUND_STRING("The red Berry tastes slightly spicy."),
-        .description2 = COMPOUND_STRING("It grows quickly in just four hours."),
+        .description1 = COMPOUND_STRING("{JPN}あかい きのみは すこし からい。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}わずか 4じかんで そだつ。{ENG}"),
         .growthDuration = GROWTH_DURATION(4, 8, 12, 24, 16, 24),
         .spicy = 10,
         .dry = 10,
@@ -428,14 +428,14 @@ const struct Berry gBerries[] =
 
     [ITEM_BLUK_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Bluk"),
+        .name = _("{JPN_NAME_3}ブリー"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_BLUE,
         .size = 108,
         .maxYield = YIELD_RATE(6, 10, 15, 20),
         .minYield = YIELD_RATE(3, 2, 3, 4),
-        .description1 = COMPOUND_STRING("The Berry is blue on the outside, but"),
-        .description2 = COMPOUND_STRING("it blackens the mouth when eaten."),
+        .description1 = COMPOUND_STRING("{JPN}そとがわは あおいが たべると{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}くちの なかが くろく なる。{ENG}"),
         .growthDuration = GROWTH_DURATION(4, 8, 12, 24, 16, 24),
         .spicy = 0,
         .dry = 10,
@@ -451,14 +451,14 @@ const struct Berry gBerries[] =
 
     [ITEM_NANAB_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Nanab"),
+        .name = _("{JPN_NAME_2}ナナ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_PINK,
         .size = 77,
         .maxYield = YIELD_RATE(6, 10, 15, 20),
         .minYield = YIELD_RATE(3, 2, 3, 4),
-        .description1 = COMPOUND_STRING("This Berry was the seventh"),
-        .description2 = COMPOUND_STRING("discovered in the world. It is sweet."),
+        .description1 = COMPOUND_STRING("{JPN}せかいで 7ばんめに みつかった{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}きのみ。あまい あじが する。{ENG}"),
         .growthDuration = GROWTH_DURATION(4, 8, 12, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -474,14 +474,14 @@ const struct Berry gBerries[] =
 
     [ITEM_WEPEAR_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Wepear"),
+        .name = _("{JPN_NAME_3}セシナ"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 74,
         .maxYield = YIELD_RATE(6, 10, 15, 20),
         .minYield = YIELD_RATE(3, 2, 3, 4),
-        .description1 = COMPOUND_STRING("The flower is small and white. It has a"),
-        .description2 = COMPOUND_STRING("delicate balance of bitter and sour."),
+        .description1 = COMPOUND_STRING("{JPN}はなは ちいさくて しろい。にがみと{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}すっぱさが びみょうに つりあっている。{ENG}"),
         .growthDuration = GROWTH_DURATION(4, 8, 12, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -497,14 +497,14 @@ const struct Berry gBerries[] =
 
     [ITEM_PINAP_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Pinap"),
+        .name = _("{JPN_NAME_3}パイル"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_YELLOW,
         .size = 80,
         .maxYield = YIELD_RATE(6, 10, 15, 20),
         .minYield = YIELD_RATE(3, 2, 3, 4),
-        .description1 = COMPOUND_STRING("Weak against wind and cold."),
-        .description2 = COMPOUND_STRING("The fruit is spicy and the skin, sour."),
+        .description1 = COMPOUND_STRING("{JPN}かぜと さむさに よわい。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}みは からく かわは すっぱい。{ENG}"),
         .growthDuration = GROWTH_DURATION(4, 8, 12, 24, 16, 24),
         .spicy = 10,
         .dry = 0,
@@ -520,14 +520,14 @@ const struct Berry gBerries[] =
 
     [ITEM_POMEG_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Pomeg"),
+        .name = _("{JPN_NAME_3}ザロク"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_RED,
         .size = 135,
         .maxYield = YIELD_RATE(6, 5, 20, 26),
         .minYield = YIELD_RATE(2, 1, 1, 2),
-        .description1 = COMPOUND_STRING("However much it is watered,"),
-        .description2 = COMPOUND_STRING("it only grows up to six Berries."),
+        .description1 = COMPOUND_STRING("{JPN}どんなに みずを あげても{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}6こまでしか きのみが ならない。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 32, 48, 48, 32, 48),
         .spicy = 10,
         .dry = 0,
@@ -543,14 +543,14 @@ const struct Berry gBerries[] =
 
     [ITEM_KELPSY_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Kelpsy"),
+        .name = _("{JPN_NAME_3}ネコブ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_BLUE,
         .size = 150,
         .maxYield = YIELD_RATE(6, 5, 20, 26),
         .minYield = YIELD_RATE(2, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A rare variety shaped like a root."),
-        .description2 = COMPOUND_STRING("Grows a very large flower."),
+        .description1 = COMPOUND_STRING("{JPN}ねっこのような かたちの めずらしい しゅ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}とても おおきな はなを さかせる。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 32, 48, 48, 32, 48),
         .spicy = 0,
         .dry = 10,
@@ -566,14 +566,14 @@ const struct Berry gBerries[] =
 
     [ITEM_QUALOT_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Qualot"),
+        .name = _("{JPN_NAME_3}タポル"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_YELLOW : BERRY_COLOR_PINK,
         .size = 110,
         .maxYield = YIELD_RATE(6, 5, 20, 26),
         .minYield = YIELD_RATE(2, 1, 1, 2),
-        .description1 = COMPOUND_STRING("Loves water. Grows strong even in"),
-        .description2 = COMPOUND_STRING("locations with constant rainfall."),
+        .description1 = COMPOUND_STRING("{JPN}みずが だいすき。いつも あめが ふる{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ばしょでも げんきに そだつ。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 32, 48, 48, 32, 48),
         .spicy = 10,
         .dry = 0,
@@ -589,14 +589,14 @@ const struct Berry gBerries[] =
 
     [ITEM_HONDEW_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Hondew"),
+        .name = _("{JPN_NAME_2}ロメ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 162,
         .maxYield = YIELD_RATE(6, 5, 20, 26),
         .minYield = YIELD_RATE(2, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A Berry that is very valuable and"),
-        .description2 = COMPOUND_STRING("rarely seen. It is very delicious."),
+        .description1 = COMPOUND_STRING("{JPN}とても かちが あり めったに みられない{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}きのみ。とても おいしい。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 32, 48, 48, 32, 48),
         .spicy = 10,
         .dry = 10,
@@ -612,14 +612,14 @@ const struct Berry gBerries[] =
 
     [ITEM_GREPA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Grepa"),
+        .name = _("{JPN_NAME_2}ウブ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_YELLOW,
         .size = 149,
         .maxYield = YIELD_RATE(6, 5, 20, 26),
         .minYield = YIELD_RATE(2, 1, 1, 2),
-        .description1 = COMPOUND_STRING("Despite its tenderness and round"),
-        .description2 = COMPOUND_STRING("shape, the Berry is unimaginably sour."),
+        .description1 = COMPOUND_STRING("{JPN}やわらかくて まるい かたちなのに{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}そうぞうを こえる すっぱさ。{ENG}"),
         .growthDuration = GROWTH_DURATION(12, 32, 48, 48, 32, 48),
         .spicy = 0,
         .dry = 10,
@@ -635,14 +635,14 @@ const struct Berry gBerries[] =
 
     [ITEM_TAMATO_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Tamato"),
+        .name = _("{JPN_NAME_3}マトマ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_RED,
         .size = 200,
         .maxYield = YIELD_RATE(4, 5, 20, 26),
         .minYield = YIELD_RATE(2, 1, 1, 2),
-        .description1 = COMPOUND_STRING("The Berry is lip-bendingly spicy."),
-        .description2 = COMPOUND_STRING("It takes time to grow."),
+        .description1 = COMPOUND_STRING("{JPN}くちびるが まがるほど からい きのみ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}そだつのに じかんが かかる。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 32, 48, 48, 32, 48),
         .spicy = 20,
         .dry = 10,
@@ -658,14 +658,14 @@ const struct Berry gBerries[] =
 
     [ITEM_CORNN_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Cornn"),
+        .name = _("{JPN_NAME_3}モコシ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_BLUE,
         .size = 75,
         .maxYield = YIELD_RATE(4, 10, 15, 15),
         .minYield = YIELD_RATE(2, 2, 3, 3),
-        .description1 = COMPOUND_STRING("A Berry from an ancient era. May not"),
-        .description2 = COMPOUND_STRING("grow unless planted in quantity."),
+        .description1 = COMPOUND_STRING("{JPN}むかしの じだいの きのみ。たくさん{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}うえないと そだたない ことも ある。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 24, 36, 24, 16, 24),
         .spicy = 0,
         .dry = 20,
@@ -681,14 +681,14 @@ const struct Berry gBerries[] =
 
     [ITEM_MAGOST_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Magost"),
+        .name = _("{JPN_NAME_2}ゴス"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_PINK,
         .size = 140,
         .maxYield = YIELD_RATE(4, 10, 15, 15),
         .minYield = YIELD_RATE(2, 2, 3, 3),
-        .description1 = COMPOUND_STRING("A Berry that is widely said to have"),
-        .description2 = COMPOUND_STRING("a finely balanced flavor."),
+        .description1 = COMPOUND_STRING("{JPN}あじの バランスが とても よいと{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ひろく いわれている きのみ。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 24, 36, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -704,14 +704,14 @@ const struct Berry gBerries[] =
 
     [ITEM_RABUTA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Rabuta"),
+        .name = _("{JPN_NAME_3}ラブタ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_GREEN,
         .size = 226,
         .maxYield = YIELD_RATE(4, 10, 15, 15),
         .minYield = YIELD_RATE(2, 2, 3, 3),
-        .description1 = COMPOUND_STRING("A rare variety that is overgrown with"),
-        .description2 = COMPOUND_STRING("hair. It is quite bitter."),
+        .description1 = COMPOUND_STRING("{JPN}けが びっしり はえた めずらしい しゅ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}かなり にがい。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 24, 36, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -727,14 +727,14 @@ const struct Berry gBerries[] =
 
     [ITEM_NOMEL_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Nomel"),
+        .name = _("{JPN_NAME_3}ノメル"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_YELLOW,
         .size = 285,
         .maxYield = YIELD_RATE(4, 10, 15, 15),
         .minYield = YIELD_RATE(2, 2, 3, 3),
-        .description1 = COMPOUND_STRING("Quite sour. Just one bite makes it"),
-        .description2 = COMPOUND_STRING("impossible to taste for three days."),
+        .description1 = COMPOUND_STRING("{JPN}かなり すっぱい。ひとくち かじると{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}3かかん あじが わからなく なる。{ENG}"),
         .growthDuration = GROWTH_DURATION(24, 24, 36, 24, 16, 24),
         .spicy = 10,
         .dry = 0,
@@ -750,14 +750,14 @@ const struct Berry gBerries[] =
 
     [ITEM_SPELON_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Spelon"),
+        .name = _("{JPN_NAME_3}ノワキ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_RED : BERRY_COLOR_PINK,
         .size = 133,
         .maxYield = YIELD_RATE(2, 15, 15, 15),
         .minYield = YIELD_RATE(1, 2, 3, 3),
-        .description1 = COMPOUND_STRING("The vividly red Berry is very spicy."),
-        .description2 = COMPOUND_STRING("Its warts secrete a spicy substance."),
+        .description1 = COMPOUND_STRING("{JPN}あざやかな あかい きのみは とても からい。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}イボから からい せいぶんが でる。{ENG}"),
         .growthDuration = GROWTH_DURATION(72, 60, 90, 24, 16, 24),
         .spicy = 40,
         .dry = 10,
@@ -773,14 +773,14 @@ const struct Berry gBerries[] =
 
     [ITEM_PAMTRE_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Pamtre"),
+        .name = _("{JPN_NAME_3}シーヤ"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_BLUE,
         .size = 244,
         .maxYield = YIELD_RATE(2, 15, 15, 15),
         .minYield = YIELD_RATE(1, 3, 3, 3),
-        .description1 = COMPOUND_STRING("Drifts on the sea from somewhere."),
-        .description2 = COMPOUND_STRING("It is thought to grow elsewhere."),
+        .description1 = COMPOUND_STRING("{JPN}どこからか うみを ただよってくる。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}よその ちで そだつと かんがえられる。{ENG}"),
         .growthDuration = GROWTH_DURATION(72, 60, 90, 24, 16, 24),
         .spicy = 0,
         .dry = 40,
@@ -796,14 +796,14 @@ const struct Berry gBerries[] =
 
     [ITEM_WATMEL_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Watmel"),
+        .name = _("{JPN_NAME_3}カイス"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PINK : BERRY_COLOR_GREEN,
         .size = 250,
         .maxYield = YIELD_RATE(2, 15, 15, 15),
         .minYield = YIELD_RATE(1, 2, 3, 3),
-        .description1 = COMPOUND_STRING("A huge Berry, with some over 20"),
-        .description2 = COMPOUND_STRING("inches discovered. Exceedingly sweet."),
+        .description1 = COMPOUND_STRING("{JPN}50センチを こえるものも みつかった{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}きょだいな きのみ。とても あまい。{ENG}"),
         .growthDuration = GROWTH_DURATION(72, 60, 90, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -819,14 +819,14 @@ const struct Berry gBerries[] =
 
     [ITEM_DURIN_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Durin"),
+        .name = _("{JPN_NAME_2}ドリ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 280,
         .maxYield = YIELD_RATE(2, 15, 15, 15),
         .minYield = YIELD_RATE(1, 3, 3, 3),
-        .description1 = COMPOUND_STRING("Bitter to even look at. It is so"),
-        .description2 = COMPOUND_STRING("bitter, no one has ever eaten it as is."),
+        .description1 = COMPOUND_STRING("{JPN}みるだけで にがい。あまりに にがくて{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}そのまま たべた ものは だれも いない。{ENG}"),
         .growthDuration = GROWTH_DURATION(72, 60, 90, 24, 16, 24),
         .spicy = 0,
         .dry = 0,
@@ -842,14 +842,14 @@ const struct Berry gBerries[] =
 
     [ITEM_BELUE_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Belue"),
+        .name = _("{JPN_NAME_3}ベリブ"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_BLUE,
         .size = 300,
         .maxYield = YIELD_RATE(2, 15, 15, 15),
         .minYield = YIELD_RATE(1, 2, 3, 3),
-        .description1 = COMPOUND_STRING("It is glossy and looks delicious, but"),
-        .description2 = COMPOUND_STRING("it is awfully sour. Takes time to grow."),
+        .description1 = COMPOUND_STRING("{JPN}つやつやで おいしそうだが ひどく{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}すっぱい。そだつのに じかんが かかる。{ENG}"),
         .growthDuration = GROWTH_DURATION(72, 60, 90, 24, 16, 24),
         .spicy = 10,
         .dry = 0,
@@ -865,14 +865,14 @@ const struct Berry gBerries[] =
 
     [ITEM_CHILAN_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Chilan"),
+        .name = _("{JPN_NAME_2}ホズ"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = BERRY_COLOR_YELLOW,
         .size = 34,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("It can be made into a whistle that"),
-        .description2 = COMPOUND_STRING("produces an indescribable sound."),
+        .description1 = COMPOUND_STRING("{JPN}ふえに すると なんとも いえない{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ふしぎな おとが でる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 25,
@@ -888,14 +888,14 @@ const struct Berry gBerries[] =
 
     [ITEM_OCCA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Occa"),
+        .name = _("{JPN_NAME_3}オッカ"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_RED,
         .size = 90,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Said to grow in the tropics once,"),
-        .description2 = COMPOUND_STRING("it boasts an intensely hot spiciness."),
+        .description1 = COMPOUND_STRING("{JPN}かつては ねったいに はえていたといい{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}はげしい からさを ほこる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 15,
         .dry = 0,
@@ -911,14 +911,14 @@ const struct Berry gBerries[] =
 
     [ITEM_PASSHO_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Passho"),
+        .name = _("{JPN_NAME_3}イトケ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_BLUE,
         .size = 33,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Its flesh is dotted with many tiny"),
-        .description2 = COMPOUND_STRING("bubbles that keep it afloat in water."),
+        .description1 = COMPOUND_STRING("{JPN}みには こまかい あわが たくさん あり{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}みずに うかぶ ことが できる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 15,
@@ -934,14 +934,14 @@ const struct Berry gBerries[] =
 
     [ITEM_WACAN_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Wacan"),
+        .name = _("{JPN_NAME_3}ソクノ"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = BERRY_COLOR_YELLOW,
         .size = 250,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Energy drawn from lightning strikes"),
-        .description2 = COMPOUND_STRING("makes this Berry grow big and rich."),
+        .description1 = COMPOUND_STRING("{JPN}かみなりから えた エネルギーで{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}おおきく ゆたかに そだつ きのみ。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 0,
@@ -957,14 +957,14 @@ const struct Berry gBerries[] =
 
     [ITEM_RINDO_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Rindo"),
+        .name = _("{JPN_NAME_3}リンド"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_GREEN,
         .size = 156,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("This berry has a vegetable-like flavor,"),
-        .description2 = COMPOUND_STRING("but is rich in health-promoting fiber."),
+        .description1 = COMPOUND_STRING("{JPN}やさいのような あじが するが{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}からだに よい せんいが たっぷり。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 10,
         .dry = 0,
@@ -980,14 +980,14 @@ const struct Berry gBerries[] =
 
     [ITEM_YACHE_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Yache"),
+        .name = _("{JPN_NAME_3}ヤチェ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_BLUE,
         .size = 135,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("This Berry has a refreshing dry and"),
-        .description2 = COMPOUND_STRING("sour flavor. Tastes better chilled."),
+        .description1 = COMPOUND_STRING("{JPN}さっぱりした しぶさと すっぱさ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ひやすと もっと おいしく なる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 10,
@@ -1003,14 +1003,14 @@ const struct Berry gBerries[] =
 
     [ITEM_CHOPLE_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Chople"),
+        .name = _("{JPN_NAME_2}ヨプ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_RED,
         .size = 77,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Contains a substance that generates"),
-        .description2 = COMPOUND_STRING("heat. Can even fire up a chilly heart."),
+        .description1 = COMPOUND_STRING("{JPN}ねつを だす せいぶんを ふくむ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ひえた こころも あつく させる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 15,
         .dry = 0,
@@ -1026,14 +1026,14 @@ const struct Berry gBerries[] =
 
     [ITEM_KEBIA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Kebia"),
+        .name = _("{JPN_NAME_3}ビアー"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 90,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Brilliant green on the outside, inside"),
-        .description2 = COMPOUND_STRING("it is packed with black-colored flesh."),
+        .description1 = COMPOUND_STRING("{JPN}そとは あざやかな みどり。なかには{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}くろい みが ぎっしり つまっている。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 15,
@@ -1049,14 +1049,14 @@ const struct Berry gBerries[] =
 
     [ITEM_SHUCA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Shuca"),
+        .name = _("{JPN_NAME_3}シュカ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_YELLOW,
         .size = 42,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("The sweet pulp has just the hint of a"),
-        .description2 = COMPOUND_STRING("a hard-edged and fragrant bite to it."),
+        .description1 = COMPOUND_STRING("{JPN}あまい かじつに ほんのりと{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}かおりの よい ぴりっとした かみごたえ。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 10,
         .dry = 0,
@@ -1072,14 +1072,14 @@ const struct Berry gBerries[] =
 
     [ITEM_COBA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Coba"),
+        .name = _("{JPN_NAME_3}バコウ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_BLUE,
         .size = 278,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("This Berry is said to be a cross of"),
-        .description2 = COMPOUND_STRING("two Berries blown in from far away."),
+        .description1 = COMPOUND_STRING("{JPN}とおくから とんできた 2しゅるいの{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}きのみが まざって できたと いわれる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 10,
@@ -1095,14 +1095,14 @@ const struct Berry gBerries[] =
 
     [ITEM_PAYAPA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Payapa"),
+        .name = _("{JPN_NAME_3}ウタン"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_RED,
         .size = 252,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Said to sense human emotions, it swells"),
-        .description2 = COMPOUND_STRING("roundly when a person approaches."),
+        .description1 = COMPOUND_STRING("{JPN}ひとの きもちを かんじるといい{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ひとが ちかづくと まるく ふくらむ。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 0,
@@ -1118,14 +1118,14 @@ const struct Berry gBerries[] =
 
     [ITEM_TANGA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Tanga"),
+        .name = _("{JPN_NAME_3}タンガ"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = BERRY_COLOR_GREEN,
         .size = 42,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("It grows a flower at the tip that lures"),
-        .description2 = COMPOUND_STRING("Bug Pokémon with its stringy petals."),
+        .description1 = COMPOUND_STRING("{JPN}さきに さかせた はなの ほそい はなびらで{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}むしポケモンを おびきよせる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 20,
         .dry = 0,
@@ -1141,14 +1141,14 @@ const struct Berry gBerries[] =
 
     [ITEM_CHARTI_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Charti"),
+        .name = _("{JPN_NAME_3}ヨロギ"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = BERRY_COLOR_YELLOW,
         .size = 28,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Often used for pickles because of its"),
-        .description2 = COMPOUND_STRING("dry flavor. Sometimes eaten raw."),
+        .description1 = COMPOUND_STRING("{JPN}しぶい あじなので よく つけものに{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}される。なまで たべることも ある。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 10,
         .dry = 20,
@@ -1164,14 +1164,14 @@ const struct Berry gBerries[] =
 
     [ITEM_KASIB_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Kasib"),
+        .name = _("{JPN_NAME_3}カシブ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_PINK,
         .size = 144,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Old superstitions say it has an odd"),
-        .description2 = COMPOUND_STRING("power. A popular good-luck charm."),
+        .description1 = COMPOUND_STRING("{JPN}むかしから ふしぎな ちからが あると{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}いわれ えんぎものとして にんき。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 10,
@@ -1187,14 +1187,14 @@ const struct Berry gBerries[] =
 
     [ITEM_HABAN_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Haban"),
+        .name = _("{JPN_NAME_3}ハバン"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_RED,
         .size = 23,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Less bitter if enough of this Berry"),
-        .description2 = COMPOUND_STRING("is boiled down. Makes a good jam."),
+        .description1 = COMPOUND_STRING("{JPN}よく につめると にがみが へる。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}おいしい ジャムに なる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 0,
@@ -1210,14 +1210,14 @@ const struct Berry gBerries[] =
 
     [ITEM_COLBUR_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Colbur"),
+        .name = _("{JPN_NAME_2}ナモ"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_PINK,
         .size = 39,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Tiny hooks on the surface latch onto"),
-        .description2 = COMPOUND_STRING("Pokémon to reach far-off places."),
+        .description1 = COMPOUND_STRING("{JPN}ひょうめんの ちいさな かぎで ポケモンに{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}くっつき とおくへ はこばれる。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 0,
@@ -1233,14 +1233,14 @@ const struct Berry gBerries[] =
 
     [ITEM_BABIRI_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Babiri"),
+        .name = _("{JPN_NAME_3}リリバ"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 265,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("Very tough with a strong flavor. It"),
-        .description2 = COMPOUND_STRING("was used to make medicine in the past."),
+        .description1 = COMPOUND_STRING("{JPN}とても かたく あじが こい。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}むかしは くすりの ざいりょうだった。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 25,
         .dry = 10,
@@ -1256,14 +1256,14 @@ const struct Berry gBerries[] =
 
     [ITEM_ROSELI_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Roseli"),
+        .name = _("{JPN_NAME_3}ロゼル"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PINK : BERRY_COLOR_RED,
         .size = 35,
         .maxYield = YIELD_RATE(5, 5, 20, 10),
         .minYield = YIELD_RATE(2, 1, 3, 2),
-        .description1 = COMPOUND_STRING("In nature, they grow in wide rings"),
-        .description2 = COMPOUND_STRING("for reasons that are still unknown."),
+        .description1 = COMPOUND_STRING("{JPN}しぜんでは おおきな わの かたちに はえる。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}その りゆうは いまも わかっていない。{ENG}"),
         .growthDuration = GROWTH_DURATION(84, 72, 108, 48, 32, 48),
         .spicy = 0,
         .dry = 0,
@@ -1279,14 +1279,14 @@ const struct Berry gBerries[] =
 
     [ITEM_LIECHI_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Liechi"),
+        .name = _("{JPN_NAME_3}チイラ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_RED : BERRY_COLOR_YELLOW,
         .size = 111,
         .maxYield = YIELD_RATE(2, 5, 10, 13),
         .minYield = YIELD_RATE(1, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A mysterious Berry. It is rumored to"),
-        .description2 = COMPOUND_STRING("contain the power of the sea."),
+        .description1 = COMPOUND_STRING("{JPN}なぞの きのみ。うみの ちからを{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}やどしていると うわさされる。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 40,
         .dry = 0,
@@ -1302,14 +1302,14 @@ const struct Berry gBerries[] =
 
     [ITEM_GANLON_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Ganlon"),
+        .name = _("{JPN_NAME_3}リュガ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_BLUE,
         .size = 33,
         .maxYield = YIELD_RATE(2, 5, 10, 13),
         .minYield = YIELD_RATE(1, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A mysterious Berry. It is rumored to"),
-        .description2 = COMPOUND_STRING("contain the power of the land."),
+        .description1 = COMPOUND_STRING("{JPN}なぞの きのみ。だいちの ちからを{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}やどしていると うわさされる。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 0,
         .dry = 40,
@@ -1325,14 +1325,14 @@ const struct Berry gBerries[] =
 
     [ITEM_SALAC_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Salac"),
+        .name = _("{JPN_NAME_3}カムラ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 95,
         .maxYield = YIELD_RATE(2, 5, 10, 13),
         .minYield = YIELD_RATE(1, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A mysterious Berry. It is rumored to"),
-        .description2 = COMPOUND_STRING("contain the power of the sky."),
+        .description1 = COMPOUND_STRING("{JPN}なぞの きのみ。そらの ちからを{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}やどしていると うわさされる。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 0,
         .dry = 0,
@@ -1348,14 +1348,14 @@ const struct Berry gBerries[] =
 
     [ITEM_PETAYA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Petaya"),
+        .name = _("{JPN_NAME_3}ヤタピ"),
         .firmness = BERRY_FIRMNESS_VERY_HARD,
         .color = BERRY_COLOR_PINK,
         .size = 237,
         .maxYield = YIELD_RATE(2, 5, 10, 13),
         .minYield = YIELD_RATE(1, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A mysterious Berry. It is rumored to"),
-        .description2 = COMPOUND_STRING("contain the power of all living things."),
+        .description1 = COMPOUND_STRING("{JPN}なぞの きのみ。すべての いきものの{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ちからを やどしていると うわさされる。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 40,
         .dry = 0,
@@ -1371,14 +1371,14 @@ const struct Berry gBerries[] =
 
     [ITEM_APICOT_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Apicot"),
+        .name = _("{JPN_NAME_2}ズア"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = BERRY_COLOR_BLUE,
         .size = 75,
         .maxYield = YIELD_RATE(2, 5, 10, 13),
         .minYield = YIELD_RATE(1, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A very mystifying Berry. No telling"),
-        .description2 = COMPOUND_STRING("what may happen or how it can be used."),
+        .description1 = COMPOUND_STRING("{JPN}とても ふしぎな きのみ。なにが おこるか{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}どう つかえるのか まったく わからない。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 0,
         .dry = 40,
@@ -1394,14 +1394,14 @@ const struct Berry gBerries[] =
 
     [ITEM_LANSAT_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Lansat"),
+        .name = _("{JPN_NAME_2}サン"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_RED : BERRY_COLOR_PINK,
         .size = 97,
         .maxYield = YIELD_RATE(2, 5, 5, 7),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("Said to be a legendary Berry."),
-        .description2 = COMPOUND_STRING("Holding it supposedly brings joy."),
+        .description1 = COMPOUND_STRING("{JPN}でんせつの きのみと いわれる。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}もっていると しあわせに なるという。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 120, 48, 72),
         .spicy = 10,
         .dry = 10,
@@ -1417,14 +1417,14 @@ const struct Berry gBerries[] =
 
     [ITEM_STARF_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Starf"),
+        .name = _("{JPN_NAME_3}スター"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_GREEN,
         .size = 153,
         .maxYield = YIELD_RATE(2, 5, 5, 7),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("So strong, it was abandoned at the"),
-        .description2 = COMPOUND_STRING("world's edge. Considered a mirage."),
+        .description1 = COMPOUND_STRING("{JPN}あまりに つよいため せかいの はてに{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}すてられた。まぼろしと されている。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 120, 48, 72),
         .spicy = 10,
         .dry = 10,
@@ -1440,14 +1440,14 @@ const struct Berry gBerries[] =
 
     [ITEM_ENIGMA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Enigma"),
+        .name = _("{JPN_NAME_2}ナゾ"),
         .firmness = BERRY_FIRMNESS_HARD,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_PURPLE : BERRY_COLOR_YELLOW,
         .size = 155,
         .maxYield = YIELD_RATE(2, 5, 5, 13),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("A completely enigmatic Berry."),
-        .description2 = COMPOUND_STRING("Appears to have the power of stars."),
+        .description1 = COMPOUND_STRING("{JPN}まったく なぞに つつまれた きのみ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ほしの ちからを もっているらしい。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 72, 48, 72),
         .spicy = 40,
         .dry = 10,
@@ -1463,14 +1463,14 @@ const struct Berry gBerries[] =
 
     [ITEM_MICLE_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Micle"),
+        .name = _("{JPN_NAME_3}ミクル"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_GREEN,
         .size = 41,
         .maxYield = YIELD_RATE(2, 5, 5, 13),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("It makes other food eaten at the"),
-        .description2 = COMPOUND_STRING("same time taste sweet."),
+        .description1 = COMPOUND_STRING("{JPN}いっしょに たべた ほかの たべものを{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}あまく かんじさせる。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 72, 48, 72),
         .spicy = 0,
         .dry = 40,
@@ -1486,14 +1486,14 @@ const struct Berry gBerries[] =
 
     [ITEM_CUSTAP_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Custap"),
+        .name = _("{JPN_NAME_3}イバン"),
         .firmness = BERRY_FIRMNESS_SUPER_HARD,
         .color = BERRY_COLOR_RED,
         .size = 267,
         .maxYield = YIELD_RATE(2, 5, 5, 13),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("The flesh underneath the Custap"),
-        .description2 = COMPOUND_STRING("Berry's skin is sweet and creamy soft."),
+        .description1 = COMPOUND_STRING("{JPN}イバンのみの かわの したの みは{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}あまくて クリームのように やわらかい。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 72, 48, 72),
         .spicy = 0,
         .dry = 0,
@@ -1509,14 +1509,14 @@ const struct Berry gBerries[] =
 
     [ITEM_JABOCA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Jaboca"),
+        .name = _("{JPN_NAME_3}ジャポ"),
         .firmness = BERRY_FIRMNESS_SOFT,
         .color = BERRY_COLOR_YELLOW,
         .size = 33,
         .maxYield = YIELD_RATE(2, 5, 5, 13),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("The drupelets that make up this berry"),
-        .description2 = COMPOUND_STRING("pop rythmically if handled roughly."),
+        .description1 = COMPOUND_STRING("{JPN}この きのみを つくる ちいさな つぶは{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}らんぼうに あつかうと リズムよく はじける。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 72, 48, 72),
         .spicy = 0,
         .dry = 0,
@@ -1532,14 +1532,14 @@ const struct Berry gBerries[] =
 
     [ITEM_ROWAP_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Rowap"),
+        .name = _("{JPN_NAME_3}レンブ"),
         .firmness = BERRY_FIRMNESS_VERY_SOFT,
         .color = BERRY_COLOR_BLUE,
         .size = 52,
         .maxYield = YIELD_RATE(2, 5, 5, 13),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("People once worked top-shaped pieces"),
-        .description2 = COMPOUND_STRING("of this berry free to use as toys."),
+        .description1 = COMPOUND_STRING("{JPN}むかしの ひとは この きのみを こまの{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}かたちに けずって おもちゃに した。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 72, 48, 72),
         .spicy = 10,
         .dry = 0,
@@ -1555,14 +1555,14 @@ const struct Berry gBerries[] =
 
     [ITEM_KEE_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Kee"),
+        .name = _("{JPN_NAME_3}アッキ"),
         .firmness = BERRY_FIRMNESS_UNKNOWN,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_YELLOW : BERRY_COLOR_PINK,
         .size = 0,
         .maxYield = YIELD_RATE(2, 5, 10, 13),
         .minYield = YIELD_RATE(1, 1, 1, 2),
-        .description1 = COMPOUND_STRING("A berry that is incredibly spicy at"),
-        .description2 = COMPOUND_STRING("first, then extremely bitter."),
+        .description1 = COMPOUND_STRING("{JPN}さいしょは ものすごく からく{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}そのあと とても にがく なる きのみ。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 30,
         .dry = 30,
@@ -1578,14 +1578,14 @@ const struct Berry gBerries[] =
 
     [ITEM_MARANGA_BERRY - FIRST_BERRY_INDEX] =
     {
-        .name = _("Marnga"), // "Maranga" is too long
+        .name = _("{JPN_NAME_3}タラプ"), // "Maranga" is too long
         .firmness = BERRY_FIRMNESS_UNKNOWN,
         .color = OW_BERRY_COLORS == GEN_6_XY ? BERRY_COLOR_BLUE : BERRY_COLOR_YELLOW,
         .size = 0,
         .maxYield = YIELD_RATE(2, 5, 10, 13),
         .minYield = YIELD_RATE(1, 1, 1, 2),
-        .description1 = COMPOUND_STRING("Its outside is very bitter, but its"),
-        .description2 = COMPOUND_STRING("inside tastes like a sweet drink."),
+        .description1 = COMPOUND_STRING("{JPN}そとがわは とても にがいが{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}なかは あまい ジュースのような あじ。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 96, 48, 72),
         .spicy = 10,
         .dry = 10,
@@ -1601,14 +1601,14 @@ const struct Berry gBerries[] =
 
     [ITEM_ENIGMA_BERRY_E_READER - FIRST_BERRY_INDEX] =
     {
-        .name = _("Enigma"),
+        .name = _("{JPN_NAME_2}ナゾ"),
         .firmness = BERRY_FIRMNESS_UNKNOWN,
         .color = BERRY_COLOR_PURPLE,
         .size = 0,
         .maxYield = YIELD_RATE(2, 5, 5, 13),
         .minYield = YIELD_RATE(1, 1, 1, 1),
-        .description1 = COMPOUND_STRING("A completely enigmatic Berry."),
-        .description2 = COMPOUND_STRING("Appears to have the power of stars."),
+        .description1 = COMPOUND_STRING("{JPN}まったく なぞに つつまれた きのみ。{ENG}"),
+        .description2 = COMPOUND_STRING("{JPN}ほしの ちからを もっているらしい。{ENG}"),
         .growthDuration = GROWTH_DURATION(96, 96, 144, 72, 48, 72),
         .spicy = 40,
         .dry = 40,

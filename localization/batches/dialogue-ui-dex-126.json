@@ -1,0 +1,1554 @@
+[
+ {
+  "id": "87d1803569e2903d",
+  "translation": "{JPN}しょうりを もたらす ポケモン。\\nビクティニを つれた トレーナーは\\nどんな しょうぶでも かならず\\nかつと いわれている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f58bb3ec403768d",
+  "translation": "{JPN}ちのうが たかく とても れいせい。\\nにっこうを たっぷり あびると\\nうごきが すばやくなる。 ぐあいが\\nわるいと しっぽが たれさがる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3825eb003fe8135a",
+  "translation": "{JPN}よごれると はっぱで こうごうせいが\\nできないので いつも きれいにする。\\nしげった はっぱの かげに\\nもぐりこんで こうげきを かわす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dc3f6877b81e90db",
+  "translation": "{JPN}あたまを もたげて てきを いかく。\\nけだかい めの にらみに ひるまない\\nつよい あいてと たたかうときだけ\\nほんきを だす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "486973cff02bedc7",
+  "translation": "{JPN}やいた きのみが だいこうぶつだが\\nこうふんして まっくろこげに\\nしてしまう ことも ある。\\nはなから ほのおを ふきだす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5e016ce48f021170",
+  "translation": "{JPN}たべれば たべるほど いの なかの\\nほのおを つよくする ねんりょうが\\nふえる。 おこると ほのおの\\nいきおいが ますのだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1922b93bcd212e7",
+  "translation": "{JPN}さまざまな わざを つかいこなす。\\nアゴの ほのおで こぶしを もやし\\nほのおの パンチを くりだす。\\nとても なかまおもいの ポケモン。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "347546a81f47c58e",
+  "translation": "{JPN}じゃほうの かたちに\\nもえさかる ほのおを ふりかざし\\nききに おちいった なかまを\\nたすけに かけつける。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e66120d52e0b071a",
+  "translation": "{JPN}おなかの ホタチは たたかいだけで\\nなく かたい きのみを わるのにも\\nつかう。 ツメと おなじ そざいで\\nできている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f96126e675ee3b69",
+  "translation": "{JPN}きびしい しゅぎょうで ながれるような\\n2まいの ホタチの わざを みにつける。\\nホタチの わざは フタチマル\\nひとりひとり ことなる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c3470a4ee969862",
+  "translation": "{JPN}よろいに しこまれた つるぎの\\nひとふりで あいてを たおす。\\nひとにらみ するだけで たいていの\\nてきは おじけづいてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8166cf6d41b57c86",
+  "translation": "{JPN}ひじょうな こころと するどい\\nけんさばきを もつ。 ヒスイちほうで\\nしんかした ダイケンキの\\nめずらしい すがた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c08990b3394c3b85",
+  "translation": "{JPN}とても ようじんぶかく こうたいで\\nすを みはりつづける。 ほほの\\nふくろに ためた エサで なんにちも\\nみはりを つづけられる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ffc7213d6500438",
+  "translation": "{JPN}はっこうぶっしつで めと からだを\\nひからせ おそってきた あいてを\\nひるませる。 めが よく くらやみでも\\nものが みえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bac2438bb423dfb3",
+  "translation": "{JPN}つよい あいてにも ゆうかんに\\nたちむかう。 むだぼえ しないので\\nアパートぐらしの トレーナーに\\nとても にんきが ある。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "feee5d0d9e1dd97b",
+  "translation": "{JPN}くろい たいもうが のびつづける。\\nかたい けの ていれに おかねが\\nかかるので そだてるのが\\nたいへんな ポケモンだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef35c0a4cfedb20a",
+  "translation": "{JPN}かしこく やさしく ゆうかん。\\nひとを おそう しんぱいは まったく\\nない。 こもりを まかせる\\nおやも いるほどだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2808bd0ceb2287eb",
+  "translation": "{JPN}かわいい しぐさは じつは\\nあいてを だます ための えんぎ。\\nあそびで ものを ぬすむが ひがいしゃも\\nつい ゆるしてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a09dc455b84a0b5",
+  "translation": "{JPN}うつくしい スタイルと けなみに\\nおおくの トレーナーが ひかれる。\\nしんしゅつきぼつで よるの なかを\\nおとも なく はしる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b301d7208f7ce4db",
+  "translation": "{JPN}ふかい もりで くらす ポケモン。\\nきのみを みつけるのが うまく\\nあちこちから あつめてくる。\\nやさしく なかまにも わけあたえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3378ab2f84650003",
+  "translation": "{JPN}きしょうが はげしく トゲの ついた\\nしっぽを ふりまわして たたかう。\\nあたまに はえた はっぱは\\nとても にがい。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "461aaa69bd7b0a3c",
+  "translation": "{JPN}あたまの ふさの ほのおは 300ど\\nいじょうに なる。 とても かしこく\\nきのみを やいてから たべる。\\nひとの てだすけを するのが すき。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b13a3a16b6d4f72c",
+  "translation": "{JPN}あまいものが だいすき。 たいないで\\nもえる ほのおの エネルギーに\\nなるのだ。 あたまと しっぽから\\nひのこを まいて あいてを やく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "721e65a28063032f",
+  "translation": "{JPN}あたまの ふさに ためた みずは\\nえいようが たっぷり。 しっぽで\\nしょくぶつに みずを やると\\nおおきく そだつのだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "30dfbfbddce8ddfe",
+  "translation": "{JPN}しっぽから はなつ こうあつの\\nみずは コンクリートの かべも\\nうちやぶる。 きれいな みずが\\nある ばしょを このむ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb4b4cfcf74f5a65",
+  "translation": "{JPN}あくむを みている ひとや ポケモンの\\nまえに あらわれて その ゆめを\\nたべる。 ムンナは いつも\\nくうちゅうに うかんでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f77fa36ff4dfc2a",
+  "translation": "{JPN}おでこから でる けむりには ひとや\\nポケモンの ゆめが つまっている。\\nたべた ゆめに よって けむりの\\nいろが かわるのだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6c5e546737799a5b",
+  "translation": "{JPN}とても わすれっぽく めいれいを\\nうけていても トレーナーの つぎの\\nめいれいを まってしまう。 こうえんや\\nひろばに よく むれている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bda7d15ae0e8fcd1",
+  "translation": "{JPN}せかいの どこへ いっても じぶんの\\nすの ばしょが わかるので どんなに\\nはなれても かならず トレーナーの\\nもとへ もどってこられる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41b0885050d3d1b4",
+  "translation": "{JPN}オスの あたまには かざりばねが\\nある。 メスの ひこうのうりょくは\\nオスを うわまわる。 トレーナーにしか\\nこころを ひらかない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20594b14acd03398",
+  "translation": "{JPN}ほうでんすると たてがみが ひかる。\\nひかりの はやさや リズムで\\nなかまどうし コミュニケーションを\\nとっている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ef29833b0ddf49b0",
+  "translation": "{JPN}ゼブライカが ぜんそくりょくで\\nはしると らいめいが ひびきわたる。\\nおこると たてがみから しほうへ\\nカミナリを はなつので きけん。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca9db1ec02e206d8",
+  "translation": "{JPN}6かっけいの くぼみは みみ。\\nきこえた おとの ほうへ あるくが\\nおとが やむと あわてて\\nころんでしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e5ae3f2c6bd8593c",
+  "translation": "{JPN}オレンジの けっしょうは エネルギーの\\nかたまり。 ひとかけらで ダンプカー\\n100だいぶんの ねんりょうになる。\\nげんきなときは コアが とびだす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd4492699b4a2b73",
+  "translation": "{JPN}たいようの ひかりから つくる\\nエネルギーだんの いりょくは\\nすさまじい。 だが よるや あめの\\nひは うちだす ことが できない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "da9ea1b8cdc59153",
+  "translation": "{JPN}くらい もりや ほらあなで くらす。\\nはなの きゅうばんで ねむるときは\\nどうくつの かべに はりつく。\\nハートがたの あとを のこす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aee6d52c3d43cd2c",
+  "translation": "{JPN}きゅうあいちゅうの オスが だす\\nちょうおんぱに ふれた ものは\\nだれでも きぶんが よくなる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8558882a1bbbee11",
+  "translation": "{JPN}からだを かいてんさせて じそく\\n50キロで ちちゅうを ほりすすむ。\\nちじょうを はしる じどうしゃとも\\nいい しょうぶが できる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7366181467a7c2bb",
+  "translation": "{JPN}ちか 100メートルより ふかくに\\nめいろのような すを つくる。\\nちかてつの トンネルを こわすことも\\nあるが こうじの やくにも たつ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4f767b5498af8e2",
+  "translation": "{JPN}あたまと りょううでを あわせて\\nりゅうせんけいに なり こうそくで\\nかいてんすれば どんなものでも\\nこわしてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c7667e41ed31b30a",
+  "translation": "{JPN}ちょうかくが ずばぬけて いる。\\nみみの しょっかくで あいての\\nきもちや タマゴが いつ かえるかを\\nききわけられる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f50230f0bbf33c6",
+  "translation": "{JPN}メガタブンネは からだから あいての\\nてきいを やわらげる はどうを だす。\\nだいにの しょっかくに ふれた ものは\\nふかい ねむりに おちる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e866dcbfcef79e7",
+  "translation": "{JPN}こうじげんばに あらわれて\\nけんせつを てつだう。 いつも\\nかくざいを もちあるき せいちょう\\nすると より おおきな ものを もつ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ae83fde99386659a",
+  "translation": "{JPN}てっこつを はこんで からだを きたえる。\\nきんにくが すさまじく がっしりした\\nからだは プロレスラーが たばに\\nなっても びくとも しない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f652330a08c93759",
+  "translation": "{JPN}コンクリートの はしらを つえに する。\\nちからだけに たよらず かいてんする\\nコンクリートの えんしんりょくを\\nいかした わざを きわめる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "767a511624b14f28",
+  "translation": "{JPN}ほほを しんどうさせ ひとには\\nきこえない おとを だす。 その\\nリズムで かいわしたり なかまに\\nきけんを しらせたりする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a2b038112cc27bc",
+  "translation": "{JPN}みずの なかと りくで くらす。\\nあたまの コブを しんどうさせると\\nすいちゅうに なみを たてたり りくで\\nじしんのように ゆらしたりする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdc5871f39cf288a",
+  "translation": "{JPN}こぶしの コブを しんどうさせて\\nパンチの いりょくを あげる。\\nあたまの コブから マヒさせる\\nえきたいを とばすことも できる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12cee057ed589312",
+  "translation": "{JPN}おびを しめると つよくなる。\\nやせいの ナゲキは つるくさを あんで\\nおびを つくる。 つよくなるにつれて\\nおびを とりかえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fce66f60a495a77a",
+  "translation": "{JPN}ダゲキが しゅぎょうする やまから\\nおおいわや たいぼくを なぐる おとが\\nきこえてくる。 しゅぎょうを\\nじゃまされると おこりだす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "262b455213cc7583",
+  "translation": "{JPN}はっぱを かみくだき くちから だす\\nねばつく いとで ぬいあわせる。\\nじぶんで ふくを つくるので ファッション\\nデザイナーの マスコットに なっている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ccdf12cabbba9280",
+  "translation": "{JPN}クルマユの すむ もりは くさきが\\nよく しげる。 おちばから つくる\\nえいようが しょくぶつを\\nそだてるのだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a7f37c2a6ad3ccd",
+  "translation": "{JPN}はっぱの はっこうねつで タマゴを\\nあたためる。 くちから だす いとで\\nはっぱを あみ クルミルの ために\\nあたたかい くるみを つくる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6641ffa0c8323576",
+  "translation": "{JPN}あたまと しっぽの しょっかくで\\nくうきの しんどうを とらえ えものの\\nいばしょや ようすを さぐる。\\nとても こうげきてきな せいかく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41cdf73a3f4fe1d9",
+  "translation": "{JPN}しんかに そなえ じっと エネルギーを\\nためている。 だが おそわれると\\nタイヤのように こうそくかいてんし\\nあいてに はげしく たいあたりする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bd4e31ef7f85c0ae",
+  "translation": "{JPN}すばやい うごきで てきを おいつめ\\nかつまで ツノで ようしゃなく\\nこうげきする。 さいごは もうどくで\\nとどめを さす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8894918e2abc7a2f",
+  "translation": "{JPN}もうどくは にぶい ひかりを はなつ。\\nその どくは ペンドラーの せいしんに\\nさようし きょうぼうさに みがきを\\nかけている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f8f6f8edf0b45d4",
+  "translation": "{JPN}なかまを みつけると くっつきあう。\\nたくさん あつまると その かたまりは\\nにゅうどうぐものように なる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "39f27f2d35a0d2b4",
+  "translation": "{JPN}かぜに のって ひとの いえに\\nしのびこむ。 へやを わただらけに\\nすると くすくす わらいながら\\nさっていく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "818c445bd982fe8a",
+  "translation": "{JPN}あたまの はっぱを ていきてきに\\nかりこむと まるまると りっぱに\\nそだつ。 にがい はっぱを たべると\\nげんきに なれる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "25329be19855c49e",
+  "translation": "{JPN}ベテラントレーナーでも うつくしい\\nはなを さかせるのは むずかしい。\\nトレーナーが きちんと せわを\\nしないと かれてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f6c185b9b17b9e1",
+  "translation": "{JPN}ゆきの ふかい やまで くらすうちに\\nあしが はったつした。 はなの\\nかんむりから だす かおりは\\nまわりの ものを はげます。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d831ba7f245f205c",
+  "translation": "{JPN}かつては よく たべられていた。\\nあかい バスラオの にくは あぶらが\\nのっていて わかものに にんきだ。\\nせいかくは とても きょうぼう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "119a0a3c6b3902ab",
+  "translation": "{JPN}おなじ いろの なかまと むれる。\\nあおい バスラオの むれの さいだいの\\nてきは あかい バスラオの むれ。\\nあじは あっさりして くせがない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0c5ea4b448f11c71",
+  "translation": "{JPN}この こだいの すがたの バスラオは\\nほかの すがたと にた とくちょうが\\nおおいが きしょうが ずっと\\nおだやかな ところが ちがう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c9bcdbfbef2c715",
+  "translation": "{JPN}かわを のぼりきれずに しんだ\\nなかまの たましいを まとう。\\nヒスイの かわで イダイトウに\\nかなう しゅは ほかに いない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d3117b4286c493a",
+  "translation": "{JPN}なかまの たましいが からだを\\nつつみ はげしい きゅうりゅうも\\nらくらくと のぼっていく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d8ca8c2583e7df90",
+  "translation": "{JPN}すなの なかに かくれて うえを\\nうっかり とおった えものの あしに\\nかみつく。 だいこうぶつは\\nナックラー。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "788136cc33c25cf5",
+  "translation": "{JPN}すうひきで むれを つくって いどう。\\nめを おおう とくしゅな まくの\\nおかげで まよなかでも まわりが\\nはっきり みえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a6e0339a88e8a1df",
+  "translation": "{JPN}とても きょうぼうで えものを\\nけっして にがさない。 アゴの\\nちからは じどうしゃの ボディを\\nかみくだくほど つよい。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "86462f7161c62be7",
+  "translation": "{JPN}たいないの ほのおが もえていると\\nおちつかずに はしりまわる。\\nほのおが ちいさくなると てあしを\\nひっこめて ねむってしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce033494a71813ed",
+  "translation": "{JPN}はげしい たたかいで きずつくと\\nいしの ぞうに へんしんする。\\nそして めいそうで せいしんを\\nとぎすまし こころで たたかう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c3ad760af70f2806",
+  "translation": "{JPN}きずを おうと うごきを とめる。\\nいしのように じっとして めいそうし\\nこころと せいしんを とぎすます。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "735ca40db39a1ab7",
+  "translation": "{JPN}さむければ さむいほど げんきになる。\\nいきを こおらせて ゆきだまを つくり\\nゆきがっせんの たまにして\\nあそぶのだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96cc680bd7b0194c",
+  "translation": "{JPN}ふぶきの ひには ひとざとまで\\nおりてくる。 あたまの ゆきだまに\\nエサを しまって あとで たべるため\\nもちかえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51f90489654eac84",
+  "translation": "{JPN}ヒヒダルマが いかったときの すがた。\\nからだが とけだしても いかりが\\nおさまるまで ほのおを\\nふきつづける。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8c42a00b81754a3",
+  "translation": "{JPN}かんそうした ちいきで くらす。\\nリズミカルに うごくと マラカスのような\\nおとが なり おどろいた ポケモンは\\nにげだしてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "786a616bac7812c1",
+  "translation": "{JPN}ちょうど いい おおきさの いしに\\nあなを あける。 その いしが\\nわれると かわりを みつけるまで\\nおちつかない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "16157649cd4d6562",
+  "translation": "{JPN}なわばりを めぐって イワパレス\\nどうしが はげしく たたかう。\\nいわを こわされた ほうが まけで\\nしだいに よわっていく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "06c05257585d9dd6",
+  "translation": "{JPN}ひふは ゴムのような だんりょくが\\nあり くびまで ひきあげて みを\\nまもり ダメージを へらす。\\nずがいこつは とても ぶあつい。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b121431ab6364e1",
+  "translation": "{JPN}なわばりに はいってきた ものを\\nしゅうだんで たたきのめす。\\nいちばん おおきな トサカの ものが\\nリーダーで もっとも そんけいされる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "20ac7dc9f27a2cf9",
+  "translation": "{JPN}メガシンカの えいきょうで ぬけがらが\\nしろく かたく しなやかに なった。\\nもちろん きあいは いつもどおり\\nじゅうぶんだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e455e361042bd43",
+  "translation": "{JPN}こだいとしの まもりがみ。 いつも\\nおなじ ルートを とびながら\\nしんにゅうしゃを みはる。 サイコ\\nパワーで てきを こうげきする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0956232b62c30edc",
+  "translation": "{JPN}むかし はかに ほうむられた ひとの\\nたましいから うまれた ポケモン。\\nそれぞれ にんげんだった ときの\\nかおの マスクを もっている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca8fabd6dda95a4c",
+  "translation": "{JPN}ほんものの ひつぎと まちがえて\\nちかづいた はかあらしは からだの\\nなかに とじこめられてしまう。\\nからだは じゅんきんで おおわれている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0b23fc61f356e5cd",
+  "translation": "{JPN}のろいが きざまれた ねんどばんが\\nデスマスに とりついた。 ねんどばんは\\nデスマスの やみの ちからを\\nすいとっていると いわれる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f9d9330c2496a086",
+  "translation": "{JPN}こだいの えに つよい のろいが\\nこめられていた。 デスマスの\\nたましいを とりこんだ あと\\nその えは うごきだした。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e25e13871857ab97",
+  "translation": "{JPN}おおくの カメポケモンの そせんと\\nいわれ やく 1おくねんまえの\\nあたたかい うみに すんでいた。\\nカセキから ふっかつした。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "eb3824b6f11ac1ce",
+  "translation": "{JPN}うみでも りくでも くらせる。\\nすさまじい アゴの ちからで えものと\\nいっしょに てっこつや いわまで\\nかみくだいてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46b1b7599a1b5df1",
+  "translation": "{JPN}すべての とりポケモンの そせんと\\nいわれる。 アーケンじしんは とべず\\nきの こずえから こずえへ\\nとびうつって いどうしていた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8a70c97735c3305",
+  "translation": "{JPN}ちのうが たかく きょうりょくして\\nえものを しとめる。 1ぴきの\\nアーケオスが えものを おいつめると\\nべつの 1ぴきが おそいかかる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2c7a0f1be6da7ca",
+  "translation": "{JPN}おなかが いっぱいに なるまで ゴミを\\nたべて どくガスの ゲップを はく。\\nうっかり かいでしまうと\\nにゅういん する はめに なる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "91bbb982fe966000",
+  "translation": "{JPN}みぎうでから とばす どくえきに\\nちゅうい。 すこしでも かかると\\nしょうたいふめいの どくの こうかを\\nもろに うけてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4ed3af7b49fce042",
+  "translation": "{JPN}くちと ゆびから どくガスを ふきだす。\\nガスに つつまれると どくが\\nほねの ずいまで\\nしみこんでしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9eecf699c5409f80",
+  "translation": "{JPN}きけんから みを まもるため ひとや\\nポケモンに ばけて しょうたいを\\nかくす。 むくちな こどもに ばけて\\nいる ことが おおいらしい。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "41c7add7b770ff1a",
+  "translation": "{JPN}なかまどうしの きずなが とても\\nかたい。 あいてを ばかして むれの\\nあんぜんを まもる。 まぼろしの\\nけしきで すみかを まもる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a5db5a25d3d76c0f",
+  "translation": "{JPN}うらみを ちからに する。 その\\nちからは あたまの うえに たちのぼり\\nてきの すがたに なる。 こうして\\nゾロアは おんねんを はらす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5505052f4cd468a0",
+  "translation": "{JPN}みの きけんも かえりみず\\nじぶんの からだを きりさくほど\\nはげしい おんねんの ちからで\\nゾロアークは かたきを おそう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d0a573d29840571d",
+  "translation": "{JPN}きれいな すみかを このむ。\\nしっぽで おたがいの からだを\\nなでて あいさつ。 しっぽは いつも\\nきれいに ていれ されている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4e68821365a7e307",
+  "translation": "{JPN}しろい たいもうは さわりごこちが\\nばつぐん。 からだは とくべつな\\nあぶらで おおわれ ほこりを はじき\\nパンチなどの こうげきを うけながす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "140f5ff3a971b15a",
+  "translation": "{JPN}トレーナーや ポケモンを じっと\\nみつめる。 じぶんにしか みえない\\nなにかを みているらしい。 リボンの\\nような しょっかくで ちからを ます。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "60cbde416e6acf19",
+  "translation": "{JPN}ほしの ひかりが ちからの みなもと。\\nさいみんじゅつで ひとや ポケモンを\\nあやつる。 ゴチミルに まどわされる\\nはなしは かくちに つたわる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1ceb6f49c502e088",
+  "translation": "{JPN}つよい サイコパワーで ゆがんだ\\nくうかんに すうせんこうねん さきの\\nほしぞらが うつる。 トレーナーの\\nじゅみょうを しると かなしんで なく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9adff9a022fb2c79",
+  "translation": "{JPN}からだが とくしゅな えきたいに\\nつつまれているので どんなに\\nきびしい かんきょうでも へいき。\\nテレパシーで ほかと かいわする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "05a0e737736372a5",
+  "translation": "{JPN}2つに わかれた のうみそが\\nおなじことを かんがえるとき\\nサイコパワーを さいだいげんに\\nはっきする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "15941f35ecc21f9d",
+  "translation": "{JPN}とくしゅな えきたいで できた うでを\\nサイコパワーで あやつる。\\nランクルス どうしが あくしゅすると\\nのうみそが ネットワークで つながる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b7c89b9c108c942e",
+  "translation": "{JPN}せんすいが とくいな とりポケモン。\\nとぶより およぐ ほうが うまく\\nもぐりながら こうぶつの\\nみずゴケを うれしそうに たべる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0a273e6089f4d1e9",
+  "translation": "{JPN}ゆうがな みためだが つばさを\\nちからづよく はばたかせて\\nなんぜんキロも とぶ。 まんなかに\\nいるのが むれの リーダー。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5d960fb34d7bc674",
+  "translation": "{JPN}いきの おんどは マイナス50ど。\\nゆきの けっしょうを つくって まわりに\\nゆきを ふらせる。 あたたかい ちほうの\\nかていでは だいじに される。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d71eb928c48af93e",
+  "translation": "{JPN}バニリッチは ひょうがきから いる。\\nこおりの つぶを あやつり あいてを\\nこおらせてから ずつきで\\nこなごなに くだく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8acdbbb1993173ac",
+  "translation": "{JPN}2つの あたまに それぞれ のうが あり\\nいけんが あうと はげしい ふぶきを\\nはいて てきを こうげきする。\\nたいないで ゆきぐもを つくる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "29e7e6c887e82ee6",
+  "translation": "{JPN}シキジカは きせつによって\\nにおいが ちがう。 はるの はじめは\\nほのかに あまく こころが\\nおちつく かおりを はなつ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "949eefbae29e0893",
+  "translation": "{JPN}シキジカが はたけに はいらないよう\\nてんてきの ルガルガンを なんびきか\\nみはりに たてる のうかが おおい。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c37c55fbdbce19a7",
+  "translation": "{JPN}シキジカは きせつによって\\nにおいが ちがう。 この すがたの\\nシキジカは はなに のこる\\nやさしく あまい かおりが する。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1d4535ab620db7bd",
+  "translation": "{JPN}シキジカの においは きせつで\\nかわるが ふゆの すがたの ときは\\nほとんど においが しない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1156d28f58447eb",
+  "translation": "{JPN}ツノに はえる しょくぶつが きせつで\\nかわるので メブキジカを はるを\\nつげる ものと よぶ ひとも いる。\\nリーダーは りっぱな ツノを もつ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "882a04d62f6d9732",
+  "translation": "{JPN}ツノの えだや はっぱが ふとく\\nおおきいほど その メブキジカは\\nりっぱだと かんがえられている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a4eafb255c1850b",
+  "translation": "{JPN}あきの すがたの メブキジカは\\nとても おこりっぽい ことで\\nしられる。 オスどうしで たえず\\nあらそっている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6ac226b88af09a9d",
+  "translation": "{JPN}メブキジカ という しゅの ファンは\\nおおいが この きせつの すがたは\\nとくに にんきが ない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "470fb055eb6939de",
+  "translation": "{JPN}マントのような まくで かっくうする。\\nほほの ふくろから だす でんげきで\\nきのみや むしポケモンを やいて\\nごはんに する。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "453f8f4653791f92",
+  "translation": "{JPN}きけんを かんじると さんせいの\\nえきを はいて あいてを おいはらう。\\nなぜか チョボマキと おなじ ばしょに\\nいると しんかする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a4b217052739e4ca",
+  "translation": "{JPN}チョボマキから うばった からを\\nみに まとい 2ほんの やりで みを\\nまもり こうげきする。 はがねの\\nよろいが ぜんしんを まもる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7fbe2cf8c0cb9fa9",
+  "translation": "{JPN}モンスターボールに そっくりな\\nもようで ポケモンを さそいこみ\\nどくほうしを ふきかける。 なぜ\\nにているのかは わかっていない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b9760a23e353a707",
+  "translation": "{JPN}モンスターボールに にた うでの カサを\\nゆらゆら ふる ダンスで えものを\\nさそうが だまされる ポケモンは\\nほとんど いない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "69f270ddf05a7327",
+  "translation": "{JPN}ベールのような うでで あいてを\\nしびれさせ まきつけると すいしん\\n8キロの すみかへ ひきずりこみ\\nにどと かえさない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9c0dfa48218ac2da",
+  "translation": "{JPN}すいこんだ かいすいを からだから\\nふきだして すすむ。 うみの そこには\\nブルンゲルが しずめた ふねで できた\\nしろが あると いわれている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e3a2315a46a3150c",
+  "translation": "{JPN}きずついた ポケモンを みつけると\\nだきかかえて きしべへ はこぶ。\\nママンボウを つつむ とくしゅな\\nまくには きずを なおす ちからが ある。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb59a2b2121a0a36",
+  "translation": "{JPN}じぶんで でんきを つくれないので\\nおおきな ポケモンに くっついて\\nせいでんきを すいとり\\nふくろに ためておく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cd2af89a242a5dbd",
+  "translation": "{JPN}でんきを おびた いとで てきを\\nしびれさせる バリアを つくる。\\nぶきにも ぼうぐにも なる。 てきが\\nしびれている あいだに ゆっくり たべる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "183a7ef1d0dd9c56",
+  "translation": "{JPN}どうくつの てんじょうに はりつき\\nいわの なかの てつぶんを すいとる。\\nきけんを かんじると トゲを\\nいっせいに はっしゃして こうげき。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf05d6ccbccc3173",
+  "translation": "{JPN}3ぼんの トゲつき しょくしゅを\\nふりまわし トゲを とばして たたかう。\\nはがねの トゲが あたると おおいわも\\nこなごなに くだける。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b510f4df44e12c4",
+  "translation": "{JPN}2つの からだは くみあわせが\\nきまっている。 かみあう こギアの\\nペアは さだまっていて ほかの\\nこギアとは かみあわずに はじかれる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cdcbd7378057f567",
+  "translation": "{JPN}こギアと おおギアで からだが\\nできている。 こギアを こうそくで\\nかいてんさせ なんども うちだす。\\nギアが もどらないと きけんだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fb34ea4d7500e86",
+  "translation": "{JPN}あかい コアは エネルギータンクの\\nやくわり。 こうそくかいてんして\\nすばやく チャージした エネルギーを\\nトゲから まわりに うちだす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9277c2b71d47cede",
+  "translation": "{JPN}むれで いどうする ポケモン。\\n1ぴきでは よわい でんきしか\\nだせないので むれで あつまって\\nつよい でんげきを はなつ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "61e67c641db9907e",
+  "translation": "{JPN}とても おおぐらいな ポケモン。\\nえものに まきついて よこの まるい\\nもようから でる でんきで しびれさせ\\nそれから かぶりつく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57fa574f8f8877df",
+  "translation": "{JPN}うでを つかって うみから はいあがる。\\nきしべの えものを おそい すいつく\\nくちで すぐさま うみへ\\nひきずりこむ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12d86009267c1ae0",
+  "translation": "{JPN}メガシンカまえの 10ばいの でんきを\\nつくりだす。 ねんえきで できた\\nにせの シビビールから その\\nエネルギーを ほうでんする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1330ec0bde9a1de1",
+  "translation": "{JPN}サイコパワーで あいての のうみそを\\nしめつけ たえがたい ずつうを\\nおこさせる。 50ねんまえに さばくに\\nおちた UFOとの かんけいが うわさに。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf510246ed806394",
+  "translation": "{JPN}あいての きおくを そうさする。\\n3ぼんの ゆびを てんめつさせて\\nかいわするらしいが その パターンは\\nまだ かいどく されていない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5bcb107355479ff5",
+  "translation": "{JPN}ヒトモシは あかりを ともして\\nみちあんないの ふりを するが ついてきた\\nものの せいめいりょくを すいとり\\nもやす ねんりょうに しているのだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7e4f02e18f439f24",
+  "translation": "{JPN}ふきつな ポケモンと おそれられる。\\nししゃの たましいを もとめて\\nまちを さまよう。 すいとった\\nたましいが ほのおの ねんりょうに。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4a77f45cf6058a91",
+  "translation": "{JPN}シャンデラの ほのおに やかれると\\nたましいだけが もえつきて\\nぬけがらが のこる。 うでの ほのおを\\nゆらし あいてを さいみんじょうたいに。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d47ab545d5b6127a",
+  "translation": "{JPN}かたほうの めは このよと あのよを\\nつなぐ まど。 にくしみを ひきこみ\\nパワーに かえてしまう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "517a486d9991554d",
+  "translation": "{JPN}キバで きに きずを つけて\\nなわばりの しるしに する。 キバが\\nおれても すぐに まえより かたく\\nじょうぶな キバが はえてくる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "02bec3ac313981a6",
+  "translation": "{JPN}キバは いわを くだくほど。\\nおれた キバは はえかわらないので\\nたたかいの あとは かわらの いしで\\nキバを たんねんに とぐ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0249b52c7ff20e02",
+  "translation": "{JPN}やさしい せいかくだが なわばりを\\nまもるときは ようしゃしない。\\nてっこつを きっても がんじょうな\\nキバは するどい ままだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6b74d15624ec227",
+  "translation": "{JPN}いつも はなみずを たらしている。\\nはなみずは けんこうの バロメーター。\\nげんきなときは ねばりけが あり\\nこおりわざの いりょくが あがる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "12edb2388e689509",
+  "translation": "{JPN}いきを こおらせて こおりの キバや\\nツメを つくって たたかう。\\nおよぎが とくいで きたの うみを\\nおよぎまわって えものを とらえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4aa2bcbc4b9d96c5",
+  "translation": "{JPN}ゆきぐもの なかで うまれる。\\nたいおんが あがると すいじょうきに\\nなって きえる。 たいおんが\\nさがると こおりに もどる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e723fc1e877f78c7",
+  "translation": "{JPN}おそわれると からの ふたを とじて\\nみを まもる。 カブルモと いっしょに\\nでんきのような エネルギーを あびると\\nしんかする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cb32bf60993003d7",
+  "translation": "{JPN}からだが かわくと よわってしまう。\\nそこで うすい まくを なんじゅうにも\\nまいて かんそうを ふせぐ。 とても\\nかるく にんじゃのように たたかう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6068ddef177fefca",
+  "translation": "{JPN}かいがんの どろに かくれて じっと\\nまちぶせる。 えものが ふれると\\nでんきを くらわせる。 でんきを\\nながすときは わらいがおに なる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fa5c22550f0ea014",
+  "translation": "{JPN}どろの なかで まちぶせ めだつ\\nくちびるで えものを さそう。\\nえものが ちかづくと ギザギザの\\nはがねの ヒレで はさみこむ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "46d55acde55984b9",
+  "translation": "{JPN}ゆうがな れんぞくわざを みにつけた。\\nしゅうちゅうするほど わざは すばやく\\nせいかくに なる。 ちからの なさは\\nてかずで おぎなう。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f1db0c790d25f087",
+  "translation": "{JPN}うでの ながい たいもうを ムチの\\nように つかって あいてを うつ。\\nりょううでの こうげきは はやすぎて\\nめにも とまらない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "14cbfa9aca307fd0",
+  "translation": "{JPN}つばさで にっこうを うけて\\nからだを あたためる。 たいおんが\\nさがると うごけなくなる。\\nするどい ツメで えものを とらえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a59131ecce0904f",
+  "translation": "{JPN}なぞの こだいぶんめいの かがくで\\nつくられたと かんがえられている。\\nなんぜんねんも かつどうを\\nつづけている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0377e3d75f189f0",
+  "translation": "{JPN}ゴルーグは ひとや ポケモンを\\nまもるため こだいぶんめいに よって\\nつくられた。 むねの ふういんを はがすと\\nエネルギーが ぼうそうする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "922d5a19bb070b9c",
+  "translation": "{JPN}ゴルーグの たいないの エネルギーが\\nメガシンカで かっせいかしている。\\nいつ ばくはつしても おかしくない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "060cc5bcb77091c7",
+  "translation": "{JPN}きずも きにせず むれで からだを\\nおおう はものを えものに つきたてる。\\nたたかいで はが にぶると\\nかわらの いしで とぐ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "72a709ecb6e7b022",
+  "translation": "{JPN}コマタナの むれを したがえ えものを\\nうごけなくなるまで おいつめる\\nれいこくな ポケモン。 ボスの ざを\\nかけて たたかい まけると おいだされる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8207704d7b169d10",
+  "translation": "{JPN}たたかいでは だいぐんぜいを ひきいるが\\nむずかしい さくせんを たてるのは\\nにがて。 ただ ちからで\\nおしまくるだけ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f8de681512114f80",
+  "translation": "{JPN}はげしい ずつきを くらわせても\\nふさふさの たいもうが ダメージを\\nすいとる。 その ずつきは でんしゃを\\nだっせん させるほどの いりょく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "630e83487ffefb45",
+  "translation": "{JPN}するどい ツメで えものを つきさし\\nくちばしで ついばむ。 きのみも\\nたべるが ほんらいは\\nにくしょくの ポケモン。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "189f92e87bf8c3e3",
+  "translation": "{JPN}なかまの ために きずついても\\nたたかいを やめない おおぞらの\\nゆうかんな せんし。 くるまを\\nつかんだまま とぶことが できる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11003bd1edd5c83b",
+  "translation": "{JPN}ちも こおるような おたけびを あげ\\nこの おおきく どうもうな\\nとりポケモンは かりに でかける。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bbf07d63adb0242",
+  "translation": "{JPN}まだ とべず つばさが そだつのを\\nまたなければ ならない。 バルジーナが\\nあつめた ほねで おしりを\\nまもっている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4f78a7087285ec1c",
+  "translation": "{JPN}ほねで からだを うつくしく かざる。\\nオスを ひきよせるためと されるが\\nバルジーナの オスは まだ\\nみつかって いない。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b818da8a69e35683",
+  "translation": "{JPN}しっぽから すった くうきを ほのおに\\nかえ したのように つかう。\\nアイアントの はがねの からだを\\nやきやぶり なかみを たべる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48f66d6ee9d4ca3d",
+  "translation": "{JPN}アイアントは やまに すを ほる。\\nてんてきの クイタランを すから\\nおいはらうため それぞれが\\nちがう やくわりを はたす。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "afda6ca2c3d50a71",
+  "translation": "{JPN}めが みえず まわりの ようすが\\nわからないので ものに ぶつかったり\\nうごくものを なんでも たべる。\\nうかつに ちかよると きけんだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3ce1bc5c2096a672",
+  "translation": "{JPN}なわばりの エサを たべつくすと\\nべつの ばしょへ うつる。 もう\\nかたほうより たくさん たべた\\nあたまが リーダーに なれる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fd0aeee3ffad8314",
+  "translation": "{JPN}6まいの はねで そらを わたる\\nきょうぼうな ポケモン。 うでの あたまに\\nのうは ない。 3つの あたまで\\nすべてを くらい はかいする。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce58e227be2b274e",
+  "translation": "{JPN}たいようから うまれた ポケモンと\\nしんじられてきた。 ツノから ほのおを\\nふきだし しんかするときは\\nほのおの まゆに つつまれる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6e535e8cf43d7a4",
+  "translation": "{JPN}かざんばいで そらが くらくなったとき\\nあらわれて ポケモンを こごえから\\nすくった。 ウルガモスの ほのおが\\nたいようの かわりと なったのだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "51ce62622b50005d",
+  "translation": "{JPN}はがねの からだと こころを もつ。\\nポケモンを まもるため にんげんと\\nたたかった でんせつの ポケモン。\\nちんちゃく れいせいな せいかく。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "45fceb37c8e76914",
+  "translation": "{JPN}にんげんの せんそうで すみかを\\nうしなった ポケモンを まもるため\\nすさまじい ちからで しろを こわした\\nと でんせつに かたられている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e0a43b1d8feba31b",
+  "translation": "{JPN}あたまに はものの ように するどい\\nツノが はえる。 つむじかぜのような\\nうごきで あいてを まどわせ すばやく\\nきりつけたと でんせつは かたる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6ed0464cb24a1b7",
+  "translation": "{JPN}トルネロスは しっぽから ばくだいな\\nエネルギーを だし あらしを おこす。\\nいえを まるごと ふきとばす ちから。\\nじそく300キロで そらを かける。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3d86030bfb5cbe61",
+  "translation": "{JPN}「フォルムチェンジ」と よばれる\\nものの いちれい。 この すがたで\\nうみを わたる トルネロスが\\nもくげき されている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2595d3efb851a4de",
+  "translation": "{JPN}しっぽの トゲから ものすごい\\nカミナリを はなつ。 ボルトロスが\\nとおった とちには むすうの\\nやけこげた あとが のこる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f353978697d7372",
+  "translation": "{JPN}しっぽに つらなる たまから はなつ\\nすさまじい いりょくの カミナリを\\nあびせて てきを\\nこっぱみじんに する。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8f1fa68d3e16014c",
+  "translation": "{JPN}でんせつに とうじょうする ポケモン。\\nしっぽから ほのおを ふきあげ まわりを\\nすべて やきつくす。 しんじつの\\nせかいを きずく ものを たすける。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e9b41bc955647606",
+  "translation": "{JPN}カミナリで せかいを やきこがせる\\nでんせつの ポケモン。 しっぽに\\nでんきを つくる はつでんきが ある。\\nつよい りそうを もつ ものを たすける。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9bfe48893427d2f6",
+  "translation": "{JPN}しっぽから ふきだす エネルギーが\\nつちの えいようを ふやし さくもつを\\nゆたかに みのらせる。 「はたけの\\nまもりがみ」と あがめられている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cf29f8c4998692d6",
+  "translation": "{JPN}ランドロスは この すがたで そらを\\nかけ だいちに ほうさくを もたらし\\nひとびとに あがめられている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "874486a2e70e8894",
+  "translation": "{JPN}からだの かけた ぶぶんを しんじつか\\nりそうで みたす えいゆうを まつ\\nでんせつの こおりの ポケモン。 もれた\\nエネルギーで からだが こおった。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "532ebbf173a9c950",
+  "translation": "{JPN}レシラムと キュレムの いでんしが\\nおなじため キュレムは レシラムを\\nきゅうしゅう できた。 ほのおと\\nこおりの ちからを つかえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50b9183cdcd38227",
+  "translation": "{JPN}ゼクロムと キュレムの いでんしが\\nおなじため キュレムは ゼクロムを\\nきゅうしゅう できた。 でんきと\\nこおりの ちからを つかえる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ddcd5a19dd520672",
+  "translation": "{JPN}かくごを きめると からだに ちからが\\nみなぎり すばやくなる。 うみや\\nかわの みなもを はしって\\nせかいを かけめぐる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dd2435933fd5ae50",
+  "translation": "{JPN}からだに ひめていた ちからが\\nツノを おおい どんなものでも\\nきりさく つるぎに かえた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbb16d02d354d66e",
+  "translation": "{JPN}メロエッタの うたう メロディは\\nきいた ポケモンを よろこばせたり\\nかなしませたりする。 その しらべから\\nうまれた めいきょくも おおい。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a91acc2f96acc5c4",
+  "translation": "{JPN}メロエッタは とくしゅな はっせいほうで\\nうたい きいた ものの きもちを\\nあやつることが できる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-ui-dex-126",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

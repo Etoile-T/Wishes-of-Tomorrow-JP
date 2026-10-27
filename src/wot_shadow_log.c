@@ -307,11 +307,11 @@ static const struct WindowTemplate sListWindowTemplate =
 static EWRAM_DATA u8 sRowText[WOT_SHADOW_LOG_COUNT][28] = {0};
 static EWRAM_DATA struct ListMenuItem sRowItems[WOT_SHADOW_LOG_COUNT] = {0};
 
-static const u8 sText_StatusSnagged[]  = _("SNAGGED");
-static const u8 sText_StatusPurified[] = _("PURIFIED");
-static const u8 sText_StatusLoose[]    = _("LOOSE");
-static const u8 sText_WotShadowLogHeader[] = _("SHADOW LOG  SNAGGED ");
-static const u8 sText_WotShadowLogPure[]   = _("  PURE ");
+static const u8 sText_StatusSnagged[]  = _("{JPN}スナッチ{ENG}");
+static const u8 sText_StatusPurified[] = _("{JPN}リライブ{ENG}");
+static const u8 sText_StatusLoose[]    = _("{JPN}やせい{ENG}");
+static const u8 sText_WotShadowLogHeader[] = _("{JPN}ダークにっし スナッチ{ENG}");
+static const u8 sText_WotShadowLogPure[]   = _("{JPN} リライブ{ENG}");
 
 #define tHeaderWindowId data[0]
 #define tListWindowId   data[1]

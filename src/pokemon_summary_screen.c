@@ -4976,8 +4976,8 @@ static inline bool32 ShouldShowIvEvPrompt(void)
 static inline void ShowUtilityPrompt(s16 mode)
 {
     const u8* promptText = NULL;
-    const u8* gText_SkillPageIvs = COMPOUND_STRING("IVs");
-    const u8* gText_SkillPageEvs = COMPOUND_STRING("EVs");
+    const u8* gText_SkillPageIvs = COMPOUND_STRING("{JPN}こたい{ENG}");
+    const u8* gText_SkillPageEvs = COMPOUND_STRING("{JPN}きそ{ENG}");
     const u8* gText_SkillPageStats = COMPOUND_STRING("{JPN}のうりょく{ENG}");
     const u8* gText_Rename = COMPOUND_STRING("{JPN}なまえへんこう{ENG}");
 

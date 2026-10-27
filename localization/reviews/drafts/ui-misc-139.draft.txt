@@ -1,0 +1,282 @@
+##### src/berry_blender.c
+6445dc14180bc683	きのみブレンダーを きどうします\pバッグから きのみブレンダーに いれる\nきのみを えらんでください\p
+8073f20df9844462	が できた!
+a86922adaeaee7ba	つうしん たいきちゅう…
+f69943ccf9bf30cb	もういちど きのみを まぜますか?
+233b97b7a6678fd9	きのみブレンダーに いれる きのみが\nなくなりました\p
+b3d9904abbbc2c52	ポロックケースが いっぱいです\p
+1cc47a6c518780cd	は きのみブレンダーに\nいれる きのみが ないようです
+26ed33283f2b5ac0	の ポロックケースが いっぱいです\p
+51029cfb692a8b54	まぜた けっか
+e0172c6c25f2b394	のみ
+16d36019c8a787af	じかん:
+c6bc788b1755f662	ふん
+447ab00e775cc5d6	びょう
+06bc587341be43be	さいこうそくど
+59e24ed517cee941	ランキング
+6d4da591902aa439	レベルは
+2ef236cd578f1a28	 で なめらかさは
+4ef6787e8a2a90f6	 だ
+525ea2ce19e9bb02	セーブ しています…\nでんげんを きらないで ください
+9ce22b8f784193b8	きのみブレンダー\nさいこうそくど きろく!
+d580f312fc61888d	ふたり\nさんにん\nよにん
+##### src/contest_painting.c
+2280a6456030c18d	{STR_VAR_1}\n{STR_VAR_2}の {STR_VAR_3}
+6e3cac2b06b3328f	かっこよさ
+2ac8b88bf3277e95	きれいさ
+19dc4ac4b26d6510	かわいさ
+eefe144a06ff4a9b	かしこさ
+26772e1a06d20c2f	たくましさ
+8f7b31396c4e210c	ノーマルランク
+14b9dfe5941d719a	スーパーランク
+63db83920aed9192	ハイパーランク
+f2888c2cf80285b2	マスターランク
+e5dddb14db407fc3	つうしん
+f92ab8d89e70ca0e	ノンストップ スーパークール\nはかりしれない {STR_VAR_1}
+d7e523142ded59a1	やあ みんな!\nグッドルッキング ポケモン {STR_VAR_1}
+71e3c8bd9cf225bf	マーベラス ワンダフル\nとっても グレートな {STR_VAR_1}
+0a756d825c072b69	こんせいき さいごの ビーナス\nうつくしき {STR_VAR_1}
+52a193db16abf319	{STR_VAR_1}の まぶしい\nキラキラ スマイル
+b2f7c5f155c514b9	ポケモンセンターの スーパーアイドル\nならぶもの なき {STR_VAR_1}
+b25bfc3d4ffb04e8	ラブリー スウィート {STR_VAR_1}
+2636b7a3f21761ca	プリティー {STR_VAR_1}の\nとっておきの いちまい
+be20b7cfa0ca7060	こっちむいて ウインクして!\nキュート ポケモン {STR_VAR_1}
+b93ed8fdcd92e02b	かしこさの マエストロ\nワイズ ポケモン {STR_VAR_1}
+4ea03e5226434423	{STR_VAR_1} それは えらばれし\nポケモンの なかの ポケモン
+11356a23abccabe1	エクセレント {STR_VAR_1}の\nゆうがな ひととき
+32020311e5c2835b	パワフル マッスル\nスピードスター {STR_VAR_1}
+b7f7327ab0a245f7	ストロング ストロンガー\nストロンゲスト {STR_VAR_1}
+b125dc69d9a1dd4c	マイティー タフネス\nハイパー ポケモン {STR_VAR_1}
+##### src/pokeblock.c
+6fbed86cf3024ba7	ケースをしまう
+22a5e881164d10f8	この {STR_VAR_1}を\nすてても よろしいですか?
+b294ee652718d938	{STR_VAR_1}を\nすてました
+a91f620e0f9b1f39	あかいポロック
+963c9eaa2277120a	あおいポロック
+5a26e8e50e16a31d	ももいろポロック
+5a29c827b11289ae	みどりのポロック
+104f26bc9f4a43dc	きいろのポロック
+18e23c770baaddf9	むらさきポロック
+822d0c243c0b7166	こんいろポロック
+4f85aa122b82e3b9	ちゃいろポロック
+b7d97780b46962bb	そらいろポロック
+dc0f266404b5ac91	きみどりポロック
+243650116a62d2d0	はいいろポロック
+994232e36b68f6f9	くろいポロック
+21f940b7b294feec	しろいポロック
+58a73efacc6050d4	きんいろポロック
+58be26b6191812b0	からい
+d9d23520c9cfb31e	しぶい
+d9af4dd2703ce26b	あまい
+2a4de12b715e6719	にがい
+408eb366e932c0a7	すっぱい
+##### src/battle_controller_player.c
+6d0169f549cd9a8e	 フレーム かんがえた\n
+eb14c7bba18e965b	 サイクル
+45c7af98084f1ed2	なかまの わざ:\n
+##### src/data/text/ribbon_descriptions.h
+e017685b8f962251	チャンピオンを たおして
+cd5d1b5d405da4b9	でんどういり した きねんリボン
+b45ef05b67d70a66	かっこよさコンテスト
+3a2ba6f4d5e1cfed	うつくしさコンテスト
+986d43b4114cea1c	かわいさコンテスト
+b381584e61a7be90	かしこさコンテスト
+fb82ee8a5cde6b33	たくましさコンテスト
+4d7ebf3a909fd581	ノーマルランク ゆうしょう!
+4b7e40c371a6958a	スーパーランク ゆうしょう!
+468acde0606002d6	ハイパーランク ゆうしょう!
+a2cfeff9648264e3	マスターランク ゆうしょう!
+d4b84a7125dfcf92	バトルタワー レベル50を
+1dfb2728011c7b4b	かちぬいた きねんの リボン
+f32cfc228958c01c	バトルタワー オープンレベルを
+5df6b1244edf12e4	かちぬいた きねんの リボン
+1b040af44dab3bd1	ごうかな にがおえの モデルに
+ad2915595c418c91	えらばれた きねんの リボン
+2b63e29aefc59e28	たくさん どりょく している
+c12fe2c8e1143231	ポケモンに おくられる リボン
+##### src/dexnav.c
+b7a34e83cfdd77d4	まず つかまえよう!
+c19cee74d1eefdbc	Rで とうろく!
+36c34517d82cbccb	{STR_VAR_1}を さがす
+75775d104b7e4329	ここには いないようだ!
+739247000e7732d4	サーチ {LV}{STR_VAR_1}
+a5619e7d0fbe25e4	わざ: {STR_VAR_1}
+5247bbefe19e4308	{START_BUTTON}やめる
+##### src/pokemon_summary_screen.c
+6f0ad2a729c758bc	こたい
+0ffe86e4c8193eae	きそ
+##### src/pokenav_menu_handler_gfx.c
+513c056e0d6d395d	リボンを もっている ポケモンが いません
+e3d9d0305dd1aa0d	ホウエンちほうの マップを みます
+d24f72d206fa98a6	ポケモンを くわしく しらべます
+41911c4c0716312f	とうろくした トレーナーを よびだします
+cbf28f616afd6fd1	てにいれた きねんリボンを みます
+1daf8654d06438e3	ポケナビを しまいます
+b3adfd549bf2df8c	てもちポケモンを くわしく しらべます
+a531db9efdc346dc	すべての ポケモンを くわしく しらべます
+042684309d5e0fc2	ポケナビの メニューに もどります
+b07069de507ee93b	かっこいい ポケモンを みつけます
+ab509a466422502b	うつくしい ポケモンを みつけます
+079b4ed334e7f424	かわいい ポケモンを みつけます
+84221d549c9cfc3b	かしこい ポケモンを みつけます
+7c392c5aaf67dca8	たくましい ポケモンを みつけます
+0afe2d15fa7a5c04	コンディションの メニューに もどります
+##### src/pokenav_main_menu.c
+6a217e24cb7c3e14	{A_BUTTON}ズーム {B_BUTTON}やめる
+2e76e3022faa1274	{A_BUTTON}ぜんたい{B_BUTTON}やめる
+a91aa2a1bd477d46	{A_BUTTON}ズーム {B_BUTTON}やめる {R_BUTTON}そら
+29a961a3472d6f45	{A_BUTTON}ぜんたい{B_BUTTON}やめる {R_BUTTON}そら
+b4bdf47709531e65	{A_BUTTON}コンディション {B_BUTTON}やめる
+abbff7be17156a96	{A_BUTTON}マーク {B_BUTTON}やめる
+1cf3d349687bb062	{A_BUTTON}マークを えらぶ {B_BUTTON}やめる
+24bdc63e49cbb839	{A_BUTTON}メニュー{B_BUTTON}やめる
+42be72910bcecafc	{A_BUTTON}OK {B_BUTTON}やめる
+1b6057babf9ef7fa	{B_BUTTON}やめる
+327cde3a4d087453	{A_BUTTON}リボン {B_BUTTON}やめる
+a5af91dad8b79bce	{A_BUTTON}みる {B_BUTTON}やめる
+f1bce3dd33b6efe4	{B_BUTTON}やめる
+##### src/roulette.c
+f6bf0233858fda70	この だいの レートは\n{STR_VAR_1}です あそびますか?
+b719267c680efa86	コインが たりません
+4a32e06557db3f7d	ただいま レートアップ じっしちゅう!
+735f368efbef839c	じゅうじボタンで ベットする わくを えらび\nAボタンで けってい します
+2c0295785dc87e10	あたりー!
+72f62f5b7ced438e	おおあたり!!
+7aa939f8c0136069	はずれー!
+09a743582d60cbad	コイン {STR_VAR_1}まい かくとく!
+a8e79ef6fd67c5f1	コインが なくなりました…
+a71b916365f109ef	つづけて あそびますか?
+1fd263f9a2e5e332	ルーレットの だいを クリアします
+5e71e57dffe140f4	コインケースが いっぱいです!\nコインは けいひんと こうかん できます
+##### src/battle_controller_oak_old_man.c
+8d95b1f11b737ae3	オーキド: やれやれ…\nあいかわらず せっかちな やつじゃ\p{B_PLAYER_NAME}\pおまえは ポケモン しょうぶを\nしたことが なかったな?\pポケモン しょうぶとは トレーナーどうしが\nじぶんの ポケモンを\lたたかわせあう ことじゃ\p
+75079a20d9dabb26	オーキド: うーむ…\nざんねんじゃのう…\pしょうぶに かてば しょうきんが もらえ\nポケモンも せいちょう する\pだが まければ {B_PLAYER_NAME}\nしょうきんを はらうことに なる…\pもっとも こんかいは なにも いわずに\nはじめたから わしが はらっておこう\pしかし この とびらを でたら\nそうは いかんぞ\pだから やせいの ポケモンと たたかって\nポケモンを きたえるのじゃ\p
+0ead380037a5780e	オーキド: あいての ポケモンに ダメージを\nあたえるのが しょうぶの かなめじゃ\p
+6a5542a2b8801a93	オーキド: じぶんの ポケモンの\nHPに きを くばるのじゃ\pHPが 0に なると\nひんしに なってしまうぞ\p
+a003000e63a56ade	オーキド: あいての のうりょくを さげると\nしょうぶを ゆうりに すすめられるぞ\p
+efd304f0525a998c	オーキド: こら! トレーナーとの しょうぶから\nにげることは できんぞ!\p
+9f678d60f738e136	あいての トレーナーの ポケモンの\nHPを 0に して ひんしに させた\lトレーナーの かちと なる\p
+15e4a40c6fdb3062	だが はなしを きくより\nじっさいに やってみるのが いちばんじゃ\pまずは たたかって みるがよい\p
+0d63d6fe0542358a	オーキド: うむ! みごとじゃ!\pしょうぶに かてば しょうきんが もらえ\nポケモンも せいちょう するのじゃ!\pほかの トレーナーと たたかって\nポケモンを つよく するのじゃ!\p
+de8dfd40f878629f	おじいさんは\nどうする?
+##### src/battle_z_move.c
+0b12ad725d087f2e	へんかを もどす
+0cb2238c1ed1e269	すべて +1
+e2a910bc05ebedb4	すべて +2
+d688efe227182331	きゅうしょりつ アップ
+39129f0d2abf37a3	ちゅうもく
+d17b00c0f0aee7c6	HP かいふく
+da1f1d8c36f93a54	こうたいさきを かいふく
+06e1a599cc827504	いりょく
+b9594e475d399330	ついか こうか なし
+##### src/berry_fix_program.c
+82a2cb09969fae1e	きのみ しゅうせいプログラム
+2a8568a3f0a603dc	ルビー/サファイア
+3f1500302b952622	エメラルド
+54738da91ffc7b38	ポケモン ルビー/サファイアの\nきのみプログラムを しゅうせいします\n{COLOR RED}{SHADOW LIGHT_RED}Aボタンを おしてください
+c592c350bf75e05a	ゲームボーイアドバンスの つなぎかたが\nこの えと おなじか たしかめてください\n{COLOR RED}{SHADOW LIGHT_RED}はい: Aボタンを おしてください\nいいえ: でんげんを きって やりなおしてください
+3e67eb581d38640f	ポケモン ルビー/サファイアを\nSTARTと SELECTを おしながら\nでんげんを いれてください\nうえの えと おなじ がめんに なりますか?
+2f1d0d74f8601a54	そうしんちゅうです おまちください\n{COLOR RED}{SHADOW LIGHT_RED}でんげんを きったり\nつうしんケーブルを ぬいたり\nしないでください
+8e5dcf395e71f3e6	ポケモン ルビー/サファイアの\nがめんの しじに したがってください
+d6cc485a33095bb3	そうしんに しっぱいしました\n{COLOR RED}{SHADOW LIGHT_RED}もういちど やりなおしてください
+##### src/tv.c
+ca73d64a19aea654	いい
+c68902b3b653e364	おいしい
+e5550f16d9ba3deb	さいこう
+3fd57a277618594e	いまいち
+398e5b6846098e95	まずい
+70a9b9913564bc01	さいあく
+99f6398f2d5d6e37	スロット
+36a17acc19914088	ルーレット
+c059272037cdcc8d	おおあたり
+##### src/map_name_popup.c
+358f6ac6577c5dd0	ピラミッド1だんめ
+69bcad6480f302e8	ピラミッド2だんめ
+5681fd515277924e	ピラミッド3だんめ
+f06ae19cebe363f1	ピラミッド4だんめ
+9aa7559c17bc22a6	ピラミッド5だんめ
+41618ce571da5f43	ピラミッド6だんめ
+21513c55bdb83530	ピラミッド7だんめ
+2c72ff644afcb12b	ピラミッド
+##### src/pokenav_match_call_gfx.c
+87534a7994316093	とうろく にんずう
+294c6f99e873f60a	たいせん かいすう
+2217f8d86eaedaf6	ちかくに いるみたいだから\nちょくせつ あって はなそう!
+2d073bad0f9f68f1	ふめい
+b6ba6e1c057e11c3	よびだし
+e08d58f0aa6742fa	しらべる
+0581329c38864cd5	やめる
+##### src/match_call.c
+1c5783ecda909e71	キラ
+62e94e6d4d96e188	エイミー
+49951e77387ae129	ジョン
+71064c30ad164dd2	ロイ
+6ab380dec76feeea	ギャビー
+eea2f3431f5c3037	アンナ
+##### src/field_screen_effect.c
+52f01d72a1d9bb55	{PLAYER}は つかれきった ひんしの\nポケモンたちを かばいながら\nいそいで ポケモンセンターに もどった…\p
+eec040dd7cf4e1a6	{PLAYER}は つかれきった ひんしの\nポケモンたちを かばいながら\nいそいで じたくに もどった…\p
+257c01ceae2869a1	{PLAYER}は たいせいを たてなおし\nせんりゃくを ねりなおすために\nいそいで ポケモンセンターに もどった…\p
+aefea29650ddd0fb	{PLAYER}は たいせいを たてなおし\nせんりゃくを ねりなおすために\nいそいで じたくに もどった…\p
+e14c7616f9f45814	オーキドはかせ
+43a2b07ea985649a	オダマキはかせ
+##### src/fishing.c
+a6477e285ecb57b8	お! ひいてる!
+17a57aa128c1785f	ポケモンが かかった!{PAUSE_UNTIL_PRESS}
+ee0f0ea6058507b4	つれないなあ…{PAUSE_UNTIL_PRESS}
+1a9bc975cbd14b47	にげられて しまった…{PAUSE_UNTIL_PRESS}
+##### src/pokedex_area_screen.c
+9370953623279301	{DPAD_UPDOWN} あさ
+50768c12bada3c0e	{DPAD_UPDOWN} ひる
+ac3548562942e131	{DPAD_UPDOWN} ゆうがた
+13f78bf101561b3d	{DPAD_UPDOWN} よる
+dc4b508640491def	せいそくち ふめい
+##### src/slot_machine.c
+5c4c4f8f74ef33ba	ゲームを やめますか?
+db237eda774d2dca	コインが 9999まい あります
+46ecfef0fb7e81cb	コインが なくなりました\nゲームオーバー!
+4447546cf26f4738	コインが 3まい ありません
+81dc5fb17c514387	リールタイム\nマークを ねらって\nとめる チャンス!\nあたえられた かいすうだけ\nリールタイムは つづきます\nビッグボーナスで おわります
+##### src/wot_shadow_log.c
+5901a56e8865bedc	スナッチ
+c57a115c2e254be9	リライブ
+7bb8d72e499e94a4	やせい
+db2f094026abde1c	ダークにっし スナッチ
+e5ec73a643788f59	 リライブ
+##### src/data/abilities.h
+6c4c17d56de84348	ヘヴィメタル
+##### src/pokenav_ribbons_summary.c
+703ad20818387a94	リボン {DYNAMIC 0}こ
+##### src/use_pokeblock.c
+d3c16d41cd3293d0	に ポロックを あげますか?
+907fb1ce152d15bb	なにも かわらなかった!
+4815a788311d3cdc	もう これいじょう たべない みたい…
+6c18af9af2655297	せいかく/
+##### src/wot_mega_dimension.c
+ea51a4332034d31f	トレードウィンドタウン
+fc2f4d441fcf39ea	しぜんこうえん
+862f2c5cafe439ea	アッシュランド
+eea621460272a4db	シントウキョウ
+##### src/pokeblock_feed.c
+b3a2074d05ce1b0a	{STR_VAR_1}は\n{STR_VAR_2}を たべた!{PAUSE_UNTIL_PRESS}
+2971754183e30ccb	{STR_VAR_1}は よろこんで\n{STR_VAR_2}を たべた!{PAUSE_UNTIL_PRESS}
+19d2163fe56acbec	{STR_VAR_1}は いやそうに\n{STR_VAR_2}を たべた!{PAUSE_UNTIL_PRESS}
+##### src/pokenav_list.c
+6a4a26a966efb3a8	さくせん
+543e732e65aa4097	もっている ポケモン
+b65005c5eb272e62	じこしょうかい
+##### src/trainer_fan_club.c
+e0cad4876ccc6439	マチス
+3a6810fd716a6f1e	キョウ
+##### src/field_region_map.c
+649fd22b07a2bb75	{R_BUTTON} そら
+##### src/mystery_gift_scripts.c
+3d7d626ce6c9883b	カードの よみとりを\nちゅうし しました
+##### src/pokenav_match_call_list.c
+5ed7a4cf464db4e5	ここからは よびだしが できません
+##### src/save_failed_screen.c
+dbe1e5a0b25037d4	{COLOR RED}エラー! {COLOR DARK_GRAY}フラッシュメモリが みつかりません!\n\nエミュレーターで あそんでいるなら\nセーブタイプを Flash 1Mb/128Kにして\nROMを よみなおしてください\n\nじっきで あそんでいるなら\nカートリッジの フラッシュチップが\nうごいていません
+##### src/script_menu.c
+d2ede02bcba5c56b	そのほか
+##### src/trainer_tower.c
+182f5c4b42a09de0	{STR_VAR_1}ふん {STR_VAR_2}.{STR_VAR_3}びょう

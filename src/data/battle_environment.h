@@ -69,7 +69,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 {
     [BATTLE_ENVIRONMENT_GRASS] =
     {
-        .name = _("Grass"),
+        .name = _("{JPN_NAME_4}くさむら"),
     #if B_NATURE_POWER_MOVES >= GEN_6
         .naturePower = MOVE_ENERGY_BALL,
     #elif B_NATURE_POWER_MOVES >= GEN_4
@@ -89,7 +89,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_LONG_GRASS] =
     {
-        .name = _("Long Grass"),
+        .name = _("{JPN_NAME_5}ながいくさ"),
     #if B_NATURE_POWER_MOVES >= GEN_6
         .naturePower = MOVE_ENERGY_BALL,
     #elif B_NATURE_POWER_MOVES >= GEN_4
@@ -109,7 +109,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SAND] =
     {
-        .name = _("Sand"),
+        .name = _("{JPN_NAME_2}すな"),
         .naturePower = B_NATURE_POWER_MOVES >= GEN_6 ? MOVE_EARTH_POWER : MOVE_EARTHQUAKE,
         .secretPowerAnimation = B_SECRET_POWER_ANIMATION >= GEN_4 ? gBattleAnimMove_MudSlap : gBattleAnimMove_MudShot,
         .secretPowerEffect = MOVE_EFFECT_ACC_MINUS_1,
@@ -123,7 +123,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_UNDERWATER] =
     {
-        .name = _("Underwater"),
+        .name = _("{JPN_NAME_5}すいちゅう"),
         .naturePower = MOVE_HYDRO_PUMP,
         .secretPowerAnimation = B_SECRET_POWER_ANIMATION >= GEN_6 ? gBattleAnimMove_WaterPulse : gBattleAnimMove_Waterfall,
         .secretPowerEffect = B_SECRET_POWER_EFFECT >= GEN_6 ? MOVE_EFFECT_ATK_MINUS_1 : MOVE_EFFECT_DEF_MINUS_1,
@@ -137,7 +137,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_WATER] =
     {
-        .name = _("Water"),
+        .name = _("{JPN_NAME_2}みず"),
         .naturePower = B_NATURE_POWER_MOVES >= GEN_4 ? MOVE_HYDRO_PUMP : MOVE_SURF,
         .secretPowerAnimation = B_SECRET_POWER_ANIMATION >= GEN_4 ? gBattleAnimMove_WaterPulse : gBattleAnimMove_Surf,
         .secretPowerEffect = MOVE_EFFECT_ATK_MINUS_1,
@@ -151,7 +151,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_POND] =
     {
-        .name = _("Pond"),
+        .name = _("{JPN_NAME_2}いけ"),
         .naturePower = B_NATURE_POWER_MOVES >= GEN_4 ? MOVE_HYDRO_PUMP : MOVE_BUBBLE_BEAM,
         .secretPowerAnimation = B_SECRET_POWER_ANIMATION >= GEN_4 ? gBattleAnimMove_WaterPulse : gBattleAnimMove_BubbleBeam,
         .secretPowerEffect = B_SECRET_POWER_EFFECT >= GEN_4 ? MOVE_EFFECT_ATK_MINUS_1 : MOVE_EFFECT_SPD_MINUS_1,
@@ -165,7 +165,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_MOUNTAIN] =
     {
-        .name = _("Mountain"),
+        .name = _("{JPN_NAME_2}やま"),
     #if B_NATURE_POWER_MOVES >= GEN_6
         .naturePower = MOVE_EARTH_POWER,
     #elif B_NATURE_POWER_MOVES >= GEN_5
@@ -191,7 +191,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_CAVE] =
     {
-        .name = _("Cave"),
+        .name = _("{JPN_NAME_4}どうくつ"),
         .naturePower = CAVE_NATURE_POWER,
         .secretPowerAnimation = CAVE_SECRET_POWER_ANIMATION,
         .secretPowerEffect = CAVE_SECRET_POWER_EFFECT,
@@ -205,7 +205,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_BUILDING] =
     {
-        .name = _("Building"),
+        .name = _("{JPN_NAME_4}たてもの"),
         .naturePower = BUILDING_NATURE_POWER,
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
@@ -219,7 +219,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_PLAIN] =
     {
-        .name = _("Plain"),
+        .name = _("{JPN_NAME_3}へいち"),
         .naturePower = PLAIN_NATURE_POWER,
         .secretPowerAnimation = PLAIN_SECRET_POWER_ANIMATION,
         .secretPowerEffect = PLAIN_SECRET_POWER_EFFECT,
@@ -233,7 +233,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_FRONTIER] =
     {
-        .name = _("Frontier"),
+        .name = _("{JPN_NAME_6}フロンティア"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -246,7 +246,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_GYM] =
     {
-        .name = _("Gym"),
+        .name = _("{JPN_NAME_2}ジム"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -259,7 +259,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_LEADER] =
     {
-        .name = _("Leader"),
+        .name = _("{JPN_NAME_4}リーダー"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -272,7 +272,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_MAGMA] =
     {
-        .name = _("Magma"),
+        .name = _("{JPN_NAME_3}マグマ"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -285,7 +285,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_AQUA] =
     {
-        .name = _("Aqua"),
+        .name = _("{JPN_NAME_3}アクア"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -298,7 +298,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SIDNEY] =
     {
-        .name = _("Sidney"),
+        .name = _("{JPN_NAME_3}カゲツ"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -311,7 +311,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_PHOEBE] =
     {
-        .name = _("Phoebe"),
+        .name = _("{JPN_NAME_3}フヨウ"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -324,7 +324,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_GLACIA] =
     {
-        .name = _("Glacia"),
+        .name = _("{JPN_NAME_3}プリム"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -337,7 +337,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_DRAKE] =
     {
-        .name = _("Drake"),
+        .name = _("{JPN_NAME_3}ゲンジ"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -350,7 +350,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_CHAMPION] =
     {
-        .name = _("Champion"),
+        .name = _("{JPN_NAME_6}チャンピオン"),
         .secretPowerAnimation = BUILDING_SECRET_POWER_ANIMATION,
         .secretPowerEffect = BUILDING_SECRET_POWER_EFFECT,
         .camouflageType = BUILDING_CAMOUFLAGE_TYPE,
@@ -363,7 +363,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_GROUDON] =
     {
-        .name = _("Groudon"),
+        .name = _("{JPN_NAME_5}グラードン"),
         .naturePower = CAVE_NATURE_POWER,
         .secretPowerAnimation = CAVE_SECRET_POWER_ANIMATION,
         .secretPowerEffect = CAVE_SECRET_POWER_EFFECT,
@@ -377,7 +377,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_KYOGRE] =
     {
-        .name = _("Kyogre"),
+        .name = _("{JPN_NAME_5}カイオーガ"),
         .naturePower = CAVE_NATURE_POWER,
         .secretPowerAnimation = CAVE_SECRET_POWER_ANIMATION,
         .secretPowerEffect = CAVE_SECRET_POWER_EFFECT,
@@ -391,7 +391,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_RAYQUAZA] =
     {
-        .name = _("Rayquaza"),
+        .name = _("{JPN_NAME_5}レックウザ"),
         .naturePower = PLAIN_NATURE_POWER,
         .secretPowerAnimation = PLAIN_SECRET_POWER_ANIMATION,
         .secretPowerEffect = PLAIN_SECRET_POWER_EFFECT,
@@ -405,7 +405,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SOARING] =
     {
-        .name = _("Soaring"),
+        .name = _("{JPN_NAME_5}そらをとぶ"),
         .naturePower = MOVE_AIR_SLASH,
         .secretPowerAnimation = gBattleAnimMove_Gust,
         .secretPowerEffect = MOVE_EFFECT_SPD_MINUS_1,
@@ -415,7 +415,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SKY_PILLAR] =
     {
-        .name = _("Sky Pillar"),
+        .name = _("{JPN_NAME_6}そらのはしら"),
         .naturePower = MOVE_AIR_SLASH,
         .secretPowerAnimation = gBattleAnimMove_Gust,
         .secretPowerEffect = MOVE_EFFECT_SPD_MINUS_1,
@@ -425,7 +425,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_BURIAL_GROUND] =
     {
-        .name = _("Burial Ground"),
+        .name = _("{JPN_NAME_5}まいそうち"),
         .naturePower = MOVE_SHADOW_BALL,
         .secretPowerAnimation = gBattleAnimMove_ShadowSneak,
         .secretPowerEffect = MOVE_EFFECT_FLINCH,
@@ -435,7 +435,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_PUDDLE] =
     {
-        .name = _("Puddle"),
+        .name = _("{JPN_NAME_4}どろみず"),
         .naturePower = MOVE_MUD_BOMB,
         .secretPowerAnimation = B_SECRET_POWER_ANIMATION >= GEN_5 ? gBattleAnimMove_MudShot : gBattleAnimMove_MudSlap,
         .secretPowerEffect = B_SECRET_POWER_EFFECT >= GEN_5 ? MOVE_EFFECT_SPD_MINUS_1 : MOVE_EFFECT_ACC_MINUS_1,
@@ -445,7 +445,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_MARSH] =
     {
-        .name = _("Marsh"),
+        .name = _("{JPN_NAME_3}しっち"),
         .naturePower = MOVE_MUD_BOMB,
         .secretPowerAnimation = gBattleAnimMove_MudShot,
         .secretPowerEffect = MOVE_EFFECT_SPD_MINUS_1,
@@ -455,7 +455,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SWAMP] =
     {
-        .name = _("Swamp"),
+        .name = _("{JPN_NAME_2}ぬま"),
         .naturePower = MOVE_MUD_BOMB,
         .secretPowerAnimation = gBattleAnimMove_MudShot,
         .secretPowerEffect = MOVE_EFFECT_SPD_MINUS_1,
@@ -465,7 +465,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SNOW] =
     {
-        .name = _("Snow"),
+        .name = _("{JPN_NAME_2}ゆき"),
     #if B_NATURE_POWER_MOVES >= GEN_7
         .naturePower = MOVE_ICE_BEAM,
     #elif B_NATURE_POWER_MOVES == GEN_6
@@ -481,7 +481,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_ICE] =
     {
-        .name = _("Ice"),
+        .name = _("{JPN_NAME_3}こおり"),
         .naturePower = MOVE_ICE_BEAM,
         .secretPowerAnimation = gBattleAnimMove_IceShard,
         .secretPowerEffect = MOVE_EFFECT_FREEZE_OR_FROSTBITE,
@@ -491,7 +491,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_VOLCANO] =
     {
-        .name = _("Volcano"),
+        .name = _("{JPN_NAME_3}かざん"),
         .naturePower = MOVE_LAVA_PLUME,
         .secretPowerAnimation = gBattleAnimMove_Incinerate,
         .secretPowerEffect = MOVE_EFFECT_BURN,
@@ -507,7 +507,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_TORII] =
     {
         // Wishes of Tomorrow: rocky Torii Route ascent (day base; dusk/night swapped at load).
-        .name = _("Torii"),
+        .name = _("{JPN_NAME_3}とりい"),
         .naturePower = MOVE_ROCK_SLIDE,
         .secretPowerAnimation = gBattleAnimMove_RockThrow,
         .secretPowerEffect = MOVE_EFFECT_FLINCH,
@@ -523,7 +523,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_WOT_SEA] =
     {
         // carchagui's open sea (day base; dusk/night swapped at load).
-        .name = _("Sea"),
+        .name = _("{JPN_NAME_2}うみ"),
         .naturePower = MOVE_HYDRO_PUMP,
         .secretPowerAnimation = gBattleAnimMove_Surf,
         .secretPowerEffect = MOVE_EFFECT_ATK_MINUS_1,
@@ -538,7 +538,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_WOT_CAVE] =
     {
         // carchagui's cavern (Munen Tunnel).
-        .name = _("Munen Tunnel"),
+        .name = _("{JPN_NAME_7}ムネントンネル"),
         .naturePower = MOVE_ROCK_SLIDE,
         .secretPowerAnimation = gBattleAnimMove_RockThrow,
         .secretPowerEffect = MOVE_EFFECT_FLINCH,
@@ -553,7 +553,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_WOT_ASHLANDS] =
     {
         // aveontrainer's savanna (the Ashlands + Tradewind streets).
-        .name = _("Ashlands"),
+        .name = _("{JPN_NAME_7}アッシュランド"),
         .naturePower = MOVE_EARTH_POWER,
         .secretPowerAnimation = gBattleAnimMove_MudSlap,
         .secretPowerEffect = MOVE_EFFECT_ACC_MINUS_1,
@@ -568,7 +568,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_WOT_LAB] =
     {
         // carchagui's FR-patch laboratory (Deoxys, THE ONI, the dockhouse).
-        .name = _("Lab"),
+        .name = _("{JPN_NAME_2}ラボ"),
         .naturePower = MOVE_TRI_ATTACK,
         .secretPowerAnimation = gBattleAnimMove_Pound,
         .secretPowerEffect = MOVE_EFFECT_PARALYSIS,
@@ -584,7 +584,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     {
         // aveontrainer's graveyard: Shin Tokyo's streets and the jail, where
         // everything you fight is already dead inside.
-        .name = _("Graveyard"),
+        .name = _("{JPN_NAME_2}ぼち"),
         .naturePower = MOVE_SHADOW_BALL,
         .secretPowerAnimation = gBattleAnimMove_Pound,
         .secretPowerEffect = MOVE_EFFECT_FLINCH,
@@ -599,7 +599,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_WOT_MEGA_DIMENSION] =
     {
         // The starfield, inverted to black and white: a white void over a black pit.
-        .name = _("Mega Dimension"),
+        .name = _("{JPN_NAME_5}メガじげん"),
         .naturePower = MOVE_DRACO_METEOR,
         .secretPowerAnimation = gBattleAnimMove_Swift,
         .secretPowerEffect = MOVE_EFFECT_FLINCH,
@@ -614,7 +614,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_WOT_TOWN] =
     {
         // carchagui's FR-patch town (Celebi Island).
-        .name = _("Town"),
+        .name = _("{JPN_NAME_2}まち"),
         .naturePower = MOVE_TRI_ATTACK,
         .secretPowerAnimation = gBattleAnimMove_Pound,
         .secretPowerEffect = MOVE_EFFECT_PARALYSIS,
@@ -629,7 +629,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
     [BATTLE_ENVIRONMENT_WOT_INDOORS] =
     {
         // carchagui's FR-patch interior (Tradewind Gym).
-        .name = _("Indoors"),
+        .name = _("{JPN_NAME_4}おくない"),
         .naturePower = MOVE_TRI_ATTACK,
         .secretPowerAnimation = gBattleAnimMove_Pound,
         .secretPowerEffect = MOVE_EFFECT_PARALYSIS,
@@ -643,7 +643,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_DISTORTION_WORLD] =
     {
-        .name = _("Distortion World"),
+        .name = _("{JPN_NAME_7}やぶれたせかい"),
         .naturePower = MOVE_TRI_ATTACK,
         .secretPowerAnimation = gBattleAnimMove_Pound,
         .secretPowerEffect = MOVE_EFFECT_PARALYSIS,
@@ -653,7 +653,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_SPACE] =
     {
-        .name = _("Space"),
+        .name = _("{JPN_NAME_4}うちゅう"),
         .naturePower = MOVE_DRACO_METEOR,
         .secretPowerAnimation = gBattleAnimMove_Swift,
         .secretPowerEffect = MOVE_EFFECT_FLINCH,
@@ -668,7 +668,7 @@ const struct BattleEnvironment gBattleEnvironmentInfo[BATTLE_ENVIRONMENT_COUNT] 
 
     [BATTLE_ENVIRONMENT_ULTRA_SPACE] =
     {
-        .name = _("Ultra Space"),
+        .name = _("{JPN_NAME_8}ウルトラスペース"),
         .naturePower = MOVE_PSYSHOCK,
         .secretPowerAnimation = gBattleAnimMove_Psywave,
         .secretPowerEffect = MOVE_EFFECT_DEF_MINUS_1,

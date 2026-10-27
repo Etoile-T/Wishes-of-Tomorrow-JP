@@ -32,4 +32,4 @@ class ItemDescriptionTests(unittest.TestCase):
                 budget = 12 if 'move' not in row['source'] else 16
                 self.assertLessEqual(reference_names.encoded_length(row['translation'], cmap), budget)
                 count += 1
-        self.assertEqual(count, 41)
+        self.assertEqual(count, 42)

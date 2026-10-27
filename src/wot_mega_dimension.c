@@ -179,10 +179,10 @@ static const struct MegaDimMega sMegaRoster[] =
 STATIC_ASSERT(ARRAY_COUNT(sMegaRoster) == FLAG_WOT_MEGA_CLAIMED_WHIMSICOTT - FLAG_WOT_MEGA_CLAIMED_AMOONGUSS + 1, MegaRosterMatchesClaimFlags);
 STATIC_ASSERT(ARRAY_COUNT(sMegaRoster) <= PORTAL_MEGA_MASK + 1, MegaRosterFitsRecord);
 
-static const u8 sTown_TradewindTown[] = _("Tradewind Town");
-static const u8 sTown_NationalPark[] = _("National Park");
-static const u8 sTown_Ashlands[] = _("Ashlands");
-static const u8 sTown_ShinTokyo[] = _("Shin Tokyo");
+static const u8 sTown_TradewindTown[] = _("{JPN}トレードウィンドタウン{ENG}");
+static const u8 sTown_NationalPark[] = _("{JPN}しぜんこうえん{ENG}");
+static const u8 sTown_Ashlands[] = _("{JPN}アッシュランド{ENG}");
+static const u8 sTown_ShinTokyo[] = _("{JPN}シントウキョウ{ENG}");
 
 // Where portals open (Joe, round 127). Keep x/y in step with the portal
 // objects in the source maps' map.json if they're moved in porymap; each tile

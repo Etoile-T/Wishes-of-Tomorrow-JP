@@ -361,29 +361,29 @@ EWRAM_DATA u8 gCurContestWinnerSaveIdx = 0;
 COMMON_DATA rng_value_t gContestRngValue = {0};
 
 //Text
-const u8 gText_LinkStandby4[] = COMPOUND_STRING("Link standby!");
+const u8 gText_LinkStandby4[] = COMPOUND_STRING("{JPN}つうしん たいきちゅう!{ENG}");
 
-const u8 gText_AppealNumWhichMoveWillBePlayed[] = COMPOUND_STRING("Appeal no. {STR_VAR_1}!\nWhich move will be played?");
-const u8 gText_AppealNumButItCantParticipate[] = COMPOUND_STRING("Appeal no. {STR_VAR_1}!\nBut it can't participate!");
-const u8 gText_MonAppealedWithMove[] = COMPOUND_STRING("{STR_VAR_1} appealed with\n{STR_VAR_2}!");
-const u8 gText_MonWasWatchingOthers[] = COMPOUND_STRING("{STR_VAR_1} was watching\nthe others.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_AllOutOfAppealTime[] = COMPOUND_STRING("We're all out of\nAppeal Time!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_JudgeLookedAtMonExpectantly[] = COMPOUND_STRING("The JUDGE looked at\n{STR_VAR_1} expectantly.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_AppealComboWentOverWell[] = COMPOUND_STRING("The appeal combo went\nover well.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_AppealComboWentOverVeryWell[] = COMPOUND_STRING("The appeal combo went\nover very well.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_AppealComboWentOverExcellently[] = COMPOUND_STRING("The appeal combo went\nover excellently.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_MonWasTooNervousToMove[] = COMPOUND_STRING("{STR_VAR_1} was too\nnervous to move.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_CouldntImproveItsCondition[] = COMPOUND_STRING("But it couldn't improve\nits condition…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_BadConditionResultedInWeakAppeal[] = COMPOUND_STRING("Its bad condition\nresulted in a weak appeal.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_MonWasUnaffected[] = COMPOUND_STRING("{STR_VAR_1} was\nunaffected.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_RepeatedAppeal[] = COMPOUND_STRING("{STR_VAR_1} disappointed\nby repeating an appeal.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_MonsXWentOverGreat[] = COMPOUND_STRING("{STR_VAR_1}'s {STR_VAR_3}\nwent over great.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_MonsXDidntGoOverWell[] = COMPOUND_STRING("{STR_VAR_1}'s {STR_VAR_3}\ndidn't go over well here…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_MonsXGotTheCrowdGoing[] = COMPOUND_STRING("{STR_VAR_1}'s {STR_VAR_3}\ngot the crowd going.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_MonCantAppealNextTurn[] = COMPOUND_STRING("{STR_VAR_1} can't appeal\nnext turn…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_AttractedCrowdsAttention[] = COMPOUND_STRING("It attracted the crowd's\nattention.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_CrowdContinuesToWatchMon[] = COMPOUND_STRING("The crowd continues to\nwatch {STR_VAR_3}.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
-const u8 gText_MonsMoveIsIgnored[] = COMPOUND_STRING("{STR_VAR_1}'s\n{STR_VAR_2} is ignored.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}");
+const u8 gText_AppealNumWhichMoveWillBePlayed[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}かいめの アピール!\nどの わざを だす?{ENG}");
+const u8 gText_AppealNumButItCantParticipate[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}かいめの アピール!\nしかし さんか できない!{ENG}");
+const u8 gText_MonAppealedWithMove[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\n{ENG}{STR_VAR_2}{JPN}で アピール!{ENG}");
+const u8 gText_MonWasWatchingOthers[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nみんなを みていた!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_AllOutOfAppealTime[] = COMPOUND_STRING("{JPN}アピールタイム\nしゅうりょう!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_JudgeLookedAtMonExpectantly[] = COMPOUND_STRING("{JPN}しんさいんが きたいして\n{ENG}{STR_VAR_1}{JPN}を みつめた!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_AppealComboWentOverWell[] = COMPOUND_STRING("{JPN}アピールの くみあわせが\nきに いって もらえた!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_AppealComboWentOverVeryWell[] = COMPOUND_STRING("{JPN}アピールの くみあわせが\nかなり きに いられた!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_AppealComboWentOverExcellently[] = COMPOUND_STRING("{JPN}アピールの くみあわせが\nものすごく きに いられた!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_MonWasTooNervousToMove[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は きんちょうして\nうごけなかった!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_CouldntImproveItsCondition[] = COMPOUND_STRING("{JPN}でも ちょうしは\nあがらなかった…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_BadConditionResultedInWeakAppeal[] = COMPOUND_STRING("{JPN}ちょうしが よく なくて\nあまり うまく できなかった…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_MonWasUnaffected[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nへいき だった!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_RepeatedAppeal[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は おなじアピールを\nつづけて がっかり された!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_MonsXWentOverGreat[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}の {ENG}{STR_VAR_3}{JPN}が\nまわりに とても うけた!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_MonsXDidntGoOverWell[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}の {ENG}{STR_VAR_3}{JPN}は\nここでは うけなかった…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_MonsXGotTheCrowdGoing[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}の {ENG}{STR_VAR_3}{JPN}に\nまわりが もりあがった!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_MonCantAppealNextTurn[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は つぎの アピールに\nさんか できない…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_AttractedCrowdsAttention[] = COMPOUND_STRING("{JPN}かんきゃくの\nちゅうもくを あつめた!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_CrowdContinuesToWatchMon[] = COMPOUND_STRING("{JPN}かんきゃくは\n{ENG}{STR_VAR_3}{JPN}を みつづけている!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
+const u8 gText_MonsMoveIsIgnored[] = COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}の\n{ENG}{STR_VAR_2}{JPN}は むしされた…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{ENG}");
 
 static const u8 sSliderHeartYPositions[CONTESTANT_COUNT] =
 {
@@ -677,50 +677,50 @@ const struct ContestCategory gContestCategoryInfo[CONTEST_CATEGORIES_COUNT + 1] 
 {
     [CONTEST_CATEGORY_COOL] =
     {
-        .name = COMPOUND_STRING("COOL"),
-        .condition = COMPOUND_STRING("coolness"),
-        .generic = COMPOUND_STRING("COOL Move"),
-        .negativeTrait = COMPOUND_STRING("shyness"),
+        .name = COMPOUND_STRING("{JPN}かっこよさ{ENG}"),
+        .condition = COMPOUND_STRING("{JPN}かっこいい{ENG}"),
+        .generic = COMPOUND_STRING("{JPN}かっこいいわざ{ENG}"),
+        .negativeTrait = COMPOUND_STRING("{JPN}モジモジ{ENG}"),
         .palette = 13,
         .tile = 0x4040,
     },
 
     [CONTEST_CATEGORY_BEAUTY] =
     {
-        .name = COMPOUND_STRING("BEAUTY"),
-        .condition = COMPOUND_STRING("beauty"),
-        .generic = COMPOUND_STRING("BEAUTY Move"),
-        .negativeTrait = COMPOUND_STRING("anxiety"),
+        .name = COMPOUND_STRING("{JPN}うつくしさ{ENG}"),
+        .condition = COMPOUND_STRING("{JPN}うつくしい{ENG}"),
+        .generic = COMPOUND_STRING("{JPN}うつくしいわざ{ENG}"),
+        .negativeTrait = COMPOUND_STRING("{JPN}ドキドキ{ENG}"),
         .palette = 14,
         .tile = 0x4045,
     },
 
     [CONTEST_CATEGORY_CUTE] =
     {
-        .name = COMPOUND_STRING("CUTE"),
-        .condition = COMPOUND_STRING("cuteness"),
-        .generic = COMPOUND_STRING("CUTE Move"),
-        .negativeTrait = COMPOUND_STRING("laziness"),
+        .name = COMPOUND_STRING("{JPN}かわいさ{ENG}"),
+        .condition = COMPOUND_STRING("{JPN}かわいい{ENG}"),
+        .generic = COMPOUND_STRING("{JPN}かわいいわざ{ENG}"),
+        .negativeTrait = COMPOUND_STRING("{JPN}デレデレ{ENG}"),
         .palette = 14,
         .tile = 0x404A,
     },
 
     [CONTEST_CATEGORY_SMART] =
     {
-        .name = COMPOUND_STRING("SMART"),
-        .condition = COMPOUND_STRING("smartness"),
-        .generic = COMPOUND_STRING("SMART Move"),
-        .negativeTrait = COMPOUND_STRING("hesitancy"),
+        .name = COMPOUND_STRING("{JPN}かしこさ{ENG}"),
+        .condition = COMPOUND_STRING("{JPN}かしこい{ENG}"),
+        .generic = COMPOUND_STRING("{JPN}かしこいわざ{ENG}"),
+        .negativeTrait = COMPOUND_STRING("{JPN}オロオロ{ENG}"),
         .palette = 15,
         .tile = 0x406A,
     },
 
     [CONTEST_CATEGORY_TOUGH] =
     {
-        .name = COMPOUND_STRING("TOUGH"),
-        .condition = COMPOUND_STRING("toughness"),
-        .generic = COMPOUND_STRING("TOUGH Move"),
-        .negativeTrait = COMPOUND_STRING("fear"),
+        .name = COMPOUND_STRING("{JPN}たくましさ{ENG}"),
+        .condition = COMPOUND_STRING("{JPN}たくましい{ENG}"),
+        .generic = COMPOUND_STRING("{JPN}たくましいわざ{ENG}"),
+        .negativeTrait = COMPOUND_STRING("{JPN}ビクビク{ENG}"),
         .palette = 13,
         .tile = 0x408A,
     },
@@ -734,12 +734,12 @@ const struct ContestCategory gContestCategoryInfo[CONTEST_CATEGORIES_COUNT + 1] 
 // Takes the .attentionLevel of a contestant as an index.
 static const u8 *const sRoundResultTexts[] =
 {
-    COMPOUND_STRING("{STR_VAR_1} failed to\nstand out at all…{PAUSE_UNTIL_PRESS}"),
-    COMPOUND_STRING("{STR_VAR_1} didn't stand\nout very much…{PAUSE_UNTIL_PRESS}"),
-    COMPOUND_STRING("{STR_VAR_1} caught a\nlittle attention.{PAUSE_UNTIL_PRESS}"),
-    COMPOUND_STRING("{STR_VAR_1} attracted a\nlot of attention.{PAUSE_UNTIL_PRESS}"),
-    COMPOUND_STRING("{STR_VAR_1} commanded\ntotal attention.{PAUSE_UNTIL_PRESS}"),
-    COMPOUND_STRING("{STR_VAR_1} hasn't made\nits appeal.{PAUSE_UNTIL_PRESS}"),
+    COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nぜんぜん めだたなかった…{PAUSE_UNTIL_PRESS}{ENG}"),
+    COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nあんまり めだたなかった…{PAUSE_UNTIL_PRESS}{ENG}"),
+    COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nまあまあ めだった!{PAUSE_UNTIL_PRESS}{ENG}"),
+    COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nかなり めだった!{PAUSE_UNTIL_PRESS}{ENG}"),
+    COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nものすごく めだった!{PAUSE_UNTIL_PRESS}{ENG}"),
+    COMPOUND_STRING("{JPN}{ENG}{STR_VAR_1}{JPN}は\nアピール していない!{PAUSE_UNTIL_PRESS}{ENG}"),
 };
 
 static const struct BgTemplate sContestBgTemplates[] =

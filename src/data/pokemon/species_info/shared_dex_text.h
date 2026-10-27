@@ -1,279 +1,146 @@
 // fallback
 const u8 gFallbackPokedexText[] = _(
-    "This is a newly discovered Pokémon.\n"
-    "It is currently under investigation.\n"
-    "No detailed information is available\n"
-    "at this time.");
+    "{JPN}あたらしく はっけんされた ポケモン。\nげんざい ちょうさちゅう。\nくわしい じょうほうは まだ ない。{ENG}");
 
 // Gen 1 families
 const u8 gRaticateAlolaPokedexText[] = _(
-    "It forms a group of Rattata, which it \n"
-    "assumes command of. Each group\n"
-    "has its own territory, and disputes\n"
-    "over food happen often.");
+    "{JPN}コラッタの むれを つくり それを ひきいる。\nむれごとに なわばりが あり\nエサを めぐる あらそいが たえない。{ENG}");
 
 const u8 gPichuPokedexText[] = _(
-    "It is still inept at retaining electricity.\n"
-    "When it is startled, it discharges power\n"
-    "accidentally. It gets better at holding\n"
-    "power as it grows older.");
+    "{JPN}でんきを ためておく ことが まだ ヘタ。\nびっくりすると おもわず ほうでんしてしまう。\nせいちょうすると じょうずに なっていく。{ENG}");
 
 const u8 gPikachuPokedexText[] = _(
     "{JPN}ほっぺたの でんきぶくろに でんきを ためる。\nおもいっきり ほうでんすると かみなりに\nひってきする でんきを はなつ ことが できる。{ENG}");
 
 const u8 gMarowakAlolaPokedexText[] = _(
-    "The cursed flames that light up the bone\n"
-    "carried by this Pokémon are said\n"
-    "to cause both mental and physical\n"
-    "pain that will never fade.");
+    "{JPN}この ポケモンが もつ ほねを てらす\nのろいの ほのおは こころにも からだにも\nきえない いたみを あたえると いわれる。{ENG}");
 
 const u8 gEeveePokedexText[] = _(
-    "An Eevee has an unstable genetic makeup\n"
-    "that suddenly mutates due to its\n"
-    "environment. Radiation from various\n"
-    "Stones causes this Pokémon to evolve.");
+    "{JPN}くらしている かんきょうで とつぜんへんい する\nふあんていな いでんしを もつ ポケモン。\nいしの ほうしゃせんが しんかを ひきおこす。{ENG}");
 
 // Gen 2 families
 const u8 gUnownPokedexText[] = _(
-    "This Pokémon is shaped like ancient text\n"
-    "characters. Although research is ongoing,\n"
-    "it is a mystery as to which came first,\n"
-    "the ancient writings or the various Unown.");
+    "{JPN}こだいの もじに にた すがたの ポケモン。\nさきに うまれたのは もじか アンノーンなのか。\nけんきゅうちゅうだが いまだに なぞである。{ENG}");
 
 // Gen 4 families
 const u8 gMothimPokedexText[] = _(
-    "It does not keep a nest. While it\n"
-    "loves floral honey, it won't gather\n"
-    "any itself. Instead, it plots to steal\n"
-    "honey collected by Combee.");
+    "{JPN}すを もたない。 はなの ミツが だいすきだが\nじぶんでは あつめず ミツハニーが\nあつめた ミツを よこどりしようと たくらむ。{ENG}");
 
 const u8 gArceusPokedexText[] = _(
-    "It is told in mythology that this Pokémon\n"
-    "emerged from an egg and shaped all there\n"
-    "is in this world, before the universe\n"
-    "even existed.");
+    "{JPN}なにも ない ばしょに あった\nタマゴのなかから すがたを あらわし\nせかいを うみだしたと されている。{ENG}");
 
 // Gen 5 families
 const u8 gGenesectPokedexText[] = _(
-    "Over 300 million years ago, it was\n"
-    "feared as the strongest of hunters.\n"
-    "Team Plasma altered it and attached\n"
-    "a cannon to its back.");
+    "{JPN}3おくねん いじょう まえ さいきょうの\nハンターとして おそれられていた。\nプラズマだんに かいぞうされ せなかに\nほうだいを とりつけられた。{ENG}");
 
 // Gen 6 families
 const u8 gGreninjaPokedexText[] = _(
-    "It appears and vanishes with a ninja's\n"
-    "grace. It toys with its enemies using\n"
-    "swift movements, while slicing them with\n"
-    "throwing stars made of compressed water.");
+    "{JPN}にんじゃの ように みがるに あらわれては\nきえる。 すばやい うごきで てきを ほんろうし\nあっしゅくした みずの しゅりけんで きりさく。{ENG}");
 
 const u8 gScatterbugPokedexText[] = _(
-    "When under attack from bird Pokémon,\n"
-    "it spews a poisonous black powder that\n"
-    "causes paralysis on contact. Scatterbug\n"
-    "can live in any region or climate.");
+    "{JPN}とりポケモンに おそわれると ふれると\nマヒする くろい どくの こなを はきだす。\nコフキムシは どんな ちいきや きこうでも\nくらせる。{ENG}");
 
 const u8 gSpewpaPokedexText[] = _(
-    "It lives hidden within thicket shadows.\n"
-    "When predators attack, it quickly bristles\n"
-    "the fur covering its body in an effort to\n"
-    "threaten them.");
+    "{JPN}しげみの かげに かくれて くらす。\nてきに おそわれると からだの けを\nするどく さかだてて いかくする。{ENG}");
 
 const u8 gFurfrouPokedexText[] = _(
-    "Trimming its fluffy fur not only makes\n"
-    "it more elegant but also increases the\n"
-    "swiftness of its movements. These\n"
-    "Pokémon were the guardians of kings.");
+    "{JPN}ふわふわの たいもうを かりこむと\nうつくしくなる だけでなく うごきの\nすばやさも ます。 むかしは おうさまの\nまもりてだった。{ENG}");
 
 const u8 gXerneasPokedexText[] = _(
-    "Legends say that when the horns on\n"
-    "its head shine in seven colors, it is\n"
-    "sharing everlasting life. It slept for a\n"
-    "thousand years in the form of a tree");
+    "{JPN}あたまの ツノが なないろに かがやくとき\nえいえんの いのちを わけあたえると いう。\nじゅもくの すがたで 1000ねん ねむっていた。{ENG}");
 
 const u8 gZygarde50PokedexText[] = _(
-    "It's said to be monitoring the ecosystem\n"
-    "from deep in the caves where it lives.\n"
-    "There are rumors that even greater power\n"
-    "lies hidden within its cells.");
+    "{JPN}すみかの どうくつの おくふかくから\nせいたいけいを かんししていると いう。\nさいぼうには さらに おおきな ちからが\nひめられていると うわさされている。{ENG}");
 
 const u8 gZygarde10PokedexText[] = _(
-    "This is Zygarde when about 10% of\n"
-    "its pieces have been assembled. It\n"
-    "leaps at its opponent's chest and\n"
-    "sinks its sharp fangs into them.");
+    "{JPN}ジガルデの いちぶが 1わりほど\nあつまった。 あいての ふところに\nとびかかり するどいキバで かみつく。{ENG}");
 
 // Gen 7 families
 const u8 gGumshoosPokedexText[] = _(
-    "When it finds a trace of its prey, it\n"
-    "patiently stakes out the location...\n"
-    "but as it's diurnal, it's always snoozing\n"
-    "by nightfall.");
+    "{JPN}えものの けはいを みつけると\nじっと はりこみを つづける。 だが\nひるがたなので よるには いつも\nいねむりしてしまう。{ENG}");
 
 const u8 gVikavoltPokedexText[] = _(
-    "It concentrates electrical energy within\n"
-    "its large jaws and uses it to zap its foes.\n"
-    "It overwhelms bird Pokémon with shocking\n"
-    "beams of electrical energy.");
+    "{JPN}おおアゴに でんきエネルギーを あつめ\nてきに でんげきを あびせる。\nすさまじい でんきの ビームで\nとりポケモンを あっとうする。{ENG}");
 
 const u8 gRibombeePokedexText[] = _(
-    "Ribombee rolls up pollen into puffs.\n"
-    "It makes many different varieties, some\n"
-    "used as food and others used in battle.\n"
-    "They are sometimes sold as supplements.");
+    "{JPN}かふんを まるめて だんごを つくる。\nたべものに なる ものや たたかいで\nつかう ものなど しゅるいは さまざま。\nサプリとして うられる ことも ある。{ENG}");
 
 const u8 gRockruffPokedexText[] = _(
-    "This Pokémon has lived with people since\n"
-    "times long ago. It can sense when its\n"
-    "Trainer is in the dumps and will stick\n"
-    "close by its Trainer's side.");
+    "{JPN}おおむかしから ひとと くらしてきた。\nトレーナーが おちこんでいると それを\nさっして そばに よりそう。{ENG}");
 
 const u8 gAraquanidPokedexText[] = _(
-    "Despite what its appearance suggests,\n"
-    "it cares for others. If it finds vulnerable,\n"
-    "weak Pokémon, it protectively brings\n"
-    "them into its water bubble.");
+    "{JPN}みためと ちがって めんどうみが よい。\nよわった ポケモンを みつけると\nまもるため すいほうの なかに いれる。{ENG}");
 
 const u8 gLurantisPokedexText[] = _(
-    "It requires a lot of effort to maintain\n"
-    "Lurantis's vivid coloring, but some\n"
-    "collectors enjoy this work and treat it\n"
-    "as their hobby.");
+    "{JPN}ラランテスの あざやかな いろを たもつには\nたいへんな てまが かかるが それを\nしゅみとして たのしむ コレクターも いる。{ENG}");
 
 const u8 gSalazzlePokedexText[] = _(
-    "For some reason, only females have\n"
-    "been found. It creates a reverse harem of\n"
-    "male Salandit to live with. Its poisonous\n"
-    "gas is filled with pheromones.");
+    "{JPN}なぜか メスしか みつかっていない。\nオスの ヤトウモリを はべらせて くらす。\nどくの ガスには フェロモンが\nたっぷり ふくまれている。{ENG}");
 
 const u8 gSilvallyNormalPokedexText[] = _(
-    "Its trust in its partner awakens it.\n"
-    "This Pokémon is capable of changing its\n"
-    "type by equipping special memories, a\n"
-    "trait that is well displayed in battle.");
+    "{JPN}パートナーへの しんらいで めざめた。\nとくべつな メモリを そうちゃくすると\nタイプを かえる ことが でき\nたたかいで その ちからを はっきする。{ENG}");
 
 const u8 gSilvallyMemoryPokedexText[] = _(
-    "Upon awakening, its RKS System is\n"
-    "activated. By employing specific\n"
-    "memories, this Pokémon can adapt its\n"
-    "type to confound its enemies.");
+    "{JPN}めざめると ARシステムが きどうする。\nとくていの メモリを つかうことで\nタイプを かえ てきを まどわせる。{ENG}");
 
 const u8 gMiniorMeteorPokedexText[] = _(
-    "Originally making its home in the ozone\n"
-    "layer, it hurtles to the ground when the\n"
-    "shell encasing its body grows too heavy.\n"
-    "It was born from mutated nanoparticles.");
+    "{JPN}もとは オゾンそうに すんでいるが\nからが おもく なりすぎると ちじょうに\nおちてくる。 とつぜんへんいした\nナノりゅうしから うまれた。{ENG}");
 
 const u8 gMiniorCorePokedexText[] = _(
-    "If its core stays exposed, it will\n"
-    "soon die off. It's possible that it\n"
-    "may survive if it's put into a Poké Ball\n"
-    "quickly enough.");
+    "{JPN}コアが むきだしの ままだと やがて\nしんでしまう。 はやめに モンスターボールに\nいれれば たすかる かもしれない。{ENG}");
 
 const u8 gTogedemaruPokedexText[] = _(
-    "The spiny fur on its back is normally\n"
-    "at rest. When this Pokémon becomes\n"
-    "agitated, its fur stands on end and stabs\n"
-    "into its attackers.");
+    "{JPN}せなかの トゲの けは ふだんは ねている。\nこうふんすると けが さかだち\nおそってきた あいてに つきささる。{ENG}");
 
 const u8 gMimikyuDisguisedPokedexText[] = _(
-    "A lonely Pokémon, it hides its terrifying\n"
-    "appearance beneath an old rag so it can\n"
-    "get closer to people and other Pokémon.\n"
-    "Its actual appearance is unknown.");
+    "{JPN}さびしがりやの ポケモン。 ひとや ポケモンに\nちかづくため おそろしい すがたを\nふるい ぬので かくしている。\nほんとうの すがたは わかっていない。{ENG}");
 
 const u8 gMimikyuBustedPokedexText[] = _(
-    "After going to all the effort of\n"
-    "disguising itself, its neck was\n"
-    "broken. Whatever is inside is probably\n"
-    "unharmed, but it's still feeling sad.");
+    "{JPN}せっかく ばけたのに くびが おれてしまった。\nなかみは たぶん ぶじだが\nそれでも かなしい きもちで いる。{ENG}");
 
 const u8 gKommoOPokedexText[] = _(
-    "Its rigid scales function as offense and\n"
-    "defense. In the past, its scales were\n"
-    "processed and used to make weapons\n"
-    "and other valuable commodities.");
+    "{JPN}かたい ウロコは こうげきにも ぼうぎょにも\nつかわれる。 むかしは ウロコを かこうして\nぶきや きちょうな しなものを つくっていた。{ENG}");
 
 // Gen 8 families
 const u8 gAlcremieVanillaCreamPokedexText[] = _(
-    "If Alcremie is content, the secreted cream\n"
-    "from its hands becomes sweeter and richer.\n"
-    "When it trusts a Trainer, it will treat\n"
-    "them to berries it's decorated with cream.");
+    "{JPN}まんぞくしていると てから だす クリームが\nあまく こくなる。 しんらいする トレーナーには\nクリームで デコレーションした きのみを ふるまう。{ENG}");
 
 const u8 gAlcremieRubyCreamPokedexText[] = _(
-    "The moment it evolved, it took on a\n"
-    "sweet and tart flavor. This is\n"
-    "because of the way its cells\n"
-    "spontaneously shifted during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nあまずっぱい フレーバーに なった。{ENG}");
 
 const u8 gAlcremieMatchaCreamPokedexText[] = _(
-    "The moment it evolved, it took on\n"
-    "an aromatic flavor. This is because\n"
-    "of the way its cells spontaneously\n"
-    "shifted during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nこうばしい フレーバーに なった。{ENG}");
 
 const u8 gAlcremieMintCreamPokedexText[] = _(
-    "The moment it evolved, it took on a\n"
-    "refreshing flavor. This is because\n"
-    "of the way its cells spontaneously\n"
-    "shifted during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nさわやかな フレーバーに なった。{ENG}");
 
 const u8 gAlcremieLemonCreamPokedexText[] = _(
-    "The moment it evolved, it took on a\n"
-    "sour flavor. This is because of the\n"
-    "way its cells spontaneously shifted\n"
-    "during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nすっぱい フレーバーに なった。{ENG}");
 
 const u8 gAlcremieSaltedCreamPokedexText[] = _(
-    "The moment it evolved, it took on a\n"
-    "salty flavor. This is because of the\n"
-    "way its cells spontaneously shifted\n"
-    "during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nしょっぱい フレーバーに なった。{ENG}");
 
 const u8 gAlcremieRubySwirlPokedexText[] = _(
-    "The moment it evolved, it took on a\n"
-    "mixed flavor. This is because of the\n"
-    "way its cells spontaneously shifted\n"
-    "during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nミックスな フレーバーに なった。{ENG}");
 
 const u8 gAlcremieCaramelSwirlPokedexText[] = _(
-    "The moment it evolved, it took on a\n"
-    "bitter flavor. This is because of\n"
-    "the way its cells spontaneously\n"
-    "shifted during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nにがみある フレーバーに なった。{ENG}");
 
 const u8 gAlcremieRainbowSwirlPokedexText[] = _(
-    "The moment it evolved, it took on a\n"
-    "complex flavor. This is because of\n"
-    "the way its cells spontaneously\n"
-    "shifted during evolution.");
+    "{JPN}しんかの しゅんかん からだの\nさいぼうが ゆれうごく ことで\nふくざつな フレーバーに なった。{ENG}");
 
 const u8 gToxtricityGigantamaxPokedexText[] = _(
-    "Out of control after its own\n"
-    "poison penetrated its brain, it tears\n"
-    "across the land in a rampage,\n"
-    "contaminating the earth with toxic sweat.");
+    "{JPN}どくが のうまで めぐり ぼうそう。\nあばれるたび どくの あせが\nほとばしり だいちを けがす。{ENG}");
 
 // Gen 9 families
 const u8 gOgerponTealMaskPokedexText[] = _(
-    "This Pokémon's type changes based on\n"
-    "which mask it's wearing. It confounds\n"
-    "its enemies with nimble movements\n"
-    "and kicks.");
+    "{JPN}つける おめんに よって タイプが かわる。\nすばやい うごきと キックで\nてきを ほんろうする。{ENG}");
 
 const u8 gOgerponWellspringMaskPokedexText[] = _(
-    "This form excels in both attack\n"
-    "and defense. It ceaselessly unleashes\n"
-    "moves like a spring gushes water.");
+    "{JPN}こうげきと ぼうぎょの どちらにも\nすぐれた すがた。 いずみが わきでる ように\nたえまなく わざを くりだす。{ENG}");
 
 const u8 gOgerponHearthflameMaskPokedexText[] = _(
-    "This form is the most aggressive,\n"
-    "bombarding enemies with the intensity\n"
-    "of flames blazing within a hearth.");
+    "{JPN}もっとも こうげきてきな すがた。\nかまどで もえさかる ほのおの ような\nはげしさで てきを せめたてる。{ENG}");
 
 const u8 gOgerponCornerstoneMaskPokedexText[] = _(
-    "In this form, it draws on the power\n"
-    "of stone. Its body is rock-solid,\n"
-    "protecting it from all manner of\n"
-    "attacks.");
+    "{JPN}いわのちからを ひきだす すがた。\nがんじょうな いしの からだで\nあらゆる こうげきから みをまもる。{ENG}");

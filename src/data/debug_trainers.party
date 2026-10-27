@@ -12,7 +12,7 @@ Start Debug Battle action is selected.
 */
 
 === DEBUG_TRAINER_PLAYER ===
-Name: Player
+Name: {JPN}プレイヤー{ENG}
 Class: Pkmn Trainer 1
 Pic: Brendan
 Gender: Male
@@ -29,7 +29,7 @@ EVs: 252 Atk / 252 Def / 6 SpA
 - Celebrate
 
 === DEBUG_TRAINER_AI ===
-Name: Debugger
+Name: {JPN}デバッガー{ENG}
 AI: Smart Trainer
 Class: Rival
 Battle Type: Singles

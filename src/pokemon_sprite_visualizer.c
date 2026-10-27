@@ -473,45 +473,45 @@ static const struct SubmenuText sSubmenuText[] =
 {
     [SUBMENU_SPECIES] =
     {
-        .instructions = COMPOUND_STRING("{START_BUTTON} Shiny\n{B_BUTTON} Exit  {A_BUTTON} Anims and BG$"),
-        .instructionsGender = COMPOUND_STRING("{START_BUTTON} Shiny {SELECT_BUTTON} Gender\n{B_BUTTON} Exit  {A_BUTTON} Anims and BG$"),
+        .instructions = COMPOUND_STRING("{JPN}{START_BUTTON} いろ\n{ENG}{B_BUTTON}{JPN} おわる  {A_BUTTON} うごきとBG${ENG}"),
+        .instructionsGender = COMPOUND_STRING("{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\n{ENG}{B_BUTTON}{JPN} おわる  {A_BUTTON} うごきとBG${ENG}"),
     },
 
     [SUBMENU_ANIMS_BG] =
     {
-        .instructions = COMPOUND_STRING("{START_BUTTON} Shiny\n{B_BUTTON} Back  {A_BUTTON} Sprite Coords$"),
-        .instructionsGender = COMPOUND_STRING("{START_BUTTON} Shiny {SELECT_BUTTON} Gender\n{B_BUTTON} Back  {A_BUTTON} Sprite Coords$"),
+        .instructions = COMPOUND_STRING("{JPN}{START_BUTTON} いろ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} ざひょう${ENG}"),
+        .instructionsGender = COMPOUND_STRING("{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} ざひょう${ENG}"),
     },
 
     [SUBMENU_SPRITE_COORDS] =
     {
 #if B_ENEMY_MON_SHADOW_STYLE >= GEN_4 && P_GBA_STYLE_SPECIES_GFX == FALSE
-        .instructions = COMPOUND_STRING("{START_BUTTON} Shiny\n{B_BUTTON} Back  {A_BUTTON} Shadow Coords$"),
-        .instructionsGender = COMPOUND_STRING("{START_BUTTON} Shiny {SELECT_BUTTON} Gender\n{B_BUTTON} Back  {A_BUTTON} Shadow Coords$"),
+        .instructions = COMPOUND_STRING("{JPN}{START_BUTTON} いろ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} かげ ざひょう${ENG}"),
+        .instructionsGender = COMPOUND_STRING("{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} かげ ざひょう${ENG}"),
 #else
-        .instructions = COMPOUND_STRING("{START_BUTTON} Shiny\n{B_BUTTON} Back  {A_BUTTON} Move BGs$"),
-        .instructionsGender = COMPOUND_STRING("{START_BUTTON} Shiny {SELECT_BUTTON} Gender\n{B_BUTTON} Back  {A_BUTTON} Move BGs$"),
+        .instructions = COMPOUND_STRING("{JPN}{START_BUTTON} いろ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}"),
+        .instructionsGender = COMPOUND_STRING("{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}"),
 #endif
-        .bottomLeft = COMPOUND_STRING("B coords:\nF coords:\nF elev:"),
+        .bottomLeft = COMPOUND_STRING("{JPN}Bざひょう:\nFざひょう:\nFたかさ:{ENG}"),
     },
 
     [SUBMENU_SHADOW_COORDS] =
     {
 #if B_ENEMY_MON_SHADOW_STYLE >= GEN_4 && P_GBA_STYLE_SPECIES_GFX == FALSE
-        .instructions = COMPOUND_STRING("{START_BUTTON} Shiny\n{B_BUTTON} Back  {A_BUTTON} Move BGs$"),
-        .instructionsGender = COMPOUND_STRING("{START_BUTTON} Shiny\n{B_BUTTON} Back  {A_BUTTON} Move BGs$"),
+        .instructions = COMPOUND_STRING("{JPN}{START_BUTTON} いろ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}"),
+        .instructionsGender = COMPOUND_STRING("{JPN}{START_BUTTON} いろ\n{ENG}{B_BUTTON}{JPN} もどる  {A_BUTTON} わざBG${ENG}"),
 #else
         .instructions = COMPOUND_STRING("$"),
         .instructionsGender = COMPOUND_STRING("$"),
 #endif
-        .bottomLeft = COMPOUND_STRING("X coords:\nY coords:\nSize:"),
+        .bottomLeft = COMPOUND_STRING("{JPN}Xざひょう:\nYざひょう:\nサイズ:{ENG}"),
     },
 
     [SUBMENU_MOVE_BACKGROUNDS] =
     {
-        .instructions = COMPOUND_STRING("{START_BUTTON} Shiny\n{B_BUTTON} Back$"),
-        .instructionsGender = COMPOUND_STRING("{START_BUTTON} Shiny {SELECT_BUTTON} Gender\n{B_BUTTON} Back$"),
-        .bottomLeft = COMPOUND_STRING("Move BG:"),
+        .instructions = COMPOUND_STRING("{JPN}{START_BUTTON} いろ\n{ENG}{B_BUTTON}{JPN} もどる${ENG}"),
+        .instructionsGender = COMPOUND_STRING("{JPN}{START_BUTTON} いろ {SELECT_BUTTON} せいべつ\n{ENG}{B_BUTTON}{JPN} もどる${ENG}"),
+        .bottomLeft = COMPOUND_STRING("{JPN}はいけい:{ENG}"),
     },
 };
 
@@ -521,8 +521,8 @@ static void PrintInstructionsOnWindow(struct PokemonSpriteVisualizer *data)
     u8 x = 2;
     u16 species = IsSpeciesEnabled(data->modifyArrows.currValue) ? SanitizeSpeciesId(data->modifyArrows.currValue) : SPECIES_NONE;
 
-    u8 textBottom[] = _("BACK:\nFRONT:\nBG:$");
-    u8 textBottomForms[] = _("BACK:\nFRONT:\nBG:\nFORMS:$");
+    u8 textBottom[] = _("{JPN}うしろ:\nまえ:\nBG:${ENG}");
+    u8 textBottomForms[] = _("{JPN}うしろ:\nまえ:\nBG:\nすがた:${ENG}");
 
     u8 textL[] = _("{L_BUTTON}");
     u8 textR[] = _("{R_BUTTON}");
@@ -1093,8 +1093,8 @@ static void UpdateYPosOffsetText(struct PokemonSpriteVisualizer *data)
 {
     u8 text[34];
     u8 fontId = FONT_SMALL;
-    u8 textConst[] = _("const val:");
-    u8 textNew[] = _("new val:");
+    u8 textConst[] = _("{JPN}こてい:{ENG}");
+    u8 textNew[] = _("{JPN}しんち:{ENG}");
     u8 x_const_val = 50;
     u8 x_new_text = 70;
     u8 x_new_val = 110;
@@ -1154,8 +1154,8 @@ static void UpdateShadowSettingsText(struct PokemonSpriteVisualizer *data)
 
     u8 text[16];
     u8 fontId = FONT_SMALL;
-    u8 textConst[] = _("const val:");
-    u8 textNew[] = _("new val:");
+    u8 textConst[] = _("{JPN}こてい:{ENG}");
+    u8 textNew[] = _("{JPN}しんち:{ENG}");
     u8 x_const_val = 50;
     u8 x_new_text = 70;
     u8 x_new_val = 110;

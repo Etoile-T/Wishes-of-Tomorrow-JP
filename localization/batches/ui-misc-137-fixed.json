@@ -1,0 +1,1330 @@
+[
+ {
+  "id": "f7c044034c7888b0",
+  "translation": "{JPN_NAME_7}ちいさいつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f5ad789717538af4",
+  "translation": "{JPN_NAME_7}ちいさいつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9d8e3a44e27e5152",
+  "translation": "{JPN_NAME_7}ポケモンつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "81f5e598e6df8a56",
+  "translation": "{JPN_NAME_7}ずっしりつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f92a6d2b4fef950c",
+  "translation": "{JPN_NAME_7}ゴツゴツつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "74d8f6e00d1b880b",
+  "translation": "{JPN_NAME_7}ふわふわつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "81ea3ab846bfe458",
+  "translation": "{JPN_NAME_7}きれいなつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c7df391d749209a0",
+  "translation": "{JPN_NAME_7}レンガのつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e229ba4d81bdc884",
+  "translation": "{JPN_NAME_7}キャンプつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fe958e7bc394bdfe",
+  "translation": "{JPN_NAME_6}かたいつくえ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "563f9ab4e4c0cfc3",
+  "translation": "{JPN_NAME_6}ちいさいイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8c16ae9157c3d911",
+  "translation": "{JPN_NAME_6}ポケモンイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "72e79c1f077660ff",
+  "translation": "{JPN_NAME_6}ずっしりイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c518fe6df740c74f",
+  "translation": "{JPN_NAME_6}きれいなイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "cffa945a87d08dd4",
+  "translation": "{JPN_NAME_7}ふわふわのイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a89732028770a041",
+  "translation": "{JPN_NAME_7}ゴツゴツのイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "82867a3579015edb",
+  "translation": "{JPN_NAME_6}レンガのイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f9aae64ad97a6c1e",
+  "translation": "{JPN_NAME_6}キャンプイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ed9ab42bdaa9673d",
+  "translation": "{JPN_NAME_5}かたいイス",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "62c37d1314b296af",
+  "translation": "{JPN_NAME_7}まっかなうえき",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "45d922d3ded266bc",
+  "translation": "{JPN_NAME_8}なんごくのうえき",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "006764952effa27a",
+  "translation": "{JPN_NAME_6}かわいいはな",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1fe3d44ab2286808",
+  "translation": "{JPN_NAME_8}カラフルなうえき",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e5f9872f06acd6b7",
+  "translation": "{JPN_NAME_7}おっきなうえき",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4775ef66c5d3715d",
+  "translation": "{JPN_NAME_7}りっぱなうえき",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1c83fdfc4650b320",
+  "translation": "{JPN_NAME_6}あかいレンガ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "309a786560798d76",
+  "translation": "{JPN_NAME_7}きいろいレンガ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7e7c9d0be847a879",
+  "translation": "{JPN_NAME_6}あおいレンガ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0b9725b7352a904c",
+  "translation": "{JPN_NAME_7}あかいふうせん",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "611bc246fe8a6773",
+  "translation": "{JPN_NAME_7}あおいふうせん",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "40b3de727d75e16c",
+  "translation": "{JPN_NAME_8}きいろいふうせん",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e495854c0674f928",
+  "translation": "{JPN_NAME_6}あかいテント",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6396eac14610aec5",
+  "translation": "{JPN_NAME_6}あおいテント",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "94cc924390feaa39",
+  "translation": "{JPN_NAME_7}じょうぶないた",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "88e0f24236003144",
+  "translation": "{JPN_NAME_5}すべりだい",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9a243d4c50010421",
+  "translation": "{JPN_NAME_5}タテのさく",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ba326caa649b94b0",
+  "translation": "{JPN_NAME_5}ヨコのさく",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0101d39a68393e38",
+  "translation": "{JPN_NAME_3}タイヤ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4dcec05efc2a49bc",
+  "translation": "{JPN_NAME_6}おおきなだい",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "707e553854a6b843",
+  "translation": "{JPN_NAME_5}どろだんご",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3092357a192ded09",
+  "translation": "{JPN_NAME_6}やぶれるドア",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "331413caddb4a584",
+  "translation": "{JPN_NAME_7}すなのおきもの",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "05d0efd03b5987c2",
+  "translation": "{JPN_NAME_5}ぎんのたて",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "bf9d590270d02aad",
+  "translation": "{JPN_NAME_5}きんのたて",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "96ea122e4811efda",
+  "translation": "{JPN_NAME_8}ガラスのオブジェ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d774f8cf77e9ed0c",
+  "translation": "{JPN_NAME_3}テレビ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "10946aafdc6c7c13",
+  "translation": "{JPN_NAME_6}まるいテレビ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7910a86336860370",
+  "translation": "{JPN_NAME_7}かわいいテレビ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4a2830e7d2e06658",
+  "translation": "{JPN_NAME_7}きらきらマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7d056a604a8d5a53",
+  "translation": "{JPN_NAME_7}ジャンプマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f1d551d2d4f75855",
+  "translation": "{JPN_NAME_7}くるっとマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b64da2ba2cffb0fb",
+  "translation": "{JPN_NAME_8}おんぷマットCL",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b6df07dc8f71af19",
+  "translation": "{JPN_NAME_7}おんぷマットD",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4518ed6bb0379fa2",
+  "translation": "{JPN_NAME_7}おんぷマットE",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "804aa23c86a07db2",
+  "translation": "{JPN_NAME_7}おんぷマットF",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2f95841a74b01a3f",
+  "translation": "{JPN_NAME_7}おんぷマットG",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "506fc46966024edb",
+  "translation": "{JPN_NAME_7}おんぷマットA",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "cc0d63023d3053fa",
+  "translation": "{JPN_NAME_7}おんぷマットB",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6fba74b492e3f4f2",
+  "translation": "{JPN_NAME_8}おんぷマットCH",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8094f781ba157e74",
+  "translation": "{JPN_NAME_7}なみのりマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ad119ecb048bf2f8",
+  "translation": "{JPN_NAME_7}かみなりマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "aa23b711e50cbedc",
+  "translation": "{JPN_NAME_8}だいもんじマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ef859f1fc38e91b2",
+  "translation": "{JPN_NAME_7}こなゆきマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0760a99a34e718e7",
+  "translation": "{JPN_NAME_7}メロメロマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5b4a5f247e2075c0",
+  "translation": "{JPN_NAME_6}じわれマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2ed305e38704c07b",
+  "translation": "{JPN_NAME_7}まきびしマット",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "54e0f1038e79ea7e",
+  "translation": "{JPN_NAME_7}ボールポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3019cb47acb38a73",
+  "translation": "{JPN_NAME_8}みどりのポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8c3cbf7432ff7d91",
+  "translation": "{JPN_NAME_7}あかいポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a642e6614acf4786",
+  "translation": "{JPN_NAME_8}みずいろポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "aa24b76f6c4aa528",
+  "translation": "{JPN_NAME_8}かわいいポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "842db2cd5825d418",
+  "translation": "{JPN_NAME_8}ピカピカポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a25be916df0dc5fc",
+  "translation": "{JPN_NAME_7}ながいポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3c7e0e7757078293",
+  "translation": "{JPN_NAME_7}うみのポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c135787a6c33d17f",
+  "translation": "{JPN_NAME_7}そらのポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6b2c16198ee044e6",
+  "translation": "{JPN_NAME_7}キッスポスター",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ec9bf1732796aaf3",
+  "translation": "{JPN_NAME_7}ピチュードール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b8cd5654e8baea88",
+  "translation": "{JPN_NAME_8}ピカチュウドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2581c47f82f2485f",
+  "translation": "{JPN_NAME_6}マリルドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e07c7c4ffb8068f9",
+  "translation": "{JPN_NAME_7}トゲピードール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "468f517f55878578",
+  "translation": "{JPN_NAME_8}ヒノアラシドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "efa291e43b3b0717",
+  "translation": "{JPN_NAME_8}チコリータドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7af1348411b1e520",
+  "translation": "{JPN_NAME_7}ワニノコドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "98cf684835158168",
+  "translation": "{JPN_NAME_6}プリンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d06f7f65a5bf52d8",
+  "translation": "{JPN_NAME_7}ニャースドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "50156d39eb8f05dc",
+  "translation": "{JPN_NAME_6}ピッピドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5a710b94c9f8d78b",
+  "translation": "{JPN_NAME_7}メタモンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8ce187720df90a4b",
+  "translation": "{JPN_NAME_8}ムチュールドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8c78b6102e5ebfc9",
+  "translation": "{JPN_NAME_6}キモリドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "93ed0895dc993e42",
+  "translation": "{JPN_NAME_7}アチャモドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "acf6a5f8645bf1ef",
+  "translation": "{JPN_NAME_8}ミズゴロウドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f097ca84c4caf772",
+  "translation": "{JPN_NAME_7}ヨマワルドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e8563e2871cdc05f",
+  "translation": "{JPN_NAME_7}ソーナノドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "58bd4c67c2d5421c",
+  "translation": "{JPN_NAME_7}ヤジロンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f84601f8f87486c5",
+  "translation": "{JPN_NAME_8}カクレオンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "94e28f956f3251a7",
+  "translation": "{JPN_NAME_6}ルリリドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3bd89a95e0e947e5",
+  "translation": "{JPN_NAME_6}エネコドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "485672a0b5caec02",
+  "translation": "{JPN_NAME_7}チルットドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "22c3ec802de10a59",
+  "translation": "{JPN_NAME_7}ゴクリンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5aee9a60409462e4",
+  "translation": "{JPN_NAME_7}ハスボードール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "bd19a5429c6e1a41",
+  "translation": "{JPN_NAME_7}タネボードール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a6910075fef4818a",
+  "translation": "{JPN_NAME_7}ピカクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "901084dc3cab9b42",
+  "translation": "{JPN_NAME_8}まるいクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7dd20706d74c18b6",
+  "translation": "{JPN_NAME_8}キッスクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b9393bd7d4ed125d",
+  "translation": "{JPN_NAME_8}ジグザクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "77ee197f6b0eb225",
+  "translation": "{JPN_NAME_8}グルルクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0d6c52fc5a4ad4f1",
+  "translation": "{JPN_NAME_8}ダイヤクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ff5f241e03f578d1",
+  "translation": "{JPN_NAME_8}ボールクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "078c3b4c820a6077",
+  "translation": "{JPN_NAME_7}くさクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5b72e5c16c480b95",
+  "translation": "{JPN_NAME_8}ほのおクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b08b9741d2d5c8af",
+  "translation": "{JPN_NAME_7}みずクッション",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "cdd49019cc852f82",
+  "translation": "{JPN_NAME_7}カビゴンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ac21b32407f759dc",
+  "translation": "{JPN_NAME_7}サイドンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "37b029ccde24c2be",
+  "translation": "{JPN_NAME_7}ラプラスドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fd8af0a4c2ea116b",
+  "translation": "{JPN_NAME_8}フシギバナドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d296cedd9e5e6268",
+  "translation": "{JPN_NAME_8}リザードンドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4397b84936b3214e",
+  "translation": "{JPN_NAME_8}カメックスドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d57459b95896e3f8",
+  "translation": "{JPN_NAME_7}ホエルコドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5f39bae3d9bb13b1",
+  "translation": "{JPN_NAME_8}レジロックドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "124053271cf16659",
+  "translation": "{JPN_NAME_8}レジアイスドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e0805a7de22a2420",
+  "translation": "{JPN_NAME_8}レジスチルドール",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "64bb693bcde5d99c",
+  "translation": "0000",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9a897917f24e7aee",
+  "translation": "----------",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "863fa1b9ec18257d",
+  "translation": "",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2cfcea49b3c499dd",
+  "translation": "HP",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "01b9899bda91db47",
+  "translation": "{UP_ARROW_2}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "48a27f115ec9cacc",
+  "translation": "{UP_ARROW_2}{UP_ARROW_2}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "26d59352577c5839",
+  "translation": "{UP_ARROW_2}{UP_ARROW_2}{UP_ARROW_2}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "67d1205ab585efb9",
+  "translation": "{STR_VAR_1}{STR_VAR_2}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3a715f1ba321e6ec",
+  "translation": "{STR_VAR_1} / {STR_VAR_2}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8bab668d552e49b6",
+  "translation": "♂",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "81118a15a0259f61",
+  "translation": "♀ 1/7 ♂",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0b7362b3fe80c7a2",
+  "translation": "♀ 1/3 ♂",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "901a8bd557a5937a",
+  "translation": "♀ 1/1 ♂",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "70523e96cfe123af",
+  "translation": "♀ 3/1 ♂",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a64cec72a630d1ab",
+  "translation": "♀ 7/1 ♂",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1906ab5fe0bed133",
+  "translation": "♀",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "093cb8327844205b",
+  "translation": "{EMOJI_BOLT}{EMOJI_DIZZYEGG}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c6128259f50ce125",
+  "translation": "{EMOJI_DIZZYEGG}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6f11171b7ae07f58",
+  "translation": "{EMOJI_DIZZYEGG}{EMOJI_DIZZYEGG}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dbc04151efb78100",
+  "translation": "{EMOJI_DIZZYEGG}{EMOJI_DIZZYEGG}{EMOJI_DIZZYEGG}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dec87b9b816d9238",
+  "translation": "{EMOJI_BIGANGER}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dbad7e49599fd38a",
+  "translation": "{EMOJI_NEUTRAL}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9262bbb20fa27875",
+  "translation": "{EMOJI_HAPPY}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "07ffdc091c2db417",
+  "translation": "{EMOJI_BIGSMILE}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "909e4fe94b5b0772",
+  "translation": "H",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "38faf37bbdabd07a",
+  "translation": "-",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c706c199daa5501c",
+  "translation": "{STR_VAR_1}/{STR_VAR_2}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c9b7cb3c96a0b6d2",
+  "translation": "---",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ed990880865cbab6",
+  "translation": "???",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6716fe19bb3767c6",
+  "translation": "{STR_VAR_3}:",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "eb3feea0432149a3",
+  "translation": "+",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a5106df9bb6cb4fe",
+  "translation": "{LV}{UP_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "35cf1a512dafc25a",
+  "translation": ", ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ee1becb0d8c8be40",
+  "translation": "???",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "96ba966a2eb14110",
+  "translation": " ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "47a760d4641483e8",
+  "translation": " ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "85864a35754605a1",
+  "translation": "%",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7af3a91dde6c095f",
+  "translation": " ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9ff42d9ac18f70f4",
+  "translation": ", ",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7469882e28269c46",
+  "translation": ".",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "7bca48cd105854d6",
+  "translation": "{JPN}みぎ{ENG}<5s",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b4e046ee5112dccc",
+  "translation": "{JPN}みぎ{ENG}>5s",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "aaaa66d51eba6481",
+  "translation": "{JPN}ひだり{ENG}<5s",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e23347a108576aa7",
+  "translation": "{JPN}ひだり{ENG}>5s",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ecb60c201d596d0e",
+  "translation": "{JPN}さゆう{ENG}>10s",
+  "provenance": {
+   "batch": "ui-misc-137-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ }
+]

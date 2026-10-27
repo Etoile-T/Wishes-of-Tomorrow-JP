@@ -60,10 +60,10 @@ static void UpdateStairsMovement(s16, s16, s16*, s16*, s16*);
 static void Task_StairWarp(u8);
 static void ForceStairsMovement(u32, s16*, s16*);
 
-static const u8 sText_PlayerScurriedToCenter[] = _("{PLAYER} scurried to a POKéMON CENTER,\nprotecting the exhausted and fainted\nPOKéMON from further harm…\p");
-static const u8 sText_PlayerScurriedBackHome[] = _("{PLAYER} scurried back home, protecting\nthe exhausted and fainted POKéMON from\nfurther harm…\p");
-static const u8 sText_PlayerRegroupCenter[] = _("{PLAYER} scurried to a POKéMON CENTER,\nto regroup and reconsider the battle\nstrategy…\p");
-static const u8 sText_PlayerRegroupHome[] = _("{PLAYER} scurried back home, to regroup\nand reconsider the battle strategy…\p");
+static const u8 sText_PlayerScurriedToCenter[] = _("{JPN}{ENG}{PLAYER}{JPN}は つかれきった ひんしの\nポケモンたちを かばいながら\nいそいで ポケモンセンターに もどった…\p{ENG}");
+static const u8 sText_PlayerScurriedBackHome[] = _("{JPN}{ENG}{PLAYER}{JPN}は つかれきった ひんしの\nポケモンたちを かばいながら\nいそいで じたくに もどった…\p{ENG}");
+static const u8 sText_PlayerRegroupCenter[] = _("{JPN}{ENG}{PLAYER}{JPN}は たいせいを たてなおし\nせんりゃくを ねりなおすために\nいそいで ポケモンセンターに もどった…\p{ENG}");
+static const u8 sText_PlayerRegroupHome[] = _("{JPN}{ENG}{PLAYER}{JPN}は たいせいを たてなおし\nせんりゃくを ねりなおすために\nいそいで じたくに もどった…\p{ENG}");
 
 // data[0] is used universally by tasks in this file as a state for switches
 #define tState       data[0]
@@ -1456,9 +1456,9 @@ static void Task_RushInjuredPokemonToCenter(u8 taskId)
             if (gTasks[taskId].tIsPlayerHouse)
             {
                 if (IS_FRLG)
-                    StringCopy(gStringVar1, COMPOUND_STRING("PROF. OAK"));
+                    StringCopy(gStringVar1, COMPOUND_STRING("{JPN}オーキドはかせ{ENG}"));
                 else
-                    StringCopy(gStringVar1, COMPOUND_STRING("PROF. BIRCH"));
+                    StringCopy(gStringVar1, COMPOUND_STRING("{JPN}オダマキはかせ{ENG}"));
                 ScriptContext_SetupScript(EventScript_AfterWhiteOutMomHeal);
             }
             else if (IS_FRLG)

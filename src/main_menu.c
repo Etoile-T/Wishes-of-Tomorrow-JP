@@ -256,10 +256,10 @@ static const u32 sBirchSpeechShadowGfx[] = INCGFX_U32("graphics/birch_speech/sha
 static const u32 sBirchSpeechBgMap[] = INCBIN_U32("graphics/birch_speech/map.bin.smolTM");
 static const u16 sBirchSpeechBgGradientPal[] = INCGFX_U16("graphics/birch_speech/bg2.pal", ".gbapal");
 
-static const u8 gText_SaveFileCorrupted[] = _("The save file is corrupted. The\nprevious save file will be loaded.");
+static const u8 gText_SaveFileCorrupted[] = _("{JPN}レポートが こわれているので\nまえの レポートを よみこみます{ENG}");
 static const u8 gText_SaveFileErased[] = _("{JPN}レポートがこわれていたため\nきろくはけされました。{ENG}");
-static const u8 gJPText_No1MSubCircuit[] = _("1Mサブきばんが ささっていません！");
-static const u8 gText_BatteryRunDry[] = _("The internal battery has run dry.\nThe game can be played.\pHowever, clock-based events will\nno longer occur.");
+static const u8 gJPText_No1MSubCircuit[] = _("{JPN}1Mサブきばんが ささっていません!{ENG}");
+static const u8 gText_BatteryRunDry[] = _("{JPN}ないぞう でんちが きれました\nゲームは あそぶことが できます\pただし とけいに かんけいする\nできごとは おきなくなります{ENG}");
 
 static const u8 gText_MainMenuNewGame[] = _("{JPN}さいしょから はじめる");
 static const u8 gText_MainMenuContinue[] = _("{JPN}つづきから はじめる");
@@ -267,9 +267,9 @@ static const u8 gText_MainMenuOption[] = _("{JPN}せってい");
 static const u8 gText_MainMenuMysteryGift[] = _("{JPN}ふしぎな おくりもの");
 static const u8 gText_MainMenuMysteryGift2[] = _("{JPN}ふしぎな おくりもの");
 static const u8 gText_MainMenuMysteryEvents[] = _("{JPN}ふしぎな できごと");
-static const u8 gText_WirelessNotConnected[] = _("The Wireless Adapter is not\nconnected.");
-static const u8 gText_MysteryGiftCantUse[] = _("MYSTERY GIFT can't be used while\nthe Wireless Adapter is attached.");
-static const u8 gText_MysteryEventsCantUse[] = _("MYSTERY EVENTS can't be used while\nthe Wireless Adapter is attached.");
+static const u8 gText_WirelessNotConnected[] = _("{JPN}ワイヤレスアダプタが\nつながっていません{ENG}");
+static const u8 gText_MysteryGiftCantUse[] = _("{JPN}ワイヤレスアダプタを さしたまま\nふしぎな おくりものは できません{ENG}");
+static const u8 gText_MysteryEventsCantUse[] = _("{JPN}ワイヤレスアダプタを さしたまま\nふしぎな できごとは できません{ENG}");
 
 static const u8 gText_ContinueMenuPlayer[] = _("{JPN}しゅじんこう");
 static const u8 gText_ContinueMenuTime[] = _("{JPN}プレイじかん");
@@ -478,49 +478,49 @@ static const struct MenuAction sMenuActions_Gender[] = {
 };
 
 static const u8 *const sMalePresetNames[] = {
-    COMPOUND_STRING("STU"),
-    COMPOUND_STRING("MILTON"),
-    COMPOUND_STRING("TOM"),
-    COMPOUND_STRING("KENNY"),
-    COMPOUND_STRING("REID"),
-    COMPOUND_STRING("JUDE"),
-    COMPOUND_STRING("JAXSON"),
-    COMPOUND_STRING("EASTON"),
-    COMPOUND_STRING("WALKER"),
-    COMPOUND_STRING("TERU"),
-    COMPOUND_STRING("JOHNNY"),
-    COMPOUND_STRING("BRETT"),
-    COMPOUND_STRING("SETH"),
-    COMPOUND_STRING("TERRY"),
-    COMPOUND_STRING("CASEY"),
-    COMPOUND_STRING("DARREN"),
-    COMPOUND_STRING("LANDON"),
-    COMPOUND_STRING("COLLIN"),
-    COMPOUND_STRING("STANLEY"),
-    COMPOUND_STRING("QUINCY")
+    COMPOUND_STRING("{JPN}イツオ{ENG}"),
+    COMPOUND_STRING("{JPN}ギョク{ENG}"),
+    COMPOUND_STRING("{JPN}ケイ{ENG}"),
+    COMPOUND_STRING("{JPN}シュウサク{ENG}"),
+    COMPOUND_STRING("{JPN}セイゴ{ENG}"),
+    COMPOUND_STRING("{JPN}ダイサク{ENG}"),
+    COMPOUND_STRING("{JPN}タカヒト{ENG}"),
+    COMPOUND_STRING("{JPN}タツヤ{ENG}"),
+    COMPOUND_STRING("{JPN}ダニエル{ENG}"),
+    COMPOUND_STRING("{JPN}テルキ{ENG}"),
+    COMPOUND_STRING("{JPN}トム{ENG}"),
+    COMPOUND_STRING("{JPN}トモヤ{ENG}"),
+    COMPOUND_STRING("{JPN}ヒトシ{ENG}"),
+    COMPOUND_STRING("{JPN}ヒロアキ{ENG}"),
+    COMPOUND_STRING("{JPN}ユキヒコ{ENG}"),
+    COMPOUND_STRING("{JPN}ラルド{ENG}"),
+    COMPOUND_STRING("{JPN}リクヤ{ENG}"),
+    COMPOUND_STRING("{JPN}リチャード{ENG}"),
+    COMPOUND_STRING("{JPN}リュウ{ENG}"),
+    COMPOUND_STRING("{JPN}リョウタ{ENG}")
 };
 
 static const u8 *const sFemalePresetNames[] = {
-    COMPOUND_STRING("KIMMY"),
-    COMPOUND_STRING("TIARA"),
-    COMPOUND_STRING("BELLA"),
-    COMPOUND_STRING("JAYLA"),
-    COMPOUND_STRING("ALLIE"),
-    COMPOUND_STRING("LIANNA"),
-    COMPOUND_STRING("SARA"),
-    COMPOUND_STRING("MONICA"),
-    COMPOUND_STRING("CAMILA"),
-    COMPOUND_STRING("AUBREE"),
-    COMPOUND_STRING("RUTHIE"),
-    COMPOUND_STRING("HAZEL"),
-    COMPOUND_STRING("NADINE"),
-    COMPOUND_STRING("TANJA"),
-    COMPOUND_STRING("YASMIN"),
-    COMPOUND_STRING("NICOLA"),
-    COMPOUND_STRING("LILLIE"),
-    COMPOUND_STRING("TERRA"),
-    COMPOUND_STRING("LUCY"),
-    COMPOUND_STRING("HALIE")
+    COMPOUND_STRING("{JPN}アイコ{ENG}"),
+    COMPOUND_STRING("{JPN}アヤナ{ENG}"),
+    COMPOUND_STRING("{JPN}アン{ENG}"),
+    COMPOUND_STRING("{JPN}エミィ{ENG}"),
+    COMPOUND_STRING("{JPN}カオリ{ENG}"),
+    COMPOUND_STRING("{JPN}カレン{ENG}"),
+    COMPOUND_STRING("{JPN}キョウコ{ENG}"),
+    COMPOUND_STRING("{JPN}サエ{ENG}"),
+    COMPOUND_STRING("{JPN}スイ{ENG}"),
+    COMPOUND_STRING("{JPN}ジュリ{ENG}"),
+    COMPOUND_STRING("{JPN}チエミ{ENG}"),
+    COMPOUND_STRING("{JPN}チヨコ{ENG}"),
+    COMPOUND_STRING("{JPN}テルコ{ENG}"),
+    COMPOUND_STRING("{JPN}ナナエ{ENG}"),
+    COMPOUND_STRING("{JPN}ヒナ{ENG}"),
+    COMPOUND_STRING("{JPN}マキコ{ENG}"),
+    COMPOUND_STRING("{JPN}ミサコ{ENG}"),
+    COMPOUND_STRING("{JPN}ムツミ{ENG}"),
+    COMPOUND_STRING("{JPN}モニカ{ENG}"),
+    COMPOUND_STRING("{JPN}ユウメ{ENG}")
 };
 
 // The number of male vs. female names is assumed to be the same.

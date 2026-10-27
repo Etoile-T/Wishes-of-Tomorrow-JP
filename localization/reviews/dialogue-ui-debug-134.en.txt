@@ -1,0 +1,83 @@
+0b332430b7bb1054
+{START_BUTTON} Shiny
+{B_BUTTON} Exit  {A_BUTTON} Anims and BG
+
+34a52790a4a1c1b9
+{START_BUTTON} Shiny {SELECT_BUTTON} Gender
+{B_BUTTON} Exit  {A_BUTTON} Anims and BG
+
+6e5b7991fcd98ac7
+{START_BUTTON} Shiny
+{B_BUTTON} Back  {A_BUTTON} Sprite Coords
+
+2667ca5bc058e29c
+{START_BUTTON} Shiny {SELECT_BUTTON} Gender
+{B_BUTTON} Back  {A_BUTTON} Sprite Coords
+
+20eff334cc7b0e63
+{START_BUTTON} Shiny
+{B_BUTTON} Back  {A_BUTTON} Shadow Coords
+
+e6648c02430faf88
+{START_BUTTON} Shiny {SELECT_BUTTON} Gender
+{B_BUTTON} Back  {A_BUTTON} Shadow Coords
+
+263ee002b0742dd1
+{START_BUTTON} Shiny
+{B_BUTTON} Back  {A_BUTTON} Move BGs
+
+49a99f051df0ffda
+{START_BUTTON} Shiny {SELECT_BUTTON} Gender
+{B_BUTTON} Back  {A_BUTTON} Move BGs
+
+8a6af454ff9ff3f1
+B coords:
+F coords:
+F elev:
+
+8d125aa35b907b21
+{START_BUTTON} Shiny
+{B_BUTTON} Back  {A_BUTTON} Move BGs
+
+9a7d91b13d2279ed
+{START_BUTTON} Shiny
+{B_BUTTON} Back  {A_BUTTON} Move BGs
+
+3fe5f161ecb79bba
+X coords:
+Y coords:
+Size:
+
+73bb221b1a20b9b1
+{START_BUTTON} Shiny
+{B_BUTTON} Back
+
+6a212c808ad2f68c
+{START_BUTTON} Shiny {SELECT_BUTTON} Gender
+{B_BUTTON} Back
+
+34ea0a00b17ed212
+Move BG:
+
+04f6716cdda99d72
+BACK:
+FRONT:
+BG:
+
+72b0a5518b015f24
+BACK:
+FRONT:
+BG:
+FORMS:
+
+b313ac968506ed07
+const val:
+
+eba5921fc2f3d2e7
+new val:
+
+e4ebb01bc7865bac
+const val:
+
+d952bad62923e6e4
+new val:

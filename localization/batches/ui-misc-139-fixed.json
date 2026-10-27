@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "9998380bf8195c16",
+  "translation": "\\p",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "36dd3f16f2ae4317",
+  "translation": "{JPN_NAME_4}おじさん",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b2b60b3442941d25",
+  "translation": "{JPN_NAME_3}ぼうや",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "62ecfde75f2b2ae3",
+  "translation": "{JPN_NAME_4}おじょう",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a42103a7743f08ae",
+  "translation": "{JPN_NAME_4}めいじん",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "62e0a56bff77086d",
+  "translation": "{JPN_NAME_4}にいさん",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4332cbbf09a4e062",
+  "translation": "{JPN_NAME_4}ねえさん",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "261108cfa9c86f67",
+  "translation": " RPM",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c27735d9838eb0cf",
+  "translation": ".",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "27f6f39a229d9d34",
+  "translation": "\\n",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5dc744d45f751da9",
+  "translation": "\\nいいTVができました ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "cc47f0c23b8877ad",
+  "translation": "\\nダメTVができました ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ac5b4d11ef0d9532",
+  "translation": "からい",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "503c384127f64931",
+  "translation": "しぶい",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b3434fe686e240bf",
+  "translation": "あまい",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "87f8eb0cb2d9686a",
+  "translation": "にがい",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f712b8adec8db2bf",
+  "translation": "すっぱい",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "274f06391f378fbf",
+  "translation": "{LV}{STR_VAR_1}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c2134e2715af8595",
+  "translation": "{JPN_NAME_4}ぶんるい",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e4a02ad308a7396d",
+  "translation": "{JPN_NAME_4}いりょく",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4a614cf1ab76e5a5",
+  "translation": "ACC: ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5781d6160dcb185b",
+  "translation": "{CLEAR_TO 0x03}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ae7fc1b872123b31",
+  "translation": "{CLEAR_TO 0x38}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2929ca33467a4145",
+  "translation": "{CLEAR_TO 0x6C}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "706a47a8afc2429d",
+  "translation": " -{UP_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d8fa28e0af2b762f",
+  "translation": " {UP_ARROW}-",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "eba6f7168395dbb1",
+  "translation": " {DOWN_ARROW}-",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "334fc5f0d9eab37c",
+  "translation": " -{DOWN_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9d21c2d50cb4e604",
+  "translation": " {DOWN_ARROW}{DOWN_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2bcbc81d745e67ed",
+  "translation": " {UP_ARROW}{UP_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2af0ce8b85babe32",
+  "translation": " {V_D_ARROW}{UP_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6382b2d21d1de988",
+  "translation": " {V_D_ARROW}{V_D_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a30ac60bc58fd7e5",
+  "translation": "",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4789f4650ad6f86c",
+  "translation": "{CIRCLE_HOLLOW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9b61893f826428a0",
+  "translation": "{CIRCLE_DOT}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6a898f32d8d5b289",
+  "translation": "{TRIANGLE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c28eb67a7ba680a3",
+  "translation": "{BIG_MULT_X}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dcfb83aab382e0ee",
+  "translation": "--------",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c53a22b54d17cb81",
+  "translation": "???",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "054901bcc4315765",
+  "translation": "{LV}. {STR_VAR_1}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c13a3c81d2e658c2",
+  "translation": "{STR_VAR_1}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "00a77de275f244c2",
+  "translation": "{NO} {STR_VAR_1}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b92ff2ed4dc1cadb",
+  "translation": "{NO}{STR_VAR_1}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "94367c85339f8adf",
+  "translation": "{LEFT_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "04679b3997cba67f",
+  "translation": "{RIGHT_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5cbdd4915e06c5cb",
+  "translation": "{UP_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "87d3acb2085fc21a",
+  "translation": "{DOWN_ARROW}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "967eb15be365a9b5",
+  "translation": "{COLOR LIGHT_RED}{SHADOW GREEN}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8e377df278661f32",
+  "translation": "{COLOR WHITE}{SHADOW DARK_GRAY}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dcc5eef3e5d22ce6",
+  "translation": "{DYNAMIC 0}/{DYNAMIC 1}\\n{DYNAMIC 2}\\n{DYNAMIC 3}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "79d438e4335037c7",
+  "translation": "{DYNAMIC 0}\\n{DYNAMIC 1}\\n{DYNAMIC 2}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "982899a43075c1d1",
+  "translation": "{DYNAMIC 0}\\n{DYNAMIC 1}\\n{DYNAMIC 2}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4c914cedceec602a",
+  "translation": "{PP}{DYNAMIC 0}/{DYNAMIC 1}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "76403c8d06492c80",
+  "translation": "{COLOR}{08}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "551e4a1e36158d1a",
+  "translation": "{COLOR}{05}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b0cbfc7dfa892a1a",
+  "translation": "{COLOR}{01}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c8a34cb7c9676b51",
+  "translation": "F",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3739f5acbc56d19a",
+  "translation": "D",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9e38549a6ecd2f24",
+  "translation": "C",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "8e9a1acea114eaa3",
+  "translation": "B",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "12e0635f4ee07d1f",
+  "translation": "A",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c7408ccc7c8b32bc",
+  "translation": "S",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9d35abb27c739398",
+  "translation": "{CLEAR 0x80}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9a0b35afa49701fd",
+  "translation": "ヌケニン",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d710561aa4c00e25",
+  "translation": "???",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b29d162ee4ed740e",
+  "translation": "どく$$$$$",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6fe5ae927715a17a",
+  "translation": "ねむり$$$$",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d048898c62eb4f30",
+  "translation": "まひ$$$$$",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1b62c41f0702792d",
+  "translation": "やけど$$$$",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6cf17b0ca8ab08ae",
+  "translation": "こおり$$$$",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6f6ba607801a1ded",
+  "translation": "こんらん$$$",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c8a32aa4e65b1212",
+  "translation": "メロメロ$$$",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fd72224d5e5c0275",
+  "translation": "·{PAUSE 4}·{PAUSE 4}·{PAUSE 4}·{PAUSE 4}·\\p",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "823bb71d49393b41",
+  "translation": "………………\\p",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "04686d4031de40e2",
+  "translation": "",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e4242821148c3157",
+  "translation": "{STR_VAR_1}/{STR_VAR_2}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b060cba3062b4333",
+  "translation": "??????",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1c165f31220847e0",
+  "translation": " {A_BUTTON}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3680f3c13e07549a",
+  "translation": ". ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "50a474bec18e16cd",
+  "translation": "{COLOR}{GREEN}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "eead054b1c2a9e0b",
+  "translation": " A-Z",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e3ee24ae6fc4cd28",
+  "translation": "·",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b6d9e237c332badd",
+  "translation": "{NO}0000",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "30198105773fbab7",
+  "translation": "{NO}000",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ad7bbf62ccba6985",
+  "translation": "----------",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "baa3f05895a79956",
+  "translation": "",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0a5a4643f9577436",
+  "translation": "----------",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f3c7b0ec88b7b8bc",
+  "translation": "???",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a73ffa712ec35bc2",
+  "translation": "{STR_VAR_1}.{STR_VAR_2}”",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "de5495e03dc112b9",
+  "translation": "{NO}{STR_VAR_1} {STR_VAR_2}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ba300e52a7b44e3b",
+  "translation": "???",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "770c2ee75f7e696c",
+  "translation": "-------",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d625a9a03475da1f",
+  "translation": "-------",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "6b448b02d16cd177",
+  "translation": "-------",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fc2ba897d8004c2c",
+  "translation": "No. {DYNAMIC 0}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "4e19bf04903d7b05",
+  "translation": "{TEXT_COLORS LIGHT_RED GREEN WHITE}{BACKGROUND WHITE}♂{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}{BACKGROUND WHITE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2ae96ff7a5a8c027",
+  "translation": "{TEXT_COLORS LIGHT_GREEN BLUE WHITE}{BACKGROUND WHITE}♀{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}{BACKGROUND WHITE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a95d5190c31fcb88",
+  "translation": "{UNK_SPACER}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "47cda894e620b1c3",
+  "translation": "{TEXT_COLORS LIGHT_RED GREEN WHITE}{BACKGROUND WHITE}♂{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}{BACKGROUND WHITE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "0594acfcdf8920e3",
+  "translation": "{TEXT_COLORS LIGHT_GREEN BLUE WHITE}{BACKGROUND WHITE}♀{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}{BACKGROUND WHITE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "14ff544d5e130ce4",
+  "translation": "{UNK_SPACER}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "52d606396f0ee6ed",
+  "translation": "{JPN_NAME_3}ヒロミ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fdda37b0a1c8d8fa",
+  "translation": "{JPN_NAME_3}ユウリ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e1901ae1c3bf2f85",
+  "translation": "{JPN_NAME_3}ヨシオ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "08e50da29aa8c7b0",
+  "translation": "{JPN_NAME_4}サダハル",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "3acfa15cf55efa72",
+  "translation": "'",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e52dd636d0f2dc42",
+  "translation": "s",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1303835e28d657c8",
+  "translation": "                    ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "e023f2c79c12aae2",
+  "translation": "あいうえおかき",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "69aba14a19807dea",
+  "translation": "ABCDEFG",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b9bd0d770f04f1a5",
+  "translation": "0123456",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b7beb7448613d23c",
+  "translation": "{COLOR GREEN}{SHADOW LIGHT_GREEN}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "fd9f7e149a4b020b",
+  "translation": "{COLOR GREEN}{SHADOW LIGHT_GREEN}LR",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f78021faff39f416",
+  "translation": "{COLOR GREEN}{SHADOW LIGHT_GREEN}L=A",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "dc593383807873f8",
+  "translation": "{TEXT_COLORS LIGHT_RED GREEN WHITE}{BACKGROUND WHITE}♂{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}{BACKGROUND WHITE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "43ca484d0620a13a",
+  "translation": "{TEXT_COLORS LIGHT_GREEN BLUE WHITE}{BACKGROUND WHITE}♀{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}{BACKGROUND WHITE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "b1da034dcdd8176e",
+  "translation": "{UNK_SPACER}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "1cd6afb7c9e2ae64",
+  "translation": "-------",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f84e7afe86df7de1",
+  "translation": "----",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "153419cae928c222",
+  "translation": "????????",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "c6e4f19b3f60b0cc",
+  "translation": "?????",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a4f1a1761e5eebf3",
+  "translation": "",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "2d455fbd75b6ce6a",
+  "translation": "",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "998c1ba1bcdf951e",
+  "translation": "/30",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "f5e5d47c5443f212",
+  "translation": "… … … … !",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "bb72d3f9f0db1ac4",
+  "translation": "AM",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "bc08777bee112b0f",
+  "translation": "PM",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a995db824be842d1",
+  "translation": "???",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "16a4d7d0be65fddc",
+  "translation": "タマゴ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "9473bf7f878c340a",
+  "translation": "ヌケニン",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "07454f02074dd91b",
+  "translation": "WISHES OF TOMORROW  v1.2.6",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "a03b6d1c6643f07a",
+  "translation": "s",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "5a1fe189a340bac5",
+  "translation": "{JPN_NAME_3}おねえ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "17667f7182532528",
+  "translation": "{BACKGROUND TRANSPARENT}{ACCENT TRANSPARENT}{COLOR WHITE}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d8b10ba90668ace6",
+  "translation": "From ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d9c4464789a5ab2f",
+  "translation": "",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "d101ebce5c3cbbdd",
+  "translation": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "ff0bc130c4eb9bbe",
+  "translation": "No. ",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "52bfeff43f7adbd2",
+  "translation": "{STR_VAR_1}:{STR_VAR_2}:{STR_VAR_3}",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ },
+ {
+  "id": "82c52a0a2da1a68d",
+  "translation": "…",
+  "provenance": {
+   "batch": "ui-misc-139-fixed",
+   "method": "Exact translation for fixed-size field or kept text (no automatic JPN/ENG scope)"
+  }
+ }
+]

@@ -1,0 +1,655 @@
+f800790f3564cf7e
+オン
+
+c5ed09bac37d9f83
+オフ
+
+8eecb32295919557
+{COLOR GREEN}オン
+
+facddcef36ec2cac
+{COLOR RED}オフ
+
+9414a337bf7ef77e
+つづける…
+
+d3dfe8687a3e7276
+グループ: {STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+
+{STR_VAR_3}{CLEAR_TO 90}
+
+aa250c7200afedd8
+マップ: {STR_VAR_1}{CLEAR_TO 90}
+ちいき:{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+{STR_VAR_3}{CLEAR_TO 90}
+
+83c190fcb82df91f
+ワープ:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_3}{CLEAR_TO 90}
+
+64a9a8a241d58d8c
+てんきID: {STR_VAR_3}
+{STR_VAR_1}
+{STR_VAR_2}
+
+302fb2682b1149b6
+にちよう
+
+055f6302a9cc02ca
+げつよう
+
+3c689e5edd317ac1
+かよう
+
+a93e1fda9e2bae1d
+すいよう
+
+c9877379848f6285
+もくよう
+
+303de8981f6de568
+きんよう
+
+b3384d219f8356aa
+どよう
+
+c0918e0162664fa6
+あさ
+
+3eb5c1fa766f48ed
+ひる
+
+08587f051fa92430
+ゆうがた
+
+7ea88673f29fc00a
+よる
+
+0f41a0196a27c3a4
+ユウキ
+
+ab8622a7910be422
+ハルカ
+
+29f3ee72358250ca
+ダイゴ
+
+43dfb86f01789d00
+ミツル
+
+50eeed3082bdb647
+レッド
+
+6f8f4c3c4254a81a
+リーフ
+
+6cc1c15dbd21eba9
+へんすう: {STR_VAR_1}{CLEAR_TO 90}
+あたい: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_2}
+
+441b65f23880efc2
+へんすう: {STR_VAR_1}{CLEAR_TO 90}
+あたい: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_2}
+
+12e86807d7ed21c7
+いろちがい:{CLEAR_TO 90}
+   {STR_VAR_2}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{CLEAR_TO 90}
+
+bfab11d996292476
+こたいち {STR_VAR_1}:{CLEAR_TO 90}
+    {STR_VAR_3}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+e7d41bd82c56e494
+きそポイント {STR_VAR_1}:{CLEAR_TO 90}
+    {STR_VAR_3}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+7d6b90484f7cc453
+SE: {STR_VAR_3}   {START_BUTTON} とめる
+{STR_VAR_1}    
+{STR_VAR_2}
+
+d77a5beaa48c245f
+BGM: {STR_VAR_3}   {START_BUTTON} とめる
+{STR_VAR_1}    
+{STR_VAR_2}
+
+aca64eb62b8526b4
+じこく…
+
+9d86acd9e9f7dbc7
+じかんたいを みる…
+
+3e24a7812bacc19a
+じかんたいを かえる…
+
+65f99a3213eb46b5
+ようびを かえる…
+
+6218938ded4c0922
+かべどけいを みる…
+
+7dc16a26248b571f
+かべどけいを かえる…
+
+1cc3c2d679596b47
+きのみのきを けす
+
+35ce125450ea16d8
+きのみのきを みのらす
+
+ee2fe3fedf38a40d
+きのみを そだてる
+
+67668d7faba77c75
+きのみのきに むしを つける
+
+565a8b4b05a5c54f
+きのみのきに くさを はやす
+
+15fd2135fb9690f0
+つれあるきを つくる
+
+24d9897aa40be583
+つれあるきを けす
+
+feb9fbf73902db74
+マップへ とぶ…
+
+7e827385f64ce09a
+マップワープへ とぶ…
+
+e1369163d8bde1d0
+てんきを かえる…
+
+ce64104e5ca6a157
+もじテスト…
+
+5ee7b9768272ab7e
+じかんきのう…
+
+b3031975c27d47f1
+スタッフロール…
+
+9920c86e055aae84
+チートスタート
+
+8e2e16790ad68d1d
+きのみきのう…
+
+9e5beb6b9dbf9ddf
+EWRAMカウンタ…
+
+caa99499c8dc58e3
+つれあるきNPC…
+
+20e8ea943f2e5c1f
+ミツルの おてほん
+
+f16a1b448e01fdc9
+ダイゴと マルチ
+
+d66e694245ede205
+ボックスを はやく うめる
+
+6b59d432fc73b22e
+ボックスを おそく うめる(おもい)
+
+3140dede40fff8cf
+PCどうぐ うめる
+
+cfef7e1ae4038f1c
+どうぐポケット うめる
+
+1127279fbf5dce22
+ボールポケット うめる
+
+445c2f3e082e783f
+わざマシン うめる
+
+3ea7ac1be16175eb
+きのみポケット うめる
+
+b73077edd58b53ec
+だいじなもの うめる
+
+36f680cfa657514e
+ダークえの ポケモンを PCへ
+
+c9bef2e2ff0e79aa
+パソコン
+
+341c66996201c62e
+うめる…
+
+83d088251607c9a8
+バッグ けす
+
+bd514dc483459e91
+ボックスを からにする
+
+907622e3ed21a9f2
+じょうたいいじょう
+
+ef6423f59fbdb09d
+ひんしにする
+
+8f90f05fbbb2406d
+せいかくを かえる
+
+bb9919f50d9ceace
+なつきどを かえる
+
+3deec2288f85a7d2
+とくせい セット
+
+f303e6905f5977cc
+わざおもいだし
+
+46b9ea330bbe68d2
+タマゴを かえす
+
+27e9b41da145f026
+ぜんかいふく
+
+b0d41e962636738d
+ポケモンへんしゅう
+
+46d9214ecf80432a
+きそポイント
+
+554213d1a1935ae9
+こたいち
+
+21b69169a917e30d
+ポケルス つける
+
+aa004c691271a139
+ポケルス けす
+
+f9c57b241bc99212
+てもち けす
+
+c9de9dab86575147
+てもちセット
+
+d5b7767613145f14
+デバッグバトル
+
+2517802f31b57e2d
+どうぐを わたす…
+
+f4f8200c35e81e83
+ポケモン(かんたん)
+
+8ef32ee56392b66b
+ポケモン(くわしく)
+
+0398e9a345a9609f
+タマゴをやる
+
+c0a1ca2aa76a409c
+もようがえグッズ…
+
+c0633eef5f76a4ef
+おかねMAX
+
+32a8ce944168c442
+コインMAX
+
+6fdc37855d2c2065
+BPを MAXに
+
+c57721c767569606
+そだてやタマゴ
+
+885dd2ebe78f7e32
+なまえを かえる
+
+ac5e5c6e8787d3a2
+せいべつ きりかえ
+
+1fa24bbdf1390df8
+あたらしい ID
+
+d6a74f541b5f13d1
+スクリプト1
+
+dd23bea8e91ef4f8
+スクリプト2
+
+4a4a58837454b0db
+スクリプト3
+
+713ca0dadc3cd5b3
+スクリプト4
+
+cc4ec04421ff07ef
+スクリプト5
+
+29c6652cbabdb0f8
+スクリプト6
+
+8086623a54b19b4e
+ダーク: シングル
+
+3eb5143c66afb1b1
+ダーク: ダブル
+
+a9be6c380ce9b7ad
+メガじげん:ゲート
+
+d147d70a65bd11f8
+メガじげん:あと10びょう
+
+ce391cadc3ecc687
+メガじげん:ライバル
+
+d6a25552f985b769
+メガじげん:はじまり
+
+4f1bddaedc7bdbbf
+メガじげん:いろちがい
+
+1dbdba580930bc7a
+メガじげん:つぎは モミジ
+
+a900f95937d171f9
+マップの トレーナーを えらぶ
+
+3d11ccbeab3ed688
+トレーナー1: {STR_VAR_1}
+
+117e1c6694562e32
+トレーナー2: {STR_VAR_1}
+
+81ea34fbe10c9c27
+パートナー:{STR_VAR_1}
+
+b556eeba405a9183
+ダブルバトル: {STR_VAR_1}
+
+bef1e11e652f3f14
+しあい {STR_VAR_1}/{STR_VAR_2}
+
+42362dd712531ebb
+さいせんかのう {STR_VAR_1}
+
+2d01c2fd338b9e79
+バトルする
+
+19818de82e04792a
+バトルサーチャーじゅうでん
+
+d6f03efc433ea8b0
+SE…
+
+bdcb2a25f835c58d
+BGM…
+
+92f0b4f50dd44e4f
+セーブの あき
+
+e3c8deb70eab801f
+ROMのあき
+
+b4c2341317b7d427
+かくちょうバージョン
+
+ce36fbd0552d7c9d
+フラグ セット…
+
+d9c180c183ee5991
+へんすう セット…
+
+039149af29f89c94
+ずかんフラグ ぜんぶ
+
+c42b0975ed25f94f
+ずかんフラグ リセット
+
+428d648b73897696
+{STR_VAR_1}ずかん
+
+3985634f00493c63
+{STR_VAR_1}ぜんこくずかん
+
+1a8960040f9cf6ca
+{STR_VAR_1}ポケナビ
+
+9945a37b03b88b0e
+{STR_VAR_1}エントリーコール
+
+c47091c98aa0496d
+{STR_VAR_1}ランニングシューズ
+
+e58d25ad4b177af5
+{STR_VAR_1}そらをとぶフラグ
+
+44de253b1cc6f0a7
+{STR_VAR_1}ぜんバッジ
+
+47b33b5729a73de7
+{STR_VAR_1}ゲームクリア
+
+14b68247690cf052
+{STR_VAR_1}フロンティアパス
+
+790e3d22c515deee
+{STR_VAR_1}あたりはんてい オフ
+
+7ebd11f7b2551a6b
+{STR_VAR_1}エンカウント オフ
+
+7f3aad571e81ef89
+{STR_VAR_1}トレーナーしせん オフ
+
+fd1d80d7f9d5ccaf
+{STR_VAR_1}ほかく オフ
+
+5f392e77e6c1f6c2
+{STR_VAR_1}バッグしよう オフ
+
+276054624c9529d9
+バッグなし:{STR_VAR_1}オフ
+
+92bfe7fe16615ae7
+バッグなし:{STR_VAR_1}トレーナーせん
+
+51558965dab141e2
+バッグなし:{STR_VAR_1}オン
+
+8cf556d396fc13b8
+バッグなし:{STR_VAR_1}ふせいな あたい
+
+83be0301c1d28479
+べんりきのう…
+
+3bf6683f432295d3
+バッグ…
+
+3d9b0e08399661dc
+てもち…
+
+26496d6e2498de64
+わたす…
+
+4066e98e165589f4
+じぶん…
+
+7609bd85e092f8a1
+スクリプト…
+
+2bfefd17ed479324
+トレーナー…
+
+6bdeaf8bf3b8b3e0
+フラグ/へんすう…
+
+57a1e3bdcd4acd50
+おと…
+
+56a5ad152dfcab48
+じょうほう…
+
+a5e84b72fedf15be
+やめる
+
+74d3c34cebc644cf
+なし
+
+fdff74432121679e
+なし
+
+e8af67db417d55a9
+{COLOR GREEN} オン
+
+ef47cf22a5f3d947
+{COLOR RED} オフ
+
+bf8e9fa81f06c919
+{COLOR GREEN} オン
+
+a783f0ee09805e0a
+{COLOR RED} オフ
+
+594cbf7cf694c41d
+
+せいひんばん
+
+267ba37cb6ef80a2
+
+かいはつばん
+
+b8165fb88a3f1765
+トレーナーでない
+
+8cb83d0b2168b0dc
+ローカルID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}{CLEAR_TO 90}
+
+70681236b67f1bd8
+なし
+
+656db015dd932110
+ID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}{CLEAR_TO 90}
+
+2e3fd9e76dfdc0c7
+フラグ: {STR_VAR_1}{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+{STR_VAR_3}
+
+bc4fbaa6c4576796
+ なし
+
+094b8ac9152c5d2b
+どうぐID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}
+
+ded1d882842cc681
+こすう:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}
+
+eb766ccc47ee6d1c
+しゅぞく むこう
+
+fc43c9e15b7e1863
+しゅぞく: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}{CLEAR_TO 90}
+
+246c91531eb752d5
+レベル:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+3559a5063854a1d7
+ランダム
+
+60d6575247896d46
+せいかくID: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+2f78e207c3fb5a1c
+とくせいNo: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+b473fb188d21b78c
+テラスタイプ: {STR_VAR_3}{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+8896db5f1ebc6797
+ダイマックスLv:{CLEAR_TO 90}
+{STR_VAR_1}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{STR_VAR_2}{CLEAR_TO 90}
+
+9bcaa8ae57775858
+キョダイマックス:{CLEAR_TO 90}
+   {STR_VAR_2}{CLEAR_TO 90}
+{CLEAR_TO 90}
+{CLEAR_TO 90}
+
+12e24afa4a46c7e2
+きほん
+
+d276b128e38e28a5
+わざ
+
+30407649442c25d5
+グッズID: {STR_VAR_3}
+{STR_VAR_1}{CLEAR_TO 90}
+
+{STR_VAR_2}
+
+5d6a63d83fcf62c3
+なつきど:
+{STR_VAR_1} {RIGHT_ARROW} {STR_VAR_2}
+
+{STR_VAR_3}
+
+88d1baa2cb4800b4
+むこう
+
+66d8dd3fac05760d
+ポケルスなし
+
+6c49b6705bfa0cf7
+のこりにっすう:
+{STR_VAR_1}
+{STR_VAR_2}{CLEAR_TO 90}
+{STR_VAR_3}
+
+253b561602ac84ad
+しゅるい:
+{STR_VAR_1}
+
+{STR_VAR_3}

@@ -52,44 +52,44 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
-	.string "and I don't like it!\p"
-	.string "I've seen shady characters wandering\n"
-	.string "in and out of PROF. COZMO's home…$"
+	.string "{JPN}なにか おきてるみたいで\n"
+	.string "いやな かんじだよ!\p"
+	.string "あやしい やつらが ソライシはかせの\n"
+	.string "いえに でたり はいったり してたんだ…$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
-	.string "since the olden days.\p"
-	.string "They say METEOR FALLS was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "{JPN}ここいら いったいは\n"
+	.string "むかしから いんせきが おおくてな\p"
+	.string "りゅうせいのたきも いんせきが おちて\n"
+	.string "できたとか そう いわれておる$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
-	.string "This is my precious AZURILL!\p"
-	.string "It's slick and smooth and plushy, too!$"
+	.string "{JPN}ほら! みてちょうだい!\n"
+	.string "わたしの たいせつな ルリリ!\p"
+	.string "ツヤツヤの ナデナデの フカフカよ!$"
 
 FallarborTown_Text_Azurill:
-	.string "AZURILL: Rooreelooo.$"
+	.string "{JPN}ルリリ: るーりーるー$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-	.string "The girl's grandfather was famous.\n"
-	.string "He was one of the ELITE FOUR in the\l"
-	.string "POKéMON LEAGUE at one point.\p"
-	.string "It wouldn't surprise me to see FLANNERY\n"
-	.string "become a great TRAINER in her own\l"
-	.string "right.$"
+	.string "{JPN}フエンジムの リーダー アスナには\n"
+	.string "もう ちょうせん したかい?\p"
+	.string "あのこの おじいさんは ゆうめいでね。\n"
+	.string "かつては ポケモンリーグの\l"
+	.string "してんのうの ひとりだったんだ。\p"
+	.string "アスナが じぶんの ちからで\n"
+	.string "すごい トレーナーに なったって\l"
+	.string "おどろかないよ。$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "{JPN}バトルテント ハジツゲタウン かいじょう\n"
+	.string "つどえ! さいきょう チーム$"
 
 FallarborTown_Text_TownSign:
-	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
+	.string "{JPN}ここは ハジツゲ タウン\n"
+	.string "ちいさな はたけが ある のうそん$"
 
 FallarborTown_Text_MoveTutorSign:
-	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
+	.string "{JPN}「わざおしえマニアの いえ」\n"
+	.string "ポケモンに あたらしい わざを おしえます。$"
 

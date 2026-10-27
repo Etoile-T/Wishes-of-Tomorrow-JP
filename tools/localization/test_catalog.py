@@ -12,6 +12,11 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(c.japanese_mode_text('{JPN_NAME_2}あい,ABC'), 'あい')
         self.assertEqual(c.japanese_mode_text('{JPN}{JPN_NAME_2}あいう'), 'あいう')
 
+    def test_team_placeholder_may_be_spelled_in_kana(self):
+        c.validate(dict(id='map', source='{AQUA} HIDEOUT', translation='{JPN}アクアだんアジト{ENG}'), set('アクアだんジト'))
+        with self.assertRaisesRegex(ValueError, 'placeholder mismatch'):
+            c.validate(dict(id='map', source='{AQUA} HIDEOUT', translation='{JPN}アジト{ENG}'), set('アジト'))
+
     def test_incomplete_name_span_refused(self):
         for text in ['{JPN_NAME_10}あい', '{JPN_NAME_2}あ{ENG}']:
             with self.assertRaisesRegex(ValueError, 'incomplete Japanese name span'):

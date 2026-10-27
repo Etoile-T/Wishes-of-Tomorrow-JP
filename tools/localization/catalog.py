@@ -38,9 +38,16 @@ def protected(text):
     # {PKMN}/{POKEBLOCK} are Latin logo glyphs, so a translation may spell them out.
     return collections.Counter(t for t in TOKENS.findall(text) if t not in ('{JPN}', '{ENG}', r'\n', '{PKMN}', '{POKEBLOCK}') and not re.fullmatch(r'\{JPN_NAME_(?:[1-9]|10)\}', t))
 
+# Team-name placeholders expand to English; a translation may spell the team in kana instead.
+TEAM_SPELLED = {'{AQUA}': 'アクア', '{MAGMA}': 'マグマ'}
+
 def validate(row, cmap):
     source, target = row['source'], row['translation']
-    if protected(source) != protected(target):
+    expected = protected(source)
+    for token, kana in TEAM_SPELLED.items():
+        if expected[token] > protected(target)[token] and kana in target:
+            expected[token] = protected(target)[token]
+    if expected != protected(target):
         raise ValueError(f"{row['id']}: control/placeholder mismatch")
     if '"' in target.replace('\\"', '') or '\n' in target or '\r' in target:
         raise ValueError(f"{row['id']}: use escaped quotes/newlines")

@@ -1,0 +1,1106 @@
+[
+ {
+  "id": "e019a1e2c9c4c6cc",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの\\nおなかを つつきはじめた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7a5d6b16f68dafc3",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うれしいけど てれている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8942e5e9f279aeff",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は たのしそうに ついてくる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3449b025751507fa",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は おちついている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "11c4ff5b367bfc41",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いっしょに あるけて\\nとても ごきげんな ようだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1f5939ecc17e4ef8",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は げんき いっぱいだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9d44a3d3e0a497bc",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は とても うれしそうだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b2183a8d27cfe23c",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いつもより がんばった。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5a1ce8c855425c9d",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は まわりの くうきの\\nにおいを かいでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2eeda2cfbfa75856",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は とびはねて よろこんでいる!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d04c43b8ed5a9e7d",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は まだまだ ごきげんだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a2fee0b874ce3e48",
+  "translation": "{JPN}ポケモンは けむりの においを\\nかぎつけた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dfdbe486d41b985d",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの おなかを\\nつついている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c4175174a265bbad",
+  "translation": "{JPN}ポケモンは からだを のばして\\nくつろいでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5be4f10620b31a94",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は さきを あるきたい\\nようだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbeb9fa7bd086b79",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたに ついていこうと\\nがんばっている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "846bf33cb9fa4803",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うれしそうに\\nあなたに すりよってきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9f0b9f2d2eec5932",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は げんき いっぱいだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "95ae2e2f1ac2bdd7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は とても うれしそうだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad5ba4588262a121",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うれしくて\\nじっと していられない!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "aa5d41c09ccd8788",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ゆっくり うなずいた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7aa967f0aeaca433",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は やるき まんまんだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6b6f23fc2bc19565",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うろうろしながら\\nいろんな おとを きいている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fc48671f212a5c71",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nとても きょうみ しんしんだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "48746359d21562c1",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なんとか むりをして\\nあるきつづけている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "28b2489df49b91e3",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あかるい かおで みてきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c0aaa7a0e2b5d6db",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うれしそうな かおで\\nにっこり わらった。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bfdad11503c9b344",
+  "translation": "{JPN}ポケモンは はなの においを\\nかいでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "639595e4d4dbd65b",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたに あえて\\nとても うれしそうだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57e651c9b4f7e653",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は こっちを むいて\\nにやりと わらった。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9fdb51519012a2d1",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うれしそうに\\nあなたに すりよった!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5f3eb543e38e4e83",
+  "translation": "{JPN}ポケモンは いい てんきで\\nうれしそうだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1dc0fc1c413833a9",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は とても おちついて\\nじしん たっぷりだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "53761400e0ffd88f",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は じめんを\\nせっせと つついている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6761d553272e5b7f",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は みはりを している。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "36cc4bed1b6e6ed8",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なにも ない ところを\\nじっと みつめている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57677e55bc05e1db",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うろうろしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83d045176ffe3711",
+  "translation": "{JPN}ポケモンは おおきな あくびをした!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "99df9507c782757f",
+  "translation": "{JPN}ポケモンは そわそわと\\nあたりを みまわしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "522373bea360a9ea",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は こっちを みて\\nほほえんでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "cbdd34a9933c26ec",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は そわそわと\\nあたりを みまわしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8334d0977501dcdc",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ときの こえを あげた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7486148c52e6e4e5",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は すてきな ダンスを\\nおどった!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3eb1bfca5b450899",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は やるき まんまんだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "56e55c28bca8ab45",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は とおくを じっと\\nみつめている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7ccdd3cde1dadfe9",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あたりを けいかいしている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ec3b48eb25364a9a",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は とおくを みつめて\\nほえた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5dc9d3497c739a1d",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ふらふらしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3aa99cf26f12664d",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}が あなたの あしを\\nふんでいる!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b63f942db2d4f5b9",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nすこし つかれている ようだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "259ffbff4bbc3fd7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ごきげんななめだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7d572776f4bac3e0",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いまにも たおれそうだ!\\n{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "fb10d763c07c7bc7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いまにも\\nたおれそうな ようすだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "42f7180b871c2593",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたに ついていこうと\\nひっしに がんばっている…{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8e34992aabb5d4ec",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は きんちょうしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "390a1f276f5271df",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なんだか ふまんそうだ…{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "513e2230d309f77b",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ふまんそうな\\nかおを している。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "563f9c738f991b26",
+  "translation": "{JPN}…ポケモンは すこし\\nさむそうだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6e7cd88d904ce3aa",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は くさむらで\\nあまやどりを している。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3f2a34605bc0d8b3",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ほえた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ea5837ca1a2ede04",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は おこったような\\nかおを している!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "dba70a1535430dd6",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なぜか\\nおこっている ようだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "307bd51f0d680429",
+  "translation": "{JPN}ポケモンは そっぽを むいて\\nはんこうてきな かおを している。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ba9b96bf859feb78",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なきごえを あげた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "49b5f5a8d45b8075",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は したを\\nじっと みている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6a342df44946bb23",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あたりを みわたしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "302f5535588d4364",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は したを のぞきこんでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d61b020d55f5c244",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なんとか ねむけと\\nたたかっている…{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "6452bd48ff3c48b9",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あてもなく\\nうろついている ようだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "90c1e73b72b421cb",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ぼんやりと\\nあたりを みまわしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "66a98b7e1abbe636",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nとても おおきな あくびをした!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f995ff1936e6de1c",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nきもちよさそうに くつろいでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b3419450e48cce09",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの かおを\\nじっと みつめている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d4e26e2707e15bc0",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの かおを\\nじっと みつめている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "722a0ed56c91d5eb",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたに\\nちゅういを むけている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8b2923f4496f827e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ふかい ところを\\nじっと みつめている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "83602b7699055792",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は じめんの においを\\nかいでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c288821759b3fcef",
+  "translation": "{JPN}ポケモンは なにも ない ところを\\nじっと みつめている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c6ea9d2dd5decd59",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は するどい めつきで\\nしゅうちゅうした!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "165ac022ab143573",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は しゅうちゅうしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d298222b7c16dbee",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は こっちを むいて\\nうなずいた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "156b2de6119dbc6a",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は すこし きんちょうしている…{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "567ce55af4d53b33",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの あしあとを\\nみている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "913e6c342b6222c0",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの めを\\nまっすぐ みつめている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "266c39ee9663fcf4",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は きゅうに\\nちかよってきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2a7f0cca1cdd0868",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}の ほっぺが\\nあかく なってきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "50dd5af544e3bf27",
+  "translation": "{JPN}わあ! {ENG}{STR_VAR_1}{JPN}が きゅうに\\nだきついてきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "f46d18d596d4a1ff",
+  "translation": "{JPN}わあ! {ENG}{STR_VAR_1}{JPN}が きゅうに\\nはしゃぎだした!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7536bef9b9e697b4",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}が あなたの あしに\\nすりすりしている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "57cf92c95a0d2e9e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ほおを そめた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a06495216d6baca3",
+  "translation": "{JPN}あっ! {ENG}{STR_VAR_1}{JPN}が だきついてきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "35a62eeb68b1e6a1",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うっとりと\\nあなたを みつめている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fbb79af44b77e85",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたに ちかよった。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "402f5eb4481f1fdc",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの あしもとに\\nぴったり くっついている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ce1cb0f61395d9c6",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いまにも\\nころびそうだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3fa49a1ff7853655",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}が あなたに ぶつかった!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "96da19ac0e7ff092",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は まだ じぶんの なまえに\\nなれていない ようだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ca47067299098dbd",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は したを のぞきこんでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0f018f2137183da2",
+  "translation": "{JPN}ポケモンは つまずいて\\nころびそうに なった!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1a88b8cd352e3028",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なにかを かんじて\\nとおぼえ している!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3cc95adaaf555cc7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は すっきりした ようだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "1cb73713f48a5460",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は きゅうに ふりむいて\\nほえはじめた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "0887d4e76960cff3",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は きゅうに ふりむいた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "7f724f38065ec7a1",
+  "translation": "{JPN}ポケモンは きゅうに はなしかけられて\\nびっくりした!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e314fb5bf19ac097",
+  "translation": "{JPN}くんくん… なんだか とても\\nいい においが する!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "5c7578c53eed4275",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は すっきりしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ad436a6a889654e6",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ふらふらして\\nいまにも たおれそうだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ab754ab7d84e85f4",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は いまにも\\nころびそうだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8a895eebaa70f85c",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ようじんぶかく\\nあるいている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "93b383021667b59a",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は きんちょうで\\nぴりぴりしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "a3df90e73f878495",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は なにか へんな けはいを\\nかんじて おどろいた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "80b2e4ff2816842e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は こわがって\\nあなたに すりよってきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54a3e17ba538fb8f",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ふしぎな けはいを\\nかんじている…{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "8fad39caf132e372",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は きんちょうで\\nぴりぴりしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2f56a3e47c6fa082",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あめが ふってきて\\nとても おどろいている ようだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "75b5f119a5ab132f",
+  "translation": "{JPN}ポケモンは そわそわと\\nなにかを さがしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2e7c9342b987ff2d",
+  "translation": "{JPN}ポケモンは まえを みていなくて\\nあなたに ぶつかってきた!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "395ab018e33eb5c8",
+  "translation": "{JPN}くんくん! ちかくに\\nなにか あるのかな?{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "54246aa8267c6e32",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は こいしを ころがして\\nたのしそうに あそんでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "e4426ac2db79b6d6",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は うろうろしながら\\nなにかを さがしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4b0419d0bccd3580",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたの においを\\nかいでいる。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "2bba29a88bc8779d",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は すこし\\nためらっている ようだ…{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "ceaae3fcc626287e",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は みがるさを\\nみせつけている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "bcf91fa1eccb99a4",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は たのしそうに\\nうごきまわっている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "26d81a5cdb14a6c7",
+  "translation": "{JPN}わあ! {ENG}{STR_VAR_1}{JPN}が きゅうに\\nよろこんで おどりだした!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9b15552a23ad1d45",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は しっかり\\nあなたに ついてきている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "de8e1215281cdd3f",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あなたと\\nあそびたい ようだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3bc51bce989a1cf8",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は\\nたのしそうに スキップしている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "3b691faf9d6720b8",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は はなうたを うたっている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "4d1a6edf3c72269a",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}が あなたの あしを\\nかじっている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "b8d0e3e7c58d3126",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ふりむいて\\nあなたを みた。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d73a71ab9ce7cbf3",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は すごい パワーを\\nみせようと がんばっている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "d54767cd99588a8d",
+  "translation": "{JPN}わあ! {ENG}{STR_VAR_1}{JPN}が きゅうに\\nよろこんで おどりだした!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "584cd02c52179bab",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は ごきげんだ!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "094acc01a80d08c1",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は のびのびと\\nとびまわっている!{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "c790e1a0591671d7",
+  "translation": "{JPN}ポケモンは なつかしい においを\\nかいでいる ようだ…{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "9a47f9ed124077b3",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は あめが ふって\\nとても うれしそうだ。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ },
+ {
+  "id": "24bead74eadf5ff7",
+  "translation": "{JPN}{ENG}{STR_VAR_1}{JPN}は どくの せいで\\nふるえている。{ENG}",
+  "provenance": {
+   "batch": "dialogue-c-follower-112",
+   "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+  }
+ }
+]

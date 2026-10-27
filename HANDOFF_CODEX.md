@@ -7,7 +7,7 @@
 ## 最新: 会話69〜108（2026-10-27、Claude Code）
 
 Codexの会話69（111〜113番道路ほか258行、抽出済み・未適用だったもの）を照合して適用。続けて残りのストーリーを40バッチ・34,734行、サブエージェント並列で下書きし、主セッションで検査・表記統一・適用した。15,239→49,973、pending11,749。
-**data/maps・data/text・data/scriptsのカタログ行はすべて翻訳済み**。例外は意図的に英語のまま残した129件: 点字 data/text/braille.inc 87（.brailleはLatinのみ）、FRLG名前候補 new_game_intro_frlg.inc 42（IS_FRLG専用・名前欄はJPN_NAME制御）。
+**data/maps・data/text・data/scriptsのカタログ行はすべて翻訳済み（pending0）**。点字87行は preproc に日本点字（カナ点字）変換を追加して翻訳（tools/localization/braille_ja.py→tools/preproc/braille_ja.h、test_braille_ja.py）、FRLG名前候補42行は `{JPN_NAME_n}`＋かな5文字以内で翻訳（reviews/braille-and-name-presets-109-110.review.md）。最新成果物は ../outputs/gba/wishes-jp-50102-ae8e8da9.gba（source 8a948b74be）、Excel ../outputs/translation-types-50102/・exports/types-50102.xlsx。50,102/11,620。
 レビュー: reviews/dialogue-northern-routes-69.review.md、dialogue-hoenn-wave-70-78.review.md、dialogue-frontier-kanto-text-79-108.review.md。下書きは reviews/drafts/、サブエージェント用の共通指示は reviews/drafts/BRIEF-subagents.md。
 成果物: ../outputs/gba/wishes-jp-49973-08c39ad6.gba（SHA256 9bb0cdc0…2fec、source 5b6c415afe、ROM29,576,456B）。中間版 wishes-jp-21983-bc0b1220.gba。Excel ../outputs/translation-types-49973/、Git内 exports/types-49973.xlsx。BPS再適用一致。実ゲームの表示・進行・保存は未検証。
 

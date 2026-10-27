@@ -1,0 +1,126 @@
+表現・書式の検査を実行しました。
+見直し候補: 40件
+この検査では、意味の保持と読者にとっての分かりやすさは判定していません。
+文書の種類: 台詞・脚本（script）、読者: 指定なし。種類に合わせて外した候補 0件（bare_verb_chain 0件、fragment_run 0件、metaphor_label 0件、sentence_end_repetition 0件）。
+
+内訳: error 0件、warn 40件、info 0件
+
+L71 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > おおきさくらべ:
+
+L189 [WARN] emoji_prohibited: 絵文字（♂）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > ♂
+
+L192 [WARN] emoji_prohibited: 絵文字（♀）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > ♀
+
+L254 [WARN] emoji_prohibited: 絵文字（♂）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > {DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_RED GREEN WHITE}♂{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}
+
+L257 [WARN] emoji_prohibited: 絵文字（♀）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > {DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_GREEN BLUE WHITE}♀{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}
+
+L263 [WARN] emoji_prohibited: 絵文字（♂）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > {DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_RED GREEN WHITE}♂{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+
+L266 [WARN] emoji_prohibited: 絵文字（♀）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > {DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_GREEN BLUE WHITE}♀{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+
+L353 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > イメージ:
+
+L371 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > こたえ:
+
+L374 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > クイズ:
+
+L377 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > でしの ことば:
+
+L440 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > しょうぶの まえ:
+
+L443 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > かったとき:
+
+L446 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > まけたとき:
+
+L543 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > なまえ:
+
+L558 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > :
+
+L664 [WARN] emoji_prohibited: 絵文字（♂）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > {COLOR DYNAMIC_COLOR2}♂
+
+L667 [WARN] emoji_prohibited: 絵文字（♀）が検出されました。AI特有の不要な装飾であれば整理してください。ただし、意味や必要な用途を担っている表現は保ってください。
+  > {COLOR DYNAMIC_COLOR1}♀
+
+L700 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > {DYNAMIC 0}の{DYNAMIC 1}ひきめ:
+
+L800 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > タイム:
+
+L803 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > おす スピード:
+
+L806 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > なめらかさ:
+
+L960 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > とった きのみ:
+
+L963 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > ベストスコア:
+
+L967 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > とった きのみ:
+
+L982 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > 1:
+
+L985 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > 2:
+
+L988 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > 3:
+
+L991 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > 4:
+
+L994 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > 5:
+
+L1029 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > れんぞく ジャンプ:
+
+L1032 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > ベストスコア:
+
+L1035 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > れんぞく エクセレント:
+
+L1258 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > ふくまれる ポケモン:
+
+L1297 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > :
+
+L1303 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > じかん:
+
+L1405 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > こうかんちゅう:
+
+L1408 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > たいせんちゅう:
+
+L1411 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > ユニオンルームの ひと:
+
+L1414 [WARN] trailing_colon: 文末にコロン（：）があります。ラベルと値の対応などに必要か確認し、不要な前置きなら整理してください。
+  > つうしんちゅう:

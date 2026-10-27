@@ -1,0 +1,26 @@
+[
+ {
+  "id": "b10f79b3ab22c5fd",
+  "translation": "1.",
+  "provenance": {
+   "batch": "fixed-array-fix-122",
+   "method": "gText_123Dot[][3] cannot hold JPN/ENG controls; digits and period kept as in English"
+  }
+ },
+ {
+  "id": "3655b5e7452c465c",
+  "translation": "2.",
+  "provenance": {
+   "batch": "fixed-array-fix-122",
+   "method": "gText_123Dot[][3] cannot hold JPN/ENG controls; digits and period kept as in English"
+  }
+ },
+ {
+  "id": "b9b2b9036a7b79a7",
+  "translation": "3.",
+  "provenance": {
+   "batch": "fixed-array-fix-122",
+   "method": "gText_123Dot[][3] cannot hold JPN/ENG controls; digits and period kept as in English"
+  }
+ }
+]

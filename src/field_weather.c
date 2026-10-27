@@ -1240,28 +1240,28 @@ bool32 IsWeatherAlphaBlend(void)
 }
 
 static const u8 sWeatherNames[WEATHER_COUNT][24] = {
-    [WEATHER_NONE]               = _("NONE"),
-    [WEATHER_SUNNY_CLOUDS]       = _("SUNNY CLOUDS"),
-    [WEATHER_SUNNY]              = _("SUNNY"),
-    [WEATHER_RAIN]               = _("RAIN"),
-    [WEATHER_SNOW]               = _("SNOW"),
-    [WEATHER_RAIN_THUNDERSTORM]  = _("RAIN THUNDERSTORM"),
-    [WEATHER_FOG_HORIZONTAL]     = _("FOG HORIZONTAL"),
-    [WEATHER_VOLCANIC_ASH]       = _("VOLCANIC ASH"),
-    [WEATHER_SANDSTORM]          = _("SANDSTORM"),
-    [WEATHER_FOG_DIAGONAL]       = _("FOG DIAGONAL"),
-    [WEATHER_UNDERWATER]         = _("UNDERWATER"),
-    [WEATHER_SHADE]              = _("SHADE"),
-    [WEATHER_DROUGHT]            = _("DROUGHT"),
-    [WEATHER_DOWNPOUR]           = _("DOWNPOUR"),
-    [WEATHER_UNDERWATER_BUBBLES] = _("UNDERWATER BUBBLES"),
-    [WEATHER_ABNORMAL]           = _("ABNORMAL(NOT WORKING)"),
-    [WEATHER_ROUTE119_CYCLE]     = _("ROUTE119 CYCLE"),
-    [WEATHER_ROUTE123_CYCLE]     = _("ROUTE123 CYCLE"),
-    [WEATHER_FOG]                = _("FOG"),
+    [WEATHER_NONE]               = _("{JPN}なし{ENG}"),
+    [WEATHER_SUNNY_CLOUDS]       = _("{JPN}はれ くもり{ENG}"),
+    [WEATHER_SUNNY]              = _("{JPN}はれ{ENG}"),
+    [WEATHER_RAIN]               = _("{JPN}あめ{ENG}"),
+    [WEATHER_SNOW]               = _("{JPN}ゆき{ENG}"),
+    [WEATHER_RAIN_THUNDERSTORM]  = _("{JPN}あめ かみなり{ENG}"),
+    [WEATHER_FOG_HORIZONTAL]     = _("{JPN}きり よこ{ENG}"),
+    [WEATHER_VOLCANIC_ASH]       = _("{JPN}かざんばい{ENG}"),
+    [WEATHER_SANDSTORM]          = _("{JPN}すなあらし{ENG}"),
+    [WEATHER_FOG_DIAGONAL]       = _("{JPN}きり ななめ{ENG}"),
+    [WEATHER_UNDERWATER]         = _("{JPN}すいちゅう{ENG}"),
+    [WEATHER_SHADE]              = _("{JPN}くもり{ENG}"),
+    [WEATHER_DROUGHT]            = _("{JPN}ひでり{ENG}"),
+    [WEATHER_DOWNPOUR]           = _("{JPN}おおあめ{ENG}"),
+    [WEATHER_UNDERWATER_BUBBLES] = _("{JPN}すいちゅう あわ{ENG}"),
+    [WEATHER_ABNORMAL]           = _("{JPN}いじょう(ふどうさ){ENG}"),
+    [WEATHER_ROUTE119_CYCLE]     = _("{JPN}119ばん サイクル{ENG}"),
+    [WEATHER_ROUTE123_CYCLE]     = _("{JPN}123ばん サイクル{ENG}"),
+    [WEATHER_FOG]                = _("{JPN}きり{ENG}"),
 };
 
-static const u8 sDebugText_WeatherNotDefined[] = _("NOT DEFINED!!!");
+static const u8 sDebugText_WeatherNotDefined[] = _("{JPN}みていぎ!!!{ENG}");
 const u8 *GetWeatherName(u32 weatherId)
 {
     if (sWeatherNames[weatherId][0] != 0)

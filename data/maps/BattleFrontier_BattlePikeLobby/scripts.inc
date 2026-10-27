@@ -317,7 +317,7 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
 	.string "ポケモンが 3ひき ひつようです\p"
 	.string "また ちがう どうぐを もたせて\n"
 	.string "おく ひつようが あります\p"
-	.string "タマゴ{ENG}{STR_VAR_1}{JPN}は さんか できません$"
+	.string "タマゴ{ENG}{STR_VAR_1}{JPN}。$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsEnd:
 	.string "{JPN}じゅんびが ととのいましたら\n"
@@ -331,7 +331,7 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "3ひき ひつようです\p"
 	.string "また ちがう どうぐを もたせて\n"
 	.string "おく ひつようが あります\p"
-	.string "タマゴ{ENG}{STR_VAR_1}{JPN}は さんか できません$"
+	.string "タマゴ{ENG}{STR_VAR_1}{JPN}。$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
 	.string "{JPN}それでは ゲームに ちょうせんする\n"

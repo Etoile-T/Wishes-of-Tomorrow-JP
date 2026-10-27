@@ -1,0 +1,1709 @@
+73bb883d102422c2
+
+
+bdccf521a89f55b9
+
+
+b37c3e4cad1a8164
+
+
+5bdc77eca4cfe750
+SAPPHIRE
+
+e0b7f707cf455296
+RUBY
+
+b2ce8d23a7978654
+A Button
+
+492df343435c11b2
+B Button
+
+0602e48f4a4119e2
+R Button
+
+5b574e8c89d3943e
+L Button
+
+e464b005e4bcbf46
++ Control Pad
+
+b2dfaacdbc800f81
+L Button  R Button
+
+56b656ba21fcb4b0
+{DPAD_UPDOWN}PICK {A_BUTTON}OK
+
+9e1b001e13a5780e
+????? POKéMON
+
+923d85c657f784a2
+{CLEAR_TO 0x0C}??'??”
+
+ef1c6da4c4bd1dca
+???.? m
+
+8eccc7e5474b9772
+????.? lbs.
+
+a9240086724a8db8
+???.? kg.
+
+f84856f86bf05456
+                       POKéMON
+
+730221c2af6de7bf
+{CLEAR_TO 0x0C}    '    ”
+
+ead4a9df5433ca8e
+        .   lbs.
+
+211d48f3b90de993
+
+
+f774a8b7c69b75d6
+CRY OF
+
+f8d3a9640b4fba62
+
+
+a077c90600f1c651
+SIZE COMPARED TO 
+
+68f14242d8a8d569
+Search for POKéMON based on
+selected parameters.
+
+a7606ba7d6212516
+List by the first letter in the name.
+Spotted POKéMON only.
+
+760421e5cd416790
+List by body color.
+Spotted POKéMON only.
+
+f17f4a48e337e227
+List by type.
+Owned POKéMON only.
+
+86c12b237739edfc
+Execute search/switch.
+
+81b5c9fc74b55cb2
+ABC
+
+3077aaa1dfe793de
+DEF
+
+e5e4fb0be35dda3d
+GHI
+
+b22ec3a938ead956
+JKL
+
+3d6895de18d6ae7d
+MNO
+
+ec2f226ea1c9ba5d
+PQR
+
+f038f4b061e9bfa5
+STU
+
+8731f812943840ea
+VWX
+
+c1f19b31270a19a4
+YZ
+
+d9780d9828ea548f
+JOKAIM region's POKéDEX
+
+08f3b5d11f8f3d25
+National edition POKéDEX
+
+629b4a6f52c9fb9e
+POKéMON are listed according to their
+number.
+
+a8a28edfded81adc
+Spotted and owned POKéMON are listed
+alphabetically.
+
+5df3d33e4b85e236
+Owned POKéMON are listed from the
+heaviest to the lightest.
+
+19f78affebe0b425
+Owned POKéMON are listed from the
+lightest to the heaviest.
+
+e736f4b794ec2641
+Owned POKéMON are listed from the
+tallest to the smallest.
+
+6a555e80cb5b3d1e
+Owned POKéMON are listed from the
+smallest to the tallest.
+
+84c991c8afd54e58
+
+
+bcd848f03d3fcfad
+▶
+
+20217e99f1a9d080
+ 
+
+e3de6fd84799e8d9
+Spotted POKéMON: {STR_VAR_1}!
+Owned POKéMON: {STR_VAR_2}!
+［改ページ］
+PROF. BIRCH's POKéDEX rating!
+［改ページ］
+PROF. BIRCH: Let's see…
+［改ページ］
+
+4a719e6847c89e7d
+IDNo. /
+
+3810981f53670878
+
+
+93e8f9d4439f86cb
+?????
+
+cabb0e89321c6a67
+/
+
+1a73976de78dfad6
+-
+
+aa7faf38e7af0b2f
+--
+
+9d4e1168634f3199
+---
+
+959d1933bf72636f
+♂
+
+cd1f86815d89f8c7
+♀
+
+28d1aca29136da7b
+{LV}
+
+347c5b6675d0c11c
+{NO}{CLEAR 0x01}
+
+216474c9467ad7ba
+{RIGHT_ARROW}
+
+fe63eab2988760ae
+{ID}{NO}
+
+2d359e88f209d374
+ 
+
+d091c8267ccbeea6
+▶
+
+6d6d620b6f30a66f
+×{STR_VAR_1}
+
+7e2ab65c70f9e524
+ BERRY
+
+a72b25f4fb4d141a
+{NO}{STR_VAR_1}{CLEAR 0x03}{STR_VAR_2}
+
+d5b4da589a8a0e9b
+{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}
+
+f47da759f7e4ad9d
+¥{STR_VAR_1}
+
+2f94f739ea107252
+{PAUSE_UNTIL_PRESS}
+
+17ab4e17ee367bb1
+{STR_VAR_1}を ぐるぐるこうかんに
+だして よろしいですか？
+
+5304c2f5751e7259
+
+
+11fe5a80d097557a
+
+
+05c3afb5ec4459a6
+{STR_VAR_3}{STR_VAR_1}/{STR_VAR_2}
+
+e0c36e1a2f164484
+{COLOR 161}{SHADOW 161}
+
+e8417520fbdace7a
+This can't be placed here.
+It must be on a DESK, etc.
+
+1a963a59a7888e9a
+
+
+6481499f84e10dd5
+{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_RED GREEN WHITE}♂{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}
+
+b6a947e342b2d48b
+{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_GREEN BLUE WHITE}♀{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}
+
+be4e032d484db77f
+{DYNAMIC 0}/{LV}{DYNAMIC 1}
+
+4fa6e641fcd32ca4
+{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_RED GREEN WHITE}♂{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+
+46024d5b74cd836e
+{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_GREEN BLUE WHITE}♀{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+
+9b333c192c84bf1e
+{DYNAMIC 0}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+
+c781a4b404a1f7f0
+Combine four words or phrases
+
+aa25d55b04215a2d
+and make your profile.
+
+58493ef917cbd778
+Combine six words or phrases
+
+631024db5d1d1606
+and make a message.
+
+cbfa121e83e0ea8e
+Find words that describe your
+
+3aa3272c6f1102e5
+feelings right now.
+
+69e86e6dc9484e5a
+With four phrases,
+
+1f79fb43dc2cd25f
+Combine nine words or phrases
+
+75d20930d6b1e48d
+and make a message.
+
+c268e1f66794cc7a
+Change just one word or phrase
+
+12d58a1b82c6f5af
+and improve the BARD's song.
+
+b8569a3d041782f5
+Your profile
+
+64077f36626d5370
+Your feeling at the battle's start
+
+70a5530537017f88
+What you say if you win a battle
+
+7bed4c5e670c7fca
+What you say if you lose a battle
+
+d4f9d4d3f8053b61
+The answer
+
+408073704e64fa60
+The MAIL message
+
+bdfa0e5f2b4c864f
+The MAIL salutation
+
+9d3a497e8a297af3
+The new song
+
+3e271659144a25fb
+Combine two words or phrases
+
+92df961cdaee74e6
+and make a trendy saying.
+
+775c4d8b65c4dba9
+The trendy saying
+
+d96e537585fa9cac
+is as shown. Okay?
+
+fbc6c7defbd753c2
+Combine two words or phrases
+
+9d735dfaabcf3dd0
+to teach her a good saying.
+
+38fd4029edc18fbf
+Find words which fit
+
+23159d4300ef1780
+the TRAINER's image.
+
+44014331c9eec42b
+The image:
+
+bc845186c88892a4
+Out of the listed choices,
+
+c1b26d8a0c04366a
+select the answer to the quiz!
+
+cef61e206fabbdb8
+and create a quiz!
+
+e54b268fecfce905
+Pick a word or phrase and
+
+51ce61bf066341a6
+set the quiz answer.
+
+687c17a38b68d0c9
+The answer:
+
+51e5f4b030e3955c
+The quiz:
+
+09f001a449f63be3
+Apprentice's phrase:
+
+780d2fd92d9b9e05
+Quit editing?
+
+b9ccd22f33db0cf0
+Stop giving the POKéMON MAIL?
+
+83a44fe215368e0c
+and fill out the questionnaire.
+
+835ec0969c15a6c4
+Let's reply to the interview!
+
+56b62943e3c08b10
+All the text being edited will
+
+50ad5217f3b0a4fa
+be deleted. Is that okay?
+
+d0841e8b592bf1ad
+Quit editing?
+
+17bad2cd85157d33
+Is that okay?
+
+1826c85ab456d2ae
+Please enter a phrase or word.
+
+e785c2144fd68c23
+The entire text can't be deleted.
+
+e751a76d0bd2fa96
+Only one phrase may be changed.
+
+9247eb14fa31a018
+The original song will be used.
+
+0fdec400731e17b2
+That's trendy already!
+
+66feb5c86be99808
+Combine two words or phrases.
+
+06fee3bd0038118b
+Quit giving information?
+
+230446eff36ee190
+Stop giving the POKéMON MAIL?
+
+ea004e76dbd1f717
+Create a quiz!
+
+5edb3e160bea99f2
+Set the answer!
+
+534c533ac1bab2fd
+Cancel the selection?
+
+3cb7ed3e0e663058
+PROFILE
+
+bd07c79d97f5c094
+At the battle's start:
+
+18ac73846c70d54e
+Upon winning a battle:
+
+e65d9366647ec9ba
+Upon losing a battle:
+
+35209f19cbe7d96d
+The BARD's Song
+
+a6badf0f16c13197
+What's hip and happening?
+
+b3cc310ea5bdb362
+Interview
+
+d7f266b501eb6f96
+Good saying
+
+4260d01cd9fe5216
+Fan's question
+
+18a791c9ce7bf095
+クイズの こたえは？
+
+3dc524305a2dc01c
+Apprentice's phrase
+
+62c37bea4c5cd97e
+QUESTIONNAIRE
+
+327f96e4d9225d09
+You cannot quit here.
+
+d29bf056a432ca5d
+This section must be completed.
+
+89218e1665689775
+{DYNAMIC 0}'s quiz
+
+6ef5a67cc0a175f4
+Lady
+
+096262a12d417cc6
+After you have read the quiz
+
+1951edcd637eb267
+question, press the A Button.
+
+c5ecb5d8447c8e2f
+The quiz answer is?
+
+cf1d5debf4d8c894
+Would you like to quit this quiz
+
+f7cb32193f7767e1
+challenge?
+
+2545aebfab028028
+Is this quiz OK?
+
+55b4e9d04b7615e8
+Create a quiz!
+
+65aa689f598984a0
+Select the answer!
+
+e870534ff7eb40e0
+The lyrics can't be deleted.
+
+2a7e9e1ebb181631
+The in-game clock adjustment system
+is now useable.
+
+639f84b9a7fd9577
+spicy
+
+822080ee91680ce7
+dry
+
+fe5ecf47ea25e964
+sweet
+
+05a8bd541d9a57b2
+bitter
+
+f697015413f2cd55
+sour
+
+bfd461049c28683a
+first
+
+ea9ab6cff6d7ca3f
+second
+
+68a758fcbd5e7f01
+third
+
+aca3e394a8c0780d
+MARCO
+
+cf84756e06eb1496
+NAME: 
+
+3e163f2bc1d9a195
+IDNo.
+
+8d6d2af04f5c67d4
+MONEY
+
+b9225b7a8471785b
+¥
+
+c09db32532d10405
+
+
+f7e09d53d4062d90
+:
+
+167700063c262581
+ points
+
+d2c291da55a7b8c9
+ゲ-ムポイント
+
+ed375d94577d2913
+{STR_VAR_1}'s TRAINER CARD
+
+621d7724551d8a5e
+HALL OF FAME DEBUT  
+
+793d90fb8a72362c
+LINK BATTLES
+
+47926dabfd89e39a
+LINK CABLE BATTLES
+
+e24a1310ac73e108
+W:{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}  L:{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_2}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}
+
+6f65a756b0abb213
+POKéMON TRADES
+
+577cdb0c2375bb0b
+UNION TRADES & BATTLES
+
+d5135de3c7dae91f
+BERRY CRUSH
+
+90530ff767c420fc
+Waiting for the other TRAINER to
+finish reading your TRAINER CARD.
+
+2a3adeb21f0131a8
+{POKEBLOCK}S W/FRIENDS
+
+eef757f67bc59eb3
+{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}
+
+19bcea8372b9f272
+WON CONTESTS W/FRIENDS
+
+5e5858fe5a5a48cb
+BATTLE POINTS WON
+
+0ed08a4619486120
+{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BP
+
+aa472613adfca858
+BATTLE TOWER
+
+e0f48ad6ef52cf7e
+W/{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}  STRAIGHT/{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_2}
+
+0d1e62dea1586bfc
+{STR_VAR_1} SINGLE
+
+88032b4f19698682
+{STR_VAR_1} DOUBLE
+
+e036afc4e261465d
+{STR_VAR_1} MULTI
+
+cc3fd30afd1c8cb0
+{STR_VAR_1} LINK
+
+aa61b2f71b10d9ef
+{STR_VAR_1}
+
+5ac51845cd234443
+Give
+
+9d8ccfcc07c897a3
+No need
+
+251b0da817ed8393
+Announcing the results!
+
+4450843f26d95b63
+The preliminary results!
+
+e7cc12eb850ca6dc
+Round 2 results!
+
+e0e0b17a7dfa4143
+{STR_VAR_1}'s {STR_VAR_2} won!
+
+5e7e9a446abc707e
+Communication standby…
+
+058d0d93bc276454
+{COLOR DARK_GRAY}
+
+314f5d9171a46a59
+{BACKGROUND WHITE}{TEXT_COLORS DYNAMIC_COLOR6 DYNAMIC_COLOR5 WHITE}
+
+470d80aed0a1b314
+{BACKGROUND DARK_GRAY}{ACCENT DARK_GRAY}
+
+9061cfad638dce8d
+ 
+
+6e6f93ab11301ad5
+{COLOR DYNAMIC_COLOR2}♂
+
+abfa9d84b5c29660
+{COLOR DYNAMIC_COLOR1}♀
+
+11b3b3d8ad87bd8b
+{COLOR DYNAMIC_COLOR2}
+
+0b13f657f2ac972b
+UPPER
+
+e857ab4857a40129
+lower
+
+4b803390f2be527a
+SYMBOLS
+
+2097f0762df6f145
+Quit chatting?
+
+1dc824d255b5462c
+Register text where?
+
+0013e8a13640b77d
+Register text here?
+
+673e9c38c3ccc318
+Input text.
+
+2fd3525c47ee97d5
+{DYNAMIC 0} joined the chat!
+
+cd07a37b86e711ae
+{DYNAMIC 0} left the chat.
+
+9a930bb8d6aa5abb
+{DYNAMIC 0}の{DYNAMIC 1}ひきめ:
+
+cc145910445b5fc7
+{DYNAMIC 0}の{DYNAMIC 1}ひきめは いません
+
+46490e49752ed08b
+Exiting the chat…
+
+4be314a53dde6c10
+The LEADER, {DYNAMIC 0}, has
+left, ending the chat.
+
+b4f0ffda6299775e
+If the LEADER leaves, the chat
+will end. Is that okay?
+
+42786050ce4f6e6f
+HELLO
+
+d63905a3d2344c4f
+BATTLE
+
+ac2ebff19545ded4
+LET'S
+
+cc8081922b3ea1d8
+OK!
+
+eb8f4b2bffe2bbe9
+SORRY
+
+911f445aab7b941f
+YAY{EMOJI_BIGSMILE}
+
+a4a2605474b4b1b7
+THANK YOU
+
+4cea86dd4915a0b7
+BYE-BYE!
+
+fd18fa1fe089682e
+Are you ready to BERRY-CRUSH?
+Please pick a BERRY for use.
+［改ページ］
+
+6ba5f83721733396
+Please wait while each member
+chooses a BERRY.
+
+a957188b7fcea8c4
+{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}You ended up with {STR_VAR_1} units of
+silky-smooth BERRY POWDER.{RESUME_MUSIC}
+［改ページ］
+Your total amount of BERRY POWDER
+is {STR_VAR_2}.
+［改ページ］
+
+985701b7de550be0
+Recording your game results in the
+save file.
+［スクロール］
+Please wait.
+
+d0412229e2cca2db
+Want to play BERRY CRUSH again?
+
+22fe9ec402ed1453
+You have no BERRIES.
+The game will be canceled.
+
+f31949b2532554f9
+A member dropped out.
+The game will be canceled.
+
+be36d2bd14ed9918
+Time's up.
+［改ページ］
+Good BERRY POWDER could not be
+made…
+［改ページ］
+
+1fef8d9218568bdf
+Communication standby…
+
+e9e2270a8a652c14
+1. {COLOR BLUE}{SHADOW LIGHT_BLUE}{DYNAMIC 0}
+
+12939527a945f7d9
+1. {DYNAMIC 0}
+
+7ea340857cacb6c0
+ time(s)
+
+4484534a99b994c8
+{STR_VAR_1}.{STR_VAR_2}
+
+4cb11bc0cdbfe41b
+{STR_VAR_1} BERRY
+
+c9b4fdc8b2dfc09c
+Time:
+
+d6f0894c429bb882
+Pressing Speed:
+
+b6e018078707fe63
+Silkiness:
+
+c2c597fc65a7d508
+{STR_VAR_1}
+
+2464c38696eb9882
+ min. 
+
+26214fe5abae046e
+{STR_VAR_1}.{STR_VAR_2}
+
+c41a5941193b9f40
+ sec.
+
+0827e28803a5977d
+{STR_VAR_1}.{STR_VAR_2}
+
+f3ebc6b2db9a2e9c
+ Times/sec.
+
+2dc57508df0f22bc
+{STR_VAR_1}%
+
+ea9c3393f649a1de
+No. of Presses Rankings
+
+1b6819921cf5b89a
+Crushing Results
+
+e227ae0e94de2db7
+Neatness Rankings
+
+b563d099cf030c25
+Cooperative Rankings
+
+52df40d991b18cc5
+Pressing-Power Rankings
+
+fc562316139de774
+BERRY CRUSH
+
+0d0ef992c5498c85
+Pressing-Speed Rankings
+
+0b3c753c5b81a54f
+{STR_VAR_1} PLAYERS
+
+ef7662b377d74e0a
+Symbols Earned
+
+9ef718ff1dea2898
+Battle Record
+
+e9218b4365198adb
+Battle Points
+
+a374a0fd202b9a93
+
+
+d90732f06553c166
+Check BATTLE FRONTIER MAP.
+
+44f904b9fd19fd5d
+Check TRAINER CARD.
+
+101e06cedf834ce7
+View recorded battle.
+
+d092c835b191ff64
+Put away the FRONTIER PASS.
+
+1c9fb7de6c850853
+Your current Battle Points.
+
+9c4c1a9f30338c06
+Your collected Symbols.
+
+3d228f99fa86feda
+Battle Tower - Ability Symbol
+
+27382b7a91b5c0ef
+Battle Dome - Tactics Symbol
+
+141df6b166aecba1
+Battle Palace - Spirits Symbol
+
+5555b9c2643da6f5
+Battle Arena - Guts Symbol
+
+9bf6d259f5e2ebe4
+Battle Factory - Knowledge Symbol
+
+44053df971390af3
+Battle Pike - Luck Symbol
+
+63ac614fe3302574
+Battle Pyramid - Brave Symbol
+
+bb34d4b0eca65bc4
+There is no Battle Record.
+
+808a8b700634ac6e
+BATTLE TOWER
+
+edb6a7d92fd7f72c
+BATTLE DOME
+
+7ba7cca6b74e09e3
+BATTLE PALACE
+
+dd5599737027ea4a
+BATTLE ARENA
+
+d9bcf526527dd9ad
+BATTLE FACTORY
+
+c4453bd342c040e5
+BATTLE PIKE
+
+51dc8883acd1c7ec
+BATTLE PYRAMID
+
+5893d063997109af
+KO opponents and aim for the top!
+Your ability will be tested.
+
+04fee0c2e8c74624
+Keep winning at the tournament!
+Your tactics will be tested.
+
+9f6a3612af17c4ec
+Watch your POKéMON battle!
+Your spirit will be tested.
+
+3362c47210f1d439
+Win battles with teamed-up POKéMON!
+Your guts will be tested.
+
+f155aaabce477b53
+Aim for victory using rental POKéMON!
+Your knowledge will be tested.
+
+b2343d4a3996670f
+Select one of three paths to battle!
+Your luck will be tested.
+
+05a6466bbcd3701c
+Aim for the top with exploration!
+Your bravery will be tested.
+
+ae1928acaceb5c23
+DODRIO BERRY-PICKING RECORDS
+
+36802160a34b032a
+BERRIES picked:
+
+199bf5ff0f7322bd
+Best score:
+
+08136de547b71092
+BERRIES picked in a row with
+five players:
+
+824079e073ea6a9c
+Announcing BERRY-PICKING results!
+
+3120ba81ac389cb1
+{CLEAR_TO 0x03}10P{CLEAR_TO 0x2B}30P{CLEAR_TO 0x53}50P{CLEAR_TO 0x77}{EMOJI_MINUS}50P
+
+0a5c35d003ecbb8e
+Announcing rankings!
+
+a49517d66010554b
+Announcing prizes!
+
+1758445b1ba8ae2b
+1:
+
+966312678acd3dfd
+2:
+
+4aafbaf8b1977166
+3:
+
+8cd413879c2f611d
+4:
+
+14226c66cbc85065
+5:
+
+66e496a4e51f5fb8
+The first-place winner gets
+this {DYNAMIC 0}!
+
+260d5f6c91140e89
+You can't hold any more!
+
+9e24ccacea9d2dfa
+It filled its storage space.
+
+ef1c31ac52a50074
+Want to play again?
+
+94d019dc4195edb3
+Somebody dropped out.
+The link will be canceled.
+
+607261d5103fb4a4
+ points
+
+b2bdbb509671a8d3
+Communication standby…
+
+bccff728d63ac024
+ points
+
+c867469772917982
+ time(s)
+
+de0eff967cec7d84
+POKéMON JUMP RECORDS
+
+964ce9852df86727
+Jumps in a row:
+
+05d2ee4b60b61371
+Best score:
+
+642c1dc132776179
+EXCELLENTS in a row:
+
+1e598e01c6600afd
+Awesome score! You've
+won {DYNAMIC 1} {DYNAMIC 0}!
+
+91d6065ae85f2a4b
+It filled its storage space.
+
+0089596ae2a77fda
+You can't hold any more!
+
+7c6bc63c439df6fa
+Want to play again?
+
+b9b231bd319eba35
+Somebody dropped out.
+The link will be canceled.
+
+46d5c46cad7ec514
+Communication standby…
+
+566f726c5d4839c6
+{PLAYER}'s Link Contest Results
+
+0c7bb329c1d018d1
+1st
+
+47e9de5a5a282871
+2nd
+
+5efab93cc9f709cf
+3rd
+
+9966adbe7bdeb3b5
+4th
+
+b08947715fc5977d
+Friend
+
+02f80e8ce5e17bba
+POKeMON
+
+1ac51d6588074160
+ふしぎなもらいもの
+
+ef7ab74d83f9361f
+{A_BUTTON}けってい {B_BUTTON}やめる
+
+ab97989e453e1834
+カードeリーダー{PLUS}　で
+ふしぎなもらいものを　よみこみます
+
+28b7ed54d68011ca
+カードeリーダー{PLUS}の　メニューから
+‘つうしん'を　えらび
+
+a97f9c5f674424e6
+‘ゲームボーイアドバンスとつうしん'
+を　せんたく　してください
+
+cdfe197a665302c8
+カードeリーダー{PLUS}の　‘つうしん'を
+えらんで　Aボタンを　おしてください
+
+28800412b009a2c4
+せつぞくが　まちがっています
+
+178c48001126debb
+カードの　よみこみを
+ちゅうし　しました
+
+4ecca7aa9c25d8e0
+カードeリーダー{PLUS}と
+つうしん　できません
+
+11f86ef35787a175
+つうしん　ちゅう　です
+
+a5974f56f23387a2
+つうしん　エラーです
+せつぞくを　たしかめて　ください
+
+b6d17626296657ea
+つうしん　エラーです
+はじめから　やりなおして　ください
+
+2ab36716373b1bdf
+カードeリーダー{PLUS}　に
+カードを　よみこませて　ください
+
+8bc1c15613c3208f
+つうしん　しゅうりょう！
+
+40b5fa02dfe6b1a0
+あらたな　トレーナーが
+ホウエンに　やってきた！
+
+bae1bcf1c3c8381e
+しばらく　おまちください
+
+ace52208b07db713
+かきこみ　エラー　です
+データが　ほぞん　できませんでした
+
+5c1730bcc06d0cf0
+{PLAYER}'s Single Battle Room Results
+
+58696cbb7c201b27
+{PLAYER}'s Double Battle Room Results
+
+21650a574f0f4f93
+{PLAYER}'s Multi Battle Room Results
+
+2896e246a2ea1c83
+{PLAYER}'s Link Multi Battle Room Results
+
+d0add8e60cd632ae
+{PLAYER}'s Single Battle Tourney Results
+
+606bdaee853093be
+{PLAYER}'s Double Battle Tourney Results
+
+975b13fc9625eb4f
+{PLAYER}'s Single Battle Hall Results
+
+84ad0aaa3e81a455
+{PLAYER}'s Double Battle Hall Results
+
+6d39b004ca0e2396
+{PLAYER}'s Battle Choice Results
+
+469635ec07e76730
+{PLAYER}'s Set KO Tourney Results
+
+91bf514404a19807
+{PLAYER}'s Battle Swap Single Results
+
+2394d0829585dad8
+{PLAYER}'s Battle Swap Double Results
+
+8a35af47f6dfcfe4
+{PLAYER}'s Battle Quest Results
+
+66d34166b1512aff
+LV. 50
+
+5f4fc28f9d65e98d
+OPEN LV.
+
+23d70eaba90e485b
+Win streak: {STR_VAR_1}
+
+3fbd675498e5c8df
+CURRENT
+
+4645ff8602c6a000
+PREV.
+
+cccfdd90f0ed5b05
+Rental/Swap
+
+7f00ae88b93fe11a
+Total
+
+f48648f451d14a31
+Clear streak: {STR_VAR_1}
+
+3766706a619c70e2
+Championships: {STR_VAR_1}
+
+f5d79473b9cd821a
+Rooms cleared: {STR_VAR_1}
+
+9d034548114fbf4f
+Times cleared:{CLEAR 0x05}{STR_VAR_1}
+
+dc6232bc0e38831a
+KOs in a row: {STR_VAR_1}
+
+3f0e81199fecb3e3
+Times: {STR_VAR_1}
+
+6a0526f8c5e8489a
+Floors cleared: {STR_VAR_1}
+
+9432a6e94529bea1
+LV. 50
+
+ae92a045a90c8b94
+OPEN LEVEL
+
+c592b282b8efa14b
+Win streak: {STR_VAR_2}
+
+9b7e614174109194
+Clear streak: {STR_VAR_2}
+
+b71ba9103f012f3b
+Rooms cleared: {STR_VAR_2}
+
+1b786606eed7c053
+KOs in a row: {STR_VAR_2}
+
+8a89b861014e32c2
+Floors cleared: {STR_VAR_2}
+
+b10f79b3ab22c5fd
+1.
+
+3655b5e7452c465c
+2.
+
+b9b2b9036a7b79a7
+3.
+
+b4c89e95a7f152dc
+ and {STR_VAR_2} of the POKéMON species
+you caught are inelegible
+
+678b44eb64444774
+.
+［改ページ］
+These include 
+
+c4fc01cab520014f
+ are inelegible
+
+f425b9e09e5396e4
+▶
+
+8eb6a00d953b759f
+PEEKABOO!
+
+e27b9d7c350bcc88
+Communication error…
+Please check all connections,
+then turn the power OFF and ON.
+
+705def71419bbf9c
+Communication error…
+
+e6cf2a5aba4a89bf
+Move closer to your link partner(s).
+Avoid obstacles between partners.
+
+37984528725e3b5d
+A Button: Registration Counter
+
+f39c00888ec5af4f
+A Button: Title Screen
+
+7f9310286c3b189c
+{STR_VAR_1}P LINK
+
+2a479d2007190c55
+BRONZE
+
+0e28b956bedf28e1
+COPPER
+
+1306a0a47bc25448
+:
+
+767dab03246dbb50
+Days
+
+5281dbc8bd16898b
+Time:
+
+b65ee86e8fed16f7
+Game time
+
+d0e8781518dd6cb1
+RTC time
+
+76a325b186724ae9
+Updated time
+
+7b63e50079dcae5e
+{PLAYER}
+
+2397ce4585a10931
+Link standby…
+… … B Button: Cancel
+
+cfba089130816c8c
+Press the A Button to load event.
+… … B Button: Cancel
+
+bf0c28ca7a4e1df0
+Loading event…
+
+4246a1aa72558a50
+Don't remove the Game Link cable.
+Don't turn off the power.
+
+8dacbd1adbf17926
+The event was safely loaded.
+
+ccaea8dfb0c2e6d8
+Loading error.
+Ending session.
+
+48d7c07d1f32c62b
+プレイヤー
+
+d9890852927936ac
+さま
+
+2938d1f67dad6008
+JOKAIM
+
+ee89210069dbea42
+NATIONAL
+
+bb43e46d44aec98e
+PLAYER: {CLEAR 0x10}{COLOR RED}{SHADOW LIGHT_RED}{PLAYER}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}
+
+This document certifies
+that you have successfully
+completed your
+{STR_VAR_1} POKéDEX.
+
+{CLEAR_TO 0x42}{COLOR RED}{SHADOW LIGHT_RED}GAME FREAK
+
+abff83786bd0935c
+{COLOR RED}{SHADOW LIGHT_RED}ゲ-ムフリ-ク
+
+b9fc1de2234f2c19
+{COLOR RED}{SHADOW LIGHT_RED}
+
+b20495c3bbf4afd7
+???
+
+fe9e422663d5e584
+MAX. HP
+
+8b26c45b5f635a7a
+{PLUS}
+
+0ed12c5691ab6524
+-
+
+21309c38dbf8ea14
+Mixing records…
+
+46eb811c1c7521ab
+Record mixing completed.
+Thank you for waiting.
+
+e98e658535d960e4
+Can't select same {PKMN}.
+
+1ef9b5120df9380f
+{PKMN} FOR SWAP
+
+2a21454cec93b654
+    
+
+e5d9f2df4dfd1b82
+Same {PKMN} in party already.
+
+d0023f03735bbbea
+.
+
+493571408b2ba8df
+Wireless Communication Status
+
+37eb3663239851e9
+People trading:
+
+9c38b2359068cb45
+People battling:
+
+9854e74df6865d5b
+People in the UNION ROOM:
+
+b280b6d3d219dace
+People communicating:
+
+e0e166e3f164bc46
+{DYNAMIC 0} players
+
+12b70c9b2cf01dc6
+{DYNAMIC 1} players
+
+0096ec569c188506
+{DYNAMIC 2} players
+
+3f8897ae404bcf0b
+{DYNAMIC 3} players
+
+443b73e79fa7ede4
+A variety of events will be imported
+over Wireless Communication.
+
+b42644fd7df623ed
+Read the WONDER CARDS in your
+possession.
+
+f4b8fe6deff96b46
+Read the NEWS that arrived.
+
+40843fca3b729e39
+You don't have a WONDER CARD,
+so a new CARD will be input.
+
+0ce5b1e317a8b4f0
+You don't have any WONDER NEWS,
+so new NEWS will be input.
+
+4440517e4e2b7582
+Where should the WONDER CARD
+be accessed?
+
+01a58f4b4772e340
+Where should the WONDER NEWS
+be accessed?
+
+911af5fbb0550814
+Communication standby…
+B Button: Cancel
+
+0d4163d336788fcc
+Throw away the WONDER CARD
+and input a new CARD?
+
+ce56219404fb75f1
+You haven't received the CARD's gift
+yet. Input a new CARD anyway?
+
+c5c77550a2a56ebc
+A WONDER CARD has been received
+from {STR_VAR_1}.
+
+22c52f9908c8ab94
+A WONDER NEWS item has been
+received from {STR_VAR_1}.
+
+dbbad1886a6f9c78
+A new WONDER CARD has been
+received.
+
+531a7b3febfa9a8f
+A new WONDER NEWS item has been
+received.
+
+5208d651e5e451f8
+A new STAMP has been received.
+
+456ef5f07b42abbe
+A new TRAINER has arrived.
+
+d2c8f1c78124972e
+You already had that
+WONDER CARD.
+
+47a73f59fd1c0074
+You already had that
+WONDER NEWS item.
+
+adc37d5c152172f2
+You already had that
+STAMP.
+
+2a7d1e2efd518e13
+There's no more room for adding
+STAMPS.
+
+0a12bfff9a689da7
+Your record has been uploaded via
+WIRELESS COMMUNICATION.
+
+7c81229c4d01d1ac
+You can't accept a WONDER CARD
+from this TRAINER.
+
+eaf59f28568b8cf6
+You can't accept WONDER NEWS
+from this TRAINER.
+
+5e3786f73928a0d0
+Nothing was sent over…
+
+db6dfd82d744dce0
+What would you like to do
+with the WONDER CARDS?
+
+f87349da7ef5c1e0
+What would you like to do
+with the WONDER NEWS?
+
+87529398231bc0b4
+Sending your WONDER CARD…
+
+9f2a029185338775
+Sending your WONDER NEWS item…
+
+b67b78de3a324ade
+Your WONDER CARD has been sent
+to {STR_VAR_1}.
+
+48ab81688d5b2756
+Your WONDER NEWS item has been
+sent to {STR_VAR_1}.
+
+e745241a27e411e0
+A STAMP has been sent to {STR_VAR_1}.
+
+1e2e96b1dece59e1
+A GIFT has been sent to {STR_VAR_1}.
+
+bb667da97ab46cc3
+The other TRAINER has the same
+WONDER CARD already.
+
+c682fc60c814cd22
+The other TRAINER has the same
+WONDER NEWS already.
+
+c9117ee79246e99c
+The other TRAINER has the same
+STAMP already.
+
+d97b999d36628851
+The other TRAINER canceled
+communication.
+
+202b6556b604dc78
+You can't send a MYSTERY GIFT to
+this TRAINER.
+
+0023799ca48654df
+If you throw away the CARD,
+its event won't happen. Okay?
+
+f69ed8cfea6671a4
+Is it okay to discard this
+NEWS item?
+
+91285e7f21ec19f8
+You haven't received the
+GIFT. Is it okay to discard?
+
+fe15a70bd6860892
+The WONDER CARD was thrown away.
+
+55521b4cc164646b
+The WONDER NEWS was thrown away.
+
+cb245d6b0f4c10a3
+MYSTERY GIFT
+
+3d627dd506b73449
+{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}EXIT
+
+b6c13a89c344b646
+{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}CANCEL
+
+1c8e5cc0c043fff4
+{PLAYER}'s BATTLE RESULTS
+
+4fc26aa96e57d903
+TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}
+
+1614d1d9e4918272
+{CLEAR_TO 0x53}WIN{CLEAR_TO 0x80}LOSE{CLEAR_TO 0xB0}DRAW
+
+90dceecb5922a9a1
+
+
+d92b109deb37b1a3
+{LV}
+
+6b566be1525a99cb
+TIME BOARD
+
+2f7c6b8da05400c8
+TIME CLEARED 
+
+7ec8cdeb92f1959e
+{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.
+
+8c013e9a4a758c90
+1F
+
+15b97204412727b8
+2F
+
+1942b6fa802285b4
+3F
+
+16e33fc0f93e320a
+4F
+
+cebf80ef9b92e3bf
+{STR_VAR_1} did not learn the
+move {STR_VAR_2}.
+
+f990c6743ce09416
+TYPE/
+
+c4b831747966d825
+PP/
+
+a7ced0b054744696
+POWER/
+
+a7e04de59c0ac446
+ACCURACY/
+
+098b4444da6d1d94
+Communication standby…
+Awaiting another player to choose.
+
+423f1c337920c49a
+The battle was refused.{PAUSE 60}
+
+fb281073eaf3c82b
+Refused the battle.{PAUSE 60}
+
+27de568c7ae55cdd
+NO WEATHER
+
+1692da1328dce300
+SUNNY
+
+f7c7c9091ae654d4
+SUNNY2
+
+2747670f1491dbfb
+RAIN
+
+c316611a762b9411
+LIGHTNING
+
+756921a19d639435
+FOG
+
+d01c39d91603854d
+VOLCANO ASH
+
+4890edbc98cb51a1
+SANDSTORM
+
+45c940c2954400c4
+FOG2
+
+57e6fb897e79e903
+CLOUDY
+
+6357863b5c4cc349
+SUNNY3
+
+d733ba2ead9d9e16
+HEAVY RAIN
+
+b8d48243c4d36668
+SEAFLOOR2
+
+506a17e53b08568f
+DEL. ALL
+
+be7e541305147ba9
+OK
+
+1f164c4af38dbe25
+QUIZ
+
+f3ebd67ee0d88269
+ANSWER
+
+0e4f5a20d32c7d1d
+BERRY

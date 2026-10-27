@@ -1,0 +1,533 @@
+##### src/strings.c
+73bb883d102422c2	
+bdccf521a89f55b9	
+b37c3e4cad1a8164	
+5bdc77eca4cfe750	サファイア
+e0b7f707cf455296	ルビー
+b2ce8d23a7978654	Aボタン
+492df343435c11b2	Bボタン
+0602e48f4a4119e2	Rボタン
+5b574e8c89d3943e	Lボタン
+e464b005e4bcbf46	じゅうじキー
+b2dfaacdbc800f81	Lボタン  Rボタン
+56b656ba21fcb4b0	{DPAD_UPDOWN}えらぶ{A_BUTTON}OK
+9e1b001e13a5780e	?????ポケモン
+923d85c657f784a2	{CLEAR_TO 0x0C}??ft??in
+ef1c6da4c4bd1dca	???.? m
+8eccc7e5474b9772	????.? lbs.
+a9240086724a8db8	???.? kg.
+f84856f86bf05456	                  ポケモン
+730221c2af6de7bf	{CLEAR_TO 0x0C}    ft    in
+ead4a9df5433ca8e	        .   lbs.
+211d48f3b90de993	
+f774a8b7c69b75d6	なきごえ
+f8d3a9640b4fba62	
+a077c90600f1c651	おおきさくらべ:
+68f14242d8a8d569	えらんだ じょうけんで\nポケモンを さがします。
+a7606ba7d6212516	なまえの さいしょの もじで さがします\nみつけた ポケモンのみ
+760421e5cd416790	からだの いろで さがします\nみつけた ポケモンのみ
+f17f4a48e337e227	タイプで さがします\nつかまえた ポケモンのみ
+86c12b237739edfc	けんさく/きりかえを します。
+81b5c9fc74b55cb2	ABC
+3077aaa1dfe793de	DEF
+e5e4fb0be35dda3d	GHI
+b22ec3a938ead956	JKL
+3d6895de18d6ae7d	MNO
+ec2f226ea1c9ba5d	PQR
+f038f4b061e9bfa5	STU
+8731f812943840ea	VWX
+c1f19b31270a19a4	YZ
+d9780d9828ea548f	ジョカイムちほうの ずかん
+08f3b5d11f8f3d25	ぜんこくばん ずかん
+629b4a6f52c9fb9e	ポケモンを ばんごうの\nじゅんに ならべます。
+a8a28edfded81adc	みつけた ポケモンを\nなまえの じゅんに ならべます。
+5df3d33e4b85e236	つかまえた ポケモンを\nおもい じゅんに ならべます。
+19f78affebe0b425	つかまえた ポケモンを\nかるい じゅんに ならべます。
+e736f4b794ec2641	つかまえた ポケモンを\nせが たかい じゅんに ならべます。
+6a555e80cb5b3d1e	つかまえた ポケモンを\nせが ひくい じゅんに ならべます。
+84c991c8afd54e58	
+bcd848f03d3fcfad	▶
+20217e99f1a9d080	 
+e3de6fd84799e8d9	みつけた ポケモン: {STR_VAR_1}ひき!\nつかまえた ポケモン: {STR_VAR_2}ひき!\pオダマキはかせの ずかん ひょうか!\pオダマキはかせ: どれどれ…\p
+4a719e6847c89e7d	IDNo. /
+3810981f53670878	
+93e8f9d4439f86cb	?????
+cabb0e89321c6a67	/
+1a73976de78dfad6	-
+aa7faf38e7af0b2f	--
+9d4e1168634f3199	---
+959d1933bf72636f	♂
+cd1f86815d89f8c7	♀
+28d1aca29136da7b	{LV}
+347c5b6675d0c11c	{NO}{CLEAR 0x01}
+216474c9467ad7ba	{RIGHT_ARROW}
+fe63eab2988760ae	{ID}{NO}
+2d359e88f209d374	 
+d091c8267ccbeea6	▶
+6d6d620b6f30a66f	×{STR_VAR_1}
+7e2ab65c70f9e524	のみ
+a72b25f4fb4d141a	{NO}{STR_VAR_1}{CLEAR 0x03}{STR_VAR_2}
+d5b4da589a8a0e9b	{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}
+f47da759f7e4ad9d	{STR_VAR_1}円
+2f94f739ea107252	{PAUSE_UNTIL_PRESS}
+17ab4e17ee367bb1	{STR_VAR_1}を ぐるぐるこうかんに\nだして よろしいですか?
+5304c2f5751e7259	
+11fe5a80d097557a	
+05c3afb5ec4459a6	{STR_VAR_3}{STR_VAR_1}/{STR_VAR_2}
+e0c36e1a2f164484	{COLOR 161}{SHADOW 161}
+e8417520fbdace7a	ここには おけません。\nつくえ などの うえに おいてください。
+1a963a59a7888e9a	
+6481499f84e10dd5	{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_RED GREEN WHITE}♂{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}
+b6a947e342b2d48b	{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_GREEN BLUE WHITE}♀{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}
+be4e032d484db77f	{DYNAMIC 0}/{LV}{DYNAMIC 1}
+4fa6e641fcd32ca4	{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_RED GREEN WHITE}♂{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+46024d5b74cd836e	{DYNAMIC 0}{BACKGROUND WHITE}{TEXT_COLORS LIGHT_GREEN BLUE WHITE}♀{BACKGROUND WHITE}{TEXT_COLORS DARK_GRAY LIGHT_GRAY WHITE}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+9b333c192c84bf1e	{DYNAMIC 0}/{LV}{DYNAMIC 1}{DYNAMIC 2}
+c781a4b404a1f7f0	4つの ことばを くみあわせて
+aa25d55b04215a2d	プロフィールを つくろう
+58493ef917cbd778	6つの ことばを くみあわせて
+631024db5d1d1606	メッセージを つくろう
+cbfa121e83e0ea8e	いまの きもちを あらわす
+3aa3272c6f1102e5	ことばを さがそう
+69e86e6dc9484e5a	4つの ことばで
+1f79fb43dc2cd25f	9つの ことばを くみあわせて
+75d20930d6b1e48d	メッセージを つくろう
+c268e1f66794cc7a	ことばを 1つだけ かえて
+12d58a1b82c6f5af	うたうおとこの うたを よくしよう
+b8569a3d041782f5	プロフィール
+64077f36626d5370	しょうぶの まえの ひとこと
+70a5530537017f88	かったときの ひとこと
+7bed4c5e670c7fca	まけたときの ひとこと
+d4f9d4d3f8053b61	こたえ
+408073704e64fa60	メールの ないよう
+bdfa0e5f2b4c864f	メールの あいさつ
+9d3a497e8a297af3	あたらしい うた
+3e271659144a25fb	2つの ことばを くみあわせて
+92df961cdaee74e6	はやりことばを つくろう
+775c4d8b65c4dba9	はやりことば
+d96e537585fa9cac	これで いいですか?
+fbc6c7defbd753c2	2つの ことばを くみあわせて
+9d735dfaabcf3dd0	いい ことばを おしえよう
+38fd4029edc18fbf	トレーナーの イメージに
+23159d4300ef1780	あう ことばを さがそう
+44014331c9eec42b	イメージ:
+bc845186c88892a4	リストの なかから
+c1b26d8a0c04366a	クイズの こたえを えらぼう!
+cef61e206fabbdb8	クイズを つくろう!
+e54b268fecfce905	ことばを 1つ えらんで
+51ce61bf066341a6	こたえを きめよう
+687c17a38b68d0c9	こたえ:
+51e5f4b030e3955c	クイズ:
+09f001a449f63be3	でしの ことば:
+780d2fd92d9b9e05	へんしゅうを やめますか?
+b9ccd22f33db0cf0	メールを わたすのを やめますか?
+83a44fe215368e0c	アンケートに こたえよう
+835ec0969c15a6c4	インタビューに こたえよう!
+56b62943e3c08b10	へんしゅうちゅうの ことばは
+50ad5217f3b0a4fa	すべて きえますが いいですか?
+d0841e8b592bf1ad	へんしゅうを やめますか?
+17bad2cd85157d33	いいですか?
+1826c85ab456d2ae	ことばを いれてください。
+e785c2144fd68c23	ぜんぶを けすことは できません。
+e751a76d0bd2fa96	かえられるのは 1つだけです。
+9247eb14fa31a018	もとの うたが つかわれます。
+0fdec400731e17b2	それは もう はやってるよ!
+66feb5c86be99808	2つの ことばを くみあわせよう。
+06fee3bd0038118b	じょうほうを おしえるのを やめますか?
+230446eff36ee190	メールを わたすのを やめますか?
+ea004e76dbd1f717	クイズを つくろう!
+5edb3e160bea99f2	こたえを きめよう!
+534c533ac1bab2fd	せんたくを やめますか?
+3cb7ed3e0e663058	しょうかい
+bd07c79d97f5c094	しょうぶの まえ:
+18ac73846c70d54e	かったとき:
+e65d9366647ec9ba	まけたとき:
+35209f19cbe7d96d	うたうおとこの うた
+a6badf0f16c13197	いま なにが はやってる?
+b3cc310ea5bdb362	インタビュー
+d7f266b501eb6f96	いい ことば
+4260d01cd9fe5216	ファンの しつもん
+18a791c9ce7bf095	クイズの こたえは?
+3dc524305a2dc01c	でしの ことば
+62c37bea4c5cd97e	アンケート
+327f96e4d9225d09	ここでは やめられません。
+d29bf056a432ca5d	ここは かならず いれてください。
+89218e1665689775	{DYNAMIC 0}の クイズ
+6ef5a67cc0a175f4	おねえさん
+096262a12d417cc6	クイズを よんだら
+1951edcd637eb267	Aボタンを おしてください。
+c5ecb5d8447c8e2f	クイズの こたえは?
+cf1d5debf4d8c894	クイズの ちょうせんを
+f7cb32193f7767e1	やめますか?
+2545aebfab028028	この クイズで いいですか?
+55b4e9d04b7615e8	クイズを つくろう!
+65aa689f598984a0	こたえを えらぼう!
+e870534ff7eb40e0	かしは けせません。
+2a7e9e1ebb181631	ゲームない とけいの ちょうせいが\nできるように なりました。
+639f84b9a7fd9577	からい
+822080ee91680ce7	しぶい
+fe5ecf47ea25e964	あまい
+05a8bd541d9a57b2	にがい
+f697015413f2cd55	すっぱい
+bfd461049c28683a	1とう
+ea9ab6cff6d7ca3f	2とう
+68a758fcbd5e7f01	3とう
+aca3e394a8c0780d	マルコ
+cf84756e06eb1496	なまえ:
+3e163f2bc1d9a195	IDNo.
+8d6d2af04f5c67d4	おかね
+b9225b7a8471785b	円
+c09db32532d10405	
+f7e09d53d4062d90	:
+167700063c262581	 ポイント
+d2c291da55a7b8c9	ゲームポイント
+ed375d94577d2913	{STR_VAR_1}の トレーナーカード
+621d7724551d8a5e	はじめての でんどういり
+793d90fb8a72362c	つうしんたいせん
+47926dabfd89e39a	つうしんケーブル たいせん
+e24a1310ac73e108	{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}しょう {COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_2}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}はい
+6f65a756b0abb213	ポケモンこうかん
+577cdb0c2375bb0b	ユニオン こうかん&たいせん
+d5135de3c7dae91f	きのみマッシャー
+90530ff767c420fc	あいての トレーナーが カードを\nみおわるのを まっています。
+2a3adeb21f0131a8	なかまと {POKEBLOCK}づくり
+eef757f67bc59eb3	{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}
+19bcea8372b9f272	つうしんコンテスト ゆうしょう
+5e5858fe5a5a48cb	かくとく バトルポイント
+0ed08a4619486120	{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BP
+aa472613adfca858	バトルタワー
+e0f48ad6ef52cf7e	かち{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_1}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} れん{COLOR RED}{SHADOW LIGHT_RED}{STR_VAR_2}
+0d1e62dea1586bfc	{STR_VAR_1} シングル
+88032b4f19698682	{STR_VAR_1} ダブル
+e036afc4e261465d	{STR_VAR_1} マルチ
+cc3fd30afd1c8cb0	{STR_VAR_1}つうしん
+aa61b2f71b10d9ef	{STR_VAR_1}
+5ac51845cd234443	わたす
+9d8ccfcc07c897a3	いらない
+251b0da817ed8393	けっか はっぴょう!
+4450843f26d95b63	1じしんさの けっか!
+e7cc12eb850ca6dc	2じしんさの けっか!
+e0e0b17a7dfa4143	{STR_VAR_1}の{STR_VAR_2}が 1い!
+5e7e9a446abc707e	つうしんたいきちゅう…
+058d0d93bc276454	{COLOR DARK_GRAY}
+314f5d9171a46a59	{BACKGROUND WHITE}{TEXT_COLORS DYNAMIC_COLOR6 DYNAMIC_COLOR5 WHITE}
+470d80aed0a1b314	{BACKGROUND DARK_GRAY}{ACCENT DARK_GRAY}
+9061cfad638dce8d	 
+6e6f93ab11301ad5	{COLOR DYNAMIC_COLOR2}♂
+abfa9d84b5c29660	{COLOR DYNAMIC_COLOR1}♀
+11b3b3d8ad87bd8b	{COLOR DYNAMIC_COLOR2}
+0b13f657f2ac972b	おおもじ
+e857ab4857a40129	こもじ
+4b803390f2be527a	きごう
+2097f0762df6f145	チャットを やめますか?
+1dc824d255b5462c	どこに とうろく しますか?
+0013e8a13640b77d	ここに とうろく しますか?
+673e9c38c3ccc318	もじを いれてください。
+2fd3525c47ee97d5	{DYNAMIC 0}が はいって きました!
+cd07a37b86e711ae	{DYNAMIC 0}が ぬけました。
+9a930bb8d6aa5abb	{DYNAMIC 0}の{DYNAMIC 1}ひきめ:
+cc145910445b5fc7	{DYNAMIC 0}の{DYNAMIC 1}ひきめは いません
+46490e49752ed08b	チャットを ぬけます…
+4be314a53dde6c10	リーダーの {DYNAMIC 0}が ぬけたので\nチャットを しゅうりょう します。
+b4f0ffda6299775e	リーダーが ぬけると チャットは\nおわります。 いいですか?
+42786050ce4f6e6f	ハロー
+d63905a3d2344c4f	バトル
+ac2ebff19545ded4	やろう
+cc8081922b3ea1d8	いいよ!
+eb8f4b2bffe2bbe9	ごめん
+911f445aab7b941f	わーい{EMOJI_BIGSMILE}
+a4a2605474b4b1b7	ありがとう
+4cea86dd4915a0b7	バイバイ!
+fd18fa1fe089682e	きのみマッシャーを はじめよう!\nつかう きのみを えらんでください。\p
+6ba5f83721733396	みんなが きのみを えらぶまで\nしばらく おまちください。
+a957188b7fcea8c4	{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}{STR_VAR_1}この なめらかな\nきのみパウダーが できた!{RESUME_MUSIC}\pきのみパウダーは ぜんぶで\n{STR_VAR_2}こに なった。\p
+985701b7de550be0	ゲームの けっかを\nレポートに かいています\lしばらく おまちください。
+d0412229e2cca2db	もういちど きのみマッシャーを やる?
+22fe9ec402ed1453	きのみを もっていません。\nゲームを ちゅうし します。
+f31949b2532554f9	メンバーが ぬけました。\nゲームを ちゅうし します。
+be36d2bd14ed9918	じかん ぎれです。\pよい きのみパウダーが\nできませんでした…\p
+1fef8d9218568bdf	つうしんたいきちゅう…
+e9e2270a8a652c14	1. {COLOR BLUE}{SHADOW LIGHT_BLUE}{DYNAMIC 0}
+12939527a945f7d9	1. {DYNAMIC 0}
+7ea340857cacb6c0	 かい
+4484534a99b994c8	{STR_VAR_1}.{STR_VAR_2}
+4cb11bc0cdbfe41b	{STR_VAR_1}のみ
+c9b4fdc8b2dfc09c	タイム:
+d6f0894c429bb882	おす スピード:
+b6e018078707fe63	なめらかさ:
+c2c597fc65a7d508	{STR_VAR_1}
+2464c38696eb9882	 ふん
+26214fe5abae046e	{STR_VAR_1}.{STR_VAR_2}
+c41a5941193b9f40	びょう
+0827e28803a5977d	{STR_VAR_1}.{STR_VAR_2}
+f3ebc6b2db9a2e9c	 かい/びょう
+2dc57508df0f22bc	{STR_VAR_1}%
+ea9c3393f649a1de	おした かいすう ランキング
+1b6819921cf5b89a	つぶした けっか
+e227ae0e94de2db7	ていねいさ ランキング
+b563d099cf030c25	きょうりょく ランキング
+52df40d991b18cc5	おす パワー ランキング
+fc562316139de774	きのみマッシャー
+0d0ef992c5498c85	おす スピード ランキング
+0b3c753c5b81a54f	{STR_VAR_1}にん
+ef7662b377d74e0a	てにいれた シンボル
+9ef718ff1dea2898	バトルビデオ
+e9218b4365198adb	バトルポイント
+a374a0fd202b9a93	
+d90732f06553c166	バトルフロンティアの マップを みる。
+44f904b9fd19fd5d	トレーナーカードを みる。
+101e06cedf834ce7	バトルビデオを みる。
+d092c835b191ff64	フロンティアパスを しまう。
+1c9fb7de6c850853	いまの バトルポイント。
+9c4c1a9f30338c06	あつめた シンボル。
+3d228f99fa86feda	バトルタワー アビリティシンボル
+27382b7a91b5c0ef	バトルドーム タクティクスシンボル
+141df6b166aecba1	バトルパレス スピリットシンボル
+5555b9c2643da6f5	バトルアリーナ ガッツシンボル
+9bf6d259f5e2ebe4	バトルファクトリー ノウレッジシンボル
+44053df971390af3	バトルチューブ ラックシンボル
+63ac614fe3302574	バトルピラミッド ブレイブシンボル
+bb34d4b0eca65bc4	バトルビデオが ありません。
+808a8b700634ac6e	バトルタワー
+edb6a7d92fd7f72c	バトルドーム
+7ba7cca6b74e09e3	バトルパレス
+dd5599737027ea4a	バトルアリーナ
+d9bcf526527dd9ad	バトルファクトリー
+c4453bd342c040e5	バトルチューブ
+51dc8883acd1c7ec	バトルピラミッド
+5893d063997109af	あいてを たおし トップを めざせ!\nきみの じつりょくが ためされる!
+04fee0c2e8c74624	トーナメントで かちつづけろ!\nきみの せんりゃくが ためされる!
+9f6a3612af17c4ec	ポケモンの たたかいを みまもれ!\nきみの こころが ためされる!
+3362c47210f1d439	ポケモンと ちからを あわせて かて!\nきみの こんじょうが ためされる!
+f155aaabce477b53	レンタル ポケモンで しょうりを めざせ!\nきみの ちしきが ためされる!
+b2343d4a3996670f	3つの みちから 1つ えらんで たたかえ!\nきみの うんが ためされる!
+05a6466bbcd3701c	たんさくして トップを めざせ!\nきみの ゆうきが ためされる!
+ae1928acaceb5c23	ドードリオの きのみとり きろく
+36802160a34b032a	とった きのみ:
+199bf5ff0f7322bd	ベストスコア:
+08136de547b71092	5にんで れんぞくで\nとった きのみ:
+824079e073ea6a9c	きのみとりの けっか はっぴょう!
+3120ba81ac389cb1	{CLEAR_TO 0x03}10P{CLEAR_TO 0x2B}30P{CLEAR_TO 0x53}50P{CLEAR_TO 0x77}{EMOJI_MINUS}50P
+0a5c35d003ecbb8e	ランキング はっぴょう!
+a49517d66010554b	しょうひん はっぴょう!
+1758445b1ba8ae2b	1:
+966312678acd3dfd	2:
+4aafbaf8b1977166	3:
+8cd413879c2f611d	4:
+14226c66cbc85065	5:
+66e496a4e51f5fb8	1いの ひとには\nこの {DYNAMIC 0}を プレゼント!
+260d5f6c91140e89	これいじょう もてません!
+9e24ccacea9d2dfa	しまう ばしょが いっぱいに なった。
+ef1c31ac52a50074	もういちど あそぶ?
+94d019dc4195edb3	だれかが ぬけました。\nつうしんを ちゅうし します。
+607261d5103fb4a4	 てん
+b2bdbb509671a8d3	つうしんたいきちゅう…
+bccff728d63ac024	 てん
+c867469772917982	 かい
+de0eff967cec7d84	ポケモンなわとび きろく
+964ce9852df86727	れんぞく ジャンプ:
+05d2ee4b60b61371	ベストスコア:
+642c1dc132776179	れんぞく エクセレント:
+1e598e01c6600afd	すごい スコア!\n{DYNAMIC 1}この {DYNAMIC 0}を もらった!
+91d6065ae85f2a4b	しまう ばしょが いっぱいに なった。
+0089596ae2a77fda	これいじょう もてません!
+7c6bc63c439df6fa	もういちど あそぶ?
+b9b231bd319eba35	だれかが ぬけました。\nつうしんを ちゅうし します。
+46d5c46cad7ec514	つうしんたいきちゅう…
+566f726c5d4839c6	{PLAYER}の つうしんコンテスト せいせき
+0c7bb329c1d018d1	1い
+47e9de5a5a282871	2い
+5efab93cc9f709cf	3い
+9966adbe7bdeb3b5	4い
+b08947715fc5977d	ともだち
+02f80e8ce5e17bba	ポケモン
+1ac51d6588074160	ふしぎなもらいもの
+ef7ab74d83f9361f	{A_BUTTON}けってい {B_BUTTON}やめる
+ab97989e453e1834	カードeリーダー{PLUS} で\nふしぎな もらいものを よみこみます
+28b7ed54d68011ca	カードeリーダー{PLUS}の メニューから\n「つうしん」を えらび
+a97f9c5f674424e6	「ゲームボーイアドバンスと つうしん」\nを せんたく してください
+cdfe197a665302c8	カードeリーダー{PLUS}の 「つうしん」を\nえらんで Aボタンを おしてください
+28800412b009a2c4	せつぞくが まちがっています
+178c48001126debb	カードの よみこみを\nちゅうし しました
+4ecca7aa9c25d8e0	カードeリーダー{PLUS}と\nつうしん できません
+11f86ef35787a175	つうしん ちゅう です
+a5974f56f23387a2	つうしん エラーです\nせつぞくを たしかめて ください
+b6d17626296657ea	つうしん エラーです\nはじめから やりなおして ください
+2ab36716373b1bdf	カードeリーダー{PLUS} に\nカードを よみこませて ください
+8bc1c15613c3208f	つうしん しゅうりょう!
+40b5fa02dfe6b1a0	あらたな トレーナーが\nホウエンに やってきた!
+bae1bcf1c3c8381e	しばらく おまちください
+ace52208b07db713	かきこみ エラー です\nデータが ほぞん できませんでした
+5c1730bcc06d0cf0	{PLAYER}の シングルバトルルーム せいせき
+58696cbb7c201b27	{PLAYER}の ダブルバトルルーム せいせき
+21650a574f0f4f93	{PLAYER}の マルチバトルルーム せいせき
+2896e246a2ea1c83	{PLAYER}の つうしんマルチルーム せいせき
+d0add8e60cd632ae	{PLAYER}の シングル トーナメント せいせき
+606bdaee853093be	{PLAYER}の ダブル トーナメント せいせき
+975b13fc9625eb4f	{PLAYER}の シングル バトルホール せいせき
+84ad0aaa3e81a455	{PLAYER}の ダブル バトルホール せいせき
+6d39b004ca0e2396	{PLAYER}の バトルゲーム せいせき
+469635ec07e76730	{PLAYER}の かちぬきチームバトル せいせき
+91bf514404a19807	{PLAYER}の バトルトレード シングル せいせき
+2394d0829585dad8	{PLAYER}の バトルトレード ダブル せいせき
+8a35af47f6dfcfe4	{PLAYER}の バトルアドベンチャー せいせき
+66d34166b1512aff	レベル50
+5f4fc28f9d65e98d	オープン
+23d70eaba90e485b	れんしょう: {STR_VAR_1}
+3fbd675498e5c8df	げんざい
+4645ff8602c6a000	ぜんかい
+cccfdd90f0ed5b05	かりる/こうかん
+7f00ae88b93fe11a	ごうけい
+f48648f451d14a31	れんぞく クリア: {STR_VAR_1}
+3766706a619c70e2	ゆうしょう: {STR_VAR_1}
+f5d79473b9cd821a	クリアした へや: {STR_VAR_1}
+9d034548114fbf4f	クリア かいすう:{CLEAR 0x05}{STR_VAR_1}
+dc6232bc0e38831a	かちぬき: {STR_VAR_1}
+3f0e81199fecb3e3	かいすう:{STR_VAR_1}
+6a0526f8c5e8489a	クリアした フロア: {STR_VAR_1}
+9432a6e94529bea1	レベル50
+ae92a045a90c8b94	オープンレベル
+c592b282b8efa14b	れんしょう: {STR_VAR_2}
+9b7e614174109194	れんぞく クリア: {STR_VAR_2}
+b71ba9103f012f3b	クリアした へや: {STR_VAR_2}
+1b786606eed7c053	かちぬき: {STR_VAR_2}
+8a89b861014e32c2	クリアした フロア: {STR_VAR_2}
+b10f79b3ab22c5fd	1.
+3655b5e7452c465c	2.
+b9b2b9036a7b79a7	3.
+b4c89e95a7f152dc	と {STR_VAR_2}しゅるいの\nつかまえた ポケモンは さんか できません
+678b44eb64444774	。\pふくまれる ポケモン:
+c4fc01cab520014f	は さんか できません
+f425b9e09e5396e4	▶
+8eb6a00d953b759f	いないいないばあ!
+e27b9d7c350bcc88	つうしんエラー です…\nせつぞくを たしかめてから\nでんげんを いれなおしてください。
+705def71419bbf9c	つうしんエラー です…
+e6cf2a5aba4a89bf	つうしん あいてに ちかづいて\nあいだの しょうがいぶつを さけてください。
+37984528725e3b5d	Aボタン: とうろく カウンター
+f39c00888ec5af4f	Aボタン: タイトルがめん
+7f9310286c3b189c	{STR_VAR_1}にん つうしん
+2a479d2007190c55	ブロンズ
+0e28b956bedf28e1	カッパー
+1306a0a47bc25448	:
+767dab03246dbb50	にち
+5281dbc8bd16898b	じかん:
+b65ee86e8fed16f7	ゲームじかん
+d0e8781518dd6cb1	RTCじかん
+76a325b186724ae9	あたらしい じかん
+7b63e50079dcae5e	{PLAYER}
+2397ce4585a10931	つうしんたいきちゅう…\n… … Bボタン: キャンセル
+cfba089130816c8c	Aボタンで イベントを よみこみます\n… … Bボタン: キャンセル
+bf0c28ca7a4e1df0	イベントを よみこみちゅう…
+4246a1aa72558a50	つうしんケーブルを ぬかないでください\nでんげんを きらないでください
+8dacbd1adbf17926	イベントを よみこみました。
+ccaea8dfb0c2e6d8	よみこみ エラーです。\nしゅうりょう します。
+48d7c07d1f32c62b	プレイヤー
+d9890852927936ac	さま
+2938d1f67dad6008	ジョカイム
+ee89210069dbea42	ぜんこく
+bb43e46d44aec98e	プレイヤー: {CLEAR 0x10}{COLOR RED}{SHADOW LIGHT_RED}{PLAYER}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}\n\nあなたは みごとに\nポケモンずかんを かんせい させた\nことを ここに しょうめい します\n{STR_VAR_1}ずかん かんせい\n\n{CLEAR_TO 0x42}{COLOR RED}{SHADOW LIGHT_RED}ゲームフリーク
+abff83786bd0935c	{COLOR RED}{SHADOW LIGHT_RED}ゲームフリーク
+b9fc1de2234f2c19	{COLOR RED}{SHADOW LIGHT_RED}
+b20495c3bbf4afd7	???
+fe9e422663d5e584	さいだいHP
+8b26c45b5f635a7a	{PLUS}
+0ed12c5691ab6524	-
+21309c38dbf8ea14	レコードを まぜています…
+46eb811c1c7521ab	レコードの まぜあわせが おわりました。\nおまたせ しました。
+e98e658535d960e4	おなじ ポケモンは えらべません。
+1ef9b5120df9380f	こうかんポケモン
+2a21454cec93b654	    
+e5d9f2df4dfd1b82	おなじ ポケモンが もう てもちに います。
+d0023f03735bbbea	.
+493571408b2ba8df	ワイヤレス つうしん じょうきょう
+37eb3663239851e9	こうかんちゅう:
+9c38b2359068cb45	たいせんちゅう:
+9854e74df6865d5b	ユニオンルームの ひと:
+b280b6d3d219dace	つうしんちゅう:
+e0e166e3f164bc46	{DYNAMIC 0}にん
+12b70c9b2cf01dc6	{DYNAMIC 1}にん
+0096ec569c188506	{DYNAMIC 2}にん
+3f8897ae404bcf0b	{DYNAMIC 3}にん
+443b73e79fa7ede4	ワイヤレス つうしんで いろいろな\nイベントを うけとります。
+b42644fd7df623ed	もっている ふしぎなカードを\nよみます。
+f4b8fe6deff96b46	とどいた ニュースを よみます。
+40843fca3b729e39	ふしぎなカードを もっていないので\nあたらしい カードを うけとります。
+0ce5b1e317a8b4f0	ふしぎなニュースを もっていないので\nあたらしい ニュースを うけとります。
+4440517e4e2b7582	ふしぎなカードを どこから\nうけとりますか?
+01a58f4b4772e340	ふしぎなニュースを どこから\nうけとりますか?
+911af5fbb0550814	つうしんたいきちゅう…\nBボタン: キャンセル
+0d4163d336788fcc	ふしぎなカードを すてて\nあたらしい カードを うけとりますか?
+ce56219404fb75f1	カードの プレゼントを まだ うけとっていません\nそれでも あたらしい カードを うけとりますか?
+c5c77550a2a56ebc	ふしぎなカードを うけとりました!\n{STR_VAR_1}からの おくりものです。
+22c52f9908c8ab94	ふしぎなニュースを うけとりました!\n{STR_VAR_1}からの おとどけです。
+dbbad1886a6f9c78	あたらしい ふしぎなカードを\nうけとりました。
+531a7b3febfa9a8f	あたらしい ふしぎなニュースを\nうけとりました。
+5208d651e5e451f8	あたらしい スタンプを うけとりました。
+456ef5f07b42abbe	あたらしい トレーナーが やってきた。
+d2c8f1c78124972e	その ふしぎなカードは\nもう もっています。
+47a73f59fd1c0074	その ふしぎなニュースは\nもう もっています。
+adc37d5c152172f2	その スタンプは\nもう もっています。
+2a7d1e2efd518e13	これいじょう スタンプを\nおすことが できません。
+0a12bfff9a689da7	ワイヤレス つうしんで\nきろくを おくりました。
+7c81229c4d01d1ac	この トレーナーからは\nふしぎなカードを うけとれません。
+eaf59f28568b8cf6	この トレーナーからは\nふしぎなニュースを うけとれません。
+5e3786f73928a0d0	なにも おくられて こなかった…
+db6dfd82d744dce0	ふしぎなカードを\nどう しますか?
+f87349da7ef5c1e0	ふしぎなニュースを\nどう しますか?
+87529398231bc0b4	ふしぎなカードを おくっています…
+9f2a029185338775	ふしぎなニュースを おくっています…
+b67b78de3a324ade	ふしぎなカードを おくりました!\n{STR_VAR_1}に とどきました。
+48ab81688d5b2756	ふしぎなニュースを おくりました!\n{STR_VAR_1}に とどきました。
+e745241a27e411e0	{STR_VAR_1}に スタンプを おくりました。
+1e2e96b1dece59e1	{STR_VAR_1}に プレゼントを おくりました。
+bb667da97ab46cc3	あいては おなじ ふしぎなカードを\nもう もっています。
+c682fc60c814cd22	あいては おなじ ふしぎなニュースを\nもう もっています。
+c9117ee79246e99c	あいては おなじ スタンプを\nもう もっています。
+d97b999d36628851	あいてが つうしんを\nキャンセル しました。
+202b6556b604dc78	この トレーナーには\nふしぎな おくりものを おくれません。
+0023799ca48654df	カードを すてると イベントが\nおこらなく なります。 いいですか?
+f69ed8cfea6671a4	この ニュースを\nすてても いいですか?
+91285e7f21ec19f8	まだ プレゼントを うけとっていません。\nすてても いいですか?
+fe15a70bd6860892	ふしぎなカードを すてました。
+55521b4cc164646b	ふしぎなニュースを すてました。
+cb245d6b0f4c10a3	ふしぎな おくりもの
+3d627dd506b73449	{DPAD_UPDOWN}えらぶ{A_BUTTON}OK{B_BUTTON}もどる
+b6c13a89c344b646	{DPAD_UPDOWN}えらぶ{A_BUTTON}OK{B_BUTTON}やめる
+1c8e5cc0c043fff4	{PLAYER}の たいせん せいせき
+4fc26aa96e57d903	つうさん {STR_VAR_1}しょう {STR_VAR_2}はい {STR_VAR_3}わけ
+1614d1d9e4918272	{CLEAR_TO 0x53}かち{CLEAR_TO 0x80}まけ{CLEAR_TO 0xB0}ひきわけ
+90dceecb5922a9a1	\n
+d92b109deb37b1a3	{LV}
+6b566be1525a99cb	タイムボード
+2f7c6b8da05400c8	クリアタイム
+7ec8cdeb92f1959e	{STR_VAR_1}ふん {STR_VAR_2}.{STR_VAR_3}びょう
+8c013e9a4a758c90	1F
+15b97204412727b8	2F
+1942b6fa802285b4	3F
+16e33fc0f93e320a	4F
+cebf80ef9b92e3bf	{STR_VAR_1}は けっきょく\n{STR_VAR_2}を おぼえなかった。
+f990c6743ce09416	タイプ/
+c4b831747966d825	PP/
+a7ced0b054744696	いりょく/
+a7e04de59c0ac446	めいちゅう/
+098b4444da6d1d94	つうしんたいきちゅう…\nほかの プレイヤーが えらぶのを まっています
+423f1c337920c49a	たいせんを ことわられた。{PAUSE 60}
+fb281073eaf3c82b	たいせんを ことわった。{PAUSE 60}
+27de568c7ae55cdd	てんきなし
+1692da1328dce300	はれ
+f7c7c9091ae654d4	はれ2
+2747670f1491dbfb	あめ
+c316611a762b9411	かみなり
+756921a19d639435	きり
+d01c39d91603854d	かざんばい
+4890edbc98cb51a1	すなあらし
+45c940c2954400c4	きり2
+57e6fb897e79e903	くもり
+6357863b5c4cc349	はれ3
+d733ba2ead9d9e16	おおあめ
+b8d48243c4d36668	かいてい2
+506a17e53b08568f	ぜんぶけす
+be7e541305147ba9	けってい
+1f164c4af38dbe25	クイズ
+f3ebd67ee0d88269	こたえ
+0e4f5a20d32c7d1d	きのみ

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "c70d74a39b9eca4f",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "egg-ineligible-fix-121",
+   "method": "STR_VAR_1 already ends with gText_FrontierFacilityAreInelegible (は さんか できません); avoid doubling"
+  }
+ },
+ {
+  "id": "7c9f3a04df5b1993",
+  "translation": "タマゴ{ENG}{STR_VAR_1}{JPN}。$",
+  "provenance": {
+   "batch": "egg-ineligible-fix-121",
+   "method": "STR_VAR_1 already ends with gText_FrontierFacilityAreInelegible (は さんか できません); avoid doubling"
+  }
+ }
+]

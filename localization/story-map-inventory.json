@@ -388,8 +388,8 @@
       "map": "BattleFrontier_OutsideWest",
       "depth": 8,
       "via": "ShinTokyo",
-      "pending": 143,
-      "translated": 0,
+      "pending": 0,
+      "translated": 143,
       "outgoing": [
         "ArtisanCave_B1F",
         "BattleFrontier_BattleDomeLobby",
@@ -504,8 +504,8 @@
       "map": "BattleFrontier_BattleDomeLobby",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 160,
-      "translated": 0,
+      "pending": 0,
+      "translated": 160,
       "outgoing": [
         "BattleFrontier_BattleDomeCorridor",
         "BattleFrontier_OutsideWest"
@@ -515,8 +515,8 @@
       "map": "BattleFrontier_BattleFactoryLobby",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 149,
-      "translated": 0,
+      "pending": 0,
+      "translated": 149,
       "outgoing": [
         "BattleFrontier_BattleFactoryPreBattleRoom",
         "BattleFrontier_OutsideWest"
@@ -526,8 +526,8 @@
       "map": "BattleFrontier_BattlePikeLobby",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 105,
-      "translated": 0,
+      "pending": 0,
+      "translated": 105,
       "outgoing": [
         "BattleFrontier_BattlePikeCorridor",
         "BattleFrontier_OutsideWest"
@@ -537,8 +537,8 @@
       "map": "BattleFrontier_Lounge2",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 184,
-      "translated": 0,
+      "pending": 0,
+      "translated": 184,
       "outgoing": [
         "BattleFrontier_OutsideWest"
       ]
@@ -547,8 +547,8 @@
       "map": "BattleFrontier_Lounge4",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "BattleFrontier_OutsideWest"
       ]
@@ -557,8 +557,8 @@
       "map": "BattleFrontier_Lounge7",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 127,
-      "translated": 0,
+      "pending": 0,
+      "translated": 127,
       "outgoing": [
         "BattleFrontier_OutsideWest"
       ]
@@ -567,8 +567,8 @@
       "map": "BattleFrontier_Mart",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 13,
-      "translated": 0,
+      "pending": 0,
+      "translated": 13,
       "outgoing": [
         "BattleFrontier_OutsideWest"
       ]
@@ -577,8 +577,8 @@
       "map": "BattleFrontier_OutsideEast",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 141,
-      "translated": 0,
+      "pending": 0,
+      "translated": 141,
       "outgoing": [
         "ArtisanCave_1F",
         "BattleFrontier_BattleArenaLobby",
@@ -601,8 +601,8 @@
       "map": "BattleFrontier_ReceptionGate",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 146,
-      "translated": 0,
+      "pending": 0,
+      "translated": 146,
       "outgoing": [
         "BattleFrontier_OutsideWest"
       ]
@@ -611,8 +611,8 @@
       "map": "BattleFrontier_ScottsHouse",
       "depth": 9,
       "via": "BattleFrontier_OutsideWest",
-      "pending": 102,
-      "translated": 0,
+      "pending": 0,
+      "translated": 102,
       "outgoing": [
         "BattleFrontier_OutsideWest"
       ]
@@ -690,8 +690,8 @@
       "map": "BattleFrontier_BattleArenaLobby",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 154,
-      "translated": 0,
+      "pending": 0,
+      "translated": 154,
       "outgoing": [
         "BattleFrontier_BattleArenaCorridor",
         "BattleFrontier_OutsideEast"
@@ -712,8 +712,8 @@
       "map": "BattleFrontier_BattleFactoryPreBattleRoom",
       "depth": 10,
       "via": "BattleFrontier_BattleFactoryLobby",
-      "pending": 103,
-      "translated": 0,
+      "pending": 0,
+      "translated": 103,
       "outgoing": [
         "BattleFrontier_BattleFactoryBattleRoom"
       ]
@@ -722,8 +722,8 @@
       "map": "BattleFrontier_BattlePalaceLobby",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 198,
-      "translated": 0,
+      "pending": 0,
+      "translated": 198,
       "outgoing": [
         "BattleFrontier_BattlePalaceCorridor",
         "BattleFrontier_OutsideEast"
@@ -733,8 +733,8 @@
       "map": "BattleFrontier_BattlePikeCorridor",
       "depth": 10,
       "via": "BattleFrontier_BattlePikeLobby",
-      "pending": 2,
-      "translated": 0,
+      "pending": 0,
+      "translated": 2,
       "outgoing": [
         "BattleFrontier_BattlePikeThreePathRoom"
       ]
@@ -743,8 +743,8 @@
       "map": "BattleFrontier_BattlePyramidLobby",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 242,
-      "translated": 0,
+      "pending": 0,
+      "translated": 242,
       "outgoing": [
         "BattleFrontier_BattlePyramidFloor",
         "BattleFrontier_OutsideEast"
@@ -754,8 +754,8 @@
       "map": "BattleFrontier_BattleTowerLobby",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 315,
-      "translated": 0,
+      "pending": 0,
+      "translated": 315,
       "outgoing": [
         "BattleFrontier_BattleTowerBattleRoom",
         "BattleFrontier_BattleTowerElevator",
@@ -766,8 +766,8 @@
       "map": "BattleFrontier_ExchangeServiceCorner",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 93,
-      "translated": 0,
+      "pending": 0,
+      "translated": 93,
       "outgoing": [
         "BattleFrontier_OutsideEast"
       ]
@@ -776,8 +776,8 @@
       "map": "BattleFrontier_Lounge1",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 63,
-      "translated": 0,
+      "pending": 0,
+      "translated": 63,
       "outgoing": [
         "BattleFrontier_OutsideEast"
       ]
@@ -786,8 +786,8 @@
       "map": "BattleFrontier_Lounge3",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 188,
-      "translated": 0,
+      "pending": 0,
+      "translated": 188,
       "outgoing": [
         "BattleFrontier_OutsideEast"
       ]
@@ -796,8 +796,8 @@
       "map": "BattleFrontier_Lounge5",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 52,
-      "translated": 0,
+      "pending": 0,
+      "translated": 52,
       "outgoing": [
         "BattleFrontier_OutsideEast"
       ]
@@ -806,8 +806,8 @@
       "map": "BattleFrontier_Lounge6",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 21,
-      "translated": 0,
+      "pending": 0,
+      "translated": 21,
       "outgoing": [
         "BattleFrontier_OutsideEast"
       ]
@@ -816,8 +816,8 @@
       "map": "BattleFrontier_Lounge8",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 24,
-      "translated": 0,
+      "pending": 0,
+      "translated": 24,
       "outgoing": [
         "BattleFrontier_OutsideEast"
       ]
@@ -836,8 +836,8 @@
       "map": "BattleFrontier_PokemonCenter_1F",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "BattleFrontier_OutsideEast",
         "BattleFrontier_PokemonCenter_2F"
@@ -847,8 +847,8 @@
       "map": "BattleFrontier_RankingHall",
       "depth": 10,
       "via": "BattleFrontier_OutsideEast",
-      "pending": 18,
-      "translated": 0,
+      "pending": 0,
+      "translated": 18,
       "outgoing": [
         "BattleFrontier_OutsideEast"
       ]
@@ -926,8 +926,8 @@
       "map": "SSTidalCorridor",
       "depth": 10,
       "via": "LilycoveCity_Harbor",
-      "pending": 54,
-      "translated": 0,
+      "pending": 0,
+      "translated": 54,
       "outgoing": [
         "LilycoveCity_Harbor",
         "SSTidalLowerDeck",
@@ -982,8 +982,8 @@
       "map": "AquaHideout_1F",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 49,
-      "translated": 0,
+      "pending": 0,
+      "translated": 49,
       "outgoing": [
         "AquaHideout_B1F",
         "LilycoveCity"
@@ -993,8 +993,8 @@
       "map": "BattleFrontier_BattleArenaCorridor",
       "depth": 11,
       "via": "BattleFrontier_BattleArenaLobby",
-      "pending": 2,
-      "translated": 0,
+      "pending": 0,
+      "translated": 2,
       "outgoing": [
         "BattleFrontier_BattleArenaBattleRoom"
       ]
@@ -1003,8 +1003,8 @@
       "map": "BattleFrontier_BattleDomePreBattleRoom",
       "depth": 11,
       "via": "BattleFrontier_BattleDomeCorridor",
-      "pending": 63,
-      "translated": 0,
+      "pending": 0,
+      "translated": 63,
       "outgoing": [
         "BattleFrontier_BattleDomeBattleRoom",
         "BattleFrontier_OutsideWest"
@@ -1014,8 +1014,8 @@
       "map": "BattleFrontier_BattleFactoryBattleRoom",
       "depth": 11,
       "via": "BattleFrontier_BattleFactoryPreBattleRoom",
-      "pending": 47,
-      "translated": 0,
+      "pending": 0,
+      "translated": 47,
       "outgoing": [
         "BattleFrontier_BattleFactoryLobby",
         "BattleFrontier_BattleFactoryPreBattleRoom"
@@ -1025,8 +1025,8 @@
       "map": "BattleFrontier_BattlePalaceCorridor",
       "depth": 11,
       "via": "BattleFrontier_BattlePalaceLobby",
-      "pending": 18,
-      "translated": 0,
+      "pending": 0,
+      "translated": 18,
       "outgoing": [
         "BattleFrontier_BattlePalaceBattleRoom",
         "BattleFrontier_BattlePalaceLobby"
@@ -1036,8 +1036,8 @@
       "map": "BattleFrontier_BattlePikeThreePathRoom",
       "depth": 11,
       "via": "BattleFrontier_BattlePikeCorridor",
-      "pending": 55,
-      "translated": 0,
+      "pending": 0,
+      "translated": 55,
       "outgoing": [
         "BattleFrontier_BattlePikeLobby"
       ]
@@ -1046,8 +1046,8 @@
       "map": "BattleFrontier_BattlePyramidFloor",
       "depth": 11,
       "via": "BattleFrontier_BattlePyramidLobby",
-      "pending": 347,
-      "translated": 0,
+      "pending": 0,
+      "translated": 347,
       "outgoing": [
         "BattleFrontier_BattlePyramidFloor",
         "BattleFrontier_BattlePyramidLobby",
@@ -1058,8 +1058,8 @@
       "map": "BattleFrontier_BattleTowerBattleRoom",
       "depth": 11,
       "via": "BattleFrontier_BattleTowerLobby",
-      "pending": 75,
-      "translated": 0,
+      "pending": 0,
+      "translated": 75,
       "outgoing": [
         "BattleFrontier_BattleTowerLobby"
       ]
@@ -1102,8 +1102,8 @@
       "map": "FarawayIsland_Interior",
       "depth": 11,
       "via": "FarawayIsland_Entrance",
-      "pending": 1,
-      "translated": 0,
+      "pending": 0,
+      "translated": 1,
       "outgoing": [
         "FarawayIsland_Entrance"
       ]
@@ -1254,8 +1254,8 @@
       "map": "Route109",
       "depth": 11,
       "via": "SlateportCity",
-      "pending": 55,
-      "translated": 0,
+      "pending": 0,
+      "translated": 55,
       "outgoing": [
         "Route108",
         "Route109_SeashoreHouse",
@@ -1282,8 +1282,8 @@
       "map": "Route121",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "LilycoveCity",
         "Route120",
@@ -1295,8 +1295,8 @@
       "map": "Route124",
       "depth": 11,
       "via": "LilycoveCity",
-      "pending": 1,
-      "translated": 0,
+      "pending": 0,
+      "translated": 1,
       "outgoing": [
         "LilycoveCity",
         "MossdeepCity",
@@ -1332,8 +1332,8 @@
       "map": "SSTidalLowerDeck",
       "depth": 11,
       "via": "SSTidalCorridor",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "SSTidalCorridor"
       ]
@@ -1342,8 +1342,8 @@
       "map": "SSTidalRooms",
       "depth": 11,
       "via": "SSTidalCorridor",
-      "pending": 59,
-      "translated": 0,
+      "pending": 0,
+      "translated": 59,
       "outgoing": [
         "SSTidalCorridor"
       ]
@@ -1456,8 +1456,8 @@
       "map": "AquaHideout_B1F",
       "depth": 12,
       "via": "AquaHideout_1F",
-      "pending": 29,
-      "translated": 0,
+      "pending": 0,
+      "translated": 29,
       "outgoing": [
         "AquaHideout_1F",
         "AquaHideout_B1F",
@@ -1468,8 +1468,8 @@
       "map": "BattleFrontier_BattleArenaBattleRoom",
       "depth": 12,
       "via": "BattleFrontier_BattleArenaCorridor",
-      "pending": 79,
-      "translated": 0,
+      "pending": 0,
+      "translated": 79,
       "outgoing": [
         "BattleFrontier_BattleArenaLobby"
       ]
@@ -1478,8 +1478,8 @@
       "map": "BattleFrontier_BattleDomeBattleRoom",
       "depth": 12,
       "via": "BattleFrontier_BattleDomePreBattleRoom",
-      "pending": 160,
-      "translated": 0,
+      "pending": 0,
+      "translated": 160,
       "outgoing": [
         "BattleFrontier_BattleDomeLobby",
         "BattleFrontier_BattleDomePreBattleRoom"
@@ -1489,8 +1489,8 @@
       "map": "BattleFrontier_BattlePalaceBattleRoom",
       "depth": 12,
       "via": "BattleFrontier_BattlePalaceCorridor",
-      "pending": 81,
-      "translated": 0,
+      "pending": 0,
+      "translated": 81,
       "outgoing": [
         "BattleFrontier_BattlePalaceCorridor",
         "BattleFrontier_BattlePalaceLobby"
@@ -1500,8 +1500,8 @@
       "map": "BattleFrontier_BattlePyramidTop",
       "depth": 12,
       "via": "BattleFrontier_BattlePyramidFloor",
-      "pending": 82,
-      "translated": 0,
+      "pending": 0,
+      "translated": 82,
       "outgoing": [
         "BattleFrontier_BattlePyramidLobby"
       ]
@@ -1531,8 +1531,8 @@
       "map": "BattleFrontier_BattleTowerMultiPartnerRoom",
       "depth": 12,
       "via": "BattleFrontier_BattleTowerElevator",
-      "pending": 840,
-      "translated": 0,
+      "pending": 0,
+      "translated": 840,
       "outgoing": [
         "BattleFrontier_BattleTowerElevator",
         "BattleFrontier_BattleTowerMultiPartnerRoom"
@@ -1674,8 +1674,8 @@
       "map": "MossdeepCity",
       "depth": 12,
       "via": "Route124",
-      "pending": 85,
-      "translated": 0,
+      "pending": 0,
+      "translated": 85,
       "outgoing": [
         "MossdeepCity_GameCorner_1F",
         "MossdeepCity_Gym",
@@ -1707,8 +1707,8 @@
       "map": "NewMauville_Entrance",
       "depth": 12,
       "via": "Route110",
-      "pending": 4,
-      "translated": 0,
+      "pending": 0,
+      "translated": 4,
       "outgoing": [
         "NewMauville_Inside",
         "Route110"
@@ -1718,8 +1718,8 @@
       "map": "Route103",
       "depth": 12,
       "via": "Route110",
-      "pending": 43,
-      "translated": 0,
+      "pending": 0,
+      "translated": 43,
       "outgoing": [
         "AlteringCave",
         "OldaleTown",
@@ -1742,8 +1742,8 @@
       "map": "Route109_SeashoreHouse",
       "depth": 12,
       "via": "Route109",
-      "pending": 45,
-      "translated": 0,
+      "pending": 0,
+      "translated": 45,
       "outgoing": [
         "Route109"
       ]
@@ -1791,8 +1791,8 @@
       "map": "Route120",
       "depth": 12,
       "via": "Route121",
-      "pending": 45,
-      "translated": 0,
+      "pending": 0,
+      "translated": 45,
       "outgoing": [
         "AncientTomb",
         "FortreeCity",
@@ -1827,8 +1827,8 @@
       "map": "Route124_DivingTreasureHuntersHouse",
       "depth": 12,
       "via": "Route124",
-      "pending": 32,
-      "translated": 0,
+      "pending": 0,
+      "translated": 32,
       "outgoing": [
         "Route124"
       ]
@@ -1992,8 +1992,8 @@
       "map": "AquaHideout_B2F",
       "depth": 13,
       "via": "AquaHideout_B1F",
-      "pending": 46,
-      "translated": 0,
+      "pending": 0,
+      "translated": 46,
       "outgoing": [
         "AquaHideout_B1F",
         "AquaHideout_B2F"
@@ -2014,16 +2014,16 @@
       "map": "BattleFrontier_BattleTowerMultiBattleRoom",
       "depth": 13,
       "via": "BattleFrontier_BattleTowerMultiCorridor",
-      "pending": 28,
-      "translated": 0,
+      "pending": 0,
+      "translated": 28,
       "outgoing": []
     },
     {
       "map": "FortreeCity",
       "depth": 13,
       "via": "Route120",
-      "pending": 43,
-      "translated": 0,
+      "pending": 0,
+      "translated": 43,
       "outgoing": [
         "FortreeCity_DecorationShop",
         "FortreeCity_Gym",
@@ -2115,8 +2115,8 @@
       "map": "MossdeepCity_GameCorner_1F",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 28,
-      "translated": 0,
+      "pending": 0,
+      "translated": 28,
       "outgoing": [
         "MossdeepCity",
         "MossdeepCity_GameCorner_B1F"
@@ -2126,8 +2126,8 @@
       "map": "MossdeepCity_Gym",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 179,
-      "translated": 0,
+      "pending": 0,
+      "translated": 179,
       "outgoing": [
         "MossdeepCity",
         "MossdeepCity_Gym"
@@ -2137,8 +2137,8 @@
       "map": "MossdeepCity_House1",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "MossdeepCity"
       ]
@@ -2147,8 +2147,8 @@
       "map": "MossdeepCity_House2",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "MossdeepCity"
       ]
@@ -2157,8 +2157,8 @@
       "map": "MossdeepCity_House3",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "MossdeepCity"
       ]
@@ -2167,8 +2167,8 @@
       "map": "MossdeepCity_House4",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "MossdeepCity"
       ]
@@ -2177,8 +2177,8 @@
       "map": "MossdeepCity_Mart",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "MossdeepCity"
       ]
@@ -2187,8 +2187,8 @@
       "map": "MossdeepCity_PokemonCenter_1F",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 7,
-      "translated": 0,
+      "pending": 0,
+      "translated": 7,
       "outgoing": [
         "MossdeepCity",
         "MossdeepCity_PokemonCenter_2F"
@@ -2198,8 +2198,8 @@
       "map": "MossdeepCity_SpaceCenter_1F",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 92,
-      "translated": 0,
+      "pending": 0,
+      "translated": 92,
       "outgoing": [
         "MossdeepCity",
         "MossdeepCity_SpaceCenter_2F"
@@ -2209,8 +2209,8 @@
       "map": "MossdeepCity_StevensHouse",
       "depth": 13,
       "via": "MossdeepCity",
-      "pending": 46,
-      "translated": 0,
+      "pending": 0,
+      "translated": 46,
       "outgoing": [
         "MossdeepCity"
       ]
@@ -2219,8 +2219,8 @@
       "map": "MtPyre_1F",
       "depth": 13,
       "via": "Route122",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "MtPyre_2F",
         "MtPyre_Exterior",
@@ -2255,8 +2255,8 @@
       "map": "NewMauville_Inside",
       "depth": 13,
       "via": "NewMauville_Entrance",
-      "pending": 11,
-      "translated": 0,
+      "pending": 0,
+      "translated": 11,
       "outgoing": [
         "NewMauville_Entrance"
       ]
@@ -2265,8 +2265,8 @@
       "map": "OldaleTown",
       "depth": 13,
       "via": "Route103",
-      "pending": 36,
-      "translated": 0,
+      "pending": 0,
+      "translated": 36,
       "outgoing": [
         "OldaleTown_House1",
         "OldaleTown_House2",
@@ -2383,8 +2383,8 @@
       "map": "Route111",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 94,
-      "translated": 0,
+      "pending": 0,
+      "translated": 94,
       "outgoing": [
         "DesertRuins",
         "MauvilleCity",
@@ -2412,8 +2412,8 @@
       "map": "Route118",
       "depth": 13,
       "via": "MauvilleCity",
-      "pending": 37,
-      "translated": 0,
+      "pending": 0,
+      "translated": 37,
       "outgoing": [
         "MauvilleCity",
         "Route119",
@@ -2425,8 +2425,8 @@
       "map": "Route123",
       "depth": 13,
       "via": "Route122",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "Route118",
         "Route122",
@@ -2572,8 +2572,8 @@
       "map": "AbandonedShip_CaptainsOffice",
       "depth": 14,
       "via": "AbandonedShip_Deck",
-      "pending": 11,
-      "translated": 0,
+      "pending": 0,
+      "translated": 11,
       "outgoing": [
         "AbandonedShip_Deck"
       ]
@@ -2582,8 +2582,8 @@
       "map": "AbandonedShip_Corridors_1F",
       "depth": 14,
       "via": "AbandonedShip_Deck",
-      "pending": 7,
-      "translated": 0,
+      "pending": 0,
+      "translated": 7,
       "outgoing": [
         "AbandonedShip_Corridors_B1F",
         "AbandonedShip_Deck",
@@ -2617,8 +2617,8 @@
       "map": "DewfordTown",
       "depth": 14,
       "via": "Route107",
-      "pending": 111,
-      "translated": 0,
+      "pending": 0,
+      "translated": 111,
       "outgoing": [
         "DewfordTown_Gym",
         "DewfordTown_Hall",
@@ -2645,8 +2645,8 @@
       "map": "FortreeCity_DecorationShop",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2655,8 +2655,8 @@
       "map": "FortreeCity_Gym",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 118,
-      "translated": 0,
+      "pending": 0,
+      "translated": 118,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2665,8 +2665,8 @@
       "map": "FortreeCity_House1",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 22,
-      "translated": 0,
+      "pending": 0,
+      "translated": 22,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2675,8 +2675,8 @@
       "map": "FortreeCity_House2",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 24,
-      "translated": 0,
+      "pending": 0,
+      "translated": 24,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2685,8 +2685,8 @@
       "map": "FortreeCity_House3",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2695,8 +2695,8 @@
       "map": "FortreeCity_House4",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 19,
-      "translated": 0,
+      "pending": 0,
+      "translated": 19,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2705,8 +2705,8 @@
       "map": "FortreeCity_House5",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 8,
-      "translated": 0,
+      "pending": 0,
+      "translated": 8,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2715,8 +2715,8 @@
       "map": "FortreeCity_Mart",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "FortreeCity"
       ]
@@ -2725,8 +2725,8 @@
       "map": "FortreeCity_PokemonCenter_1F",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 20,
-      "translated": 0,
+      "pending": 0,
+      "translated": 20,
       "outgoing": [
         "FortreeCity",
         "FortreeCity_PokemonCenter_2F"
@@ -2780,8 +2780,8 @@
       "map": "MossdeepCity_PokemonCenter_2F",
       "depth": 14,
       "via": "MossdeepCity_PokemonCenter_1F",
-      "pending": 3,
-      "translated": 0,
+      "pending": 0,
+      "translated": 3,
       "outgoing": [
         "MossdeepCity_PokemonCenter_1F",
         "TradeCenter",
@@ -2792,8 +2792,8 @@
       "map": "MossdeepCity_SpaceCenter_2F",
       "depth": 14,
       "via": "MossdeepCity_SpaceCenter_1F",
-      "pending": 94,
-      "translated": 0,
+      "pending": 0,
+      "translated": 94,
       "outgoing": [
         "MossdeepCity_SpaceCenter_1F"
       ]
@@ -2802,8 +2802,8 @@
       "map": "MtPyre_2F",
       "depth": 14,
       "via": "MtPyre_1F",
-      "pending": 53,
-      "translated": 0,
+      "pending": 0,
+      "translated": 53,
       "outgoing": [
         "MtPyre_1F",
         "MtPyre_3F"
@@ -2836,8 +2836,8 @@
       "map": "OldaleTown_House1",
       "depth": 14,
       "via": "OldaleTown",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "OldaleTown"
       ]
@@ -2846,8 +2846,8 @@
       "map": "PacifidlogTown",
       "depth": 14,
       "via": "Route132",
-      "pending": 17,
-      "translated": 0,
+      "pending": 0,
+      "translated": 17,
       "outgoing": [
         "PacifidlogTown_House1",
         "PacifidlogTown_House2",
@@ -2863,8 +2863,8 @@
       "map": "Route101",
       "depth": 14,
       "via": "OldaleTown",
-      "pending": 26,
-      "translated": 0,
+      "pending": 0,
+      "translated": 26,
       "outgoing": [
         "LittlerootTown",
         "LittlerootTown_ProfessorBirchsLab",
@@ -2875,8 +2875,8 @@
       "map": "Route102",
       "depth": 14,
       "via": "OldaleTown",
-      "pending": 21,
-      "translated": 0,
+      "pending": 0,
+      "translated": 21,
       "outgoing": [
         "OldaleTown",
         "PetalburgCity"
@@ -2897,8 +2897,8 @@
       "map": "Route111_OldLadysRestStop",
       "depth": 14,
       "via": "Route111",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "Route111"
       ]
@@ -2907,8 +2907,8 @@
       "map": "Route111_WinstrateFamilysHouse",
       "depth": 14,
       "via": "Route111",
-      "pending": 32,
-      "translated": 0,
+      "pending": 0,
+      "translated": 32,
       "outgoing": [
         "Route111"
       ]
@@ -2917,8 +2917,8 @@
       "map": "Route112",
       "depth": 14,
       "via": "Route111",
-      "pending": 18,
-      "translated": 0,
+      "pending": 0,
+      "translated": 18,
       "outgoing": [
         "FieryPath",
         "JaggedPass",
@@ -2932,8 +2932,8 @@
       "map": "Route113",
       "depth": 14,
       "via": "Route111",
-      "pending": 19,
-      "translated": 0,
+      "pending": 0,
+      "translated": 19,
       "outgoing": [
         "FallarborTown",
         "Route111",
@@ -2956,8 +2956,8 @@
       "map": "Route119",
       "depth": 14,
       "via": "FortreeCity",
-      "pending": 97,
-      "translated": 0,
+      "pending": 0,
+      "translated": 97,
       "outgoing": [
         "FortreeCity",
         "Route118",
@@ -2979,8 +2979,8 @@
       "map": "Route128",
       "depth": 14,
       "via": "Route127",
-      "pending": 43,
-      "translated": 0,
+      "pending": 0,
+      "translated": 43,
       "outgoing": [
         "EverGrandeCity",
         "Route127",
@@ -3059,8 +3059,8 @@
       "map": "TrainerHill_Entrance",
       "depth": 14,
       "via": "Route111",
-      "pending": 107,
-      "translated": 0,
+      "pending": 0,
+      "translated": 107,
       "outgoing": [
         "Route111",
         "TrainerHill_1F"
@@ -3119,8 +3119,8 @@
       "map": "AbandonedShip_Corridors_B1F",
       "depth": 15,
       "via": "AbandonedShip_Corridors_1F",
-      "pending": 17,
-      "translated": 0,
+      "pending": 0,
+      "translated": 17,
       "outgoing": [
         "AbandonedShip_Corridors_1F",
         "AbandonedShip_Room_B1F",
@@ -3132,8 +3132,8 @@
       "map": "AbandonedShip_Rooms2_1F",
       "depth": 15,
       "via": "AbandonedShip_Corridors_1F",
-      "pending": 53,
-      "translated": 0,
+      "pending": 0,
+      "translated": 53,
       "outgoing": [
         "AbandonedShip_Corridors_1F"
       ]
@@ -3142,8 +3142,8 @@
       "map": "AbandonedShip_Rooms_1F",
       "depth": 15,
       "via": "AbandonedShip_Corridors_1F",
-      "pending": 22,
-      "translated": 0,
+      "pending": 0,
+      "translated": 22,
       "outgoing": [
         "AbandonedShip_Corridors_1F"
       ]
@@ -3165,8 +3165,8 @@
       "map": "DewfordTown_Gym",
       "depth": 15,
       "via": "DewfordTown",
-      "pending": 110,
-      "translated": 0,
+      "pending": 0,
+      "translated": 110,
       "outgoing": [
         "DewfordTown"
       ]
@@ -3175,8 +3175,8 @@
       "map": "DewfordTown_Hall",
       "depth": 15,
       "via": "DewfordTown",
-      "pending": 132,
-      "translated": 0,
+      "pending": 0,
+      "translated": 132,
       "outgoing": [
         "DewfordTown"
       ]
@@ -3185,8 +3185,8 @@
       "map": "DewfordTown_House1",
       "depth": 15,
       "via": "DewfordTown",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "DewfordTown"
       ]
@@ -3195,8 +3195,8 @@
       "map": "DewfordTown_House2",
       "depth": 15,
       "via": "DewfordTown",
-      "pending": 21,
-      "translated": 0,
+      "pending": 0,
+      "translated": 21,
       "outgoing": [
         "DewfordTown"
       ]
@@ -3205,8 +3205,8 @@
       "map": "DewfordTown_PokemonCenter_1F",
       "depth": 15,
       "via": "DewfordTown",
-      "pending": 7,
-      "translated": 0,
+      "pending": 0,
+      "translated": 7,
       "outgoing": [
         "DewfordTown",
         "DewfordTown_PokemonCenter_2F"
@@ -3216,8 +3216,8 @@
       "map": "EverGrandeCity",
       "depth": 15,
       "via": "Route128",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "EverGrandeCity_PokemonCenter_1F",
         "EverGrandeCity_PokemonLeague_1F",
@@ -3229,8 +3229,8 @@
       "map": "FallarborTown",
       "depth": 15,
       "via": "Route113",
-      "pending": 26,
-      "translated": 0,
+      "pending": 0,
+      "translated": 26,
       "outgoing": [
         "FallarborTown_BattleTentLobby",
         "FallarborTown_CozmosHouse",
@@ -3267,8 +3267,8 @@
       "map": "JaggedPass",
       "depth": 15,
       "via": "Route112",
-      "pending": 63,
-      "translated": 0,
+      "pending": 0,
+      "translated": 63,
       "outgoing": [
         "MagmaHideout_1F",
         "MtChimney",
@@ -3279,8 +3279,8 @@
       "map": "LavaridgeTown",
       "depth": 15,
       "via": "Route112",
-      "pending": 93,
-      "translated": 0,
+      "pending": 0,
+      "translated": 93,
       "outgoing": [
         "LavaridgeTown_Gym_1F",
         "LavaridgeTown_HerbShop",
@@ -3294,8 +3294,8 @@
       "map": "LittlerootTown",
       "depth": 15,
       "via": "Route101",
-      "pending": 74,
-      "translated": 0,
+      "pending": 0,
+      "translated": 74,
       "outgoing": [
         "LittlerootTown_BrendansHouse_1F",
         "LittlerootTown_MaysHouse_1F",
@@ -3318,8 +3318,8 @@
       "map": "MtPyre_3F",
       "depth": 15,
       "via": "MtPyre_2F",
-      "pending": 39,
-      "translated": 0,
+      "pending": 0,
+      "translated": 39,
       "outgoing": [
         "MtPyre_2F",
         "MtPyre_4F"
@@ -3329,8 +3329,8 @@
       "map": "MtPyre_Summit",
       "depth": 15,
       "via": "MtPyre_Exterior",
-      "pending": 146,
-      "translated": 0,
+      "pending": 0,
+      "translated": 146,
       "outgoing": [
         "MtPyre_Exterior"
       ]
@@ -3361,8 +3361,8 @@
       "map": "PacifidlogTown_House1",
       "depth": 15,
       "via": "PacifidlogTown",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "PacifidlogTown"
       ]
@@ -3371,8 +3371,8 @@
       "map": "PacifidlogTown_House2",
       "depth": 15,
       "via": "PacifidlogTown",
-      "pending": 33,
-      "translated": 0,
+      "pending": 0,
+      "translated": 33,
       "outgoing": [
         "PacifidlogTown"
       ]
@@ -3381,8 +3381,8 @@
       "map": "PacifidlogTown_House3",
       "depth": 15,
       "via": "PacifidlogTown",
-      "pending": 25,
-      "translated": 0,
+      "pending": 0,
+      "translated": 25,
       "outgoing": [
         "PacifidlogTown"
       ]
@@ -3391,8 +3391,8 @@
       "map": "PacifidlogTown_House4",
       "depth": 15,
       "via": "PacifidlogTown",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "PacifidlogTown"
       ]
@@ -3401,8 +3401,8 @@
       "map": "PacifidlogTown_House5",
       "depth": 15,
       "via": "PacifidlogTown",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "PacifidlogTown"
       ]
@@ -3411,8 +3411,8 @@
       "map": "PacifidlogTown_PokemonCenter_1F",
       "depth": 15,
       "via": "PacifidlogTown",
-      "pending": 13,
-      "translated": 0,
+      "pending": 0,
+      "translated": 13,
       "outgoing": [
         "PacifidlogTown",
         "PacifidlogTown_PokemonCenter_2F"
@@ -3422,8 +3422,8 @@
       "map": "PetalburgCity",
       "depth": 15,
       "via": "Route102",
-      "pending": 38,
-      "translated": 0,
+      "pending": 0,
+      "translated": 38,
       "outgoing": [
         "PetalburgCity_Gym",
         "PetalburgCity_House1",
@@ -3439,8 +3439,8 @@
       "map": "Route104_MrBrineysHouse",
       "depth": 15,
       "via": "DewfordTown",
-      "pending": 44,
-      "translated": 0,
+      "pending": 0,
+      "translated": 44,
       "outgoing": [
         "Route104"
       ]
@@ -3449,8 +3449,8 @@
       "map": "Route106",
       "depth": 15,
       "via": "DewfordTown",
-      "pending": 3,
-      "translated": 0,
+      "pending": 0,
+      "translated": 3,
       "outgoing": [
         "DewfordTown",
         "GraniteCave_1F",
@@ -3472,8 +3472,8 @@
       "map": "Route113_GlassWorkshop",
       "depth": 15,
       "via": "Route113",
-      "pending": 57,
-      "translated": 0,
+      "pending": 0,
+      "translated": 57,
       "outgoing": [
         "Route113"
       ]
@@ -3482,8 +3482,8 @@
       "map": "Route116",
       "depth": 15,
       "via": "VerdanturfTown",
-      "pending": 84,
-      "translated": 0,
+      "pending": 0,
+      "translated": 84,
       "outgoing": [
         "Route116_TunnelersRestHouse",
         "RustboroCity",
@@ -3496,8 +3496,8 @@
       "map": "Route119_House",
       "depth": 15,
       "via": "Route119",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "Route119"
       ]
@@ -3506,8 +3506,8 @@
       "map": "Route119_WeatherInstitute_1F",
       "depth": 15,
       "via": "Route119",
-      "pending": 39,
-      "translated": 0,
+      "pending": 0,
+      "translated": 39,
       "outgoing": [
         "Route119",
         "Route119_WeatherInstitute_2F"
@@ -3571,8 +3571,8 @@
       "map": "ShoalCave_LowTideLowerRoom",
       "depth": 15,
       "via": "ShoalCave_LowTideInnerRoom",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "ShoalCave_LowTideIceRoom",
         "ShoalCave_LowTideInnerRoom"
@@ -3697,8 +3697,8 @@
       "map": "AbandonedShip_Rooms2_B1F",
       "depth": 16,
       "via": "AbandonedShip_Corridors_B1F",
-      "pending": 4,
-      "translated": 0,
+      "pending": 0,
+      "translated": 4,
       "outgoing": [
         "AbandonedShip_Corridors_B1F"
       ]
@@ -3707,8 +3707,8 @@
       "map": "AbandonedShip_Rooms_B1F",
       "depth": 16,
       "via": "AbandonedShip_Corridors_B1F",
-      "pending": 4,
-      "translated": 0,
+      "pending": 0,
+      "translated": 4,
       "outgoing": [
         "AbandonedShip_Corridors_B1F"
       ]
@@ -3739,8 +3739,8 @@
       "map": "EverGrandeCity_PokemonCenter_1F",
       "depth": 16,
       "via": "EverGrandeCity",
-      "pending": 18,
-      "translated": 0,
+      "pending": 0,
+      "translated": 18,
       "outgoing": [
         "EverGrandeCity",
         "EverGrandeCity_PokemonCenter_2F"
@@ -3750,8 +3750,8 @@
       "map": "EverGrandeCity_PokemonLeague_1F",
       "depth": 16,
       "via": "EverGrandeCity",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "EverGrandeCity",
         "EverGrandeCity_Hall5",
@@ -3762,8 +3762,8 @@
       "map": "FallarborTown_BattleTentLobby",
       "depth": 16,
       "via": "FallarborTown",
-      "pending": 34,
-      "translated": 0,
+      "pending": 0,
+      "translated": 34,
       "outgoing": [
         "FallarborTown",
         "FallarborTown_BattleTentCorridor"
@@ -3773,8 +3773,8 @@
       "map": "FallarborTown_CozmosHouse",
       "depth": 16,
       "via": "FallarborTown",
-      "pending": 34,
-      "translated": 0,
+      "pending": 0,
+      "translated": 34,
       "outgoing": [
         "FallarborTown"
       ]
@@ -3783,8 +3783,8 @@
       "map": "FallarborTown_Mart",
       "depth": 16,
       "via": "FallarborTown",
-      "pending": 11,
-      "translated": 0,
+      "pending": 0,
+      "translated": 11,
       "outgoing": [
         "FallarborTown"
       ]
@@ -3793,8 +3793,8 @@
       "map": "FallarborTown_MoveRelearnersHouse",
       "depth": 16,
       "via": "FallarborTown",
-      "pending": 23,
-      "translated": 0,
+      "pending": 0,
+      "translated": 23,
       "outgoing": [
         "FallarborTown"
       ]
@@ -3803,8 +3803,8 @@
       "map": "FallarborTown_PokemonCenter_1F",
       "depth": 16,
       "via": "FallarborTown",
-      "pending": 22,
-      "translated": 0,
+      "pending": 0,
+      "translated": 22,
       "outgoing": [
         "FallarborTown",
         "FallarborTown_PokemonCenter_2F"
@@ -3814,8 +3814,8 @@
       "map": "GraniteCave_1F",
       "depth": 16,
       "via": "Route106",
-      "pending": 16,
-      "translated": 0,
+      "pending": 0,
+      "translated": 16,
       "outgoing": [
         "GraniteCave_B1F",
         "GraniteCave_StevensRoom",
@@ -3836,8 +3836,8 @@
       "map": "LavaridgeTown_Gym_1F",
       "depth": 16,
       "via": "LavaridgeTown",
-      "pending": 140,
-      "translated": 0,
+      "pending": 0,
+      "translated": 140,
       "outgoing": [
         "LavaridgeTown",
         "LavaridgeTown_Gym_B1F"
@@ -3847,8 +3847,8 @@
       "map": "LavaridgeTown_HerbShop",
       "depth": 16,
       "via": "LavaridgeTown",
-      "pending": 15,
-      "translated": 0,
+      "pending": 0,
+      "translated": 15,
       "outgoing": [
         "LavaridgeTown"
       ]
@@ -3857,8 +3857,8 @@
       "map": "LavaridgeTown_House",
       "depth": 16,
       "via": "LavaridgeTown",
-      "pending": 5,
-      "translated": 0,
+      "pending": 0,
+      "translated": 5,
       "outgoing": [
         "LavaridgeTown"
       ]
@@ -3867,8 +3867,8 @@
       "map": "LavaridgeTown_Mart",
       "depth": 16,
       "via": "LavaridgeTown",
-      "pending": 7,
-      "translated": 0,
+      "pending": 0,
+      "translated": 7,
       "outgoing": [
         "LavaridgeTown"
       ]
@@ -3877,8 +3877,8 @@
       "map": "LavaridgeTown_PokemonCenter_1F",
       "depth": 16,
       "via": "LavaridgeTown",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "LavaridgeTown",
         "LavaridgeTown_PokemonCenter_2F"
@@ -3888,8 +3888,8 @@
       "map": "MagmaHideout_1F",
       "depth": 16,
       "via": "JaggedPass",
-      "pending": 23,
-      "translated": 0,
+      "pending": 0,
+      "translated": 23,
       "outgoing": [
         "JaggedPass",
         "MagmaHideout_2F_1R",
@@ -3923,8 +3923,8 @@
       "map": "MtPyre_4F",
       "depth": 16,
       "via": "MtPyre_3F",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "MtPyre_3F",
         "MtPyre_5F"
@@ -3968,8 +3968,8 @@
       "map": "PetalburgCity_Gym",
       "depth": 16,
       "via": "PetalburgCity",
-      "pending": 307,
-      "translated": 0,
+      "pending": 0,
+      "translated": 307,
       "outgoing": [
         "PetalburgCity",
         "PetalburgCity_Gym"
@@ -3979,8 +3979,8 @@
       "map": "PetalburgCity_House1",
       "depth": 16,
       "via": "PetalburgCity",
-      "pending": 13,
-      "translated": 0,
+      "pending": 0,
+      "translated": 13,
       "outgoing": [
         "PetalburgCity"
       ]
@@ -3989,8 +3989,8 @@
       "map": "PetalburgCity_House2",
       "depth": 16,
       "via": "PetalburgCity",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "PetalburgCity"
       ]
@@ -3999,8 +3999,8 @@
       "map": "PetalburgCity_Mart",
       "depth": 16,
       "via": "PetalburgCity",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "PetalburgCity"
       ]
@@ -4009,8 +4009,8 @@
       "map": "PetalburgCity_PokemonCenter_1F",
       "depth": 16,
       "via": "PetalburgCity",
-      "pending": 28,
-      "translated": 0,
+      "pending": 0,
+      "translated": 28,
       "outgoing": [
         "PetalburgCity",
         "PetalburgCity_PokemonCenter_2F"
@@ -4020,8 +4020,8 @@
       "map": "PetalburgCity_WallysHouse",
       "depth": 16,
       "via": "PetalburgCity",
-      "pending": 52,
-      "translated": 0,
+      "pending": 0,
+      "translated": 52,
       "outgoing": [
         "PetalburgCity"
       ]
@@ -4030,8 +4030,8 @@
       "map": "Route104",
       "depth": 16,
       "via": "Route104_MrBrineysHouse",
-      "pending": 109,
-      "translated": 0,
+      "pending": 0,
+      "translated": 109,
       "outgoing": [
         "PetalburgCity",
         "PetalburgWoods",
@@ -4045,8 +4045,8 @@
       "map": "Route105",
       "depth": 16,
       "via": "Route106",
-      "pending": 16,
-      "translated": 0,
+      "pending": 0,
+      "translated": 16,
       "outgoing": [
         "IslandCave",
         "Route104",
@@ -4058,8 +4058,8 @@
       "map": "Route114",
       "depth": 16,
       "via": "FallarborTown",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "FallarborTown",
         "MeteorFalls_1F_1R",
@@ -4073,8 +4073,8 @@
       "map": "Route116_TunnelersRestHouse",
       "depth": 16,
       "via": "Route116",
-      "pending": 25,
-      "translated": 0,
+      "pending": 0,
+      "translated": 25,
       "outgoing": [
         "Route116"
       ]
@@ -4083,8 +4083,8 @@
       "map": "Route119_WeatherInstitute_2F",
       "depth": 16,
       "via": "Route119_WeatherInstitute_1F",
-      "pending": 76,
-      "translated": 0,
+      "pending": 0,
+      "translated": 76,
       "outgoing": [
         "Route119_WeatherInstitute_1F"
       ]
@@ -4093,8 +4093,8 @@
       "map": "RustboroCity",
       "depth": 16,
       "via": "Route116",
-      "pending": 181,
-      "translated": 0,
+      "pending": 0,
+      "translated": 181,
       "outgoing": [
         "Route104",
         "Route115",
@@ -4149,8 +4149,8 @@
       "map": "Underwater_SeafloorCavern",
       "depth": 16,
       "via": "Underwater_Route128",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "Underwater_Route128"
       ]
@@ -4181,8 +4181,8 @@
       "map": "VictoryRoad_1F",
       "depth": 16,
       "via": "EverGrandeCity",
-      "pending": 57,
-      "translated": 0,
+      "pending": 0,
+      "translated": 57,
       "outgoing": [
         "EverGrandeCity",
         "VictoryRoad_B1F"
@@ -4227,8 +4227,8 @@
       "map": "FallarborTown_BattleTentCorridor",
       "depth": 17,
       "via": "FallarborTown_BattleTentLobby",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "FallarborTown_BattleTentBattleRoom"
       ]
@@ -4260,8 +4260,8 @@
       "map": "GraniteCave_StevensRoom",
       "depth": 17,
       "via": "GraniteCave_1F",
-      "pending": 26,
-      "translated": 0,
+      "pending": 0,
+      "translated": 26,
       "outgoing": [
         "GraniteCave_1F"
       ]
@@ -4303,8 +4303,8 @@
       "map": "MagmaHideout_2F_1R",
       "depth": 17,
       "via": "MagmaHideout_1F",
-      "pending": 28,
-      "translated": 0,
+      "pending": 0,
+      "translated": 28,
       "outgoing": [
         "MagmaHideout_1F",
         "MagmaHideout_2F_2R",
@@ -4315,8 +4315,8 @@
       "map": "MagmaHideout_2F_2R",
       "depth": 17,
       "via": "MagmaHideout_1F",
-      "pending": 31,
-      "translated": 0,
+      "pending": 0,
+      "translated": 31,
       "outgoing": [
         "MagmaHideout_1F",
         "MagmaHideout_2F_1R"
@@ -4337,8 +4337,8 @@
       "map": "MeteorFalls_1F_1R",
       "depth": 17,
       "via": "Route114",
-      "pending": 57,
-      "translated": 0,
+      "pending": 0,
+      "translated": 57,
       "outgoing": [
         "MeteorFalls_1F_2R",
         "MeteorFalls_B1F_1R",
@@ -4351,8 +4351,8 @@
       "map": "MirageTower_4F",
       "depth": 17,
       "via": "MirageTower_3F",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "MirageTower_3F",
         "Route111"
@@ -4362,8 +4362,8 @@
       "map": "MtChimney_CableCarStation",
       "depth": 17,
       "via": "MtChimney",
-      "pending": 4,
-      "translated": 0,
+      "pending": 0,
+      "translated": 4,
       "outgoing": [
         "MtChimney"
       ]
@@ -4372,8 +4372,8 @@
       "map": "MtPyre_5F",
       "depth": 17,
       "via": "MtPyre_4F",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "MtPyre_4F",
         "MtPyre_6F"
@@ -4417,8 +4417,8 @@
       "map": "PetalburgWoods",
       "depth": 17,
       "via": "Route104",
-      "pending": 98,
-      "translated": 0,
+      "pending": 0,
+      "translated": 98,
       "outgoing": [
         "Route104"
       ]
@@ -4437,8 +4437,8 @@
       "map": "Route114_FossilManiacsHouse",
       "depth": 17,
       "via": "Route114",
-      "pending": 14,
-      "translated": 0,
+      "pending": 0,
+      "translated": 14,
       "outgoing": [
         "Route114",
         "Route114_FossilManiacsTunnel"
@@ -4448,8 +4448,8 @@
       "map": "Route114_LanettesHouse",
       "depth": 17,
       "via": "Route114",
-      "pending": 43,
-      "translated": 0,
+      "pending": 0,
+      "translated": 43,
       "outgoing": [
         "Route114"
       ]
@@ -4458,8 +4458,8 @@
       "map": "Route115",
       "depth": 17,
       "via": "Route114",
-      "pending": 8,
-      "translated": 0,
+      "pending": 0,
+      "translated": 8,
       "outgoing": [
         "MeteorFalls_1F_1R",
         "Route114",
@@ -4471,8 +4471,8 @@
       "map": "RustboroCity_CuttersHouse",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 23,
-      "translated": 0,
+      "pending": 0,
+      "translated": 23,
       "outgoing": [
         "RustboroCity"
       ]
@@ -4481,8 +4481,8 @@
       "map": "RustboroCity_DevonCorp_1F",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 44,
-      "translated": 0,
+      "pending": 0,
+      "translated": 44,
       "outgoing": [
         "RustboroCity",
         "RustboroCity_DevonCorp_2F"
@@ -4492,8 +4492,8 @@
       "map": "RustboroCity_DevonCorp_3F",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 79,
-      "translated": 0,
+      "pending": 0,
+      "translated": 79,
       "outgoing": [
         "RustboroCity_DevonCorp_2F"
       ]
@@ -4502,8 +4502,8 @@
       "map": "RustboroCity_Flat1_1F",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 3,
-      "translated": 0,
+      "pending": 0,
+      "translated": 3,
       "outgoing": [
         "RustboroCity",
         "RustboroCity_Flat1_2F"
@@ -4513,8 +4513,8 @@
       "map": "RustboroCity_Flat2_1F",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 3,
-      "translated": 0,
+      "pending": 0,
+      "translated": 3,
       "outgoing": [
         "RustboroCity",
         "RustboroCity_Flat2_2F"
@@ -4524,8 +4524,8 @@
       "map": "RustboroCity_House1",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 18,
-      "translated": 0,
+      "pending": 0,
+      "translated": 18,
       "outgoing": [
         "RustboroCity"
       ]
@@ -4534,8 +4534,8 @@
       "map": "RustboroCity_House2",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 6,
-      "translated": 0,
+      "pending": 0,
+      "translated": 6,
       "outgoing": [
         "RustboroCity"
       ]
@@ -4544,8 +4544,8 @@
       "map": "RustboroCity_House3",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 9,
-      "translated": 0,
+      "pending": 0,
+      "translated": 9,
       "outgoing": [
         "RustboroCity"
       ]
@@ -4554,8 +4554,8 @@
       "map": "RustboroCity_Mart",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "RustboroCity"
       ]
@@ -4564,8 +4564,8 @@
       "map": "RustboroCity_PokemonCenter_1F",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 11,
-      "translated": 0,
+      "pending": 0,
+      "translated": 11,
       "outgoing": [
         "RustboroCity",
         "RustboroCity_PokemonCenter_2F"
@@ -4575,8 +4575,8 @@
       "map": "RustboroCity_PokemonSchool",
       "depth": 17,
       "via": "RustboroCity",
-      "pending": 112,
-      "translated": 0,
+      "pending": 0,
+      "translated": 112,
       "outgoing": [
         "RustboroCity"
       ]
@@ -4585,8 +4585,8 @@
       "map": "SkyPillar_Outside",
       "depth": 17,
       "via": "SkyPillar_Entrance",
-      "pending": 22,
-      "translated": 0,
+      "pending": 0,
+      "translated": 22,
       "outgoing": [
         "SkyPillar_1F",
         "SkyPillar_Entrance"
@@ -4628,8 +4628,8 @@
       "map": "VictoryRoad_B1F",
       "depth": 17,
       "via": "VictoryRoad_1F",
-      "pending": 33,
-      "translated": 0,
+      "pending": 0,
+      "translated": 33,
       "outgoing": [
         "VictoryRoad_1F",
         "VictoryRoad_B2F"
@@ -4639,8 +4639,8 @@
       "map": "EverGrandeCity_SidneysRoom",
       "depth": 18,
       "via": "EverGrandeCity_Hall5",
-      "pending": 15,
-      "translated": 0,
+      "pending": 0,
+      "translated": 15,
       "outgoing": [
         "EverGrandeCity_Hall1",
         "EverGrandeCity_Hall5"
@@ -4670,8 +4670,8 @@
       "map": "MagmaHideout_3F_1R",
       "depth": 18,
       "via": "MagmaHideout_2F_1R",
-      "pending": 18,
-      "translated": 0,
+      "pending": 0,
+      "translated": 18,
       "outgoing": [
         "MagmaHideout_2F_1R",
         "MagmaHideout_3F_2R",
@@ -4693,8 +4693,8 @@
       "map": "MeteorFalls_1F_2R",
       "depth": 18,
       "via": "MeteorFalls_1F_1R",
-      "pending": 73,
-      "translated": 0,
+      "pending": 0,
+      "translated": 73,
       "outgoing": [
         "MeteorFalls_1F_1R",
         "MeteorFalls_B1F_1R"
@@ -4716,8 +4716,8 @@
       "map": "MeteorFalls_StevensCave",
       "depth": 18,
       "via": "MeteorFalls_1F_1R",
-      "pending": 23,
-      "translated": 0,
+      "pending": 0,
+      "translated": 23,
       "outgoing": [
         "MeteorFalls_1F_1R"
       ]
@@ -4726,8 +4726,8 @@
       "map": "MtPyre_6F",
       "depth": 18,
       "via": "MtPyre_5F",
-      "pending": 20,
-      "translated": 0,
+      "pending": 0,
+      "translated": 20,
       "outgoing": [
         "MtPyre_5F"
       ]
@@ -4758,8 +4758,8 @@
       "map": "Route114_FossilManiacsTunnel",
       "depth": 18,
       "via": "Route114_FossilManiacsHouse",
-      "pending": 28,
-      "translated": 0,
+      "pending": 0,
+      "translated": 28,
       "outgoing": [
         "DesertUnderpass",
         "Route114_FossilManiacsHouse"
@@ -4769,8 +4769,8 @@
       "map": "RustboroCity_DevonCorp_2F",
       "depth": 18,
       "via": "RustboroCity_DevonCorp_1F",
-      "pending": 77,
-      "translated": 0,
+      "pending": 0,
+      "translated": 77,
       "outgoing": [
         "RustboroCity_DevonCorp_1F",
         "RustboroCity_DevonCorp_3F"
@@ -4780,8 +4780,8 @@
       "map": "RustboroCity_Flat1_2F",
       "depth": 18,
       "via": "RustboroCity_Flat1_1F",
-      "pending": 70,
-      "translated": 0,
+      "pending": 0,
+      "translated": 70,
       "outgoing": [
         "RustboroCity_Flat1_1F"
       ]
@@ -4790,8 +4790,8 @@
       "map": "RustboroCity_Flat2_2F",
       "depth": 18,
       "via": "RustboroCity_Flat2_1F",
-      "pending": 8,
-      "translated": 0,
+      "pending": 0,
+      "translated": 8,
       "outgoing": [
         "RustboroCity_Flat2_1F",
         "RustboroCity_Flat2_3F"
@@ -4835,8 +4835,8 @@
       "map": "VictoryRoad_B2F",
       "depth": 18,
       "via": "VictoryRoad_B1F",
-      "pending": 39,
-      "translated": 0,
+      "pending": 0,
+      "translated": 39,
       "outgoing": [
         "VictoryRoad_B1F"
       ]
@@ -4845,8 +4845,8 @@
       "map": "DesertUnderpass",
       "depth": 19,
       "via": "Route114_FossilManiacsTunnel",
-      "pending": 2,
-      "translated": 0,
+      "pending": 0,
+      "translated": 2,
       "outgoing": [
         "Route114_FossilManiacsTunnel"
       ]
@@ -4866,8 +4866,8 @@
       "map": "MagmaHideout_3F_2R",
       "depth": 19,
       "via": "MagmaHideout_3F_1R",
-      "pending": 12,
-      "translated": 0,
+      "pending": 0,
+      "translated": 12,
       "outgoing": [
         "MagmaHideout_3F_1R"
       ]
@@ -4876,8 +4876,8 @@
       "map": "MagmaHideout_4F",
       "depth": 19,
       "via": "MagmaHideout_3F_1R",
-      "pending": 64,
-      "translated": 0,
+      "pending": 0,
+      "translated": 64,
       "outgoing": [
         "MagmaHideout_3F_1R",
         "MagmaHideout_3F_3R"
@@ -4918,8 +4918,8 @@
       "map": "RustboroCity_Flat2_3F",
       "depth": 19,
       "via": "RustboroCity_Flat2_2F",
-      "pending": 4,
-      "translated": 0,
+      "pending": 0,
+      "translated": 4,
       "outgoing": [
         "RustboroCity_Flat2_2F"
       ]
@@ -4950,8 +4950,8 @@
       "map": "EverGrandeCity_PhoebesRoom",
       "depth": 20,
       "via": "EverGrandeCity_Hall1",
-      "pending": 18,
-      "translated": 0,
+      "pending": 0,
+      "translated": 18,
       "outgoing": [
         "EverGrandeCity_Hall1",
         "EverGrandeCity_Hall2"
@@ -5027,8 +5027,8 @@
       "map": "EverGrandeCity_GlaciasRoom",
       "depth": 22,
       "via": "EverGrandeCity_Hall2",
-      "pending": 17,
-      "translated": 0,
+      "pending": 0,
+      "translated": 17,
       "outgoing": [
         "EverGrandeCity_Hall2",
         "EverGrandeCity_Hall3"
@@ -5082,8 +5082,8 @@
       "map": "SkyPillar_Top",
       "depth": 23,
       "via": "SkyPillar_5F",
-      "pending": 1,
-      "translated": 0,
+      "pending": 0,
+      "translated": 1,
       "outgoing": [
         "SkyPillar_5F"
       ]
@@ -5092,8 +5092,8 @@
       "map": "EverGrandeCity_DrakesRoom",
       "depth": 24,
       "via": "EverGrandeCity_Hall3",
-      "pending": 23,
-      "translated": 0,
+      "pending": 0,
+      "translated": 23,
       "outgoing": [
         "EverGrandeCity_Hall3",
         "EverGrandeCity_Hall4"
@@ -5136,8 +5136,8 @@
       "map": "EverGrandeCity_ChampionsRoom",
       "depth": 26,
       "via": "EverGrandeCity_Hall4",
-      "pending": 93,
-      "translated": 0,
+      "pending": 0,
+      "translated": 93,
       "outgoing": [
         "EverGrandeCity_Hall4",
         "EverGrandeCity_HallOfFame"
@@ -5157,14 +5157,14 @@
       "map": "EverGrandeCity_HallOfFame",
       "depth": 27,
       "via": "EverGrandeCity_ChampionsRoom",
-      "pending": 10,
-      "translated": 0,
+      "pending": 0,
+      "translated": 10,
       "outgoing": [
         "EverGrandeCity_ChampionsRoom"
       ]
     }
   ],
   "reachable_map_count": 460,
-  "pending_map_rows": 10608,
-  "translated_map_rows": 6747
+  "pending_map_rows": 0,
+  "translated_map_rows": 17355
 }

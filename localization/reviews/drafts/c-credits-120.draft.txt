@@ -1,0 +1,148 @@
+##### src/data/credits.h
+f1624406de201b8c	
+04ad04036955619c	WISHES OF TOMORROW
+4377a28e4ed3af53	スタッフ
+a57fa001aa3239f6	せいさく
+43922299ffe26605	シナリオ・ディレクション
+632640df4175dcf0	ゲームデザイン
+19f1150995b49ef5	Joe Maloney
+1357e7932613aebb	ドットデザイン
+94a0b8e9e469ce24	キャラクターアート
+18b0d801b3b88a36	Rafael Sanna
+f1c347bb30491932	aveontrainer
+0627804ec9495b05	baylorhernandez
+b84a68d30fdbadf5	biadoxaf
+f03d6b4113b37d09	DarkusShadow
+76b7136786400640	jaov46
+b88732e8a0c57b0f	ToxShadows642
+f837e443a91c23db	Dark Slayer
+627cd0ff5ac2d383	かげの ドット
+d58bc8ce5688d863	pogokitten
+4e4a26ffc2647eff	WeeGeeDude
+6b2afce8d3265aec	Quanyails
+78467f26cbbe814c	タイルセット
+c4d95fe91936e337	pinkscales
+e2fcedb6d4a867f0	Phyromatical
+d5f7340f1ae4940c	MagiScarf
+666b04e7c41b8ad7	PeekyChew
+7ec7c6ac4a35e995	Elinthind
+db71c4d788aa11c0	lo8jd
+dd738c9a219c5aed	ekat99
+735062e5fb9fc524	Shin-Tokyo Art
+6fcd578542f1b1ff	Emeiry
+2ce52195e8f6377e	Odisea by ekat99
+e009c1018dec36e4	バトルはいけい
+d6752fa0e2bd832d	carchagui
+9f51cdc1f121cb26	LibertyTwins
+6386963b19bd89ce	マップデザイン
+c61baec3c36ccb02	イベントスクリプト
+bf2c278c6ac685e2	おんがく
+3bcfd1b9e16231b9	アレンジげんきょく
+6bc9e3afed677631	ポケモン サウンドトラック
+9a7278bfe7810ee8	テストプレイ
+8558da9d264a0564	ひんしつ かんり
+f7175f0f77e2c26b	Luke Devereux
+f39db4eb82d431d1	Mike Mancuso
+5b43bb430094f7f1	Kyle Clarkson
+6da5efe3ebc00c06	しようツール
+c76fae36359edf7c	pokeemerald-expansion
+22011e0a96ec888c	Rom Hacking Hideout
+ad756519ada5ab2e	The pret decomp team
+ea7958b992c87c9f	げんさく
+180b3a49efd3a58e	POKéMON EMERALD VERSION
+2e214b22d53f416e	GAME FREAK · Nintendo
+8b7913efef8d51e8	スペシャルサンクス
+170d03f2c640e7ba	ドットえ コミュニティ
+3f7f552d34079274	わかちあう アーティストたち
+2d6e9a3b84808d49	あそんでくれて ありがとう。
+fa14e0542645a6a1	Flatfoot Games
+1c22d27134fcfde1	ねがいは ふたたび それぞれの ものに。
+e29e54a15b7ab1ed	Wishes of Tomorrow
+571067682b88bb23	やすらかに Connor。
+##### src/credits_frlg.c
+4cb38d9e6a117a19	Pokémon FireRed Version\nスタッフ
+29179cb6bd289359	Pokémon LeafGreen Version\nスタッフ
+4a0b375661614e72	\n\nディレクター\n\n\n\n
+02457032cc2056a2	\n\n\nJunichi Masuda\n\n\n
+77d57acae9b58fd3	\nアートディレクター\n\nバトルディレクター\n\n\n
+1542031dc868ca65	\n\nKen Sugimori\n\nShigeki Morimoto\n\n
+356f141a6880875b	プログラムリーダー\n\nプランニングリーダー\n\nグラフィックデザインリーダー\n\n
+c8ecd12531953bb3	\nTetsuya Watanabe\n\nKoji Nishino\n\nTakao Unno\n
+c7c6de74ad38d6f9	プログラム\n\n\n\n\n
+f890d1e3bc2ea2c8	\nHiroyuki Nakamura\nMasao Taya\nSatoshi Nohara\nMiyuki Iwasawa\nDaisuke Goto\n
+7c469d0c67f664df	システムプログラム\n\n\n\n\n\n
+0f0adc14cc5d0caf	\nTetsuya Watanabe\nAkito Mori\nHisashi Sogabe\nSousuke Tamada\n\n
+edf67269b5921eec	グラフィックデザイン\n\n\n\n\n\n
+c416e3431d9a5454	\nTakao Unno\nAsuka Iwashita\nKanako Eo\nHiroki Fuchino\n\n
+c494c121bb6b88e6	\nグラフィックデザイン\n\n\n\n\n
+3b46487cf6828b3b	\n\nKen Sugimori\nHironobu Yoshida\n\n\n
+2e1bd4a29c660ee8	\nおんがく\n\n\n\n\n
+99562944f6eba629	\n\nGo Ichinose\nJunichi Masuda\n\n\n
+ea5a67c35f16c7ea	\n\nこうかおん\n\n\n\n
+d94b18c1e4153129	\n\n\nGo Ichinose\n\n\n
+76a59eec3cff1a9d	\nゲームデザイン\n\n\n\n\n
+32251481d0fbf9ee	\n\nJunichi Masuda\nKoji Nishino\nTetsuji Ohta\n\n
+8e0e90c7847196ff	\nゲームデザイン\n\n\n\n\n
+7a3c8f2bcd4fb441	\n\nHitomi Sato\nShigeru Ohmori\nTadashi Takahashi\n\n
+08e561d3acf3c27c	\nゲームシナリオ\n\n\n\n\n
+bbad26ff2113265d	\n\nHitomi Sato\nSatoshi Tajiri\n\n\n
+0010ad1a2fbf7449	\nスクリプトデザイン\n\nマップデザイン\n\n\n
+e2a8534c5240c22a	\n\nSatoshi Nohara\n\nShigeru Ohmori\n\n
+8921c794d8314a14	\nパラメータデザイン\n\n\n\n\n
+b8d979b3000facae	\n\nKoji Nishino\nTetsuji Ohta\nShigeki Morimoto\n\n
+4e875a3fbaea84cd	\n\nずかん テキスト\n\n\n\n
+dccaa53871431cfe	\n\n\nKenji Matsushima\n\n\n
+c1bb1593364ec5c8	ポケモンデザイン\n\n\n\n\n\n
+526b84b2c2e01dc8	\nKen Sugimori\nMotofumi Fujiwara\nShigeki Morimoto\nHironobu Yoshida\n\n
+ed338db8eb43eba2	ポケモンデザイン\n\n\n\n\n\n
+dbe25f8091115499	\nSatoshi Ohta\nAsuka Iwashita\nTakao Unno\nKanako Eo\nAimi Tomita\n
+632044271ab2c3e0	ポケモンデザイン\n\n\n\n\n\n
+ccfd0b502573cafe	\nAtsuko Nishida\nMuneo Saito\nRena Yoshikawa\nJun Okutani\n\n
+3ab979ab334d5e95	サポートプログラム\n\n\n\n
+e77e09a4d1af5e17	\nTeruyuki Yoshioka\nTakao Nakano\n\nSatoshi Mitsuhara\nDaisuke Hoshino\n
+2b601450a8b89262	\n\nNCL デバッグ\n\n\n\n
+378932e48e80e7ed	\n\n\nNCL Super Mario Club\n\n\n
+e8784d402546f311	スペシャルサンクス\n\n\n\n\n\n
+c5a182170f916809	\nHiro Nakamura\nHiroyuki Uesugi\nTeruki Murakawa\n\nKazuya Suyama\n
+ca3e68134d67e49e	スペシャルサンクス\n\n\n\n\n\n
+1e65cf3d7543b000	\nKenji Tominaga\n\nKenjiro Ito\nTomotaka Komura\nMichiko Takizawa\n
+b9794bec77b53baa	スペシャルサンクス\n\n\n\n\n\n
+e385373af76e857b	\nMakiko Takada\nMikiko Ohashi\nShusaku Egami\nTakanao Kondo\nRui Kawaguchi\n
+d7c7d18a8405ad73	\n\nてんじ チェック\n\n\n\n
+173bca981fc6f504	\n\n\nJapan Braille Library\n\n\n
+267408e6e6b6673e	じょうほう かんしゅう\n\n\n\n\n\n
+3e3b8fd6e3fb27e7	\nHiroki Enomoto\nKazuyuki Terada\nYuri Sakurai\nYumi Funasaka\nNaoko Yanase\n
+4c0c468e6a0b709f	コーディネーター\n\n\n\n\n\n
+042d182ed1ebfdd4	\nAzusa Tajima\nAkira Kinashi\nKazuki Yoshihara\n\nRetsuji Nomoto\n
+34688ed05640af6c	\nしんこう かんり\n\n\n\n\n
+985587005e321fd8	\n\nHitoshi Yamagami\nGakuji Nomoto\n\n\n
+a6fbd1c2890ea79b	\nプロデューサー\n\n\n\n\n
+7948c525600902b3	\n\nHiroyuki Jinnai\nTakehiro Izushi\nHiroaki Tsuru\n\n
+0b942eb15389b988	\n\nエグゼクティブディレクター\n\n\n\n
+1873ec62061fa8c3	\n\n\nSatoshi Tajiri\n\n\n
+b16bc167d1ba2077	\n\nエグゼクティブプロデューサー\n\n\n\n
+3cfa40a11ba3a0ec	\n\n\nSatoru Iwata\n\n\n
+c81bb7a9ad25c71e	\n\nエグゼクティブプロデューサー\n\n\n\n
+f9fa2a3fbb823fee	\n\n\nTsunekaz Ishihara\n\n\n
+049c1d346d405866	\nえいごばん コーディネーター\n\n\n\n\n
+1a4a173afd9e1be6	\n\nHiro Nakamura\nSeth McMahill\n\n\n
+6789a9563673cab9	\nほんやく\n\nテキストエディター\n\n\n
+5112ae91b9684b9e	\n\nNob Ogasawara\n\nTeresa Lillygren\n\n
+e022e2947b14c40d	プログラム\n\n\n\n\n\n
+90b5d7fd31096eac	\nTeruki Murakawa\nSouichi Yamamoto\nYuichiro Ito\nAkira Kinashi\n\n
+b89873b92c164cdb	\nかんきょう・ツールプログラム\n\n\n\n\n
+33b3cbaed0436b22	\n\nTeruki Murakawa\nSouichi Yamamoto\nKimiko Nakamichi\n\n
+78a38d6d33907d2a	NOA デバッグ\n\n\n\n\n\n
+e811e825f86e9f2c	\nThomas Hertzog\nKathy Huguenard\nMika Kurosawa\n\n\n
+2ff70bd8b9771267	てんじ チェック\n\n\n\n\n\n
+125dac99ff446d0c	\nNational Federation\n{CLEAR_TO 0x13}of the Blind\nPatricia A. Maurer\nJapan Braille Library\nEuropean Blind Union\n
+fbd35d8b971ad8bc	\nてんじ チェック\n\n\n\n\n
+43d5ec4b8d7390be	\n\nNational Information Library\n{CLEAR_TO 0x2D}Service\nMargaret Campion\n\n
+29cefb7f85388e5b	スペシャルサンクス\n\n\n\n\n\n
+349727f250785cd4	\nTakehiro Izushi\nMotoyasu Tojima\nHitoshi Yamagami\nHiroyuki Uesugi\n\n
+e96f10b15a453295	スペシャルサンクス\n\n\n\n\n\n
+896d8ef15e125cd9	\nNicola Pratt-Barlow\nShellie Dow\nAnthony Howitt\nNaoko Saeki\nKyoko Onishi\n
+30968e86eafb3766	\nてんじ チェック\n\n\n\n\n
+25c4b4881e33ef11	\n\nThe Royal New Zealand\nFoundation of the Blind\nGreg Moran\n\n
+35a74991974918cd	\n\nグラフィックデザイン\n\n\n\n
+bcf1e75493cf2c1a	\n\n\nAkira Kinashi\n\n\n

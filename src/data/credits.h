@@ -34,15 +34,15 @@ enum
 
 static const u8 sCreditsText_EmptyString[]        = _("");
 static const u8 sCreditsText_WishesOfTomorrow[]   = _("WISHES OF TOMORROW");
-static const u8 sCreditsText_Credits[]            = _("Credits");
+static const u8 sCreditsText_Credits[]            = _("{JPN}スタッフ{ENG}");
 
-static const u8 sCreditsText_AGameBy[]            = _("A game by");
-static const u8 sCreditsText_StoryAndDirection[]  = _("Story & Direction");
-static const u8 sCreditsText_GameDesign[]         = _("Game Design");
+static const u8 sCreditsText_AGameBy[]            = _("{JPN}せいさく{ENG}");
+static const u8 sCreditsText_StoryAndDirection[]  = _("{JPN}シナリオ・ディレクション{ENG}");
+static const u8 sCreditsText_GameDesign[]         = _("{JPN}ゲームデザイン{ENG}");
 static const u8 sCreditsText_JoeMaloney[]         = _("Joe Maloney");
 
-static const u8 sCreditsText_SpriteDesign[]       = _("Sprite Design");
-static const u8 sCreditsText_CharacterArt[]       = _("Character Art");
+static const u8 sCreditsText_SpriteDesign[]       = _("{JPN}ドットデザイン{ENG}");
+static const u8 sCreditsText_CharacterArt[]       = _("{JPN}キャラクターアート{ENG}");
 static const u8 sCreditsText_RafaelSanna[]        = _("Rafael Sanna");
 static const u8 sCreditsText_Aveontrainer[]       = _("aveontrainer");
 static const u8 sCreditsText_BaylorHernandez[]    = _("baylorhernandez");
@@ -52,11 +52,11 @@ static const u8 sCreditsText_Jaov46[]             = _("jaov46");
 static const u8 sCreditsText_ToxShadows[]         = _("ToxShadows642");
 static const u8 sCreditsText_DarkSlayer[]         = _("Dark Slayer");
 
-static const u8 sCreditsText_ShadowSprites[]      = _("Shadow Sprites");
+static const u8 sCreditsText_ShadowSprites[]      = _("{JPN}かげの ドット{ENG}");
 static const u8 sCreditsText_Pogokitten[]         = _("pogokitten");
 static const u8 sCreditsText_Weegeedude[]         = _("WeeGeeDude");
 static const u8 sCreditsText_Quanyails[]          = _("Quanyails");
-static const u8 sCreditsText_TilesetArt[]         = _("Tileset Art");
+static const u8 sCreditsText_TilesetArt[]         = _("{JPN}タイルセット{ENG}");
 static const u8 sCreditsText_Pinkscales[]         = _("pinkscales");
 static const u8 sCreditsText_Phyromatical[]       = _("Phyromatical");
 static const u8 sCreditsText_Magiscarf[]          = _("MagiScarf");
@@ -68,39 +68,39 @@ static const u8 sCreditsText_Ekat99[]             = _("ekat99");
 static const u8 sCreditsText_ShinTokyoArt[]       = _("Shin-Tokyo Art");
 static const u8 sCreditsText_Emeiry[]             = _("Emeiry");
 static const u8 sCreditsText_OdiseaByEkat99[]     = _("Odisea by ekat99");
-static const u8 sCreditsText_BattleBackdrops[]    = _("Battle Backdrops");
+static const u8 sCreditsText_BattleBackdrops[]    = _("{JPN}バトルはいけい{ENG}");
 static const u8 sCreditsText_Carchagui[]          = _("carchagui");
 static const u8 sCreditsText_LibertyTwins[]       = _("LibertyTwins");
 
-static const u8 sCreditsText_MapDesign[]          = _("Map Design");
-static const u8 sCreditsText_EventScripting[]     = _("Event Scripting");
-static const u8 sCreditsText_Music[]              = _("Music");
-static const u8 sCreditsText_ArrangedFrom[]       = _("Arranged from the");
-static const u8 sCreditsText_PkmnSoundtracks[]    = _("POKéMON soundtracks");
+static const u8 sCreditsText_MapDesign[]          = _("{JPN}マップデザイン{ENG}");
+static const u8 sCreditsText_EventScripting[]     = _("{JPN}イベントスクリプト{ENG}");
+static const u8 sCreditsText_Music[]              = _("{JPN}おんがく{ENG}");
+static const u8 sCreditsText_ArrangedFrom[]       = _("{JPN}アレンジげんきょく{ENG}");
+static const u8 sCreditsText_PkmnSoundtracks[]    = _("{JPN}ポケモン サウンドトラック{ENG}");
 
-static const u8 sCreditsText_Playtesting[]        = _("Playtesting");
-static const u8 sCreditsText_QualityAssurance[]   = _("Quality Assurance");
+static const u8 sCreditsText_Playtesting[]        = _("{JPN}テストプレイ{ENG}");
+static const u8 sCreditsText_QualityAssurance[]   = _("{JPN}ひんしつ かんり{ENG}");
 static const u8 sCreditsText_LukeDevereux[]       = _("Luke Devereux");
 static const u8 sCreditsText_MikeMancuso[]        = _("Mike Mancuso");
 static const u8 sCreditsText_KyleClarkson[]       = _("Kyle Clarkson");
 
-static const u8 sCreditsText_BuiltWith[]          = _("Built With");
+static const u8 sCreditsText_BuiltWith[]          = _("{JPN}しようツール{ENG}");
 static const u8 sCreditsText_PokeemeraldExp[]     = _("pokeemerald-expansion");
 static const u8 sCreditsText_RomHackingHideout[]  = _("Rom Hacking Hideout");
 static const u8 sCreditsText_DecompTeam[]         = _("The pret decomp team");
-static const u8 sCreditsText_BasedOn[]            = _("Based on");
+static const u8 sCreditsText_BasedOn[]            = _("{JPN}げんさく{ENG}");
 static const u8 sCreditsText_PkmnEmerald[]        = _("POKéMON EMERALD VERSION");
 static const u8 sCreditsText_GameFreakNintendo[]  = _("GAME FREAK · Nintendo");
 
-static const u8 sCreditsText_SpecialThanks[]      = _("Special Thanks");
-static const u8 sCreditsText_SpritingCommunity[]  = _("The spriting community");
-static const u8 sCreditsText_EveryArtist[]        = _("Every artist who shares");
-static const u8 sCreditsText_ThankYou[]           = _("Thank you for playing.");
+static const u8 sCreditsText_SpecialThanks[]      = _("{JPN}スペシャルサンクス{ENG}");
+static const u8 sCreditsText_SpritingCommunity[]  = _("{JPN}ドットえ コミュニティ{ENG}");
+static const u8 sCreditsText_EveryArtist[]        = _("{JPN}わかちあう アーティストたち{ENG}");
+static const u8 sCreditsText_ThankYou[]           = _("{JPN}あそんでくれて ありがとう。{ENG}");
 static const u8 sCreditsText_FlatfootGames[]      = _("Flatfoot Games");
 
-static const u8 sCreditsText_EveryWish[]          = _("Every wish is its own again.");
+static const u8 sCreditsText_EveryWish[]          = _("{JPN}ねがいは ふたたび それぞれの ものに。{ENG}");
 static const u8 sCreditsText_TheEnd[]             = _("Wishes of Tomorrow");
-static const u8 sCreditsText_RestInParadise[]     = _("Rest in Paradise, Connor.");
+static const u8 sCreditsText_RestInParadise[]     = _("{JPN}やすらかに Connor。{ENG}");
 
 static const struct CreditsEntry sCreditsEntry_EmptyString        = { 0, FALSE, sCreditsText_EmptyString};
 static const struct CreditsEntry sCreditsEntry_WishesOfTomorrow   = { 6,  TRUE, sCreditsText_WishesOfTomorrow};

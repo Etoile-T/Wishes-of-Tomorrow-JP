@@ -473,7 +473,7 @@
  },
  {
   "id": "28d1aca29136da7b",
-  "translation": "{JPN}{LV}{ENG}",
+  "translation": "{ENG}{LV}{ENG}",
   "provenance": {
    "batch": "dialogue-c-strings-118",
    "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
@@ -3985,7 +3985,7 @@
  },
  {
   "id": "d92b109deb37b1a3",
-  "translation": "{JPN}{LV}{ENG}",
+  "translation": "{ENG}{LV}{ENG}",
   "provenance": {
    "batch": "dialogue-c-strings-118",
    "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "28d1aca29136da7b",
+    "translation": "{ENG}{LV}{ENG}",
+    "provenance": {
+      "batch": "ui-level-symbol-fix-143",
+      "method": "Preserve the English LV glyph (0x34); Japanese mode maps the same byte to small ya."
+    }
+  },
+  {
+    "id": "d92b109deb37b1a3",
+    "translation": "{ENG}{LV}{ENG}",
+    "provenance": {
+      "batch": "ui-level-symbol-fix-143",
+      "method": "Preserve the English LV glyph (0x34); Japanese mode maps the same byte to small ya."
+    }
+  }
+]

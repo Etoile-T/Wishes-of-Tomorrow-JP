@@ -280308,12 +280308,12 @@
     "end": 8256,
     "raw": "\"{LV}\"",
     "source": "{LV}",
-    "translation": "{JPN}{LV}{ENG}",
+    "translation": "{ENG}{LV}{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "provenance": {
-      "batch": "dialogue-c-strings-118",
-      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+      "batch": "ui-level-symbol-fix-143",
+      "method": "Preserve the English LV glyph (0x34); Japanese mode maps the same byte to small ya."
     }
   },
   {
@@ -295665,12 +295665,12 @@
     "end": 75294,
     "raw": "\"{LV}\"",
     "source": "{LV}",
-    "translation": "{JPN}{LV}{ENG}",
+    "translation": "{ENG}{LV}{ENG}",
     "status": "translated",
     "kind": "encoded_c",
     "provenance": {
-      "batch": "dialogue-c-strings-118",
-      "method": "Hand-translated dialogue; whole message, variables scoped ENG/JPN"
+      "batch": "ui-level-symbol-fix-143",
+      "method": "Preserve the English LV glyph (0x34); Japanese mode maps the same byte to small ya."
     }
   },
   {

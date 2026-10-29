@@ -4,6 +4,16 @@
 最初に `AGENTS.md`、この文書、`localization/status.json` を読むこと。過去の経緯の詳細は `HANDOFF_CLAUDE_CODE.md`（長い）にある。
 **完全日本語化は未完了。調査で終わらず、既存の訳と仕組みを保ったまま翻訳・検証・成果物の出力を続ける。**
 
+## Lv表示の修正（2026-10-29）
+
+手持ち一覧でLvが「ゃ」になるというユーザー報告。GitHub main4579067b65を取得して調査、文字コード0x34が英語LV/日本語ゃで共有され、gText_LevelSymbol/gText_LvのJPN指定が原因と確認。両文字列をENGへ修正、カタログ2件と既存バッチ118を同期。新バッチui-level-symbol-fix-143、レビューreviews/ui-level-symbol-fix-143.review.md、ソース86018632。かなフォント/描画エンジン/ゲーム内容/セーブ構造は変更なし。
+
+83テストskip0、catalog validate、audit0、新規build/emerald-jp-lv143-cleanでビルド成功。ROM29,453,444B/EWRAM230,024B/IWRAM28,600B。ROMシンボルの英語モードを直接確認。以前の61722版との違いは2バイトのみ、旧値へ戻した検証用コピーが既知の旧SHA256と一致。
+
+最新GBA ../outputs/gba/wishes-jp-61722-lv143-abd9b150.gba、SHA256 eb014715c59ba437b39c22a15795fb1ce77c2302b069ea2bbf697c502a5319f0。更新BPS ../outputs/patches/level-fix143/wishes-jp-level-fix143-update.zip、manifestはpatch-manifest-level-fix143.json。適用元は**以前の日本語61722版(CRC660ae8bf)**、英語版/市販ROM用ではない。BPS101B、SHA照合付き再適用結果が新ROMと全バイト一致。公開リリースへの添付・公開はしていない。
+
+旧Desktop/Wishは見つからず、今回の作業は /Users/owner/Documents/Codex/Wish/Wishes-Game へ保存。既存ユーザーROM/セーブには触れていない。実ゲーム画面/操作は未検証。Excelは生訳2件のJPN→ENG変更が未同期、再生成が必要（表示上の訳文と件数は不変）。今回Excelを検証済みとは報告しない。
+
 ## 最新: 会話69〜108（2026-10-27、Claude Code）
 
 Codexの会話69（111〜113番道路ほか258行、抽出済み・未適用だったもの）を照合して適用。続けて残りのストーリーを40バッチ・34,734行、サブエージェント並列で下書きし、主セッションで検査・表記統一・適用した。15,239→49,973、pending11,749。

@@ -1,0 +1,18 @@
+{
+  "format": "BPS1",
+  "source_kind": "Japanese 61722 preview ROM; not an English or retail Emerald ROM",
+  "base_translation_commit": "396f17e4e126b5181e8083459e670828fe16f1a6",
+  "translation_commit": "86018632e8f47a334f371e5ec1d4c1bc11063980",
+  "translated_entries": 61722,
+  "complete_localization": false,
+  "patch_file": "wishes-jp-61722-level-fix_from-660ae8bf_to-abd9b150.bps",
+  "source_sha256": "310c35cbc1e3e9563b81ab6420843a342e7c8d83437c387c65be1e9218e712bf",
+  "source_crc32": "660ae8bf",
+  "source_bytes": 33554432,
+  "target_sha256": "eb014715c59ba437b39c22a15795fb1ce77c2302b069ea2bbf697c502a5319f0",
+  "target_crc32": "abd9b150",
+  "target_bytes": 33554432,
+  "patch_sha256": "b0a5e18936a53b7775a22a7975fe1f82522f6a6900083fd1e398a7219f7a9358",
+  "patch_bytes": 101,
+  "changed_rom_bytes": 2
+}

@@ -7,8 +7,8 @@
   "pending": "0",
   "baseline_build": "passed",
   "jp_build": "passed",
-  "tests_passed": "83",
-  "bps_roundtrip": "passed: 61722 all-catalog build, SHA256 and byte comparison",
+  "tests_passed": 83,
+  "bps_roundtrip": "passed: level-fix143 update from Japanese61722 (CRC660ae8bf); SHA256/CRC and byte comparison",
   "runtime": "Deferred per user: installed mGBA boot observed only; Japanese rendering and gameplay unverified",
   "kanji": "not implemented",
   "name_input": "kana3: keyboard board/entry/background drawn (one printer per row; per-glyph printers overflowed DMA queue), けす/おわり buttons, cursor aligned; verified by mgba_probe VRAM render, GUI play unverified",
@@ -40,10 +40,10 @@
     "runtime": "not run; GUI state inspection rejected by automatic approval review due to previous stop instruction"
   },
   "patch_pair_validation": "passed with Python and independent RomPatcher.js; official 1.2.6 input differs from source-built English Wishes",
-  "latest_play_rom": "../artifacts/play/wishes-jp-310c35cbc1e3e956.gba",
-  "latest_patch_manifest": "patches/ui-61722-660ae8bf/manifest.json",
+  "latest_play_rom": "../artifacts/play/wishes-jp-eb014715c59ba437.gba",
+  "latest_patch_manifest": "patch-manifest-level-fix143.json",
   "japanese_mode_punctuation": "Latin ¥ , “ ” ‘ ’ ' render as 円 . 『』「」 inside {JPN}; validate rejects them; 円 alias = B7",
-  "user_output_rom": "../outputs/gba/wishes-jp-61722-660ae8bf.gba",
+  "user_output_rom": "../outputs/gba/wishes-jp-61722-lv143-abd9b150.gba",
   "dialogue_progress": "Every catalog row (61,722) is translated: story (maps, data/text, data/scripts, story-flow C text, credits, trainer names), Pokedex, moves, easy chat, debug and UI tables. Some entries are deliberately kept identical to English (symbols, control-only strings, identifiers, staff names, fixed buffers that cannot hold JPN/ENG). Runtime display/progression not verified; kanji not implemented; images with text not audited.",
   "battle_messages": "844 of src/battle_message.c translated; symbols/empty/unused fragments pending. Trainer classes/names translated; custom trainer win/lose dialogue applied where documented, original maps remain.",
   "line_break": "BreakStringAutomatic measures word widths with GetStringWidth (JPN-aware); item plural s skipped for {JPN} names",
@@ -78,7 +78,7 @@
     "save_layout": "unchanged",
     "runtime": "see kana3 review; new dialogue not played"
   },
-  "build_directory": "build/emerald-jp-dlg61722-clean",
+  "build_directory": "build/emerald-jp-lv143-clean",
   "last_species_name_batch": {
     "entries": 42,
     "batches": [
@@ -158,5 +158,24 @@
     "reference_draft_rows": 4733,
     "reference_draft_status": "unreviewed; no source apply for remaining candidates"
   },
-  "braille": "Japanese kana braille: tools/localization/braille_ja.py generates tools/preproc/braille_ja.h; test_braille_ja.py checks every braille.inc line"
+  "braille": "Japanese kana braille: tools/localization/braille_ja.py generates tools/preproc/braille_ja.h; test_braille_ja.py checks every braille.inc line",
+  "excel_needs_regeneration": true,
+  "excel_stale_reason": "The two LV labels retain the same visible meaning, but raw translation controls in types-61722.xlsx still contain the old JPN prefix; not regenerated in rendering fix143.",
+  "level_symbol_fix": {
+    "date": "2026-10-29",
+    "batch": "ui-level-symbol-fix-143",
+    "source_commit": "86018632",
+    "affected": [
+      "party menu",
+      "summary",
+      "daycare"
+    ],
+    "cause": "LV and small ya share0x34; incorrect JPN mode",
+    "fix": "ENG before LV; kana glyph mappings unchanged",
+    "rom_sha256": "eb014715c59ba437b39c22a15795fb1ce77c2302b069ea2bbf697c502a5319f0",
+    "rom_crc32": "abd9b150",
+    "verified": "preproc bytes, compiled ROM symbols, all83 tests, 2-byte-only diff against old61722 SHA256, BPS byte roundtrip",
+    "runtime": "not run; party/summary/daycare UI and saves unverified",
+    "patch_source": "Japanese61722 CRC660ae8bf; not English or retail Emerald"
+  }
 }
